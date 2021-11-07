@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/07
     
-51 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-07 00:06:06+00:00 | 1534764 | 1522 | Python | 521 | [] |
-| xvhHaloxx/Halo-Exploit | The Official download page for the Halo Exploit | https://github.com/xvhHaloxx/Halo-Exploit | ['exploit'] | 1 | 2021-11-07 05:01:00+00:00 | 0 | 0 | | 0 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-07 11:35:03+00:00 | 71933 | 10294 | Jupyter Notebook | 1770 | [] |
+| oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-07 10:53:12+00:00 | 176 | 15 | Ruby | 8 | ['CVE-2021-20837'] |
 | pmalmsten/tension-wrench | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | ['exploit'] | 1 | 2021-11-07 02:13:23+00:00 | 1193 | 0 | TypeScript | 0 | [] |
 | pwn4all/exploit | None | https://github.com/pwn4all/exploit | ['exploit'] | 1 | 2021-11-07 12:39:24+00:00 | 40 | 0 | | 0 | [] |
 | padsalatushal/CVE-2018-16763 | Fuel CMS 1.4.1 - Remote Code Execution | https://github.com/padsalatushal/CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-07 10:48:50+00:00 | 20 | 1 | Python | 0 | ['CVE-2018-16763'] |
@@ -17,8 +18,8 @@
 | shellcode-club/LiveTerm | Stream or share your Terminal on the web. Work for https://term.shellcode.sh. | https://github.com/shellcode-club/LiveTerm | ['shellcode'] | 1 | 2021-11-07 02:30:14+00:00 | 0 | 1 | | 0 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-07 03:25:43+00:00 | 0 | 0 | Shell | 0 | [] |
 | 1amTylersMind/HowToBE | Learning Binary Exploitation | https://github.com/1amTylersMind/HowToBE | ['exploit'] | 1 | 2021-11-07 03:22:17+00:00 | 0 | 0 | C | 0 | [] |
+| xvhHaloxx/Halo-Exploit | The Official download page for the Halo Exploit | https://github.com/xvhHaloxx/Halo-Exploit | ['exploit'] | 1 | 2021-11-07 05:01:00+00:00 | 0 | 0 | | 0 | [] |
 | Dalrae1/Powerline-Bot | A couple of exploit methods for Powerline.io. Video: https://youtu.be/x3VZVHg6lB4 | https://github.com/Dalrae1/Powerline-Bot | ['exploit'] | 1 | 2021-11-07 05:22:06+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| docfate111/CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-07 01:36:12+00:00 | 1664 | 0 | C | 0 | ['CVE-2021-42327'] |
 | padsalatushal/vsftpd_2.3.4_Exploit | Python exploit for CVE-2011-2523 (vsftpd 2.3.4) | https://github.com/padsalatushal/vsftpd_2.3.4_Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-07 09:34:25+00:00 | 5 | 0 | Python | 0 | ['CVE-2011-2523'] |
 | AyeletBronstein/C2_Client_Server_Emulator | C2 Client-Server Emulator, written in python, exploits using ETag as command 'cover' while client emulates Chrome browser, server emulates IIS. | https://github.com/AyeletBronstein/C2_Client_Server_Emulator | ['exploit'] | 1 | 2021-11-07 07:46:18+00:00 | 0 | 0 | Python | 0 | [] |
 | 118fz/Grabsite | All Tools Wp Install Laravel Scanner WordPress Exploit Da Pa Checker A | https://github.com/118fz/Grabsite | ['exploit'] | 1 | 2021-11-07 09:15:23+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -29,9 +30,9 @@
 | Fearless-sploit/Fearless-sploit | Config files for my GitHub profile. | https://github.com/Fearless-sploit/Fearless-sploit | ['sploit'] | 1 | 2021-11-07 12:25:11+00:00 | 0 | 0 | | 0 | [] |
 | Cu3t0m/discord_exploits | Discord Exploits I've gathered over the years, No longer maintained. | https://github.com/Cu3t0m/discord_exploits | ['exploit'] | 1 | 2021-11-07 12:26:22+00:00 | 0 | 0 | | 0 | [] |
 | VisualKitten1/exploits | None | https://github.com/VisualKitten1/exploits | ['exploit'] | 1 | 2021-11-07 13:18:09+00:00 | 0 | 0 | Lua | 0 | [] |
-| oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-07 10:53:12+00:00 | 176 | 15 | Ruby | 8 | ['CVE-2021-20837'] |
+| docfate111/CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-07 01:36:12+00:00 | 1664 | 0 | C | 0 | ['CVE-2021-42327'] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-07 09:48:08+00:00 | 11998 | 2 | Python | 0 | [] |
-| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-07 11:35:03+00:00 | 71933 | 10294 | Jupyter Notebook | 1770 | [] |
+| S-E-S-S-O/SS-SessoSploit | None | https://github.com/S-E-S-S-O/SS-SessoSploit | ['sploit'] | 1 | 2021-11-07 10:12:13+00:00 | 154 | 3 | Python | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-11-07 00:43:05+00:00 | 475 | 1 | Lua | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-07 00:16:52+00:00 | 177494 | 252 | Ruby | 78 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-07 07:15:23+00:00 | 35957 | 6009 | Vue | 1261 | [] |
@@ -44,7 +45,7 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-07 04:01:54+00:00 | 130700 | 225 | Python | 67 | [] |
 | c0del1ar/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | ['exploit'] | 1 | 2021-11-07 04:50:25+00:00 | 197 | 5 | Python | 4 | [] |
 | ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2021-11-07 11:59:30+00:00 | 629 | 2 | C | 0 | [] |
-| S-E-S-S-O/SS-SessoSploit | None | https://github.com/S-E-S-S-O/SS-SessoSploit | ['sploit'] | 1 | 2021-11-07 10:12:13+00:00 | 154 | 3 | Python | 0 | [] |
+| GeraBruhh/Msf-Tool | script en python para crear payloads, tambien abre metasploit para terminar | https://github.com/GeraBruhh/Msf-Tool | ['metasploit module OR payload'] | 1 | 2021-11-07 05:21:18+00:00 | 25 | 1 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-07 01:09:07+00:00 | 16458 | 2 | Python | 0 | [] |
 | aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-07 11:30:00+00:00 | 9335 | 14 | C++ | 3 | [] |
 | HauLiang/FFT-DFISTA-and-FFT-DADMM | High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map | https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM | ['exploit'] | 1 | 2021-11-07 02:35:10+00:00 | 13 | 0 | MATLAB | 0 | [] |
@@ -52,7 +53,7 @@
 | YTZirex/Zirexium-Exploit | None | https://github.com/YTZirex/Zirexium-Exploit | ['exploit'] | 1 | 2021-11-07 12:28:49+00:00 | 8 | 0 | | 0 | [] |
 | MS-9web/shellcodes | None | https://github.com/MS-9web/shellcodes | ['shellcode'] | 1 | 2021-11-07 07:10:34+00:00 | 86 | 1 | HTML | 1 | [] |
 | T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-11-07 05:53:07+00:00 | 56 | 6 | Python | 0 | [] |
+| ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-07 13:51:56+00:00 | 20 | 1 | PowerShell | 0 | [] |
 | gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-07 07:21:15+00:00 | 83748 | 0 | Roff | 0 | [] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-11-07 01:12:04+00:00 | 916 | 0 | CSS | 1 | [] |
-| GeraBruhh/Msf-Tool | script en python para crear payloads, tambien abre metasploit para terminar | https://github.com/GeraBruhh/Msf-Tool | ['metasploit module OR payload'] | 1 | 2021-11-07 05:21:18+00:00 | 25 | 1 | Python | 0 | [] |
 | CartySlackware/Exploit_Test | None | https://github.com/CartySlackware/Exploit_Test | ['exploit'] | 1 | 2021-11-07 13:13:15+00:00 | 0 | 0 | Python | 0 | [] |
