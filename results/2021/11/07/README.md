@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/07
     
-81 records found after deduplication
+82 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-07 19:08:58+00:00 | 649860 | 25533 | Ruby | 11718 | [] |
-| ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-07 13:51:56+00:00 | 20 | 1 | PowerShell | 0 | [] |
+| eblair2/webkitexploit-poc | a webkit exploit on ios 12 | https://github.com/eblair2/webkitexploit-poc | ['exploit'] | 1 | 2021-11-07 01:15:30+00:00 | 513 | 0 | C | 0 | [] |
 | gh0x0st/OSEP-Breaking-Chains | A collection of code snippets built to assist with breaking chains. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-11-07 16:32:16+00:00 | 21 | 3 | C# | 0 | [] |
 | xcihad/brutej | FTP/SSH Bruteforce attack automation with Metasploit | https://github.com/xcihad/brutej | ['metasploit module OR payload'] | 1 | 2021-11-07 13:33:50+00:00 | 20 | 0 | Shell | 0 | [] |
 | oSumAtrIX/dinkleberg | Find out who pretends to be offline on discord | https://github.com/oSumAtrIX/dinkleberg | ['exploit'] | 1 | 2021-11-07 15:15:28+00:00 | 507 | 6 | Rust | 0 | [] |
@@ -25,9 +25,10 @@
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-11-07 01:12:04+00:00 | 916 | 0 | CSS | 1 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-07 19:31:33+00:00 | 1528 | 0 | Rust | 0 | [] |
 | eblair2/ios0day-poc | an ios zero day exploit | https://github.com/eblair2/ios0day-poc | ['exploit'] | 1 | 2021-11-07 01:16:25+00:00 | 224 | 0 | Objective-C | 0 | [] |
-| eblair2/webkitexploit-poc | a webkit exploit on ios 12 | https://github.com/eblair2/webkitexploit-poc | ['exploit'] | 1 | 2021-11-07 01:15:30+00:00 | 513 | 0 | C | 0 | [] |
 | shellcode-club/LiveTerm | Stream or share your Terminal on the web. Work for https://term.shellcode.sh. | https://github.com/shellcode-club/LiveTerm | ['shellcode'] | 1 | 2021-11-07 02:30:14+00:00 | 0 | 1 | | 0 | [] |
-| TheForster/iForsterExploit | None | https://github.com/TheForster/iForsterExploit | ['exploit'] | 1 | 2021-11-07 11:06:43+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-07 00:06:06+00:00 | 1534764 | 1522 | Python | 521 | [] |
+| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-07 03:25:43+00:00 | 0 | 0 | Shell | 0 | [] |
+| SlizBinksman/THM_Bolt_Write_Up | A write up on the Bolt room from TryHackMe.com & re-writing of r3m0t3nu11's PoC exploit script | https://github.com/SlizBinksman/THM_Bolt_Write_Up | ['exploit'] | 1 | 2021-11-07 20:36:09+00:00 | 24 | 0 | Python | 0 | [] |
 | bevonlabs/HardwareLab | ARM Assembly, reverse engineering, exploit development and debugging | https://github.com/bevonlabs/HardwareLab | ['exploit'] | 1 | 2021-11-07 18:11:58+00:00 | 0 | 0 | | 0 | [] |
 | Kristal-g/CVE-2021-40449_poc | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-11-07 16:21:20+00:00 | 0 | 0 | C | 0 | ['CVE-2021-40449'] |
 | CartySlackware/Exploit_Test | None | https://github.com/CartySlackware/Exploit_Test | ['exploit'] | 1 | 2021-11-07 13:13:15+00:00 | 0 | 0 | Python | 0 | [] |
@@ -35,18 +36,18 @@
 | Cu3t0m/discord_exploits | Discord Exploits I've gathered over the years, No longer maintained. | https://github.com/Cu3t0m/discord_exploits | ['exploit'] | 1 | 2021-11-07 12:26:22+00:00 | 0 | 0 | | 0 | [] |
 | Fearless-sploit/Fearless-sploit | Config files for my GitHub profile. | https://github.com/Fearless-sploit/Fearless-sploit | ['sploit'] | 1 | 2021-11-07 12:25:11+00:00 | 0 | 0 | | 0 | [] |
 | exploitpy/binary-exploitation | None | https://github.com/exploitpy/binary-exploitation | ['exploit'] | 1 | 2021-11-07 11:08:24+00:00 | 0 | 0 | C | 0 | [] |
+| TheForster/iForsterExploit | None | https://github.com/TheForster/iForsterExploit | ['exploit'] | 1 | 2021-11-07 11:06:43+00:00 | 0 | 0 | | 0 | [] |
 | nick0ve/linux-shellcode-in-c | A template to write shellcodes in C on linux | https://github.com/nick0ve/linux-shellcode-in-c | ['shellcode'] | 1 | 2021-11-07 11:00:35+00:00 | 0 | 0 | C | 0 | [] |
-| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-07 03:25:43+00:00 | 0 | 0 | Shell | 0 | [] |
 | 118fz/MrCakilPackTools | Grabsite V1-V5, Wordpress Exploit ,Laravel Scanner, Da Pa Checker | https://github.com/118fz/MrCakilPackTools | ['exploit'] | 1 | 2021-11-07 09:59:06+00:00 | 0 | 1 | Shell | 0 | [] |
 | 118fz/Grabsite | All Tools Wp Install Laravel Scanner WordPress Exploit Da Pa Checker A | https://github.com/118fz/Grabsite | ['exploit'] | 1 | 2021-11-07 09:15:23+00:00 | 0 | 0 | Shell | 0 | [] |
 | AyeletBronstein/C2_Client_Server_Emulator | C2 Client-Server Emulator, written in python, exploits using ETag as command 'cover' while client emulates Chrome browser, server emulates IIS. | https://github.com/AyeletBronstein/C2_Client_Server_Emulator | ['exploit'] | 1 | 2021-11-07 07:46:18+00:00 | 0 | 0 | Python | 0 | [] |
-| padsalatushal/vsftpd_2.3.4_Exploit | Python exploit for the vsftpd 2.3.4 | https://github.com/padsalatushal/vsftpd_2.3.4_Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-07 06:24:43+00:00 | 0 | 0 | Python | 0 | [] |
+| padsalatushal/vsftpd_2.3.4_Exploit | Python exploit for CVE-2011-2523 (vsftpd 2.3.4) | https://github.com/padsalatushal/vsftpd_2.3.4_Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-07 09:34:25+00:00 | 5 | 0 | Python | 0 | ['CVE-2011-2523'] |
 | Dalrae1/Powerline-Bot | A couple of exploit methods for Powerline.io. Video: https://youtu.be/x3VZVHg6lB4 | https://github.com/Dalrae1/Powerline-Bot | ['exploit'] | 1 | 2021-11-07 05:22:06+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | xvhHaloxx/Halo-Exploit | The Official download page for the Halo Exploit | https://github.com/xvhHaloxx/Halo-Exploit | ['exploit'] | 1 | 2021-11-07 05:01:00+00:00 | 0 | 0 | | 0 | [] |
 | 1amTylersMind/HowToBE | Learning Binary Exploitation | https://github.com/1amTylersMind/HowToBE | ['exploit'] | 1 | 2021-11-07 03:22:17+00:00 | 0 | 0 | C | 0 | [] |
 | gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-07 07:21:15+00:00 | 83748 | 0 | Roff | 0 | [] |
+| ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-07 13:51:56+00:00 | 20 | 1 | PowerShell | 0 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2021-11-07 18:38:02+00:00 | 12 | 1 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-07 00:06:06+00:00 | 1534764 | 1522 | Python | 521 | [] |
 | Edgarloyola/RCE_checkMK_Dokuwiki | None | https://github.com/Edgarloyola/RCE_checkMK_Dokuwiki | ['rce'] | 1 | 2021-11-07 19:36:50+00:00 | 775 | 0 | | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-07 06:46:03+00:00 | 288873 | 716 | | 151 | [] |
 | hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-11-07 16:49:22+00:00 | 275 | 115 | | 47 | [] |
@@ -85,4 +86,4 @@
 | ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2021-11-07 11:59:30+00:00 | 629 | 2 | C | 0 | [] |
 | ashshelby/MORDOR | A python based RAT, that you can use to get a shell similar to metasploit. | https://github.com/ashshelby/MORDOR | ['metasploit module OR payload'] | 1 | 2021-11-07 16:40:49+00:00 | 9 | 0 | Python | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-11-07 00:43:05+00:00 | 475 | 1 | Lua | 0 | [] |
-| SlizBinksman/THM_Bolt_Write_Up | A write up on the Bolt room from TryHackMe.com & re-writing of r3m0t3nu11's PoC exploit script | https://github.com/SlizBinksman/THM_Bolt_Write_Up | ['exploit'] | 1 | 2021-11-07 20:36:09+00:00 | 24 | 0 | Python | 0 | [] |
+| Lua-Project/TotalWar_RCE | RCE on Total War 3K, via crafted mod script. | https://github.com/Lua-Project/TotalWar_RCE | ['rce'] | 1 | 2021-11-07 22:21:44+00:00 | 0 | 0 | Lua | 0 | [] |
