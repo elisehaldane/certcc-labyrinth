@@ -1,0 +1,13 @@
+
+# Summary for results/2021/11/08
+    
+6 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-08 00:34:21+00:00 | 21780 | 6120 | JavaScript | 1458 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-08 00:06:06+00:00 | 1534764 | 1522 | Python | 521 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-08 00:16:49+00:00 | 179024 | 252 | Ruby | 78 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-08 00:04:16+00:00 | 418781 | 35 | | 19 | [] |
+| Harry-P-Ness/blooket-hack- | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | ['exploit'] | 1 | 2021-11-08 00:06:26+00:00 | 49 | 0 | | 0 | [] |
+| 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-11-08 00:11:09+00:00 | 14499 | 4 | C++ | 4 | [] |
