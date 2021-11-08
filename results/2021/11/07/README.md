@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/07
     
-90 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -28,7 +28,7 @@
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-07 19:31:33+00:00 | 1528 | 0 | Rust | 0 | [] |
 | Calvindd2f/exploits | None | https://github.com/Calvindd2f/exploits | ['exploit'] | 1 | 2021-11-07 23:14:10+00:00 | 8 | 0 | Python | 0 | [] |
 | eblair2/webkitexploit-poc | a webkit exploit on ios 12 | https://github.com/eblair2/webkitexploit-poc | ['exploit'] | 1 | 2021-11-07 01:15:30+00:00 | 513 | 0 | C | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-07 23:32:12+00:00 | 21891 | 6120 | JavaScript | 1458 | [] |
+| ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-07 13:51:56+00:00 | 20 | 1 | PowerShell | 0 | [] |
 | shellcode-club/LiveTerm | Stream or share your Terminal on the web. Work for https://term.shellcode.sh. | https://github.com/shellcode-club/LiveTerm | ['shellcode'] | 1 | 2021-11-07 02:30:14+00:00 | 0 | 1 | | 0 | [] |
 | Lua-Project/TotalWar_RCE | RCE on Total War 3K, via crafted mod script. | https://github.com/Lua-Project/TotalWar_RCE | ['rce'] | 1 | 2021-11-07 22:21:44+00:00 | 0 | 0 | Lua | 0 | [] |
 | SlizBinksman/THM_Bolt_Write_Up | A write up on the Bolt room from TryHackMe.com & re-writing of r3m0t3nu11's PoC exploit script | https://github.com/SlizBinksman/THM_Bolt_Write_Up | ['exploit'] | 1 | 2021-11-07 20:36:09+00:00 | 24 | 0 | Python | 0 | [] |
@@ -50,10 +50,9 @@
 | 1amTylersMind/HowToBE | Learning Binary Exploitation | https://github.com/1amTylersMind/HowToBE | ['exploit'] | 1 | 2021-11-07 03:22:17+00:00 | 0 | 0 | C | 0 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-07 03:25:43+00:00 | 0 | 0 | Shell | 0 | [] |
 | gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-07 07:21:15+00:00 | 83748 | 0 | Roff | 0 | [] |
-| ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-07 13:51:56+00:00 | 20 | 1 | PowerShell | 0 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2021-11-07 18:38:02+00:00 | 12 | 1 | | 0 | [] |
-| Edgarloyola/RCE_checkMK_Dokuwiki | None | https://github.com/Edgarloyola/RCE_checkMK_Dokuwiki | ['rce'] | 1 | 2021-11-07 19:36:50+00:00 | 775 | 0 | | 0 | [] |
-| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-07 01:13:39+00:00 | 1991 | 0 | Lua | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-07 23:32:12+00:00 | 21891 | 6120 | JavaScript | 1458 | [] |
+| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-11-07 16:49:22+00:00 | 275 | 115 | | 47 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2021-11-07 17:30:24+00:00 | 91743 | 12 | Python | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-07 00:03:46+00:00 | 451223 | 35 | | 19 | [] |
 | Evil-coder66/HTA-Exploit-Builder | None | https://github.com/Evil-coder66/HTA-Exploit-Builder | ['exploit'] | 1 | 2021-11-07 23:25:28+00:00 | 47 | 5 | | 7 | [] |
@@ -68,14 +67,15 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-07 14:56:20+00:00 | 45331 | 25 | | 14 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-11-07 04:23:47+00:00 | 1448060 | 3708 | PowerShell | 1282 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-07 07:15:23+00:00 | 35957 | 6009 | Vue | 1261 | [] |
+| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2021-11-07 10:19:23+00:00 | 26643 | 2399 | Python | 432 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-07 00:16:52+00:00 | 177494 | 252 | Ruby | 78 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-07 11:35:03+00:00 | 71933 | 10294 | Jupyter Notebook | 1770 | [] |
 | federicodotta/Java-Deserialization-Scanner | All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities | https://github.com/federicodotta/Java-Deserialization-Scanner | ['exploit'] | 1 | 2021-11-07 18:30:53+00:00 | 27923 | 609 | Java | 162 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-07 00:06:06+00:00 | 1534764 | 1522 | Python | 521 | [] |
-| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-11-07 16:49:22+00:00 | 275 | 115 | | 47 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-07 01:13:39+00:00 | 1991 | 0 | Lua | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-07 06:46:03+00:00 | 288873 | 716 | | 151 | [] |
+| Edgarloyola/RCE_checkMK_Dokuwiki | None | https://github.com/Edgarloyola/RCE_checkMK_Dokuwiki | ['rce'] | 1 | 2021-11-07 19:36:50+00:00 | 775 | 0 | | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-11-07 16:57:20+00:00 | 113735 | 49 | | 5 | [] |
-| aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-07 11:30:00+00:00 | 9335 | 14 | C++ | 3 | [] |
 | Edgarloyola/RCE_checkMk_mkp_file | None | https://github.com/Edgarloyola/RCE_checkMk_mkp_file | ['rce'] | 1 | 2021-11-07 19:21:05+00:00 | 1 | 0 | | 0 | [] |
 | T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-11-07 05:53:07+00:00 | 56 | 6 | Python | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-11-07 19:48:25+00:00 | 297 | 0 | Python | 1 | [] |
@@ -84,8 +84,8 @@
 | YTZirex/Zirexium-Exploit | None | https://github.com/YTZirex/Zirexium-Exploit | ['exploit'] | 1 | 2021-11-07 12:28:49+00:00 | 8 | 0 | | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-07 04:56:42+00:00 | 521 | 0 | TypeScript | 0 | [] |
 | HauLiang/FFT-DFISTA-and-FFT-DADMM | High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map | https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM | ['exploit'] | 1 | 2021-11-07 02:35:10+00:00 | 13 | 0 | MATLAB | 0 | [] |
+| aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-07 11:30:00+00:00 | 9335 | 14 | C++ | 3 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-11-07 21:11:20+00:00 | 104 | 8 | Python | 2 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-07 04:01:54+00:00 | 130700 | 225 | Python | 67 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-07 17:40:22+00:00 | 315 | 27 | JavaScript | 10 | [] |
 | plouiserre/Processdeputesdata | Récupérer les données open data de nos députés et les traiter pour etre exploitable par des API | https://github.com/plouiserre/Processdeputesdata | ['exploit'] | 1 | 2021-11-07 17:28:38+00:00 | 8568 | 0 | Go | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-07 01:09:07+00:00 | 16458 | 2 | Python | 0 | [] |
@@ -94,4 +94,5 @@
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-11-07 00:43:05+00:00 | 475 | 1 | Lua | 0 | [] |
 | c0del1ar/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | ['exploit'] | 1 | 2021-11-07 04:50:25+00:00 | 197 | 5 | Python | 4 | [] |
 | NickSanzotta/scanman | ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE). | https://github.com/NickSanzotta/scanman | ['metasploit module OR payload'] | 1 | 2021-11-07 15:52:42+00:00 | 159 | 5 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-07 04:01:54+00:00 | 130700 | 225 | Python | 67 | [] |
 | maiquelcraash/Sploit-IPTV | None | https://github.com/maiquelcraash/Sploit-IPTV | ['sploit'] | 1 | 2021-11-07 23:32:51+00:00 | 0 | 0 | JavaScript | 0 | [] |
