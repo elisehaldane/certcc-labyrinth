@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/08
     
-57 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-08 05:21:04+00:00 | 649860 | 25533 | Ruby | 11721 | [] |
 | Kwansy98/ShellcodeBypassAntiVirus | None | https://github.com/Kwansy98/ShellcodeBypassAntiVirus | ['shellcode'] | 1 | 2021-11-08 03:03:12+00:00 | 18 | 0 | C | 0 | [] |
+| Athis-Offsec/Exploits-I-Developed | None | https://github.com/Athis-Offsec/Exploits-I-Developed | ['exploit'] | 1 | 2021-11-08 13:59:27+00:00 | 90 | 0 | Python | 0 | [] |
 | BeneficialCode/CVE-2021-1732 | None | https://github.com/BeneficialCode/CVE-2021-1732 | ['cve-2 OR cve_2'] | 1 | 2021-11-08 01:36:39+00:00 | 12 | 1 | C++ | 1 | ['CVE-2021-1732'] |
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-11-08 03:36:30+00:00 | 68069 | 0 | C# | 0 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2021-11-08 07:39:14+00:00 | 13 | 1 | | 0 | [] |
@@ -17,7 +18,8 @@
 | docfate111/CVE-2021-42327 | kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-08 03:44:47+00:00 | 1670 | 0 | C | 0 | ['CVE-2021-42327'] |
 | GANG123gg/exploit | None | https://github.com/GANG123gg/exploit | ['exploit'] | 1 | 2021-11-08 01:48:02+00:00 | 10 | 0 | Python | 0 | [] |
 | zkhalidul/GrabberWP-CVE-2017-5487 | None | https://github.com/zkhalidul/GrabberWP-CVE-2017-5487 | ['cve-2 OR cve_2'] | 1 | 2021-11-08 07:25:12+00:00 | 5 | 0 | Python | 0 | ['CVE-2017-5487'] |
-| 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | nan | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-08 02:21:53+00:00 | 0 | 0 | V | 0 | [] |
+| m0rv4i/SyscallsExample | Simple project using syscalls (via Syswhispers2) to execute MessageBox shellcode. | https://github.com/m0rv4i/SyscallsExample | ['shellcode'] | 1 | 2021-11-08 14:18:50+00:00 | 37 | 5 | Assembly | 0 | [] |
+| 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | None | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-08 02:21:53+00:00 | 0 | 0 | V | 0 | [] |
 | 118fz/Exploit-Laravel | Exploit->Laravel | https://github.com/118fz/Exploit-Laravel | ['exploit'] | 1 | 2021-11-08 01:06:52+00:00 | 0 | 0 | Python | 0 | [] |
 | Yang9999999/Shiro-exploit | 小白适用的，界面简洁的Shiro漏洞检测利用工具 | https://github.com/Yang9999999/Shiro-exploit | ['exploit'] | 1 | 2021-11-08 03:26:04+00:00 | 0 | 0 | Java | 0 | [] |
 | Mr-ExploitedSnake/Mr-ExploitedSnake | Config files for my GitHub profile. | https://github.com/Mr-ExploitedSnake/Mr-ExploitedSnake | ['exploit'] | 1 | 2021-11-08 03:50:41+00:00 | 0 | 0 | | 0 | [] |
@@ -33,9 +35,9 @@
 | ssweta1234/rcer | None | https://github.com/ssweta1234/rcer | ['rce'] | 1 | 2021-11-08 13:23:09+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | bartutku/CVE-2021-43361 | None | https://github.com/bartutku/CVE-2021-43361 | ['cve-2 OR cve_2'] | 1 | 2021-11-08 13:23:50+00:00 | 0 | 0 | | 0 | ['CVE-2021-43361'] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-08 09:17:03+00:00 | 525 | 0 | TypeScript | 0 | [] |
-| fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-11-08 05:00:40+00:00 | 70 | 1 | Go | 0 | [] |
+| Rajchowdhury420/Horizontall-HTB-Exploit | One Click root Exploit for the machine Horizontall [HackTheBox] | https://github.com/Rajchowdhury420/Horizontall-HTB-Exploit | ['exploit'] | 1 | 2021-11-08 14:29:16+00:00 | 303 | 0 | Python | 0 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-08 00:34:21+00:00 | 21780 | 6120 | JavaScript | 1458 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-08 01:06:53+00:00 | 17729 | 2 | Python | 0 | [] |
+| fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-11-08 05:00:40+00:00 | 70 | 1 | Go | 0 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-08 02:25:16+00:00 | 3777 | 2525 | PowerShell | 731 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-08 00:06:06+00:00 | 1534764 | 1522 | Python | 521 | [] |
 | dradis/dradis-metasploit | Metasploit Framework plugin for the Dradis Framework | https://github.com/dradis/dradis-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-08 07:33:03+00:00 | 60 | 5 | Ruby | 3 | [] |
@@ -61,4 +63,6 @@
 | theritwikkundu/Covicare | The main objective of this project is to help common people exploit the online services by means of an all-round COVID-19 care solution easily and effectively in this era of digital revolution. | https://github.com/theritwikkundu/Covicare | ['exploit'] | 1 | 2021-11-08 03:18:31+00:00 | 306 | 0 | Dart | 0 | [] |
 | ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2021-11-08 06:24:48+00:00 | 648 | 2 | C | 0 | [] |
 | DarkCoderSc/inno-shellcode-example | Run shellcode through InnoSetup code engine. | https://github.com/DarkCoderSc/inno-shellcode-example | ['shellcode'] | 1 | 2021-11-08 11:29:02+00:00 | 34 | 45 | Inno Setup | 5 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-08 01:06:53+00:00 | 17729 | 2 | Python | 0 | [] |
+| navin-hariharan/TeleRat | Tired of setting up Metasploit? Here is an alternative! No need to Port Forward | https://github.com/navin-hariharan/TeleRat | ['metasploit module OR payload'] | 1 | 2021-11-08 14:17:58+00:00 | 111062 | 1 | Python | 0 | [] |
 | goodtaeeun/AFLGOPT | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/AFLGOPT | ['exploit'] | 1 | 2021-11-08 13:35:07+00:00 | 0 | 0 | | 0 | [] |
