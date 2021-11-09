@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/08
     
-111 records found after deduplication
+112 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-08 05:21:04+00:00 | 649860 | 25533 | Ruby | 11721 | [] |
-| gh0x0st/OSEP-Breaking-Chains | A collection of code snippets built to assist with breaking chains. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-11-08 15:24:29+00:00 | 43 | 9 | PowerShell | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-08 00:34:21+00:00 | 21780 | 6120 | JavaScript | 1458 | [] |
 | Justin-Blacksher/Shellcode-ASM | I have been learning Shellcode and writing payloads. I have made my first one which grabs /etc/passwords file | https://github.com/Justin-Blacksher/Shellcode-ASM | ['shellcode'] | 1 | 2021-11-08 05:43:35+00:00 | 0 | 0 | Assembly | 0 | [] |
 | Hymerine/Fortnite-WaypointTP-Leak | Will leak the waypoint tp exploit here, because everyone has it and no one cares. Will leak it after school. | https://github.com/Hymerine/Fortnite-WaypointTP-Leak | ['exploit'] | 1 | 2021-11-08 05:41:46+00:00 | 0 | 0 | | 0 | [] |
 | Mr-ExploitedSnake/Mr-ExploitedSnake | Config files for my GitHub profile. | https://github.com/Mr-ExploitedSnake/Mr-ExploitedSnake | ['exploit'] | 1 | 2021-11-08 03:50:41+00:00 | 0 | 0 | | 0 | [] |
@@ -18,9 +18,10 @@
 | shellcode-club/LiveTerm | Stream or share your Terminal on the web. Work for https://term.shellcode.sh. | https://github.com/shellcode-club/LiveTerm | ['shellcode'] | 1 | 2021-11-08 22:46:04+00:00 | 0 | 2 | C | 0 | [] |
 | 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | None | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-08 02:21:53+00:00 | 0 | 0 | V | 0 | [] |
 | eblair2/ios0day-poc | an ios zero day exploit | https://github.com/eblair2/ios0day-poc | ['exploit'] | 1 | 2021-11-08 17:42:02+00:00 | 224 | 1 | Objective-C | 0 | [] |
+| gh0x0st/OSEP-Breaking-Chains | A collection of code snippets built to assist with breaking chains. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-11-08 15:24:29+00:00 | 43 | 9 | PowerShell | 0 | [] |
 | m0rv4i/SyscallsExample | Simple project using syscalls (via Syswhispers2) to execute MessageBox shellcode. | https://github.com/m0rv4i/SyscallsExample | ['shellcode'] | 1 | 2021-11-08 14:18:50+00:00 | 37 | 5 | Assembly | 0 | [] |
-| JMKCyberSec/Vulnerable_Wordpress_Exploitation | None | https://github.com/JMKCyberSec/Vulnerable_Wordpress_Exploitation | ['exploit'] | 1 | 2021-11-08 07:27:28+00:00 | 0 | 0 | | 0 | [] |
 | zkhalidul/GrabberWP-CVE-2017-5487 | None | https://github.com/zkhalidul/GrabberWP-CVE-2017-5487 | ['cve-2 OR cve_2'] | 1 | 2021-11-08 07:25:12+00:00 | 5 | 0 | Python | 0 | ['CVE-2017-5487'] |
+| nikolockenvitz/logjam | Exploiting Export Ciphers in TLS | https://github.com/nikolockenvitz/logjam | ['exploit'] | 1 | 2021-11-08 21:39:37+00:00 | 2045 | 0 | Python | 0 | [] |
 | GANG123gg/exploit | None | https://github.com/GANG123gg/exploit | ['exploit'] | 1 | 2021-11-08 01:48:02+00:00 | 10 | 0 | Python | 0 | [] |
 | Youheng-Lue/art-exploit | None | https://github.com/Youheng-Lue/art-exploit | ['exploit'] | 1 | 2021-11-08 22:25:34+00:00 | 31 | 0 | | 0 | [] |
 | docfate111/CVE-2021-42327 | kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-08 03:44:47+00:00 | 1670 | 0 | C | 0 | ['CVE-2021-42327'] |
@@ -32,8 +33,8 @@
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2021-11-08 07:39:14+00:00 | 13 | 1 | | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-11-08 18:12:56+00:00 | 643 | 1 | Python | 0 | [] |
 | joshmcorreia/Exploit-Code-Sites | A list of useful exploit code websites that I've found | https://github.com/joshmcorreia/Exploit-Code-Sites | ['exploit'] | 1 | 2021-11-08 06:14:17+00:00 | 0 | 0 | | 0 | [] |
+| JMKCyberSec/Vulnerable_Wordpress_Exploitation | None | https://github.com/JMKCyberSec/Vulnerable_Wordpress_Exploitation | ['exploit'] | 1 | 2021-11-08 07:27:28+00:00 | 0 | 0 | | 0 | [] |
 | ArthiDa/ExploitAirLineServices | None | https://github.com/ArthiDa/ExploitAirLineServices | ['exploit'] | 1 | 2021-11-08 07:44:36+00:00 | 0 | 0 | | 0 | [] |
-| cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-11-08 03:36:30+00:00 | 68069 | 0 | C# | 0 | [] |
 | gamozolabs/elfloader | An architecture-agnostic ELF file flattener for shellcode | https://github.com/gamozolabs/elfloader | ['shellcode'] | 1 | 2021-11-08 17:51:33+00:00 | 0 | 2 | Rust | 0 | [] |
 | MabelYT/ProjectElemental | Project Elemental Is An Educational Malware, Designed To Help Find Windows Exploits / Vulnerabilities And Get Them Disclosed Safely. | https://github.com/MabelYT/ProjectElemental | ['exploit'] | 1 | 2021-11-08 23:18:07+00:00 | 0 | 0 | | 0 | [] |
 | andreisss/Shellcode-Encryptor | None | https://github.com/andreisss/Shellcode-Encryptor | ['shellcode'] | 1 | 2021-11-08 22:32:55+00:00 | 0 | 0 | | 0 | [] |
@@ -60,8 +61,8 @@
 | Vulnmachines/HAProxy_CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | ['cve-2 OR cve_2'] | 1 | 2021-11-08 12:00:22+00:00 | 0 | 0 | | 0 | ['CVE-2021-40346'] |
 | Shiv-Kumar-Yadav9/Risk-Assessment | Risk Assessment project to find how likely is a particular vulnerability to be exploited from security perspective. | https://github.com/Shiv-Kumar-Yadav9/Risk-Assessment | ['exploit'] | 1 | 2021-11-08 12:04:27+00:00 | 563 | 0 | CSS | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-11-08 18:00:06+00:00 | 335 | 0 | Python | 1 | [] |
+| cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-11-08 03:36:30+00:00 | 68069 | 0 | C# | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-11-08 16:52:23+00:00 | 37 | 1 | Zeek | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-08 00:34:21+00:00 | 21780 | 6120 | JavaScript | 1458 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-08 06:45:21+00:00 | 45331 | 25 | | 14 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2021-11-08 23:35:38+00:00 | 5955 | 5 | Go | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-08 00:04:16+00:00 | 418781 | 35 | | 19 | [] |
