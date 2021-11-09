@@ -1,12 +1,14 @@
 
 # Summary for results/2021/11/09
     
-44 records found after deduplication
+48 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-09 05:21:52+00:00 | 650285 | 25544 | Ruby | 11719 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-09 05:26:02+00:00 | 21797 | 6124 | JavaScript | 1458 | [] |
+| Harry-P-Ness/blooket-hack- | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | ['exploit'] | 1 | 2021-11-09 00:43:55+00:00 | 51 | 0 | | 0 | [] |
+| tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-09 09:09:20+00:00 | 1830 | 0 | JavaScript | 0 | [] |
 | wevertonribeiroferreira/Red-vs-Blue-Project | I concluded this report with a imersive and very hand-on assesement where I was able to use the tactics and tools available as a Red team player giving me a better understading of how data exploitation happens and on the Blue side once the vulnerability h | https://github.com/wevertonribeiroferreira/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-11-09 03:04:09+00:00 | 2784 | 1 | | 0 | [] |
 | AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2021-11-09 03:59:33+00:00 | 351882 | 1 | Python | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-09 00:30:05+00:00 | 41 | 0 | | 0 | [] |
@@ -26,11 +28,12 @@
 | prince2014/nft-rarity-exploitation | None | https://github.com/prince2014/nft-rarity-exploitation | ['exploit'] | 1 | 2021-11-09 04:32:08+00:00 | 2 | 0 | Solidity | 0 | [] |
 | thebatmanfuture/apacheflink----POC | apache flink目录遍历(CVE-2020-17519) | https://github.com/thebatmanfuture/apacheflink----POC | ['cve poc'] | 1 | 2021-11-09 04:48:14+00:00 | 0 | 0 | | 0 | ['CVE-2020-17519'] |
 | ahmad4fifz/docker-cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-11-09 05:14:26+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
-| Harry-P-Ness/blooket-hack- | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | ['exploit'] | 1 | 2021-11-09 00:43:55+00:00 | 51 | 0 | | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-09 03:44:18+00:00 | 130 | 3 | JavaScript | 5 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-11-09 01:35:42+00:00 | 47 | 1 | Python | 0 | [] |
+| Wans1e/PY-NET | PY-NET is a cross-platform C&C server hosting program requiring zero third-party dependencies. Supporting both AES & TLS encrypted connections over TCP. | https://github.com/Wans1e/PY-NET | ['rce'] | 1 | 2021-11-09 00:11:59+00:00 | 101 | 3 | Python | 1 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-09 01:24:04+00:00 | 81 | 0 | PHP | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-09 05:08:04+00:00 | 286111 | 6594 | C | 1818 | [] |
+| Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-09 09:14:00+00:00 | 652759 | 9 | Python | 26 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-09 00:06:07+00:00 | 1534765 | 1523 | Python | 521 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-09 00:16:46+00:00 | 179025 | 252 | Ruby | 78 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-09 01:36:30+00:00 | 2761477 | 357 | JavaScript | 55 | [] |
@@ -39,13 +42,14 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-09 00:03:28+00:00 | 422824 | 35 | | 19 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-09 06:34:49+00:00 | 3398 | 0 | Lua | 0 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2021-11-09 08:32:12+00:00 | 157121 | 3 | | 0 | [] |
-| Wans1e/PY-NET | PY-NET is a cross-platform C&C server hosting program requiring zero third-party dependencies. Supporting both AES & TLS encrypted connections over TCP. | https://github.com/Wans1e/PY-NET | ['rce'] | 1 | 2021-11-09 00:11:59+00:00 | 101 | 3 | Python | 1 | [] |
+| a-rey/exploits | Vulnerability research for skill practice | https://github.com/a-rey/exploits | ['exploit'] | 1 | 2021-11-09 04:41:36+00:00 | 1547 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-09 04:01:51+00:00 | 38604 | 226 | Python | 69 | [] |
+| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-11-09 09:33:33+00:00 | 404 | 0 | HTML | 0 | [] |
 | Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2021-11-09 01:41:08+00:00 | 83738 | 91 | | 17 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-11-09 09:11:24+00:00 | 204651 | 0 | JavaScript | 0 | [] |
 | G00Dway/DebugSploit | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | ['exploit', 'sploit'] | 2 | 2021-11-09 08:27:48+00:00 | 295 | 1 | Python | 0 | [] |
 | ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2021-11-09 05:04:32+00:00 | 662 | 2 | C | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-09 01:06:21+00:00 | 18718 | 2 | Python | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-11-09 08:19:31+00:00 | 108697 | 8 | PowerShell | 6 | [] |
 | kn1pnc/etelg-ph | An exploit written for my old school's website :) | https://github.com/kn1pnc/etelg-ph | ['exploit'] | 1 | 2021-11-09 01:41:00+00:00 | 2 | 0 | Ruby | 0 | [] |
-| a-rey/exploits | Vulnerability research for skill practice | https://github.com/a-rey/exploits | ['exploit'] | 1 | 2021-11-09 04:41:36+00:00 | 1547 | 0 | Python | 0 | [] |
 | ctuIhu/CVE-2021-36808 | A local attacker could bypass the app password using a race condition in Sophos Secure Workspace for Android before version 9.7.3115. | https://github.com/ctuIhu/CVE-2021-36808 | ['cve-2 OR cve_2'] | 1 | 2021-11-09 07:54:48+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-36808'] |
