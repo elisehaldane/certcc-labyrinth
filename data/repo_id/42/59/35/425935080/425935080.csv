@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+425935080,Zeop-CyberSec/word_mshtml,word_mshtml_injector.md,52d0b7e435145505a0798c14454fc3a83d591bb6,CVE-2021-40444
+425935080,Zeop-CyberSec/word_mshtml,cve-2021-40444.docx,73fc0202ea176e9bb2800624c67b5aa2caa3b57a,CVE-2021-40444
+425935080,Zeop-CyberSec/word_mshtml,word_mshtml_injector.rb,78d5d79d5aa8251f55a596df1579d3bce140e90f,CVE-2021-40444
+425935080,Zeop-CyberSec/word_mshtml,word_mshtml_rce.rb,8906473e2ea377737d4da9352f815ce293510aad,CVE-2021-40444
+425935080,Zeop-CyberSec/word_mshtml,word_mshtml_rce.md,c1ffb2aac0feb6f20073e79078ab73d006c93dee,CVE-2021-40444
+425935080,Zeop-CyberSec/word_mshtml,_GITHUB_REPO_METADATA_,,CVE-2021-40444
