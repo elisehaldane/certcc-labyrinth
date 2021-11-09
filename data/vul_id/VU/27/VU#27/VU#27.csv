@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#27,0.50000000,https://github.com/DarkSprings/CVE-2021-43267-POC,DarkSprings/CVE-2021-43267-POC,426061438
+VU#27,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
 VU#27,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#27,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#27,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
