@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+426338911,faisalfs10x/GitLab-CVE-2021-22205-scanner,README.md,4ba49d1a5377316e1f5f7a758f1a652fba5a59f7,CVE-2021-22205
+426338911,faisalfs10x/GitLab-CVE-2021-22205-scanner,_GITHUB_REPO_METADATA_,,CVE-2021-22205
