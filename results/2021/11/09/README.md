@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/09
     
-62 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-09 05:21:52+00:00 | 650285 | 25544 | Ruby | 11719 | [] |
-| gamozolabs/elfloader | An architecture-agnostic ELF file flattener for shellcode | https://github.com/gamozolabs/elfloader | ['shellcode'] | 1 | 2021-11-09 07:36:44+00:00 | 18 | 43 | Rust | 1 | [] |
+| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-11-09 01:35:42+00:00 | 47 | 1 | Python | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-09 03:44:18+00:00 | 130 | 3 | JavaScript | 5 | [] |
 | Harry-P-Ness/blooket-hack- | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | ['exploit'] | 1 | 2021-11-09 00:43:55+00:00 | 51 | 0 | | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-09 09:09:20+00:00 | 1830 | 0 | JavaScript | 0 | [] |
@@ -20,8 +20,8 @@
 | zkhalidul/GrabberWP-CVE-2017-5487 | None | https://github.com/zkhalidul/GrabberWP-CVE-2017-5487 | ['cve-2 OR cve_2'] | 1 | 2021-11-09 02:20:15+00:00 | 8 | 0 | Python | 0 | ['CVE-2017-5487'] |
 | goodtaeeun/FuzzFrame | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | ['exploit'] | 1 | 2021-11-09 06:31:03+00:00 | 0 | 0 | Shell | 0 | [] |
 | Zeop-CyberSec/word_mshtml | Contains the offensive (exploit and auxiliary) modules for the CVE-2021-40444. | https://github.com/Zeop-CyberSec/word_mshtml | ['exploit'] | 1 | 2021-11-09 11:12:53+00:00 | 33 | 0 | Ruby | 0 | ['CVE-2021-40444'] |
+| gamozolabs/elfloader | An architecture-agnostic ELF file flattener for shellcode | https://github.com/gamozolabs/elfloader | ['shellcode'] | 1 | 2021-11-09 07:36:44+00:00 | 18 | 43 | Rust | 1 | [] |
 | hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2021-11-09 00:09:04+00:00 | 5160 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-09 05:26:02+00:00 | 21797 | 6124 | JavaScript | 1458 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-09 01:44:18+00:00 | 131 | 0 | Python | 0 | [] |
 | andreisss/Shellcode-Encryptor | None | https://github.com/andreisss/Shellcode-Encryptor | ['shellcode'] | 1 | 2021-11-09 08:19:10+00:00 | 152 | 0 | C# | 0 | [] |
 | XenSploit/XenSploit | None | https://github.com/XenSploit/XenSploit | ['sploit'] | 1 | 2021-11-09 00:49:21+00:00 | 0 | 0 | | 0 | [] |
@@ -35,9 +35,10 @@
 | ahmad4fifz/docker-cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-11-09 05:14:26+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
 | ctuIhu/CVE-2021-36808 | A local attacker could bypass the app password using a race condition in Sophos Secure Workspace for Android before version 9.7.3115. | https://github.com/ctuIhu/CVE-2021-36808 | ['cve-2 OR cve_2'] | 1 | 2021-11-09 07:54:48+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-36808'] |
 | rakanbakir/ps4-exploit-host-docker | None | https://github.com/rakanbakir/ps4-exploit-host-docker | ['exploit'] | 1 | 2021-11-09 11:51:42+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| andreisss/Process-Inject-shellcode | None | https://github.com/andreisss/Process-Inject-shellcode | ['shellcode'] | 1 | 2021-11-09 12:28:17+00:00 | 0 | 0 | C# | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-11-09 10:43:41+00:00 | 676 | 1 | Python | 0 | [] |
-| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-11-09 01:35:42+00:00 | 47 | 1 | Python | 0 | [] |
 | Wans1e/PY-NET | PY-NET is a cross-platform C&C server hosting program requiring zero third-party dependencies. Supporting both AES & TLS encrypted connections over TCP. | https://github.com/Wans1e/PY-NET | ['rce'] | 1 | 2021-11-09 00:11:59+00:00 | 101 | 3 | Python | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-09 05:26:02+00:00 | 21797 | 6124 | JavaScript | 1458 | [] |
 | Athis-Offsec/Exploits-I-Developed | None | https://github.com/Athis-Offsec/Exploits-I-Developed | ['exploit'] | 1 | 2021-11-09 12:55:16+00:00 | 91 | 0 | Python | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-09 05:08:04+00:00 | 286111 | 6594 | C | 1818 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-09 09:14:00+00:00 | 652759 | 9 | Python | 26 | [] |
@@ -61,9 +62,11 @@
 | Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2021-11-09 01:41:08+00:00 | 83738 | 91 | | 17 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-11-09 09:11:24+00:00 | 204651 | 0 | JavaScript | 0 | [] |
 | G00Dway/DebugSploit | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | ['exploit', 'sploit'] | 2 | 2021-11-09 08:27:48+00:00 | 295 | 1 | Python | 0 | [] |
+| ashshelby/MORDOR | A python based RAT, that you can use to get a shell similar to metasploit. | https://github.com/ashshelby/MORDOR | ['metasploit module OR payload'] | 1 | 2021-11-09 14:24:51+00:00 | 11 | 0 | HTML | 0 | [] |
 | ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2021-11-09 05:04:32+00:00 | 662 | 2 | C | 0 | [] |
+| fracergu/HIKSCript | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor. | https://github.com/fracergu/HIKSCript | ['exploit'] | 1 | 2021-11-09 13:47:25+00:00 | 5 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-09 01:06:21+00:00 | 18718 | 2 | Python | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-11-09 08:19:31+00:00 | 108697 | 8 | PowerShell | 6 | [] |
 | kn1pnc/etelg-ph | An exploit written for my old school's website :) | https://github.com/kn1pnc/etelg-ph | ['exploit'] | 1 | 2021-11-09 01:41:00+00:00 | 2 | 0 | Ruby | 0 | [] |
 | a-rey/exploits | Vulnerability research for skill practice | https://github.com/a-rey/exploits | ['exploit'] | 1 | 2021-11-09 04:41:36+00:00 | 1547 | 0 | Python | 0 | [] |
-| andreisss/Process-Inject-shellcode | None | https://github.com/andreisss/Process-Inject-shellcode | ['shellcode'] | 1 | 2021-11-09 12:28:17+00:00 | 0 | 0 | C# | 0 | [] |
+| Robinx0/exploits | None | https://github.com/Robinx0/exploits | ['exploit'] | 1 | 2021-11-09 13:59:37+00:00 | 0 | 0 | Python | 0 | [] |
