@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+426066790,IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit,Exploit,b1f2c26a95606ec1e599cc1f3229c0755ab96043,CVE-2021-41773
+426066790,IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit,Exploit,b1f2c26a95606ec1e599cc1f3229c0755ab96043,CVE-2021-42013
+426066790,IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit,_GITHUB_REPO_METADATA_,,CVE-2021-41773
