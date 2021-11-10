@@ -1,19 +1,19 @@
 
 # Summary for results/2021/11/10
     
-36 records found after deduplication
+40 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-10 06:36:26+00:00 | 652558 | 25549 | Ruby | 11720 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-10 03:44:16+00:00 | 21817 | 6130 | JavaScript | 1458 | [] |
-| chronoss09/sleirsgoevy755 | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | ['exploit'] | 1 | 2021-11-10 02:07:29+00:00 | 1142 | 0 | JavaScript | 0 | [] |
 | pwn4all/exploit | None | https://github.com/pwn4all/exploit | ['exploit'] | 1 | 2021-11-10 00:21:10+00:00 | 64 | 0 | | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-10 04:16:53+00:00 | 90 | 0 | | 0 | [] |
 | rbctee/Exploits | Some exploits I wrote | https://github.com/rbctee/Exploits | ['exploit'] | 1 | 2021-11-10 06:54:49+00:00 | 16 | 0 | Python | 0 | [] |
 | goodtaeeun/FuzzFrame | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | ['exploit'] | 1 | 2021-11-10 01:46:44+00:00 | 15 | 0 | Shell | 0 | [] |
 | hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2021-11-10 01:01:22+00:00 | 5161 | 1 | Python | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-10 02:38:46+00:00 | 137 | 0 | Python | 0 | [] |
+| rakanbakir/ps4-exploit-host-docker | None | https://github.com/rakanbakir/ps4-exploit-host-docker | ['exploit'] | 1 | 2021-11-10 10:33:08+00:00 | 3099 | 0 | JavaScript | 0 | [] |
 | tomsey0/bug-bounty-duo | A repo which will help a beginner to learn and exploit the vulnerabilities. | https://github.com/tomsey0/bug-bounty-duo | ['exploit'] | 1 | 2021-11-10 09:00:58+00:00 | 250 | 1 | | 0 | [] |
 | MateusNobreSilva/app_send_mail | PHPMailer PHPMailer – A full-featured email creation and transfer class for PHP Test status codecov.io Latest Stable Version Total Downloads License API Docs Features Probably the world's most popular code for sending email from PHP! Used by many open-sou | https://github.com/MateusNobreSilva/app_send_mail | ['command injection'] | 1 | 2021-11-10 01:21:15+00:00 | 0 | 0 | PHP | 0 | [] |
 | leobonny97/Capture-The-Flag---Nebula | Exploit sulla macchina virtuale Nebula | https://github.com/leobonny97/Capture-The-Flag---Nebula | ['exploit'] | 1 | 2021-11-10 03:25:24+00:00 | 704 | 0 | | 0 | [] |
@@ -22,22 +22,26 @@
 | ianwolf99/WolfturboShell | Powershell code for post exploitation reconnaissance.....Under Construction | https://github.com/ianwolf99/WolfturboShell | ['exploit'] | 1 | 2021-11-10 04:15:41+00:00 | 0 | 0 | PowerShell | 0 | [] |
 | SCXsunchenxi/RCE | None | https://github.com/SCXsunchenxi/RCE | ['rce'] | 1 | 2021-11-10 04:32:33+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | unicar9/Assignment-3-Final-Interactive-Media-Project | develop an individual creative approach to a design task that encapsulates the topics discussed in this course, while exploiting your new knowledge of interactive media. | https://github.com/unicar9/Assignment-3-Final-Interactive-Media-Project | ['exploit'] | 1 | 2021-11-10 06:52:49+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| l3lch33ts/LE-C | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | ['exploit'] | 1 | 2021-11-10 09:24:10+00:00 | 8469 | 0 | | 0 | [] |
+| exploit747/exploit747 | Config files for my GitHub profile. | https://github.com/exploit747/exploit747 | ['exploit'] | 1 | 2021-11-10 09:58:21+00:00 | 0 | 0 | | 0 | [] |
+| chronoss09/sleirsgoevy755 | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | ['exploit'] | 1 | 2021-11-10 02:07:29+00:00 | 1142 | 0 | JavaScript | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-10 04:07:42+00:00 | 179 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-10 05:04:27+00:00 | 1833 | 0 | JavaScript | 0 | [] |
-| HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-11-10 02:05:48+00:00 | 919 | 0 | CSS | 1 | [] |
-| moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-11-10 03:29:06+00:00 | 565 | 100 | Java | 20 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-10 00:04:05+00:00 | 427734 | 35 | | 19 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-10 00:16:50+00:00 | 179025 | 253 | Ruby | 78 | [] |
 | a13xp0p0v/linux-kernel-defence-map | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | ['exploit'] | 1 | 2021-11-10 08:47:46+00:00 | 9459 | 1305 | | 92 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-10 01:58:59+00:00 | 35123 | 6027 | Vue | 1267 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-10 00:45:22+00:00 | 45993 | 25 | | 14 | [] |
 | ianwolf99/EXPLOIT | The repository contains code snippets to aid in exploit development | https://github.com/ianwolf99/EXPLOIT | ['exploit'] | 1 | 2021-11-10 03:44:30+00:00 | 75908 | 2 | PowerShell | 2 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-11-10 04:39:17+00:00 | 462 | 9 | Python | 4 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-10 00:04:05+00:00 | 427734 | 35 | | 19 | [] |
-| nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-11-10 07:06:32+00:00 | 204 | 3 | Python | 0 | [] |
+| moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-11-10 03:29:06+00:00 | 565 | 100 | Java | 20 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-10 09:47:52+00:00 | 3861 | 0 | Lua | 0 | [] |
+| HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-11-10 02:05:48+00:00 | 919 | 0 | CSS | 1 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-10 01:26:13+00:00 | 82 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-10 04:01:50+00:00 | 39143 | 226 | Python | 69 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-10 01:06:28+00:00 | 20152 | 2 | Python | 0 | [] |
 | llkbkh/DriverRead-Windows | 采用ShellCode方式注入内核，驱动有，读写，注入，申请内存，绘制等基本功能，目前未被反作弊发现。 | https://github.com/llkbkh/DriverRead-Windows | ['shellcode'] | 1 | 2021-11-10 09:26:50+00:00 | 12373 | 4 | C++ | 1 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-10 01:11:11+00:00 | 3412 | 107 | JavaScript | 242 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-11-10 07:55:12+00:00 | 755 | 1 | Python | 0 | [] |
-| l3lch33ts/LE-C | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | ['exploit'] | 1 | 2021-11-10 09:24:10+00:00 | 8469 | 0 | | 0 | [] |
+| nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-11-10 07:06:32+00:00 | 204 | 3 | Python | 0 | [] |
+| YaayiiZeroday/YaayiiZeroday | Config files for my GitHub profile. | https://github.com/YaayiiZeroday/YaayiiZeroday | ['zeroday'] | 1 | 2021-11-10 10:09:59+00:00 | 0 | 0 | | 0 | [] |
