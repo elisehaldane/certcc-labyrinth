@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/11
     
-105 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-11 01:41:19+00:00 | 652578 | 25556 | Ruby | 11720 | [] |
-| fortbridge/Wordpress-plugins | exploiting LiteSpeed Cache + Contact Form 7 plugins | https://github.com/fortbridge/Wordpress-plugins | ['exploit'] | 1 | 2021-11-11 07:09:18+00:00 | 4 | 0 | Python | 0 | [] |
+| Calvindd2f/exploits | None | https://github.com/Calvindd2f/exploits | ['exploit'] | 1 | 2021-11-11 19:55:18+00:00 | 10 | 0 | Python | 0 | [] |
 | PndaBoi/Venom | Collection Of Discord Hacking Tools / Fun Stuff / Exploits That Is Completely Made Using Python. | https://github.com/PndaBoi/Venom | ['exploit'] | 1 | 2021-11-11 13:16:43+00:00 | 202 | 2 | Python | 0 | [] |
 | joshblack07/UR-Cyber-Security-Red_vs_Blue | University of Richmond Cybersecurity Capstone #2 | https://github.com/joshblack07/UR-Cyber-Security-Red_vs_Blue | ['metasploit module OR payload'] | 1 | 2021-11-11 19:24:08+00:00 | 90 | 0 | | 0 | [] |
 | Samferos/Exploit | - Game for Game Off Jam 2021 | https://github.com/Samferos/Exploit | ['exploit'] | 1 | 2021-11-11 10:24:17+00:00 | 7 | 0 | GDScript | 0 | [] |
@@ -18,13 +18,14 @@
 | hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2021-11-11 21:13:52+00:00 | 10965 | 1 | Python | 0 | [] |
 | gamozolabs/elfloader | An architecture-agnostic ELF file flattener for shellcode | https://github.com/gamozolabs/elfloader | ['shellcode'] | 1 | 2021-11-11 07:32:38+00:00 | 18 | 81 | Rust | 4 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-11 12:08:37+00:00 | 18453 | 0 | Shell | 0 | [] |
-| Calvindd2f/exploits | None | https://github.com/Calvindd2f/exploits | ['exploit'] | 1 | 2021-11-11 19:55:18+00:00 | 10 | 0 | Python | 0 | [] |
 | fuchslenny/exploits | None | https://github.com/fuchslenny/exploits | ['exploit'] | 1 | 2021-11-11 14:03:54+00:00 | 1 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-11 13:13:25+00:00 | 21817 | 6132 | JavaScript | 1459 | [] |
 | 0x0021h/0x00scan | 0x00scan is an automated vulnerability scanner | https://github.com/0x0021h/0x00scan | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-11 04:28:32+00:00 | 14 | 0 | | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-11 01:17:50+00:00 | 109 | 0 | | 0 | [] |
 | Xonarouss/XonarExploit | None | https://github.com/Xonarouss/XonarExploit | ['exploit'] | 1 | 2021-11-11 11:04:41+00:00 | 1 | 0 | | 0 | [] |
 | chronoss09/sleirsgoevy755 | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | ['exploit'] | 1 | 2021-11-11 00:06:08+00:00 | 1853 | 0 | JavaScript | 0 | [] |
 | EntySec/Pwny | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | ['exploit'] | 1 | 2021-11-11 21:15:10+00:00 | 439 | 1 | Objective-C | 0 | [] |
+| Youheng-Lue/art-exploit | None | https://github.com/Youheng-Lue/art-exploit | ['exploit'] | 1 | 2021-11-11 22:39:40+00:00 | 40 | 0 | Assembly | 0 | [] |
 | Imptovskii/ExploitFixer | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | ['exploit'] | 1 | 2021-11-11 07:13:00+00:00 | 30 | 2 | Java | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-11 15:38:35+00:00 | 181 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-11 17:03:11+00:00 | 24086 | 0 | HTML | 0 | [] |
@@ -33,7 +34,8 @@
 | unicar9/Assignment-3-Final-Interactive-Media-Project | develop an individual creative approach to a design task that encapsulates the topics discussed in this course, while exploiting your new knowledge of interactive media. | https://github.com/unicar9/Assignment-3-Final-Interactive-Media-Project | ['exploit'] | 1 | 2021-11-11 09:13:50+00:00 | 3261 | 0 | JavaScript | 0 | [] |
 | l3lch33ts/LE-C | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | ['exploit'] | 1 | 2021-11-11 01:36:59+00:00 | 8470 | 0 | C# | 0 | [] |
 | bigsizeme/JEECMS-INJECT | JEECMS FreeMarker-RCE | https://github.com/bigsizeme/JEECMS-INJECT | ['rce'] | 1 | 2021-11-11 01:58:34+00:00 | 68 | 0 | Python | 0 | [] |
-| RichardKabuto/CVE-2021-111199 | 1111111111111111111 | https://github.com/RichardKabuto/CVE-2021-111199 | ['cve-2 OR cve_2'] | 1 | 2021-11-11 06:24:04+00:00 | 0 | 0 | | 0 | ['CVE-2021-111199'] |
+| kn1pnc/etelg-ph | An exploit written for my old school's website :) | https://github.com/kn1pnc/etelg-ph | ['exploit'] | 1 | 2021-11-11 11:26:16+00:00 | 1 | 0 | Ruby | 0 | [] |
+| ericmann/apache-cve-poc | Dockerized Proof-of-Concept of CVE-2021-40438 in Apache 2.4.48. | https://github.com/ericmann/apache-cve-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-11 19:53:43+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-40438'] |
 | Mowen111/Super-resolved-altitude-augmentated-object-detection | The codes for the WACVW paper 'Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data for Real-World Aerial Animal Surveillance' | https://github.com/Mowen111/Super-resolved-altitude-augmentated-object-detection | ['exploit'] | 1 | 2021-11-11 19:34:47+00:00 | 0 | 0 | | 0 | [] |
 | Jaroke321/0xDiablos | Successful exploit script for the 0xDiablos challenge from HackTheBox | https://github.com/Jaroke321/0xDiablos | ['exploit'] | 1 | 2021-11-11 18:58:31+00:00 | 0 | 0 | Python | 0 | [] |
 | makedkaled/metasploit | اختراق الارقام و حسابات الفيس بوك | https://github.com/makedkaled/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-11 17:33:46+00:00 | 0 | 0 | | 0 | [] |
@@ -44,8 +46,8 @@
 | WhoIsDanix/Andronema | A Roblox UI Library you can use for your scripts, both roblox studio and exploits are supported. | https://github.com/WhoIsDanix/Andronema | ['exploit'] | 1 | 2021-11-11 12:36:21+00:00 | 0 | 1 | Lua | 0 | [] |
 | MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-11 08:57:27+00:00 | 0 | 0 | | 0 | [] |
 | johnoseni1/Router-hacker-Exploit-and-extract-user-and-password- | This is a python wifi (router) hacker , having ability to search for mikrotic devices around you and get their <MAC> address then extract their user and password | https://github.com/johnoseni1/Router-hacker-Exploit-and-extract-user-and-password- | ['exploit'] | 1 | 2021-11-11 07:44:15+00:00 | 0 | 0 | Python | 0 | [] |
+| RichardKabuto/CVE-2021-111199 | 1111111111111111111 | https://github.com/RichardKabuto/CVE-2021-111199 | ['cve-2 OR cve_2'] | 1 | 2021-11-11 06:24:04+00:00 | 0 | 0 | | 0 | ['CVE-2021-111199'] |
 | discnet2022/automatic-icd-coding-exploiting-discourse-structure-and-reconciled-code-embeddings | None | https://github.com/discnet2022/automatic-icd-coding-exploiting-discourse-structure-and-reconciled-code-embeddings | ['exploit'] | 1 | 2021-11-11 05:39:04+00:00 | 0 | 0 | | 0 | [] |
-| kn1pnc/etelg-ph | An exploit written for my old school's website :) | https://github.com/kn1pnc/etelg-ph | ['exploit'] | 1 | 2021-11-11 11:26:16+00:00 | 1 | 0 | Ruby | 0 | [] |
 | inspiringz/CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-11 04:34:08+00:00 | 0 | 0 | | 0 | ['CVE-2021-22205'] |
 | RichardKabuto/CVE-2021-65334 | 仅为测试 | https://github.com/RichardKabuto/CVE-2021-65334 | ['cve-2 OR cve_2'] | 1 | 2021-11-11 03:46:30+00:00 | 0 | 0 | | 0 | ['CVE-2021-65334'] |
 | M3t4sploit/M3t4sploit | Config files for my GitHub profile. | https://github.com/M3t4sploit/M3t4sploit | ['sploit'] | 1 | 2021-11-11 02:57:18+00:00 | 0 | 0 | | 0 | [] |
@@ -57,9 +59,9 @@
 | NotFoundHacker/Roblox-Exploits | None | https://github.com/NotFoundHacker/Roblox-Exploits | ['exploit'] | 1 | 2021-11-11 13:28:20+00:00 | 1 | 0 | Lua | 0 | [] |
 | r3t4k3r/shellcode_linux_x64 | execve("/bin/sh") шеллкод 28 байт | https://github.com/r3t4k3r/shellcode_linux_x64 | ['shellcode'] | 1 | 2021-11-11 05:48:12+00:00 | 3 | 0 | Assembly | 0 | [] |
 | whoismissing/full-chain-practice | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | ['exploit'] | 1 | 2021-11-11 14:00:26+00:00 | 9284 | 0 | HTML | 0 | [] |
+| fortbridge/Wordpress-plugins | exploiting LiteSpeed Cache + Contact Form 7 plugins | https://github.com/fortbridge/Wordpress-plugins | ['exploit'] | 1 | 2021-11-11 07:09:18+00:00 | 4 | 0 | Python | 0 | [] |
 | ly4k/CallbackHell | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | ['exploit'] | 1 | 2021-11-11 17:09:56+00:00 | 238 | 317 | C++ | 71 | ['CVE-2021-40449'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-11 13:13:25+00:00 | 21817 | 6132 | JavaScript | 1459 | [] |
-| gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-11 12:39:21+00:00 | 112026 | 0 | Roff | 0 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-11-11 16:30:30+00:00 | 5410 | 101 | Python | 37 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-11 00:04:12+00:00 | 435711 | 35 | | 19 | [] |
 | RETIREglitch/Pokemon-Research | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | ['exploit'] | 1 | 2021-11-11 12:20:01+00:00 | 24682 | 6 | Lua | 3 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-11-11 10:15:07+00:00 | 3573244 | 2 | Batchfile | 0 | [] |
@@ -84,9 +86,9 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-11 22:34:15+00:00 | 3794 | 2526 | PowerShell | 730 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-11 13:59:06+00:00 | 27085 | 8478 | Python | 1461 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-11 02:43:24+00:00 | 4096 | 0 | Lua | 0 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-11-11 16:30:30+00:00 | 5410 | 101 | Python | 37 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-11 03:58:16+00:00 | 82 | 0 | PHP | 0 | [] |
-| SploiterMan/SploiterMan | Config files for my GitHub profile. | https://github.com/SploiterMan/SploiterMan | ['sploit'] | 1 | 2021-11-11 21:50:20+00:00 | 0 | 0 | | 0 | [] |
+| gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-11 12:39:21+00:00 | 112026 | 0 | Roff | 0 | [] |
+| kal1gh0st/AutoBlue | This is some no-bs public exploit code that generates valid shellcode for the eternal blue exploit and scripts out the event listener with the metasploit multi-handler. | https://github.com/kal1gh0st/AutoBlue | ['exploit', 'metasploit module OR payload', 'shellcode'] | 3 | 2021-11-11 11:41:46+00:00 | 76 | 4 | Python | 2 | [] |
 | ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-11 15:18:23+00:00 | 21 | 1 | PowerShell | 1 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-11 07:54:06+00:00 | 131 | 4 | JavaScript | 5 | [] |
 | nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-11-11 01:45:35+00:00 | 255 | 3 | Python | 0 | [] |
@@ -97,9 +99,10 @@
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-11-11 06:09:14+00:00 | 343 | 0 | Python | 1 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-11 19:27:18+00:00 | 3434 | 112 | JavaScript | 255 | [] |
 | Athis-Offsec/Exploits-I-Developed | None | https://github.com/Athis-Offsec/Exploits-I-Developed | ['exploit'] | 1 | 2021-11-11 12:36:42+00:00 | 101 | 0 | Python | 0 | [] |
+| SploiterMan/SploiterMan | Config files for my GitHub profile. | https://github.com/SploiterMan/SploiterMan | ['sploit'] | 1 | 2021-11-11 21:50:20+00:00 | 0 | 0 | | 0 | [] |
 | Pen-Test3rs/binary_exploits_tasks_public | None | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | ['exploit'] | 1 | 2021-11-11 13:10:43+00:00 | 990 | 0 | C | 0 | [] |
-| kal1gh0st/AutoBlue | This is some no-bs public exploit code that generates valid shellcode for the eternal blue exploit and scripts out the event listener with the metasploit multi-handler. | https://github.com/kal1gh0st/AutoBlue | ['exploit', 'metasploit module OR payload', 'shellcode'] | 3 | 2021-11-11 11:41:46+00:00 | 76 | 4 | Python | 2 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-11 10:20:21+00:00 | 315 | 29 | JavaScript | 9 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-11-11 23:06:12+00:00 | 28752 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-11 01:07:29+00:00 | 21307 | 2 | Python | 0 | [] |
 | P-DennyGamingYT/PDennSploit | #1 Best Free Script Utility | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-11-11 19:56:33+00:00 | 12438 | 1 | | 0 | [] |
 | MishDotCom/MDC-WebSploit | Complete set of tools for web level pen testing. | https://github.com/MishDotCom/MDC-WebSploit | ['sploit'] | 1 | 2021-11-11 21:08:18+00:00 | 352 | 4 | C# | 0 | [] |
@@ -109,4 +112,4 @@
 | zekgt/Zyrix | Roblox Exploit | https://github.com/zekgt/Zyrix | ['exploit'] | 1 | 2021-11-11 06:47:51+00:00 | 10903 | 0 | Lua | 0 | [] |
 | Cyincore/ByteMap-Shellcode-Loader | Encodes and runs shellcode payloads. | https://github.com/Cyincore/ByteMap-Shellcode-Loader | ['shellcode'] | 1 | 2021-11-11 19:28:59+00:00 | 27 | 0 | Go | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-11 04:01:45+00:00 | 42342 | 227 | Python | 71 | [] |
-| ericmann/apache-cve-poc | Dockerized Proof-of-Concept of CVE-2021-40438 in Apache 2.4.48. | https://github.com/ericmann/apache-cve-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-11 19:53:43+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-40438'] |
+| Mowen111/SALT | Codes for WACVW paper 'Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance' | https://github.com/Mowen111/SALT | ['exploit'] | 1 | 2021-11-11 23:29:01+00:00 | 0 | 0 | | 0 | [] |
