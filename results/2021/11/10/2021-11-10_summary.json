@@ -133,6 +133,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -250,6 +251,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -384,6 +386,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -526,6 +529,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -668,6 +672,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "attack poc",
       "exploit"
@@ -830,6 +835,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -959,6 +965,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1076,6 +1083,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1207,6 +1215,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1324,6 +1333,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1447,6 +1457,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1589,6 +1600,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -1717,6 +1729,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1859,6 +1872,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1985,6 +1999,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2133,6 +2148,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "vulnerability poc"
     ],
@@ -2274,6 +2290,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -2404,6 +2421,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2540,6 +2558,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2657,6 +2676,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2818,6 +2838,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2938,6 +2959,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3075,6 +3097,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3192,6 +3215,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -3334,6 +3358,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -3451,6 +3476,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3587,6 +3613,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3722,6 +3749,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3839,6 +3867,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3965,6 +3994,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -4113,6 +4143,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4233,6 +4264,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "shellcode"
@@ -4351,6 +4383,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4493,6 +4526,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -4637,6 +4671,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -4756,6 +4791,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4879,6 +4915,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -4996,6 +5033,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "command injection"
     ],
@@ -5113,6 +5151,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5255,6 +5294,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -5378,6 +5418,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "0day"
     ],
@@ -5504,6 +5545,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5621,6 +5663,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5738,6 +5781,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5873,6 +5917,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -5999,6 +6044,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -6126,6 +6172,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -6268,6 +6315,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6385,6 +6433,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6508,6 +6557,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6625,6 +6675,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -6748,6 +6799,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6875,6 +6927,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6992,6 +7045,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7118,6 +7172,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -7238,6 +7293,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7355,6 +7411,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7472,6 +7529,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7595,6 +7653,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7718,6 +7777,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7841,6 +7901,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7958,6 +8019,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8081,6 +8143,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -8198,6 +8261,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8328,6 +8392,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8445,6 +8510,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8568,6 +8634,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8666,7 +8733,7 @@
     "temp_clone_token":"",
     "network_count":8,
     "subscribers_count":1,
-    "matched_at":"2021-11-10T04:38:34Z",
+    "matched_at":"2021-11-10T04:38:29Z",
     "owner_login":"oxctdev",
     "owner_id":91846073,
     "owner_node_id":"U_kgDOBXl1uQ",
@@ -8686,6 +8753,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "rce"
@@ -8804,6 +8872,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8921,6 +8990,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9038,6 +9108,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9155,6 +9226,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9272,6 +9344,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -9398,6 +9471,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9515,6 +9589,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9632,6 +9707,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9749,6 +9825,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9870,6 +9947,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -9987,6 +10065,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10104,6 +10183,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10246,6 +10326,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit"
@@ -10364,6 +10445,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10481,6 +10563,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -10598,6 +10681,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10728,6 +10812,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -10845,6 +10930,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "command injection"
     ],
@@ -10962,6 +11048,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11085,6 +11172,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11227,6 +11315,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11350,6 +11439,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11467,6 +11557,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11584,6 +11675,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11705,6 +11797,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11823,6 +11916,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11941,6 +12035,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -12058,6 +12153,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12181,6 +12277,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12298,6 +12395,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -12415,6 +12513,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12532,6 +12631,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12668,6 +12768,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -12785,6 +12886,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -12902,6 +13004,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13019,6 +13122,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13136,6 +13240,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13253,6 +13358,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13370,6 +13476,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "vulnerability poc"
     ],
@@ -13488,6 +13595,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -13624,6 +13732,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13741,6 +13850,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13858,6 +13968,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13981,6 +14092,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -14098,6 +14210,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14215,6 +14328,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14332,6 +14446,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14449,6 +14564,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14566,6 +14682,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -14683,6 +14800,125 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":426812099,
+    "node_id":"R_kgDOGXCiww",
+    "name":"crim-exploit",
+    "full_name":"waterloggd\/crim-exploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/waterloggd\/crim-exploit",
+    "description":"waterloggd hub",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/waterloggd\/crim-exploit\/deployments",
+    "created_at":"2021-11-10T23:42:33Z",
+    "updated_at":"2021-11-10T23:42:33Z",
+    "pushed_at":"2021-11-10T23:42:34Z",
+    "git_url":"git:\/\/github.com\/waterloggd\/crim-exploit.git",
+    "ssh_url":"git@github.com:waterloggd\/crim-exploit.git",
+    "clone_url":"https:\/\/github.com\/waterloggd\/crim-exploit.git",
+    "svn_url":"https:\/\/github.com\/waterloggd\/crim-exploit",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-11-11T00:44:44Z",
+    "owner_login":"waterloggd",
+    "owner_id":92599456,
+    "owner_node_id":"U_kgDOBYT0oA",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/92599456?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/waterloggd",
+    "owner_html_url":"https:\/\/github.com\/waterloggd",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/waterloggd\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/waterloggd\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/waterloggd\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/waterloggd\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/waterloggd\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/waterloggd\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/waterloggd\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/waterloggd\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/waterloggd\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
