@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+427493471,IcmpOff/CODESYS-Denial-Of-Service-Exploit,README.md,f07d7ab26342df5b4433f69f617e0ef0e85a09fd,CVE-2021-34593
