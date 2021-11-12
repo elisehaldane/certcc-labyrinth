@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/11
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|---------------------|
@@ -19,7 +19,7 @@
 | gamozolabs/elfloader | An architecture-agnostic ELF file flattener for shellcode | https://github.com/gamozolabs/elfloader | ['shellcode'] | 1 | 2021-11-11 07:32:38+00:00 | 18 | 81 | Rust | 4 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-11 12:08:37+00:00 | 18453 | 0 | Shell | 0 | [] |
 | fuchslenny/exploits | None | https://github.com/fuchslenny/exploits | ['exploit'] | 1 | 2021-11-11 14:03:54+00:00 | 1 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-11 13:13:25+00:00 | 21817 | 6132 | JavaScript | 1459 | [] |
+| fortbridge/Wordpress-plugins | exploiting LiteSpeed Cache + Contact Form 7 plugins | https://github.com/fortbridge/Wordpress-plugins | ['exploit'] | 1 | 2021-11-11 07:09:18+00:00 | 4 | 0 | Python | 0 | [] |
 | 0x0021h/0x00scan | 0x00scan is an automated vulnerability scanner | https://github.com/0x0021h/0x00scan | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-11 04:28:32+00:00 | 14 | 0 | | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-11 01:17:50+00:00 | 109 | 0 | | 0 | [] |
 | Xonarouss/XonarExploit | None | https://github.com/Xonarouss/XonarExploit | ['exploit'] | 1 | 2021-11-11 11:04:41+00:00 | 1 | 0 | | 0 | [] |
@@ -59,11 +59,12 @@
 | NotFoundHacker/Roblox-Exploits | None | https://github.com/NotFoundHacker/Roblox-Exploits | ['exploit'] | 1 | 2021-11-11 13:28:20+00:00 | 1 | 0 | Lua | 0 | [] |
 | r3t4k3r/shellcode_linux_x64 | execve("/bin/sh") шеллкод 28 байт | https://github.com/r3t4k3r/shellcode_linux_x64 | ['shellcode'] | 1 | 2021-11-11 05:48:12+00:00 | 3 | 0 | Assembly | 0 | [] |
 | whoismissing/full-chain-practice | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | ['exploit'] | 1 | 2021-11-11 14:00:26+00:00 | 9284 | 0 | HTML | 0 | [] |
-| fortbridge/Wordpress-plugins | exploiting LiteSpeed Cache + Contact Form 7 plugins | https://github.com/fortbridge/Wordpress-plugins | ['exploit'] | 1 | 2021-11-11 07:09:18+00:00 | 4 | 0 | Python | 0 | [] |
 | ly4k/CallbackHell | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | ['exploit'] | 1 | 2021-11-11 17:09:56+00:00 | 238 | 317 | C++ | 71 | ['CVE-2021-40449'] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-11-11 16:30:30+00:00 | 5410 | 101 | Python | 37 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-11 13:13:25+00:00 | 21817 | 6132 | JavaScript | 1459 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-11 00:55:38+00:00 | 542 | 111 | Julia | 23 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-11 00:04:12+00:00 | 435711 | 35 | | 19 | [] |
 | RETIREglitch/Pokemon-Research | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | ['exploit'] | 1 | 2021-11-11 12:20:01+00:00 | 24682 | 6 | Lua | 3 | [] |
+| Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-11-11 15:26:52+00:00 | 36650 | 425 | C++ | 63 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-11-11 10:15:07+00:00 | 3573244 | 2 | Batchfile | 0 | [] |
 | CloudDefenseAI/cd | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | ['exploit'] | 1 | 2021-11-11 21:20:27+00:00 | 12650434 | 15 | | 1 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-11 00:45:23+00:00 | 46444 | 25 | | 14 | [] |
@@ -72,8 +73,8 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-11 03:08:59+00:00 | 35151 | 6039 | Vue | 1269 | [] |
 | jassics/awesome-aws-security | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | ['exploit'] | 1 | 2021-11-11 17:26:34+00:00 | 129 | 166 | | 57 | [] |
 | k8gege/k8gege.github.io | K8博客 | https://github.com/k8gege/k8gege.github.io | ['exploit'] | 1 | 2021-11-11 17:01:08+00:00 | 280449 | 20 | HTML | 7 | [] |
-| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-11 00:55:38+00:00 | 542 | 111 | Julia | 23 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-11-11 11:22:30+00:00 | 76383 | 2578 | Python | 393 | [] |
+| gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-11 12:39:21+00:00 | 112026 | 0 | Roff | 0 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-11 03:08:38+00:00 | 0 | 1 | | 0 | [] |
 | parrotgeek1/TI-z80 | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | ['exploit'] | 1 | 2021-11-11 21:59:46+00:00 | 10522 | 4 | Assembly | 3 | [] |
 | hooj0/shell-examples | :tada: Linux common command line script example | https://github.com/hooj0/shell-examples | ['shellcode'] | 1 | 2021-11-11 07:21:25+00:00 | 568 | 2 | Shell | 0 | [] |
@@ -86,8 +87,8 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-11 22:34:15+00:00 | 3794 | 2526 | PowerShell | 730 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-11 13:59:06+00:00 | 27085 | 8478 | Python | 1461 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-11 02:43:24+00:00 | 4096 | 0 | Lua | 0 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-11-11 16:30:30+00:00 | 5410 | 101 | Python | 37 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-11 03:58:16+00:00 | 82 | 0 | PHP | 0 | [] |
-| gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-11 12:39:21+00:00 | 112026 | 0 | Roff | 0 | [] |
 | kal1gh0st/AutoBlue | This is some no-bs public exploit code that generates valid shellcode for the eternal blue exploit and scripts out the event listener with the metasploit multi-handler. | https://github.com/kal1gh0st/AutoBlue | ['exploit', 'metasploit module OR payload', 'shellcode'] | 3 | 2021-11-11 11:41:46+00:00 | 76 | 4 | Python | 2 | [] |
 | ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-11 15:18:23+00:00 | 21 | 1 | PowerShell | 1 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-11 07:54:06+00:00 | 131 | 4 | JavaScript | 5 | [] |
