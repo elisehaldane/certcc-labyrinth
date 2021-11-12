@@ -1,26 +1,27 @@
 
 # Summary for results/2021/11/12
     
-60 records found after deduplication
+63 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-12 00:56:52+00:00 | 651706 | 25559 | Ruby | 11722 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-12 05:08:05+00:00 | 288173 | 6604 | C | 1822 | [] |
+| MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-12 11:58:46+00:00 | 537 | 0 | Lua | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-12 02:24:16+00:00 | 3465 | 114 | JavaScript | 259 | [] |
 | shellreaper/CVE-2021-41773 | This is a simple POC for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2021-11-12 00:03:34+00:00 | 5 | 4 | Python | 2 | ['CVE-2021-41773'] |
 | Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-12 11:26:11+00:00 | 1 | 0 | | 0 | [] |
 | gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-12 05:06:14+00:00 | 112043 | 0 | Roff | 0 | [] |
 | DoktorCranium/macos-arm64-shellcode | MacOS ARM64 shellcode | https://github.com/DoktorCranium/macos-arm64-shellcode | ['shellcode'] | 1 | 2021-11-12 09:15:32+00:00 | 6 | 0 | Shell | 1 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-12 07:56:44+00:00 | 1835 | 0 | JavaScript | 0 | [] |
+| laluka/jolokia-exploitation-toolkit | jolokia-exploitation-toolkit | https://github.com/laluka/jolokia-exploitation-toolkit | ['exploit'] | 1 | 2021-11-12 14:07:25+00:00 | 42 | 99 | Python | 9 | [] |
 | pwn4all/exploit | None | https://github.com/pwn4all/exploit | ['exploit'] | 1 | 2021-11-12 08:32:40+00:00 | 67 | 0 | | 0 | [] |
 | sinjeanmin/cvedetails_2020_final | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | ['cve-2 OR cve_2'] | 1 | 2021-11-12 11:41:32+00:00 | 18903 | 0 | Jupyter Notebook | 0 | [] |
 | faisalfs10x/GitLab-CVE-2021-22205-scanner | None | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | ['cve-2 OR cve_2'] | 1 | 2021-11-12 07:40:09+00:00 | 28 | 1 | Python | 0 | ['CVE-2021-22205'] |
 | joshblack07/UR-Cyber-Security-Red_vs_Blue | Assessment, Analysis, and Hardening of a vulnerable system. This report includes a Red Team Security Assessment, a Blue Team Log Analysis, and Hardening and Mitigation Strategies. | https://github.com/joshblack07/UR-Cyber-Security-Red_vs_Blue | ['metasploit module OR payload'] | 1 | 2021-11-12 00:39:37+00:00 | 24671 | 0 | | 0 | [] |
 | bigsizeme/JEECMS-INJECT | JEECMS FreeMarker-RCE | https://github.com/bigsizeme/JEECMS-INJECT | ['rce'] | 1 | 2021-11-12 07:17:41+00:00 | 69 | 1 | Python | 0 | [] |
 | inspiringz/CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-12 07:53:29+00:00 | 1789 | 52 | Python | 0 | ['CVE-2021-22205'] |
-| MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-12 11:58:46+00:00 | 537 | 0 | Lua | 0 | [] |
 | DarkSprings/CVE-2021-38666-poc | None | https://github.com/DarkSprings/CVE-2021-38666-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-12 02:32:59+00:00 | 0 | 0 | | 0 | ['CVE-2021-38666'] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-12 00:20:00+00:00 | 320 | 29 | JavaScript | 10 | [] |
 | simulatorwinner/scripts | Roblox exploit scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-12 04:20:43+00:00 | 0 | 0 | | 0 | [] |
 | personal-naveenkumar/application-vulnerability-exploits | Capture the flag challenges for exploiting application vulnerabilities | https://github.com/personal-naveenkumar/application-vulnerability-exploits | ['exploit'] | 1 | 2021-11-12 05:12:25+00:00 | 0 | 0 | C | 0 | [] |
 | Slowftw/poc | edited ~or not~ proof of concept exploits | https://github.com/Slowftw/poc | ['exploit'] | 1 | 2021-11-12 05:23:15+00:00 | 0 | 0 | Python | 0 | [] |
@@ -35,8 +36,8 @@
 | CppXL/cve-2021-40449-poc | None | https://github.com/CppXL/cve-2021-40449-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-12 11:53:00+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-40449'] |
 | Mahmoud7Osman/CVenom | CVenom is a C++ Library For Malware Development And Exploit Development, Network Attacks And raw Packet Builder For Penetration Testing | https://github.com/Mahmoud7Osman/CVenom | ['exploit'] | 1 | 2021-11-12 11:53:29+00:00 | 0 | 0 | C++ | 0 | [] |
 | Athis-Offsec/Exploits-I-Developed | None | https://github.com/Athis-Offsec/Exploits-I-Developed | ['exploit'] | 1 | 2021-11-12 12:16:23+00:00 | 104 | 0 | Python | 0 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-12 00:20:00+00:00 | 320 | 29 | JavaScript | 10 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-11-12 01:08:14+00:00 | 28767 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-12 05:08:05+00:00 | 288173 | 6604 | C | 1822 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-12 09:44:55+00:00 | 64687 | 1278 | Python | 261 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-12 00:06:11+00:00 | 1534765 | 1524 | Python | 522 | [] |
 | secfigo/Awesome-Fuzzing | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | ['exploit'] | 1 | 2021-11-12 11:00:38+00:00 | 400 | 3815 | | 735 | [] |
@@ -45,6 +46,7 @@
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-12 01:36:33+00:00 | 2763565 | 357 | JavaScript | 55 | [] |
 | gushmazuko/metasploit_in_termux | Install Metasploit Framework 6 in Termux | https://github.com/gushmazuko/metasploit_in_termux | ['metasploit module OR payload'] | 1 | 2021-11-12 10:33:06+00:00 | 16651 | 495 | Shell | 138 | [] |
 | Ch0pin/AVIator | Antivirus evasion project | https://github.com/Ch0pin/AVIator | ['shellcode'] | 1 | 2021-11-12 02:42:09+00:00 | 2634 | 610 | C# | 174 | [] |
+| bloom-ux/cve-2018-12895-hotfix | Hotfix for file deletion to to code execution vulnerability in WordPress | https://github.com/bloom-ux/cve-2018-12895-hotfix | ['cve-2 OR cve_2'] | 1 | 2021-11-12 13:38:48+00:00 | 2 | 0 | PHP | 0 | ['CVE-2018-12895'] |
 | ReneNyffenegger/temp-hacking-reverse_engineering-debugging-assembler | temp shellcode | https://github.com/ReneNyffenegger/temp-hacking-reverse_engineering-debugging-assembler | ['shellcode'] | 1 | 2021-11-12 10:08:21+00:00 | 181 | 1 | C | 0 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-12 00:56:01+00:00 | 552 | 111 | Julia | 23 | [] |
 | TH3VeNoM/vsftpd-2.3.4-exploit-python | Exploit and hack 6200 :) | https://github.com/TH3VeNoM/vsftpd-2.3.4-exploit-python | ['exploit'] | 1 | 2021-11-12 06:50:51+00:00 | 1 | 1 | Python | 1 | [] |
@@ -59,6 +61,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-12 00:03:59+00:00 | 437034 | 35 | | 19 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-12 12:02:57+00:00 | 288909 | 722 | | 151 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-12 01:30:36+00:00 | 83 | 0 | PHP | 0 | [] |
+| Bronwen-hunter/Global-Bat-Exploitation-Study | None | https://github.com/Bronwen-hunter/Global-Bat-Exploitation-Study | ['exploit'] | 1 | 2021-11-12 14:26:15+00:00 | 87 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-12 04:01:48+00:00 | 44480 | 227 | Python | 71 | [] |
 | LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | InfluxDB CVE-2019-20933 vulnerability exploit | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-12 13:02:41+00:00 | 8 | 12 | Python | 7 | ['CVE-2019-20933'] |
 | hltfbk/E3C-Corpus | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of t | https://github.com/hltfbk/E3C-Corpus | ['exploit'] | 1 | 2021-11-12 08:54:59+00:00 | 196821 | 0 | | 1 | [] |
