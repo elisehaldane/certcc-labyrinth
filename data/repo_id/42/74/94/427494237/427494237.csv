@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+427494237,IcmpOff/Microsoft-OMI-Management-Interface-Authentication-Bypass-Exploit,Metasploit Module,d381f967878ffd1633ff73296bf34f3b6c1257c3,CVE-2021-38647
