@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+427747011,armadill00/-FusionPBX-4.5.29---Remote-Code-Execution-RCE-Authenticated-,README.md,2881956a761e4fbff8d3595f58a06c23b46f266e,CVE-2021-43405
+427747011,armadill00/-FusionPBX-4.5.29---Remote-Code-Execution-RCE-Authenticated-,exploit.py,aa2ca2f3fc5cba08676fe691b94b0358696102ec,CVE-2021-43405
