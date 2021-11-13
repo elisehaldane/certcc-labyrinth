@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+427545541,0x0021h/expbox,cve-2021-41349-poc.py,a3e4391ab4897812208da333c187e689358e1c4d,CVE-2021-41349
+427545541,0x0021h/expbox,README.md,db912e1e4cd04e9857343b688a2317f33ef92fba,CVE-2021-41349
