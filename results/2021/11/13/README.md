@@ -1,0 +1,12 @@
+
+# Summary for results/2021/11/13
+    
+5 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-13 00:06:10+00:00 | 1534765 | 1525 | Python | 523 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-13 00:16:44+00:00 | 182086 | 254 | Ruby | 78 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-13 00:03:32+00:00 | 441163 | 35 | | 19 | [] |
+| laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | As the Red Team, attack a vulnerable VM within the environment, ultimately gaining root access to the machine. As Blue Team, use Kibana to review logs taken during Day 1 engagement of Red Team’s attack.. Use the logs to extract hard data and visualizations | https://github.com/laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | ['metasploit module OR payload'] | 1 | 2021-11-13 00:31:47+00:00 | 12801 | 0 | | 0 | [] |
+| distributed-ledger-technology/vofarm-centralized-variant-as-template | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-centralized-variant-as-template | ['exploit'] | 1 | 2021-11-13 00:38:57+00:00 | 17 | 0 | TypeScript | 0 | [] |
