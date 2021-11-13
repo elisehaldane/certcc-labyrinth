@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/12
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | ronin-rb/ronin | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | ['exploit'] | 1 | 2021-11-12 20:31:08+00:00 | 7992 | 257 | Ruby | 27 | [] |
-| hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2021-11-12 20:50:57+00:00 | 13526 | 2 | Python | 0 | [] |
+| QV-ZL/IMPERIAL-X-Arsenal | Arsenal Exploit Hub | https://github.com/QV-ZL/IMPERIAL-X-Arsenal | ['exploit'] | 1 | 2021-11-12 20:28:00+00:00 | 0 | 0 | | 0 | [] |
+| personal-naveenkumar/application-vulnerability-exploits | Capture the flag challenges for exploiting application vulnerabilities | https://github.com/personal-naveenkumar/application-vulnerability-exploits | ['exploit'] | 1 | 2021-11-12 05:12:25+00:00 | 0 | 0 | C | 0 | [] |
 | simulatorwinner/scripts | Roblox exploit scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-12 04:20:43+00:00 | 0 | 0 | | 0 | [] |
 | DarkSprings/CVE-2021-38666-poc | None | https://github.com/DarkSprings/CVE-2021-38666-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-12 02:32:59+00:00 | 0 | 0 | | 0 | ['CVE-2021-38666'] |
 | WhoIsDanix/Andronema | A Roblox UI Library you can use for your scripts, both roblox studio and exploits are supported. | https://github.com/WhoIsDanix/Andronema | ['exploit'] | 1 | 2021-11-12 20:26:45+00:00 | 14 | 3 | Lua | 1 | [] |
@@ -17,9 +18,9 @@
 | joshblack07/UR-Cyber-Security-Red_vs_Blue | Assessment, Analysis, and Hardening of a vulnerable system. This report includes a Red Team Security Assessment, a Blue Team Log Analysis, and Hardening and Mitigation Strategies. | https://github.com/joshblack07/UR-Cyber-Security-Red_vs_Blue | ['metasploit module OR payload'] | 1 | 2021-11-12 00:39:37+00:00 | 24671 | 0 | | 0 | [] |
 | Samferos/Exploit | - Game for Game Off Jam 2021 | https://github.com/Samferos/Exploit | ['exploit'] | 1 | 2021-11-12 20:15:35+00:00 | 15 | 0 | GDScript | 0 | [] |
 | faisalfs10x/GitLab-CVE-2021-22205-scanner | None | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | ['cve-2 OR cve_2'] | 1 | 2021-11-12 07:40:09+00:00 | 28 | 1 | Python | 0 | ['CVE-2021-22205'] |
-| QV-ZL/IMPERIAL-X-Arsenal | Arsenal Exploit Hub | https://github.com/QV-ZL/IMPERIAL-X-Arsenal | ['exploit'] | 1 | 2021-11-12 20:28:00+00:00 | 0 | 0 | | 0 | [] |
+| hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2021-11-12 20:50:57+00:00 | 13526 | 2 | Python | 0 | [] |
+| shellreaper/CVE-2021-41773 | This is a simple POC for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2021-11-12 00:03:34+00:00 | 5 | 4 | Python | 2 | ['CVE-2021-41773'] |
 | m0rv4i/SyscallsExample | Simple project using syscalls (via Syswhispers2) to execute MessageBox shellcode. | https://github.com/m0rv4i/SyscallsExample | ['shellcode'] | 1 | 2021-11-12 20:08:41+00:00 | 40 | 11 | Assembly | 1 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-12 00:56:52+00:00 | 651706 | 25559 | Ruby | 11722 | [] |
 | sinjeanmin/cvedetails_2020_final | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | ['cve-2 OR cve_2'] | 1 | 2021-11-12 11:41:32+00:00 | 18903 | 0 | Jupyter Notebook | 0 | [] |
 | pwn4all/exploit | None | https://github.com/pwn4all/exploit | ['exploit'] | 1 | 2021-11-12 08:32:40+00:00 | 67 | 0 | | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-12 17:16:04+00:00 | 181 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
@@ -30,11 +31,10 @@
 | raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-12 14:52:49+00:00 | 24223 | 0 | HTML | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-12 18:28:25+00:00 | 10115 | 0 | Rust | 0 | [] |
 | gxthbxy/Exploits | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | ['exploit'] | 1 | 2021-11-12 05:06:14+00:00 | 112043 | 0 | Roff | 0 | [] |
-| Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-12 11:26:11+00:00 | 1 | 0 | | 0 | [] |
-| personal-naveenkumar/application-vulnerability-exploits | Capture the flag challenges for exploiting application vulnerabilities | https://github.com/personal-naveenkumar/application-vulnerability-exploits | ['exploit'] | 1 | 2021-11-12 05:12:25+00:00 | 0 | 0 | C | 0 | [] |
 | Slowftw/poc | edited ~or not~ proof of concept exploits | https://github.com/Slowftw/poc | ['exploit'] | 1 | 2021-11-12 05:23:15+00:00 | 0 | 0 | Python | 0 | [] |
 | GigaHacer/TempleExploiter | Originally created by King Terry Davis. It's a Windows batch script meant to... I don't know exactly. | https://github.com/GigaHacer/TempleExploiter | ['exploit'] | 1 | 2021-11-12 06:15:05+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | rogxo/ShellcodeLoader | None | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2021-11-12 07:03:47+00:00 | 0 | 0 | C++ | 0 | [] |
+| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-12 06:56:05+00:00 | 0 | 0 | Lua | 0 | [] |
 | darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-12 23:07:13+00:00 | 0 | 0 | C | 0 | [] |
 | Melv1no/Minecraft_Server_Tools | this repository contains lot of tools for exploiting / grief a minecraft server for educational purposes only ! | https://github.com/Melv1no/Minecraft_Server_Tools | ['exploit'] | 1 | 2021-11-12 22:10:03+00:00 | 0 | 0 | | 0 | [] |
 | IcmpOff/Microsoft-OMI-Management-Interface-Authentication-Bypass-Exploit | None | https://github.com/IcmpOff/Microsoft-OMI-Management-Interface-Authentication-Bypass-Exploit | ['exploit'] | 1 | 2021-11-12 20:57:39+00:00 | 0 | 0 | | 0 | [] |
@@ -43,6 +43,7 @@
 | 0bfxgh0st/medusa | RCE Upload Tab Bypass | https://github.com/0bfxgh0st/medusa | ['rce'] | 1 | 2021-11-12 17:34:28+00:00 | 0 | 0 | Shell | 0 | [] |
 | distributed-ledger-technology/vofarm-centralized-variant-as-template | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-centralized-variant-as-template | ['exploit'] | 1 | 2021-11-12 17:28:51+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | 0daying/0daying.github.io | nan | https://github.com/0daying/0daying.github.io | ['0day'] | 1 | 2021-11-12 17:12:14+00:00 | 0 | 0 | nan | 0 | [] |
+| rezasarvani/JiraVulChecker | Using this tool you can simply check common vulnerabilities on your target Jira server | https://github.com/rezasarvani/JiraVulChecker | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-12 17:15:11+00:00 | 5 | 0 | Python | 0 | [] |
 | laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | As the Red Team, attack a vulnerable VM within the environment, ultimately gaining root access to the machine. As Blue Team, use Kibana to review logs taken during Day 1 engagement of Red Team’s attack.. Use the logs to extract hard data and visualizations | https://github.com/laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | ['metasploit module OR payload'] | 1 | 2021-11-12 20:14:16+00:00 | 5 | 0 | | 0 | [] |
 | EtienneWarneck/m8-post-exploitation | None | https://github.com/EtienneWarneck/m8-post-exploitation | ['exploit'] | 1 | 2021-11-12 16:38:47+00:00 | 0 | 0 | Python | 0 | [] |
 | HuzaifaPatel/Java-Random-Exploit | Find out the seed. You must know two sequences of random numbers of the seed that you are looking for | https://github.com/HuzaifaPatel/Java-Random-Exploit | ['exploit'] | 1 | 2021-11-12 16:09:30+00:00 | 0 | 0 | Java | 0 | [] |
@@ -57,11 +58,11 @@
 | FuckingToaster/MoneyMakingExploit | Wanted to earn lot of money by doming nothing and leaning back? Well i work in this sexy script that thow money at you <3 | https://github.com/FuckingToaster/MoneyMakingExploit | ['exploit'] | 1 | 2021-11-12 09:31:56+00:00 | 0 | 0 | | 0 | [] |
 | praveenscience/rcew-praveen-livestream | As a part of Praveen's Live Stream, we're doing something cool. | https://github.com/praveenscience/rcew-praveen-livestream | ['rce'] | 1 | 2021-11-12 08:09:16+00:00 | 0 | 1 | HTML | 1 | [] |
 | MariamAlrashidi/Exploitation- | None | https://github.com/MariamAlrashidi/Exploitation- | ['exploit'] | 1 | 2021-11-12 08:01:13+00:00 | 14 | 0 | | 0 | [] |
-| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-12 06:56:05+00:00 | 0 | 0 | Lua | 0 | [] |
-| shellreaper/CVE-2021-41773 | This is a simple POC for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2021-11-12 00:03:34+00:00 | 5 | 4 | Python | 2 | ['CVE-2021-41773'] |
+| Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-12 11:26:11+00:00 | 1 | 0 | | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-11-12 18:02:53+00:00 | 1937 | 0 | Python | 1 | [] |
-| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-11-12 21:31:20+00:00 | 607 | 0 | Python | 0 | [] |
-| houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-11-12 03:14:18+00:00 | 256 | 160 | | 21 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-12 00:56:52+00:00 | 651706 | 25559 | Ruby | 11722 | [] |
+| bloom-ux/cve-2018-12895-hotfix | Hotfix for file deletion to to code execution vulnerability in WordPress | https://github.com/bloom-ux/cve-2018-12895-hotfix | ['cve-2 OR cve_2'] | 1 | 2021-11-12 13:38:48+00:00 | 2 | 0 | PHP | 0 | ['CVE-2018-12895'] |
+| Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-11-12 20:22:35+00:00 | 2013 | 19 | PHP | 8 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-11-12 07:01:32+00:00 | 610 | 496 | Java | 48 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-12 06:45:24+00:00 | 46772 | 25 | | 14 | [] |
 | cesarsotovalero/zip-slip-exploit-example | None | https://github.com/cesarsotovalero/zip-slip-exploit-example | ['exploit'] | 1 | 2021-11-12 01:13:29+00:00 | 17 | 1 | Java | 4 | [] |
@@ -72,8 +73,8 @@
 | TH3VeNoM/vsftpd-2.3.4-exploit-python | Exploit and hack 6200 :) | https://github.com/TH3VeNoM/vsftpd-2.3.4-exploit-python | ['exploit'] | 1 | 2021-11-12 06:50:51+00:00 | 1 | 1 | Python | 1 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-12 00:56:01+00:00 | 552 | 111 | Julia | 23 | [] |
 | ReneNyffenegger/temp-hacking-reverse_engineering-debugging-assembler | temp shellcode | https://github.com/ReneNyffenegger/temp-hacking-reverse_engineering-debugging-assembler | ['shellcode'] | 1 | 2021-11-12 10:08:21+00:00 | 181 | 1 | C | 0 | [] |
-| bloom-ux/cve-2018-12895-hotfix | Hotfix for file deletion to to code execution vulnerability in WordPress | https://github.com/bloom-ux/cve-2018-12895-hotfix | ['cve-2 OR cve_2'] | 1 | 2021-11-12 13:38:48+00:00 | 2 | 0 | PHP | 0 | ['CVE-2018-12895'] |
 | Ch0pin/AVIator | Antivirus evasion project | https://github.com/Ch0pin/AVIator | ['shellcode'] | 1 | 2021-11-12 02:42:09+00:00 | 2634 | 610 | C# | 174 | [] |
+| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-11-12 21:31:20+00:00 | 607 | 0 | Python | 0 | [] |
 | w4fz5uck5/3XPL01t5 | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | ['exploit'] | 1 | 2021-11-12 20:31:11+00:00 | 2024 | 21 | Python | 14 | [] |
 | gushmazuko/metasploit_in_termux | Install Metasploit Framework 6 in Termux | https://github.com/gushmazuko/metasploit_in_termux | ['metasploit module OR payload'] | 1 | 2021-11-12 10:33:06+00:00 | 16651 | 495 | Shell | 138 | [] |
 | neurosutras/optimize_cells | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | ['exploit'] | 1 | 2021-11-12 17:47:42+00:00 | 8142 | 1 | Python | 1 | [] |
@@ -85,10 +86,11 @@
 | secfigo/Awesome-Fuzzing | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | ['exploit'] | 1 | 2021-11-12 11:00:38+00:00 | 400 | 3815 | | 735 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-12 00:06:11+00:00 | 1534765 | 1524 | Python | 522 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-12 05:08:05+00:00 | 288173 | 6604 | C | 1822 | [] |
-| Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-11-12 20:22:35+00:00 | 2013 | 19 | PHP | 8 | [] |
+| houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-11-12 03:14:18+00:00 | 256 | 160 | | 21 | [] |
 | DeuxEx/LogAnalyzer | LogAnalyzer (for Entropia Universe logfile) (MMO RCE) | https://github.com/DeuxEx/LogAnalyzer | ['rce'] | 1 | 2021-11-12 15:10:44+00:00 | 1784 | 2 | | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-12 02:24:16+00:00 | 3465 | 114 | JavaScript | 259 | [] |
 | danieljs777/fastoverflowtk | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | ['exploit'] | 1 | 2021-11-12 11:55:46+00:00 | 432 | 13 | Python | 5 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-11-12 21:19:32+00:00 | 144 | 0 | Python | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-12 02:24:16+00:00 | 3465 | 114 | JavaScript | 259 | [] |
 | Athis-Offsec/Exploits-I-Developed | None | https://github.com/Athis-Offsec/Exploits-I-Developed | ['exploit'] | 1 | 2021-11-12 12:16:23+00:00 | 104 | 0 | Python | 0 | [] |
 | Albert0147/SFDA_neighbors | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/SFDA_neighbors | ['exploit'] | 1 | 2021-11-12 17:17:28+00:00 | 117 | 16 | Python | 0 | [] |
 | sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2021-11-12 19:43:54+00:00 | 2257 | 85 | Python | 12 | [] |
@@ -111,5 +113,4 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-12 01:30:36+00:00 | 83 | 0 | PHP | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-12 12:02:57+00:00 | 288909 | 722 | | 151 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-12 00:03:59+00:00 | 437034 | 35 | | 19 | [] |
-| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-11-12 21:19:32+00:00 | 144 | 0 | Python | 0 | [] |
 | N5l/Lunar-X | Testing game exploits! | https://github.com/N5l/Lunar-X | ['exploit'] | 1 | 2021-11-12 23:42:32+00:00 | 11 | 0 | Lua | 0 | [] |
