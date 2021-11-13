@@ -1,10 +1,10 @@
 
 # Summary for results/2021/11/13
     
-29 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-13 09:56:19+00:00 | 651739 | 25570 | Ruby | 11726 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-13 10:04:37+00:00 | 10118 | 0 | Rust | 0 | [] |
 | XayaPhoenix/Discord-Exploits | None | https://github.com/XayaPhoenix/Discord-Exploits | ['exploit'] | 1 | 2021-11-13 10:31:33+00:00 | 0 | 0 | Python | 0 | [] |
@@ -19,12 +19,16 @@
 | MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-13 07:01:57+00:00 | 892 | 0 | Lua | 0 | [] |
 | PasinduBandaraa/Android-Device-Exploitation | Demonstration of an Exploitation of an Android device using payload injected APK | https://github.com/PasinduBandaraa/Android-Device-Exploitation | ['exploit'] | 1 | 2021-11-13 08:37:25+00:00 | 869 | 2 | | 1 | [] |
 | padsalatushal/CVE-2018-16763 | Fuel CMS 1.4.1 - Remote Code Execution | https://github.com/padsalatushal/CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-13 09:03:30+00:00 | 21 | 1 | Python | 0 | ['CVE-2018-16763'] |
+| EntySec/Pwny | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | ['exploit'] | 1 | 2021-11-13 10:55:00+00:00 | 442 | 2 | Objective-C | 0 | [] |
+| PeterMxx/Ps4-9.00-Webkit-Exploit- | Webkit Exploit for ps4 9.00 by Sleirsgoevy | https://github.com/PeterMxx/Ps4-9.00-Webkit-Exploit- | ['exploit'] | 1 | 2021-11-13 11:11:18+00:00 | 17 | 0 | HTML | 0 | [] |
 | Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-13 03:33:29+00:00 | 5 | 1 | | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-13 05:08:09+00:00 | 289849 | 6610 | C | 1821 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-13 11:12:55+00:00 | 3470 | 117 | JavaScript | 270 | [] |
 | Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-13 10:16:01+00:00 | 38 | 66 | Python | 5 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-13 01:05:24+00:00 | 24000 | 2 | Python | 0 | [] |
 | nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2021-11-13 04:07:48+00:00 | 5000 | 421 | | 30 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-13 02:03:28+00:00 | 114 | 0 | | 0 | [] |
+| hltfbk/E3C-Corpus | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of t | https://github.com/hltfbk/E3C-Corpus | ['exploit'] | 1 | 2021-11-13 10:52:55+00:00 | 196827 | 0 | | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-13 04:01:46+00:00 | 47150 | 228 | Python | 71 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-13 07:49:20+00:00 | 288945 | 722 | | 151 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-13 00:03:32+00:00 | 441163 | 35 | | 19 | [] |
