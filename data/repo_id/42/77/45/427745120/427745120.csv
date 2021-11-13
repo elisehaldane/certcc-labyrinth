@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+427745120,gb21oc/ExploitWebmin,README.md,7d5229303291cda145a164e708292bf5fd247bc9,CVE-2006-3392
+427745120,gb21oc/ExploitWebmin,_GITHUB_REPO_METADATA_,,CVE-2006-3392
