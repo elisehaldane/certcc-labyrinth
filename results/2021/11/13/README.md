@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/13
     
-11 records found after deduplication
+12 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -12,6 +12,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-13 00:03:32+00:00 | 441163 | 35 | | 19 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-13 02:03:28+00:00 | 114 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-13 01:05:24+00:00 | 24000 | 2 | Python | 0 | [] |
+| Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-13 03:33:29+00:00 | 5 | 1 | | 0 | [] |
 | laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | As the Red Team, attack a vulnerable VM within the environment, ultimately gaining root access to the machine. As Blue Team, use Kibana to review logs taken during Day 1 engagement of Red Team’s attack.. Use the logs to extract hard data and visualizations | https://github.com/laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | ['metasploit module OR payload'] | 1 | 2021-11-13 00:31:47+00:00 | 12801 | 0 | | 0 | [] |
 | distributed-ledger-technology/vofarm-centralized-variant-as-template | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-centralized-variant-as-template | ['exploit'] | 1 | 2021-11-13 00:38:57+00:00 | 17 | 0 | TypeScript | 0 | [] |
 | zehadkhan/Seeker_Ngrok | Exploit | https://github.com/zehadkhan/Seeker_Ngrok | ['exploit'] | 1 | 2021-11-13 00:56:02+00:00 | 28406 | 0 | CSS | 0 | [] |
