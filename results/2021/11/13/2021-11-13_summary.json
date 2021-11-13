@@ -133,6 +133,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/rapid7\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -256,6 +257,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/offensive-security\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -416,6 +418,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/pwndbg\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -539,6 +542,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/offensive-security\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -681,6 +685,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hugsy\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -842,6 +847,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/The-Art-of-Hacking\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -964,6 +970,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bcoles\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "0day",
       "metasploit module OR payload"
@@ -1094,6 +1101,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hahwul\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1211,6 +1219,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/EXtremeExploit\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1328,6 +1337,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/grantdadams\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -1469,6 +1479,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Deadpool2000\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1610,6 +1621,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Mr-xn\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -1764,6 +1776,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/2lstudios-mc\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1896,6 +1909,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/cn-panda\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -2032,6 +2046,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nomi-sec\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2149,6 +2164,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/shelld3v\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "0day",
       "exploit"
@@ -2292,6 +2308,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/cpesr\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2415,6 +2432,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bsalha1\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2532,6 +2550,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/httpstarcio\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2658,6 +2677,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/basedfir\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2767,7 +2787,7 @@
     "organization":null,
     "network_count":2,
     "subscribers_count":2,
-    "matched_at":"2021-11-13T16:40:12Z",
+    "matched_at":"2021-11-13T16:40:27Z",
     "owner_login":"noraj",
     "owner_id":16578570,
     "owner_node_id":"MDQ6VXNlcjE2NTc4NTcw",
@@ -2786,6 +2806,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/noraj\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "rce",
@@ -2931,6 +2952,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/edoardottt\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3079,6 +3101,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Patrowl\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3215,6 +3238,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Anonymous-ghost\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -3356,7 +3380,7 @@
     },
     "network_count":37,
     "subscribers_count":8,
-    "matched_at":"2021-11-13T20:34:17Z",
+    "matched_at":"2021-11-13T20:34:29Z",
     "owner_login":"EntySec",
     "owner_id":72795305,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjcyNzk1MzA1",
@@ -3375,6 +3399,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/EntySec\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -3518,6 +3543,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Pen-Test3rs\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3641,6 +3667,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ycdxsb\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -3758,6 +3785,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Captain-1337\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3894,6 +3922,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hltfbk\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4025,8 +4054,127 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/NickSanzotta\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":374772594,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzNzQ3NzI1OTQ=",
+    "name":"Vortex",
+    "full_name":"Midnightv\/Vortex",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Midnightv\/Vortex",
+    "description":"A Roblox script exploit.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex",
+    "forks_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Midnightv\/Vortex\/deployments",
+    "created_at":"2021-06-07T19:03:49Z",
+    "updated_at":"2021-11-13T22:55:23Z",
+    "pushed_at":"2021-11-13T22:55:21Z",
+    "git_url":"git:\/\/github.com\/Midnightv\/Vortex.git",
+    "ssh_url":"git@github.com:Midnightv\/Vortex.git",
+    "clone_url":"https:\/\/github.com\/Midnightv\/Vortex.git",
+    "svn_url":"https:\/\/github.com\/Midnightv\/Vortex",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Lua",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "organization":null,
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-11-13T23:34:33Z",
+    "owner_login":"Midnightv",
+    "owner_id":85517583,
+    "owner_node_id":"MDQ6VXNlcjg1NTE3NTgz",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/85517583?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Midnightv",
+    "owner_html_url":"https:\/\/github.com\/Midnightv",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Midnightv\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Midnightv\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Midnightv\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Midnightv\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Midnightv\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Midnightv\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Midnightv\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Midnightv\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Midnightv\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -4167,8 +4315,127 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/y9x\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "sploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":376574720,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzNzY1NzQ3MjA=",
+    "name":"Rowdy_Activation_Functions",
+    "full_name":"AmeyaJagtap\/Rowdy_Activation_Functions",
+    "private":false,
+    "html_url":"https:\/\/github.com\/AmeyaJagtap\/Rowdy_Activation_Functions",
+    "description":"We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit ",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions",
+    "forks_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/AmeyaJagtap\/Rowdy_Activation_Functions\/deployments",
+    "created_at":"2021-06-13T15:16:25Z",
+    "updated_at":"2021-11-13T22:50:14Z",
+    "pushed_at":"2021-11-13T22:50:12Z",
+    "git_url":"git:\/\/github.com\/AmeyaJagtap\/Rowdy_Activation_Functions.git",
+    "ssh_url":"git@github.com:AmeyaJagtap\/Rowdy_Activation_Functions.git",
+    "clone_url":"https:\/\/github.com\/AmeyaJagtap\/Rowdy_Activation_Functions.git",
+    "svn_url":"https:\/\/github.com\/AmeyaJagtap\/Rowdy_Activation_Functions",
+    "homepage":"",
+    "size":8,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "organization":null,
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-11-13T23:34:33Z",
+    "owner_login":"AmeyaJagtap",
+    "owner_id":44669407,
+    "owner_node_id":"MDQ6VXNlcjQ0NjY5NDA3",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/44669407?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/AmeyaJagtap",
+    "owner_html_url":"https:\/\/github.com\/AmeyaJagtap",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/AmeyaJagtap\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -4284,6 +4551,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/DontAltF4\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4407,6 +4675,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/edgarluck\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -4525,6 +4794,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/NoTelling\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4642,6 +4912,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/CPO-EH\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4759,6 +5030,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/jwardsmith\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4902,6 +5174,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nerdsinspace\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5029,6 +5302,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/HeiTang\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -5146,6 +5420,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/zac4sick\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5272,6 +5547,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ceat-ceat\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5407,7 +5683,7 @@
     },
     "network_count":5,
     "subscribers_count":6,
-    "matched_at":"2021-11-13T10:35:35Z",
+    "matched_at":"2021-11-13T10:35:25Z",
     "owner_login":"Balasys",
     "owner_id":15004892,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjE1MDA0ODky",
@@ -5426,6 +5702,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Balasys\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "attack poc",
       "exploit",
@@ -5555,6 +5832,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/glixzzy\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5678,6 +5956,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Phoenixthrush\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -5795,6 +6074,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/FrancescoVIncelli\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5918,6 +6198,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Mario-Kart-Felix\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6039,6 +6320,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Dani-Hacker\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6176,6 +6458,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Deadpool2000\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -6293,6 +6576,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Zears14\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6411,6 +6695,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ZeroDay3791\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -6534,6 +6819,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/sha0coder\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -6651,6 +6937,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/lb3361\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6774,6 +7061,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/rbctee\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -6891,6 +7179,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/PeterMxx\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7009,6 +7298,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/oxctdev\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "rce"
@@ -7170,6 +7460,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/EntySec\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7293,6 +7584,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/pmalmsten\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7410,6 +7702,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/pwn4all\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7514,7 +7807,7 @@
     "organization":null,
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-11-13T09:34:09Z",
+    "matched_at":"2021-11-13T09:34:26Z",
     "owner_login":"padsalatushal",
     "owner_id":57517785,
     "owner_node_id":"MDQ6VXNlcjU3NTE3Nzg1",
@@ -7533,6 +7826,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/padsalatushal\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "remote code execution"
@@ -7661,6 +7955,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/oSumAtrIX\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7778,6 +8073,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Killerxkiller\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -7895,6 +8191,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ArthiDa\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8016,6 +8313,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nitaly31\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -8133,6 +8431,232 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/PasinduBandaraa\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":426822504,
+    "node_id":"R_kgDOGXDLaA",
+    "name":"exploitnews",
+    "full_name":"exploitact\/exploitnews",
+    "private":false,
+    "html_url":"https:\/\/github.com\/exploitact\/exploitnews",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews",
+    "forks_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/exploitact\/exploitnews\/deployments",
+    "created_at":"2021-11-11T00:35:55Z",
+    "updated_at":"2021-11-13T22:47:05Z",
+    "pushed_at":"2021-11-13T22:47:02Z",
+    "git_url":"git:\/\/github.com\/exploitact\/exploitnews.git",
+    "ssh_url":"git@github.com:exploitact\/exploitnews.git",
+    "clone_url":"https:\/\/github.com\/exploitact\/exploitnews.git",
+    "svn_url":"https:\/\/github.com\/exploitact\/exploitnews",
+    "homepage":null,
+    "size":35,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"HTML",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "organization":null,
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-11-13T23:34:32Z",
+    "owner_login":"exploitact",
+    "owner_id":94088327,
+    "owner_node_id":"U_kgDOBZushw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/94088327?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/exploitact",
+    "owner_html_url":"https:\/\/github.com\/exploitact",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/exploitact\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/exploitact\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/exploitact\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/exploitact\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/exploitact\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/exploitact\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/exploitact\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/exploitact\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/exploitact\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":{
+      "id":345847014,
+      "node_id":"MDEwOlJlcG9zaXRvcnkzNDU4NDcwMTQ=",
+      "name":"simple-blog-bootstrap",
+      "full_name":"chadbaldwin\/simple-blog-bootstrap",
+      "private":false,
+      "owner":{
+        "login":"chadbaldwin",
+        "id":16479446,
+        "node_id":"MDQ6VXNlcjE2NDc5NDQ2",
+        "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/16479446?v=4",
+        "gravatar_id":"",
+        "url":"https:\/\/api.github.com\/users\/chadbaldwin",
+        "html_url":"https:\/\/github.com\/chadbaldwin",
+        "followers_url":"https:\/\/api.github.com\/users\/chadbaldwin\/followers",
+        "following_url":"https:\/\/api.github.com\/users\/chadbaldwin\/following{\/other_user}",
+        "gists_url":"https:\/\/api.github.com\/users\/chadbaldwin\/gists{\/gist_id}",
+        "starred_url":"https:\/\/api.github.com\/users\/chadbaldwin\/starred{\/owner}{\/repo}",
+        "subscriptions_url":"https:\/\/api.github.com\/users\/chadbaldwin\/subscriptions",
+        "organizations_url":"https:\/\/api.github.com\/users\/chadbaldwin\/orgs",
+        "repos_url":"https:\/\/api.github.com\/users\/chadbaldwin\/repos",
+        "events_url":"https:\/\/api.github.com\/users\/chadbaldwin\/events{\/privacy}",
+        "received_events_url":"https:\/\/api.github.com\/users\/chadbaldwin\/received_events",
+        "type":"User",
+        "site_admin":false
+      },
+      "html_url":"https:\/\/github.com\/chadbaldwin\/simple-blog-bootstrap",
+      "description":"This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.",
+      "fork":false,
+      "url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap",
+      "forks_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/forks",
+      "keys_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/keys{\/key_id}",
+      "collaborators_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/collaborators{\/collaborator}",
+      "teams_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/teams",
+      "hooks_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/hooks",
+      "issue_events_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/issues\/events{\/number}",
+      "events_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/events",
+      "assignees_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/assignees{\/user}",
+      "branches_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/branches{\/branch}",
+      "tags_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/tags",
+      "blobs_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/git\/blobs{\/sha}",
+      "git_tags_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/git\/tags{\/sha}",
+      "git_refs_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/git\/refs{\/sha}",
+      "trees_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/git\/trees{\/sha}",
+      "statuses_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/statuses\/{sha}",
+      "languages_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/languages",
+      "stargazers_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/stargazers",
+      "contributors_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/contributors",
+      "subscribers_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/subscribers",
+      "subscription_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/subscription",
+      "commits_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/commits{\/sha}",
+      "git_commits_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/git\/commits{\/sha}",
+      "comments_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/comments{\/number}",
+      "issue_comment_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/issues\/comments{\/number}",
+      "contents_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/contents\/{+path}",
+      "compare_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/compare\/{base}...{head}",
+      "merges_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/merges",
+      "archive_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/{archive_format}{\/ref}",
+      "downloads_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/downloads",
+      "issues_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/issues{\/number}",
+      "pulls_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/pulls{\/number}",
+      "milestones_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/milestones{\/number}",
+      "notifications_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/notifications{?since,all,participating}",
+      "labels_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/labels{\/name}",
+      "releases_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/releases{\/id}",
+      "deployments_url":"https:\/\/api.github.com\/repos\/chadbaldwin\/simple-blog-bootstrap\/deployments",
+      "created_at":"2021-03-09T01:33:52Z",
+      "updated_at":"2021-11-02T15:49:33Z",
+      "pushed_at":"2021-03-15T19:10:37Z",
+      "git_url":"git:\/\/github.com\/chadbaldwin\/simple-blog-bootstrap.git",
+      "ssh_url":"git@github.com:chadbaldwin\/simple-blog-bootstrap.git",
+      "clone_url":"https:\/\/github.com\/chadbaldwin\/simple-blog-bootstrap.git",
+      "svn_url":"https:\/\/github.com\/chadbaldwin\/simple-blog-bootstrap",
+      "homepage":"https:\/\/chadbaldwin.net\/2021\/03\/14\/how-to-build-a-sql-blog.html",
+      "size":68,
+      "stargazers_count":11,
+      "watchers_count":11,
+      "language":"HTML",
+      "has_issues":true,
+      "has_projects":true,
+      "has_downloads":true,
+      "has_wiki":true,
+      "has_pages":false,
+      "forks_count":8,
+      "mirror_url":null,
+      "archived":false,
+      "disabled":false,
+      "open_issues_count":0,
+      "license":null,
+      "allow_forking":true,
+      "is_template":true,
+      "topics":[
+
+      ],
+      "visibility":"public",
+      "forks":8,
+      "open_issues":0,
+      "watchers":11,
+      "default_branch":"main",
+      "permissions":{
+        "admin":false,
+        "maintain":false,
+        "push":false,
+        "triage":false,
+        "pull":false
+      },
+      "temp_clone_token":""
+    },
     "matched_list":[
       "exploit"
     ],
@@ -8250,6 +8774,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/MiloHaxx\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8373,6 +8898,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/WhoIsDanix\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8490,6 +9016,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/SlizBinksman\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2"
@@ -8614,6 +9141,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hrbrmstr\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8731,6 +9259,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/cOrby1\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -8859,6 +9388,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/laurapratt87\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -8995,6 +9525,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/distributed-ledger-technology\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9118,6 +9649,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/zehadkhan\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9219,7 +9751,7 @@
     "organization":null,
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-11-13T02:39:56Z",
+    "matched_at":"2021-11-13T02:39:51Z",
     "owner_login":"0x0021h",
     "owner_id":92664048,
     "owner_node_id":"U_kgDOBYXw8A",
@@ -9238,6 +9770,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/0x0021h\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -9357,6 +9890,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Havenviex\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9474,6 +10008,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/PDennSploit\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -9591,6 +10126,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/SwamiKannan\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9708,6 +10244,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/p34t1k\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -9825,6 +10362,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/XayaPhoenix\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9942,6 +10480,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AtlasDrilon\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10059,6 +10598,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bSkracic\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "remote code execution"
     ],
@@ -10195,6 +10735,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Winds-Studio\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10312,6 +10853,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nop-tech\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10429,6 +10971,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AjayMT6\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "command injection"
     ],
@@ -10559,6 +11102,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/stackbit-projects\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -10676,6 +11220,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Ajxyz1\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -10796,6 +11341,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/sha-16\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "rce"
@@ -10920,6 +11466,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Manah3\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11037,6 +11584,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Tyyuiss\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11154,6 +11702,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Nymouse-X\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -11271,6 +11820,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Aksheet10\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11394,6 +11944,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/LuaAlbi\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11511,6 +12062,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/vallimeenaa9\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11628,6 +12180,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/xaletr\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "command injection"
     ],
@@ -11764,6 +12317,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Carfi-Fondamenti-Informatica\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11900,6 +12454,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Carfi-Fondamenti-Informatica\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -12017,6 +12572,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/gb21oc\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12115,7 +12671,7 @@
     "organization":null,
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-11-13T19:32:09Z",
+    "matched_at":"2021-11-13T19:31:59Z",
     "owner_login":"armadill00",
     "owner_id":91009209,
     "owner_node_id":"MDQ6VXNlcjkxMDA5MjA5",
@@ -12134,6 +12690,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/armadill00\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce",
       "remote code execution"
@@ -12252,6 +12809,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/redteambrasil\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12369,6 +12927,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/redteambrasil\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12486,6 +13045,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/redteambrasil\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12603,6 +13163,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/redteambrasil\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12720,6 +13281,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/edcod3\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
