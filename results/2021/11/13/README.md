@@ -1,12 +1,14 @@
 
 # Summary for results/2021/11/13
     
-24 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-13 05:08:09+00:00 | 289849 | 6610 | C | 1821 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-13 00:06:10+00:00 | 1534765 | 1525 | Python | 523 | [] |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-13 09:56:19+00:00 | 651739 | 25570 | Ruby | 11726 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-13 10:04:37+00:00 | 10118 | 0 | Rust | 0 | [] |
+| XayaPhoenix/Discord-Exploits | None | https://github.com/XayaPhoenix/Discord-Exploits | ['exploit'] | 1 | 2021-11-13 10:31:33+00:00 | 0 | 0 | Python | 0 | [] |
+| p34t1k/metasploit-FUD-payload | create a fully undetectable metasploit payload using xor encryption and a custom loader to avoid detection by most antiviruses | https://github.com/p34t1k/metasploit-FUD-payload | ['metasploit module OR payload'] | 1 | 2021-11-13 08:26:46+00:00 | 0 | 0 | | 0 | [] |
 | SwamiKannan/Transformers | Transformers have been exciting development in Deep Learning starting with the "Attention is all you need" paper by Ashish Vaswani, et. al. It maximally exploits any set of data where there are correlations between two data points such as sequence models a | https://github.com/SwamiKannan/Transformers | ['exploit'] | 1 | 2021-11-13 06:26:28+00:00 | 0 | 0 | HTML | 0 | [] |
 | PDennSploit/PDennSploit | Profile Info. | https://github.com/PDennSploit/PDennSploit | ['sploit'] | 1 | 2021-11-13 06:18:23+00:00 | 0 | 0 | | 0 | [] |
 | Havenviex/Exploiting-Shitz | stuff | https://github.com/Havenviex/Exploiting-Shitz | ['exploit'] | 1 | 2021-11-13 06:24:23+00:00 | 0 | 0 | | 0 | [] |
@@ -18,6 +20,8 @@
 | PasinduBandaraa/Android-Device-Exploitation | Demonstration of an Exploitation of an Android device using payload injected APK | https://github.com/PasinduBandaraa/Android-Device-Exploitation | ['exploit'] | 1 | 2021-11-13 08:37:25+00:00 | 869 | 2 | | 1 | [] |
 | padsalatushal/CVE-2018-16763 | Fuel CMS 1.4.1 - Remote Code Execution | https://github.com/padsalatushal/CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-13 09:03:30+00:00 | 21 | 1 | Python | 0 | ['CVE-2018-16763'] |
 | Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-13 03:33:29+00:00 | 5 | 1 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-13 05:08:09+00:00 | 289849 | 6610 | C | 1821 | [] |
+| Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-13 10:16:01+00:00 | 38 | 66 | Python | 5 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-13 01:05:24+00:00 | 24000 | 2 | Python | 0 | [] |
 | nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2021-11-13 04:07:48+00:00 | 5000 | 421 | | 30 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-13 02:03:28+00:00 | 114 | 0 | | 0 | [] |
@@ -28,4 +32,5 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-13 00:45:25+00:00 | 47628 | 25 | | 14 | [] |
 | cn-panda/JavaCodeAudit | Getting started with java code auditing 代码审计入门的小项目 | https://github.com/cn-panda/JavaCodeAudit | ['rce'] | 1 | 2021-11-13 07:32:35+00:00 | 55741 | 429 | JavaScript | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-13 00:16:44+00:00 | 182086 | 254 | Ruby | 78 | [] |
-| p34t1k/metasploit-FUD-payload | create a fully undetectable metasploit payload using xor encryption and a custom loader to avoid detection by most antiviruses | https://github.com/p34t1k/metasploit-FUD-payload | ['metasploit module OR payload'] | 1 | 2021-11-13 08:26:46+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-13 00:06:10+00:00 | 1534765 | 1525 | Python | 523 | [] |
+| AtlasDrilon/Exploit | None | https://github.com/AtlasDrilon/Exploit | ['exploit'] | 1 | 2021-11-13 10:11:39+00:00 | 0 | 0 | | 0 | [] |
