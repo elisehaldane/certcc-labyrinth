@@ -1,16 +1,18 @@
 
 # Summary for results/2021/11/13
     
-12 records found after deduplication
+14 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-13 00:06:10+00:00 | 1534765 | 1525 | Python | 523 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-13 00:16:44+00:00 | 182086 | 254 | Ruby | 78 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-13 00:45:25+00:00 | 47628 | 25 | | 14 | [] |
-| shelld3v/PwnVPN | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | ['0day', 'exploit'] | 2 | 2021-11-13 01:46:20+00:00 | 61 | 64 | Python | 17 | [] |
+| shelld3v/PwnVPN | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | ['0day', 'exploit'] | 2 | 2021-11-13 01:41:08+00:00 | 61 | 64 | Python | 17 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-13 00:03:32+00:00 | 441163 | 35 | | 19 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-13 04:01:46+00:00 | 47150 | 228 | Python | 71 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-13 02:03:28+00:00 | 114 | 0 | | 0 | [] |
+| nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2021-11-13 04:07:48+00:00 | 5000 | 421 | | 30 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-13 01:05:24+00:00 | 24000 | 2 | Python | 0 | [] |
 | Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-13 03:33:29+00:00 | 5 | 1 | | 0 | [] |
 | laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | As the Red Team, attack a vulnerable VM within the environment, ultimately gaining root access to the machine. As Blue Team, use Kibana to review logs taken during Day 1 engagement of Red Team’s attack.. Use the logs to extract hard data and visualizations | https://github.com/laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | ['metasploit module OR payload'] | 1 | 2021-11-13 00:31:47+00:00 | 12801 | 0 | | 0 | [] |
