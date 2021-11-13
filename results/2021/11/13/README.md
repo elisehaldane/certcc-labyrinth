@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/13
     
-18 records found after deduplication
+20 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -13,6 +13,7 @@
 | zehadkhan/Seeker_Ngrok | Exploit | https://github.com/zehadkhan/Seeker_Ngrok | ['exploit'] | 1 | 2021-11-13 00:56:02+00:00 | 28406 | 0 | CSS | 0 | [] |
 | distributed-ledger-technology/vofarm-centralized-variant-as-template | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-centralized-variant-as-template | ['exploit'] | 1 | 2021-11-13 00:38:57+00:00 | 17 | 0 | TypeScript | 0 | [] |
 | laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | As the Red Team, attack a vulnerable VM within the environment, ultimately gaining root access to the machine. As Blue Team, use Kibana to review logs taken during Day 1 engagement of Red Team’s attack.. Use the logs to extract hard data and visualizations | https://github.com/laurapratt87/Capstone-Engagement-Project-Red-Team-v.-Blue-Team | ['metasploit module OR payload'] | 1 | 2021-11-13 00:31:47+00:00 | 12801 | 0 | | 0 | [] |
+| MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-13 07:01:57+00:00 | 892 | 0 | Lua | 0 | [] |
 | Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-13 03:33:29+00:00 | 5 | 1 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-13 01:05:24+00:00 | 24000 | 2 | Python | 0 | [] |
 | nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2021-11-13 04:07:48+00:00 | 5000 | 421 | | 30 | [] |
@@ -21,5 +22,6 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-13 00:03:32+00:00 | 441163 | 35 | | 19 | [] |
 | shelld3v/PwnVPN | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | ['0day', 'exploit'] | 2 | 2021-11-13 01:41:08+00:00 | 61 | 64 | Python | 17 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-13 00:45:25+00:00 | 47628 | 25 | | 14 | [] |
+| cn-panda/JavaCodeAudit | Getting started with java code auditing 代码审计入门的小项目 | https://github.com/cn-panda/JavaCodeAudit | ['rce'] | 1 | 2021-11-13 07:32:35+00:00 | 55741 | 429 | JavaScript | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-13 00:16:44+00:00 | 182086 | 254 | Ruby | 78 | [] |
 | SwamiKannan/Transformers | Transformers have been exciting development in Deep Learning starting with the "Attention is all you need" paper by Ashish Vaswani, et. al. It maximally exploits any set of data where there are correlations between two data points such as sequence models a | https://github.com/SwamiKannan/Transformers | ['exploit'] | 1 | 2021-11-13 06:26:28+00:00 | 0 | 0 | HTML | 0 | [] |
