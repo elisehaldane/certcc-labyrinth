@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/13
     
-20 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-13 05:08:09+00:00 | 289849 | 6610 | C | 1821 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-13 00:06:10+00:00 | 1534765 | 1525 | Python | 523 | [] |
+| SwamiKannan/Transformers | Transformers have been exciting development in Deep Learning starting with the "Attention is all you need" paper by Ashish Vaswani, et. al. It maximally exploits any set of data where there are correlations between two data points such as sequence models a | https://github.com/SwamiKannan/Transformers | ['exploit'] | 1 | 2021-11-13 06:26:28+00:00 | 0 | 0 | HTML | 0 | [] |
 | PDennSploit/PDennSploit | Profile Info. | https://github.com/PDennSploit/PDennSploit | ['sploit'] | 1 | 2021-11-13 06:18:23+00:00 | 0 | 0 | | 0 | [] |
 | Havenviex/Exploiting-Shitz | stuff | https://github.com/Havenviex/Exploiting-Shitz | ['exploit'] | 1 | 2021-11-13 06:24:23+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-13 02:13:13+00:00 | 0 | 0 | Python | 0 | [] |
@@ -19,9 +20,10 @@
 | nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2021-11-13 04:07:48+00:00 | 5000 | 421 | | 30 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-13 02:03:28+00:00 | 114 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-13 04:01:46+00:00 | 47150 | 228 | Python | 71 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-13 07:49:20+00:00 | 288945 | 722 | | 151 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-13 00:03:32+00:00 | 441163 | 35 | | 19 | [] |
 | shelld3v/PwnVPN | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | ['0day', 'exploit'] | 2 | 2021-11-13 01:41:08+00:00 | 61 | 64 | Python | 17 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-13 00:45:25+00:00 | 47628 | 25 | | 14 | [] |
 | cn-panda/JavaCodeAudit | Getting started with java code auditing 代码审计入门的小项目 | https://github.com/cn-panda/JavaCodeAudit | ['rce'] | 1 | 2021-11-13 07:32:35+00:00 | 55741 | 429 | JavaScript | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-13 00:16:44+00:00 | 182086 | 254 | Ruby | 78 | [] |
-| SwamiKannan/Transformers | Transformers have been exciting development in Deep Learning starting with the "Attention is all you need" paper by Ashish Vaswani, et. al. It maximally exploits any set of data where there are correlations between two data points such as sequence models a | https://github.com/SwamiKannan/Transformers | ['exploit'] | 1 | 2021-11-13 06:26:28+00:00 | 0 | 0 | HTML | 0 | [] |
+| p34t1k/metasploit-FUD-payload | create a fully undetectable metasploit payload using xor encryption and a custom loader to avoid detection by most antiviruses | https://github.com/p34t1k/metasploit-FUD-payload | ['metasploit module OR payload'] | 1 | 2021-11-13 08:26:46+00:00 | 0 | 0 | | 0 | [] |
