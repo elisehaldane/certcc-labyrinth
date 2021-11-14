@@ -1,15 +1,16 @@
 
 # Summary for results/2021/11/14
     
-23 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | ronin-rb/ronin | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | ['exploit'] | 1 | 2021-11-14 05:21:41+00:00 | 8067 | 258 | Ruby | 27 | [] |
 | Zears14/SV-Rework-Exploit | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-14 01:35:10+00:00 | 8516 | 1 | C# | 0 | [] |
+| ShlomiRex7/brucehsu | A Ruby VM written in Go aims to exploit parallelism via Software Transactional Memory | https://github.com/ShlomiRex7/brucehsu | ['exploit'] | 1 | 2021-11-14 06:19:07+00:00 | 0 | 0 | | 0 | [] |
 | engineerkuch/Internet-Security-Bypass-Proof-of-Concept. | At the time of discovery, this PoC worked on all major Internet Security/AV vendors. Nevertheless, I submitted the report to Bitdefender on 08/10/2020 and the vulnerability has been mitigated. Also, the vulnerability was only tested on Windows machine. | https://github.com/engineerkuch/Internet-Security-Bypass-Proof-of-Concept. | ['vulnerability poc'] | 1 | 2021-11-14 04:57:24+00:00 | 0 | 0 | | 0 | [] |
 | DominusTrax/DualpointDetached | Open-Sourced exploit for Apocalypse Rising 2 | https://github.com/DominusTrax/DualpointDetached | ['exploit'] | 1 | 2021-11-14 02:34:42+00:00 | 0 | 0 | | 0 | [] |
-| kubota/POC-CVE-2021-41773 | nan | https://github.com/kubota/POC-CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-14 02:25:37+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-41773'] |
+| kubota/POC-CVE-2021-41773 | None | https://github.com/kubota/POC-CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-14 02:25:37+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-41773'] |
 | dora2-iOS/p0insettia | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit. | https://github.com/dora2-iOS/p0insettia | ['exploit'] | 1 | 2021-11-14 01:32:57+00:00 | 0 | 0 | C | 0 | [] |
 | appsecjay/Clickjacking-Scanner | A Simple python script designed to check if the website is vulnerable of clickjacking and creates a poc. | https://github.com/appsecjay/Clickjacking-Scanner | ['vulnerability poc'] | 1 | 2021-11-14 00:30:01+00:00 | 20 | 0 | Python | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-14 03:25:53+00:00 | 5 | 3 | Python | 0 | [] |
@@ -27,4 +28,5 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-14 00:03:14+00:00 | 442077 | 35 | | 19 | [] |
 | naryal2580/dore | Direct Object Reference Exploitation | https://github.com/naryal2580/dore | ['exploit'] | 1 | 2021-11-14 03:43:34+00:00 | 19 | 2 | Python | 2 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-11-14 04:55:14+00:00 | 1475669 | 3729 | PowerShell | 1289 | [] |
-| ShlomiRex7/brucehsu | A Ruby VM written in Go aims to exploit parallelism via Software Transactional Memory | https://github.com/ShlomiRex7/brucehsu | ['exploit'] | 1 | 2021-11-14 06:19:07+00:00 | 0 | 0 | | 0 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-14 07:19:35+00:00 | 35177 | 6055 | Vue | 1271 | [] |
+| 0xb1tByte/CVE | sharing my PoCs | https://github.com/0xb1tByte/CVE | ['cve poc'] | 1 | 2021-11-14 07:27:39+00:00 | 0 | 0 | | 0 | [] |
