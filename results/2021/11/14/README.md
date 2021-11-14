@@ -1,18 +1,18 @@
 
 # Summary for results/2021/11/14
     
-37 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | ronin-rb/ronin | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | ['exploit'] | 1 | 2021-11-14 05:21:41+00:00 | 8067 | 258 | Ruby | 27 | [] |
-| Zears14/SV-Rework-Exploit | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-14 01:35:10+00:00 | 8516 | 1 | C# | 0 | [] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-14 10:03:04+00:00 | 11199 | 0 | Rust | 0 | [] |
+| dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2021-11-14 00:39:02+00:00 | 1209 | 0 | C | 0 | [] |
 | pmalmsten/tension-wrench | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | ['exploit'] | 1 | 2021-11-14 05:23:38+00:00 | 1234 | 0 | TypeScript | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-14 04:35:12+00:00 | 152 | 0 | Python | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-14 03:25:53+00:00 | 5 | 3 | Python | 0 | [] |
 | Winds-Studio/Surf | A plugin to fix exploits and remove illegal items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-11-14 08:17:02+00:00 | 34 | 0 | Java | 0 | [] |
 | LuaAlbi/herasu | herasu 減らす. removing roblox exploiters was never that easy. | https://github.com/LuaAlbi/herasu | ['exploit'] | 1 | 2021-11-14 10:17:49+00:00 | 9 | 0 | | 0 | [] |
+| Mogenn/Blinder | Blinder is a tool that will help you simplify the exploitation of blind SQL injection | https://github.com/Mogenn/Blinder | ['exploit'] | 1 | 2021-11-14 11:09:44+00:00 | 8 | 0 | Python | 0 | [] |
 | xaletr/Command-Injection | Command injection zafiyetli örnek uygulama | https://github.com/xaletr/Command-Injection | ['command injection'] | 1 | 2021-11-14 10:31:03+00:00 | 2 | 0 | PHP | 0 | [] |
 | appsecjay/Clickjacking-Scanner | A Simple python script designed to check if the website is vulnerable of clickjacking and creates a poc. | https://github.com/appsecjay/Clickjacking-Scanner | ['vulnerability poc'] | 1 | 2021-11-14 00:30:01+00:00 | 20 | 0 | Python | 0 | [] |
 | dora2-iOS/p0insettia | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit. | https://github.com/dora2-iOS/p0insettia | ['exploit'] | 1 | 2021-11-14 01:32:57+00:00 | 0 | 0 | C | 0 | [] |
@@ -22,10 +22,12 @@
 | ShlomiRex7/brucehsu | A Ruby VM written in Go aims to exploit parallelism via Software Transactional Memory | https://github.com/ShlomiRex7/brucehsu | ['exploit'] | 1 | 2021-11-14 06:19:07+00:00 | 0 | 0 | | 0 | [] |
 | 0xb1tByte/CVE | sharing my PoCs | https://github.com/0xb1tByte/CVE | ['cve poc'] | 1 | 2021-11-14 07:27:39+00:00 | 0 | 0 | | 0 | [] |
 | simon242/CVE-2021-42013 | None | https://github.com/simon242/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-11-14 08:44:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-42013'] |
-| dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2021-11-14 00:39:02+00:00 | 1209 | 0 | C | 0 | [] |
-| ProCryptoCoders/BSCHoneyPotContract | honeypot contract sourcecode for use on the BSC network | https://github.com/ProCryptoCoders/BSCHoneyPotContract | ['exploit'] | 1 | 2021-11-14 10:18:02+00:00 | 3 | 1 | | 1 | [] |
+| JaneMandy/CVE-2021-41351-POC | CVE-2021-41351-poc | https://github.com/JaneMandy/CVE-2021-41351-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-14 09:14:57+00:00 | 0 | 0 | | 0 | ['CVE-2021-41351'] |
+| Exploits99/Exploits99 | Config files for my GitHub profile. | https://github.com/Exploits99/Exploits99 | ['exploit'] | 1 | 2021-11-14 10:47:46+00:00 | 0 | 0 | | 0 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-14 10:03:04+00:00 | 11199 | 0 | Rust | 0 | [] |
+| Zears14/SV-Rework-Exploit | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-11-14 01:35:10+00:00 | 8516 | 1 | C# | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-14 00:16:57+00:00 | 183616 | 254 | Ruby | 78 | [] |
-| aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-14 05:32:09+00:00 | 9371 | 15 | C++ | 3 | [] |
+| ProCryptoCoders/BSCHoneyPotContract | honeypot contract sourcecode for use on the BSC network | https://github.com/ProCryptoCoders/BSCHoneyPotContract | ['exploit'] | 1 | 2021-11-14 10:18:02+00:00 | 3 | 1 | | 1 | [] |
 | eliboa/TegraRcmGUI | C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch) | https://github.com/eliboa/TegraRcmGUI | ['exploit'] | 1 | 2021-11-14 07:58:35+00:00 | 3357 | 1143 | C++ | 92 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-14 07:19:35+00:00 | 35177 | 6055 | Vue | 1271 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-11-14 04:55:14+00:00 | 1475669 | 3729 | PowerShell | 1289 | [] |
@@ -37,8 +39,10 @@
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-14 04:08:36+00:00 | 45 | 0 | C | 0 | [] |
 | panchis7u7/Ethical_Hacking | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits. | https://github.com/panchis7u7/Ethical_Hacking | ['exploit'] | 1 | 2021-11-14 09:41:33+00:00 | 2691 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-14 04:01:48+00:00 | 49821 | 228 | Python | 71 | [] |
+| chenzhile1999/CLASSNet | Deep Texture Recognition via Exploiting Cross-Layer Statistical Self-Similarity | https://github.com/chenzhile1999/CLASSNet | ['exploit'] | 1 | 2021-11-14 10:36:42+00:00 | 4 | 5 | | 0 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-14 00:20:46+00:00 | 116 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-14 01:08:50+00:00 | 25741 | 2 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-14 03:57:11+00:00 | 325 | 29 | JavaScript | 10 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-11-14 02:39:50+00:00 | 117 | 8 | Python | 2 | [] |
-| JaneMandy/CVE-2021-41351-POC | CVE-2021-41351-poc | https://github.com/JaneMandy/CVE-2021-41351-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-14 09:14:57+00:00 | 0 | 0 | | 0 | ['CVE-2021-41351'] |
+| aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-14 05:32:09+00:00 | 9371 | 15 | C++ | 3 | [] |
+| P-DennyGamingYT/PDennSploit-Pro | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-11-14 11:19:13+00:00 | 0 | 0 | | 0 | [] |
