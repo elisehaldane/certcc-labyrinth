@@ -1,13 +1,12 @@
 
 # Summary for results/2021/11/15
     
-46 records found after deduplication
+51 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-15 05:30:45+00:00 | 651739 | 25582 | Ruby | 11735 | [] |
-| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-15 03:30:05+00:00 | 159 | 1 | Python | 0 | [] |
-| wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-11-15 09:38:55+00:00 | 17660 | 0 | CSS | 0 | [] |
+| ahmad4fifz/docker-cve-2021-22205 | None | https://github.com/ahmad4fifz/docker-cve-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 02:26:03+00:00 | 22 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
 | kienquoc102/CVE-2018-9995-2 | None | https://github.com/kienquoc102/CVE-2018-9995-2 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 11:26:30+00:00 | 4922 | 1 | Python | 0 | ['CVE-2018-9995'] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-15 01:06:08+00:00 | 27324 | 2 | Python | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-15 00:24:39+00:00 | 110 | 2 | | 0 | [] |
@@ -15,10 +14,11 @@
 | LucaGiudice/Simpati | Pathway-based classifier exploits patient similarity network paradigm for interpretability and explainability | https://github.com/LucaGiudice/Simpati | ['exploit'] | 1 | 2021-11-15 08:27:14+00:00 | 33150 | 0 | R | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-15 09:24:37+00:00 | 12116 | 3 | Python | 0 | [] |
 | learner-ing/redis-rce | redis主从复制windows和Linux 6.x | https://github.com/learner-ing/redis-rce | ['rce'] | 1 | 2021-11-15 07:27:51+00:00 | 28 | 5 | C | 0 | [] |
+| Claudio4813/Reveil_berry | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | ['exploit'] | 1 | 2021-11-15 12:07:10+00:00 | 6185 | 0 | CSS | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-15 11:10:33+00:00 | 182 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
-| ahmad4fifz/docker-cve-2021-22205 | None | https://github.com/ahmad4fifz/docker-cve-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 02:26:03+00:00 | 22 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-15 11:26:44+00:00 | 27097 | 8489 | Python | 1462 | [] |
+| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-15 03:30:05+00:00 | 159 | 1 | Python | 0 | [] |
 | MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-15 10:35:02+00:00 | 1283 | 0 | Lua | 0 | [] |
+| ehsaanqazi/Mind-Maps | Vulnerabilities in Web Application and How to test and exploit for them. | https://github.com/ehsaanqazi/Mind-Maps | ['exploit'] | 1 | 2021-11-15 05:32:45+00:00 | 3941 | 37 | | 3 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-15 07:56:25+00:00 | 447 | 0 | Lua | 0 | [] |
 | P-DennyGamingYT/PDennSploit-Pro | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-11-15 04:30:05+00:00 | 4 | 0 | | 0 | [] |
 | icatalina/CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 01:06:23+00:00 | 0 | 0 | | 0 | ['CVE-2021-43616'] |
@@ -27,12 +27,15 @@
 | hoppersploit/go_rce | None | https://github.com/hoppersploit/go_rce | ['rce'] | 1 | 2021-11-15 06:21:54+00:00 | 0 | 0 | | 0 | [] |
 | SwatiMogelisetty/Facial-Recognition-using-AI-ML | Most of the institutions have manual process of managing the functionalities inside an institution, such as taking attendance, entering of marks, maintaining years of records, etc. For example, the time taken to take attendance for a class will eat up quar | https://github.com/SwatiMogelisetty/Facial-Recognition-using-AI-ML | ['exploit'] | 1 | 2021-11-15 09:10:51+00:00 | 0 | 0 | Shell | 0 | [] |
 | Qynklee/POC_CVE-2020-2883 | POC for CVE-2020-2883 | https://github.com/Qynklee/POC_CVE-2020-2883 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-15 09:17:56+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-2883'] |
-| ehsaanqazi/Mind-Maps | Vulnerabilities in Web Application and How to test and exploit for them. | https://github.com/ehsaanqazi/Mind-Maps | ['exploit'] | 1 | 2021-11-15 05:32:45+00:00 | 3941 | 37 | | 3 | [] |
+| Qynklee/POC_CVE-2020-2555 | poc for CVE-2020-2555 | https://github.com/Qynklee/POC_CVE-2020-2555 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-15 09:16:25+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-2555'] |
+| meafs/AchillesHeel | Exploit?Nope:Yes | https://github.com/meafs/AchillesHeel | ['exploit'] | 1 | 2021-11-15 12:16:58+00:00 | 0 | 0 | | 0 | [] |
+| wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-11-15 09:38:55+00:00 | 17660 | 0 | CSS | 0 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2021-11-15 08:21:20+00:00 | 264 | 21 | Python | 4 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-15 04:01:54+00:00 | 51429 | 229 | Python | 71 | [] |
-| epi052/osed-scripts | bespoke tooling for offensive security's Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | ['exploit', 'shellcode'] | 2 | 2021-11-15 07:21:06+00:00 | 758 | 124 | Python | 52 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-15 11:26:44+00:00 | 27097 | 8489 | Python | 1462 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-15 02:23:13+00:00 | 35177 | 6058 | Vue | 1272 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-15 08:47:07+00:00 | 654657 | 9 | Python | 26 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-15 00:06:12+00:00 | 1534766 | 1526 | Python | 523 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-15 11:35:03+00:00 | 72735 | 10320 | Jupyter Notebook | 1774 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-15 00:16:49+00:00 | 185147 | 254 | Ruby | 78 | [] |
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-11-15 04:50:59+00:00 | 382231 | 1 | C++ | 0 | [] |
 | illordlo/exploits | A collection of exploit I wrote or I modified | https://github.com/illordlo/exploits | ['exploit'] | 1 | 2021-11-15 09:49:26+00:00 | 8 | 7 | Python | 4 | [] |
@@ -40,14 +43,16 @@
 | WinMin/awesome-vm-exploit | share some useful archives about vm and qemu escape exploit. | https://github.com/WinMin/awesome-vm-exploit | ['exploit'] | 1 | 2021-11-15 04:09:57+00:00 | 24 | 269 | | 49 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-15 08:50:58+00:00 | 1 | 2 | | 0 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-11-15 08:06:10+00:00 | 148 | 100 | | 17 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-15 02:23:13+00:00 | 35177 | 6058 | Vue | 1272 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-15 02:25:30+00:00 | 64713 | 1284 | Python | 262 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-15 04:01:54+00:00 | 51429 | 229 | Python | 71 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-15 06:45:27+00:00 | 47958 | 25 | | 14 | [] |
 | leonov-av/vulristics | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | ['exploit'] | 1 | 2021-11-15 00:30:59+00:00 | 1661 | 41 | Python | 6 | [] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-11-15 02:19:16+00:00 | 36699 | 425 | C++ | 63 | [] |
 | zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-11-15 05:12:22+00:00 | 3423 | 1922 | Python | 356 | [] |
+| 404rgr/Laravel_Exploit | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO, SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/404rgr/Laravel_Exploit | ['exploit', 'rce'] | 2 | 2021-11-15 11:34:22+00:00 | 58 | 9 | Python | 7 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-15 00:04:07+00:00 | 442544 | 35 | | 19 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-15 02:45:24+00:00 | 4621 | 0 | Lua | 0 | [] |
 | DonTabUwU/StanceSploit | StanceSploit/Dll's | https://github.com/DonTabUwU/StanceSploit | ['sploit'] | 1 | 2021-11-15 05:45:03+00:00 | 72108 | 0 | | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-15 01:03:22+00:00 | 83 | 0 | PHP | 0 | [] |
-| Qynklee/POC_CVE-2020-2555 | poc for CVE-2020-2555 | https://github.com/Qynklee/POC_CVE-2020-2555 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-15 09:16:25+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-2555'] |
+| epi052/osed-scripts | bespoke tooling for offensive security's Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | ['exploit', 'shellcode'] | 2 | 2021-11-15 07:21:06+00:00 | 758 | 124 | Python | 52 | [] |
+| Nishacid/Easy_RCE_Scanner | Helps you find sensitive open ports, which usually leads to an easy RCE. | https://github.com/Nishacid/Easy_RCE_Scanner | ['rce'] | 1 | 2021-11-15 12:17:27+00:00 | 0 | 0 | Python | 0 | [] |
