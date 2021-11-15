@@ -2,4 +2,8 @@ full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargaz
 hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2021-11-15T00:16:49+0000,185147,254,Ruby,78,[]
 leonov-av/vulristics,Extensible framework for analyzing publicly available information about vulnerabilities,https://github.com/leonov-av/vulristics,['exploit'],1,2021-11-15T00:30:59+0000,1661,41,Python,6,[]
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2021-11-15T00:04:07+0000,442544,35,,19,[]
+tencentcloud-sdk-php/rce,nan,https://github.com/tencentcloud-sdk-php/rce,['rce'],1,2021-11-15T01:03:22+0000,83,0,PHP,0,[]
+HeiTang/Zrss,RSS feeds for HITCON ZeroDay’s vulnerability list,https://github.com/HeiTang/Zrss,['zeroday'],1,2021-11-15T01:06:08+0000,27324,2,Python,0,[]
 HxDDD/CVE-PoC,CVE PoC,https://github.com/HxDDD/CVE-PoC,['cve poc'],1,2021-11-15T00:24:39+0000,110,2,,0,[]
+icatalina/CVE-2021-43616,Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701,https://github.com/icatalina/CVE-2021-43616,['cve-2 OR cve_2'],1,2021-11-15T01:06:23+0000,0,0,,0,['CVE-2021-43616']
+Craglitch/metasploit-in-termux-craglitch-version-,different from gushmazuko with ruby installation,https://github.com/Craglitch/metasploit-in-termux-craglitch-version-,['metasploit module OR payload'],1,2021-11-15T01:39:02+0000,0,0,,0,[]
