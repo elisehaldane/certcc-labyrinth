@@ -1,6 +1,7 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
 hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2021-11-15T00:16:49+0000,185147,254,Ruby,78,[]
 grantdadams/Rceattle,TMB based CEATTLE model,https://github.com/grantdadams/Rceattle,['rce'],1,2021-11-15T04:50:59+0000,382231,1,C++,0,[]
+devon-n/Smart_contract_security,Solidity exploits and defenses for more secure smart contract development,https://github.com/devon-n/Smart_contract_security,['exploit'],1,2021-11-15T02:52:59+0000,0,0,JavaScript,0,[]
 Craglitch/metasploit-in-termux-craglitch-version-,different from gushmazuko with ruby installation,https://github.com/Craglitch/metasploit-in-termux-craglitch-version-,['metasploit module OR payload'],1,2021-11-15T01:39:02+0000,0,0,,0,[]
 icatalina/CVE-2021-43616,Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701,https://github.com/icatalina/CVE-2021-43616,['cve-2 OR cve_2'],1,2021-11-15T01:06:23+0000,0,0,,0,['CVE-2021-43616']
 P-DennyGamingYT/PDennSploit-Pro,The Best Paid Roblox Exploit.,https://github.com/P-DennyGamingYT/PDennSploit-Pro,"['exploit', 'sploit']",2,2021-11-15T04:30:05+0000,4,0,,0,[]
@@ -12,6 +13,7 @@ HeiTang/Zrss,RSS feeds for HITCON ZeroDay’s vulnerability list,https://github.
 ehsaanqazi/Mind-Maps,Vulnerabilities in Web Application  and How to test and exploit for them.,https://github.com/ehsaanqazi/Mind-Maps,['exploit'],1,2021-11-15T05:32:45+0000,3941,37,,3,[]
 ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.,https://github.com/ycdxsb/PocOrExp_in_Github,['cve poc'],1,2021-11-15T04:01:54+0000,51429,229,Python,71,[]
 tencentcloud-sdk-php/rce,None,https://github.com/tencentcloud-sdk-php/rce,['rce'],1,2021-11-15T01:03:22+0000,83,0,PHP,0,[]
+DonTabUwU/StanceSploit,StanceSploit/Dll's,https://github.com/DonTabUwU/StanceSploit,['sploit'],1,2021-11-15T05:45:03+0000,72108,0,,0,[]
 subn0de/Roblox_Exploits,"[Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta",https://github.com/subn0de/Roblox_Exploits,['exploit'],1,2021-11-15T02:45:24+0000,4621,0,Lua,0,[]
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2021-11-15T00:04:07+0000,442544,35,,19,[]
 zhzyker/vulmap,"Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能",https://github.com/zhzyker/vulmap,"['exploit', 'rce']",2,2021-11-15T05:12:22+0000,3423,1922,Python,356,[]
@@ -20,4 +22,4 @@ leonov-av/vulristics,Extensible framework for analyzing publicly available infor
 Ascotbe/Medusa,:cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 ,https://github.com/Ascotbe/Medusa,['cve poc'],1,2021-11-15T02:25:30+0000,64713,1284,Python,262,[]
 chaitin/xray,一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档,https://github.com/chaitin/xray,['vulnerability poc'],1,2021-11-15T02:23:13+0000,35177,6058,Vue,1272,[]
 WinMin/awesome-vm-exploit, share some useful archives about vm and qemu escape exploit.,https://github.com/WinMin/awesome-vm-exploit,['exploit'],1,2021-11-15T04:09:57+0000,24,269,,49,[]
-devon-n/Smart_contract_security,Solidity exploits and defenses for more secure smart contract development,https://github.com/devon-n/Smart_contract_security,['exploit'],1,2021-11-15T02:52:59+0000,0,0,JavaScript,0,[]
+hoppersploit/go_rce,None,https://github.com/hoppersploit/go_rce,['rce'],1,2021-11-15T06:21:54+0000,0,0,,0,[]
