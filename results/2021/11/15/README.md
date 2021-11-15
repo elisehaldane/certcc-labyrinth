@@ -1,22 +1,24 @@
 
 # Summary for results/2021/11/15
     
-42 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-15 05:30:45+00:00 | 651739 | 25582 | Ruby | 11735 | [] |
-| ahmad4fifz/docker-cve-2021-22205 | None | https://github.com/ahmad4fifz/docker-cve-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 02:26:03+00:00 | 22 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
+| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-15 03:30:05+00:00 | 159 | 1 | Python | 0 | [] |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-11-15 09:38:55+00:00 | 17660 | 0 | CSS | 0 | [] |
+| kienquoc102/CVE-2018-9995-2 | None | https://github.com/kienquoc102/CVE-2018-9995-2 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 11:26:30+00:00 | 4922 | 1 | Python | 0 | ['CVE-2018-9995'] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-15 01:06:08+00:00 | 27324 | 2 | Python | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-15 00:24:39+00:00 | 110 | 2 | | 0 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-11-15 03:05:56+00:00 | 570 | 154 | Go | 39 | [] |
 | LucaGiudice/Simpati | Pathway-based classifier exploits patient similarity network paradigm for interpretability and explainability | https://github.com/LucaGiudice/Simpati | ['exploit'] | 1 | 2021-11-15 08:27:14+00:00 | 33150 | 0 | R | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-15 09:24:37+00:00 | 12116 | 3 | Python | 0 | [] |
 | learner-ing/redis-rce | redis主从复制windows和Linux 6.x | https://github.com/learner-ing/redis-rce | ['rce'] | 1 | 2021-11-15 07:27:51+00:00 | 28 | 5 | C | 0 | [] |
-| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-15 03:30:05+00:00 | 159 | 1 | Python | 0 | [] |
+| oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-15 11:10:33+00:00 | 182 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
+| ahmad4fifz/docker-cve-2021-22205 | None | https://github.com/ahmad4fifz/docker-cve-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 02:26:03+00:00 | 22 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-15 11:26:44+00:00 | 27097 | 8489 | Python | 1462 | [] |
 | MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-15 10:35:02+00:00 | 1283 | 0 | Lua | 0 | [] |
-| Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-15 08:47:07+00:00 | 654657 | 9 | Python | 26 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-15 07:56:25+00:00 | 447 | 0 | Lua | 0 | [] |
 | P-DennyGamingYT/PDennSploit-Pro | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-11-15 04:30:05+00:00 | 4 | 0 | | 0 | [] |
 | icatalina/CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | ['cve-2 OR cve_2'] | 1 | 2021-11-15 01:06:23+00:00 | 0 | 0 | | 0 | ['CVE-2021-43616'] |
@@ -29,6 +31,8 @@
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2021-11-15 08:21:20+00:00 | 264 | 21 | Python | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-15 04:01:54+00:00 | 51429 | 229 | Python | 71 | [] |
 | epi052/osed-scripts | bespoke tooling for offensive security's Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | ['exploit', 'shellcode'] | 2 | 2021-11-15 07:21:06+00:00 | 758 | 124 | Python | 52 | [] |
+| Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-15 08:47:07+00:00 | 654657 | 9 | Python | 26 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-15 00:06:12+00:00 | 1534766 | 1526 | Python | 523 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-15 00:16:49+00:00 | 185147 | 254 | Ruby | 78 | [] |
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-11-15 04:50:59+00:00 | 382231 | 1 | C++ | 0 | [] |
 | illordlo/exploits | A collection of exploit I wrote or I modified | https://github.com/illordlo/exploits | ['exploit'] | 1 | 2021-11-15 09:49:26+00:00 | 8 | 7 | Python | 4 | [] |
@@ -44,6 +48,6 @@
 | zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-11-15 05:12:22+00:00 | 3423 | 1922 | Python | 356 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-15 00:04:07+00:00 | 442544 | 35 | | 19 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-15 02:45:24+00:00 | 4621 | 0 | Lua | 0 | [] |
-| DonTabUwU/StanceSploit | StanceSploit/Dll's | https://github.com/DonTabUwU/StanceSploit | ['sploit'] | 1 | 2021-11-15 05:45:03+00:00 | 72108 | 0 | nan | 0 | [] |
+| DonTabUwU/StanceSploit | StanceSploit/Dll's | https://github.com/DonTabUwU/StanceSploit | ['sploit'] | 1 | 2021-11-15 05:45:03+00:00 | 72108 | 0 | | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-15 01:03:22+00:00 | 83 | 0 | PHP | 0 | [] |
 | Qynklee/POC_CVE-2020-2555 | poc for CVE-2020-2555 | https://github.com/Qynklee/POC_CVE-2020-2555 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-15 09:16:25+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-2555'] |
