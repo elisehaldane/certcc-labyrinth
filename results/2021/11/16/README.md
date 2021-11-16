@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/16
     
-30 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-16 00:35:31+00:00 | 651813 | 25592 | Ruby | 11736 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-16 05:08:14+00:00 | 291986 | 6615 | C | 1820 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
 | FuckingToasters/MoneyMakingExploit | A little Python-Code that erans money for ya | https://github.com/FuckingToasters/MoneyMakingExploit | ['exploit'] | 1 | 2021-11-16 07:09:23+00:00 | 0 | 0 | | 0 | [] |
 | M-Quwais/Metasploit | None | https://github.com/M-Quwais/Metasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 03:43:19+00:00 | 0 | 0 | | 0 | [] |
 | dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | In this Project (Red Team vs. Blue Team) It illustrates a scenario in which I played the role of both pentester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team | https://github.com/dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | ['exploit'] | 1 | 2021-11-16 03:29:35+00:00 | 0 | 0 | | 0 | [] |
@@ -14,13 +14,15 @@
 | MrBacongaming/LexPloit-Exploit | This made by Mrbacongaming | https://github.com/MrBacongaming/LexPloit-Exploit | ['exploit'] | 1 | 2021-11-16 00:21:59+00:00 | 0 | 0 | | 0 | [] |
 | snixIsEpic/exploits | repository where i deposit my exploits. | https://github.com/snixIsEpic/exploits | ['exploit'] | 1 | 2021-11-16 07:01:06+00:00 | 227 | 0 | Lua | 0 | [] |
 | verso1/writeups | CTF writeups and exploits | https://github.com/verso1/writeups | ['exploit'] | 1 | 2021-11-16 01:18:14+00:00 | 8 | 0 | | 0 | [] |
+| distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-11-16 07:49:10+00:00 | 84 | 0 | TypeScript | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-16 07:16:49+00:00 | 745 | 0 | Lua | 0 | [] |
 | Killerxkiller/ReadMe | How to install Metasploit using kali / and its use cases | https://github.com/Killerxkiller/ReadMe | ['metasploit module OR payload'] | 1 | 2021-11-16 02:32:39+00:00 | 25 | 2 | | 0 | [] |
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-16 02:18:11+00:00 | 3 | 0 | C++ | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-16 04:19:39+00:00 | 183 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-16 07:51:38+00:00 | 12225 | 3 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-16 01:34:01+00:00 | 3494 | 123 | JavaScript | 287 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
 | boomshy/sample_shellcode | nan | https://github.com/boomshy/sample_shellcode | ['shellcode'] | 1 | 2021-11-16 06:28:13+00:00 | 16 | 2 | Assembly | 1 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-16 05:08:14+00:00 | 291986 | 6615 | C | 1820 | [] |
 | hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains. | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-11-16 04:00:14+00:00 | 5494 | 100 | Python | 24 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196', 'CVE-2021-31207', 'CVE-2021-34473', 'CVE-2021-34523'] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-16 04:02:39+00:00 | 53574 | 231 | Python | 71 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-16 01:05:53+00:00 | 84 | 0 | PHP | 0 | [] |
@@ -29,6 +31,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-16 00:03:17+00:00 | 443712 | 35 | | 19 | [] |
 | F-Masood/Exploiting_StackBased_BufferOverflows | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox | https://github.com/F-Masood/Exploiting_StackBased_BufferOverflows | ['exploit'] | 1 | 2021-11-16 06:25:55+00:00 | 67 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-16 06:45:27+00:00 | 48289 | 25 | | 14 | [] |
+| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-11-16 08:04:08+00:00 | 15737 | 272 | C | 38 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-16 06:04:32+00:00 | 64830 | 1289 | Python | 262 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-16 02:14:48+00:00 | 35177 | 6063 | Vue | 1274 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-11-16 01:01:23+00:00 | 40074 | 6851 | Python | 1647 | [] |
