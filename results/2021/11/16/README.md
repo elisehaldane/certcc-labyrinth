@@ -1,13 +1,15 @@
 
 # Summary for results/2021/11/16
     
-61 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-16 00:35:31+00:00 | 651813 | 25592 | Ruby | 11736 | [] |
-| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-16 02:18:11+00:00 | 3 | 0 | C++ | 0 | [] |
+| AHLASaad/DVWA_Exploit_Development | I developed all DVWA exploit of the Low security level in bash and python . I will upload the others level as soon as possible | https://github.com/AHLASaad/DVWA_Exploit_Development | ['exploit'] | 1 | 2021-11-16 01:45:07+00:00 | 0 | 0 | | 0 | [] |
+| DaFAKEOrREAL/MorgecxExploit | Morgecx Exploit | https://github.com/DaFAKEOrREAL/MorgecxExploit | ['exploit'] | 1 | 2021-11-16 15:30:47+00:00 | 1 | 0 | | 0 | [] |
 | Calvindd2f/exploits | None | https://github.com/Calvindd2f/exploits | ['exploit'] | 1 | 2021-11-16 13:49:36+00:00 | 13 | 0 | Python | 0 | [] |
+| ArthiDa/ExploitAirLineServices | None | https://github.com/ArthiDa/ExploitAirLineServices | ['exploit'] | 1 | 2021-11-16 14:51:45+00:00 | 3408 | 1 | Java | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-16 07:16:49+00:00 | 745 | 0 | Lua | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-11-16 07:49:10+00:00 | 84 | 0 | TypeScript | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-11-16 08:56:35+00:00 | 62 | 0 | Java | 0 | [] |
@@ -19,8 +21,8 @@
 | githubfoam/docker-kali-tools-exploitation-githubactions | exploitation | https://github.com/githubfoam/docker-kali-tools-exploitation-githubactions | ['exploit'] | 1 | 2021-11-16 09:59:13+00:00 | 15 | 0 | | 0 | [] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2021-11-16 01:48:44+00:00 | 6 | 0 | | 0 | [] |
 | MrBacongaming/LexPloit-Exploit | This made by Mrbacongaming | https://github.com/MrBacongaming/LexPloit-Exploit | ['exploit'] | 1 | 2021-11-16 00:21:59+00:00 | 0 | 0 | | 0 | [] |
-| AHLASaad/DVWA_Exploit_Development | I developed all DVWA exploit of the Low security level in bash and python . I will upload the others level as soon as possible | https://github.com/AHLASaad/DVWA_Exploit_Development | ['exploit'] | 1 | 2021-11-16 01:45:07+00:00 | 0 | 0 | | 0 | [] |
 | dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | In this Project (Red Team vs. Blue Team) It illustrates a scenario in which I played the role of both pentester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team | https://github.com/dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | ['exploit'] | 1 | 2021-11-16 03:29:35+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-16 13:15:45+00:00 | 21826 | 6142 | JavaScript | 1461 | [] |
 | M-Quwais/Metasploit | None | https://github.com/M-Quwais/Metasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 03:43:19+00:00 | 0 | 0 | | 0 | [] |
 | FuckingToasters/MoneyMakingExploit | A little Python-Code that erans money for ya | https://github.com/FuckingToasters/MoneyMakingExploit | ['exploit'] | 1 | 2021-11-16 07:09:23+00:00 | 0 | 0 | | 0 | [] |
 | nth347/CVE-2018-20148_exploit | Exploit for CVE-2018-20148 - WordPress PHAR deserialization via XMLRPC | https://github.com/nth347/CVE-2018-20148_exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-16 07:20:45+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-20148'] |
@@ -34,9 +36,10 @@
 | maximzaika/Data-Hiding-in-MKV-Container-Format | The audio-video synchronization of MKV Container Format is exploited to achieve data hiding, where the hidden data can be utilized for various management purposes, including hyper-linking, annotation, and authentication | https://github.com/maximzaika/Data-Hiding-in-MKV-Container-Format | ['exploit'] | 1 | 2021-11-16 13:17:00+00:00 | 0 | 0 | Python | 0 | [] |
 | Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | None | https://github.com/Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | ['exploit'] | 1 | 2021-11-16 13:35:49+00:00 | 0 | 0 | | 0 | [] |
 | ghostapustaja/legionhub | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | ['exploit'] | 1 | 2021-11-16 13:44:27+00:00 | 0 | 0 | | 0 | [] |
+| PasinduBandaraa/XSS-Exploitation | Exploitation performed targeting cross-site scripting vulnerability to steal cookies | https://github.com/PasinduBandaraa/XSS-Exploitation | ['exploit'] | 1 | 2021-11-16 14:30:39+00:00 | 0 | 0 | | 0 | [] |
 | Killerxkiller/ReadMe | How to install Metasploit using kali / and its use cases | https://github.com/Killerxkiller/ReadMe | ['metasploit module OR payload'] | 1 | 2021-11-16 02:32:39+00:00 | 25 | 2 | | 0 | [] |
+| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-16 02:18:11+00:00 | 3 | 0 | C++ | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-16 04:19:39+00:00 | 183 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-16 13:15:45+00:00 | 21826 | 6142 | JavaScript | 1461 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-16 07:51:38+00:00 | 12225 | 3 | Python | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-16 05:08:14+00:00 | 291986 | 6615 | C | 1820 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-16 00:06:15+00:00 | 1534766 | 1527 | Python | 524 | [] |
@@ -63,6 +66,8 @@
 | hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains. | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-11-16 04:00:14+00:00 | 5494 | 100 | Python | 24 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196', 'CVE-2021-31207', 'CVE-2021-34473', 'CVE-2021-34523'] |
 | boomshy/sample_shellcode | None | https://github.com/boomshy/sample_shellcode | ['shellcode'] | 1 | 2021-11-16 06:28:13+00:00 | 16 | 2 | Assembly | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-11-16 14:34:05+00:00 | 28796 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-16 01:34:01+00:00 | 3494 | 123 | JavaScript | 287 | [] |
 | thuan2172001/Analyst_Induce_Benmark | Dataset for Exploring and exploiting the correlations between bug-inducing and bug-fixing commits | https://github.com/thuan2172001/Analyst_Induce_Benmark | ['exploit'] | 1 | 2021-11-16 09:58:33+00:00 | 61305 | 0 | Java | 0 | [] |
-| PasinduBandaraa/XSS-Exploitation | Exploitation performed targeting cross-site scripting vulnerability to steal cookies | https://github.com/PasinduBandaraa/XSS-Exploitation | ['exploit'] | 1 | 2021-11-16 14:30:39+00:00 | 0 | 0 | | 0 | [] |
+| WilfriedMercier/ExploitGUI | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | ['exploit'] | 1 | 2021-11-16 15:34:00+00:00 | 139117 | 0 | Python | 1 | [] |
+| rceniza0630/rceniza0630 | Config files for my GitHub profile. | https://github.com/rceniza0630/rceniza0630 | ['rce'] | 1 | 2021-11-16 15:01:22+00:00 | 0 | 0 | | 0 | [] |
