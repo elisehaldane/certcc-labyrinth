@@ -1,12 +1,19 @@
 
 # Summary for results/2021/11/16
     
-5 records found after deduplication
+12 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-16 00:35:31+00:00 | 651813 | 25592 | Ruby | 11736 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-16 00:06:15+00:00 | 1534766 | 1527 | Python | 524 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 00:16:46+00:00 | 185147 | 255 | Ruby | 78 | [] |
+| malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-11-16 01:01:23+00:00 | 40074 | 6851 | Python | 1647 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-16 00:03:17+00:00 | 443712 | 35 | | 19 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-16 00:48:30+00:00 | 6001 | 0 | Lua | 0 | [] |
+| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-16 01:05:53+00:00 | 84 | 0 | PHP | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
+| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-16 01:34:01+00:00 | 3494 | 123 | JavaScript | 287 | [] |
+| verso1/writeups | CTF writeups and exploits | https://github.com/verso1/writeups | ['exploit'] | 1 | 2021-11-16 01:18:14+00:00 | 8 | 0 | | 0 | [] |
 | MrBacongaming/LexPloit-Exploit | This made by Mrbacongaming | https://github.com/MrBacongaming/LexPloit-Exploit | ['exploit'] | 1 | 2021-11-16 00:21:59+00:00 | 0 | 0 | | 0 | [] |
+| AHLASaad/DVWA_Exploit_Development | I developed all DVWA exploit of the Low security level in bash and python . I will upload the others level as soon as possible | https://github.com/AHLASaad/DVWA_Exploit_Development | ['exploit'] | 1 | 2021-11-16 01:45:07+00:00 | 0 | 0 | | 0 | [] |
