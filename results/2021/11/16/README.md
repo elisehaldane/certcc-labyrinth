@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/16
     
-21 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-16 00:35:31+00:00 | 651813 | 25592 | Ruby | 11736 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-16 05:08:14+00:00 | 291986 | 6615 | C | 1820 | [] |
 | dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | In this Project (Red Team vs. Blue Team) It illustrates a scenario in which I played the role of both pentester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team | https://github.com/dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | ['exploit'] | 1 | 2021-11-16 03:29:35+00:00 | 0 | 0 | | 0 | [] |
 | AHLASaad/DVWA_Exploit_Development | I developed all DVWA exploit of the Low security level in bash and python . I will upload the others level as soon as possible | https://github.com/AHLASaad/DVWA_Exploit_Development | ['exploit'] | 1 | 2021-11-16 01:45:07+00:00 | 0 | 0 | | 0 | [] |
 | MrBacongaming/LexPloit-Exploit | This made by Mrbacongaming | https://github.com/MrBacongaming/LexPloit-Exploit | ['exploit'] | 1 | 2021-11-16 00:21:59+00:00 | 0 | 0 | | 0 | [] |
@@ -15,8 +15,8 @@
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-16 02:18:11+00:00 | 3 | 0 | C++ | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-16 04:19:39+00:00 | 183 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-16 01:34:01+00:00 | 3494 | 123 | JavaScript | 287 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
 | hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains. | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-11-16 04:00:14+00:00 | 5494 | 100 | Python | 24 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196', 'CVE-2021-31207', 'CVE-2021-34473', 'CVE-2021-34523'] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-16 00:06:15+00:00 | 1534766 | 1527 | Python | 524 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-16 04:02:39+00:00 | 53574 | 231 | Python | 71 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-16 01:05:53+00:00 | 84 | 0 | PHP | 0 | [] |
 | asdcxsd/MTA-Exploit-Framework | framework scan web. Team MSEC | https://github.com/asdcxsd/MTA-Exploit-Framework | ['exploit'] | 1 | 2021-11-16 02:26:16+00:00 | 122773 | 0 | HTML | 0 | [] |
@@ -25,4 +25,5 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-16 02:14:48+00:00 | 35177 | 6063 | Vue | 1274 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-11-16 01:01:23+00:00 | 40074 | 6851 | Python | 1647 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 00:16:46+00:00 | 185147 | 255 | Ruby | 78 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-16 00:06:15+00:00 | 1534766 | 1527 | Python | 524 | [] |
 | M-Quwais/Metasploit | None | https://github.com/M-Quwais/Metasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 03:43:19+00:00 | 0 | 0 | | 0 | [] |
