@@ -1,13 +1,12 @@
 
 # Summary for results/2021/11/16
     
-105 records found after deduplication
+106 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-16 00:35:31+00:00 | 651813 | 25592 | Ruby | 11736 | [] |
-| oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-16 04:19:39+00:00 | 183 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
-| dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | In this Project (Red Team vs. Blue Team) It illustrates a scenario in which I played the role of both pentester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team | https://github.com/dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | ['exploit'] | 1 | 2021-11-16 03:29:35+00:00 | 0 | 0 | | 0 | [] |
+| M-Quwais/Metasploit | None | https://github.com/M-Quwais/Metasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 03:43:19+00:00 | 0 | 0 | | 0 | [] |
 | AHLASaad/DVWA_Exploit_Development | I developed all DVWA exploit of the Low security level in bash and python . I will upload the others level as soon as possible | https://github.com/AHLASaad/DVWA_Exploit_Development | ['exploit'] | 1 | 2021-11-16 01:45:07+00:00 | 0 | 0 | | 0 | [] |
 | MrBacongaming/LexPloit-Exploit | This made by Mrbacongaming | https://github.com/MrBacongaming/LexPloit-Exploit | ['exploit'] | 1 | 2021-11-16 00:21:59+00:00 | 0 | 0 | | 0 | [] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2021-11-16 01:48:44+00:00 | 6 | 0 | | 0 | [] |
@@ -30,10 +29,11 @@
 | Killerxkiller/ReadMe | How to install Metasploit using kali / and its use cases | https://github.com/Killerxkiller/ReadMe | ['metasploit module OR payload'] | 1 | 2021-11-16 02:32:39+00:00 | 25 | 2 | | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-16 21:40:58+00:00 | 129 | 0 | | 0 | [] |
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-16 02:18:11+00:00 | 3 | 0 | C++ | 0 | [] |
-| M-Quwais/Metasploit | None | https://github.com/M-Quwais/Metasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 03:43:19+00:00 | 0 | 0 | | 0 | [] |
+| d1ch0t0my-code/post-exploitation | Useful scripts in post-exploitation phase | https://github.com/d1ch0t0my-code/post-exploitation | ['exploit'] | 1 | 2021-11-16 18:10:31+00:00 | 2 | 0 | Python | 0 | [] |
+| dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | In this Project (Red Team vs. Blue Team) It illustrates a scenario in which I played the role of both pentester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team | https://github.com/dgriffin21/Project-2-Red-Team-Vs-Blue-Team- | ['exploit'] | 1 | 2021-11-16 03:29:35+00:00 | 0 | 0 | | 0 | [] |
 | FuckingToasters/MoneyMakingExploit | A little Python-Code that erans money for ya | https://github.com/FuckingToasters/MoneyMakingExploit | ['exploit'] | 1 | 2021-11-16 07:09:23+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-16 13:15:45+00:00 | 21826 | 6142 | JavaScript | 1461 | [] |
 | nth347/CVE-2018-20148_exploit | Exploit for CVE-2018-20148 - WordPress PHAR deserialization via XMLRPC | https://github.com/nth347/CVE-2018-20148_exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-16 07:20:45+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-20148'] |
-| shownadda/DarkStar | DarkStar is an Exploitation Framework written in Python 3. It's mainly inspired from DanderSpritZ. | https://github.com/shownadda/DarkStar | ['exploit'] | 1 | 2021-11-16 15:52:19+00:00 | 0 | 0 | | 0 | [] |
 | Beelzebuuuuu/Ruby-2.7.2-en-Termux | # termux-Ruby termux-Ruby es un script de auto instalación del paquete ruby 2.7.2 en Termux. El script verifica la arquitectura de su dispositivo, y dependiendo de la arquitectura, utiliza el binario correcto para su instalación esto puede ser utilizado pa | https://github.com/Beelzebuuuuu/Ruby-2.7.2-en-Termux | ['metasploit module OR payload'] | 1 | 2021-11-16 22:00:44+00:00 | 0 | 0 | | 0 | [] |
 | reewardius/brainpain-exploit | None | https://github.com/reewardius/brainpain-exploit | ['exploit'] | 1 | 2021-11-16 22:00:37+00:00 | 0 | 0 | Python | 0 | [] |
 | EtienneWarneck/m8-post-exploitation-windowsvm | None | https://github.com/EtienneWarneck/m8-post-exploitation-windowsvm | ['exploit'] | 1 | 2021-11-16 21:42:32+00:00 | 0 | 0 | | 0 | [] |
@@ -44,8 +44,8 @@
 | 0bfxgh0st/medusar | RCE File Upload Bypass | https://github.com/0bfxgh0st/medusar | ['rce'] | 1 | 2021-11-16 17:06:22+00:00 | 0 | 0 | Shell | 0 | [] |
 | tomquinn8/CVE-2011-5331 | None | https://github.com/tomquinn8/CVE-2011-5331 | ['cve-2 OR cve_2'] | 1 | 2021-11-16 16:51:03+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2011-5331'] |
 | ebrahimghiasi/Localroot-Compile | Localroot Exploit This repository is a place where Localroot has been compiled and tested. | https://github.com/ebrahimghiasi/Localroot-Compile | ['exploit'] | 1 | 2021-11-16 16:09:24+00:00 | 0 | 0 | | 0 | [] |
+| shownadda/DarkStar | DarkStar is an Exploitation Framework written in Python 3. It's mainly inspired from DanderSpritZ. | https://github.com/shownadda/DarkStar | ['exploit'] | 1 | 2021-11-16 15:52:19+00:00 | 0 | 0 | | 0 | [] |
 | rceniza0630/rceniza0630 | Config files for my GitHub profile. | https://github.com/rceniza0630/rceniza0630 | ['rce'] | 1 | 2021-11-16 15:01:22+00:00 | 0 | 0 | | 0 | [] |
-| DefensePoint-Snyk-Test/java-rce-server | java-RCE-Server | https://github.com/DefensePoint-Snyk-Test/java-rce-server | ['rce'] | 1 | 2021-11-16 09:44:12+00:00 | 12 | 0 | Java | 0 | [] |
 | PasinduBandaraa/XSS-Exploitation | Exploitation performed targeting cross-site scripting vulnerability to steal cookies | https://github.com/PasinduBandaraa/XSS-Exploitation | ['exploit'] | 1 | 2021-11-16 14:30:39+00:00 | 0 | 0 | | 0 | [] |
 | ghostapustaja/legionhub | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | ['exploit'] | 1 | 2021-11-16 13:44:27+00:00 | 0 | 0 | | 0 | [] |
 | Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | None | https://github.com/Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | ['exploit'] | 1 | 2021-11-16 13:35:49+00:00 | 0 | 0 | | 0 | [] |
@@ -56,10 +56,11 @@
 | yanghaoi/CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | ['cve-2 OR cve_2'] | 1 | 2021-11-16 11:16:25+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0787'] |
 | Cr1s0/Shodan2CVE | Bash script to gather public vulnerabilities from IPs or domains | https://github.com/Cr1s0/Shodan2CVE | ['cve-2 OR cve_2'] | 1 | 2021-11-16 10:32:04+00:00 | 0 | 0 | Shell | 0 | [] |
 | githubfoam/docker-kali-tools-post-exploitation-githubactions | post-exploitation | https://github.com/githubfoam/docker-kali-tools-post-exploitation-githubactions | ['exploit'] | 1 | 2021-11-16 10:33:01+00:00 | 0 | 0 | | 0 | [] |
-| d1ch0t0my-code/post-exploitation | Useful scripts in post-exploitation phase | https://github.com/d1ch0t0my-code/post-exploitation | ['exploit'] | 1 | 2021-11-16 18:10:31+00:00 | 2 | 0 | Python | 0 | [] |
+| DefensePoint-Snyk-Test/java-rce-server | java-RCE-Server | https://github.com/DefensePoint-Snyk-Test/java-rce-server | ['rce'] | 1 | 2021-11-16 09:44:12+00:00 | 12 | 0 | Java | 0 | [] |
+| oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-16 04:19:39+00:00 | 183 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | Claudio4813/Reveil_berry | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | ['exploit'] | 1 | 2021-11-16 19:24:40+00:00 | 6213 | 0 | C | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-16 13:15:45+00:00 | 21826 | 6142 | JavaScript | 1461 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-16 07:51:38+00:00 | 12225 | 3 | Python | 0 | [] |
+| r6f/critical-ops-0day | source to ban any account in mobile game critical ops | https://github.com/r6f/critical-ops-0day | ['0day', 'exploit'] | 2 | 2021-11-16 21:07:12+00:00 | 16 | 1 | Python | 0 | [] |
 | pikulet/mem-attacks-example | Examples of Binary Exploitations - Buffer Overflow, Return-Oriented Programming and Format String | https://github.com/pikulet/mem-attacks-example | ['exploit'] | 1 | 2021-11-16 11:49:54+00:00 | 339 | 2 | Python | 1 | [] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-11-16 17:27:32+00:00 | 36690 | 424 | C++ | 63 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-11-16 19:00:25+00:00 | 465 | 9 | Python | 4 | [] |
@@ -83,11 +84,10 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-16 00:06:15+00:00 | 1534766 | 1527 | Python | 524 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-16 05:08:14+00:00 | 291986 | 6615 | C | 1820 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-16 20:59:52+00:00 | 27108 | 8494 | Python | 1462 | [] |
+| itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2021-11-16 04:38:37+00:00 | 58267 | 0 | HTML | 0 | [] |
 | F-Masood/Exploiting_StackBased_BufferOverflows | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox | https://github.com/F-Masood/Exploiting_StackBased_BufferOverflows | ['exploit'] | 1 | 2021-11-16 06:25:55+00:00 | 67 | 0 | Python | 0 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-11-16 11:22:45+00:00 | 178122 | 314 | Batchfile | 89 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-16 00:03:17+00:00 | 443712 | 35 | | 19 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
-| r6f/critical-ops-0day | source to ban any account in mobile game critical ops | https://github.com/r6f/critical-ops-0day | ['0day', 'exploit'] | 2 | 2021-11-16 21:07:12+00:00 | 16 | 1 | Python | 0 | [] |
+| jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-11-16 21:04:35+00:00 | 328 | 4 | | 2 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-16 18:33:13+00:00 | 12956 | 0 | Assembly | 0 | [] |
 | WilfriedMercier/ExploitGUI | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | ['exploit'] | 1 | 2021-11-16 15:34:00+00:00 | 139117 | 0 | Python | 1 | [] |
 | RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | A updated linora source with special exploits, always be updated to latest update | https://github.com/RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | ['exploit'] | 1 | 2021-11-16 17:42:26+00:00 | 639 | 8 | C++ | 0 | [] |
@@ -97,9 +97,9 @@
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-11-16 18:49:12+00:00 | 22110 | 3 | Lua | 1 | [] |
 | aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-16 16:21:58+00:00 | 9393 | 15 | C++ | 3 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-11-16 14:34:05+00:00 | 28796 | 0 | Python | 0 | [] |
-| jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-11-16 21:04:35+00:00 | 328 | 4 | | 2 | [] |
-| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-16 00:48:30+00:00 | 6001 | 0 | Lua | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-16 01:07:48+00:00 | 29119 | 2 | Python | 0 | [] |
 | ashshelby/MORDOR | A python based RAT, that you can use to get a shell similar to metasploit. | https://github.com/ashshelby/MORDOR | ['metasploit module OR payload'] | 1 | 2021-11-16 16:00:52+00:00 | 12000 | 0 | HTML | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-16 00:03:17+00:00 | 443712 | 35 | | 19 | [] |
 | boomshy/sample_shellcode | None | https://github.com/boomshy/sample_shellcode | ['shellcode'] | 1 | 2021-11-16 06:28:13+00:00 | 16 | 2 | Assembly | 1 | [] |
 | mathisvickie/CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-11-16 17:34:11+00:00 | 1215 | 12 | C | 1 | ['CVE-2021-21551'] |
 | Guezone/SECMON | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | ['exploit'] | 1 | 2021-11-16 19:51:19+00:00 | 13017 | 119 | CSS | 29 | [] |
@@ -109,4 +109,5 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-16 01:05:53+00:00 | 84 | 0 | PHP | 0 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-11-16 22:31:45+00:00 | 6355 | 103 | Python | 37 | [] |
 | asdcxsd/MTA-Exploit-Framework | framework scan web. Team MSEC | https://github.com/asdcxsd/MTA-Exploit-Framework | ['exploit'] | 1 | 2021-11-16 02:26:16+00:00 | 122773 | 0 | HTML | 0 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-16 00:48:30+00:00 | 6001 | 0 | Lua | 0 | [] |
 | Beelzebuuuuu/Matasploit | Metasploit para Termux | https://github.com/Beelzebuuuuu/Matasploit | ['metasploit module OR payload'] | 1 | 2021-11-16 23:33:10+00:00 | 0 | 0 | Shell | 0 | [] |
