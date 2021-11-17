@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+429005636,gustavorobertux/patch_exploit_ssh,install_exploit.sh,85e32f8c8cddd37ba5640fdc34bde4425cbd83f7,CVE-2018-15473
+429005636,gustavorobertux/patch_exploit_ssh,README.md,d128a4a9887cac96db7bec7054354b851cdf2d22,CVE-2018-15473
