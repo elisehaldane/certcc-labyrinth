@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#77,0.33333333,https://github.com/x1official/TestSploit-X,x1official/TestSploit-X,426752533
 VU#77,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/RobloxExploitSample,426473019
 VU#77,0.20000000,https://github.com/Yolnan/24678_CVE_PS6,Yolnan/24678_CVE_PS6,424596008
+VU#77,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
 VU#77,0.03225806,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#77,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#77,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
