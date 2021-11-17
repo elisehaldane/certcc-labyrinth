@@ -1,0 +1,13 @@
+
+# Summary for results/2021/11/17
+    
+6 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+| frohoff/ysoserial | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | ['exploit', 'vulnerability poc'] | 2 | 2021-11-17 00:43:59+00:00 | 334 | 4659 | Java | 1328 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-17 00:17:10+00:00 | 185148 | 255 | Ruby | 78 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-17 00:03:47+00:00 | 443725 | 35 | | 19 | [] |
+| dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-17 00:24:50+00:00 | 149 | 0 | | 0 | [] |
+| Beelzebuuuuu/Ruby-2.7.2-en-Termux | # termux-Ruby termux-Ruby es un script de auto instalación del paquete ruby 2.7.2 en Termux. El script verifica la arquitectura de su dispositivo, y dependiendo de la arquitectura, utiliza el binario correcto para su instalación esto puede ser utilizado pa | https://github.com/Beelzebuuuuu/Ruby-2.7.2-en-Termux | ['metasploit module OR payload'] | 1 | 2021-11-17 00:22:44+00:00 | 2 | 0 | | 0 | [] |
+| Beelzebuuuuu/Matasploit | Metasploit para Termux | https://github.com/Beelzebuuuuu/Matasploit | ['metasploit module OR payload'] | 1 | 2021-11-17 00:15:17+00:00 | 16632 | 0 | Shell | 0 | [] |
