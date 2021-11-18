@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#65,0.16666667,https://github.com/Qynklee/POC_CVE-2020-2883,Qynklee/POC_CVE-2020-2883,428189487
 VU#65,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
+VU#65,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#65,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
 VU#65,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#65,0.03225806,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
