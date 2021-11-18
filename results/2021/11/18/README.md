@@ -1,41 +1,45 @@
 
 # Summary for results/2021/11/18
     
-34 records found after deduplication
+38 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-18 04:04:43+00:00 | 655097 | 25611 | Ruby | 11738 | [] |
-| rcedron090992/rcedron090992 | Config files for my GitHub profile. | https://github.com/rcedron090992/rcedron090992 | ['rce'] | 1 | 2021-11-18 02:57:41+00:00 | 0 | 0 | | 0 | [] |
+| veiyolol/xss-vulnerability | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | ['exploit'] | 1 | 2021-11-18 01:21:06+00:00 | 0 | 0 | HTML | 0 | [] |
+| rogxo/ShellcodeLoader | Shellcode加载器大全 | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2021-11-18 04:18:51+00:00 | 29 | 1 | C++ | 1 | [] |
+| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-18 06:52:28+00:00 | 1972 | 0 | Lua | 0 | [] |
 | jonathonbrady/Bizarre | Exploits arbitrage opportunities in SkyBlock's Bazaar to generate coins | https://github.com/jonathonbrady/Bizarre | ['exploit'] | 1 | 2021-11-18 05:27:19+00:00 | 0 | 0 | Python | 0 | [] |
 | CITIZENSIXTYNINE/Minecraft-for-1-dollar | A theory of an exploit to get Minecraft for 1€ for 3 Months | https://github.com/CITIZENSIXTYNINE/Minecraft-for-1-dollar | ['exploit'] | 1 | 2021-11-18 03:45:45+00:00 | 1 | 0 | | 0 | [] |
 | rabbitsafe/CVE-2021-37580 | None | https://github.com/rabbitsafe/CVE-2021-37580 | ['cve-2 OR cve_2'] | 1 | 2021-11-18 04:38:41+00:00 | 180 | 4 | Python | 0 | ['CVE-2021-37580'] |
 | fengwenhua/CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-18 08:05:48+00:00 | 4055 | 7 | Python | 4 | ['CVE-2021-37580'] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-11-18 00:42:52+00:00 | 57 | 0 | C | 0 | [] |
-| veiyolol/xss-vulnerability | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | ['exploit'] | 1 | 2021-11-18 01:21:06+00:00 | 0 | 0 | HTML | 0 | [] |
-| Sriireshma/CN-Lab-Rce | None | https://github.com/Sriireshma/CN-Lab-Rce | ['rce'] | 1 | 2021-11-18 04:22:41+00:00 | 0 | 0 | | 0 | [] |
+| rcedron090992/rcedron090992 | Config files for my GitHub profile. | https://github.com/rcedron090992/rcedron090992 | ['rce'] | 1 | 2021-11-18 02:57:41+00:00 | 0 | 0 | | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-18 05:08:13+00:00 | 294064 | 6619 | C | 1821 | [] |
+| Sriireshma/CN-Lab-Rce | None | https://github.com/Sriireshma/CN-Lab-Rce | ['rce'] | 1 | 2021-11-18 04:22:41+00:00 | 0 | 0 | | 0 | [] |
 | Jkrasher/WindowsThreatResearch_Krasher | Repo of Win Threats and exploits | https://github.com/Jkrasher/WindowsThreatResearch_Krasher | ['exploit'] | 1 | 2021-11-18 05:37:26+00:00 | 14 | 1 | | 0 | [] |
 | 99norah/Buffer-Overflow-Attack- | In this project, we exploited Buffer Overflow vulnerability for learning purpose | https://github.com/99norah/Buffer-Overflow-Attack- | ['exploit'] | 1 | 2021-11-18 06:34:29+00:00 | 0 | 0 | | 0 | [] |
 | krawer6174/github.com-cyberknight777-PhoneSploit | None | https://github.com/krawer6174/github.com-cyberknight777-PhoneSploit | ['sploit'] | 1 | 2021-11-18 07:00:52+00:00 | 0 | 1 | | 0 | [] |
 | SouvikBan/multi_sense_learning | The codebase aims to encode multi sense information of a word exploiting properties of a specific manifold. | https://github.com/SouvikBan/multi_sense_learning | ['exploit'] | 1 | 2021-11-18 07:56:59+00:00 | 0 | 0 | C++ | 0 | [] |
 | jonathonbrady/Bizarre | Exploits arbitrage in SkyBlock's Bazaar to generate coins | https://github.com/jonathonbrady/Bizarre | ['exploit'] | 1 | 2021-11-18 07:43:19+00:00 | 0 | 0 | Python | 0 | [] |
 | dapivei/tweetple | A wrapper to stream information from Twitters' Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2021-11-18 08:20:03+00:00 | 0 | 0 | Python | 0 | [] |
-| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-18 06:52:28+00:00 | 1972 | 0 | Lua | 0 | [] |
-| rogxo/ShellcodeLoader | Shellcode加载器大全 | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2021-11-18 04:18:51+00:00 | 29 | 1 | C++ | 1 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-18 01:04:57+00:00 | 228 | 0 | | 0 | [] |
+| Claudio4813/Reveil_berry | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | ['exploit'] | 1 | 2021-11-18 08:53:20+00:00 | 10322 | 0 | C | 1 | [] |
+| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-11-18 09:07:35+00:00 | 73 | 5 | Shell | 0 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-18 02:11:57+00:00 | 3549 | 127 | JavaScript | 314 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-11-18 02:28:01+00:00 | 28796 | 0 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-18 01:07:42+00:00 | 32421 | 2 | Python | 0 | [] |
-| nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2021-11-18 06:26:50+00:00 | 123 | 451 | | 52 | [] |
-| DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-18 08:10:21+00:00 | 121 | 0 | | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-18 04:02:12+00:00 | 58945 | 233 | Python | 72 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-18 00:40:52+00:00 | 84 | 0 | PHP | 0 | [] |
-| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-18 05:28:43+00:00 | 8280 | 0 | Lua | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-18 00:04:07+00:00 | 446847 | 35 | | 19 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-18 00:45:29+00:00 | 49815 | 25 | | 14 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-18 06:32:58+00:00 | 35191 | 6074 | Vue | 1275 | [] |
-| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-18 07:42:54+00:00 | 295415 | 87 | Python | 13 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-18 00:17:02+00:00 | 186679 | 254 | Ruby | 78 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-18 00:06:15+00:00 | 1534766 | 1526 | Python | 525 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-18 00:17:02+00:00 | 186679 | 254 | Ruby | 78 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-18 07:42:54+00:00 | 295415 | 87 | Python | 13 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-18 06:32:58+00:00 | 35191 | 6074 | Vue | 1275 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-18 09:10:52+00:00 | 65006 | 1291 | Python | 262 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-18 00:45:29+00:00 | 49815 | 25 | | 14 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-18 00:04:07+00:00 | 446847 | 35 | | 19 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-18 05:28:43+00:00 | 8280 | 0 | Lua | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-18 00:40:52+00:00 | 84 | 0 | PHP | 0 | [] |
+| loRes228/PasteExploit | PasteExploit is a malicious command generator for Windows and Linux systems written in Python | https://github.com/loRes228/PasteExploit | ['exploit'] | 1 | 2021-11-18 08:42:10+00:00 | 10 | 4 | Python | 2 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-18 04:02:12+00:00 | 58945 | 233 | Python | 72 | [] |
+| DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-18 08:10:21+00:00 | 121 | 0 | | 0 | [] |
+| nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2021-11-18 06:26:50+00:00 | 123 | 451 | | 52 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-18 01:07:42+00:00 | 32421 | 2 | Python | 0 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-11-18 02:28:01+00:00 | 28796 | 0 | Python | 0 | [] |
 | KAB8345/CVE-2021-26411 | None | https://github.com/KAB8345/CVE-2021-26411 | ['cve-2 OR cve_2'] | 1 | 2021-11-18 08:33:05+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-26411'] |
