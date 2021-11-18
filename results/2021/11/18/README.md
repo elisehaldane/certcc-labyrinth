@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/18
     
-58 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-18 04:04:43+00:00 | 655097 | 25611 | Ruby | 11738 | [] |
-| veiyolol/xss-vulnerability | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | ['exploit'] | 1 | 2021-11-18 01:21:06+00:00 | 0 | 0 | HTML | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-18 05:08:13+00:00 | 294064 | 6619 | C | 1821 | [] |
+| jravis-8520/h-sploit | H-SPLOIT TOOL IS HELP TO INSTALL METASPLOIT-FRAMEWORK IN A TERMUX | https://github.com/jravis-8520/h-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-18 13:49:37+00:00 | 7805 | 1 | Shell | 0 | [] |
 | hemasphere/rces | Work on the Research Computing in Earth Science Text | https://github.com/hemasphere/rces | ['rce'] | 1 | 2021-11-18 14:24:15+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | Claudio4813/Reveil_berry | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | ['exploit'] | 1 | 2021-11-18 08:53:20+00:00 | 10322 | 0 | C | 1 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-18 01:04:57+00:00 | 228 | 0 | | 0 | [] |
@@ -19,8 +20,8 @@
 | rabbitsafe/CVE-2021-37580 | None | https://github.com/rabbitsafe/CVE-2021-37580 | ['cve-2 OR cve_2'] | 1 | 2021-11-18 04:38:41+00:00 | 180 | 4 | Python | 0 | ['CVE-2021-37580'] |
 | fengwenhua/CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-18 08:05:48+00:00 | 4055 | 7 | Python | 4 | ['CVE-2021-37580'] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-11-18 00:42:52+00:00 | 57 | 0 | C | 0 | [] |
+| veiyolol/xss-vulnerability | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | ['exploit'] | 1 | 2021-11-18 01:21:06+00:00 | 0 | 0 | HTML | 0 | [] |
 | rcedron090992/rcedron090992 | Config files for my GitHub profile. | https://github.com/rcedron090992/rcedron090992 | ['rce'] | 1 | 2021-11-18 02:57:41+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-18 05:08:13+00:00 | 294064 | 6619 | C | 1821 | [] |
 | Sriireshma/CN-Lab-Rce | None | https://github.com/Sriireshma/CN-Lab-Rce | ['rce'] | 1 | 2021-11-18 04:22:41+00:00 | 0 | 0 | | 0 | [] |
 | Jkrasher/WindowsThreatResearch_Krasher | Repo of Win Threats and exploits | https://github.com/Jkrasher/WindowsThreatResearch_Krasher | ['exploit'] | 1 | 2021-11-18 05:37:26+00:00 | 14 | 1 | | 0 | [] |
 | 99norah/Buffer-Overflow-Attack- | In this project, we exploited Buffer Overflow vulnerability for learning purpose | https://github.com/99norah/Buffer-Overflow-Attack- | ['exploit'] | 1 | 2021-11-18 06:34:29+00:00 | 0 | 0 | | 0 | [] |
@@ -33,10 +34,10 @@
 | Pr0meTheuSS/__3xpl01t__ | Space for practice in exploits and pwn (crack_mes, patching, assenbler reading etc.) | https://github.com/Pr0meTheuSS/__3xpl01t__ | ['exploit'] | 1 | 2021-11-18 14:13:49+00:00 | 0 | 0 | C | 0 | [] |
 | hemasphere/rces-assignments | None | https://github.com/hemasphere/rces-assignments | ['rce'] | 1 | 2021-11-18 14:13:13+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | Mrtopl55/ViewSploit | None | https://github.com/Mrtopl55/ViewSploit | ['sploit'] | 1 | 2021-11-18 14:18:58+00:00 | 0 | 0 | | 0 | [] |
-| jravis-8520/h-sploit | H-SPLOIT TOOL IS HELP TO INSTALL METASPLOIT-FRAMEWORK IN A TERMUX | https://github.com/jravis-8520/h-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-18 13:49:37+00:00 | 7805 | 1 | Shell | 0 | [] |
 | WilfriedMercier/ExploitGUI | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | ['exploit'] | 1 | 2021-11-18 11:18:11+00:00 | 151924 | 0 | Python | 1 | [] |
 | tungdo0602/Discord-Token-Generator | This is a simple token generator that use user id to crack (no idea for the proxy, fork it and add proxy part). For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Generator | ['exploit'] | 1 | 2021-11-18 14:21:03+00:00 | 107 | 3 | Python | 1 | [] |
 | Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-11-18 09:07:35+00:00 | 73 | 5 | Shell | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-18 00:04:07+00:00 | 446847 | 35 | | 19 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-18 00:06:15+00:00 | 1534766 | 1526 | Python | 525 | [] |
 | dradis/dradis-metasploit | Metasploit Framework plugin for the Dradis Framework | https://github.com/dradis/dradis-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-18 10:30:59+00:00 | 62 | 5 | Ruby | 3 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-18 11:30:39+00:00 | 72939 | 10332 | Jupyter Notebook | 1776 | [] |
@@ -49,17 +50,18 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-18 00:45:29+00:00 | 49815 | 25 | | 14 | [] |
 | cpesr/wikidataESR | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l'ESR. | https://github.com/cpesr/wikidataESR | ['exploit'] | 1 | 2021-11-18 09:48:18+00:00 | 361991 | 3 | R | 1 | [] |
 | 404rgr/Laravel_Exploit | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO, SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/404rgr/Laravel_Exploit | ['exploit', 'rce'] | 2 | 2021-11-18 13:33:53+00:00 | 58 | 14 | Python | 8 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-18 00:04:07+00:00 | 446847 | 35 | | 19 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-18 05:28:43+00:00 | 8280 | 0 | Lua | 0 | [] |
+| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-18 02:11:57+00:00 | 3549 | 127 | JavaScript | 314 | [] |
 | narumii/Niko | Small crash client base for retarded(german) people who steal other people's code. | https://github.com/narumii/Niko | ['exploit'] | 1 | 2021-11-18 10:46:21+00:00 | 14950 | 21 | Java | 1 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-18 00:40:52+00:00 | 84 | 0 | PHP | 0 | [] |
 | loRes228/PasteExploit | PasteExploit is a malicious command generator for Windows and Linux systems written in Python | https://github.com/loRes228/PasteExploit | ['exploit'] | 1 | 2021-11-18 08:42:10+00:00 | 10 | 4 | Python | 2 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-18 04:02:12+00:00 | 58945 | 233 | Python | 72 | [] |
 | Charmve/PyStegosploit | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | ['cve poc', 'exploit'] | 2 | 2021-11-18 11:07:54+00:00 | 6619 | 9 | HTML | 4 | ['CVE-2014-0282'] |
+| REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-18 15:08:47+00:00 | 1403 | 106 | Python | 17 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-11-18 08:10:21+00:00 | 121 | 0 | | 0 | [] |
 | nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2021-11-18 06:26:50+00:00 | 123 | 451 | | 52 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-18 01:07:42+00:00 | 32421 | 2 | Python | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-11-18 02:28:01+00:00 | 28796 | 0 | Python | 0 | [] |
+| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-18 14:55:19+00:00 | 25 | 1 | Java | 0 | [] |
 | Gitster7/Vulnerable_Machine-Linux | An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques. | https://github.com/Gitster7/Vulnerable_Machine-Linux | ['exploit'] | 1 | 2021-11-18 09:45:36+00:00 | 30 | 0 | | 0 | [] |
-| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-18 02:11:57+00:00 | 3549 | 127 | JavaScript | 314 | [] |
 | Mrtopl55/ViewSploit2 | None | https://github.com/Mrtopl55/ViewSploit2 | ['sploit'] | 1 | 2021-11-18 14:16:40+00:00 | 0 | 0 | | 0 | [] |
