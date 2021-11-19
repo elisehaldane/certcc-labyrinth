@@ -1,12 +1,14 @@
 
 # Summary for results/2021/11/19
     
-51 records found after deduplication
+55 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-19 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
-| JaredDobry/brute_shellcode | Brute forces the pad # needed to buffer overflow a binary and overwrite the return address to <addr> | https://github.com/JaredDobry/brute_shellcode | ['shellcode'] | 1 | 2021-11-19 01:34:47+00:00 | 0 | 0 | Python | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-19 11:11:46+00:00 | 656080 | 25630 | Ruby | 11743 | [] |
+| DWrekt/metasploit | None | https://github.com/DWrekt/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-19 10:14:06+00:00 | 0 | 0 | Shell | 0 | [] |
+| wyzmlr/AutoExploitSwagger | SwaggerAPI 自动利用工具 | https://github.com/wyzmlr/AutoExploitSwagger | ['exploit'] | 1 | 2021-11-19 07:43:17+00:00 | 727 | 6 | Python | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-19 04:33:31+00:00 | 12411 | 3 | Python | 0 | [] |
 | WhitfieBad/LearningExploiting | None | https://github.com/WhitfieBad/LearningExploiting | ['exploit'] | 1 | 2021-11-19 00:29:28+00:00 | 6 | 0 | C | 0 | [] |
 | wevertonribeiroferreira/Red-vs-Blue-Project | I concluded this report with a imersive and very hand-on assesement where I was able to use the tactics and tools available as a Red team player giving me a better understading of how data exploitation happens and on the Blue side once the vulnerability h | https://github.com/wevertonribeiroferreira/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-11-19 06:48:57+00:00 | 2847 | 1 | | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-19 06:19:43+00:00 | 166 | 1 | Python | 1 | [] |
@@ -16,9 +18,9 @@
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2021-11-19 03:10:33+00:00 | 51 | 4 | Go | 0 | [] |
 | dragonlost/nafabox_rce_2021 | présentation de la nafabox au Recontre Ciel et Espace 2021 | https://github.com/dragonlost/nafabox_rce_2021 | ['rce'] | 1 | 2021-11-19 00:17:19+00:00 | 19756 | 0 | | 0 | [] |
 | 99norah/Buffer-Overflow-Attack- | In this project, we exploited Buffer Overflow vulnerability for learning purpose | https://github.com/99norah/Buffer-Overflow-Attack- | ['exploit'] | 1 | 2021-11-19 09:35:23+00:00 | 1 | 0 | | 0 | [] |
-| DWrekt/metasploit | None | https://github.com/DWrekt/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-19 10:14:06+00:00 | 0 | 0 | Shell | 0 | [] |
+| JaredDobry/brute_shellcode | Brute forces the pad # needed to buffer overflow a binary and overwrite the return address to <addr> | https://github.com/JaredDobry/brute_shellcode | ['shellcode'] | 1 | 2021-11-19 01:34:47+00:00 | 0 | 0 | Python | 0 | [] |
+| Jack74593/RobloxExploit | just some roblox hax | https://github.com/Jack74593/RobloxExploit | ['exploit'] | 1 | 2021-11-19 08:20:49+00:00 | 11168 | 0 | | 0 | [] |
 | IamM47Z/ThrottleStop-PoC | PoC for a Vulnerability in ThrottleStop Driver that lets the user read and write in msrs | https://github.com/IamM47Z/ThrottleStop-PoC | ['vulnerability poc'] | 1 | 2021-11-19 01:47:58+00:00 | 0 | 0 | C++ | 0 | [] |
-| wyzmlr/AutoExploitSwagger | SwaggerAPI 自动利用工具 | https://github.com/wyzmlr/AutoExploitSwagger | ['exploit'] | 1 | 2021-11-19 07:43:17+00:00 | 727 | 6 | Python | 0 | [] |
 | tgp-top/DAP-1360 | An authorization command injection vulnerability about DAP-1360 | https://github.com/tgp-top/DAP-1360 | ['command injection'] | 1 | 2021-11-19 02:36:49+00:00 | 0 | 0 | nan | 0 | [] |
 | kombat1/CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | ['cve-2 OR cve_2'] | 1 | 2021-11-19 05:41:36+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-43617'] |
 | Osyanina/westone-CVE-2021-37580-scanner | A vulnerability scanner that detects CVE-2021-37580 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-37580-scanner | ['cve-2 OR cve_2'] | 1 | 2021-11-19 06:54:05+00:00 | 0 | 0 | | 0 | ['CVE-2021-37580'] |
@@ -29,30 +31,32 @@
 | dbgee/fastjson-rce | fastjson rce env based on springboot | https://github.com/dbgee/fastjson-rce | ['rce'] | 1 | 2021-11-19 08:34:58+00:00 | 0 | 0 | Java | 0 | [] |
 | cyberbyte000/exploit | Bug Exploit for Komoot.com | https://github.com/cyberbyte000/exploit | ['exploit'] | 1 | 2021-11-19 09:00:37+00:00 | 0 | 0 | HTML | 0 | [] |
 | Liang2580/CVE-2021-37580 | CVE-2021-37580 | https://github.com/Liang2580/CVE-2021-37580 | ['cve-2 OR cve_2'] | 1 | 2021-11-19 09:03:13+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-37580'] |
-| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-19 04:33:31+00:00 | 12411 | 3 | Python | 0 | [] |
 | RandomGuyFromDiscord/suiders | A script that will use the sudoers / suid vulnerabilities for automatic exploitation | https://github.com/RandomGuyFromDiscord/suiders | ['exploit'] | 1 | 2021-11-19 09:18:18+00:00 | 1 | 0 | | 0 | [] |
+| aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-19 01:06:21+00:00 | 9383 | 15 | C++ | 3 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-19 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
+| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-11-19 00:08:22+00:00 | 6098 | 30 | Shell | 5 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-19 00:16:59+00:00 | 188209 | 254 | Ruby | 78 | [] |
-| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-19 08:33:04+00:00 | 9302 | 0 | Lua | 0 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-11-19 00:44:34+00:00 | 16622 | 991 | PowerShell | 234 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-19 11:11:13+00:00 | 295421 | 87 | Python | 13 | [] |
 | yogeshshe1ke/CVE | Source References for Published CVE & Advisory | https://github.com/yogeshshe1ke/CVE | ['exploit'] | 1 | 2021-11-19 05:50:12+00:00 | 15 | 5 | Python | 1 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-19 08:48:32+00:00 | 35231 | 6080 | Vue | 1276 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-19 02:07:38+00:00 | 65174 | 1292 | Python | 262 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-19 00:45:29+00:00 | 50483 | 25 | | 14 | [] |
 | chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-11-19 07:32:45+00:00 | 1011 | 6 | Shell | 0 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-11-19 01:24:32+00:00 | 577 | 105 | Java | 20 | [] |
+| LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2021-11-19 11:26:49+00:00 | 1106 | 2681 | JavaScript | 294 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-11-19 00:16:42+00:00 | 3829 | 12 | PowerShell | 3 | [] |
-| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-11-19 00:08:22+00:00 | 6098 | 30 | Shell | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-19 00:03:40+00:00 | 410180 | 35 | | 19 | [] |
+| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-19 01:34:26+00:00 | 26 | 1 | Java | 0 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-19 08:33:04+00:00 | 9302 | 0 | Lua | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-19 08:36:18+00:00 | 289223 | 723 | | 151 | [] |
-| Jack74593/RobloxExploit | just some roblox hax | https://github.com/Jack74593/RobloxExploit | ['exploit'] | 1 | 2021-11-19 08:20:49+00:00 | 11168 | 0 | | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-19 01:13:13+00:00 | 85 | 0 | PHP | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-19 05:09:19+00:00 | 48 | 0 | C | 0 | [] |
+| cpfbj/0days.io | repository for 0days.io | https://github.com/cpfbj/0days.io | ['0day'] | 1 | 2021-11-19 11:25:20+00:00 | 2425 | 0 | nan | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-19 04:02:18+00:00 | 62165 | 234 | Python | 73 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2021-11-19 10:10:35+00:00 | 277 | 22 | Python | 4 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-19 01:06:34+00:00 | 33726 | 2 | Python | 0 | [] |
 | sridhar-research-lab/MEDDoS | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | ['exploit'] | 1 | 2021-11-19 01:02:17+00:00 | 4 | 0 | C++ | 0 | [] |
 | thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-11-19 10:29:42+00:00 | 11 | 0 | | 0 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-11-19 08:12:08+00:00 | 339 | 0 | Python | 1 | [] |
-| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-19 01:34:26+00:00 | 26 | 1 | Java | 0 | [] |
-| aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-19 01:06:21+00:00 | 9383 | 15 | C++ | 3 | [] |
 | dbgee/fastjson-rce | None | https://github.com/dbgee/fastjson-rce | ['rce'] | 1 | 2021-11-19 09:31:15+00:00 | 0 | 0 | Java | 0 | [] |
