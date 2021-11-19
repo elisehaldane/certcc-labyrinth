@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/19
     
-90 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -28,7 +28,7 @@
 | RandomGuyFromDiscord/suiders | A script that will use the sudoers / suid vulnerabilities for automatic exploitation | https://github.com/RandomGuyFromDiscord/suiders | ['exploit'] | 1 | 2021-11-19 09:18:18+00:00 | 1 | 0 | | 0 | [] |
 | 99norah/Buffer-Overflow-Attack- | In this project, we exploited Buffer Overflow vulnerability for learning purpose | https://github.com/99norah/Buffer-Overflow-Attack- | ['exploit'] | 1 | 2021-11-19 09:35:23+00:00 | 1 | 0 | | 0 | [] |
 | DWrekt/metasploit | None | https://github.com/DWrekt/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-19 10:14:06+00:00 | 0 | 0 | Shell | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-19 13:52:12+00:00 | 46295 | 852 | Python | 201 | [] |
+| not-tobo/LagBeGone | Fix for a Lag Exploit for VRChat | https://github.com/not-tobo/LagBeGone | ['exploit'] | 1 | 2021-11-19 15:16:56+00:00 | 30 | 3 | C# | 0 | [] |
 | m4udSec/PostgreSQL_W_LargeObjectsUDF | Python script exploits sqli to load UDF to obtain RCE via PostgreSQL Large Objets | https://github.com/m4udSec/PostgreSQL_W_LargeObjectsUDF | ['exploit', 'rce'] | 2 | 2021-11-19 19:21:44+00:00 | 8 | 0 | Python | 0 | [] |
 | VVlovsky/TimelockController-Exploit-Agent | This agent detects when someone with the executor role could escalate privileges and become admin of the timelock. | https://github.com/VVlovsky/TimelockController-Exploit-Agent | ['exploit'] | 1 | 2021-11-19 16:14:24+00:00 | 0 | 0 | | 0 | [] |
 | skahwah/SQLRecon | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. | https://github.com/skahwah/SQLRecon | ['exploit'] | 1 | 2021-11-19 16:08:25+00:00 | 0 | 0 | C# | 0 | [] |
@@ -50,10 +50,9 @@
 | IamM47Z/ThrottleStop-PoC | PoC for a Vulnerability in ThrottleStop Driver that lets the user read and write in msrs | https://github.com/IamM47Z/ThrottleStop-PoC | ['vulnerability poc'] | 1 | 2021-11-19 01:47:58+00:00 | 0 | 0 | C++ | 0 | [] |
 | JaredDobry/brute_shellcode | Brute forces the pad # needed to buffer overflow a binary and overwrite the return address to <addr> | https://github.com/JaredDobry/brute_shellcode | ['shellcode'] | 1 | 2021-11-19 01:34:47+00:00 | 0 | 0 | Python | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-19 15:28:11+00:00 | 13412 | 0 | Assembly | 0 | [] |
-| not-tobo/LagBeGone | Fix for a Lag Exploit for VRChat | https://github.com/not-tobo/LagBeGone | ['exploit'] | 1 | 2021-11-19 15:16:56+00:00 | 30 | 3 | C# | 0 | [] |
 | Jack74593/RobloxExploit | just some roblox hax | https://github.com/Jack74593/RobloxExploit | ['exploit'] | 1 | 2021-11-19 08:20:49+00:00 | 11168 | 0 | | 0 | [] |
-| yashkarbhari/Revise-Net | Official code for the paper "Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection" | https://github.com/yashkarbhari/Revise-Net | ['exploit'] | 1 | 2021-11-19 12:15:06+00:00 | 54 | 0 | Python | 0 | [] |
-| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-11-19 00:08:22+00:00 | 6098 | 30 | Shell | 5 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-19 13:52:12+00:00 | 46295 | 852 | Python | 201 | [] |
+| SecuProject/ADenum | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | ['exploit'] | 1 | 2021-11-19 16:43:59+00:00 | 107 | 46 | Python | 17 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-11-19 00:16:42+00:00 | 3829 | 12 | PowerShell | 3 | [] |
 | LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2021-11-19 11:26:49+00:00 | 1106 | 2681 | JavaScript | 294 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-11-19 01:24:32+00:00 | 577 | 105 | Java | 20 | [] |
@@ -64,6 +63,7 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-19 02:07:38+00:00 | 65174 | 1292 | Python | 262 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-19 08:48:32+00:00 | 35231 | 6080 | Vue | 1276 | [] |
 | yogeshshe1ke/CVE | Source References for Published CVE & Advisory | https://github.com/yogeshshe1ke/CVE | ['exploit'] | 1 | 2021-11-19 05:50:12+00:00 | 15 | 5 | Python | 1 | [] |
+| nicolas-carolo/houndsploit | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | ['exploit'] | 1 | 2021-11-19 21:07:59+00:00 | 107682 | 92 | Python | 17 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-19 11:11:13+00:00 | 295421 | 87 | Python | 13 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-11-19 00:44:34+00:00 | 16622 | 991 | PowerShell | 234 | [] |
 | zabdallah/DBA-Python | This is an implementation of DBA from "Faster and more accurate classification of time series by exploiting a novel dynamic time warping averaging algorithm" paper | https://github.com/zabdallah/DBA-Python | ['exploit'] | 1 | 2021-11-19 12:39:00+00:00 | 6 | 1 | Python | 0 | [] |
@@ -72,10 +72,10 @@
 | Edresson/SA-MP-DOS-Exploit | Simple Dos/DDoS exploit of cookie and connection requests for SA:MP application Vulnerability work on samp servers 0.3.7 | https://github.com/Edresson/SA-MP-DOS-Exploit | ['exploit'] | 1 | 2021-11-19 20:11:26+00:00 | 3 | 5 | Python | 23 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-19 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
 | xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2021-11-19 12:13:49+00:00 | 2401 | 288 | HTML | 108 | [] |
-| SecuProject/ADenum | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | ['exploit'] | 1 | 2021-11-19 16:43:59+00:00 | 107 | 46 | Python | 17 | [] |
+| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-11-19 00:08:22+00:00 | 6098 | 30 | Shell | 5 | [] |
 | FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-11-19 12:17:58+00:00 | 96 | 274 | C# | 64 | [] |
+| yashkarbhari/Revise-Net | Official code for the paper "Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection" | https://github.com/yashkarbhari/Revise-Net | ['exploit'] | 1 | 2021-11-19 12:15:06+00:00 | 54 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-19 00:03:40+00:00 | 410180 | 35 | | 19 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-19 01:06:34+00:00 | 33726 | 2 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-19 15:22:26+00:00 | 3570 | 133 | JavaScript | 340 | [] |
 | aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-19 01:06:21+00:00 | 9383 | 15 | C++ | 3 | [] |
 | Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-19 16:50:14+00:00 | 49 | 74 | Python | 6 | [] |
@@ -84,8 +84,8 @@
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-11-19 16:51:59+00:00 | 18 | 0 | | 0 | [] |
 | thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-11-19 10:29:42+00:00 | 11 | 0 | | 0 | [] |
 | sridhar-research-lab/MEDDoS | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | ['exploit'] | 1 | 2021-11-19 01:02:17+00:00 | 4 | 0 | C++ | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-19 01:06:34+00:00 | 33726 | 2 | Python | 0 | [] |
 | thelikes/LikesEncryptor | Bin Encryptor | https://github.com/thelikes/LikesEncryptor | ['shellcode'] | 1 | 2021-11-19 14:05:45+00:00 | 112 | 3 | C# | 7 | [] |
-| binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2021-11-19 19:57:01+00:00 | 5955 | 5 | Go | 2 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2021-11-19 10:10:35+00:00 | 277 | 22 | Python | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-19 04:02:18+00:00 | 62165 | 234 | Python | 73 | [] |
 | Cerbersec/notes | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | ['exploit'] | 1 | 2021-11-19 11:59:44+00:00 | 6 | 1 | | 2 | [] |
@@ -94,4 +94,5 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-19 01:13:13+00:00 | 85 | 0 | PHP | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-19 08:36:18+00:00 | 289223 | 723 | | 151 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-19 08:33:04+00:00 | 9302 | 0 | Lua | 0 | [] |
+| binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2021-11-19 19:57:01+00:00 | 5955 | 5 | Go | 2 | [] |
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-11-19 17:13:09+00:00 | 0 | 0 | | 0 | [] |
