@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/18
     
-104 records found after deduplication
+105 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-18 04:04:43+00:00 | 655097 | 25611 | Ruby | 11738 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-18 05:08:13+00:00 | 294064 | 6619 | C | 1821 | [] |
+| jravis-8520/h-sploit | H-SPLOIT TOOL IS HELP TO INSTALL METASPLOIT-FRAMEWORK IN A TERMUX | https://github.com/jravis-8520/h-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-18 13:49:37+00:00 | 7805 | 1 | Shell | 0 | [] |
 | rcedron090992/rcedron090992 | Config files for my GitHub profile. | https://github.com/rcedron090992/rcedron090992 | ['rce'] | 1 | 2021-11-18 02:57:41+00:00 | 0 | 0 | | 0 | [] |
 | veiyolol/xss-vulnerability | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | ['exploit'] | 1 | 2021-11-18 01:21:06+00:00 | 0 | 0 | HTML | 0 | [] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-11-18 00:42:52+00:00 | 57 | 0 | C | 0 | [] |
@@ -57,9 +57,10 @@
 | jonathonbrady/Bizarre | Exploits arbitrage in SkyBlock's Bazaar to generate coins | https://github.com/jonathonbrady/Bizarre | ['exploit'] | 1 | 2021-11-18 07:43:19+00:00 | 0 | 0 | Python | 0 | [] |
 | SouvikBan/multi_sense_learning | The codebase aims to encode multi sense information of a word exploiting properties of a specific manifold. | https://github.com/SouvikBan/multi_sense_learning | ['exploit'] | 1 | 2021-11-18 07:56:59+00:00 | 0 | 0 | C++ | 0 | [] |
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-11-18 19:53:33+00:00 | 3652 | 1 | Python | 0 | [] |
-| jravis-8520/h-sploit | H-SPLOIT TOOL IS HELP TO INSTALL METASPLOIT-FRAMEWORK IN A TERMUX | https://github.com/jravis-8520/h-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-18 13:49:37+00:00 | 7805 | 1 | Shell | 0 | [] |
 | WilfriedMercier/ExploitGUI | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | ['exploit'] | 1 | 2021-11-18 11:18:11+00:00 | 151924 | 0 | Python | 1 | [] |
-| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-11-18 09:38:42+00:00 | 77860 | 2617 | Python | 398 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-18 05:08:13+00:00 | 294064 | 6619 | C | 1821 | [] |
+| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-11-18 22:22:27+00:00 | 656 | 0 | Python | 0 | [] |
+| cpesr/wikidataESR | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l'ESR. | https://github.com/cpesr/wikidataESR | ['exploit'] | 1 | 2021-11-18 09:48:18+00:00 | 361991 | 3 | R | 1 | [] |
 | NicolasGrimonpont/Cheatsheet | Console command lines, security tools and some useful macros to automate exploits. (MacOs, Linux, Windows) | https://github.com/NicolasGrimonpont/Cheatsheet | ['exploit'] | 1 | 2021-11-18 15:50:33+00:00 | 184 | 2 | Shell | 0 | [] |
 | darky/node-remote-repl | Node.js remote code execution via inspect protocol | https://github.com/darky/node-remote-repl | ['remote code execution'] | 1 | 2021-11-18 17:30:12+00:00 | 40 | 8 | TypeScript | 0 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-11-18 15:45:33+00:00 | 618 | 499 | Java | 49 | [] |
@@ -70,8 +71,8 @@
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-11-18 19:15:26+00:00 | 1118 | 261 | Rust | 15 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-18 09:10:52+00:00 | 65006 | 1291 | Python | 262 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-18 06:32:58+00:00 | 35191 | 6074 | Vue | 1275 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-11-18 09:38:42+00:00 | 77860 | 2617 | Python | 398 | [] |
 | jxsl13/zcatchPlus | A small update to zCatch that has some extended kick/ban exploit features and faster capability to use range bans. Detects some known clients based on flags. Codebase is literally crap, as I use this to learn some C++. Have fun | https://github.com/jxsl13/zcatchPlus | ['exploit'] | 1 | 2021-11-18 18:06:03+00:00 | 72067 | 3 | C | 4 | [] |
-| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-11-18 22:33:01+00:00 | 3595579 | 2 | Batchfile | 0 | [] |
 | fox-it/aclpwn.py | Active Directory ACL exploitation with BloodHound | https://github.com/fox-it/aclpwn.py | ['exploit'] | 1 | 2021-11-18 03:47:24+00:00 | 20 | 495 | Python | 87 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-11-18 18:03:43+00:00 | 190060 | 25 | C++ | 55 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-18 07:42:54+00:00 | 295415 | 87 | Python | 13 | [] |
@@ -82,9 +83,9 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-18 11:30:39+00:00 | 72939 | 10332 | Jupyter Notebook | 1776 | [] |
 | dradis/dradis-metasploit | Metasploit Framework plugin for the Dradis Framework | https://github.com/dradis/dradis-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-18 10:30:59+00:00 | 62 | 5 | Ruby | 3 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-18 00:06:15+00:00 | 1534766 | 1526 | Python | 525 | [] |
-| cpesr/wikidataESR | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l'ESR. | https://github.com/cpesr/wikidataESR | ['exploit'] | 1 | 2021-11-18 09:48:18+00:00 | 361991 | 3 | R | 1 | [] |
+| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-11-18 22:33:01+00:00 | 3595579 | 2 | Batchfile | 0 | [] |
+| LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2021-11-18 18:51:43+00:00 | 1106 | 2681 | JavaScript | 294 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-11-18 23:21:54+00:00 | 3722 | 12 | PowerShell | 3 | [] |
-| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-11-18 22:22:27+00:00 | 656 | 0 | Python | 0 | [] |
 | REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-18 15:08:47+00:00 | 1403 | 106 | Python | 17 | [] |
 | tungdo0602/Discord-Token-Generator | This is a simple token generator that use user id to crack (no idea for the proxy, fork it and add proxy part). For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Generator | ['exploit'] | 1 | 2021-11-18 14:21:03+00:00 | 107 | 3 | Python | 1 | [] |
 | Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-11-18 09:07:35+00:00 | 73 | 5 | Shell | 0 | [] |
