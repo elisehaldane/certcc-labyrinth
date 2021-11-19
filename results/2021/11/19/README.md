@@ -1,21 +1,22 @@
 
 # Summary for results/2021/11/19
     
-83 records found after deduplication
+84 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-19 11:11:46+00:00 | 656080 | 25630 | Ruby | 11743 | [] |
-| DWrekt/metasploit | None | https://github.com/DWrekt/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-19 10:14:06+00:00 | 0 | 0 | Shell | 0 | [] |
+| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-19 06:19:43+00:00 | 166 | 1 | Python | 1 | [] |
 | dragonlost/nafabox_rce_2021 | présentation de la nafabox au Recontre Ciel et Espace 2021 | https://github.com/dragonlost/nafabox_rce_2021 | ['rce'] | 1 | 2021-11-19 00:17:19+00:00 | 19756 | 0 | | 0 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2021-11-19 03:10:33+00:00 | 51 | 4 | Go | 0 | [] |
 | verso1/writeups | CTF writeups and exploits | https://github.com/verso1/writeups | ['exploit'] | 1 | 2021-11-19 00:39:45+00:00 | 8 | 0 | | 0 | [] |
 | dora2-iOS/p0insettia | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit. | https://github.com/dora2-iOS/p0insettia | ['exploit'] | 1 | 2021-11-19 15:24:24+00:00 | 12497 | 10 | C | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-19 02:22:27+00:00 | 7 | 19 | Python | 3 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-19 18:10:11+00:00 | 49 | 4 | | 0 | [] |
 | umesoft/RcEscSetupTool | None | https://github.com/umesoft/RcEscSetupTool | ['rce'] | 1 | 2021-11-19 05:59:40+00:00 | 145 | 0 | Java | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-19 12:40:06+00:00 | 2361 | 0 | Lua | 0 | [] |
-| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-19 06:19:43+00:00 | 166 | 1 | Python | 1 | [] |
 | Killerxkiller/ReadMe | How to install Metasploit using kali / and its use cases | https://github.com/Killerxkiller/ReadMe | ['metasploit module OR payload'] | 1 | 2021-11-19 14:01:03+00:00 | 33 | 2 | | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-19 13:52:12+00:00 | 46295 | 852 | Python | 201 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-19 16:16:55+00:00 | 185 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | wevertonribeiroferreira/Red-vs-Blue-Project | I concluded this report with a imersive and very hand-on assesement where I was able to use the tactics and tools available as a Red team player giving me a better understading of how data exploitation happens and on the Blue side once the vulnerability h | https://github.com/wevertonribeiroferreira/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-11-19 06:48:57+00:00 | 2847 | 1 | | 0 | [] |
 | WhitfieBad/LearningExploiting | None | https://github.com/WhitfieBad/LearningExploiting | ['exploit'] | 1 | 2021-11-19 00:29:28+00:00 | 6 | 0 | C | 0 | [] |
@@ -25,8 +26,8 @@
 | RandomGuyFromDiscord/suiders | A script that will use the sudoers / suid vulnerabilities for automatic exploitation | https://github.com/RandomGuyFromDiscord/suiders | ['exploit'] | 1 | 2021-11-19 09:18:18+00:00 | 1 | 0 | | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-19 15:28:11+00:00 | 13412 | 0 | Assembly | 0 | [] |
 | 99norah/Buffer-Overflow-Attack- | In this project, we exploited Buffer Overflow vulnerability for learning purpose | https://github.com/99norah/Buffer-Overflow-Attack- | ['exploit'] | 1 | 2021-11-19 09:35:23+00:00 | 1 | 0 | | 0 | [] |
+| DWrekt/metasploit | None | https://github.com/DWrekt/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-19 10:14:06+00:00 | 0 | 0 | Shell | 0 | [] |
 | JaredDobry/brute_shellcode | Brute forces the pad # needed to buffer overflow a binary and overwrite the return address to <addr> | https://github.com/JaredDobry/brute_shellcode | ['shellcode'] | 1 | 2021-11-19 01:34:47+00:00 | 0 | 0 | Python | 0 | [] |
-| Jack74593/RobloxExploit | just some roblox hax | https://github.com/Jack74593/RobloxExploit | ['exploit'] | 1 | 2021-11-19 08:20:49+00:00 | 11168 | 0 | | 0 | [] |
 | IamM47Z/ThrottleStop-PoC | PoC for a Vulnerability in ThrottleStop Driver that lets the user read and write in msrs | https://github.com/IamM47Z/ThrottleStop-PoC | ['vulnerability poc'] | 1 | 2021-11-19 01:47:58+00:00 | 0 | 0 | C++ | 0 | [] |
 | VVlovsky/TimelockController-Exploit-Agent | This agent detects when someone with the executor role could escalate privileges and become admin of the timelock. | https://github.com/VVlovsky/TimelockController-Exploit-Agent | ['exploit'] | 1 | 2021-11-19 16:14:24+00:00 | 0 | 0 | | 0 | [] |
 | skahwah/SQLRecon | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. | https://github.com/skahwah/SQLRecon | ['exploit'] | 1 | 2021-11-19 16:08:25+00:00 | 0 | 0 | C# | 0 | [] |
@@ -46,8 +47,8 @@
 | kombat1/CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | ['cve-2 OR cve_2'] | 1 | 2021-11-19 05:41:36+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-43617'] |
 | tgp-top/DAP-1360 | An authorization command injection vulnerability about DAP-1360 | https://github.com/tgp-top/DAP-1360 | ['command injection'] | 1 | 2021-11-19 02:36:49+00:00 | 0 | 0 | nan | 0 | [] |
 | not-tobo/LagBeGone | Fix for a Lag Exploit for VRChat | https://github.com/not-tobo/LagBeGone | ['exploit'] | 1 | 2021-11-19 15:16:56+00:00 | 30 | 3 | C# | 0 | [] |
+| Jack74593/RobloxExploit | just some roblox hax | https://github.com/Jack74593/RobloxExploit | ['exploit'] | 1 | 2021-11-19 08:20:49+00:00 | 11168 | 0 | | 0 | [] |
 | yashkarbhari/Revise-Net | Official code for the paper "Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection" | https://github.com/yashkarbhari/Revise-Net | ['exploit'] | 1 | 2021-11-19 12:15:06+00:00 | 54 | 0 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-19 13:52:12+00:00 | 46295 | 852 | Python | 201 | [] |
 | SecuProject/ADenum | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | ['exploit'] | 1 | 2021-11-19 16:43:59+00:00 | 107 | 46 | Python | 17 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-11-19 00:16:42+00:00 | 3829 | 12 | PowerShell | 3 | [] |
 | LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2021-11-19 11:26:49+00:00 | 1106 | 2681 | JavaScript | 294 | [] |
