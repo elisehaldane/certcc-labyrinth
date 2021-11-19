@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+429738760,dbgee/fastjson-rce,Exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,5e7c82a525afe4eb3c2de96d39e7eb9fa313788a,VU#03
+429738760,dbgee/fastjson-rce,Exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,5e7c82a525afe4eb3c2de96d39e7eb9fa313788a,VU#23
+429738760,dbgee/fastjson-rce,Exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,5e7c82a525afe4eb3c2de96d39e7eb9fa313788a,VU#68
+429738760,dbgee/fastjson-rce,Exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,5e7c82a525afe4eb3c2de96d39e7eb9fa313788a,VU#80
+429738760,dbgee/fastjson-rce,Exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,5e7c82a525afe4eb3c2de96d39e7eb9fa313788a,VU#83
