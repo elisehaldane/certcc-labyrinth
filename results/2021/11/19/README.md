@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/19
     
-95 records found after deduplication
+96 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-19 11:11:46+00:00 | 656080 | 25630 | Ruby | 11743 | [] |
-| MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-19 18:56:23+00:00 | 1831 | 0 | Lua | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-19 13:52:12+00:00 | 46295 | 852 | Python | 201 | [] |
 | Leokuy/exploit | None | https://github.com/Leokuy/exploit | ['exploit'] | 1 | 2021-11-19 19:24:46+00:00 | 1 | 0 | | 0 | [] |
 | dragonlost/nafabox_rce_2021 | présentation de la nafabox au Recontre Ciel et Espace 2021 | https://github.com/dragonlost/nafabox_rce_2021 | ['rce'] | 1 | 2021-11-19 00:17:19+00:00 | 19756 | 0 | | 0 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2021-11-19 03:10:33+00:00 | 51 | 4 | Go | 0 | [] |
@@ -16,8 +16,8 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-19 18:10:11+00:00 | 49 | 4 | | 0 | [] |
 | umesoft/RcEscSetupTool | None | https://github.com/umesoft/RcEscSetupTool | ['rce'] | 1 | 2021-11-19 05:59:40+00:00 | 145 | 0 | Java | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-19 12:40:06+00:00 | 2361 | 0 | Lua | 0 | [] |
+| MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2021-11-19 18:56:23+00:00 | 1831 | 0 | Lua | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-19 06:19:43+00:00 | 166 | 1 | Python | 1 | [] |
-| vezzl/Enterprise-DNS-Exploit | An exploit for Chrome OS to utilize the custom name servers feature to interrupt mass management systems | https://github.com/vezzl/Enterprise-DNS-Exploit | ['exploit'] | 1 | 2021-11-19 20:13:26+00:00 | 4 | 0 | | 0 | [] |
 | Killerxkiller/ReadMe | How to install Metasploit using kali / and its use cases | https://github.com/Killerxkiller/ReadMe | ['metasploit module OR payload'] | 1 | 2021-11-19 14:01:03+00:00 | 33 | 2 | | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-19 16:16:55+00:00 | 185 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | wevertonribeiroferreira/Red-vs-Blue-Project | I concluded this report with a imersive and very hand-on assesement where I was able to use the tactics and tools available as a Red team player giving me a better understading of how data exploitation happens and on the Blue side once the vulnerability h | https://github.com/wevertonribeiroferreira/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-11-19 06:48:57+00:00 | 2847 | 1 | | 0 | [] |
@@ -27,9 +27,10 @@
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-11-19 16:56:44+00:00 | 4346 | 1 | Python | 0 | [] |
 | RandomGuyFromDiscord/suiders | A script that will use the sudoers / suid vulnerabilities for automatic exploitation | https://github.com/RandomGuyFromDiscord/suiders | ['exploit'] | 1 | 2021-11-19 09:18:18+00:00 | 1 | 0 | | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-19 15:28:11+00:00 | 13412 | 0 | Assembly | 0 | [] |
+| not-tobo/LagBeGone | Fix for a Lag Exploit for VRChat | https://github.com/not-tobo/LagBeGone | ['exploit'] | 1 | 2021-11-19 15:16:56+00:00 | 30 | 3 | C# | 0 | [] |
 | 99norah/Buffer-Overflow-Attack- | In this project, we exploited Buffer Overflow vulnerability for learning purpose | https://github.com/99norah/Buffer-Overflow-Attack- | ['exploit'] | 1 | 2021-11-19 09:35:23+00:00 | 1 | 0 | | 0 | [] |
+| vezzl/Enterprise-DNS-Exploit | An exploit for Chrome OS to utilize the custom name servers feature to interrupt mass management systems | https://github.com/vezzl/Enterprise-DNS-Exploit | ['exploit'] | 1 | 2021-11-19 20:13:26+00:00 | 4 | 0 | | 0 | [] |
 | DWrekt/metasploit | None | https://github.com/DWrekt/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-19 10:14:06+00:00 | 0 | 0 | Shell | 0 | [] |
-| Jack74593/RobloxExploit | just some roblox hax | https://github.com/Jack74593/RobloxExploit | ['exploit'] | 1 | 2021-11-19 08:20:49+00:00 | 11168 | 0 | | 0 | [] |
 | cyberbyte000/exploit | Bug Exploit for Komoot.com | https://github.com/cyberbyte000/exploit | ['exploit'] | 1 | 2021-11-19 09:00:37+00:00 | 0 | 0 | HTML | 0 | [] |
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-11-19 17:13:09+00:00 | 0 | 0 | | 0 | [] |
 | VVlovsky/TimelockController-Exploit-Agent | This agent detects when someone with the executor role could escalate privileges and become admin of the timelock. | https://github.com/VVlovsky/TimelockController-Exploit-Agent | ['exploit'] | 1 | 2021-11-19 16:14:24+00:00 | 0 | 0 | | 0 | [] |
@@ -51,9 +52,9 @@
 | tgp-top/DAP-1360 | An authorization command injection vulnerability about DAP-1360 | https://github.com/tgp-top/DAP-1360 | ['command injection'] | 1 | 2021-11-19 02:36:49+00:00 | 0 | 0 | nan | 0 | [] |
 | IamM47Z/ThrottleStop-PoC | PoC for a Vulnerability in ThrottleStop Driver that lets the user read and write in msrs | https://github.com/IamM47Z/ThrottleStop-PoC | ['vulnerability poc'] | 1 | 2021-11-19 01:47:58+00:00 | 0 | 0 | C++ | 0 | [] |
 | JaredDobry/brute_shellcode | Brute forces the pad # needed to buffer overflow a binary and overwrite the return address to <addr> | https://github.com/JaredDobry/brute_shellcode | ['shellcode'] | 1 | 2021-11-19 01:34:47+00:00 | 0 | 0 | Python | 0 | [] |
-| not-tobo/LagBeGone | Fix for a Lag Exploit for VRChat | https://github.com/not-tobo/LagBeGone | ['exploit'] | 1 | 2021-11-19 15:16:56+00:00 | 30 | 3 | C# | 0 | [] |
+| Jack74593/RobloxExploit | just some roblox hax | https://github.com/Jack74593/RobloxExploit | ['exploit'] | 1 | 2021-11-19 08:20:49+00:00 | 11168 | 0 | | 0 | [] |
 | yashkarbhari/Revise-Net | Official code for the paper "Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection" | https://github.com/yashkarbhari/Revise-Net | ['exploit'] | 1 | 2021-11-19 12:15:06+00:00 | 54 | 0 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-19 13:52:12+00:00 | 46295 | 852 | Python | 201 | [] |
+| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-19 15:22:26+00:00 | 3570 | 133 | JavaScript | 340 | [] |
 | yogeshshe1ke/CVE | Source References for Published CVE & Advisory | https://github.com/yogeshshe1ke/CVE | ['exploit'] | 1 | 2021-11-19 05:50:12+00:00 | 15 | 5 | Python | 1 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-11-19 00:16:42+00:00 | 3829 | 12 | PowerShell | 3 | [] |
 | LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2021-11-19 11:26:49+00:00 | 1106 | 2681 | JavaScript | 294 | [] |
@@ -77,9 +78,8 @@
 | daedalus/bitcoin-recover-privkey | Proof of concept of bitcoin private key recovery using weak ECDSA signatures | https://github.com/daedalus/bitcoin-recover-privkey | ['vulnerability poc'] | 1 | 2021-11-19 23:08:14+00:00 | 31 | 43 | Python | 67 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-11-19 00:08:22+00:00 | 6098 | 30 | Shell | 5 | [] |
 | FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-11-19 12:17:58+00:00 | 96 | 274 | C# | 64 | [] |
-| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-19 15:22:26+00:00 | 3570 | 133 | JavaScript | 340 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-19 01:06:34+00:00 | 33726 | 2 | Python | 0 | [] |
 | aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-19 01:06:21+00:00 | 9383 | 15 | C++ | 3 | [] |
+| SpartanMike/Technical-Capabilities | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R) ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security ● Udemy CompTIA CySA+ Course: Certifi | https://github.com/SpartanMike/Technical-Capabilities | ['exploit', 'metasploit module OR payload'] | 2 | 2021-11-19 23:58:51+00:00 | 23834 | 0 | | 0 | [] |
 | Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-19 16:50:14+00:00 | 49 | 74 | Python | 6 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-19 01:34:26+00:00 | 26 | 1 | Java | 0 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-11-19 08:12:08+00:00 | 339 | 0 | Python | 1 | [] |
@@ -88,6 +88,7 @@
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-11-19 16:51:59+00:00 | 18 | 0 | | 0 | [] |
 | thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-11-19 10:29:42+00:00 | 11 | 0 | | 0 | [] |
 | sridhar-research-lab/MEDDoS | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | ['exploit'] | 1 | 2021-11-19 01:02:17+00:00 | 4 | 0 | C++ | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-19 01:06:34+00:00 | 33726 | 2 | Python | 0 | [] |
 | thelikes/LikesEncryptor | Bin Encryptor | https://github.com/thelikes/LikesEncryptor | ['shellcode'] | 1 | 2021-11-19 14:05:45+00:00 | 112 | 3 | C# | 7 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-19 00:03:40+00:00 | 410180 | 35 | | 19 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2021-11-19 10:10:35+00:00 | 277 | 22 | Python | 4 | [] |
