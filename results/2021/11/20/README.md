@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/20
     
-52 records found after deduplication
+54 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-20 00:23:15+00:00 | 27108 | 8501 | Python | 1464 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-20 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-11-20 01:16:49+00:00 | 17 | 0 | C | 0 | [] |
+| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-20 13:33:41+00:00 | 11 | 0 | Shell | 0 | [] |
 | raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-20 13:28:05+00:00 | 30786 | 0 | HTML | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-20 06:33:28+00:00 | 19361 | 3 | Python | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-20 13:15:01+00:00 | 166 | 1 | Python | 1 | [] |
@@ -17,8 +18,8 @@
 | cckuailong/YarnRpcRCE | None | https://github.com/cckuailong/YarnRpcRCE | ['rce'] | 1 | 2021-11-20 04:56:36+00:00 | 1 | 1 | | 1 | [] |
 | skahwah/encrypt | Pseudorandom AES-256 encryption designed to protect shellcode and arbitrary strings. C# and C/C++ compatible. | https://github.com/skahwah/encrypt | ['shellcode'] | 1 | 2021-11-20 14:27:16+00:00 | 12 | 18 | C# | 5 | [] |
 | skahwah/SQLRecon | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. | https://github.com/skahwah/SQLRecon | ['exploit'] | 1 | 2021-11-20 14:25:16+00:00 | 21 | 17 | C# | 2 | [] |
-| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-11-20 01:16:49+00:00 | 17 | 0 | C | 0 | [] |
 | hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | None | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | ['exploit'] | 1 | 2021-11-20 01:43:47+00:00 | 2325 | 0 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-20 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
 | SHALINI5365uq/DarkModderVC3 | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/SHALINI5365uq/DarkModderVC3 | ['exploit'] | 1 | 2021-11-20 02:11:55+00:00 | 0 | 0 | | 0 | [] |
 | FoxxD3Vza/adamyordan | Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy)… | https://github.com/FoxxD3Vza/adamyordan | ['rce'] | 1 | 2021-11-20 03:06:02+00:00 | 0 | 0 | | 0 | ['CVE-2019-1003000', 'CVE-2019-1003001'] |
 | cafehepho300/Midhub02Pet1 | local library = loadstring(game:HttpGet('https://pastebin.com/raw/S20QBsjg'))() local MainWindow = library:CreateWindow("MID02HUB") local EggsWindow = library:CreateWindow("Eggs") local GameLibrary = require(game:GetService("ReplicatedStorage"):WaitForChi | https://github.com/cafehepho300/Midhub02Pet1 | ['exploit'] | 1 | 2021-11-20 03:43:31+00:00 | 0 | 0 | | 0 | [] |
@@ -30,10 +31,10 @@
 | CCayssiols/TP04_PT_perte_charge | Exploitation des données expérimentales du TP perte de charge linéaire | https://github.com/CCayssiols/TP04_PT_perte_charge | ['exploit'] | 1 | 2021-11-20 09:29:12+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | nopalhiya/tes-exploit | None | https://github.com/nopalhiya/tes-exploit | ['exploit'] | 1 | 2021-11-20 09:49:42+00:00 | 0 | 0 | | 0 | [] |
 | Joeshibha/REMOTE-COMMAND-EXECUTION-RCE- | To implement Remote Command Execution(RCE) | https://github.com/Joeshibha/REMOTE-COMMAND-EXECUTION-RCE- | ['rce'] | 1 | 2021-11-20 13:31:05+00:00 | 0 | 0 | Java | 0 | [] |
-| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-20 13:33:41+00:00 | 11 | 0 | Shell | 0 | [] |
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-11-20 11:25:15+00:00 | 4371 | 1 | Python | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-20 10:33:46+00:00 | 13844 | 0 | Rust | 0 | [] |
-| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-20 10:12:19+00:00 | 11162 | 0 | Lua | 0 | [] |
+| dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2021-11-20 13:00:02+00:00 | 1273 | 0 | C | 0 | [] |
+| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-20 06:00:44+00:00 | 3570 | 137 | JavaScript | 346 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-20 11:35:03+00:00 | 73241 | 10339 | Jupyter Notebook | 1779 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-20 00:16:55+00:00 | 189744 | 254 | Ruby | 78 | [] |
 | jxsl13/zcatchPlus | A small update to zCatch that has some extended kick/ban exploit features and faster capability to use range bans. Detects some known clients based on flags. Codebase is literally crap, as I use this to learn some C++. Have fun | https://github.com/jxsl13/zcatchPlus | ['exploit'] | 1 | 2021-11-20 10:02:29+00:00 | 72046 | 3 | C | 4 | [] |
@@ -44,8 +45,9 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-20 00:45:30+00:00 | 50948 | 25 | | 14 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-11-20 05:23:48+00:00 | 589 | 106 | Java | 20 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-20 00:04:18+00:00 | 413783 | 35 | | 19 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2021-11-20 15:09:47+00:00 | 91781 | 13 | Python | 4 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-20 10:12:19+00:00 | 11162 | 0 | Lua | 0 | [] |
 | Hellsender01/vsftpd_2.3.4_Exploit | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | ['exploit'] | 1 | 2021-11-20 12:41:20+00:00 | 48 | 2 | Python | 2 | [] |
-| dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2021-11-20 13:00:02+00:00 | 1273 | 0 | C | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-20 08:56:29+00:00 | 289284 | 725 | | 152 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-11-20 06:37:07+00:00 | 179 | 7 | Shell | 1 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-20 07:16:45+00:00 | 49 | 0 | C | 0 | [] |
@@ -54,6 +56,6 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-20 04:03:00+00:00 | 65921 | 236 | Python | 73 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-20 01:06:57+00:00 | 35060 | 2 | Python | 0 | [] |
 | thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-11-20 10:32:18+00:00 | 13 | 0 | | 0 | [] |
+| ScriptIdiot/vba_bin_runner | Basic python tools to generate shellcode runner in vba | https://github.com/ScriptIdiot/vba_bin_runner | ['shellcode'] | 1 | 2021-11-20 15:35:23+00:00 | 11 | 2 | Python | 0 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-11-20 05:13:02+00:00 | 346 | 1 | Python | 1 | [] |
-| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-20 06:00:44+00:00 | 3570 | 137 | JavaScript | 346 | [] |
 | Xin666-exploit/Xin666-exploit.github.io | None | https://github.com/Xin666-exploit/Xin666-exploit.github.io | ['exploit'] | 1 | 2021-11-20 12:59:06+00:00 | 0 | 0 | | 0 | [] |
