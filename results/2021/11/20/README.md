@@ -1,16 +1,16 @@
 
 # Summary for results/2021/11/20
     
-60 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-20 00:23:15+00:00 | 27108 | 8501 | Python | 1464 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-20 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
-| greekn/pytask | PyTask Red Team Vulnerability exploitation framework | https://github.com/greekn/pytask | ['exploit'] | 1 | 2021-11-20 16:32:22+00:00 | 415 | 0 | | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-20 06:33:28+00:00 | 19361 | 3 | Python | 0 | [] |
 | hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2021-11-20 16:04:30+00:00 | 13531 | 2 | Python | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-20 13:15:01+00:00 | 166 | 1 | Python | 1 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-20 09:18:04+00:00 | 3478 | 0 | Lua | 0 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-20 18:10:17+00:00 | 49 | 4 | | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-20 05:02:22+00:00 | 12 | 28 | Python | 6 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-20 17:13:32+00:00 | 31934 | 0 | CSS | 1 | [] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-11-20 15:52:32+00:00 | 95 | 0 | C | 0 | [] |
@@ -34,10 +34,10 @@
 | nopalhiya/tes-exploit | None | https://github.com/nopalhiya/tes-exploit | ['exploit'] | 1 | 2021-11-20 09:49:42+00:00 | 0 | 0 | | 0 | [] |
 | Joeshibha/REMOTE-COMMAND-EXECUTION-RCE- | To implement Remote Command Execution(RCE) | https://github.com/Joeshibha/REMOTE-COMMAND-EXECUTION-RCE- | ['rce'] | 1 | 2021-11-20 13:31:05+00:00 | 0 | 0 | Java | 0 | [] |
 | Xin666-exploit/Xin666-exploit.github.io | None | https://github.com/Xin666-exploit/Xin666-exploit.github.io | ['exploit'] | 1 | 2021-11-20 12:59:06+00:00 | 0 | 0 | | 0 | [] |
-| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-20 06:33:28+00:00 | 19361 | 3 | Python | 0 | [] |
+| greekn/pytask | PyTask Red Team Vulnerability exploitation framework | https://github.com/greekn/pytask | ['exploit'] | 1 | 2021-11-20 16:32:22+00:00 | 415 | 0 | | 0 | [] |
 | raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-20 13:28:05+00:00 | 30786 | 0 | HTML | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-20 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-20 13:33:41+00:00 | 11 | 0 | Shell | 0 | [] |
-| Hellsender01/vsftpd_2.3.4_Exploit | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | ['exploit'] | 1 | 2021-11-20 12:41:20+00:00 | 48 | 2 | Python | 2 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-20 11:35:03+00:00 | 73241 | 10339 | Jupyter Notebook | 1779 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-20 00:16:55+00:00 | 189744 | 254 | Ruby | 78 | [] |
 | jxsl13/zcatchPlus | A small update to zCatch that has some extended kick/ban exploit features and faster capability to use range bans. Detects some known clients based on flags. Codebase is literally crap, as I use this to learn some C++. Have fun | https://github.com/jxsl13/zcatchPlus | ['exploit'] | 1 | 2021-11-20 10:02:29+00:00 | 72046 | 3 | C | 4 | [] |
@@ -50,8 +50,8 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-20 00:04:18+00:00 | 413783 | 35 | | 19 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2021-11-20 15:09:47+00:00 | 91781 | 13 | Python | 4 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-20 10:12:19+00:00 | 11162 | 0 | Lua | 0 | [] |
+| Hellsender01/vsftpd_2.3.4_Exploit | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | ['exploit'] | 1 | 2021-11-20 12:41:20+00:00 | 48 | 2 | Python | 2 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-20 08:56:29+00:00 | 289284 | 725 | | 152 | [] |
-| onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-11-20 11:25:15+00:00 | 4371 | 1 | Python | 0 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-11-20 06:37:07+00:00 | 179 | 7 | Shell | 1 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-20 07:16:45+00:00 | 49 | 0 | C | 0 | [] |
 | fabmob/open_trafic | exploiter le potentiel des logiciels de reconnaissance d’objets pour identifier et compter tous les types de véhicules dans des flux vidéos des caméras de videosurveillance | https://github.com/fabmob/open_trafic | ['exploit'] | 1 | 2021-11-20 09:14:18+00:00 | 27 | 2 | JavaScript | 0 | [] |
@@ -64,4 +64,5 @@
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-20 06:00:44+00:00 | 3570 | 137 | JavaScript | 346 | [] |
 | dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2021-11-20 13:00:02+00:00 | 1273 | 0 | C | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-20 10:33:46+00:00 | 13844 | 0 | Rust | 0 | [] |
+| onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-11-20 11:25:15+00:00 | 4371 | 1 | Python | 0 | [] |
 | Anishakaspar/CN-Lab | CONTENT BEYOND SYLLABUS IMPLEMENTATION OF REMOTE COMMAND EXECUTION (RCE) AIM To implement Remote Command Execution(RCE). ALGORITHM CLIENT SIDE 1. Establish a connection between the Client and Server. Socket client=new Socket("127.0.0.1",6555); 2. Create in | https://github.com/Anishakaspar/CN-Lab | ['rce'] | 1 | 2021-11-20 16:35:30+00:00 | 0 | 0 | | 0 | [] |
