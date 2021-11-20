@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/20
     
-48 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------------|
@@ -15,6 +15,8 @@
 | dapivei/tweetple | A wrapper to stream information from Twitter's Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2021-11-20 03:00:29+00:00 | 23 | 2 | Python | 0 | [] |
 | dbgee/fastjson-rce | fastjson rce env based on springboot | https://github.com/dbgee/fastjson-rce | ['rce'] | 1 | 2021-11-20 04:29:22+00:00 | 37766 | 1 | Java | 0 | [] |
 | cckuailong/YarnRpcRCE | None | https://github.com/cckuailong/YarnRpcRCE | ['rce'] | 1 | 2021-11-20 04:56:36+00:00 | 1 | 1 | | 1 | [] |
+| skahwah/encrypt | Pseudorandom AES-256 encryption designed to protect shellcode and arbitrary strings. C# and C/C++ compatible. | https://github.com/skahwah/encrypt | ['shellcode'] | 1 | 2021-11-20 14:27:16+00:00 | 12 | 18 | C# | 5 | [] |
+| skahwah/SQLRecon | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. | https://github.com/skahwah/SQLRecon | ['exploit'] | 1 | 2021-11-20 14:25:16+00:00 | 21 | 17 | C# | 2 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-11-20 01:16:49+00:00 | 17 | 0 | C | 0 | [] |
 | hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | None | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | ['exploit'] | 1 | 2021-11-20 01:43:47+00:00 | 2325 | 0 | | 0 | [] |
 | SHALINI5365uq/DarkModderVC3 | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/SHALINI5365uq/DarkModderVC3 | ['exploit'] | 1 | 2021-11-20 02:11:55+00:00 | 0 | 0 | | 0 | [] |
@@ -38,6 +40,7 @@
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-20 12:48:57+00:00 | 895 | 2 | | 1 | [] |
 | dhondta/python-sploitkit | :wrench: Devkit for building Metasploit-like consoles | https://github.com/dhondta/python-sploitkit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-20 08:21:51+00:00 | 2132 | 169 | Python | 46 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-20 02:54:56+00:00 | 35244 | 6081 | Vue | 1277 | [] |
+| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-11-20 13:50:08+00:00 | 15749 | 276 | C | 38 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-20 00:45:30+00:00 | 50948 | 25 | | 14 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-11-20 05:23:48+00:00 | 589 | 106 | Java | 20 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-20 00:04:18+00:00 | 413783 | 35 | | 19 | [] |
@@ -47,6 +50,7 @@
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-11-20 06:37:07+00:00 | 179 | 7 | Shell | 1 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-20 07:16:45+00:00 | 49 | 0 | C | 0 | [] |
 | fabmob/open_trafic | exploiter le potentiel des logiciels de reconnaissance d’objets pour identifier et compter tous les types de véhicules dans des flux vidéos des caméras de videosurveillance | https://github.com/fabmob/open_trafic | ['exploit'] | 1 | 2021-11-20 09:14:18+00:00 | 27 | 2 | JavaScript | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-11-20 14:20:50+00:00 | 117896 | 49 | | 5 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-20 04:03:00+00:00 | 65921 | 236 | Python | 73 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-20 01:06:57+00:00 | 35060 | 2 | Python | 0 | [] |
 | thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-11-20 10:32:18+00:00 | 13 | 0 | | 0 | [] |
