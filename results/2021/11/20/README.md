@@ -1,12 +1,15 @@
 
 # Summary for results/2021/11/20
     
-19 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|------------------------------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-20 00:23:15+00:00 | 27108 | 8501 | Python | 1464 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-20 05:02:22+00:00 | 12 | 28 | Python | 6 | [] |
+| ravi5hanka/Metasploitable-2-Pentest-Report | None | https://github.com/ravi5hanka/Metasploitable-2-Pentest-Report | ['metasploit module OR payload'] | 1 | 2021-11-20 06:30:37+00:00 | 0 | 0 | | 0 | [] |
+| bmcder02/W3WProtect | W3WProtect is a PoC Driver that protects IIS from exploitation. | https://github.com/bmcder02/W3WProtect | ['exploit'] | 1 | 2021-11-20 05:49:44+00:00 | 205 | 0 | C | 0 | [] |
+| cafehepho300/Midhub02Pet1 | local library = loadstring(game:HttpGet('https://pastebin.com/raw/S20QBsjg'))() local MainWindow = library:CreateWindow("MID02HUB") local EggsWindow = library:CreateWindow("Eggs") local GameLibrary = require(game:GetService("ReplicatedStorage"):WaitForChi | https://github.com/cafehepho300/Midhub02Pet1 | ['exploit'] | 1 | 2021-11-20 03:43:31+00:00 | 0 | 0 | | 0 | [] |
 | FoxxD3Vza/adamyordan | Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy)… | https://github.com/FoxxD3Vza/adamyordan | ['rce'] | 1 | 2021-11-20 03:06:02+00:00 | 0 | 0 | | 0 | ['CVE-2019-1003000', 'CVE-2019-1003001'] |
 | SHALINI5365uq/DarkModderVC3 | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/SHALINI5365uq/DarkModderVC3 | ['exploit'] | 1 | 2021-11-20 02:11:55+00:00 | 0 | 0 | | 0 | [] |
 | hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | None | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | ['exploit'] | 1 | 2021-11-20 01:43:47+00:00 | 2325 | 0 | | 0 | [] |
@@ -14,13 +17,16 @@
 | cckuailong/YarnRpcRCE | None | https://github.com/cckuailong/YarnRpcRCE | ['rce'] | 1 | 2021-11-20 04:56:36+00:00 | 1 | 1 | | 1 | [] |
 | dbgee/fastjson-rce | fastjson rce env based on springboot | https://github.com/dbgee/fastjson-rce | ['rce'] | 1 | 2021-11-20 04:29:22+00:00 | 37766 | 1 | Java | 0 | [] |
 | dapivei/tweetple | A wrapper to stream information from Twitter's Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2021-11-20 03:00:29+00:00 | 23 | 2 | Python | 0 | [] |
-| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-11-20 05:13:02+00:00 | 346 | 1 | Python | 1 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-20 06:33:28+00:00 | 19361 | 3 | Python | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-20 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
+| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-20 06:00:44+00:00 | 3570 | 137 | JavaScript | 346 | [] |
+| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-11-20 05:13:02+00:00 | 346 | 1 | Python | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-20 01:06:57+00:00 | 35060 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-20 04:03:00+00:00 | 65921 | 236 | Python | 73 | [] |
+| RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-11-20 06:37:07+00:00 | 179 | 7 | Shell | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-20 00:04:18+00:00 | 413783 | 35 | | 19 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-11-20 05:23:48+00:00 | 589 | 106 | Java | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-20 00:45:30+00:00 | 50948 | 25 | | 14 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-20 02:54:56+00:00 | 35244 | 6081 | Vue | 1277 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-20 00:16:55+00:00 | 189744 | 254 | Ruby | 78 | [] |
-| cafehepho300/Midhub02Pet1 | local library = loadstring(game:HttpGet('https://pastebin.com/raw/S20QBsjg'))() local MainWindow = library:CreateWindow("MID02HUB") local EggsWindow = library:CreateWindow("Eggs") local GameLibrary = require(game:GetService("ReplicatedStorage"):WaitForChi | https://github.com/cafehepho300/Midhub02Pet1 | ['exploit'] | 1 | 2021-11-20 03:43:31+00:00 | 0 | 0 | | 0 | [] |
+| coolp972/maintripexdl | the best roblox exploit | https://github.com/coolp972/maintripexdl | ['exploit'] | 1 | 2021-11-20 05:54:43+00:00 | 0 | 0 | | 0 | [] |
