@@ -1,17 +1,18 @@
 
 # Summary for results/2021/11/20
     
-59 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-20 00:23:15+00:00 | 27108 | 8501 | Python | 1464 | [] |
-| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-11-20 01:16:49+00:00 | 17 | 0 | C | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-20 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
 | greekn/pytask | PyTask Red Team Vulnerability exploitation framework | https://github.com/greekn/pytask | ['exploit'] | 1 | 2021-11-20 16:32:22+00:00 | 415 | 0 | | 0 | [] |
 | hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2021-11-20 16:04:30+00:00 | 13531 | 2 | Python | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (The console) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-20 13:15:01+00:00 | 166 | 1 | Python | 1 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-20 09:18:04+00:00 | 3478 | 0 | Lua | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-20 05:02:22+00:00 | 12 | 28 | Python | 6 | [] |
+| Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-20 17:13:32+00:00 | 31934 | 0 | CSS | 1 | [] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-11-20 15:52:32+00:00 | 95 | 0 | C | 0 | [] |
 | dapivei/tweetple | A wrapper to stream information from Twitter's Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2021-11-20 03:00:29+00:00 | 23 | 2 | Python | 0 | [] |
 | Yuning-J/VulnerabilityClassifier | Vulnerability severity scoring and exploit categorisation using machine-learning tools. | https://github.com/Yuning-J/VulnerabilityClassifier | ['exploit'] | 1 | 2021-11-20 16:32:00+00:00 | 51489 | 0 | Jupyter Notebook | 0 | [] |
@@ -19,8 +20,8 @@
 | cckuailong/YarnRpcRCE | None | https://github.com/cckuailong/YarnRpcRCE | ['rce'] | 1 | 2021-11-20 04:56:36+00:00 | 1 | 1 | | 1 | [] |
 | skahwah/encrypt | Pseudorandom AES-256 encryption designed to protect shellcode and arbitrary strings. C# and C/C++ compatible. | https://github.com/skahwah/encrypt | ['shellcode'] | 1 | 2021-11-20 14:27:16+00:00 | 12 | 18 | C# | 5 | [] |
 | skahwah/SQLRecon | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. | https://github.com/skahwah/SQLRecon | ['exploit'] | 1 | 2021-11-20 14:25:16+00:00 | 21 | 17 | C# | 2 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-11-20 01:16:49+00:00 | 17 | 0 | C | 0 | [] |
 | hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | None | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | ['exploit'] | 1 | 2021-11-20 01:43:47+00:00 | 2325 | 0 | | 0 | [] |
-| raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-20 13:28:05+00:00 | 30786 | 0 | HTML | 0 | [] |
 | SHALINI5365uq/DarkModderVC3 | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/SHALINI5365uq/DarkModderVC3 | ['exploit'] | 1 | 2021-11-20 02:11:55+00:00 | 0 | 0 | | 0 | [] |
 | FoxxD3Vza/adamyordan | Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy)… | https://github.com/FoxxD3Vza/adamyordan | ['rce'] | 1 | 2021-11-20 03:06:02+00:00 | 0 | 0 | | 0 | ['CVE-2019-1003000', 'CVE-2019-1003001'] |
 | cafehepho300/Midhub02Pet1 | local library = loadstring(game:HttpGet('https://pastebin.com/raw/S20QBsjg'))() local MainWindow = library:CreateWindow("MID02HUB") local EggsWindow = library:CreateWindow("Eggs") local GameLibrary = require(game:GetService("ReplicatedStorage"):WaitForChi | https://github.com/cafehepho300/Midhub02Pet1 | ['exploit'] | 1 | 2021-11-20 03:43:31+00:00 | 0 | 0 | | 0 | [] |
@@ -34,8 +35,8 @@
 | Joeshibha/REMOTE-COMMAND-EXECUTION-RCE- | To implement Remote Command Execution(RCE) | https://github.com/Joeshibha/REMOTE-COMMAND-EXECUTION-RCE- | ['rce'] | 1 | 2021-11-20 13:31:05+00:00 | 0 | 0 | Java | 0 | [] |
 | Xin666-exploit/Xin666-exploit.github.io | None | https://github.com/Xin666-exploit/Xin666-exploit.github.io | ['exploit'] | 1 | 2021-11-20 12:59:06+00:00 | 0 | 0 | | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-20 06:33:28+00:00 | 19361 | 3 | Python | 0 | [] |
+| raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-20 13:28:05+00:00 | 30786 | 0 | HTML | 0 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-20 13:33:41+00:00 | 11 | 0 | Shell | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-20 00:06:18+00:00 | 1534766 | 1527 | Python | 525 | [] |
 | Hellsender01/vsftpd_2.3.4_Exploit | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | ['exploit'] | 1 | 2021-11-20 12:41:20+00:00 | 48 | 2 | Python | 2 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-20 11:35:03+00:00 | 73241 | 10339 | Jupyter Notebook | 1779 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-20 00:16:55+00:00 | 189744 | 254 | Ruby | 78 | [] |
