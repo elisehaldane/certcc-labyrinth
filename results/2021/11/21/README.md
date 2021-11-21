@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/21
     
-25 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-21 00:06:21+00:00 | 1534766 | 1528 | Python | 524 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-21 00:39:45+00:00 | 3628 | 139 | | 351 | [] |
+| ypl6/cve-demo-2020-8287 | None | https://github.com/ypl6/cve-demo-2020-8287 | ['cve-2 OR cve_2'] | 1 | 2021-11-21 05:18:15+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | zwlsix/apache_druid_CVE-2021-36749 | CVE-2021-36749 Docker 漏洞复现 | https://github.com/zwlsix/apache_druid_CVE-2021-36749 | ['cve-2 OR cve_2'] | 1 | 2021-11-21 03:29:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-36749'] |
 | Xin666-exploit/Xin666-exploit.github.io | None | https://github.com/Xin666-exploit/Xin666-exploit.github.io | ['exploit'] | 1 | 2021-11-21 04:35:28+00:00 | 0 | 0 | HTML | 0 | [] |
 | BlackHat-Ashura/Exploit_Kit | Group of tools to aid in performing Buffer Overflows. | https://github.com/BlackHat-Ashura/Exploit_Kit | ['exploit'] | 1 | 2021-11-21 05:59:33+00:00 | 21 | 0 | Python | 0 | [] |
@@ -27,6 +28,7 @@
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-11-21 05:11:04+00:00 | 179018 | 321 | Batchfile | 89 | [] |
 | hugsy/pwn-- | A (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2021-11-21 02:28:45+00:00 | 1001 | 39 | C++ | 3 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-11-21 02:08:38+00:00 | 17604 | 579 | Go | 118 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-11-21 07:36:52+00:00 | 1475735 | 3750 | PowerShell | 1297 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-21 04:11:04+00:00 | 35244 | 6082 | Vue | 1280 | [] |
 | aaaddress1/shellDev.py | tool for building windows shellcode in C by MinGW | https://github.com/aaaddress1/shellDev.py | ['shellcode'] | 1 | 2021-11-21 04:36:16+00:00 | 80 | 41 | Python | 15 | [] |
-| ypl6/cve-demo-2020-8287 | None | https://github.com/ypl6/cve-demo-2020-8287 | ['cve-2 OR cve_2'] | 1 | 2021-11-21 05:18:15+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| yevh/Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell- | Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE | https://github.com/yevh/Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell- | ['rce'] | 1 | 2021-11-21 08:33:33+00:00 | 0 | 0 | PowerShell | 0 | [] |
