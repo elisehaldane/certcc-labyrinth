@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+430263283,zwlsix/apache_druid_CVE-2021-36749,README.md,ecb3a5e2349af10e39fa6fef37bf623a6812afaa,CVE-2021-36749
+430263283,zwlsix/apache_druid_CVE-2021-36749,_GITHUB_REPO_METADATA_,,CVE-2021-36749
