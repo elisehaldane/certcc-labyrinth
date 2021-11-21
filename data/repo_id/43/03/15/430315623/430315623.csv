@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+430315623,SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053,README.md,d1ad8d483f5a55d753b134c154ce8222307b40ef,CVE-2021-22053
+430315623,SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053,settings.gradle,f1279234fa5718854f2666dcac7235fedcaf3910,CVE-2021-22053
+430315623,SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053,_GITHUB_REPO_METADATA_,,CVE-2021-22053
