@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+430312335,yevh/Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-,DruvaPE.ps1,52a9d0ec9048caed7dbd3a2f81acd932b21e4d98,CVE-2020-5752
