@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2021-30167,1.00000000,https://github.com/chaosec2021/CNVD-2021-30167-NC-BeanShell-RCE,chaosec2021/CNVD-2021-30167-NC-BeanShell-RCE,430352609
 CNVD-2021-30167,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
