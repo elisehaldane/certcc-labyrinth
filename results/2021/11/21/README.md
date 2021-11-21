@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/21
     
-23 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -9,6 +9,7 @@
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-21 00:39:45+00:00 | 3628 | 139 | | 351 | [] |
 | zwlsix/apache_druid_CVE-2021-36749 | CVE-2021-36749 Docker 漏洞复现 | https://github.com/zwlsix/apache_druid_CVE-2021-36749 | ['cve-2 OR cve_2'] | 1 | 2021-11-21 03:29:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-36749'] |
 | Xin666-exploit/Xin666-exploit.github.io | None | https://github.com/Xin666-exploit/Xin666-exploit.github.io | ['exploit'] | 1 | 2021-11-21 04:35:28+00:00 | 0 | 0 | HTML | 0 | [] |
+| BlackHat-Ashura/Exploit_Kit | Group of tools to aid in performing Buffer Overflows. | https://github.com/BlackHat-Ashura/Exploit_Kit | ['exploit'] | 1 | 2021-11-21 05:59:33+00:00 | 21 | 0 | Python | 0 | [] |
 | Yolnan/CVE_24678_PS7 | None | https://github.com/Yolnan/CVE_24678_PS7 | ['cve-2 OR cve_2'] | 1 | 2021-11-21 00:18:01+00:00 | 8259 | 0 | Python | 0 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-21 01:50:45+00:00 | 31948 | 0 | CSS | 1 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-21 01:13:26+00:00 | 14 | 33 | Python | 7 | [] |
@@ -19,6 +20,7 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-21 01:10:38+00:00 | 36524 | 2 | Python | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-21 00:16:49+00:00 | 189744 | 254 | Ruby | 78 | [] |
 | jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-11-21 04:56:22+00:00 | 377 | 4 | | 2 | [] |
+| ru-faraon/metasploit-framework | None | https://github.com/ru-faraon/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-21 06:26:11+00:00 | 381305 | 0 | Ruby | 0 | [] |
 | 0neday/Exploit-HS8545M-ONT | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | ['exploit'] | 1 | 2021-11-21 01:04:50+00:00 | 28891 | 8 | Shell | 8 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-21 04:02:06+00:00 | 67536 | 236 | Python | 73 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-21 00:03:25+00:00 | 415796 | 35 | | 19 | [] |
