@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/22
     
-98 records found after deduplication
+99 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,7 +22,7 @@
 | kombat1/CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | ['cve-2 OR cve_2'] | 1 | 2021-11-22 12:38:23+00:00 | 1 | 0 | Python | 1 | ['CVE-2021-43617'] |
 | Leokuy/exploit | None | https://github.com/Leokuy/exploit | ['exploit'] | 1 | 2021-11-22 00:10:28+00:00 | 20 | 0 | | 0 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-22 02:17:46+00:00 | 31968 | 0 | CSS | 1 | [] |
-| P-DennyGamingYT/PDennSploit-Pro | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-11-22 19:03:08+00:00 | 9 | 0 | | 0 | [] |
+| P-DennyGamingYT/PDennSploit-Pro | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-11-22 19:03:08+00:00 | 9 | 0 | nan | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-22 03:18:53+00:00 | 20 | 66 | Python | 10 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-22 18:10:12+00:00 | 50 | 4 | | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-22 10:19:12+00:00 | 5481 | 0 | Lua | 0 | [] |
@@ -30,7 +30,7 @@
 | Ki11i0n4ir3/CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-22 01:47:22+00:00 | 13 | 0 | Rust | 0 | ['CVE-2021-21315'] |
 | MzzdToT/Dedecms5.8.1RCE | DedeCMS-5.8.1 SSTI模板注入RCEpoc和exp | https://github.com/MzzdToT/Dedecms5.8.1RCE | ['rce'] | 1 | 2021-11-22 03:29:48+00:00 | 0 | 0 | Python | 0 | [] |
 | momo1239/buffshark-shellcode-runner | None | https://github.com/momo1239/buffshark-shellcode-runner | ['shellcode'] | 1 | 2021-11-22 07:34:44+00:00 | 0 | 0 | Python | 0 | [] |
-| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-22 11:35:03+00:00 | 73444 | 10349 | Jupyter Notebook | 1782 | [] |
+| kingbiagio/exploit | None | https://github.com/kingbiagio/exploit | ['exploit'] | 1 | 2021-11-22 10:36:24+00:00 | 8 | 0 | Python | 0 | [] |
 | je6k/CVE-2021-34473-Exchange-ProxyShell | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | ['cve-2 OR cve_2'] | 1 | 2021-11-22 08:27:26+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-34473'] |
 | rx4666ghost/Trillium-Security-MultiSploit | None | https://github.com/rx4666ghost/Trillium-Security-MultiSploit | ['sploit'] | 1 | 2021-11-22 19:53:47+00:00 | 0 | 0 | nan | 0 | [] |
 | rx4666ghost/Ancalog-Exploit-Builder-2016 | None | https://github.com/rx4666ghost/Ancalog-Exploit-Builder-2016 | ['exploit'] | 1 | 2021-11-22 19:51:08+00:00 | 0 | 0 | | 0 | [] |
@@ -54,10 +54,9 @@
 | ib3mexploits/RLT-Exploits | None | https://github.com/ib3mexploits/RLT-Exploits | ['exploit'] | 1 | 2021-11-22 09:12:06+00:00 | 0 | 0 | | 0 | [] |
 | extremeearth-eu/ExtremeEarth-Datasets | ExtremeEarth advances the state of the art in the area of AI, by developing distributed scale-out deep learning techniques for the classification of remote sensing images based on architectures that can effectively exploit the spatial, spectral, temporal a | https://github.com/extremeearth-eu/ExtremeEarth-Datasets | ['exploit'] | 1 | 2021-11-22 08:38:14+00:00 | 0 | 0 | | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-22 02:08:29+00:00 | 203 | 1 | Python | 1 | [] |
-| kingbiagio/exploit | None | https://github.com/kingbiagio/exploit | ['exploit'] | 1 | 2021-11-22 10:36:24+00:00 | 8 | 0 | Python | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-22 01:05:48+00:00 | 487 | 0 | | 0 | [] |
-| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-22 18:16:34+00:00 | 5 | 0 | C++ | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-22 00:04:09+00:00 | 416570 | 35 | | 19 | [] |
+| xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2021-11-22 22:42:35+00:00 | 2422 | 288 | HTML | 108 | [] |
+| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-22 05:59:03+00:00 | 6853 | 1 | JavaScript | 0 | [] |
 | Anti-Ghost-Ping/bug-reports | Found a bug or exploit with Anti Ghost Ping? Report it here! | https://github.com/Anti-Ghost-Ping/bug-reports | ['exploit'] | 1 | 2021-11-22 19:35:29+00:00 | 11 | 0 | | 1 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-11-22 02:13:42+00:00 | 9808 | 1877 | Go | 291 | [] |
 | 0xKira/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | ['exploit'] | 1 | 2021-11-22 08:28:26+00:00 | 877 | 13 | Python | 5 | [] |
@@ -78,10 +77,11 @@
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-11-22 10:59:06+00:00 | 2915 | 1364 | | 455 | [] |
 | Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2021-11-22 14:20:47+00:00 | 404 | 1030 | Perl | 445 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-22 00:16:54+00:00 | 189745 | 254 | Ruby | 78 | [] |
-| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-22 05:59:03+00:00 | 6853 | 1 | JavaScript | 0 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-22 11:35:03+00:00 | 73444 | 10349 | Jupyter Notebook | 1782 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-22 00:04:09+00:00 | 416570 | 35 | | 19 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-22 00:01:27+00:00 | 12049 | 0 | Lua | 0 | [] |
+| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-22 18:16:34+00:00 | 5 | 0 | C++ | 0 | [] |
 | sho-luv/zerologon | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm's cve-2020-1472 coded example. This tool will check and exploit bug as well as restore password to original state | https://github.com/sho-luv/zerologon | ['exploit'] | 1 | 2021-11-22 17:40:59+00:00 | 11 | 5 | Python | 1 | ['CVE-2020-1472'] |
-| Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-22 10:36:33+00:00 | 54 | 74 | Python | 6 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-22 01:03:13+00:00 | 1840 | 0 | JavaScript | 0 | [] |
 | 0x727/SpringBootExploit | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | ['exploit'] | 1 | 2021-11-22 07:06:40+00:00 | 119 | 591 | Java | 107 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-22 19:26:54+00:00 | 18007 | 2 | Rust | 0 | [] |
@@ -91,8 +91,8 @@
 | ccc/exploits | random lego hacks i make | https://github.com/ccc/exploits | ['exploit'] | 1 | 2021-11-22 03:01:29+00:00 | 2 | 0 | Lua | 0 | [] |
 | Phoenixthrush/phoenixsploit | my metasploit ig, written in python (support for debian based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-11-22 15:16:34+00:00 | 242 | 0 | Python | 0 | [] |
 | aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-22 09:32:45+00:00 | 9413 | 15 | C++ | 3 | [] |
+| Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-22 10:36:33+00:00 | 54 | 74 | Python | 6 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-22 04:19:51+00:00 | 111 | 2 | | 0 | [] |
-| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-11-22 16:01:18+00:00 | 6981 | 1 | Java | 0 | [] |
 | Sanjana998/WebVulnerabilityAnalysis | Traditional vulnerability research methods often require security researchers to have professional knowledge and rich practical experience, which is less versatile and has limited efficiency. At present, the application of Machine learning and natural lan | https://github.com/Sanjana998/WebVulnerabilityAnalysis | ['exploit'] | 1 | 2021-11-22 11:57:10+00:00 | 26106 | 0 | Python | 1 | [] |
 | 0xvpr/Malicious-Software-Research | A repository dedicated to researching, documents, developing, and ultimately, defending against various strains of malicious software. | https://github.com/0xvpr/Malicious-Software-Research | ['shellcode'] | 1 | 2021-11-22 07:15:42+00:00 | 715 | 0 | C | 0 | [] |
 | draconas1/stellaris-space-exploitation | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | ['exploit'] | 1 | 2021-11-22 20:11:56+00:00 | 325 | 0 | AMPL | 0 | [] |
@@ -102,4 +102,5 @@
 | panchis7u7/Ethical_Hacking | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits. | https://github.com/panchis7u7/Ethical_Hacking | ['exploit'] | 1 | 2021-11-22 15:35:17+00:00 | 2699 | 0 | | 0 | [] |
 | KOZ1OL/KOZ1OLMENU | Hi users ! I hope you will let much fun with this script ! | https://github.com/KOZ1OL/KOZ1OLMENU | ['metasploit module OR payload'] | 1 | 2021-11-22 21:25:15+00:00 | 32432 | 5 | HTML | 1 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-22 01:16:16+00:00 | 85 | 0 | PHP | 0 | [] |
+| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-11-22 16:01:18+00:00 | 6981 | 1 | Java | 0 | [] |
 | xvnpw/k8s-CVE-2021-43557-poc | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-22 20:24:32+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-43557'] |
