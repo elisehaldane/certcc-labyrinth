@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/22
     
-25 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -12,6 +12,7 @@
 | recitmstmam/bolide-saisissant-rcepteur | Un projet MakeCode | https://github.com/recitmstmam/bolide-saisissant-rcepteur | ['rce'] | 1 | 2021-11-22 00:49:58+00:00 | 65 | 0 | TypeScript | 0 | [] |
 | Aka-Andrew/Exploiting | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | ['exploit'] | 1 | 2021-11-22 00:45:56+00:00 | 0 | 0 | | 0 | [] |
 | Seals6/CVE-2021-41277 | Metabase任意文件读取漏洞批量扫描工具 | https://github.com/Seals6/CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2021-11-22 03:06:29+00:00 | 2 | 1 | Python | 0 | ['CVE-2021-41277'] |
+| dbgee/fastjson-rce | fastjson rce env based on springboot | https://github.com/dbgee/fastjson-rce | ['rce'] | 1 | 2021-11-22 06:24:02+00:00 | 37776 | 1 | Java | 0 | [] |
 | Leokuy/exploit | None | https://github.com/Leokuy/exploit | ['exploit'] | 1 | 2021-11-22 00:10:28+00:00 | 20 | 0 | | 0 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-22 02:17:46+00:00 | 31968 | 0 | CSS | 1 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-22 03:18:53+00:00 | 20 | 66 | Python | 10 | [] |
@@ -25,6 +26,7 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-22 04:01:55+00:00 | 69147 | 236 | Python | 73 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-22 01:16:16+00:00 | 85 | 0 | PHP | 0 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-22 00:01:27+00:00 | 12049 | 0 | Lua | 0 | [] |
+| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-22 05:59:03+00:00 | 6853 | 1 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-22 00:04:09+00:00 | 416570 | 35 | | 19 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-11-22 02:13:42+00:00 | 9808 | 1877 | Go | 291 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-11-22 04:03:54+00:00 | 17620 | 580 | Go | 118 | [] |
