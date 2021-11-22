@@ -1,13 +1,12 @@
 
 # Summary for results/2021/11/22
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-22 04:35:57+00:00 | 656080 | 25650 | Ruby | 11746 | [] |
-| tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-22 01:03:13+00:00 | 1840 | 0 | JavaScript | 0 | [] |
-| kingbiagio/exploit | None | https://github.com/kingbiagio/exploit | ['exploit'] | 1 | 2021-11-22 10:36:24+00:00 | 8 | 0 | Python | 0 | [] |
+| dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-22 01:05:48+00:00 | 487 | 0 | | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-22 02:08:29+00:00 | 203 | 1 | Python | 1 | [] |
 | Ki11i0n4ir3/CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-22 01:47:22+00:00 | 13 | 0 | Rust | 0 | ['CVE-2021-21315'] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-22 10:19:12+00:00 | 5481 | 0 | Lua | 0 | [] |
@@ -34,10 +33,13 @@
 | MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-11-22 12:42:09+00:00 | 0 | 0 | C | 0 | [] |
 | skill-cheats/exploit | Roblox Exploit made by segation. | https://github.com/skill-cheats/exploit | ['exploit'] | 1 | 2021-11-22 12:27:23+00:00 | 0 | 0 | | 0 | [] |
 | Hum0r/CVE-2021-41277 | MetaBase 任意文件读取漏洞 fofa批量poc | https://github.com/Hum0r/CVE-2021-41277 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-22 12:37:56+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41277'] |
-| dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-22 01:05:48+00:00 | 487 | 0 | | 0 | [] |
-| 0x727/SpringBootExploit | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | ['exploit'] | 1 | 2021-11-22 07:06:40+00:00 | 119 | 591 | Java | 107 | [] |
+| tasmiyaarshiyakhan/rcew.jntu | None | https://github.com/tasmiyaarshiyakhan/rcew.jntu | ['rce'] | 1 | 2021-11-22 12:32:42+00:00 | 0 | 0 | | 0 | [] |
+| kap1ush0n/CVE-2021-41277 | MetaBase 任意文件读取漏洞 fofa批量poc | https://github.com/kap1ush0n/CVE-2021-41277 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-22 12:50:15+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41277'] |
+| israelgabrielson/RCE | Implementation of Remote Command Execution using socket programming | https://github.com/israelgabrielson/RCE | ['rce'] | 1 | 2021-11-22 13:09:04+00:00 | 0 | 0 | Java | 0 | [] |
+| kingbiagio/exploit | None | https://github.com/kingbiagio/exploit | ['exploit'] | 1 | 2021-11-22 10:36:24+00:00 | 8 | 0 | Python | 0 | [] |
+| tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-22 01:03:13+00:00 | 1840 | 0 | JavaScript | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-22 11:35:03+00:00 | 73444 | 10349 | Jupyter Notebook | 1782 | [] |
-| musergi/CVE-2021-3156 | None | https://github.com/musergi/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2021-11-22 09:13:52+00:00 | 3 | 1 | C | 0 | ['CVE-2021-3156'] |
+| 0x727/SpringBootExploit | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | ['exploit'] | 1 | 2021-11-22 07:06:40+00:00 | 119 | 591 | Java | 107 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-22 00:16:54+00:00 | 189745 | 254 | Ruby | 78 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-11-22 10:59:06+00:00 | 2915 | 1364 | | 455 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-22 11:04:27+00:00 | 295423 | 87 | Python | 13 | [] |
@@ -50,6 +52,7 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-22 06:45:32+00:00 | 51213 | 25 | | 14 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-11-22 04:03:54+00:00 | 17620 | 580 | Go | 118 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-11-22 11:34:10+00:00 | 621 | 503 | Java | 49 | [] |
+| FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-11-22 13:09:50+00:00 | 361 | 10 | Java | 0 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-11-22 11:08:02+00:00 | 33 | 0 | | 0 | [] |
 | 0xKira/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | ['exploit'] | 1 | 2021-11-22 08:28:26+00:00 | 877 | 13 | Python | 5 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-11-22 02:13:42+00:00 | 9808 | 1877 | Go | 291 | [] |
@@ -57,7 +60,7 @@
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-22 05:59:03+00:00 | 6853 | 1 | JavaScript | 0 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-22 00:01:27+00:00 | 12049 | 0 | Lua | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-22 01:16:16+00:00 | 85 | 0 | PHP | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-22 04:01:55+00:00 | 69150 | 236 | Python | 73 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-22 04:01:55+00:00 | 69147 | 236 | Python | 73 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-22 01:08:29+00:00 | 5026 | 2 | Python | 0 | [] |
 | 0xvpr/Malicious-Software-Research | A repository dedicated to researching, documents, developing, and ultimately, defending against various strains of malicious software. | https://github.com/0xvpr/Malicious-Software-Research | ['shellcode'] | 1 | 2021-11-22 07:15:42+00:00 | 715 | 0 | C | 0 | [] |
 | Sanjana998/WebVulnerabilityAnalysis | Traditional vulnerability research methods often require security researchers to have professional knowledge and rich practical experience, which is less versatile and has limited efficiency. At present, the application of Machine learning and natural lan | https://github.com/Sanjana998/WebVulnerabilityAnalysis | ['exploit'] | 1 | 2021-11-22 11:57:10+00:00 | 26106 | 0 | Python | 1 | [] |
@@ -65,4 +68,5 @@
 | Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-22 10:36:33+00:00 | 54 | 74 | Python | 6 | [] |
 | aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-22 09:32:45+00:00 | 9413 | 15 | C++ | 3 | [] |
 | ccc/exploits | random lego hacks i make | https://github.com/ccc/exploits | ['exploit'] | 1 | 2021-11-22 03:01:29+00:00 | 2 | 0 | Lua | 0 | [] |
-| tasmiyaarshiyakhan/rcew.jntu | None | https://github.com/tasmiyaarshiyakhan/rcew.jntu | ['rce'] | 1 | 2021-11-22 12:32:42+00:00 | 0 | 0 | | 0 | [] |
+| musergi/CVE-2021-3156 | None | https://github.com/musergi/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2021-11-22 09:13:52+00:00 | 3 | 1 | C | 0 | ['CVE-2021-3156'] |
+| Alexcot25051999/CVE-2021-40444 | None | https://github.com/Alexcot25051999/CVE-2021-40444 | ['cve-2 OR cve_2'] | 1 | 2021-11-22 13:29:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
