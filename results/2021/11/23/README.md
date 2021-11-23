@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/23
     
-24 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-23 00:16:51+00:00 | 189746 | 254 | Ruby | 78 | [] |
-| offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-23 01:36:46+00:00 | 2766434 | 358 | JavaScript | 55 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-23 05:08:26+00:00 | 296123 | 6637 | C | 1825 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-23 00:06:21+00:00 | 1534767 | 1529 | Python | 524 | [] |
 | annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-11-23 03:48:46+00:00 | 0 | 0 | | 0 | [] |
 | Footsiefat/Discord-Token-Stealer-Exploit | None | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | ['exploit'] | 1 | 2021-11-23 02:49:19+00:00 | 0 | 0 | | 0 | [] |
 | DarkSprings/CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-23 02:33:47+00:00 | 0 | 2 | Python | 1 | ['CVE-2021-42321'] |
@@ -26,6 +26,10 @@
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-23 04:30:10+00:00 | 12837 | 0 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-23 00:03:33+00:00 | 419993 | 35 | | 19 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-11-23 02:45:18+00:00 | 1093 | 1 | | 0 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-11-23 05:04:02+00:00 | 627 | 508 | Java | 50 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-23 00:45:32+00:00 | 51548 | 25 | | 14 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-23 03:22:38+00:00 | 66160 | 1297 | Python | 262 | [] |
+| hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-23 05:13:00+00:00 | 897 | 2 | | 1 | [] |
+| offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-23 01:36:46+00:00 | 2766434 | 358 | JavaScript | 55 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-23 00:16:51+00:00 | 189746 | 254 | Ruby | 78 | [] |
 | G73st/BypassAV | c++ shellcode loader | https://github.com/G73st/BypassAV | ['shellcode'] | 1 | 2021-11-23 04:09:07+00:00 | 0 | 0 | C++ | 0 | [] |
