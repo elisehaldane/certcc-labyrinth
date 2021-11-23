@@ -1,4 +1,8 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
 hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2021-11-23T00:16:51+0000,189746,254,Ruby,78,[]
+offensive-security/exploitdb-papers,exploit-database-papers,https://github.com/offensive-security/exploitdb-papers,['exploit'],1,2021-11-23T01:36:46+0000,2766434,358,JavaScript,55,[]
 nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2021-11-23T00:45:32+0000,51548,25,,14,[]
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2021-11-23T00:03:33+0000,419993,35,,19,[]
+tencentcloud-sdk-php/rce,nan,https://github.com/tencentcloud-sdk-php/rce,['rce'],1,2021-11-23T01:18:26+0000,85,0,PHP,0,[]
+HeiTang/Zrss,RSS feeds for HITCON ZeroDay’s vulnerability list,https://github.com/HeiTang/Zrss,['zeroday'],1,2021-11-23T01:06:47+0000,6321,2,Python,0,[]
+adeljck/goexploit,exploit in go,https://github.com/adeljck/goexploit,['exploit'],1,2021-11-23T00:54:50+0000,21,0,Go,0,[]
