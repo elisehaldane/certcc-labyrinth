@@ -1,13 +1,14 @@
 
 # Summary for results/2021/11/24
     
-53 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-24 01:07:00+00:00 | 656558 | 25662 | Ruby | 11749 | [] |
-| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-24 01:28:46+00:00 | 111869 | 0 | Shell | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-24 05:08:26+00:00 | 298176 | 6640 | C | 1825 | [] |
 | ahmad4fifz/docker-cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-11-24 03:32:25+00:00 | 3 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
+| AndreMaquesMachado/POC | POC to test vulnerabilities | https://github.com/AndreMaquesMachado/POC | ['vulnerability poc'] | 1 | 2021-11-24 10:11:05+00:00 | 811 | 0 | Java | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-24 05:23:12+00:00 | 7972 | 0 | Lua | 0 | [] |
 | P-DennyGamingYT/PDennSploit-Pro | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-11-24 03:16:13+00:00 | 12 | 0 | | 0 | [] |
 | R-Laurent/TP1_Systeme_exploitation | None | https://github.com/R-Laurent/TP1_Systeme_exploitation | ['exploit'] | 1 | 2021-11-24 08:48:21+00:00 | 62 | 0 | C | 0 | [] |
@@ -30,10 +31,11 @@
 | ishanExtreme/CTF_TicklePicke | Pickle vulnerability exploitation and fixing | https://github.com/ishanExtreme/CTF_TicklePicke | ['exploit'] | 1 | 2021-11-24 07:41:02+00:00 | 0 | 0 | | 0 | [] |
 | HotGates/Initial-Access | Initial Access consists of techniques that use various entry vectors to gain their initial foothold within a network. Techniques used to gain a foothold include targeted spearphishing and exploiting weaknesses on public-facing web servers. Footholds gained | https://github.com/HotGates/Initial-Access | ['exploit'] | 1 | 2021-11-24 08:29:50+00:00 | 0 | 0 | | 0 | [] |
 | wishawa/decurse | Rust macro to make recursive function run on the heap (i.e. no stack overflow). | https://github.com/wishawa/decurse | ['heap overflow'] | 1 | 2021-11-24 08:34:55+00:00 | 0 | 0 | Rust | 0 | [] |
+| jkilopu/scuctf_newbee_2021_pwn | Pwn challenges I created in SCUCTF newbee 2021, with source code and exploit. | https://github.com/jkilopu/scuctf_newbee_2021_pwn | ['exploit'] | 1 | 2021-11-24 09:06:43+00:00 | 0 | 0 | C | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-24 00:33:11+00:00 | 215 | 1 | Python | 1 | [] |
+| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-24 01:28:46+00:00 | 111869 | 0 | Shell | 0 | [] |
 | oSumAtrIX/dinkleberg | Catch users faking their offline status on discord | https://github.com/oSumAtrIX/dinkleberg | ['exploit'] | 1 | 2021-11-24 00:23:58+00:00 | 514 | 7 | Rust | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-24 05:08:26+00:00 | 298176 | 6640 | C | 1825 | [] |
-| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-24 06:13:30+00:00 | 19370 | 3 | Python | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-24 00:05:36+00:00 | 426022 | 35 | | 19 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-24 00:06:24+00:00 | 1534767 | 1529 | Python | 524 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-11-24 01:32:40+00:00 | 2864 | 84 | Go | 7 | [] |
 | DhavalKapil/heap-exploitation | This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. | https://github.com/DhavalKapil/heap-exploitation | ['exploit'] | 1 | 2021-11-24 01:10:25+00:00 | 357 | 1099 | C | 119 | [] |
@@ -42,10 +44,11 @@
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-24 04:17:52+00:00 | 1665 | 2 | | 1 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-11-24 02:07:45+00:00 | 149 | 100 | | 17 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-11-24 02:30:44+00:00 | 3886 | 2154 | Python | 617 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-24 10:11:03+00:00 | 66181 | 1297 | Python | 262 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-24 00:45:33+00:00 | 52013 | 25 | | 14 | [] |
 | firmianay/IoT-vulhub | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | ['exploit'] | 1 | 2021-11-24 03:05:19+00:00 | 433069 | 576 | Python | 77 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-24 00:05:36+00:00 | 426022 | 35 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-24 00:50:46+00:00 | 86 | 0 | PHP | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-24 06:13:30+00:00 | 19370 | 3 | Python | 0 | [] |
 | StardustDL/modulight | Modulight is a light modular framework aimed to be low intrusive based on dependency injection for .NET, ASP.NET, Blazor, and command-line. | https://github.com/StardustDL/modulight | ['command injection'] | 1 | 2021-11-24 08:08:12+00:00 | 2704 | 4 | C# | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-24 05:25:27+00:00 | 51 | 0 | C | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-11-24 01:06:26+00:00 | 144474 | 60 | TypeScript | 4 | [] |
@@ -57,4 +60,4 @@
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-24 08:35:18+00:00 | 533 | 0 | TypeScript | 0 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-24 05:50:05+00:00 | 425 | 144 | JavaScript | 369 | [] |
 | Harleythetech/Exploit-6.72 | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | ['exploit'] | 1 | 2021-11-24 06:16:51+00:00 | 5470 | 0 | HTML | 0 | [] |
-| jkilopu/scuctf_newbee_2021_pwn | Pwn challenges I created in SCUCTF newbee 2021, with source code and exploit. | https://github.com/jkilopu/scuctf_newbee_2021_pwn | ['exploit'] | 1 | 2021-11-24 09:06:43+00:00 | 0 | 0 | C | 0 | [] |
+| trungtin1998/cve | PoC CVE | https://github.com/trungtin1998/cve | ['cve poc'] | 1 | 2021-11-24 09:53:15+00:00 | 0 | 0 | | 0 | [] |
