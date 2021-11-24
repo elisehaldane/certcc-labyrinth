@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+138721867,Iletee/struts2-rce,README.md,7e0022becc913d71365205c983a4378c56c5c89f,CVE-2017-5638
+138721867,Iletee/struts2-rce,_GITHUB_REPO_METADATA_,,CVE-2017-5638
