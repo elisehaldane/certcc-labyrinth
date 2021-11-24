@@ -1,12 +1,14 @@
 
 # Summary for results/2021/11/24
     
-18 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-24 01:07:00+00:00 | 656558 | 25662 | Ruby | 11749 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-24 00:06:24+00:00 | 1534767 | 1529 | Python | 524 | [] |
+| IEEE-MSB-CS/web-exploitation-21V1 | Web exploitation workshop | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | ['exploit'] | 1 | 2021-11-24 01:51:28+00:00 | 0 | 0 | | 0 | [] |
+| hlong12042/CVE_2019_11043 | nan | https://github.com/hlong12042/CVE_2019_11043 | ['cve-2 OR cve_2'] | 1 | 2021-11-24 02:01:57+00:00 | 4831 | 0 | CSS | 0 | ['CVE-2019-11043'] |
 | Footsiefat/Discord-Token-Stealer-Exploit | None | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | ['exploit'] | 1 | 2021-11-24 00:16:59+00:00 | 5 | 1 | | 0 | [] |
 | 6cyril/ctf-writeups | Writeups/exploit code for CTFs I've done | https://github.com/6cyril/ctf-writeups | ['exploit'] | 1 | 2021-11-24 01:45:28+00:00 | 7505 | 0 | Python | 0 | [] |
 | Xin666-exploit/Xin666-exploit.github.io | None | https://github.com/Xin666-exploit/Xin666-exploit.github.io | ['exploit'] | 1 | 2021-11-24 00:22:47+00:00 | 3098 | 0 | HTML | 0 | [] |
@@ -19,7 +21,9 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-24 00:50:46+00:00 | 86 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-24 00:05:36+00:00 | 426022 | 35 | | 19 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-24 00:45:33+00:00 | 52013 | 25 | | 14 | [] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-11-24 02:30:44+00:00 | 3886 | 2154 | Python | 617 | [] |
+| Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-11-24 02:07:45+00:00 | 149 | 100 | | 17 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-24 00:16:49+00:00 | 189746 | 255 | Ruby | 78 | [] |
 | DhavalKapil/heap-exploitation | This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. | https://github.com/DhavalKapil/heap-exploitation | ['exploit'] | 1 | 2021-11-24 01:10:25+00:00 | 357 | 1099 | C | 119 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-11-24 01:32:40+00:00 | 2864 | 84 | Go | 7 | [] |
-| IEEE-MSB-CS/web-exploitation-21V1 | Web exploitation workshop | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | ['exploit'] | 1 | 2021-11-24 01:51:28+00:00 | 0 | 0 | | 0 | [] |
+| Cyclic3/msf-15649-fix | Fixes https://github.com/rapid7/metasploit-framework/issues/15649 | https://github.com/Cyclic3/msf-15649-fix | ['metasploit module OR payload'] | 1 | 2021-11-24 02:14:49+00:00 | 0 | 0 | Shell | 0 | [] |
