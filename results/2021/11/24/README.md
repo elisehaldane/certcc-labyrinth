@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/24
     
-28 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-24 01:07:00+00:00 | 656558 | 25662 | Ruby | 11749 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-24 00:06:24+00:00 | 1534767 | 1529 | Python | 524 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-24 01:14:03+00:00 | 327 | 33 | JavaScript | 13 | [] |
+| Dan-Nolan/Proxy-Exploit-Simplified | None | https://github.com/Dan-Nolan/Proxy-Exploit-Simplified | ['exploit'] | 1 | 2021-11-24 03:31:20+00:00 | 0 | 0 | Solidity | 0 | [] |
 | ecglazer/rces_final_project | final project for Research Computing class on crevasses on George VI ice shelf | https://github.com/ecglazer/rces_final_project | ['rce'] | 1 | 2021-11-24 03:04:54+00:00 | 0 | 0 | | 0 | [] |
 | Cyclic3/msf-15649-fix | Fixes https://github.com/rapid7/metasploit-framework/issues/15649 | https://github.com/Cyclic3/msf-15649-fix | ['metasploit module OR payload'] | 1 | 2021-11-24 02:14:49+00:00 | 0 | 0 | Shell | 0 | [] |
 | IEEE-MSB-CS/web-exploitation-21V1 | Web exploitation workshop | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | ['exploit'] | 1 | 2021-11-24 01:51:28+00:00 | 0 | 0 | | 0 | [] |
@@ -19,8 +20,9 @@
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-24 00:33:11+00:00 | 215 | 1 | Python | 1 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-24 01:28:46+00:00 | 111869 | 0 | Shell | 0 | [] |
 | oSumAtrIX/dinkleberg | Catch users faking their offline status on discord | https://github.com/oSumAtrIX/dinkleberg | ['exploit'] | 1 | 2021-11-24 00:23:58+00:00 | 514 | 7 | Rust | 0 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-24 01:14:03+00:00 | 327 | 33 | JavaScript | 13 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-24 01:07:16+00:00 | 7596 | 2 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-24 00:06:24+00:00 | 1534767 | 1529 | Python | 524 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-24 04:01:45+00:00 | 73998 | 237 | Python | 74 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-11-24 01:06:26+00:00 | 144474 | 60 | TypeScript | 4 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-24 00:50:46+00:00 | 86 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-24 00:05:36+00:00 | 426022 | 35 | | 19 | [] |
@@ -28,8 +30,9 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-24 00:45:33+00:00 | 52013 | 25 | | 14 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-11-24 02:30:44+00:00 | 3886 | 2154 | Python | 617 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-11-24 02:07:45+00:00 | 149 | 100 | | 17 | [] |
+| hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-24 04:17:52+00:00 | 1665 | 2 | | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-24 00:16:49+00:00 | 189746 | 255 | Ruby | 78 | [] |
 | firmianay/CTF-All-In-One | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | ['exploit'] | 1 | 2021-11-24 02:55:33+00:00 | 48597 | 2770 | C | 556 | [] |
 | DhavalKapil/heap-exploitation | This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. | https://github.com/DhavalKapil/heap-exploitation | ['exploit'] | 1 | 2021-11-24 01:10:25+00:00 | 357 | 1099 | C | 119 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-11-24 01:32:40+00:00 | 2864 | 84 | Go | 7 | [] |
-| Dan-Nolan/Proxy-Exploit-Simplified | None | https://github.com/Dan-Nolan/Proxy-Exploit-Simplified | ['exploit'] | 1 | 2021-11-24 03:31:20+00:00 | 0 | 0 | Solidity | 0 | [] |
+| Girishvj229/Rce | None | https://github.com/Girishvj229/Rce | ['rce'] | 1 | 2021-11-24 04:13:12+00:00 | 0 | 0 | Java | 0 | [] |
