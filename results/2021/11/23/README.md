@@ -1,13 +1,12 @@
 
 # Summary for results/2021/11/23
     
-112 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-23 12:28:38+00:00 | 656080 | 25661 | Ruby | 11749 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-23 18:44:33+00:00 | 27111 | 8511 | Python | 1468 | [] |
-| annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-11-23 03:48:46+00:00 | 0 | 0 | | 0 | [] |
+| G73st/BypassAV | c++ shellcode loader | https://github.com/G73st/BypassAV | ['shellcode'] | 1 | 2021-11-23 04:09:07+00:00 | 0 | 0 | C++ | 0 | [] |
 | Footsiefat/Discord-Token-Stealer-Exploit | None | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | ['exploit'] | 1 | 2021-11-23 02:49:19+00:00 | 0 | 0 | | 0 | [] |
 | DarkSprings/CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-23 02:33:47+00:00 | 0 | 2 | Python | 1 | ['CVE-2021-42321'] |
 | Kilo-411/es-filemanager-Exploit | Exploit for ES Filemanager . | https://github.com/Kilo-411/es-filemanager-Exploit | ['exploit'] | 1 | 2021-11-23 02:36:18+00:00 | 0 | 1 | Python | 0 | [] |
@@ -32,10 +31,11 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-23 18:10:11+00:00 | 51 | 4 | | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-23 03:56:02+00:00 | 7217 | 0 | Lua | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-23 16:36:28+00:00 | 213 | 1 | Python | 1 | [] |
-| G73st/BypassAV | c++ shellcode loader | https://github.com/G73st/BypassAV | ['shellcode'] | 1 | 2021-11-23 04:09:07+00:00 | 0 | 0 | C++ | 0 | [] |
+| goodtaeeun/FuzzFrame | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | ['exploit'] | 1 | 2021-11-23 08:26:02+00:00 | 19 | 0 | Shell | 0 | [] |
+| annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-11-23 03:48:46+00:00 | 0 | 0 | | 0 | [] |
 | kaizensecurity/CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 06:24:55+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-41277'] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-23 18:44:33+00:00 | 27111 | 8511 | Python | 1468 | [] |
 | Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2021-11-23 07:09:59+00:00 | 0 | 0 | Python | 0 | [] |
-| pinpinsec/CVE-2020-14065 | Icewarp Mail Server 12.3.0.1 unlimited_file_upload | https://github.com/pinpinsec/CVE-2020-14065 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:00:10+00:00 | 0 | 0 | | 0 | ['CVE-2020-14065'] |
 | ti-bone/kav-privileges-escalation-exploit | This is an old privileges escalation exploit for KAV 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | ['exploit'] | 1 | 2021-11-23 21:02:24+00:00 | 0 | 0 | C++ | 0 | [] |
 | Vulnmachines/Metabase_CVE-2021-41277 | None | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 18:07:02+00:00 | 0 | 0 | | 0 | ['CVE-2021-41277'] |
 | Gauravbhatia1211/Bufferoverflowctf | An exploit for buffer-overflow ctf | https://github.com/Gauravbhatia1211/Bufferoverflowctf | ['exploit'] | 1 | 2021-11-23 17:37:23+00:00 | 0 | 0 | | 0 | [] |
@@ -47,8 +47,8 @@
 | santhosh-antony-raj/RCE | None | https://github.com/santhosh-antony-raj/RCE | ['rce'] | 1 | 2021-11-23 15:05:26+00:00 | 0 | 0 | Java | 0 | [] |
 | pinpinsec/CVE-2020-14066 | Icewarp Mail Server 12.3.0.1 insecure_permissions | https://github.com/pinpinsec/CVE-2020-14066 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:06:47+00:00 | 0 | 0 | | 0 | ['CVE-2020-14066'] |
 | joseaugustoneto/SqlInject | Aplication for exploiting and preventing SQL injection attacks that access sensitive data | https://github.com/joseaugustoneto/SqlInject | ['exploit'] | 1 | 2021-11-23 13:58:55+00:00 | 0 | 0 | | 0 | [] |
+| pinpinsec/CVE-2020-14065 | Icewarp Mail Server 12.3.0.1 unlimited_file_upload | https://github.com/pinpinsec/CVE-2020-14065 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:00:10+00:00 | 0 | 0 | | 0 | ['CVE-2020-14065'] |
 | pinpinsec/CVE-2020-14064 | Icewarp Mail Server 12.3.0.1 incorrect_access_control | https://github.com/pinpinsec/CVE-2020-14064 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:01:02+00:00 | 0 | 0 | | 0 | ['CVE-2020-14064'] |
-| veroni-d20/CN-LAB-RCE | None | https://github.com/veroni-d20/CN-LAB-RCE | ['rce'] | 1 | 2021-11-23 07:10:10+00:00 | 0 | 0 | Java | 0 | [] |
 | mizuirorivi/shellcode_tutorail_x86_64 | None | https://github.com/mizuirorivi/shellcode_tutorail_x86_64 | ['shellcode'] | 1 | 2021-11-23 12:36:38+00:00 | 0 | 0 | | 0 | [] |
 | ishanExtreme/CTF_BufferOverflow | Exploiting BufferOverflow vulnerability on the given piece of code | https://github.com/ishanExtreme/CTF_BufferOverflow | ['exploit'] | 1 | 2021-11-23 12:00:10+00:00 | 0 | 0 | | 0 | [] |
 | Snehadurairaj30/RCE | None | https://github.com/Snehadurairaj30/RCE | ['rce'] | 1 | 2021-11-23 12:04:00+00:00 | 0 | 0 | | 0 | [] |
@@ -60,10 +60,12 @@
 | Dylbin/sockH3lix | Modified version of the H3lix jailbreak which uses the sockpuppet kernel exploit for better successrate & stability | https://github.com/Dylbin/sockH3lix | ['exploit'] | 1 | 2021-11-23 08:41:34+00:00 | 0 | 0 | C | 0 | [] |
 | xd3nux/VS-Exploit | Full vulnserver exploit | https://github.com/xd3nux/VS-Exploit | ['exploit'] | 1 | 2021-11-23 08:38:46+00:00 | 0 | 0 | Python | 0 | [] |
 | JBBS7/RCE-jbbs | None | https://github.com/JBBS7/RCE-jbbs | ['rce'] | 1 | 2021-11-23 07:29:20+00:00 | 0 | 0 | Java | 0 | [] |
-| goodtaeeun/FuzzFrame | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | ['exploit'] | 1 | 2021-11-23 08:26:02+00:00 | 19 | 0 | Shell | 0 | [] |
+| veroni-d20/CN-LAB-RCE | None | https://github.com/veroni-d20/CN-LAB-RCE | ['rce'] | 1 | 2021-11-23 07:10:10+00:00 | 0 | 0 | Java | 0 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-23 06:32:28+00:00 | 102296 | 0 | Shell | 0 | [] |
 | Nerkho/MS08-067 | Updated MS08-067 Python exploit script for Python 3 | https://github.com/Nerkho/MS08-067 | ['exploit'] | 1 | 2021-11-23 17:20:20+00:00 | 11 | 0 | Python | 0 | ['MS08-067'] |
-| GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-11-23 11:31:18+00:00 | 190074 | 25 | C++ | 56 | [] |
+| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-23 11:35:22+00:00 | 15 | 0 | C++ | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-23 11:50:57+00:00 | 19368 | 3 | Python | 0 | [] |
+| Patrowl/PatrowlHears | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | ['exploit'] | 1 | 2021-11-23 16:05:42+00:00 | 499132 | 112 | Python | 36 | [] |
 | VITObelgium/python-spark-quickstart | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | ['exploit'] | 1 | 2021-11-23 10:28:44+00:00 | 18 | 0 | Shell | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-23 00:45:32+00:00 | 51548 | 25 | | 14 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-11-23 19:20:44+00:00 | 1140 | 265 | Rust | 16 | [] |
@@ -75,8 +77,8 @@
 | silv3rr/slv-arch | slv-archiver - Moves releases from incoming to archive | https://github.com/silv3rr/slv-arch | ['0day'] | 1 | 2021-11-23 20:31:07+00:00 | 9 | 1 | Shell | 0 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-23 05:13:00+00:00 | 897 | 2 | | 1 | [] |
 | corkami/collisions | Hash collisions and their exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2021-11-23 07:25:12+00:00 | 28582 | 989 | Python | 87 | [] |
+| GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-11-23 11:31:18+00:00 | 190074 | 25 | C++ | 56 | [] |
 | gquere/pwn_jenkins | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | ['exploit', 'rce'] | 2 | 2021-11-23 13:15:56+00:00 | 122 | 1181 | Python | 222 | [] |
-| peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-11-23 02:45:18+00:00 | 1093 | 1 | | 0 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-23 01:36:46+00:00 | 2766434 | 358 | JavaScript | 55 | [] |
 | Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2021-11-23 15:45:41+00:00 | 409 | 1034 | Perl | 448 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-23 00:16:51+00:00 | 189746 | 254 | Ruby | 78 | [] |
@@ -89,14 +91,14 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-11-23 18:41:45+00:00 | 12377 | 4117 | Python | 592 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-23 05:08:26+00:00 | 296123 | 6637 | C | 1825 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-11-23 05:04:02+00:00 | 627 | 508 | Java | 50 | [] |
+| peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-11-23 02:45:18+00:00 | 1093 | 1 | | 0 | [] |
 | chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-11-23 18:46:54+00:00 | 1011 | 6 | Shell | 0 | [] |
-| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-23 11:35:22+00:00 | 15 | 0 | C++ | 0 | [] |
 | AmeyaJagtap/Rowdy_Activation_Functions | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | ['exploit'] | 1 | 2021-11-23 23:07:35+00:00 | 10 | 0 | | 0 | [] |
-| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-23 11:50:57+00:00 | 19368 | 3 | Python | 0 | [] |
 | rabbitsafe/CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 05:54:04+00:00 | 4 | 8 | Python | 2 | ['CVE-2021-36260'] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-23 21:29:44+00:00 | 18255 | 2 | Rust | 0 | [] |
 | ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-23 12:51:14+00:00 | 27 | 1 | PowerShell | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-11-23 07:23:49+00:00 | 2152 | 0 | Python | 1 | [] |
+| tungdo0602/Discord-Token-Cracker | This is a simple token cracker that use user id to crack (no idea for the proxy, fork it and add proxy part). For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2021-11-23 13:06:59+00:00 | 113 | 4 | Python | 2 | [] |
 | cybersecsi/blueborne-dockerized | Repo code for the related post on SecSI Blog: https://secsi.io/lab/blueborne-kill-chain-on-dockerized-android | https://github.com/cybersecsi/blueborne-dockerized | ['exploit'] | 1 | 2021-11-23 08:34:03+00:00 | 1735 | 4 | Python | 0 | [] |
 | hadrian3689/php8.1.0-dev-rce | None | https://github.com/hadrian3689/php8.1.0-dev-rce | ['rce'] | 1 | 2021-11-23 22:04:21+00:00 | 2 | 0 | Python | 0 | [] |
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2021-11-23 03:13:45+00:00 | 31 | 4 | | 2 | [] |
