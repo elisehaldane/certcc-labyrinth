@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/23
     
-105 records found after deduplication
+106 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-23 12:28:38+00:00 | 656080 | 25661 | Ruby | 11749 | [] |
-| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-23 16:36:28+00:00 | 213 | 1 | Python | 1 | [] |
+| kaizensecurity/CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 06:24:55+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-41277'] |
 | annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-11-23 03:48:46+00:00 | 0 | 0 | | 0 | [] |
 | Footsiefat/Discord-Token-Stealer-Exploit | None | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | ['exploit'] | 1 | 2021-11-23 02:49:19+00:00 | 0 | 0 | | 0 | [] |
 | DarkSprings/CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-23 02:33:47+00:00 | 0 | 2 | Python | 1 | ['CVE-2021-42321'] |
@@ -31,9 +31,10 @@
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-23 10:33:09+00:00 | 997 | 102 | Python | 16 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-23 18:10:11+00:00 | 51 | 4 | | 0 | [] |
 | G73st/BypassAV | c++ shellcode loader | https://github.com/G73st/BypassAV | ['shellcode'] | 1 | 2021-11-23 04:09:07+00:00 | 0 | 0 | C++ | 0 | [] |
-| kaizensecurity/CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 06:24:55+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-41277'] |
 | Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2021-11-23 07:09:59+00:00 | 0 | 0 | Python | 0 | [] |
-| pinpinsec/CVE-2020-14064 | Icewarp Mail Server 12.3.0.1 incorrect_access_control | https://github.com/pinpinsec/CVE-2020-14064 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:01:02+00:00 | 0 | 0 | | 0 | ['CVE-2020-14064'] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-23 05:08:26+00:00 | 296123 | 6637 | C | 1825 | [] |
+| veroni-d20/CN-LAB-RCE | None | https://github.com/veroni-d20/CN-LAB-RCE | ['rce'] | 1 | 2021-11-23 07:10:10+00:00 | 0 | 0 | Java | 0 | [] |
+| ti-bone/kav-privileges-escalation-exploit | This is an old privileges escalation exploit for KAV 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | ['exploit'] | 1 | 2021-11-23 21:02:24+00:00 | 0 | 0 | C++ | 0 | [] |
 | Vulnmachines/Metabase_CVE-2021-41277 | None | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 18:07:02+00:00 | 0 | 0 | | 0 | ['CVE-2021-41277'] |
 | Gauravbhatia1211/Bufferoverflowctf | An exploit for buffer-overflow ctf | https://github.com/Gauravbhatia1211/Bufferoverflowctf | ['exploit'] | 1 | 2021-11-23 17:37:23+00:00 | 0 | 0 | | 0 | [] |
 | lockecd/rces-final-project | Research Computing in Earth Science Final Project | https://github.com/lockecd/rces-final-project | ['rce'] | 1 | 2021-11-23 16:40:47+00:00 | 0 | 0 | | 0 | [] |
@@ -44,8 +45,8 @@
 | pinpinsec/CVE-2020-14066 | Icewarp Mail Server 12.3.0.1 insecure_permissions | https://github.com/pinpinsec/CVE-2020-14066 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:06:47+00:00 | 0 | 0 | | 0 | ['CVE-2020-14066'] |
 | joseaugustoneto/SqlInject | Aplication for exploiting and preventing SQL injection attacks that access sensitive data | https://github.com/joseaugustoneto/SqlInject | ['exploit'] | 1 | 2021-11-23 13:58:55+00:00 | 0 | 0 | | 0 | [] |
 | pinpinsec/CVE-2020-14065 | Icewarp Mail Server 12.3.0.1 unlimited_file_upload | https://github.com/pinpinsec/CVE-2020-14065 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:00:10+00:00 | 0 | 0 | | 0 | ['CVE-2020-14065'] |
+| pinpinsec/CVE-2020-14064 | Icewarp Mail Server 12.3.0.1 incorrect_access_control | https://github.com/pinpinsec/CVE-2020-14064 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 14:01:02+00:00 | 0 | 0 | | 0 | ['CVE-2020-14064'] |
 | mizuirorivi/shellcode_tutorail_x86_64 | None | https://github.com/mizuirorivi/shellcode_tutorail_x86_64 | ['shellcode'] | 1 | 2021-11-23 12:36:38+00:00 | 0 | 0 | | 0 | [] |
-| veroni-d20/CN-LAB-RCE | None | https://github.com/veroni-d20/CN-LAB-RCE | ['rce'] | 1 | 2021-11-23 07:10:10+00:00 | 0 | 0 | Java | 0 | [] |
 | ishanExtreme/CTF_BufferOverflow | Exploiting BufferOverflow vulnerability on the given piece of code | https://github.com/ishanExtreme/CTF_BufferOverflow | ['exploit'] | 1 | 2021-11-23 12:00:10+00:00 | 0 | 0 | | 0 | [] |
 | Snehadurairaj30/RCE | None | https://github.com/Snehadurairaj30/RCE | ['rce'] | 1 | 2021-11-23 12:04:00+00:00 | 0 | 0 | | 0 | [] |
 | DaanSelen/POC_Brute-Force-Attack-Script | POC_Brute Force Attack Script | https://github.com/DaanSelen/POC_Brute-Force-Attack-Script | ['attack poc'] | 1 | 2021-11-23 09:58:59+00:00 | 0 | 0 | Python | 0 | [] |
@@ -57,8 +58,8 @@
 | xd3nux/VS-Exploit | Full vulnserver exploit | https://github.com/xd3nux/VS-Exploit | ['exploit'] | 1 | 2021-11-23 08:38:46+00:00 | 0 | 0 | Python | 0 | [] |
 | JBBS7/RCE-jbbs | None | https://github.com/JBBS7/RCE-jbbs | ['rce'] | 1 | 2021-11-23 07:29:20+00:00 | 0 | 0 | Java | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-23 03:56:02+00:00 | 7217 | 0 | Lua | 0 | [] |
+| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-23 16:36:28+00:00 | 213 | 1 | Python | 1 | [] |
 | goodtaeeun/FuzzFrame | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | ['exploit'] | 1 | 2021-11-23 08:26:02+00:00 | 19 | 0 | Shell | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-23 05:08:26+00:00 | 296123 | 6637 | C | 1825 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-23 06:32:28+00:00 | 102296 | 0 | Shell | 0 | [] |
 | chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-11-23 18:46:54+00:00 | 1011 | 6 | Shell | 0 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-11-23 02:45:18+00:00 | 1093 | 1 | | 0 | [] |
@@ -109,4 +110,4 @@
 | simonlee-hello/CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | ['cve-2 OR cve_2'] | 1 | 2021-11-23 07:22:19+00:00 | 5 | 2 | Python | 8 | ['CVE-2021-3129'] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-23 01:18:26+00:00 | 85 | 0 | PHP | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-23 08:08:16+00:00 | 289322 | 728 | | 153 | [] |
-| ti-bone/kav-privileges-escalation-exploit | This is an old privileges escalation exploit for KAV 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | ['exploit'] | 1 | 2021-11-23 21:02:24+00:00 | 0 | 0 | C++ | 0 | [] |
+| josh-vr/Exploiter | Helps with bof exploiting on OSCP | https://github.com/josh-vr/Exploiter | ['exploit'] | 1 | 2021-11-23 23:48:08+00:00 | 4 | 0 | Python | 0 | [] |
