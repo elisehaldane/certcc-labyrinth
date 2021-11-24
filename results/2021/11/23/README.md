@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/23
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -19,7 +19,7 @@
 | 6cyril/ctf-writeups | Writeups/exploit code for CTFs I've done | https://github.com/6cyril/ctf-writeups | ['exploit'] | 1 | 2021-11-23 15:32:51+00:00 | 7438 | 0 | Python | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-11-23 02:42:46+00:00 | 247 | 0 | C | 0 | [] |
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-11-23 15:18:13+00:00 | 1 | 0 | Python | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-23 05:08:26+00:00 | 296123 | 6637 | C | 1825 | [] |
+| goodtaeeun/FuzzFrame | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | ['exploit'] | 1 | 2021-11-23 08:26:02+00:00 | 19 | 0 | Shell | 0 | [] |
 | dbgee/fastjson-rce | fastjson rce env based on springboot | https://github.com/dbgee/fastjson-rce | ['rce'] | 1 | 2021-11-23 02:35:01+00:00 | 37783 | 2 | Java | 0 | [] |
 | fsetrodinomo/RCertificate | Certificate :Building Data Apps with R and Shiny: Essential Training | https://github.com/fsetrodinomo/RCertificate | ['rce'] | 1 | 2021-11-23 19:48:45+00:00 | 9 | 0 | R | 0 | [] |
 | glugeorge/rces-project | None | https://github.com/glugeorge/rces-project | ['rce'] | 1 | 2021-11-23 15:45:57+00:00 | 1 | 0 | | 0 | [] |
@@ -59,9 +59,9 @@
 | xd3nux/VS-Exploit | Full vulnserver exploit | https://github.com/xd3nux/VS-Exploit | ['exploit'] | 1 | 2021-11-23 08:38:46+00:00 | 0 | 0 | Python | 0 | [] |
 | JBBS7/RCE-jbbs | None | https://github.com/JBBS7/RCE-jbbs | ['rce'] | 1 | 2021-11-23 07:29:20+00:00 | 0 | 0 | Java | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-23 16:36:28+00:00 | 213 | 1 | Python | 1 | [] |
-| goodtaeeun/FuzzFrame | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | ['exploit'] | 1 | 2021-11-23 08:26:02+00:00 | 19 | 0 | Shell | 0 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-23 06:32:28+00:00 | 102296 | 0 | Shell | 0 | [] |
-| chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-11-23 18:46:54+00:00 | 1011 | 6 | Shell | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-23 05:08:26+00:00 | 296123 | 6637 | C | 1825 | [] |
+| corkami/collisions | Hash collisions and their exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2021-11-23 07:25:12+00:00 | 28582 | 989 | Python | 87 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-11-23 05:04:02+00:00 | 627 | 508 | Java | 50 | [] |
 | VITObelgium/python-spark-quickstart | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | ['exploit'] | 1 | 2021-11-23 10:28:44+00:00 | 18 | 0 | Shell | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-23 00:45:32+00:00 | 51548 | 25 | | 14 | [] |
@@ -73,21 +73,22 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-23 11:27:10+00:00 | 35244 | 6088 | Vue | 1286 | [] |
 | silv3rr/slv-arch | slv-archiver - Moves releases from incoming to archive | https://github.com/silv3rr/slv-arch | ['0day'] | 1 | 2021-11-23 20:31:07+00:00 | 9 | 1 | Shell | 0 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-11-23 05:13:00+00:00 | 897 | 2 | | 1 | [] |
-| corkami/collisions | Hash collisions and their exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2021-11-23 07:25:12+00:00 | 28582 | 989 | Python | 87 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-11-23 11:31:18+00:00 | 190074 | 25 | C++ | 56 | [] |
+| Nerkho/MS08-067 | Updated MS08-067 Python exploit script for Python 3 | https://github.com/Nerkho/MS08-067 | ['exploit'] | 1 | 2021-11-23 17:20:20+00:00 | 11 | 0 | Python | 0 | ['MS08-067'] |
 | gquere/pwn_jenkins | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | ['exploit', 'rce'] | 2 | 2021-11-23 13:15:56+00:00 | 122 | 1181 | Python | 222 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-23 01:36:46+00:00 | 2766434 | 358 | JavaScript | 55 | [] |
 | Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2021-11-23 15:45:41+00:00 | 409 | 1034 | Perl | 448 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-23 00:16:51+00:00 | 189746 | 254 | Ruby | 78 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-23 11:35:03+00:00 | 73549 | 10356 | Jupyter Notebook | 1784 | [] |
+| angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2021-11-23 01:36:51+00:00 | 2614 | 539 | Python | 110 | [] |
 | screetsec/TheFatRat | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, | https://github.com/screetsec/TheFatRat | ['exploit'] | 1 | 2021-11-23 21:39:19+00:00 | 363460 | 5866 | C | 1852 | [] |
 | infoslack/awesome-web-hacking | A list of web application security | https://github.com/infoslack/awesome-web-hacking | ['metasploit module OR payload'] | 1 | 2021-11-23 17:25:51+00:00 | 152 | 3727 | | 990 | [] |
 | OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2021-11-23 11:18:06+00:00 | 74682 | 422 | Java | 483 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-23 00:06:21+00:00 | 1534767 | 1529 | Python | 524 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-11-23 18:41:45+00:00 | 12377 | 4117 | Python | 592 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-11-23 02:45:18+00:00 | 1093 | 1 | | 0 | [] |
+| chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-11-23 18:46:54+00:00 | 1011 | 6 | Shell | 0 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2021-11-23 11:00:58+00:00 | 251657 | 0 | Jupyter Notebook | 0 | [] |
-| Nerkho/MS08-067 | Updated MS08-067 Python exploit script for Python 3 | https://github.com/Nerkho/MS08-067 | ['exploit'] | 1 | 2021-11-23 17:20:20+00:00 | 11 | 0 | Python | 0 | ['MS08-067'] |
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2021-11-23 15:41:13+00:00 | 843 | 2549 | | 445 | [] |
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-23 11:35:22+00:00 | 15 | 0 | C++ | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-23 11:50:57+00:00 | 19368 | 3 | Python | 0 | [] |
