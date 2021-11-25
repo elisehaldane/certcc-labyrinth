@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS12-002,0.50000000,https://github.com/lisinan988/CVE-2019-0708-scan,lisinan988/CVE-2019-0708-scan,431718082
 MS12-002,0.50000000,https://github.com/sinlee1/CVE-2019-0708,sinlee1/CVE-2019-0708,324765199
 MS12-002,0.50000000,https://github.com/k8gege/CVE-2019-0708,k8gege/CVE-2019-0708,186849775
 MS12-002,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
