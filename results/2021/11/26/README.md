@@ -1,14 +1,15 @@
 
 # Summary for results/2021/11/26
     
-53 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-26 01:07:29+00:00 | 21831 | 6166 | JavaScript | 1462 | [] |
-| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-26 04:13:41+00:00 | 11 | 0 | C | 0 | [] |
+| Nivaskumark/CVE-2020-0133-packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:12:07+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-26 01:08:29+00:00 | 32659 | 0 | CSS | 1 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-11-26 00:40:32+00:00 | 269 | 0 | C | 0 | [] |
+| JDBryan/ROPSlap | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | ['exploit'] | 1 | 2021-11-26 11:02:48+00:00 | 0 | 0 | Python | 0 | [] |
 | olivamadrigal/buffer_overflow_exploit | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | ['exploit'] | 1 | 2021-11-26 01:16:53+00:00 | 201 | 0 | C | 0 | [] |
 | c0pp3rGuardian/envExploit_SMTP_SHELL_CPANEL_ALLINONE | None | https://github.com/c0pp3rGuardian/envExploit_SMTP_SHELL_CPANEL_ALLINONE | ['exploit'] | 1 | 2021-11-26 05:31:03+00:00 | 0 | 0 | | 0 | [] |
 | BGPavelAng/shellcodeWin64 | None | https://github.com/BGPavelAng/shellcodeWin64 | ['shellcode'] | 1 | 2021-11-26 01:48:21+00:00 | 1 | 0 | Assembly | 0 | [] |
@@ -18,8 +19,8 @@
 | Nivaskumark/CVE-2020-0133-packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2021-11-26 01:32:25+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
 | ohnonoyesyes/CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-11-26 01:54:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43267'] |
 | CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | How to use ipwndfu in iPhone 6 (not checkra1n)?. For exploit an iPhone 6 that has iOS 10 | https://github.com/CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | ['exploit'] | 1 | 2021-11-26 02:11:49+00:00 | 0 | 0 | | 0 | [] |
-| Nivaskumark/CVE-2020-0133-packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:12:07+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
 | Nivaskumark/CVE-2020-0133-packages_apps_Settings_fix | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_fix | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:21:22+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-26 00:06:26+00:00 | 1534767 | 1530 | Python | 524 | [] |
 | vphnguyen/ANM_CVE-2018-7600 | Detect with python and tracking IP | https://github.com/vphnguyen/ANM_CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:26:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-7600'] |
 | realsanjay/BesidesAHD2021 | Exploiting Esoteric Android Vulnerabilities | https://github.com/realsanjay/BesidesAHD2021 | ['exploit'] | 1 | 2021-11-26 03:38:53+00:00 | 1 | 0 | | 0 | [] |
 | jhye0n/CVE-2021-41773 | CVE-2021-41773 Test Page & Exploit Code | https://github.com/jhye0n/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-26 05:18:02+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
@@ -30,11 +31,15 @@
 | Nivaskumark/CVE-2020-0097-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-26 07:43:16+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0097'] |
 | jiechuanjiang/GENE | Generative Exploration and Exploitation | https://github.com/jiechuanjiang/GENE | ['exploit'] | 1 | 2021-11-26 08:36:08+00:00 | 0 | 1 | Python | 0 | [] |
 | ZeroDay2812/ZeroDay2812 | Config files for my GitHub profile. | https://github.com/ZeroDay2812/ZeroDay2812 | ['zeroday'] | 1 | 2021-11-26 09:44:22+00:00 | 0 | 0 | | 0 | [] |
+| hktalent/CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | ['cve-2 OR cve_2'] | 1 | 2021-11-26 10:10:33+00:00 | 0 | 2 | | 2 | ['CVE-2021-40865'] |
+| rfloc95/GASelection_sklearn | Classification feature selection approach based on deap framework Genetic Algorithm exploiting sklearn ml models as fitness function. | https://github.com/rfloc95/GASelection_sklearn | ['exploit'] | 1 | 2021-11-26 11:30:58+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-26 09:24:15+00:00 | 999 | 187 | C | 30 | [] |
+| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-26 04:13:41+00:00 | 11 | 0 | C | 0 | [] |
 | Melv1no/Minecraft_Server_Tools | this repository contains lot of tools for exploiting / grief a minecraft server for educational purposes only ! | https://github.com/Melv1no/Minecraft_Server_Tools | ['exploit'] | 1 | 2021-11-26 09:56:26+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-26 00:06:26+00:00 | 1534767 | 1530 | Python | 524 | [] |
 | ArthiDa/ExploitAirLineServices | None | https://github.com/ArthiDa/ExploitAirLineServices | ['exploit'] | 1 | 2021-11-26 08:07:41+00:00 | 6740 | 1 | Java | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-26 06:18:02+00:00 | 5584 | 4134 | Python | 566 | [] |
+| SpacehuhnTech/DeauthDetector | Detect deauthentication frames using an ESP8266 | https://github.com/SpacehuhnTech/DeauthDetector | ['exploit'] | 1 | 2021-11-26 11:08:01+00:00 | 1954 | 461 | C++ | 154 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-26 11:35:04+00:00 | 73854 | 10366 | Jupyter Notebook | 1786 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-26 00:16:51+00:00 | 192809 | 255 | Ruby | 78 | [] |
 | corkami/collisions | Hash collisions and their exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2021-11-26 07:33:43+00:00 | 30257 | 995 | Python | 88 | [] |
 | AlphabugX/CVE-2019-6249_Hucart-cms | CVE-2019-6249 Hucart cms 复现环境 | https://github.com/AlphabugX/CVE-2019-6249_Hucart-cms | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:17:30+00:00 | 27817 | 2 | PHP | 2 | ['CVE-2019-6249'] |
@@ -57,4 +62,4 @@
 | BGPavelAng/shellcodeWin32 | None | https://github.com/BGPavelAng/shellcodeWin32 | ['shellcode'] | 1 | 2021-11-26 02:02:27+00:00 | 9 | 0 | Assembly | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-26 09:07:15+00:00 | 19371 | 3 | Python | 0 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-26 08:51:54+00:00 | 115472 | 0 | Shell | 0 | [] |
-| hktalent/CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | ['cve-2 OR cve_2'] | 1 | 2021-11-26 10:10:33+00:00 | 0 | 2 | | 2 | ['CVE-2021-40865'] |
+| LynxOS-Project/LynxKillsKnox | LynxKillsKnox Exploit/Patch for disabling Knox on Samsung | https://github.com/LynxOS-Project/LynxKillsKnox | ['exploit'] | 1 | 2021-11-26 11:28:36+00:00 | 0 | 0 | | 0 | [] |
