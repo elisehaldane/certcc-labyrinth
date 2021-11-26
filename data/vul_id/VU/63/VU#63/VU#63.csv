@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#63,1.00000000,https://github.com/rbxscript-com/radyga,rbxscript-com/radyga,431567176
 VU#63,1.00000000,https://github.com/jravis-8520/h-sploit,jravis-8520/h-sploit,418571875
 VU#63,0.50000000,https://github.com/Xenyax/AllExploits,Xenyax/AllExploits,417584183
+VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#63,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#63,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
