@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#51,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_fix,Nivaskumark/CVE-2020-0133-packages_apps_Settings_fix,432040747
+VU#51,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings,Nivaskumark/CVE-2020-0133-packages_apps_Settings,432039172
 VU#51,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings,Nivaskumark/CVE-2020-0133-packages_apps_Settings,432020855
 VU#51,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings,Nivaskumark/CVE-2020-0133-packages_apps_Settings,431880951
 VU#51,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch,Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch,431877684
