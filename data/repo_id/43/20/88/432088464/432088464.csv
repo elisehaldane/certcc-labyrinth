@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+432088464,Nivaskumark/CVE-2020-0114-frameworks_base,SystemUI/src/com/android/keyguard/KeyguardUpdateMonitor.java,76863094dd39ba45d2a4bc715da87d32b7a39086,BID-0
+432088464,Nivaskumark/CVE-2020-0114-frameworks_base,_GITHUB_REPO_METADATA_,,CVE-2020-0114
