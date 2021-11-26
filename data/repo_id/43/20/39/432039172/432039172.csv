@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+432039172,Nivaskumark/CVE-2020-0133-packages_apps_Settings,tests/unit/src/com/android/settings/wifi/tether/TetherServiceTest.java,a06b1d59ed2f930cfeba0ef5c788c08702ae0d91,BID-1
+432039172,Nivaskumark/CVE-2020-0133-packages_apps_Settings,res/raw/system_nav_fully_gestural.mp4,b46f1a42ced24baca74534b2c591fb9dc669ee99,VU#51
+432039172,Nivaskumark/CVE-2020-0133-packages_apps_Settings,_GITHUB_REPO_METADATA_,,CVE-2020-0133
