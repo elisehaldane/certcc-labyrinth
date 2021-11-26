@@ -1,13 +1,12 @@
 
 # Summary for results/2021/11/25
     
-125 records found after deduplication
+126 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-25 00:03:53+00:00 | 657497 | 25673 | Ruby | 11754 | [] |
-| 1x04/NexSploit | None | https://github.com/1x04/NexSploit | ['sploit'] | 1 | 2021-11-25 01:32:25+00:00 | 0 | 0 | | 0 | [] |
-| ericsophsec/ChromeCPUAbuser | Exploit that uses javascript to spam the console on any chrome based browser causing a large amount CPU usage | https://github.com/ericsophsec/ChromeCPUAbuser | ['exploit'] | 1 | 2021-11-25 09:29:15+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| Hyperkopite/CVE-2021-44217 | None | https://github.com/Hyperkopite/CVE-2021-44217 | ['cve-2 OR cve_2'] | 1 | 2021-11-25 01:49:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-44217'] |
 | Kartik192192/pickle | this is my exploit and secured code files | https://github.com/Kartik192192/pickle | ['exploit'] | 1 | 2021-11-25 09:22:19+00:00 | 0 | 0 | | 0 | [] |
 | ahmad4fifz/CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-11-25 09:16:36+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | Harleythetech/MultiFW-RD-PS4 | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | ['exploit'] | 1 | 2021-11-25 07:24:27+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -20,9 +19,9 @@
 | flancast90/ChromePE | Chrome Post-Exploitation is a client-server Chrome exploit to remotely allow an attacker access to Chrome passwords, downloads, history, and more. | https://github.com/flancast90/ChromePE | ['exploit'] | 1 | 2021-11-25 15:36:18+00:00 | 18 | 0 | Python | 0 | [] |
 | NotYourSamuel/1xScriptRoblox | This is the 1x1x1x1 script gui remake for roblox hackers/exploiters. | https://github.com/NotYourSamuel/1xScriptRoblox | ['exploit'] | 1 | 2021-11-25 02:57:27+00:00 | 0 | 0 | | 0 | [] |
 | Namtv2312/Exploit-Tutorial | None | https://github.com/Namtv2312/Exploit-Tutorial | ['exploit'] | 1 | 2021-11-25 02:30:50+00:00 | 0 | 0 | C | 0 | [] |
-| Hyperkopite/CVE-2021-44217 | None | https://github.com/Hyperkopite/CVE-2021-44217 | ['cve-2 OR cve_2'] | 1 | 2021-11-25 01:49:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-44217'] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-25 18:10:11+00:00 | 51 | 4 | | 0 | [] |
+| 1x04/NexSploit | None | https://github.com/1x04/NexSploit | ['sploit'] | 1 | 2021-11-25 01:32:25+00:00 | 0 | 0 | | 0 | [] |
 | 9xN/xerobyte | A write up of a byte flip zero day vulnerability and exploit | https://github.com/9xN/xerobyte | ['exploit'] | 1 | 2021-11-25 00:35:16+00:00 | 0 | 0 | | 0 | [] |
+| SaraBaradaran/Web-Fuzzer | Implementation of a Web Fuzzer for Detecting XSS, Command and SQL injection Vulnerabilities in Websites. | https://github.com/SaraBaradaran/Web-Fuzzer | ['command injection'] | 1 | 2021-11-25 09:52:09+00:00 | 0 | 0 | Python | 0 | [] |
 | bslibeck/RCES_Final_Project | None | https://github.com/bslibeck/RCES_Final_Project | ['rce'] | 1 | 2021-11-25 00:02:45+00:00 | 0 | 0 | | 0 | [] |
 | tikene/fun-dare-vulnerability-write-up | A write-up describing the discovery and exploitation of a vulnerability I found on fun-dare | https://github.com/tikene/fun-dare-vulnerability-write-up | ['exploit'] | 1 | 2021-11-25 11:48:32+00:00 | 25 | 0 | | 0 | [] |
 | wishawa/decurse | Rust macro to make recursive function run on the heap (i.e. no stack overflow). | https://github.com/wishawa/decurse | ['heap overflow'] | 1 | 2021-11-25 01:18:59+00:00 | 32 | 0 | Rust | 0 | [] |
@@ -35,10 +34,11 @@
 | Yuning-J/VulnerabilityClassifier | Severity scoring and exploit categorisation for vulnerability reports using machine-learning tools. | https://github.com/Yuning-J/VulnerabilityClassifier | ['exploit'] | 1 | 2021-11-25 18:27:21+00:00 | 51836 | 0 | Jupyter Notebook | 0 | [] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2021-11-25 12:07:14+00:00 | 10 | 0 | | 0 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-25 04:00:04+00:00 | 32618 | 0 | CSS | 1 | [] |
-| SaraBaradaran/Web-Fuzzer | Implementation of a Web Fuzzer for Detecting XSS, Command and SQL injection Vulnerabilities in Websites. | https://github.com/SaraBaradaran/Web-Fuzzer | ['command injection'] | 1 | 2021-11-25 09:52:09+00:00 | 0 | 0 | Python | 0 | [] |
+| edcod3/hevd-drivexp | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | ['exploit'] | 1 | 2021-11-25 21:52:22+00:00 | 60 | 0 | C | 0 | [] |
+| ericsophsec/ChromeCPUAbuser | Exploit that uses javascript to spam the console on any chrome based browser causing a large amount CPU usage | https://github.com/ericsophsec/ChromeCPUAbuser | ['exploit'] | 1 | 2021-11-25 09:29:15+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | ai-mehedi/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/ai-mehedi/byob | ['exploit'] | 1 | 2021-11-25 09:44:47+00:00 | 0 | 0 | Python | 0 | [] |
-| raaaqh/RavenAntiCheat | Raven is a 1.17.1 anticheat which patches most common hacks and exploits it very customizable to fit your minecraft server! | https://github.com/raaaqh/RavenAntiCheat | ['exploit'] | 1 | 2021-11-25 09:57:13+00:00 | 0 | 0 | | 0 | [] |
-| Keyvanhardani/Exploit-eShop---Multipurpose-Ecommerce-Store-Website-2.1.1-Cross-Site-Scripting-XSS- | None | https://github.com/Keyvanhardani/Exploit-eShop---Multipurpose-Ecommerce-Store-Website-2.1.1-Cross-Site-Scripting-XSS- | ['exploit'] | 1 | 2021-11-25 10:36:53+00:00 | 0 | 0 | | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-25 13:48:44+00:00 | 27111 | 8515 | Python | 1468 | [] |
+| SongBird0x1337/ArmyCTF-TicklePickle | ArmyCTF-TicklePickle exploit and modified files. | https://github.com/SongBird0x1337/ArmyCTF-TicklePickle | ['exploit'] | 1 | 2021-11-25 15:42:34+00:00 | 3 | 0 | | 0 | [] |
 | Anaas0/nostromo_1_9_6_remote_code_execution | None | https://github.com/Anaas0/nostromo_1_9_6_remote_code_execution | ['remote code execution'] | 1 | 2021-11-25 20:45:03+00:00 | 0 | 0 | Puppet | 0 | [] |
 | eltzi/ocr_to_translation_demo | A fast solution for recognising text from images from various languages using Tesseract and translating the text to english. exploiting the pre-trained models from Transformers. | https://github.com/eltzi/ocr_to_translation_demo | ['exploit'] | 1 | 2021-11-25 20:26:29+00:00 | 0 | 0 | | 0 | [] |
 | yojoshu/cmdbuildpro | Whasssup yall got into coding and exploits about a year ago took the next step and coded up some heat for yall. A bunch of fortnite exploits on this one anywhere to aimbot to flying. I think yall would like this one a bunch sincerly the 12 year old codest | https://github.com/yojoshu/cmdbuildpro | ['exploit'] | 1 | 2021-11-25 18:19:51+00:00 | 0 | 0 | | 0 | [] |
@@ -52,8 +52,8 @@
 | Nivaskumark/CVE-2020-0074-frameworks_base_old | None | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old | ['cve-2 OR cve_2'] | 1 | 2021-11-25 16:05:39+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0074'] |
 | Nivaskumark/CVE-2020-0097-frameworks_base_after | None | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_after | ['cve-2 OR cve_2'] | 1 | 2021-11-25 15:49:56+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0097'] |
 | estgold/fusee-interfacee-cli | Command line python injection tool based on falquinho/fusee-interfacee-tk | https://github.com/estgold/fusee-interfacee-cli | ['command injection'] | 1 | 2021-11-25 15:59:03+00:00 | 0 | 0 | Python | 0 | [] |
-| SongBird0x1337/ArmyCTF-TicklePickle | ArmyCTF-TicklePickle exploit and modified files. | https://github.com/SongBird0x1337/ArmyCTF-TicklePickle | ['exploit'] | 1 | 2021-11-25 15:42:34+00:00 | 3 | 0 | | 0 | [] |
 | Nivaskumark/CVE-2020-0097-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-25 15:31:54+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0097'] |
+| raaaqh/RavenAntiCheat | Raven is a 1.17.1 anticheat which patches most common hacks and exploits it very customizable to fit your minecraft server! | https://github.com/raaaqh/RavenAntiCheat | ['exploit'] | 1 | 2021-11-25 09:57:13+00:00 | 0 | 0 | | 0 | [] |
 | Nivaskumark/CVE-2020-0114-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-25 15:17:54+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0114'] |
 | RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | ['exploit'] | 1 | 2021-11-25 15:07:32+00:00 | 0 | 0 | | 0 | [] |
 | Nivaskumark/_beforeCVE-2020-0114-frameworks_base | None | https://github.com/Nivaskumark/_beforeCVE-2020-0114-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-25 15:07:24+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0114'] |
@@ -66,11 +66,11 @@
 | marwah523/Heap_overflow | None | https://github.com/marwah523/Heap_overflow | ['heap overflow'] | 1 | 2021-11-25 12:05:40+00:00 | 0 | 0 | C++ | 0 | [] |
 | SUBUR78990/metasploit-fremwork | None | https://github.com/SUBUR78990/metasploit-fremwork | ['metasploit module OR payload'] | 1 | 2021-11-25 11:07:45+00:00 | 0 | 0 | | 0 | [] |
 | peace27-96/Router-Vulnerability-Scan-Tool | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | ['exploit'] | 1 | 2021-11-25 10:57:03+00:00 | 0 | 0 | | 0 | [] |
-| edcod3/hevd-drivexp | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | ['exploit'] | 1 | 2021-11-25 21:52:22+00:00 | 60 | 0 | C | 0 | [] |
+| Keyvanhardani/Exploit-eShop---Multipurpose-Ecommerce-Store-Website-2.1.1-Cross-Site-Scripting-XSS- | None | https://github.com/Keyvanhardani/Exploit-eShop---Multipurpose-Ecommerce-Store-Website-2.1.1-Cross-Site-Scripting-XSS- | ['exploit'] | 1 | 2021-11-25 10:36:53+00:00 | 0 | 0 | | 0 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-25 18:10:11+00:00 | 51 | 4 | | 0 | [] |
 | ahmad4fifz/CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-25 09:56:11+00:00 | 23 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-25 13:48:44+00:00 | 27111 | 8515 | Python | 1468 | [] |
-| bugbounty-site/exploits | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | ['exploit'] | 1 | 2021-11-25 10:11:21+00:00 | 11 | 43 | Python | 10 | [] |
-| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-11-25 00:06:31+00:00 | 6983 | 1 | Java | 0 | [] |
+| ahmad4fifz/CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-25 05:17:29+00:00 | 19 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-25 02:13:37+00:00 | 66201 | 1297 | Python | 262 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-25 01:00:36+00:00 | 13750 | 0 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-25 00:05:28+00:00 | 429297 | 35 | | 19 | [] |
 | samolego/GolfIV | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | ['exploit'] | 1 | 2021-11-25 21:01:18+00:00 | 1072 | 28 | Java | 5 | [] |
@@ -83,9 +83,9 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-25 00:45:34+00:00 | 52749 | 25 | | 15 | [] |
 | EntySec/Ghost | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | ['exploit'] | 1 | 2021-11-25 13:33:10+00:00 | 427 | 1382 | Python | 652 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-11-25 03:05:48+00:00 | 1218 | 265 | Rust | 16 | [] |
-| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-25 02:13:37+00:00 | 66201 | 1297 | Python | 262 | [] |
-| ahmad4fifz/CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-25 05:17:29+00:00 | 19 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
+| bugbounty-site/exploits | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | ['exploit'] | 1 | 2021-11-25 10:11:21+00:00 | 11 | 43 | Python | 10 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-25 10:33:25+00:00 | 35244 | 6101 | Vue | 1291 | [] |
+| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-25 00:14:45+00:00 | 218 | 1 | Python | 1 | [] |
 | dhondta/python-sploitkit | :wrench: Devkit for building Metasploit-like consoles | https://github.com/dhondta/python-sploitkit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-25 06:31:04+00:00 | 2156 | 173 | Python | 46 | [] |
 | silv3rr/slv-arch | slv-archiver - Moves releases from incoming to archive | https://github.com/silv3rr/slv-arch | ['0day'] | 1 | 2021-11-25 13:01:08+00:00 | 15 | 1 | Shell | 0 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-11-25 09:55:42+00:00 | 3898 | 2159 | Python | 618 | [] |
@@ -97,12 +97,12 @@
 | SpacehuhnTech/DeauthDetector | Detect deauthentication frames using an ESP8266 | https://github.com/SpacehuhnTech/DeauthDetector | ['exploit'] | 1 | 2021-11-25 22:46:58+00:00 | 1958 | 461 | C++ | 154 | [] |
 | tintinweb/striptls | proxy poc implementation of STARTTLS stripping attacks | https://github.com/tintinweb/striptls | ['attack poc'] | 1 | 2021-11-25 09:33:13+00:00 | 113 | 164 | Python | 35 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-25 00:06:25+00:00 | 1534767 | 1530 | Python | 524 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-11-25 00:02:38+00:00 | 60629 | 1145 | C | 551 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-25 05:08:20+00:00 | 300254 | 6642 | C | 1825 | [] |
+| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-11-25 00:06:31+00:00 | 6983 | 1 | Java | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-25 01:23:25+00:00 | 86 | 0 | PHP | 0 | [] |
 | NS-Sp4ce/CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-25 06:55:55+00:00 | 487 | 306 | Python | 117 | ['CVE-2021-21972'] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-11-25 00:05:06+00:00 | 144497 | 60 | TypeScript | 4 | [] |
-| exploitenomah/exploitenomah | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | ['exploit'] | 1 | 2021-11-25 14:38:33+00:00 | 71 | 0 | CSS | 0 | [] |
-| nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-25 00:14:45+00:00 | 218 | 1 | Python | 1 | [] |
 | ArthiDa/ExploitAirLineServices | None | https://github.com/ArthiDa/ExploitAirLineServices | ['exploit'] | 1 | 2021-11-25 17:34:51+00:00 | 4231 | 1 | Java | 0 | [] |
 | chronoss09/sleirsgoevy755 | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | ['exploit'] | 1 | 2021-11-25 23:33:58+00:00 | 2749 | 0 | JavaScript | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-25 00:35:09+00:00 | 1844 | 0 | JavaScript | 0 | [] |
@@ -129,4 +129,5 @@
 | GaryOderNichts/bluubomb | Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | ['exploit'] | 1 | 2021-11-25 12:23:38+00:00 | 43 | 66 | C | 1 | [] |
 | Captain-1337/Master-Thesis | Understanding and Exploiting Deep Learning-based Sentiment Analysis from News Headlines for Predicting Price Movements of WTI Crude Oil | https://github.com/Captain-1337/Master-Thesis | ['exploit'] | 1 | 2021-11-25 16:54:54+00:00 | 15205 | 0 | Jupyter Notebook | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-25 04:01:57+00:00 | 74540 | 241 | Python | 75 | [] |
+| exploitenomah/exploitenomah | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | ['exploit'] | 1 | 2021-11-25 14:38:33+00:00 | 71 | 0 | CSS | 0 | [] |
 | merdachu/Kick-hub | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | ['exploit'] | 1 | 2021-11-25 22:27:34+00:00 | 0 | 0 | | 0 | [] |
