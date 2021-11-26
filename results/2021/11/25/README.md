@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/25
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -21,7 +21,7 @@
 | NotYourSamuel/1xScriptRoblox | This is the 1x1x1x1 script gui remake for roblox hackers/exploiters. | https://github.com/NotYourSamuel/1xScriptRoblox | ['exploit'] | 1 | 2021-11-25 02:57:27+00:00 | 0 | 0 | | 0 | [] |
 | Namtv2312/Exploit-Tutorial | None | https://github.com/Namtv2312/Exploit-Tutorial | ['exploit'] | 1 | 2021-11-25 02:30:50+00:00 | 0 | 0 | C | 0 | [] |
 | Hyperkopite/CVE-2021-44217 | None | https://github.com/Hyperkopite/CVE-2021-44217 | ['cve-2 OR cve_2'] | 1 | 2021-11-25 01:49:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-44217'] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-25 13:48:44+00:00 | 27111 | 8515 | Python | 1468 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-25 18:10:11+00:00 | 51 | 4 | | 0 | [] |
 | 9xN/xerobyte | A write up of a byte flip zero day vulnerability and exploit | https://github.com/9xN/xerobyte | ['exploit'] | 1 | 2021-11-25 00:35:16+00:00 | 0 | 0 | | 0 | [] |
 | bslibeck/RCES_Final_Project | None | https://github.com/bslibeck/RCES_Final_Project | ['rce'] | 1 | 2021-11-25 00:02:45+00:00 | 0 | 0 | | 0 | [] |
 | tikene/fun-dare-vulnerability-write-up | A write-up describing the discovery and exploitation of a vulnerability I found on fun-dare | https://github.com/tikene/fun-dare-vulnerability-write-up | ['exploit'] | 1 | 2021-11-25 11:48:32+00:00 | 25 | 0 | | 0 | [] |
@@ -67,9 +67,9 @@
 | SUBUR78990/metasploit-fremwork | None | https://github.com/SUBUR78990/metasploit-fremwork | ['metasploit module OR payload'] | 1 | 2021-11-25 11:07:45+00:00 | 0 | 0 | | 0 | [] |
 | peace27-96/Router-Vulnerability-Scan-Tool | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | ['exploit'] | 1 | 2021-11-25 10:57:03+00:00 | 0 | 0 | | 0 | [] |
 | edcod3/hevd-drivexp | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | ['exploit'] | 1 | 2021-11-25 21:52:22+00:00 | 60 | 0 | C | 0 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-25 18:10:11+00:00 | 51 | 4 | | 0 | [] |
 | ahmad4fifz/CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-25 09:56:11+00:00 | 23 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
-| NS-Sp4ce/CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-25 06:55:55+00:00 | 487 | 306 | Python | 117 | ['CVE-2021-21972'] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-25 13:48:44+00:00 | 27111 | 8515 | Python | 1468 | [] |
+| bugbounty-site/exploits | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | ['exploit'] | 1 | 2021-11-25 10:11:21+00:00 | 11 | 43 | Python | 10 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-11-25 00:06:31+00:00 | 6983 | 1 | Java | 0 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-25 01:00:36+00:00 | 13750 | 0 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-25 00:05:28+00:00 | 429297 | 35 | | 19 | [] |
@@ -83,8 +83,9 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-25 00:45:34+00:00 | 52749 | 25 | | 15 | [] |
 | EntySec/Ghost | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | ['exploit'] | 1 | 2021-11-25 13:33:10+00:00 | 427 | 1382 | Python | 652 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-11-25 03:05:48+00:00 | 1218 | 265 | Rust | 16 | [] |
-| bugbounty-site/exploits | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | ['exploit'] | 1 | 2021-11-25 10:11:21+00:00 | 11 | 43 | Python | 10 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-25 02:13:37+00:00 | 66201 | 1297 | Python | 262 | [] |
+| ahmad4fifz/CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-25 05:17:29+00:00 | 19 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-25 10:33:25+00:00 | 35244 | 6101 | Vue | 1291 | [] |
 | dhondta/python-sploitkit | :wrench: Devkit for building Metasploit-like consoles | https://github.com/dhondta/python-sploitkit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-11-25 06:31:04+00:00 | 2156 | 173 | Python | 46 | [] |
 | silv3rr/slv-arch | slv-archiver - Moves releases from incoming to archive | https://github.com/silv3rr/slv-arch | ['0day'] | 1 | 2021-11-25 13:01:08+00:00 | 15 | 1 | Shell | 0 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-11-25 09:55:42+00:00 | 3898 | 2159 | Python | 618 | [] |
@@ -98,8 +99,8 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-25 00:06:25+00:00 | 1534767 | 1530 | Python | 524 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-25 05:08:20+00:00 | 300254 | 6642 | C | 1825 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-25 01:23:25+00:00 | 86 | 0 | PHP | 0 | [] |
+| NS-Sp4ce/CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-25 06:55:55+00:00 | 487 | 306 | Python | 117 | ['CVE-2021-21972'] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-11-25 00:05:06+00:00 | 144497 | 60 | TypeScript | 4 | [] |
-| ahmad4fifz/CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-25 05:17:29+00:00 | 19 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
 | exploitenomah/exploitenomah | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | ['exploit'] | 1 | 2021-11-25 14:38:33+00:00 | 71 | 0 | CSS | 0 | [] |
 | nitaly31/AirBnB_clone | :house_with_garden: The AirBnB Clone (Web static) | https://github.com/nitaly31/AirBnB_clone | ['shellcode'] | 1 | 2021-11-25 00:14:45+00:00 | 218 | 1 | Python | 1 | [] |
 | ArthiDa/ExploitAirLineServices | None | https://github.com/ArthiDa/ExploitAirLineServices | ['exploit'] | 1 | 2021-11-25 17:34:51+00:00 | 4231 | 1 | Java | 0 | [] |
