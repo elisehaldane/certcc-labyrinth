@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/26
     
-37 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-26 01:07:29+00:00 | 21831 | 6166 | JavaScript | 1462 | [] |
-| olivamadrigal/buffer_overflow_exploit | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | ['exploit'] | 1 | 2021-11-26 01:16:53+00:00 | 201 | 0 | C | 0 | [] |
+| Nivaskumark/CVE-2020-0133-packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:12:07+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
+| c0pp3rGuardian/envExploit_SMTP_SHELL_CPANEL_ALLINONE | None | https://github.com/c0pp3rGuardian/envExploit_SMTP_SHELL_CPANEL_ALLINONE | ['exploit'] | 1 | 2021-11-26 05:31:03+00:00 | 0 | 0 | | 0 | [] |
 | BGPavelAng/shellcodeWin64 | None | https://github.com/BGPavelAng/shellcodeWin64 | ['shellcode'] | 1 | 2021-11-26 01:48:21+00:00 | 1 | 0 | Assembly | 0 | [] |
 | 9xN/xerobyte | A write up of a byte flip zero day vulnerability and exploit | https://github.com/9xN/xerobyte | ['exploit'] | 1 | 2021-11-26 04:47:15+00:00 | 15 | 1 | | 0 | [] |
 | Harleythetech/MultiFW-RD-PS4 | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | ['exploit'] | 1 | 2021-11-26 02:33:41+00:00 | 1791 | 0 | HTML | 0 | [] |
@@ -14,24 +15,28 @@
 | Nivaskumark/CVE-2020-0133-packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2021-11-26 01:32:25+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
 | ohnonoyesyes/CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-11-26 01:54:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43267'] |
 | CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | How to use ipwndfu in iPhone 6 (not checkra1n)?. For exploit an iPhone 6 that has iOS 10 | https://github.com/CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | ['exploit'] | 1 | 2021-11-26 02:11:49+00:00 | 0 | 0 | | 0 | [] |
-| Nivaskumark/CVE-2020-0133-packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:12:07+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
 | Nivaskumark/CVE-2020-0133-packages_apps_Settings_fix | None | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_fix | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:21:22+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0133'] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-26 00:06:26+00:00 | 1534767 | 1530 | Python | 524 | [] |
 | vphnguyen/ANM_CVE-2018-7600 | Detect with python and tracking IP | https://github.com/vphnguyen/ANM_CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:26:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-7600'] |
 | realsanjay/BesidesAHD2021 | Exploiting Esoteric Android Vulnerabilities | https://github.com/realsanjay/BesidesAHD2021 | ['exploit'] | 1 | 2021-11-26 03:38:53+00:00 | 1 | 0 | | 0 | [] |
 | jhye0n/CVE-2021-41773 | CVE-2021-41773 Test Page & Exploit Code | https://github.com/jhye0n/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-26 05:18:02+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | Vito-Swift/Reminders-Heap-Exploit | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | ['exploit', 'shellcode'] | 2 | 2021-11-26 06:38:56+00:00 | 0 | 0 | | 0 | [] |
 | Nivaskumark/CVE-2020-0114-frameworks | None | https://github.com/Nivaskumark/CVE-2020-0114-frameworks | ['cve-2 OR cve_2'] | 1 | 2021-11-26 07:13:49+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0114'] |
 | Nivaskumark/CVE-2020-0114-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-26 07:23:19+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0114'] |
-| c0pp3rGuardian/envExploit_SMTP_SHELL_CPANEL_ALLINONE | None | https://github.com/c0pp3rGuardian/envExploit_SMTP_SHELL_CPANEL_ALLINONE | ['exploit'] | 1 | 2021-11-26 05:31:03+00:00 | 0 | 0 | | 0 | [] |
+| givemefivw/CVE-2021-1437 | CVE-2021-1437 | https://github.com/givemefivw/CVE-2021-1437 | ['cve-2 OR cve_2'] | 1 | 2021-11-26 07:34:18+00:00 | 0 | 0 | | 0 | ['CVE-2021-1437'] |
+| Nivaskumark/CVE-2020-0097-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-26 07:43:16+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0097'] |
+| olivamadrigal/buffer_overflow_exploit | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | ['exploit'] | 1 | 2021-11-26 01:16:53+00:00 | 201 | 0 | C | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-11-26 00:40:32+00:00 | 269 | 0 | C | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-26 00:06:26+00:00 | 1534767 | 1530 | Python | 524 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-26 01:08:29+00:00 | 32659 | 0 | CSS | 1 | [] |
+| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-26 04:13:41+00:00 | 11 | 0 | C | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-26 06:18:02+00:00 | 5584 | 4134 | Python | 566 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-26 00:16:51+00:00 | 192809 | 255 | Ruby | 78 | [] |
 | corkami/collisions | Hash collisions and their exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2021-11-26 07:33:43+00:00 | 30257 | 995 | Python | 88 | [] |
 | AlphabugX/CVE-2019-6249_Hucart-cms | CVE-2019-6249 Hucart cms 复现环境 | https://github.com/AlphabugX/CVE-2019-6249_Hucart-cms | ['cve-2 OR cve_2'] | 1 | 2021-11-26 03:17:30+00:00 | 27817 | 2 | PHP | 2 | ['CVE-2019-6249'] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-11-26 08:26:08+00:00 | 3919 | 2161 | Python | 618 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-26 03:05:23+00:00 | 35244 | 6102 | Vue | 1291 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-26 06:45:35+00:00 | 53089 | 25 | | 15 | [] |
+| bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner | Cnvd-2020-10487 / cve-2020-1938, scanner tool | https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-11-26 07:40:35+00:00 | 275 | 239 | Python | 98 | ['CNVD-2020-10487', 'CVE-2020-1938'] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-11-26 02:47:41+00:00 | 36782 | 425 | C++ | 64 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-26 00:04:07+00:00 | 429417 | 35 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-26 01:25:56+00:00 | 87 | 0 | PHP | 0 | [] |
@@ -40,5 +45,5 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-26 01:06:38+00:00 | 9676 | 2 | Python | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-26 05:22:35+00:00 | 121 | 2 | | 0 | [] |
 | BGPavelAng/shellcodeWin32 | None | https://github.com/BGPavelAng/shellcodeWin32 | ['shellcode'] | 1 | 2021-11-26 02:02:27+00:00 | 9 | 0 | Assembly | 0 | [] |
-| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-26 04:13:41+00:00 | 11 | 0 | C | 0 | [] |
-| givemefivw/CVE-2021-1437 | CVE-2021-1437 | https://github.com/givemefivw/CVE-2021-1437 | ['cve-2 OR cve_2'] | 1 | 2021-11-26 07:34:18+00:00 | 0 | 0 | | 0 | ['CVE-2021-1437'] |
+| ArthiDa/ExploitAirLineServices | None | https://github.com/ArthiDa/ExploitAirLineServices | ['exploit'] | 1 | 2021-11-26 08:07:41+00:00 | 6740 | 1 | Java | 0 | [] |
+| jiechuanjiang/GENE | Generative Exploration and Exploitation | https://github.com/jiechuanjiang/GENE | ['exploit'] | 1 | 2021-11-26 08:36:08+00:00 | 0 | 1 | Python | 0 | [] |
