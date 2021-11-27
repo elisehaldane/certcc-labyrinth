@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/27
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -18,6 +18,8 @@
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-27 01:32:05+00:00 | 22 | 0 | Java | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-27 05:29:32+00:00 | 193 | 9 | JavaScript | 12 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-11-27 00:13:51+00:00 | 694 | 0 | Python | 0 | [] |
+| tungdo0602/Discord-Token-Cracker | This is a simple token cracker that use user id to crack (no idea for the proxy, fork it and add proxy part). For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2021-11-27 06:08:02+00:00 | 113 | 5 | Python | 2 | [] |
+| aesophor/requiem | None | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-27 06:38:04+00:00 | 9444 | 15 | C++ | 3 | [] |
 | Dolf7/Binary_Exploitation_1 | None | https://github.com/Dolf7/Binary_Exploitation_1 | ['exploit'] | 1 | 2021-11-27 04:04:42+00:00 | 472 | 0 | C | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-27 01:04:56+00:00 | 10635 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-27 04:01:46+00:00 | 79931 | 249 | Python | 77 | [] |
