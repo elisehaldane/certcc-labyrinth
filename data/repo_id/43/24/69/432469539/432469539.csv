@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+432469539,FDlucifer/Proxy-Attackchain,proxylogon.go,5487ec3e96c6342e6f70e47e401cd0089f8f3df9,CVE-2021-26855
+432469539,FDlucifer/Proxy-Attackchain,proxylogon.go,5487ec3e96c6342e6f70e47e401cd0089f8f3df9,CVE-2021-27065
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-26855
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-27065
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-31195
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-31196
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-31207
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-33766
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-34473
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-34523
+432469539,FDlucifer/Proxy-Attackchain,README.md,7c9a48e8aa432b981b92143babd94ffa84bfd7e9,CVE-2021-42321
+432469539,FDlucifer/Proxy-Attackchain,CVE-2021-42321.go,db5c40b8fa7e29ba97e0f56160185b0867a98398,CVE-2021-42321
