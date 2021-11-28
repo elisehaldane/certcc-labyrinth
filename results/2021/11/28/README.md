@@ -1,12 +1,14 @@
 
 # Summary for results/2021/11/28
     
-30 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-28 00:36:48+00:00 | 27111 | 8519 | Python | 1468 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-28 00:06:25+00:00 | 1534767 | 1532 | Python | 524 | [] |
+| nisforrnicholas/WordPress-Theme-Editor-Exploit | None | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | ['exploit'] | 1 | 2021-11-28 06:06:16+00:00 | 0 | 0 | Python | 0 | [] |
+| ohnonoyesyes/CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-28 01:16:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41653'] |
 | ohnonoyesyes/CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-28 01:12:20+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-21224'] |
 | samH99/MITM-Attack-POC | nan | https://github.com/samH99/MITM-Attack-POC | ['attack poc'] | 1 | 2021-11-28 00:51:18+00:00 | 0 | 0 | nan | 0 | [] |
 | VVlovsky/UUPSUpgradeable-Exploit-Agent | This agent detects when an attacker could trigger a selfdestruct of a UUPS implementation contract, leaving a proxy contract permanently broken. | https://github.com/VVlovsky/UUPSUpgradeable-Exploit-Agent | ['exploit'] | 1 | 2021-11-28 00:31:08+00:00 | 0 | 0 | | 0 | [] |
@@ -34,4 +36,4 @@
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-11-28 01:45:48+00:00 | 40002 | 6882 | Python | 1653 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-28 00:17:01+00:00 | 194341 | 255 | Ruby | 78 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-28 00:21:50+00:00 | 5817 | 4135 | Python | 567 | [] |
-| ohnonoyesyes/CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-28 01:16:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41653'] |
+| Sighkarian/Roblox | Roblox exploit | https://github.com/Sighkarian/Roblox | ['exploit'] | 1 | 2021-11-28 06:38:00+00:00 | 0 | 0 | | 0 | [] |
