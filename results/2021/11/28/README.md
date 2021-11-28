@@ -1,14 +1,13 @@
 
 # Summary for results/2021/11/28
     
-56 records found after deduplication
+59 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-28 07:31:06+00:00 | 657957 | 25696 | Ruby | 11762 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-28 00:36:48+00:00 | 27111 | 8519 | Python | 1468 | [] |
-| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-28 03:10:51+00:00 | 20 | 0 | C | 0 | [] |
-| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-28 03:31:24+00:00 | 1016 | 195 | C | 34 | [] |
+| ohnonoyesyes/CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-28 01:16:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41653'] |
+| lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-11-28 13:27:50+00:00 | 1286 | 0 | Python | 0 | [] |
 | momo1239/buffshark-shellcode-runner | Shellcode runner to execute malicious payload and bypass AV | https://github.com/momo1239/buffshark-shellcode-runner | ['shellcode'] | 1 | 2021-11-28 05:32:17+00:00 | 6980 | 1 | Python | 0 | [] |
 | RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | ['exploit'] | 1 | 2021-11-28 01:02:36+00:00 | 1569 | 0 | | 0 | [] |
 | ohnonoyesyes/CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-11-28 01:12:40+00:00 | 8 | 9 | C | 2 | ['CVE-2021-43267'] |
@@ -20,8 +19,8 @@
 | VVlovsky/UUPSUpgradeable-Exploit-Agent | This agent detects when an attacker could trigger a selfdestruct of a UUPS implementation contract, leaving a proxy contract permanently broken. | https://github.com/VVlovsky/UUPSUpgradeable-Exploit-Agent | ['exploit'] | 1 | 2021-11-28 00:31:08+00:00 | 0 | 0 | | 0 | [] |
 | samH99/MITM-Attack-POC | nan | https://github.com/samH99/MITM-Attack-POC | ['attack poc'] | 1 | 2021-11-28 00:51:18+00:00 | 0 | 0 | nan | 0 | [] |
 | ohnonoyesyes/CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-28 01:12:20+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-21224'] |
-| ohnonoyesyes/CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-28 01:16:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41653'] |
 | M359AH/DepFine | DepFine Is a tool to find the unregistered dependency based on dependency confusion valunerablility and lead to RCE | https://github.com/M359AH/DepFine | ['rce'] | 1 | 2021-11-28 11:47:35+00:00 | 9 | 0 | Python | 0 | [] |
+| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-28 03:10:51+00:00 | 20 | 0 | C | 0 | [] |
 | nisforrnicholas/WordPress-Theme-Editor-Exploit | None | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | ['exploit'] | 1 | 2021-11-28 06:06:16+00:00 | 0 | 0 | Python | 0 | [] |
 | Sighkarian/Roblox | Roblox exploit | https://github.com/Sighkarian/Roblox | ['exploit'] | 1 | 2021-11-28 06:38:00+00:00 | 0 | 0 | | 0 | [] |
 | NightSploit/NightSploit | Config files for my GitHub profile. | https://github.com/NightSploit/NightSploit | ['sploit'] | 1 | 2021-11-28 07:16:25+00:00 | 0 | 0 | | 0 | [] |
@@ -32,10 +31,12 @@
 | exploitblizzard/WindowsMDM-LPE-0Day | CVE-2021-24084 Windows Local Privilege Escalation Left officially unpatched since 2020. Hence, its still a zero day | https://github.com/exploitblizzard/WindowsMDM-LPE-0Day | ['0day'] | 1 | 2021-11-28 09:52:23+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-24084'] |
 | Sploit-Slash/Sploit-Slash | It's official website of 𝗦𝗽𝗹𝗼𝗶𝘁 𝗦𝗹𝗮𝘀𝗵, check it & (𝗶𝗺𝗽𝗿𝗼𝘃𝗲) it. This is, where you all get (𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴, 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗟𝗶𝗻𝘂𝘅 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱) tutorials. | https://github.com/Sploit-Slash/Sploit-Slash | ['sploit'] | 1 | 2021-11-28 10:35:08+00:00 | 0 | 0 | | 0 | [] |
 | YigitKral1/EXPLOITSCRIPTS | None | https://github.com/YigitKral1/EXPLOITSCRIPTS | ['exploit'] | 1 | 2021-11-28 12:03:05+00:00 | 0 | 0 | | 0 | [] |
+| marwah523/heapOverflow_infoLeak | nan | https://github.com/marwah523/heapOverflow_infoLeak | ['heap overflow'] | 1 | 2021-11-28 12:07:17+00:00 | 0 | 0 | C++ | 0 | [] |
+| gbadebosmith/os_command_injection_test_scripts | None | https://github.com/gbadebosmith/os_command_injection_test_scripts | ['command injection'] | 1 | 2021-11-28 13:03:22+00:00 | 0 | 0 | | 0 | [] |
+| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-28 03:31:24+00:00 | 1016 | 195 | C | 34 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-28 11:15:20+00:00 | 9833 | 0 | Lua | 0 | [] |
-| tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-28 00:19:21+00:00 | 1873 | 0 | JavaScript | 0 | [] |
-| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-28 08:22:12+00:00 | 19409 | 4 | Python | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-28 00:04:25+00:00 | 426121 | 35 | | 19 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-28 00:36:48+00:00 | 27111 | 8519 | Python | 1468 | [] |
+| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-28 04:22:18+00:00 | 406 | 78 | | 18 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-28 00:06:25+00:00 | 1534767 | 1532 | Python | 524 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-28 09:08:58+00:00 | 5710 | 2992 | Python | 661 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-28 00:21:50+00:00 | 5817 | 4135 | Python | 567 | [] |
@@ -47,9 +48,9 @@
 | MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2021-11-28 10:01:37+00:00 | 146513 | 63 | Python | 19 | [] |
 | mesquidar/adbsploit | A python based tool for exploiting and managing Android devices via ADB | https://github.com/mesquidar/adbsploit | ['exploit'] | 1 | 2021-11-28 03:01:36+00:00 | 88 | 316 | Python | 56 | [] |
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-11-28 09:47:31+00:00 | 6 | 11 | Python | 15 | [] |
-| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-28 04:22:18+00:00 | 406 | 78 | | 18 | [] |
-| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-28 02:12:28+00:00 | 25 | 0 | Java | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-28 00:04:25+00:00 | 426121 | 35 | | 19 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-28 04:23:58+00:00 | 289372 | 730 | | 155 | [] |
+| tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-28 00:19:21+00:00 | 1873 | 0 | JavaScript | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-28 04:01:50+00:00 | 80477 | 251 | Python | 77 | [] |
 | xfiftyone/seeyon-exploit | 致远OA漏洞检测 | https://github.com/xfiftyone/seeyon-exploit | ['exploit'] | 1 | 2021-11-28 06:43:47+00:00 | 4958 | 12 | Go | 4 | [] |
 | SpartanMike/Technical-Capabilities | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R) ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security ● Udemy CompTIA CySA+ Course: Certifi | https://github.com/SpartanMike/Technical-Capabilities | ['exploit', 'metasploit module OR payload'] | 2 | 2021-11-28 03:42:16+00:00 | 25129 | 0 | | 0 | [] |
@@ -60,4 +61,6 @@
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-28 01:31:40+00:00 | 427 | 149 | JavaScript | 385 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-11-28 11:46:07+00:00 | 121 | 214 | C# | 39 | [] |
 | Ashendulmina/discord-web-console-exploits | None | https://github.com/Ashendulmina/discord-web-console-exploits | ['exploit'] | 1 | 2021-11-28 03:34:51+00:00 | 14 | 2 | | 1 | [] |
-| marwah523/heapOverflow_infoLeak | nan | https://github.com/marwah523/heapOverflow_infoLeak | ['heap overflow'] | 1 | 2021-11-28 12:07:17+00:00 | 0 | 0 | C++ | 0 | [] |
+| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-28 02:12:28+00:00 | 25 | 0 | Java | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-28 08:22:12+00:00 | 19409 | 4 | Python | 0 | [] |
+| ci2n/metasploit | None | https://github.com/ci2n/metasploit | ['metasploit module OR payload'] | 1 | 2021-11-28 13:24:20+00:00 | 0 | 0 | | 0 | [] |
