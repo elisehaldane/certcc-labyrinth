@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/28
     
-28 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -16,6 +16,7 @@
 | tr0uble-mAker/POC-bomber | 利用大量poc快速发现目标脆弱性 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-11-28 04:27:25+00:00 | 433 | 4 | Python | 0 | [] |
 | ohnonoyesyes/CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-11-28 01:12:40+00:00 | 8 | 9 | C | 2 | ['CVE-2021-43267'] |
 | RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | ['exploit'] | 1 | 2021-11-28 01:02:36+00:00 | 1569 | 0 | | 0 | [] |
+| momo1239/buffshark-shellcode-runner | Shellcode runner to execute malicious payload and bypass AV | https://github.com/momo1239/buffshark-shellcode-runner | ['shellcode'] | 1 | 2021-11-28 05:32:17+00:00 | 6980 | 1 | Python | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-28 03:31:24+00:00 | 1016 | 195 | C | 34 | [] |
 | darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-28 03:10:51+00:00 | 20 | 0 | C | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-28 00:19:21+00:00 | 1873 | 0 | JavaScript | 0 | [] |
@@ -30,6 +31,7 @@
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-28 04:22:18+00:00 | 406 | 78 | | 18 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-28 00:04:25+00:00 | 426121 | 35 | | 19 | [] |
 | LiodAir/Cnvdspider | 一个对每天cnvd重大安全通报的漏洞作为预警利用smtp服务器每天定时发邮件提醒！ | https://github.com/LiodAir/Cnvdspider | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-11-28 03:27:44+00:00 | 2325 | 8 | Python | 5 | [] |
+| malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-11-28 01:45:48+00:00 | 40002 | 6882 | Python | 1653 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-28 00:17:01+00:00 | 194341 | 255 | Ruby | 78 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-28 00:21:50+00:00 | 5817 | 4135 | Python | 567 | [] |
 | ohnonoyesyes/CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-28 01:16:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41653'] |
