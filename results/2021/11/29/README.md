@@ -1,0 +1,14 @@
+
+# Summary for results/2021/11/29
+    
+7 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-29 00:06:26+00:00 | 1534767 | 1532 | Python | 524 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-29 00:16:52+00:00 | 195872 | 255 | Ruby | 78 | [] |
+| malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-11-29 00:05:06+00:00 | 40002 | 6884 | Python | 1655 | [] |
+| leonov-av/vulristics | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | ['exploit'] | 1 | 2021-11-29 00:31:12+00:00 | 1690 | 41 | Python | 6 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-29 00:03:25+00:00 | 428105 | 35 | | 19 | [] |
+| sower-j/cyber-project-1 | This is a repository for projects done for the Ohio State University Cybersecurity Bootcamp | https://github.com/sower-j/cyber-project-1 | ['metasploit module OR payload'] | 1 | 2021-11-29 00:29:11+00:00 | 4375 | 0 | Shell | 0 | [] |
+| vi11ain/phoenix-writeup | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | ['exploit'] | 1 | 2021-11-29 00:17:14+00:00 | 315 | 0 | | 0 | [] |
