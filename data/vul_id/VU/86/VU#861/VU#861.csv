@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#861,0.50000000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
 VU#861,0.33333333,https://github.com/MlgmXyysd/k61v1injector,MlgmXyysd/k61v1injector,417690686
 VU#861,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
+VU#861,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432899300
 VU#861,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#861,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#861,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
