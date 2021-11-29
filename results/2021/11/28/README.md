@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/28
     
-90 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -28,7 +28,7 @@
 | m4udSec/PostgreSQL_W_LargeObjectsUDF | Python script exploits sqli to load UDF to obtain RCE via PostgreSQL Large Objets | https://github.com/m4udSec/PostgreSQL_W_LargeObjectsUDF | ['exploit', 'rce'] | 2 | 2021-11-28 19:03:29+00:00 | 17 | 0 | Python | 0 | [] |
 | ohnonoyesyes/CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-28 01:12:20+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-21224'] |
 | M359AH/DepFine | DepFine Is a tool to find the unregistered dependency based on dependency confusion valunerablility and lead to RCE | https://github.com/M359AH/DepFine | ['rce'] | 1 | 2021-11-28 11:47:35+00:00 | 9 | 0 | Python | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-28 00:36:48+00:00 | 27111 | 8519 | Python | 1468 | [] |
+| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-28 03:10:51+00:00 | 20 | 0 | C | 0 | [] |
 | nisforrnicholas/WordPress-Theme-Editor-Exploit | None | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | ['exploit'] | 1 | 2021-11-28 06:06:16+00:00 | 0 | 0 | Python | 0 | [] |
 | WTSTiNy/roblox-exploit | This is a roblox exploiter for ofc Roblox | https://github.com/WTSTiNy/roblox-exploit | ['exploit'] | 1 | 2021-11-28 19:57:08+00:00 | 0 | 0 | Python | 0 | [] |
 | mertdas/exploits | None | https://github.com/mertdas/exploits | ['exploit'] | 1 | 2021-11-28 18:35:05+00:00 | 0 | 0 | | 0 | [] |
@@ -50,9 +50,9 @@
 | NightSploit/NightSploit | Config files for my GitHub profile. | https://github.com/NightSploit/NightSploit | ['sploit'] | 1 | 2021-11-28 07:16:25+00:00 | 0 | 0 | | 0 | [] |
 | Sighkarian/Roblox | Roblox exploit | https://github.com/Sighkarian/Roblox | ['exploit'] | 1 | 2021-11-28 06:38:00+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-28 03:31:24+00:00 | 1016 | 195 | C | 34 | [] |
-| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-28 03:10:51+00:00 | 20 | 0 | C | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-28 18:10:05+00:00 | 53 | 4 | | 0 | [] |
-| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-28 11:15:20+00:00 | 9833 | 0 | Lua | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-28 00:36:48+00:00 | 27111 | 8519 | Python | 1468 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-28 04:23:58+00:00 | 289372 | 730 | | 155 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-28 00:04:25+00:00 | 426121 | 35 | | 19 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-11-28 14:47:38+00:00 | 179953 | 336 | Batchfile | 93 | [] |
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-11-28 09:47:31+00:00 | 6 | 11 | Python | 15 | [] |
@@ -73,9 +73,10 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-28 09:08:58+00:00 | 5710 | 2992 | Python | 661 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-28 00:06:25+00:00 | 1534767 | 1532 | Python | 524 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-28 04:22:18+00:00 | 406 | 78 | | 18 | [] |
-| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-28 04:23:58+00:00 | 289372 | 730 | | 155 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-11-28 19:11:22+00:00 | 180 | 7 | Shell | 1 | [] |
-| wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-11-28 20:03:33+00:00 | 346 | 0 | Go | 0 | [] |
+| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-28 11:15:20+00:00 | 9833 | 0 | Lua | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-28 04:01:50+00:00 | 80477 | 251 | Python | 77 | [] |
+| greekn/pytask | PyTask Red Team Vulnerability exploitation framework | https://github.com/greekn/pytask | ['exploit'] | 1 | 2021-11-28 08:22:02+00:00 | 23652 | 2 | | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-28 00:19:21+00:00 | 1873 | 0 | JavaScript | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-28 08:22:12+00:00 | 19409 | 4 | Python | 0 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-11-28 02:12:28+00:00 | 25 | 0 | Java | 0 | [] |
@@ -84,8 +85,8 @@
 | jsherman212/iomfb-exploit | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | ['exploit'] | 1 | 2021-11-28 22:25:13+00:00 | 73 | 1 | C | 0 | ['CVE-2021-30807'] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-11-28 11:46:07+00:00 | 121 | 214 | C# | 39 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-28 01:31:40+00:00 | 427 | 149 | JavaScript | 385 | [] |
+| wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-11-28 20:03:33+00:00 | 346 | 0 | Go | 0 | [] |
 | aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2021-11-28 04:29:38+00:00 | 9594 | 15 | C++ | 3 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-28 04:01:50+00:00 | 80477 | 251 | Python | 77 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-28 01:09:13+00:00 | 11468 | 2 | Python | 0 | [] |
 | jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-11-28 02:32:35+00:00 | 574 | 4 | | 2 | [] |
 | denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-11-28 12:22:37+00:00 | 37 | 0 | C# | 0 | [] |
