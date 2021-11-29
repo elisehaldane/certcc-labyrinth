@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#76,1.00000000,https://github.com/raaaqh/RavenAntiCheat,raaaqh/RavenAntiCheat,431793723
 VU#76,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
+VU#76,0.02040816,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old2,Nivaskumark/CVE-2020-0074-frameworks_base_old2,432927026
 VU#76,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432899300
 VU#76,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#76,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
