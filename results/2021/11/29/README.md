@@ -1,13 +1,14 @@
 
 # Summary for results/2021/11/29
     
-53 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-29 02:35:30+00:00 | 657957 | 25700 | Ruby | 11760 | [] |
-| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-29 04:32:34+00:00 | 1016 | 208 | Python | 35 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-11-29 07:26:14+00:00 | 60629 | 1146 | C | 551 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-29 08:07:24+00:00 | 38698 | 0 | CSS | 1 | [] |
+| FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2021-11-29 08:47:48+00:00 | 118 | 7 | Python | 7 | [] |
 | divinityMaker/semester-exam | WTF?!DOINB RYZE ][L9 GANG LEADER][ ! IS BACK ! HOWLINGABYSS WADBÅT HACK 英雄联盟 NEW RUNESይሮጣልANCIENT RUNEGANDALF 魔法 9K LP MACRO GOD ARAM-WARRIOR MODE與男孩 GULAG TELEPORTATION JUTSU ፕራይONን 黃金種植HARVEST ENEMY SOUL FOR EMPEROR VL15T4R?ጥፋት ይመጣል OPGG HACK double cs | https://github.com/divinityMaker/semester-exam | ['exploit'] | 1 | 2021-11-29 01:29:03+00:00 | 824 | 0 | HTML | 0 | [] |
 | Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-11-29 01:09:22+00:00 | 33 | 0 | Lua | 0 | [] |
 | coolp972/maintripexdl | the best roblox exploit | https://github.com/coolp972/maintripexdl | ['exploit'] | 1 | 2021-11-29 06:19:38+00:00 | 12410 | 0 | | 0 | [] |
@@ -30,10 +31,11 @@
 | ohnonoyesyes/CVE-2021-32849 | Gerapy clone background remote command execution | https://github.com/ohnonoyesyes/CVE-2021-32849 | ['cve-2 OR cve_2'] | 1 | 2021-11-29 06:41:08+00:00 | 0 | 0 | | 0 | ['CVE-2021-32849'] |
 | Jun-5heng/CNVD-2021-49104 | 泛微E-Office9 文件上传GetShell / Code By:Jun_sheng | https://github.com/Jun-5heng/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-11-29 06:59:32+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-49104'] |
 | Nivaskumark/CVE-2020-0074-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-29 07:13:34+00:00 | 0 | 0 | | 0 | ['CVE-2020-0074'] |
+| fengchenzxc/CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | ['cve-2 OR cve_2'] | 1 | 2021-11-29 08:38:28+00:00 | 0 | 0 | | 0 | ['CVE-2020-28148'] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-11-29 01:27:16+00:00 | 74 | 0 | Java | 0 | [] |
-| 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-29 01:42:54+00:00 | 515 | 3 | V | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-11-29 07:26:14+00:00 | 60629 | 1146 | C | 551 | [] |
-| c0okB/CVE-2021-22205 | CVE-2021-22205 RCE | https://github.com/c0okB/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 01:58:10+00:00 | 7522 | 7 | Go | 5 | ['CVE-2021-22205'] |
+| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-29 04:32:34+00:00 | 1016 | 208 | Python | 35 | [] |
+| darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-29 09:33:32+00:00 | 28 | 0 | C | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-29 00:58:59+00:00 | 87 | 0 | PHP | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-29 00:06:26+00:00 | 1534767 | 1532 | Python | 524 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-29 07:28:34+00:00 | 5739 | 2998 | Python | 663 | [] |
 | frederic/frederic.github.io | Security blog | https://github.com/frederic/frederic.github.io | ['exploit'] | 1 | 2021-11-29 08:01:49+00:00 | 4511 | 1 | HTML | 0 | [] |
@@ -45,8 +47,8 @@
 | leonov-av/vulristics | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | ['exploit'] | 1 | 2021-11-29 00:31:12+00:00 | 1690 | 41 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-29 00:03:25+00:00 | 428105 | 35 | | 19 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-29 02:52:52+00:00 | 6856 | 1 | JavaScript | 0 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-29 00:58:59+00:00 | 87 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-29 04:01:48+00:00 | 82639 | 251 | Python | 77 | [] |
+| 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-29 01:42:54+00:00 | 515 | 3 | V | 0 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-11-29 04:47:39+00:00 | 207 | 10 | Python | 6 | [] |
 | Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2021-11-29 03:59:15+00:00 | 95866 | 0 | Shell | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-29 01:07:08+00:00 | 12232 | 2 | Python | 0 | [] |
@@ -57,4 +59,5 @@
 | tungdo0602/Discord-Token-Cracker | This is a simple token cracker that use user id to crack (Help me for the requests proxy part). For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2021-11-29 04:20:27+00:00 | 135 | 8 | Python | 2 | [] |
 | vi11ain/phoenix-writeup | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | ['exploit'] | 1 | 2021-11-29 00:17:14+00:00 | 315 | 0 | | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-29 08:33:40+00:00 | 19422 | 4 | Python | 0 | [] |
-| fengchenzxc/CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | ['cve-2 OR cve_2'] | 1 | 2021-11-29 08:38:28+00:00 | 0 | 0 | | 0 | ['CVE-2020-28148'] |
+| c0okB/CVE-2021-22205 | CVE-2021-22205 RCE | https://github.com/c0okB/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 01:58:10+00:00 | 7522 | 7 | Go | 5 | ['CVE-2021-22205'] |
+| ErvisTusha/sploiter | None | https://github.com/ErvisTusha/sploiter | ['sploit'] | 1 | 2021-11-29 09:36:06+00:00 | 0 | 0 | | 0 | [] |
