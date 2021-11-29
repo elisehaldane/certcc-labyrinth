@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+433103488,SwordLight6/poc_rce,CVE-2019-89242/README.md,d22b4decc27a7219bc2d98634a4b2bf5dadb88f7,CVE-2019-89242
+433103488,SwordLight6/poc_rce,CVE-2019-89242/CVE-2019-89242.py,d83df0afe81755a2b5b41971a7f5647d36249154,CVE-2019-89242
