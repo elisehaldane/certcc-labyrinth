@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/29
     
-64 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-29 02:35:30+00:00 | 657957 | 25700 | Ruby | 11760 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-29 10:29:41+00:00 | 27111 | 8526 | Python | 1470 | [] |
+| Sploit-Slash/Sploit-Slash | It's 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 website of 𝗦𝗽𝗹𝗼𝗶𝘁 𝗦𝗹𝗮𝘀𝗵, check it & (𝗶𝗺𝗽𝗿𝗼𝘃𝗲) it. This is, where you all get (𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴, 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗟𝗶𝗻𝘂𝘅 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱) tutorials. | https://github.com/Sploit-Slash/Sploit-Slash | ['sploit'] | 1 | 2021-11-29 07:34:06+00:00 | 3 | 0 | CSS | 0 | [] |
+| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-29 04:32:34+00:00 | 1016 | 208 | Python | 35 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-11-29 01:27:16+00:00 | 74 | 0 | Java | 0 | [] |
 | Lescovar420/SABA-EXPLOIT-FPSE | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | ['exploit'] | 1 | 2021-11-29 08:07:24+00:00 | 38698 | 0 | CSS | 1 | [] |
 | FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2021-11-29 08:47:48+00:00 | 118 | 7 | Python | 7 | [] |
@@ -20,8 +21,8 @@
 | josconno/moria | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | ['exploit'] | 1 | 2021-11-29 01:01:09+00:00 | 51 | 0 | Python | 0 | [] |
 | FDlucifer/Proxy-Attackchain | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | ['exploit'] | 1 | 2021-11-29 09:59:57+00:00 | 6042 | 6 | Go | 1 | [] |
 | samH99/MITM-Attack-POC | nan | https://github.com/samH99/MITM-Attack-POC | ['attack poc'] | 1 | 2021-11-29 06:22:48+00:00 | 11 | 0 | Python | 0 | [] |
-| Sploit-Slash/Sploit-Slash | It's 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 website of 𝗦𝗽𝗹𝗼𝗶𝘁 𝗦𝗹𝗮𝘀𝗵, check it & (𝗶𝗺𝗽𝗿𝗼𝘃𝗲) it. This is, where you all get (𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴, 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗟𝗶𝗻𝘂𝘅 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱) tutorials. | https://github.com/Sploit-Slash/Sploit-Slash | ['sploit'] | 1 | 2021-11-29 07:34:06+00:00 | 3 | 0 | CSS | 0 | [] |
 | hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2021-11-29 05:19:39+00:00 | 2 | 1 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-29 10:29:41+00:00 | 27111 | 8526 | Python | 1470 | [] |
 | nfragakis/DexArbitrageBot | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | ['exploit'] | 1 | 2021-11-29 02:36:43+00:00 | 173 | 0 | TypeScript | 0 | [] |
 | Nivaskumark/CVE-2020-0114-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-29 01:37:12+00:00 | 0 | 0 | | 0 | ['CVE-2020-0114'] |
 | hackerAlice/the_shellcode_handbook | None | https://github.com/hackerAlice/the_shellcode_handbook | ['shellcode'] | 1 | 2021-11-29 01:40:40+00:00 | 0 | 0 | C | 0 | [] |
@@ -36,10 +37,10 @@
 | Jun-5heng/CNVD-2021-49104 | 泛微E-Office9 文件上传GetShell / Code By:Jun_sheng | https://github.com/Jun-5heng/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-11-29 06:59:32+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-49104'] |
 | Nivaskumark/CVE-2020-0074-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-29 07:13:34+00:00 | 0 | 0 | | 0 | ['CVE-2020-0074'] |
 | fengchenzxc/CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | ['cve-2 OR cve_2'] | 1 | 2021-11-29 08:38:28+00:00 | 0 | 0 | | 0 | ['CVE-2020-28148'] |
-| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-29 04:32:34+00:00 | 1016 | 208 | Python | 35 | [] |
 | darbysauter/ip5c_kern_exploit | None | https://github.com/darbysauter/ip5c_kern_exploit | ['exploit'] | 1 | 2021-11-29 09:33:32+00:00 | 28 | 0 | C | 0 | [] |
 | 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-29 01:42:54+00:00 | 515 | 3 | V | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-29 00:03:25+00:00 | 428105 | 35 | | 19 | [] |
+| c0okB/CVE-2021-22205 | CVE-2021-22205 RCE | https://github.com/c0okB/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 01:58:10+00:00 | 7522 | 7 | Go | 5 | ['CVE-2021-22205'] |
+| oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 11:40:00+00:00 | 187 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-11-29 07:26:14+00:00 | 60629 | 1146 | C | 551 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-29 00:06:26+00:00 | 1534767 | 1532 | Python | 524 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-29 07:28:34+00:00 | 5739 | 2998 | Python | 663 | [] |
@@ -53,8 +54,9 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-29 03:50:35+00:00 | 35244 | 6117 | Vue | 1293 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-29 06:45:37+00:00 | 5180 | 25 | | 15 | [] |
 | leonov-av/vulristics | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | ['exploit'] | 1 | 2021-11-29 00:31:12+00:00 | 1690 | 41 | Python | 6 | [] |
+| Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2021-11-29 11:51:26+00:00 | 173 | 0 | Python | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-29 00:03:25+00:00 | 428105 | 35 | | 19 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-29 02:52:52+00:00 | 6856 | 1 | JavaScript | 0 | [] |
-| c0okB/CVE-2021-22205 | CVE-2021-22205 RCE | https://github.com/c0okB/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 01:58:10+00:00 | 7522 | 7 | Go | 5 | ['CVE-2021-22205'] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-29 10:00:45+00:00 | 289422 | 733 | | 155 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-29 00:58:59+00:00 | 87 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-29 04:01:48+00:00 | 82639 | 251 | Python | 77 | [] |
