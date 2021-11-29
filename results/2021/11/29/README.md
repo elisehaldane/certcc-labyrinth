@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/29
     
-116 records found after deduplication
+117 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -20,7 +20,7 @@
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-11-29 04:15:06+00:00 | 446 | 4 | Python | 0 | [] |
 | peace27-96/Router-Vulnerability-Scan-Tool | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | ['exploit'] | 1 | 2021-11-29 19:24:42+00:00 | 25 | 0 | | 0 | [] |
 | JDBryan/ROPSlap | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | ['exploit'] | 1 | 2021-11-29 14:32:38+00:00 | 11313 | 0 | TeX | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-29 10:29:41+00:00 | 27111 | 8526 | Python | 1470 | [] |
+| 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-29 01:42:54+00:00 | 515 | 3 | V | 0 | [] |
 | Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2021-11-29 15:21:38+00:00 | 14437 | 7 | Python | 4 | [] |
 | MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-11-29 10:04:58+00:00 | 33 | 0 | C | 0 | [] |
 | coolp972/maintripexdl | the best roblox exploit | https://github.com/coolp972/maintripexdl | ['exploit'] | 1 | 2021-11-29 06:19:38+00:00 | 12410 | 0 | | 0 | [] |
@@ -63,9 +63,10 @@
 | Nivaskumark/CVE-2020-0097-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-29 03:12:16+00:00 | 0 | 0 | | 0 | ['CVE-2020-0097'] |
 | Nivaskumark/CVE-2020-0114-frameworks_base | None | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | ['cve-2 OR cve_2'] | 1 | 2021-11-29 02:27:54+00:00 | 0 | 0 | | 0 | ['CVE-2020-0114'] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-11-29 18:10:33+00:00 | 53 | 4 | | 0 | [] |
-| 0x1CA3/GoAhead-IPCAM-XSS-and-RCE | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | ['0day', 'exploit', 'rce'] | 3 | 2021-11-29 01:42:54+00:00 | 515 | 3 | V | 0 | [] |
 | Killerxkiller/ReadMe | How to install Metasploit using kali / and its use cases | https://github.com/Killerxkiller/ReadMe | ['metasploit module OR payload'] | 1 | 2021-11-29 18:36:35+00:00 | 38 | 2 | | 0 | [] |
-| BeckTimothy/reddit-volition | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | ['exploit'] | 1 | 2021-11-29 21:00:19+00:00 | 2257 | 0 | CSS | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-29 10:29:41+00:00 | 27111 | 8526 | Python | 1470 | [] |
+| VoidSec/Exploit-Development | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) | https://github.com/VoidSec/Exploit-Development | ['0day', 'exploit', 'rce', 'rce poc', 'shellcode'] | 5 | 2021-11-29 09:43:08+00:00 | 186841 | 78 | Python | 26 | [] |
+| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-29 02:52:52+00:00 | 6856 | 1 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-29 00:03:25+00:00 | 428105 | 35 | | 19 | [] |
 | itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2021-11-29 01:36:01+00:00 | 58282 | 0 | HTML | 0 | [] |
 | Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2021-11-29 11:51:26+00:00 | 173 | 0 | Python | 0 | [] |
@@ -77,8 +78,8 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-29 06:45:37+00:00 | 5180 | 25 | | 15 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-11-29 14:12:44+00:00 | 1509122 | 3792 | PowerShell | 1310 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-29 03:50:35+00:00 | 35244 | 6117 | Vue | 1293 | [] |
-| VoidSec/Exploit-Development | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) | https://github.com/VoidSec/Exploit-Development | ['0day', 'exploit', 'rce', 'rce poc', 'shellcode'] | 5 | 2021-11-29 09:43:08+00:00 | 186841 | 78 | Python | 26 | [] |
 | aria-tools/ARIA-tools | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | ['exploit'] | 1 | 2021-11-29 19:05:23+00:00 | 1293 | 46 | Python | 24 | [] |
+| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-29 23:04:24+00:00 | 15 | 0 | C++ | 0 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-11-29 17:20:05+00:00 | 79338 | 2642 | Python | 400 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-11-29 00:05:06+00:00 | 40002 | 6884 | Python | 1655 | [] |
 | Roan-Atkinson/fileUploadExploit | fileUploadExploit: A PHP server script designed to test file upload exploits | https://github.com/Roan-Atkinson/fileUploadExploit | ['exploit'] | 1 | 2021-11-29 06:13:04+00:00 | 67 | 0 | PHP | 2 | [] |
@@ -91,10 +92,11 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-29 07:28:34+00:00 | 5739 | 2998 | Python | 663 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-29 00:06:26+00:00 | 1534767 | 1532 | Python | 524 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-11-29 07:26:14+00:00 | 60629 | 1146 | C | 551 | [] |
-| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-11-29 02:52:52+00:00 | 6856 | 1 | JavaScript | 0 | [] |
+| BeckTimothy/reddit-volition | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | ['exploit'] | 1 | 2021-11-29 21:00:19+00:00 | 2257 | 0 | CSS | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-29 10:00:45+00:00 | 289422 | 733 | | 155 | [] |
-| c0okB/CVE-2021-22205 | CVE-2021-22205 RCE | https://github.com/c0okB/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 01:58:10+00:00 | 7522 | 7 | Go | 5 | ['CVE-2021-22205'] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-11-29 17:36:26+00:00 | 6989 | 1 | Java | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-29 00:58:59+00:00 | 87 | 0 | PHP | 0 | [] |
+| c0okB/CVE-2021-22205 | CVE-2021-22205 RCE | https://github.com/c0okB/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 01:58:10+00:00 | 7522 | 7 | Go | 5 | ['CVE-2021-22205'] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-29 11:40:00+00:00 | 187 | 16 | Ruby | 8 | ['CVE-2021-20837'] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-29 08:33:40+00:00 | 19422 | 4 | Python | 0 | [] |
 | GRIPPERTV/Green-Server | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | ['exploit'] | 1 | 2021-11-29 16:22:59+00:00 | 85 | 0 | Lua | 0 | [] |
@@ -119,5 +121,4 @@
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-11-29 04:47:39+00:00 | 207 | 10 | Python | 6 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-29 04:01:48+00:00 | 82639 | 251 | Python | 77 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-11-29 21:34:08+00:00 | 145057 | 62 | TypeScript | 4 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-29 00:58:59+00:00 | 87 | 0 | PHP | 0 | [] |
 | PanocTeam25/Sploit-DDoS | None | https://github.com/PanocTeam25/Sploit-DDoS | ['sploit'] | 1 | 2021-11-29 21:47:33+00:00 | 6 | 1 | Python | 0 | [] |
