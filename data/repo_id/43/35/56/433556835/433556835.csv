@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+433556835,ArthiDa/Exploit,bin/jre1.8.0_311/lib/fonts/LucidaSansRegular.ttf,39cc8bcb8d4a71d4657fc92ef0b9f4e3e9e67add,VU#32
+433556835,ArthiDa/Exploit,bin/jre1.8.0_311/bin/jfxmedia.dll,996a2e96cb7034bdf47b36611e6029f8abae0ed9,VU#420
+433556835,ArthiDa/Exploit,bin/jre1.8.0_311/bin/fxplugins.dll,bcb3de0bc2eb2efb3609228b57a3c5b280cf57af,VU#420
