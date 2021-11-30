@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/30
     
-105 records found after deduplication
+107 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-30 06:19:45+00:00 | 658051 | 25707 | Ruby | 11765 | [] |
-| mauricelambert/WebScriptsWebShell | Install a WebShell on hardened and deployed WebScripts (using Apache and mod_wsgi). | https://github.com/mauricelambert/WebScriptsWebShell | ['exploit'] | 1 | 2021-11-30 18:31:12+00:00 | 19 | 0 | Python | 0 | [] |
+| mrmehi/pwn | Most likely going to be my notes about pwn or binary exploitation. | https://github.com/mrmehi/pwn | ['exploit'] | 1 | 2021-11-30 17:08:08+00:00 | 1 | 0 | | 0 | [] |
 | pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2021-11-30 11:46:22+00:00 | 14 | 0 | Lua | 1 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-11-30 05:51:50+00:00 | 1604 | 2 | Java | 1 | [] |
 | hupe1980/gomsf | Golang based RPC client to communicate with Metasploit | https://github.com/hupe1980/gomsf | ['metasploit module OR payload'] | 1 | 2021-11-30 06:43:37+00:00 | 45 | 1 | Go | 0 | [] |
@@ -31,9 +31,10 @@
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-11-30 04:08:37+00:00 | 10520 | 0 | Lua | 0 | [] |
 | NotFoundHacker/Roblox-Exploits | None | https://github.com/NotFoundHacker/Roblox-Exploits | ['exploit'] | 1 | 2021-11-30 13:35:38+00:00 | 7 | 0 | Lua | 0 | [] |
 | bjhobson12/AmazonEchoExploitProject | An academic react app to demonstrate the beginnings of the CheckPoint Labs vulnerability in the Alexa echo | https://github.com/bjhobson12/AmazonEchoExploitProject | ['exploit'] | 1 | 2021-11-30 07:28:55+00:00 | 374 | 0 | JavaScript | 0 | [] |
-| mrmehi/pwn | Most likely going to be my notes about pwn or binary exploitation. | https://github.com/mrmehi/pwn | ['exploit'] | 1 | 2021-11-30 17:08:08+00:00 | 1 | 0 | | 0 | [] |
 | rlyhurt/Memcrashed-DDoS-Exploit | None | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | ['exploit'] | 1 | 2021-11-30 00:12:24+00:00 | 0 | 0 | Python | 0 | [] |
-| elv1n4/com_media_exploiter | None | https://github.com/elv1n4/com_media_exploiter | ['exploit'] | 1 | 2021-11-30 07:05:47+00:00 | 0 | 0 | Python | 0 | [] |
+| mauricelambert/WebScriptsWebShell | Install a WebShell on hardened and deployed WebScripts (using Apache and mod_wsgi). | https://github.com/mauricelambert/WebScriptsWebShell | ['exploit'] | 1 | 2021-11-30 18:31:12+00:00 | 19 | 0 | Python | 0 | [] |
+| SynapsUsr/AntiExpTest | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | ['exploit'] | 1 | 2021-11-30 00:26:37+00:00 | 0 | 0 | | 0 | [] |
+| kanimozhisampath/RCE_kani | None | https://github.com/kanimozhisampath/RCE_kani | ['rce'] | 1 | 2021-11-30 15:35:47+00:00 | 0 | 0 | Java | 0 | [] |
 | 30440r/gex | Gex is an iOS 14.7 jailbreak using CVE-2021-30807 IOMFB exploit | https://github.com/30440r/gex | ['exploit'] | 1 | 2021-11-30 15:03:42+00:00 | 0 | 0 | C | 0 | ['CVE-2021-30807'] |
 | Optifineless/Security-Login | A mod for 1.7.10 for forge to run our warfare server. The source code isn't released yet as I am still looking for exploits to prevent intruders coming in. | https://github.com/Optifineless/Security-Login | ['exploit'] | 1 | 2021-11-30 14:21:51+00:00 | 0 | 0 | | 0 | [] |
 | darksnake33/GH-Hacking-Tools-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/darksnake33/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-11-30 14:11:30+00:00 | 0 | 0 | | 0 | [] |
@@ -44,8 +45,8 @@
 | AK-blank/CVE-2021-43778 | CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-30 08:20:43+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-43778'] |
 | Interpreter-THOR/GH-Hacking-Tools-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Interpreter-THOR/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-11-30 07:31:02+00:00 | 0 | 0 | | 0 | [] |
 | Interpreter-THOR/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Interpreter-THOR/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-11-30 07:32:50+00:00 | 0 | 0 | | 0 | [] |
+| elv1n4/com_media_exploiter | None | https://github.com/elv1n4/com_media_exploiter | ['exploit'] | 1 | 2021-11-30 07:05:47+00:00 | 0 | 0 | Python | 0 | [] |
 | IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2021-11-30 06:48:37+00:00 | 0 | 0 | | 0 | [] |
-| SynapsUsr/AntiExpTest | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | ['exploit'] | 1 | 2021-11-30 00:26:37+00:00 | 0 | 0 | | 0 | [] |
 | pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | Sigma-Rule-for-CVE-2021-40438-Attack-Attemp | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-30 06:08:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-40438'] |
 | Roan-Atkinson/PHP-forum | PHP-forum: A PHP server script designed to test XSS exploits | https://github.com/Roan-Atkinson/PHP-forum | ['exploit'] | 1 | 2021-11-30 05:26:18+00:00 | 137 | 0 | PHP | 0 | [] |
 | whokilleddb/Restaurant-Management-System-Exploit | Restaurant Management System v1 exploit in Rust | https://github.com/whokilleddb/Restaurant-Management-System-Exploit | ['exploit'] | 1 | 2021-11-30 05:02:26+00:00 | 0 | 0 | Rust | 0 | [] |
@@ -59,7 +60,7 @@
 | Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | None | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | ['exploit'] | 1 | 2021-11-30 14:46:42+00:00 | 1 | 0 | | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-30 17:39:33+00:00 | 18490 | 2 | Rust | 0 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-30 08:21:43+00:00 | 46300 | 855 | Python | 201 | [] |
-| MlgmXyysd/k61v1injector | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/k61v1injector | ['exploit'] | 1 | 2021-11-30 08:42:04+00:00 | 7551 | 6 | PHP | 1 | [] |
+| RedVirus0/Exploit-RCE-PHP-CMS | Exploit for CMS _ link: https://github.com/harshitbansal373/PHP-CMS/issues | https://github.com/RedVirus0/Exploit-RCE-PHP-CMS | ['exploit', 'rce'] | 2 | 2021-11-30 09:57:33+00:00 | 3 | 3 | Python | 1 | [] |
 | Xrlm-8/bootstrap-shellcode | Meu Bootstrap para o shell_cod que criei | https://github.com/Xrlm-8/bootstrap-shellcode | ['shellcode'] | 1 | 2021-11-30 00:34:29+00:00 | 862 | 0 | CSS | 0 | [] |
 | DeuxEx/LogAnalyzer | LogAnalyzer (for Entropia Universe logfile) (MMO RCE) | https://github.com/DeuxEx/LogAnalyzer | ['rce'] | 1 | 2021-11-30 15:22:10+00:00 | 1798 | 2 | | 0 | [] |
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-11-30 01:43:08+00:00 | 7 | 12 | Python | 15 | [] |
@@ -84,9 +85,9 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-30 05:08:17+00:00 | 225436 | 6655 | C | 1832 | [] |
 | spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2021-11-30 14:15:59+00:00 | 3483 | 8 | HTML | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-30 00:05:08+00:00 | 434734 | 35 | | 19 | [] |
-| RedVirus0/Exploit-RCE-PHP-CMS | Exploit for CMS _ link: https://github.com/harshitbansal373/PHP-CMS/issues | https://github.com/RedVirus0/Exploit-RCE-PHP-CMS | ['exploit', 'rce'] | 2 | 2021-11-30 09:57:33+00:00 | 3 | 3 | Python | 1 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-30 02:58:20+00:00 | 412 | 82 | | 18 | [] |
-| HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-30 00:14:48+00:00 | 123 | 2 | | 0 | [] |
+| MlgmXyysd/k61v1injector | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/k61v1injector | ['exploit'] | 1 | 2021-11-30 08:42:04+00:00 | 7551 | 6 | PHP | 1 | [] |
+| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-11-30 15:45:42+00:00 | 311 | 123 | | 49 | [] |
 | ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-30 00:29:45+00:00 | 40 | 1 | PowerShell | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-30 00:39:25+00:00 | 222 | 10 | JavaScript | 13 | [] |
 | dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2021-11-30 17:16:53+00:00 | 1274 | 0 | C | 0 | [] |
@@ -97,16 +98,17 @@
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-11-30 01:59:32+00:00 | 347 | 0 | Go | 0 | [] |
 | BGPavelAng/shellcodeWin32 | None | https://github.com/BGPavelAng/shellcodeWin32 | ['shellcode'] | 1 | 2021-11-30 15:46:43+00:00 | 10 | 0 | Assembly | 0 | [] |
 | parseb/blockchain-developer-bootcamp-final-project | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | ['exploit'] | 1 | 2021-11-30 02:20:06+00:00 | 3672 | 0 | JavaScript | 0 | [] |
+| HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-30 00:14:48+00:00 | 123 | 2 | | 0 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2021-11-30 13:47:49+00:00 | 7824 | 5 | Python | 2 | [] |
-| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-11-30 15:45:42+00:00 | 311 | 123 | | 49 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-30 01:07:03+00:00 | 13145 | 2 | Python | 0 | [] |
 | jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-11-30 10:37:41+00:00 | 623 | 4 | | 2 | [] |
 | ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2021-11-30 10:12:44+00:00 | 699 | 2 | C | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-11-30 09:53:20+00:00 | 204681 | 0 | JavaScript | 0 | [] |
+| SynapsUsr/UniExploit-V1 | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | ['exploit'] | 1 | 2021-11-30 19:30:57+00:00 | 219 | 0 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-11-30 04:02:00+00:00 | 84265 | 251 | Python | 78 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-11-30 01:32:15+00:00 | 145623 | 62 | TypeScript | 4 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2021-11-30 09:52:17+00:00 | 160327 | 3 | | 1 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-30 04:39:21+00:00 | 52 | 0 | C | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-30 01:32:52+00:00 | 88 | 0 | PHP | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-30 05:19:10+00:00 | 289448 | 734 | | 155 | [] |
-| kanimozhisampath/RCE_kani | None | https://github.com/kanimozhisampath/RCE_kani | ['rce'] | 1 | 2021-11-30 15:35:47+00:00 | 0 | 0 | Java | 0 | [] |
+| ArthiDa/Exploit | None | https://github.com/ArthiDa/Exploit | ['exploit'] | 1 | 2021-11-30 19:30:09+00:00 | 0 | 0 | HTML | 0 | [] |
