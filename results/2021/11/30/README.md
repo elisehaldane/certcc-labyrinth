@@ -1,27 +1,32 @@
 
 # Summary for results/2021/11/30
     
-24 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-30 00:06:33+00:00 | 1534767 | 1533 | Python | 524 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-30 00:38:56+00:00 | 5820 | 4138 | Python | 568 | [] |
+| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-30 00:59:22+00:00 | 429 | 152 | JavaScript | 396 | [] |
 | BizzyPythonBear/Roblox-Exploits | None | https://github.com/BizzyPythonBear/Roblox-Exploits | ['exploit'] | 1 | 2021-11-30 02:11:11+00:00 | 0 | 0 | Lua | 0 | [] |
 | statiawyar/rcelentene | None | https://github.com/statiawyar/rcelentene | ['rce'] | 1 | 2021-11-30 02:01:39+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | rlyhurt/Memcrashed-DDoS-Exploit | None | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | ['exploit'] | 1 | 2021-11-30 01:07:20+00:00 | 0 | 0 | Python | 0 | [] |
 | SynapsUsr/AntiExpTest | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | ['exploit'] | 1 | 2021-11-30 00:26:37+00:00 | 0 | 0 | | 0 | [] |
 | rlyhurt/Memcrashed-DDoS-Exploit | None | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | ['exploit'] | 1 | 2021-11-30 00:12:24+00:00 | 0 | 0 | Python | 0 | [] |
+| Sploit-Slash/Sploit-Slash | It's 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 website of 𝗦𝗽𝗹𝗼𝗶𝘁 𝗦𝗹𝗮𝘀𝗵, check it & (𝗶𝗺𝗽𝗿𝗼𝘃𝗲) it. This is, where you all get (𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴, 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗟𝗶𝗻𝘂𝘅 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱) tutorials. | https://github.com/Sploit-Slash/Sploit-Slash | ['sploit'] | 1 | 2021-11-30 02:58:52+00:00 | 4939 | 0 | CSS | 0 | [] |
+| TotoAJ/ROBLOX-Scripts | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | ['exploit'] | 1 | 2021-11-30 02:44:27+00:00 | 7 | 1 | Lua | 0 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-11-30 00:25:14+00:00 | 9 | 0 | C | 0 | [] |
+| wishawa/decurse | Rust macro to make recursive function run on the heap (i.e. no stack overflow). | https://github.com/wishawa/decurse | ['heap overflow'] | 1 | 2021-11-30 03:33:58+00:00 | 58 | 1 | Rust | 0 | [] |
+| Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-11-30 02:52:55+00:00 | 37 | 0 | Lua | 0 | [] |
 | ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-30 00:29:45+00:00 | 40 | 1 | PowerShell | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-30 00:39:25+00:00 | 222 | 10 | JavaScript | 13 | [] |
-| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-30 00:59:22+00:00 | 429 | 152 | JavaScript | 396 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-11-30 01:59:32+00:00 | 347 | 0 | Go | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-30 00:38:56+00:00 | 5820 | 4138 | Python | 568 | [] |
 | parseb/blockchain-developer-bootcamp-final-project | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | ['exploit'] | 1 | 2021-11-30 02:20:06+00:00 | 3672 | 0 | JavaScript | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-30 00:14:48+00:00 | 123 | 2 | nan | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-30 01:07:03+00:00 | 13145 | 2 | Python | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-11-30 01:32:15+00:00 | 145623 | 62 | TypeScript | 4 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-30 01:32:52+00:00 | 88 | 0 | PHP | 0 | [] |
+| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-30 02:58:20+00:00 | 412 | 82 | nan | 18 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-30 00:05:08+00:00 | 434734 | 35 | | 19 | [] |
 | Xrlm-8/bootstrap-shellcode | Meu Bootstrap para o shell_cod que criei | https://github.com/Xrlm-8/bootstrap-shellcode | ['shellcode'] | 1 | 2021-11-30 00:34:29+00:00 | 862 | 0 | CSS | 0 | [] |
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-11-30 01:43:08+00:00 | 7 | 12 | Python | 15 | [] |
