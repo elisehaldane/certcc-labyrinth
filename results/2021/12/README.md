@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12
     
-56 records found after deduplication
+59 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-01 03:07:27+00:00 | 658524 | 25714 | Ruby | 11769 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-01 05:08:20+00:00 | 225978 | 6658 | C | 1832 | [] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-01 07:10:50+00:00 | 487 | 5 | Python | 0 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-01 09:31:20+00:00 | 68 | 1 | Python | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-01 04:08:42+00:00 | 243 | 14 | JavaScript | 13 | [] |
 | Baanaana/exploits | None | https://github.com/Baanaana/exploits | ['exploit'] | 1 | 2021-12-01 02:41:25+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -19,8 +19,8 @@
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2021-12-01 00:37:00+00:00 | 13 | 0 | | 0 | [] |
 | Zerocution/PoC | Our PoC for the vulnerable products | https://github.com/Zerocution/PoC | ['vulnerability poc'] | 1 | 2021-12-01 02:50:11+00:00 | 4 | 39 | PHP | 6 | [] |
 | rbxscript-com/radyga-x | Open-source free Roblox exploit with MultiAPI | https://github.com/rbxscript-com/radyga-x | ['exploit'] | 1 | 2021-12-01 08:37:58+00:00 | 18874 | 0 | C# | 0 | [] |
-| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-01 07:10:50+00:00 | 487 | 5 | Python | 0 | [] |
 | FDlucifer/Proxy-Attackchain | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | ['exploit'] | 1 | 2021-12-01 04:16:01+00:00 | 8449 | 7 | Go | 1 | [] |
+| HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-12-01 04:21:12+00:00 | 125 | 2 | | 0 | [] |
 | Sploit-Slash/Sploit-Slash | It's 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 website of 𝗦𝗽𝗹𝗼𝗶𝘁 𝗦𝗹𝗮𝘀𝗵, check it & (𝗶𝗺𝗽𝗿𝗼𝘃𝗲) it. This is, where you all get (𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴, 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗟𝗶𝗻𝘂𝘅 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱) tutorials. | https://github.com/Sploit-Slash/Sploit-Slash | ['sploit'] | 1 | 2021-12-01 02:35:17+00:00 | 6819 | 0 | JavaScript | 0 | [] |
 | hupe1980/gomsf | Golang based RPC client to communicate with Metasploit | https://github.com/hupe1980/gomsf | ['metasploit module OR payload'] | 1 | 2021-12-01 11:24:50+00:00 | 58 | 1 | Go | 0 | [] |
 | pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2021-12-01 01:34:34+00:00 | 21 | 0 | Lua | 1 | [] |
@@ -32,10 +32,12 @@
 | Anonymous-ghost/LiqunKit_1.5_startup.hta_shellcode | None | https://github.com/Anonymous-ghost/LiqunKit_1.5_startup.hta_shellcode | ['shellcode'] | 1 | 2021-12-01 02:35:43+00:00 | 0 | 0 | HTML | 0 | [] |
 | bryanm0717/Red-vs.-Blue | This project showcases my ability to be the attacker as well as a blue team operator. I used a Kali linux machine and utilized a reverse shell exploit through metasploitable. | https://github.com/bryanm0717/Red-vs.-Blue | ['exploit'] | 1 | 2021-12-01 02:30:55+00:00 | 0 | 0 | | 0 | [] |
 | yinnyC/Jinja2-ExploitMe | None | https://github.com/yinnyC/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-01 03:32:36+00:00 | 0 | 0 | | 0 | [] |
+| R-Laurent/TP3_syst-me_exploitation | None | https://github.com/R-Laurent/TP3_syst-me_exploitation | ['exploit'] | 1 | 2021-12-01 09:02:23+00:00 | 0 | 0 | C | 0 | [] |
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-01 00:41:03+00:00 | 437 | 156 | JavaScript | 410 | [] |
-| HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-12-01 04:21:12+00:00 | 125 | 2 | | 0 | [] |
-| Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-12-01 10:16:01+00:00 | 19 | 0 | | 0 | [] |
+| renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2021-12-01 12:35:15+00:00 | 52 | 0 | C | 0 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-01 12:01:09+00:00 | 18921 | 460 | Ruby | 116 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-12-01 08:41:46+00:00 | 36 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-01 05:08:20+00:00 | 225978 | 6658 | C | 1832 | [] |
 | angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2021-12-01 01:02:08+00:00 | 2614 | 539 | Python | 111 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-01 11:35:03+00:00 | 70985 | 10380 | Jupyter Notebook | 1790 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-01 00:17:01+00:00 | 195873 | 254 | Ruby | 78 | [] |
@@ -48,7 +50,7 @@
 | jib1337/websandbox | Small forum website for practicing basic web exploits. | https://github.com/jib1337/websandbox | ['exploit'] | 1 | 2021-12-01 10:57:28+00:00 | 25 | 0 | PHP | 2 | [] |
 | chacka0101/exploits | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | ['exploit'] | 1 | 2021-12-01 00:37:27+00:00 | 71719 | 16 | Shell | 11 | [] |
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-01 02:03:07+00:00 | 47 | 13 | Python | 15 | [] |
-| Nek0y4nSu/memory-scan | Detect suspcoius shellcode/pe in memory | https://github.com/Nek0y4nSu/memory-scan | ['shellcode'] | 1 | 2021-12-01 07:01:26+00:00 | 2664 | 2 | YARA | 0 | [] |
+| Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-12-01 10:16:01+00:00 | 19 | 0 | | 0 | [] |
 | reybango/Exploits | None | https://github.com/reybango/Exploits | ['exploit'] | 1 | 2021-12-01 02:19:00+00:00 | 723 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-01 00:03:50+00:00 | 439014 | 35 | | 19 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-01 07:50:11+00:00 | 289486 | 738 | | 155 | [] |
@@ -60,4 +62,5 @@
 | Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2021-12-01 04:27:15+00:00 | 95866 | 0 | Shell | 1 | [] |
 | TheMoerp/hacking_tools | some small tools to create exploits | https://github.com/TheMoerp/hacking_tools | ['exploit'] | 1 | 2021-12-01 02:44:07+00:00 | 16 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-01 01:10:54+00:00 | 13907 | 2 | Python | 0 | [] |
-| R-Laurent/TP3_syst-me_exploitation | None | https://github.com/R-Laurent/TP3_syst-me_exploitation | ['exploit'] | 1 | 2021-12-01 09:02:23+00:00 | 0 | 0 | C | 0 | [] |
+| Nek0y4nSu/memory-scan | Detect suspcoius shellcode/pe in memory | https://github.com/Nek0y4nSu/memory-scan | ['shellcode'] | 1 | 2021-12-01 07:01:26+00:00 | 2664 | 2 | YARA | 0 | [] |
+| Hfrdsseghbmkyfdd/bucin.sh | #! cd /data/data/com.termux/files/usr/bin/bash clear cd data clear echo "Ngapain Ke Sini? siap Siap Ngebucin Ya!" _ lolcat echo "Jawab:" ;read {$} clear figlet Mr.BalBaL.X _ lolcat echo "================_ Tools Bucin Gan:v _ ===============" _ lolcat | https://github.com/Hfrdsseghbmkyfdd/bucin.sh | ['metasploit module OR payload'] | 1 | 2021-12-01 12:25:15+00:00 | 0 | 1 | | 0 | [] |
