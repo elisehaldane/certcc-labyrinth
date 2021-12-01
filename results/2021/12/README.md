@@ -1,10 +1,10 @@
 
 # Summary for results/2021/12
     
-52 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|---------------------|
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-01 03:07:27+00:00 | 658524 | 25714 | Ruby | 11769 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-01 05:08:20+00:00 | 225978 | 6658 | C | 1832 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-01 09:31:20+00:00 | 68 | 1 | Python | 0 | [] |
@@ -22,7 +22,9 @@
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-01 07:10:50+00:00 | 487 | 5 | Python | 0 | [] |
 | FDlucifer/Proxy-Attackchain | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | ['exploit'] | 1 | 2021-12-01 04:16:01+00:00 | 8449 | 7 | Go | 1 | [] |
 | Sploit-Slash/Sploit-Slash | It's 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 website of 𝗦𝗽𝗹𝗼𝗶𝘁 𝗦𝗹𝗮𝘀𝗵, check it & (𝗶𝗺𝗽𝗿𝗼𝘃𝗲) it. This is, where you all get (𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴, 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗟𝗶𝗻𝘂𝘅 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱) tutorials. | https://github.com/Sploit-Slash/Sploit-Slash | ['sploit'] | 1 | 2021-12-01 02:35:17+00:00 | 6819 | 0 | JavaScript | 0 | [] |
+| hupe1980/gomsf | Golang based RPC client to communicate with Metasploit | https://github.com/hupe1980/gomsf | ['metasploit module OR payload'] | 1 | 2021-12-01 11:24:50+00:00 | 58 | 1 | Go | 0 | [] |
 | pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2021-12-01 01:34:34+00:00 | 21 | 0 | Lua | 1 | [] |
+| cassis163/sbd-path-traversal-demo | A quick demonstration of the path traversal exploit for the Software by Design (SBD) course. | https://github.com/cassis163/sbd-path-traversal-demo | ['exploit'] | 1 | 2021-12-01 10:54:00+00:00 | 4 | 0 | PHP | 0 | [] |
 | BizzyPythonBear/Roblox-Exploits | None | https://github.com/BizzyPythonBear/Roblox-Exploits | ['exploit'] | 1 | 2021-12-01 01:38:26+00:00 | 1 | 1 | Lua | 0 | [] |
 | bigsizeme/CNVD-2021-49104 | CNVD-2021-49104——泛微E-Office文件上传漏洞 | https://github.com/bigsizeme/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-01 08:12:09+00:00 | 21 | 16 | Python | 4 | ['CNVD-2021-49104'] |
 | IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2021-12-01 04:20:25+00:00 | 21 | 0 | | 0 | [] |
@@ -33,8 +35,9 @@
 | glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-01 00:41:03+00:00 | 437 | 156 | JavaScript | 410 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-12-01 04:21:12+00:00 | 125 | 2 | | 0 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-12-01 10:16:01+00:00 | 19 | 0 | | 0 | [] |
-| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-01 02:03:07+00:00 | 47 | 13 | Python | 15 | [] |
+| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-12-01 08:41:46+00:00 | 36 | 0 | | 0 | [] |
 | angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2021-12-01 01:02:08+00:00 | 2614 | 539 | Python | 111 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-01 11:35:03+00:00 | 70985 | 10380 | Jupyter Notebook | 1790 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-01 00:17:01+00:00 | 195873 | 254 | Ruby | 78 | [] |
 | ChrisTheCoolHut/Zeratool | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | ['exploit', 'shellcode'] | 2 | 2021-12-01 02:25:19+00:00 | 1066 | 683 | Python | 108 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-12-01 08:08:35+00:00 | 1677 | 2 | | 1 | [] |
@@ -42,10 +45,11 @@
 | jamestiotio/CITM | Battle Cats MITM Mailbox Hack | https://github.com/jamestiotio/CITM | ['exploit'] | 1 | 2021-12-01 01:31:32+00:00 | 708 | 9 | Python | 6 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-01 00:45:39+00:00 | 5860 | 25 | | 15 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-12-01 01:58:47+00:00 | 1625 | 254 | C | 11 | [] |
+| jib1337/websandbox | Small forum website for practicing basic web exploits. | https://github.com/jib1337/websandbox | ['exploit'] | 1 | 2021-12-01 10:57:28+00:00 | 25 | 0 | PHP | 2 | [] |
 | chacka0101/exploits | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | ['exploit'] | 1 | 2021-12-01 00:37:27+00:00 | 71719 | 16 | Shell | 11 | [] |
-| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-12-01 08:41:46+00:00 | 36 | 0 | | 0 | [] |
-| reybango/Exploits | None | https://github.com/reybango/Exploits | ['exploit'] | 1 | 2021-12-01 02:19:00+00:00 | 723 | 0 | | 0 | [] |
+| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-01 02:03:07+00:00 | 47 | 13 | Python | 15 | [] |
 | Nek0y4nSu/memory-scan | Detect suspcoius shellcode/pe in memory | https://github.com/Nek0y4nSu/memory-scan | ['shellcode'] | 1 | 2021-12-01 07:01:26+00:00 | 2664 | 2 | YARA | 0 | [] |
+| reybango/Exploits | None | https://github.com/reybango/Exploits | ['exploit'] | 1 | 2021-12-01 02:19:00+00:00 | 723 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-01 00:03:50+00:00 | 439014 | 35 | | 19 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-01 07:50:11+00:00 | 289486 | 738 | | 155 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-01 01:35:21+00:00 | 88 | 0 | PHP | 0 | [] |
