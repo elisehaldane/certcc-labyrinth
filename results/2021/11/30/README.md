@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/30
     
-122 records found after deduplication
+123 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -36,7 +36,7 @@
 | Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | None | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | ['exploit'] | 1 | 2021-11-30 14:46:42+00:00 | 1 | 0 | | 0 | [] |
 | bjhobson12/AmazonEchoExploitProject | An academic react app to demonstrate the beginnings of the CheckPoint Labs vulnerability in the Alexa echo | https://github.com/bjhobson12/AmazonEchoExploitProject | ['exploit'] | 1 | 2021-11-30 07:28:55+00:00 | 374 | 0 | JavaScript | 0 | [] |
 | rlyhurt/Memcrashed-DDoS-Exploit | None | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | ['exploit'] | 1 | 2021-11-30 00:12:24+00:00 | 0 | 0 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-30 08:21:43+00:00 | 46300 | 855 | Python | 201 | [] |
+| mauricelambert/WebScriptsWebShell | Install a WebShell on hardened and deployed WebScripts (using Apache and mod_wsgi). | https://github.com/mauricelambert/WebScriptsWebShell | ['exploit'] | 1 | 2021-11-30 18:31:12+00:00 | 19 | 0 | Python | 0 | [] |
 | SynapsUsr/AntiExpTest | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | ['exploit'] | 1 | 2021-11-30 00:26:37+00:00 | 0 | 0 | | 0 | [] |
 | 19dullarfortnitecard/SoundSpaceGUI | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/SoundSpaceGUI | ['exploit'] | 1 | 2021-11-30 21:16:16+00:00 | 0 | 0 | Lua | 0 | [] |
 | NasserSH12/Final-CyberSecurity-Penetration-test-report | The Final Project of the Cyber ​​Security Camp Penetration Testing, Creating Servers and Exploiting Vulnerabilities | https://github.com/NasserSH12/Final-CyberSecurity-Penetration-test-report | ['exploit'] | 1 | 2021-11-30 20:22:35+00:00 | 0 | 0 | | 0 | [] |
@@ -66,9 +66,9 @@
 | statiawyar/rcelentene | None | https://github.com/statiawyar/rcelentene | ['rce'] | 1 | 2021-11-30 02:01:39+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | rlyhurt/Memcrashed-DDoS-Exploit | None | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | ['exploit'] | 1 | 2021-11-30 01:07:20+00:00 | 0 | 0 | Python | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-30 22:49:36+00:00 | 576 | 0 | | 0 | [] |
-| mauricelambert/WebScriptsWebShell | Install a WebShell on hardened and deployed WebScripts (using Apache and mod_wsgi). | https://github.com/mauricelambert/WebScriptsWebShell | ['exploit'] | 1 | 2021-11-30 18:31:12+00:00 | 19 | 0 | Python | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-30 17:39:33+00:00 | 18490 | 2 | Rust | 0 | [] |
-| MlgmXyysd/k61v1injector | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/k61v1injector | ['exploit'] | 1 | 2021-11-30 08:42:04+00:00 | 7551 | 6 | PHP | 1 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-30 08:21:43+00:00 | 46300 | 855 | Python | 201 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-30 00:05:08+00:00 | 434734 | 35 | | 19 | [] |
 | DeuxEx/LogAnalyzer | LogAnalyzer (for Entropia Universe logfile) (MMO RCE) | https://github.com/DeuxEx/LogAnalyzer | ['rce'] | 1 | 2021-11-30 15:22:10+00:00 | 1798 | 2 | | 0 | [] |
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-11-30 01:43:08+00:00 | 7 | 12 | Python | 15 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-11-30 15:14:54+00:00 | 1034 | 84 | Shell | 48 | [] |
@@ -97,9 +97,9 @@
 | spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2021-11-30 14:15:59+00:00 | 3483 | 8 | HTML | 2 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-30 19:42:01+00:00 | 3795 | 2536 | PowerShell | 731 | [] |
 | Xrlm-8/bootstrap-shellcode | Meu Bootstrap para o shell_cod que criei | https://github.com/Xrlm-8/bootstrap-shellcode | ['shellcode'] | 1 | 2021-11-30 00:34:29+00:00 | 862 | 0 | CSS | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-30 00:05:08+00:00 | 434734 | 35 | | 19 | [] |
 | RedVirus0/Exploit-RCE-PHP-CMS | Exploit for CMS _ link: https://github.com/harshitbansal373/PHP-CMS/issues | https://github.com/RedVirus0/Exploit-RCE-PHP-CMS | ['exploit', 'rce'] | 2 | 2021-11-30 09:57:33+00:00 | 3 | 3 | Python | 1 | [] |
-| HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-30 00:14:48+00:00 | 123 | 2 | | 0 | [] |
+| MlgmXyysd/k61v1injector | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/k61v1injector | ['exploit'] | 1 | 2021-11-30 08:42:04+00:00 | 7551 | 6 | PHP | 1 | [] |
+| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-30 02:58:20+00:00 | 412 | 82 | | 18 | [] |
 | ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-11-30 00:29:45+00:00 | 40 | 1 | PowerShell | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-11-30 00:39:25+00:00 | 222 | 10 | JavaScript | 13 | [] |
 | dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2021-11-30 17:16:53+00:00 | 1274 | 0 | C | 0 | [] |
@@ -112,8 +112,9 @@
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-11-30 01:59:32+00:00 | 347 | 0 | Go | 0 | [] |
 | BGPavelAng/shellcodeWin32 | None | https://github.com/BGPavelAng/shellcodeWin32 | ['shellcode'] | 1 | 2021-11-30 15:46:43+00:00 | 10 | 0 | Assembly | 0 | [] |
 | parseb/blockchain-developer-bootcamp-final-project | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | ['exploit'] | 1 | 2021-11-30 02:20:06+00:00 | 3672 | 0 | JavaScript | 0 | [] |
+| Deepanjalkumar/Attacksurfacemanagement | Attack surface management open source version.Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker. | https://github.com/Deepanjalkumar/Attacksurfacemanagement | ['exploit'] | 1 | 2021-11-30 13:05:47+00:00 | 92638 | 0 | Python | 0 | [] |
+| HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-11-30 00:14:48+00:00 | 123 | 2 | | 0 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2021-11-30 13:47:49+00:00 | 7824 | 5 | Python | 2 | [] |
-| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-11-30 02:58:20+00:00 | 412 | 82 | | 18 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-30 01:07:03+00:00 | 13145 | 2 | Python | 0 | [] |
 | jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-11-30 10:37:41+00:00 | 623 | 4 | | 2 | [] |
 | ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2021-11-30 10:12:44+00:00 | 699 | 2 | C | 0 | [] |
