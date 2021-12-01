@@ -1,15 +1,17 @@
 
 # Summary for results/2021/12/01
     
-49 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-01 03:07:27+00:00 | 658524 | 25714 | Ruby | 11769 | [] |
-| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-01 00:41:03+00:00 | 437 | 156 | JavaScript | 410 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-01 05:08:20+00:00 | 225978 | 6658 | C | 1832 | [] |
+| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-01 09:31:20+00:00 | 68 | 1 | Python | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-01 04:08:42+00:00 | 243 | 14 | JavaScript | 13 | [] |
 | Baanaana/exploits | None | https://github.com/Baanaana/exploits | ['exploit'] | 1 | 2021-12-01 02:41:25+00:00 | 0 | 0 | Lua | 0 | [] |
 | chrismlee26/Jinja2-ExploitMe | None | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-01 06:37:00+00:00 | 67 | 0 | HTML | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-12-01 09:55:01+00:00 | 19432 | 4 | Python | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-01 00:58:23+00:00 | 3763 | 0 | JavaScript | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-12-01 03:35:27+00:00 | 624 | 0 | | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-01 02:50:23+00:00 | 1024 | 216 | Python | 38 | [] |
@@ -28,21 +30,22 @@
 | Anonymous-ghost/LiqunKit_1.5_startup.hta_shellcode | None | https://github.com/Anonymous-ghost/LiqunKit_1.5_startup.hta_shellcode | ['shellcode'] | 1 | 2021-12-01 02:35:43+00:00 | 0 | 0 | HTML | 0 | [] |
 | bryanm0717/Red-vs.-Blue | This project showcases my ability to be the attacker as well as a blue team operator. I used a Kali linux machine and utilized a reverse shell exploit through metasploitable. | https://github.com/bryanm0717/Red-vs.-Blue | ['exploit'] | 1 | 2021-12-01 02:30:55+00:00 | 0 | 0 | | 0 | [] |
 | yinnyC/Jinja2-ExploitMe | None | https://github.com/yinnyC/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-01 03:32:36+00:00 | 0 | 0 | | 0 | [] |
-| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-01 09:31:20+00:00 | 68 | 1 | Python | 0 | [] |
+| glixzzy/blooket-hack | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-01 00:41:03+00:00 | 437 | 156 | JavaScript | 410 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-12-01 04:21:12+00:00 | 125 | 2 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-01 05:08:20+00:00 | 225978 | 6658 | C | 1832 | [] |
-| Nek0y4nSu/memory-scan | Detect suspcoius shellcode/pe in memory | https://github.com/Nek0y4nSu/memory-scan | ['shellcode'] | 1 | 2021-12-01 07:01:26+00:00 | 2664 | 2 | YARA | 0 | [] |
+| Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-12-01 10:16:01+00:00 | 19 | 0 | | 0 | [] |
+| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-01 02:03:07+00:00 | 47 | 13 | Python | 15 | [] |
 | angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2021-12-01 01:02:08+00:00 | 2614 | 539 | Python | 111 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-01 00:17:01+00:00 | 195873 | 254 | Ruby | 78 | [] |
 | ChrisTheCoolHut/Zeratool | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | ['exploit', 'shellcode'] | 2 | 2021-12-01 02:25:19+00:00 | 1066 | 683 | Python | 108 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2021-12-01 08:08:35+00:00 | 1677 | 2 | | 1 | [] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-01 10:19:13+00:00 | 3950 | 2165 | Python | 618 | [] |
 | jamestiotio/CITM | Battle Cats MITM Mailbox Hack | https://github.com/jamestiotio/CITM | ['exploit'] | 1 | 2021-12-01 01:31:32+00:00 | 708 | 9 | Python | 6 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-01 00:45:39+00:00 | 5860 | 25 | | 15 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-12-01 01:58:47+00:00 | 1625 | 254 | C | 11 | [] |
 | chacka0101/exploits | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | ['exploit'] | 1 | 2021-12-01 00:37:27+00:00 | 71719 | 16 | Shell | 11 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-12-01 08:41:46+00:00 | 36 | 0 | | 0 | [] |
-| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-01 02:03:07+00:00 | 47 | 13 | Python | 15 | [] |
 | reybango/Exploits | None | https://github.com/reybango/Exploits | ['exploit'] | 1 | 2021-12-01 02:19:00+00:00 | 723 | 0 | | 0 | [] |
+| Nek0y4nSu/memory-scan | Detect suspcoius shellcode/pe in memory | https://github.com/Nek0y4nSu/memory-scan | ['shellcode'] | 1 | 2021-12-01 07:01:26+00:00 | 2664 | 2 | YARA | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-01 00:03:50+00:00 | 439014 | 35 | | 19 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-01 07:50:11+00:00 | 289486 | 738 | | 155 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-01 01:35:21+00:00 | 88 | 0 | PHP | 0 | [] |
