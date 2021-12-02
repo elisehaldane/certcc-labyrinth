@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/02
     
-26 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-02 01:37:07+00:00 | 659454 | 25726 | Ruby | 11771 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-02 00:06:29+00:00 | 1534768 | 1534 | Python | 524 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-02 05:08:23+00:00 | 228032 | 6659 | C | 1832 | [] |
+| Liar-Sama/Minecraft-Account-Bruteforce | 0day for accounts from mojang. | https://github.com/Liar-Sama/Minecraft-Account-Bruteforce | ['0day'] | 1 | 2021-12-02 02:29:58+00:00 | 0 | 1 | | 0 | [] |
 | luijait/Minishare-1.4.1BoF_Exploit | Exploit para MiniShare1.4.1 | https://github.com/luijait/Minishare-1.4.1BoF_Exploit | ['exploit'] | 1 | 2021-12-02 01:42:55+00:00 | 0 | 2 | Python | 0 | [] |
 | Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2021-12-02 01:44:23+00:00 | 3 | 0 | | 0 | [] |
 | pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2021-12-02 01:27:32+00:00 | 24 | 1 | Lua | 1 | [] |
@@ -30,4 +31,5 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-02 00:45:39+00:00 | 6614 | 25 | | 15 | [] |
 | Execut3/exploit-learning | Exploit learning challenges with writeups | https://github.com/Execut3/exploit-learning | ['exploit'] | 1 | 2021-12-02 03:18:59+00:00 | 1907 | 2 | Python | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-02 00:16:54+00:00 | 197405 | 254 | Ruby | 78 | [] |
-| Liar-Sama/Minecraft-Account-Bruteforce | 0day for accounts from mojang. | https://github.com/Liar-Sama/Minecraft-Account-Bruteforce | ['0day'] | 1 | 2021-12-02 02:29:58+00:00 | 0 | 1 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-02 00:06:29+00:00 | 1534768 | 1534 | Python | 524 | [] |
+| GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-02 04:49:45+00:00 | 0 | 0 | nan | 0 | [] |
