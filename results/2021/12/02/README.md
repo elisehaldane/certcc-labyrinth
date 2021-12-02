@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/02
     
-48 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -15,6 +15,7 @@
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-12-02 09:03:56+00:00 | 310 | 0 | C | 0 | [] |
 | BenPali/Offensive-Security-and-Exploitation | None | https://github.com/BenPali/Offensive-Security-and-Exploitation | ['exploit'] | 1 | 2021-12-02 10:15:17+00:00 | 192 | 0 | | 0 | [] |
 | hlong12042/CVE_2019_11043 | None | https://github.com/hlong12042/CVE_2019_11043 | ['cve-2 OR cve_2'] | 1 | 2021-12-02 11:23:54+00:00 | 4836 | 0 | PHP | 0 | ['CVE-2019-11043'] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-02 11:57:46+00:00 | 512 | 5 | Python | 0 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-12-02 00:23:13+00:00 | 17 | 0 | C | 0 | [] |
 | Sploit-Slash/Sploit-Slash | It's 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 website of 𝗦𝗽𝗹𝗼𝗶𝘁 𝗦𝗹𝗮𝘀𝗵, check it & (𝗶𝗺𝗽𝗿𝗼𝘃𝗲) it. This is, where you all get (𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴, 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗟𝗶𝗻𝘂𝘅 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱) tutorials. | https://github.com/Sploit-Slash/Sploit-Slash | ['sploit'] | 1 | 2021-12-02 04:04:08+00:00 | 7030 | 0 | CSS | 0 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-02 11:25:46+00:00 | 1609 | 34 | Java | 9 | [] |
@@ -28,10 +29,11 @@
 | AK-blank/CVE-2021-42325- | CVE-2021-42325 POC | https://github.com/AK-blank/CVE-2021-42325- | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-02 06:58:17+00:00 | 0 | 0 | | 0 | ['CVE-2021-42325'] |
 | dearpan/cve-2018-9995 | None | https://github.com/dearpan/cve-2018-9995 | ['cve-2 OR cve_2'] | 1 | 2021-12-02 07:54:54+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-9995'] |
 | claudineisan/rcentury | Capactiação no uso do Century em Ambiente R | https://github.com/claudineisan/rcentury | ['rce'] | 1 | 2021-12-02 11:33:23+00:00 | 0 | 0 | | 0 | [] |
+| kitki30/CatSploit | CatSploit Roblox Executor | https://github.com/kitki30/CatSploit | ['sploit'] | 1 | 2021-12-02 11:23:27+00:00 | 0 | 0 | | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-02 04:32:00+00:00 | 245 | 16 | JavaScript | 14 | [] |
 | yashkarbhari/Revise-Net | Official code for the paper "Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection" | https://github.com/yashkarbhari/Revise-Net | ['exploit'] | 1 | 2021-12-02 09:17:42+00:00 | 76 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-02 00:06:37+00:00 | 445 | 161 | JavaScript | 435 | [] |
-| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-02 01:40:48+00:00 | 50 | 13 | Python | 15 | [] |
+| ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-12-02 01:59:21+00:00 | 13298 | 1 | | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-02 00:06:29+00:00 | 1534768 | 1534 | Python | 524 | [] |
 | OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2021-12-02 09:54:16+00:00 | 74682 | 425 | Java | 494 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-02 11:35:04+00:00 | 71087 | 10381 | Jupyter Notebook | 1790 | [] |
@@ -41,8 +43,10 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-02 00:45:39+00:00 | 6614 | 25 | | 15 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-12-02 09:24:28+00:00 | 635 | 557 | Java | 56 | [] |
 | Ridter/cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2021-12-02 03:02:45+00:00 | 5 | 284 | Python | 94 | ['CVE-2020-0688'] |
-| ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-12-02 01:59:21+00:00 | 13298 | 1 | | 0 | [] |
+| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-02 01:40:48+00:00 | 50 | 13 | Python | 15 | [] |
+| FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-12-02 11:35:52+00:00 | 122 | 306 | C# | 73 | [] |
 | Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-02 08:39:25+00:00 | 72 | 76 | Python | 8 | [] |
+| the-p0p/setMe | Simple binary to make exploitation of insecure NFS systems easier from Linux host | https://github.com/the-p0p/setMe | ['exploit'] | 1 | 2021-12-02 12:42:34+00:00 | 22 | 1 | C | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-02 00:04:18+00:00 | 447222 | 35 | | 19 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-02 03:04:29+00:00 | 423 | 85 | | 20 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-02 01:37:41+00:00 | 88 | 0 | PHP | 0 | [] |
@@ -52,4 +56,4 @@
 | Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2021-12-02 09:26:29+00:00 | 83747 | 160 | | 33 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-02 01:08:11+00:00 | 14907 | 2 | Python | 0 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-12-02 03:44:48+00:00 | 30 | 2 | Java | 0 | [] |
-| kitki30/CatSploit | CatSploit Roblox Executor | https://github.com/kitki30/CatSploit | ['sploit'] | 1 | 2021-12-02 11:23:27+00:00 | 0 | 0 | | 0 | [] |
+| Y1LD1R1M-1337/Limesurvey-RCE | LimeSurvey Authenticated RCE | https://github.com/Y1LD1R1M-1337/Limesurvey-RCE | ['rce'] | 1 | 2021-12-02 12:39:14+00:00 | 0 | 0 | | 0 | [] |
