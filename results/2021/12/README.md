@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12
     
-114 records found after deduplication
+115 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -34,7 +34,7 @@
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2021-12-01 15:24:13+00:00 | 195 | 1 | | 1 | [] |
 | BizzyPythonBear/Roblox-Exploits | None | https://github.com/BizzyPythonBear/Roblox-Exploits | ['exploit'] | 1 | 2021-12-01 01:38:26+00:00 | 1 | 1 | Lua | 0 | [] |
 | IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2021-12-01 04:20:25+00:00 | 21 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-01 13:17:56+00:00 | 21841 | 6176 | JavaScript | 1461 | [] |
+| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-12-02 00:21:24+00:00 | 21 | 0 | C++ | 0 | [] |
 | CyberCopLOL/3P1K | Epik GUI for exploit | https://github.com/CyberCopLOL/3P1K | ['exploit'] | 1 | 2021-12-01 02:20:41+00:00 | 0 | 0 | | 0 | [] |
 | TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC | None | https://github.com/TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC | ['exploit'] | 1 | 2021-12-01 20:10:18+00:00 | 0 | 0 | Python | 0 | [] |
 | Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2021-12-01 19:46:33+00:00 | 0 | 0 | | 0 | [] |
@@ -63,8 +63,8 @@
 | Anonymous-ghost/LiqunKit_1.5_startup.hta_shellcode | None | https://github.com/Anonymous-ghost/LiqunKit_1.5_startup.hta_shellcode | ['shellcode'] | 1 | 2021-12-01 02:35:43+00:00 | 0 | 0 | HTML | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-12-01 03:35:27+00:00 | 624 | 0 | | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-01 00:58:23+00:00 | 3763 | 0 | JavaScript | 0 | [] |
-| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-12-01 09:55:01+00:00 | 19432 | 4 | Python | 0 | [] |
-| chrismlee26/Jinja2-ExploitMe | None | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-01 06:37:00+00:00 | 67 | 0 | HTML | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-01 13:17:56+00:00 | 21841 | 6176 | JavaScript | 1461 | [] |
+| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-01 16:32:12+00:00 | 418 | 84 | | 19 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2021-12-01 21:07:19+00:00 | 27580 | 39 | Shell | 17 | [] |
 | reybango/Exploits | None | https://github.com/reybango/Exploits | ['exploit'] | 1 | 2021-12-01 02:19:00+00:00 | 723 | 0 | | 0 | [] |
 | Storm21CH/PS4-FW6.72-Exploit-Menu | PS4 FW6.72 Exploit Menu with .js and .bin Payload Loader and Payload Chainloader. All important payloads are included! | https://github.com/Storm21CH/PS4-FW6.72-Exploit-Menu | ['exploit'] | 1 | 2021-12-01 17:01:02+00:00 | 2464 | 2 | HTML | 0 | [] |
@@ -91,9 +91,10 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-01 05:08:20+00:00 | 225978 | 6658 | C | 1832 | [] |
 | pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-01 12:01:09+00:00 | 18921 | 460 | Ruby | 116 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-01 00:03:50+00:00 | 439014 | 35 | | 19 | [] |
-| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-01 16:32:12+00:00 | 418 | 84 | | 19 | [] |
 | BenH11235/pwnable_writeup | An introduction course to system exploitation based on pwnable.kr challenges | https://github.com/BenH11235/pwnable_writeup | ['exploit'] | 1 | 2021-12-01 15:43:16+00:00 | 27764 | 1 | TeX | 0 | [] |
-| Nek0y4nSu/memory-scan | Detect suspcoius shellcode/pe in memory | https://github.com/Nek0y4nSu/memory-scan | ['shellcode'] | 1 | 2021-12-01 07:01:26+00:00 | 2664 | 2 | YARA | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-12-01 09:55:01+00:00 | 19432 | 4 | Python | 0 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-01 07:50:11+00:00 | 289486 | 738 | | 155 | [] |
+| chrismlee26/Jinja2-ExploitMe | None | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-01 06:37:00+00:00 | 67 | 0 | HTML | 0 | [] |
 | Baanaana/exploits | None | https://github.com/Baanaana/exploits | ['exploit'] | 1 | 2021-12-01 02:41:25+00:00 | 0 | 0 | Lua | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-12-01 18:29:27+00:00 | 18496 | 2 | Rust | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-01 04:08:42+00:00 | 243 | 14 | JavaScript | 13 | [] |
@@ -105,8 +106,8 @@
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-12-01 04:21:12+00:00 | 125 | 2 | | 0 | [] |
 | renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2021-12-01 12:35:15+00:00 | 52 | 0 | C | 0 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-12-01 10:16:01+00:00 | 19 | 0 | | 0 | [] |
+| Nek0y4nSu/memory-scan | Detect suspcoius shellcode/pe in memory | https://github.com/Nek0y4nSu/memory-scan | ['shellcode'] | 1 | 2021-12-01 07:01:26+00:00 | 2664 | 2 | YARA | 0 | [] |
 | sridhar-research-lab/MEDDoS | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | ['exploit'] | 1 | 2021-12-01 18:51:15+00:00 | 2883 | 0 | C++ | 0 | [] |
-| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-01 07:50:11+00:00 | 289486 | 738 | | 155 | [] |
 | Storm21CH/PS4-FW7.55-Exploit-Menu | PS4 FW7.55 Exploit Menu with .js and .bin Payload Loader. All important payloads are included! | https://github.com/Storm21CH/PS4-FW7.55-Exploit-Menu | ['exploit'] | 1 | 2021-12-01 17:07:12+00:00 | 297 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-01 01:10:54+00:00 | 13907 | 2 | Python | 0 | [] |
 | TheMoerp/hacking_tools | some small tools to create exploits | https://github.com/TheMoerp/hacking_tools | ['exploit'] | 1 | 2021-12-01 02:44:07+00:00 | 16 | 0 | Python | 0 | [] |
