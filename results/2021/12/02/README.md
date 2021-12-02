@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/02
     
-82 records found after deduplication
+84 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | ronin-rb/ronin-exploits | Ronin Exploits is a Ruby library for Ronin that provides exploitation and payload crafting functionality. | https://github.com/ronin-rb/ronin-exploits | ['exploit'] | 1 | 2021-12-02 17:31:14+00:00 | 3578 | 34 | Ruby | 11 | [] |
-| Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2021-12-02 01:44:23+00:00 | 3 | 0 | | 0 | [] |
+| hlong12042/CVE_2019_11043 | None | https://github.com/hlong12042/CVE_2019_11043 | ['cve-2 OR cve_2'] | 1 | 2021-12-02 11:23:54+00:00 | 4836 | 0 | PHP | 0 | ['CVE-2019-11043'] |
 | mrmehi/pwn | Most likely going to be my notes about pwn or binary exploitation. | https://github.com/mrmehi/pwn | ['exploit'] | 1 | 2021-12-02 16:29:21+00:00 | 3 | 0 | | 0 | [] |
 | pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2021-12-02 01:27:32+00:00 | 24 | 1 | Lua | 1 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-02 11:25:46+00:00 | 1609 | 34 | Java | 9 | [] |
@@ -15,8 +15,8 @@
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-02 11:57:46+00:00 | 512 | 5 | Python | 0 | [] |
 | ifrunistuttgart/ParticleFilter_UpdraftEstimator | This repository contains a flight-tested Python implementation of a particle-filter-based multiple thermal updraft estimator that allows autonomous updraft localization and exploitation. | https://github.com/ifrunistuttgart/ParticleFilter_UpdraftEstimator | ['exploit'] | 1 | 2021-12-02 16:37:24+00:00 | 396903 | 0 | Python | 0 | [] |
 | lockecd/rces-final-project | Research Computing in Earth Science Final Project | https://github.com/lockecd/rces-final-project | ['rce'] | 1 | 2021-12-02 15:56:32+00:00 | 4 | 0 | | 0 | [] |
-| hlong12042/CVE_2019_11043 | None | https://github.com/hlong12042/CVE_2019_11043 | ['cve-2 OR cve_2'] | 1 | 2021-12-02 11:23:54+00:00 | 4836 | 0 | PHP | 0 | ['CVE-2019-11043'] |
 | BenPali/Offensive-Security-and-Exploitation | None | https://github.com/BenPali/Offensive-Security-and-Exploitation | ['exploit'] | 1 | 2021-12-02 10:15:17+00:00 | 192 | 0 | | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-02 01:37:07+00:00 | 659454 | 25726 | Ruby | 11771 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-12-02 09:03:56+00:00 | 310 | 0 | C | 0 | [] |
 | FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2021-12-02 06:58:59+00:00 | 122 | 10 | Python | 8 | [] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2021-12-02 15:44:17+00:00 | 14 | 0 | | 0 | [] |
@@ -24,9 +24,10 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-02 18:10:19+00:00 | 76 | 4 | | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-02 15:11:36+00:00 | 10881 | 0 | Lua | 0 | [] |
 | ZakaryaIT/-0Day-Auto-shel | None | https://github.com/ZakaryaIT/-0Day-Auto-shel | ['0day'] | 1 | 2021-12-02 04:31:39+00:00 | 3 | 0 | Python | 0 | [] |
+| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-12-02 00:21:24+00:00 | 21 | 0 | C++ | 0 | [] |
 | MarcinK50/instalogik | Exploit in instalogik.pl contest. | https://github.com/MarcinK50/instalogik | ['exploit'] | 1 | 2021-12-02 15:15:06+00:00 | 2 | 0 | Python | 0 | [] |
+| Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2021-12-02 01:44:23+00:00 | 3 | 0 | | 0 | [] |
 | luijait/Minishare-1.4.1BoF_Exploit | Exploit para MiniShare1.4.1 | https://github.com/luijait/Minishare-1.4.1BoF_Exploit | ['exploit'] | 1 | 2021-12-02 01:42:55+00:00 | 0 | 2 | Python | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-02 01:37:07+00:00 | 659454 | 25726 | Ruby | 11771 | [] |
 | Liar-Sama/Minecraft-Account-Bruteforce | 0day for accounts from mojang. | https://github.com/Liar-Sama/Minecraft-Account-Bruteforce | ['0day'] | 1 | 2021-12-02 02:29:58+00:00 | 0 | 1 | | 0 | [] |
 | epicgamer23479/Blooket-exploits | exploits for blooket | https://github.com/epicgamer23479/Blooket-exploits | ['exploit'] | 1 | 2021-12-02 18:11:12+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | uselessprogrammer219/PythonExploits | None | https://github.com/uselessprogrammer219/PythonExploits | ['exploit'] | 1 | 2021-12-02 18:04:34+00:00 | 0 | 0 | | 0 | [] |
@@ -45,10 +46,10 @@
 | drahosj/shellcode-ctf | None | https://github.com/drahosj/shellcode-ctf | ['shellcode'] | 1 | 2021-12-02 06:43:31+00:00 | 0 | 0 | TeX | 0 | [] |
 | trickSec/cadmium | roblox rootkit exploit, Synapse X only | https://github.com/trickSec/cadmium | ['exploit'] | 1 | 2021-12-02 07:24:30+00:00 | 425 | 0 | Lua | 0 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-02 04:49:45+00:00 | 0 | 0 | | 0 | [] |
-| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-12-02 00:21:24+00:00 | 21 | 0 | C++ | 0 | [] |
 | mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2021-12-02 03:01:50+00:00 | 46 | 0 | C | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-02 04:32:00+00:00 | 245 | 16 | JavaScript | 14 | [] |
 | peterdavidfagan/robo-dream | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | ['exploit'] | 1 | 2021-12-02 13:31:52+00:00 | 53 | 0 | Python | 0 | [] |
+| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-02 01:40:48+00:00 | 50 | 13 | Python | 15 | [] |
 | Ridter/cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2021-12-02 03:02:45+00:00 | 5 | 284 | Python | 94 | ['CVE-2020-0688'] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-12-02 09:24:28+00:00 | 635 | 557 | Java | 56 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-02 00:45:39+00:00 | 6614 | 25 | | 15 | [] |
@@ -67,9 +68,9 @@
 | rapid7/metasploit-omnibus | Packaging metasploit-framework with omnibus | https://github.com/rapid7/metasploit-omnibus | ['metasploit module OR payload'] | 1 | 2021-12-02 18:07:36+00:00 | 1393 | 165 | Ruby | 176 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-02 05:08:23+00:00 | 228032 | 6659 | C | 1832 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-12-02 14:48:59+00:00 | 3634007 | 2 | Batchfile | 0 | [] |
-| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-02 01:40:48+00:00 | 50 | 13 | Python | 15 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-12-02 01:59:21+00:00 | 13298 | 1 | | 0 | [] |
-| SynapsUsr/UniExploit-V1 | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | ['exploit'] | 1 | 2021-12-02 08:18:40+00:00 | 284 | 0 | Lua | 0 | [] |
+| evilcater/XSsploit | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | ['exploit'] | 1 | 2021-12-02 19:23:59+00:00 | 875 | 1 | Python | 0 | [] |
+| FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-12-02 11:35:52+00:00 | 122 | 306 | C# | 73 | [] |
 | yashkarbhari/Revise-Net | Official code for the paper "Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection" | https://github.com/yashkarbhari/Revise-Net | ['exploit'] | 1 | 2021-12-02 09:17:42+00:00 | 76 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-02 00:06:37+00:00 | 445 | 161 | JavaScript | 435 | [] |
 | Balasys/dheater | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-02 08:39:25+00:00 | 70 | 76 | Python | 8 | [] |
@@ -77,8 +78,9 @@
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-12-02 18:22:23+00:00 | 109140 | 12 | PowerShell | 6 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-02 01:08:11+00:00 | 14907 | 2 | Python | 0 | [] |
 | Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2021-12-02 09:26:29+00:00 | 83747 | 160 | | 33 | [] |
+| SynapsUsr/UniExploit-V1 | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | ['exploit'] | 1 | 2021-12-02 08:18:40+00:00 | 284 | 0 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-02 04:01:58+00:00 | 87516 | 253 | Python | 78 | [] |
-| FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-12-02 11:35:52+00:00 | 122 | 306 | C# | 73 | [] |
+| Pen-Test3rs/binary_exploits_frontend | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | ['exploit'] | 1 | 2021-12-02 18:46:41+00:00 | 3089 | 0 | TypeScript | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-02 00:41:49+00:00 | 146168 | 62 | TypeScript | 4 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-02 16:18:06+00:00 | 730 | 37 | Python | 6 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-02 01:37:41+00:00 | 88 | 0 | PHP | 0 | [] |
