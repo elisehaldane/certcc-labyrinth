@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+434262674,krishpranav/kernelexploits,windows/CVE-2017-0213/README.md,8d677f8dce53d8d15098a3f80fd7dc06da9db591,CVE-2017-0213
+434262674,krishpranav/kernelexploits,windows/CVE-2017-0213/README.md,8d677f8dce53d8d15098a3f80fd7dc06da9db591,GPZ-1107
+434262674,krishpranav/kernelexploits,windows/CVE-2016-3309/exploit/main.c,c24de6b08c0fbf65ea4bdaf4a28659b841e3b5df,CVE-2016-3309
+434262674,krishpranav/kernelexploits,windows/CVE-2017-0213/exploit/CVE-2017-0213.cpp,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2017-0213
+434262674,krishpranav/kernelexploits,windows/CVE-2016-3309/README.md,e896793e4a59940db41a451da3b856d6d6d762c9,CVE-2016-3309
+434262674,krishpranav/kernelexploits,windows/CVE-2016-3309/README.md,e896793e4a59940db41a451da3b856d6d6d762c9,MS16-098
