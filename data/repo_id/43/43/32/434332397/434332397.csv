@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+434332397,infobyte/Exploit-CVE-2021-21086,generate_exploit_charstring.py,9a5a56c0e2ec8c7055fb92daf58c1c81fc04b4eb,CVE-2021-21086
+434332397,infobyte/Exploit-CVE-2021-21086,README.md,feb933ac1d5ec99326e6668859377fda1c7e311f,CVE-2021-21086
+434332397,infobyte/Exploit-CVE-2021-21086,_GITHUB_REPO_METADATA_,,CVE-2021-21086
