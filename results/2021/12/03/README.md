@@ -1,22 +1,23 @@
 
 # Summary for results/2021/12/03
     
-45 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-03 05:40:03+00:00 | 659512 | 25733 | Ruby | 11774 | [] |
-| tigrisg/PAPPL2021 | Exploitation des mesures en navigation réalisées en équipe de France d'aviron | https://github.com/tigrisg/PAPPL2021 | ['exploit'] | 1 | 2021-12-03 08:23:58+00:00 | 20190 | 0 | Jupyter Notebook | 0 | [] |
+| zeroday7/zeroday7.github.io | None | https://github.com/zeroday7/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 01:33:59+00:00 | 0 | 0 | CSS | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-12-03 08:23:09+00:00 | 19439 | 4 | Python | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-03 00:33:23+00:00 | 3773 | 0 | JavaScript | 0 | [] |
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-12-03 03:03:34+00:00 | 39 | 0 | C++ | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-03 00:32:10+00:00 | 136 | 0 | Java | 0 | [] |
+| ad-995/bluffy | Convert shellcode into :sparkles: different :sparkles: formats! | https://github.com/ad-995/bluffy | ['shellcode'] | 1 | 2021-12-03 10:07:57+00:00 | 315 | 0 | Python | 0 | [] |
 | nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-03 01:35:16+00:00 | 2 | 0 | | 0 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-03 06:17:42+00:00 | 1623 | 39 | Java | 12 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-03 05:45:24+00:00 | 14 | 0 | Python | 0 | [] |
 | chryskar/karakasis2020exploiting | None | https://github.com/chryskar/karakasis2020exploiting | ['exploit'] | 1 | 2021-12-03 00:04:52+00:00 | 0 | 0 | C | 0 | [] |
-| zeroday7/zeroday7.github.io | None | https://github.com/zeroday7/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 01:33:59+00:00 | 0 | 0 | CSS | 0 | [] |
 | kyeong24/zeroday7.github.io | None | https://github.com/kyeong24/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 00:57:21+00:00 | 0 | 1 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-03 00:04:18+00:00 | 21841 | 6181 | JavaScript | 1463 | [] |
 | a756379684/exploitdb-gui | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | ['exploit'] | 1 | 2021-12-03 01:28:41+00:00 | 0 | 0 | | 0 | [] |
 | zhangtianlong-git/Area-calculation-using-CAD | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | ['exploit'] | 1 | 2021-12-03 02:38:52+00:00 | 0 | 0 | Python | 0 | [] |
 | Osyanina/westone-CVE-2021-21980-scanner | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-03 02:34:53+00:00 | 0 | 0 | | 0 | ['CVE-2021-21980'] |
@@ -27,8 +28,8 @@
 | AK-blank/CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-03 07:35:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-37832'] |
 | thecybercomrade/RCE-Discussion | None | https://github.com/thecybercomrade/RCE-Discussion | ['rce'] | 1 | 2021-12-03 08:16:49+00:00 | 0 | 0 | | 0 | [] |
 | Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-03 04:02:51+00:00 | 97 | 0 | Lua | 0 | [] |
+| tigrisg/PAPPL2021 | Exploitation des mesures en navigation réalisées en équipe de France d'aviron | https://github.com/tigrisg/PAPPL2021 | ['exploit'] | 1 | 2021-12-03 08:23:58+00:00 | 20190 | 0 | Jupyter Notebook | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-03 01:49:13+00:00 | 923 | 207 | JavaScript | 456 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-03 00:04:18+00:00 | 21841 | 6181 | JavaScript | 1463 | [] |
 | PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | ['exploit'] | 1 | 2021-12-03 00:35:07+00:00 | 14135 | 0 | Jupyter Notebook | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-03 00:16:51+00:00 | 198937 | 254 | Ruby | 78 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-03 06:22:42+00:00 | 4013 | 2168 | Python | 621 | [] |
