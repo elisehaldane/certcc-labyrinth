@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/03
     
-39 records found after deduplication
+43 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-03 05:40:03+00:00 | 659512 | 25733 | Ruby | 11774 | [] |
 | zeroday7/zeroday7.github.io | None | https://github.com/zeroday7/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 01:33:59+00:00 | 0 | 0 | CSS | 0 | [] |
+| openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-12-03 08:23:09+00:00 | 19439 | 4 | Python | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-03 00:33:23+00:00 | 3773 | 0 | JavaScript | 0 | [] |
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-12-03 03:03:34+00:00 | 39 | 0 | C++ | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-03 00:32:10+00:00 | 136 | 0 | Java | 0 | [] |
@@ -15,7 +16,7 @@
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-03 05:45:24+00:00 | 14 | 0 | Python | 0 | [] |
 | chryskar/karakasis2020exploiting | None | https://github.com/chryskar/karakasis2020exploiting | ['exploit'] | 1 | 2021-12-03 00:04:52+00:00 | 0 | 0 | C | 0 | [] |
 | kyeong24/zeroday7.github.io | None | https://github.com/kyeong24/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 00:57:21+00:00 | 0 | 1 | | 0 | [] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-03 01:49:13+00:00 | 923 | 207 | JavaScript | 456 | [] |
+| tigrisg/PAPPL2021 | Exploitation des mesures en navigation réalisées en équipe de France d'aviron | https://github.com/tigrisg/PAPPL2021 | ['exploit'] | 1 | 2021-12-03 08:23:58+00:00 | 20190 | 0 | Jupyter Notebook | 0 | [] |
 | a756379684/exploitdb-gui | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | ['exploit'] | 1 | 2021-12-03 01:28:41+00:00 | 0 | 0 | | 0 | [] |
 | zhangtianlong-git/Area-calculation-using-CAD | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | ['exploit'] | 1 | 2021-12-03 02:38:52+00:00 | 0 | 0 | Python | 0 | [] |
 | Osyanina/westone-CVE-2021-21980-scanner | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-03 02:34:53+00:00 | 0 | 0 | | 0 | ['CVE-2021-21980'] |
@@ -23,8 +24,9 @@
 | cocomelonc/2021-12-03-inline-asm-1 | Run shellcode via inline ASM. C++ example | https://github.com/cocomelonc/2021-12-03-inline-asm-1 | ['shellcode'] | 1 | 2021-12-03 06:19:34+00:00 | 0 | 0 | C++ | 0 | [] |
 | hack3r-0m/oz-uups-forta-agent | Forta Agent for reporting UUPS exploits | https://github.com/hack3r-0m/oz-uups-forta-agent | ['exploit'] | 1 | 2021-12-03 07:18:16+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | BlackHat-Ashura/Exploit_Development_Practice | Exploit Development Journey | https://github.com/BlackHat-Ashura/Exploit_Development_Practice | ['exploit'] | 1 | 2021-12-03 07:34:51+00:00 | 0 | 0 | Python | 0 | [] |
+| AK-blank/CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-03 07:35:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-37832'] |
 | Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-03 04:02:51+00:00 | 97 | 0 | Lua | 0 | [] |
-| PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | ['exploit'] | 1 | 2021-12-03 00:35:07+00:00 | 14135 | 0 | Jupyter Notebook | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-03 01:49:13+00:00 | 923 | 207 | JavaScript | 456 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-03 00:04:18+00:00 | 21841 | 6181 | JavaScript | 1463 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-03 00:40:20+00:00 | 89 | 0 | PHP | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-03 00:16:51+00:00 | 198937 | 254 | Ruby | 78 | [] |
@@ -34,8 +36,9 @@
 | Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2021-12-03 00:02:46+00:00 | 53 | 4 | JavaScript | 3 | [] |
 | arosenmund/ps-metasploit-lab | None | https://github.com/arosenmund/ps-metasploit-lab | ['metasploit module OR payload'] | 1 | 2021-12-03 04:05:10+00:00 | 9355 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-03 00:03:52+00:00 | 450728 | 35 | | 19 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-12-03 08:23:57+00:00 | 14477 | 0 | Lua | 0 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2021-12-03 02:32:42+00:00 | 235 | 5 | Python | 0 | [] |
-| aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2021-12-03 07:30:06+00:00 | 9661 | 15 | C++ | 3 | [] |
+| PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | ['exploit'] | 1 | 2021-12-03 00:35:07+00:00 | 14135 | 0 | Jupyter Notebook | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-03 03:05:40+00:00 | 731 | 37 | Python | 6 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-03 00:02:44+00:00 | 374970 | 63 | TypeScript | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-03 04:02:24+00:00 | 89684 | 255 | Python | 78 | [] |
@@ -43,4 +46,5 @@
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-12-03 03:10:01+00:00 | 125 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-03 01:07:45+00:00 | 16033 | 2 | Python | 0 | [] |
 | albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the paper title: Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-12-03 02:55:30+00:00 | 255 | 5 | Python | 3 | [] |
-| AK-blank/CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-03 07:35:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-37832'] |
+| aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2021-12-03 07:30:06+00:00 | 9661 | 15 | C++ | 3 | [] |
+| blueDesert/metasploitable3 | None | https://github.com/blueDesert/metasploitable3 | ['metasploit module OR payload'] | 1 | 2021-12-03 08:24:02+00:00 | 0 | 0 | HTML | 0 | [] |
