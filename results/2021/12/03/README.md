@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/03
     
-21 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-03 00:04:18+00:00 | 21841 | 6181 | JavaScript | 1463 | [] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-03 01:49:13+00:00 | 923 | 207 | JavaScript | 456 | [] |
+| PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | ['exploit'] | 1 | 2021-12-03 00:35:07+00:00 | 14135 | 0 | Jupyter Notebook | 0 | [] |
 | zhangtianlong-git/Area-calculation-using-CAD | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | ['exploit'] | 1 | 2021-12-03 02:38:52+00:00 | 0 | 0 | Python | 0 | [] |
 | a756379684/exploitdb-gui | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | ['exploit'] | 1 | 2021-12-03 01:28:41+00:00 | 0 | 0 | | 0 | [] |
 | kyeong24/zeroday7.github.io | None | https://github.com/kyeong24/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 00:57:21+00:00 | 0 | 1 | | 0 | [] |
@@ -14,11 +14,15 @@
 | chryskar/karakasis2020exploiting | None | https://github.com/chryskar/karakasis2020exploiting | ['exploit'] | 1 | 2021-12-03 00:04:52+00:00 | 0 | 0 | C | 0 | [] |
 | nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-03 01:35:16+00:00 | 2 | 0 | | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-03 00:32:10+00:00 | 136 | 0 | Java | 0 | [] |
+| batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-12-03 03:03:34+00:00 | 39 | 0 | C++ | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-03 00:33:23+00:00 | 3773 | 0 | JavaScript | 0 | [] |
-| PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | ['exploit'] | 1 | 2021-12-03 00:35:07+00:00 | 14135 | 0 | Jupyter Notebook | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-03 01:49:13+00:00 | 923 | 207 | JavaScript | 456 | [] |
+| albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the paper title: Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-12-03 02:55:30+00:00 | 255 | 5 | Python | 3 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-03 00:16:51+00:00 | 198937 | 254 | Ruby | 78 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-03 01:07:45+00:00 | 16033 | 2 | Python | 0 | [] |
+| DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-12-03 03:10:01+00:00 | 125 | 0 | | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. By adding just a few lines of code anywhere you touch data, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common securit | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-03 00:02:44+00:00 | 374970 | 63 | TypeScript | 4 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-03 03:05:40+00:00 | 731 | 37 | Python | 6 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2021-12-03 02:32:42+00:00 | 235 | 5 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-03 00:40:20+00:00 | 89 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-03 00:03:52+00:00 | 450728 | 35 | | 19 | [] |
