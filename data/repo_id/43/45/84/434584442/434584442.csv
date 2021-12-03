@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+434584442,Mr-Intern/thm_steelmountain_CVE-2014-6287,http_fs_exploit.py,251a0a264c57c02b333d294e2feb8344554c6590,CVE-2014-6287
+434584442,Mr-Intern/thm_steelmountain_CVE-2014-6287,README.md,8c9316cdc6ae88a174a323d74e4515296ae5a5f3,CVE-2014-6287
+434584442,Mr-Intern/thm_steelmountain_CVE-2014-6287,_GITHUB_REPO_METADATA_,,CVE-2014-6287
