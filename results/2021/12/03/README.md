@@ -1,13 +1,12 @@
 
 # Summary for results/2021/12/03
     
-93 records found after deduplication
+94 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-03 05:40:03+00:00 | 659512 | 25733 | Ruby | 11774 | [] |
-| Vito-Swift/Reminders-Heap-Exploit | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | ['exploit', 'shellcode'] | 2 | 2021-12-03 12:43:54+00:00 | 0 | 1 | C | 0 | [] |
-| zeroday7/zeroday7.github.io | None | https://github.com/zeroday7/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 01:33:59+00:00 | 0 | 0 | CSS | 0 | [] |
+| nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-03 01:35:16+00:00 | 2 | 0 | | 0 | [] |
 | chryskar/karakasis2020exploiting | None | https://github.com/chryskar/karakasis2020exploiting | ['exploit'] | 1 | 2021-12-03 00:04:52+00:00 | 0 | 0 | C | 0 | [] |
 | netanelc305/PlEXcalaison | Plex media server local privilige escalation poc - CVE-2021-42835 | https://github.com/netanelc305/PlEXcalaison | ['cve poc'] | 1 | 2021-12-03 11:21:35+00:00 | 68 | 3 | C++ | 0 | ['CVE-2021-42835'] |
 | uselessprogrammer219/PythonExploits | None | https://github.com/uselessprogrammer219/PythonExploits | ['exploit'] | 1 | 2021-12-03 15:18:32+00:00 | 0 | 0 | | 0 | [] |
@@ -16,9 +15,9 @@
 | chaosec2021/CNVD-2021-49104_upload | CNVD-2021-49104-泛微 E-Office 文件上传 验证+批量 | https://github.com/chaosec2021/CNVD-2021-49104_upload | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-03 13:10:23+00:00 | 4 | 0 | Python | 0 | ['CNVD-2021-49104'] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-03 06:17:42+00:00 | 1623 | 39 | Java | 12 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-12-03 16:12:55+00:00 | 22 | 0 | C | 0 | [] |
-| nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-03 01:35:16+00:00 | 2 | 0 | | 0 | [] |
-| grrrr/rcedit | Programmatic access to Research Catalogue web interface | https://github.com/grrrr/rcedit | ['rce'] | 1 | 2021-12-03 16:44:16+00:00 | 24 | 2 | Python | 0 | [] |
+| Vito-Swift/Reminders-Heap-Exploit | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | ['exploit', 'shellcode'] | 2 | 2021-12-03 12:43:54+00:00 | 0 | 1 | C | 0 | [] |
 | ad-995/bluffy | Convert shellcode into :sparkles: different :sparkles: formats! | https://github.com/ad-995/bluffy | ['shellcode'] | 1 | 2021-12-03 10:07:57+00:00 | 315 | 0 | Python | 0 | [] |
+| kyeong24/zeroday7.github.io | None | https://github.com/kyeong24/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 00:57:21+00:00 | 0 | 1 | | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-03 00:32:10+00:00 | 136 | 0 | Java | 0 | [] |
 | Havenviex/Exploiting-Shitz | stuff | https://github.com/Havenviex/Exploiting-Shitz | ['exploit'] | 1 | 2021-12-03 14:43:10+00:00 | 126 | 0 | | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-03 18:10:13+00:00 | 76 | 4 | | 0 | [] |
@@ -27,10 +26,11 @@
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-03 00:33:23+00:00 | 3773 | 0 | JavaScript | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-12-03 08:23:09+00:00 | 19439 | 4 | Python | 0 | [] |
 | punyaslokdutta/Reverse-Shell-scripts | A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive sh | https://github.com/punyaslokdutta/Reverse-Shell-scripts | ['exploit'] | 1 | 2021-12-03 17:34:14+00:00 | 49 | 0 | Python | 0 | [] |
-| kyeong24/zeroday7.github.io | None | https://github.com/kyeong24/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 00:57:21+00:00 | 0 | 1 | | 0 | [] |
+| Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-03 04:02:51+00:00 | 97 | 0 | Lua | 0 | [] |
+| zeroday7/zeroday7.github.io | None | https://github.com/zeroday7/zeroday7.github.io | ['zeroday'] | 1 | 2021-12-03 01:33:59+00:00 | 0 | 0 | CSS | 0 | [] |
 | a756379684/exploitdb-gui | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | ['exploit'] | 1 | 2021-12-03 01:28:41+00:00 | 0 | 0 | | 0 | [] |
-| zhangtianlong-git/Area-calculation-using-CAD | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | ['exploit'] | 1 | 2021-12-03 02:38:52+00:00 | 0 | 0 | Python | 0 | [] |
-| Osyanina/westone-CVE-2021-21980-scanner | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-03 02:34:53+00:00 | 0 | 0 | | 0 | ['CVE-2021-21980'] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-03 00:04:18+00:00 | 21841 | 6181 | JavaScript | 1463 | [] |
+| Whizit007/RemoteCodeExecution | nan | https://github.com/Whizit007/RemoteCodeExecution | ['remote code execution'] | 1 | 2021-12-03 11:57:49+00:00 | 0 | 0 | nan | 0 | [] |
 | spidythehacker/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/spidythehacker/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-12-03 16:59:17+00:00 | 0 | 0 | | 0 | [] |
 | Peaceforasia/Thailand-First-country-in-Asia-with-a-stand-alone-plan-on-Business-and-Human-Rights | In Southeast Asia, business activity has been a crucial enabler of economic dynamism and one of the main reasons for the region’s prosperity. However, corporate activity in the region has been linked to several human rights violations. Thailand has been th | https://github.com/Peaceforasia/Thailand-First-country-in-Asia-with-a-stand-alone-plan-on-Business-and-Human-Rights | ['exploit'] | 1 | 2021-12-03 16:21:46+00:00 | 0 | 0 | | 0 | [] |
 | wimpomp/tiffwrite | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | ['exploit'] | 1 | 2021-12-03 14:09:40+00:00 | 0 | 0 | | 0 | [] |
@@ -40,8 +40,8 @@
 | sinisterghost/https-github.com-iBearcat-CVE-2018-8174_EXP | None | https://github.com/sinisterghost/https-github.com-iBearcat-CVE-2018-8174_EXP | ['cve-2 OR cve_2'] | 1 | 2021-12-03 12:30:08+00:00 | 0 | 0 | | 0 | ['CVE-2018-8174'] |
 | Mr-Intern/thm_steelmountain_CVE-2014-6287 | a python3 version of the exploit written for CVE-2014-6287. Useful for completing the "Steel Mountain" room on TryHackMe.com without the use of metasploit. | https://github.com/Mr-Intern/thm_steelmountain_CVE-2014-6287 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2021-12-03 12:21:41+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-6287'] |
 | MaximeSchlegel/CVE-2021-32724-Target | None | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | ['cve-2 OR cve_2'] | 1 | 2021-12-03 12:09:47+00:00 | 0 | 0 | | 0 | ['CVE-2021-32724'] |
-| Whizit007/RemoteCodeExecution | nan | https://github.com/Whizit007/RemoteCodeExecution | ['remote code execution'] | 1 | 2021-12-03 11:57:49+00:00 | 0 | 0 | nan | 0 | [] |
 | Nivaskumark/-Nivaskumark-CVE-2019-9367_system_bt | None | https://github.com/Nivaskumark/-Nivaskumark-CVE-2019-9367_system_bt | ['cve-2 OR cve_2'] | 1 | 2021-12-03 11:34:46+00:00 | 0 | 0 | | 0 | ['CVE-2019-9367'] |
+| zhangtianlong-git/Area-calculation-using-CAD | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | ['exploit'] | 1 | 2021-12-03 02:38:52+00:00 | 0 | 0 | Python | 0 | [] |
 | Nivaskumark/CVE-2019-9367_system_bt__ | None | https://github.com/Nivaskumark/CVE-2019-9367_system_bt__ | ['cve-2 OR cve_2'] | 1 | 2021-12-03 11:28:04+00:00 | 0 | 0 | C++ | 0 | ['CVE-2019-9367'] |
 | blueDesert/metasploitable3 | None | https://github.com/blueDesert/metasploitable3 | ['metasploit module OR payload'] | 1 | 2021-12-03 08:24:02+00:00 | 0 | 0 | HTML | 0 | [] |
 | thecybercomrade/RCE-Discussion | None | https://github.com/thecybercomrade/RCE-Discussion | ['rce'] | 1 | 2021-12-03 08:16:49+00:00 | 0 | 0 | | 0 | [] |
@@ -50,9 +50,10 @@
 | hack3r-0m/oz-uups-forta-agent | Forta Agent for reporting UUPS exploits | https://github.com/hack3r-0m/oz-uups-forta-agent | ['exploit'] | 1 | 2021-12-03 07:18:16+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | cocomelonc/2021-12-03-inline-asm-1 | Run shellcode via inline ASM. C++ example | https://github.com/cocomelonc/2021-12-03-inline-asm-1 | ['shellcode'] | 1 | 2021-12-03 06:19:34+00:00 | 0 | 0 | C++ | 0 | [] |
 | Moaaz-Rafique/shellCodes | None | https://github.com/Moaaz-Rafique/shellCodes | ['shellcode'] | 1 | 2021-12-03 06:19:47+00:00 | 0 | 0 | Shell | 0 | [] |
-| Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-03 04:02:51+00:00 | 97 | 0 | Lua | 0 | [] |
+| Osyanina/westone-CVE-2021-21980-scanner | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-03 02:34:53+00:00 | 0 | 0 | | 0 | ['CVE-2021-21980'] |
+| grrrr/rcedit | Programmatic access to Research Catalogue web interface | https://github.com/grrrr/rcedit | ['rce'] | 1 | 2021-12-03 16:44:16+00:00 | 24 | 2 | Python | 0 | [] |
 | peterdavidfagan/robo-dream | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | ['exploit'] | 1 | 2021-12-03 13:46:04+00:00 | 6182 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-03 00:04:18+00:00 | 21841 | 6181 | JavaScript | 1463 | [] |
+| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-03 13:28:50+00:00 | 105 | 9 | Python | 0 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-03 02:38:06+00:00 | 66287 | 1307 | Python | 263 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-03 16:51:17+00:00 | 441 | 91 | | 21 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-03 00:03:52+00:00 | 450728 | 35 | | 19 | [] |
@@ -64,7 +65,7 @@
 | Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2021-12-03 00:02:46+00:00 | 53 | 4 | JavaScript | 3 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-03 00:45:40+00:00 | 7096 | 25 | | 15 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-03 14:20:17+00:00 | 35353 | 6144 | Vue | 1302 | [] |
-| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-03 13:28:50+00:00 | 105 | 9 | Python | 0 | [] |
+| tigrisg/PAPPL2021 | Exploitation des mesures en navigation réalisées en équipe de France d'aviron | https://github.com/tigrisg/PAPPL2021 | ['exploit'] | 1 | 2021-12-03 08:23:58+00:00 | 20190 | 0 | Jupyter Notebook | 0 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-03 06:22:42+00:00 | 4013 | 2168 | Python | 621 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-12-03 16:00:50+00:00 | 39928 | 6899 | Python | 1660 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-03 00:16:51+00:00 | 198937 | 254 | Ruby | 78 | [] |
@@ -78,7 +79,7 @@
 | 0xdevil/CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit', 'heap overflow'] | 3 | 2021-12-03 14:34:18+00:00 | 278 | 35 | C | 10 | ['CVE-2021-3156'] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-03 11:54:53+00:00 | 289526 | 742 | | 157 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-03 00:40:20+00:00 | 89 | 0 | PHP | 0 | [] |
-| tigrisg/PAPPL2021 | Exploitation des mesures en navigation réalisées en équipe de France d'aviron | https://github.com/tigrisg/PAPPL2021 | ['exploit'] | 1 | 2021-12-03 08:23:58+00:00 | 20190 | 0 | Jupyter Notebook | 0 | [] |
+| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-12-03 18:44:33+00:00 | 122 | 224 | C# | 40 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-03 01:49:13+00:00 | 923 | 207 | JavaScript | 456 | [] |
 | PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | ['exploit'] | 1 | 2021-12-03 00:35:07+00:00 | 14135 | 0 | Jupyter Notebook | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-12-03 13:23:33+00:00 | 585 | 0 | TypeScript | 0 | [] |
