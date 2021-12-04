@@ -1,15 +1,17 @@
 
 # Summary for results/2021/12/04
     
-22 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-12-04 01:58:30+00:00 | 3801 | 2539 | PowerShell | 732 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-04 05:08:28+00:00 | 228038 | 6663 | C | 1834 | [] |
+| Rig-Wizards-Exploit/Rig-Wizards-Exploit | Config files for my GitHub profile. | https://github.com/Rig-Wizards-Exploit/Rig-Wizards-Exploit | ['exploit'] | 1 | 2021-12-04 06:10:24+00:00 | 0 | 0 | | 0 | [] |
 | RileyStratton/rce | None | https://github.com/RileyStratton/rce | ['rce'] | 1 | 2021-12-04 06:08:16+00:00 | 0 | 0 | | 0 | [] |
 | ermantatar/browsers-autofill-inference-attacks | This repository include attack types to exploit vulnerabilities in modern browsers. Most of the attacks targeted Google Chrome. It is fully educational purposes. | https://github.com/ermantatar/browsers-autofill-inference-attacks | ['exploit'] | 1 | 2021-12-04 00:38:44+00:00 | 6810 | 0 | JavaScript | 0 | [] |
 | HighDimensionalEconLab/symmetry_dynamic_programming | Source for "Exploiting Symmetry in High-Dimensional Dynamic Programming" | https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming | ['exploit'] | 1 | 2021-12-04 04:43:19+00:00 | 97 | 0 | Jupyter Notebook | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-04 08:05:29+00:00 | 1626 | 43 | Java | 12 | [] |
 | josconno/moria | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | ['exploit'] | 1 | 2021-12-04 01:42:48+00:00 | 59 | 0 | Python | 0 | [] |
 | Namtv2312/Exploit-Tutorial | None | https://github.com/Namtv2312/Exploit-Tutorial | ['exploit'] | 1 | 2021-12-04 04:26:46+00:00 | 10 | 0 | C | 0 | [] |
 | Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-04 05:28:41+00:00 | 97 | 0 | Lua | 0 | [] |
@@ -24,6 +26,8 @@
 | raunvk/stealthware-backdoor | Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | ['exploit'] | 1 | 2021-12-04 04:35:40+00:00 | 123 | 18 | C | 11 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-04 00:45:41+00:00 | 7989 | 25 | | 15 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-04 04:31:17+00:00 | 35353 | 6146 | Vue | 1302 | [] |
+| cyberjatin/mynotes | Pentest important small exploitation scripts | https://github.com/cyberjatin/mynotes | ['exploit'] | 1 | 2021-12-04 08:20:55+00:00 | 56 | 1 | Shell | 0 | [] |
+| Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2021-12-04 08:35:17+00:00 | 417 | 1047 | Perl | 453 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-04 00:16:56+00:00 | 200468 | 254 | Ruby | 78 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-04 00:06:30+00:00 | 1534768 | 1535 | Python | 524 | [] |
-| Rig-Wizards-Exploit/Rig-Wizards-Exploit | Config files for my GitHub profile. | https://github.com/Rig-Wizards-Exploit/Rig-Wizards-Exploit | ['exploit'] | 1 | 2021-12-04 06:10:24+00:00 | 0 | 0 | | 0 | [] |
+| Qiselong/LT_Project_shared_files | Shared files for the LT project; namely datas obtained using OSRM API and a .py file to exploit it as an exemple. | https://github.com/Qiselong/LT_Project_shared_files | ['exploit'] | 1 | 2021-12-04 08:26:54+00:00 | 0 | 0 | Python | 0 | [] |
