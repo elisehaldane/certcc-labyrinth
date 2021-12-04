@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+434940765,VukasinVulovic/exploits_and_viruses,v5/capture.7z,0b86c7612e89ca14333be15ec507252cbf337672,VU#14
+434940765,VukasinVulovic/exploits_and_viruses,v5/capture.7z,0b86c7612e89ca14333be15ec507252cbf337672,VU#62
+434940765,VukasinVulovic/exploits_and_viruses,ZombeBug/Runtime Broker.7z,2b3b7e4a09f1a9cd701493c7ae3dd74eca92a730,VU#66
+434940765,VukasinVulovic/exploits_and_viruses,ZombeBug/Runtime Broker.7z,2b3b7e4a09f1a9cd701493c7ae3dd74eca92a730,VU#69
+434940765,VukasinVulovic/exploits_and_viruses,v5/steal_creds.7z,616aea99fae0b858013312f70853fbae2fe578c4,VU#04
+434940765,VukasinVulovic/exploits_and_viruses,v5/client.7z,888a9b0491a5176c2acb69d22bc64f28fe8f12bb,VU#09
+434940765,VukasinVulovic/exploits_and_viruses,v5/client.7z,888a9b0491a5176c2acb69d22bc64f28fe8f12bb,VU#17
+434940765,VukasinVulovic/exploits_and_viruses,v5/client.7z,888a9b0491a5176c2acb69d22bc64f28fe8f12bb,VU#35
+434940765,VukasinVulovic/exploits_and_viruses,v5/client.7z,888a9b0491a5176c2acb69d22bc64f28fe8f12bb,VU#80
+434940765,VukasinVulovic/exploits_and_viruses,v5/client.7z,888a9b0491a5176c2acb69d22bc64f28fe8f12bb,VU#91
+434940765,VukasinVulovic/exploits_and_viruses,ZombeBug/server.7z,95bd0490c7b231f590d692e213b5f6def4e45e93,VU#16
