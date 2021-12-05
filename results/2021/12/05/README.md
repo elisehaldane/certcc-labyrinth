@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/05
     
-89 records found after deduplication
+92 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-05 19:18:30+00:00 | 659980 | 25752 | Ruby | 11777 | [] |
-| lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-05 18:16:24+00:00 | 1995 | 0 | Python | 0 | [] |
+| kitki30/CatSploit | CatSploit Roblox Executor | https://github.com/kitki30/CatSploit | ['sploit'] | 1 | 2021-12-05 11:35:29+00:00 | 7778 | 0 | | 0 | [] |
 | bryyx/Blacklist-Exploit | None | https://github.com/bryyx/Blacklist-Exploit | ['exploit'] | 1 | 2021-12-05 01:45:27+00:00 | 0 | 0 | | 0 | [] |
 | Shade-Productions/RoCord | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | ['exploit'] | 1 | 2021-12-05 05:02:29+00:00 | 1228 | 0 | Lua | 0 | [] |
 | GelatekWasTaken/Project-Cat | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | ['exploit'] | 1 | 2021-12-05 00:09:50+00:00 | 309 | 0 | Lua | 0 | [] |
@@ -16,8 +16,8 @@
 | hack3r-0m/oz-uups-forta-agent | Forta Agent for reporting UUPS exploits | https://github.com/hack3r-0m/oz-uups-forta-agent | ['exploit'] | 1 | 2021-12-05 13:59:17+00:00 | 123 | 0 | TypeScript | 0 | [] |
 | krishpranav/kernelexploits | Various Kernel Exploits For Linux And Windows | https://github.com/krishpranav/kernelexploits | ['exploit'] | 1 | 2021-12-05 06:26:31+00:00 | 11 | 0 | C | 0 | [] |
 | Y1LD1R1M-1337/Limesurvey-RCE | LimeSurvey Authenticated RCE | https://github.com/Y1LD1R1M-1337/Limesurvey-RCE | ['rce'] | 1 | 2021-12-05 16:01:32+00:00 | 6 | 0 | PHP | 0 | [] |
-| kitki30/CatSploit | CatSploit Roblox Executor | https://github.com/kitki30/CatSploit | ['sploit'] | 1 | 2021-12-05 11:35:29+00:00 | 7778 | 0 | | 0 | [] |
 | tricksterwasnthere/cadmium | roblox rootkit exploit, Synapse X only | https://github.com/tricksterwasnthere/cadmium | ['exploit'] | 1 | 2021-12-05 03:57:06+00:00 | 434 | 1 | Lua | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-12-05 04:45:16+00:00 | 27111 | 8543 | Python | 1473 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-05 04:40:10+00:00 | 16 | 0 | Python | 0 | [] |
 | luijait/SLmail5.5-Exploit-BoF | Buffer Overflow para SLmail5.5 32 bits | https://github.com/luijait/SLmail5.5-Exploit-BoF | ['exploit'] | 1 | 2021-12-05 02:11:58+00:00 | 12 | 14 | Python | 0 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-05 08:13:29+00:00 | 1627 | 47 | Java | 12 | [] |
@@ -26,10 +26,12 @@
 | bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2021-12-05 21:01:38+00:00 | 39 | 0 | Go | 0 | [] |
 | peace27-96/Router-Vulnerability-Scan-Tool | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | ['exploit'] | 1 | 2021-12-05 18:40:25+00:00 | 37 | 0 | CSS | 0 | [] |
 | MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-05 21:19:24+00:00 | 54 | 0 | C | 0 | [] |
+| Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-12-05 17:15:50+00:00 | 40 | 0 | Lua | 0 | [] |
 | quwaisploit/exploitdb | None | https://github.com/quwaisploit/exploitdb | ['exploit'] | 1 | 2021-12-05 05:10:17+00:00 | 0 | 0 | Python | 0 | [] |
 | quwaisploit/Zeroday | None | https://github.com/quwaisploit/Zeroday | ['zeroday'] | 1 | 2021-12-05 05:21:11+00:00 | 0 | 0 | PHP | 0 | [] |
 | sudaiv/CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-05 05:22:09+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-41081'] |
-| luijait/Vsftpd-2.3.4-Exploit | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | ['exploit'] | 1 | 2021-12-05 15:31:20+00:00 | 0 | 1 | Python | 0 | [] |
+| sachinthaBS/Heap-based-buffer-overflow | None | https://github.com/sachinthaBS/Heap-based-buffer-overflow | ['heap overflow'] | 1 | 2021-12-05 05:40:12+00:00 | 382 | 0 | nan | 0 | [] |
+| triple3567/MetasploitCTF | None | https://github.com/triple3567/MetasploitCTF | ['metasploit module OR payload'] | 1 | 2021-12-05 20:27:09+00:00 | 0 | 0 | HTML | 0 | [] |
 | retrohacking/RSAcma | Exploit for the Common Modulus Vulnerability of RSA | https://github.com/retrohacking/RSAcma | ['exploit'] | 1 | 2021-12-05 20:18:13+00:00 | 0 | 0 | Python | 0 | [] |
 | darkweb33/GH-Hacking-Tools-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/darkweb33/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-12-05 19:30:43+00:00 | 0 | 0 | | 0 | [] |
 | darkweb33/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/darkweb33/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-12-05 19:16:39+00:00 | 0 | 1 | | 0 | [] |
@@ -38,8 +40,8 @@
 | disjcordLAMO/XYZ-roblox-exploit | the best free roblox exploit with krnl api and animatet | https://github.com/disjcordLAMO/XYZ-roblox-exploit | ['exploit'] | 1 | 2021-12-05 16:24:53+00:00 | 0 | 0 | | 0 | [] |
 | kelcheone/ethernaut_ctf | exploiting ethernaut contracts using solidity but not with javascript | https://github.com/kelcheone/ethernaut_ctf | ['exploit'] | 1 | 2021-12-05 16:14:08+00:00 | 0 | 0 | Shell | 0 | [] |
 | Kudratliishere/HeapOverflow | None | https://github.com/Kudratliishere/HeapOverflow | ['heap overflow'] | 1 | 2021-12-05 15:48:11+00:00 | 0 | 0 | nan | 0 | [] |
-| trevorsaudi/Heap-Exploitation | A deep dive into dynamic memory allocation, structs, objects and heap overflows | https://github.com/trevorsaudi/Heap-Exploitation | ['exploit', 'heap overflow'] | 2 | 2021-12-05 15:24:52+00:00 | 0 | 0 | | 0 | [] |
-| sachinthaBS/Heap-based-buffer-overflow | None | https://github.com/sachinthaBS/Heap-based-buffer-overflow | ['heap overflow'] | 1 | 2021-12-05 05:40:12+00:00 | 382 | 0 | nan | 0 | [] |
+| luijait/Vsftpd-2.3.4-Exploit | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | ['exploit'] | 1 | 2021-12-05 15:31:20+00:00 | 0 | 1 | Python | 0 | [] |
+| trevorsaudi/Heap-Exploitation | A deep dive into dynamic memory allocation, structs, objects and heap overflows | https://github.com/trevorsaudi/Heap-Exploitation | ['exploit', 'heap overflow'] | 2 | 2021-12-05 15:24:52+00:00 | 0 | 0 | nan | 0 | [] |
 | Noxipom12/exploit.com | None | https://github.com/Noxipom12/exploit.com | ['exploit'] | 1 | 2021-12-05 14:55:58+00:00 | 0 | 0 | HTML | 0 | [] |
 | fumamatar/NimNightmare | CVE-2021-1675 LPE PoC in Nim (PrintNightmare Local Privilege Escalation) | https://github.com/fumamatar/NimNightmare | ['cve poc'] | 1 | 2021-12-05 14:51:28+00:00 | 0 | 1 | Nim | 1 | ['CVE-2021-1675'] |
 | IvarsLevans/Solidity-Exploits | None | https://github.com/IvarsLevans/Solidity-Exploits | ['exploit'] | 1 | 2021-12-05 14:07:35+00:00 | 0 | 0 | | 0 | [] |
@@ -48,12 +50,12 @@
 | Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-05 10:24:57+00:00 | 0 | 0 | | 0 | [] |
 | jhhua/CsOrMsfBypassAv | I wrote a C++ project for metasploit or CobaltStrike | https://github.com/jhhua/CsOrMsfBypassAv | ['metasploit module OR payload'] | 1 | 2021-12-05 08:39:53+00:00 | 0 | 0 | | 0 | [] |
 | Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-05 08:21:49+00:00 | 0 | 0 | TypeScript | 0 | [] |
-| Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-12-05 17:15:50+00:00 | 40 | 0 | Lua | 0 | [] |
+| lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-05 18:16:24+00:00 | 1995 | 0 | Python | 0 | [] |
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-05 18:43:09+00:00 | 1 | 0 | Jupyter Notebook | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-12-05 04:45:16+00:00 | 27111 | 8543 | Python | 1473 | [] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2021-12-05 20:28:03+00:00 | 15 | 1 | Python | 0 | [] |
-| EntySec/HatVenom | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | ['exploit', 'shellcode'] | 2 | 2021-12-05 21:35:42+00:00 | 427 | 60 | Python | 18 | [] |
+| DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-12-05 00:51:49+00:00 | 130 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-05 04:02:00+00:00 | 91858 | 255 | Python | 78 | [] |
+| vLeeH/httpmapper | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | ['exploit'] | 1 | 2021-12-05 22:33:07+00:00 | 1370 | 15 | Python | 4 | [] |
 | hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-12-05 09:10:23+00:00 | 320 | 126 | | 49 | [] |
 | hackarmour/reverse-engineering | Some resources and challenges related to reverse emgineering and binary exploitation | https://github.com/hackarmour/reverse-engineering | ['exploit'] | 1 | 2021-12-05 08:42:09+00:00 | 9 | 1 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-05 00:03:43+00:00 | 426147 | 35 | | 19 | [] |
@@ -71,20 +73,20 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-05 11:35:03+00:00 | 71396 | 10394 | Jupyter Notebook | 1793 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-05 00:06:33+00:00 | 1534768 | 1536 | Python | 524 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-05 12:37:11+00:00 | 12387 | 4142 | Python | 594 | [] |
-| DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-12-05 00:51:49+00:00 | 130 | 0 | | 0 | [] |
+| EntySec/HatVenom | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | ['exploit', 'shellcode'] | 2 | 2021-12-05 21:35:42+00:00 | 427 | 60 | Python | 18 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2021-12-05 00:31:13+00:00 | 64 | 0 | Lua | 0 | [] |
-| Android1337/Fortnite-Exploits | Jus some mini fortnite exploits | https://github.com/Android1337/Fortnite-Exploits | ['exploit'] | 1 | 2021-12-05 15:59:40+00:00 | 9 | 5 | | 4 | [] |
-| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-05 13:02:09+00:00 | 71 | 1 | Python | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-05 05:13:37+00:00 | 1031 | 225 | Python | 40 | [] |
+| Android1337/Fortnite-Exploits | Jus some mini fortnite exploits | https://github.com/Android1337/Fortnite-Exploits | ['exploit'] | 1 | 2021-12-05 15:59:40+00:00 | 9 | 5 | | 4 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-05 18:10:15+00:00 | 77 | 4 | | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-05 06:36:19+00:00 | 11184 | 1 | Lua | 0 | [] |
 | in-future-world/GH-Hacking-Tools-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/in-future-world/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-12-05 20:20:41+00:00 | 5 | 2 | | 0 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-12-05 20:21:03+00:00 | 5 | 2 | | 0 | [] |
+| R3zk0n/sploitations | Directory for random Infosec sploitations.. | https://github.com/R3zk0n/sploitations | ['sploit'] | 1 | 2021-12-05 22:32:18+00:00 | 174654 | 0 | Python | 0 | [] |
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-12-05 09:53:52+00:00 | 4390 | 1 | Python | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-12-05 21:32:20+00:00 | 18501 | 2 | Rust | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-05 00:47:35+00:00 | 269 | 20 | JavaScript | 15 | [] |
+| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-05 13:02:09+00:00 | 71 | 1 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-05 00:14:48+00:00 | 950 | 258 | JavaScript | 487 | [] |
-| crypt0n-root/powershell-backdoor | Poweshell backdoor metasploit | https://github.com/crypt0n-root/powershell-backdoor | ['metasploit module OR payload'] | 1 | 2021-12-05 10:56:04+00:00 | 851 | 0 | PowerShell | 0 | [] |
 | Tescoo/discord-vc-lag-exploit | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | ['exploit'] | 1 | 2021-12-05 02:17:22+00:00 | 23 | 8 | Python | 1 | [] |
 | hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-05 05:21:54+00:00 | 10056 | 1 | Shell | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-12-05 00:06:43+00:00 | 218783 | 12 | PowerShell | 6 | [] |
@@ -93,4 +95,5 @@
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-12-05 10:21:17+00:00 | 28798 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-05 01:14:49+00:00 | 17933 | 2 | Python | 0 | [] |
 | robertguetzkow/ets5-password-recovery | ETS5 Password Recovery Tool is a PoC for CVE-2021-36799 | https://github.com/robertguetzkow/ets5-password-recovery | ['cve poc'] | 1 | 2021-12-05 11:27:08+00:00 | 121 | 15 | C# | 3 | ['CVE-2021-36799'] |
-| triple3567/MetasploitCTF | None | https://github.com/triple3567/MetasploitCTF | ['metasploit module OR payload'] | 1 | 2021-12-05 20:27:09+00:00 | 0 | 0 | HTML | 0 | [] |
+| crypt0n-root/powershell-backdoor | Poweshell backdoor metasploit | https://github.com/crypt0n-root/powershell-backdoor | ['metasploit module OR payload'] | 1 | 2021-12-05 10:56:04+00:00 | 851 | 0 | PowerShell | 0 | [] |
+| Monst3red/Discord-GhostPing | Ghostping exploit | https://github.com/Monst3red/Discord-GhostPing | ['exploit'] | 1 | 2021-12-05 22:29:44+00:00 | 0 | 0 | Python | 0 | [] |
