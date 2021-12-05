@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+435269786,triple3567/MetasploitCTF,_i7/5/response.dat,076e5830b59b7ca666b60aafaa628082ec332214,VU#80
+435269786,triple3567/MetasploitCTF,_i8/0/response.js,10b13442272254dc1969b667bf728daf4b4d56d5,VU#80
+435269786,triple3567/MetasploitCTF,_i7/5/response.js,9d8465e151e064c223efd339c897d422aee80c5e,VU#80
+435269786,triple3567/MetasploitCTF,_i8/0/response.dat,c921ea01b7ae3103c7ba1f7ce2c9df8f216b9439,VU#80
