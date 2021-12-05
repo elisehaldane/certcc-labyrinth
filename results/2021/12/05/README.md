@@ -1,12 +1,14 @@
 
 # Summary for results/2021/12/05
     
-27 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-05 00:17:01+00:00 | 200469 | 254 | Ruby | 78 | [] |
-| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-05 06:36:19+00:00 | 11184 | 1 | Lua | 0 | [] |
+| grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-12-05 01:15:50+00:00 | 382877 | 1 | C++ | 0 | [] |
+| Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-05 08:21:49+00:00 | 0 | 0 | TypeScript | 0 | [] |
+| sachinthaBS/Heap-based-buffer-overflow | nan | https://github.com/sachinthaBS/Heap-based-buffer-overflow | ['heap overflow'] | 1 | 2021-12-05 05:40:12+00:00 | 382 | 0 | nan | 0 | [] |
 | sudaiv/CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-05 05:22:09+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-41081'] |
 | quwaisploit/Zeroday | None | https://github.com/quwaisploit/Zeroday | ['zeroday'] | 1 | 2021-12-05 05:21:11+00:00 | 0 | 0 | PHP | 0 | [] |
 | quwaisploit/exploitdb | None | https://github.com/quwaisploit/exploitdb | ['exploit'] | 1 | 2021-12-05 05:10:17+00:00 | 0 | 0 | Python | 0 | [] |
@@ -17,9 +19,10 @@
 | tricksterwasnthere/cadmium | roblox rootkit exploit, Synapse X only | https://github.com/tricksterwasnthere/cadmium | ['exploit'] | 1 | 2021-12-05 03:57:06+00:00 | 434 | 1 | Lua | 0 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-05 04:40:10+00:00 | 16 | 0 | Python | 0 | [] |
 | luijait/SLmail5.5-Exploit-BoF | Buffer Overflow para SLmail5.5 32 bits | https://github.com/luijait/SLmail5.5-Exploit-BoF | ['exploit'] | 1 | 2021-12-05 02:11:58+00:00 | 12 | 14 | Python | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-05 08:13:29+00:00 | 1627 | 47 | Java | 12 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-05 05:13:37+00:00 | 1031 | 225 | Python | 40 | [] |
+| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-05 06:36:19+00:00 | 11184 | 1 | Lua | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-05 00:47:35+00:00 | 269 | 20 | JavaScript | 15 | [] |
-| grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-12-05 01:15:50+00:00 | 382877 | 1 | C++ | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-05 00:14:48+00:00 | 950 | 258 | JavaScript | 487 | [] |
 | Tescoo/discord-vc-lag-exploit | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | ['exploit'] | 1 | 2021-12-05 02:17:22+00:00 | 23 | 8 | Python | 1 | [] |
 | hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-05 05:21:54+00:00 | 10056 | 1 | Shell | 0 | [] |
@@ -31,4 +34,4 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-05 00:03:43+00:00 | 426147 | 35 | | 19 | [] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-12-05 04:58:42+00:00 | 36600 | 428 | C++ | 64 | [] |
 | slrbl/human-in-the-loop-machine-learning-tool-tornado | Tornado is a human-in-the-loop machine learning framework that helps you exploit your unlabelled data to train models through a simple and easy to use web interface. | https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado | ['exploit'] | 1 | 2021-12-05 00:19:56+00:00 | 157520 | 21 | Ruby | 8 | [] |
-| sachinthaBS/Heap-based-buffer-overflow | nan | https://github.com/sachinthaBS/Heap-based-buffer-overflow | ['heap overflow'] | 1 | 2021-12-05 05:40:12+00:00 | 382 | 0 | nan | 0 | [] |
+| jhhua/CsOrMsfBypassAv | I wrote a C++ project for metasploit or CobaltStrike | https://github.com/jhhua/CsOrMsfBypassAv | ['metasploit module OR payload'] | 1 | 2021-12-05 08:39:53+00:00 | 0 | 0 | | 0 | [] |
