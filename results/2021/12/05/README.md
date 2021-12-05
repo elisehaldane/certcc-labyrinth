@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/05
     
-45 records found after deduplication
+48 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-05 12:37:11+00:00 | 12387 | 4142 | Python | 594 | [] |
-| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-05 00:47:35+00:00 | 269 | 20 | JavaScript | 15 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-05 00:06:33+00:00 | 1534768 | 1536 | Python | 524 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-05 06:36:19+00:00 | 11184 | 1 | Lua | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-05 05:13:37+00:00 | 1031 | 225 | Python | 40 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-05 08:13:29+00:00 | 1627 | 47 | Java | 12 | [] |
@@ -26,10 +26,12 @@
 | sachinthaBS/Heap-based-buffer-overflow | nan | https://github.com/sachinthaBS/Heap-based-buffer-overflow | ['heap overflow'] | 1 | 2021-12-05 05:40:12+00:00 | 382 | 0 | nan | 0 | [] |
 | Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-05 08:21:49+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | jhhua/CsOrMsfBypassAv | I wrote a C++ project for metasploit or CobaltStrike | https://github.com/jhhua/CsOrMsfBypassAv | ['metasploit module OR payload'] | 1 | 2021-12-05 08:39:53+00:00 | 0 | 0 | | 0 | [] |
+| Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-05 10:24:57+00:00 | 0 | 0 | | 0 | [] |
+| avkspog/zeroday | It's the telegram bot who check an air temperature | https://github.com/avkspog/zeroday | ['zeroday'] | 1 | 2021-12-05 12:55:45+00:00 | 0 | 0 | | 0 | [] |
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-12-05 09:53:52+00:00 | 4390 | 1 | Python | 0 | [] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-05 00:14:48+00:00 | 950 | 258 | JavaScript | 487 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-05 00:06:33+00:00 | 1534768 | 1536 | Python | 524 | [] |
-| Tescoo/discord-vc-lag-exploit | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | ['exploit'] | 1 | 2021-12-05 02:17:22+00:00 | 23 | 8 | Python | 1 | [] |
+| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-05 00:47:35+00:00 | 269 | 20 | JavaScript | 15 | [] |
+| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-05 13:02:09+00:00 | 71 | 1 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-05 04:02:00+00:00 | 91858 | 255 | Python | 78 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-05 11:35:03+00:00 | 71396 | 10394 | Jupyter Notebook | 1793 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-05 00:17:01+00:00 | 200469 | 254 | Ruby | 78 | [] |
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-12-05 01:15:50+00:00 | 382877 | 1 | C++ | 0 | [] |
@@ -39,8 +41,8 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-05 00:03:43+00:00 | 426147 | 35 | | 19 | [] |
 | hackarmour/reverse-engineering | Some resources and challenges related to reverse emgineering and binary exploitation | https://github.com/hackarmour/reverse-engineering | ['exploit'] | 1 | 2021-12-05 08:42:09+00:00 | 9 | 1 | | 0 | [] |
 | hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-12-05 09:10:23+00:00 | 320 | 126 | | 49 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-05 04:02:00+00:00 | 91858 | 255 | Python | 78 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2021-12-05 00:51:49+00:00 | 130 | 0 | | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-05 00:14:48+00:00 | 950 | 258 | JavaScript | 487 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2021-12-05 00:31:13+00:00 | 64 | 0 | Lua | 0 | [] |
 | crypt0n-root/powershell-backdoor | Poweshell backdoor metasploit | https://github.com/crypt0n-root/powershell-backdoor | ['metasploit module OR payload'] | 1 | 2021-12-05 10:56:04+00:00 | 851 | 0 | PowerShell | 0 | [] |
 | robertguetzkow/ets5-password-recovery | ETS5 Password Recovery Tool is a PoC for CVE-2021-36799 | https://github.com/robertguetzkow/ets5-password-recovery | ['cve poc'] | 1 | 2021-12-05 11:27:08+00:00 | 121 | 15 | C# | 3 | ['CVE-2021-36799'] |
@@ -49,4 +51,5 @@
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-12-05 12:30:50+00:00 | 127 | 2 | | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-12-05 00:06:43+00:00 | 218783 | 12 | PowerShell | 6 | [] |
 | hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-05 05:21:54+00:00 | 10056 | 1 | Shell | 0 | [] |
-| Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-05 10:24:57+00:00 | 0 | 0 | | 0 | [] |
+| Tescoo/discord-vc-lag-exploit | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | ['exploit'] | 1 | 2021-12-05 02:17:22+00:00 | 23 | 8 | Python | 1 | [] |
+| Shade-Productions/Utility | Mutli-API ROBLOX exploit. | https://github.com/Shade-Productions/Utility | ['exploit'] | 1 | 2021-12-05 13:31:13+00:00 | 0 | 0 | | 0 | [] |
