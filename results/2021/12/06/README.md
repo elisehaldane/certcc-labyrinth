@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/06
     
-101 records found after deduplication
+102 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -18,7 +18,7 @@
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-06 09:42:18+00:00 | 2000 | 0 | Python | 0 | [] |
 | glugeorge/rces-project | None | https://github.com/glugeorge/rces-project | ['rce'] | 1 | 2021-12-06 18:35:56+00:00 | 408 | 0 | Jupyter Notebook | 0 | [] |
 | P-DennyGamingYT/PDennSploit-Pro | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-12-06 02:01:40+00:00 | 34 | 0 | | 0 | [] |
-| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-06 13:33:25+00:00 | 124 | 9 | Python | 0 | [] |
+| fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 00:19:38+00:00 | 0 | 0 | Python | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-06 10:39:52+00:00 | 144 | 0 | Java | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-06 18:09:58+00:00 | 78 | 4 | | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-06 02:31:53+00:00 | 11186 | 1 | Lua | 0 | [] |
@@ -30,9 +30,9 @@
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-06 20:14:38+00:00 | 4206 | 0 | JavaScript | 0 | [] |
 | bangalia/Jinja2-ExploitMe | None | https://github.com/bangalia/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-06 01:05:50+00:00 | 66 | 0 | HTML | 0 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-06 04:36:29+00:00 | 23 | 0 | Python | 0 | [] |
-| fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 00:19:38+00:00 | 0 | 0 | Python | 0 | [] |
 | Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-06 16:57:01+00:00 | 17 | 0 | TypeScript | 0 | [] |
-| Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-06 01:47:04+00:00 | 13 | 1 | Python | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-12-06 17:21:40+00:00 | 3811 | 2540 | PowerShell | 733 | [] |
+| DivGitHub/MarSploit | None | https://github.com/DivGitHub/MarSploit | ['sploit'] | 1 | 2021-12-06 13:20:02+00:00 | 0 | 0 | | 0 | [] |
 | ahmadshahrour951/Jinja2-ExploitMe | None | https://github.com/ahmadshahrour951/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-06 21:13:17+00:00 | 0 | 0 | HTML | 0 | [] |
 | thpless/CVE-2018-6574 | None | https://github.com/thpless/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2021-12-06 20:19:16+00:00 | 0 | 0 | C | 0 | ['CVE-2018-6574'] |
 | dorkerdevil/LongTail-AMF | vcenter AMF object deserialization exploit | https://github.com/dorkerdevil/LongTail-AMF | ['exploit'] | 1 | 2021-12-06 19:32:28+00:00 | 0 | 0 | Python | 0 | [] |
@@ -43,8 +43,8 @@
 | darkspider33/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/darkspider33/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-12-06 16:06:33+00:00 | 0 | 1 | | 0 | [] |
 | HOLYshitIjustWANTaNAMEFFFFFFFuck/CNVD-2021-30167 | YONYOU NC CNVD-2021-30167 批量检测脚本 | https://github.com/HOLYshitIjustWANTaNAMEFFFFFFFuck/CNVD-2021-30167 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-06 15:10:55+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-30167'] |
 | robhughes72/compiled_tools | Statically Compiled Binaries for Post Exploitation Activities | https://github.com/robhughes72/compiled_tools | ['exploit'] | 1 | 2021-12-06 13:43:54+00:00 | 0 | 0 | PowerShell | 0 | [] |
-| DivGitHub/MarSploit | None | https://github.com/DivGitHub/MarSploit | ['sploit'] | 1 | 2021-12-06 13:20:02+00:00 | 0 | 0 | | 0 | [] |
 | puf17640/metamask-approval-hygiene | With the latest Badger exploit let's talk about Metamask approval hygiene | https://github.com/puf17640/metamask-approval-hygiene | ['exploit'] | 1 | 2021-12-06 12:32:21+00:00 | 0 | 0 | | 0 | [] |
+| Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-06 01:47:04+00:00 | 13 | 1 | Python | 0 | [] |
 | 0x1CA3/syringe | A DLL & Code Injection C++ library for Windows. | https://github.com/0x1CA3/syringe | ['shellcode'] | 1 | 2021-12-06 14:53:26+00:00 | 183 | 0 | C++ | 0 | [] |
 | kezenaren/metasploit | metasploit framework | https://github.com/kezenaren/metasploit | ['metasploit module OR payload'] | 1 | 2021-12-06 10:51:14+00:00 | 0 | 0 | | 0 | [] |
 | Dantesinferno2016/Elli_s-5672-Expose-CW | Elli_s#5672, the most generally untrustworthy person as a mod/admin for basically any community, also a jerk as that as well (If you want this pastebin to be taken down, for any big/massive reasons or if im completely wrong, i will take it down at decretio | https://github.com/Dantesinferno2016/Elli_s-5672-Expose-CW | ['exploit'] | 1 | 2021-12-06 10:32:21+00:00 | 0 | 0 | | 0 | [] |
@@ -53,10 +53,11 @@
 | AmirLouktaila/Install_metasploit | Install_metasploit_on_termux | https://github.com/AmirLouktaila/Install_metasploit | ['metasploit module OR payload'] | 1 | 2021-12-06 06:26:20+00:00 | 0 | 0 | Python | 0 | [] |
 | okn0315/exploitcode | None | https://github.com/okn0315/exploitcode | ['exploit'] | 1 | 2021-12-06 05:01:51+00:00 | 0 | 0 | | 0 | [] |
 | smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-06 02:15:27+00:00 | 0 | 0 | Python | 0 | [] |
+| RooverPY/RooverCord | Discord SelfBot & Exploit Injector | https://github.com/RooverPY/RooverCord | ['exploit'] | 1 | 2021-12-06 23:06:19+00:00 | 100 | 1 | Python | 1 | [] |
 | avkspog/zeroday | It's the telegram bot that check an air temperature | https://github.com/avkspog/zeroday | ['zeroday'] | 1 | 2021-12-06 16:49:15+00:00 | 0 | 0 | Go | 0 | [] |
 | Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-06 07:05:57+00:00 | 124 | 0 | Lua | 0 | [] |
+| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-06 13:33:25+00:00 | 124 | 9 | Python | 0 | [] |
 | Vulnmachines/cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-12-06 19:12:24+00:00 | 3 | 30 | | 10 | ['CVE-2021-41773'] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-12-06 17:21:40+00:00 | 3811 | 2540 | PowerShell | 733 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-06 03:22:10+00:00 | 4016 | 2174 | Python | 622 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-12-06 12:38:21+00:00 | 149 | 0 | Python | 0 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2021-12-06 20:37:49+00:00 | 27603 | 39 | Shell | 18 | [] |
