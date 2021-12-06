@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/06
     
-11 records found after deduplication
+15 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -12,7 +12,11 @@
 | tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-06 01:13:14+00:00 | 89 | 0 | PHP | 0 | [] |
 | S4R1N/AlternativeShellcodeExec | Alternative Shellcode Execution Via Callbacks | https://github.com/S4R1N/AlternativeShellcodeExec | ['shellcode'] | 1 | 2021-12-06 00:45:41+00:00 | 203 | 546 | C++ | 119 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-06 01:10:17+00:00 | 18704 | 2 | Python | 0 | [] |
+| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-12-06 02:23:07+00:00 | 702 | 0 | Python | 0 | [] |
 | bangalia/Jinja2-ExploitMe | None | https://github.com/bangalia/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-06 01:05:50+00:00 | 66 | 0 | HTML | 0 | [] |
 | K1B0R/K1B0R-Framework | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any q | https://github.com/K1B0R/K1B0R-Framework | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 01:30:56+00:00 | 72 | 1 | Python | 0 | [] |
+| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-06 02:31:53+00:00 | 11186 | 1 | Lua | 0 | [] |
+| P-DennyGamingYT/PDennSploit-Pro | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-12-06 02:01:40+00:00 | 34 | 0 | | 0 | [] |
 | fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 00:19:38+00:00 | 0 | 0 | Python | 0 | [] |
 | Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-06 01:47:04+00:00 | 13 | 1 | Python | 0 | [] |
+| smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-06 02:15:27+00:00 | 0 | 0 | Python | 0 | [] |
