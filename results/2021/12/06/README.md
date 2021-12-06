@@ -1,13 +1,12 @@
 
 # Summary for results/2021/12/06
     
-52 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-06 08:19:16+00:00 | 659980 | 25760 | Ruby | 11777 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-06 00:06:33+00:00 | 1534768 | 1536 | Python | 524 | [] |
-| Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-06 07:05:57+00:00 | 124 | 0 | Lua | 0 | [] |
+| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-06 13:33:25+00:00 | 124 | 9 | Python | 0 | [] |
 | bangalia/Jinja2-ExploitMe | None | https://github.com/bangalia/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-06 01:05:50+00:00 | 66 | 0 | HTML | 0 | [] |
 | K1B0R/K1B0R-Framework | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any q | https://github.com/K1B0R/K1B0R-Framework | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 01:30:56+00:00 | 72 | 1 | Python | 0 | [] |
 | badboycxcc/CVE-2021-43469 | CVE-2021-43469 | https://github.com/badboycxcc/CVE-2021-43469 | ['cve-2 OR cve_2'] | 1 | 2021-12-06 12:21:02+00:00 | 822 | 0 | | 0 | ['CVE-2021-43469'] |
@@ -16,8 +15,10 @@
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-06 02:31:53+00:00 | 11186 | 1 | Lua | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-06 10:39:52+00:00 | 144 | 0 | Java | 0 | [] |
 | P-DennyGamingYT/PDennSploit-Pro | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-12-06 02:01:40+00:00 | 34 | 0 | | 0 | [] |
+| SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-06 14:13:56+00:00 | 1466 | 0 | Jupyter Notebook | 0 | [] |
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-06 09:42:18+00:00 | 2000 | 0 | Python | 0 | [] |
 | Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-12-06 03:46:31+00:00 | 61 | 0 | Lua | 0 | [] |
+| alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2021-12-06 14:34:05+00:00 | 22097 | 0 | CSS | 0 | [] |
 | rytma/automating_metasploit | automating metasploit using rpc daemon | https://github.com/rytma/automating_metasploit | ['metasploit module OR payload'] | 1 | 2021-12-06 10:50:09+00:00 | 2 | 0 | Python | 1 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-06 04:36:29+00:00 | 23 | 0 | Python | 0 | [] |
 | fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 00:19:38+00:00 | 0 | 0 | Python | 0 | [] |
@@ -30,10 +31,12 @@
 | Dantesinferno2016/Elli_s-5672-Expose-CW | Elli_s#5672, the most generally untrustworthy person as a mod/admin for basically any community, also a jerk as that as well (If you want this pastebin to be taken down, for any big/massive reasons or if im completely wrong, i will take it down at decretio | https://github.com/Dantesinferno2016/Elli_s-5672-Expose-CW | ['exploit'] | 1 | 2021-12-06 10:32:21+00:00 | 0 | 0 | | 0 | [] |
 | kezenaren/metasploit | metasploit framework | https://github.com/kezenaren/metasploit | ['metasploit module OR payload'] | 1 | 2021-12-06 10:51:14+00:00 | 0 | 0 | | 0 | [] |
 | puf17640/metamask-approval-hygiene | With the latest Badger exploit let's talk about Metamask approval hygiene | https://github.com/puf17640/metamask-approval-hygiene | ['exploit'] | 1 | 2021-12-06 12:32:21+00:00 | 0 | 0 | | 0 | [] |
-| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-06 13:33:25+00:00 | 124 | 9 | Python | 0 | [] |
+| DivGitHub/MarSploit | None | https://github.com/DivGitHub/MarSploit | ['sploit'] | 1 | 2021-12-06 13:20:02+00:00 | 0 | 0 | | 0 | [] |
+| Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-06 07:05:57+00:00 | 124 | 0 | Lua | 0 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-12-06 02:23:07+00:00 | 702 | 0 | Python | 0 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-06 13:56:49+00:00 | 12430 | 4144 | Python | 595 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-06 06:51:49+00:00 | 966 | 261 | JavaScript | 492 | [] |
-| chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-12-06 07:34:47+00:00 | 1021 | 6 | Shell | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-06 00:06:33+00:00 | 1534768 | 1536 | Python | 524 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-06 07:29:18+00:00 | 5759 | 3005 | Python | 666 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-06 11:35:04+00:00 | 71499 | 10404 | Jupyter Notebook | 1794 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-06 00:17:00+00:00 | 202001 | 254 | Ruby | 78 | [] |
@@ -44,8 +47,9 @@
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-06 03:22:10+00:00 | 4016 | 2174 | Python | 622 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-06 10:18:52+00:00 | 35353 | 6155 | Vue | 1306 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-06 06:45:43+00:00 | 8481 | 25 | | 15 | [] |
+| chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-12-06 07:34:47+00:00 | 1021 | 6 | Shell | 0 | [] |
+| DeuxEx/LogAnalyzer | LogAnalyzer (for Entropia Universe logfile) (MMO RCE) | https://github.com/DeuxEx/LogAnalyzer | ['rce'] | 1 | 2021-12-06 13:50:04+00:00 | 1804 | 2 | | 0 | [] |
 | FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-12-06 07:46:26+00:00 | 171 | 315 | C# | 74 | [] |
-| HauLiang/FFT-DFISTA-and-FFT-DADMM | High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map | https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM | ['exploit'] | 1 | 2021-12-06 03:15:06+00:00 | 14 | 3 | MATLAB | 0 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-12-06 12:38:21+00:00 | 149 | 0 | Python | 0 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2021-12-06 07:48:05+00:00 | 201268 | 141 | C | 30 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-06 00:03:38+00:00 | 426971 | 35 | | 20 | [] |
@@ -56,4 +60,5 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-06 04:01:50+00:00 | 92406 | 256 | Python | 78 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-06 01:10:17+00:00 | 18704 | 2 | Python | 0 | [] |
 | Balasys/dheater | D(HE)ater is a proof of concept implementation of the D(HE)at attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the DHE key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'cve poc', 'exploit', 'vulnerability poc'] | 4 | 2021-12-06 11:35:46+00:00 | 74 | 77 | Python | 8 | ['CVE-2002-20001'] |
-| DivGitHub/MarSploit | None | https://github.com/DivGitHub/MarSploit | ['sploit'] | 1 | 2021-12-06 13:20:02+00:00 | 0 | 0 | | 0 | [] |
+| HauLiang/FFT-DFISTA-and-FFT-DADMM | High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map | https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM | ['exploit'] | 1 | 2021-12-06 03:15:06+00:00 | 14 | 3 | MATLAB | 0 | [] |
+| robhughes72/compiled_tools | Statically Compiled Binaries for Post Exploitation Activities | https://github.com/robhughes72/compiled_tools | ['exploit'] | 1 | 2021-12-06 13:43:54+00:00 | 0 | 0 | PowerShell | 0 | [] |
