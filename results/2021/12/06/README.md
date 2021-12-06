@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/06
     
-99 records found after deduplication
+101 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-06 08:19:16+00:00 | 659980 | 25760 | Ruby | 11777 | [] |
-| GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-06 04:36:29+00:00 | 23 | 0 | Python | 0 | [] |
+| SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-06 14:13:56+00:00 | 1466 | 0 | Jupyter Notebook | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-06 15:04:03+00:00 | 1627 | 48 | Java | 12 | [] |
 | rytma/automating_metasploit | automating metasploit using rpc daemon | https://github.com/rytma/automating_metasploit | ['metasploit module OR payload'] | 1 | 2021-12-06 10:50:09+00:00 | 2 | 0 | Python | 1 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-12-06 20:18:09+00:00 | 33 | 0 | C | 0 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2021-12-06 14:34:05+00:00 | 22097 | 0 | CSS | 0 | [] |
@@ -16,8 +17,8 @@
 | Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-12-06 03:46:31+00:00 | 61 | 0 | Lua | 0 | [] |
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-06 09:42:18+00:00 | 2000 | 0 | Python | 0 | [] |
 | glugeorge/rces-project | None | https://github.com/glugeorge/rces-project | ['rce'] | 1 | 2021-12-06 18:35:56+00:00 | 408 | 0 | Jupyter Notebook | 0 | [] |
-| SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-06 14:13:56+00:00 | 1466 | 0 | Jupyter Notebook | 0 | [] |
 | P-DennyGamingYT/PDennSploit-Pro | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | ['exploit', 'sploit'] | 2 | 2021-12-06 02:01:40+00:00 | 34 | 0 | | 0 | [] |
+| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-06 13:33:25+00:00 | 124 | 9 | Python | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-06 10:39:52+00:00 | 144 | 0 | Java | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-06 18:09:58+00:00 | 78 | 4 | | 0 | [] |
 | simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-06 02:31:53+00:00 | 11186 | 1 | Lua | 0 | [] |
@@ -28,10 +29,11 @@
 | K1B0R/K1B0R-Framework | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any q | https://github.com/K1B0R/K1B0R-Framework | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 01:30:56+00:00 | 72 | 1 | Python | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-06 20:14:38+00:00 | 4206 | 0 | JavaScript | 0 | [] |
 | bangalia/Jinja2-ExploitMe | None | https://github.com/bangalia/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-06 01:05:50+00:00 | 66 | 0 | HTML | 0 | [] |
-| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-06 15:04:03+00:00 | 1627 | 48 | Java | 12 | [] |
+| GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-06 04:36:29+00:00 | 23 | 0 | Python | 0 | [] |
 | fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-06 00:19:38+00:00 | 0 | 0 | Python | 0 | [] |
-| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-12-06 13:33:25+00:00 | 124 | 9 | Python | 0 | [] |
 | Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-06 16:57:01+00:00 | 17 | 0 | TypeScript | 0 | [] |
+| Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-06 01:47:04+00:00 | 13 | 1 | Python | 0 | [] |
+| ahmadshahrour951/Jinja2-ExploitMe | None | https://github.com/ahmadshahrour951/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-06 21:13:17+00:00 | 0 | 0 | HTML | 0 | [] |
 | thpless/CVE-2018-6574 | None | https://github.com/thpless/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2021-12-06 20:19:16+00:00 | 0 | 0 | C | 0 | ['CVE-2018-6574'] |
 | dorkerdevil/LongTail-AMF | vcenter AMF object deserialization exploit | https://github.com/dorkerdevil/LongTail-AMF | ['exploit'] | 1 | 2021-12-06 19:32:28+00:00 | 0 | 0 | Python | 0 | [] |
 | larm182/Simple-Generador-de-Payload | Script para generar Payload sencillos con Metasploit | https://github.com/larm182/Simple-Generador-de-Payload | ['metasploit module OR payload'] | 1 | 2021-12-06 18:23:14+00:00 | 0 | 0 | Python | 0 | [] |
@@ -52,11 +54,11 @@
 | okn0315/exploitcode | None | https://github.com/okn0315/exploitcode | ['exploit'] | 1 | 2021-12-06 05:01:51+00:00 | 0 | 0 | | 0 | [] |
 | smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-06 02:15:27+00:00 | 0 | 0 | Python | 0 | [] |
 | avkspog/zeroday | It's the telegram bot that check an air temperature | https://github.com/avkspog/zeroday | ['zeroday'] | 1 | 2021-12-06 16:49:15+00:00 | 0 | 0 | Go | 0 | [] |
-| Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-06 01:47:04+00:00 | 13 | 1 | Python | 0 | [] |
 | Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-06 07:05:57+00:00 | 124 | 0 | Lua | 0 | [] |
 | Vulnmachines/cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-12-06 19:12:24+00:00 | 3 | 30 | | 10 | ['CVE-2021-41773'] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-12-06 17:21:40+00:00 | 3811 | 2540 | PowerShell | 733 | [] |
-| Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-12-06 15:07:41+00:00 | 179956 | 344 | Batchfile | 95 | [] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-06 03:22:10+00:00 | 4016 | 2174 | Python | 622 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-12-06 12:38:21+00:00 | 149 | 0 | Python | 0 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2021-12-06 20:37:49+00:00 | 27603 | 39 | Shell | 18 | [] |
 | samolego/GolfIV | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | ['exploit'] | 1 | 2021-12-06 18:35:45+00:00 | 1131 | 29 | Java | 5 | [] |
 | FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-12-06 07:46:26+00:00 | 171 | 315 | C# | 74 | [] |
@@ -66,8 +68,8 @@
 | Patrowl/PatrowlHears | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | ['exploit'] | 1 | 2021-12-06 15:14:46+00:00 | 499138 | 112 | Python | 37 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-06 06:45:43+00:00 | 8481 | 25 | | 15 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-06 10:18:52+00:00 | 35353 | 6155 | Vue | 1306 | [] |
-| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-06 03:22:10+00:00 | 4016 | 2174 | Python | 622 | [] |
 | robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2021-12-06 08:41:12+00:00 | 199 | 3 | | 1 | ['CVE-2018-19788'] |
+| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-06 15:10:51+00:00 | 72 | 1 | Python | 0 | [] |
 | vitor-fernandes/exploits | None | https://github.com/vitor-fernandes/exploits | ['exploit'] | 1 | 2021-12-06 01:28:38+00:00 | 28 | 2 | JavaScript | 0 | [] |
 | gionanide/Speech_Signal_Processing_and_Classification | Front-end speech processing aims at extracting proper features from short- term segments of a speech utterance, known as frames. It is a pre-requisite step toward any pattern recognition problem employing speech or audio (e.g., music). Here, we are interes | https://github.com/gionanide/Speech_Signal_Processing_and_Classification | ['exploit'] | 1 | 2021-12-06 07:31:59+00:00 | 896 | 174 | Python | 58 | [] |
 | Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2021-12-06 12:50:53+00:00 | 429 | 1048 | Perl | 454 | [] |
@@ -78,10 +80,10 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-06 07:29:18+00:00 | 5759 | 3005 | Python | 666 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-06 00:06:33+00:00 | 1534768 | 1536 | Python | 524 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-06 13:56:49+00:00 | 12430 | 4144 | Python | 595 | [] |
-| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-12-06 12:38:21+00:00 | 149 | 0 | Python | 0 | [] |
+| Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-12-06 15:07:41+00:00 | 179956 | 344 | Batchfile | 95 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2021-12-06 07:48:05+00:00 | 201268 | 141 | C | 30 | [] |
-| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-06 15:10:51+00:00 | 72 | 1 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-06 00:03:38+00:00 | 426971 | 35 | | 20 | [] |
+| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-06 13:29:31+00:00 | 452 | 94 | | 21 | [] |
 | RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-12-06 16:49:06+00:00 | 20089 | 0 | MATLAB | 0 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-12-06 02:23:07+00:00 | 702 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-06 06:51:49+00:00 | 966 | 261 | JavaScript | 492 | [] |
@@ -95,6 +97,7 @@
 | A1andNS/auto_vuln_test_script | There are some Vuln POC auto test scripts based on python3 by A1andNS | https://github.com/A1andNS/auto_vuln_test_script | ['vuln poc'] | 1 | 2021-12-06 15:11:56+00:00 | 27 | 1 | Python | 0 | [] |
 | Hacker5preme/Exploits | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | ['exploit'] | 1 | 2021-12-06 21:10:35+00:00 | 305 | 9 | Python | 2 | [] |
 | Vulnmachines/CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | ['cve-2 OR cve_2'] | 1 | 2021-12-06 19:04:04+00:00 | 2 | 4 | | 1 | ['CVE-2021-27651'] |
+| kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2021-12-06 21:48:48+00:00 | 327 | 25 | Python | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-06 04:01:50+00:00 | 92406 | 256 | Python | 78 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-06 21:30:01+00:00 | 356803 | 63 | TypeScript | 4 | [] |
 | S4R1N/AlternativeShellcodeExec | Alternative Shellcode Execution Via Callbacks | https://github.com/S4R1N/AlternativeShellcodeExec | ['shellcode'] | 1 | 2021-12-06 00:45:41+00:00 | 203 | 546 | C++ | 119 | [] |
@@ -102,5 +105,4 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-06 01:13:14+00:00 | 89 | 0 | PHP | 0 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-12-06 17:47:29+00:00 | 6005 | 103 | Python | 37 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-06 09:36:08+00:00 | 289578 | 745 | | 157 | [] |
-| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-06 13:29:31+00:00 | 452 | 94 | | 21 | [] |
-| ahmadshahrour951/Jinja2-ExploitMe | None | https://github.com/ahmadshahrour951/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-06 21:13:17+00:00 | 0 | 0 | HTML | 0 | [] |
+| Asaad27/CVE-2021-22204-RSE | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-06 21:58:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-22204'] |
