@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/05
     
-93 records found after deduplication
+94 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -17,7 +17,7 @@
 | hack3r-0m/oz-uups-forta-agent | Forta Agent for reporting UUPS exploits | https://github.com/hack3r-0m/oz-uups-forta-agent | ['exploit'] | 1 | 2021-12-05 13:59:17+00:00 | 123 | 0 | TypeScript | 0 | [] |
 | krishpranav/kernelexploits | Various Kernel Exploits For Linux And Windows | https://github.com/krishpranav/kernelexploits | ['exploit'] | 1 | 2021-12-05 06:26:31+00:00 | 11 | 0 | C | 0 | [] |
 | kitki30/CatSploit | CatSploit Roblox Executor | https://github.com/kitki30/CatSploit | ['sploit'] | 1 | 2021-12-05 11:35:29+00:00 | 7778 | 0 | | 0 | [] |
-| lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-05 18:16:24+00:00 | 1995 | 0 | Python | 0 | [] |
+| sudaiv/CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-05 05:22:09+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-41081'] |
 | tricksterwasnthere/cadmium | roblox rootkit exploit, Synapse X only | https://github.com/tricksterwasnthere/cadmium | ['exploit'] | 1 | 2021-12-05 03:57:06+00:00 | 434 | 1 | Lua | 0 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-05 04:40:10+00:00 | 16 | 0 | Python | 0 | [] |
 | luijait/SLmail5.5-Exploit-BoF | Buffer Overflow para SLmail5.5 32 bits | https://github.com/luijait/SLmail5.5-Exploit-BoF | ['exploit'] | 1 | 2021-12-05 02:11:58+00:00 | 12 | 14 | Python | 0 | [] |
@@ -28,9 +28,10 @@
 | peace27-96/Router-Vulnerability-Scan-Tool | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | ['exploit'] | 1 | 2021-12-05 18:40:25+00:00 | 37 | 0 | CSS | 0 | [] |
 | MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-05 21:19:24+00:00 | 54 | 0 | C | 0 | [] |
 | quwaisploit/Zeroday | None | https://github.com/quwaisploit/Zeroday | ['zeroday'] | 1 | 2021-12-05 05:21:11+00:00 | 0 | 0 | PHP | 0 | [] |
-| sudaiv/CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-05 05:22:09+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-41081'] |
 | sachinthaBS/Heap-based-buffer-overflow | None | https://github.com/sachinthaBS/Heap-based-buffer-overflow | ['heap overflow'] | 1 | 2021-12-05 05:40:12+00:00 | 382 | 0 | nan | 0 | [] |
-| Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-05 08:21:49+00:00 | 0 | 0 | TypeScript | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-12-05 04:45:16+00:00 | 27111 | 8543 | Python | 1473 | [] |
+| kelcheone/ethernaut_ctf | exploiting ethernaut contracts using solidity but not with javascript | https://github.com/kelcheone/ethernaut_ctf | ['exploit'] | 1 | 2021-12-05 16:14:08+00:00 | 0 | 0 | Shell | 0 | [] |
+| oakgreyfig/layer8 | An approach to open sourcing end point detection and response, working with analysts and SOC members to develop a community to prevent abuse of computer networks and system exploitation. | https://github.com/oakgreyfig/layer8 | ['exploit'] | 1 | 2021-12-05 22:43:33+00:00 | 0 | 0 | | 0 | [] |
 | Monst3red/Discord-GhostPing | Ghostping exploit | https://github.com/Monst3red/Discord-GhostPing | ['exploit'] | 1 | 2021-12-05 22:29:44+00:00 | 0 | 0 | Python | 0 | [] |
 | triple3567/MetasploitCTF | None | https://github.com/triple3567/MetasploitCTF | ['metasploit module OR payload'] | 1 | 2021-12-05 20:27:09+00:00 | 0 | 0 | HTML | 0 | [] |
 | retrohacking/RSAcma | Exploit for the Common Modulus Vulnerability of RSA | https://github.com/retrohacking/RSAcma | ['exploit'] | 1 | 2021-12-05 20:18:13+00:00 | 0 | 0 | Python | 0 | [] |
@@ -39,10 +40,10 @@
 | spidythehacker/GH-Hacking-Tools-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/spidythehacker/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-12-05 18:38:44+00:00 | 0 | 0 | | 0 | [] |
 | spidythehacker/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/spidythehacker/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-12-05 18:24:02+00:00 | 0 | 1 | | 0 | [] |
 | disjcordLAMO/XYZ-roblox-exploit | the best free roblox exploit with krnl api and animatet | https://github.com/disjcordLAMO/XYZ-roblox-exploit | ['exploit'] | 1 | 2021-12-05 16:24:53+00:00 | 0 | 0 | | 0 | [] |
-| kelcheone/ethernaut_ctf | exploiting ethernaut contracts using solidity but not with javascript | https://github.com/kelcheone/ethernaut_ctf | ['exploit'] | 1 | 2021-12-05 16:14:08+00:00 | 0 | 0 | Shell | 0 | [] |
 | Kudratliishere/HeapOverflow | None | https://github.com/Kudratliishere/HeapOverflow | ['heap overflow'] | 1 | 2021-12-05 15:48:11+00:00 | 0 | 0 | nan | 0 | [] |
+| Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-05 08:21:49+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | luijait/Vsftpd-2.3.4-Exploit | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | ['exploit'] | 1 | 2021-12-05 15:31:20+00:00 | 0 | 1 | Python | 0 | [] |
-| trevorsaudi/Heap-Exploitation | A deep dive into dynamic memory allocation, structs, objects and heap overflows | https://github.com/trevorsaudi/Heap-Exploitation | ['exploit', 'heap overflow'] | 2 | 2021-12-05 15:24:52+00:00 | 0 | 0 | | 0 | [] |
+| trevorsaudi/Heap-Exploitation | A deep dive into dynamic memory allocation, structs, objects and heap overflows | https://github.com/trevorsaudi/Heap-Exploitation | ['exploit', 'heap overflow'] | 2 | 2021-12-05 15:24:52+00:00 | 0 | 0 | nan | 0 | [] |
 | Noxipom12/exploit.com | None | https://github.com/Noxipom12/exploit.com | ['exploit'] | 1 | 2021-12-05 14:55:58+00:00 | 0 | 0 | HTML | 0 | [] |
 | fumamatar/NimNightmare | CVE-2021-1675 LPE PoC in Nim (PrintNightmare Local Privilege Escalation) | https://github.com/fumamatar/NimNightmare | ['cve poc'] | 1 | 2021-12-05 14:51:28+00:00 | 0 | 1 | Nim | 1 | ['CVE-2021-1675'] |
 | IvarsLevans/Solidity-Exploits | None | https://github.com/IvarsLevans/Solidity-Exploits | ['exploit'] | 1 | 2021-12-05 14:07:35+00:00 | 0 | 0 | | 0 | [] |
@@ -51,8 +52,8 @@
 | Harikeshav-R/aeruxploit | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | ['exploit'] | 1 | 2021-12-05 10:24:57+00:00 | 0 | 0 | | 0 | [] |
 | jhhua/CsOrMsfBypassAv | I wrote a C++ project for metasploit or CobaltStrike | https://github.com/jhhua/CsOrMsfBypassAv | ['metasploit module OR payload'] | 1 | 2021-12-05 08:39:53+00:00 | 0 | 0 | | 0 | [] |
 | Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-12-05 17:15:50+00:00 | 40 | 0 | Lua | 0 | [] |
+| lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-05 18:16:24+00:00 | 1995 | 0 | Python | 0 | [] |
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-05 18:43:09+00:00 | 1 | 0 | Jupyter Notebook | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-12-05 04:45:16+00:00 | 27111 | 8543 | Python | 1473 | [] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-12-05 04:58:42+00:00 | 36600 | 428 | C++ | 64 | [] |
 | EntySec/HatVenom | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | ['exploit', 'shellcode'] | 2 | 2021-12-05 21:35:42+00:00 | 427 | 60 | Python | 18 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-05 04:02:00+00:00 | 91858 | 255 | Python | 78 | [] |
@@ -97,4 +98,4 @@
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-12-05 10:21:17+00:00 | 28798 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-05 01:14:49+00:00 | 17933 | 2 | Python | 0 | [] |
 | robertguetzkow/ets5-password-recovery | ETS5 Password Recovery Tool is a PoC for CVE-2021-36799 | https://github.com/robertguetzkow/ets5-password-recovery | ['cve poc'] | 1 | 2021-12-05 11:27:08+00:00 | 121 | 15 | C# | 3 | ['CVE-2021-36799'] |
-| oakgreyfig/layer8 | An approach to open sourcing end point detection and response, working with analysts and SOC members to develop a community to prevent abuse of computer networks and system exploitation. | https://github.com/oakgreyfig/layer8 | ['exploit'] | 1 | 2021-12-05 22:43:33+00:00 | 0 | 0 | | 0 | [] |
+| Benjixoxo/ZNTL-Exploit | None | https://github.com/Benjixoxo/ZNTL-Exploit | ['exploit'] | 1 | 2021-12-05 23:58:17+00:00 | 1 | 0 | | 0 | [] |
