@@ -1,3 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2021-30167,1.00000000,https://github.com/HOLYshitIjustWANTaNAMEFFFFFFFuck/CNVD-2021-30167,HOLYshitIjustWANTaNAMEFFFFFFFuck/CNVD-2021-30167,435541341
 CNVD-2021-30167,1.00000000,https://github.com/chaosec2021/CNVD-2021-30167-NC-BeanShell-RCE,chaosec2021/CNVD-2021-30167-NC-BeanShell-RCE,430352609
+CNVD-2021-30167,0.33333333,https://github.com/A1andNS/auto_vuln_test_script,A1andNS/auto_vuln_test_script,388546125
 CNVD-2021-30167,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
