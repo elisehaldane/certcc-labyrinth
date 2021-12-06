@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+435622078,dorkerdevil/LongTail-AMF,longtail.py,7036d25ea74c844ea247da1352570f534bc74904,CVE-2021-21980
+435622078,dorkerdevil/LongTail-AMF,README.md,ba70fd636992a6943cfb88bbd70859927a2154f9,CVE-2021-21980
