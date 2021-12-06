@@ -1,0 +1,6 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+offensive-security/exploitdb-bin-sploits,Exploit Database binary exploits located in the /sploits directory,https://github.com/offensive-security/exploitdb-bin-sploits,"['exploit', 'sploit']",2,2021-12-06T00:06:33+0000,1534768,1536,Python,524,[]
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2021-12-06T00:17:00+0000,202001,254,Ruby,78,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2021-12-06T00:03:38+0000,426971,35,,20,[]
+S4R1N/AlternativeShellcodeExec,Alternative Shellcode Execution Via Callbacks,https://github.com/S4R1N/AlternativeShellcodeExec,['shellcode'],1,2021-12-06T00:45:41+0000,203,546,C++,119,[]
+fzcooper/hm_ms_exploit,HiveMind Metasploit Exploit,https://github.com/fzcooper/hm_ms_exploit,"['exploit', 'metasploit module OR payload']",2,2021-12-06T00:19:38+0000,0,0,Python,0,[]
