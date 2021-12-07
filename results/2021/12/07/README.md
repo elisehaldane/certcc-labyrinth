@@ -1,22 +1,24 @@
 
 # Summary for results/2021/12/07
     
-45 records found after deduplication
+51 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-07 05:08:18+00:00 | 230094 | 6665 | C | 1835 | [] |
-| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-12-07 07:17:48+00:00 | 2315 | 3 | Python | 2 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-12-07 09:12:38+00:00 | 46300 | 855 | Python | 201 | [] |
+| Vito-Swift/Reminders-Heap-Exploit | Shellcode construction exploiting heap unlink | https://github.com/Vito-Swift/Reminders-Heap-Exploit | ['exploit', 'shellcode'] | 2 | 2021-12-07 02:29:33+00:00 | 5 | 1 | C | 0 | [] |
+| aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-07 03:54:06+00:00 | 356 | 0 | Roff | 0 | [] |
 | cshewmake2/cone-classification | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects' cone cl | https://github.com/cshewmake2/cone-classification | ['exploit'] | 1 | 2021-12-07 06:06:32+00:00 | 4754 | 0 | Jupyter Notebook | 0 | [] |
 | ycdxsb/CVE-2020-0668 | Make CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-07 03:33:56+00:00 | 14382 | 12 | C++ | 4 | ['CVE-2020-0668'] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-07 02:10:44+00:00 | 187 | 17 | Ruby | 8 | ['CVE-2021-20837'] |
 | Meowmycks/Live-PenTesting-Project | Exploited vulnerabilities in various websites using Burp Suite. | https://github.com/Meowmycks/Live-PenTesting-Project | ['exploit'] | 1 | 2021-12-07 05:59:19+00:00 | 28 | 0 | | 0 | [] |
+| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-12-07 09:01:18+00:00 | 119278 | 0 | Shell | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-07 05:35:04+00:00 | 86 | 0 | TypeScript | 0 | [] |
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-07 01:14:41+00:00 | 4201 | 0 | Jupyter Notebook | 0 | [] |
 | annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-12-07 05:57:05+00:00 | 13 | 0 | Jupyter Notebook | 0 | [] |
 | lockecd/rces-final-project | Research Computing in Earth Science Final Project | https://github.com/lockecd/rces-final-project | ['rce'] | 1 | 2021-12-07 05:18:41+00:00 | 4 | 0 | Jupyter Notebook | 0 | [] |
-| Vito-Swift/Reminders-Heap-Exploit | Shellcode construction exploiting heap unlink | https://github.com/Vito-Swift/Reminders-Heap-Exploit | ['exploit', 'shellcode'] | 2 | 2021-12-07 02:29:33+00:00 | 5 | 1 | C | 0 | [] |
 | pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2021-12-07 00:18:51+00:00 | 32 | 1 | Lua | 1 | [] |
+| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-07 05:53:38+00:00 | 75 | 1 | Python | 0 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-07 03:05:53+00:00 | 24 | 0 | Python | 0 | [] |
 | fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-07 01:28:43+00:00 | 2 | 0 | Python | 0 | [] |
 | smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-07 00:20:15+00:00 | 85179 | 0 | Python | 1 | [] |
@@ -26,27 +28,31 @@
 | MzzdToT/CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-07 07:00:44+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-34045'] |
 | novysodope/Myloader | 学习Classloader的产物，模拟cs shellcode加载 | https://github.com/novysodope/Myloader | ['shellcode'] | 1 | 2021-12-07 07:32:14+00:00 | 0 | 0 | | 0 | [] |
 | Vulnmachines/jira-exploits-cve | None | https://github.com/Vulnmachines/jira-exploits-cve | ['exploit'] | 1 | 2021-12-07 08:01:39+00:00 | 0 | 0 | | 0 | [] |
-| aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-07 03:54:06+00:00 | 356 | 0 | Roff | 0 | [] |
-| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-07 05:53:38+00:00 | 75 | 1 | Python | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-12-07 08:21:36+00:00 | 60656 | 1150 | C | 551 | [] |
+| k3rwin/CNVD-2021-49104 | 泛微E-Office文件上传漏洞CNVD-2021-49104 文件上传 | https://github.com/k3rwin/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-07 08:37:34+00:00 | 0 | 0 | | 0 | ['CNVD-2021-49104'] |
+| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-12-07 07:17:48+00:00 | 2315 | 3 | Python | 2 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-07 02:55:11+00:00 | 984 | 262 | JavaScript | 501 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-07 05:08:18+00:00 | 230094 | 6665 | C | 1835 | [] |
+| saifsuleman/hacksploit | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | ['exploit'] | 1 | 2021-12-07 00:00:00+00:00 | 66 | 0 | Rust | 0 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-12-07 08:21:36+00:00 | 60656 | 1150 | C | 551 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-07 00:06:38+00:00 | 1534768 | 1538 | Python | 524 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-12-07 04:42:33+00:00 | 6170 | 4160 | Python | 569 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-07 00:16:56+00:00 | 202002 | 254 | Ruby | 78 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-07 03:16:48+00:00 | 3685 | 2178 | Python | 621 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-07 09:14:54+00:00 | 35354 | 6160 | Vue | 1306 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-07 00:45:44+00:00 | 8784 | 25 | | 15 | [] |
+| rekter0/exploits | None | https://github.com/rekter0/exploits | ['exploit'] | 1 | 2021-12-07 09:31:00+00:00 | 7 | 30 | Python | 9 | [] |
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-07 01:19:13+00:00 | 55 | 14 | Python | 15 | [] |
 | xploitspeeds/Bookmarklet-Hacks-For-School | * READ THE README FOR INFO!! * Incoming Tags- z score statistics,find mean median mode statistics in ms excel,variance,standard deviation,linear regression,data processing,confidence intervals,average value,probability theory,binomial distribution,matrix, | https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School | ['exploit'] | 1 | 2021-12-07 00:52:50+00:00 | 77 | 7 | | 13 | [] |
-| saifsuleman/hacksploit | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | ['exploit'] | 1 | 2021-12-07 00:00:00+00:00 | 66 | 0 | Rust | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-07 00:03:39+00:00 | 427859 | 35 | | 20 | [] |
+| Abij1234/metasploit_automation | Corded by NNC | https://github.com/Abij1234/metasploit_automation | ['metasploit module OR payload'] | 1 | 2021-12-07 00:43:57+00:00 | 1 | 1 | Shell | 0 | [] |
 | yuawn/kernel-exploitation | Linux kernel exploitation lab for pwn practice and demo. | https://github.com/yuawn/kernel-exploitation | ['exploit'] | 1 | 2021-12-07 05:31:47+00:00 | 17196 | 68 | C | 9 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-07 08:12:08+00:00 | 458 | 98 | | 21 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-12-07 07:55:26+00:00 | 14667 | 0 | Lua | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-07 00:46:07+00:00 | 89 | 0 | PHP | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-07 01:37:12+00:00 | 365866 | 63 | TypeScript | 4 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-12-07 08:50:08+00:00 | 126289 | 51 | | 6 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-07 01:03:32+00:00 | 95130 | 256 | Python | 78 | [] |
 | boomshy/sample_shellcode | None | https://github.com/boomshy/sample_shellcode | ['shellcode'] | 1 | 2021-12-07 06:34:28+00:00 | 18 | 2 | Assembly | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-07 01:12:46+00:00 | 19661 | 2 | Python | 0 | [] |
 | catvskid/boombox | crash/lag exploit | https://github.com/catvskid/boombox | ['exploit'] | 1 | 2021-12-07 04:23:14+00:00 | 95 | 1 | Lua | 0 | [] |
-| Abij1234/metasploit_automation | Corded by NNC | https://github.com/Abij1234/metasploit_automation | ['metasploit module OR payload'] | 1 | 2021-12-07 00:43:57+00:00 | 1 | 1 | Shell | 0 | [] |
-| k3rwin/CNVD-2021-49104 | 泛微E-Office文件上传漏洞CNVD-2021-49104 文件上传 | https://github.com/k3rwin/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-07 08:37:34+00:00 | 0 | 0 | nan | 0 | ['CNVD-2021-49104'] |
+| k3rwin/CNVD-2021-49104 | 泛微E-Office文件上传漏洞CNVD-2021-49104 文件上传 | https://github.com/k3rwin/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-07 09:20:41+00:00 | 0 | 1 | Python | 0 | ['CNVD-2021-49104'] |
