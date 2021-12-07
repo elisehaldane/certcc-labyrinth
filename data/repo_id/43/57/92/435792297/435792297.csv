@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2017-9506
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2018-20824
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2019-11581
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2019-3396
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2019-3402
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2019-3403
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2019-8442
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2019-8449
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2019-8451
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2020-14178
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2020-14179
+435792297,Vulnmachines/jira-exploits-cve,jira-exploit-cve.txt,caa1b33d33852f58d479453107c40f762e94f4ff,CVE-2020-14181
