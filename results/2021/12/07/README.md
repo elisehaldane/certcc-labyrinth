@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/07
     
-25 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-07 00:06:38+00:00 | 1534768 | 1538 | Python | 524 | [] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-07 02:55:11+00:00 | 984 | 262 | JavaScript | 501 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-12-07 04:42:33+00:00 | 6170 | 4160 | Python | 569 | [] |
 | Asaad27/CVE-2021-22204-RSE | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-07 00:18:52+00:00 | 3 | 0 | | 0 | ['CVE-2021-22204'] |
 | dorkerdevil/LongTail-AMF | vcenter AMF object deserialization exploit | https://github.com/dorkerdevil/LongTail-AMF | ['exploit'] | 1 | 2021-12-07 02:22:44+00:00 | 8 | 0 | Python | 0 | [] |
 | smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-07 00:20:15+00:00 | 85179 | 0 | Python | 1 | [] |
@@ -17,8 +17,10 @@
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-07 01:14:41+00:00 | 4201 | 0 | Jupyter Notebook | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-07 02:10:44+00:00 | 187 | 17 | Ruby | 8 | ['CVE-2021-20837'] |
 | ycdxsb/CVE-2020-0668 | Make CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-07 03:33:56+00:00 | 14382 | 12 | C++ | 4 | ['CVE-2020-0668'] |
+| aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-07 03:54:06+00:00 | 356 | 0 | Roff | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-07 02:55:11+00:00 | 984 | 262 | JavaScript | 501 | [] |
 | Abij1234/metasploit_automation | Corded by NNC | https://github.com/Abij1234/metasploit_automation | ['metasploit module OR payload'] | 1 | 2021-12-07 00:43:57+00:00 | 1 | 1 | Shell | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-07 00:16:56+00:00 | 202002 | 254 | Ruby | 78 | [] |
+| catvskid/boombox | crash/lag exploit | https://github.com/catvskid/boombox | ['exploit'] | 1 | 2021-12-07 04:23:14+00:00 | 95 | 1 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-07 01:12:46+00:00 | 19661 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-07 01:03:32+00:00 | 95130 | 256 | Python | 78 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-07 01:37:12+00:00 | 365866 | 63 | TypeScript | 4 | [] |
@@ -29,4 +31,5 @@
 | kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2021-12-07 01:19:13+00:00 | 55 | 14 | Python | 15 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-07 00:45:44+00:00 | 8784 | 25 | | 15 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-07 03:16:48+00:00 | 3685 | 2178 | Python | 621 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-07 00:16:56+00:00 | 202002 | 254 | Ruby | 78 | [] |
 | hyp3ri0n-ng/driver-exploitation-workbook | None | https://github.com/hyp3ri0n-ng/driver-exploitation-workbook | ['exploit'] | 1 | 2021-12-07 01:44:13+00:00 | 0 | 0 | | 0 | [] |
