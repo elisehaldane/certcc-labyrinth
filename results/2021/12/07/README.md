@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/07
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -19,7 +19,7 @@
 | annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-12-07 05:57:05+00:00 | 13 | 0 | Jupyter Notebook | 0 | [] |
 | recitmstmam/bolide-saisissant-rcepteur | Un projet MakeCode | https://github.com/recitmstmam/bolide-saisissant-rcepteur | ['rce'] | 1 | 2021-12-07 13:55:09+00:00 | 315 | 0 | TypeScript | 0 | [] |
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-07 01:14:41+00:00 | 4201 | 0 | Jupyter Notebook | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-12-07 09:12:38+00:00 | 46300 | 855 | Python | 201 | [] |
+| Anatik572/trust_bw_exploit | None | https://github.com/Anatik572/trust_bw_exploit | ['exploit'] | 1 | 2021-12-07 19:26:39+00:00 | 6 | 3 | Lua | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-07 20:06:55+00:00 | 156 | 0 | Java | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-07 05:35:04+00:00 | 86 | 0 | TypeScript | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-07 18:10:20+00:00 | 78 | 4 | | 0 | [] |
@@ -57,11 +57,12 @@
 | MzzdToT/CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-07 07:00:44+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-34045'] |
 | hyp3ri0n-ng/driver-exploitation-workbook | None | https://github.com/hyp3ri0n-ng/driver-exploitation-workbook | ['exploit'] | 1 | 2021-12-07 01:44:13+00:00 | 0 | 0 | | 0 | [] |
 | Asaad27/CVE-2021-22204-RSE | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-07 00:18:52+00:00 | 3 | 0 | | 0 | ['CVE-2021-22204'] |
-| taythebot/CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | ['cve-2 OR cve_2', 'vuln poc', 'vulnerability poc'] | 3 | 2021-12-07 18:09:20+00:00 | 22 | 1 | Go | 1 | ['CVE-2021-43798'] |
+| taythebot/grafana-lfi-vulnerability | PoC for Grafana 8.x Local File Inclusion (Pre-Auth) | https://github.com/taythebot/grafana-lfi-vulnerability | ['cve-2 OR cve_2', 'vuln poc', 'vulnerability poc'] | 3 | 2021-12-07 11:40:10+00:00 | 22 | 0 | Go | 0 | [] |
 | aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-07 03:54:06+00:00 | 356 | 0 | Roff | 0 | [] |
-| Anatik572/trust_bw_exploit | None | https://github.com/Anatik572/trust_bw_exploit | ['exploit'] | 1 | 2021-12-07 19:26:39+00:00 | 6 | 3 | Lua | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-12-07 10:28:18+00:00 | 18589 | 5 | Rust | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-07 00:03:39+00:00 | 427859 | 35 | | 20 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-12-07 09:12:38+00:00 | 46300 | 855 | Python | 201 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-07 09:14:54+00:00 | 35354 | 6160 | Vue | 1306 | [] |
+| saifsuleman/hacksploit | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | ['exploit'] | 1 | 2021-12-07 00:00:00+00:00 | 66 | 0 | Rust | 0 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-12-07 14:04:41+00:00 | 151 | 0 | Python | 0 | [] |
 | FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2021-12-07 21:18:44+00:00 | 171 | 315 | C# | 76 | [] |
 | basedfir/awesomekql | Azure Sentinel intrusion detection rules, recent exploits and lolbas :) | https://github.com/basedfir/awesomekql | ['exploit'] | 1 | 2021-12-07 16:50:18+00:00 | 57 | 8 | | 0 | [] |
@@ -72,8 +73,8 @@
 | rekter0/exploits | None | https://github.com/rekter0/exploits | ['exploit'] | 1 | 2021-12-07 09:31:00+00:00 | 7 | 30 | Python | 9 | [] |
 | bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2021-12-07 20:36:28+00:00 | 2945 | 375 | C | 100 | ['MS17-010'] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-07 00:45:44+00:00 | 8784 | 25 | | 15 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-07 09:14:54+00:00 | 35354 | 6160 | Vue | 1306 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-07 03:16:48+00:00 | 3685 | 2178 | Python | 621 | [] |
+| htrgouvea/vulnerability-research | Vulnerability Research PoCs | https://github.com/htrgouvea/vulnerability-research | ['vuln poc', 'vulnerability poc'] | 2 | 2021-12-07 15:19:21+00:00 | 17 | 14 | Perl | 4 | [] |
 | R00tS3c/DDOS-RootSec | DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | ['exploit'] | 1 | 2021-12-07 21:34:22+00:00 | 177102 | 119 | Python | 78 | [] |
 | slrbl/human-in-the-loop-machine-learning-tool-tornado | Tornado is a human-in-the-loop machine learning framework that helps you exploit your unlabelled data to train models through a simple and easy to use web interface. | https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado | ['exploit'] | 1 | 2021-12-07 19:33:09+00:00 | 157535 | 22 | Ruby | 8 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-12-07 16:27:10+00:00 | 2993 | 1380 | | 459 | [] |
@@ -85,10 +86,10 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-07 17:16:56+00:00 | 12443 | 4153 | Python | 596 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-12-07 08:21:36+00:00 | 60656 | 1150 | C | 551 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-07 05:08:18+00:00 | 230094 | 6665 | C | 1835 | [] |
-| saifsuleman/hacksploit | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | ['exploit'] | 1 | 2021-12-07 00:00:00+00:00 | 66 | 0 | Rust | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-07 00:03:39+00:00 | 427859 | 35 | | 20 | [] |
 | yuawn/kernel-exploitation | Linux kernel exploitation lab for pwn practice and demo. | https://github.com/yuawn/kernel-exploitation | ['exploit'] | 1 | 2021-12-07 05:31:47+00:00 | 17196 | 68 | C | 9 | [] |
-| htrgouvea/vulnerability-research | Vulnerability Research PoCs | https://github.com/htrgouvea/vulnerability-research | ['vuln poc', 'vulnerability poc'] | 2 | 2021-12-07 15:19:21+00:00 | 17 | 14 | Perl | 4 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-07 08:12:08+00:00 | 458 | 98 | | 21 | [] |
+| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-12-07 07:55:26+00:00 | 14667 | 0 | Lua | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-12-07 07:17:48+00:00 | 2315 | 3 | Python | 2 | [] |
 | Vulnmachines/cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-12-07 12:48:44+00:00 | 5 | 30 | | 10 | ['CVE-2021-41773'] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-07 05:53:38+00:00 | 75 | 1 | Python | 0 | [] |
@@ -101,6 +102,7 @@
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-12-07 20:48:22+00:00 | 148 | 1 | C# | 2 | [] |
 | catvskid/boombox | crash/lag exploit | https://github.com/catvskid/boombox | ['exploit'] | 1 | 2021-12-07 04:23:14+00:00 | 95 | 1 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-07 01:12:46+00:00 | 19661 | 2 | Python | 0 | [] |
+| arsium/ShellCodeLoaderCSharp | A small shellcode loader library written in C# | https://github.com/arsium/ShellCodeLoaderCSharp | ['shellcode'] | 1 | 2021-12-07 22:29:42+00:00 | 29917 | 13 | C# | 5 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2021-12-07 08:48:22+00:00 | 69 | 0 | Lua | 0 | [] |
 | lilmond/Roblox-Exploit-Scripts | None | https://github.com/lilmond/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2021-12-07 16:33:58+00:00 | 115 | 0 | Lua | 0 | [] |
 | boomshy/sample_shellcode | None | https://github.com/boomshy/sample_shellcode | ['shellcode'] | 1 | 2021-12-07 06:34:28+00:00 | 18 | 2 | Assembly | 1 | [] |
@@ -111,5 +113,4 @@
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-07 01:37:12+00:00 | 365866 | 63 | TypeScript | 4 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-07 00:46:07+00:00 | 89 | 0 | PHP | 0 | [] |
 | kimusan/lxd-exploiter | Script to quickly exploit lxd/lxc priveleged image | https://github.com/kimusan/lxd-exploiter | ['exploit'] | 1 | 2021-12-07 12:30:35+00:00 | 3126 | 2 | Python | 1 | [] |
-| subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-12-07 07:55:26+00:00 | 14667 | 0 | Lua | 0 | [] |
 | saaramar/exploit_pwn_chgs_ubuntu_21.10 | None | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | ['exploit'] | 1 | 2021-12-07 20:57:43+00:00 | 0 | 0 | Python | 0 | [] |
