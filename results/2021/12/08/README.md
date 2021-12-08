@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/08
     
-18 records found after deduplication
+23 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-08 00:16:55+00:00 | 202002 | 254 | Ruby | 78 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-08 01:43:27+00:00 | 35354 | 6164 | Vue | 1308 | [] |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|---------------------|
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-08 02:25:04+00:00 | 71603 | 10416 | Jupyter Notebook | 1797 | [] |
+| smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-08 01:06:08+00:00 | 85180 | 0 | Python | 1 | [] |
+| memN0ps/ShellcodeRunners | Shellcode Runners made for fun and practice | https://github.com/memN0ps/ShellcodeRunners | ['shellcode'] | 1 | 2021-12-08 01:50:56+00:00 | 0 | 0 | C++ | 0 | [] |
 | bruzistico/attacker | PoC Attacker | https://github.com/bruzistico/attacker | ['attack poc'] | 1 | 2021-12-08 01:31:47+00:00 | 0 | 0 | HTML | 0 | [] |
 | RealChronics/Exploit-Template | This is my exploit template to my 2021 yt tutorial | https://github.com/RealChronics/Exploit-Template | ['exploit'] | 1 | 2021-12-08 01:25:41+00:00 | 7937 | 0 | C# | 0 | [] |
 | scopion/CVE-2021-43799 | Python Exploit Code | https://github.com/scopion/CVE-2021-43799 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-08 00:40:16+00:00 | 0 | 1 | | 1 | ['CVE-2021-43799'] |
@@ -14,12 +15,16 @@
 | Nicholas-Menanno/FinalProject | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | ['exploit'] | 1 | 2021-12-08 00:34:08+00:00 | 0 | 0 | | 0 | [] |
 | I2rys/REL | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | ['exploit'] | 1 | 2021-12-08 00:06:42+00:00 | 0 | 0 | | 0 | [] |
 | asaotomo/Grafana-V8-EXP | Grafanav8.*版本任意文件读取漏洞poc&exp，该漏洞目前为0day漏洞，未授权的攻击者利用该漏洞，能够获取服务器敏感文件。 | https://github.com/asaotomo/Grafana-V8-EXP | ['0day'] | 1 | 2021-12-08 01:22:53+00:00 | 8 | 4 | Python | 1 | [] |
-| smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-08 01:06:08+00:00 | 85180 | 0 | Python | 1 | [] |
+| Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | grafana-fileread-0day-poc | https://github.com/Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | ['0day', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-12-08 02:31:28+00:00 | 0 | 6 | Python | 0 | ['CVE-2021-43798'] |
+| viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-12-08 02:15:03+00:00 | 49 | 0 | C | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-08 00:16:55+00:00 | 202002 | 254 | Ruby | 78 | [] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-08 00:16:03+00:00 | 204 | 0 | C | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-08 00:36:27+00:00 | 989 | 269 | JavaScript | 521 | [] |
+| sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-12-08 02:42:06+00:00 | 54524 | 12 | Python | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-08 01:10:32+00:00 | 20730 | 2 | Python | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-08 00:15:19+00:00 | 433953 | 63 | TypeScript | 4 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-08 01:19:16+00:00 | 90 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-08 00:03:49+00:00 | 431275 | 35 | | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-08 00:45:44+00:00 | 9282 | 25 | | 15 | [] |
-| memN0ps/ShellcodeRunners | Shellcode Runners made for fun and practice | https://github.com/memN0ps/ShellcodeRunners | ['shellcode'] | 1 | 2021-12-08 01:50:56+00:00 | 0 | 0 | C++ | 0 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-08 01:43:27+00:00 | 35354 | 6164 | Vue | 1308 | [] |
+| j-jasson/CNVD-2021-49104-Fanwei-Eoffice-fileupload | nan | https://github.com/j-jasson/CNVD-2021-49104-Fanwei-Eoffice-fileupload | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-08 02:31:05+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-49104'] |
