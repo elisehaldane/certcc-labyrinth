@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/08
     
-23 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|---------------------|
@@ -16,12 +16,14 @@
 | I2rys/REL | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | ['exploit'] | 1 | 2021-12-08 00:06:42+00:00 | 0 | 0 | | 0 | [] |
 | asaotomo/Grafana-V8-EXP | Grafanav8.*版本任意文件读取漏洞poc&exp，该漏洞目前为0day漏洞，未授权的攻击者利用该漏洞，能够获取服务器敏感文件。 | https://github.com/asaotomo/Grafana-V8-EXP | ['0day'] | 1 | 2021-12-08 01:22:53+00:00 | 8 | 4 | Python | 1 | [] |
 | Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | grafana-fileread-0day-poc | https://github.com/Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | ['0day', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-12-08 02:31:28+00:00 | 0 | 6 | Python | 0 | ['CVE-2021-43798'] |
+| tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | None | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | ['cve-2 OR cve_2'] | 1 | 2021-12-08 02:50:18+00:00 | 18 | 12 | | 3 | ['CVE-2021-43798'] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-12-08 02:15:03+00:00 | 49 | 0 | C | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-08 00:16:55+00:00 | 202002 | 254 | Ruby | 78 | [] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-08 00:16:03+00:00 | 204 | 0 | C | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-08 00:36:27+00:00 | 989 | 269 | JavaScript | 521 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-12-08 02:42:06+00:00 | 54524 | 12 | Python | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-08 01:10:32+00:00 | 20730 | 2 | Python | 0 | [] |
+| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-12-08 03:18:58+00:00 | 6514 | 235 | Python | 48 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-08 00:15:19+00:00 | 433953 | 63 | TypeScript | 4 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-08 01:19:16+00:00 | 90 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-08 00:03:49+00:00 | 431275 | 35 | | 20 | [] |
