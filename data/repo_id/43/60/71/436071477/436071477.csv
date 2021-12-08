@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+436071477,RealChronics/Exploit-Template,yourexploitname/yourexploitname/YourExploitName/YourExploitName/bin/Debug/EasyExploitsDLL.dll,6c7b1d3013632fa4ec7ebe7170ed0c2c8b1ed022,VU#73
