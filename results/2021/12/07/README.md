@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/07
     
-111 records found after deduplication
+112 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-07 11:21:03+00:00 | 660455 | 25771 | Ruby | 11783 | [] |
-| Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-07 15:31:53+00:00 | 120 | 0 | C | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-12-07 09:12:38+00:00 | 46300 | 855 | Python | 201 | [] |
+| Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-07 16:24:32+00:00 | 32 | 0 | TypeScript | 0 | [] |
 | fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-07 01:28:43+00:00 | 2 | 0 | Python | 0 | [] |
 | Shade-Productions/RoCord | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | ['exploit'] | 1 | 2021-12-07 19:13:24+00:00 | 2923 | 0 | Lua | 0 | [] |
 | GO0dspeed/Attack-Surface-Discovery | A POC script that leverages recon-NG to perform automated attack surface discovery | https://github.com/GO0dspeed/Attack-Surface-Discovery | ['attack poc'] | 1 | 2021-12-07 03:05:53+00:00 | 24 | 0 | Python | 0 | [] |
@@ -18,8 +19,8 @@
 | lockecd/rces-final-project | Research Computing in Earth Science Final Project | https://github.com/lockecd/rces-final-project | ['rce'] | 1 | 2021-12-07 05:18:41+00:00 | 4 | 0 | Jupyter Notebook | 0 | [] |
 | annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-12-07 05:57:05+00:00 | 13 | 0 | Jupyter Notebook | 0 | [] |
 | recitmstmam/bolide-saisissant-rcepteur | Un projet MakeCode | https://github.com/recitmstmam/bolide-saisissant-rcepteur | ['rce'] | 1 | 2021-12-07 13:55:09+00:00 | 315 | 0 | TypeScript | 0 | [] |
+| Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-07 15:31:53+00:00 | 120 | 0 | C | 0 | [] |
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-07 01:14:41+00:00 | 4201 | 0 | Jupyter Notebook | 0 | [] |
-| avkspog/zeroday | It's the telegram bot that check an air temperature | https://github.com/avkspog/zeroday | ['zeroday'] | 1 | 2021-12-07 16:59:36+00:00 | 10 | 0 | Go | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-07 20:06:55+00:00 | 156 | 0 | Java | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-07 05:35:04+00:00 | 86 | 0 | TypeScript | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-07 18:10:20+00:00 | 78 | 4 | | 0 | [] |
@@ -31,10 +32,11 @@
 | wevertonribeiroferreira/Red-vs-Blue-Project | I concluded this report with a imersive and very hand-on assesement where I was able to use the tactics and tools available as a Red team player giving me a better understading of how data exploitation happens and on the Blue side once the vulnerability h | https://github.com/wevertonribeiroferreira/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-12-07 23:13:33+00:00 | 2847 | 1 | | 0 | [] |
 | ycdxsb/CVE-2020-0668 | Make CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-07 03:33:56+00:00 | 14382 | 12 | C++ | 4 | ['CVE-2020-0668'] |
 | cshewmake2/cone-classification | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects' cone cl | https://github.com/cshewmake2/cone-classification | ['exploit'] | 1 | 2021-12-07 06:06:32+00:00 | 4754 | 0 | Jupyter Notebook | 0 | [] |
-| Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-07 16:24:32+00:00 | 32 | 0 | TypeScript | 0 | [] |
+| avkspog/zeroday | It's the telegram bot that check an air temperature | https://github.com/avkspog/zeroday | ['zeroday'] | 1 | 2021-12-07 16:59:36+00:00 | 10 | 0 | Go | 0 | [] |
 | smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-07 00:20:15+00:00 | 85179 | 0 | Python | 1 | [] |
-| aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-07 03:54:06+00:00 | 356 | 0 | Roff | 0 | [] |
-| H4xton/Discord-Hearbeat-Exploit | None | https://github.com/H4xton/Discord-Hearbeat-Exploit | ['exploit'] | 1 | 2021-12-07 10:36:35+00:00 | 0 | 0 | Python | 0 | [] |
+| dorkerdevil/LongTail-AMF | vcenter AMF object deserialization exploit | https://github.com/dorkerdevil/LongTail-AMF | ['exploit'] | 1 | 2021-12-07 02:22:44+00:00 | 8 | 0 | Python | 0 | [] |
+| SudoVictor/bluetoothd-exploit | Nothing suspicious :) dont peek. | https://github.com/SudoVictor/bluetoothd-exploit | ['exploit'] | 1 | 2021-12-07 11:34:38+00:00 | 0 | 0 | | 0 | [] |
+| cjg91/spectre | Spectre exploitation for computer architecture class | https://github.com/cjg91/spectre | ['exploit'] | 1 | 2021-12-07 23:00:21+00:00 | 0 | 0 | | 0 | [] |
 | saaramar/exploit_pwn_chgs_ubuntu_21.10 | None | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | ['exploit'] | 1 | 2021-12-07 20:57:43+00:00 | 0 | 0 | Python | 0 | [] |
 | valkeahat/exploits | None | https://github.com/valkeahat/exploits | ['exploit'] | 1 | 2021-12-07 19:59:37+00:00 | 0 | 0 | Python | 0 | [] |
 | Ashleyy92418/exploitlolol | exploit | https://github.com/Ashleyy92418/exploitlolol | ['exploit'] | 1 | 2021-12-07 18:40:19+00:00 | 0 | 0 | | 0 | [] |
@@ -45,9 +47,9 @@
 | Yang-Zhongshan/grafana-fileread-0day-poc | grafana-fileread-0day-poc | https://github.com/Yang-Zhongshan/grafana-fileread-0day-poc | ['0day'] | 1 | 2021-12-07 13:51:24+00:00 | 0 | 4 | Python | 0 | [] |
 | Mr-xn/CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-07 13:19:36+00:00 | 0 | 1 | | 1 | ['CVE-2021-43798'] |
 | RAMSES-DG/METASPLOIT | None | https://github.com/RAMSES-DG/METASPLOIT | ['metasploit module OR payload'] | 1 | 2021-12-07 11:50:59+00:00 | 3 | 0 | Shell | 0 | [] |
-| SudoVictor/bluetoothd-exploit | Nothing suspicious :) dont peek. | https://github.com/SudoVictor/bluetoothd-exploit | ['exploit'] | 1 | 2021-12-07 11:34:38+00:00 | 0 | 0 | | 0 | [] |
+| H4xton/Discord-Hearbeat-Exploit | None | https://github.com/H4xton/Discord-Hearbeat-Exploit | ['exploit'] | 1 | 2021-12-07 10:36:35+00:00 | 0 | 0 | Python | 0 | [] |
+| taythebot/grafana-lfi-vulnerability | PoC for Grafana 8.x Local File Inclusion (Pre-Auth) | https://github.com/taythebot/grafana-lfi-vulnerability | ['cve-2 OR cve_2', 'vuln poc', 'vulnerability poc'] | 3 | 2021-12-07 11:31:42+00:00 | 21 | 0 | Go | 0 | [] |
 | test502git/Grafana-0day | Grafana 任意文件读取漏洞poc | https://github.com/test502git/Grafana-0day | ['0day'] | 1 | 2021-12-07 10:34:47+00:00 | 0 | 1 | | 0 | [] |
-| dorkerdevil/LongTail-AMF | vcenter AMF object deserialization exploit | https://github.com/dorkerdevil/LongTail-AMF | ['exploit'] | 1 | 2021-12-07 02:22:44+00:00 | 8 | 0 | Python | 0 | [] |
 | zputty/Linux-Exploit-Suggester | Original link: https://github.com/mzet-/linux-exploit-suggester/blob/master/linux-exploit-suggester.sh | https://github.com/zputty/Linux-Exploit-Suggester | ['exploit'] | 1 | 2021-12-07 10:33:23+00:00 | 0 | 0 | Shell | 0 | [] |
 | k3rwin/CNVD-2021-49104 | 泛微E-Office文件上传漏洞CNVD-2021-49104 文件上传 | https://github.com/k3rwin/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-07 09:20:41+00:00 | 0 | 1 | Python | 0 | ['CNVD-2021-49104'] |
 | zer0yu/CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-07 14:18:42+00:00 | 9 | 5 | Go | 0 | ['CVE-2021-43798'] |
@@ -58,10 +60,9 @@
 | MzzdToT/CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-07 07:00:44+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-34045'] |
 | hyp3ri0n-ng/driver-exploitation-workbook | None | https://github.com/hyp3ri0n-ng/driver-exploitation-workbook | ['exploit'] | 1 | 2021-12-07 01:44:13+00:00 | 0 | 0 | | 0 | [] |
 | Asaad27/CVE-2021-22204-RSE | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-07 00:18:52+00:00 | 3 | 0 | | 0 | ['CVE-2021-22204'] |
-| taythebot/grafana-lfi-vulnerability | PoC for Grafana 8.x Local File Inclusion (Pre-Auth) | https://github.com/taythebot/grafana-lfi-vulnerability | ['cve-2 OR cve_2', 'vuln poc', 'vulnerability poc'] | 3 | 2021-12-07 11:31:42+00:00 | 21 | 0 | Go | 0 | [] |
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-12-07 13:40:26+00:00 | 4462 | 1 | Python | 0 | [] |
+| aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-07 03:54:06+00:00 | 356 | 0 | Roff | 0 | [] |
 | Anatik572/trust_bw_exploit | None | https://github.com/Anatik572/trust_bw_exploit | ['exploit'] | 1 | 2021-12-07 19:26:39+00:00 | 6 | 3 | Lua | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-12-07 09:12:38+00:00 | 46300 | 855 | Python | 201 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-07 09:14:54+00:00 | 35354 | 6160 | Vue | 1306 | [] |
 | saifsuleman/hacksploit | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | ['exploit'] | 1 | 2021-12-07 00:00:00+00:00 | 66 | 0 | Rust | 0 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-12-07 14:04:41+00:00 | 151 | 0 | Python | 0 | [] |
@@ -115,4 +116,4 @@
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-07 01:37:12+00:00 | 365866 | 63 | TypeScript | 4 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-07 00:46:07+00:00 | 89 | 0 | PHP | 0 | [] |
 | kimusan/lxd-exploiter | Script to quickly exploit lxd/lxc priveleged image | https://github.com/kimusan/lxd-exploiter | ['exploit'] | 1 | 2021-12-07 12:30:35+00:00 | 3126 | 2 | Python | 1 | [] |
-| cjg91/spectre | Spectre exploitation for computer architecture class | https://github.com/cjg91/spectre | ['exploit'] | 1 | 2021-12-07 23:00:21+00:00 | 0 | 0 | | 0 | [] |
+| marilza567/Legal | Legal roblox exploit | https://github.com/marilza567/Legal | ['exploit'] | 1 | 2021-12-07 23:51:11+00:00 | 0 | 0 | | 0 | [] |
