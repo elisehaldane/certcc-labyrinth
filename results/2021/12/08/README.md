@@ -1,21 +1,22 @@
 
 # Summary for results/2021/12/08
     
-79 records found after deduplication
+82 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-08 04:27:05+00:00 | 660985 | 25777 | Ruby | 11786 | [] |
-| novysodope/Myloader | 学习Classloader的产物，模拟cs shellcode加载 | https://github.com/novysodope/Myloader | ['shellcode'] | 1 | 2021-12-08 05:00:41+00:00 | 10 | 0 | Java | 1 | [] |
+| RealChronics/Exploit-Template | This is my exploit template to my 2021 yt tutorial | https://github.com/RealChronics/Exploit-Template | ['exploit'] | 1 | 2021-12-08 01:25:41+00:00 | 7937 | 0 | C# | 0 | [] |
+| darkerego/CVE-2021-43798 | Python Exploit Code | https://github.com/darkerego/CVE-2021-43798 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-08 00:40:16+00:00 | 0 | 1 | Python | 1 | ['CVE-2021-43798'] |
 | Nicholas-Menanno/FinalProject | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | ['exploit'] | 1 | 2021-12-08 00:34:08+00:00 | 0 | 0 | | 0 | [] |
 | I2rys/REL | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | ['exploit'] | 1 | 2021-12-08 00:06:42+00:00 | 0 | 0 | | 0 | [] |
-| asaotomo/Grafana-V8-EXP | Grafanav8.*版本任意文件读取漏洞poc&exp，该漏洞目前为0day漏洞，未授权的攻击者利用该漏洞，能够获取服务器敏感文件。 | https://github.com/asaotomo/Grafana-V8-EXP | ['0day'] | 1 | 2021-12-08 01:22:53+00:00 | 8 | 4 | Python | 1 | [] |
+| asaotomo/CVE-2021-43798-Grafana-Exp | Grafanav8.*版本任意文件读取漏洞poc&exp，该漏洞目前为0day漏洞，未授权的攻击者利用该漏洞，能够获取服务器敏感文件。 | https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp | ['0day', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-12-08 14:34:26+00:00 | 10 | 4 | Python | 1 | ['CVE-2021-43798'] |
 | Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | grafana-fileread-0day-poc | https://github.com/Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | ['0day', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-12-08 02:31:28+00:00 | 0 | 6 | Python | 0 | ['CVE-2021-43798'] |
 | RAMSES-DG/metasploit-install | None | https://github.com/RAMSES-DG/metasploit-install | ['metasploit module OR payload'] | 1 | 2021-12-08 10:21:34+00:00 | 21 | 0 | Shell | 0 | [] |
 | jas502n/Grafana-CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-08 04:13:58+00:00 | 7 | 92 | Go | 21 | ['CVE-2021-43798'] |
 | tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | None | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | ['cve-2 OR cve_2'] | 1 | 2021-12-08 02:50:18+00:00 | 18 | 12 | | 3 | ['CVE-2021-43798'] |
+| novysodope/Myloader | 学习Classloader的产物，模拟cs shellcode加载 | https://github.com/novysodope/Myloader | ['shellcode'] | 1 | 2021-12-08 05:00:41+00:00 | 10 | 0 | Java | 1 | [] |
 | cris-m/Buffer-Overflow-Exploit-Development | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/Buffer-Overflow-Exploit-Development | ['exploit'] | 1 | 2021-12-08 13:29:50+00:00 | 26746 | 2 | Python | 0 | [] |
-| scopion/CVE-2021-43799 | Python Exploit Code | https://github.com/scopion/CVE-2021-43799 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-08 00:40:16+00:00 | 0 | 1 | | 1 | ['CVE-2021-43799'] |
 | smurtau/Testing-and-Exploiting-Eyeballer | None | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | ['exploit'] | 1 | 2021-12-08 01:06:08+00:00 | 85180 | 0 | Python | 1 | [] |
 | Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-08 04:18:08+00:00 | 36 | 0 | TypeScript | 0 | [] |
 | fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-08 03:40:21+00:00 | 10 | 0 | Ruby | 0 | [] |
@@ -23,10 +24,12 @@
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-08 10:20:39+00:00 | 1630 | 54 | Java | 16 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-08 07:16:12+00:00 | 17251 | 7 | Go | 1 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-12-08 02:15:03+00:00 | 49 | 0 | C | 0 | [] |
-| darkerego/CVE-2021-43798 | Python Exploit Code | https://github.com/darkerego/CVE-2021-43798 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-08 00:40:16+00:00 | 0 | 1 | Python | 1 | ['CVE-2021-43798'] |
-| RealChronics/Exploit-Template | This is my exploit template to my 2021 yt tutorial | https://github.com/RealChronics/Exploit-Template | ['exploit'] | 1 | 2021-12-08 01:25:41+00:00 | 7937 | 0 | C# | 0 | [] |
-| recitmstmam/bolide-saisissant-rcepteur | Un projet MakeCode | https://github.com/recitmstmam/bolide-saisissant-rcepteur | ['rce'] | 1 | 2021-12-08 04:27:09+00:00 | 446 | 0 | TypeScript | 0 | [] |
-| YTEntity303/PS4-Exploit | Test | https://github.com/YTEntity303/PS4-Exploit | ['exploit'] | 1 | 2021-12-08 08:09:39+00:00 | 0 | 0 | | 0 | [] |
+| scopion/CVE-2021-43799 | Python Exploit Code | https://github.com/scopion/CVE-2021-43799 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-08 00:40:16+00:00 | 0 | 1 | | 1 | ['CVE-2021-43799'] |
+| bruzistico/attacker | PoC Attacker | https://github.com/bruzistico/attacker | ['attack poc'] | 1 | 2021-12-08 01:31:47+00:00 | 0 | 0 | HTML | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-08 12:24:41+00:00 | 230109 | 6668 | C | 1835 | [] |
+| memN0ps/ShellcodeRunners | Shellcode Runners made for fun and practice | https://github.com/memN0ps/ShellcodeRunners | ['shellcode'] | 1 | 2021-12-08 01:50:56+00:00 | 0 | 0 | C++ | 0 | [] |
+| mik1th0n/Grafana-0Day-Vuln-POC | Grafana-0Day-Vuln-POC | https://github.com/mik1th0n/Grafana-0Day-Vuln-POC | ['0day', 'vuln poc'] | 2 | 2021-12-08 14:37:36+00:00 | 0 | 1 | Python | 0 | [] |
+| Gabriel-Lima232/Grafana-LFI-8.x | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | ['exploit'] | 1 | 2021-12-08 13:08:08+00:00 | 0 | 0 | Python | 0 | [] |
 | OatmealLiu/DGLN-model-for-Person-Re-ID-with-frozen-learning | A parallel CNN architecture - Discriminative-Global- Local Network (DGLN) to exploit both the discriminative structural information at global scope and the discriminative human-introduced local infomration at local level for improvement of re-id task with | https://github.com/OatmealLiu/DGLN-model-for-Person-Re-ID-with-frozen-learning | ['exploit'] | 1 | 2021-12-08 12:17:53+00:00 | 0 | 0 | Python | 0 | [] |
 | koshtony/remote-xploiter | remotely exploits services and files | https://github.com/koshtony/remote-xploiter | ['exploit'] | 1 | 2021-12-08 11:30:38+00:00 | 0 | 0 | Python | 0 | [] |
 | hackerworld04/GH-Hacking-Tools-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/hackerworld04/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-12-08 10:35:07+00:00 | 0 | 1 | | 0 | [] |
@@ -34,19 +37,19 @@
 | RAMSES-DG/metasploit-framework | None | https://github.com/RAMSES-DG/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-08 10:22:45+00:00 | 0 | 0 | | 0 | [] |
 | RS1987X/Investment-companies-disc-prem | investigate exploiting discount and premia for investment companies | https://github.com/RS1987X/Investment-companies-disc-prem | ['exploit'] | 1 | 2021-12-08 10:12:58+00:00 | 0 | 0 | | 0 | [] |
 | Dinandpower/DisterX | Exploit Script | https://github.com/Dinandpower/DisterX | ['exploit'] | 1 | 2021-12-08 08:57:14+00:00 | 0 | 0 | | 0 | [] |
+| YTEntity303/PS4-Exploit | Test | https://github.com/YTEntity303/PS4-Exploit | ['exploit'] | 1 | 2021-12-08 08:09:39+00:00 | 0 | 0 | | 0 | [] |
 | lfz97/CVE-2021-43798-Grafana-File-Read | CVE-2021-43798-Grafana任意文件读取漏洞 | https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read | ['cve-2 OR cve_2'] | 1 | 2021-12-08 07:16:24+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43798'] |
-| bruzistico/attacker | PoC Attacker | https://github.com/bruzistico/attacker | ['attack poc'] | 1 | 2021-12-08 01:31:47+00:00 | 0 | 0 | HTML | 0 | [] |
 | JiuBanSec/Grafana-CVE-2021-43798 | Grafana File-Read Vuln | https://github.com/JiuBanSec/Grafana-CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-08 07:30:01+00:00 | 0 | 0 | | 0 | ['CVE-2021-43798'] |
 | lipervol/iexploit | exploit with IE | https://github.com/lipervol/iexploit | ['exploit'] | 1 | 2021-12-08 06:29:35+00:00 | 0 | 0 | | 0 | [] |
 | doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2021-12-08 06:36:57+00:00 | 0 | 0 | | 0 | [] |
 | AmirLouktaila/lktploit | Install Metasploit for all version android | https://github.com/AmirLouktaila/lktploit | ['metasploit module OR payload'] | 1 | 2021-12-08 04:57:45+00:00 | 0 | 0 | Python | 0 | [] |
-| j-jasson/CVE-2021-43798-grafana_fileread | None | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-08 03:46:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-43798'] |
+| j-jasson/CVE-2021-43798-grafana_fileread | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-08 07:04:13+00:00 | 3 | 1 | Python | 0 | ['CVE-2021-43798'] |
 | j-jasson/CNVD-2021-49104-Fanwei-Eoffice-fileupload | nan | https://github.com/j-jasson/CNVD-2021-49104-Fanwei-Eoffice-fileupload | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-08 02:31:05+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-49104'] |
-| memN0ps/ShellcodeRunners | Shellcode Runners made for fun and practice | https://github.com/memN0ps/ShellcodeRunners | ['shellcode'] | 1 | 2021-12-08 01:50:56+00:00 | 0 | 0 | C++ | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-08 07:07:58+00:00 | 551 | 6 | Python | 0 | [] |
+| recitmstmam/bolide-saisissant-rcepteur | Un projet MakeCode | https://github.com/recitmstmam/bolide-saisissant-rcepteur | ['rce'] | 1 | 2021-12-08 04:27:09+00:00 | 446 | 0 | TypeScript | 0 | [] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-08 00:16:03+00:00 | 204 | 0 | C | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-08 12:24:41+00:00 | 230109 | 6668 | C | 1835 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-08 01:43:27+00:00 | 35354 | 6164 | Vue | 1308 | [] |
+| vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2021-12-08 05:07:03+00:00 | 52 | 6 | Go | 2 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-08 01:19:16+00:00 | 90 | 0 | PHP | 0 | [] |
 | b4shfire/stegcrack | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | ['exploit'] | 1 | 2021-12-08 13:15:00+00:00 | 20 | 4 | C++ | 2 | ['CVE-2021-27211'] |
 | pwn1sher/uuid-loader | UUID based Shellcode loader for your favorite C2 | https://github.com/pwn1sher/uuid-loader | ['shellcode'] | 1 | 2021-12-08 12:25:08+00:00 | 33 | 0 | C | 0 | [] |
 | Attila94/SepGroupPy | Original code for "Exploiting Learned Symmetries in Group Equivariant Convolutions" | https://github.com/Attila94/SepGroupPy | ['exploit'] | 1 | 2021-12-08 10:49:26+00:00 | 40 | 2 | Python | 0 | [] |
@@ -54,8 +57,8 @@
 | lengjibo/FourEye | AV Evasion Tool For Red Team Ops | https://github.com/lengjibo/FourEye | ['shellcode'] | 1 | 2021-12-08 11:55:15+00:00 | 2451 | 565 | C | 137 | [] |
 | SecuraBV/CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2021-12-08 10:31:54+00:00 | 21 | 1388 | Python | 311 | ['CVE-2020-1472'] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-08 00:45:44+00:00 | 9282 | 25 | | 15 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-08 01:43:27+00:00 | 35354 | 6164 | Vue | 1308 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-08 06:20:43+00:00 | 3699 | 2181 | Python | 623 | [] |
-| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-08 00:15:19+00:00 | 433953 | 63 | TypeScript | 4 | [] |
 | R00tS3c/DDOS-RootSec | DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | ['exploit'] | 1 | 2021-12-08 12:45:27+00:00 | 177103 | 120 | Python | 78 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-12-08 06:28:50+00:00 | 3032 | 1380 | | 459 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-08 00:16:55+00:00 | 202002 | 254 | Ruby | 78 | [] |
@@ -63,9 +66,9 @@
 | SouthGreenPlatform/AgroLD_webapp | AgroLD is a RDF knowledge base that consists of data integrated from a variety of plant resources and ontologies. The aim of the Agronomic Linked Data (AgroLD) project is to provide a portal for bioinformatics and domain experts to exploit the homogenized | https://github.com/SouthGreenPlatform/AgroLD_webapp | ['exploit'] | 1 | 2021-12-08 10:13:47+00:00 | 254229 | 5 | JavaScript | 3 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-12-08 13:34:14+00:00 | 660697 | 9 | Python | 27 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-12-08 06:33:39+00:00 | 60510 | 1150 | C | 552 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-08 01:19:16+00:00 | 90 | 0 | PHP | 0 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-08 00:15:19+00:00 | 433953 | 63 | TypeScript | 4 | [] |
 | turbot/steampipe-plugin-shodan | Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. | https://github.com/turbot/steampipe-plugin-shodan | ['exploit'] | 1 | 2021-12-08 08:05:58+00:00 | 176 | 19 | Go | 2 | [] |
-| vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2021-12-08 05:07:03+00:00 | 52 | 6 | Go | 2 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-08 04:01:58+00:00 | 96226 | 256 | Python | 78 | [] |
 | alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-12-08 12:35:55+00:00 | 4089 | 0 | Python | 0 | [] |
 | Winds-Studio/Surf | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-08 10:36:18+00:00 | 159 | 0 | Java | 0 | [] |
 | YZHacker0/BaconSploits | nan | https://github.com/YZHacker0/BaconSploits | ['sploit'] | 1 | 2021-12-08 11:10:25+00:00 | 3 | 0 | HTML | 0 | [] |
@@ -75,7 +78,7 @@
 | aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-08 04:42:04+00:00 | 444 | 0 | HTML | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-12-08 10:26:14+00:00 | 18691 | 10 | Rust | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-12-08 04:39:04+00:00 | 2360 | 4 | Python | 2 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-08 04:01:58+00:00 | 96226 | 256 | Python | 78 | [] |
+| nop-tech/Pentesting | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | ['exploit'] | 1 | 2021-12-08 14:08:58+00:00 | 12305 | 3 | PowerShell | 3 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-08 00:36:27+00:00 | 989 | 269 | JavaScript | 521 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-12-08 02:42:06+00:00 | 54524 | 12 | Python | 3 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-12-08 13:30:19+00:00 | 151 | 2 | | 0 | [] |
@@ -83,4 +86,4 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-08 01:10:32+00:00 | 20730 | 2 | Python | 0 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2021-12-08 06:04:40+00:00 | 72 | 0 | Lua | 0 | [] |
 | bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-12-08 03:18:58+00:00 | 6514 | 235 | Python | 48 | [] |
-| Gabriel-Lima232/Grafana-LFI-8.x | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | ['exploit'] | 1 | 2021-12-08 13:08:08+00:00 | 0 | 0 | Python | 0 | [] |
+| s1gh/CVE-2021-43798 | None | https://github.com/s1gh/CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-08 14:18:20+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43798'] |
