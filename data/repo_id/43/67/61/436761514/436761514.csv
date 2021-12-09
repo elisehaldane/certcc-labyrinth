@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+436761514,Marcelektro/Log4J-RCE-Implementation,README.md,1e69a0da901ea712f83a9cce3086fe655d62ad5c,CVE-2017-5645
+436761514,Marcelektro/Log4J-RCE-Implementation,src/main/java/uwu/rce/moment/Main.java,b5aaa79166bb1f93e960ed27f0e9019bcdc7f232,CVE-2017-5645
