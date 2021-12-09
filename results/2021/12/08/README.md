@@ -4,7 +4,7 @@
 126 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-08 04:27:05+00:00 | 660985 | 25777 | Ruby | 11786 | [] |
 | RooverPY/RooverCord | Discord SelfBot & Exploit Executor | https://github.com/RooverPY/RooverCord | ['exploit'] | 1 | 2021-12-08 16:42:34+00:00 | 100 | 3 | Python | 1 | [] |
 | scopion/CVE-2021-43799 | Python Exploit Code | https://github.com/scopion/CVE-2021-43799 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-08 00:40:16+00:00 | 0 | 1 | | 1 | ['CVE-2021-43799'] |
@@ -66,7 +66,7 @@
 | lipervol/iexploit | exploit with IE | https://github.com/lipervol/iexploit | ['exploit'] | 1 | 2021-12-08 06:29:35+00:00 | 0 | 0 | | 0 | [] |
 | doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2021-12-08 06:36:57+00:00 | 0 | 0 | | 0 | [] |
 | AmirLouktaila/lktploit | Install Metasploit for all version android | https://github.com/AmirLouktaila/lktploit | ['metasploit module OR payload'] | 1 | 2021-12-08 04:57:45+00:00 | 0 | 0 | Python | 0 | [] |
-| j-jasson/CVE-2021-43798-grafana_fileread | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-08 07:04:13+00:00 | 3 | 1 | Python | 0 | ['CVE-2021-43798'] |
+| j-jasson/CVE-2021-43798-grafana_fileread | None | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-08 03:46:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-43798'] |
 | nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-08 22:38:40+00:00 | 6 | 0 | Jupyter Notebook | 0 | [] |
 | recitmstmam/bolide-saisissant-rcepteur | Un projet MakeCode | https://github.com/recitmstmam/bolide-saisissant-rcepteur | ['rce'] | 1 | 2021-12-08 04:27:09+00:00 | 446 | 0 | TypeScript | 0 | [] |
 | Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-08 00:16:03+00:00 | 204 | 0 | C | 0 | [] |
@@ -112,7 +112,7 @@
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-12-08 13:28:04+00:00 | 4471 | 1 | Python | 0 | [] |
 | Banaanae/exploits | None | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-08 04:01:43+00:00 | 130 | 0 | Lua | 0 | [] |
 | aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-12-08 04:42:04+00:00 | 444 | 0 | HTML | 0 | [] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-12-08 10:26:14+00:00 | 18691 | 10 | Rust | 0 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-12-08 10:26:14+00:00 | 18691 | 10 | Rust | 0 | [] |
 | alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-12-08 12:35:55+00:00 | 4089 | 0 | Python | 0 | [] |
 | IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | None | https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | ['exploit', 'remote code execution'] | 2 | 2021-12-08 20:23:50+00:00 | 7 | 0 | Python | 1 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-12-08 04:39:04+00:00 | 2360 | 4 | Python | 2 | [] |
