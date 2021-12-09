@@ -1,12 +1,11 @@
 
 # Summary for results/2021/12/09
     
-53 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-09 08:43:01+00:00 | 661120 | 25794 | Ruby | 11793 | [] |
-| kaFox4/FxSploit | FxSploit v1.1 | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-12-09 07:52:55+00:00 | 59 | 0 | | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-09 02:39:23+00:00 | 273 | 22 | JavaScript | 16 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-09 05:14:29+00:00 | 4213 | 0 | JavaScript | 0 | [] |
 | Imptovskii/ExploitFixer | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | ['exploit'] | 1 | 2021-12-09 08:54:21+00:00 | 32 | 4 | Java | 1 | [] |
@@ -30,10 +29,15 @@
 | bobux-man/CronosX | Website for Web/External Exploits (games) | https://github.com/bobux-man/CronosX | ['exploit'] | 1 | 2021-12-09 03:35:59+00:00 | 0 | 0 | | 0 | [] |
 | xiaogouxion/cnvd- | 使用py编写，使用者需要更改超级鹰账号密码，以及cnvd账号密码 | https://github.com/xiaogouxion/cnvd- | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-09 05:36:17+00:00 | 0 | 0 | nan | 0 | [] |
 | cyberforcegenic/exploit-code-for-SDR | None | https://github.com/cyberforcegenic/exploit-code-for-SDR | ['exploit'] | 1 | 2021-12-09 07:05:13+00:00 | 0 | 0 | | 0 | [] |
+| corrupted-brain/exploit-files | None | https://github.com/corrupted-brain/exploit-files | ['exploit'] | 1 | 2021-12-09 08:46:07+00:00 | 0 | 0 | | 0 | [] |
+| z3n70/CVE-2021-43798 | Simple program for exploit grafana | https://github.com/z3n70/CVE-2021-43798 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-09 10:10:25+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2021-43798'] |
+| johhhnnnnnn13/RCE | Implementation of Remote Command Execution using socket programming | https://github.com/johhhnnnnnn13/RCE | ['rce'] | 1 | 2021-12-09 10:13:23+00:00 | 0 | 0 | Java | 0 | [] |
+| culprits/Grafana_POC-CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-09 09:56:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43798'] |
+| julesbozouklian/CVE-2021-43798 | None | https://github.com/julesbozouklian/CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-09 10:29:24+00:00 | 0 | 0 | | 0 | ['CVE-2021-43798'] |
+| Banaanae/exploits | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-09 09:48:01+00:00 | 134 | 0 | Lua | 0 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-12-09 09:16:52+00:00 | 75 | 1 | Python | 0 | [] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-09 00:37:23+00:00 | 996 | 279 | JavaScript | 532 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-09 00:43:08+00:00 | 12448 | 4154 | Python | 596 | [] |
-| hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-09 04:30:40+00:00 | 10075 | 1 | Shell | 0 | [] |
+| kaFox4/FxSploit | FxSploit v1.1 | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-12-09 07:52:55+00:00 | 59 | 0 | | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-09 00:06:38+00:00 | 1534769 | 1539 | Python | 524 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-09 00:16:55+00:00 | 203535 | 254 | Ruby | 78 | [] |
 | Ch0pin/AVIator | Antivirus evasion project | https://github.com/Ch0pin/AVIator | ['shellcode'] | 1 | 2021-12-09 07:24:22+00:00 | 2634 | 618 | C# | 174 | [] |
@@ -44,6 +48,7 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-09 06:40:56+00:00 | 66338 | 1332 | Python | 266 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-09 00:45:45+00:00 | 10176 | 25 | | 16 | [] |
 | Banxen/ShellcodeToPE | Generate PE for the input shellcode for quick debugging or sandbox submission or whatsoever. Use only for 32 bit shellcode. | https://github.com/Banxen/ShellcodeToPE | ['shellcode'] | 1 | 2021-12-09 05:27:59+00:00 | 71 | 1 | C | 1 | [] |
+| basedfir/awesomekql | Azure Sentinel intrusion detection rules, recent exploits and lolbas :) | https://github.com/basedfir/awesomekql | ['exploit'] | 1 | 2021-12-09 09:45:31+00:00 | 59 | 8 | | 0 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2021-12-09 08:37:47+00:00 | 27607 | 39 | Shell | 18 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-09 00:03:44+00:00 | 435838 | 36 | | 20 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-12-09 07:54:28+00:00 | 6892 | 1 | JavaScript | 0 | [] |
@@ -56,5 +61,8 @@
 | Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2021-12-09 05:32:56+00:00 | 154660 | 0 | Shell | 1 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2021-12-09 03:53:54+00:00 | 84 | 0 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-09 01:09:24+00:00 | 21611 | 2 | Python | 0 | [] |
+| 0xvpr/Malicious-Software-Research | A repository dedicated to researching, documents, developing, and ultimately, defending against various strains of malicious software. | https://github.com/0xvpr/Malicious-Software-Research | ['shellcode'] | 1 | 2021-12-09 10:00:28+00:00 | 722 | 2 | C | 0 | [] |
 | Amitale/Penetration-Testing-Notes | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | ['exploit'] | 1 | 2021-12-09 08:56:57+00:00 | 5 | 0 | | 0 | [] |
-| corrupted-brain/exploit-files | None | https://github.com/corrupted-brain/exploit-files | ['exploit'] | 1 | 2021-12-09 08:46:07+00:00 | 0 | 0 | | 0 | [] |
+| hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-09 04:30:40+00:00 | 10075 | 1 | Shell | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-09 00:37:23+00:00 | 996 | 279 | JavaScript | 532 | [] |
+| colby57/shellcode-antidebug | Calls a function to read PEB in allocated memory and, depending on the byte returned, calls MessageBoxA (also in allocated memory) | https://github.com/colby57/shellcode-antidebug | ['shellcode'] | 1 | 2021-12-09 10:39:02+00:00 | 0 | 0 | C++ | 0 | [] |
