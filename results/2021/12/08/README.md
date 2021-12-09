@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/08
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -21,7 +21,7 @@
 | cris-m/Buffer-Overflow-Exploit-Development | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/Buffer-Overflow-Exploit-Development | ['exploit'] | 1 | 2021-12-08 13:29:50+00:00 | 26746 | 2 | Python | 0 | [] |
 | Asaad27/CVE-2021-22204-RSE | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-08 18:24:23+00:00 | 33 | 0 | | 0 | ['CVE-2021-22204'] |
 | RooverPY/RooverCord | Discord SelfBot & Exploit Executor | https://github.com/RooverPY/RooverCord | ['exploit'] | 1 | 2021-12-08 16:42:34+00:00 | 100 | 3 | Python | 1 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-08 12:24:41+00:00 | 230109 | 6668 | C | 1835 | [] |
+| nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-08 22:38:40+00:00 | 6 | 0 | Jupyter Notebook | 0 | [] |
 | Kudratliishere/HeapOverflow | None | https://github.com/Kudratliishere/HeapOverflow | ['heap overflow'] | 1 | 2021-12-08 15:47:19+00:00 | 0 | 0 | C# | 0 | [] |
 | Calpico-Drink/AntiExploit | None | https://github.com/Calpico-Drink/AntiExploit | ['exploit'] | 1 | 2021-12-08 04:18:08+00:00 | 36 | 0 | TypeScript | 0 | [] |
 | fzcooper/hm_ms_exploit | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-08 03:40:21+00:00 | 10 | 0 | Ruby | 0 | [] |
@@ -67,9 +67,9 @@
 | doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2021-12-08 06:36:57+00:00 | 0 | 0 | | 0 | [] |
 | AmirLouktaila/lktploit | Install Metasploit for all version android | https://github.com/AmirLouktaila/lktploit | ['metasploit module OR payload'] | 1 | 2021-12-08 04:57:45+00:00 | 0 | 0 | Python | 0 | [] |
 | 1x04/NexSploit | None | https://github.com/1x04/NexSploit | ['sploit'] | 1 | 2021-12-08 17:36:16+00:00 | 3 | 0 | | 0 | [] |
-| nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-08 22:38:40+00:00 | 6 | 0 | Jupyter Notebook | 0 | [] |
 | recitmstmam/bolide-saisissant-rcepteur | Un projet MakeCode | https://github.com/recitmstmam/bolide-saisissant-rcepteur | ['rce'] | 1 | 2021-12-08 04:27:09+00:00 | 446 | 0 | TypeScript | 0 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-08 01:19:16+00:00 | 90 | 0 | PHP | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-08 12:24:41+00:00 | 230109 | 6668 | C | 1835 | [] |
+| panzouh/Docker-Runc-Exploit | Docker runc CVE-2019-5736 exploit Dockerfile. Credits : https://github.com/Frichetten/CVE-2019-5736-PoC.git | https://github.com/panzouh/Docker-Runc-Exploit | ['cve poc', 'exploit'] | 2 | 2021-12-08 15:16:23+00:00 | 1 | 1 | Dockerfile | 0 | ['CVE-2019-5736'] |
 | pwn1sher/uuid-loader | UUID based Shellcode loader for your favorite C2 | https://github.com/pwn1sher/uuid-loader | ['shellcode'] | 1 | 2021-12-08 12:25:08+00:00 | 33 | 0 | C | 0 | [] |
 | Attila94/SepGroupPy | Original code for "Exploiting Learned Symmetries in Group Equivariant Convolutions" | https://github.com/Attila94/SepGroupPy | ['exploit'] | 1 | 2021-12-08 10:49:26+00:00 | 40 | 2 | Python | 0 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-12-08 22:34:52+00:00 | 15657 | 0 | Lua | 0 | [] |
@@ -80,10 +80,11 @@
 | lucky624/CommonSploits | None | https://github.com/lucky624/CommonSploits | ['sploit'] | 1 | 2021-12-08 21:32:55+00:00 | 1367 | 1 | Python | 0 | [] |
 | sho-luv/mass-effect | A tool that uses Masscan to identify open ports I have exploits for. | https://github.com/sho-luv/mass-effect | ['exploit'] | 1 | 2021-12-08 19:04:34+00:00 | 13500 | 1 | Shell | 0 | [] |
 | OlivierLaflamme/Exploit-Dev-CVE-Code | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Exploit-Dev-CVE-Code | ['exploit'] | 1 | 2021-12-08 21:59:41+00:00 | 61374 | 8 | PowerShell | 8 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-12-08 15:48:38+00:00 | 640 | 570 | Java | 61 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-08 00:45:44+00:00 | 9282 | 25 | | 15 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-08 01:43:27+00:00 | 35354 | 6164 | Vue | 1308 | [] |
-| panzouh/Docker-Runc-Exploit | Docker runc CVE-2019-5736 exploit Dockerfile. Credits : https://github.com/Frichetten/CVE-2019-5736-PoC.git | https://github.com/panzouh/Docker-Runc-Exploit | ['cve poc', 'exploit'] | 2 | 2021-12-08 15:16:23+00:00 | 1 | 1 | Dockerfile | 0 | ['CVE-2019-5736'] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-12-08 18:36:55+00:00 | 570 | 114 | Julia | 23 | [] |
+| Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-08 00:16:03+00:00 | 204 | 0 | C | 0 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-08 06:20:43+00:00 | 3699 | 2181 | Python | 623 | [] |
 | R00tS3c/DDOS-RootSec | DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | ['exploit'] | 1 | 2021-12-08 12:45:27+00:00 | 177103 | 120 | Python | 78 | [] |
 | w4fz5uck5/3XPL01t5 | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | ['exploit'] | 1 | 2021-12-08 23:24:03+00:00 | 2344 | 24 | Python | 14 | [] |
@@ -98,8 +99,8 @@
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-12-08 13:34:14+00:00 | 660697 | 9 | Python | 27 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-12-08 06:33:39+00:00 | 60510 | 1150 | C | 552 | [] |
 | b4shfire/stegcrack | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | ['exploit'] | 1 | 2021-12-08 13:15:00+00:00 | 20 | 4 | C++ | 2 | ['CVE-2021-27211'] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-08 01:19:16+00:00 | 90 | 0 | PHP | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-08 00:15:19+00:00 | 433953 | 63 | TypeScript | 4 | [] |
-| Eyeofthequeen/TP_sys_exploitation | None | https://github.com/Eyeofthequeen/TP_sys_exploitation | ['exploit'] | 1 | 2021-12-08 00:16:03+00:00 | 204 | 0 | C | 0 | [] |
 | turbot/steampipe-plugin-shodan | Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. | https://github.com/turbot/steampipe-plugin-shodan | ['exploit'] | 1 | 2021-12-08 08:05:58+00:00 | 176 | 19 | Go | 2 | [] |
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-08 22:04:53+00:00 | 4348 | 0 | Jupyter Notebook | 0 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2021-12-08 05:07:03+00:00 | 52 | 6 | Go | 2 | [] |
