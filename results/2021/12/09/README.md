@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/09
     
-27 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-09 00:43:08+00:00 | 12448 | 4154 | Python | 596 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2021-12-09 02:39:23+00:00 | 273 | 22 | JavaScript | 16 | [] |
+| bobux-man/CronosX | Website for Web/External Exploits (games) | https://github.com/bobux-man/CronosX | ['exploit'] | 1 | 2021-12-09 03:35:59+00:00 | 0 | 0 | | 0 | [] |
 | mrx04programmer/frza | Python Project with tools simples and advanced for Analysis/Exploit (Beta) | https://github.com/mrx04programmer/frza | ['exploit'] | 1 | 2021-12-09 03:03:15+00:00 | 0 | 0 | | 0 | [] |
 | RoadLuck/exploits-tryhackme | None | https://github.com/RoadLuck/exploits-tryhackme | ['exploit'] | 1 | 2021-12-09 02:40:07+00:00 | 0 | 0 | | 0 | [] |
 | daa16kxMc2x21/Ragdoll-Engine-UI | For Exploits | https://github.com/daa16kxMc2x21/Ragdoll-Engine-UI | ['exploit'] | 1 | 2021-12-09 01:25:52+00:00 | 0 | 0 | | 0 | [] |
@@ -18,17 +19,20 @@
 | nannan777/rces_final_project | None | https://github.com/nannan777/rces_final_project | ['rce'] | 1 | 2021-12-09 04:28:20+00:00 | 2217 | 0 | Jupyter Notebook | 0 | [] |
 | laurapenrose/Final-Project-rces | None | https://github.com/laurapenrose/Final-Project-rces | ['rce'] | 1 | 2021-12-09 03:24:50+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-12-09 01:51:47+00:00 | 61 | 0 | Lua | 0 | [] |
+| tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-09 05:14:29+00:00 | 4213 | 0 | JavaScript | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-09 00:37:23+00:00 | 996 | 279 | JavaScript | 532 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-09 00:06:38+00:00 | 1534769 | 1539 | Python | 524 | [] |
 | hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-09 04:30:40+00:00 | 10075 | 1 | Shell | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-09 01:09:24+00:00 | 21611 | 2 | Python | 0 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2021-12-09 03:53:54+00:00 | 84 | 0 | Lua | 0 | [] |
+| Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2021-12-09 05:32:56+00:00 | 154660 | 0 | Shell | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-09 04:02:09+00:00 | 98413 | 256 | Python | 78 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-09 00:33:28+00:00 | 439679 | 64 | TypeScript | 4 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-09 00:52:15+00:00 | 91 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-09 00:03:44+00:00 | 435838 | 36 | | 20 | [] |
+| Banxen/ShellcodeToPE | Generate PE for the input shellcode for quick debugging or sandbox submission or whatsoever. Use only for 32 bit shellcode. | https://github.com/Banxen/ShellcodeToPE | ['shellcode'] | 1 | 2021-12-09 05:27:59+00:00 | 71 | 1 | C | 1 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-09 00:45:45+00:00 | 10176 | 25 | | 16 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-09 02:31:31+00:00 | 35354 | 6168 | Vue | 1308 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-12-09 00:57:04+00:00 | 570 | 114 | Julia | 23 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-09 00:16:55+00:00 | 203535 | 254 | Ruby | 78 | [] |
-| bobux-man/CronosX | Website for Web/External Exploits (games) | https://github.com/bobux-man/CronosX | ['exploit'] | 1 | 2021-12-09 03:35:59+00:00 | 0 | 0 | | 0 | [] |
+| xiaogouxion/cnvd- | 使用py编写，使用者需要更改超级鹰账号密码，以及cnvd账号密码 | https://github.com/xiaogouxion/cnvd- | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-09 05:36:17+00:00 | 0 | 0 | nan | 0 | [] |
