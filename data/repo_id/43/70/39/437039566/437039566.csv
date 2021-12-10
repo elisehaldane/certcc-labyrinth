@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+437039566,hashman8433/log4j2-exploits,README.md,cc0554f371d2188562df823df51a90052be2a977,CVE-2018-3149
