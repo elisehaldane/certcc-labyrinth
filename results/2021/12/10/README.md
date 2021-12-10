@@ -1,14 +1,12 @@
 
 # Summary for results/2021/12/10
     
-60 records found after deduplication
+67 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-10 06:39:32+00:00 | 661560 | 25802 | Ruby | 11797 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-10 05:08:24+00:00 | 230109 | 6676 | C | 1836 | [] |
-| FrankHeijden/Log4jFix | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | ['exploit'] | 1 | 2021-12-10 01:31:34+00:00 | 0 | 1 | Java | 2 | [] |
-| 0x0021h/apache-log4j-rce | Apache Log4j 2.x <= 2.14.1 RCE | https://github.com/0x0021h/apache-log4j-rce | ['rce'] | 1 | 2021-12-10 01:45:10+00:00 | 0 | 0 | Java | 2 | [] |
+| jas502n/Log4j2-CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-10 05:23:45+00:00 | 0 | 4 | | 0 | ['CVE-2021-44228'] |
 | apple502j/Log4Jail | Censor chat messages abusing log4j 0day | https://github.com/apple502j/Log4Jail | ['0day'] | 1 | 2021-12-10 01:27:08+00:00 | 0 | 0 | Java | 0 | [] |
 | Glavo/log4j-patch | Non intrusive log4j2 RCE vulnerability patch. | https://github.com/Glavo/log4j-patch | ['rce'] | 1 | 2021-12-10 05:21:44+00:00 | 70 | 4 | Kotlin | 0 | [] |
 | Babyhamsta/Exploit-Update-Watcher | A tool that uses exploit's APIs to watch and see if they update while the application is open. Fully open sourced coded in .NET Core 3.1 (C#) | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2021-12-10 01:51:43+00:00 | 0 | 0 | C# | 0 | [] |
@@ -23,8 +21,8 @@
 | xsser/log4jdemoforRCE | log4jdemoforRCE | https://github.com/xsser/log4jdemoforRCE | ['rce'] | 1 | 2021-12-10 04:38:21+00:00 | 0 | 0 | Java | 1 | [] |
 | UltraVanilla/LogJackFix | A spigot plugin to fix CVE-2021-44228 Log4j remote code execution vulnerability, to protect Minecraft clients. | https://github.com/UltraVanilla/LogJackFix | ['remote code execution'] | 1 | 2021-12-10 04:20:15+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | zerodaysjoker/zerodaysjoker | Config files for my GitHub profile. | https://github.com/zerodaysjoker/zerodaysjoker | ['zeroday'] | 1 | 2021-12-10 04:42:32+00:00 | 0 | 0 | | 0 | [] |
-| jas502n/Log4j2-CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-10 05:23:45+00:00 | 0 | 4 | | 0 | ['CVE-2021-44228'] |
 | DichuuCraft/LOG4J2-3201-fix | Fix logging exploit caused by LOG4J2-3201 | https://github.com/DichuuCraft/LOG4J2-3201-fix | ['exploit'] | 1 | 2021-12-10 05:29:36+00:00 | 0 | 0 | Java | 0 | [] |
+| FrankHeijden/Log4jFix | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | ['exploit'] | 1 | 2021-12-10 01:31:34+00:00 | 0 | 1 | Java | 2 | [] |
 | udoless/apache-log4j-rce-poc | None | https://github.com/udoless/apache-log4j-rce-poc | ['rce', 'rce poc'] | 2 | 2021-12-10 06:14:08+00:00 | 0 | 2 | Java | 3 | [] |
 | b23r0/minecraft-log4j-exploit | A log4j2 3021 JNDI-injection exploit for minecraft server < 1.17. | https://github.com/b23r0/minecraft-log4j-exploit | ['exploit'] | 1 | 2021-12-10 06:12:34+00:00 | 0 | 0 | | 0 | [] |
 | HyCraftHD/Log4J-RCE-Proof-Of-Concept | Log4j-RCE (CVE-2021-44228) | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | ['exploit', 'rce'] | 2 | 2021-12-10 06:51:41+00:00 | 66 | 0 | Java | 1 | ['CVE-2021-44228'] |
@@ -33,11 +31,16 @@
 | Seayon/Log4j2RCE_Demo | None | https://github.com/Seayon/Log4j2RCE_Demo | ['rce'] | 1 | 2021-12-10 06:29:55+00:00 | 0 | 0 | | 0 | [] |
 | HyperSkys/ServerPatcher | Patches exploits before Mojang does so you don't have to worry about it. | https://github.com/HyperSkys/ServerPatcher | ['exploit'] | 1 | 2021-12-10 06:41:59+00:00 | 0 | 0 | Java | 0 | [] |
 | ReadER-L/log4j-rce | None | https://github.com/ReadER-L/log4j-rce | ['rce'] | 1 | 2021-12-10 06:40:29+00:00 | 0 | 0 | Java | 0 | [] |
+| boundaryx/cloudrasp-log4j2 | 一个针对防御 log4j2 CVE-2021-44228 漏洞的 RASP 工具。 A Runtime Application Self-Protection module specifically designed for log4j2 RCE (CVE-2021-44228) defense. | https://github.com/boundaryx/cloudrasp-log4j2 | ['rce'] | 1 | 2021-12-10 08:37:29+00:00 | 975 | 29 | Java | 4 | ['CVE-2021-44228'] |
 | ReadER-L/log4j-rce | None | https://github.com/ReadER-L/log4j-rce | ['rce'] | 1 | 2021-12-10 06:53:20+00:00 | 0 | 0 | Java | 1 | [] |
+| dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-12-10 07:07:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| y35uishere/Log4j2-CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/y35uishere/Log4j2-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-10 05:46:20+00:00 | 1 | 0 | | 0 | ['CVE-2021-44228'] |
+| ilsubyeega/log4j2-exploits | None | https://github.com/ilsubyeega/log4j2-exploits | ['exploit'] | 1 | 2021-12-10 07:44:14+00:00 | 3 | 0 | JavaScript | 0 | [] |
+| ChloePrime/fix4log4j | None | https://github.com/ChloePrime/fix4log4j | ['0day'] | 1 | 2021-12-10 08:17:44+00:00 | 0 | 0 | Java | 0 | [] |
+| 0x0021h/apache-log4j-rce | Apache Log4j 2.x <= 2.14.1 RCE | https://github.com/0x0021h/apache-log4j-rce | ['rce'] | 1 | 2021-12-10 01:45:10+00:00 | 0 | 0 | Java | 2 | [] |
 | lhthanhdat/Discord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | ['exploit'] | 1 | 2021-12-10 01:07:20+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| notrhys/Log-4J-Exploit-Fix | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | ['exploit', 'rce'] | 2 | 2021-12-10 00:36:44+00:00 | 0 | 1 | Java | 0 | [] |
-| mgargiullo/cve-2018-1207 | Exploit iDRAC 7 & 8 firmware < 2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-10 01:43:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-1207'] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-10 00:19:24+00:00 | 1015 | 286 | JavaScript | 565 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-10 05:08:24+00:00 | 230109 | 6676 | C | 1836 | [] |
+| headst1337/PoligonCTF_Tasklist | The service was written for POLYGON CTF 2021, held within the Siberian Forum "Information Security 2021" with the Command Injection vulnerability. It is a website with the ability to create notes. The service is written using Ruby on rails framework. | https://github.com/headst1337/PoligonCTF_Tasklist | ['command injection'] | 1 | 2021-12-10 02:53:04+00:00 | 184 | 0 | Ruby | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-10 00:16:51+00:00 | 203535 | 255 | Ruby | 78 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-12-10 01:36:52+00:00 | 2772549 | 360 | JavaScript | 54 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-12-10 00:22:25+00:00 | 190136 | 25 | C++ | 56 | [] |
@@ -50,11 +53,13 @@
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-10 01:29:34+00:00 | 439684 | 68 | TypeScript | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-10 04:02:00+00:00 | 98963 | 256 | Python | 78 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-10 01:10:05+00:00 | 22465 | 2 | Python | 0 | [] |
-| headst1337/PoligonCTF_Tasklist | The service was written for POLYGON CTF 2021, held within the Siberian Forum "Information Security 2021" with the Command Injection vulnerability. It is a website with the ability to create notes. The service is written using Ruby on rails framework. | https://github.com/headst1337/PoligonCTF_Tasklist | ['command injection'] | 1 | 2021-12-10 02:53:04+00:00 | 184 | 0 | Ruby | 0 | [] |
-| doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2021-12-10 05:54:09+00:00 | 20 | 0 | | 0 | [] |
+| aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2021-12-10 07:57:09+00:00 | 9711 | 24 | C++ | 3 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-10 00:19:24+00:00 | 1015 | 286 | JavaScript | 565 | [] |
 | chrismlee26/Jinja2-ExploitMe | BEW2.3 Web Security | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-10 00:20:16+00:00 | 67 | 0 | HTML | 0 | [] |
+| notrhys/Log-4J-Exploit-Fix | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | ['exploit', 'rce'] | 2 | 2021-12-10 00:36:44+00:00 | 0 | 1 | Java | 0 | [] |
 | shellcode-club/LiveTerm | Stream or share your Terminal on the web. Work for https://term.shellcode.sh. | https://github.com/shellcode-club/LiveTerm | ['shellcode'] | 1 | 2021-12-10 05:12:42+00:00 | 2 | 2 | C | 0 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-12-10 02:09:26+00:00 | 119547 | 0 | Shell | 0 | [] |
+| ahmad4fifz/CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-10 07:54:57+00:00 | 26 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-10 07:25:59+00:00 | 1041 | 232 | Python | 42 | [] |
 | Havenviex/Exploiting-Shitz | stuff | https://github.com/Havenviex/Exploiting-Shitz | ['exploit'] | 1 | 2021-12-10 00:14:16+00:00 | 127 | 0 | | 0 | [] |
 | Aka-Andrew/Exploiting | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | ['exploit'] | 1 | 2021-12-10 02:39:05+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -64,4 +69,6 @@
 | okn0315/exploitcode | None | https://github.com/okn0315/exploitcode | ['exploit'] | 1 | 2021-12-10 05:55:33+00:00 | 0 | 0 | | 0 | [] |
 | RAMSES-DG/metasploit-install | None | https://github.com/RAMSES-DG/metasploit-install | ['metasploit module OR payload'] | 1 | 2021-12-10 00:26:15+00:00 | 54 | 0 | Shell | 0 | [] |
 | I2rys/REL | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | ['exploit'] | 1 | 2021-12-10 00:35:24+00:00 | 3 | 2 | | 0 | [] |
-| dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-12-10 07:07:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2021-12-10 05:54:09+00:00 | 20 | 0 | | 0 | [] |
+| mgargiullo/cve-2018-1207 | Exploit iDRAC 7 & 8 firmware < 2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-10 01:43:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-1207'] |
+| leonjza/log4jpwn | log4j rce test environment | https://github.com/leonjza/log4jpwn | ['rce'] | 1 | 2021-12-10 08:31:16+00:00 | 0 | 1 | Java | 0 | [] |
