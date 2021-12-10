@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/09
     
-128 records found after deduplication
+130 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-09 08:43:01+00:00 | 661120 | 25794 | Ruby | 11793 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-12-09 17:56:56+00:00 | 60551 | 1150 | C | 552 | [] |
+| xiaogouxion/cnvd- | 使用py编写，使用者需要更改超级鹰账号密码，以及cnvd账号密码 | https://github.com/xiaogouxion/cnvd- | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-09 05:36:17+00:00 | 0 | 0 | nan | 0 | [] |
 | mrx04programmer/frza | Python Project with tools simples and advanced for Analysis/Exploit (Beta) | https://github.com/mrx04programmer/frza | ['exploit'] | 1 | 2021-12-09 03:03:15+00:00 | 0 | 0 | | 0 | [] |
 | RoadLuck/exploits-tryhackme | None | https://github.com/RoadLuck/exploits-tryhackme | ['exploit'] | 1 | 2021-12-09 02:40:07+00:00 | 0 | 0 | | 0 | [] |
 | daa16kxMc2x21/Ragdoll-Engine-UI | For Exploits | https://github.com/daa16kxMc2x21/Ragdoll-Engine-UI | ['exploit'] | 1 | 2021-12-09 01:25:52+00:00 | 0 | 0 | | 0 | [] |
@@ -23,6 +23,7 @@
 | fmerizzi/color_symmetries | In this repo I explore some techniques for producing color sets by exploiting symmetries in color representation. | https://github.com/fmerizzi/color_symmetries | ['exploit'] | 1 | 2021-12-09 14:07:50+00:00 | 34 | 0 | Jupyter Notebook | 0 | [] |
 | jonaslyk/exploitkitpub | None | https://github.com/jonaslyk/exploitkitpub | ['exploit'] | 1 | 2021-12-09 18:41:17+00:00 | 370 | 45 | C++ | 10 | [] |
 | schepal/flashbots_playground | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | ['exploit'] | 1 | 2021-12-09 00:14:09+00:00 | 7233 | 0 | JavaScript | 0 | [] |
+| jbaines-r7/shakeitoff | Windows LPE 0-day | https://github.com/jbaines-r7/shakeitoff | ['exploit'] | 1 | 2021-12-09 20:03:10+00:00 | 521 | 42 | C++ | 8 | ['CVE-2021-41379'] |
 | Y1LD1R1M-1337/Limesurvey-RCE | LimeSurvey Authenticated RCE | https://github.com/Y1LD1R1M-1337/Limesurvey-RCE | ['rce'] | 1 | 2021-12-09 11:04:46+00:00 | 6 | 1 | Python | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-09 12:28:39+00:00 | 17285 | 10 | Python | 2 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2021-12-09 00:41:52+00:00 | 65 | 0 | C | 0 | [] |
@@ -35,11 +36,11 @@
 | annieleal/rces-final-project | None | https://github.com/annieleal/rces-final-project | ['rce'] | 1 | 2021-12-09 20:09:54+00:00 | 280 | 0 | Jupyter Notebook | 0 | [] |
 | Mlemix/roblox.ls | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | ['exploit'] | 1 | 2021-12-09 01:51:47+00:00 | 61 | 0 | Lua | 0 | [] |
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-09 17:00:16+00:00 | 2002 | 0 | Python | 0 | [] |
-| glugeorge/rces-project | None | https://github.com/glugeorge/rces-project | ['rce'] | 1 | 2021-12-09 15:35:35+00:00 | 555 | 0 | Jupyter Notebook | 0 | [] |
 | bobux-man/CronosX | Website for Web/External Exploits (games) | https://github.com/bobux-man/CronosX | ['exploit'] | 1 | 2021-12-09 03:35:59+00:00 | 0 | 0 | | 0 | [] |
-| xiaogouxion/cnvd- | 使用py编写，使用者需要更改超级鹰账号密码，以及cnvd账号密码 | https://github.com/xiaogouxion/cnvd- | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-09 05:36:17+00:00 | 0 | 0 | nan | 0 | [] |
 | cyberforcegenic/exploit-code-for-SDR | None | https://github.com/cyberforcegenic/exploit-code-for-SDR | ['exploit'] | 1 | 2021-12-09 07:05:13+00:00 | 0 | 0 | | 0 | [] |
-| Al0sc/Log4j-rce | Log4j-rce | https://github.com/Al0sc/Log4j-rce | ['rce'] | 1 | 2021-12-09 17:32:47+00:00 | 0 | 1 | Java | 0 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-12-09 17:56:56+00:00 | 60551 | 1150 | C | 552 | [] |
+| corrupted-brain/exploit-files | None | https://github.com/corrupted-brain/exploit-files | ['exploit'] | 1 | 2021-12-09 08:46:07+00:00 | 0 | 0 | | 0 | [] |
+| cyberpenguin1123/my_scripts | Useful scripts to automate recon and exploitation | https://github.com/cyberpenguin1123/my_scripts | ['exploit'] | 1 | 2021-12-09 23:03:48+00:00 | 0 | 0 | Python | 0 | [] |
 | VictorDamasio/exploit-searcher | This repository contains a script that will search for exploits based on CVE codes extracted from automated scans (such as Nessus) | https://github.com/VictorDamasio/exploit-searcher | ['exploit'] | 1 | 2021-12-09 22:46:38+00:00 | 0 | 0 | Shell | 0 | [] |
 | BeyYT/Exploit_Checker | aaaaaaaaaaaaaa | https://github.com/BeyYT/Exploit_Checker | ['exploit'] | 1 | 2021-12-09 22:39:09+00:00 | 0 | 0 | | 0 | [] |
 | jth55/SHIL | Shellcode Intrepreted Language | https://github.com/jth55/SHIL | ['shellcode'] | 1 | 2021-12-09 22:30:49+00:00 | 0 | 0 | Python | 0 | [] |
@@ -47,14 +48,14 @@
 | Marcelektro/Log4J-RCE-Implementation | I still don't believe that was real all this time | https://github.com/Marcelektro/Log4J-RCE-Implementation | ['rce'] | 1 | 2021-12-09 21:35:36+00:00 | 0 | 1 | Java | 0 | [] |
 | M-ensimag/CVE-2019-18276 | None | https://github.com/M-ensimag/CVE-2019-18276 | ['cve-2 OR cve_2'] | 1 | 2021-12-09 20:39:20+00:00 | 0 | 0 | Shell | 0 | ['CVE-2019-18276'] |
 | AnonBlkHatHacker/Metasploit_termux_easy_install | git clone https://github.com/gushmazuko/metasploit_in_termux.git | https://github.com/AnonBlkHatHacker/Metasploit_termux_easy_install | ['metasploit module OR payload'] | 1 | 2021-12-09 19:46:18+00:00 | 0 | 0 | | 0 | [] |
-| websecnl/RCE-PoC | None | https://github.com/websecnl/RCE-PoC | ['rce', 'rce poc'] | 2 | 2021-12-09 19:45:32+00:00 | 0 | 0 | | 0 | [] |
+| websecnl/RCE-PoC | nan | https://github.com/websecnl/RCE-PoC | ['rce', 'rce poc'] | 2 | 2021-12-09 19:45:32+00:00 | 0 | 0 | nan | 0 | [] |
 | Daeky03/Gece-Sploit | dsadadas | https://github.com/Daeky03/Gece-Sploit | ['sploit'] | 1 | 2021-12-09 19:35:36+00:00 | 0 | 0 | Shell | 0 | [] |
 | MoskalykA/gmod-exploit | None | https://github.com/MoskalykA/gmod-exploit | ['exploit'] | 1 | 2021-12-09 18:57:53+00:00 | 0 | 0 | | 0 | [] |
 | REL4X7447/REL4XWARE_SourceCode | Source Code of the REL4XWARE Roblox Exploit | https://github.com/REL4X7447/REL4XWARE_SourceCode | ['exploit'] | 1 | 2021-12-09 17:45:16+00:00 | 0 | 0 | C# | 0 | [] |
 | Marbocatcat/46635.py | update to Daniele Scanu's SQL Injection Exploit - CVE-2019-9053 | https://github.com/Marbocatcat/46635.py | ['exploit'] | 1 | 2021-12-09 17:39:16+00:00 | 0 | 0 | | 0 | ['CVE-2019-9053'] |
 | blackadmin7464/exploit2 | None | https://github.com/blackadmin7464/exploit2 | ['exploit'] | 1 | 2021-12-09 17:33:32+00:00 | 0 | 0 | Go | 0 | [] |
+| Al0sc/Log4j-rce | Log4j-rce | https://github.com/Al0sc/Log4j-rce | ['rce'] | 1 | 2021-12-09 17:32:47+00:00 | 0 | 1 | Java | 0 | [] |
 | blackadmin7464/exploit1 | yjtyjtytj | https://github.com/blackadmin7464/exploit1 | ['exploit'] | 1 | 2021-12-09 17:02:47+00:00 | 0 | 0 | Go | 0 | [] |
-| corrupted-brain/exploit-files | None | https://github.com/corrupted-brain/exploit-files | ['exploit'] | 1 | 2021-12-09 08:46:07+00:00 | 0 | 0 | | 0 | [] |
 | blackadmin7464/exploit | None | https://github.com/blackadmin7464/exploit | ['exploit'] | 1 | 2021-12-09 17:00:53+00:00 | 0 | 0 | | 0 | [] |
 | SpeedSterKawaii/Run-On-Certain-Exploit | None | https://github.com/SpeedSterKawaii/Run-On-Certain-Exploit | ['exploit'] | 1 | 2021-12-09 15:46:24+00:00 | 2 | 1 | Lua | 0 | [] |
 | IhebKotorsii/ProjetSystemeExploitation | "Version finale" | https://github.com/IhebKotorsii/ProjetSystemeExploitation | ['exploit'] | 1 | 2021-12-09 14:19:27+00:00 | 0 | 0 | | 0 | [] |
@@ -68,10 +69,11 @@
 | culprits/Grafana_POC-CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-09 09:56:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | johhhnnnnnn13/RCE | Implementation of Remote Command Execution using socket programming | https://github.com/johhhnnnnnn13/RCE | ['rce'] | 1 | 2021-12-09 10:13:23+00:00 | 0 | 0 | Java | 0 | [] |
 | z3n70/CVE-2021-43798 | Simple program for exploit grafana | https://github.com/z3n70/CVE-2021-43798 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-09 10:10:25+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2021-43798'] |
+| glugeorge/rces-project | None | https://github.com/glugeorge/rces-project | ['rce'] | 1 | 2021-12-09 15:35:35+00:00 | 555 | 0 | Jupyter Notebook | 0 | [] |
 | SophKJ/rces-final-fall21 | EESCGR6901 Final Project | https://github.com/SophKJ/rces-final-fall21 | ['rce'] | 1 | 2021-12-09 20:42:56+00:00 | 5908 | 0 | Jupyter Notebook | 0 | [] |
 | 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-09 11:55:14+00:00 | 1035 | 232 | Python | 42 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-09 18:10:15+00:00 | 79 | 4 | | 0 | [] |
-| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-09 06:40:56+00:00 | 66338 | 1332 | Python | 266 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-09 07:26:55+00:00 | 289591 | 745 | | 159 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-12-09 07:58:03+00:00 | 16649 | 0 | Lua | 0 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-12-09 07:54:28+00:00 | 6892 | 1 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-09 00:03:44+00:00 | 435838 | 36 | | 20 | [] |
@@ -85,8 +87,8 @@
 | Banxen/ShellcodeToPE | Generate PE for the input shellcode for quick debugging or sandbox submission or whatsoever. Use only for 32 bit shellcode. | https://github.com/Banxen/ShellcodeToPE | ['shellcode'] | 1 | 2021-12-09 05:27:59+00:00 | 71 | 1 | C | 1 | [] |
 | rdomanski/Exploits_and_Advisories | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | ['exploit'] | 1 | 2021-12-09 11:19:52+00:00 | 3518 | 36 | Ruby | 9 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-09 00:45:45+00:00 | 10176 | 25 | | 16 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-09 06:40:56+00:00 | 66338 | 1332 | Python | 266 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-09 02:31:31+00:00 | 35354 | 6168 | Vue | 1308 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-09 00:52:15+00:00 | 91 | 0 | PHP | 0 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-12-09 00:57:04+00:00 | 570 | 114 | Julia | 23 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-12-09 07:08:49+00:00 | 3702 | 2185 | Python | 624 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-12-09 00:45:28+00:00 | 880 | 137 | Go | 38 | [] |
@@ -100,10 +102,11 @@
 | infoslack/awesome-web-hacking | A list of web application security | https://github.com/infoslack/awesome-web-hacking | ['metasploit module OR payload'] | 1 | 2021-12-09 17:12:20+00:00 | 153 | 3745 | | 995 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-09 00:06:38+00:00 | 1534769 | 1539 | Python | 524 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-09 00:43:08+00:00 | 12448 | 4154 | Python | 596 | [] |
-| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-09 07:26:55+00:00 | 289591 | 745 | | 159 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-09 00:52:15+00:00 | 91 | 0 | PHP | 0 | [] |
 | NS-Sp4ce/CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-09 12:48:03+00:00 | 491 | 322 | Python | 124 | ['CVE-2021-21972'] |
+| S4R1N/AlternativeShellcodeExec | Alternative Shellcode Execution Via Callbacks | https://github.com/S4R1N/AlternativeShellcodeExec | ['shellcode'] | 1 | 2021-12-09 18:03:17+00:00 | 211 | 548 | C++ | 120 | [] |
+| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-12-09 17:19:47+00:00 | 718 | 0 | TypeScript | 0 | [] |
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-12-09 20:48:37+00:00 | 64 | 0 | C++ | 0 | [] |
-| Amitale/Penetration-Testing-Notes | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | ['exploit'] | 1 | 2021-12-09 08:56:57+00:00 | 5 | 0 | | 0 | [] |
 | Imptovskii/ExploitFixer | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | ['exploit'] | 1 | 2021-12-09 08:54:21+00:00 | 32 | 4 | Java | 1 | [] |
 | LuanTeles/Hosts | PlayStation®4 exploit hosts | https://github.com/LuanTeles/Hosts | ['exploit'] | 1 | 2021-12-09 15:07:56+00:00 | 6942 | 1 | CSS | 0 | [] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-12-09 05:14:29+00:00 | 4213 | 0 | JavaScript | 0 | [] |
@@ -116,9 +119,9 @@
 | kaFox4/FxSploit | FxSploit v1.1 | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-12-09 07:52:55+00:00 | 59 | 0 | | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-09 00:37:23+00:00 | 996 | 279 | JavaScript | 532 | [] |
 | hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-09 04:30:40+00:00 | 10075 | 1 | Shell | 0 | [] |
-| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-12-09 17:19:47+00:00 | 718 | 0 | TypeScript | 0 | [] |
+| Amitale/Penetration-Testing-Notes | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | ['exploit'] | 1 | 2021-12-09 08:56:57+00:00 | 5 | 0 | | 0 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-09 10:58:46+00:00 | 774 | 40 | Python | 7 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-12-09 15:51:47+00:00 | 218784 | 12 | PowerShell | 6 | [] |
-| S4R1N/AlternativeShellcodeExec | Alternative Shellcode Execution Via Callbacks | https://github.com/S4R1N/AlternativeShellcodeExec | ['shellcode'] | 1 | 2021-12-09 18:03:17+00:00 | 211 | 548 | C++ | 120 | [] |
 | 0xvpr/Malicious-Software-Research | A repository dedicated to researching, documents, developing, and ultimately, defending against various strains of malicious software. | https://github.com/0xvpr/Malicious-Software-Research | ['shellcode'] | 1 | 2021-12-09 10:00:28+00:00 | 722 | 2 | C | 0 | [] |
 | Email-Analysis-Toolkit/command-injection-tester | None | https://github.com/Email-Analysis-Toolkit/command-injection-tester | ['command injection'] | 1 | 2021-12-09 11:50:56+00:00 | 132 | 8 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-09 01:09:24+00:00 | 21611 | 2 | Python | 0 | [] |
@@ -131,5 +134,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-09 04:02:09+00:00 | 98413 | 256 | Python | 78 | [] |
 | DisguisedFox94/NoahExploits | Config files for my GitHub profile. | https://github.com/DisguisedFox94/NoahExploits | ['exploit'] | 1 | 2021-12-09 15:37:42+00:00 | 2 | 0 | | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-09 00:33:28+00:00 | 439679 | 64 | TypeScript | 4 | [] |
-| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-09 10:58:46+00:00 | 774 | 40 | Python | 7 | [] |
-| cyberpenguin1123/my_scripts | Useful scripts to automate recon and exploitation | https://github.com/cyberpenguin1123/my_scripts | ['exploit'] | 1 | 2021-12-09 23:03:48+00:00 | 0 | 0 | Python | 0 | [] |
+| mgargiullo/cve-2018-1207 | Exploit iDRAC 7 & 8 firmware < 2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-09 23:47:23+00:00 | 0 | 0 | | 0 | ['CVE-2018-1207'] |
