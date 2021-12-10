@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+437061764,aFoxPod/RCELog4j,target/marshalsec-0.0.3-SNAPSHOT-all.jar,5216efe705001b7b911f13f92bcb5457bf9a745d,VU#03
+437061764,aFoxPod/RCELog4j,target/marshalsec-0.0.3-SNAPSHOT-all.jar,5216efe705001b7b911f13f92bcb5457bf9a745d,VU#23
+437061764,aFoxPod/RCELog4j,target/marshalsec-0.0.3-SNAPSHOT-all.jar,5216efe705001b7b911f13f92bcb5457bf9a745d,VU#68
+437061764,aFoxPod/RCELog4j,target/marshalsec-0.0.3-SNAPSHOT-all.jar,5216efe705001b7b911f13f92bcb5457bf9a745d,VU#80
+437061764,aFoxPod/RCELog4j,target/marshalsec-0.0.3-SNAPSHOT-all.jar,5216efe705001b7b911f13f92bcb5457bf9a745d,VU#83
