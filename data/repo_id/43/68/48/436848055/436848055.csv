@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+436848055,UltraVanilla/LogJackFix,src/main/java/lordpipe/logjackfix/LogJackFix.java,19856968232a7286227e6f1c84372b5e6e584e80,CVE-2021-44228
+436848055,UltraVanilla/LogJackFix,README.md,cd2ceb6a33dd68e0b4465b01941669c96917687f,CVE-2021-44228
+436848055,UltraVanilla/LogJackFix,_GITHUB_REPO_METADATA_,,CVE-2021-44228
