@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/10
     
-24 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-10 00:16:51+00:00 | 203535 | 255 | Ruby | 78 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-12-10 01:36:52+00:00 | 2772549 | 360 | JavaScript | 54 | [] |
+| Babyhamsta/Exploit-Update-Watcher | A tool that uses exploit's APIs to watch and see if they update while the application is open. Fully open sourced coded in .NET Core 3.1 (C#) | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2021-12-10 01:51:43+00:00 | 0 | 0 | C# | 0 | [] |
 | apple502j/Log4Jail | Censor chat messages abusing log4j 0day | https://github.com/apple502j/Log4Jail | ['0day'] | 1 | 2021-12-10 01:27:08+00:00 | 0 | 0 | Java | 0 | [] |
 | 0x0021h/apache-log4j-rce | Apache Log4j 2.x <= 2.14.1 RCE | https://github.com/0x0021h/apache-log4j-rce | ['rce'] | 1 | 2021-12-10 01:45:10+00:00 | 0 | 0 | Java | 2 | [] |
 | FrankHeijden/Log4jFix | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | ['exploit'] | 1 | 2021-12-10 01:31:34+00:00 | 0 | 1 | Java | 2 | [] |
@@ -17,7 +18,9 @@
 | RAMSES-DG/metasploit-install | None | https://github.com/RAMSES-DG/metasploit-install | ['metasploit module OR payload'] | 1 | 2021-12-10 00:26:15+00:00 | 54 | 0 | Shell | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-10 00:03:09+00:00 | 17351 | 19 | Python | 5 | [] |
 | joseaugustoneto/vulnerabilitySamples | Aplication for exploiting and preventing SQL injection attacks that access sensitive data | https://github.com/joseaugustoneto/vulnerabilitySamples | ['exploit'] | 1 | 2021-12-10 00:22:40+00:00 | 0 | 0 | TypeScript | 0 | [] |
+| Aka-Andrew/Exploiting | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | ['exploit'] | 1 | 2021-12-10 02:39:05+00:00 | 0 | 0 | Lua | 0 | [] |
 | Havenviex/Exploiting-Shitz | stuff | https://github.com/Havenviex/Exploiting-Shitz | ['exploit'] | 1 | 2021-12-10 00:14:16+00:00 | 127 | 0 | | 0 | [] |
+| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-12-10 02:09:26+00:00 | 119547 | 0 | Shell | 0 | [] |
 | chrismlee26/Jinja2-ExploitMe | BEW2.3 Web Security | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-10 00:20:16+00:00 | 67 | 0 | HTML | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-10 00:19:24+00:00 | 1015 | 286 | JavaScript | 565 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-10 01:10:05+00:00 | 22465 | 2 | Python | 0 | [] |
@@ -25,7 +28,8 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-10 01:26:35+00:00 | 91 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-10 00:04:11+00:00 | 439163 | 37 | | 20 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-12-10 00:26:30+00:00 | 1084 | 89 | Shell | 46 | [] |
+| Insecurities/CVE-2019-11224 | Modero AMX Code Execution (CVE-2019–11224) | https://github.com/Insecurities/CVE-2019-11224 | ['cve-2 OR cve_2'] | 1 | 2021-12-10 02:16:17+00:00 | 7 | 0 | Ruby | 0 | ['CVE-2019-11224'] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-10 00:45:46+00:00 | 11019 | 25 | | 16 | [] |
 | dniym/IllegalStack | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | ['exploit'] | 1 | 2021-12-10 00:54:27+00:00 | 15991 | 67 | Java | 22 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-12-10 00:22:25+00:00 | 190136 | 25 | C++ | 56 | [] |
-| Babyhamsta/Exploit-Update-Watcher | A tool that uses exploit's APIs to watch and see if they update while the application is open. Fully open sourced coded in .NET Core 3.1 (C#) | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2021-12-10 01:51:43+00:00 | 0 | 0 | C# | 0 | [] |
+| Babyhamsta/Exploit-Update-Watcher | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2021-12-10 02:04:03+00:00 | 0 | 0 | C# | 0 | [] |
