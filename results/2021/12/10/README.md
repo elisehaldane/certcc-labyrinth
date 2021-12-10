@@ -1,14 +1,12 @@
 
 # Summary for results/2021/12/10
     
-46 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-10 06:39:32+00:00 | 661560 | 25802 | Ruby | 11797 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-10 05:08:24+00:00 | 230109 | 6676 | C | 1836 | [] |
-| Babyhamsta/Exploit-Update-Watcher | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2021-12-10 02:04:03+00:00 | 0 | 0 | C# | 0 | [] |
-| mgargiullo/cve-2018-1207 | Exploit iDRAC 7 & 8 firmware < 2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-10 01:43:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-1207'] |
-| notrhys/Log-4J-Exploit-Fix | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | ['exploit', 'rce'] | 2 | 2021-12-10 00:36:44+00:00 | 0 | 1 | Java | 0 | [] |
 | lhthanhdat/Discord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | ['exploit'] | 1 | 2021-12-10 01:07:20+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | FrankHeijden/Log4jFix | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | ['exploit'] | 1 | 2021-12-10 01:31:34+00:00 | 0 | 1 | Java | 2 | [] |
 | 0x0021h/apache-log4j-rce | Apache Log4j 2.x <= 2.14.1 RCE | https://github.com/0x0021h/apache-log4j-rce | ['rce'] | 1 | 2021-12-10 01:45:10+00:00 | 0 | 0 | Java | 2 | [] |
@@ -16,8 +14,8 @@
 | Glavo/log4j-patch | Non intrusive log4j2 RCE vulnerability patch. | https://github.com/Glavo/log4j-patch | ['rce'] | 1 | 2021-12-10 05:21:44+00:00 | 70 | 4 | Kotlin | 0 | [] |
 | Babyhamsta/Exploit-Update-Watcher | A tool that uses exploit's APIs to watch and see if they update while the application is open. Fully open sourced coded in .NET Core 3.1 (C#) | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2021-12-10 01:51:43+00:00 | 0 | 0 | C# | 0 | [] |
 | Gopro336/PSA-MINERCRAFT-RCE-EXPLOIT | Minecraft exploit allowing remote code execution via Minecraft chat | https://github.com/Gopro336/PSA-MINERCRAFT-RCE-EXPLOIT | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-12-10 03:25:46+00:00 | 155 | 7 | | 1 | [] |
+| Babyhamsta/Exploit-Update-Watcher | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2021-12-10 02:04:03+00:00 | 0 | 0 | C# | 0 | [] |
 | milkyway0308/Unexplogit | Log4j exploit protector for < 1.17 minecraft | https://github.com/milkyway0308/Unexplogit | ['exploit'] | 1 | 2021-12-10 03:23:26+00:00 | 0 | 0 | | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-10 00:16:51+00:00 | 203535 | 255 | Ruby | 78 | [] |
 | Gav06/RceFix | Fixes the Log4j RCE exploit | https://github.com/Gav06/RceFix | ['exploit', 'rce'] | 2 | 2021-12-10 03:38:00+00:00 | 0 | 1 | Java | 0 | [] |
 | dbgee/log4j2_rce | log4j2 rce、poc | https://github.com/dbgee/log4j2_rce | ['rce', 'rce poc'] | 2 | 2021-12-10 03:34:34+00:00 | 0 | 0 | | 0 | [] |
 | xiaotea/Log4j-rce-cve | 复制公众号 | https://github.com/xiaotea/Log4j-rce-cve | ['rce'] | 1 | 2021-12-10 03:39:12+00:00 | 0 | 0 | | 0 | [] |
@@ -27,10 +25,18 @@
 | UltraVanilla/LogJackFix | A spigot plugin to fix CVE-2021-44228 Log4j remote code execution vulnerability, to protect Minecraft clients. | https://github.com/UltraVanilla/LogJackFix | ['remote code execution'] | 1 | 2021-12-10 04:20:15+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | zerodaysjoker/zerodaysjoker | Config files for my GitHub profile. | https://github.com/zerodaysjoker/zerodaysjoker | ['zeroday'] | 1 | 2021-12-10 04:42:32+00:00 | 0 | 0 | | 0 | [] |
 | jas502n/Log4j2-CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-10 05:23:45+00:00 | 0 | 4 | | 0 | ['CVE-2021-44228'] |
-| I2rys/REL | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | ['exploit'] | 1 | 2021-12-10 00:35:24+00:00 | 3 | 2 | | 0 | [] |
-| RAMSES-DG/metasploit-install | None | https://github.com/RAMSES-DG/metasploit-install | ['metasploit module OR payload'] | 1 | 2021-12-10 00:26:15+00:00 | 54 | 0 | Shell | 0 | [] |
-| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-10 03:01:50+00:00 | 1656 | 56 | Java | 16 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-10 00:03:09+00:00 | 17351 | 19 | Python | 5 | [] |
+| DichuuCraft/LOG4J2-3201-fix | Fix logging exploit caused by LOG4J2-3201 | https://github.com/DichuuCraft/LOG4J2-3201-fix | ['exploit'] | 1 | 2021-12-10 05:29:36+00:00 | 0 | 0 | Java | 0 | [] |
+| udoless/apache-log4j-rce-poc | None | https://github.com/udoless/apache-log4j-rce-poc | ['rce', 'rce poc'] | 2 | 2021-12-10 06:14:08+00:00 | 0 | 2 | Java | 3 | [] |
+| b23r0/minecraft-log4j-exploit | A log4j2 3021 JNDI-injection exploit for minecraft server < 1.17. | https://github.com/b23r0/minecraft-log4j-exploit | ['exploit'] | 1 | 2021-12-10 06:12:34+00:00 | 0 | 0 | | 0 | [] |
+| whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-10 06:42:00+00:00 | 0 | 27 | Java | 14 | [] |
+| Nikhithx86/marshalsec-compiled | Compiled binaries needed to replicate Log4j-RCE | https://github.com/Nikhithx86/marshalsec-compiled | ['rce'] | 1 | 2021-12-10 06:23:12+00:00 | 0 | 0 | | 0 | [] |
+| Seayon/Log4j2RCE_Demo | None | https://github.com/Seayon/Log4j2RCE_Demo | ['rce'] | 1 | 2021-12-10 06:29:55+00:00 | 0 | 0 | | 0 | [] |
+| HyperSkys/ServerPatcher | Patches exploits before Mojang does so you don't have to worry about it. | https://github.com/HyperSkys/ServerPatcher | ['exploit'] | 1 | 2021-12-10 06:41:59+00:00 | 0 | 0 | Java | 0 | [] |
+| notrhys/Log-4J-Exploit-Fix | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | ['exploit', 'rce'] | 2 | 2021-12-10 00:36:44+00:00 | 0 | 1 | Java | 0 | [] |
+| mgargiullo/cve-2018-1207 | Exploit iDRAC 7 & 8 firmware < 2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-10 01:43:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-1207'] |
+| doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2021-12-10 05:54:09+00:00 | 20 | 0 | | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-10 01:10:05+00:00 | 22465 | 2 | Python | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-10 00:16:51+00:00 | 203535 | 255 | Ruby | 78 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-12-10 01:36:52+00:00 | 2772549 | 360 | JavaScript | 54 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-12-10 00:22:25+00:00 | 190136 | 25 | C++ | 56 | [] |
 | dniym/IllegalStack | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | ['exploit'] | 1 | 2021-12-10 00:54:27+00:00 | 15991 | 67 | Java | 22 | [] |
@@ -41,8 +47,8 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-10 01:26:35+00:00 | 91 | 0 | PHP | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-10 01:29:34+00:00 | 439684 | 68 | TypeScript | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-10 04:02:00+00:00 | 98963 | 256 | Python | 78 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-10 01:10:05+00:00 | 22465 | 2 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-10 00:19:24+00:00 | 1015 | 286 | JavaScript | 565 | [] |
+| I2rys/REL | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | ['exploit'] | 1 | 2021-12-10 00:35:24+00:00 | 3 | 2 | | 0 | [] |
 | headst1337/PoligonCTF_Tasklist | The service was written for POLYGON CTF 2021, held within the Siberian Forum "Information Security 2021" with the Command Injection vulnerability. It is a website with the ability to create notes. The service is written using Ruby on rails framework. | https://github.com/headst1337/PoligonCTF_Tasklist | ['command injection'] | 1 | 2021-12-10 02:53:04+00:00 | 184 | 0 | Ruby | 0 | [] |
 | chrismlee26/Jinja2-ExploitMe | BEW2.3 Web Security | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-12-10 00:20:16+00:00 | 67 | 0 | HTML | 0 | [] |
 | shellcode-club/LiveTerm | Stream or share your Terminal on the web. Work for https://term.shellcode.sh. | https://github.com/shellcode-club/LiveTerm | ['shellcode'] | 1 | 2021-12-10 05:12:42+00:00 | 2 | 2 | C | 0 | [] |
@@ -50,4 +56,8 @@
 | Havenviex/Exploiting-Shitz | stuff | https://github.com/Havenviex/Exploiting-Shitz | ['exploit'] | 1 | 2021-12-10 00:14:16+00:00 | 127 | 0 | | 0 | [] |
 | Aka-Andrew/Exploiting | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | ['exploit'] | 1 | 2021-12-10 02:39:05+00:00 | 0 | 0 | Lua | 0 | [] |
 | joseaugustoneto/vulnerabilitySamples | Aplication for exploiting and preventing SQL injection attacks that access sensitive data | https://github.com/joseaugustoneto/vulnerabilitySamples | ['exploit'] | 1 | 2021-12-10 00:22:40+00:00 | 0 | 0 | TypeScript | 0 | [] |
-| DichuuCraft/LOG4J2-3201-fix | Fix logging exploit caused by LOG4J2-3201 | https://github.com/DichuuCraft/LOG4J2-3201-fix | ['exploit'] | 1 | 2021-12-10 05:29:36+00:00 | 0 | 0 | Java | 0 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-10 00:03:09+00:00 | 17351 | 19 | Python | 5 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-10 03:01:50+00:00 | 1656 | 56 | Java | 16 | [] |
+| okn0315/exploitcode | None | https://github.com/okn0315/exploitcode | ['exploit'] | 1 | 2021-12-10 05:55:33+00:00 | 0 | 0 | | 0 | [] |
+| RAMSES-DG/metasploit-install | None | https://github.com/RAMSES-DG/metasploit-install | ['metasploit module OR payload'] | 1 | 2021-12-10 00:26:15+00:00 | 54 | 0 | Shell | 0 | [] |
+| ReadER-L/log4j-rce | None | https://github.com/ReadER-L/log4j-rce | ['rce'] | 1 | 2021-12-10 06:40:29+00:00 | 0 | 0 | Java | 0 | [] |
