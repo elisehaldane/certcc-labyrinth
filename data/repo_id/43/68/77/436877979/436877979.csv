@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+436877979,boundaryx/cloudrasp-log4j2,README_EN.md,0cac3011c9387e9213d88ae7b618ff0ea70babae,CVE-2021-44228
+436877979,boundaryx/cloudrasp-log4j2,README.md,ced3253e62466c970a49b0da9728537aa3ed03b6,CVE-2021-44228
+436877979,boundaryx/cloudrasp-log4j2,_GITHUB_REPO_METADATA_,,CVE-2021-44228
