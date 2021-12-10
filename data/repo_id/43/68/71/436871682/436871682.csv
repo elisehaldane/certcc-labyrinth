@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+436871682,HyCraftHD/Log4J-RCE-Proof-Of-Concept,src/main/java/Exploit.java,0ac46fd9ac68c440afa4a423c5f7074527365874,CVE-2021-44228
+436871682,HyCraftHD/Log4J-RCE-Proof-Of-Concept,README.md,3bd653b4f93d425694b04bf64ac4934aa1da8287,CVE-2021-44228
+436871682,HyCraftHD/Log4J-RCE-Proof-Of-Concept,_GITHUB_REPO_METADATA_,,CVE-2021-44228
