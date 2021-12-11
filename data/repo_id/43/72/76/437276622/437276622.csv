@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+437276622,p3n7a90n/Log4j-RCE-POC,src/tools/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#23
+437276622,p3n7a90n/Log4j-RCE-POC,src/tools/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
+437276622,p3n7a90n/Log4j-RCE-POC,src/tools/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#83
+437276622,p3n7a90n/Log4j-RCE-POC,README.md,57bf50f05851cdb0f4d8981efffdb50f48c189c9,CVE-2021-44228
