@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,README.md,aaf3840bbccc68f17481ec49bc94365d87fa8bbe,CVE-2021-44228
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#03
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#23
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#68
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#80
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#83
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,_GITHUB_REPO_METADATA_,,CVE-2021-44228
