@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+437328650,PeTcHeNkA/log4j-exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,0feb233ae4b010df5f271719394b4ea896eceda6,VU#03
+437328650,PeTcHeNkA/log4j-exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,0feb233ae4b010df5f271719394b4ea896eceda6,VU#23
+437328650,PeTcHeNkA/log4j-exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,0feb233ae4b010df5f271719394b4ea896eceda6,VU#68
+437328650,PeTcHeNkA/log4j-exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,0feb233ae4b010df5f271719394b4ea896eceda6,VU#80
+437328650,PeTcHeNkA/log4j-exploit,marshalsec-0.0.3-SNAPSHOT-all.jar,0feb233ae4b010df5f271719394b4ea896eceda6,VU#83
