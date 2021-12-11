@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+437397347,irgoncalves/f5-waf-enforce-sig-CVE-2021-44228,README.md,868c8c7046c93ba3591b820b6ca307c10f4941ee,CVE-2021-44228
+437397347,irgoncalves/f5-waf-enforce-sig-CVE-2021-44228,f5-waf-enforce-sig-CVE-2021-44228.py,e099124bff37460cced08e01ceca1525f4df7d24,CVE-2021-4228
+437397347,irgoncalves/f5-waf-enforce-sig-CVE-2021-44228,f5-waf-enforce-sig-CVE-2021-44228.py,e099124bff37460cced08e01ceca1525f4df7d24,CVE-2021-44228
+437397347,irgoncalves/f5-waf-enforce-sig-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
