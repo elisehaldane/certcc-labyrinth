@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437170557,phoswald/sample-ldap-exploit,README.md,ae474ea1b7c50efb876673e5b43ca378eb52f827,CVE-2021-44228
+437170557,phoswald/sample-ldap-exploit,_GITHUB_REPO_METADATA_,,CVE-2021-44228
