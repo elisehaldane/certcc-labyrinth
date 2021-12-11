@@ -1,18 +1,21 @@
 
 # Summary for results/2021/12/11
     
-24 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-11 02:09:20+00:00 | 662515 | 25805 | Ruby | 11799 | [] |
 | Ne0nd0g/merlin | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | https://github.com/Ne0nd0g/merlin | ['exploit'] | 1 | 2021-12-11 01:38:38+00:00 | 20572 | 3508 | Go | 574 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-11 00:16:47+00:00 | 203536 | 255 | Ruby | 78 | [] |
+| binganao/Log4j2-RCE | Log4j2 CVE-2021-44228 复现和分析 | https://github.com/binganao/Log4j2-RCE | ['rce'] | 1 | 2021-12-11 02:13:37+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| naryal2580/jandis | JNDI Exploit docker-based server for exploiting #log4shell | https://github.com/naryal2580/jandis | ['exploit'] | 1 | 2021-12-11 01:37:50+00:00 | 0 | 0 | Dockerfile | 0 | [] |
 | HW2955/Log4J-RCE-1 | None | https://github.com/HW2955/Log4J-RCE-1 | ['rce'] | 1 | 2021-12-11 01:00:07+00:00 | 0 | 0 | Java | 0 | [] |
 | makindotcc/log4j-rce-disabler | working on legacy java, porting to latest versions rn | https://github.com/makindotcc/log4j-rce-disabler | ['rce'] | 1 | 2021-12-11 00:35:01+00:00 | 0 | 2 | Java | 0 | [] |
 | drahosj/log4shell_poc | Log4Shell RCE exploit using a gadget class. Not dependent on an old JDK version to work. | https://github.com/drahosj/log4shell_poc | ['exploit', 'rce', 'rce poc'] | 3 | 2021-12-11 00:17:12+00:00 | 5 | 0 | Java | 0 | [] |
 | racoon-rac/CVE-2021-44228 | nan | https://github.com/racoon-rac/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 01:07:24+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-44228'] |
 | Adikso/minecraft-log4j-honeypot | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | ['exploit'] | 1 | 2021-12-11 00:31:00+00:00 | 15 | 2 | Go | 0 | ['CVE-2021-44228'] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-11 01:22:02+00:00 | 39516 | 2 | Java | 1 | ['CVE-2021-44228'] |
+| inbug-team/Log4j_RCE_Tool | Log4j 多线程批量检测利用工具 | https://github.com/inbug-team/Log4j_RCE_Tool | ['rce'] | 1 | 2021-12-11 02:28:04+00:00 | 175 | 7 | | 3 | [] |
 | Koupah/MC-Log4J-Exploit-Checker | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you've been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | ['exploit'] | 1 | 2021-12-11 00:07:18+00:00 | 35 | 1 | Java | 0 | [] |
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-11 00:47:11+00:00 | 105 | 338 | Java | 131 | [] |
 | HyCraftHD/Log4J-RCE-Proof-Of-Concept | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | ['exploit', 'rce'] | 2 | 2021-12-11 00:47:08+00:00 | 74 | 20 | Java | 3 | ['CVE-2021-44228'] |
@@ -28,4 +31,5 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-11 00:03:36+00:00 | 443617 | 37 | | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-11 00:45:47+00:00 | 11523 | 25 | | 16 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-12-11 01:36:52+00:00 | 2774287 | 360 | JavaScript | 54 | [] |
-| naryal2580/jandis | JNDI Exploit docker-based server for exploiting #log4shell | https://github.com/naryal2580/jandis | ['exploit'] | 1 | 2021-12-11 01:37:50+00:00 | 0 | 0 | Dockerfile | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-11 00:16:47+00:00 | 203536 | 255 | Ruby | 78 | [] |
+| phoswald/sample-ldap-exploit | A short demo of CVE-2021-44228 | https://github.com/phoswald/sample-ldap-exploit | ['exploit'] | 1 | 2021-12-11 02:46:18+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
