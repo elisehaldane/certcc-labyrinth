@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+437221795,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#23
+437221795,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
+437221795,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#83
+437221795,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,_GITHUB_REPO_METADATA_,,CVE-2021-44228
