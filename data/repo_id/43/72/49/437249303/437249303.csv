@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437249303,toramanemre/log4j-rce-detect-waf-bypass,log4j-rce-detect-waf-bypass.yaml,d1fc6f2864172643eeb2d6555888871fcf5939dc,CVE-2021-44228
+437249303,toramanemre/log4j-rce-detect-waf-bypass,_GITHUB_REPO_METADATA_,,CVE-2021-44228
