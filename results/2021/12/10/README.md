@@ -12,7 +12,7 @@
 | ReadER-L/log4j-rce | None | https://github.com/ReadER-L/log4j-rce | ['rce'] | 1 | 2021-12-10 06:53:20+00:00 | 0 | 0 | Java | 1 | [] |
 | dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-12-10 07:07:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | y35uishere/Log4j2-CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/y35uishere/Log4j2-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-10 05:46:20+00:00 | 1 | 0 | | 0 | ['CVE-2021-44228'] |
-| ilsubyeega/log4j2-exploits | None | https://github.com/ilsubyeega/log4j2-exploits | ['exploit'] | 1 | 2021-12-10 07:44:14+00:00 | 3 | 0 | JavaScript | 0 | [] |
+| ilsubyeega/log4j2-exploits | None | https://github.com/ilsubyeega/log4j2-exploits | ['exploit', 'remote code execution'] | 2 | 2021-12-10 07:44:14+00:00 | 3 | 0 | JavaScript | 0 | [] |
 | ChloePrime/fix4log4j | None | https://github.com/ChloePrime/fix4log4j | ['0day'] | 1 | 2021-12-10 08:17:44+00:00 | 0 | 0 | Java | 0 | [] |
 | leonjza/log4jpwn | log4j rce test environment | https://github.com/leonjza/log4jpwn | ['rce'] | 1 | 2021-12-10 08:31:16+00:00 | 0 | 1 | Java | 0 | [] |
 | gh0stkey/Log4j-RCE-Scanner | BurpSuite Extension: Log4j RCE Scanner | https://github.com/gh0stkey/Log4j-RCE-Scanner | ['rce'] | 1 | 2021-12-10 08:42:01+00:00 | 0 | 7 | | 0 | [] |
@@ -172,7 +172,7 @@
 | mail-ecnu/VMAgent | Our VMAgent is a platform for exploiting Reinforcement Learning (RL) on Virtual Machine (VM) scheduling tasks. | https://github.com/mail-ecnu/VMAgent | ['exploit'] | 1 | 2021-12-10 16:42:34+00:00 | 19879 | 0 | Python | 0 | [] |
 | Aka-Andrew/Exploiting | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | ['exploit'] | 1 | 2021-12-10 02:39:05+00:00 | 0 | 0 | Lua | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-10 00:19:24+00:00 | 1015 | 286 | JavaScript | 565 | [] |
-| nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-12-10 17:42:32+00:00 | 43 | 1 | Zeek | 0 | [] |
+| nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-12-10 17:39:44+00:00 | 43 | 1 | Zeek | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-12-10 23:12:29+00:00 | 18726 | 14 | Rust | 1 | [] |
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-12-10 16:19:29+00:00 | 4478 | 1 | Python | 0 | [] |
 | headst1337/PoligonCTF_Tasklist | The service was written for POLYGON CTF 2021, held within the Siberian Forum "Information Security 2021" with the Command Injection vulnerability. It is a website with the ability to create notes. The service is written using Ruby on rails framework. | https://github.com/headst1337/PoligonCTF_Tasklist | ['command injection'] | 1 | 2021-12-10 02:53:04+00:00 | 184 | 0 | Ruby | 0 | [] |
