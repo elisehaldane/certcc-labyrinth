@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437363274,pedrohavay/exploit-grafana-CVE-2021-43798,README.md,364003fbb064339fd3637441c431a8a09261308b,CVE-2021-43798
+437363274,pedrohavay/exploit-grafana-CVE-2021-43798,_GITHUB_REPO_METADATA_,,CVE-2021-43798
