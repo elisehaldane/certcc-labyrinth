@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437296454,Mormoroth/log4j-vulnerable-app-cve-2021-44228-terraform,README.md,c0e5989a466cf781b3e454c9ad2802e132a6ad34,CVE-2021-44228
+437296454,Mormoroth/log4j-vulnerable-app-cve-2021-44228-terraform,_GITHUB_REPO_METADATA_,,CVE-2021-44228
