@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+437395743,r0mdau/ansible-role-log4shell-detector,meta/main.yml,790f988b0b4374fd72b0ad80d9340fa2ef6d7d2e,CVE-2021-44228
