@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+437406202,sec12133/Log4J-Detect,Log4J-Detect,81abe0137e6ea44de15e32a00fd488e68a4c0b02,CVE-2021-44228
