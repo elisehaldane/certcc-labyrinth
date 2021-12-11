@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+437188129,ssstonebraker/log4j_CVE-2021-44228_tester,README.md,cde6d6bb062c5aeed9073a1791049768076c6d07,CVE-2021-44228
+437188129,ssstonebraker/log4j_CVE-2021-44228_tester,log4j_CVE-2021-44228_tester.sh,ebb7facc853582b59085191d4e39d0a72de477c5,CVE-2021-44228
+437188129,ssstonebraker/log4j_CVE-2021-44228_tester,_GITHUB_REPO_METADATA_,,CVE-2021-44228
