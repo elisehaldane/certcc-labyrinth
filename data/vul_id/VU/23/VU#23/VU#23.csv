@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
 VU#23,0.33333333,https://github.com/trewisscotch/CobaltStr4.4,trewisscotch/CobaltStr4.4,422873872
+VU#23,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#23,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#23,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#23,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
@@ -8,6 +9,7 @@ VU#23,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-po
 VU#23,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
 VU#23,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
 VU#23,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
+VU#23,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#23,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#23,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#23,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125

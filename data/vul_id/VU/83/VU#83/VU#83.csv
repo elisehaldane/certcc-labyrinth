@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#83,1.00000000,https://github.com/crossminer/FOCUS,crossminer/FOCUS,161769303
 VU#83,0.33333333,https://github.com/dragonlost/nafabox_rce_2021,dragonlost/nafabox_rce_2021,428990979
+VU#83,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#83,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#83,0.25000000,https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc,EdoardoVignati/java-deserialization-of-untrusted-data-poc,125351182
 VU#83,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
@@ -11,6 +12,7 @@ VU#83,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smu
 VU#83,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#83,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#83,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
+VU#83,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#83,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#83,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#83,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
