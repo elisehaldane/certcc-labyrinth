@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#10,0.50000000,https://github.com/F6JO/CVE-2020-0796-Batch-scanning,F6JO/CVE-2020-0796-Batch-scanning,422054053
 VU#10,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
+VU#10,0.12500000,https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,437603411
 VU#10,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#10,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
 VU#10,0.03225806,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
