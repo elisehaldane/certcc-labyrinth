@@ -3,6 +3,8 @@ VU#68,1.00000000,https://github.com/Axelle-Donot/Sys_Exploite,Axelle-Donot/Sys_E
 VU#68,0.20000000,https://github.com/PeTcHeNkA/log4j-exploit,PeTcHeNkA/log4j-exploit,437328650
 VU#68,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#68,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
+VU#68,0.16666667,https://github.com/mzlogin/CVE-2021-44228-Demo,mzlogin/CVE-2021-44228-Demo,437440782
+VU#68,0.16666667,https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228,zhangxvx/Log4j-Rec-CVE-2021-44228,437327955
 VU#68,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-poc,437139341
 VU#68,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
 VU#68,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc-Cybersecurity-Thesis,426781771
