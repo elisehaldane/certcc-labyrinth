@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+437526871,Crane-Mocker/log4j-poc,log4j-poc.sh,1ba6376414e1120858f4709854ef058b008d9cf1,CVE-2021-44228
+437526871,Crane-Mocker/log4j-poc,README.md,81988b57b7aaea8b3d46f7ecc76a6c103460f2bf,CVE-2021-44228
+437526871,Crane-Mocker/log4j-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228
