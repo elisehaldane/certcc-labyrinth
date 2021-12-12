@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+437186290,uint0/cve-2021-44228--spring-hibernate,docker-compose.yml,24a8e19cb8ba1dfaf769d8b1af3b8a1cadaa42f8,CVE-2021-44228
+437186290,uint0/cve-2021-44228--spring-hibernate,exploit/Dockerfile,2fa2db86b61ece3a93ce0ec7918257e0cf1a2756,CVE-2021-44228
+437186290,uint0/cve-2021-44228--spring-hibernate,README.md,442cfe02da71e170dad7269f7c2ab69c6be51938,CVE-2021-44228
+437186290,uint0/cve-2021-44228--spring-hibernate,_GITHUB_REPO_METADATA_,,CVE-2021-44228
