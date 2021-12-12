@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437426386,corretto/hotpatch-for-apache-log4j2,README.md,18272e90e9ecc4b5eaabc9a8c9c8ee156564f554,CVE-2021-44228
+437426386,corretto/hotpatch-for-apache-log4j2,_GITHUB_REPO_METADATA_,,CVE-2021-44228
