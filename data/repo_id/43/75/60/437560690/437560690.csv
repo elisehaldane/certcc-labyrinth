@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+437560690,lohanichaten/log4j-cve-2021-44228,README.md,15a39f38bd4accd8d1015b2d656367681e69b77c,CVE-2021-44228
+437560690,lohanichaten/log4j-cve-2021-44228,settings.gradle,ca755afc3735a4c74286fab9462bdbc26c767c6d,CVE-2021-44228
+437560690,lohanichaten/log4j-cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228

@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+437562080,authomize/log4j-log4shell-affected,affected_components.md,3b5d9285f6ca6d828e7aaf70ecd34a91b4524e6f,CVE-2021-44228
+437562080,authomize/log4j-log4shell-affected,affected_apps.md,5e6e8d517ca8500bd344b294573414751b45d9ee,CVE-2021-44228
+437562080,authomize/log4j-log4shell-affected,raw/log4j affected apps.csv,a33d158cb35a969df8e7ae7f6537965d39c1ea25,CVE-2021-44228
+437562080,authomize/log4j-log4shell-affected,README.md,c0a47ee997331a96b1c6303ee887a8b77ccb49bc,CVE-2021-44228
+437562080,authomize/log4j-log4shell-affected,raw/log4j affected components.csv,e02aaa725a268b453af8b6f703802508b737f441,CVE-2021-44228
+437562080,authomize/log4j-log4shell-affected,_GITHUB_REPO_METADATA_,,CVE-2021-44228
