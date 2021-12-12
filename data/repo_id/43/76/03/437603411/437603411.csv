@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,tools/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#01
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,tools/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#10
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,tools/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#109
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,tools/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#20
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,tools/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#46
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,tools/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#64
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,tools/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#993
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,README.md,f8ebb2b50bbd967cb412eae726fce2cb548d9b4c,CVE-2021-44228
+437603411,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,_GITHUB_REPO_METADATA_,,CVE-2021-44228
