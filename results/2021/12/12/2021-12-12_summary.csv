@@ -1,0 +1,13 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2021-12-12T00:16:59+0000,205068,255,Ruby,78,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2021-12-12T01:03:16+0000,427132,37,,20,[]
+Guezone/SECMON,SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface.,https://github.com/Guezone/SECMON,['exploit'],1,2021-12-12T00:54:24+0000,13248,123,CSS,29,[]
+HeiTang/Zrss,RSS feeds for HITCON ZeroDay’s vulnerability list,https://github.com/HeiTang/Zrss,['zeroday'],1,2021-12-12T01:12:25+0000,5307,2,Python,0,[]
+sairson/NetworkExpLibrary,Network vulnerability exploitation library,https://github.com/sairson/NetworkExpLibrary,['exploit'],1,2021-12-12T01:34:44+0000,54535,13,Python,4,[]
+rg-13/BetterSploit,nan,https://github.com/rg-13/BetterSploit,['sploit'],1,2021-12-12T00:35:38+0000,22770,2,PowerShell,1,[]
+edupazzz/Hacking-The-Art-of-Exploitation-Book,Codes from Hacking: The Art of Exploitation book. By Jon Erickson.,https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book,['exploit'],1,2021-12-12T00:05:57+0000,42,0,C,0,[]
+cckuailong/reapoc,OpenSource Poc && Vulnerable-Target Storage Box.,https://github.com/cckuailong/reapoc,['vulnerability poc'],1,2021-12-12T01:34:03+0000,18000,94,Python,46,[]
+Glavo/log4j-patch,Non intrusive log4j2 RCE vulnerability patch.,https://github.com/Glavo/log4j-patch,['rce'],1,2021-12-12T01:40:17+0000,83,55,Java,2,[]
+whwlsfb/Log4j2Scan,Log4j2 RCE Passive Scanner plugin for BurpSuite,https://github.com/whwlsfb/Log4j2Scan,['rce'],1,2021-12-12T01:17:49+0000,138,511,Java,171,[]
+Menua2750/MaxSploit-X,nan,https://github.com/Menua2750/MaxSploit-X,['sploit'],1,2021-12-12T00:45:27+0000,1,0,,0,[]
+unlimitedsola/log4j2-rce-poc,None,https://github.com/unlimitedsola/log4j2-rce-poc,"['rce', 'rce poc']",2,2021-12-12T01:27:09+0000,0,0,Kotlin,0,[]
