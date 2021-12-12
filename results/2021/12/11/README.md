@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/11
     
-183 records found after deduplication
+184 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-11 02:09:20+00:00 | 662515 | 25805 | Ruby | 11799 | [] |
-| ssstonebraker/log4j_CVE-2021-44228_tester | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | ['cve-2 OR cve_2'] | 1 | 2021-12-11 04:34:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| thesomeexp/log4j2-jndi-exploit-sample | None | https://github.com/thesomeexp/log4j2-jndi-exploit-sample | ['exploit'] | 1 | 2021-12-11 06:51:47+00:00 | 0 | 0 | Java | 0 | [] |
 | sybernomad/gitsploit | Collection of scripts that exploit Gitlab. | https://github.com/sybernomad/gitsploit | ['exploit'] | 1 | 2021-12-11 04:49:10+00:00 | 0 | 0 | | 0 | [] |
 | SamHackingArticles/CVE-2007-2447 | None | https://github.com/SamHackingArticles/CVE-2007-2447 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 04:59:24+00:00 | 0 | 0 | Python | 0 | ['CVE-2007-2447'] |
 | void0yt/Ether_v1 | shitty wrd exploit but undetected | https://github.com/void0yt/Ether_v1 | ['exploit'] | 1 | 2021-12-11 04:54:54+00:00 | 0 | 0 | | 0 | [] |
@@ -16,8 +16,8 @@
 | 0z09e/Chikitsa-Patient-Management-System-2.0.2-Authenticated-Remote-Code-Execution-via-Backup-Upload | None | https://github.com/0z09e/Chikitsa-Patient-Management-System-2.0.2-Authenticated-Remote-Code-Execution-via-Backup-Upload | ['remote code execution'] | 1 | 2021-12-11 06:40:51+00:00 | 54 | 0 | Python | 0 | [] |
 | 0z09e/Chikitsa-Patient-Management-System-2.0.2-Authenticated-Remote-Code-Execution-via-Plugin-Upload | None | https://github.com/0z09e/Chikitsa-Patient-Management-System-2.0.2-Authenticated-Remote-Code-Execution-via-Plugin-Upload | ['remote code execution'] | 1 | 2021-12-11 06:49:25+00:00 | 0 | 0 | Python | 0 | [] |
 | luoqianlin/CNVD-2021-95914 | nan | https://github.com/luoqianlin/CNVD-2021-95914 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-11 06:48:52+00:00 | 0 | 0 | Java | 0 | ['CNVD-2021-95914'] |
-| thesomeexp/log4j2-jndi-exploit-sample | None | https://github.com/thesomeexp/log4j2-jndi-exploit-sample | ['exploit'] | 1 | 2021-12-11 06:51:47+00:00 | 0 | 0 | Java | 0 | [] |
 | ULIT0/Key | KeySytem For ULİT0 EXPLOİT | https://github.com/ULIT0/Key | ['exploit'] | 1 | 2021-12-11 06:55:33+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-11 05:08:30+00:00 | 230666 | 6678 | C | 1836 | [] |
 | waseeld/CVE-2021-42574 | None | https://github.com/waseeld/CVE-2021-42574 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 07:28:41+00:00 | 0 | 1 | Rust | 0 | ['CVE-2021-42574'] |
 | M1ngGod/CVE-2021-44228-Log4j-lookup-Rce | None | https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-11 08:07:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | penson233/log4j2-rce-demo | java8 较高版本 | https://github.com/penson233/log4j2-rce-demo | ['rce'] | 1 | 2021-12-11 08:39:10+00:00 | 0 | 0 | Java | 0 | [] |
@@ -26,9 +26,10 @@
 | w4nd3r-0/log4j_rce | log4j_rce | https://github.com/w4nd3r-0/log4j_rce | ['rce'] | 1 | 2021-12-11 10:28:00+00:00 | 7817 | 0 | Java | 0 | [] |
 | sunskyyao/Log4jRCE | None | https://github.com/sunskyyao/Log4jRCE | ['rce'] | 1 | 2021-12-11 09:53:49+00:00 | 0 | 0 | | 0 | [] |
 | toramanemre/log4j-rce-detect-waf-bypass | A Nuclei Template for Apache Log4j RCE (CVE-2021-44228) Detection with WAF Bypass Payloads | https://github.com/toramanemre/log4j-rce-detect-waf-bypass | ['rce'] | 1 | 2021-12-11 10:19:51+00:00 | 0 | 2 | | 0 | ['CVE-2021-44228'] |
+| sefayfr/log4j-RCE | A simple and harmless example implementation of CVE-2017-5645. | https://github.com/sefayfr/log4j-RCE | ['rce'] | 1 | 2021-12-11 10:35:03+00:00 | 0 | 0 | | 0 | ['CVE-2017-5645'] |
 | sybernomad/rasploit | Collection of exploits that specifically target the Pi. | https://github.com/sybernomad/rasploit | ['exploit'] | 1 | 2021-12-11 04:38:39+00:00 | 0 | 0 | Python | 0 | [] |
+| ssstonebraker/log4j_CVE-2021-44228_tester | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | ['cve-2 OR cve_2'] | 1 | 2021-12-11 04:34:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | thetrebelcc/sluggy_log4j | POC for log4j attacks | https://github.com/thetrebelcc/sluggy_log4j | ['attack poc'] | 1 | 2021-12-11 04:14:58+00:00 | 0 | 0 | | 0 | [] |
-| o7-Fire/Log4Shell | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | ['exploit', 'rce'] | 2 | 2021-12-11 10:56:31+00:00 | 0 | 0 | Java | 0 | [] |
 | Gabrielorjuel/metasploit.termux | None | https://github.com/Gabrielorjuel/metasploit.termux | ['metasploit module OR payload'] | 1 | 2021-12-11 04:03:08+00:00 | 0 | 0 | | 0 | [] |
 | notrhys/Log4J-Exploit-Fixer | Fixes the Log4J RCE | https://github.com/notrhys/Log4J-Exploit-Fixer | ['exploit', 'rce'] | 2 | 2021-12-11 13:54:26+00:00 | 23 | 4 | Java | 3 | [] |
 | KosmX/CVE-2021-44228-example | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-12-11 09:06:53+00:00 | 61 | 2 | Java | 0 | ['CVE-2021-44228'] |
@@ -49,9 +50,9 @@
 | binganao/Log4j2-RCE | Log4j2 CVE-2021-44228 复现和分析 | https://github.com/binganao/Log4j2-RCE | ['rce'] | 1 | 2021-12-11 02:13:37+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | phoswald/sample-ldap-exploit | A short demo of CVE-2021-44228 | https://github.com/phoswald/sample-ldap-exploit | ['exploit'] | 1 | 2021-12-11 02:46:18+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | adrianmgg/reject_log4j_rce_vulnerable_client | None | https://github.com/adrianmgg/reject_log4j_rce_vulnerable_client | ['rce'] | 1 | 2021-12-11 03:32:15+00:00 | 0 | 0 | Java | 1 | [] |
-| sefayfr/log4j-RCE | A simple and harmless example implementation of CVE-2017-5645. | https://github.com/sefayfr/log4j-RCE | ['rce'] | 1 | 2021-12-11 10:35:03+00:00 | 0 | 0 | | 0 | ['CVE-2017-5645'] |
+| o7-Fire/Log4Shell | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | ['exploit', 'rce'] | 2 | 2021-12-11 10:56:31+00:00 | 0 | 0 | Java | 0 | [] |
 | hackerhackrat/Log4j2-RCE-burp-plugin | Log4j2 burp检测插件，基于python | https://github.com/hackerhackrat/Log4j2-RCE-burp-plugin | ['rce'] | 1 | 2021-12-11 10:56:55+00:00 | 0 | 3 | Python | 0 | [] |
-| guguyu1/log4j2_burp_scan | log4j2 被动 burp rce扫描工具 get post cookie 全参数识别 | https://github.com/guguyu1/log4j2_burp_scan | ['rce'] | 1 | 2021-12-11 13:38:32+00:00 | 32 | 7 | Python | 5 | [] |
+| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-11 11:31:42+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | PeTcHeNkA/log4j-exploit | log4j-exploit | https://github.com/PeTcHeNkA/log4j-exploit | ['exploit'] | 1 | 2021-12-11 16:35:01+00:00 | 0 | 0 | Java | 0 | [] |
 | LongWayHomie/CVE-2021-43798 | None | https://github.com/LongWayHomie/CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 16:36:10+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | GAMERrobloXHacKWER/Admin-Exploit | None | https://github.com/GAMERrobloXHacKWER/Admin-Exploit | ['exploit'] | 1 | 2021-12-11 16:45:37+00:00 | 0 | 0 | | 0 | [] |
@@ -74,9 +75,8 @@
 | Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-11 22:23:24+00:00 | 0 | 0 | | 0 | [] |
 | muratyokus/Turkey-discovery-and-exploitation-IOCs | None | https://github.com/muratyokus/Turkey-discovery-and-exploitation-IOCs | ['exploit'] | 1 | 2021-12-11 16:19:28+00:00 | 0 | 0 | | 0 | [] |
 | darkarnium/CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 16:41:25+00:00 | 0 | 0 | YARA | 0 | ['CVE-2021-44228'] |
-| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-11 11:31:42+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
-| christiantschoerner/Log4jFixedChecker | Minecraft Spigot Plugin to check if the Log4j Exploit has been fixed. If not instructions based on the current server versions will be sent to console | https://github.com/christiantschoerner/Log4jFixedChecker | ['exploit'] | 1 | 2021-12-11 16:25:31+00:00 | 0 | 0 | Java | 0 | [] |
 | Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2021-12-11 14:21:35+00:00 | 288 | 10 | Python | 0 | [] |
+| zhangxvx/Log4j-Rec-CVE-2021-44228 | None | https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 16:08:34+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | vorburger/Log4j_CVE-2021-44228 | None | https://github.com/vorburger/Log4j_CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 13:07:55+00:00 | 1 | 0 | | 0 | ['CVE-2021-44228'] |
 | s120000/lfi.paradise | LFI Scanner + Exploiter | https://github.com/s120000/lfi.paradise | ['exploit'] | 1 | 2021-12-11 11:51:02+00:00 | 1 | 0 | Python | 0 | [] |
 | julio-cfa/PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT | None | https://github.com/julio-cfa/PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT | ['exploit', 'remote code execution'] | 2 | 2021-12-11 12:20:30+00:00 | 0 | 0 | Python | 0 | [] |
@@ -95,9 +95,10 @@
 | Homie6324/Log4j2RCE | None | https://github.com/Homie6324/Log4j2RCE | ['rce'] | 1 | 2021-12-11 15:37:27+00:00 | 0 | 0 | | 0 | [] |
 | adilsoybali/Log4j-RCE-Scanner | Remote command execution vulnerability scanner for log4j. | https://github.com/adilsoybali/Log4j-RCE-Scanner | ['rce'] | 1 | 2021-12-11 15:38:31+00:00 | 0 | 0 | | 0 | [] |
 | 66quentin/shodan-CVE-2018-15473 | Test CVE-2018-15473 exploit on Shodan IP | https://github.com/66quentin/shodan-CVE-2018-15473 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-11 16:02:26+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-15473'] |
+| christiantschoerner/Log4jFixedChecker | Minecraft Spigot Plugin to check if the Log4j Exploit has been fixed. If not instructions based on the current server versions will be sent to console | https://github.com/christiantschoerner/Log4jFixedChecker | ['exploit'] | 1 | 2021-12-11 16:25:31+00:00 | 0 | 0 | Java | 0 | [] |
 | lhotari/pulsar-docker-images-patch-CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.15.0 update to mitigate CVE-2021-44228 | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-11 10:40:31+00:00 | 2073 | 1 | Dockerfile | 0 | ['CVE-2021-44228'] |
+| guguyu1/log4j2_burp_scan | log4j2 被动 burp rce扫描工具 get post cookie 全参数识别 | https://github.com/guguyu1/log4j2_burp_scan | ['rce'] | 1 | 2021-12-11 13:38:32+00:00 | 32 | 7 | Python | 5 | [] |
 | inbug-team/Log4j_RCE_Tool | Log4j 多线程批量检测利用工具 | https://github.com/inbug-team/Log4j_RCE_Tool | ['rce'] | 1 | 2021-12-11 02:28:04+00:00 | 175 | 7 | | 3 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-11 05:08:30+00:00 | 230666 | 6678 | C | 1836 | [] |
 | dn0sar/frontal_poc | Proof-of-Concept of the Frontal Attack | https://github.com/dn0sar/frontal_poc | ['attack poc'] | 1 | 2021-12-11 22:35:52+00:00 | 69733 | 6 | C++ | 0 | [] |
 | arturkow2000/lgk10exploit | None | https://github.com/arturkow2000/lgk10exploit | ['exploit'] | 1 | 2021-12-11 20:00:41+00:00 | 41404 | 16 | C | 6 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2021-12-11 15:57:32+00:00 | 33619 | 39 | Shell | 18 | [] |
