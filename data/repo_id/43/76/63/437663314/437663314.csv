@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+437663314,cyberxml/log4j-poc,cve-poc/files/home/user/log4j-shell-poc/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+437663314,cyberxml/log4j-poc,cve-poc/files/home/user/log4j-shell-poc/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+437663314,cyberxml/log4j-poc,cve-poc/files/home/user/log4j-shell-poc/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+437663314,cyberxml/log4j-poc,cve-poc/files/home/user/log4j-shell-poc/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+437663314,cyberxml/log4j-poc,cve-poc/files/home/user/log4j-shell-poc/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+437663314,cyberxml/log4j-poc,cve-poc/files/home/user/log4j-shell-poc/README.md,aa4935d06dc2ff18f5f94a4957d40b4efb625240,CVE-2021-44228
+437663314,cyberxml/log4j-poc,README.md,d2dc2878ce4adcc8134cb69d06e4677626d3d090,CVE-2021-44228
+437663314,cyberxml/log4j-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228
