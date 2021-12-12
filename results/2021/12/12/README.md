@@ -1,21 +1,31 @@
 
 # Summary for results/2021/12/12
     
-14 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-12-12 01:57:02+00:00 | 6181 | 4173 | Python | 571 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-12 00:16:59+00:00 | 205068 | 255 | Ruby | 78 | [] |
-| Dmitriy-area51/Exploit | None | https://github.com/Dmitriy-area51/Exploit | ['exploit'] | 1 | 2021-12-12 02:24:19+00:00 | 808 | 3 | Python | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-12 01:03:16+00:00 | 427132 | 37 | | 20 | [] |
-| Guezone/SECMON | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | ['exploit'] | 1 | 2021-12-12 00:54:24+00:00 | 13248 | 123 | CSS | 29 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-12 01:12:25+00:00 | 5307 | 2 | Python | 0 | [] |
-| sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-12-12 01:34:44+00:00 | 54535 | 13 | Python | 4 | [] |
-| rg-13/BetterSploit | nan | https://github.com/rg-13/BetterSploit | ['sploit'] | 1 | 2021-12-12 00:35:38+00:00 | 22770 | 2 | PowerShell | 1 | [] |
-| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-12-12 00:05:57+00:00 | 42 | 0 | C | 0 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-12 01:34:03+00:00 | 18000 | 94 | Python | 46 | [] |
-| Glavo/log4j-patch | Non intrusive log4j2 RCE vulnerability patch. | https://github.com/Glavo/log4j-patch | ['rce'] | 1 | 2021-12-12 01:40:17+00:00 | 83 | 55 | Java | 2 | [] |
-| whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-12 01:17:49+00:00 | 138 | 511 | Java | 171 | [] |
-| Menua2750/MaxSploit-X | nan | https://github.com/Menua2750/MaxSploit-X | ['sploit'] | 1 | 2021-12-12 00:45:27+00:00 | 1 | 0 | | 0 | [] |
+| mzlogin/CVE-2021-44228-Demo | Apache Log4j2 CVE-2021-44228 RCE | https://github.com/mzlogin/CVE-2021-44228-Demo | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-12 03:22:59+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| m00tiny/GateKeeper-CTF | exploit for gatekeeper ctf | https://github.com/m00tiny/GateKeeper-CTF | ['exploit'] | 1 | 2021-12-12 03:18:52+00:00 | 0 | 0 | Python | 0 | [] |
+| RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | None | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | ['cve-2 OR cve_2'] | 1 | 2021-12-12 03:26:14+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| alexandre-lavoie/python-log4shell | Pure Vanilla Python PoC for CVE-2021-44228 | https://github.com/alexandre-lavoie/python-log4shell | ['cve poc'] | 1 | 2021-12-12 02:57:50+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-44228'] |
 | unlimitedsola/log4j2-rce-poc | None | https://github.com/unlimitedsola/log4j2-rce-poc | ['rce', 'rce poc'] | 2 | 2021-12-12 01:27:09+00:00 | 0 | 0 | Kotlin | 0 | [] |
+| Menua2750/MaxSploit-X | nan | https://github.com/Menua2750/MaxSploit-X | ['sploit'] | 1 | 2021-12-12 00:45:27+00:00 | 1 | 0 | | 0 | [] |
+| Koupah/MC-Log4J-Exploit-Checker | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you've been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | ['exploit'] | 1 | 2021-12-12 03:33:16+00:00 | 61 | 9 | Java | 0 | [] |
+| whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-12 01:17:49+00:00 | 138 | 511 | Java | 171 | [] |
+| Glavo/log4j-patch | Non intrusive log4j2 RCE vulnerability patch. | https://github.com/Glavo/log4j-patch | ['rce'] | 1 | 2021-12-12 01:40:17+00:00 | 83 | 55 | Java | 2 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-12 01:34:03+00:00 | 18000 | 94 | Python | 46 | [] |
+| laurapenrose/Final-Project-rces | None | https://github.com/laurapenrose/Final-Project-rces | ['rce'] | 1 | 2021-12-12 03:37:50+00:00 | 496 | 0 | Jupyter Notebook | 0 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-12-12 00:05:57+00:00 | 42 | 0 | C | 0 | [] |
+| rg-13/BetterSploit | nan | https://github.com/rg-13/BetterSploit | ['sploit'] | 1 | 2021-12-12 00:35:38+00:00 | 22770 | 2 | PowerShell | 1 | [] |
+| sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-12-12 01:34:44+00:00 | 54535 | 13 | Python | 4 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-12 01:12:25+00:00 | 5307 | 2 | Python | 0 | [] |
+| Guezone/SECMON | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | ['exploit'] | 1 | 2021-12-12 00:54:24+00:00 | 13248 | 123 | CSS | 29 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-12 03:20:37+00:00 | 486844 | 216 | TypeScript | 32 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-12 02:44:58+00:00 | 783 | 40 | Python | 7 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-12 01:03:16+00:00 | 427132 | 37 | | 20 | [] |
+| kxcode/JNDI-Exploit-Bypass-Demo | Demo code for post <Restrictions of JNDI Manipulation RCE & Bypass> | https://github.com/kxcode/JNDI-Exploit-Bypass-Demo | ['exploit', 'rce'] | 2 | 2021-12-12 03:29:21+00:00 | 11 | 154 | Java | 32 | [] |
+| Dmitriy-area51/Exploit | None | https://github.com/Dmitriy-area51/Exploit | ['exploit'] | 1 | 2021-12-12 02:24:19+00:00 | 808 | 3 | Python | 0 | [] |
+| RachidMoysePolania/RastaFury | a tool for create ShellCodes from PE, based on go-donut(Binject); updated, improved and with new functionalities. | https://github.com/RachidMoysePolania/RastaFury | ['shellcode'] | 1 | 2021-12-12 03:28:51+00:00 | 0 | 0 | Go | 0 | [] |
