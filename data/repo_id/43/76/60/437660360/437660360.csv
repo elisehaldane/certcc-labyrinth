@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437660360,palominoinc/cve-2021-44228-log4j-mitigation,README.md,84007b48ad805a646edf108cc1dbdaba8c52ef5f,CVE-2021-44228
+437660360,palominoinc/cve-2021-44228-log4j-mitigation,_GITHUB_REPO_METADATA_,,CVE-2021-44228
