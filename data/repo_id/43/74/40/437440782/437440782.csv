@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+437440782,mzlogin/CVE-2021-44228-Demo,README.md,1742f65dc070252fc570a3e89f346e2c5a4935cb,CVE-2021-44228
+437440782,mzlogin/CVE-2021-44228-Demo,ldap-server/pom.xml,40786d4cad5c0bf2eea89a87b2681d45056402ad,CVE-2021-44228
+437440782,mzlogin/CVE-2021-44228-Demo,rmi-server/pom.xml,4ed88bc578120d696b99feef03fdf365033458ba,CVE-2021-44228
+437440782,mzlogin/CVE-2021-44228-Demo,pom.xml,4ffd5c1e7dc79e60d9526ea4ef2abb6d6e7ca2fe,CVE-2021-44228
+437440782,mzlogin/CVE-2021-44228-Demo,server/pom.xml,7233b7f24a8063922ad116b097e1565bb1f3c1d7,CVE-2021-44228
+437440782,mzlogin/CVE-2021-44228-Demo,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,c18982c06e247d9db7e490d6aef01bd3a8b0abd5,VU#03
+437440782,mzlogin/CVE-2021-44228-Demo,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,c18982c06e247d9db7e490d6aef01bd3a8b0abd5,VU#23
+437440782,mzlogin/CVE-2021-44228-Demo,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,c18982c06e247d9db7e490d6aef01bd3a8b0abd5,VU#68
+437440782,mzlogin/CVE-2021-44228-Demo,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,c18982c06e247d9db7e490d6aef01bd3a8b0abd5,VU#80
+437440782,mzlogin/CVE-2021-44228-Demo,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,c18982c06e247d9db7e490d6aef01bd3a8b0abd5,VU#83
+437440782,mzlogin/CVE-2021-44228-Demo,_GITHUB_REPO_METADATA_,,CVE-2021-44228
