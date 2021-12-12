@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437674999,dotPY-hax/log4py,README.md,913e9972131194eb6978e631176ea9e66ccb7f22,CVE-2021-44228
+437674999,dotPY-hax/log4py,_GITHUB_REPO_METADATA_,,CVE-2021-44228
