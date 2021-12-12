@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+437070304,francis-du/HackLog4j,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,a51315e3424af43390acf19dd10a5ad455a6596e,VU#03
+437070304,francis-du/HackLog4j,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,a51315e3424af43390acf19dd10a5ad455a6596e,VU#23
+437070304,francis-du/HackLog4j,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,a51315e3424af43390acf19dd10a5ad455a6596e,VU#68
+437070304,francis-du/HackLog4j,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,a51315e3424af43390acf19dd10a5ad455a6596e,VU#80
+437070304,francis-du/HackLog4j,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,a51315e3424af43390acf19dd10a5ad455a6596e,VU#83
