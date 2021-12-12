@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437660117,momos1337/Log4j-RCE,README.md,e8cc7ec9acfabd57d231eeb51f985eee98b70ae6,CVE-2021-44228
+437660117,momos1337/Log4j-RCE,_GITHUB_REPO_METADATA_,,CVE-2021-44228
