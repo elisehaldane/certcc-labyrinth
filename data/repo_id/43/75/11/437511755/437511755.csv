@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437511755,RK800-DEV/apache-log4j-poc,README.md,b841467a556b42cadd428d1526fcc6de31c58b25,CVE-2021-44228
+437511755,RK800-DEV/apache-log4j-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228
