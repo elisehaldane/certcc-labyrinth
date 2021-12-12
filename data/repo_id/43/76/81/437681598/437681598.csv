@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+437681598,sunnyvale-it/CVE-2021-44228-PoC,target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,0bc0ed663cd1026d0608535ae8661e115bad2bdc,CVE-2021-44228
+437681598,sunnyvale-it/CVE-2021-44228-PoC,.idea/compiler.xml,32903d3687932a2fe73293d9afc4e9d6617c88d6,CVE-2021-44228
+437681598,sunnyvale-it/CVE-2021-44228-PoC,target/CVE-2021-44228-PoC-1.0-SNAPSHOT.jar,44fad1b0c6751e424d37f2ef8d26b2b65f72d9b1,CVE-2021-44228
+437681598,sunnyvale-it/CVE-2021-44228-PoC,README.md,51117a7bc13f0abe7fa26bf1834f8d0638b60480,CVE-2021-44228
+437681598,sunnyvale-it/CVE-2021-44228-PoC,pom.xml,bb3ad96f3ef30c89b05b32db6a4f4c0c3bb4ac72,CVE-2021-44228
+437681598,sunnyvale-it/CVE-2021-44228-PoC,target/maven-archiver/pom.properties,ec2f645647ddebc37cfe2c72fd1c278448377d87,CVE-2021-44228
+437681598,sunnyvale-it/CVE-2021-44228-PoC,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#03
+437681598,sunnyvale-it/CVE-2021-44228-PoC,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#23
+437681598,sunnyvale-it/CVE-2021-44228-PoC,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#68
+437681598,sunnyvale-it/CVE-2021-44228-PoC,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#80
+437681598,sunnyvale-it/CVE-2021-44228-PoC,tools/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#83
+437681598,sunnyvale-it/CVE-2021-44228-PoC,_GITHUB_REPO_METADATA_,,CVE-2021-44228
