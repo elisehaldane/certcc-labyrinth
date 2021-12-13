@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437582859,nccgroup/log4j-jndi-be-gone,README.md,382bcef5ca58b7ae909aa3ffce2647ebadfb56fc,CVE-2021-44228
+437582859,nccgroup/log4j-jndi-be-gone,_GITHUB_REPO_METADATA_,,CVE-2021-44228
