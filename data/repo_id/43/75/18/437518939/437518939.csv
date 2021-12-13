@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+437518939,DiCanio/CVE-2021-44228-docker-example,build.sh,03699f17eb1456a8132acecafa30b5c386b44f30,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,docker/docker-compose.yml,23b61a39e4c175035c2a90ad4df626922de69262,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,server/cve-2021-44228-server.iml,264488a6553ff5bb5c2616c0e26741f17d5b609a,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,receiver/pom.xml,3c70ffb53ead7866e97c4bf444f5a76bc448aec6,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,README.md,415596bcca8bd5a714ba403496c78cebfbdf2694,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,pom.xml,4b7f6786b6d293436034cc12e57b1b8aaa19f093,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,docker/ldap/RogueJndi-1.1.jar,7ad963297c364b43dfb0a0ecc5007f843d9e4f04,VU#23
+437518939,DiCanio/CVE-2021-44228-docker-example,docker/ldap/RogueJndi-1.1.jar,7ad963297c364b43dfb0a0ecc5007f843d9e4f04,VU#46
+437518939,DiCanio/CVE-2021-44228-docker-example,server/pom.xml,9521c535667d58645a0dd44e50995b49a893e597,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,receiver/cve-2021-44228-evil-receiver.iml,cf4177e30602830d0469577b5bfe8b3495f92288,CVE-2021-44228
+437518939,DiCanio/CVE-2021-44228-docker-example,_GITHUB_REPO_METADATA_,,CVE-2021-44228
