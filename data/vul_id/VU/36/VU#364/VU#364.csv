@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#364,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
+VU#364,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086

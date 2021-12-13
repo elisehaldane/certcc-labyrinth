@@ -5,6 +5,7 @@ VU#10,0.12500000,https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-D
 VU#10,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#10,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#10,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
+VU#10,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#10,0.03225806,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#10,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#10,0.01428571,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
