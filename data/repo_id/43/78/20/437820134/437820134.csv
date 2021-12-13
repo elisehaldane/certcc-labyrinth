@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+437820134,lov3r/cve-2021-44228-log4j-exploits,pom.xml,cbeb3f03bececdd6f0cea5308321026b0d9f7d7b,CVE-2021-44228
+437820134,lov3r/cve-2021-44228-log4j-exploits,README.md,f14a5db23d99f44053cad773e109b53127f11060,CVE-2021-44228
+437820134,lov3r/cve-2021-44228-log4j-exploits,README.md,f14a5db23d99f44053cad773e109b53127f11060,CVE-2021-4428
+437820134,lov3r/cve-2021-44228-log4j-exploits,_GITHUB_REPO_METADATA_,,CVE-2021-44228
