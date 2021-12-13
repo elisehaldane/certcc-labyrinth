@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+437729997,fullhunt/log4j-scan,README.md,19ff3507bd5f97296df2105374115815e0093846,CVE-2021-44228
+437729997,fullhunt/log4j-scan,log4j-scan.py,28d85d032348eb754e925a76d71c5bd50ce6f1e6,CVE-2021-44228
+437729997,fullhunt/log4j-scan,_GITHUB_REPO_METADATA_,,CVE-2021-44228
