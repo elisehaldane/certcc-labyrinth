@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438013062,tica506/Siem-queries-for-CVE-2021-44228,sigma_rule_cve-2021-44228,ba0ab68c8143fcdb778635b94453ef44b1cc52ce,CVE-2021-44228
+438013062,tica506/Siem-queries-for-CVE-2021-44228,Elastic_Query_CVE-2021-44228,fcb59298cb8fa13dc3b7da1e29ecdea774daf378,CVE-2021-44228
+438013062,tica506/Siem-queries-for-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
