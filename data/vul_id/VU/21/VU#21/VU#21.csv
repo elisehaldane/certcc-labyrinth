@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#21,0.50000000,https://github.com/disjcordLAMO/XYZ-roblox-exploit,disjcordLAMO/XYZ-roblox-exploit,435216853
+VU#21,0.33333333,https://github.com/nil-malh/JNDI-Exploit,nil-malh/JNDI-Exploit,437992749
 VU#21,0.33333333,https://github.com/vinqo/scripthub,vinqo/scripthub,421183647
 VU#21,0.16666667,https://github.com/Dviros/log4shell-possible-malware,Dviros/log4shell-possible-malware,437827313
 VU#21,0.16666667,https://github.com/samjcs/log4shell-possible-malware,samjcs/log4shell-possible-malware,437729597
