@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438040118,name/log4j-scanner,README.md,131385f3e9f167e7881bb589da6d41d54294f608,CVE-2021-44228
+438040118,name/log4j-scanner,scanner.go,e0bf8a9aed0ccedc8137aa1ca5c18a5805ad2311,CVE-2021-44228
+438040118,name/log4j-scanner,_GITHUB_REPO_METADATA_,,CVE-2021-44228
