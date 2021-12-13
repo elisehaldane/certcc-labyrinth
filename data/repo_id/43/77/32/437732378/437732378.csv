@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+437732378,weizn11/log4j2_rce_suricata_ruleset,log4j2.rules,fe57fbfb24fb47bdc8612859ee25c92a40d95034,CVE-2021-44228
