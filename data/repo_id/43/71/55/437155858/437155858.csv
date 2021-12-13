@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+437155858,1lann/log4shelldetect,velocity-1.1.9.jar,1f5ab3853fbe78cba5da89dbbadd864fdf563b8c,VU#45
+437155858,1lann/log4shelldetect,velocity-1.1.9.jar,1f5ab3853fbe78cba5da89dbbadd864fdf563b8c,VU#565
+437155858,1lann/log4shelldetect,README.md,64a35acb10a696b27d7933846a3de2406ce80693,CVE-2021-44228
+437155858,1lann/log4shelldetect,main.go,cb8e2d0e929c6ac5a39785d2521a4fff6212aabf,CVE-2021-44228
+437155858,1lann/log4shelldetect,_GITHUB_REPO_METADATA_,,CVE-2021-44228
