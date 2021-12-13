@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438012376,giterlizzi/nmap-log4shell,README.md,4604cec2439b491e3beb3d9f0183431070e4d8da,CVE-2021-44228
+438012376,giterlizzi/nmap-log4shell,log4shell.nse,869970c92a429fe4fc1862d7d74fd47d61d666fe,CVE-2021-44228
+438012376,giterlizzi/nmap-log4shell,_GITHUB_REPO_METADATA_,,CVE-2021-44228
