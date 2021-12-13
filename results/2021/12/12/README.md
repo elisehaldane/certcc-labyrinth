@@ -38,7 +38,7 @@
 | leetxyz/CVE-2021-44228-Advisories | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | ['cve-2 OR cve_2'] | 1 | 2021-12-12 09:46:17+00:00 | 18 | 1 | | 1 | ['CVE-2021-44228'] |
 | joeengo/exploit-update-checker-py | None | https://github.com/joeengo/exploit-update-checker-py | ['exploit'] | 1 | 2021-12-12 13:25:15+00:00 | 13 | 0 | | 0 | [] |
 | adilsoybali/Log4j-RCE-Scanner | Remote command execution vulnerability scanner for Log4j. | https://github.com/adilsoybali/Log4j-RCE-Scanner | ['rce'] | 1 | 2021-12-12 19:21:53+00:00 | 37 | 35 | Shell | 4 | [] |
-| alexandre-lavoie/python-log4rce | An All-In-One Pure Python PoC for CVE-2021-44228 | https://github.com/alexandre-lavoie/python-log4rce | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-12 04:37:57+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-44228'] |
+| alexandre-lavoie/python-log4shell | Pure Vanilla Python PoC for CVE-2021-44228 | https://github.com/alexandre-lavoie/python-log4shell | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-12 02:57:50+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | zhangxvx/Log4j-Rec-CVE-2021-44228 | Apache Log4j CVE-2021-44228 漏洞复现 | https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-12 03:49:16+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | muratyokus/Turkey-discovery-and-exploitation-IOCs | None | https://github.com/muratyokus/Turkey-discovery-and-exploitation-IOCs | ['exploit'] | 1 | 2021-12-12 07:25:43+00:00 | 13 | 0 | | 0 | [] |
 | cube0x0/noPac | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | ['exploit'] | 1 | 2021-12-12 08:54:16+00:00 | 349 | 232 | C# | 43 | ['CVE-2021-42278', 'CVE-2021-42287'] |
@@ -59,7 +59,7 @@
 | FrancyPro/FrancyProClient | Il client di FrancyPro. Exploit fixato. Per chi vuole c'è pure la versione con la freelook (Che è bloccata da hypixel). | https://github.com/FrancyPro/FrancyProClient | ['exploit'] | 1 | 2021-12-12 18:34:12+00:00 | 0 | 0 | | 0 | [] |
 | lzxstr/lzxstr.github.io | Learn to exploit in Roblox! | https://github.com/lzxstr/lzxstr.github.io | ['exploit'] | 1 | 2021-12-12 19:10:26+00:00 | 0 | 0 | HTML | 0 | [] |
 | sn0b4ll/cve-2021-44288_honeypot | None | https://github.com/sn0b4ll/cve-2021-44288_honeypot | ['cve-2 OR cve_2'] | 1 | 2021-12-12 19:34:01+00:00 | 0 | 0 | | 0 | ['CVE-2021-44288'] |
-| momos1337/Log4j-RCE | Log4j RCE - (CVE-2021-44228) | https://github.com/momos1337/Log4j-RCE | ['exploit', 'rce'] | 2 | 2021-12-12 21:26:45+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| momos1337/Log4j-RCE | Log4j RCE - (CVE-2021-44228) | https://github.com/momos1337/Log4j-RCE | ['exploit', 'rce'] | 2 | 2021-12-12 22:41:00+00:00 | 3 | 1 | PHP | 0 | ['CVE-2021-44228'] |
 | Crane-Mocker/log4j-poc | Poc of log4j2 (CVE-2021-44228) | https://github.com/Crane-Mocker/log4j-poc | ['cve poc'] | 1 | 2021-12-12 11:35:11+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-44228'] |
 | palominoinc/cve-2021-44228-log4j-mitigation | Mitigate against log4j vulnerability | https://github.com/palominoinc/cve-2021-44228-log4j-mitigation | ['cve-2 OR cve_2'] | 1 | 2021-12-12 21:28:10+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | cyberxml/log4j-poc | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-12 22:25:46+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
