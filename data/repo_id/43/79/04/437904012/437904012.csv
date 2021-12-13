@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+437904012,Koupah/MC-Log4j-Patcher,src/club/koupah/log4j/global/utils/JndiContextPatch.java,3545e578b66626349c3ca44cbc7d56ef7897432d,CVE-2021-44228
+437904012,Koupah/MC-Log4j-Patcher,README.md,72a450f5ec9fce8e4c02108ce7e1b9c64cfa3194,CVE-2021-44228
+437904012,Koupah/MC-Log4j-Patcher,_GITHUB_REPO_METADATA_,,CVE-2021-44228
