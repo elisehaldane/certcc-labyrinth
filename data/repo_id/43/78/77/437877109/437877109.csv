@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437877109,manuel-alvarez-alvarez/log4j-cve-2021-44228,README.MD,16f938e06e45bbc59f5f27eb8f3580982390880e,CVE-2021-44228
+437877109,manuel-alvarez-alvarez/log4j-cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
