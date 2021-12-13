@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438028657,snatalius/log4j2-CVE-2021-44228-poc-local,README.md,f17caac71faa74c76052d958684141fe1722907e,CVE-2021-44228
+438028657,snatalius/log4j2-CVE-2021-44228-poc-local,_GITHUB_REPO_METADATA_,,CVE-2021-44228
