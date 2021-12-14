@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438248880,34zY/JNDI-Exploit-1.2-log4shell,README.md,6733e55775805edc0ca0bb23420c429d00648370,CVE-2021-44228
+438248880,34zY/JNDI-Exploit-1.2-log4shell,_GITHUB_REPO_METADATA_,,CVE-2021-44228
