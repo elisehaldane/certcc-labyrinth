@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438021782,chilit-nl/log4shell-example,README.md,95e40f52afe33b7432205653ba9152725527b303,CVE-2021-44228
+438021782,chilit-nl/log4shell-example,_GITHUB_REPO_METADATA_,,CVE-2021-44228
