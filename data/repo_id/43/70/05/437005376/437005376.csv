@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437005376,NorthwaveSecurity/log4jcheck,README.md,48d3efabf8a99882912108e19fbe9acc819aac12,CVE-2021-44228
+437005376,NorthwaveSecurity/log4jcheck,_GITHUB_REPO_METADATA_,,CVE-2021-44228
