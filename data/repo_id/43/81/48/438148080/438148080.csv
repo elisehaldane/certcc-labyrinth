@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438148080,toramanemre/apache-solr-log4j-CVE-2021-44228,apache-solr-log4j-CVE-2021-44228.yaml,fcf285d214eead25b0961092325303f36fb3f1f1,CVE-2021-44228
+438148080,toramanemre/apache-solr-log4j-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
