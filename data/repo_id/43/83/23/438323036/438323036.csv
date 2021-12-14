@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+438323036,rf-peixoto/log4j_scan-exploit,log4j_autoexploit.py,24df415809988cc03855af0a1c7de86b5aeac777,CVE-2021-44228
