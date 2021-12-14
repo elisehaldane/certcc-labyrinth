@@ -4,6 +4,7 @@ VU#83,0.33333333,https://github.com/dragonlost/nafabox_rce_2021,dragonlost/nafab
 VU#83,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#83,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#83,0.25000000,https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc,EdoardoVignati/java-deserialization-of-untrusted-data-poc,125351182
+VU#83,0.20000000,https://github.com/Eiriksgata/Apache-Log4j-Rce,Eiriksgata/Apache-Log4j-Rce,438146429
 VU#83,0.20000000,https://github.com/PeTcHeNkA/log4j-exploit,PeTcHeNkA/log4j-exploit,437328650
 VU#83,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,437070304
 VU#83,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
