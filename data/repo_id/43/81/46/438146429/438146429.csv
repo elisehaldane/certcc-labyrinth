@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+438146429,Eiriksgata/Apache-Log4j-Rce,ldapserver/marshalsec-0.0.3-SNAPSHOT-all.jar,cfe1806f03ae2419adbc9fef2ff8f04592e35906,VU#03
+438146429,Eiriksgata/Apache-Log4j-Rce,ldapserver/marshalsec-0.0.3-SNAPSHOT-all.jar,cfe1806f03ae2419adbc9fef2ff8f04592e35906,VU#23
+438146429,Eiriksgata/Apache-Log4j-Rce,ldapserver/marshalsec-0.0.3-SNAPSHOT-all.jar,cfe1806f03ae2419adbc9fef2ff8f04592e35906,VU#68
+438146429,Eiriksgata/Apache-Log4j-Rce,ldapserver/marshalsec-0.0.3-SNAPSHOT-all.jar,cfe1806f03ae2419adbc9fef2ff8f04592e35906,VU#80
+438146429,Eiriksgata/Apache-Log4j-Rce,ldapserver/marshalsec-0.0.3-SNAPSHOT-all.jar,cfe1806f03ae2419adbc9fef2ff8f04592e35906,VU#83
