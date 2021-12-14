@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438386589,csduncan9/Log4j-CVE-2021-44228-command-generator,log4shell.py,888dc9c8073256d5e3f8795ccc2c56cab8edecec,CVE-2021-44228
+438386589,csduncan9/Log4j-CVE-2021-44228-command-generator,README.md,ef3f43990ac7ac1c006c1cf71dc58eca777fd98b,CVE-2021-44228
+438386589,csduncan9/Log4j-CVE-2021-44228-command-generator,_GITHUB_REPO_METADATA_,,CVE-2021-44228
