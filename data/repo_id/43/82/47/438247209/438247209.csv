@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438247209,rwincey/CVE-2021-44228-Log4j-Payloads,vmware-view-client-protocol-spec-4.5.0-ga.pdf,bce188807bf71a6fe13e8998089601b4bce55023,VU#38
+438247209,rwincey/CVE-2021-44228-Log4j-Payloads,_GITHUB_REPO_METADATA_,,CVE-2021-44228
