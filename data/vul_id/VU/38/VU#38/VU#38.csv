@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#38,1.00000000,https://github.com/SapienzaNLP/xl-amr,SapienzaNLP/xl-amr,268747796
+VU#38,0.50000000,https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads,rwincey/CVE-2021-44228-Log4j-Payloads,438247209
 VU#38,0.50000000,https://github.com/Alexcot25051999/CVE-2021-40444,Alexcot25051999/CVE-2021-40444,430718153
 VU#38,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#38,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
