@@ -1,27 +1,35 @@
 
 # Summary for results/2021/12/14
     
-26 records found after deduplication
+34 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-14 00:17:08+00:00 | 206601 | 256 | Ruby | 78 | [] |
-| hooj0/shell-examples | :tada: Linux common command line script example | https://github.com/hooj0/shell-examples | ['shellcode'] | 1 | 2021-12-14 01:17:08+00:00 | 572 | 2 | Shell | 0 | [] |
-| ripper2hl/Example-jndiExploit- | See https://github.com/christophetd/log4shell-vulnerable-app | https://github.com/ripper2hl/Example-jndiExploit- | ['exploit'] | 1 | 2021-12-14 00:54:45+00:00 | 0 | 0 | | 0 | [] |
-| Contrast-Security-OSS/CVE-2021-44228 | Professional Service scripts to aid in the identification of affected Java applications in TeamServer | https://github.com/Contrast-Security-OSS/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-14 00:06:22+00:00 | 5 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
-| 0sunday/Booked-Scheduler-2.7.5-RCE | Exploiting Booked Scheduler 2.7.5 with python | https://github.com/0sunday/Booked-Scheduler-2.7.5-RCE | ['exploit', 'rce'] | 2 | 2021-12-14 00:23:31+00:00 | 7 | 0 | Python | 0 | [] |
-| LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | None | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-14 00:47:22+00:00 | 84 | 1 | | 0 | ['CVE-2021-44228'] |
-| fireeye/CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-14 00:23:40+00:00 | 7 | 0 | | 0 | ['CVE-2021-44228'] |
 | qingtengyun/cve-2021-44228-qingteng-online-patch | None | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | ['cve-2 OR cve_2'] | 1 | 2021-12-14 01:54:56+00:00 | 60 | 17 | Java | 0 | ['CVE-2021-44228'] |
-| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-14 00:00:09+00:00 | 100 | 1 | | 0 | [] |
-| Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2021-12-14 00:01:19+00:00 | 373 | 371 | Python | 59 | [] |
-| f0ng/log4j2burpscanner | CVE-2021-44228，log4j2 burp插件 Java版本，可自定义ceye.io，也可以自定义内网的dnslog平台及请求接口定位内网漏洞机器(log4j2 RCE Burp Suite Passive Scanner，and u can customize the ceye.io api or other apis，including internal networks) | https://github.com/f0ng/log4j2burpscanner | ['rce'] | 1 | 2021-12-14 01:23:10+00:00 | 76 | 109 | Java | 16 | ['CVE-2021-44228'] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-14 01:08:45+00:00 | 39526 | 28 | Java | 14 | ['CVE-2021-44228'] |
+| f0ng/log4j2burpscanner | CVE-2021-44228，log4j2 burp插件 Java版本，可自定义ceye.io，也可以自定义内网的dnslog平台及请求接口定位内网漏洞机器(log4j2 RCE Burp Suite Passive Scanner，and u can customize the ceye.io api or other apis，including internal networks) | https://github.com/f0ng/log4j2burpscanner | ['rce'] | 1 | 2021-12-14 01:23:10+00:00 | 76 | 109 | Java | 16 | ['CVE-2021-44228'] |
+| Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2021-12-14 00:01:19+00:00 | 373 | 371 | Python | 59 | [] |
+| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-14 00:00:09+00:00 | 100 | 1 | | 0 | [] |
+| RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | None | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | ['cve-2 OR cve_2'] | 1 | 2021-12-14 02:14:36+00:00 | 38 | 23 | | 4 | ['CVE-2021-44228'] |
+| NotOnTop/Exploits_Public | None | https://github.com/NotOnTop/Exploits_Public | ['exploit'] | 1 | 2021-12-14 02:12:10+00:00 | 224 | 0 | Lua | 0 | [] |
+| fireeye/CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-14 00:23:40+00:00 | 7 | 0 | | 0 | ['CVE-2021-44228'] |
+| hooj0/shell-examples | :tada: Linux common command line script example | https://github.com/hooj0/shell-examples | ['shellcode'] | 1 | 2021-12-14 01:17:08+00:00 | 572 | 2 | Shell | 0 | [] |
+| LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | None | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-14 00:47:22+00:00 | 84 | 1 | | 0 | ['CVE-2021-44228'] |
+| cyberghost-security/msfpayload | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | ['metasploit module OR payload'] | 1 | 2021-12-14 02:13:21+00:00 | 14 | 0 | Shell | 0 | [] |
+| 0sunday/Booked-Scheduler-2.7.5-RCE | Exploiting Booked Scheduler 2.7.5 with python | https://github.com/0sunday/Booked-Scheduler-2.7.5-RCE | ['exploit', 'rce'] | 2 | 2021-12-14 00:23:31+00:00 | 7 | 0 | Python | 0 | [] |
+| Contrast-Security-OSS/CVE-2021-44228 | Professional Service scripts to aid in the identification of affected Java applications in TeamServer | https://github.com/Contrast-Security-OSS/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-14 00:06:22+00:00 | 5 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
+| ripper2hl/Example-jndiExploit- | See https://github.com/christophetd/log4shell-vulnerable-app | https://github.com/ripper2hl/Example-jndiExploit- | ['exploit'] | 1 | 2021-12-14 00:54:45+00:00 | 0 | 0 | | 0 | [] |
+| shellazra/exploit | None | https://github.com/shellazra/exploit | ['exploit'] | 1 | 2021-12-14 00:59:43+00:00 | 0 | 0 | C++ | 0 | [] |
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-14 01:23:25+00:00 | 180 | 784 | Java | 246 | [] |
+| jas502n/Log4j2-CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-14 02:16:17+00:00 | 34077 | 142 | | 33 | ['CVE-2021-44228'] |
 | tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-14 01:30:04+00:00 | 37696 | 2207 | Java | 747 | ['CVE-2021-44228'] |
 | FDlucifer/Proxy-Attackchain | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | ['exploit'] | 1 | 2021-12-14 00:16:47+00:00 | 11037 | 77 | Go | 20 | [] |
 | Harleythetech/MultiFW-RD-PS4 | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | ['exploit'] | 1 | 2021-12-14 00:32:39+00:00 | 2021 | 0 | HTML | 0 | [] |
+| simulatorwinner/scripts | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | ['exploit'] | 1 | 2021-12-14 02:09:14+00:00 | 13217 | 1 | Lua | 0 | [] |
+| MiracleLau/exploits | 漏洞利用收集 | https://github.com/MiracleLau/exploits | ['exploit'] | 1 | 2021-12-14 02:09:22+00:00 | 2 | 1 | | 0 | [] |
 | Spard2/ps4exploit | None | https://github.com/Spard2/ps4exploit | ['exploit'] | 1 | 2021-12-14 00:23:07+00:00 | 855 | 0 | JavaScript | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-14 02:23:49+00:00 | 1067 | 302 | JavaScript | 660 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-12-14 01:33:16+00:00 | 54537 | 13 | Python | 4 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-14 01:13:09+00:00 | 7016 | 2 | Python | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-14 00:23:28+00:00 | 487138 | 341 | TypeScript | 46 | [] |
@@ -30,4 +38,4 @@
 | zeroday0619/zeroday | <레거시 코드에 주의하세요> [ pypy3.7 support ] A Discord bot | https://github.com/zeroday0619/zeroday | ['zeroday'] | 1 | 2021-12-14 00:37:06+00:00 | 276 | 0 | Python | 1 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-14 00:45:49+00:00 | 12788 | 24 | | 16 | [] |
 | welk1n/JNDI-Injection-Exploit | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | ['exploit'] | 1 | 2021-12-14 00:08:02+00:00 | 400 | 1338 | Java | 377 | [] |
-| shellazra/exploit | None | https://github.com/shellazra/exploit | ['exploit'] | 1 | 2021-12-14 00:59:43+00:00 | 0 | 0 | C++ | 0 | [] |
+| w41l3r/Exploits | My Exploits | https://github.com/w41l3r/Exploits | ['exploit'] | 1 | 2021-12-14 02:15:21+00:00 | 0 | 0 | Java | 0 | [] |
