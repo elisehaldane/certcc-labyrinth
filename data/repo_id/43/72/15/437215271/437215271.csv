@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437215271,f0ng/log4j2burpscanner,README.md,82b5d5fdbabd3db6659cf71fb4b7a137e00c7e9d,CVE-2021-44228
+437215271,f0ng/log4j2burpscanner,_GITHUB_REPO_METADATA_,,CVE-2021-44228
