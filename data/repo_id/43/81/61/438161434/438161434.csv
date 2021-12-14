@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438161434,ChriSanders22/Log4Shell-detector,README.md,23b29a99ba77850943c29e153a0b382fc1bc1022,CVE-2021-44228
+438161434,ChriSanders22/Log4Shell-detector,rules/expl_log4j_cve_2021_44228.yar,ffe1f43497a8f8fb074875d2a24ff4508596664f,CVE-2020-2555
+438161434,ChriSanders22/Log4Shell-detector,rules/expl_log4j_cve_2021_44228.yar,ffe1f43497a8f8fb074875d2a24ff4508596664f,CVE-2021-44228
