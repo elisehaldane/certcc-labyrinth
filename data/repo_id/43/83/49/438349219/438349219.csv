@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438349219,municipalparkingservices/CVE-2021-44228-Scanner,src/main/java/com/logpresso/scanner/Log4j2Scanner.java,1e5e7e4339416d3e223478756d7d9fd08e1c9afa,CVE-2021-44228
+438349219,municipalparkingservices/CVE-2021-44228-Scanner,README.md,75e3b174109d5b4a732a1e8aeb27ca5e44a33d84,CVE-2021-44228
+438349219,municipalparkingservices/CVE-2021-44228-Scanner,_GITHUB_REPO_METADATA_,,CVE-2021-44228
