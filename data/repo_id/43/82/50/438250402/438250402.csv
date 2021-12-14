@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438250402,didoatanasov/cve-2021-44228,playbook.yml,170a2bb685ad8c0cd618ccde619512bc82cff1d6,CVE-2021-44228
+438250402,didoatanasov/cve-2021-44228,README.md,bf70a8a7df5b04780c2a378a36eed321e9e08c40,CVE-2021-44228
+438250402,didoatanasov/cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
