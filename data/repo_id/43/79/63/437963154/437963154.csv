@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+437963154,corelight/cve-2021-44228,testing/Baseline/log4j.notice/notice.log,0287faf4fd2ba393f57ce04825ba0b6c0e3dfa31,CVE-2021-44228
+437963154,corelight/cve-2021-44228,zkg.meta,2c88da0806ddb8eb18d58bb0181239847d02a0b1,CVE-2021-44228
+437963154,corelight/cve-2021-44228,scripts/__load__.zeek,70734e8b225eff070c5d2c4ada36ebdeda4e7fdc,CVE-2021-44228
+437963154,corelight/cve-2021-44228,testing/Baseline/log4j.notice/http.log,88686d5357aa53a9df26a25fa1d6a71ecd2d8d01,CVE-2021-44228
+437963154,corelight/cve-2021-44228,scripts/CVE_2021_44228.zeek,a9310bab2ffa339447596de4d8fd33ded98c82b0,CVE-2021-44228
+437963154,corelight/cve-2021-44228,README.md,d84258aba1b429899fef4dfe64c57d01e647ea57,CVE-2021-44228
+437963154,corelight/cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
