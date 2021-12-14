@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438140876,H4ckTh3W0r1d/Apache_Log4j2_RCE,README.md,01c644f4d2383a70ff741b19bc50c12eae36efef,CNVD-2021-95914
+438140876,H4ckTh3W0r1d/Apache_Log4j2_RCE,README.md,01c644f4d2383a70ff741b19bc50c12eae36efef,CVE-2021-44228
