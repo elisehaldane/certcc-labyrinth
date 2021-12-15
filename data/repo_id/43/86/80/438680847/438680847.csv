@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+438680847,sebiboga/jmeter-fix-cve-2021-44228-windows,cve-2021-44228.bat,13ddaac8f34f7fa3b52f1628de1faae1c18e2c4d,CVE-2021-44228
+438680847,sebiboga/jmeter-fix-cve-2021-44228-windows,cve-2021-44228.bat,13ddaac8f34f7fa3b52f1628de1faae1c18e2c4d,CVE-2021-4428
+438680847,sebiboga/jmeter-fix-cve-2021-44228-windows,README.md,97f5b43afad6d2f635efa7432b2548adb0fb45b8,CVE-2021-44228
+438680847,sebiboga/jmeter-fix-cve-2021-44228-windows,_GITHUB_REPO_METADATA_,,CVE-2021-44228
