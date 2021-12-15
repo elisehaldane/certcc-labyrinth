@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+437311521,timb-machine/log4j,yara/log4j.yara,21bf355d844a5dea6588bd74c04fca414d36926a,CVE-2021-44228
+437311521,timb-machine/log4j,samples/apache-log4j-2.0-beta9-site.zip,4c6d7735f882d47387bfc84e5bdb721c6bd3d023,VU#00
+437311521,timb-machine/log4j,samples/apache-log4j-2.14.1-src.tar.gz,8d104269b906cb769f48cc1390508f24d1b2f27e,VU#777
+437311521,timb-machine/log4j,samples/apache-log4j-2.14.1-bin.tar.gz,ce79fb14d9d0674a258bbc477aac04d643862973,VU#69
+437311521,timb-machine/log4j,samples/apache-log4j-2.14.1-bin.tar.gz,ce79fb14d9d0674a258bbc477aac04d643862973,VU#70
+437311521,timb-machine/log4j,samples/apache-log4j-2.14.1-src.zip,e159552cebdf7f857ca4e9a242f9d238d9c7a5fa,VU#777
+437311521,timb-machine/log4j,samples/apache-log4j-2.14.1-bin.zip,fe2a3279b8dfbfa98b85216c59235f6db278edce,VU#26

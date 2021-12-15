@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+438667451,robertdebock/ansible-role-cve_2021_44228,tasks/main.yml,0bfc3d4dead3edccdc7c41880fd421b92066f23e,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,SECURITY.md,0e9a9994cf74f56babcc07fd61e68a569b2c252c,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,handlers/main.yml,12193efb7d72b3e976801101373ee8f1c204c091,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,meta/main.yml,37dbfa9d9e2d418b46305128c4821a6ed4acfc2c,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,README.md,490f57390829b74e1cb44515ab7a8ed00f3cb6f2,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,molecule/default/converge.yml,536cdd33211a5556f451d9509d05caf39765d9c6,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,tasks/assert.yml,54af2353f3e31d7e60303bee88713ba540604380,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,CONTRIBUTING.md,70d99e20cf5e3ba3cf2cb577a5443bb2c32f22fd,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,molecule/default/molecule.yml,72dbf7db01c03b31e3ed9ed127d3bdd1c7bf97aa,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,vars/main.yml,a848f5462e8018f62b420d2dd8c4762bb24bb3fb,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,defaults/main.yml,e6963ceeb31b0705c941889c8437080440467f7b,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,.github/settings.yml,e951112e974fabfe4933cf5eed8cc73760cea79d,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,molecule/default/prepare.yml,f73a4d9fe4a0cb578195ebe9d4c966d4ad91f6bc,CVE-2021-44228
+438667451,robertdebock/ansible-role-cve_2021_44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
