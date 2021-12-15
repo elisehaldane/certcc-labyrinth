@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438671178,pmembrey/log4j-portscan,README.md,42cd8ca8614d333429e57141a9e462b9b3cc266e,CVE-2021-44228
+438671178,pmembrey/log4j-portscan,src/main.rs,87de09f1f4e952176319fa07e80304ba69c2baa5,CVE-2021-44228
