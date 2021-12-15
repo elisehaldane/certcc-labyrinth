@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438585523,jsnv-dev/yet_another_log4j_POC_standalone,log4j.rb,3ef26e6ca428d223474fdc0e35428831c9a2a449,CVE-2021-44228
+438585523,jsnv-dev/yet_another_log4j_POC_standalone,README.md,ddc295a0f204c56e3fce652905796aa26c0b2d8d,CVE-2021-44228
