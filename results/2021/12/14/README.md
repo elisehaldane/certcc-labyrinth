@@ -85,7 +85,7 @@
 | DongHongcheng/LSTM_exploitation | None | https://github.com/DongHongcheng/LSTM_exploitation | ['exploit'] | 1 | 2021-12-14 13:45:07+00:00 | 0 | 0 | Python | 0 | [] |
 | nickb4924/Airline-GDS | BookingXML offers a high-end Airline GDS Software with an easy-to-use interface and a robust architecture that allows increased efficiency, reduced cost, and increased sales in a lesser period. Our Airline Reservation System is integrated with the direct c | https://github.com/nickb4924/Airline-GDS | ['exploit'] | 1 | 2021-12-14 12:59:11+00:00 | 0 | 0 | | 0 | [] |
 | faisalfs10x/Log4j2-CVE-2021-44228-revshell | None | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | ['cve-2 OR cve_2'] | 1 | 2021-12-14 05:25:35+00:00 | 1 | 0 | | 0 | ['CVE-2021-44228'] |
-| cbuschka/log4j2-rce-recap | Little recap of the log4j2 remote code execution (CVE-2021-44228) | https://github.com/cbuschka/log4j2-rce-recap | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-12-14 09:38:48+00:00 | 4 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| cbuschka/log4j2-rce-recap | None | https://github.com/cbuschka/log4j2-rce-recap | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-12-14 08:37:15+00:00 | 0 | 0 | | 0 | [] |
 | zjx/CVE-2021-44228 | None | https://github.com/zjx/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-14 05:48:50+00:00 | 14 | 0 | | 0 | ['CVE-2021-44228'] |
 | N1ght420/Log4j | Simple Log4j Exploiter | https://github.com/N1ght420/Log4j | ['exploit'] | 1 | 2021-12-14 05:56:30+00:00 | 2 | 0 | Shell | 0 | [] |
 | H4ckTh3W0r1d/Apache_Log4j2_RCE | None | https://github.com/H4ckTh3W0r1d/Apache_Log4j2_RCE | ['rce'] | 1 | 2021-12-14 06:39:57+00:00 | 0 | 0 | | 0 | [] |
@@ -104,7 +104,7 @@
 | dkijkuit/log4jshell-exploit | None | https://github.com/dkijkuit/log4jshell-exploit | ['exploit'] | 1 | 2021-12-14 10:18:48+00:00 | 0 | 0 | Java | 0 | [] |
 | ftp21/log4shell-vulnerable-app | A fork of https://github.com/christophetd/log4shell-vulnerable-app with exploitable User-Agent | https://github.com/ftp21/log4shell-vulnerable-app | ['exploit'] | 1 | 2021-12-14 10:39:04+00:00 | 0 | 0 | | 0 | [] |
 | alexovchinnicov/log4shell-detector-dockerized | Detector for Log4Shell exploitation attempts in Docker container | https://github.com/alexovchinnicov/log4shell-detector-dockerized | ['exploit'] | 1 | 2021-12-14 12:04:00+00:00 | 0 | 0 | Dockerfile | 0 | [] |
-| cckuailong/log4shell_1.x | log4j 1.x RCE Poc | https://github.com/cckuailong/log4shell_1.x | ['rce', 'rce poc'] | 2 | 2021-12-14 12:56:24+00:00 | 0 | 1 | Java | 1 | [] |
+| cckuailong/log4shell_1.x | log4j 1.x RCE Poc | https://github.com/cckuailong/log4shell_1.x | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-14 12:56:24+00:00 | 0 | 1 | Java | 1 | [] |
 | rwincey/CVE-2021-44228-Log4j-Payloads | None | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | ['cve-2 OR cve_2'] | 1 | 2021-12-14 12:43:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | 34zY/JNDI-Exploit-1.2-log4shell | Details : CVE-2021-44228 | https://github.com/34zY/JNDI-Exploit-1.2-log4shell | ['exploit'] | 1 | 2021-12-14 12:49:26+00:00 | 1 | 0 | | 0 | ['CVE-2021-44228'] |
 | Ode1esse/springboot-login-log4j2 | log4j2-rce靶场 | https://github.com/Ode1esse/springboot-login-log4j2 | ['rce'] | 1 | 2021-12-14 12:43:56+00:00 | 0 | 0 | | 0 | [] |
@@ -172,7 +172,7 @@
 | dbgee/log4j2_rce | log4j2 rce、poc | https://github.com/dbgee/log4j2_rce | ['rce', 'rce poc'] | 2 | 2021-12-14 02:56:53+00:00 | 69 | 29 | Java | 19 | [] |
 | jas502n/Log4j2-CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-14 02:16:17+00:00 | 34077 | 142 | | 33 | ['CVE-2021-44228'] |
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-14 01:23:25+00:00 | 180 | 784 | Java | 246 | [] |
-| leonjza/log4jpwn | log4j rce test environment | https://github.com/leonjza/log4jpwn | ['rce', 'rce poc'] | 2 | 2021-12-14 05:14:23+00:00 | 93 | 91 | Python | 19 | [] |
+| leonjza/log4jpwn | log4j rce test environment and poc | https://github.com/leonjza/log4jpwn | ['rce', 'rce poc'] | 2 | 2021-12-14 06:44:32+00:00 | 134 | 96 | Python | 20 | [] |
 | inbug-team/Log4j_RCE_Tool | Log4j 多线程批量检测利用工具 | https://github.com/inbug-team/Log4j_RCE_Tool | ['rce'] | 1 | 2021-12-14 08:25:56+00:00 | 28197 | 92 | | 35 | [] |
 | NorthwaveSecurity/log4jcheck | A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers. | https://github.com/NorthwaveSecurity/log4jcheck | ['rce'] | 1 | 2021-12-14 10:20:30+00:00 | 15 | 70 | Python | 19 | ['CVE-2021-44228'] |
 | p0dalirius/CVE-2016-10956_mail_masta | MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956) | https://github.com/p0dalirius/CVE-2016-10956_mail_masta | ['cve-2 OR cve_2'] | 1 | 2021-12-14 17:51:59+00:00 | 2166 | 0 | Python | 0 | ['CVE-2016-10956'] |
@@ -180,7 +180,7 @@
 | KosmX/CVE-2021-44228-example | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2021-12-14 10:37:27+00:00 | 68 | 4 | Java | 1 | ['CVE-2021-44228'] |
 | entropyQueen/log4j_catcher | catch log4j exploits in the wild? maybe if we're lucky... . | https://github.com/entropyQueen/log4j_catcher | ['exploit'] | 1 | 2021-12-14 10:59:34+00:00 | 16 | 14 | Python | 2 | [] |
 | Azeemering/CVE-2021-44228-DFIR-Notes | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | ['cve-2 OR cve_2'] | 1 | 2021-12-14 12:15:16+00:00 | 28 | 8 | | 2 | ['CVE-2021-44228'] |
-| Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-12-14 14:38:03+00:00 | 6 | 331 | Java | 53 | ['CVE-2021-44228'] |
+| Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-12-14 14:39:51+00:00 | 8 | 340 | Java | 53 | ['CVE-2021-44228'] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-14 01:08:45+00:00 | 39526 | 28 | Java | 14 | ['CVE-2021-44228'] |
 | Adikso/minecraft-log4j-honeypot | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | ['exploit'] | 1 | 2021-12-14 13:43:35+00:00 | 32 | 39 | Go | 11 | ['CVE-2021-44228'] |
 | ssstonebraker/log4j_CVE-2021-44228_tester | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | ['cve-2 OR cve_2'] | 1 | 2021-12-14 21:03:04+00:00 | 6 | 9 | Shell | 2 | ['CVE-2021-44228'] |
