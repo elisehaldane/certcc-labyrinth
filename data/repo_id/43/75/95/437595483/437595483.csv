@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+437595483,curated-intel/Log4Shell-IOCs,Threat Hunt Feed - Medium Confidence/MISP-CSV/Log4j_craiu_Blocklist_ThreatHunt_Feed.csv,96b726c09d598abd546f730cef871680d91b6ac4,CVE-2021-44228
+437595483,curated-intel/Log4Shell-IOCs,README.md,d47307c06bb4f9cecec1178102a7bea83d6a82a8,CVE-2021-44228

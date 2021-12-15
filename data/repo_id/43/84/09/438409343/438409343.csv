@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438409343,stripe/log4j-remediation-tools,README.md,57706c1bbd6a05d6d59a1948e2734162c2b5e8e2,CVE-2021-44228
+438409343,stripe/log4j-remediation-tools,confirm-vulnerabilities/README.md,5bed0d85b2c7194032ff4e276816bcc9d42d00e8,CVE-2021-44228
+438409343,stripe/log4j-remediation-tools,_GITHUB_REPO_METADATA_,,CVE-2021-44228
