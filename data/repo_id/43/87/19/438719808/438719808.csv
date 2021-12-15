@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438719808,MkTech-0-8YT3/CVE-2021-44228,web/pom.xml,cac3b1bf9004a27ec1eacfbba2e9f122d2e3f2bc,CVE-2021-44228
+438719808,MkTech-0-8YT3/CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
