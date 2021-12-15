@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438747026,pmontesd/log4j-cve-2021-44228,README.md,5ada29a607e3100aa2a0daaee331c73975fcd784,CVE-2021-44228
+438747026,pmontesd/log4j-cve-2021-44228,log4j-cve-2021-44228.yml,acb0ae454ae5f474e23602b2df56acc87b508cf1,CVE-2021-44228
+438747026,pmontesd/log4j-cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
