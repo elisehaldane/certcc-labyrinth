@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+437273514,b-abderrahmane/CVE-2021-44228-playground,README.md,223553a9517ce2c4706f11e6c9491bc8b5fe68fc,CVE-2021-44228
+437273514,b-abderrahmane/CVE-2021-44228-playground,marshalsec/src/main/java/marshalsec/Jackson.java,b9d2b24850ff2af4777f5c04b8941057bdf20afc,CVE-2017-7525
+437273514,b-abderrahmane/CVE-2021-44228-playground,_GITHUB_REPO_METADATA_,,CVE-2021-44228
