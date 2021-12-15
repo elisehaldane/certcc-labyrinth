@@ -1,12 +1,15 @@
 
 # Summary for results/2021/12/15
     
-45 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-15 00:31:05+00:00 | 662071 | 25844 | Ruby | 11819 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-15 05:08:19+00:00 | 232751 | 6687 | C | 1840 | [] |
+| ssstonebraker/log4j_CVE-2021-44228_tester | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | ['cve-2 OR cve_2'] | 1 | 2021-12-15 02:04:13+00:00 | 9 | 9 | Shell | 2 | ['CVE-2021-44228'] |
 | f0ng/log4j2burpscanner | CVE-2021-44228，log4j2 burp插件 Java版本，可自定义ceye.io，也可以自定义内网的dnslog平台及请求接口定位内网漏洞机器(log4j2 RCE Burp Suite Passive Scanner，can customize the ceye.io api or other apis，including internal networks) | https://github.com/f0ng/log4j2burpscanner | ['rce'] | 1 | 2021-12-15 02:34:31+00:00 | 120 | 155 | Java | 28 | ['CVE-2021-44228'] |
+| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-15 03:02:05+00:00 | 73 | 216 | Java | 55 | ['CVE-2021-44228'] |
 | r0mdau/ansible-role-log4shell-detector | Ansible role to detect Log4Shell exploitation attempts | https://github.com/r0mdau/ansible-role-log4shell-detector | ['exploit'] | 1 | 2021-12-15 04:40:22+00:00 | 12 | 15 | | 2 | [] |
 | r0mdau/ansible-log4shell-detector | Ansible playbook example to detect Log4Shell exploitation attempts | https://github.com/r0mdau/ansible-log4shell-detector | ['exploit'] | 1 | 2021-12-15 04:42:20+00:00 | 2 | 0 | | 0 | [] |
 | Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-15 00:00:09+00:00 | 196 | 1 | | 0 | [] |
@@ -17,6 +20,7 @@
 | weizn11/log4j2_rce_suricata_ruleset | None | https://github.com/weizn11/log4j2_rce_suricata_ruleset | ['rce'] | 1 | 2021-12-15 04:12:04+00:00 | 4 | 1 | | 1 | [] |
 | AlexandreHeroux/Fix-CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-15 02:02:51+00:00 | 32 | 1 | Java | 2 | ['CVE-2021-44228'] |
 | giterlizzi/nmap-log4shell | Nmap Log4Shell NSE script for discovery Apache Log4j RCE (CVE-2021-44228) | https://github.com/giterlizzi/nmap-log4shell | ['rce'] | 1 | 2021-12-15 00:14:00+00:00 | 13 | 4 | Lua | 0 | ['CVE-2021-44228'] |
+| H4ckTh3W0r1d/Apache_Log4j2_RCE | None | https://github.com/H4ckTh3W0r1d/Apache_Log4j2_RCE | ['rce'] | 1 | 2021-12-15 05:05:01+00:00 | 2519 | 3 | | 0 | [] |
 | Ryze-T/CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/Ryze-T/CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2021-12-15 02:53:54+00:00 | 3 | 3 | Go | 0 | ['CVE-2021-43798'] |
 | 0xThiebaut/CVE-2021-44228 | CVE-2021-44228 Response Scripts | https://github.com/0xThiebaut/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-15 00:27:46+00:00 | 4 | 0 | Python | 0 | ['CVE-2021-44228'] |
 | lucdoeburn/ArtOfExploitation | None | https://github.com/lucdoeburn/ArtOfExploitation | ['exploit'] | 1 | 2021-12-15 00:57:29+00:00 | 0 | 0 | C | 0 | [] |
@@ -26,10 +30,11 @@
 | Meeds122/Log2Pwn | Easy Log2Shell exploitation | https://github.com/Meeds122/Log2Pwn | ['exploit'] | 1 | 2021-12-15 02:05:17+00:00 | 0 | 0 | | 0 | [] |
 | wudonglei99/smartidx | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | ['exploit'] | 1 | 2021-12-15 02:26:50+00:00 | 0 | 0 | | 0 | [] |
 | jeremyrsellars/CVE-2021-44228_scanner | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-15 02:31:33+00:00 | 0 | 0 | Clojure | 0 | ['CVE-2021-44228'] |
-| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-15 03:02:05+00:00 | 73 | 216 | Java | 55 | ['CVE-2021-44228'] |
-| ssstonebraker/log4j_CVE-2021-44228_tester | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | ['cve-2 OR cve_2'] | 1 | 2021-12-15 02:04:13+00:00 | 9 | 9 | Shell | 2 | ['CVE-2021-44228'] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-15 00:06:38+00:00 | 1534769 | 1540 | Python | 524 | [] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-15 02:44:16+00:00 | 39531 | 134 | Java | 29 | ['CVE-2021-44228'] |
+| leonjza/log4jpwn | log4j rce test environment and poc | https://github.com/leonjza/log4jpwn | ['rce', 'rce poc'] | 2 | 2021-12-15 04:57:35+00:00 | 390 | 149 | Python | 29 | [] |
+| whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-15 02:31:54+00:00 | 359 | 878 | Java | 253 | [] |
+| Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2021-12-15 04:41:37+00:00 | 7379 | 1 | JavaScript | 2 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-15 00:06:38+00:00 | 1534769 | 1540 | Python | 524 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-15 00:21:34+00:00 | 2930 | 84 | Go | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-15 00:16:56+00:00 | 206602 | 256 | Ruby | 78 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-12-15 01:08:14+00:00 | 591 | 120 | Julia | 23 | [] |
@@ -39,14 +44,16 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-15 00:04:31+00:00 | 436566 | 37 | | 20 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-15 01:07:56+00:00 | 92 | 0 | PHP | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-15 00:46:39+00:00 | 547733 | 391 | TypeScript | 57 | [] |
-| Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2021-12-15 04:41:37+00:00 | 7379 | 1 | JavaScript | 2 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-15 04:02:02+00:00 | 107238 | 258 | Python | 78 | [] |
+| RoadLuck/exploits-tryhackme | None | https://github.com/RoadLuck/exploits-tryhackme | ['exploit'] | 1 | 2021-12-15 01:56:38+00:00 | 0 | 0 | Python | 0 | [] |
 | deaddlocust/LBI-Base | Internal ROBLOX exploit using the LBI execution method | https://github.com/deaddlocust/LBI-Base | ['exploit'] | 1 | 2021-12-15 04:08:15+00:00 | 3897 | 11 | C | 1 | [] |
 | conda-forge/rcedit-feedstock | A conda-smithy repository for rcedit. | https://github.com/conda-forge/rcedit-feedstock | ['rce'] | 1 | 2021-12-15 03:09:41+00:00 | 9 | 0 | Batchfile | 0 | [] |
+| veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-12-15 05:35:51+00:00 | 16823 | 340 | Go | 45 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-15 01:09:58+00:00 | 7960 | 2 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-15 01:26:27+00:00 | 1067 | 304 | JavaScript | 684 | [] |
+| nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-12-15 05:22:26+00:00 | 64 | 2 | Zeek | 1 | [] |
+| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-12-15 05:23:48+00:00 | 709 | 0 | Python | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-15 03:13:45+00:00 | 259 | 0 | TypeScript | 0 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-12-15 01:11:09+00:00 | 62 | 0 | C | 0 | [] |
-| RoadLuck/exploits-tryhackme | None | https://github.com/RoadLuck/exploits-tryhackme | ['exploit'] | 1 | 2021-12-15 01:56:38+00:00 | 0 | 0 | Python | 0 | [] |
-| whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-15 02:31:54+00:00 | 359 | 878 | Java | 253 | [] |
+| Harleythetech/MultiFW-RD-PS4 | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | ['exploit'] | 1 | 2021-12-15 05:02:03+00:00 | 2319 | 0 | HTML | 0 | [] |
 | rishabhyadavm07/Compression-algorithms-exploit | Just a simple zip to exploit the compression algorithms. | https://github.com/rishabhyadavm07/Compression-algorithms-exploit | ['exploit'] | 1 | 2021-12-15 03:44:47+00:00 | 0 | 0 | | 0 | [] |
