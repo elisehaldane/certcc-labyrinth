@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+438629964,d4op/log4j-rce-fix-patched-jars,README.md,b883a520b36c2dd34265592d6b2b0ae218bb8e16,CVE-2021-44228
