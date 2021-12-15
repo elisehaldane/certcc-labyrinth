@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438683307,mitiga/log4shell-cloud-scanner,README.rst,01ffbb239a4199c3f26ec2bf2c8162a5734b3137,CVE-2021-44228
+438683307,mitiga/log4shell-cloud-scanner,_GITHUB_REPO_METADATA_,,CVE-2021-44228

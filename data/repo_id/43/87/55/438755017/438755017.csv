@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+438755017,tarja1/log4shell_fix,removeJndiFromLog4j.bash,8b35af1915e4178718b6b1696130032c3fdd7fe1,CVE-2021-44228
+438755017,tarja1/log4shell_fix,removeJndiFromLog4j.bash,8b35af1915e4178718b6b1696130032c3fdd7fe1,CVE-2021-45046
+438755017,tarja1/log4shell_fix,README.md,a18be9dead7f22a74d39e0013bad81367e92b315,CVE-2021-44228
+438755017,tarja1/log4shell_fix,README.md,a18be9dead7f22a74d39e0013bad81367e92b315,CVE-2021-45046
