@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+438532480,EMSeek/log4poc,listener/ldap-exfil.py,20bc8302bf10e562bccf6c8003114561b6db5eb2,CVE-2021-44228
+438532480,EMSeek/log4poc,README.md,a1235008ba3f60c64970752d45a4b6530975c53a,CVE-2021-44228
+438532480,EMSeek/log4poc,README.md,a1235008ba3f60c64970752d45a4b6530975c53a,CVE-2021-45046
+438532480,EMSeek/log4poc,apache-log4j-2.14.0-bin.tar.gz,ab694f3f39e344e787fa6614b8f6195f7ff4648b,VU#26
+438532480,EMSeek/log4poc,apache-log4j-2.14.0-bin.tar.gz,ab694f3f39e344e787fa6614b8f6195f7ff4648b,VU#72
+438532480,EMSeek/log4poc,apache-log4j-2.14.0-bin.tar.gz,ab694f3f39e344e787fa6614b8f6195f7ff4648b,VU#84
