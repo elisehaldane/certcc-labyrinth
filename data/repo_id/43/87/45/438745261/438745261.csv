@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438745261,alenazi90/log4j,log4j.py,659f571d6e0701bd85bf0eee7aff1eb9eb53f801,CVE-2021-44228
+438745261,alenazi90/log4j,README.md,b5e42d0d4c8ebaf2bcc8f15c13f0462a047412cc,CVE-2021-44228
+438745261,alenazi90/log4j,_GITHUB_REPO_METADATA_,,CVE-2021-44228
