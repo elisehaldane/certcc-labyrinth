@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+438797049,ubitech/cve-2021-44228-rce-poc,pom.xml,05aac1d7e1b5c2d6dad7702553dcde72cff29c0c,CVE-2021-44228
+438797049,ubitech/cve-2021-44228-rce-poc,README.md,2d37d3b802126e8f87d7aaa68f016f7a40158314,CVE-2021-44228
+438797049,ubitech/cve-2021-44228-rce-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228
