@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+438948334,aknavj/exploits,kernelpwn.c,e5ab9c4c53c7a18e4a9831aa3987203187bb058a,CVE-2017-18344
