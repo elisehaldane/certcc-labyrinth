@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+439019569,lonecloud/CVE-2021-44228-Apache-Log4j,pom.xml,0aec4fc74307ca035208415d1c557b21b0a2ec4a,CVE-2021-44228
+439019569,lonecloud/CVE-2021-44228-Apache-Log4j,README.md,7f6b92fcaf1f7a7fcaffd5736eceb661cb35fd2e,CVE-2021-44228
+439019569,lonecloud/CVE-2021-44228-Apache-Log4j,_GITHUB_REPO_METADATA_,,CVE-2021-44228
