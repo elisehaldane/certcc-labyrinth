@@ -1,13 +1,12 @@
 
 # Summary for results/2021/12/16
     
-56 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-16 01:33:47+00:00 | 663130 | 25848 | Ruby | 11817 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-16 05:08:21+00:00 | 234819 | 6691 | C | 1840 | [] |
-| f0ng/log4j2burpscanner | CVE-2021-44228，log4j2 burp插件 Java版本，可自定义ceye.io，也可以自定义内网的dnslog平台及请求接口定位内网漏洞机器(log4j2 RCE Burp Suite Passive Scanner，can customize the ceye.io api or other apis，including internal networks) | https://github.com/f0ng/log4j2burpscanner | ['rce'] | 1 | 2021-12-16 01:42:13+00:00 | 177 | 180 | Java | 34 | ['CVE-2021-44228'] |
+| MachineLearningMike/ExploitMe | A training course of ethereum | https://github.com/MachineLearningMike/ExploitMe | ['exploit'] | 1 | 2021-12-16 03:26:13+00:00 | 258 | 0 | JavaScript | 0 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-16 00:39:32+00:00 | 105 | 299 | Java | 73 | ['CVE-2021-44228'] |
 | b-abderrahmane/CVE-2021-44228-playground | None | https://github.com/b-abderrahmane/CVE-2021-44228-playground | ['cve-2 OR cve_2'] | 1 | 2021-12-16 00:11:55+00:00 | 38790 | 0 | Java | 1 | ['CVE-2021-44228'] |
 | muratyokus/Turkey-discovery-and-exploitation-IOCs | None | https://github.com/muratyokus/Turkey-discovery-and-exploitation-IOCs | ['exploit'] | 1 | 2021-12-16 01:29:14+00:00 | 26 | 2 | | 0 | [] |
@@ -17,10 +16,11 @@
 | qingtengyun/cve-2021-44228-qingteng-online-patch | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-16 03:44:43+00:00 | 70 | 21 | Java | 2 | ['CVE-2021-44228'] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-16 00:17:16+00:00 | 1193 | 89 | | 16 | [] |
 | frame-of-reference/ghdb | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | ['exploit'] | 1 | 2021-12-16 03:15:33+00:00 | 316 | 0 | Python | 0 | [] |
+| fullhunt/log4j-scan | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | https://github.com/fullhunt/log4j-scan | ['rce'] | 1 | 2021-12-16 05:40:27+00:00 | 46 | 1440 | Python | 316 | ['CVE-2021-44228'] |
 | weizn11/log4j2_rce_suricata_ruleset | None | https://github.com/weizn11/log4j2_rce_suricata_ruleset | ['rce'] | 1 | 2021-12-16 04:09:33+00:00 | 4 | 3 | | 2 | [] |
 | hupe1980/scan4log4shell | Scanner to detect vulnerable log4j versions on your file-system or to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability (CVE-2021-44228) | https://github.com/hupe1980/scan4log4shell | ['rce'] | 1 | 2021-12-16 00:28:25+00:00 | 2171 | 4 | Go | 0 | ['CVE-2021-44228'] |
-| MachineLearningMike/ExploitMe | A training course of ethereum | https://github.com/MachineLearningMike/ExploitMe | ['exploit'] | 1 | 2021-12-16 03:26:13+00:00 | 258 | 0 | JavaScript | 0 | [] |
 | corelight/cve-2021-44228 | Log4j | https://github.com/corelight/cve-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-16 05:26:28+00:00 | 18 | 5 | Zeek | 0 | ['CVE-2021-44228'] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-16 05:08:21+00:00 | 234819 | 6691 | C | 1840 | [] |
 | Meeds122/Log2Pwn | Easy Log2Shell exploitation | https://github.com/Meeds122/Log2Pwn | ['exploit'] | 1 | 2021-12-16 03:30:38+00:00 | 16 | 0 | Python | 0 | [] |
 | anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-16 01:41:46+00:00 | 317 | 0 | Shell | 1 | ['CVE-2021-44228'] |
 | aW3ikun/Modern_Windows_Exploit_Development | None | https://github.com/aW3ikun/Modern_Windows_Exploit_Development | ['exploit'] | 1 | 2021-12-16 03:08:02+00:00 | 17753 | 0 | | 0 | [] |
@@ -32,10 +32,11 @@
 | FULLSHADE/Auto-Elevate | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | ['exploit'] | 1 | 2021-12-16 01:40:59+00:00 | 0 | 0 | C++ | 0 | [] |
 | Jerry-Swift/log4j2_rce-master | 代码监控建信基金代码监控测试 | https://github.com/Jerry-Swift/log4j2_rce-master | ['rce'] | 1 | 2021-12-16 01:30:31+00:00 | 0 | 0 | Java | 0 | [] |
 | Garridex/Beco_do_exploit | None | https://github.com/Garridex/Beco_do_exploit | ['exploit'] | 1 | 2021-12-16 03:43:47+00:00 | 0 | 0 | | 0 | [] |
+| mas1347/PSWSA_LAB-2FA_broken_logic | An automated exploit for Port Swigger Web Security Academy's Lab "Lab: 2FA broken logic" | https://github.com/mas1347/PSWSA_LAB-2FA_broken_logic | ['exploit'] | 1 | 2021-12-16 04:27:23+00:00 | 0 | 0 | | 0 | [] |
+| f0ng/log4j2burpscanner | CVE-2021-44228，log4j2 burp插件 Java版本，可自定义ceye.io，也可以自定义内网的dnslog平台及请求接口定位内网漏洞机器(log4j2 RCE Burp Suite Passive Scanner，can customize the ceye.io api or other apis，including internal networks) | https://github.com/f0ng/log4j2burpscanner | ['rce'] | 1 | 2021-12-16 01:42:13+00:00 | 177 | 180 | Java | 34 | ['CVE-2021-44228'] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-16 05:06:36+00:00 | 41344 | 293 | Java | 57 | ['CVE-2021-44228'] |
 | gh0stkey/Log4j2-RCE-Scanner | BurpSuite Extension: Log4j RCE Scanner | https://github.com/gh0stkey/Log4j2-RCE-Scanner | ['rce'] | 1 | 2021-12-16 01:17:07+00:00 | 5459 | 85 | Python | 16 | [] |
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-16 03:32:55+00:00 | 497 | 5 | Java | 6 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-16 04:01:59+00:00 | 108901 | 259 | Python | 78 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-16 00:16:54+00:00 | 208134 | 257 | Ruby | 78 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-12-16 00:57:13+00:00 | 596 | 120 | Julia | 23 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-16 03:57:31+00:00 | 35368 | 6194 | Vue | 1320 | [] |
@@ -47,8 +48,8 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-16 01:42:51+00:00 | 92 | 0 | PHP | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-16 04:46:09+00:00 | 547214 | 486 | TypeScript | 68 | [] |
 | vLeeH/httpmapper | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | ['exploit'] | 1 | 2021-12-16 01:19:08+00:00 | 1371 | 15 | Python | 4 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-16 04:01:59+00:00 | 108901 | 259 | Python | 78 | [] |
 | Li4n0/revsuit | RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. | https://github.com/Li4n0/revsuit | ['rce'] | 1 | 2021-12-16 02:52:09+00:00 | 9189 | 169 | Go | 20 | [] |
-| HyCraftHD/Log4J-RCE-Proof-Of-Concept | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | ['exploit', 'rce'] | 2 | 2021-12-16 01:33:48+00:00 | 80 | 161 | Java | 27 | ['CVE-2021-44228'] |
 | minhlh6820/exploit_practice | None | https://github.com/minhlh6820/exploit_practice | ['exploit'] | 1 | 2021-12-16 03:48:24+00:00 | 40 | 0 | Java | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-12-16 01:53:16+00:00 | 16935 | 342 | nan | 45 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-16 01:09:57+00:00 | 5461 | 2 | Python | 0 | [] |
@@ -60,4 +61,5 @@
 | 0x1CA3/syringe | Visit https://github.com/0x80000000 for the newer version of this library. | https://github.com/0x1CA3/syringe | ['shellcode'] | 1 | 2021-12-16 02:11:05+00:00 | 183 | 4 | C++ | 1 | [] |
 | fanygit/Grafana-CVE-2021-43798Exp | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | ['cve-2 OR cve_2'] | 1 | 2021-12-16 03:37:46+00:00 | 358 | 2 | Python | 0 | ['CVE-2021-43798'] |
 | crisprss/Shellcode_Memory_Loader | 基于Golang实现的Shellcode内存加载器,共实现3中内存加载shellcode方式,UUID加载,MAC加载和IPv4加载,目前能过主流杀软(包括Windows Defender) | https://github.com/crisprss/Shellcode_Memory_Loader | ['shellcode'] | 1 | 2021-12-16 03:56:42+00:00 | 11 | 0 | Go | 0 | [] |
-| mas1347/PSWSA_LAB-2FA_broken_logic | An automated exploit for Port Swigger Web Security Academy's Lab "Lab: 2FA broken logic" | https://github.com/mas1347/PSWSA_LAB-2FA_broken_logic | ['exploit'] | 1 | 2021-12-16 04:27:23+00:00 | 0 | 0 | | 0 | [] |
+| HyCraftHD/Log4J-RCE-Proof-Of-Concept | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | ['exploit', 'rce'] | 2 | 2021-12-16 01:33:48+00:00 | 80 | 161 | Java | 27 | ['CVE-2021-44228'] |
+| WCEHouck/Python_RCE | None | https://github.com/WCEHouck/Python_RCE | ['rce'] | 1 | 2021-12-16 06:25:39+00:00 | 0 | 0 | Python | 0 | [] |
