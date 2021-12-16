@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#73,1.00000000,https://github.com/RealChronics/Exploit-Template,RealChronics/Exploit-Template,436071477
 VU#73,0.50000000,https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021,ISFCR-CTF/Hacktoberfest-Workshop-2021,418028497
+VU#73,0.33333333,https://github.com/gyaansastra/CVE-2021-44228,gyaansastra/CVE-2021-44228,439030654
 VU#73,0.25000000,https://github.com/notSkyFrost/RoMYSQL,notSkyFrost/RoMYSQL,437366363
 VU#73,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
 VU#73,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
