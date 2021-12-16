@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438595299,kubearmor/log4j-CVE-2021-44228,README.md,6e3d37439bbd58dba0ebc1537113523f37bc38fa,CVE-2021-44228
+438595299,kubearmor/log4j-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
