@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+362710452,minhlh6820/exploit_practice,BoF/CVE-2017-15221_payload.py,2a6f554137e63cc35fed99a5e49711797393fef8,CVE-2017-15221
+362710452,minhlh6820/exploit_practice,BoF/CVE-2019-17424_payload.py,7eb7f84315398c40a195641df9b4d4215ca37871,CVE-2019-17424
+362710452,minhlh6820/exploit_practice,BoF/CVE-2019-9767_payload.py,9cfcf1329aa593d57fda4e355dafe7ec2dbe00cb,CVE-2019-9767
+362710452,minhlh6820/exploit_practice,BoF/CVE-2019-17424,c84febff0f20080e64fabed80e5ff412a6c89a91,CVE-2019-17424
