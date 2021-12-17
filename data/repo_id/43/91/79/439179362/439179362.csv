@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+439179362,wajda/log4shell-test-exploit,README.md,8943be7660a4d58643ee03fe425d51f125a5f1f9,CVE-2021-44228
+439179362,wajda/log4shell-test-exploit,victim-app/web/src/main/webapp/index.jsp,cf5fb313cfd00c03263c477c746e3a16fe850b43,CVE-2021-44228
+439179362,wajda/log4shell-test-exploit,_GITHUB_REPO_METADATA_,,CVE-2021-44228
