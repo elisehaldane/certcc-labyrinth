@@ -2,6 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#92,0.33333333,https://github.com/Shingirirai5/metasploit,Shingirirai5/metasploit,421145812
 VU#92,0.20000000,https://github.com/Yolnan/24678_CVE_PS6,Yolnan/24678_CVE_PS6,424596008
 VU#92,0.20000000,https://github.com/duongletrieu/Apple-HTML-Exploiter,duongletrieu/Apple-HTML-Exploiter,419225438
+VU#92,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
+VU#92,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
 VU#92,0.02857143,https://github.com/KameleonReloaded/leeful900,KameleonReloaded/leeful900,438099843
 VU#92,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#92,0.02040816,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old2,Nivaskumark/CVE-2020-0074-frameworks_base_old2,432927026

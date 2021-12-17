@@ -1,3 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#543,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
+VU#543,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
 VU#543,0.02857143,https://github.com/KameleonReloaded/leeful900,KameleonReloaded/leeful900,438099843
 VU#543,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
