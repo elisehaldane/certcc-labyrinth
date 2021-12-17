@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
+VU#23,0.33333333,https://github.com/Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,439312167
 VU#23,0.33333333,https://github.com/DiCanio/CVE-2021-44228-docker-example,DiCanio/CVE-2021-44228-docker-example,437518939
 VU#23,0.33333333,https://github.com/trewisscotch/CobaltStr4.4,trewisscotch/CobaltStr4.4,422873872
 VU#23,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622

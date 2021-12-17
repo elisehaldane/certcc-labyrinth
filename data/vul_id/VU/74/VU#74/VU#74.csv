@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#74,1.00000000,https://github.com/wvu-r7/metasploit-ctf-challenges,wvu-r7/metasploit-ctf-challenges,181991992
 VU#74,1.00000000,https://github.com/sguazt/ccpe2014,sguazt/ccpe2014,20526964
+VU#74,0.33333333,https://github.com/Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,439312167
 VU#74,0.33333333,https://github.com/x1official/TestSploit-X,x1official/TestSploit-X,426752533
 VU#74,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/RobloxExploitSample,426473019
 VU#74,0.25000000,https://github.com/notSkyFrost/RoMYSQL,notSkyFrost/RoMYSQL,437366363
