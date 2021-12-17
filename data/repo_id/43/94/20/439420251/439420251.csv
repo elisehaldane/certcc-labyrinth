@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+439420251,ermohitrathore/detect-log4j-exploitable,README.md,f13254be25ec752cf86e56133316fe50a841d947,CVE-2021-44228
+439420251,ermohitrathore/detect-log4j-exploitable,_GITHUB_REPO_METADATA_,,CVE-2021-44228
