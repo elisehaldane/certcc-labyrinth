@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+439409726,Nikolas-Charalambidis/cve-2021-44228,log4j-2.16.0/pom.xml,6988c4241fd07efc6d61e63c6e63718405a2f15b,CVE-2021-44228
+439409726,Nikolas-Charalambidis/cve-2021-44228,log4j-2.14.1/pom.xml,de013dd5ff28df79e876a6c2db2456228e9cb8a7,CVE-2021-44228
+439409726,Nikolas-Charalambidis/cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
