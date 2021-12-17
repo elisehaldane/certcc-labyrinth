@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+439263342,rohankumardubey/CVE-2021-44228_scanner,README.md,0a67f29ec258a15ce32037496d8d2bce6b82f546,CVE-2021-44228
+439263342,rohankumardubey/CVE-2021-44228_scanner,README.md,0a67f29ec258a15ce32037496d8d2bce6b82f546,CVE-2021-45046
+439263342,rohankumardubey/CVE-2021-44228_scanner,README.md,0a67f29ec258a15ce32037496d8d2bce6b82f546,VU#930724
+439263342,rohankumardubey/CVE-2021-44228_scanner,checkjndi.ps1,1ef7d9cc728645ab0df3cbb1ed54bdd5702ba932,CVE-2021-44228
+439263342,rohankumardubey/CVE-2021-44228_scanner,checkjndi.py,f3519c0aaa372c1d437543c383fe9082f9a2a1e9,CVE-2021-44228
+439263342,rohankumardubey/CVE-2021-44228_scanner,_GITHUB_REPO_METADATA_,,CVE-2021-44228
