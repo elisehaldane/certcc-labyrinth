@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+439444176,ankur-katiyar/log4j-docker,Readme.md,ceaaf41450dfcf35a9b4bed799bbbfafa9fbc8d0,CVE-2021-44228
+439444176,ankur-katiyar/log4j-docker,Readme.md,ceaaf41450dfcf35a9b4bed799bbbfafa9fbc8d0,CVE-2021-45046
+439444176,ankur-katiyar/log4j-docker,_GITHUB_REPO_METADATA_,,CVE-2021-44228
