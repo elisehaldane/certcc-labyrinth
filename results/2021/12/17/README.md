@@ -1,0 +1,19 @@
+
+# Summary for results/2021/12/17
+    
+12 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-17 00:35:31+00:00 | 663230 | 25859 | Ruby | 11819 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-17 00:06:40+00:00 | 1534770 | 1541 | Python | 524 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-17 00:17:02+00:00 | 209667 | 258 | Ruby | 78 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-17 00:45:52+00:00 | 7818 | 24 | | 17 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-17 00:04:01+00:00 | 428716 | 38 | | 20 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-17 00:34:12+00:00 | 547505 | 590 | TypeScript | 79 | [] |
+| Banaanae/exploits | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-17 00:00:01+00:00 | 138 | 0 | Lua | 0 | [] |
+| ssstonebraker/log4j_CVE-2021-44228_tester | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | ['cve-2 OR cve_2'] | 1 | 2021-12-17 00:30:55+00:00 | 16 | 10 | Shell | 2 | ['CVE-2021-44228'] |
+| hupe1980/scan4log4shell | Scanner to detect vulnerable log4j versions on your file-system or to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability (CVE-2021-44228) | https://github.com/hupe1980/scan4log4shell | ['rce'] | 1 | 2021-12-17 00:17:50+00:00 | 3974 | 6 | Go | 0 | ['CVE-2021-44228'] |
+| corelight/cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-17 00:02:39+00:00 | 64 | 6 | Zeek | 1 | ['CVE-2021-44228'] |
+| mortification77/log4sh-detect | Tool which performs a test to check a remote host for the log4j log4shell Exploit. | https://github.com/mortification77/log4sh-detect | ['exploit'] | 1 | 2021-12-17 00:09:50+00:00 | 11 | 0 | Python | 0 | [] |
+| THEpWn3R-o/log4j-exploit | A tool to essentially one-click exploit log4j vulnerabilities in the User-agent header of web servers. | https://github.com/THEpWn3R-o/log4j-exploit | ['exploit'] | 1 | 2021-12-17 00:04:25+00:00 | 0 | 0 | Python | 0 | [] |
