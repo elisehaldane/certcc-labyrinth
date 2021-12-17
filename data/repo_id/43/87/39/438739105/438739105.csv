@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+438739105,VerveIndustrialProtection/CVE-2021-44228-Log4j,Detection/Fixlets/Warning - Verve Log4j Detector reports vulnerable Log4j dependencies - Linux.bes,684f976f9be90b9401f46ba4d9447c25975d1a3a,CVE-2021-44228
+438739105,VerveIndustrialProtection/CVE-2021-44228-Log4j,Detection/Fixlets/Warning - Verve Log4j Detector reports vulnerable Log4j dependencies - Linux.bes,684f976f9be90b9401f46ba4d9447c25975d1a3a,CVE-2021-45046
+438739105,VerveIndustrialProtection/CVE-2021-44228-Log4j,Detection/Fixlets/Warning - Verve Log4j Detector reports vulnerable Log4j dependencies - Windows.bes,7a740dcd796c04f7a4fc55182e76a7b654cc9bf9,CVE-2021-44228
+438739105,VerveIndustrialProtection/CVE-2021-44228-Log4j,Detection/Fixlets/Warning - Verve Log4j Detector reports vulnerable Log4j dependencies - Windows.bes,7a740dcd796c04f7a4fc55182e76a7b654cc9bf9,CVE-2021-45046
+438739105,VerveIndustrialProtection/CVE-2021-44228-Log4j,_GITHUB_REPO_METADATA_,,CVE-2021-44228
