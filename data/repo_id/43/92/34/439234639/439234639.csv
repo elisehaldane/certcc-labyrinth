@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+439234639,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,README.md,87f9d8725e4ca0314510e977f0543d5630719a3a,CVE-2021-44228
+439234639,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,src/main/java/apache-log4j-2.14.1-bin/log4j-core-2.14.1-javadoc.jar,c3537d3b55d6fbf15b6d73263a4cba624f55e098,VU#69
+439234639,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,src/main/java/apache-log4j-2.14.1-bin/log4j-core-2.14.1-javadoc.jar,c3537d3b55d6fbf15b6d73263a4cba624f55e098,VU#83
+439234639,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,_GITHUB_REPO_METADATA_,,CVE-2021-44228
+439234639,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,_GITHUB_REPO_METADATA_,,CVE-2021-4428
