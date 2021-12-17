@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+438642032,Contrast-Security-OSS/log4shell_serverless,vulnerable_lambda/target/blank-java-1.0-SNAPSHOT.jar,24ef0e67794951f49db8d35777dd8357fb93126a,VU#28
+438642032,Contrast-Security-OSS/log4shell_serverless,vulnerable_lambda/target/blank-java-1.0-SNAPSHOT.jar,24ef0e67794951f49db8d35777dd8357fb93126a,VU#64
