@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+439596852,shivakumarjayaraman/log4jvulnerability-CVE-2021-44228,README.md,c562e68cbda7a1c2db0f82b9c22e7bd84615e100,CVE-2021-44228
+439596852,shivakumarjayaraman/log4jvulnerability-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
