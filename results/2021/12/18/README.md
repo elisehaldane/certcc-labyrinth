@@ -1,25 +1,27 @@
 
 # Summary for results/2021/12/18
     
-32 records found after deduplication
+34 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-18 01:01:44+00:00 | 664202 | 25869 | Ruby | 11821 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-18 05:08:22+00:00 | 232996 | 6695 | C | 1840 | [] |
-| Kappaladi/BeastSploits | None | https://github.com/Kappaladi/BeastSploits | ['sploit'] | 1 | 2021-12-18 03:39:46+00:00 | 0 | 0 | nan | 0 | [] |
-| Tex7ure/exploit-center | Private tools exploit by me | https://github.com/Tex7ure/exploit-center | ['exploit'] | 1 | 2021-12-18 03:30:21+00:00 | 0 | 0 | | 0 | [] |
-| GaJinKim/exploitive-rock-paper-scissors | None | https://github.com/GaJinKim/exploitive-rock-paper-scissors | ['exploit'] | 1 | 2021-12-18 01:49:07+00:00 | 0 | 0 | | 0 | [] |
-| IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | None | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | ['exploit'] | 1 | 2021-12-18 01:25:36+00:00 | 0 | 0 | Python | 0 | [] |
-| Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | nan | https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-18 01:00:19+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
-| Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-18 00:12:07+00:00 | 15 | 2 | C++ | 0 | [] |
-| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-18 05:19:48+00:00 | 98 | 0 | Python | 0 | [] |
 | antoinechauvn/icmpdoor | Exploitation de la trame ICMP dans le cadre d'une attaque d'un réseaux local. Craft de paquets et modification de l'utilisation de la trame. | https://github.com/antoinechauvn/icmpdoor | ['exploit'] | 1 | 2021-12-18 00:53:40+00:00 | 20 | 0 | Python | 0 | [] |
-| sonicps/simpel | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | ['exploit'] | 1 | 2021-12-18 01:34:40+00:00 | 2780 | 0 | HTML | 0 | [] |
-| For-ACGN/Log4Shell | Check and exploit log4j2 vulnerability with single Go program. | https://github.com/For-ACGN/Log4Shell | ['exploit', 'vulnerability poc'] | 2 | 2021-12-18 06:28:19+00:00 | 3421 | 8 | Go | 3 | [] |
-| Contrast-Security-OSS/safelog4j | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | ['exploit'] | 1 | 2021-12-18 00:27:13+00:00 | 321 | 10 | Java | 7 | [] |
-| anvbis/windows-exp | Windows exploit techniques. | https://github.com/anvbis/windows-exp | ['exploit'] | 1 | 2021-12-18 04:03:14+00:00 | 38435 | 0 | Python | 0 | [] |
 | GianlucaUlivi/log4j-firewall-blacklist-builder | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | ['exploit'] | 1 | 2021-12-18 00:54:30+00:00 | 9 | 1 | Python | 0 | [] |
+| anvbis/windows-exp | Windows exploit techniques. | https://github.com/anvbis/windows-exp | ['exploit'] | 1 | 2021-12-18 04:03:14+00:00 | 38435 | 0 | Python | 0 | [] |
+| robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-18 07:29:23+00:00 | 55 | 7 | | 0 | ['CVE-2021-44228'] |
+| Contrast-Security-OSS/safelog4j | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | ['exploit'] | 1 | 2021-12-18 00:27:13+00:00 | 321 | 10 | Java | 7 | [] |
+| For-ACGN/Log4Shell | Check and exploit log4j2 vulnerability with single Go program. | https://github.com/For-ACGN/Log4Shell | ['exploit', 'vulnerability poc'] | 2 | 2021-12-18 06:28:19+00:00 | 3421 | 8 | Go | 3 | [] |
+| sonicps/simpel | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | ['exploit'] | 1 | 2021-12-18 01:34:40+00:00 | 2780 | 0 | HTML | 0 | [] |
+| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-18 05:19:48+00:00 | 98 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-12-18 05:08:22+00:00 | 232996 | 6695 | C | 1840 | [] |
+| Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-18 00:12:07+00:00 | 15 | 2 | C++ | 0 | [] |
+| Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-18 01:00:19+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | None | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | ['exploit'] | 1 | 2021-12-18 01:25:36+00:00 | 0 | 0 | Python | 0 | [] |
+| GaJinKim/exploitive-rock-paper-scissors | None | https://github.com/GaJinKim/exploitive-rock-paper-scissors | ['exploit'] | 1 | 2021-12-18 01:49:07+00:00 | 0 | 0 | | 0 | [] |
+| Tex7ure/exploit-center | Private tools exploit by me | https://github.com/Tex7ure/exploit-center | ['exploit'] | 1 | 2021-12-18 03:30:21+00:00 | 0 | 0 | | 0 | [] |
+| Kappaladi/BeastSploits | None | https://github.com/Kappaladi/BeastSploits | ['sploit'] | 1 | 2021-12-18 03:39:46+00:00 | 0 | 0 | nan | 0 | [] |
+| hupe1980/scan4log4shell | Scanner to detect vulnerable log4j versions on your file-system or to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability | https://github.com/hupe1980/scan4log4shell | ['rce'] | 1 | 2021-12-18 07:16:17+00:00 | 4093 | 6 | Go | 1 | [] |
 | cyberxml/log4j-poc | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-18 01:08:59+00:00 | 42878 | 10 | Java | 2 | ['CVE-2021-44228'] |
 | corretto/hotpatch-for-apache-log4j2 | An agent to hotpatch the log4j RCE from CVE-2021-44228. | https://github.com/corretto/hotpatch-for-apache-log4j2 | ['rce'] | 1 | 2021-12-18 02:05:01+00:00 | 3744 | 400 | Java | 49 | ['CVE-2021-44228'] |
 | Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-18 00:00:12+00:00 | 535 | 1 | | 0 | [] |
