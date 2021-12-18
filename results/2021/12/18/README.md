@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/18
     
-22 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -15,13 +15,17 @@
 | antoinechauvn/icmpdoor | Exploitation de la trame ICMP dans le cadre d'une attaque d'un réseaux local. Craft de paquets et modification de l'utilisation de la trame. | https://github.com/antoinechauvn/icmpdoor | ['exploit'] | 1 | 2021-12-18 00:53:40+00:00 | 20 | 0 | Python | 0 | [] |
 | sonicps/simpel | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | ['exploit'] | 1 | 2021-12-18 01:34:40+00:00 | 2780 | 0 | HTML | 0 | [] |
 | Contrast-Security-OSS/safelog4j | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | ['exploit'] | 1 | 2021-12-18 00:27:13+00:00 | 321 | 10 | Java | 7 | [] |
+| anvbis/windows-exp | Windows exploit techniques. | https://github.com/anvbis/windows-exp | ['exploit'] | 1 | 2021-12-18 04:03:14+00:00 | 38435 | 0 | Python | 0 | [] |
 | GianlucaUlivi/log4j-firewall-blacklist-builder | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | ['exploit'] | 1 | 2021-12-18 00:54:30+00:00 | 9 | 1 | Python | 0 | [] |
 | cyberxml/log4j-poc | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-18 01:08:59+00:00 | 42878 | 10 | Java | 2 | ['CVE-2021-44228'] |
 | corretto/hotpatch-for-apache-log4j2 | An agent to hotpatch the log4j RCE from CVE-2021-44228. | https://github.com/corretto/hotpatch-for-apache-log4j2 | ['rce'] | 1 | 2021-12-18 02:05:01+00:00 | 3744 | 400 | Java | 49 | ['CVE-2021-44228'] |
 | Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-18 00:00:12+00:00 | 535 | 1 | | 0 | [] |
+| kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-18 04:01:50+00:00 | 41348 | 570 | Java | 127 | ['CVE-2021-44228'] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-18 01:54:27+00:00 | 20970 | 152 | Python | 63 | [] |
 | Spard2/ps4exploit | None | https://github.com/Spard2/ps4exploit | ['exploit'] | 1 | 2021-12-18 01:38:32+00:00 | 3174 | 2 | JavaScript | 0 | [] |
+| nop-tech/learning-resources | Collection of resources to learn pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | ['exploit'] | 1 | 2021-12-18 03:56:15+00:00 | 94 | 4 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-18 01:13:41+00:00 | 8044 | 2 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-18 04:01:52+00:00 | 113903 | 260 | Python | 78 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-18 00:32:31+00:00 | 547561 | 662 | TypeScript | 82 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-18 00:03:38+00:00 | 432585 | 38 | | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-18 00:45:52+00:00 | 8906 | 24 | | 17 | [] |
