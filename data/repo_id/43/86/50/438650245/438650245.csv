@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+438650245,111coding/log4j_temp_CVE-2021-44228,attacker/poc.py,2a62301170100bf4fada69eba6d6982200fe396b,CVE-2021-44228
+438650245,111coding/log4j_temp_CVE-2021-44228,attacker/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+438650245,111coding/log4j_temp_CVE-2021-44228,attacker/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+438650245,111coding/log4j_temp_CVE-2021-44228,attacker/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+438650245,111coding/log4j_temp_CVE-2021-44228,attacker/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+438650245,111coding/log4j_temp_CVE-2021-44228,attacker/target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+438650245,111coding/log4j_temp_CVE-2021-44228,victim/log4shellpoc-main/README.md,d9e6626a51a12b4cd1cf346951aed86326bbe321,CVE-2021-44228
+438650245,111coding/log4j_temp_CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
