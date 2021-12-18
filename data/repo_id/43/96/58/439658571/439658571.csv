@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+439658571,Apipia/log4j-pcap-activity,README.md,b7d8699615d5511b0caa6e91290fc5453bc5c4f2,CVE-2021-44228
+439658571,Apipia/log4j-pcap-activity,_GITHUB_REPO_METADATA_,,CVE-2021-44228
