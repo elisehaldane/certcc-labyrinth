@@ -1,21 +1,23 @@
 
 # Summary for results/2021/12/18
     
-19 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-18 01:01:44+00:00 | 664202 | 25869 | Ruby | 11821 | [] |
-| cyberxml/log4j-poc | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-18 01:08:59+00:00 | 42878 | 10 | Java | 2 | ['CVE-2021-44228'] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-18 00:17:00+00:00 | 211200 | 258 | Ruby | 78 | [] |
+| Tex7ure/exploit-center | Private tools exploit by me | https://github.com/Tex7ure/exploit-center | ['exploit'] | 1 | 2021-12-18 03:30:21+00:00 | 0 | 0 | | 0 | [] |
+| GaJinKim/exploitive-rock-paper-scissors | None | https://github.com/GaJinKim/exploitive-rock-paper-scissors | ['exploit'] | 1 | 2021-12-18 01:49:07+00:00 | 0 | 0 | | 0 | [] |
 | IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | None | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | ['exploit'] | 1 | 2021-12-18 01:25:36+00:00 | 0 | 0 | Python | 0 | [] |
-| Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-18 01:00:19+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | nan | https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-18 01:00:19+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-18 00:12:07+00:00 | 15 | 2 | C++ | 0 | [] |
 | antoinechauvn/icmpdoor | Exploitation de la trame ICMP dans le cadre d'une attaque d'un réseaux local. Craft de paquets et modification de l'utilisation de la trame. | https://github.com/antoinechauvn/icmpdoor | ['exploit'] | 1 | 2021-12-18 00:53:40+00:00 | 20 | 0 | Python | 0 | [] |
 | sonicps/simpel | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | ['exploit'] | 1 | 2021-12-18 01:34:40+00:00 | 2780 | 0 | HTML | 0 | [] |
 | Contrast-Security-OSS/safelog4j | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | ['exploit'] | 1 | 2021-12-18 00:27:13+00:00 | 321 | 10 | Java | 7 | [] |
 | GianlucaUlivi/log4j-firewall-blacklist-builder | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | ['exploit'] | 1 | 2021-12-18 00:54:30+00:00 | 9 | 1 | Python | 0 | [] |
+| cyberxml/log4j-poc | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-18 01:08:59+00:00 | 42878 | 10 | Java | 2 | ['CVE-2021-44228'] |
 | corretto/hotpatch-for-apache-log4j2 | An agent to hotpatch the log4j RCE from CVE-2021-44228. | https://github.com/corretto/hotpatch-for-apache-log4j2 | ['rce'] | 1 | 2021-12-18 02:05:01+00:00 | 3744 | 400 | Java | 49 | ['CVE-2021-44228'] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-18 00:17:00+00:00 | 211200 | 258 | Ruby | 78 | [] |
 | Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-18 00:00:12+00:00 | 535 | 1 | | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-18 01:54:27+00:00 | 20970 | 152 | Python | 63 | [] |
 | Spard2/ps4exploit | None | https://github.com/Spard2/ps4exploit | ['exploit'] | 1 | 2021-12-18 01:38:32+00:00 | 3174 | 2 | JavaScript | 0 | [] |
@@ -23,4 +25,5 @@
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-18 00:32:31+00:00 | 547561 | 662 | TypeScript | 82 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-18 00:03:38+00:00 | 432585 | 38 | | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-18 00:45:52+00:00 | 8906 | 24 | | 17 | [] |
-| GaJinKim/exploitive-rock-paper-scissors | None | https://github.com/GaJinKim/exploitive-rock-paper-scissors | ['exploit'] | 1 | 2021-12-18 01:49:07+00:00 | 0 | 0 | | 0 | [] |
+| wyzxxz/jndi_tool | JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具 | https://github.com/wyzxxz/jndi_tool | ['rce'] | 1 | 2021-12-18 03:29:12+00:00 | 225837 | 993 | | 225 | [] |
+| Kappaladi/BeastSploits | nan | https://github.com/Kappaladi/BeastSploits | ['sploit'] | 1 | 2021-12-18 03:39:46+00:00 | 0 | 0 | nan | 0 | [] |
