@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/18
     
-18 records found after deduplication
+19 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-18 01:01:44+00:00 | 664202 | 25869 | Ruby | 11821 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-18 00:17:00+00:00 | 211200 | 258 | Ruby | 78 | [] |
+| cyberxml/log4j-poc | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-18 01:08:59+00:00 | 42878 | 10 | Java | 2 | ['CVE-2021-44228'] |
 | IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | None | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | ['exploit'] | 1 | 2021-12-18 01:25:36+00:00 | 0 | 0 | Python | 0 | [] |
 | Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-18 01:00:19+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-18 00:12:07+00:00 | 15 | 2 | C++ | 0 | [] |
@@ -14,7 +14,8 @@
 | sonicps/simpel | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | ['exploit'] | 1 | 2021-12-18 01:34:40+00:00 | 2780 | 0 | HTML | 0 | [] |
 | Contrast-Security-OSS/safelog4j | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | ['exploit'] | 1 | 2021-12-18 00:27:13+00:00 | 321 | 10 | Java | 7 | [] |
 | GianlucaUlivi/log4j-firewall-blacklist-builder | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | ['exploit'] | 1 | 2021-12-18 00:54:30+00:00 | 9 | 1 | Python | 0 | [] |
-| cyberxml/log4j-poc | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-18 01:08:59+00:00 | 42878 | 10 | Java | 2 | ['CVE-2021-44228'] |
+| corretto/hotpatch-for-apache-log4j2 | An agent to hotpatch the log4j RCE from CVE-2021-44228. | https://github.com/corretto/hotpatch-for-apache-log4j2 | ['rce'] | 1 | 2021-12-18 02:05:01+00:00 | 3744 | 400 | Java | 49 | ['CVE-2021-44228'] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-18 00:17:00+00:00 | 211200 | 258 | Ruby | 78 | [] |
 | Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-18 00:00:12+00:00 | 535 | 1 | | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-18 01:54:27+00:00 | 20970 | 152 | Python | 63 | [] |
 | Spard2/ps4exploit | None | https://github.com/Spard2/ps4exploit | ['exploit'] | 1 | 2021-12-18 01:38:32+00:00 | 3174 | 2 | JavaScript | 0 | [] |
