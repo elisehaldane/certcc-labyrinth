@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+439810103,34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit,README.md,930a85211c1d23c23d25534e6a73ba780a682734,CVE-2021-40444
+439810103,34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit,Microsoft-Office-Word-MSHTML_Exploit.rb,eff2f61f094486b271d9d55f5bdc3c6937835161,CVE-2021-40444
+439810103,34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit,_GITHUB_REPO_METADATA_,,CVE-2021-40444
