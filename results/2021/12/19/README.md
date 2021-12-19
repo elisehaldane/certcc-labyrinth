@@ -1,21 +1,23 @@
 
 # Summary for results/2021/12/19
     
-39 records found after deduplication
+43 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------------------------------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-19 00:06:41+00:00 | 1534770 | 1542 | Python | 524 | [] |
-| chatoiclazer/Chatoic-Exploit | None | https://github.com/chatoiclazer/Chatoic-Exploit | ['exploit'] | 1 | 2021-12-19 01:44:46+00:00 | 0 | 0 | | 0 | [] |
+| DTMExploits/DTMExploits.github.io | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | ['exploit'] | 1 | 2021-12-19 01:35:53+00:00 | 0 | 0 | HTML | 0 | [] |
 | VerveIndustrialProtection/CVE-2021-44228-Log4j | None | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | ['cve-2 OR cve_2'] | 1 | 2021-12-19 00:37:33+00:00 | 59 | 0 | | 1 | ['CVE-2021-44228'] |
+| For-ACGN/Log4Shell | Check, exploit, obfuscate, TLS, ACME about log4j2 vulnerability in one Go program. | https://github.com/For-ACGN/Log4Shell | ['exploit', 'vulnerability poc'] | 2 | 2021-12-19 07:29:25+00:00 | 3445 | 9 | Go | 4 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-19 04:04:15+00:00 | 28 | 2 | C++ | 0 | [] |
 | cckuailong/Log4j_dos_CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | ['cve-2 OR cve_2'] | 1 | 2021-12-19 01:59:52+00:00 | 1 | 2 | Java | 0 | ['CVE-2021-45105'] |
+| IsolatedLun/HeapOverflow | StackOverflow but made by me. :) | https://github.com/IsolatedLun/HeapOverflow | ['heap overflow'] | 1 | 2021-12-19 07:08:44+00:00 | 2 | 0 | nan | 0 | [] |
 | DTMExploits/DTMExploits.github.io | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | ['exploit'] | 1 | 2021-12-19 00:47:44+00:00 | 47259 | 0 | HTML | 0 | [] |
 | ialouani/Classique_assembleur_-6- | Acceleration des calculs en vectorisation (exploitation des performances machine) & application dans des modeles classiques et comprehensibles. | https://github.com/ialouani/Classique_assembleur_-6- | ['exploit'] | 1 | 2021-12-19 01:51:52+00:00 | 1 | 0 | C | 0 | [] |
 | clems4ever/log4j-jndi-jar-detector | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/clems4ever/log4j-jndi-jar-detector | ['exploit'] | 1 | 2021-12-19 00:20:01+00:00 | 3036 | 0 | Go | 0 | [] |
-| DTMExploits/DTMExploits.github.io | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | ['exploit'] | 1 | 2021-12-19 01:35:53+00:00 | 0 | 0 | HTML | 0 | [] |
-| BreakSapphire/Classic-Exploit-UI-Synapse | Classic Exploit UI for Synapse X | https://github.com/BreakSapphire/Classic-Exploit-UI-Synapse | ['exploit'] | 1 | 2021-12-19 03:31:34+00:00 | 0 | 0 | | 0 | [] |
+| chatoiclazer/Chatoic-Exploit | None | https://github.com/chatoiclazer/Chatoic-Exploit | ['exploit'] | 1 | 2021-12-19 01:44:46+00:00 | 0 | 0 | | 0 | [] |
 | name/log4j-scanner | Log4j 2 (CVE-2021-44228) vulnerability scanner for Windows OS | https://github.com/name/log4j-scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-19 01:59:04+00:00 | 6 | 3 | Go | 0 | ['CVE-2021-44228'] |
+| BreakSapphire/Classic-Exploit-UI-Synapse | Classic Exploit UI for Synapse X | https://github.com/BreakSapphire/Classic-Exploit-UI-Synapse | ['exploit'] | 1 | 2021-12-19 03:31:34+00:00 | 0 | 0 | | 0 | [] |
 | Wh1terat/aQRootG3 | Enable telnet via qrcode command injection for Aqara G3 hub | https://github.com/Wh1terat/aQRootG3 | ['command injection'] | 1 | 2021-12-19 03:36:54+00:00 | 0 | 0 | nan | 0 | [] |
 | kkyehit/log4j_CVE-2021-44228 | None | https://github.com/kkyehit/log4j_CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-19 03:54:47+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | tothi/log4shell-vulnerable-app | A Basic Java Application Vulnerable to the Log4Shell RCE | https://github.com/tothi/log4shell-vulnerable-app | ['rce'] | 1 | 2021-12-19 03:54:55+00:00 | 0 | 1 | Java | 0 | [] |
@@ -26,7 +28,7 @@
 | anvbis/windows-exp | Windows exploit techniques. | https://github.com/anvbis/windows-exp | ['exploit'] | 1 | 2021-12-19 01:56:01+00:00 | 46906 | 0 | Python | 0 | [] |
 | Ridter/noPac | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user | https://github.com/Ridter/noPac | ['exploit'] | 1 | 2021-12-19 04:36:25+00:00 | 65 | 125 | Python | 23 | ['CVE-2021-42278', 'CVE-2021-42287'] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-19 00:16:59+00:00 | 212733 | 258 | Ruby | 78 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-19 01:16:18+00:00 | 9787 | 2 | Python | 0 | [] |
+| YouCantCMe/Exploits | None | https://github.com/YouCantCMe/Exploits | ['exploit'] | 1 | 2021-12-19 00:33:15+00:00 | 175 | 0 | | 0 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-12-19 04:00:25+00:00 | 475 | 10 | Python | 4 | [] |
 | Gowixx/Carilana | Scripts developed for the LiquidBounce script api. | https://github.com/Gowixx/Carilana | ['exploit'] | 1 | 2021-12-19 03:17:45+00:00 | 81 | 25 | JavaScript | 9 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-19 00:03:54+00:00 | 436343 | 38 | | 20 | [] |
@@ -34,10 +36,12 @@
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-12-19 00:24:05+00:00 | 6000 | 108 | Python | 39 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-19 05:25:09+00:00 | 547694 | 682 | TypeScript | 87 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-19 04:01:55+00:00 | 115015 | 260 | Python | 78 | [] |
-| YouCantCMe/Exploits | None | https://github.com/YouCantCMe/Exploits | ['exploit'] | 1 | 2021-12-19 00:33:15+00:00 | 175 | 0 | | 0 | [] |
-| fullhunt/log4j-scan | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | https://github.com/fullhunt/log4j-scan | ['rce'] | 1 | 2021-12-19 02:21:56+00:00 | 82 | 1927 | Python | 420 | ['CVE-2021-44228'] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-19 01:16:18+00:00 | 9787 | 2 | Python | 0 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-12-19 00:03:33+00:00 | 243 | 1 | C# | 2 | [] |
+| fullhunt/log4j-scan | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | https://github.com/fullhunt/log4j-scan | ['rce'] | 1 | 2021-12-19 02:21:56+00:00 | 82 | 1927 | Python | 420 | ['CVE-2021-44228'] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-12-19 07:16:03+00:00 | 2370 | 1 | C | 0 | [] |
 | lorenzodimarzio/crypto-exploiter | None | https://github.com/lorenzodimarzio/crypto-exploiter | ['exploit'] | 1 | 2021-12-19 00:18:25+00:00 | 2008 | 0 | Python | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2021-12-19 06:50:39+00:00 | 1664 | 64 | Java | 20 | [] |
 | Halvosa/binary_exploitation | None | https://github.com/Halvosa/binary_exploitation | ['exploit'] | 1 | 2021-12-19 00:53:44+00:00 | 37 | 0 | C | 0 | [] |
 | OllieJC/aws-log4j-mitigations | Mitigations (AWS WAF, Lambda@Edge/CloudFront Functions) to implement on AWS to attempt to prevent log4j exploitation. | https://github.com/OllieJC/aws-log4j-mitigations | ['exploit'] | 1 | 2021-12-19 02:45:29+00:00 | 88 | 19 | JavaScript | 6 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-19 02:42:30+00:00 | 717 | 533 | Java | 102 | ['CVE-2021-44228'] |
