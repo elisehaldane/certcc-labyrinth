@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+439882882,Rk-000/Log4j_scan_Advance,README.md,1cb0fdb45fa96f7b204544ebd65b3172db0c6dd8,CVE-2021-44228
+439882882,Rk-000/Log4j_scan_Advance,README.md,1cb0fdb45fa96f7b204544ebd65b3172db0c6dd8,CVE-2021-45046
+439882882,Rk-000/Log4j_scan_Advance,log4j-scan.py,a94241c1f395ff2922e9ebbe814c36edb8e75d9c,CVE-2021-44228
+439882882,Rk-000/Log4j_scan_Advance,log4j-scan.py,a94241c1f395ff2922e9ebbe814c36edb8e75d9c,CVE-2021-45046
+439882882,Rk-000/Log4j_scan_Advance,_GITHUB_REPO_METADATA_,,CVE-2021-44228
