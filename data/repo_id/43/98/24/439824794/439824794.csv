@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+439824794,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+439824794,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+439824794,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+439824794,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+439824794,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
