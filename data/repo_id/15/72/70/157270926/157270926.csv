@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+157270926,ex16x41/oscp,methodology/1.enumeration/web-enum.md,2b9f3122790367bd55d0c5066d06677332882064,MS07-029
+157270926,ex16x41/oscp,methodology/1.enumeration/web-enum.md,2b9f3122790367bd55d0c5066d06677332882064,MS08-067
+157270926,ex16x41/oscp,methodology/1.enumeration/web-enum.md,2b9f3122790367bd55d0c5066d06677332882064,MS10-054
+157270926,ex16x41/oscp,methodology/1.enumeration/web-enum.md,2b9f3122790367bd55d0c5066d06677332882064,MS10-061
+157270926,ex16x41/oscp,methodology/1.enumeration/web-enum.md,2b9f3122790367bd55d0c5066d06677332882064,MS17-010
+157270926,ex16x41/oscp,methodology/active-directory.md,8ead46d4a2e0851757bba25d3cf55dba9a4f6e65,CVE-2019-1040
+157270926,ex16x41/oscp,methodology/active-directory.md,8ead46d4a2e0851757bba25d3cf55dba9a4f6e65,CVE-2019-1384
+157270926,ex16x41/oscp,methodology/active-directory.md,8ead46d4a2e0851757bba25d3cf55dba9a4f6e65,MS08-068
+157270926,ex16x41/oscp,methodology/active-directory.md,8ead46d4a2e0851757bba25d3cf55dba9a4f6e65,MS14-025
+157270926,ex16x41/oscp,methodology/active-directory.md,8ead46d4a2e0851757bba25d3cf55dba9a4f6e65,MS14-068
+157270926,ex16x41/oscp,methodology/active-directory.md,8ead46d4a2e0851757bba25d3cf55dba9a4f6e65,MS16-077
+157270926,ex16x41/oscp,methodology/privesc/linux.md,db115e51752834a698b6559db2e55e5350830b2d,CVE-2016-1531
+157270926,ex16x41/oscp,methodology/modifying-exploits.md,de17a58a4f3241ddf427d2df7db93142d66647b2,MS16-032
