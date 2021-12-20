@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+440156597,lijiejie/log4j2_vul_local_scanner,README.md,286540463fca7dc08116e33def8f967f9ee4bf55,CVE-2021-45046
+440156597,lijiejie/log4j2_vul_local_scanner,log4j2_vul_local_scanner.py,6b4d961cb06cb7216c4e0344a012c2d63433eb11,CVE-2021-45046
+440156597,lijiejie/log4j2_vul_local_scanner,_GITHUB_REPO_METADATA_,,CVE-2021-45046
