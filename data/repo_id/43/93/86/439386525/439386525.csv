@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+439386525,kenmccann/log4j-aqua-poc,util/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#01
+439386525,kenmccann/log4j-aqua-poc,util/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#10
+439386525,kenmccann/log4j-aqua-poc,util/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#109
+439386525,kenmccann/log4j-aqua-poc,util/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#20
+439386525,kenmccann/log4j-aqua-poc,util/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#46
+439386525,kenmccann/log4j-aqua-poc,util/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#64
+439386525,kenmccann/log4j-aqua-poc,util/JNDIExploit.v1.2.zip,2b3791e501e5ceba9be65ee8526cc11084faa198,VU#993
