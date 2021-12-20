@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+440265596,CarlosDelRosario7/sploit-bX,sploit-bX_install.sh,2ec679890441e62b087ba0953db1b4ebfcdbe05f,CVE-2017-0781
+440265596,CarlosDelRosario7/sploit-bX,sploit-bX_install.sh,2ec679890441e62b087ba0953db1b4ebfcdbe05f,CVE-2017-0785
+440265596,CarlosDelRosario7/sploit-bX,README.md,7989f8209060d9d7cc157279661227f8e095de97,CVE-2017-0781
+440265596,CarlosDelRosario7/sploit-bX,README.md,7989f8209060d9d7cc157279661227f8e095de97,CVE-2017-0785
+440265596,CarlosDelRosario7/sploit-bX,_GITHUB_REPO_METADATA_,,CVE-2017-0781
+440265596,CarlosDelRosario7/sploit-bX,_GITHUB_REPO_METADATA_,,CVE-2017-0785
