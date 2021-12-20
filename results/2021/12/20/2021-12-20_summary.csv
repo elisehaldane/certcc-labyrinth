@@ -1,0 +1,8 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2021-12-20T00:16:58+0000,212734,258,Ruby,78,[]
+FULLSHADE/WindowsExploitationResources,Resources for Windows exploit development,https://github.com/FULLSHADE/WindowsExploitationResources,['exploit'],1,2021-12-20T00:21:07+0000,360,784,,179,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2021-12-20T00:03:44+0000,436360,39,,20,[]
+DragonSurvivalEU/RCE,CVE-2021-44228 fix,https://github.com/DragonSurvivalEU/RCE,['rce'],1,2021-12-20T00:38:10+0000,6,5,Java,0,['CVE-2021-44228']
+Akikazuu/Apache-Log4j-RCE-Attempt,None,https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt,['rce'],1,2021-12-20T00:00:09+0000,649,1,,0,[]
+EMSeek/log4poc,log4j vulnerability exploration,https://github.com/EMSeek/log4poc,['vulnerability poc'],1,2021-12-20T00:34:19+0000,57532,0,Java,0,[]
+tejas-nagchandi/CVE-2021-45105,Replicating CVE-2021-45105,https://github.com/tejas-nagchandi/CVE-2021-45105,['cve-2 OR cve_2'],1,2021-12-20T00:44:49+0000,13,0,Java,0,['CVE-2021-45105']
