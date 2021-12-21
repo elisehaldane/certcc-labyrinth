@@ -1,24 +1,34 @@
 
 # Summary for results/2021/12/21
     
-17 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-21 00:17:11+00:00 | 212735 | 258 | Ruby | 78 | [] |
 | Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-21 00:00:10+00:00 | 524 | 1 | | 0 | [] |
 | paladincyber/log4jprotector | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | ['exploit'] | 1 | 2021-12-21 01:55:50+00:00 | 14 | 0 | TypeScript | 0 | [] |
 | Y0-kan/Log4jShell-Scan | log4j2 RCE漏洞（CVE-2021-44228)内网扫描器，可用于在不出网的条件下进行漏洞扫描，帮助企业内部快速发现Log4jShell漏洞。 | https://github.com/Y0-kan/Log4jShell-Scan | ['rce'] | 1 | 2021-12-21 01:41:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-44228'] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2021-12-21 01:43:47+00:00 | 438 | 0 | TypeScript | 0 | [] |
+| nmorrison01/BiasThruBERT | Exploiting the BERT Architecture to Reveal Political Bias in Different News Sources | https://github.com/nmorrison01/BiasThruBERT | ['exploit'] | 1 | 2021-12-21 02:14:38+00:00 | 261 | 0 | Jupyter Notebook | 0 | [] |
+| TeamSpaek/kano | A roblox exploit. | https://github.com/TeamSpaek/kano | ['exploit'] | 1 | 2021-12-21 02:20:03+00:00 | 136 | 0 | | 0 | [] |
 | KameleonReloaded/900V4B | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | ['exploit'] | 1 | 2021-12-21 00:10:45+00:00 | 1227 | 2 | JavaScript | 5 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-21 01:46:22+00:00 | 47 | 2 | C++ | 0 | [] |
+| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-21 02:21:22+00:00 | 147 | 0 | Python | 0 | [] |
+| anvbis/windows-exp | Windows exploit techniques. | https://github.com/anvbis/windows-exp | ['exploit'] | 1 | 2021-12-21 02:14:51+00:00 | 71361 | 0 | Python | 0 | [] |
 | cyberstruggle/L4sh | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | ['exploit', 'rce'] | 2 | 2021-12-21 01:03:51+00:00 | 15 | 203 | Python | 55 | [] |
+| tobiasoed/log4j-CVE-2021-44228 | None | https://github.com/tobiasoed/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-21 02:30:03+00:00 | 20 | 0 | Shell | 0 | ['CVE-2021-44228'] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-21 00:49:19+00:00 | 258 | 571 | Java | 112 | ['CVE-2021-44228'] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-21 00:45:54+00:00 | 9582 | 24 | | 17 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-21 02:10:46+00:00 | 66509 | 1361 | Python | 274 | [] |
 | Spard2/ps4exploit | None | https://github.com/Spard2/ps4exploit | ['exploit'] | 1 | 2021-12-21 00:16:38+00:00 | 2126 | 2 | JavaScript | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-21 02:17:23+00:00 | 977 | 316 | JavaScript | 769 | [] |
+| Nwqda/Sashimi-Evil-OctoBot-Tentacle | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | ['exploit', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 5 | 2021-12-21 02:30:53+00:00 | 6 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-21 01:14:08+00:00 | 6109 | 2 | Python | 0 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2021-12-21 01:30:19+00:00 | 523 | 1 | Lua | 0 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-21 02:42:30+00:00 | 547719 | 708 | TypeScript | 95 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-21 01:41:57+00:00 | 93 | 0 | PHP | 0 | [] |
 | NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2021-12-21 01:57:21+00:00 | 30 | 5 | Lua | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-21 00:04:11+00:00 | 437644 | 39 | | 20 | [] |
+| jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-21 02:46:33+00:00 | 17628 | 603 | Go | 122 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-21 00:45:54+00:00 | 9582 | 24 | | 17 | [] |
 | KaLendsi/CVE-2021-43224-POC | Windows Common Log File System Driver POC | https://github.com/KaLendsi/CVE-2021-43224-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-21 01:51:42+00:00 | 0 | 0 | | 0 | ['CVE-2021-43224'] |
