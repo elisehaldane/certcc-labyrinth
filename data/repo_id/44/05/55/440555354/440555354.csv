@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+440555354,mn-io/log4j-spring-vuln-poc,README.md,679b2ec83adc15d44bc75e0964bb29b1ff734c7f,CVE-2021-44228
+440555354,mn-io/log4j-spring-vuln-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228
