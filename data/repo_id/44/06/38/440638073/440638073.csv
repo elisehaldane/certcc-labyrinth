@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+440638073,halencarjunior/grafana-CVE-2021-43798,src/main.rs,0102a8b788ea1dc29231fed7e875978a167aa38e,CVE-2021-43798
+440638073,halencarjunior/grafana-CVE-2021-43798,src/error.rs,85406f6d43b41e6f9299ebdda3db88633eb191b7,CVE-2021-43798
+440638073,halencarjunior/grafana-CVE-2021-43798,README.md,a394a5dd05d84a1ddacdde1f123af927641b9448,CVE-2021-43798
+440638073,halencarjunior/grafana-CVE-2021-43798,Cargo.toml,c14ac7cfe4a4b20cee707b1387d95e3f5923f895,CVE-2021-43798
+440638073,halencarjunior/grafana-CVE-2021-43798,Cargo.lock,cb80f4182ab9430ed34564abe2dfbf65f3d9d56c,CVE-2021-43798
+440638073,halencarjunior/grafana-CVE-2021-43798,_GITHUB_REPO_METADATA_,,CVE-2021-43798
