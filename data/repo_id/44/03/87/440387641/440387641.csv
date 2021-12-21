@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+440387641,windsormoreira/CVE-2006-3392,exploit.py,5360b3200374b8e4499d5b804534ff322575e49e,CVE-2006-3392
+440387641,windsormoreira/CVE-2006-3392,_GITHUB_REPO_METADATA_,,CVE-2006-3392
