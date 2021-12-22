@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+440682520,sparkydz/log4j-RCE-Exploitation-Detection,README.md,f6c9f45add59003342107cfa2e20e096e2a91b1a,CVE-2021-44228
