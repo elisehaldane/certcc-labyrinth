@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+441137268,andi68/log4jExploit,README.md,de1079f8321aac1db804a3cd5af92a7f5abe69e6,CVE-2021-44228
