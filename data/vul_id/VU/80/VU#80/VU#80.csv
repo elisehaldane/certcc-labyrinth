@@ -8,6 +8,7 @@ VU#80,0.20000000,https://github.com/PeTcHeNkA/log4j-exploit,PeTcHeNkA/log4j-expl
 VU#80,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,437070304
 VU#80,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#80,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
+VU#80,0.16666667,https://github.com/zaneoblaneo/zLog4ShellExploit,zaneoblaneo/zLog4ShellExploit,441037114
 VU#80,0.16666667,https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce,Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce,439497466
 VU#80,0.16666667,https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP,nu11secur1ty/CVE-2021-44228-VULN-APP,439430099
 VU#80,0.16666667,https://github.com/111coding/log4j_temp_CVE-2021-44228,111coding/log4j_temp_CVE-2021-44228,438650245
