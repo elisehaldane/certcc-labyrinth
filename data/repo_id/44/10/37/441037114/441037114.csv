@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+441037114,zaneoblaneo/zLog4ShellExploit,README.md,2f2f11f0b69f2099569b4defef0affe6ce244d38,CVE-2021-44228
+441037114,zaneoblaneo/zLog4ShellExploit,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,9ae16524f51f668609fa5b37b9d58ec68c013899,VU#03
+441037114,zaneoblaneo/zLog4ShellExploit,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,9ae16524f51f668609fa5b37b9d58ec68c013899,VU#23
+441037114,zaneoblaneo/zLog4ShellExploit,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,9ae16524f51f668609fa5b37b9d58ec68c013899,VU#68
+441037114,zaneoblaneo/zLog4ShellExploit,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,9ae16524f51f668609fa5b37b9d58ec68c013899,VU#80
+441037114,zaneoblaneo/zLog4ShellExploit,lib/marshalsec-0.0.3-SNAPSHOT-all.jar,9ae16524f51f668609fa5b37b9d58ec68c013899,VU#83
