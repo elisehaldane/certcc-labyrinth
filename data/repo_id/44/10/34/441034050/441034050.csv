@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+441034050,TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit,log4j2.py,21dff8803a5c0888f225d47837b680c4619ba02a,CVE-2021-44228
+441034050,TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit,README.md,d47d84066c6fcc1cdce9844a40df616b00271d36,CVE-2021-44228
+441034050,TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit,_GITHUB_REPO_METADATA_,,CVE-2021-44228
