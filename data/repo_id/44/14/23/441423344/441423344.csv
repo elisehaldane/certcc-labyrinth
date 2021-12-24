@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+441423344,cybersecurityworks553/log4j-shell-csw,README.md,0637aab0f7689b9559c83c31e0a14ba697356005,CVE-2021-44228
+441423344,cybersecurityworks553/log4j-shell-csw,CVE-2021-44228-exploit.py,40543749ad774b3ff97ad8242952fd8fac8e1422,CVE-2021-44228
+441423344,cybersecurityworks553/log4j-shell-csw,_GITHUB_REPO_METADATA_,,CVE-2021-44228
