@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+441536984,megadimenex/MegaHiDocker,README.md,1a1fcbbbb4f2bde5e7072ba96b65b16e2f1d9b5a,CVE-2020-35191
+441536984,megadimenex/MegaHiDocker,Description.txt,1d3d29fd183f6481018bd4157b7f13de8e98ac9f,CVE-2020-35191
+441536984,megadimenex/MegaHiDocker,MegaHiDocker.py,fb1d929409bb4e4fb81d00aee9a78a6fbca1469c,CVE-2020-35191
+441536984,megadimenex/MegaHiDocker,_GITHUB_REPO_METADATA_,,CVE-2020-35191
