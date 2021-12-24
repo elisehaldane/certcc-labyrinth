@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+441364313,grimch/log4j-CVE-2021-44228-workaround,README.md,2f708eb1baa9a8b29035255071ca213771372502,CVE-2021-44228
+441364313,grimch/log4j-CVE-2021-44228-workaround,_GITHUB_REPO_METADATA_,,CVE-2021-44228
