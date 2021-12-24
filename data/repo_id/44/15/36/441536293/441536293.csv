@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/webapps/docs/changelog.html,32f9991a49c539218b507200f6455625c9c905b0,CVE-2020-1935
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/lib/ecj-4.20.jar,4837be609a3368a0f7e7cf0dc1bdbc7fe94993de,VU#48
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/webapps/manager/images/tomcat.svg,b2848a4ad1f5f886e0ad9cca33f0a291565d042d,VU#10
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/webapps/ROOT/tomcat.svg,b2848a4ad1f5f886e0ad9cca33f0a291565d042d,VU#17
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/apache-log4j-2.12.1-bin.zip,cad5b31a851ebeb3a5687208a96c7e6160727e9a,VU#05
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/apache-log4j-2.12.1-bin.zip,cad5b31a851ebeb3a5687208a96c7e6160727e9a,VU#49
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/apache-log4j-2.12.1-bin.zip,cad5b31a851ebeb3a5687208a96c7e6160727e9a,VU#76
+441536293,many-fac3d-g0d/apache-tomcat-log4j,apache-tomcat-10.0.14/apache-log4j-2.12.1-bin.zip,cad5b31a851ebeb3a5687208a96c7e6160727e9a,VU#99
+441536293,many-fac3d-g0d/apache-tomcat-log4j,README.md,f0cde91585b15fbfb49023c9d2bd132abba29e86,CVE-2021-44228
+441536293,many-fac3d-g0d/apache-tomcat-log4j,exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#03
+441536293,many-fac3d-g0d/apache-tomcat-log4j,exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#23
+441536293,many-fac3d-g0d/apache-tomcat-log4j,exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#68
+441536293,many-fac3d-g0d/apache-tomcat-log4j,exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#80
+441536293,many-fac3d-g0d/apache-tomcat-log4j,exploit/marshalsec-0.0.3-SNAPSHOT-all.jar,f56d72a794132f4375382f90d9dea141cdb119fd,VU#83
+441536293,many-fac3d-g0d/apache-tomcat-log4j,_GITHUB_REPO_METADATA_,,CVE-2021-44228
