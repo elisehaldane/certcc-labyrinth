@@ -1,13 +1,12 @@
 
 # Summary for results/2021/12/24
     
-121 records found after deduplication
+122 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------------------------|
 | ronin-rb/ronin-asm | ronin-asm is a Ruby DSL for crafting Assmebly programs and Shellcode. | https://github.com/ronin-rb/ronin-asm | ['shellcode'] | 1 | 2021-12-24 03:37:13+00:00 | 481 | 40 | Ruby | 7 | [] |
-| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-24 00:00:09+00:00 | 690 | 1 | | 0 | [] |
-| asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp | Apache 远程代码执行 （CVE-2021-42013）批量检测工具：Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点，发现 Apache HTTP Server 2.4.50 中针对 CVE-2021-41773 的修复不够充分。攻击者可以使用路径遍历攻击将 URL 映射到由类似别名的指令配置的目录之外的文件。如果这些目录之外的文件不受通常的默认配置“要求全部拒绝”的保护，则这些请求可能会成功。如果还为 | https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-12-24 07:38:39+00:00 | 10 | 2 | Python | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
+| jaackkiscool/Script-Secure-v1.1 | This is made for only ROBLOX EXPLOITS. | https://github.com/jaackkiscool/Script-Secure-v1.1 | ['exploit'] | 1 | 2021-12-24 14:13:38+00:00 | 35 | 1 | Lua | 0 | [] |
 | anvbis/windows-shellcode-exp | Windows shellcoding techniques. | https://github.com/anvbis/windows-shellcode-exp | ['shellcode'] | 1 | 2021-12-24 05:46:21+00:00 | 16 | 0 | Python | 0 | [] |
 | DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2021-12-24 13:35:08+00:00 | 2178 | 0 | JavaScript | 0 | [] |
 | lom0rngjek/C0baltStr1ke4.4 | ខូបលស្ត្រែគ៤.៤ - ឧបករណ៍ post exploitation ប្រើពាក្យបញ្ជានិងគ្រប់គ្រងពីចំងាយ។ | https://github.com/lom0rngjek/C0baltStr1ke4.4 | ['exploit'] | 1 | 2021-12-24 04:35:15+00:00 | 16 | 0 | | 0 | [] |
@@ -34,10 +33,11 @@
 | lzxstr/lzxstr.github.io | Learn to exploit in Roblox! | https://github.com/lzxstr/lzxstr.github.io | ['exploit'] | 1 | 2021-12-24 15:27:51+00:00 | 2 | 0 | HTML | 0 | [] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-24 00:50:43+00:00 | 8385 | 132 | Python | 28 | [] |
 | NotOnTop/Exploits_Public | None | https://github.com/NotOnTop/Exploits_Public | ['exploit'] | 1 | 2021-12-24 05:46:29+00:00 | 468 | 0 | Lua | 0 | [] |
-| jaackkiscool/Script-Secure-v1.1 | This is made for only ROBLOX EXPLOITS. | https://github.com/jaackkiscool/Script-Secure-v1.1 | ['exploit'] | 1 | 2021-12-24 14:13:38+00:00 | 35 | 1 | Lua | 0 | [] |
+| T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-24 15:00:35+00:00 | 8 | 0 | Smali | 0 | [] |
+| asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp | Apache 远程代码执行 （CVE-2021-42013）批量检测工具：Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点，发现 Apache HTTP Server 2.4.50 中针对 CVE-2021-41773 的修复不够充分。攻击者可以使用路径遍历攻击将 URL 映射到由类似别名的指令配置的目录之外的文件。如果这些目录之外的文件不受通常的默认配置“要求全部拒绝”的保护，则这些请求可能会成功。如果还为 | https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-12-24 07:38:39+00:00 | 10 | 2 | Python | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | APresellingservices/hervus-exploit | None | https://github.com/APresellingservices/hervus-exploit | ['exploit'] | 1 | 2021-12-24 00:12:12+00:00 | 0 | 0 | | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-24 03:06:47+00:00 | 668443 | 25924 | Ruby | 11846 | [] |
 | CoderICT/metasploit-framework | None | https://github.com/CoderICT/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-24 00:50:54+00:00 | 0 | 0 | | 0 | [] |
-| gaurav24122021/SDR_Sainya-Ranakshetram-Level-III | Software Defined Radio(Exploit code for SDR and obfuscate it in a legal program of some utility. This exploit opens a data link from the victim Receiver Stack to a third SDR (attacker’s SDR) and provide a reverse shell or command prompt on the attacker’s | https://github.com/gaurav24122021/SDR_Sainya-Ranakshetram-Level-III | ['exploit'] | 1 | 2021-12-24 14:31:21+00:00 | 0 | 0 | CMake | 0 | [] |
 | sapatito/suba-database-public | public database of suba´s exploits and shit | https://github.com/sapatito/suba-database-public | ['exploit'] | 1 | 2021-12-24 19:51:48+00:00 | 0 | 0 | | 0 | [] |
 | CrashOverflow/Log4J-POC | A simple exploitation guide for CVE-2021-44228. | https://github.com/CrashOverflow/Log4J-POC | ['cve poc', 'exploit'] | 2 | 2021-12-24 19:26:36+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | rhytxm/python-X | Roblox Exploit | https://github.com/rhytxm/python-X | ['exploit'] | 1 | 2021-12-24 19:26:16+00:00 | 0 | 0 | | 0 | [] |
@@ -50,8 +50,8 @@
 | DavidTDC3377/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui | https://github.com/DavidTDC3377/Ro-XploitMM2GUI | ['exploit'] | 1 | 2021-12-24 16:46:21+00:00 | 0 | 0 | | 0 | [] |
 | Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | None | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | ['exploit'] | 1 | 2021-12-24 15:13:03+00:00 | 0 | 0 | | 0 | [] |
 | rootxrd/public_exploits | repo that contains exploits tested | https://github.com/rootxrd/public_exploits | ['exploit'] | 1 | 2021-12-24 15:03:27+00:00 | 0 | 0 | Python | 0 | [] |
+| gaurav24122021/SDR_Sainya-Ranakshetram-Level-III | Software Defined Radio(Exploit code for SDR and obfuscate it in a legal program of some utility. This exploit opens a data link from the victim Receiver Stack to a third SDR (attacker’s SDR) and provide a reverse shell or command prompt on the attacker’s | https://github.com/gaurav24122021/SDR_Sainya-Ranakshetram-Level-III | ['exploit'] | 1 | 2021-12-24 14:31:21+00:00 | 0 | 0 | CMake | 0 | [] |
 | random-prog/Binary-Exploitation- | Hanya dasar aja, dan ini adalah backup | https://github.com/random-prog/Binary-Exploitation- | ['exploit'] | 1 | 2021-12-24 14:12:24+00:00 | 0 | 0 | C | 0 | [] |
-| hacxor37/Exploit | None | https://github.com/hacxor37/Exploit | ['exploit'] | 1 | 2021-12-24 03:01:09+00:00 | 0 | 0 | Python | 0 | [] |
 | TheMirkin/CVE-List-Public-Exploits | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | ['exploit'] | 1 | 2021-12-24 13:44:17+00:00 | 0 | 0 | | 0 | [] |
 | aimee5isalive/rape-pilidge-and-destroy | exploit for cash | https://github.com/aimee5isalive/rape-pilidge-and-destroy | ['exploit'] | 1 | 2021-12-24 13:19:44+00:00 | 0 | 0 | | 0 | [] |
 | BUSTExploit/silent-doc---pdf-exploit-new | Download Cracked:https://gofile.io/d/lauksw | https://github.com/BUSTExploit/silent-doc---pdf-exploit-new | ['exploit'] | 1 | 2021-12-24 12:39:48+00:00 | 0 | 0 | | 0 | [] |
@@ -64,10 +64,11 @@
 | HrishitJoshi/Final_Exploit | Exploited a vulnerable binary by doing buffer overflow and exploiting Format string vulnerabilities. | https://github.com/HrishitJoshi/Final_Exploit | ['exploit'] | 1 | 2021-12-24 04:29:12+00:00 | 0 | 0 | Perl | 0 | [] |
 | HrishitJoshi/ASLR_smack_and_laugh | Some exploits of the paper. | https://github.com/HrishitJoshi/ASLR_smack_and_laugh | ['exploit'] | 1 | 2021-12-24 04:12:04+00:00 | 0 | 0 | C | 0 | [] |
 | lsc183754539/IBM-Storwize-V3700-RCE | IBM-Storwize-V3700 RCE | https://github.com/lsc183754539/IBM-Storwize-V3700-RCE | ['rce'] | 1 | 2021-12-24 03:25:12+00:00 | 0 | 0 | | 0 | [] |
-| T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-24 15:00:35+00:00 | 8 | 0 | Smali | 0 | [] |
+| hacxor37/Exploit | None | https://github.com/hacxor37/Exploit | ['exploit'] | 1 | 2021-12-24 03:01:09+00:00 | 0 | 0 | Python | 0 | [] |
+| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-24 00:00:09+00:00 | 690 | 1 | | 0 | [] |
 | b-abderrahmane/CVE-2021-44228-playground | None | https://github.com/b-abderrahmane/CVE-2021-44228-playground | ['cve-2 OR cve_2'] | 1 | 2021-12-24 10:42:05+00:00 | 38822 | 1 | Java | 1 | ['CVE-2021-44228'] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-24 03:06:47+00:00 | 668443 | 25924 | Ruby | 11846 | [] |
 | vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2021-12-24 14:11:33+00:00 | 3530 | 0 | JavaScript | 0 | [] |
+| whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-24 15:17:54+00:00 | 448 | 0 | Java | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-24 02:12:13+00:00 | 806 | 43 | Python | 9 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-12-24 02:00:43+00:00 | 186 | 7 | Shell | 1 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-24 01:34:57+00:00 | 94 | 0 | PHP | 0 | [] |
@@ -99,10 +100,10 @@
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2021-12-24 03:01:14+00:00 | 583 | 1 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-24 04:01:50+00:00 | 52555 | 261 | Python | 79 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-12-24 13:06:58+00:00 | 19151 | 15 | Rust | 1 | [] |
-| whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-24 15:17:54+00:00 | 448 | 0 | Java | 0 | [] |
 | jmpshell/BinEx | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2021-12-24 02:34:30+00:00 | 5681 | 0 | C++ | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-24 07:01:10+00:00 | 23992 | 211 | Python | 83 | [] |
 | dannyallover/Exploit-C | None | https://github.com/dannyallover/Exploit-C | ['exploit'] | 1 | 2021-12-24 03:07:57+00:00 | 33636 | 0 | TeX | 0 | [] |
+| bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2021-12-24 21:23:47+00:00 | 106 | 1 | Go | 0 | [] |
 | hlong12042/CVE_2019_11043 | None | https://github.com/hlong12042/CVE_2019_11043 | ['cve-2 OR cve_2'] | 1 | 2021-12-24 02:31:06+00:00 | 4842 | 0 | PHP | 0 | ['CVE-2019-11043'] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-12-24 13:19:10+00:00 | 291 | 0 | C | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-24 08:22:37+00:00 | 179 | 0 | TypeScript | 3 | [] |
