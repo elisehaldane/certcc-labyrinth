@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+441493289,rootxrd/public_exploits,CVE-2017-7529/cve_2017_7529.py,09c98411eded495569eb509089581107f769de28,CVE-2017-7529
