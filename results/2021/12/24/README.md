@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/24
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------------------------|
@@ -21,7 +21,7 @@
 | TheInterception/Log4J-Simulation-Tool | Vulnerability analysis, patch management and exploitation tool forCVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104 | https://github.com/TheInterception/Log4J-Simulation-Tool | ['exploit'] | 1 | 2021-12-24 07:00:28+00:00 | 49442 | 1 | Java | 1 | ['CVE-2021-4104', 'CVE-2021-44228', 'CVE-2021-45046'] |
 | loneicewolf/LOCKHEED-PLATFORM | The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like "platform", designed for advanced Cyber Assessments. | https://github.com/loneicewolf/LOCKHEED-PLATFORM | ['metasploit module OR payload'] | 1 | 2021-12-24 09:37:01+00:00 | 8 | 2 | | 0 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2021-12-24 11:38:58+00:00 | 51 | 0 | | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-24 03:06:47+00:00 | 668443 | 25924 | Ruby | 11846 | [] |
+| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-24 00:00:09+00:00 | 690 | 1 | | 0 | [] |
 | mas1347/PSWSA_LAB-2FA_broken_logic | An automated exploit for Port Swigger Web Security Academy's Lab "Lab: 2FA broken logic" | https://github.com/mas1347/PSWSA_LAB-2FA_broken_logic | ['exploit'] | 1 | 2021-12-24 19:37:08+00:00 | 0 | 0 | | 0 | [] |
 | aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | None | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | ['cve-2 OR cve_2'] | 1 | 2021-12-24 13:36:20+00:00 | 866 | 77 | Shell | 12 | ['CVE-2021-44228'] |
 | VerveIndustrialProtection/CVE-2021-44228-Log4j | None | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | ['cve-2 OR cve_2'] | 1 | 2021-12-24 15:07:44+00:00 | 201 | 1 | PowerShell | 3 | ['CVE-2021-44228'] |
@@ -67,9 +67,9 @@
 | lsc183754539/IBM-Storwize-V3700-RCE | IBM-Storwize-V3700 RCE | https://github.com/lsc183754539/IBM-Storwize-V3700-RCE | ['rce'] | 1 | 2021-12-24 03:25:12+00:00 | 0 | 0 | | 0 | [] |
 | hacxor37/Exploit | None | https://github.com/hacxor37/Exploit | ['exploit'] | 1 | 2021-12-24 03:01:09+00:00 | 0 | 0 | Python | 0 | [] |
 | T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-24 15:00:35+00:00 | 8 | 0 | Smali | 0 | [] |
-| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-24 00:00:09+00:00 | 690 | 1 | | 0 | [] |
 | b-abderrahmane/CVE-2021-44228-playground | None | https://github.com/b-abderrahmane/CVE-2021-44228-playground | ['cve-2 OR cve_2'] | 1 | 2021-12-24 10:42:05+00:00 | 38822 | 1 | Java | 1 | ['CVE-2021-44228'] |
-| TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2021-12-24 03:01:14+00:00 | 583 | 1 | Lua | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-24 03:06:47+00:00 | 668443 | 25924 | Ruby | 11846 | [] |
+| dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-24 04:59:21+00:00 | 1148 | 0 | Python | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-24 02:12:13+00:00 | 806 | 43 | Python | 9 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-12-24 02:00:43+00:00 | 186 | 7 | Shell | 1 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-24 01:34:57+00:00 | 94 | 0 | PHP | 0 | [] |
@@ -83,8 +83,8 @@
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-12-24 07:29:23+00:00 | 478 | 10 | Python | 4 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-12-24 12:39:11+00:00 | 719 | 602 | Java | 70 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-24 09:59:14+00:00 | 17656 | 606 | Go | 126 | [] |
-| dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-24 04:59:21+00:00 | 1148 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-24 00:45:57+00:00 | 11717 | 24 | | 17 | [] |
+| vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2021-12-24 14:11:33+00:00 | 3530 | 0 | JavaScript | 0 | [] |
 | wyzxxz/jndi_tool | JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具 | https://github.com/wyzxxz/jndi_tool | ['rce'] | 1 | 2021-12-24 07:09:10+00:00 | 225841 | 1003 | | 232 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-24 10:31:44+00:00 | 66611 | 1370 | Python | 277 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-24 14:06:43+00:00 | 1511200 | 3870 | PowerShell | 1346 | [] |
@@ -93,13 +93,14 @@
 | 0verSp4ce/PoCBox | PoCBox - Vulnerability Test Aid Platform | https://github.com/0verSp4ce/PoCBox | ['vulnerability poc'] | 1 | 2021-12-24 05:23:42+00:00 | 43005 | 841 | JavaScript | 162 | [] |
 | a13xp0p0v/linux-kernel-defence-map | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | ['exploit'] | 1 | 2021-12-24 18:06:01+00:00 | 9573 | 1350 | | 96 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-12-24 06:33:38+00:00 | 3110 | 1390 | | 462 | [] |
+| IAIK/meltdown | This repository contains several applications, demonstrating the Meltdown bug. | https://github.com/IAIK/meltdown | ['exploit'] | 1 | 2021-12-24 19:28:52+00:00 | 31151 | 3932 | C | 526 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-24 00:16:54+00:00 | 214269 | 260 | Ruby | 78 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-24 11:35:04+00:00 | 70655 | 10474 | Jupyter Notebook | 1803 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-24 06:31:27+00:00 | 5930 | 3018 | Python | 671 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-24 13:16:35+00:00 | 21853 | 6229 | JavaScript | 1467 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-24 19:06:50+00:00 | 327097 | 753 | TypeScript | 103 | [] |
+| TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2021-12-24 03:01:14+00:00 | 583 | 1 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-24 04:01:50+00:00 | 52555 | 261 | Python | 79 | [] |
-| vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2021-12-24 14:11:33+00:00 | 3530 | 0 | JavaScript | 0 | [] |
 | Li4n0/revsuit | RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. | https://github.com/Li4n0/revsuit | ['rce'] | 1 | 2021-12-24 03:10:20+00:00 | 9255 | 184 | Go | 25 | [] |
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2021-12-24 15:17:54+00:00 | 448 | 0 | Java | 0 | [] |
 | jmpshell/BinEx | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2021-12-24 02:34:30+00:00 | 5681 | 0 | C++ | 0 | [] |
