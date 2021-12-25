@@ -1,23 +1,23 @@
 
 # Summary for results/2021/12/25
     
-45 records found after deduplication
+47 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-25 00:06:47+00:00 | 1534771 | 1545 | Python | 524 | [] |
-| T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-25 03:01:49+00:00 | 12140 | 1 | Smali | 0 | [] |
-| es3n1n/be-shellcode-tester | BattlEye shellcodes tester | https://github.com/es3n1n/be-shellcode-tester | ['shellcode'] | 1 | 2021-12-25 03:56:53+00:00 | 39 | 33 | C++ | 13 | [] |
+| blueIbird/exploit | None | https://github.com/blueIbird/exploit | ['exploit'] | 1 | 2021-12-25 02:04:51+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-25 03:39:46+00:00 | 135 | 2 | C++ | 1 | [] |
 | TheInterception/Log4J-Simulation-Tool | Vulnerability analysis, patch management and exploitation tool forCVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104 | https://github.com/TheInterception/Log4J-Simulation-Tool | ['exploit'] | 1 | 2021-12-25 01:51:35+00:00 | 55114 | 1 | Java | 1 | ['CVE-2021-4104', 'CVE-2021-44228', 'CVE-2021-45046'] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2021-12-25 00:56:43+00:00 | 44 | 2 | | 0 | [] |
 | lucab85/log4j-cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-12-25 10:24:21+00:00 | 19 | 50 | | 4 | ['CVE-2021-44228'] |
+| Ryzen303/Ethernaut-exploit-codes | A collection of the solidity exploits I wrote as I worked through OpenZeppelin's ethernaut. | https://github.com/Ryzen303/Ethernaut-exploit-codes | ['exploit'] | 1 | 2021-12-25 12:45:51+00:00 | 6 | 1 | Solidity | 0 | [] |
 | anvbis/windows-shellcode-exp | Windows shellcoding techniques. | https://github.com/anvbis/windows-shellcode-exp | ['shellcode'] | 1 | 2021-12-25 02:46:04+00:00 | 16 | 0 | Python | 0 | [] |
 | jaackkiscool/Script-Secure-v1.1 | This is made for only ROBLOX EXPLOITS. | https://github.com/jaackkiscool/Script-Secure-v1.1 | ['exploit'] | 1 | 2021-12-25 10:47:55+00:00 | 82 | 1 | Lua | 0 | [] |
 | Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | None | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | ['exploit'] | 1 | 2021-12-25 00:17:28+00:00 | 4 | 0 | | 0 | [] |
 | CrashOverflow/Log4J-POC | A simple exploitation guide for CVE-2021-44228. | https://github.com/CrashOverflow/Log4J-POC | ['cve poc', 'exploit'] | 2 | 2021-12-25 11:26:49+00:00 | 258 | 0 | Java | 0 | ['CVE-2021-44228'] |
-| blueIbird/exploit | None | https://github.com/blueIbird/exploit | ['exploit'] | 1 | 2021-12-25 02:04:51+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | nismo1337/fluxus-exploit | None | https://github.com/nismo1337/fluxus-exploit | ['exploit'] | 1 | 2021-12-25 02:31:50+00:00 | 0 | 0 | C# | 0 | [] |
+| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-25 00:50:05+00:00 | 9300 | 136 | Python | 29 | [] |
 | nismo1337/oxygen-exploit | None | https://github.com/nismo1337/oxygen-exploit | ['exploit'] | 1 | 2021-12-25 02:32:56+00:00 | 0 | 0 | C# | 0 | [] |
 | jeffssh/CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-25 03:04:53+00:00 | 0 | 1 | | 0 | ['CVE-2021-30860'] |
 | BernieLane/CMS-Made-Simple-SQLi | CVE-2019-9053 SQL Injection for CMS Made Simple for versions < 2.2.9 | https://github.com/BernieLane/CMS-Made-Simple-SQLi | ['cve-2 OR cve_2'] | 1 | 2021-12-25 03:21:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-9053'] |
@@ -26,10 +26,11 @@
 | Gittttttthub/metasploit | Metasploit | https://github.com/Gittttttthub/metasploit | ['metasploit module OR payload'] | 1 | 2021-12-25 10:10:30+00:00 | 0 | 0 | | 0 | [] |
 | Lotharingie88/gestexploitation | appli delphi /mysql multiplateforme de gestion d exploitation agricole | https://github.com/Lotharingie88/gestexploitation | ['exploit'] | 1 | 2021-12-25 10:15:12+00:00 | 0 | 0 | Pascal | 0 | [] |
 | towardsnetwork/sploitpitc2 | C2 framework that does your exploiting easier | https://github.com/towardsnetwork/sploitpitc2 | ['exploit', 'sploit'] | 2 | 2021-12-25 10:35:38+00:00 | 0 | 0 | | 0 | [] |
-| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-25 00:50:05+00:00 | 9300 | 136 | Python | 29 | [] |
-| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-25 00:00:07+00:00 | 754 | 1 | | 0 | [] |
+| hbs7/hbs.github.io | PS4 Exploit Loader | https://github.com/hbs7/hbs.github.io | ['exploit'] | 1 | 2021-12-25 10:39:25+00:00 | 0 | 0 | HTML | 0 | [] |
+| es3n1n/be-shellcode-tester | BattlEye shellcodes tester | https://github.com/es3n1n/be-shellcode-tester | ['shellcode'] | 1 | 2021-12-25 03:56:53+00:00 | 39 | 33 | C++ | 13 | [] |
+| T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-25 03:01:49+00:00 | 12140 | 1 | Smali | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-25 09:14:23+00:00 | 5954 | 3018 | Python | 672 | [] |
-| shaddy43/ExploitDB | This repository contains ideas and PoCs of malware that could be used for redteaming exercises to test an organizations security controls. | https://github.com/shaddy43/ExploitDB | ['exploit'] | 1 | 2021-12-25 09:22:19+00:00 | 9 | 0 | PowerShell | 0 | [] |
+| ExploiTR/ExploiTR | hey it's me! | https://github.com/ExploiTR/ExploiTR | ['exploit'] | 1 | 2021-12-25 05:25:51+00:00 | 397 | 0 | | 0 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-25 11:25:18+00:00 | 3202 | 86 | Go | 7 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-12-25 11:35:05+00:00 | 70343 | 10484 | Jupyter Notebook | 1804 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-25 00:16:57+00:00 | 214270 | 260 | Ruby | 78 | [] |
@@ -39,8 +40,8 @@
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-25 10:28:24+00:00 | 1158 | 0 | Python | 0 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-25 04:38:12+00:00 | 17673 | 606 | Go | 126 | [] |
 | RoundofThree/exploit-resources | Solutions to common exploit exercises. | https://github.com/RoundofThree/exploit-resources | ['exploit'] | 1 | 2021-12-25 02:35:57+00:00 | 189898 | 0 | HTML | 0 | [] |
-| ExploiTR/ExploiTR | hey it's me! | https://github.com/ExploiTR/ExploiTR | ['exploit'] | 1 | 2021-12-25 05:25:51+00:00 | 397 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-25 00:04:13+00:00 | 437242 | 40 | | 20 | [] |
+| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-25 00:00:07+00:00 | 754 | 1 | | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-25 09:43:39+00:00 | 290355 | 764 | | 168 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-25 01:50:21+00:00 | 766 | 43 | Python | 9 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-25 04:01:58+00:00 | 54233 | 261 | Python | 79 | [] |
@@ -49,4 +50,5 @@
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-12-25 00:11:42+00:00 | 161 | 263 | C# | 50 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-12-25 09:34:27+00:00 | 327 | 0 | C | 0 | [] |
 | dannyallover/Exploit-C | None | https://github.com/dannyallover/Exploit-C | ['exploit'] | 1 | 2021-12-25 00:44:07+00:00 | 33630 | 0 | TeX | 0 | [] |
-| hbs7/hbs.github.io | PS4 Exploit Loader | https://github.com/hbs7/hbs.github.io | ['exploit'] | 1 | 2021-12-25 10:39:25+00:00 | 0 | 0 | HTML | 0 | [] |
+| shaddy43/ExploitDB | This repository contains ideas and PoCs of malware that could be used for redteaming exercises to test an organizations security controls. | https://github.com/shaddy43/ExploitDB | ['exploit'] | 1 | 2021-12-25 09:22:19+00:00 | 9 | 0 | PowerShell | 0 | [] |
+| LanceDdot/BAN-LOG4J-IPS-ON-CLOUDFLARE | A Cloudflare Firewall expression to ban exploited LOG4J IP addresses | https://github.com/LanceDdot/BAN-LOG4J-IPS-ON-CLOUDFLARE | ['exploit'] | 1 | 2021-12-25 12:36:36+00:00 | 0 | 0 | | 0 | [] |
