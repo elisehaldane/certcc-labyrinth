@@ -1,15 +1,16 @@
 
 # Summary for results/2021/12/26
     
-45 records found after deduplication
+48 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-26 00:06:47+00:00 | 1534771 | 1545 | Python | 524 | [] |
-| anvbis/linux-kernel-exp | Linux kernel exploit techniques. | https://github.com/anvbis/linux-kernel-exp | ['exploit'] | 1 | 2021-12-26 03:43:10+00:00 | 983 | 0 | C | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-26 08:00:42+00:00 | 5984 | 3019 | Python | 672 | [] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-26 01:12:32+00:00 | 39529 | 1009 | Python | 243 | ['CVE-2021-44228'] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-26 02:43:03+00:00 | 5088 | 666 | Java | 131 | ['CVE-2021-44228'] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-26 00:54:43+00:00 | 10432 | 137 | Python | 29 | [] |
+| hupe1980/scan4log4shell | Scanner to detect vulnerable log4j versions on your file-system or to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability | https://github.com/hupe1980/scan4log4shell | ['rce'] | 1 | 2021-12-26 10:16:56+00:00 | 3299 | 8 | Go | 2 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2021-12-26 00:32:39+00:00 | 28 | 2 | | 0 | ['CVE-2021-44228'] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2021-12-26 00:30:03+00:00 | 67 | 0 | | 0 | [] |
 | URylen/exu | A Roblox explorer exploit that's in the making. | https://github.com/URylen/exu | ['exploit'] | 1 | 2021-12-26 02:35:37+00:00 | 9 | 0 | Lua | 0 | [] |
@@ -26,10 +27,11 @@
 | dev-soloace/SynapseX | This is a Synapse X Key Generator for the Roblox exploit. | https://github.com/dev-soloace/SynapseX | ['exploit'] | 1 | 2021-12-26 07:17:30+00:00 | 1 | 0 | Python | 0 | [] |
 | metricinstaller/cve-2018-4233 | None | https://github.com/metricinstaller/cve-2018-4233 | ['cve-2 OR cve_2'] | 1 | 2021-12-26 08:40:26+00:00 | 0 | 0 | JavaScript | 0 | ['CVE-2018-4233'] |
 | Jackey0/opencast-CVE-2021-43821-env | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | ['cve-2 OR cve_2'] | 1 | 2021-12-26 09:23:44+00:00 | 0 | 0 | | 0 | ['CVE-2021-43821'] |
+| liujieyin/S2-061-exploit | 针对S2-061的可视化漏洞利用工具 | https://github.com/liujieyin/S2-061-exploit | ['exploit'] | 1 | 2021-12-26 09:27:12+00:00 | 0 | 0 | | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-26 06:42:48+00:00 | 308 | 8 | Python | 0 | [] |
+| anvbis/linux-kernel-exp | Linux kernel exploit techniques. | https://github.com/anvbis/linux-kernel-exp | ['exploit'] | 1 | 2021-12-26 03:43:10+00:00 | 983 | 0 | C | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-26 01:18:58+00:00 | 194 | 0 | TypeScript | 3 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-26 08:00:42+00:00 | 5984 | 3019 | Python | 672 | [] |
-| onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-12-26 09:09:33+00:00 | 4499 | 1 | Python | 0 | [] |
+| NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2021-12-26 04:30:56+00:00 | 36 | 5 | Lua | 3 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-26 00:17:03+00:00 | 214271 | 260 | Ruby | 78 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-12-26 00:50:39+00:00 | 885 | 142 | Go | 37 | [] |
 | parrotgeek1/TI-z80 | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | ['exploit'] | 1 | 2021-12-26 00:37:40+00:00 | 10524 | 4 | Assembly | 3 | [] |
@@ -39,8 +41,8 @@
 | nanabingies/Exploits | This repo contains some POC's and exploits I have written for some targets. | https://github.com/nanabingies/Exploits | ['exploit'] | 1 | 2021-12-26 01:38:42+00:00 | 28 | 0 | C++ | 0 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2021-12-26 09:34:42+00:00 | 33777 | 42 | Shell | 19 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-26 00:03:58+00:00 | 437261 | 40 | | 20 | [] |
-| NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2021-12-26 04:30:56+00:00 | 36 | 5 | Lua | 3 | [] |
 | swagkarna/Rafel-Rat | -------> RAFEL<------ Android Rat Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | ['exploit'] | 1 | 2021-12-26 08:22:06+00:00 | 139691 | 285 | PHP | 149 | [] |
+| onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2021-12-26 09:09:33+00:00 | 4499 | 1 | Python | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-26 02:18:58+00:00 | 786 | 43 | Python | 9 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-26 01:42:25+00:00 | 55908 | 261 | Python | 79 | [] |
 | Li4n0/revsuit | RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. | https://github.com/Li4n0/revsuit | ['rce'] | 1 | 2021-12-26 09:23:09+00:00 | 9328 | 185 | Go | 26 | [] |
@@ -49,4 +51,5 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-26 01:15:33+00:00 | 10933 | 2 | Python | 0 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-12-26 05:14:36+00:00 | 2372 | 1 | C | 0 | [] |
 | Green-Avocado/EasyROP | Introductory exploit development tool for return oriented programming. | https://github.com/Green-Avocado/EasyROP | ['exploit'] | 1 | 2021-12-26 00:11:22+00:00 | 1882 | 0 | Java | 0 | [] |
-| liujieyin/S2-061-exploit | 针对S2-061的可视化漏洞利用工具 | https://github.com/liujieyin/S2-061-exploit | ['exploit'] | 1 | 2021-12-26 09:27:12+00:00 | 0 | 0 | | 0 | [] |
+| WilfriedMercier/ExploitGUI | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | ['exploit'] | 1 | 2021-12-26 10:22:05+00:00 | 151925 | 1 | Python | 1 | [] |
+| tfwcodes/FTP-exploits | FTP-Exploits is a tool made in python that contains 4 diffrent types of ftp exploits that can be used in Penetration Testing. | https://github.com/tfwcodes/FTP-exploits | ['exploit'] | 1 | 2021-12-26 10:35:54+00:00 | 0 | 0 | Python | 0 | [] |
