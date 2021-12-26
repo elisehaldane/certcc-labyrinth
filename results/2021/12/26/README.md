@@ -1,12 +1,15 @@
 
 # Summary for results/2021/12/26
     
-28 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-26 00:06:47+00:00 | 1534771 | 1545 | Python | 524 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-26 00:17:03+00:00 | 214271 | 260 | Ruby | 78 | [] |
+| Invertebr4do/strapiRCE | Strapi 3.0.0-beta - Remote Code Execution (RCE) (Unauthenticated) | https://github.com/Invertebr4do/strapiRCE | ['rce', 'remote code execution'] | 2 | 2021-12-26 06:32:10+00:00 | 0 | 0 | Python | 0 | [] |
+| exp1orer/JNDI-Inject-Exploit | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | ['exploit'] | 1 | 2021-12-26 06:40:50+00:00 | 0 | 0 | Java | 0 | [] |
+| 3UR/Instagram-Exploits | working on it | https://github.com/3UR/Instagram-Exploits | ['exploit'] | 1 | 2021-12-26 04:17:48+00:00 | 0 | 0 | | 0 | [] |
 | lntrx/hxp_trusty_user_diary | HXPCTF Trusty User Diary exploit & writeup | https://github.com/lntrx/hxp_trusty_user_diary | ['exploit'] | 1 | 2021-12-26 02:17:20+00:00 | 3 | 0 | C | 0 | [] |
 | BababooeyHackers/Downloader | post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server | https://github.com/BababooeyHackers/Downloader | ['exploit'] | 1 | 2021-12-26 01:50:59+00:00 | 10 | 1 | PHP | 0 | [] |
 | Dilshan-Eranda/CVE-2020-13699 | None | https://github.com/Dilshan-Eranda/CVE-2020-13699 | ['cve-2 OR cve_2'] | 1 | 2021-12-26 00:07:09+00:00 | 0 | 0 | | 0 | ['CVE-2020-13699'] |
@@ -16,6 +19,7 @@
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-26 00:54:43+00:00 | 10432 | 137 | Python | 29 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-26 02:43:03+00:00 | 5088 | 666 | Java | 131 | ['CVE-2021-44228'] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-26 01:12:32+00:00 | 39529 | 1009 | Python | 243 | ['CVE-2021-44228'] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-26 06:42:48+00:00 | 308 | 8 | Python | 0 | [] |
 | anvbis/linux-kernel-exp | Linux kernel exploit techniques. | https://github.com/anvbis/linux-kernel-exp | ['exploit'] | 1 | 2021-12-26 03:43:10+00:00 | 983 | 0 | C | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-26 01:18:58+00:00 | 194 | 0 | TypeScript | 3 | [] |
 | Green-Avocado/EasyROP | Introductory exploit development tool for return oriented programming. | https://github.com/Green-Avocado/EasyROP | ['exploit'] | 1 | 2021-12-26 00:11:22+00:00 | 1882 | 0 | Java | 0 | [] |
@@ -32,4 +36,4 @@
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-26 04:48:32+00:00 | 1160 | 0 | Python | 0 | [] |
 | parrotgeek1/TI-z80 | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | ['exploit'] | 1 | 2021-12-26 00:37:40+00:00 | 10524 | 4 | Assembly | 3 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-12-26 00:50:39+00:00 | 885 | 142 | Go | 37 | [] |
-| 3UR/Instagram-Exploits | working on it | https://github.com/3UR/Instagram-Exploits | ['exploit'] | 1 | 2021-12-26 04:17:48+00:00 | 0 | 0 | | 0 | [] |
+| j-jiseophan/etf | exploit tensorflow | https://github.com/j-jiseophan/etf | ['exploit'] | 1 | 2021-12-26 06:28:42+00:00 | 0 | 0 | | 0 | [] |
