@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/25
     
-82 records found after deduplication
+83 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------------------------|
@@ -26,7 +26,7 @@
 | H-A-L-I-S/x11-sudo-exploit | proof of concept, why x11/xorg destroys almost entirely the purpose of sudo in linux | https://github.com/H-A-L-I-S/x11-sudo-exploit | ['exploit'] | 1 | 2021-12-25 18:25:11+00:00 | 82 | 0 | C | 0 | [] |
 | blueIbird/exploit | None | https://github.com/blueIbird/exploit | ['exploit'] | 1 | 2021-12-25 02:04:51+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | nismo1337/oxygen-exploit | None | https://github.com/nismo1337/oxygen-exploit | ['exploit'] | 1 | 2021-12-25 02:32:56+00:00 | 0 | 0 | C# | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-25 09:14:23+00:00 | 5954 | 3018 | Python | 672 | [] |
+| babebbu/log4shell-exploit | None | https://github.com/babebbu/log4shell-exploit | ['exploit'] | 1 | 2021-12-25 17:04:02+00:00 | 57 | 0 | Java | 1 | [] |
 | jeffssh/CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-25 03:04:53+00:00 | 0 | 1 | | 0 | ['CVE-2021-30860'] |
 | robidev/CVE-2020-14871-Exploit | This is a basic ROP based exploit for CVE 2020-14871. CVE 2020-14871 is a vulnerability in Sun Solaris systems libpam library, and exploitable over ssh | https://github.com/robidev/CVE-2020-14871-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-25 21:29:30+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-14871'] |
 | KFKFSAD/Exploit | None | https://github.com/KFKFSAD/Exploit | ['exploit'] | 1 | 2021-12-25 21:27:07+00:00 | 0 | 0 | | 0 | [] |
@@ -46,12 +46,12 @@
 | g3un/corelan-exploit-writing-tutorials | None | https://github.com/g3un/corelan-exploit-writing-tutorials | ['exploit'] | 1 | 2021-12-25 04:29:38+00:00 | 0 | 0 | | 0 | [] |
 | BernieLane/CMS-Made-Simple-SQLi | CVE-2019-9053 SQL Injection for CMS Made Simple for versions < 2.2.9 | https://github.com/BernieLane/CMS-Made-Simple-SQLi | ['cve-2 OR cve_2'] | 1 | 2021-12-25 03:21:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-9053'] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-25 00:50:05+00:00 | 9300 | 136 | Python | 29 | [] |
-| babebbu/log4shell-exploit | None | https://github.com/babebbu/log4shell-exploit | ['exploit'] | 1 | 2021-12-25 17:04:02+00:00 | 57 | 0 | Java | 1 | [] |
 | T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-25 03:01:49+00:00 | 12140 | 1 | Smali | 0 | [] |
-| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-25 00:00:07+00:00 | 754 | 1 | | 0 | [] |
-| ExploiTR/ExploiTR | hey it's me! | https://github.com/ExploiTR/ExploiTR | ['exploit'] | 1 | 2021-12-25 05:25:51+00:00 | 397 | 0 | | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-25 09:14:23+00:00 | 5954 | 3018 | Python | 672 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-25 00:04:13+00:00 | 437242 | 40 | | 20 | [] |
 | loneicewolf/fanny.bmp | FANNY BMP MALWARE SOURCE + BINARY + Metasploit Module Checker | https://github.com/loneicewolf/fanny.bmp | ['metasploit module OR payload'] | 1 | 2021-12-25 14:57:33+00:00 | 57720 | 9 | C | 3 | [] |
 | RoundofThree/exploit-resources | Solutions to common exploit exercises. | https://github.com/RoundofThree/exploit-resources | ['exploit'] | 1 | 2021-12-25 02:35:57+00:00 | 189898 | 0 | HTML | 0 | [] |
+| Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-12-25 09:55:51+00:00 | 37365 | 436 | C++ | 65 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-12-25 19:25:07+00:00 | 3785245 | 2 | Batchfile | 0 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-25 04:38:12+00:00 | 17673 | 606 | Go | 126 | [] |
 | xairy/unlockdown | Disabling kernel lockdown on Ubuntu without physical access | https://github.com/xairy/unlockdown | ['exploit'] | 1 | 2021-12-25 20:09:43+00:00 | 40 | 70 | C | 5 | [] |
@@ -66,10 +66,10 @@
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-25 11:25:18+00:00 | 3202 | 86 | Go | 7 | [] |
 | xairy/kernel-exploits | My proof-of-concept exploits for the Linux kernel | https://github.com/xairy/kernel-exploits | ['exploit'] | 1 | 2021-12-25 21:44:07+00:00 | 45 | 1240 | C | 375 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-12-25 23:26:17+00:00 | 6916 | 4203 | Python | 571 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-25 00:04:13+00:00 | 437242 | 40 | | 20 | [] |
+| ExploiTR/ExploiTR | hey it's me! | https://github.com/ExploiTR/ExploiTR | ['exploit'] | 1 | 2021-12-25 05:25:51+00:00 | 397 | 0 | | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-25 09:43:39+00:00 | 290355 | 764 | | 168 | [] |
+| Akikazuu/Apache-Log4j-RCE-Attempt | None | https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt | ['rce'] | 1 | 2021-12-25 00:00:07+00:00 | 754 | 1 | | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-25 01:50:21+00:00 | 766 | 43 | Python | 9 | [] |
-| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-25 14:02:49+00:00 | 132 | 0 | Java | 0 | [] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2021-12-25 22:22:33+00:00 | 39529 | 1004 | Python | 243 | ['CVE-2021-44228'] |
 | shaddy43/ExploitDB | This repository contains ideas and PoCs of malware that could be used for redteaming exercises to test an organizations security controls. | https://github.com/shaddy43/ExploitDB | ['exploit'] | 1 | 2021-12-25 09:22:19+00:00 | 9 | 0 | PowerShell | 0 | [] |
 | dannyallover/Exploit-C | None | https://github.com/dannyallover/Exploit-C | ['exploit'] | 1 | 2021-12-25 00:44:07+00:00 | 33630 | 0 | TeX | 0 | [] |
@@ -77,8 +77,8 @@
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2021-12-25 09:34:27+00:00 | 327 | 0 | C | 0 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2021-12-25 22:30:20+00:00 | 54 | 0 | C | 0 | [] |
 | dora2-iOS/p0insettia | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit. | https://github.com/dora2-iOS/p0insettia | ['exploit'] | 1 | 2021-12-25 15:43:48+00:00 | 23620 | 17 | C | 1 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-25 14:02:49+00:00 | 132 | 0 | Java | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-25 21:52:00+00:00 | 180 | 0 | TypeScript | 3 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-25 04:01:58+00:00 | 54233 | 261 | Python | 79 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-25 18:10:14+00:00 | 93 | 5 | | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-12-25 17:56:40+00:00 | 19236 | 15 | Rust | 1 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-12-25 14:50:24+00:00 | 753 | 0 | Python | 0 | [] |
@@ -86,4 +86,5 @@
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-12-25 11:22:00+00:00 | 463 | 0 | Lua | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-25 01:10:08+00:00 | 9971 | 2 | Python | 0 | [] |
 | crypt0n-root/powershell-backdoor | Poweshell backdoor metasploit | https://github.com/crypt0n-root/powershell-backdoor | ['metasploit module OR payload'] | 1 | 2021-12-25 18:03:04+00:00 | 1437 | 0 | PowerShell | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-25 04:01:58+00:00 | 54233 | 261 | Python | 79 | [] |
 | LongWayHomie/CRS-RCE-Exploit | Car Rental System 1.0 suffers from SQL Injection on administrator login page and unsecure upload mechanism allowing to upload malicious files. This allows unauthenticated user to obtain reverse shell to server. | https://github.com/LongWayHomie/CRS-RCE-Exploit | ['exploit', 'rce'] | 2 | 2021-12-25 21:36:38+00:00 | 0 | 0 | | 0 | [] |
