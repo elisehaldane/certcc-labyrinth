@@ -1,0 +1,14 @@
+
+# Summary for results/2021/12/27
+    
+7 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-27 00:06:47+00:00 | 1534771 | 1544 | Python | 524 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-27 00:17:00+00:00 | 214272 | 260 | Ruby | 78 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-27 00:03:59+00:00 | 437324 | 40 | | 20 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-27 00:47:41+00:00 | 94 | 0 | PHP | 0 | [] |
+| jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-12-27 00:40:58+00:00 | 871 | 4 | | 2 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-27 00:11:01+00:00 | 35 | 2 | nan | 0 | ['CVE-2021-44228'] |
+| PubExploit/PubExploit | Config files for my GitHub profile. | https://github.com/PubExploit/PubExploit | ['exploit'] | 1 | 2021-12-27 00:18:56+00:00 | 0 | 0 | | 0 | [] |
