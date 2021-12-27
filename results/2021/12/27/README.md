@@ -1,19 +1,19 @@
 
 # Summary for results/2021/12/27
     
-97 records found after deduplication
+98 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-27 00:06:47+00:00 | 1534771 | 1544 | Python | 524 | [] |
-| righettod/log4shell-payload-grabber | Tool to try to retrieve the java class used as dropper for the RCE in the context of log4shell vulnerability. | https://github.com/righettod/log4shell-payload-grabber | ['rce'] | 1 | 2021-12-27 15:33:36+00:00 | 11489 | 2 | Java | 0 | [] |
+| K1p2y3/log4j_rce_tool | None | https://github.com/K1p2y3/log4j_rce_tool | ['rce'] | 1 | 2021-12-27 05:35:39+00:00 | 0 | 0 | | 0 | [] |
 | deepak-sulakhe/log4j-exploit | None | https://github.com/deepak-sulakhe/log4j-exploit | ['exploit'] | 1 | 2021-12-27 04:39:25+00:00 | 0 | 0 | | 0 | [] |
 | l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2021-12-27 04:45:17+00:00 | 0 | 0 | Lua | 0 | [] |
 | Josh-Washington/Metasploit-Framework | None | https://github.com/Josh-Washington/Metasploit-Framework | ['metasploit module OR payload'] | 1 | 2021-12-27 01:32:10+00:00 | 0 | 1 | | 0 | [] |
 | PubExploit/PubExploit | Config files for my GitHub profile. | https://github.com/PubExploit/PubExploit | ['exploit'] | 1 | 2021-12-27 00:18:56+00:00 | 0 | 0 | | 0 | [] |
 | 4zv4l/shell_code | a short shell_code executing a shell on a linux system with no null byte | https://github.com/4zv4l/shell_code | ['shellcode'] | 1 | 2021-12-27 18:22:50+00:00 | 2 | 0 | Assembly | 0 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-27 03:36:07+00:00 | 58 | 1 | Rust | 0 | [] |
-| Ming119/CVE-2021-41773_Exploit | None | https://github.com/Ming119/CVE-2021-41773_Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-27 14:38:19+00:00 | 33 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
+| Ming119/CVE-2021-41773_Exploit | None | https://github.com/Ming119/CVE-2021-41773_Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-27 14:38:19+00:00 | 25 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
 | ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2021-12-27 11:08:46+00:00 | 452 | 0 | C++ | 0 | [] |
 | Jackey0/opencast-CVE-2021-43821-env | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | ['cve-2 OR cve_2'] | 1 | 2021-12-27 07:14:05+00:00 | 9 | 2 | | 1 | ['CVE-2021-43821'] |
 | exp1orer/JNDI-Inject-Exploit | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | ['exploit'] | 1 | 2021-12-27 08:30:52+00:00 | 65 | 82 | Java | 37 | [] |
@@ -29,9 +29,10 @@
 | Mohammadmahdi-Mohammadi/RMIDS | Remote Method Invocation in distributed systems with the possibility of transferring objects between client & server and also server codes execution in client side(code migration) | https://github.com/Mohammadmahdi-Mohammadi/RMIDS | ['remote code execution'] | 1 | 2021-12-27 07:13:39+00:00 | 209 | 0 | Python | 0 | [] |
 | parsiya/code-wsl-rce | Proof of Concept for CVE-2021-43891 | https://github.com/parsiya/code-wsl-rce | ['rce'] | 1 | 2021-12-27 17:00:25+00:00 | 49 | 2 | JavaScript | 0 | ['CVE-2021-43891'] |
 | stwater20/bufferoverflow-exploit | None | https://github.com/stwater20/bufferoverflow-exploit | ['exploit'] | 1 | 2021-12-27 05:38:01+00:00 | 0 | 0 | Python | 0 | [] |
-| K1p2y3/log4j_rce_tool | None | https://github.com/K1p2y3/log4j_rce_tool | ['rce'] | 1 | 2021-12-27 05:35:39+00:00 | 0 | 0 | | 0 | [] |
 | Kum4r-Princ3/Portmap.io | Port Forwarded For Metasploit Payload | https://github.com/Kum4r-Princ3/Portmap.io | ['metasploit module OR payload'] | 1 | 2021-12-27 06:39:15+00:00 | 0 | 0 | Shell | 0 | [] |
-| Ashish-bot/Client-Side-Exploitation- | $$ PDF Hacking $$ | https://github.com/Ashish-bot/Client-Side-Exploitation- | ['exploit'] | 1 | 2021-12-27 16:22:45+00:00 | 0 | 0 | | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-27 08:12:32+00:00 | 5961 | 3020 | Python | 672 | [] |
+| mjc12/PHP-Vulnerability-Exploit | Attacks a known vulnerable virtual machines with a crafted SQL query in an effort to obtain a hash of the administrator's password. | https://github.com/mjc12/PHP-Vulnerability-Exploit | ['exploit'] | 1 | 2021-12-27 06:44:35+00:00 | 0 | 0 | Python | 0 | [] |
+| manuelz120/CVE-2021-45041 | PoC for CVE-2021-45041 | https://github.com/manuelz120/CVE-2021-45041 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-27 21:07:29+00:00 | 139 | 0 | Python | 0 | ['CVE-2021-45041'] |
 | dtemel/smartclass_exploits | None | https://github.com/dtemel/smartclass_exploits | ['exploit'] | 1 | 2021-12-27 19:29:56+00:00 | 0 | 0 | Python | 0 | [] |
 | SecretSupply/Get-Exploit-Name | attempts to get the client's exploit's name | https://github.com/SecretSupply/Get-Exploit-Name | ['exploit'] | 1 | 2021-12-27 19:27:47+00:00 | 0 | 0 | Lua | 0 | [] |
 | FalseCodee/stoplag | Basic plugin to prevent a lag exploit | https://github.com/FalseCodee/stoplag | ['exploit'] | 1 | 2021-12-27 19:05:08+00:00 | 0 | 0 | Java | 0 | [] |
@@ -41,8 +42,8 @@
 | CS395-BinX/CS395-BinX.github.io | Student-created Linux Binary Exploitation course taught at George Mason University in the Spring and Fall semesters of 2021. | https://github.com/CS395-BinX/CS395-BinX.github.io | ['exploit'] | 1 | 2021-12-27 17:20:28+00:00 | 0 | 0 | | 0 | [] |
 | 0x00000SYN/Protostar_exp | protostar vm all levels exploits | https://github.com/0x00000SYN/Protostar_exp | ['exploit'] | 1 | 2021-12-27 16:58:54+00:00 | 0 | 0 | Python | 0 | [] |
 | s-retlaw/l4s_poc | Log4Shell (Cve-2021-44228) Proof Of Concept | https://github.com/s-retlaw/l4s_poc | ['cve poc'] | 1 | 2021-12-27 16:45:58+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| Ashish-bot/Client-Side-Exploitation- | $$ PDF Hacking $$ | https://github.com/Ashish-bot/Client-Side-Exploitation- | ['exploit'] | 1 | 2021-12-27 16:22:45+00:00 | 0 | 0 | | 0 | [] |
 | soyzer0/fake-mute | Fake Mute & Defean Discord Exploit | https://github.com/soyzer0/fake-mute | ['exploit'] | 1 | 2021-12-27 16:05:32+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| mjc12/PHP-Vulnerability-Exploit | Attacks a known vulnerable virtual machines with a crafted SQL query in an effort to obtain a hash of the administrator's password. | https://github.com/mjc12/PHP-Vulnerability-Exploit | ['exploit'] | 1 | 2021-12-27 06:44:35+00:00 | 0 | 0 | Python | 0 | [] |
 | rabaukeronny/onlyfans-crawler | Exploits Onlyfans-APIs to detect staleness of Onlyfans accounts. | https://github.com/rabaukeronny/onlyfans-crawler | ['exploit'] | 1 | 2021-12-27 15:13:00+00:00 | 0 | 0 | | 0 | [] |
 | Official-BlackHat13/CVE-2020-11546 | SuperWebMailer RCE | https://github.com/Official-BlackHat13/CVE-2020-11546 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-12-27 14:41:11+00:00 | 5 | 1 | Python | 0 | ['CVE-2020-11546'] |
 | Xhackers7/genexis-platinum-csrf | This website exploits a broken access control vulnerability in genexis platinum 4410 router to do a csrf attack | https://github.com/Xhackers7/genexis-platinum-csrf | ['exploit'] | 1 | 2021-12-27 11:23:53+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -53,8 +54,8 @@
 | scuecs/Log4jRCEServer | 目标攻击者的服务 | https://github.com/scuecs/Log4jRCEServer | ['rce'] | 1 | 2021-12-27 07:06:52+00:00 | 0 | 0 | | 0 | [] |
 | svdwi/CVE-2021-33701-POC- | Remote ABAP Code Injection in SAP IUUC_RECON_RC_COUNT_TABLE_BIG | https://github.com/svdwi/CVE-2021-33701-POC- | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-27 06:43:55+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-33701'] |
 | z0s3r77/Metasplotable_2 | En este repositorio haré una breve explicación de como montar un entorno de trabajo con Kali y Metasploiable2 , en dos máquinas virtualizadas mediante VirtualBox. También explico a modo de practica como realizar un ataque DDoS y como introducir un backdoor | https://github.com/z0s3r77/Metasplotable_2 | ['metasploit module OR payload'] | 1 | 2021-12-27 12:29:23+00:00 | 50 | 1 | | 0 | [] |
+| righettod/log4shell-payload-grabber | Tool to try to retrieve the java class used as dropper for the RCE in the context of log4shell vulnerability. | https://github.com/righettod/log4shell-payload-grabber | ['rce'] | 1 | 2021-12-27 15:33:36+00:00 | 11489 | 2 | Java | 0 | [] |
 | KameleonReloaded/900V4B | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | ['exploit'] | 1 | 2021-12-27 02:06:53+00:00 | 2477 | 7 | JavaScript | 8 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-12-27 08:12:32+00:00 | 5961 | 3020 | Python | 672 | [] |
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-27 15:00:46+00:00 | 415 | 259 | PowerShell | 64 | ['CVE-2021-44228'] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-12-27 15:39:55+00:00 | 7010 | 1 | Java | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-27 09:01:03+00:00 | 290383 | 768 | | 170 | [] |
