@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+442235397,yesspider-hacker/log4j-payload-generator,log4j_payload_generater.py,2d817b489f94d214b585d3347e869fb68f0b9070,CVE-2021-44228
+442235397,yesspider-hacker/log4j-payload-generator,README.md,fbfa7fac17da06ab7cbfed84cb6334a16969e9da,CVE-2021-44228
+442235397,yesspider-hacker/log4j-payload-generator,_GITHUB_REPO_METADATA_,,CVE-2021-44228
