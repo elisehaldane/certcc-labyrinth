@@ -11,5 +11,6 @@ razz0r/CVE-2021-44228-Mass-RCE,CVE-2021-44228 Log4J multithreaded Mass Exploitat
 KameleonReloaded/900V4B,PS4 9.00 Firmware Exploit Host,https://github.com/KameleonReloaded/900V4B,['exploit'],1,2021-12-27T02:06:53+0000,2477,7,JavaScript,8,[]
 jiwookhong/log4j_exploit,None,https://github.com/jiwookhong/log4j_exploit,['exploit'],1,2021-12-27T02:30:47+0000,34720,0,Python,0,[]
 lsc183754539/IBM-Storwize-V3700-RCE,IBM-Storwize-V3700 RCE,https://github.com/lsc183754539/IBM-Storwize-V3700-RCE,['rce'],1,2021-12-27T02:28:21+0000,6,0,,0,[]
+TheConner/RustBot,A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service,https://github.com/TheConner/RustBot,['remote code execution'],1,2021-12-27T03:36:07+0000,58,1,Rust,0,[]
 PubExploit/PubExploit,Config files for my GitHub profile.,https://github.com/PubExploit/PubExploit,['exploit'],1,2021-12-27T00:18:56+0000,0,0,,0,[]
 Josh-Washington/Metasploit-Framework,None,https://github.com/Josh-Washington/Metasploit-Framework,['metasploit module OR payload'],1,2021-12-27T01:32:10+0000,0,1,,0,[]
