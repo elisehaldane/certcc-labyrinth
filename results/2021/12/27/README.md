@@ -1,26 +1,48 @@
 
 # Summary for results/2021/12/27
     
-19 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-27 00:06:47+00:00 | 1534771 | 1544 | Python | 524 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-27 00:11:01+00:00 | 35 | 2 | | 0 | ['CVE-2021-44228'] |
-| l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2021-12-27 04:45:17+00:00 | 0 | 0 | Lua | 0 | [] |
-| Josh-Washington/Metasploit-Framework | None | https://github.com/Josh-Washington/Metasploit-Framework | ['metasploit module OR payload'] | 1 | 2021-12-27 01:32:10+00:00 | 0 | 1 | | 0 | [] |
-| PubExploit/PubExploit | Config files for my GitHub profile. | https://github.com/PubExploit/PubExploit | ['exploit'] | 1 | 2021-12-27 00:18:56+00:00 | 0 | 0 | | 0 | [] |
-| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-27 03:36:07+00:00 | 58 | 1 | Rust | 0 | [] |
-| lsc183754539/IBM-Storwize-V3700-RCE | IBM-Storwize-V3700 RCE | https://github.com/lsc183754539/IBM-Storwize-V3700-RCE | ['rce'] | 1 | 2021-12-27 02:28:21+00:00 | 6 | 0 | | 0 | [] |
+| Mohammadmahdi-Mohammadi/RMIDS | Remote Method Invocation in distributed systems with the possibility of transferring objects between client & server and also server codes execution in client side(code migration) | https://github.com/Mohammadmahdi-Mohammadi/RMIDS | ['remote code execution'] | 1 | 2021-12-27 07:13:39+00:00 | 209 | 0 | Python | 0 | [] |
 | jiwookhong/log4j_exploit | None | https://github.com/jiwookhong/log4j_exploit | ['exploit'] | 1 | 2021-12-27 02:30:47+00:00 | 34720 | 0 | Python | 0 | [] |
+| lsc183754539/IBM-Storwize-V3700-RCE | IBM-Storwize-V3700 RCE | https://github.com/lsc183754539/IBM-Storwize-V3700-RCE | ['rce'] | 1 | 2021-12-27 02:28:21+00:00 | 6 | 0 | | 0 | [] |
+| lukeszdev/booga-script | Booga booga script exploit for roblox using Lua | https://github.com/lukeszdev/booga-script | ['exploit'] | 1 | 2021-12-27 07:05:54+00:00 | 17 | 0 | Lua | 0 | [] |
+| g3un/corelan-exploit-writing-tutorials | None | https://github.com/g3un/corelan-exploit-writing-tutorials | ['exploit'] | 1 | 2021-12-27 07:38:24+00:00 | 2908 | 0 | Go | 0 | [] |
+| Jackey0/opencast-CVE-2021-43821-env | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | ['cve-2 OR cve_2'] | 1 | 2021-12-27 07:14:05+00:00 | 9 | 2 | | 1 | ['CVE-2021-43821'] |
+| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-27 03:36:07+00:00 | 58 | 1 | Rust | 0 | [] |
+| PubExploit/PubExploit | Config files for my GitHub profile. | https://github.com/PubExploit/PubExploit | ['exploit'] | 1 | 2021-12-27 00:18:56+00:00 | 0 | 0 | | 0 | [] |
+| Josh-Washington/Metasploit-Framework | None | https://github.com/Josh-Washington/Metasploit-Framework | ['metasploit module OR payload'] | 1 | 2021-12-27 01:32:10+00:00 | 0 | 1 | | 0 | [] |
+| l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2021-12-27 04:45:17+00:00 | 0 | 0 | Lua | 0 | [] |
+| deepak-sulakhe/log4j-exploit | None | https://github.com/deepak-sulakhe/log4j-exploit | ['exploit'] | 1 | 2021-12-27 04:39:25+00:00 | 0 | 0 | | 0 | [] |
+| stwater20/bufferoverflow-exploit | None | https://github.com/stwater20/bufferoverflow-exploit | ['exploit'] | 1 | 2021-12-27 05:38:01+00:00 | 0 | 0 | Python | 0 | [] |
+| K1p2y3/log4j_rce_tool | None | https://github.com/K1p2y3/log4j_rce_tool | ['rce'] | 1 | 2021-12-27 05:35:39+00:00 | 0 | 0 | | 0 | [] |
+| Kum4r-Princ3/Portmap.io | Port Forwarded For Metasploit Payload | https://github.com/Kum4r-Princ3/Portmap.io | ['metasploit module OR payload'] | 1 | 2021-12-27 06:39:15+00:00 | 0 | 0 | Shell | 0 | [] |
+| mjc12/PHP-Vulnerability-Exploit | Attacks a known vulnerable virtual machines with a crafted SQL query in an effort to obtain a hash of the administrator's password. | https://github.com/mjc12/PHP-Vulnerability-Exploit | ['exploit'] | 1 | 2021-12-27 06:44:35+00:00 | 0 | 0 | Python | 0 | [] |
+| svdwi/CVE-2021-33701-POC- | Remote ABAP Code Injection in SAP IUUC_RECON_RC_COUNT_TABLE_BIG | https://github.com/svdwi/CVE-2021-33701-POC- | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-27 06:43:55+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-33701'] |
+| scuecs/Log4jRCEServer | 目标攻击者的服务 | https://github.com/scuecs/Log4jRCEServer | ['rce'] | 1 | 2021-12-27 07:06:52+00:00 | 0 | 0 | | 0 | [] |
 | KameleonReloaded/900V4B | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | ['exploit'] | 1 | 2021-12-27 02:06:53+00:00 | 2477 | 7 | JavaScript | 8 | [] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-27 00:59:29+00:00 | 11196 | 139 | Python | 29 | [] |
+| gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-27 05:15:20+00:00 | 3219 | 86 | Go | 7 | [] |
+| T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-27 05:28:33+00:00 | 12464 | 8 | Smali | 2 | [] |
+| r00t-3xp10it/venom | venom - C2 shellcode generator/compiler/handler | https://github.com/r00t-3xp10it/venom | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-12-27 06:36:27+00:00 | 231649 | 1147 | Shell | 465 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-27 00:17:00+00:00 | 214272 | 260 | Ruby | 78 | [] |
-| djjoa/exploit-searcher | Simultaneously search CVEs and exploits across multiple cybersecurity data sources. | https://github.com/djjoa/exploit-searcher | ['exploit'] | 1 | 2021-12-27 04:13:28+00:00 | 110 | 3 | Python | 0 | [] |
-| Ki11i0n4ir3/CVE-2021-21315 | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-27 01:30:21+00:00 | 660 | 1 | Rust | 0 | ['CVE-2021-21315'] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-27 01:11:21+00:00 | 12035 | 2 | Python | 0 | [] |
-| jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-12-27 00:40:58+00:00 | 871 | 4 | | 2 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-27 04:02:03+00:00 | 58704 | 261 | Python | 79 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-27 00:47:41+00:00 | 94 | 0 | PHP | 0 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-27 03:21:19+00:00 | 35379 | 6251 | Vue | 1328 | [] |
+| wyzxxz/jndi_tool | JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具 | https://github.com/wyzxxz/jndi_tool | ['rce'] | 1 | 2021-12-27 04:50:03+00:00 | 225846 | 1014 | | 236 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-27 06:46:00+00:00 | 12452 | 24 | | 17 | [] |
+| houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-12-27 07:18:30+00:00 | 268 | 308 | | 31 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-27 00:03:59+00:00 | 437324 | 40 | | 20 | [] |
-| deepak-sulakhe/log4j-exploit | None | https://github.com/deepak-sulakhe/log4j-exploit | ['exploit'] | 1 | 2021-12-27 04:39:25+00:00 | 0 | 0 | | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-27 00:47:41+00:00 | 94 | 0 | PHP | 0 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-27 05:30:58+00:00 | 327096 | 758 | TypeScript | 104 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-27 04:02:03+00:00 | 58704 | 261 | Python | 79 | [] |
+| BeeExploit/BeeExploit | Config files for my GitHub profile. | https://github.com/BeeExploit/BeeExploit | ['exploit'] | 1 | 2021-12-27 06:59:08+00:00 | 5 | 0 | | 0 | [] |
+| jwardsmith/Active-Directory-Exploitation | None | https://github.com/jwardsmith/Active-Directory-Exploitation | ['exploit'] | 1 | 2021-12-27 00:40:58+00:00 | 871 | 4 | | 2 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-27 01:11:21+00:00 | 12035 | 2 | Python | 0 | [] |
+| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-12-27 06:25:36+00:00 | 349 | 1 | Python | 1 | [] |
+| Ki11i0n4ir3/CVE-2021-21315 | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-27 01:30:21+00:00 | 660 | 1 | Rust | 0 | ['CVE-2021-21315'] |
+| ryterichard/Ch0nkyBear | Simulated threat actor that maintains connection and remotely exploits compromised systems through a C2 system. | https://github.com/ryterichard/Ch0nkyBear | ['exploit'] | 1 | 2021-12-27 05:26:32+00:00 | 38267 | 1 | C | 0 | [] |
+| djjoa/exploit-searcher | Simultaneously search CVEs and exploits across multiple cybersecurity data sources. | https://github.com/djjoa/exploit-searcher | ['exploit'] | 1 | 2021-12-27 04:13:28+00:00 | 110 | 3 | Python | 0 | [] |
+| Kum4r-Princ3/Portmap.io | Port Forwarded For Metasploit Payload | https://github.com/Kum4r-Princ3/Portmap.io | ['metasploit module OR payload'] | 1 | 2021-12-27 07:37:33+00:00 | 0 | 0 | Shell | 0 | [] |
