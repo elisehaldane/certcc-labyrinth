@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+442317732,NS-Sp4ce/Vm4J,Csharp/WindowsFormsApp1/Form1.cs,8ed95893f1ef99ef7f46a23943ea30cf358eb827,CVE-2020-2555
+442317732,NS-Sp4ce/Vm4J,Csharp/WindowsFormsApp1/Form1.cs,8ed95893f1ef99ef7f46a23943ea30cf358eb827,CVE-2020-2883
