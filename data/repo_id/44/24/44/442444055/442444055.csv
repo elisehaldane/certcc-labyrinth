@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+442444055,Osyanina/westone-CVE-2021-45232-scanner,CVE-2021-45232.exe,572d90dbedb03752941a2df65b8c166b29db28c0,CVE-2021-45232
+442444055,Osyanina/westone-CVE-2021-45232-scanner,README.md,c5647d8eed2615a84392061effc7fd76709e38c6,CVE-2021-45232
+442444055,Osyanina/westone-CVE-2021-45232-scanner,_GITHUB_REPO_METADATA_,,CVE-2021-45232
