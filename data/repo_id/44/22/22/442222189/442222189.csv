@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+442222189,Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main,README.md,a4bbf7768f9ea170af63cac1043334814798867d,CVE-2021-44228
+442222189,Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main,_GITHUB_REPO_METADATA_,,CVE-2021-44228
