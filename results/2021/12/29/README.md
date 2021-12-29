@@ -1,13 +1,15 @@
 
 # Summary for results/2021/12/29
     
-57 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-29 06:37:53+00:00 | 669124 | 25963 | Ruby | 11858 | [] |
-| doudoudedi/main-DIR-816_A2_Command-injection | this is router_Command injection | https://github.com/doudoudedi/main-DIR-816_A2_Command-injection | ['command injection'] | 1 | 2021-12-29 03:17:18+00:00 | 2872 | 3 | nan | 0 | [] |
+| Jonathan-Elias/Exploits | None | https://github.com/Jonathan-Elias/Exploits | ['exploit'] | 1 | 2021-12-29 11:38:05+00:00 | 2698 | 0 | Python | 0 | [] |
+| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-29 07:23:20+00:00 | 1053 | 247 | Python | 45 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-29 02:58:31+00:00 | 558 | 12 | Python | 2 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2021-12-29 11:26:32+00:00 | 24082 | 226 | Python | 87 | [] |
 | Jun-5heng/CNVD-2021-49104 | 泛微E-Office9 文件上传GetShell / Code By:Jun_sheng | https://github.com/Jun-5heng/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-29 05:42:51+00:00 | 7 | 0 | Python | 3 | ['CNVD-2021-49104'] |
 | jmpshell/BinEx | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2021-12-29 02:17:27+00:00 | 6212 | 1 | C++ | 0 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-29 01:40:01+00:00 | 5016 | 676 | Java | 135 | ['CVE-2021-44228'] |
@@ -22,6 +24,7 @@
 | exp1orer/JNDI-Inject-Exploit | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | ['exploit'] | 1 | 2021-12-29 02:41:28+00:00 | 78 | 129 | Java | 53 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-29 04:08:13+00:00 | 85 | 1 | Rust | 0 | [] |
 | klezVirus/vortex | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | ['exploit'] | 1 | 2021-12-29 08:23:09+00:00 | 45700 | 84 | Python | 8 | [] |
+| pjlantz/findings | Various write-ups and exploits | https://github.com/pjlantz/findings | ['exploit'] | 1 | 2021-12-29 11:24:42+00:00 | 78 | 0 | Python | 1 | [] |
 | dyeoell/Ethical-Hacking | demonstrate your ability to scan a computer for vulnerabilities, analyze those vulnerabilities for exploitability, execute exploits against a target computer, and create persistence. | https://github.com/dyeoell/Ethical-Hacking | ['exploit'] | 1 | 2021-12-29 00:34:21+00:00 | 0 | 0 | | 0 | [] |
 | Ilovewomen/cve-2021-45232 | None | https://github.com/Ilovewomen/cve-2021-45232 | ['cve-2 OR cve_2'] | 1 | 2021-12-29 01:01:17+00:00 | 0 | 0 | | 0 | ['CVE-2021-45232'] |
 | scuecs/Log4jRCETest | log4j漏洞测试 | https://github.com/scuecs/Log4jRCETest | ['rce'] | 1 | 2021-12-29 02:19:39+00:00 | 0 | 0 | Java | 0 | [] |
@@ -32,10 +35,11 @@
 | damit5/CVE-2020-11546 | 基于GO的exp和poc | https://github.com/damit5/CVE-2020-11546 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-12-29 07:25:26+00:00 | 0 | 0 | Go | 0 | ['CVE-2020-11546'] |
 | wuppp/apisix_dashboard_rce | None | https://github.com/wuppp/apisix_dashboard_rce | ['rce'] | 1 | 2021-12-29 07:36:39+00:00 | 0 | 1 | Python | 0 | [] |
 | Bhagwatjadhav1997/tryhackme-Solar-exploiting-log4j | Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun. | https://github.com/Bhagwatjadhav1997/tryhackme-Solar-exploiting-log4j | ['exploit'] | 1 | 2021-12-29 07:46:29+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
-| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-29 07:23:20+00:00 | 1053 | 247 | Python | 45 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-29 01:10:32+00:00 | 14164 | 2 | Python | 0 | [] |
+| d4rk30/CVE-2017-12943 | None | https://github.com/d4rk30/CVE-2017-12943 | ['cve-2 OR cve_2'] | 1 | 2021-12-29 08:02:20+00:00 | 0 | 0 | | 0 | ['CVE-2017-12943'] |
+| ccuser44/FE-Plus-Plus | FE++ is the best Roblox anti-exploit to stop filtering enabled vulnerabilities in your game! | https://github.com/ccuser44/FE-Plus-Plus | ['exploit'] | 1 | 2021-12-29 11:09:08+00:00 | 23 | 3 | Lua | 1 | [] |
+| doudoudedi/main-DIR-816_A2_Command-injection | this is router_Command injection | https://github.com/doudoudedi/main-DIR-816_A2_Command-injection | ['command injection'] | 1 | 2021-12-29 03:17:18+00:00 | 2872 | 3 | nan | 0 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-29 04:43:57+00:00 | 32255 | 1025 | Python | 377 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-12-29 02:33:54+00:00 | 204693 | 0 | JavaScript | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-29 01:10:32+00:00 | 14164 | 2 | Python | 0 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-29 00:29:26+00:00 | 12451 | 4204 | Python | 596 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-29 07:20:30+00:00 | 3508 | 86 | Go | 7 | [] |
 | Freshnuts/blacknurse_DOS | blacknurse attack POC | https://github.com/Freshnuts/blacknurse_DOS | ['attack poc'] | 1 | 2021-12-29 02:34:54+00:00 | 16 | 4 | Python | 4 | [] |
@@ -43,6 +47,7 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-29 00:16:55+00:00 | 214273 | 261 | Ruby | 78 | [] |
 | audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2021-12-29 00:36:30+00:00 | 8102 | 0 | Rich Text Format | 1 | [] |
 | bahaabdelwahed/killshot | A Penetration Testing Framework, Information gathering tool & Website Vulnerability Scanner | https://github.com/bahaabdelwahed/killshot | ['exploit'] | 1 | 2021-12-29 04:19:46+00:00 | 40 | 304 | Ruby | 103 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-12-29 10:59:47+00:00 | 603 | 119 | Julia | 23 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-29 03:28:11+00:00 | 35379 | 6258 | Vue | 1331 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-29 09:56:03+00:00 | 63860 | 1381 | Python | 279 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-29 00:46:00+00:00 | 13724 | 24 | | 17 | [] |
@@ -54,11 +59,14 @@
 | chacka0101/exploits | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | ['exploit'] | 1 | 2021-12-29 04:40:18+00:00 | 72557 | 17 | Shell | 11 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-12-29 08:01:45+00:00 | 9809 | 1943 | Go | 308 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-29 00:04:07+00:00 | 446406 | 40 | | 20 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-12-29 01:03:35+00:00 | 6061 | 113 | Python | 39 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-12-29 01:03:35+00:00 | 6049 | 113 | Python | 39 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-29 00:55:26+00:00 | 101 | 0 | PHP | 0 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2021-12-29 01:35:34+00:00 | 241 | 5 | Python | 0 | [] |
 | CamHenlin/coprocessor.js | serial-based, nodejs-backed, remote code execution system | https://github.com/CamHenlin/coprocessor.js | ['remote code execution'] | 1 | 2021-12-29 06:52:23+00:00 | 19 | 4 | JavaScript | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-29 01:56:54+00:00 | 794 | 44 | Python | 9 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-29 04:55:05+00:00 | 60945 | 263 | Python | 79 | [] |
 | badd1e/Pwn | Advanced exploits that I wrote for Pwn2Own competitions and other occasions | https://github.com/badd1e/Pwn | ['exploit'] | 1 | 2021-12-29 10:19:48+00:00 | 7081 | 13 | HTML | 1 | [] |
-| d4rk30/CVE-2017-12943 | None | https://github.com/d4rk30/CVE-2017-12943 | ['cve-2 OR cve_2'] | 1 | 2021-12-29 08:02:20+00:00 | 0 | 0 | | 0 | ['CVE-2017-12943'] |
+| brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2021-12-29 11:08:39+00:00 | 337 | 180 | Python | 35 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-12-29 02:33:54+00:00 | 204693 | 0 | JavaScript | 0 | [] |
+| Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2021-12-29 11:14:50+00:00 | 1146 | 1 | Lua | 0 | [] |
+| OrbxGit/Orbx-Library | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | ['exploit'] | 1 | 2021-12-29 11:32:28+00:00 | 0 | 0 | C# | 0 | [] |
