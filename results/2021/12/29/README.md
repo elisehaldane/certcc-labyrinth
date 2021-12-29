@@ -1,24 +1,25 @@
 
 # Summary for results/2021/12/29
     
-51 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-29 06:37:53+00:00 | 669124 | 25963 | Ruby | 11858 | [] |
-| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-29 04:08:13+00:00 | 85 | 1 | Rust | 0 | [] |
+| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-29 07:23:20+00:00 | 1053 | 247 | Python | 45 | [] |
 | Jun-5heng/CNVD-2021-49104 | 泛微E-Office9 文件上传GetShell / Code By:Jun_sheng | https://github.com/Jun-5heng/CNVD-2021-49104 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-12-29 05:42:51+00:00 | 7 | 0 | Python | 3 | ['CNVD-2021-49104'] |
 | jmpshell/BinEx | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2021-12-29 02:17:27+00:00 | 6212 | 1 | C++ | 0 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-29 01:40:01+00:00 | 5016 | 676 | Java | 135 | ['CVE-2021-44228'] |
 | Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2021-12-29 01:29:32+00:00 | 467 | 679 | Python | 121 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-29 03:55:16+00:00 | 37 | 3 | | 1 | ['CVE-2021-44228'] |
+| ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2021-12-29 09:01:24+00:00 | 4 | 0 | Go | 0 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-29 06:34:47+00:00 | 191 | 2 | C++ | 1 | [] |
 | SummerOs/FPT-Router-RCE | G-97RG6M and G-97RG3 Remote Command Execution | https://github.com/SummerOs/FPT-Router-RCE | ['rce'] | 1 | 2021-12-29 07:25:17+00:00 | 4 | 1 | | 0 | [] |
 | dragonchamp01/iron_lion | Full scan plus exploit program with html output and database support | https://github.com/dragonchamp01/iron_lion | ['exploit'] | 1 | 2021-12-29 05:26:49+00:00 | 14 | 0 | Java | 0 | [] |
 | johnnyodonnell/MetasploitThePenetrationTestersGuide | Notes from the book "Metasploit: The Penetration Tester's Guide" | https://github.com/johnnyodonnell/MetasploitThePenetrationTestersGuide | ['metasploit module OR payload'] | 1 | 2021-12-29 04:14:06+00:00 | 0 | 0 | | 0 | [] |
 | exp1orer/JNDI-Inject-Exploit | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | ['exploit'] | 1 | 2021-12-29 02:41:28+00:00 | 78 | 129 | Java | 53 | [] |
+| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-29 04:08:13+00:00 | 85 | 1 | Rust | 0 | [] |
 | klezVirus/vortex | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | ['exploit'] | 1 | 2021-12-29 08:23:09+00:00 | 45700 | 84 | Python | 8 | [] |
-| 0x0021h/expbox | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-12-29 07:23:20+00:00 | 1053 | 247 | Python | 45 | [] |
 | dyeoell/Ethical-Hacking | demonstrate your ability to scan a computer for vulnerabilities, analyze those vulnerabilities for exploitability, execute exploits against a target computer, and create persistence. | https://github.com/dyeoell/Ethical-Hacking | ['exploit'] | 1 | 2021-12-29 00:34:21+00:00 | 0 | 0 | | 0 | [] |
 | Ilovewomen/cve-2021-45232 | None | https://github.com/Ilovewomen/cve-2021-45232 | ['cve-2 OR cve_2'] | 1 | 2021-12-29 01:01:17+00:00 | 0 | 0 | | 0 | ['CVE-2021-45232'] |
 | scuecs/Log4jRCETest | log4j漏洞测试 | https://github.com/scuecs/Log4jRCETest | ['rce'] | 1 | 2021-12-29 02:19:39+00:00 | 0 | 0 | Java | 0 | [] |
@@ -32,7 +33,7 @@
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-29 02:58:31+00:00 | 558 | 12 | Python | 2 | [] |
 | doudoudedi/main-DIR-816_A2_Command-injection | this is router_Command injection | https://github.com/doudoudedi/main-DIR-816_A2_Command-injection | ['command injection'] | 1 | 2021-12-29 03:17:18+00:00 | 2872 | 3 | nan | 0 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2021-12-29 04:43:57+00:00 | 32255 | 1025 | Python | 377 | [] |
-| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-12-29 04:32:43+00:00 | 1697 | 259 | C | 10 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-29 01:10:32+00:00 | 14164 | 2 | Python | 0 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-12-29 00:29:26+00:00 | 12451 | 4204 | Python | 596 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-29 07:20:30+00:00 | 3508 | 86 | Go | 7 | [] |
 | Freshnuts/blacknurse_DOS | blacknurse attack POC | https://github.com/Freshnuts/blacknurse_DOS | ['attack poc'] | 1 | 2021-12-29 02:34:54+00:00 | 16 | 4 | Python | 4 | [] |
@@ -43,10 +44,11 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-12-29 03:28:11+00:00 | 35379 | 6258 | Vue | 1331 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-29 00:46:00+00:00 | 13724 | 24 | | 17 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-29 08:41:22+00:00 | 1168 | 0 | Python | 0 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-12-29 04:32:43+00:00 | 1697 | 259 | C | 10 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-29 04:15:55+00:00 | 18106 | 611 | Go | 131 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-29 01:10:32+00:00 | 14164 | 2 | Python | 0 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-12-29 08:30:23+00:00 | 1419 | 604 | Java | 72 | [] |
 | chacka0101/exploits | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | ['exploit'] | 1 | 2021-12-29 04:40:18+00:00 | 72557 | 17 | Shell | 11 | [] |
+| cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-12-29 08:01:45+00:00 | 9809 | 1943 | Go | 308 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-29 00:04:07+00:00 | 446406 | 40 | | 20 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-12-29 01:03:35+00:00 | 6061 | 113 | Python | 39 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-12-29 00:55:26+00:00 | 101 | 0 | PHP | 0 | [] |
