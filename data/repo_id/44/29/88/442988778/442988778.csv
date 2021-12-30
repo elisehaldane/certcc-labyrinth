@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+442988778,HelloLyfing/log4j2-rce-202112-poc,src/main/resources/marshalsec-0.0.3-SNAPSHOT-all.jar,7938cfe54dbcea0ec3b26fba065cb252bfd6e17b,VU#03
+442988778,HelloLyfing/log4j2-rce-202112-poc,src/main/resources/marshalsec-0.0.3-SNAPSHOT-all.jar,7938cfe54dbcea0ec3b26fba065cb252bfd6e17b,VU#23
+442988778,HelloLyfing/log4j2-rce-202112-poc,src/main/resources/marshalsec-0.0.3-SNAPSHOT-all.jar,7938cfe54dbcea0ec3b26fba065cb252bfd6e17b,VU#68
+442988778,HelloLyfing/log4j2-rce-202112-poc,src/main/resources/marshalsec-0.0.3-SNAPSHOT-all.jar,7938cfe54dbcea0ec3b26fba065cb252bfd6e17b,VU#80
+442988778,HelloLyfing/log4j2-rce-202112-poc,src/main/resources/marshalsec-0.0.3-SNAPSHOT-all.jar,7938cfe54dbcea0ec3b26fba065cb252bfd6e17b,VU#83
