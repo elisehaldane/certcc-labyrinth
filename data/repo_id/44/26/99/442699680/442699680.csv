@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+442699680,cckuailong/log4j_RCE_CVE-2021-44832,README.md,671ff36a9d45cac277cb6101a60cb1a4a957ebf3,CVE-2021-44832
+442699680,cckuailong/log4j_RCE_CVE-2021-44832,_GITHUB_REPO_METADATA_,,CVE-2021-44832
