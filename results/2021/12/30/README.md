@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/30
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-30 01:46:10+00:00 | 21861 | 6243 | JavaScript | 1469 | [] |
-| doudoudedi/D-LINK_Command_Injection1 | nan | https://github.com/doudoudedi/D-LINK_Command_Injection1 | ['command injection'] | 1 | 2021-12-30 07:40:36+00:00 | 614 | 0 | nan | 0 | [] |
+| HauLiang/FFT-DFISTA-and-FFT-DADMM | High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map | https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM | ['exploit'] | 1 | 2021-12-30 09:25:24+00:00 | 16 | 3 | MATLAB | 0 | [] |
 | Banaanae/exploits | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-30 01:19:15+00:00 | 147 | 0 | Lua | 0 | [] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2021-12-30 00:56:19+00:00 | 39 | 0 | C++ | 0 | [] |
 | w4nd3r-hya/log4j_rce | log4j_rce | https://github.com/w4nd3r-hya/log4j_rce | ['rce'] | 1 | 2021-12-30 08:18:23+00:00 | 8854 | 1 | Java | 0 | [] |
@@ -14,10 +14,11 @@
 | fireeye/CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-30 04:21:13+00:00 | 23 | 38 | | 4 | ['CVE-2021-44228'] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-30 04:08:19+00:00 | 43 | 4 | | 1 | ['CVE-2021-44228'] |
 | anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | A one-stop repo/ information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-30 02:18:51+00:00 | 458 | 0 | Shell | 1 | ['CVE-2021-44228'] |
+| vsegdacocacola/Log4jExploitPayloadExtractor | None | https://github.com/vsegdacocacola/Log4jExploitPayloadExtractor | ['exploit'] | 1 | 2021-12-30 10:42:36+00:00 | 324 | 0 | Python | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-30 03:51:27+00:00 | 254 | 1 | Python | 1 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-30 07:14:38+00:00 | 257 | 2 | C++ | 1 | [] |
+| doudoudedi/D-LINK_Command_Injection1 | nan | https://github.com/doudoudedi/D-LINK_Command_Injection1 | ['command injection'] | 1 | 2021-12-30 07:40:36+00:00 | 614 | 0 | nan | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2021-12-30 02:14:45+00:00 | 61 | 3 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-30 00:06:50+00:00 | 1534771 | 1546 | Python | 524 | [] |
 | ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2021-12-30 08:22:43+00:00 | 7385 | 1 | C++ | 0 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-30 06:22:50+00:00 | 108 | 4 | Rust | 2 | [] |
 | 0x80000000/DodaVPN-Exploit-PoC | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-12-30 00:11:59+00:00 | 0 | 0 | Python | 0 | [] |
@@ -28,9 +29,9 @@
 | ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2021-12-30 04:46:07+00:00 | 0 | 0 | nan | 0 | [] |
 | HelloLyfing/log4j2-rce-202112-poc | None | https://github.com/HelloLyfing/log4j2-rce-202112-poc | ['rce', 'rce poc'] | 2 | 2021-12-30 06:40:32+00:00 | 0 | 0 | Java | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-12-30 05:46:39+00:00 | 1049 | 322 | JavaScript | 803 | [] |
-| HauLiang/FFT-DFISTA-and-FFT-DADMM | High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map | https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM | ['exploit'] | 1 | 2021-12-30 09:25:24+00:00 | 16 | 3 | MATLAB | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-30 01:10:55+00:00 | 7079 | 2 | Python | 0 | [] |
-| ByHuaiNian/exploit_verify_tools | 基于JavaFx编写的C/S图形化界面漏洞验证工具集。现为测试版，静待更新！ | https://github.com/ByHuaiNian/exploit_verify_tools | ['exploit'] | 1 | 2021-12-30 03:19:44+00:00 | 50 | 4 | Java | 3 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-30 00:06:50+00:00 | 1534771 | 1546 | Python | 524 | [] |
+| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-12-30 10:15:34+00:00 | 1812 | 7 | Python | 3 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-30 00:16:57+00:00 | 214274 | 262 | Ruby | 78 | [] |
 | audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2021-12-30 01:02:43+00:00 | 8114 | 0 | Rich Text Format | 1 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-12-30 00:58:08+00:00 | 614 | 119 | Julia | 23 | [] |
@@ -39,6 +40,7 @@
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-30 02:26:41+00:00 | 18151 | 619 | Go | 133 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-12-30 01:14:26+00:00 | 1096 | 92 | Shell | 47 | [] |
 | ExoticN01/Vector | Roblox Exploit with various custom function. Stable and Free to use. | https://github.com/ExoticN01/Vector | ['exploit'] | 1 | 2021-12-30 05:56:18+00:00 | 61 | 0 | | 1 | [] |
+| samolego/GolfIV | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | ['exploit'] | 1 | 2021-12-30 10:07:33+00:00 | 1172 | 31 | Java | 5 | [] |
 | jm33-m0/static-bins | statically linked post-exploitation tools for linux | https://github.com/jm33-m0/static-bins | ['exploit'] | 1 | 2021-12-30 08:42:41+00:00 | 44648 | 4 | Shell | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-30 00:03:44+00:00 | 450201 | 40 | | 20 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-12-30 06:33:44+00:00 | 290438 | 769 | | 170 | [] |
@@ -50,4 +52,5 @@
 | forrest-orr/Exploits | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | ['cve poc', 'exploit', 'shellcode'] | 3 | 2021-12-30 01:29:21+00:00 | 4061 | 7 | C | 0 | [] |
 | nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-12-30 08:04:12+00:00 | 2097 | 0 | | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-12-30 06:40:44+00:00 | 16681 | 350 | Go | 49 | [] |
+| ByHuaiNian/exploit_verify_tools | 基于JavaFx编写的C/S图形化界面漏洞验证工具集。现为测试版，静待更新！ | https://github.com/ByHuaiNian/exploit_verify_tools | ['exploit'] | 1 | 2021-12-30 03:19:44+00:00 | 50 | 4 | Java | 3 | [] |
 | aroun/MikrotikSploit | None | https://github.com/aroun/MikrotikSploit | ['sploit'] | 1 | 2021-12-30 07:46:13+00:00 | 0 | 0 | Python | 0 | [] |
