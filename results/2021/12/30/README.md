@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/30
     
-114 records found after deduplication
+115 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -34,7 +34,7 @@
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-30 04:08:19+00:00 | 43 | 4 | | 1 | ['CVE-2021-44228'] |
 | NewDevish/Exploit | None | https://github.com/NewDevish/Exploit | ['exploit'] | 1 | 2021-12-30 11:23:41+00:00 | 6 | 0 | | 0 | [] |
 | 0x80000000/DodaVPN-Exploit-PoC | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-12-30 00:11:59+00:00 | 0 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-30 01:46:10+00:00 | 21861 | 6243 | JavaScript | 1469 | [] |
+| hupe1980/scan4log4shell | Scanner to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability and to detect vulnerable log4j versions on your local file-system | https://github.com/hupe1980/scan4log4shell | ['rce'] | 1 | 2021-12-30 12:54:05+00:00 | 3322 | 9 | Go | 2 | [] |
 | SiRachmad/RCETypescript | RCETypescript(Runtime Create Element Typescript) demonstrasi pembuatan list secara runtime | https://github.com/SiRachmad/RCETypescript | ['rce'] | 1 | 2021-12-30 00:49:02+00:00 | 0 | 0 | | 0 | [] |
 | DanielRuf/CVE-2021-44832 | CVE-2021-44832 | https://github.com/DanielRuf/CVE-2021-44832 | ['cve-2 OR cve_2'] | 1 | 2021-12-30 20:28:38+00:00 | 0 | 0 | | 0 | ['CVE-2021-44832'] |
 | exploit6ix9ine/exploit6ix9ine | Config files for my GitHub profile. | https://github.com/exploit6ix9ine/exploit6ix9ine | ['exploit'] | 1 | 2021-12-30 20:10:39+00:00 | 0 | 0 | | 0 | [] |
@@ -61,10 +61,10 @@
 | Koi0x/HEVD-WIndows-Kernel-Exploit- | C based windows kernel exploit | https://github.com/Koi0x/HEVD-WIndows-Kernel-Exploit- | ['exploit'] | 1 | 2021-12-30 03:41:07+00:00 | 0 | 0 | C | 0 | [] |
 | Mr-Anonymous002/Shellcode-Encryptor | None | https://github.com/Mr-Anonymous002/Shellcode-Encryptor | ['shellcode'] | 1 | 2021-12-30 03:26:34+00:00 | 0 | 0 | | 0 | [] |
 | 0xADY/git_rce | None | https://github.com/0xADY/git_rce | ['rce'] | 1 | 2021-12-30 02:48:02+00:00 | 0 | 0 | Batchfile | 0 | [] |
-| hupe1980/scan4log4shell | Scanner to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability and to detect vulnerable log4j versions on your local file-system | https://github.com/hupe1980/scan4log4shell | ['rce'] | 1 | 2021-12-30 12:54:05+00:00 | 3322 | 9 | Go | 2 | [] |
+| mc-17/pspack-flask | pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | ['exploit'] | 1 | 2021-12-30 21:20:31+00:00 | 1555 | 26 | JavaScript | 17 | [] |
 | fullhunt/log4j-scan | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | https://github.com/fullhunt/log4j-scan | ['rce'] | 1 | 2021-12-30 13:20:50+00:00 | 89 | 2464 | Python | 573 | ['CVE-2021-44228'] |
-| fireeye/CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-30 04:21:13+00:00 | 23 | 38 | | 4 | ['CVE-2021-44228'] |
-| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-30 06:34:53+00:00 | 11790 | 142 | Python | 31 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-30 01:46:10+00:00 | 21861 | 6243 | JavaScript | 1469 | [] |
+| forrest-orr/Exploits | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | ['cve poc', 'exploit', 'shellcode'] | 3 | 2021-12-30 01:29:21+00:00 | 4061 | 7 | C | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-30 02:33:43+00:00 | 368591 | 766 | TypeScript | 103 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-12-30 01:56:14+00:00 | 848 | 44 | Python | 9 | [] |
 | NS-Sp4ce/CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-12-30 12:26:11+00:00 | 500 | 331 | Python | 131 | ['CVE-2021-21972'] |
@@ -91,9 +91,10 @@
 | robertdebock/mirror | A (Docker) application to mirror any website. | https://github.com/robertdebock/mirror | ['shellcode'] | 1 | 2021-12-30 15:47:30+00:00 | 33 | 13 | Shell | 3 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-30 00:06:50+00:00 | 1534771 | 1546 | Python | 524 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-30 04:00:30+00:00 | 63182 | 263 | Python | 79 | [] |
-| forrest-orr/Exploits | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | ['cve poc', 'exploit', 'shellcode'] | 3 | 2021-12-30 01:29:21+00:00 | 4061 | 7 | C | 0 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2021-12-30 12:51:48+00:00 | 338 | 181 | Python | 35 | [] |
-| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-30 10:41:31+00:00 | 139 | 0 | Java | 0 | [] |
+| fireeye/CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-30 04:21:13+00:00 | 23 | 38 | | 4 | ['CVE-2021-44228'] |
+| nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-12-30 08:04:12+00:00 | 2097 | 0 | | 0 | [] |
+| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2021-12-30 06:34:53+00:00 | 11790 | 142 | Python | 31 | [] |
 | T-Dynamos/Distruct-X | The advance virus creater written in python with templates and custom viruses injected with metasploit | https://github.com/T-Dynamos/Distruct-X | ['metasploit module OR payload'] | 1 | 2021-12-30 17:01:56+00:00 | 22029 | 9 | Smali | 2 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-12-30 16:51:06+00:00 | 5067 | 685 | Java | 138 | ['CVE-2021-44228'] |
 | w4nd3r-hya/log4j_rce | log4j_rce | https://github.com/w4nd3r-hya/log4j_rce | ['rce'] | 1 | 2021-12-30 08:18:23+00:00 | 8854 | 1 | Java | 0 | [] |
@@ -105,8 +106,8 @@
 | bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2021-12-30 20:15:06+00:00 | 237 | 1 | Go | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-12-30 14:16:51+00:00 | 608 | 14 | Python | 2 | [] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2021-12-30 16:07:00+00:00 | 15 | 2 | Python | 0 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2021-12-30 10:41:31+00:00 | 139 | 0 | Java | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2021-12-30 18:19:07+00:00 | 243 | 0 | TypeScript | 3 | [] |
-| nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-12-30 08:04:12+00:00 | 2097 | 0 | | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2021-12-30 18:10:15+00:00 | 95 | 5 | | 0 | [] |
 | BuriedInTheGround/pigowa | Go interface for using p5.js in the browser, exploiting the power of WebAssembly. | https://github.com/BuriedInTheGround/pigowa | ['exploit'] | 1 | 2021-12-30 17:29:03+00:00 | 12 | 0 | Go | 0 | [] |
 | Banaanae/exploits | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | ['exploit'] | 1 | 2021-12-30 01:19:15+00:00 | 147 | 0 | Lua | 0 | [] |
