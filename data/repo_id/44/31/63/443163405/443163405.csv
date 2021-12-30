@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+443163405,MarceloLeite2604/log4j-vulnerability,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,6b93c7f7798fb192d998c5e69bfe44d8979b0bae,VU#03
+443163405,MarceloLeite2604/log4j-vulnerability,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,6b93c7f7798fb192d998c5e69bfe44d8979b0bae,VU#23
+443163405,MarceloLeite2604/log4j-vulnerability,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,6b93c7f7798fb192d998c5e69bfe44d8979b0bae,VU#68
+443163405,MarceloLeite2604/log4j-vulnerability,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,6b93c7f7798fb192d998c5e69bfe44d8979b0bae,VU#80
+443163405,MarceloLeite2604/log4j-vulnerability,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,6b93c7f7798fb192d998c5e69bfe44d8979b0bae,VU#83
+443163405,MarceloLeite2604/log4j-vulnerability,vulnerable-service/pom.xml,7877c8837ba346e365d6eb8e08ec37081450cee9,CVE-2021-44228
+443163405,MarceloLeite2604/log4j-vulnerability,_GITHUB_REPO_METADATA_,,CVE-2021-44228
