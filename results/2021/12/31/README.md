@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/31
     
-29 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-31 00:43:55+00:00 | 22362 | 6244 | JavaScript | 1469 | [] |
-| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2021-12-31 06:57:54+00:00 | 0 | 1 | Python | 0 | [] |
+| cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-12-31 10:18:36+00:00 | 7978 | 21 | HTML | 9 | [] |
 | k3rwin/shellcode-bypass-go | go语言免杀shellcode | https://github.com/k3rwin/shellcode-bypass-go | ['shellcode'] | 1 | 2021-12-31 09:23:18+00:00 | 0 | 1 | Go | 0 | [] |
 | crowdv/fivem-lua-exploits | None | https://github.com/crowdv/fivem-lua-exploits | ['exploit'] | 1 | 2021-12-31 06:39:15+00:00 | 0 | 0 | Lua | 0 | [] |
 | Haruster/Haruster-CVE-Note | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | ['exploit'] | 1 | 2021-12-31 03:57:29+00:00 | 0 | 1 | | 0 | [] |
@@ -19,10 +19,13 @@
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-31 00:00:21+00:00 | 46 | 4 | | 1 | ['CVE-2021-44228'] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2021-12-31 04:18:33+00:00 | 39 | 0 | C++ | 0 | [] |
 | MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-31 03:20:14+00:00 | 70 | 0 | C | 0 | [] |
+| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2021-12-31 06:57:54+00:00 | 0 | 1 | Python | 0 | [] |
+| hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-31 10:21:51+00:00 | 10077 | 1 | Shell | 0 | [] |
 | Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-12-31 03:51:10+00:00 | 796 | 5 | | 1 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-31 00:06:51+00:00 | 1534772 | 1547 | Python | 525 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-31 01:13:38+00:00 | 8073 | 2 | Python | 0 | [] |
 | NoTelling/obf-scripts | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | ['exploit'] | 1 | 2021-12-31 00:17:10+00:00 | 345 | 1 | Lua | 0 | [] |
+| bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['vulnerability poc'] | 1 | 2021-12-31 10:03:24+00:00 | 6596 | 281 | Python | 53 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-31 04:40:18+00:00 | 64311 | 268 | Python | 81 | [] |
 | satoki/tyranokiller | 👻 [PoC] TyranoScript 5.11d - Arbitrary Code Execution (0day) | https://github.com/satoki/tyranokiller | ['0day', 'exploit'] | 2 | 2021-12-31 06:53:56+00:00 | 3294 | 1 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-31 00:03:56+00:00 | 437819 | 40 | | 20 | [] |
@@ -33,4 +36,5 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-31 06:34:33+00:00 | 63883 | 1386 | Python | 280 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-31 00:17:05+00:00 | 214274 | 263 | Ruby | 78 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-31 02:28:30+00:00 | 3603 | 86 | Go | 7 | [] |
+| cirosantilli/china-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2021-12-31 10:18:42+00:00 | 36242 | 703 | HTML | 131 | [] |
 | lua-god/proxy-api | Sample API for Proxy Exploits | https://github.com/lua-god/proxy-api | ['exploit'] | 1 | 2021-12-31 09:41:25+00:00 | 0 | 0 | Python | 0 | [] |
