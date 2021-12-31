@@ -1,12 +1,13 @@
 
 # Summary for results/2021/12/30
     
-123 records found after deduplication
+124 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-12-30 18:15:45+00:00 | 669412 | 25977 | Ruby | 11862 | [] |
-| SiRachmad/RCETypescript | RCETypescript(Runtime Create Element Typescript) demonstrasi pembuatan list secara runtime | https://github.com/SiRachmad/RCETypescript | ['rce'] | 1 | 2021-12-30 00:49:02+00:00 | 0 | 0 | | 0 | [] |
+| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2021-12-30 08:22:43+00:00 | 7385 | 1 | C++ | 0 | [] |
+| 0x80000000/DodaVPN-Exploit-PoC | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-12-30 00:11:59+00:00 | 0 | 0 | Python | 0 | [] |
 | mcampetta/t8012-DTS | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren't shorting out li | https://github.com/mcampetta/t8012-DTS | ['exploit'] | 1 | 2021-12-30 22:16:25+00:00 | 4085 | 0 | Python | 0 | [] |
 | Zebratic/UE4Injector | Unreal Engine 4 vulnerability, that allows you to run shellcode directly into the target game process, to load any DLL undetected from most game anti cheats, such as Easy Anti Cheat, BattleEye, Ricochet, Vanguard, ATG, and more. | https://github.com/Zebratic/UE4Injector | ['shellcode'] | 1 | 2021-12-30 13:42:39+00:00 | 53891 | 3 | C++ | 1 | [] |
 | NewDevish/Exploit | None | https://github.com/NewDevish/Exploit | ['exploit'] | 1 | 2021-12-30 11:23:41+00:00 | 6 | 0 | | 0 | [] |
@@ -19,8 +20,8 @@
 | s-retlaw/l4s_poc | Log4Shell (Cve-2021-44228) Proof Of Concept | https://github.com/s-retlaw/l4s_poc | ['cve poc'] | 1 | 2021-12-30 14:26:23+00:00 | 24 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | AbuExploiter/Abu-Exploiter | None | https://github.com/AbuExploiter/Abu-Exploiter | ['exploit'] | 1 | 2021-12-30 11:42:31+00:00 | 3 | 0 | | 0 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-30 06:22:50+00:00 | 108 | 4 | Rust | 2 | [] |
-| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2021-12-30 08:22:43+00:00 | 7385 | 1 | C++ | 0 | [] |
 | 0RaMsY0/ramsy | Exploitation Tool | https://github.com/0RaMsY0/ramsy | ['exploit'] | 1 | 2021-12-30 20:11:59+00:00 | 14 | 1 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-30 01:46:10+00:00 | 21861 | 6243 | JavaScript | 1469 | [] |
 | ItzFinleyPlayz/RC-Exploit | None | https://github.com/ItzFinleyPlayz/RC-Exploit | ['exploit'] | 1 | 2021-12-30 12:41:35+00:00 | 1 | 0 | | 0 | [] |
 | morphean-sec/Ethernaut-exploit-codes | A collection of the solidity exploits I wrote as I worked through OpenZeppelin's ethernaut. | https://github.com/morphean-sec/Ethernaut-exploit-codes | ['exploit'] | 1 | 2021-12-30 15:21:45+00:00 | 7 | 1 | Solidity | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2021-12-30 02:14:45+00:00 | 61 | 3 | | 0 | [] |
@@ -34,10 +35,11 @@
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2021-12-30 07:14:38+00:00 | 257 | 2 | C++ | 1 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-30 03:51:27+00:00 | 254 | 1 | Python | 1 | [] |
 | vsegdacocacola/Log4jExploitPayloadExtractor | None | https://github.com/vsegdacocacola/Log4jExploitPayloadExtractor | ['exploit'] | 1 | 2021-12-30 10:42:36+00:00 | 324 | 0 | Python | 0 | [] |
-| 0x80000000/DodaVPN-Exploit-PoC | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-12-30 00:11:59+00:00 | 0 | 0 | Python | 0 | [] |
+| SiRachmad/RCETypescript | RCETypescript(Runtime Create Element Typescript) demonstrasi pembuatan list secara runtime | https://github.com/SiRachmad/RCETypescript | ['rce'] | 1 | 2021-12-30 00:49:02+00:00 | 0 | 0 | | 0 | [] |
 | 0xADY/git_rce | None | https://github.com/0xADY/git_rce | ['rce'] | 1 | 2021-12-30 02:48:02+00:00 | 0 | 0 | Batchfile | 0 | [] |
-| aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | None | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | ['cve-2 OR cve_2'] | 1 | 2021-12-30 11:58:55+00:00 | 869 | 82 | Shell | 14 | ['CVE-2021-44228'] |
 | Mr-Anonymous002/Shellcode-Encryptor | None | https://github.com/Mr-Anonymous002/Shellcode-Encryptor | ['shellcode'] | 1 | 2021-12-30 03:26:34+00:00 | 0 | 0 | | 0 | [] |
+| Koi0x/HEVD-WIndows-Kernel-Exploit- | C based windows kernel exploit | https://github.com/Koi0x/HEVD-WIndows-Kernel-Exploit- | ['exploit'] | 1 | 2021-12-30 03:41:07+00:00 | 0 | 0 | C | 0 | [] |
+| Mohamed-Adil-Cyber/Shellcode_Address_formatter | simple python program that takes memory address and formats as shellcode to be easily used inside a payload | https://github.com/Mohamed-Adil-Cyber/Shellcode_Address_formatter | ['shellcode'] | 1 | 2021-12-30 23:16:42+00:00 | 0 | 0 | Python | 0 | [] |
 | amouchere/log4shell-exploit | Demo project for Log4Shell exploit | https://github.com/amouchere/log4shell-exploit | ['exploit'] | 1 | 2021-12-30 22:24:11+00:00 | 0 | 0 | | 0 | [] |
 | Nosferatuvjr/Exploit-JWT | Exploit feito em js para escalação de privilégios em aplicações web que utilizem JWT. | https://github.com/Nosferatuvjr/Exploit-JWT | ['exploit'] | 1 | 2021-12-30 22:14:47+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | OverlordDuck/exploitdls | Download exploits from exploit db using command line in kali | https://github.com/OverlordDuck/exploitdls | ['exploit'] | 1 | 2021-12-30 22:09:07+00:00 | 0 | 0 | | 0 | [] |
@@ -64,10 +66,9 @@
 | aroun/MikrotikSploit | None | https://github.com/aroun/MikrotikSploit | ['sploit'] | 1 | 2021-12-30 07:46:13+00:00 | 0 | 0 | Python | 0 | [] |
 | HelloLyfing/log4j2-rce-202112-poc | None | https://github.com/HelloLyfing/log4j2-rce-202112-poc | ['rce', 'rce poc'] | 2 | 2021-12-30 06:40:32+00:00 | 0 | 0 | Java | 0 | [] |
 | ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2021-12-30 04:46:07+00:00 | 0 | 0 | nan | 0 | [] |
-| Koi0x/HEVD-WIndows-Kernel-Exploit- | C based windows kernel exploit | https://github.com/Koi0x/HEVD-WIndows-Kernel-Exploit- | ['exploit'] | 1 | 2021-12-30 03:41:07+00:00 | 0 | 0 | C | 0 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2021-12-30 14:16:44+00:00 | 84 | 0 | | 0 | [] |
+| aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | None | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | ['cve-2 OR cve_2'] | 1 | 2021-12-30 11:58:55+00:00 | 869 | 82 | Shell | 14 | ['CVE-2021-44228'] |
 | anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | A one-stop repo/ information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-30 02:18:51+00:00 | 458 | 0 | Shell | 1 | ['CVE-2021-44228'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-30 01:46:10+00:00 | 21861 | 6243 | JavaScript | 1469 | [] |
 | nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-12-30 08:04:12+00:00 | 2097 | 0 | | 0 | [] |
 | forrest-orr/Exploits | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | ['cve poc', 'exploit', 'shellcode'] | 3 | 2021-12-30 01:29:21+00:00 | 4061 | 7 | C | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-30 04:00:30+00:00 | 63182 | 263 | Python | 79 | [] |
@@ -127,4 +128,4 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-30 01:10:55+00:00 | 7079 | 2 | Python | 0 | [] |
 | cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-12-30 10:15:34+00:00 | 1812 | 7 | Python | 3 | [] |
 | kleiton0x00/ppmap | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | ['exploit'] | 1 | 2021-12-30 19:29:19+00:00 | 59 | 273 | Go | 36 | [] |
-| Mohamed-Adil-Cyber/Shellcode_Address_formatter | simple python program that takes memory address and formats as shellcode to be easily used inside a payload | https://github.com/Mohamed-Adil-Cyber/Shellcode_Address_formatter | ['shellcode'] | 1 | 2021-12-30 23:16:42+00:00 | 0 | 0 | Python | 0 | [] |
+| CowChocoxd/Milky-Hub | Roblox Exploit using WRD api. Newly realeased. | https://github.com/CowChocoxd/Milky-Hub | ['exploit'] | 1 | 2021-12-30 23:51:22+00:00 | 8371 | 0 | | 0 | [] |
