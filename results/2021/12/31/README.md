@@ -1,12 +1,12 @@
 
 # Summary for results/2021/12/31
     
-19 records found after deduplication
+20 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-31 00:43:55+00:00 | 22362 | 6244 | JavaScript | 1469 | [] |
-| Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-12-31 03:51:10+00:00 | 796 | 5 | | 1 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-31 00:06:51+00:00 | 1534772 | 1547 | Python | 525 | [] |
 | MarceloLeite2604/log4j-vulnerability | Presents how to exploit CVE-2021-44228 vulnerability. | https://github.com/MarceloLeite2604/log4j-vulnerability | ['exploit'] | 1 | 2021-12-31 04:20:23+00:00 | 37762 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | mcampetta/t8012-DTS | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren't shorting out li | https://github.com/mcampetta/t8012-DTS | ['exploit'] | 1 | 2021-12-31 00:10:57+00:00 | 4100 | 0 | Python | 0 | [] |
 | linshaoSec/SeeyonExploit-GUI | 致远OA综合利用工具 | https://github.com/linshaoSec/SeeyonExploit-GUI | ['exploit'] | 1 | 2021-12-31 02:39:22+00:00 | 4540 | 22 | | 8 | [] |
@@ -14,12 +14,13 @@
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-31 00:00:21+00:00 | 46 | 4 | nan | 1 | ['CVE-2021-44228'] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2021-12-31 04:18:33+00:00 | 39 | 0 | C++ | 0 | [] |
 | MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-31 03:20:14+00:00 | 70 | 0 | C | 0 | [] |
+| Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-12-31 03:51:10+00:00 | 796 | 5 | | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-31 01:13:38+00:00 | 8073 | 2 | Python | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-31 00:06:51+00:00 | 1534772 | 1547 | Python | 525 | [] |
 | NoTelling/obf-scripts | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | ['exploit'] | 1 | 2021-12-31 00:17:10+00:00 | 345 | 1 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-31 04:40:18+00:00 | 64311 | 268 | Python | 81 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-31 00:03:56+00:00 | 437819 | 40 | | 20 | [] |
 | S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | ['exploit'] | 1 | 2021-12-31 00:13:33+00:00 | 3734 | 2497 | | 600 | [] |
+| dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-31 05:02:21+00:00 | 2352 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-31 00:46:02+00:00 | 14305 | 24 | | 17 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-31 00:17:05+00:00 | 214274 | 263 | Ruby | 78 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-31 02:28:30+00:00 | 3603 | 86 | Go | 7 | [] |
