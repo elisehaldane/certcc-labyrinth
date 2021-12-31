@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/30
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -21,7 +21,7 @@
 | AbuExploiter/Abu-Exploiter | None | https://github.com/AbuExploiter/Abu-Exploiter | ['exploit'] | 1 | 2021-12-30 11:42:31+00:00 | 3 | 0 | | 0 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2021-12-30 06:22:50+00:00 | 108 | 4 | Rust | 2 | [] |
 | 0RaMsY0/ramsy | Exploitation Tool | https://github.com/0RaMsY0/ramsy | ['exploit'] | 1 | 2021-12-30 20:11:59+00:00 | 14 | 1 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-30 01:46:10+00:00 | 21861 | 6243 | JavaScript | 1469 | [] |
+| aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | None | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | ['cve-2 OR cve_2'] | 1 | 2021-12-30 11:58:55+00:00 | 869 | 82 | Shell | 14 | ['CVE-2021-44228'] |
 | ItzFinleyPlayz/RC-Exploit | None | https://github.com/ItzFinleyPlayz/RC-Exploit | ['exploit'] | 1 | 2021-12-30 12:41:35+00:00 | 1 | 0 | | 0 | [] |
 | morphean-sec/Ethernaut-exploit-codes | A collection of the solidity exploits I wrote as I worked through OpenZeppelin's ethernaut. | https://github.com/morphean-sec/Ethernaut-exploit-codes | ['exploit'] | 1 | 2021-12-30 15:21:45+00:00 | 7 | 1 | Solidity | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2021-12-30 02:14:45+00:00 | 61 | 3 | | 0 | [] |
@@ -67,9 +67,9 @@
 | HelloLyfing/log4j2-rce-202112-poc | None | https://github.com/HelloLyfing/log4j2-rce-202112-poc | ['rce', 'rce poc'] | 2 | 2021-12-30 06:40:32+00:00 | 0 | 0 | Java | 0 | [] |
 | ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2021-12-30 04:46:07+00:00 | 0 | 0 | nan | 0 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2021-12-30 14:16:44+00:00 | 84 | 0 | | 0 | [] |
-| aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | None | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | ['cve-2 OR cve_2'] | 1 | 2021-12-30 11:58:55+00:00 | 869 | 82 | Shell | 14 | ['CVE-2021-44228'] |
 | anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | A one-stop repo/ information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2021-12-30 02:18:51+00:00 | 458 | 0 | Shell | 1 | ['CVE-2021-44228'] |
-| nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-12-30 08:04:12+00:00 | 2097 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-30 01:46:10+00:00 | 21861 | 6243 | JavaScript | 1469 | [] |
+| 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-12-30 01:14:26+00:00 | 1096 | 92 | Shell | 47 | [] |
 | forrest-orr/Exploits | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | ['cve poc', 'exploit', 'shellcode'] | 3 | 2021-12-30 01:29:21+00:00 | 4061 | 7 | C | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-30 04:00:30+00:00 | 63182 | 263 | Python | 79 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2021-12-30 02:33:43+00:00 | 368591 | 766 | TypeScript | 103 | [] |
@@ -83,8 +83,8 @@
 | jm33-m0/static-bins | statically linked post-exploitation tools for linux | https://github.com/jm33-m0/static-bins | ['exploit'] | 1 | 2021-12-30 08:42:41+00:00 | 44648 | 4 | Shell | 4 | [] |
 | samolego/GolfIV | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | ['exploit'] | 1 | 2021-12-30 10:07:33+00:00 | 1172 | 31 | Java | 5 | [] |
 | ExoticN01/Vector | Roblox Exploit with various custom function. Stable and Free to use. | https://github.com/ExoticN01/Vector | ['exploit'] | 1 | 2021-12-30 05:56:18+00:00 | 61 | 0 | | 1 | [] |
-| 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-12-30 01:14:26+00:00 | 1096 | 92 | Shell | 47 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-12-30 17:41:16+00:00 | 39 | 0 | | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-30 04:08:19+00:00 | 43 | 4 | | 1 | ['CVE-2021-44228'] |
 | cpesr/wikidataESR | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l'ESR. | https://github.com/cpesr/wikidataESR | ['exploit'] | 1 | 2021-12-30 11:22:05+00:00 | 441274 | 10 | R | 1 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-30 02:26:41+00:00 | 18151 | 619 | Go | 133 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-30 08:36:21+00:00 | 2245 | 0 | Python | 0 | [] |
@@ -97,9 +97,10 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-30 00:16:57+00:00 | 214274 | 262 | Ruby | 78 | [] |
 | robertdebock/mirror | A (Docker) application to mirror any website. | https://github.com/robertdebock/mirror | ['shellcode'] | 1 | 2021-12-30 15:47:30+00:00 | 33 | 13 | Shell | 3 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-30 00:06:50+00:00 | 1534771 | 1546 | Python | 524 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-12-30 18:38:11+00:00 | 27111 | 8620 | Python | 1479 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2021-12-30 12:51:48+00:00 | 338 | 181 | Python | 35 | [] |
+| nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-12-30 08:04:12+00:00 | 2097 | 0 | | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-12-30 06:40:44+00:00 | 16681 | 350 | Go | 49 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-30 04:08:19+00:00 | 43 | 4 | | 1 | ['CVE-2021-44228'] |
 | ByHuaiNian/exploit_verify_tools | 基于JavaFx编写的C/S图形化界面漏洞验证工具集。现为测试版，静待更新！ | https://github.com/ByHuaiNian/exploit_verify_tools | ['exploit'] | 1 | 2021-12-30 03:19:44+00:00 | 50 | 4 | Java | 3 | [] |
 | mc-17/pspack-flask | pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | ['exploit'] | 1 | 2021-12-30 21:20:31+00:00 | 1555 | 26 | JavaScript | 17 | [] |
 | hupe1980/scan4log4shell | Scanner to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability and to detect vulnerable log4j versions on your local file-system | https://github.com/hupe1980/scan4log4shell | ['rce'] | 1 | 2021-12-30 12:54:05+00:00 | 3322 | 9 | Go | 2 | [] |
