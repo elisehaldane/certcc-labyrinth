@@ -1,18 +1,20 @@
 
 # Summary for results/2021/12/31
     
-11 records found after deduplication
+13 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-31 00:43:55+00:00 | 22362 | 6244 | JavaScript | 1469 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-31 00:06:51+00:00 | 1534772 | 1547 | Python | 525 | [] |
+| gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-31 02:28:30+00:00 | 3603 | 86 | Go | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-31 00:17:05+00:00 | 214274 | 263 | Ruby | 78 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-31 00:46:02+00:00 | 14305 | 24 | | 17 | [] |
 | S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | ['exploit'] | 1 | 2021-12-31 00:13:33+00:00 | 3734 | 2497 | | 600 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-31 00:03:56+00:00 | 437819 | 40 | | 20 | [] |
 | NoTelling/obf-scripts | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | ['exploit'] | 1 | 2021-12-31 00:17:10+00:00 | 345 | 1 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-31 01:13:38+00:00 | 8073 | 2 | Python | 0 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-31 00:00:21+00:00 | 46 | 4 | nan | 1 | ['CVE-2021-44228'] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-31 00:00:21+00:00 | 46 | 4 | | 1 | ['CVE-2021-44228'] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-31 00:00:22+00:00 | 271 | 3 | Python | 3 | [] |
+| linshaoSec/SeeyonExploit-GUI | 致远OA综合利用工具 | https://github.com/linshaoSec/SeeyonExploit-GUI | ['exploit'] | 1 | 2021-12-31 02:39:22+00:00 | 4540 | 22 | | 8 | [] |
 | mcampetta/t8012-DTS | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren't shorting out li | https://github.com/mcampetta/t8012-DTS | ['exploit'] | 1 | 2021-12-31 00:10:57+00:00 | 4100 | 0 | Python | 0 | [] |
