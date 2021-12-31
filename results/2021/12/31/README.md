@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/31
     
-49 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -23,11 +23,13 @@
 | wuppp/cve-2021-45232-exp | None | https://github.com/wuppp/cve-2021-45232-exp | ['cve-2 OR cve_2'] | 1 | 2021-12-31 08:30:33+00:00 | 163 | 28 | Python | 11 | ['CVE-2021-45232'] |
 | RealMepon/DiscordTool | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | ['exploit'] | 1 | 2021-12-31 11:22:12+00:00 | 89 | 2 | Python | 0 | [] |
 | mcampetta/t8012-DTS | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren't shorting out li | https://github.com/mcampetta/t8012-DTS | ['exploit'] | 1 | 2021-12-31 00:10:57+00:00 | 4100 | 0 | Python | 0 | [] |
+| exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-12-31 14:18:08+00:00 | 7734 | 0 | CSS | 0 | [] |
 | MarceloLeite2604/log4j-vulnerability | Presents how to exploit CVE-2021-44228 vulnerability. | https://github.com/MarceloLeite2604/log4j-vulnerability | ['exploit'] | 1 | 2021-12-31 04:20:23+00:00 | 37762 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | Haruster/Haruster-CVE-Note | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | ['exploit'] | 1 | 2021-12-31 03:57:29+00:00 | 0 | 1 | | 0 | [] |
 | crowdv/fivem-lua-exploits | None | https://github.com/crowdv/fivem-lua-exploits | ['exploit'] | 1 | 2021-12-31 06:39:15+00:00 | 0 | 0 | Lua | 0 | [] |
 | k3rwin/shellcode-bypass-go | go语言免杀shellcode | https://github.com/k3rwin/shellcode-bypass-go | ['shellcode'] | 1 | 2021-12-31 09:23:18+00:00 | 0 | 1 | Go | 0 | [] |
 | lua-god/proxy-api | Sample API for Proxy Exploits | https://github.com/lua-god/proxy-api | ['exploit'] | 1 | 2021-12-31 09:41:25+00:00 | 0 | 0 | Python | 0 | [] |
+| Cyclic3/haxterm | Terminal emulator for designing and testing exploits | https://github.com/Cyclic3/haxterm | ['exploit'] | 1 | 2021-12-31 13:36:00+00:00 | 0 | 0 | C++ | 0 | [] |
 | MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-31 03:20:14+00:00 | 70 | 0 | C | 0 | [] |
 | hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-31 10:21:51+00:00 | 10077 | 1 | Shell | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-31 00:06:51+00:00 | 1534772 | 1547 | Python | 525 | [] |
@@ -35,6 +37,7 @@
 | cirosantilli/china-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2021-12-31 10:18:42+00:00 | 36242 | 703 | HTML | 131 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-31 02:28:30+00:00 | 3603 | 86 | Go | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-31 00:17:05+00:00 | 214274 | 263 | Ruby | 78 | [] |
+| a13xp0p0v/linux-kernel-defence-map | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | ['exploit'] | 1 | 2021-12-31 14:13:47+00:00 | 9608 | 1359 | | 96 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-12-31 12:05:19+00:00 | 1514346 | 3880 | PowerShell | 1355 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-31 06:34:33+00:00 | 63883 | 1386 | Python | 280 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-31 00:46:02+00:00 | 14305 | 24 | | 17 | [] |
@@ -45,6 +48,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-31 00:03:56+00:00 | 437819 | 40 | | 20 | [] |
 | satoki/tyranokiller | 👻 [PoC] TyranoScript 5.11d - Arbitrary Code Execution (0day) | https://github.com/satoki/tyranokiller | ['0day', 'exploit'] | 2 | 2021-12-31 06:53:56+00:00 | 3294 | 1 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-31 04:40:18+00:00 | 64311 | 268 | Python | 81 | [] |
+| TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-12-31 14:18:08+00:00 | 6392 | 0 | Python | 1 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['vulnerability poc'] | 1 | 2021-12-31 10:03:24+00:00 | 6596 | 281 | Python | 53 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2021-12-31 12:13:43+00:00 | 356 | 181 | Python | 35 | [] |
 | NoTelling/obf-scripts | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | ['exploit'] | 1 | 2021-12-31 00:17:10+00:00 | 345 | 1 | Lua | 0 | [] |
@@ -53,4 +57,4 @@
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2021-12-31 12:45:22+00:00 | 8956 | 9 | Python | 2 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-12-31 12:42:51+00:00 | 34833 | 2 | Shell | 3 | [] |
 | cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-12-31 10:18:36+00:00 | 7978 | 21 | HTML | 9 | [] |
-| Cyclic3/haxterm | Terminal emulator for designing and testing exploits | https://github.com/Cyclic3/haxterm | ['exploit'] | 1 | 2021-12-31 13:36:00+00:00 | 0 | 0 | C++ | 0 | [] |
+| idknoob91/Azure | This is an Open-Source Roblox Exploit owned by AccioLaw#0001 on discord. | https://github.com/idknoob91/Azure | ['exploit'] | 1 | 2021-12-31 14:36:22+00:00 | 0 | 0 | C# | 0 | [] |
