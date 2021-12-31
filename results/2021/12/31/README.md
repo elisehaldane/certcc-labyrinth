@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/31
     
-13 records found after deduplication
+14 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -14,6 +14,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-31 00:03:56+00:00 | 437819 | 40 | | 20 | [] |
 | NoTelling/obf-scripts | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | ['exploit'] | 1 | 2021-12-31 00:17:10+00:00 | 345 | 1 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-12-31 01:13:38+00:00 | 8073 | 2 | Python | 0 | [] |
+| MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-31 03:20:14+00:00 | 70 | 0 | C | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-12-31 00:00:21+00:00 | 46 | 4 | | 1 | ['CVE-2021-44228'] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-31 00:00:22+00:00 | 271 | 3 | Python | 3 | [] |
 | linshaoSec/SeeyonExploit-GUI | 致远OA综合利用工具 | https://github.com/linshaoSec/SeeyonExploit-GUI | ['exploit'] | 1 | 2021-12-31 02:39:22+00:00 | 4540 | 22 | | 8 | [] |
