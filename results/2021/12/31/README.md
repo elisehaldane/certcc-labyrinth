@@ -1,7 +1,7 @@
 
 # Summary for results/2021/12/31
     
-25 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -10,6 +10,7 @@
 | Haruster/Haruster-CVE-Note | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | ['exploit'] | 1 | 2021-12-31 03:57:29+00:00 | 0 | 1 | | 0 | [] |
 | MarceloLeite2604/log4j-vulnerability | Presents how to exploit CVE-2021-44228 vulnerability. | https://github.com/MarceloLeite2604/log4j-vulnerability | ['exploit'] | 1 | 2021-12-31 04:20:23+00:00 | 37762 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | mcampetta/t8012-DTS | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren't shorting out li | https://github.com/mcampetta/t8012-DTS | ['exploit'] | 1 | 2021-12-31 00:10:57+00:00 | 4100 | 0 | Python | 0 | [] |
+| wuppp/cve-2021-45232-exp | None | https://github.com/wuppp/cve-2021-45232-exp | ['cve-2 OR cve_2'] | 1 | 2021-12-31 08:30:33+00:00 | 163 | 28 | Python | 11 | ['CVE-2021-45232'] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2021-12-31 05:42:01+00:00 | 70 | 3 | | 0 | [] |
 | linshaoSec/SeeyonExploit-GUI | 致远OA综合利用工具 | https://github.com/linshaoSec/SeeyonExploit-GUI | ['exploit'] | 1 | 2021-12-31 02:39:22+00:00 | 4540 | 22 | | 8 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2021-12-31 00:00:22+00:00 | 271 | 3 | Python | 3 | [] |
@@ -24,6 +25,7 @@
 | satoki/tyranokiller | 👻 [PoC] TyranoScript 5.11d - Arbitrary Code Execution (0day) | https://github.com/satoki/tyranokiller | ['0day', 'exploit'] | 2 | 2021-12-31 06:53:56+00:00 | 3294 | 1 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-31 00:03:56+00:00 | 437819 | 40 | | 20 | [] |
 | S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | ['exploit'] | 1 | 2021-12-31 00:13:33+00:00 | 3734 | 2497 | | 600 | [] |
+| jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-12-31 08:40:31+00:00 | 18169 | 621 | Go | 135 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2021-12-31 05:02:21+00:00 | 2352 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-12-31 00:46:02+00:00 | 14305 | 24 | | 17 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-12-31 06:34:33+00:00 | 63883 | 1386 | Python | 280 | [] |
