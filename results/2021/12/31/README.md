@@ -1,13 +1,12 @@
 
 # Summary for results/2021/12/31
     
-59 records found after deduplication
+63 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-12-31 00:43:55+00:00 | 22362 | 6244 | JavaScript | 1469 | [] |
-| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2021-12-31 11:06:46+00:00 | 7532 | 2 | C++ | 0 | [] |
-| BenzeneAlcohol/Remote-Code-Execution-Engine | Remote Code Execution Engine | https://github.com/BenzeneAlcohol/Remote-Code-Execution-Engine | ['remote code execution'] | 1 | 2021-12-31 13:09:16+00:00 | 210 | 2 | JavaScript | 0 | [] |
+| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2021-12-31 12:08:30+00:00 | 8 | 115 | | 7 | [] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2021-12-31 04:18:33+00:00 | 39 | 0 | C++ | 0 | [] |
 | jmpshell/BinEx | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2021-12-31 15:44:50+00:00 | 7702 | 1 | C++ | 0 | [] |
 | valkeahat/exploits | None | https://github.com/valkeahat/exploits | ['exploit'] | 1 | 2021-12-31 15:55:40+00:00 | 4 | 0 | Python | 0 | [] |
@@ -19,10 +18,10 @@
 | loneicewolf/LOCKHEED-PLATFORM | The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like "platform", designed for advanced Cyber Assessments. | https://github.com/loneicewolf/LOCKHEED-PLATFORM | ['metasploit module OR payload'] | 1 | 2021-12-31 13:16:28+00:00 | 25 | 2 | | 0 | [] |
 | linshaoSec/SeeyonExploit-GUI | 致远OA综合利用工具 | https://github.com/linshaoSec/SeeyonExploit-GUI | ['exploit'] | 1 | 2021-12-31 02:39:22+00:00 | 4540 | 22 | | 8 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2021-12-31 05:42:01+00:00 | 70 | 3 | | 0 | [] |
+| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2021-12-31 11:06:46+00:00 | 7532 | 2 | C++ | 0 | [] |
 | s-retlaw/l4s_poc | Log4Shell (Cve-2021-44228) Proof Of Concept | https://github.com/s-retlaw/l4s_poc | ['cve poc'] | 1 | 2021-12-31 12:05:11+00:00 | 30 | 0 | Java | 0 | ['CVE-2021-44228'] |
-| MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-31 03:20:14+00:00 | 70 | 0 | C | 0 | [] |
-| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2021-12-31 12:08:30+00:00 | 8 | 115 | | 7 | [] |
 | wuppp/cve-2021-45232-exp | None | https://github.com/wuppp/cve-2021-45232-exp | ['cve-2 OR cve_2'] | 1 | 2021-12-31 08:30:33+00:00 | 163 | 28 | Python | 11 | ['CVE-2021-45232'] |
+| djjoa/exploit-searcher | Simultaneously search CVEs and exploits across multiple cybersecurity data sources. | https://github.com/djjoa/exploit-searcher | ['exploit'] | 1 | 2021-12-31 13:37:28+00:00 | 111 | 3 | Python | 0 | [] |
 | RealMepon/DiscordTool | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | ['exploit'] | 1 | 2021-12-31 11:22:12+00:00 | 89 | 2 | Python | 0 | [] |
 | mcampetta/t8012-DTS | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren't shorting out li | https://github.com/mcampetta/t8012-DTS | ['exploit'] | 1 | 2021-12-31 00:10:57+00:00 | 4100 | 0 | Python | 0 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-12-31 14:18:08+00:00 | 7734 | 0 | CSS | 0 | [] |
@@ -33,10 +32,14 @@
 | lua-god/proxy-api | Sample API for Proxy Exploits | https://github.com/lua-god/proxy-api | ['exploit'] | 1 | 2021-12-31 09:41:25+00:00 | 0 | 0 | Python | 0 | [] |
 | Cyclic3/haxterm | Terminal emulator for designing and testing exploits | https://github.com/Cyclic3/haxterm | ['exploit'] | 1 | 2021-12-31 13:36:00+00:00 | 0 | 0 | C++ | 0 | [] |
 | idknoob91/Azure | This is an Open-Source Roblox Exploit owned by AccioLaw#0001 on discord. | https://github.com/idknoob91/Azure | ['exploit'] | 1 | 2021-12-31 14:36:22+00:00 | 0 | 0 | C# | 0 | [] |
-| djjoa/exploit-searcher | Simultaneously search CVEs and exploits across multiple cybersecurity data sources. | https://github.com/djjoa/exploit-searcher | ['exploit'] | 1 | 2021-12-31 13:37:28+00:00 | 111 | 3 | Python | 0 | [] |
-| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2021-12-31 06:57:54+00:00 | 0 | 1 | Python | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-31 00:06:51+00:00 | 1534772 | 1547 | Python | 525 | [] |
+| Storm99999/Plasmaploit | Combat, Visual and Fun Exploit. | https://github.com/Storm99999/Plasmaploit | ['exploit'] | 1 | 2021-12-31 16:13:57+00:00 | 0 | 1 | Lua | 0 | [] |
+| Rinkal26/cve-2018-8014 | None | https://github.com/Rinkal26/cve-2018-8014 | ['cve-2 OR cve_2'] | 1 | 2021-12-31 17:38:17+00:00 | 0 | 0 | | 0 | ['CVE-2018-8014'] |
+| Microjus/Micro-Sploit | Ferramenta de criação e escuta de payloads em shell. | https://github.com/Microjus/Micro-Sploit | ['sploit'] | 1 | 2021-12-31 17:02:48+00:00 | 0 | 1 | Shell | 0 | [] |
+| BenzeneAlcohol/Remote-Code-Execution-Engine | Remote Code Execution Engine | https://github.com/BenzeneAlcohol/Remote-Code-Execution-Engine | ['remote code execution'] | 1 | 2021-12-31 13:09:16+00:00 | 210 | 2 | JavaScript | 0 | [] |
+| MathieuLsr/SystemExploit | None | https://github.com/MathieuLsr/SystemExploit | ['exploit'] | 1 | 2021-12-31 03:20:14+00:00 | 70 | 0 | C | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-12-31 17:41:18+00:00 | 27111 | 8622 | Python | 1478 | [] |
 | satoki/tyranokiller | 👻 [PoC] TyranoScript 5.11d - Arbitrary Code Execution (0day) | https://github.com/satoki/tyranokiller | ['0day', 'exploit'] | 2 | 2021-12-31 06:53:56+00:00 | 3294 | 1 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-12-31 00:06:51+00:00 | 1534772 | 1547 | Python | 525 | [] |
 | cirosantilli/china-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2021-12-31 10:18:42+00:00 | 36242 | 703 | HTML | 131 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-12-31 02:28:30+00:00 | 3603 | 86 | Go | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-12-31 00:17:05+00:00 | 214274 | 263 | Ruby | 78 | [] |
@@ -50,7 +53,7 @@
 | loneicewolf/fanny.bmp | FANNY BMP MALWARE SOURCE + BINARY + Metasploit Module Checker | https://github.com/loneicewolf/fanny.bmp | ['metasploit module OR payload'] | 1 | 2021-12-31 13:28:30+00:00 | 57726 | 9 | C | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-12-31 00:03:56+00:00 | 437819 | 40 | | 20 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2021-12-31 04:40:18+00:00 | 64311 | 268 | Python | 81 | [] |
-| hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-31 10:21:51+00:00 | 10077 | 1 | Shell | 0 | [] |
+| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2021-12-31 06:57:54+00:00 | 0 | 1 | Python | 0 | [] |
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-12-31 14:18:08+00:00 | 6392 | 0 | Python | 1 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['vulnerability poc'] | 1 | 2021-12-31 10:03:24+00:00 | 6596 | 281 | Python | 53 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2021-12-31 12:13:43+00:00 | 356 | 181 | Python | 35 | [] |
@@ -63,4 +66,5 @@
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-12-31 12:42:51+00:00 | 34833 | 2 | Shell | 3 | [] |
 | cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-12-31 10:18:36+00:00 | 7978 | 21 | HTML | 9 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-12-31 11:58:44+00:00 | 223250 | 13 | PowerShell | 7 | [] |
-| Storm99999/Plasmaploit | Combat, Visual and Fun Exploit. | https://github.com/Storm99999/Plasmaploit | ['exploit'] | 1 | 2021-12-31 16:13:57+00:00 | 0 | 1 | Lua | 0 | [] |
+| hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-12-31 10:21:51+00:00 | 10077 | 1 | Shell | 0 | [] |
+| secureITmania/2021-cve-animes | None | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2021-12-31 17:14:31+00:00 | 0 | 0 | HTML | 0 | [] |
