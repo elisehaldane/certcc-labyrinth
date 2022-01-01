@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01
     
-25 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-01 00:06:52+00:00 | 1534772 | 1546 | Python | 527 | [] |
-| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-01 00:44:05+00:00 | 12017 | 142 | Python | 31 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 00:17:00+00:00 | 214275 | 263 | Ruby | 78 | [] |
 | sclatzy/skellz | roblox exploit | https://github.com/sclatzy/skellz | ['exploit'] | 1 | 2022-01-01 05:55:35+00:00 | 0 | 0 | Lua | 0 | [] |
 | Rithikagovindhan/Rithikagovindhan | Hello, connections! I'm a curious one who particularly cherishes to gain new skills and practically exploits them in lots of stuff. Currently, I'm working on Android app development with the flutter tool where I'm using a dart to implement it. I always try | https://github.com/Rithikagovindhan/Rithikagovindhan | ['exploit'] | 1 | 2022-01-01 06:41:04+00:00 | 0 | 0 | | 0 | [] |
 | chris530/jndi-exploit-blog | None | https://github.com/chris530/jndi-exploit-blog | ['exploit'] | 1 | 2022-01-01 05:05:53+00:00 | 0 | 0 | Go | 0 | [] |
@@ -17,8 +17,9 @@
 | Jymit/exploit-notes | None | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-01-01 01:38:31+00:00 | 0 | 0 | | 0 | [] |
 | secureITmania/2021-cve-animes | nan | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2022-01-01 04:24:24+00:00 | 110 | 0 | HTML | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-01 00:04:45+00:00 | 70 | 3 | | 0 | [] |
+| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-01 00:44:05+00:00 | 12017 | 142 | Python | 31 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-01 08:14:44+00:00 | 1719 | 68 | Java | 20 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 00:17:00+00:00 | 214275 | 263 | Ruby | 78 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-01 02:40:54+00:00 | 356 | 1 | Python | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-01 01:14:13+00:00 | 8924 | 2 | Python | 0 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-01-01 02:39:02+00:00 | 209 | 10 | Python | 7 | [] |
