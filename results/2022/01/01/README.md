@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/01
     
-19 records found after deduplication
+20 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-01 00:06:52+00:00 | 1534772 | 1546 | Python | 527 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 00:17:00+00:00 | 214275 | 263 | Ruby | 78 | [] |
+| c0d3m4st4/ZeroXploitHost | Use your Raspberry Pi Zero W / Zero 2 W to host PS4 FW 9.0 exploit with self mounting USB drive | https://github.com/c0d3m4st4/ZeroXploitHost | ['exploit'] | 1 | 2022-01-01 03:48:24+00:00 | 0 | 0 | | 0 | [] |
 | samrussell/doublebarrell | low touch shellcode injection | https://github.com/samrussell/doublebarrell | ['shellcode'] | 1 | 2022-01-01 03:18:21+00:00 | 0 | 0 | C++ | 0 | [] |
 | pencuricode/findlogin | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/pencuricode/findlogin | ['exploit'] | 1 | 2022-01-01 02:17:08+00:00 | 0 | 0 | Python | 0 | [] |
 | pencuricode/exploit-config | None | https://github.com/pencuricode/exploit-config | ['exploit'] | 1 | 2022-01-01 02:13:00+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -14,8 +15,8 @@
 | secureITmania/2021-cve-animes | nan | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2022-01-01 04:24:24+00:00 | 110 | 0 | HTML | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-01 00:04:45+00:00 | 70 | 3 | | 0 | [] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-01 00:44:05+00:00 | 12017 | 142 | Python | 31 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-01 02:40:54+00:00 | 356 | 1 | Python | 1 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 00:17:00+00:00 | 214275 | 263 | Ruby | 78 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-01 01:14:13+00:00 | 8924 | 2 | Python | 0 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-01-01 02:39:02+00:00 | 209 | 10 | Python | 7 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-01 01:34:42+00:00 | 66553 | 271 | Python | 82 | [] |
@@ -23,4 +24,4 @@
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-01 00:55:58+00:00 | 7024 | 1 | Java | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-01 00:05:08+00:00 | 438735 | 40 | | 20 | [] |
 | francobel/CTF-Writeups | Collection of Capture the Flag Write-Ups: Exploit Dev, Reverse Engineering, Pentesting | https://github.com/francobel/CTF-Writeups | ['exploit'] | 1 | 2022-01-01 00:44:00+00:00 | 4707 | 1 | Python | 0 | [] |
-| c0d3m4st4/ZeroXploitHost | Use your Raspberry Pi Zero W / Zero 2 W to host PS4 FW 9.0 exploit with self mounting USB drive | https://github.com/c0d3m4st4/ZeroXploitHost | ['exploit'] | 1 | 2022-01-01 03:48:24+00:00 | 0 | 0 | | 0 | [] |
+| chris530/jndi-exploit-blog | None | https://github.com/chris530/jndi-exploit-blog | ['exploit'] | 1 | 2022-01-01 05:05:53+00:00 | 0 | 0 | Go | 0 | [] |
