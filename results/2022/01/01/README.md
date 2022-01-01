@@ -1,24 +1,24 @@
 
 # Summary for results/2022/01/01
     
-47 records found after deduplication
+51 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-01 00:06:52+00:00 | 1534772 | 1546 | Python | 527 | [] |
-| secureITmania/2021-cve-animes | None | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2022-01-01 04:24:24+00:00 | 110 | 0 | HTML | 0 | [] |
-| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-01 08:14:44+00:00 | 1719 | 68 | Java | 20 | [] |
+| Jymit/exploit-notes | None | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-01-01 01:38:31+00:00 | 0 | 0 | | 0 | [] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-01 00:44:05+00:00 | 12017 | 142 | Python | 31 | [] |
 | robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 10:27:54+00:00 | 59 | 8 | | 0 | ['CVE-2021-44228'] |
 | VerveIndustrialProtection/CVE-2021-44228-Log4j | None | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-01 14:37:45+00:00 | 250 | 1 | PowerShell | 3 | ['CVE-2021-44228'] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-01 00:04:45+00:00 | 70 | 3 | | 0 | [] |
 | TheMirkin/CVE-List-Public-Exploits | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | ['exploit'] | 1 | 2022-01-01 13:33:21+00:00 | 88168 | 0 | | 0 | [] |
 | OrbxGit/Orbx-Library | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | ['exploit'] | 1 | 2022-01-01 13:58:00+00:00 | 12 | 0 | C# | 0 | [] |
+| 0x80000000/DodaVPN-Exploit-PoC | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | ['exploit', 'vulnerability poc'] | 2 | 2022-01-01 15:30:16+00:00 | 5 | 1 | Python | 2 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-01-01 14:25:37+00:00 | 11097 | 0 | CSS | 0 | [] |
 | Haruster/Haruster-CVE-Note | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | ['exploit'] | 1 | 2022-01-01 09:58:04+00:00 | 2 | 1 | Python | 0 | [] |
-| Jymit/exploit-notes | None | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-01-01 01:38:31+00:00 | 0 | 0 | | 0 | [] |
-| Edgarloyola/CVE-2021-40904 | None | https://github.com/Edgarloyola/CVE-2021-40904 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 12:27:40+00:00 | 1197 | 0 | | 0 | ['CVE-2021-40904'] |
+| secureITmania/2021-cve-animes | None | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2022-01-01 04:24:24+00:00 | 110 | 0 | HTML | 0 | [] |
 | pencuricode/exploit-config | None | https://github.com/pencuricode/exploit-config | ['exploit'] | 1 | 2022-01-01 02:13:00+00:00 | 0 | 0 | Shell | 0 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
 | pencuricode/findlogin | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/pencuricode/findlogin | ['exploit'] | 1 | 2022-01-01 02:17:08+00:00 | 0 | 0 | Python | 0 | [] |
 | samrussell/doublebarrell | low touch shellcode injection | https://github.com/samrussell/doublebarrell | ['shellcode'] | 1 | 2022-01-01 03:18:21+00:00 | 0 | 0 | C++ | 0 | [] |
 | c0d3m4st4/ZeroXploitHost | Use your Raspberry Pi Zero W / Zero 2 W to host PS4 FW 9.0 exploit with self mounting USB drive | https://github.com/c0d3m4st4/ZeroXploitHost | ['exploit'] | 1 | 2022-01-01 03:48:24+00:00 | 0 | 0 | | 0 | [] |
@@ -27,8 +27,10 @@
 | sclatzy/skellz | roblox exploit | https://github.com/sclatzy/skellz | ['exploit'] | 1 | 2022-01-01 05:55:35+00:00 | 0 | 0 | Lua | 0 | [] |
 | Metasploit111/Metasploit111 | Config files for my GitHub profile. | https://github.com/Metasploit111/Metasploit111 | ['metasploit module OR payload'] | 1 | 2022-01-01 06:34:23+00:00 | 0 | 0 | | 0 | [] |
 | AlienX2001/DnsAdmin-to-System-exploit | None | https://github.com/AlienX2001/DnsAdmin-to-System-exploit | ['exploit'] | 1 | 2022-01-01 12:43:59+00:00 | 0 | 0 | C++ | 0 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
-| Edgarloyola/CVE-2021-40905 | None | https://github.com/Edgarloyola/CVE-2021-40905 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 12:23:18+00:00 | 715 | 0 | | 0 | ['CVE-2021-40905'] |
+| Sspv12/metasploit | None | https://github.com/Sspv12/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 13:04:55+00:00 | 0 | 0 | | 0 | [] |
+| marklindsey11/-CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CVE-2021-44228-https-nvd. | Log4j Vulnerability Scanner | https://github.com/marklindsey11/-CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CVE-2021-44228-https-nvd. | ['cve-2 OR cve_2'] | 1 | 2022-01-01 15:31:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-01 08:14:44+00:00 | 1719 | 68 | Java | 20 | [] |
+| Edgarloyola/CVE-2021-40904 | None | https://github.com/Edgarloyola/CVE-2021-40904 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 12:27:40+00:00 | 1197 | 0 | | 0 | ['CVE-2021-40904'] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-01-01 11:35:04+00:00 | 70763 | 10507 | Jupyter Notebook | 1806 | [] |
 | satoki/tyranokiller | 👻 [PoC] TyranoScript 5.11d - Arbitrary Code Execution (0day) | https://github.com/satoki/tyranokiller | ['0day', 'exploit'] | 2 | 2022-01-01 09:08:16+00:00 | 3315 | 1 | Python | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 00:17:00+00:00 | 214275 | 263 | Ruby | 78 | [] |
@@ -36,12 +38,13 @@
 | audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2022-01-01 10:12:42+00:00 | 8120 | 0 | Rich Text Format | 1 | [] |
 | robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 10:37:14+00:00 | 200 | 3 | | 1 | ['CVE-2018-19788'] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-01 05:52:20+00:00 | 1514415 | 3882 | PowerShell | 1356 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-01 14:57:02+00:00 | 14676 | 24 | | 17 | [] |
 | francobel/CTF-Writeups | Collection of Capture the Flag Write-Ups: Exploit Dev, Reverse Engineering, Pentesting | https://github.com/francobel/CTF-Writeups | ['exploit'] | 1 | 2022-01-01 00:44:00+00:00 | 4707 | 1 | Python | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-01-01 12:41:17+00:00 | 3785248 | 2 | Batchfile | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-01 00:05:08+00:00 | 438735 | 40 | | 20 | [] |
 | pen4uin/Poc-Exp | 漏洞研究☞OA/中间件/框架/路由器... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-01 11:31:34+00:00 | 522 | 127 | | 25 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-01 00:55:58+00:00 | 7024 | 1 | Java | 0 | [] |
-| Edgarloyola/CVE-2021-40906 | None | https://github.com/Edgarloyola/CVE-2021-40906 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 12:29:25+00:00 | 455 | 0 | | 0 | ['CVE-2021-40906'] |
+| Edgarloyola/CVE-2021-40905 | None | https://github.com/Edgarloyola/CVE-2021-40905 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 12:23:18+00:00 | 715 | 0 | | 0 | ['CVE-2021-40905'] |
 | dylanmeca/labsecurity | labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2022-01-01 03:01:54+00:00 | 835 | 10 | Python | 5 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-01 01:34:42+00:00 | 66553 | 271 | Python | 82 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-01-01 02:39:02+00:00 | 209 | 10 | Python | 7 | [] |
@@ -51,4 +54,5 @@
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-01 02:40:54+00:00 | 356 | 1 | Python | 1 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-01-01 13:24:38+00:00 | 502 | 0 | Lua | 1 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-01-01 11:36:35+00:00 | 2373 | 1 | C | 0 | [] |
-| Sspv12/metasploit | None | https://github.com/Sspv12/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 13:04:55+00:00 | 0 | 0 | | 0 | [] |
+| Edgarloyola/CVE-2021-40906 | None | https://github.com/Edgarloyola/CVE-2021-40906 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 12:29:25+00:00 | 455 | 0 | | 0 | ['CVE-2021-40906'] |
+| KiDayz/IC05_TweepyExploitation | Using Tweepy library to scrap data from Twitter through its API. | https://github.com/KiDayz/IC05_TweepyExploitation | ['exploit'] | 1 | 2022-01-01 15:41:50+00:00 | 0 | 0 | Python | 0 | [] |
