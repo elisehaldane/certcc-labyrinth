@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/01
     
-26 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -22,10 +22,12 @@
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-01 02:40:54+00:00 | 356 | 1 | Python | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-01 01:14:13+00:00 | 8924 | 2 | Python | 0 | [] |
+| Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2022-01-01 08:54:38+00:00 | 1158 | 1 | Lua | 0 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-01-01 02:39:02+00:00 | 209 | 10 | Python | 7 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-01 01:34:42+00:00 | 66553 | 271 | Python | 82 | [] |
 | dylanmeca/labsecurity | labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2022-01-01 03:01:54+00:00 | 835 | 10 | Python | 5 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-01 00:55:58+00:00 | 7024 | 1 | Java | 0 | [] |
+| satoki/tyranokiller | 👻 [PoC] TyranoScript 5.11d - Arbitrary Code Execution (0day) | https://github.com/satoki/tyranokiller | ['0day', 'exploit'] | 2 | 2022-01-01 09:08:16+00:00 | 3315 | 1 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-01 00:05:08+00:00 | 438735 | 40 | | 20 | [] |
 | francobel/CTF-Writeups | Collection of Capture the Flag Write-Ups: Exploit Dev, Reverse Engineering, Pentesting | https://github.com/francobel/CTF-Writeups | ['exploit'] | 1 | 2022-01-01 00:44:00+00:00 | 4707 | 1 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-01 05:52:20+00:00 | 1514415 | 3882 | PowerShell | 1356 | [] |
