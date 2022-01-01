@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/01
     
-28 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-01 00:06:52+00:00 | 1534772 | 1546 | Python | 527 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 00:17:00+00:00 | 214275 | 263 | Ruby | 78 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
 | sclatzy/skellz | roblox exploit | https://github.com/sclatzy/skellz | ['exploit'] | 1 | 2022-01-01 05:55:35+00:00 | 0 | 0 | Lua | 0 | [] |
 | Rithikagovindhan/Rithikagovindhan | Hello, connections! I'm a curious one who particularly cherishes to gain new skills and practically exploits them in lots of stuff. Currently, I'm working on Android app development with the flutter tool where I'm using a dart to implement it. I always try | https://github.com/Rithikagovindhan/Rithikagovindhan | ['exploit'] | 1 | 2022-01-01 06:41:04+00:00 | 0 | 0 | | 0 | [] |
 | chris530/jndi-exploit-blog | None | https://github.com/chris530/jndi-exploit-blog | ['exploit'] | 1 | 2022-01-01 05:05:53+00:00 | 0 | 0 | Go | 0 | [] |
@@ -15,12 +15,15 @@
 | pencuricode/findlogin | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/pencuricode/findlogin | ['exploit'] | 1 | 2022-01-01 02:17:08+00:00 | 0 | 0 | Python | 0 | [] |
 | pencuricode/exploit-config | None | https://github.com/pencuricode/exploit-config | ['exploit'] | 1 | 2022-01-01 02:13:00+00:00 | 0 | 0 | Shell | 0 | [] |
 | Jymit/exploit-notes | None | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-01-01 01:38:31+00:00 | 0 | 0 | | 0 | [] |
-| secureITmania/2021-cve-animes | nan | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2022-01-01 04:24:24+00:00 | 110 | 0 | HTML | 0 | [] |
+| secureITmania/2021-cve-animes | None | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2022-01-01 04:24:24+00:00 | 110 | 0 | HTML | 0 | [] |
+| Haruster/Haruster-CVE-Note | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | ['exploit'] | 1 | 2022-01-01 09:58:04+00:00 | 2 | 1 | Python | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-01 00:04:45+00:00 | 70 | 3 | | 0 | [] |
+| robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 10:27:54+00:00 | 59 | 8 | | 0 | ['CVE-2021-44228'] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-01 00:44:05+00:00 | 12017 | 142 | Python | 31 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-01 08:14:44+00:00 | 1719 | 68 | Java | 20 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-01 02:40:54+00:00 | 356 | 1 | Python | 1 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 00:17:00+00:00 | 214275 | 263 | Ruby | 78 | [] |
+| param373r/param373r | A Head Full of Exploits | https://github.com/param373r/param373r | ['exploit'] | 1 | 2022-01-01 09:53:53+00:00 | 12 | 1 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-01 01:14:13+00:00 | 8924 | 2 | Python | 0 | [] |
 | Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2022-01-01 08:54:38+00:00 | 1158 | 1 | Lua | 0 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-01-01 02:39:02+00:00 | 209 | 10 | Python | 7 | [] |
@@ -31,5 +34,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-01 00:05:08+00:00 | 438735 | 40 | | 20 | [] |
 | francobel/CTF-Writeups | Collection of Capture the Flag Write-Ups: Exploit Dev, Reverse Engineering, Pentesting | https://github.com/francobel/CTF-Writeups | ['exploit'] | 1 | 2022-01-01 00:44:00+00:00 | 4707 | 1 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-01 05:52:20+00:00 | 1514415 | 3882 | PowerShell | 1356 | [] |
+| robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 10:37:14+00:00 | 200 | 3 | | 1 | ['CVE-2018-19788'] |
+| audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2022-01-01 10:12:42+00:00 | 8120 | 0 | Rich Text Format | 1 | [] |
 | thewhiteh4t/thewhiteh4t.github.io | thewhiteh4t's Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | ['exploit'] | 1 | 2022-01-01 06:17:45+00:00 | 11915 | 16 | HTML | 3 | [] |
 | Metasploit111/Metasploit111 | Config files for my GitHub profile. | https://github.com/Metasploit111/Metasploit111 | ['metasploit module OR payload'] | 1 | 2022-01-01 06:34:23+00:00 | 0 | 0 | | 0 | [] |
