@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/02
     
-23 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-02 00:17:02+00:00 | 214276 | 263 | Ruby | 78 | [] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-02 03:32:58+00:00 | 1676 | 325 | JavaScript | 813 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-02 04:59:54+00:00 | 1514863 | 3883 | PowerShell | 1357 | [] |
 | Nosferatuvjr/Exploit-noSQL | Exploit feito para a tentativa de bypass em requests de sistemas de login que utilizem bancos de dados não relacionais como MongoDB | https://github.com/Nosferatuvjr/Exploit-noSQL | ['exploit'] | 1 | 2022-01-02 03:42:25+00:00 | 0 | 0 | Python | 0 | [] |
 | RBXLModders/Zihsploit | The Source code for ROBLOX Exploit Zihsploit by Trikilla | https://github.com/RBXLModders/Zihsploit | ['exploit'] | 1 | 2022-01-02 03:20:03+00:00 | 0 | 0 | | 0 | [] |
 | DirtyFunkyFresh/DFF_UP_MSF | Metasploit-Framework Upgrade Tool for Kali Linux | https://github.com/DirtyFunkyFresh/DFF_UP_MSF | ['metasploit module OR payload'] | 1 | 2022-01-02 01:59:32+00:00 | 0 | 0 | | 0 | [] |
@@ -16,8 +16,8 @@
 | GianlucaUlivi/log4j-firewall-blacklist-builder | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA and Fortinet Fortigate Network Groups. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | ['exploit'] | 1 | 2022-01-02 00:12:02+00:00 | 14 | 1 | Python | 1 | [] |
 | kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-02 02:03:24+00:00 | 39532 | 1080 | Python | 267 | ['CVE-2021-44228'] |
 | AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2022-01-02 01:45:00+00:00 | 351882 | 1 | | 0 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-02 03:32:58+00:00 | 1676 | 325 | JavaScript | 813 | [] |
 | sridhar-research-lab/MEDDoS | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | ['exploit'] | 1 | 2022-01-02 01:44:36+00:00 | 2904 | 0 | C++ | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-02 00:46:03+00:00 | 14676 | 24 | | 17 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-02 01:15:35+00:00 | 9862 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-02 00:51:54+00:00 | 69355 | 274 | Python | 83 | [] |
 | narumii/Niko | Small crash client base for retarded(german) people who steal other people's code. | https://github.com/narumii/Niko | ['exploit'] | 1 | 2022-01-02 02:42:47+00:00 | 14952 | 24 | Java | 1 | [] |
@@ -27,4 +27,5 @@
 | shubhamg0sai/Termux-metasploit | None | https://github.com/shubhamg0sai/Termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-02 03:00:27+00:00 | 113 | 4 | Shell | 2 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-01-02 03:16:46+00:00 | 1697 | 260 | C | 10 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-02 00:28:55+00:00 | 7329 | 0 | Python | 0 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-02 00:46:03+00:00 | 14676 | 24 | | 17 | [] |
 | prodseanb/Xsearch | not done - just a small tool to search exploitdb for exploits and shellcodes. going to add more options | https://github.com/prodseanb/Xsearch | ['exploit', 'shellcode'] | 2 | 2022-01-02 03:34:47+00:00 | 0 | 0 | Shell | 0 | [] |
