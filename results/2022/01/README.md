@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01
     
-103 records found after deduplication
+104 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-01 23:38:41+00:00 | 669423 | 25995 | Ruby | 11866 | [] |
-| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-01-01 18:00:34+00:00 | 13 | 146 | | 9 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-01 00:06:52+00:00 | 1534772 | 1546 | Python | 527 | [] |
 | Jymit/exploit-notes | None | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-01-01 01:38:31+00:00 | 0 | 0 | | 0 | [] |
 | 1madtanker1/Network-Exploitation-Toolkit | None | https://github.com/1madtanker1/Network-Exploitation-Toolkit | ['exploit'] | 1 | 2022-01-02 04:27:06+00:00 | 9 | 0 | Python | 0 | [] |
 | secureITmania/2021-cve-animes | None | https://github.com/secureITmania/2021-cve-animes | ['cve-2 OR cve_2'] | 1 | 2022-01-01 04:24:24+00:00 | 110 | 0 | HTML | 0 | [] |
@@ -17,10 +17,11 @@
 | 0x80000000/DodaVPN-Exploit-PoC | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | ['exploit', 'vulnerability poc'] | 2 | 2022-01-01 15:30:16+00:00 | 5 | 1 | Python | 2 | [] |
 | robforee/exploit-vectors | None | https://github.com/robforee/exploit-vectors | ['exploit'] | 1 | 2022-01-01 18:25:59+00:00 | 1 | 0 | | 0 | [] |
 | OrbxGit/Orbx-Library | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | ['exploit'] | 1 | 2022-01-01 13:58:00+00:00 | 12 | 0 | C# | 0 | [] |
+| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-01-01 18:00:34+00:00 | 13 | 146 | | 9 | [] |
 | TheMirkin/CVE-List-Public-Exploits | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | ['exploit'] | 1 | 2022-01-01 13:33:21+00:00 | 88168 | 0 | | 0 | [] |
-| pencuricode/findlogin | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/pencuricode/findlogin | ['exploit'] | 1 | 2022-01-01 02:17:08+00:00 | 0 | 0 | Python | 0 | [] |
 | webofchaos/HTTP-Interception | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | ['exploit'] | 1 | 2022-01-01 23:15:54+00:00 | 861 | 0 | PHP | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-01 00:04:45+00:00 | 70 | 3 | | 0 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-02 05:41:38+00:00 | 127 | 0 | | 0 | [] |
 | VerveIndustrialProtection/CVE-2021-44228-Log4j | None | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-01 14:37:45+00:00 | 250 | 1 | PowerShell | 3 | ['CVE-2021-44228'] |
 | robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 10:27:54+00:00 | 59 | 8 | | 0 | ['CVE-2021-44228'] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-01 20:38:14+00:00 | 49 | 4 | | 1 | ['CVE-2021-44228'] |
@@ -30,8 +31,8 @@
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-01 08:14:44+00:00 | 1719 | 68 | Java | 20 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-01 01:38:41+00:00 | 24999 | 232 | Python | 89 | [] |
 | pencuricode/exploit-config | None | https://github.com/pencuricode/exploit-config | ['exploit'] | 1 | 2022-01-01 02:13:00+00:00 | 0 | 0 | Shell | 0 | [] |
+| pencuricode/findlogin | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/pencuricode/findlogin | ['exploit'] | 1 | 2022-01-01 02:17:08+00:00 | 0 | 0 | Python | 0 | [] |
 | samrussell/doublebarrell | low touch shellcode injection | https://github.com/samrussell/doublebarrell | ['shellcode'] | 1 | 2022-01-01 03:18:21+00:00 | 0 | 0 | C++ | 0 | [] |
-| Mowen111/SALT | Codes for WACVW paper 'Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance' | https://github.com/Mowen111/SALT | ['exploit'] | 1 | 2022-01-01 21:21:05+00:00 | 0 | 0 | Python | 0 | [] |
 | itxfahdi/-cve-2021-45232 | The vulnerability affects Apache APISIX Dashboard version 2.10.1 | https://github.com/itxfahdi/-cve-2021-45232 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 19:31:13+00:00 | 0 | 0 | | 0 | ['CVE-2021-45232'] |
 | Nosferatuvjr/Exploit-noSQL | Exploit feito para a tentativa de bypass em requests de sistemas de login que utilizem bancos de dados não relacionais como MongoDB | https://github.com/Nosferatuvjr/Exploit-noSQL | ['exploit'] | 1 | 2022-01-02 03:42:25+00:00 | 0 | 0 | Python | 0 | [] |
 | RBXLModders/Zihsploit | The Source code for ROBLOX Exploit Zihsploit by Trikilla | https://github.com/RBXLModders/Zihsploit | ['exploit'] | 1 | 2022-01-02 03:20:03+00:00 | 0 | 0 | | 0 | [] |
@@ -45,7 +46,7 @@
 | marklindsey11/gh-repo-clone-marklindsey11--CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CV | Log4j-Scanner | https://github.com/marklindsey11/gh-repo-clone-marklindsey11--CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CV | ['cve-2 OR cve_2'] | 1 | 2022-01-01 20:01:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | SamedZirhlioglu/Android-Payload-Metasploit | None | https://github.com/SamedZirhlioglu/Android-Payload-Metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 18:55:20+00:00 | 0 | 0 | Shell | 0 | [] |
 | c0d3m4st4/ZeroXploitHost | Use your Raspberry Pi Zero W / Zero 2 W to host PS4 FW 9.0 exploit with self mounting USB drive | https://github.com/c0d3m4st4/ZeroXploitHost | ['exploit'] | 1 | 2022-01-01 03:48:24+00:00 | 0 | 0 | | 0 | [] |
-| jravis-8520/h-sploit-paylod | None | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-01 16:46:28+00:00 | 0 | 0 | Shell | 0 | [] |
+| jravis-8520/h-sploit-paylod | H-SPLOIT-PAYLOAD GENERATE METASPLOIT PAYLOAD IN 1 CLICK | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-01 16:46:28+00:00 | 10 | 0 | Shell | 0 | [] |
 | KiDayz/IC05_TweepyExploitation | Using Tweepy library to scrap data from Twitter through its API. | https://github.com/KiDayz/IC05_TweepyExploitation | ['exploit'] | 1 | 2022-01-01 15:41:50+00:00 | 0 | 0 | Python | 0 | [] |
 | marklindsey11/-CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CVE-2021-44228-https-nvd. | Log4j Vulnerability Scanner | https://github.com/marklindsey11/-CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CVE-2021-44228-https-nvd. | ['cve-2 OR cve_2'] | 1 | 2022-01-01 15:31:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | Sspv12/metasploit | None | https://github.com/Sspv12/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-01 13:04:55+00:00 | 0 | 0 | | 0 | [] |
@@ -56,12 +57,12 @@
 | Rithikagovindhan/Rithikagovindhan | Hello, connections! I'm a curious one who particularly cherishes to gain new skills and practically exploits them in lots of stuff. Currently, I'm working on Android app development with the flutter tool where I'm using a dart to implement it. I always try | https://github.com/Rithikagovindhan/Rithikagovindhan | ['exploit'] | 1 | 2022-01-01 06:41:04+00:00 | 0 | 0 | | 0 | [] |
 | chris530/jndi-exploit-blog | None | https://github.com/chris530/jndi-exploit-blog | ['exploit'] | 1 | 2022-01-01 05:05:53+00:00 | 0 | 0 | Go | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-01 18:10:14+00:00 | 96 | 5 | | 0 | [] |
+| Mowen111/SALT | Codes for WACVW paper 'Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance' | https://github.com/Mowen111/SALT | ['exploit'] | 1 | 2022-01-01 21:21:05+00:00 | 0 | 0 | Python | 0 | [] |
 | AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2022-01-02 01:45:00+00:00 | 351882 | 1 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-01 00:06:52+00:00 | 1534772 | 1546 | Python | 527 | [] |
 | 0xricksanchez/paper_collection | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | ['exploit'] | 1 | 2022-01-01 18:09:25+00:00 | 70 | 840 | | 92 | [] |
 | pen4uin/Poc-Exp | 漏洞研究☞OA/中间件/框架/路由器... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-01 11:31:34+00:00 | 522 | 127 | | 25 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-02 00:03:35+00:00 | 441971 | 40 | | 20 | [] |
-| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-01-02 03:14:14+00:00 | 1038 | 1 | Python | 0 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-01-01 18:48:17+00:00 | 1036 | 0 | Python | 0 | [] |
 | mustgundogdu/Research | Zero-day and Exploit code of some applications | https://github.com/mustgundogdu/Research | ['exploit'] | 1 | 2022-01-01 22:35:23+00:00 | 420 | 2 | | 1 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2022-01-01 17:04:47+00:00 | 33976 | 44 | Shell | 19 | [] |
 | kudasaixc/scripts-for-switchblade | Scripts for the Switchblade Roblox Exploit. | https://github.com/kudasaixc/scripts-for-switchblade | ['exploit'] | 1 | 2022-01-01 19:33:21+00:00 | 443 | 0 | Lua | 0 | [] |
@@ -91,11 +92,11 @@
 | Edgarloyola/CVE-2021-40906 | None | https://github.com/Edgarloyola/CVE-2021-40906 | ['cve-2 OR cve_2'] | 1 | 2022-01-01 12:29:25+00:00 | 455 | 0 | | 0 | ['CVE-2021-40906'] |
 | V0nzy/Buffer-Overflow-Cheatsheet | Cheatsheet for exploiting buffer attacks using Immunity Debugger. | https://github.com/V0nzy/Buffer-Overflow-Cheatsheet | ['exploit'] | 1 | 2022-01-01 20:26:43+00:00 | 32 | 0 | Python | 0 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-01-01 11:36:35+00:00 | 2373 | 1 | C | 0 | [] |
-| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-01 21:13:10+00:00 | 1051 | 325 | JavaScript | 812 | [] |
+| glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-02 03:32:58+00:00 | 1676 | 325 | JavaScript | 813 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-01-01 13:24:38+00:00 | 502 | 0 | Lua | 1 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-01 02:40:54+00:00 | 356 | 1 | Python | 1 | [] |
 | param373r/param373r | A Head Full of Exploits | https://github.com/param373r/param373r | ['exploit'] | 1 | 2022-01-01 09:53:53+00:00 | 12 | 1 | | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-01 01:14:13+00:00 | 8924 | 2 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-02 01:15:35+00:00 | 9862 | 2 | Python | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-01 00:55:58+00:00 | 7024 | 1 | Java | 0 | [] |
 | Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2022-01-01 08:54:38+00:00 | 1158 | 1 | Lua | 0 | [] |
 | EntySec/CamRaptor | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | ['exploit'] | 1 | 2022-01-01 16:35:49+00:00 | 227 | 87 | Python | 18 | [] |
