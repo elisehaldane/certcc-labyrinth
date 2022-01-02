@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+443710863,darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce,exploit.php,428719013afba013b297806ad1417671ae327e70,CVE-2021-24307
+443710863,darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce,README.md,ec7ed4f6bf079bb83fe868ce7805fbab98404dcf,CVE-2021-24307
+443710863,darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce,_GITHUB_REPO_METADATA_,,CVE-2021-24307
