@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/03
     
-93 records found after deduplication
+94 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------|
@@ -17,7 +17,7 @@
 | BababooeyHackers/Downloader | A post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server. | https://github.com/BababooeyHackers/Downloader | ['exploit'] | 1 | 2022-01-03 05:14:34+00:00 | 10 | 1 | PHP | 0 | [] |
 | SomeRandomKid7/RobloxExploits | None | https://github.com/SomeRandomKid7/RobloxExploits | ['exploit'] | 1 | 2022-01-03 15:32:48+00:00 | 689 | 0 | | 0 | [] |
 | Glazzes/borealys | A simple remote code execution engine based built with Golang and Bash scripts | https://github.com/Glazzes/borealys | ['remote code execution'] | 1 | 2022-01-03 01:03:30+00:00 | 1409 | 0 | Go | 0 | [] |
-| ahmad4fifz/CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2022-01-03 14:03:17+00:00 | 12 | 5 | HTML | 1 | ['CVE-2021-41773', 'CVE-2021-42013'] |
+| marklindsey11/DataSploit-datasploit | None | https://github.com/marklindsey11/DataSploit-datasploit | ['sploit'] | 1 | 2022-01-03 03:15:58+00:00 | 0 | 0 | | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-01-03 14:33:23+00:00 | 275 | 3 | Python | 3 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-03 01:42:18+00:00 | 127 | 0 | | 0 | [] |
 | es3n1n/be-shellcode-tester | BattlEye shellcodes tester | https://github.com/es3n1n/be-shellcode-tester | ['shellcode'] | 1 | 2022-01-03 19:00:29+00:00 | 44 | 57 | C++ | 21 | [] |
@@ -28,9 +28,10 @@
 | djjoa/exploit-searcher | Simultaneously search CVEs and exploits across multiple cybersecurity data sources. | https://github.com/djjoa/exploit-searcher | ['exploit'] | 1 | 2022-01-03 18:12:30+00:00 | 545 | 3 | Python | 0 | [] |
 | underestimating/DracSploit | made by vuh#0439 | https://github.com/underestimating/DracSploit | ['sploit'] | 1 | 2022-01-03 19:35:26+00:00 | 23 | 0 | | 0 | [] |
 | R0bloxUs3r/NumaExploit | Cheat for Numa RôlePLay | https://github.com/R0bloxUs3r/NumaExploit | ['exploit'] | 1 | 2022-01-03 01:57:38+00:00 | 0 | 0 | | 0 | [] |
-| marklindsey11/DataSploit-datasploit | None | https://github.com/marklindsey11/DataSploit-datasploit | ['sploit'] | 1 | 2022-01-03 03:15:58+00:00 | 0 | 0 | | 0 | [] |
 | wrong1111b/Dliv3 | Redis 4.x/5.x RCE | https://github.com/wrong1111b/Dliv3 | ['rce'] | 1 | 2022-01-03 08:02:13+00:00 | 0 | 0 | | 0 | [] |
-| s-leonhardt/THM-0day | Description: This Box is a very nice example for demonstrating danger of not frequently updated servers. To solve, usual steps like Enumeration, Exploitation and Privilege Escalation are made. | https://github.com/s-leonhardt/THM-0day | ['0day', 'exploit'] | 2 | 2022-01-03 08:19:40+00:00 | 0 | 0 | C | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-03 13:23:21+00:00 | 21989 | 6247 | JavaScript | 1472 | [] |
+| JadenFurtado/github_poc | proof of concept for the information disclosure vulnerability | https://github.com/JadenFurtado/github_poc | ['vulnerability poc'] | 1 | 2022-01-03 14:59:07+00:00 | 0 | 0 | nan | 0 | [] |
+| karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-03 21:39:50+00:00 | 0 | 0 | nan | 0 | [] |
 | Noli18P/LFI-RFI | Learning how exploit LFI and RFI with TryHackMe! | https://github.com/Noli18P/LFI-RFI | ['exploit'] | 1 | 2022-01-03 21:35:06+00:00 | 0 | 0 | | 0 | [] |
 | Malware-S/Exploit-Win32.CVE-2012-0158.F.doc | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Exploit-Win32.CVE-2012-0158.F.doc | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-03 21:13:25+00:00 | 0 | 0 | | 0 | ['CVE-2012-0158'] |
 | a5f9t4/cairosploit | Starknet Exploit Tests | https://github.com/a5f9t4/cairosploit | ['exploit'] | 1 | 2022-01-03 19:23:51+00:00 | 0 | 0 | Python | 0 | [] |
@@ -39,8 +40,8 @@
 | LongWayHomie/CVE-2021-43857 | Gerapy prior to version 0.9.8 is vulnerable to remote code execution. This issue is patched in version 0.9.8. | https://github.com/LongWayHomie/CVE-2021-43857 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-03 16:47:42+00:00 | 0 | 0 | | 0 | ['CVE-2021-43857'] |
 | MalikSploit/MalikSploit | None | https://github.com/MalikSploit/MalikSploit | ['sploit'] | 1 | 2022-01-03 16:15:14+00:00 | 0 | 0 | | 0 | [] |
 | Iyaad-luqman/FUD-Shellcode | None | https://github.com/Iyaad-luqman/FUD-Shellcode | ['shellcode'] | 1 | 2022-01-03 15:53:17+00:00 | 0 | 1 | Python | 0 | [] |
-| JadenFurtado/github_poc | proof of concept for the information disclosure vulnerability | https://github.com/JadenFurtado/github_poc | ['vulnerability poc'] | 1 | 2022-01-03 14:59:07+00:00 | 0 | 0 | nan | 0 | [] |
 | yealvarez/Command-Injections | nan | https://github.com/yealvarez/Command-Injections | ['command injection'] | 1 | 2022-01-03 14:23:41+00:00 | 0 | 0 | nan | 0 | [] |
+| s-leonhardt/THM-0day | Description: This Box is a very nice example for demonstrating danger of not frequently updated servers. To solve, usual steps like Enumeration, Exploitation and Privilege Escalation are made. | https://github.com/s-leonhardt/THM-0day | ['0day', 'exploit'] | 2 | 2022-01-03 08:19:40+00:00 | 0 | 0 | C | 0 | [] |
 | dirkarnez/shellcode-boilerplate | None | https://github.com/dirkarnez/shellcode-boilerplate | ['shellcode'] | 1 | 2022-01-03 14:13:34+00:00 | 0 | 0 | | 0 | [] |
 | khuntor/cve-2021-43858 | None | https://github.com/khuntor/cve-2021-43858 | ['cve-2 OR cve_2'] | 1 | 2022-01-03 14:15:40+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-43858'] |
 | rceeop/rceeop.github.io | Github Pages | https://github.com/rceeop/rceeop.github.io | ['rce'] | 1 | 2022-01-03 13:18:08+00:00 | 0 | 0 | | 0 | [] |
@@ -51,8 +52,8 @@
 | nuclear-dogp/Dliv3t | Redis 4.x/5.x RCE | https://github.com/nuclear-dogp/Dliv3t | ['rce'] | 1 | 2022-01-03 08:37:38+00:00 | 0 | 0 | | 0 | [] |
 | xBaqq/TemptationExploit | None | https://github.com/xBaqq/TemptationExploit | ['exploit'] | 1 | 2022-01-03 08:36:50+00:00 | 0 | 0 | | 0 | [] |
 | ausu-u/FurkAPI | A new API that can power WPF and Winform Roblox Exploits for free and no built in key system (Key System Built in means : a API has a key system built into the code like KrnlAPI or Oxygen U API) | https://github.com/ausu-u/FurkAPI | ['exploit'] | 1 | 2022-01-03 04:30:43+00:00 | 286 | 1 | | 0 | [] |
+| ahmad4fifz/CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2022-01-03 14:03:17+00:00 | 12 | 5 | HTML | 1 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-03 05:41:33+00:00 | 413 | 0 | C | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-03 13:23:21+00:00 | 21989 | 6247 | JavaScript | 1472 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-03 10:41:59+00:00 | 18204 | 629 | Go | 136 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-01-03 15:52:16+00:00 | 6176 | 114 | Python | 39 | [] |
 | OgyDotMy/LaravelExploit | Laravel Exploit | https://github.com/OgyDotMy/LaravelExploit | ['exploit'] | 1 | 2022-01-03 16:41:27+00:00 | 6 | 1 | Python | 0 | [] |
@@ -97,4 +98,4 @@
 | octorber123/YoloV4-predictive-object-search-robot | A predictive object search robot, that can quickly find, never before seen objects in the home environment by hypothesizing their location. It achieves this by using a model that exploits patterns seen in the home environment. | https://github.com/octorber123/YoloV4-predictive-object-search-robot | ['exploit'] | 1 | 2022-01-03 14:26:56+00:00 | 26575 | 0 | Python | 0 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2022-01-03 21:27:24+00:00 | 413 | 181 | Python | 35 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2022-01-03 17:45:47+00:00 | 342 | 28 | Python | 4 | [] |
-| karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-03 21:39:50+00:00 | 0 | 0 | | 0 | [] |
+| th3-jes7er/Pirate | Termux Hacking/Exploitation Toolkit | https://github.com/th3-jes7er/Pirate | ['exploit'] | 1 | 2022-01-03 22:37:01+00:00 | 0 | 0 | Python | 0 | [] |
