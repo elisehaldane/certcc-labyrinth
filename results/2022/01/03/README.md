@@ -1,13 +1,14 @@
 
 # Summary for results/2022/01/03
     
-15 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-03 00:17:00+00:00 | 214277 | 264 | Ruby | 78 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-03 00:49:51+00:00 | 7346 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-03 00:03:39+00:00 | 442398 | 40 | | 21 | [] |
+| rsuppersahabatan/hacker | Files yang berhasil diupload ke folder server secara terbatas. Terima Kasih atas Informasi LOG anda. :) sampai Berjumpa. | https://github.com/rsuppersahabatan/hacker | ['exploit'] | 1 | 2022-01-03 02:38:33+00:00 | 9612 | 0 | PHP | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-03 01:12:35+00:00 | 10785 | 2 | Python | 0 | [] |
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-01-03 00:57:31+00:00 | 37 | 4 | | 2 | [] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-03 00:05:04+00:00 | 16 | 2 | Python | 0 | [] |
