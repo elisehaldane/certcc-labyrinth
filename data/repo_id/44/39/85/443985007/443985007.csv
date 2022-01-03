@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+443985007,s-leonhardt/THM-0day,nikto/inital.enum,20eeeaa66dece859ae12765bfe49c8ab7381a985,CVE-2014-6271
+443985007,s-leonhardt/THM-0day,nikto/inital.enum,20eeeaa66dece859ae12765bfe49c8ab7381a985,CVE-2014-6278
+443985007,s-leonhardt/THM-0day,nikto/inital.enum,20eeeaa66dece859ae12765bfe49c8ab7381a985,OSVDB-112004
+443985007,s-leonhardt/THM-0day,nikto/inital.enum,20eeeaa66dece859ae12765bfe49c8ab7381a985,OSVDB-3092
+443985007,s-leonhardt/THM-0day,nikto/inital.enum,20eeeaa66dece859ae12765bfe49c8ab7381a985,OSVDB-3233
+443985007,s-leonhardt/THM-0day,nikto/inital.enum,20eeeaa66dece859ae12765bfe49c8ab7381a985,OSVDB-3268
+443985007,s-leonhardt/THM-0day,pres.c,831f69e4efca99c68b23f9eff6f8ee4ca70ca772,CVE-2015-1328
