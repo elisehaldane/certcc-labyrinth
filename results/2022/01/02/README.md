@@ -1,24 +1,25 @@
 
 # Summary for results/2022/01/02
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-02 17:02:19+00:00 | 669423 | 25998 | Ruby | 11868 | [] |
-| jravis-8520/h-sploit-paylod | H-SPLOIT-PAYLOAD GENERATE METASPLOIT PAYLOAD IN 1 CLICK | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-02 07:19:54+00:00 | 10 | 0 | Shell | 0 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-02 05:41:38+00:00 | 127 | 0 | | 0 | [] |
 | idknoob91/Azure | This is an Open-Source Roblox Exploit owned by AccioLaw#0001 on discord. | https://github.com/idknoob91/Azure | ['exploit'] | 1 | 2022-01-02 19:49:34+00:00 | 200 | 0 | C# | 0 | [] |
 | Haruster/Haruster-CVE-Note | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | ['exploit'] | 1 | 2022-01-02 11:28:40+00:00 | 4 | 1 | Python | 0 | [] |
 | talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-02 14:19:53+00:00 | 16252 | 0 | Jupyter Notebook | 0 | [] |
 | 0x80000000/DodaVPN-Exploit-PoC | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | ['exploit', 'vulnerability poc'] | 2 | 2022-01-02 14:57:56+00:00 | 5 | 2 | Python | 2 | [] |
+| PfizerJunkie/Seromine | More Stable Offline Exploit Host for PS4 jailbreaking | https://github.com/PfizerJunkie/Seromine | ['exploit'] | 1 | 2022-01-02 10:57:41+00:00 | 1393 | 0 | | 0 | [] |
 | kaptantrx/ExploitHavuz | Exploit Havuz Projesi // Python MongoDB | https://github.com/kaptantrx/ExploitHavuz | ['exploit'] | 1 | 2022-01-02 11:57:06+00:00 | 13 | 0 | Python | 0 | [] |
 | exp1orer/JNDI-Inject-Exploit | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | ['exploit'] | 1 | 2022-01-02 07:21:15+00:00 | 84 | 159 | Java | 58 | [] |
 | TheMirkin/CVE-List-Public-Exploits | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | ['exploit'] | 1 | 2022-01-02 09:22:35+00:00 | 134510 | 0 | | 0 | [] |
 | DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-01-02 20:34:39+00:00 | 2192 | 1 | C | 1 | [] |
 | Mohammadmahdi-Mohammadi/RMIDS | Remote Method Invocation in distributed systems. possibility of transferring objects between client & server and also server codes execution in client side | https://github.com/Mohammadmahdi-Mohammadi/RMIDS | ['remote code execution'] | 1 | 2022-01-02 12:00:59+00:00 | 1692 | 0 | Python | 0 | [] |
 | thl-cmk/CVE-2021-44228-log4j-check_mk-plugin | None | https://github.com/thl-cmk/CVE-2021-44228-log4j-check_mk-plugin | ['cve-2 OR cve_2'] | 1 | 2022-01-02 18:40:39+00:00 | 215275 | 0 | Python | 0 | ['CVE-2021-44228'] |
-| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-02 05:41:38+00:00 | 127 | 0 | | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-02 18:32:26+00:00 | 51 | 4 | | 1 | ['CVE-2021-44228'] |
+| rdicosmo/parmap | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | ['exploit'] | 1 | 2022-01-02 22:29:28+00:00 | 410 | 85 | OCaml | 19 | [] |
 | GianlucaUlivi/log4j-firewall-blacklist-builder | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA and Fortinet Fortigate Network Groups. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | ['exploit'] | 1 | 2022-01-02 00:12:02+00:00 | 14 | 1 | Python | 1 | [] |
 | fullhunt/log4j-scan | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | https://github.com/fullhunt/log4j-scan | ['rce'] | 1 | 2022-01-02 20:21:42+00:00 | 57 | 2488 | Python | 579 | ['CVE-2021-44228'] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-02 22:06:03+00:00 | 12033 | 144 | Python | 32 | [] |
@@ -31,8 +32,8 @@
 | ghostapustaja/legionhub | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | ['exploit'] | 1 | 2022-01-02 14:20:06+00:00 | 1 | 0 | | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-02 18:10:12+00:00 | 97 | 5 | | 0 | [] |
 | 1madtanker1/Network-Exploitation-Toolkit | None | https://github.com/1madtanker1/Network-Exploitation-Toolkit | ['exploit'] | 1 | 2022-01-02 04:27:06+00:00 | 9 | 0 | Python | 0 | [] |
+| jravis-8520/h-sploit-paylod | H-SPLOIT-PAYLOAD GENERATE METASPLOIT PAYLOAD IN 1 CLICK | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-02 07:19:54+00:00 | 10 | 0 | Shell | 0 | [] |
 | KladExploits/Klad-Exploits-V1 | None | https://github.com/KladExploits/Klad-Exploits-V1 | ['exploit'] | 1 | 2022-01-02 00:21:25+00:00 | 0 | 0 | | 0 | [] |
-| AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2022-01-02 01:45:00+00:00 | 351882 | 1 | | 0 | [] |
 | grumpzsux/Exploits | Collection of various exploits for penetration testers. | https://github.com/grumpzsux/Exploits | ['exploit'] | 1 | 2022-01-02 01:04:17+00:00 | 0 | 0 | | 0 | [] |
 | algofishexe/tinyman_exploit_finder | None | https://github.com/algofishexe/tinyman_exploit_finder | ['exploit'] | 1 | 2022-01-02 23:31:32+00:00 | 0 | 0 | Python | 0 | [] |
 | OracleSage/-Rogue-Lineage-Safe-Server-Finder | Your exploit needs to support writefile and syn.queue_on_teleport() | https://github.com/OracleSage/-Rogue-Lineage-Safe-Server-Finder | ['exploit'] | 1 | 2022-01-02 22:26:44+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -58,8 +59,8 @@
 | RBXLModders/Zihsploit | The Source code for ROBLOX Exploit Zihsploit by Trikilla | https://github.com/RBXLModders/Zihsploit | ['exploit'] | 1 | 2022-01-02 03:20:03+00:00 | 0 | 0 | | 0 | [] |
 | DirtyFunkyFresh/DFF_UP_MSF | Metasploit-Framework Upgrade Tool for Kali Linux | https://github.com/DirtyFunkyFresh/DFF_UP_MSF | ['metasploit module OR payload'] | 1 | 2022-01-02 01:59:32+00:00 | 0 | 0 | | 0 | [] |
 | oSumAtrIX/dinkleberg | Catch users faking their offline status on discord | https://github.com/oSumAtrIX/dinkleberg | ['exploit'] | 1 | 2022-01-02 22:59:34+00:00 | 515 | 8 | Rust | 0 | [] |
+| AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2022-01-02 01:45:00+00:00 | 351882 | 1 | | 0 | [] |
 | Jun-5heng/CVE-2021-26084 | confluence远程代码执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-02 13:22:26+00:00 | 58 | 1 | Python | 0 | ['CVE-2021-26084'] |
-| rdicosmo/parmap | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | ['exploit'] | 1 | 2022-01-02 22:29:28+00:00 | 410 | 85 | OCaml | 19 | [] |
 | C00kiie/phoenix-exploit-education-writeup | None | https://github.com/C00kiie/phoenix-exploit-education-writeup | ['exploit'] | 1 | 2022-01-02 19:47:03+00:00 | 86 | 0 | C | 0 | [] |
 | shubhamg0sai/Termux-metasploit | None | https://github.com/shubhamg0sai/Termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-02 03:00:27+00:00 | 113 | 4 | Shell | 2 | [] |
 | mishrasunny174/pwn-docker | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | ['exploit'] | 1 | 2022-01-02 17:09:10+00:00 | 114 | 8 | Dockerfile | 2 | [] |
