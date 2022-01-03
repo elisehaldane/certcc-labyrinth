@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+444201103,Malware-S/Exploit-Win32.CVE-2012-0158.F.doc,Exploit-Win32.CVE-2012-0158.F.doc,8fc486e973acdc49d46458ce295f9b4fe2a2ffb7,CVE-2012-0158
+444201103,Malware-S/Exploit-Win32.CVE-2012-0158.F.doc,README.md,bc00b5aa43951b3ee96e3204bf6c276783b72c9b,CVE-2012-0158
+444201103,Malware-S/Exploit-Win32.CVE-2012-0158.F.doc,_GITHUB_REPO_METADATA_,,CVE-2012-0158
