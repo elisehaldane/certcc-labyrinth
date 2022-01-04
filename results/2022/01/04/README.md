@@ -1,26 +1,29 @@
 
 # Summary for results/2022/01/04
     
-19 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-04 00:20:27+00:00 | 669423 | 26007 | Ruby | 11864 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-04 01:13:00+00:00 | 11888 | 2 | Python | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-04 00:16:57+00:00 | 214277 | 265 | Ruby | 78 | [] |
+| akashganguly420/metasploit-backdoor-decompiled- | None | https://github.com/akashganguly420/metasploit-backdoor-decompiled- | ['metasploit module OR payload'] | 1 | 2022-01-04 03:25:33+00:00 | 0 | 0 | | 0 | [] |
 | AndrewTrube/ManageEngine-SQLi-RCE | SQLi in ZOHO ManageEngine. Elevated to RCE using PostgreSQL's UDF | https://github.com/AndrewTrube/ManageEngine-SQLi-RCE | ['rce'] | 1 | 2022-01-04 03:06:11+00:00 | 0 | 0 | Python | 0 | [] |
 | AndrewTrube/CVE-2014-7205 | Bassmaster Plugin NodeJS RCE | https://github.com/AndrewTrube/CVE-2014-7205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-04 03:00:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-7205'] |
 | AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-04 00:38:35+00:00 | 0 | 0 | Java | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-04 00:07:01+00:00 | 84 | 3 | | 0 | [] |
 | nccgroup/log4j-jndi-be-gone | A Byte Buddy Java agent-based fix for CVE-2021-44228, the log4j 2.x "JNDI LDAP" vulnerability. | https://github.com/nccgroup/log4j-jndi-be-gone | ['cve-2 OR cve_2'] | 1 | 2022-01-04 02:03:58+00:00 | 82 | 68 | Java | 11 | ['CVE-2021-44228'] |
-| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | | 0 | [] |
+| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | nan | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-04 04:46:18+00:00 | 1722 | 68 | Java | 20 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-04 01:13:00+00:00 | 11888 | 2 | Python | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2022-01-04 00:36:57+00:00 | 1240 | 1 | Lua | 1 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-04 00:16:57+00:00 | 214277 | 265 | Ruby | 78 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2022-01-04 01:04:24+00:00 | 1184723 | 0 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-04 04:00:27+00:00 | 73844 | 274 | Python | 83 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-04 02:35:26+00:00 | 415506 | 778 | TypeScript | 101 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-04 01:42:05+00:00 | 31930 | 688 | Go | 110 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-01-04 02:23:47+00:00 | 6905 | 1 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-04 00:04:16+00:00 | 444597 | 41 | | 21 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-04 00:52:39+00:00 | 7352 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-04 00:46:05+00:00 | 14919 | 24 | | 17 | [] |
-| akashganguly420/metasploit-backdoor-decompiled- | None | https://github.com/akashganguly420/metasploit-backdoor-decompiled- | ['metasploit module OR payload'] | 1 | 2022-01-04 03:25:33+00:00 | 0 | 0 | | 0 | [] |
+| Peithon/scLoader | shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-04 04:01:21+00:00 | 0 | 0 | Go | 0 | [] |
