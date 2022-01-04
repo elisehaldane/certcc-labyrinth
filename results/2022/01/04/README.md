@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/04
     
-90 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -28,7 +28,7 @@
 | IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | | 0 | [] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-04 00:38:35+00:00 | 0 | 0 | Java | 0 | [] |
 | karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-04 05:31:44+00:00 | 0 | 0 | | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-04 10:30:39+00:00 | 46354 | 860 | Python | 203 | [] |
+| bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-04 16:37:14+00:00 | 815 | 2 | Go | 0 | [] |
 | AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
 | ThatOneDevBoi/dahood-exploit-script | None | https://github.com/ThatOneDevBoi/dahood-exploit-script | ['exploit'] | 1 | 2022-01-04 20:42:31+00:00 | 0 | 0 | | 0 | [] |
 | drac0n1te/exploits-remastered | None | https://github.com/drac0n1te/exploits-remastered | ['exploit'] | 1 | 2022-01-04 20:15:59+00:00 | 0 | 0 | | 0 | [] |
@@ -50,10 +50,9 @@
 | AndrewTrube/ManageEngine-SQLi-RCE | SQLi in ZOHO ManageEngine. Elevated to RCE using PostgreSQL's UDF | https://github.com/AndrewTrube/ManageEngine-SQLi-RCE | ['rce'] | 1 | 2022-01-04 03:06:11+00:00 | 0 | 0 | Python | 0 | [] |
 | AndrewTrube/CVE-2014-7205 | Bassmaster Plugin NodeJS RCE | https://github.com/AndrewTrube/CVE-2014-7205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-04 03:00:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-7205'] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-04 04:46:18+00:00 | 1722 | 68 | Java | 20 | [] |
-| bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-04 16:37:14+00:00 | 815 | 2 | Go | 0 | [] |
 | kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-01-04 13:21:35+00:00 | 4 | 0 | Python | 0 | [] |
-| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-04 19:49:45+00:00 | 19 | 2 | Python | 0 | [] |
-| httpstarcio/bruteforceSelenium | vulnerability exploit repository with bruteforce | https://github.com/httpstarcio/bruteforceSelenium | ['exploit'] | 1 | 2022-01-04 15:00:30+00:00 | 13 | 0 | Python | 1 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-04 10:30:39+00:00 | 46354 | 860 | Python | 203 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-04 00:04:16+00:00 | 444597 | 41 | | 21 | [] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2022-01-04 15:43:16+00:00 | 4907 | 643 | C | 84 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-04 08:03:40+00:00 | 18246 | 630 | Go | 136 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-04 00:52:39+00:00 | 7352 | 0 | Python | 0 | [] |
@@ -61,6 +60,7 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-04 08:54:52+00:00 | 64096 | 1391 | Python | 281 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-04 14:41:16+00:00 | 1514932 | 3889 | PowerShell | 1362 | [] |
 | TheWover/donut | Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters | https://github.com/TheWover/donut | ['shellcode'] | 1 | 2022-01-04 19:52:50+00:00 | 9770 | 1866 | C | 382 | [] |
+| gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-01-04 21:06:56+00:00 | 153 | 0 | Shell | 0 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-01-04 15:24:16+00:00 | 3703 | 1054 | C | 167 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-04 00:16:57+00:00 | 214277 | 265 | Ruby | 78 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-04 15:22:44+00:00 | 18145 | 1804 | C++ | 298 | [] |
@@ -72,10 +72,10 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-01-04 15:17:28+00:00 | 3849 | 2555 | PowerShell | 735 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-04 10:05:09+00:00 | 27111 | 8629 | Python | 1477 | [] |
 | rdicosmo/parmap | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | ['exploit'] | 1 | 2022-01-04 12:26:12+00:00 | 415 | 85 | OCaml | 20 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-04 00:04:16+00:00 | 444597 | 41 | | 21 | [] |
+| httpstarcio/bruteforceSelenium | vulnerability exploit repository with bruteforce | https://github.com/httpstarcio/bruteforceSelenium | ['exploit'] | 1 | 2022-01-04 15:00:30+00:00 | 13 | 0 | Python | 1 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-01-04 02:23:47+00:00 | 6905 | 1 | JavaScript | 0 | [] |
+| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-04 19:49:45+00:00 | 19 | 2 | Python | 0 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-01-04 20:05:15+00:00 | 5956 | 5 | Go | 2 | [] |
-| aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2022-01-04 06:14:20+00:00 | 9940 | 27 | C++ | 3 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-04 18:10:19+00:00 | 98 | 5 | | 0 | [] |
 | darling-x0r/0day_dos_apple | PoC for iOS, macOS, iPadOS (DoS) | https://github.com/darling-x0r/0day_dos_apple | ['0day'] | 1 | 2022-01-04 15:03:36+00:00 | 7 | 1 | C | 0 | [] |
 | Henrinnes/exploiting-securing-Docker-and-kubernetes | None | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | ['exploit'] | 1 | 2022-01-04 15:30:40+00:00 | 19 | 0 | Java | 0 | [] |
@@ -84,8 +84,8 @@
 | tungdo0602/Discord-Token-Cracker | This is a simple token cracker that use user id to crack (Help me for the requests proxy part). For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2022-01-04 13:32:46+00:00 | 135 | 13 | Python | 5 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-04 18:00:57+00:00 | 1685 | 327 | JavaScript | 824 | [] |
 | dorkerdevil/CVE-2021-26084 | Confluence OGNL injection | https://github.com/dorkerdevil/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2022-01-04 17:33:37+00:00 | 11 | 12 | Python | 4 | ['CVE-2021-26084'] |
+| aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2022-01-04 06:14:20+00:00 | 9940 | 27 | C++ | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-04 01:13:00+00:00 | 11888 | 2 | Python | 0 | [] |
-| lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-04 01:42:05+00:00 | 31930 | 688 | Go | 110 | [] |
 | lilmond/Roblox-Exploit-Scripts | None | https://github.com/lilmond/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2022-01-04 08:10:11+00:00 | 281 | 0 | Lua | 0 | [] |
 | nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2022-01-04 14:23:21+00:00 | 124 | 456 | | 52 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-01-04 14:27:21+00:00 | 22 | 0 | | 0 | [] |
@@ -94,4 +94,5 @@
 | Prashant-hackthebow/exploit | None | https://github.com/Prashant-hackthebow/exploit | ['exploit'] | 1 | 2022-01-04 11:42:39+00:00 | 1249 | 0 | HTML | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-04 04:00:27+00:00 | 73844 | 274 | Python | 83 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-04 02:35:26+00:00 | 415506 | 778 | TypeScript | 101 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-04 01:42:05+00:00 | 31930 | 688 | Go | 110 | [] |
 | ThatOneDevBoi/Dahood-Exploit-B | None | https://github.com/ThatOneDevBoi/Dahood-Exploit-B | ['exploit'] | 1 | 2022-01-04 20:43:11+00:00 | 0 | 0 | | 0 | [] |
