@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/04
     
-22 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -11,10 +11,12 @@
 | AndrewTrube/ManageEngine-SQLi-RCE | SQLi in ZOHO ManageEngine. Elevated to RCE using PostgreSQL's UDF | https://github.com/AndrewTrube/ManageEngine-SQLi-RCE | ['rce'] | 1 | 2022-01-04 03:06:11+00:00 | 0 | 0 | Python | 0 | [] |
 | AndrewTrube/CVE-2014-7205 | Bassmaster Plugin NodeJS RCE | https://github.com/AndrewTrube/CVE-2014-7205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-04 03:00:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-7205'] |
 | AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
+| karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-04 05:31:44+00:00 | 0 | 0 | | 0 | [] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-04 00:38:35+00:00 | 0 | 0 | Java | 0 | [] |
+| BababooeyHackers/Downloader | A post-exploitation CLI module to copy files from a victim computer to a operator-controlled web-server. | https://github.com/BababooeyHackers/Downloader | ['exploit'] | 1 | 2022-01-04 05:27:27+00:00 | 17 | 1 | PHP | 0 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-04 00:07:01+00:00 | 84 | 3 | | 0 | [] |
 | nccgroup/log4j-jndi-be-gone | A Byte Buddy Java agent-based fix for CVE-2021-44228, the log4j 2.x "JNDI LDAP" vulnerability. | https://github.com/nccgroup/log4j-jndi-be-gone | ['cve-2 OR cve_2'] | 1 | 2022-01-04 02:03:58+00:00 | 82 | 68 | Java | 11 | ['CVE-2021-44228'] |
-| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | nan | 0 | [] |
+| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | | 0 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-04 04:46:18+00:00 | 1722 | 68 | Java | 20 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-04 01:13:00+00:00 | 11888 | 2 | Python | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2022-01-04 00:36:57+00:00 | 1240 | 1 | Lua | 1 | [] |
