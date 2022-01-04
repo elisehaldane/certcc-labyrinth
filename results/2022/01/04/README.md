@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/04
     
-47 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-04 00:20:27+00:00 | 669423 | 26007 | Ruby | 11864 | [] |
-| AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
+| karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-04 05:31:44+00:00 | 0 | 0 | | 0 | [] |
+| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | | 0 | [] |
 | jhhua/CsOrMsfBypassAv | I wrote a C++ project for metasploit or CobaltStrike...login_user:root、pass:jhhua | https://github.com/jhhua/CsOrMsfBypassAv | ['metasploit module OR payload'] | 1 | 2022-01-04 03:36:29+00:00 | 296 | 1 | | 0 | [] |
 | nccgroup/log4j-jndi-be-gone | A Byte Buddy Java agent-based fix for CVE-2021-44228, the log4j 2.x "JNDI LDAP" vulnerability. | https://github.com/nccgroup/log4j-jndi-be-gone | ['cve-2 OR cve_2'] | 1 | 2022-01-04 02:03:58+00:00 | 82 | 68 | Java | 11 | ['CVE-2021-44228'] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-01-04 10:50:51+00:00 | 292 | 3 | C++ | 1 | [] |
@@ -15,9 +16,10 @@
 | AbuExploiter/Abu-Exploiter | None | https://github.com/AbuExploiter/Abu-Exploiter | ['exploit'] | 1 | 2022-01-04 08:13:23+00:00 | 5 | 0 | | 0 | [] |
 | HSNHK/Shellkins | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | ['exploit'] | 1 | 2022-01-04 08:04:33+00:00 | 4 | 0 | Python | 0 | [] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-04 00:38:35+00:00 | 0 | 0 | Java | 0 | [] |
-| karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-04 05:31:44+00:00 | 0 | 0 | nan | 0 | [] |
+| rceeop/rceeop.github.io | Github Pages | https://github.com/rceeop/rceeop.github.io | ['rce'] | 1 | 2022-01-04 13:40:50+00:00 | 0 | 0 | SCSS | 0 | [] |
+| AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-04 10:30:39+00:00 | 46354 | 860 | Python | 203 | [] |
 | AndrewTrube/CVE-2014-7205 | Bassmaster Plugin NodeJS RCE | https://github.com/AndrewTrube/CVE-2014-7205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-04 03:00:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-7205'] |
-| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-04 04:46:18+00:00 | 1722 | 68 | Java | 20 | [] |
 | AndrewTrube/ManageEngine-SQLi-RCE | SQLi in ZOHO ManageEngine. Elevated to RCE using PostgreSQL's UDF | https://github.com/AndrewTrube/ManageEngine-SQLi-RCE | ['rce'] | 1 | 2022-01-04 03:06:11+00:00 | 0 | 0 | Python | 0 | [] |
 | akashganguly420/metasploit-backdoor-decompiled- | None | https://github.com/akashganguly420/metasploit-backdoor-decompiled- | ['metasploit module OR payload'] | 1 | 2022-01-04 03:25:33+00:00 | 0 | 0 | | 0 | [] |
 | Peithon/scLoader | shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-04 04:01:21+00:00 | 0 | 0 | Go | 0 | [] |
@@ -27,10 +29,10 @@
 | PfalzPrince/CVE-2021-28750-site | PoC Site for tsunami-security-scanner-plugins. | https://github.com/PfalzPrince/CVE-2021-28750-site | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-04 08:44:46+00:00 | 0 | 0 | JavaScript | 1 | ['CVE-2021-28750'] |
 | SpaceNetLab/SpaceRTC_Project | User-perceived latency is important for the quality of experience (QoE) of wide-area real-time communications (RTC). This paper explores a futuristic yet important problem facing the RTC community: can we exploit emerging mega-constellations to facilitate | https://github.com/SpaceNetLab/SpaceRTC_Project | ['exploit'] | 1 | 2022-01-04 08:17:51+00:00 | 0 | 0 | | 0 | [] |
 | Malware-S/Exploit-Win32.CVE-2017-0147.A | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Exploit-Win32.CVE-2017-0147.A | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-04 10:26:37+00:00 | 0 | 0 | | 0 | ['CVE-2017-0147'] |
-| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-04 04:46:18+00:00 | 1722 | 68 | Java | 20 | [] |
+| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-01-04 13:21:35+00:00 | 4 | 0 | Python | 0 | [] |
+| tungdo0602/Discord-Token-Cracker | This is a simple token cracker that use user id to crack (Help me for the requests proxy part). For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2022-01-04 13:32:46+00:00 | 135 | 13 | Python | 5 | [] |
 | aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2022-01-04 06:14:20+00:00 | 9940 | 27 | C++ | 3 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-04 10:30:39+00:00 | 46354 | 860 | Python | 203 | [] |
-| dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-04 00:52:39+00:00 | 7352 | 0 | Python | 0 | [] |
 | rdicosmo/parmap | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | ['exploit'] | 1 | 2022-01-04 12:26:12+00:00 | 415 | 85 | OCaml | 20 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-04 10:05:09+00:00 | 27111 | 8629 | Python | 1477 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-04 00:06:54+00:00 | 1534772 | 1545 | Python | 527 | [] |
@@ -40,8 +42,8 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-04 00:16:57+00:00 | 214277 | 265 | Ruby | 78 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-04 08:54:52+00:00 | 64096 | 1391 | Python | 281 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-04 00:46:05+00:00 | 14919 | 24 | | 17 | [] |
+| dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-04 00:52:39+00:00 | 7352 | 0 | Python | 0 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-04 08:03:40+00:00 | 18246 | 630 | Go | 136 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-04 01:13:00+00:00 | 11888 | 2 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-04 00:04:16+00:00 | 444597 | 41 | | 21 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-01-04 02:23:47+00:00 | 6905 | 1 | JavaScript | 0 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-04 01:42:05+00:00 | 31930 | 688 | Go | 110 | [] |
@@ -51,4 +53,5 @@
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2022-01-04 01:04:24+00:00 | 1184723 | 0 | Python | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2022-01-04 00:36:57+00:00 | 1240 | 1 | Lua | 1 | [] |
 | lilmond/Roblox-Exploit-Scripts | None | https://github.com/lilmond/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2022-01-04 08:10:11+00:00 | 281 | 0 | Lua | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-04 01:13:00+00:00 | 11888 | 2 | Python | 0 | [] |
 | abhilash-pangutty/log4j-exploit | None | https://github.com/abhilash-pangutty/log4j-exploit | ['exploit'] | 1 | 2022-01-04 11:36:51+00:00 | 0 | 0 | Go | 0 | [] |
