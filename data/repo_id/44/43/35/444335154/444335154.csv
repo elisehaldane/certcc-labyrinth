@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+444335154,PfalzPrince/CVE-2021-28750-site,conf/catalina.properties,14db9a20f8f2858d07ac63da774ce61eaf2e9e69,CVE-2016-6816
+444335154,PfalzPrince/CVE-2021-28750-site,classes/java/main/com/example/tutorial/services/AppModule.class,1ccba42aa2dae8aa60a911e9e975d38bec3bc2ba,CVE-2021-27850
+444335154,PfalzPrince/CVE-2021-28750-site,lib/tomcat-jdbc.jar,579e61f736f94133de1c7a04c9c9460f5126805a,VU#06
+444335154,PfalzPrince/CVE-2021-28750-site,webapps/docs/changelog.html,7f5f34e022f2834466b29fded3c025f1583dbc4e,CVE-2016-5388
+444335154,PfalzPrince/CVE-2021-28750-site,lib/ecj-4.6.3.jar,ade950992eb3caf6ab4f1a88706c755f0bf213d9,VU#09
+444335154,PfalzPrince/CVE-2021-28750-site,webapps/docs/images/tomcat.svg,b2848a4ad1f5f886e0ad9cca33f0a291565d042d,VU#10
+444335154,PfalzPrince/CVE-2021-28750-site,webapps/docs/images/tomcat.svg,b2848a4ad1f5f886e0ad9cca33f0a291565d042d,VU#17
+444335154,PfalzPrince/CVE-2021-28750-site,lib/catalina.jar,e44de438d8600ad2ab18a4333239c453acd1b4a9,VU#26
+444335154,PfalzPrince/CVE-2021-28750-site,webapps/docs/config/systemprops.html,e7ce015a243f7adfbbf6348ca97a0c1a9be55cca,CVE-2016-6816
+444335154,PfalzPrince/CVE-2021-28750-site,_GITHUB_REPO_METADATA_,,CVE-2021-28750
