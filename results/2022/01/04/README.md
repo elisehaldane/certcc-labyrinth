@@ -1,20 +1,21 @@
 
 # Summary for results/2022/01/04
     
-36 records found after deduplication
+38 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-04 00:20:27+00:00 | 669423 | 26007 | Ruby | 11864 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-04 07:31:25+00:00 | 5142 | 3030 | Python | 673 | [] |
+| AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
+| nccgroup/log4j-jndi-be-gone | A Byte Buddy Java agent-based fix for CVE-2021-44228, the log4j 2.x "JNDI LDAP" vulnerability. | https://github.com/nccgroup/log4j-jndi-be-gone | ['cve-2 OR cve_2'] | 1 | 2022-01-04 02:03:58+00:00 | 82 | 68 | Java | 11 | ['CVE-2021-44228'] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-04 00:07:01+00:00 | 84 | 3 | | 0 | [] |
 | BababooeyHackers/Downloader | A post-exploitation CLI module to copy files from a victim computer to a operator-controlled web-server. | https://github.com/BababooeyHackers/Downloader | ['exploit'] | 1 | 2022-01-04 05:27:27+00:00 | 17 | 1 | PHP | 0 | [] |
 | AbuExploiter/Abu-Exploiter | None | https://github.com/AbuExploiter/Abu-Exploiter | ['exploit'] | 1 | 2022-01-04 08:13:23+00:00 | 5 | 0 | | 0 | [] |
 | HSNHK/Shellkins | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | ['exploit'] | 1 | 2022-01-04 08:04:33+00:00 | 4 | 0 | Python | 0 | [] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-04 00:38:35+00:00 | 0 | 0 | Java | 0 | [] |
-| karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-04 05:31:44+00:00 | 0 | 0 | | 0 | [] |
-| AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
+| karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-04 05:31:44+00:00 | 0 | 0 | nan | 0 | [] |
 | AndrewTrube/CVE-2014-7205 | Bassmaster Plugin NodeJS RCE | https://github.com/AndrewTrube/CVE-2014-7205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-04 03:00:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-7205'] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-04 07:31:25+00:00 | 5142 | 3030 | Python | 673 | [] |
 | AndrewTrube/ManageEngine-SQLi-RCE | SQLi in ZOHO ManageEngine. Elevated to RCE using PostgreSQL's UDF | https://github.com/AndrewTrube/ManageEngine-SQLi-RCE | ['rce'] | 1 | 2022-01-04 03:06:11+00:00 | 0 | 0 | Python | 0 | [] |
 | akashganguly420/metasploit-backdoor-decompiled- | None | https://github.com/akashganguly420/metasploit-backdoor-decompiled- | ['metasploit module OR payload'] | 1 | 2022-01-04 03:25:33+00:00 | 0 | 0 | | 0 | [] |
 | Peithon/scLoader | shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-04 04:01:21+00:00 | 0 | 0 | Go | 0 | [] |
@@ -22,18 +23,19 @@
 | maisou/Tishing-Fown-Exploit-Fishing | send direct api to catch fish without playing minigame | https://github.com/maisou/Tishing-Fown-Exploit-Fishing | ['exploit'] | 1 | 2022-01-04 06:36:26+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | BigBoyKlem/RetailTycoonAPI | An exploiting API for Retail Tycoon. | https://github.com/BigBoyKlem/RetailTycoonAPI | ['exploit'] | 1 | 2022-01-04 06:44:47+00:00 | 0 | 0 | Lua | 0 | [] |
 | PfalzPrince/CVE-2021-28750-site | PoC Site for tsunami-security-scanner-plugins. | https://github.com/PfalzPrince/CVE-2021-28750-site | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-04 08:44:46+00:00 | 0 | 0 | JavaScript | 1 | ['CVE-2021-28750'] |
-| nccgroup/log4j-jndi-be-gone | A Byte Buddy Java agent-based fix for CVE-2021-44228, the log4j 2.x "JNDI LDAP" vulnerability. | https://github.com/nccgroup/log4j-jndi-be-gone | ['cve-2 OR cve_2'] | 1 | 2022-01-04 02:03:58+00:00 | 82 | 68 | Java | 11 | ['CVE-2021-44228'] |
+| jhhua/CsOrMsfBypassAv | I wrote a C++ project for metasploit or CobaltStrike...login_user:root、pass:jhhua | https://github.com/jhhua/CsOrMsfBypassAv | ['metasploit module OR payload'] | 1 | 2022-01-04 03:36:29+00:00 | 296 | 1 | | 0 | [] |
 | IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | nan | 0 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-04 04:46:18+00:00 | 1722 | 68 | Java | 20 | [] |
-| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-01-04 02:23:47+00:00 | 6905 | 1 | JavaScript | 0 | [] |
+| aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2022-01-04 06:14:20+00:00 | 9940 | 27 | C++ | 3 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-01-04 07:59:51+00:00 | 3683 | 86 | Go | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-04 00:16:57+00:00 | 214277 | 265 | Ruby | 78 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-04 08:54:52+00:00 | 64096 | 1391 | Python | 281 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-04 00:46:05+00:00 | 14919 | 24 | | 17 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-04 00:52:39+00:00 | 7352 | 0 | Python | 0 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-04 08:03:40+00:00 | 18246 | 630 | Go | 136 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-04 00:04:16+00:00 | 444597 | 41 | | 21 | [] |
+| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-01-04 02:23:47+00:00 | 6905 | 1 | JavaScript | 0 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-04 01:42:05+00:00 | 31930 | 688 | Go | 110 | [] |
-| aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2022-01-04 06:14:20+00:00 | 9940 | 27 | C++ | 3 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-04 02:35:26+00:00 | 415506 | 778 | TypeScript | 101 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-04 04:00:27+00:00 | 73844 | 274 | Python | 83 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2022-01-04 01:04:24+00:00 | 1184723 | 0 | Python | 0 | [] |
