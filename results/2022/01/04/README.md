@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/04
     
-38 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-04 00:20:27+00:00 | 669423 | 26007 | Ruby | 11864 | [] |
-| AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
+| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | nan | 0 | [] |
 | nccgroup/log4j-jndi-be-gone | A Byte Buddy Java agent-based fix for CVE-2021-44228, the log4j 2.x "JNDI LDAP" vulnerability. | https://github.com/nccgroup/log4j-jndi-be-gone | ['cve-2 OR cve_2'] | 1 | 2022-01-04 02:03:58+00:00 | 82 | 68 | Java | 11 | ['CVE-2021-44228'] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-04 00:07:01+00:00 | 84 | 3 | | 0 | [] |
 | BababooeyHackers/Downloader | A post-exploitation CLI module to copy files from a victim computer to a operator-controlled web-server. | https://github.com/BababooeyHackers/Downloader | ['exploit'] | 1 | 2022-01-04 05:27:27+00:00 | 17 | 1 | PHP | 0 | [] |
@@ -14,8 +14,8 @@
 | HSNHK/Shellkins | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | ['exploit'] | 1 | 2022-01-04 08:04:33+00:00 | 4 | 0 | Python | 0 | [] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-04 00:38:35+00:00 | 0 | 0 | Java | 0 | [] |
 | karanratra/log4jshell | log4jshell is an full fledged POC that exploit LOG4J vulnerability. | https://github.com/karanratra/log4jshell | ['exploit', 'vulnerability poc'] | 2 | 2022-01-04 05:31:44+00:00 | 0 | 0 | nan | 0 | [] |
+| AndrewTrube/CVE-2012-2593 | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-04 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2012-2593'] |
 | AndrewTrube/CVE-2014-7205 | Bassmaster Plugin NodeJS RCE | https://github.com/AndrewTrube/CVE-2014-7205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-04 03:00:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-7205'] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-04 07:31:25+00:00 | 5142 | 3030 | Python | 673 | [] |
 | AndrewTrube/ManageEngine-SQLi-RCE | SQLi in ZOHO ManageEngine. Elevated to RCE using PostgreSQL's UDF | https://github.com/AndrewTrube/ManageEngine-SQLi-RCE | ['rce'] | 1 | 2022-01-04 03:06:11+00:00 | 0 | 0 | Python | 0 | [] |
 | akashganguly420/metasploit-backdoor-decompiled- | None | https://github.com/akashganguly420/metasploit-backdoor-decompiled- | ['metasploit module OR payload'] | 1 | 2022-01-04 03:25:33+00:00 | 0 | 0 | | 0 | [] |
 | Peithon/scLoader | shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-04 04:01:21+00:00 | 0 | 0 | Go | 0 | [] |
@@ -23,10 +23,13 @@
 | maisou/Tishing-Fown-Exploit-Fishing | send direct api to catch fish without playing minigame | https://github.com/maisou/Tishing-Fown-Exploit-Fishing | ['exploit'] | 1 | 2022-01-04 06:36:26+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | BigBoyKlem/RetailTycoonAPI | An exploiting API for Retail Tycoon. | https://github.com/BigBoyKlem/RetailTycoonAPI | ['exploit'] | 1 | 2022-01-04 06:44:47+00:00 | 0 | 0 | Lua | 0 | [] |
 | PfalzPrince/CVE-2021-28750-site | PoC Site for tsunami-security-scanner-plugins. | https://github.com/PfalzPrince/CVE-2021-28750-site | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-04 08:44:46+00:00 | 0 | 0 | JavaScript | 1 | ['CVE-2021-28750'] |
+| SpaceNetLab/SpaceRTC_Project | User-perceived latency is important for the quality of experience (QoE) of wide-area real-time communications (RTC). This paper explores a futuristic yet important problem facing the RTC community: can we exploit emerging mega-constellations to facilitate | https://github.com/SpaceNetLab/SpaceRTC_Project | ['exploit'] | 1 | 2022-01-04 08:17:51+00:00 | 0 | 0 | | 0 | [] |
 | jhhua/CsOrMsfBypassAv | I wrote a C++ project for metasploit or CobaltStrike...login_user:root、pass:jhhua | https://github.com/jhhua/CsOrMsfBypassAv | ['metasploit module OR payload'] | 1 | 2022-01-04 03:36:29+00:00 | 296 | 1 | | 0 | [] |
-| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-04 02:33:58+00:00 | 42 | 0 | nan | 0 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-04 04:46:18+00:00 | 1722 | 68 | Java | 20 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-04 10:30:39+00:00 | 46354 | 860 | Python | 203 | [] |
 | aesophor/CRAXplusplus | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | ['exploit'] | 1 | 2022-01-04 06:14:20+00:00 | 9940 | 27 | C++ | 3 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-04 10:05:09+00:00 | 27111 | 8629 | Python | 1477 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-04 07:31:25+00:00 | 5142 | 3030 | Python | 673 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-01-04 07:59:51+00:00 | 3683 | 86 | Go | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-04 00:16:57+00:00 | 214277 | 265 | Ruby | 78 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-04 08:54:52+00:00 | 64096 | 1391 | Python | 281 | [] |
@@ -42,4 +45,4 @@
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2022-01-04 00:36:57+00:00 | 1240 | 1 | Lua | 1 | [] |
 | lilmond/Roblox-Exploit-Scripts | None | https://github.com/lilmond/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2022-01-04 08:10:11+00:00 | 281 | 0 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-04 01:13:00+00:00 | 11888 | 2 | Python | 0 | [] |
-| SpaceNetLab/SpaceRTC_Project | User-perceived latency is important for the quality of experience (QoE) of wide-area real-time communications (RTC). This paper explores a futuristic yet important problem facing the RTC community: can we exploit emerging mega-constellations to facilitate | https://github.com/SpaceNetLab/SpaceRTC_Project | ['exploit'] | 1 | 2022-01-04 08:17:51+00:00 | 0 | 0 | | 0 | [] |
+| Malware-S/Exploit-Win32.CVE-2017-0147.A | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Exploit-Win32.CVE-2017-0147.A | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-04 10:26:37+00:00 | 0 | 0 | | 0 | ['CVE-2017-0147'] |
