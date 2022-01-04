@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+444576850,casagency/metasploit-CVE,log4j-scan.py,22cfa4fa70b73d75084493d282996dd9ced137c4,CVE-2021-44228
+444576850,casagency/metasploit-CVE,log4j-scan.py,22cfa4fa70b73d75084493d282996dd9ced137c4,CVE-2021-45046
