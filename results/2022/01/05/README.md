@@ -1,10 +1,10 @@
 
 # Summary for results/2022/01/05
     
-62 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|--------------------------------------|
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-05 06:38:16+00:00 | 670114 | 26025 | Ruby | 11867 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-05 01:57:48+00:00 | 200 | 0 | HCL | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-05 05:39:07+00:00 | 369 | 16 | Python | 3 | [] |
@@ -17,6 +17,7 @@
 | Glazzes/borealys | A simple remote code execution engine based built with Golang and Bash scripts | https://github.com/Glazzes/borealys | ['remote code execution'] | 1 | 2022-01-05 00:53:53+00:00 | 1415 | 0 | Go | 0 | [] |
 | asef18766/pyshare_exploit | None | https://github.com/asef18766/pyshare_exploit | ['exploit'] | 1 | 2022-01-05 12:49:23+00:00 | 9223 | 0 | JavaScript | 0 | [] |
 | Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-01-05 11:08:31+00:00 | 17 | 243 | | 15 | [] |
+| ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2022-01-05 14:11:57+00:00 | 4 | 0 | Go | 0 | [] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-05 00:46:32+00:00 | 534 | 0 | Java | 0 | [] |
 | Peithon/scLoader | CS shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-05 02:01:18+00:00 | 114 | 1 | Go | 0 | [] |
 | maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-05 01:26:26+00:00 | 16 | 0 | Go | 0 | [] |
@@ -35,6 +36,7 @@
 | dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ | nan | https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ | ['0day'] | 1 | 2022-01-05 10:02:10+00:00 | 29176 | 0 | nan | 0 | [] |
 | 25-67/rblx-exploit | None | https://github.com/25-67/rblx-exploit | ['exploit'] | 1 | 2022-01-05 10:41:26+00:00 | 0 | 0 | | 0 | [] |
 | TheNightSec/NS-DEFACEV1.0 | None | https://github.com/TheNightSec/NS-DEFACEV1.0 | ['exploit'] | 1 | 2022-01-05 10:42:03+00:00 | 0 | 0 | Python | 0 | [] |
+| mr-r3b00t/CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-05 11:29:02+00:00 | 0 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
 | ahmad4fifz/CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2022-01-05 08:38:24+00:00 | 12 | 5 | HTML | 1 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-05 12:37:55+00:00 | 24 | 2 | Python | 0 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-05 00:49:07+00:00 | 139 | 0 | Java | 0 | [] |
@@ -47,6 +49,7 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-05 02:02:40+00:00 | 64122 | 1393 | Python | 281 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-05 00:46:06+00:00 | 15666 | 24 | | 17 | [] |
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-01-05 13:37:05+00:00 | 1859 | 24 | Python | 4 | ['MS17-010'] |
+| lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-01-05 13:56:02+00:00 | 251804 | 0 | Jupyter Notebook | 0 | [] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2022-01-05 12:40:31+00:00 | 4908 | 643 | C | 83 | [] |
 | n1sh1th/CVE-POC | This is collection of latest CVE POCs. | https://github.com/n1sh1th/CVE-POC | ['cve poc'] | 1 | 2022-01-05 12:22:29+00:00 | 13 | 6 | | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-05 00:03:57+00:00 | 448594 | 42 | | 21 | [] |
@@ -56,6 +59,7 @@
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-01-05 02:41:10+00:00 | 8209 | 1 | JavaScript | 2 | [] |
 | Darkmux/EvilIcon | EvilIcon es una herramienta que le permite cambiar el nombre y el ícono de los payload(s) generados por metasploit-framework con cualquier imágen de su elección transformando su formato a (.png) y por último firma el apk para que sea indetectable por el an | https://github.com/Darkmux/EvilIcon | ['metasploit module OR payload'] | 1 | 2022-01-05 08:41:24+00:00 | 17 | 1 | Shell | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-05 04:00:29+00:00 | 76657 | 276 | Python | 83 | [] |
+| 0xTDF/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | Exploitation of security vulnerabilities found in poorly designed token-weighted governance protocols, using AAVE flash loans to gain unfair voting power. | https://github.com/0xTDF/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | ['exploit'] | 1 | 2022-01-05 14:27:35+00:00 | 21 | 4 | Solidity | 0 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['vulnerability poc'] | 1 | 2022-01-05 06:59:01+00:00 | 6616 | 285 | Python | 56 | [] |
 | ikeohachidi/ikeoha | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | ['exploit'] | 1 | 2022-01-05 12:11:19+00:00 | 299 | 0 | Vue | 0 | [] |
 | Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2022-01-05 06:53:57+00:00 | 1185 | 1 | Lua | 0 | [] |
@@ -66,4 +70,4 @@
 | s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2022-01-05 09:14:48+00:00 | 17498777 | 3 | Python | 3 | [] |
 | ahmad4fifz/CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-05 08:44:17+00:00 | 41 | 1 | HTML | 1 | ['CVE-2021-41773'] |
 | ahmad4fifz/CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-05 08:42:08+00:00 | 28 | 2 | Dockerfile | 1 | ['CVE-2021-22205'] |
-| mr-r3b00t/CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-05 11:29:02+00:00 | 0 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
+| nt1dr/CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-05 14:21:43+00:00 | 0 | 4 | Python | 0 | ['CVE-2021-45383', 'CVE-2021-45384'] |

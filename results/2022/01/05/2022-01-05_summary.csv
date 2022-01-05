@@ -11,6 +11,7 @@ Tolaju/Laplace---Shellcode-launcher,"Laplace es un launcher/Stub externo de shel
 Glazzes/borealys,A simple remote code execution engine based built with Golang and Bash scripts,https://github.com/Glazzes/borealys,['remote code execution'],1,2022-01-05T00:53:53+0000,1415,0,Go,0,[]
 asef18766/pyshare_exploit,None,https://github.com/asef18766/pyshare_exploit,['exploit'],1,2022-01-05T12:49:23+0000,9223,0,JavaScript,0,[]
 Puliczek/awesome-list-of-secrets-in-environment-variables,🦄🔒 Awesome list of secrets in environment variables 🖥️,https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables,['exploit'],1,2022-01-05T11:08:31+0000,17,243,,15,[]
+ashmeet-singh/heap-overflow-server,nan,https://github.com/ashmeet-singh/heap-overflow-server,['heap overflow'],1,2022-01-05T14:11:57+0000,4,0,Go,0,[]
 dilipsundarraj1/log4j-exploit-demo,This code base has the code for reproducing the log4j vulnerability in the spring boot app.,https://github.com/dilipsundarraj1/log4j-exploit-demo,['exploit'],1,2022-01-05T00:46:32+0000,534,0,Java,0,[]
 Peithon/scLoader,CS shellcode 加载器,https://github.com/Peithon/scLoader,['shellcode'],1,2022-01-05T02:01:18+0000,114,1,Go,0,[]
 maxpoletaev/van,In-app command/event bus with dependency-injection,https://github.com/maxpoletaev/van,['command injection'],1,2022-01-05T01:26:26+0000,16,0,Go,0,[]
@@ -29,6 +30,7 @@ Kuibagit/CVE-2021-45232-RCE,None,https://github.com/Kuibagit/CVE-2021-45232-RCE,
 dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,nan,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,['0day'],1,2022-01-05T10:02:10+0000,29176,0,,0,[]
 25-67/rblx-exploit,None,https://github.com/25-67/rblx-exploit,['exploit'],1,2022-01-05T10:41:26+0000,0,0,,0,[]
 TheNightSec/NS-DEFACEV1.0,None,https://github.com/TheNightSec/NS-DEFACEV1.0,['exploit'],1,2022-01-05T10:42:03+0000,0,0,Python,0,[]
+mr-r3b00t/CVE-2021-44228,Backdoor detection for VMware view,https://github.com/mr-r3b00t/CVE-2021-44228,['cve-2 OR cve_2'],1,2022-01-05T11:29:02+0000,0,0,PowerShell,0,['CVE-2021-44228']
 ahmad4fifz/CVE-2021-42013,CVE-2021-41773 on Docker,https://github.com/ahmad4fifz/CVE-2021-42013,['cve-2 OR cve_2'],1,2022-01-05T08:38:24+0000,12,5,HTML,1,"['CVE-2021-41773', 'CVE-2021-42013']"
 hansmach1ne/MyExploits,Vulnerabilities found along the way,https://github.com/hansmach1ne/MyExploits,['exploit'],1,2022-01-05T12:37:55+0000,24,2,Python,0,[]
 Winds-Studio/Surf,Fix exploits and remove illegal/NBT items for anarchy servers,https://github.com/Winds-Studio/Surf,['exploit'],1,2022-01-05T00:49:07+0000,139,0,Java,0,[]
@@ -41,6 +43,7 @@ Vandermode/ERRNet,Single Image Reflection Removal Exploiting Misaligned Training
 Ascotbe/Medusa,:cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 ,https://github.com/Ascotbe/Medusa,['cve poc'],1,2022-01-05T02:02:40+0000,64122,1393,Python,281,[]
 nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-01-05T00:46:06+0000,15666,24,,17,[]
 d4t4s3c/Win7Blue,Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64,https://github.com/d4t4s3c/Win7Blue,['exploit'],1,2022-01-05T13:37:05+0000,1859,24,Python,4,['MS17-010']
+lsst-uk/lsst-ir-fusion,Development of code to exploit LSST and VISTA imaging,https://github.com/lsst-uk/lsst-ir-fusion,['exploit'],1,2022-01-05T13:56:02+0000,251804,0,Jupyter Notebook,0,[]
 bitdefender/bddisasm,"bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior.",https://github.com/bitdefender/bddisasm,['shellcode'],1,2022-01-05T12:40:31+0000,4908,643,C,83,[]
 n1sh1th/CVE-POC,This is collection of latest CVE POCs. ,https://github.com/n1sh1th/CVE-POC,['cve poc'],1,2022-01-05T12:22:29+0000,13,6,,4,[]
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-01-05T00:03:57+0000,448594,42,,21,[]
@@ -50,6 +53,7 @@ lunasec-io/lunasec,"LunaSec - Security & Compliance SDKs to stop data leaks in y
 Wr0zen/wr0zen.github.io,Yet Another Exploit Host,https://github.com/Wr0zen/wr0zen.github.io,['exploit'],1,2022-01-05T02:41:10+0000,8209,1,JavaScript,2,[]
 Darkmux/EvilIcon,EvilIcon es una herramienta que le permite cambiar el nombre y el ícono de los payload(s) generados por metasploit-framework con cualquier imágen de su elección transformando su formato a (.png) y por último firma el apk para que sea indetectable por el an,https://github.com/Darkmux/EvilIcon,['metasploit module OR payload'],1,2022-01-05T08:41:24+0000,17,1,Shell,1,[]
 ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.,https://github.com/ycdxsb/PocOrExp_in_Github,"['cve poc', 'exploit']",2,2022-01-05T04:00:29+0000,76657,276,Python,83,[]
+0xTDF/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans,"Exploitation of security vulnerabilities found in poorly designed token-weighted governance protocols, using AAVE flash loans to gain unfair voting power.",https://github.com/0xTDF/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans,['exploit'],1,2022-01-05T14:27:35+0000,21,4,Solidity,0,[]
 bigblackhat/oFx,一款漏洞验证工具而已,https://github.com/bigblackhat/oFx,['vulnerability poc'],1,2022-01-05T06:59:01+0000,6616,285,Python,56,[]
 ikeohachidi/ikeoha,"Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS",https://github.com/ikeohachidi/ikeoha,['exploit'],1,2022-01-05T12:11:19+0000,299,0,Vue,0,[]
 Professor-Puddle/Roblox-Dev,An awesome Roblox Exploit for Roblox,https://github.com/Professor-Puddle/Roblox-Dev,['exploit'],1,2022-01-05T06:53:57+0000,1185,1,Lua,0,[]
@@ -60,4 +64,4 @@ glixzzy/blooket-hack,Multiple game hacks to use so the game becomes easier to pl
 s7ck-Team/exploit-db,exploit-db备份,https://github.com/s7ck-Team/exploit-db,['exploit'],1,2022-01-05T09:14:48+0000,17498777,3,Python,3,[]
 ahmad4fifz/CVE-2021-41773,CVE-2021-41773 on Docker,https://github.com/ahmad4fifz/CVE-2021-41773,"['cve-2 OR cve_2', 'rce']",2,2022-01-05T08:44:17+0000,41,1,HTML,1,['CVE-2021-41773']
 ahmad4fifz/CVE-2021-22205,CVE-2021-22205 on Docker,https://github.com/ahmad4fifz/CVE-2021-22205,"['cve-2 OR cve_2', 'rce']",2,2022-01-05T08:42:08+0000,28,2,Dockerfile,1,['CVE-2021-22205']
-mr-r3b00t/CVE-2021-44228,Backdoor detection for VMware view,https://github.com/mr-r3b00t/CVE-2021-44228,['cve-2 OR cve_2'],1,2022-01-05T11:29:02+0000,0,0,PowerShell,0,['CVE-2021-44228']
+nt1dr/CVE-2021-45383,"Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384",https://github.com/nt1dr/CVE-2021-45383,"['cve poc', 'cve-2 OR cve_2']",2,2022-01-05T14:21:43+0000,0,4,Python,0,"['CVE-2021-45383', 'CVE-2021-45384']"
