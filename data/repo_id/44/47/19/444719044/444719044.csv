@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+444719044,kanitan/log4j2-web-vulnerable,README.md,38f5b4b3a2b9844b441279f2429d4fa589e0d725,CVE-2021-44228
+444719044,kanitan/log4j2-web-vulnerable,_GITHUB_REPO_METADATA_,,CVE-2021-44228
