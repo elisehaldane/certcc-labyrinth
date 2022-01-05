@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/05
     
-60 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-05 06:38:16+00:00 | 670114 | 26025 | Ruby | 11867 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-01-05 11:35:08+00:00 | 12451 | 4220 | Python | 599 | [] |
+| pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-05 01:57:48+00:00 | 200 | 0 | HCL | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-05 05:39:07+00:00 | 369 | 16 | Python | 3 | [] |
 | gh0stkey/Log4j2-RCE-Scanner | BurpSuite Extension: Log4j2 RCE Scanner | https://github.com/gh0stkey/Log4j2-RCE-Scanner | ['rce'] | 1 | 2022-01-05 04:53:14+00:00 | 5458 | 93 | Python | 37 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-05 02:28:40+00:00 | 5127 | 704 | Java | 141 | ['CVE-2021-44228'] |
@@ -20,7 +20,8 @@
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-05 00:46:32+00:00 | 534 | 0 | Java | 0 | [] |
 | Peithon/scLoader | CS shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-05 02:01:18+00:00 | 114 | 1 | Go | 0 | [] |
 | maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-05 01:26:26+00:00 | 16 | 0 | Go | 0 | [] |
-| pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-05 01:57:48+00:00 | 200 | 0 | HCL | 0 | [] |
+| berkantrl/vsFTP_234_exploit | None | https://github.com/berkantrl/vsFTP_234_exploit | ['exploit'] | 1 | 2022-01-05 13:13:11+00:00 | 1 | 1 | Python | 0 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-01-05 11:35:08+00:00 | 12451 | 4220 | Python | 599 | [] |
 | SahilBasia/python_pickle_rce_patch | None | https://github.com/SahilBasia/python_pickle_rce_patch | ['rce'] | 1 | 2022-01-05 10:48:03+00:00 | 13 | 0 | Python | 0 | [] |
 | NABILPRO2009/CMD-X-Admin-Commands-Code | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | ['exploit'] | 1 | 2022-01-05 01:17:57+00:00 | 0 | 0 | | 0 | [] |
 | aSnowyNight/Aura | Aura is an Executor Made for Roblox with Many Features | https://github.com/aSnowyNight/Aura | ['exploit'] | 1 | 2022-01-05 00:17:21+00:00 | 0 | 0 | | 0 | [] |
@@ -37,7 +38,7 @@
 | ahmad4fifz/CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2022-01-05 08:38:24+00:00 | 12 | 5 | HTML | 1 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-05 12:37:55+00:00 | 24 | 2 | Python | 0 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-05 00:49:07+00:00 | 139 | 0 | Java | 0 | [] |
-| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-05 04:41:46+00:00 | 415542 | 780 | TypeScript | 102 | [] |
+| rogxo/ShellcodeLoader | Shellcode加载器大全 | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2022-01-05 08:11:07+00:00 | 37 | 1 | C++ | 2 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-05 00:06:56+00:00 | 1534772 | 1546 | Python | 528 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-05 00:17:11+00:00 | 214278 | 265 | Ruby | 78 | [] |
 | matamorphosis/Browser-Exploits | Some Generic Browser Exploits (For Educational Purposes Only) | https://github.com/matamorphosis/Browser-Exploits | ['exploit'] | 1 | 2022-01-05 12:07:02+00:00 | 44 | 24 | HTML | 25 | [] |
@@ -45,13 +46,14 @@
 | Vandermode/ERRNet | Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements (CVPR 2019) | https://github.com/Vandermode/ERRNet | ['exploit'] | 1 | 2022-01-05 09:29:07+00:00 | 987 | 174 | Python | 46 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-05 02:02:40+00:00 | 64122 | 1393 | Python | 281 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-05 00:46:06+00:00 | 15666 | 24 | | 17 | [] |
+| d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-01-05 13:37:05+00:00 | 1859 | 24 | Python | 4 | ['MS17-010'] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2022-01-05 12:40:31+00:00 | 4908 | 643 | C | 83 | [] |
 | n1sh1th/CVE-POC | This is collection of latest CVE POCs. | https://github.com/n1sh1th/CVE-POC | ['cve poc'] | 1 | 2022-01-05 12:22:29+00:00 | 13 | 6 | | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-05 00:03:57+00:00 | 448594 | 42 | | 21 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-01-05 01:04:01+00:00 | 290789 | 778 | | 174 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-05 01:05:09+00:00 | 101 | 0 | PHP | 0 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-05 04:41:46+00:00 | 415542 | 780 | TypeScript | 102 | [] |
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-01-05 02:41:10+00:00 | 8209 | 1 | JavaScript | 2 | [] |
-| rogxo/ShellcodeLoader | Shellcode加载器大全 | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2022-01-05 08:11:07+00:00 | 37 | 1 | C++ | 2 | [] |
 | Darkmux/EvilIcon | EvilIcon es una herramienta que le permite cambiar el nombre y el ícono de los payload(s) generados por metasploit-framework con cualquier imágen de su elección transformando su formato a (.png) y por último firma el apk para que sea indetectable por el an | https://github.com/Darkmux/EvilIcon | ['metasploit module OR payload'] | 1 | 2022-01-05 08:41:24+00:00 | 17 | 1 | Shell | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-05 04:00:29+00:00 | 76657 | 276 | Python | 83 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['vulnerability poc'] | 1 | 2022-01-05 06:59:01+00:00 | 6616 | 285 | Python | 56 | [] |
