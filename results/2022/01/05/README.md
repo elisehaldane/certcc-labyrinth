@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/05
     
-22 records found after deduplication
+23 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-05 00:06:56+00:00 | 1534772 | 1546 | Python | 528 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-05 00:17:11+00:00 | 214278 | 265 | Ruby | 78 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-05 00:49:07+00:00 | 139 | 0 | Java | 0 | [] |
 | aSnowyNight/Aura | Aura is an Executor Made for Roblox with Many Features | https://github.com/aSnowyNight/Aura | ['exploit'] | 1 | 2022-01-05 00:17:21+00:00 | 0 | 0 | | 0 | [] |
 | NABILPRO2009/CMD-X-Admin-Commands-Code | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | ['exploit'] | 1 | 2022-01-05 01:17:57+00:00 | 0 | 0 | | 0 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-05 01:57:48+00:00 | 200 | 0 | HCL | 0 | [] |
@@ -16,8 +16,8 @@
 | Glazzes/borealys | A simple remote code execution engine based built with Golang and Bash scripts | https://github.com/Glazzes/borealys | ['remote code execution'] | 1 | 2022-01-05 00:53:53+00:00 | 1415 | 0 | Go | 0 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-01-05 02:35:18+00:00 | 318 | 3 | C++ | 1 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-05 02:28:40+00:00 | 5127 | 704 | Java | 141 | ['CVE-2021-44228'] |
-| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-05 00:49:07+00:00 | 139 | 0 | Java | 0 | [] |
 | glixzzy/blooket-hack | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-05 02:09:28+00:00 | 1685 | 327 | JavaScript | 831 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-05 00:17:11+00:00 | 214278 | 265 | Ruby | 78 | [] |
 | SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-05 01:39:22+00:00 | 9995 | 29 | C++ | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-05 01:14:32+00:00 | 13662 | 2 | Python | 0 | [] |
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-01-05 02:41:10+00:00 | 8209 | 1 | JavaScript | 2 | [] |
@@ -26,4 +26,5 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-05 00:03:57+00:00 | 448594 | 42 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-05 00:46:06+00:00 | 15666 | 24 | | 17 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-05 02:02:40+00:00 | 64122 | 1393 | Python | 281 | [] |
+| Frichetten/CVE-2019-5736-PoC | PoC for CVE-2019-5736 | https://github.com/Frichetten/CVE-2019-5736-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-05 03:20:49+00:00 | 1751 | 550 | Go | 152 | ['CVE-2019-5736'] |
 | Keuturhan/AslanNeferlerTurkSploit | oto Metasploit kurucu | https://github.com/Keuturhan/AslanNeferlerTurkSploit | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-05 00:48:12+00:00 | 0 | 0 | | 0 | [] |
