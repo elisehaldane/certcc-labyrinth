@@ -1,24 +1,25 @@
 
 # Summary for results/2022/01/05
     
-50 records found after deduplication
+54 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-05 06:38:16+00:00 | 670114 | 26025 | Ruby | 11867 | [] |
-| pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-05 01:57:48+00:00 | 200 | 0 | HCL | 0 | [] |
-| gh0stkey/Log4j2-RCE-Scanner | BurpSuite Extension: Log4j2 RCE Scanner | https://github.com/gh0stkey/Log4j2-RCE-Scanner | ['rce'] | 1 | 2022-01-05 04:53:14+00:00 | 5458 | 93 | Python | 37 | [] |
+| SahilBasia/python_pickle_rce_patch | None | https://github.com/SahilBasia/python_pickle_rce_patch | ['rce'] | 1 | 2022-01-05 10:48:03+00:00 | 13 | 0 | Python | 0 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-05 02:28:40+00:00 | 5127 | 704 | Java | 141 | ['CVE-2021-44228'] |
 | b-abderrahmane/CVE-2021-44228-playground | None | https://github.com/b-abderrahmane/CVE-2021-44228-playground | ['cve-2 OR cve_2'] | 1 | 2022-01-05 09:19:14+00:00 | 38869 | 3 | Java | 2 | ['CVE-2021-44228'] |
 | ahmad4fifz/CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-05 08:37:31+00:00 | 17852 | 3 | Dockerfile | 1 | ['CVE-2021-44228'] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-05 04:39:16+00:00 | 55 | 4 | | 1 | ['CVE-2021-44228'] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-01-05 02:35:18+00:00 | 318 | 3 | C++ | 1 | [] |
 | Glazzes/borealys | A simple remote code execution engine based built with Golang and Bash scripts | https://github.com/Glazzes/borealys | ['remote code execution'] | 1 | 2022-01-05 00:53:53+00:00 | 1415 | 0 | Go | 0 | [] |
+| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-01-05 11:08:31+00:00 | 17 | 243 | | 15 | [] |
 | dilipsundarraj1/log4j-exploit-demo | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | ['exploit'] | 1 | 2022-01-05 00:46:32+00:00 | 534 | 0 | Java | 0 | [] |
 | Peithon/scLoader | CS shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-05 02:01:18+00:00 | 114 | 1 | Go | 0 | [] |
 | maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-05 01:26:26+00:00 | 16 | 0 | Go | 0 | [] |
+| pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-05 01:57:48+00:00 | 200 | 0 | HCL | 0 | [] |
 | NABILPRO2009/CMD-X-Admin-Commands-Code | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | ['exploit'] | 1 | 2022-01-05 01:17:57+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-05 00:06:56+00:00 | 1534772 | 1546 | Python | 528 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-01-05 11:35:08+00:00 | 12451 | 4220 | Python | 599 | [] |
 | aSnowyNight/Aura | Aura is an Executor Made for Roblox with Many Features | https://github.com/aSnowyNight/Aura | ['exploit'] | 1 | 2022-01-05 00:17:21+00:00 | 0 | 0 | | 0 | [] |
 | Keuturhan/AslanNeferlerTurkSploit | oto Metasploit kurucu | https://github.com/Keuturhan/AslanNeferlerTurkSploit | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-05 00:48:12+00:00 | 0 | 0 | | 0 | [] |
 | GYLQ/CVE-2021-45232-RCE | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-05 04:45:59+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-45232'] |
@@ -29,10 +30,12 @@
 | Kuibagit/CVE-2021-45232-RCE | None | https://github.com/Kuibagit/CVE-2021-45232-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-05 09:13:36+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-45232'] |
 | dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ | nan | https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ | ['0day'] | 1 | 2022-01-05 10:02:10+00:00 | 29176 | 0 | nan | 0 | [] |
 | 25-67/rblx-exploit | None | https://github.com/25-67/rblx-exploit | ['exploit'] | 1 | 2022-01-05 10:41:26+00:00 | 0 | 0 | | 0 | [] |
+| TheNightSec/NS-DEFACEV1.0 | None | https://github.com/TheNightSec/NS-DEFACEV1.0 | ['exploit'] | 1 | 2022-01-05 10:42:03+00:00 | 0 | 0 | Python | 0 | [] |
+| gh0stkey/Log4j2-RCE-Scanner | BurpSuite Extension: Log4j2 RCE Scanner | https://github.com/gh0stkey/Log4j2-RCE-Scanner | ['rce'] | 1 | 2022-01-05 04:53:14+00:00 | 5458 | 93 | Python | 37 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-05 05:39:07+00:00 | 369 | 16 | Python | 3 | [] |
 | ahmad4fifz/CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2022-01-05 08:38:24+00:00 | 12 | 5 | HTML | 1 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-05 00:49:07+00:00 | 139 | 0 | Java | 0 | [] |
-| rogxo/ShellcodeLoader | Shellcode加载器大全 | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2022-01-05 08:11:07+00:00 | 37 | 1 | C++ | 2 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-05 00:06:56+00:00 | 1534772 | 1546 | Python | 528 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-05 00:17:11+00:00 | 214278 | 265 | Ruby | 78 | [] |
 | Frichetten/CVE-2019-5736-PoC | PoC for CVE-2019-5736 | https://github.com/Frichetten/CVE-2019-5736-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-05 03:20:49+00:00 | 1751 | 550 | Go | 152 | ['CVE-2019-5736'] |
 | Vandermode/ERRNet | Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements (CVPR 2019) | https://github.com/Vandermode/ERRNet | ['exploit'] | 1 | 2022-01-05 09:29:07+00:00 | 987 | 174 | Python | 46 | [] |
@@ -54,4 +57,5 @@
 | s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2022-01-05 09:14:48+00:00 | 17498777 | 3 | Python | 3 | [] |
 | ahmad4fifz/CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-05 08:44:17+00:00 | 41 | 1 | HTML | 1 | ['CVE-2021-41773'] |
 | ahmad4fifz/CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-05 08:42:08+00:00 | 28 | 2 | Dockerfile | 1 | ['CVE-2021-22205'] |
-| TheNightSec/NS-DEFACEV1.0 | None | https://github.com/TheNightSec/NS-DEFACEV1.0 | ['exploit'] | 1 | 2022-01-05 10:42:03+00:00 | 0 | 0 | Python | 0 | [] |
+| rogxo/ShellcodeLoader | Shellcode加载器大全 | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2022-01-05 08:11:07+00:00 | 37 | 1 | C++ | 2 | [] |
+| mr-r3b00t/CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-05 11:29:02+00:00 | 0 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
