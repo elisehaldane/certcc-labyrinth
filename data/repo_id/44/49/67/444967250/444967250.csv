@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+444967250,puzzlepeaches/Log4jHorizon,README.md,d08d053ae656b56fe23c869cd175940af2efe5c2,CVE-2021-44228
+444967250,puzzlepeaches/Log4jHorizon,_GITHUB_REPO_METADATA_,,CVE-2021-44228
