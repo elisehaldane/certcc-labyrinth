@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+322855772,pen4uin/Bug-Bounty-Hunter,CRLF.md,5761c0792d7338317a6cb6ca4c250fa14fd16b7a,CVE-2019-9947
+322855772,pen4uin/Bug-Bounty-Hunter,Command Injection.md,b6f19c910c5912edfde6675217dc91b3bebe0899,CVE-2019-11510
+322855772,pen4uin/Bug-Bounty-Hunter,Command Injection.md,b6f19c910c5912edfde6675217dc91b3bebe0899,CVE-2019-11539
+322855772,pen4uin/Bug-Bounty-Hunter,SSRF.md,e42195e9b3f86e47302115d28640336ef2233a01,CVE-2019-5464
