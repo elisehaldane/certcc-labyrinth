@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/06
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -19,7 +19,7 @@
 | freemyipod/wInd3x | iPod Nano 4G and Nano 5G bootrom exploit | https://github.com/freemyipod/wInd3x | ['exploit'] | 1 | 2022-01-06 03:31:03+00:00 | 495 | 0 | Go | 0 | [] |
 | talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-06 18:39:15+00:00 | 32279 | 0 | Jupyter Notebook | 0 | [] |
 | criteo/log4j-jndi-jar-detector | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | ['exploit'] | 1 | 2022-01-06 14:26:18+00:00 | 3151 | 3 | Go | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-06 03:16:45+00:00 | 21989 | 6254 | JavaScript | 1473 | [] |
+| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-06 06:42:47+00:00 | 29 | 2 | Python | 0 | [] |
 | loneicewolf/LOCKHEED-PLATFORM | The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like "platform", designed for advanced Cyber Assessments. | https://github.com/loneicewolf/LOCKHEED-PLATFORM | ['metasploit module OR payload'] | 1 | 2022-01-06 13:06:26+00:00 | 26 | 2 | | 0 | [] |
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-06 02:37:55+00:00 | 416 | 299 | PowerShell | 79 | ['CVE-2021-44228'] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-06 08:47:37+00:00 | 57 | 4 | | 1 | ['CVE-2021-44228'] |
@@ -51,7 +51,7 @@
 | MM2YMM2/Exploit-For-Roblox | My Exploit Is Working, But Turn Off Your Anti-Viruses. | https://github.com/MM2YMM2/Exploit-For-Roblox | ['exploit'] | 1 | 2022-01-06 12:27:11+00:00 | 0 | 0 | | 0 | [] |
 | exploit-io/CVE-2021-41349 | Exploitation of CVE-2021-41349 | https://github.com/exploit-io/CVE-2021-41349 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-06 10:33:00+00:00 | 7 | 0 | Python | 0 | ['CVE-2021-41349'] |
 | FalkoBenthin/metasploit | None | https://github.com/FalkoBenthin/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-06 09:35:43+00:00 | 0 | 0 | | 0 | [] |
-| rnsss/CVE-2021-43798-poc | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-06 09:37:25+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43798'] |
+| rnsss/CVE-2021-43798-poc | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-06 09:43:18+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | laobaobao/shellcode- | shellcode免杀 | https://github.com/laobaobao/shellcode- | ['shellcode'] | 1 | 2022-01-06 09:31:40+00:00 | 0 | 0 | Python | 0 | [] |
 | gnaiq/cve2022123 | None | https://github.com/gnaiq/cve2022123 | ['cve-2 OR cve_2'] | 1 | 2022-01-06 07:58:57+00:00 | 0 | 0 | | 0 | [] |
 | Kum4r-Princ3/Metasploit | Metasploit | https://github.com/Kum4r-Princ3/Metasploit | ['metasploit module OR payload'] | 1 | 2022-01-06 07:54:22+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -59,9 +59,10 @@
 | soumosir/exploting-binaries | exploiting binaries with vulnarabilities | https://github.com/soumosir/exploting-binaries | ['exploit'] | 1 | 2022-01-06 04:23:23+00:00 | 0 | 0 | | 0 | [] |
 | firedragon9511/ModifiedExploit1Exame | None | https://github.com/firedragon9511/ModifiedExploit1Exame | ['exploit'] | 1 | 2022-01-06 03:57:33+00:00 | 0 | 0 | Python | 0 | [] |
 | ghostapustaja/legionhub | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | ['exploit'] | 1 | 2022-01-06 12:44:05+00:00 | 21 | 0 | | 0 | [] |
-| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-06 06:42:47+00:00 | 29 | 2 | Python | 0 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2022-01-06 03:17:13+00:00 | 273 | 7 | Go | 2 | [] |
-| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-01-06 01:21:02+00:00 | 291630 | 779 | C# | 175 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-06 03:16:45+00:00 | 21989 | 6254 | JavaScript | 1473 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-01-06 20:44:52+00:00 | 85287 | 2695 | Python | 408 | [] |
+| Epokhe/clubhouse-follow-exploit | A way to get fake followers on Clubhouse | https://github.com/Epokhe/clubhouse-follow-exploit | ['exploit'] | 1 | 2022-01-06 03:35:00+00:00 | 100 | 5 | Python | 3 | [] |
 | Malandrone/PowerDecode | PowerDecode is a PowerShell-based tool that allows to deobfuscate PowerShell scripts obfuscated across multiple layers. The tool performs code dynamic analysis, extracting malware hosting URLs and checking http response.It can also detect if the malware at | https://github.com/Malandrone/PowerDecode | ['shellcode'] | 1 | 2022-01-06 15:40:28+00:00 | 2197 | 9 | PowerShell | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-06 00:03:44+00:00 | 452054 | 42 | | 21 | [] |
 | LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2022-01-06 15:37:20+00:00 | 1117 | 2781 | JavaScript | 314 | [] |
@@ -72,8 +73,8 @@
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-06 11:55:11+00:00 | 7362 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-06 00:46:06+00:00 | 16593 | 24 | | 17 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-06 06:27:02+00:00 | 64158 | 1396 | Python | 282 | [] |
-| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-01-06 20:44:52+00:00 | 85287 | 2695 | Python | 408 | [] |
 | ES-DOC-INSTITUTIONAL/as-rcec | AS-RCEC documentation archive | https://github.com/ES-DOC-INSTITUTIONAL/as-rcec | ['rce'] | 1 | 2022-01-06 01:42:43+00:00 | 3326 | 0 | | 0 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-06 18:10:17+00:00 | 99 | 5 | | 0 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2022-01-06 00:15:35+00:00 | 1092 | 146 | Go | 38 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-01-06 08:08:45+00:00 | 292530 | 93 | Python | 14 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-06 00:17:02+00:00 | 214279 | 265 | Ruby | 78 | [] |
@@ -85,9 +86,9 @@
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-06 05:15:31+00:00 | 32334 | 1031 | Python | 377 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-06 08:41:09+00:00 | 27204 | 8641 | Python | 1479 | [] |
 | rdicosmo/parmap | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | ['exploit'] | 1 | 2022-01-06 17:44:19+00:00 | 417 | 85 | OCaml | 20 | [] |
-| Epokhe/clubhouse-follow-exploit | A way to get fake followers on Clubhouse | https://github.com/Epokhe/clubhouse-follow-exploit | ['exploit'] | 1 | 2022-01-06 03:35:00+00:00 | 100 | 5 | Python | 3 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-01-06 01:21:02+00:00 | 291630 | 779 | C# | 175 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-06 01:09:09+00:00 | 102 | 0 | PHP | 0 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-06 18:10:17+00:00 | 99 | 5 | | 0 | [] |
+| epi052/osed-scripts | bespoke tooling for offensive security's Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | ['exploit', 'shellcode'] | 2 | 2022-01-06 15:23:57+00:00 | 758 | 141 | Python | 62 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-06 04:00:29+00:00 | 78912 | 276 | Python | 83 | [] |
 | 19dullarfortnitecard/DogPieceGUI | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/DogPieceGUI | ['exploit'] | 1 | 2022-01-06 04:12:43+00:00 | 49 | 0 | Lua | 0 | [] |
 | shartware-rbx/injector | The code injector for Shartware. | https://github.com/shartware-rbx/injector | ['exploit'] | 1 | 2022-01-06 04:19:57+00:00 | 1 | 0 | | 0 | [] |
