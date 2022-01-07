@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+445372469,minhnq22/log4shell_exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+445372469,minhnq22/log4shell_exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+445372469,minhnq22/log4shell_exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+445372469,minhnq22/log4shell_exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+445372469,minhnq22/log4shell_exploit,marshalsec/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+445372469,minhnq22/log4shell_exploit,exploit.py,af6b26d633a5dc290edee8ca438232db6aa52a7a,CVE-2021-44228
+445372469,minhnq22/log4shell_exploit,README.md,af893309480a70ddc9b600e0219a980fa0c7f4f8,CVE-2021-44228
