@@ -1,14 +1,15 @@
 
 # Summary for results/2022/01/07
     
-52 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-07 05:19:02+00:00 | 669915 | 26037 | Ruby | 11875 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-07 02:19:31+00:00 | 21989 | 6253 | JavaScript | 1473 | [] |
+| 358x33/JustAHub | Roblox Exploit Hub | https://github.com/358x33/JustAHub | ['exploit'] | 1 | 2022-01-07 00:17:16+00:00 | 5 | 0 | | 0 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-07 00:00:20+00:00 | 66 | 0 | C | 0 | [] |
 | h4ck1t/nightmare | All my exploits written when learning on Nightmare | https://github.com/h4ck1t/nightmare | ['exploit'] | 1 | 2022-01-07 05:41:08+00:00 | 15509 | 0 | Python | 0 | [] |
+| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-07 10:40:30+00:00 | 12335 | 147 | Python | 32 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-01-07 04:47:37+00:00 | 282 | 3 | Python | 3 | [] |
 | KameleonReloaded/900V4B | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | ['exploit'] | 1 | 2022-01-07 05:25:18+00:00 | 2478 | 11 | JavaScript | 9 | [] |
 | l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2022-01-07 06:08:16+00:00 | 3 | 0 | Lua | 0 | [] |
@@ -18,22 +19,24 @@
 | rnsss/CVE-2021-43798-poc | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-07 03:09:46+00:00 | 2 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | Errare-humanum-est/Linearization-Protocol | Verification of the Linearization Protocol proposed in: Scale-out CcNUMA: Exploiting Skew with Strongly Consistent Caching | https://github.com/Errare-humanum-est/Linearization-Protocol | ['exploit'] | 1 | 2022-01-07 01:38:40+00:00 | 6896 | 0 | C++ | 1 | [] |
 | dindibo/DHCP-Spoofing | This is a POC repository of DHCP Spoofing attack | https://github.com/dindibo/DHCP-Spoofing | ['attack poc'] | 1 | 2022-01-07 01:33:33+00:00 | 0 | 0 | nan | 0 | [] |
-| 358x33/JustAHub | Roblox Exploit Hub | https://github.com/358x33/JustAHub | ['exploit'] | 1 | 2022-01-07 00:17:16+00:00 | 5 | 0 | | 0 | [] |
 | 0-POOT/LFI_to_RCE | explain how to exploit LFI and get RCE | https://github.com/0-POOT/LFI_to_RCE | ['exploit', 'rce'] | 2 | 2022-01-07 00:50:41+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-07 02:19:31+00:00 | 21989 | 6253 | JavaScript | 1473 | [] |
 | rjcoulter/Stack-Smashing | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | ['exploit'] | 1 | 2022-01-07 01:45:14+00:00 | 0 | 0 | | 0 | [] |
 | gopro2027/GTAOnline-RCE | This is the writeup for my GTA V rce discovered on PS3 in 2019 | https://github.com/gopro2027/GTAOnline-RCE | ['rce'] | 1 | 2022-01-07 02:50:38+00:00 | 0 | 0 | | 0 | [] |
 | minhnq22/log4shell_exploit | Log4shell Exploit tool. | https://github.com/minhnq22/log4shell_exploit | ['exploit'] | 1 | 2022-01-07 02:41:00+00:00 | 0 | 0 | Python | 0 | [] |
 | jinqiwenc/m57 | An x86 linux syscall table reference tool. Handy for when writing shellcode and exploits. | https://github.com/jinqiwenc/m57 | ['exploit', 'shellcode'] | 2 | 2022-01-07 03:04:00+00:00 | 0 | 0 | Python | 0 | [] |
 | rnsss/CVE-2021-42013 | CVE-2021-42013-exp | https://github.com/rnsss/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2022-01-07 03:12:48+00:00 | 0 | 0 | | 0 | ['CVE-2021-42013'] |
-| je6k/Thinkphp-Unserialize-Rce | None | https://github.com/je6k/Thinkphp-Unserialize-Rce | ['rce', 'rce poc'] | 2 | 2022-01-07 08:43:34+00:00 | 0 | 1 | PHP | 0 | [] |
+| je6k/Thinkphp-Unserialize-Rce | Thinkphp 反序列化 RCE 等 POC 调试记录 | https://github.com/je6k/Thinkphp-Unserialize-Rce | ['rce', 'rce poc'] | 2 | 2022-01-07 08:49:55+00:00 | 1251 | 1 | PHP | 0 | [] |
 | nismo1337/clubdark.net-roblox-exploit | None | https://github.com/nismo1337/clubdark.net-roblox-exploit | ['exploit'] | 1 | 2022-01-07 08:10:25+00:00 | 0 | 0 | C# | 0 | [] |
 | lwollan/log4j-exploit-server | None | https://github.com/lwollan/log4j-exploit-server | ['exploit'] | 1 | 2022-01-07 09:40:35+00:00 | 0 | 0 | | 0 | [] |
 | sbridgens/ProcessHollowing | Process hollowing C# code with shellcode encryptor | https://github.com/sbridgens/ProcessHollowing | ['shellcode'] | 1 | 2022-01-07 09:36:54+00:00 | 0 | 0 | | 0 | [] |
 | connna/rogue-roblox-exploit | simple npc teleport for old rogue lineage khei, now works in every rogue copy | https://github.com/connna/rogue-roblox-exploit | ['exploit'] | 1 | 2022-01-07 09:42:03+00:00 | 0 | 0 | | 0 | [] |
+| secureITmania/xss_exploit_scripts | The repository contains the scripts to exploit the xss. There are scripts I write while doing bugbouties. If you think the scripts are useful to you feel free use. | https://github.com/secureITmania/xss_exploit_scripts | ['exploit'] | 1 | 2022-01-07 09:42:59+00:00 | 0 | 0 | | 0 | [] |
+| Vulnmachines/log4jshell_CVE-2021-44228 | Log4jshell - CVE-2021-44228 | https://github.com/Vulnmachines/log4jshell_CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-07 10:02:43+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2022-01-07 03:59:34+00:00 | 269 | 7 | Go | 2 | [] |
 | cshewmake2/cone-classification | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects' cone cl | https://github.com/cshewmake2/cone-classification | ['exploit'] | 1 | 2022-01-07 06:56:22+00:00 | 8052 | 0 | Jupyter Notebook | 0 | [] |
 | SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-07 07:05:27+00:00 | 10040 | 29 | C++ | 3 | [] |
-| vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2022-01-07 04:00:14+00:00 | 486 | 8 | Go | 8 | [] |
+| lintstar/About-Attack | 一个旨在通过应用场景 / 标签对 Github 红队向工具 / 资源进行分类收集，降低红队技术门槛的手册【持续更新】 | https://github.com/lintstar/About-Attack | ['rce'] | 1 | 2022-01-07 09:53:26+00:00 | 21890 | 260 | | 65 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-07 07:38:26+00:00 | 46359 | 860 | Python | 203 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-07 00:06:57+00:00 | 1534773 | 1547 | Python | 529 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-01-07 06:19:29+00:00 | 4062 | 86 | Go | 7 | [] |
@@ -44,10 +47,12 @@
 | mm0r1/exploits | Pwn stuff. | https://github.com/mm0r1/exploits | ['exploit'] | 1 | 2022-01-07 01:57:14+00:00 | 19 | 1315 | PHP | 333 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-07 00:46:07+00:00 | 17185 | 25 | | 18 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-07 02:06:34+00:00 | 7368 | 0 | Python | 0 | [] |
+| vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2022-01-07 04:00:14+00:00 | 486 | 8 | Go | 8 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-07 00:03:57+00:00 | 458194 | 42 | | 21 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-07 01:24:31+00:00 | 17199 | 2 | Python | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-07 02:03:56+00:00 | 132347 | 14 | Python | 5 | [] |
+| yuawn/Linux-Kernel-Exploitation | Linux kernel exploitation lab. | https://github.com/yuawn/Linux-Kernel-Exploitation | ['exploit'] | 1 | 2022-01-07 10:08:44+00:00 | 17198 | 91 | C | 13 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-07 02:41:10+00:00 | 68109 | 696 | Go | 111 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-01-07 10:07:17+00:00 | 291650 | 783 | C# | 175 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-07 01:13:25+00:00 | 102 | 0 | PHP | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-07 01:16:53+00:00 | 415570 | 787 | TypeScript | 102 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-07 01:33:02+00:00 | 168449 | 55 | | 7 | [] |
@@ -56,4 +61,5 @@
 | Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2022-01-07 07:42:00+00:00 | 148286 | 0 | Shell | 1 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2022-01-07 02:16:23+00:00 | 95 | 6 | Python | 2 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-07 09:12:55+00:00 | 1214372 | 8 | | 4 | [] |
-| secureITmania/xss_exploit_scripts | The repository contains the scripts to exploit the xss. There are scripts I write while doing bugbouties. If you think the scripts are useful to you feel free use. | https://github.com/secureITmania/xss_exploit_scripts | ['exploit'] | 1 | 2022-01-07 09:42:59+00:00 | 0 | 0 | | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-07 01:24:31+00:00 | 17199 | 2 | Python | 0 | [] |
+| dodocrypto/0day-document | nan | https://github.com/dodocrypto/0day-document | ['0day'] | 1 | 2022-01-07 10:24:11+00:00 | 0 | 0 | nan | 0 | [] |
