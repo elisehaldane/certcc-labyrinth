@@ -1,0 +1,15 @@
+
+# Summary for results/2022/01/07
+    
+8 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-07 00:06:57+00:00 | 1534773 | 1547 | Python | 529 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-07 00:17:07+00:00 | 214279 | 265 | Ruby | 78 | [] |
+| grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2022-01-07 00:49:30+00:00 | 418660 | 1 | C++ | 0 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-07 00:46:07+00:00 | 17185 | 25 | | 18 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-07 00:03:57+00:00 | 458194 | 42 | | 21 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-07 00:00:20+00:00 | 66 | 0 | C | 0 | [] |
+| 358x33/JustAHub | Roblox Exploit Hub | https://github.com/358x33/JustAHub | ['exploit'] | 1 | 2022-01-07 00:17:16+00:00 | 5 | 0 | | 0 | [] |
+| 0-POOT/LFI_to_RCE | explain how to exploit LFI and get RCE | https://github.com/0-POOT/LFI_to_RCE | ['exploit', 'rce'] | 2 | 2022-01-07 00:50:41+00:00 | 0 | 0 | | 0 | [] |
