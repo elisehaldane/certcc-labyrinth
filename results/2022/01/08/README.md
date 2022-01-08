@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/08
     
-107 records found after deduplication
+110 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | ronin-rb/ronin-asm | ronin-asm is a Ruby DSL for crafting Assmebly programs and Shellcode. | https://github.com/ronin-rb/ronin-asm | ['shellcode'] | 1 | 2022-01-08 00:33:16+00:00 | 496 | 40 | Ruby | 7 | [] |
-| gopro2027/GTAOnline-RCE | This is the writeup for my GTA V rce discovered on PS3 in 2019 | https://github.com/gopro2027/GTAOnline-RCE | ['rce'] | 1 | 2022-01-08 03:53:17+00:00 | 140 | 1 | C++ | 0 | [] |
+| l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2022-01-08 05:01:14+00:00 | 4 | 0 | Lua | 0 | [] |
 | 0-POOT/LOG_me_ROOT_u | explain how to exploit LFI and get RCE | https://github.com/0-POOT/LOG_me_ROOT_u | ['exploit', 'rce'] | 2 | 2022-01-08 07:57:19+00:00 | 33 | 0 | | 0 | [] |
 | dindibo/DHCP-Spoofing | This is a POC repository of DHCP Spoofing attack | https://github.com/dindibo/DHCP-Spoofing | ['attack poc'] | 1 | 2022-01-08 17:29:37+00:00 | 165 | 0 | Python | 0 | [] |
 | jangodev/CrownJS | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | ['exploit'] | 1 | 2022-01-08 01:25:44+00:00 | 35 | 2 | | 0 | [] |
@@ -18,8 +18,9 @@
 | ikebobz/rcentre | None | https://github.com/ikebobz/rcentre | ['rce'] | 1 | 2022-01-08 02:30:38+00:00 | 43 | 0 | HTML | 0 | [] |
 | jravis-8520/h-sploit-paylod | H-SPLOIT-PAYLOAD GENERATE METASPLOIT PAYLOAD IN 1 CLICK | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-08 12:42:24+00:00 | 27 | 0 | Shell | 0 | [] |
 | freemyipod/wInd3x | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | ['exploit'] | 1 | 2022-01-08 00:51:34+00:00 | 525 | 1 | Go | 0 | [] |
-| l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2022-01-08 05:01:14+00:00 | 4 | 0 | Lua | 0 | [] |
 | ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2022-01-08 11:56:31+00:00 | 34007 | 2 | Jupyter Notebook | 0 | [] |
+| gopro2027/GTAOnline-RCE | This is the writeup for my GTA V rce discovered on PS3 in 2019 | https://github.com/gopro2027/GTAOnline-RCE | ['rce'] | 1 | 2022-01-08 03:53:17+00:00 | 140 | 1 | C++ | 0 | [] |
+| blueIbird/exploit | None | https://github.com/blueIbird/exploit | ['exploit'] | 1 | 2022-01-08 22:41:05+00:00 | 536 | 0 | JavaScript | 0 | [] |
 | TheGraySpy/ParrotSploit | None | https://github.com/TheGraySpy/ParrotSploit | ['sploit'] | 1 | 2022-01-08 09:47:39+00:00 | 35 | 0 | | 0 | [] |
 | webofchaos/HTTP-Interception | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | ['exploit'] | 1 | 2022-01-08 07:42:30+00:00 | 1613 | 0 | PHP | 0 | [] |
 | examplehack14/exploit | This is stress test exploit menu | https://github.com/examplehack14/exploit | ['exploit'] | 1 | 2022-01-08 15:02:07+00:00 | 16 | 0 | Lua | 0 | [] |
@@ -32,8 +33,9 @@
 | mc-17/pspack-flask | pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | ['exploit'] | 1 | 2022-01-08 09:07:35+00:00 | 1558 | 29 | JavaScript | 17 | [] |
 | rjcoulter/Stack-Smashing | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | ['exploit'] | 1 | 2022-01-08 15:25:01+00:00 | 12 | 0 | C | 0 | [] |
 | sbridgens/ProcessHollowing | Process hollowing C# code with shellcode encryptor | https://github.com/sbridgens/ProcessHollowing | ['shellcode'] | 1 | 2022-01-08 14:27:07+00:00 | 134 | 1 | C# | 1 | [] |
-| vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2022-01-08 06:16:58+00:00 | 4900 | 0 | JavaScript | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-08 12:36:20+00:00 | 1261 | 1 | Jupyter Notebook | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-08 01:40:27+00:00 | 673800 | 26043 | Ruby | 11874 | [] |
+| bormaxi8080/nmap-scanner | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | ['exploit'] | 1 | 2022-01-08 10:37:07+00:00 | 0 | 0 | | 0 | [] |
+| DrixSh/dlink-exploit | dlink leaked by drix. | https://github.com/DrixSh/dlink-exploit | ['exploit'] | 1 | 2022-01-08 19:51:26+00:00 | 0 | 1 | | 0 | [] |
 | NaserHacker/Nvenom | Automatic metasploit payload generation | https://github.com/NaserHacker/Nvenom | ['metasploit module OR payload'] | 1 | 2022-01-08 17:03:24+00:00 | 0 | 0 | Shell | 0 | [] |
 | 1hAck-0/Unreal-Engine-Hack-Cheat-Source-Code-Sword-With-Sauce | This a small cheat menu for Sword With Sauce (a UE4 game) that I rapped up in a week or so. The reason why I am sharing the project is that it is probably one of the best sources to learn UE game hacking from. The project has many comments. | https://github.com/1hAck-0/Unreal-Engine-Hack-Cheat-Source-Code-Sword-With-Sauce | ['exploit'] | 1 | 2022-01-08 16:37:13+00:00 | 0 | 0 | | 0 | [] |
 | MikaelGue/Hyper-V_exploitation | chekc hyperv cpu méoire stockage | https://github.com/MikaelGue/Hyper-V_exploitation | ['exploit'] | 1 | 2022-01-08 16:09:10+00:00 | 0 | 0 | | 0 | [] |
@@ -44,8 +46,8 @@
 | volkandindar/agartha | a burp extension for penetration testing {LFI, RCE, etc} | https://github.com/volkandindar/agartha | ['rce'] | 1 | 2022-01-08 12:06:59+00:00 | 0 | 0 | Python | 0 | [] |
 | tufan671/rce | None | https://github.com/tufan671/rce | ['rce'] | 1 | 2022-01-08 12:02:56+00:00 | 0 | 0 | | 0 | [] |
 | Davidutuu1/HoodX | This is an paied Exploiting Gui for Hood Modded | https://github.com/Davidutuu1/HoodX | ['exploit'] | 1 | 2022-01-08 11:24:42+00:00 | 0 | 0 | | 0 | [] |
-| bormaxi8080/nmap-scanner | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | ['exploit'] | 1 | 2022-01-08 10:37:07+00:00 | 0 | 0 | | 0 | [] |
 | laoqin1234/juansacco-exploitpack | None | https://github.com/laoqin1234/juansacco-exploitpack | ['exploit'] | 1 | 2022-01-08 09:34:22+00:00 | 0 | 0 | | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-08 12:36:20+00:00 | 1261 | 1 | Jupyter Notebook | 0 | [] |
 | yggcwhat/CVE-2021-45232 | 一键批量检测poc | https://github.com/yggcwhat/CVE-2021-45232 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-08 08:27:19+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-45232'] |
 | zxg3017/Saliency-CCE | This code implements the proposed method: Saliency-CCE: Exploiting Colour Contextual Extractor and Saliency-based Skin Lesion Segmentation | https://github.com/zxg3017/Saliency-CCE | ['exploit'] | 1 | 2022-01-08 08:19:09+00:00 | 0 | 0 | MATLAB | 0 | [] |
 | fyannz/vanity-exploit | Make custom invite (vanity link) for your Discord server. | https://github.com/fyannz/vanity-exploit | ['exploit'] | 1 | 2022-01-08 07:38:15+00:00 | 0 | 0 | | 0 | [] |
@@ -58,9 +60,9 @@
 | C0ldheim/NetworkExploitation | None | https://github.com/C0ldheim/NetworkExploitation | ['exploit'] | 1 | 2022-01-08 07:54:45+00:00 | 3 | 0 | Python | 0 | [] |
 | Keuturhan/AslanNeferlerTurkSploit | oto Metasploit Yukleme (Termux Icin) | https://github.com/Keuturhan/AslanNeferlerTurkSploit | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-08 01:28:51+00:00 | 6 | 0 | Python | 0 | [] |
 | LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | None | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-08 00:27:33+00:00 | 113 | 1 | | 0 | ['CVE-2021-44228'] |
+| vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2022-01-08 06:16:58+00:00 | 4900 | 0 | JavaScript | 0 | [] |
 | RoadLuck/exploits-tryhackme | None | https://github.com/RoadLuck/exploits-tryhackme | ['exploit'] | 1 | 2022-01-08 03:39:44+00:00 | 8 | 0 | Python | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-08 01:40:27+00:00 | 673800 | 26043 | Ruby | 11874 | [] |
-| JonLH22/Web-Exploit-Resources | This is a collection of resources that are focused on Web Exploitation. | https://github.com/JonLH22/Web-Exploit-Resources | ['exploit'] | 1 | 2022-01-08 19:40:59+00:00 | 15 | 0 | | 0 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-08 00:46:08+00:00 | 17942 | 25 | | 18 | [] |
 | syed-ali-abbas/tabnabbingExploit | None | https://github.com/syed-ali-abbas/tabnabbingExploit | ['exploit'] | 1 | 2022-01-08 06:34:30+00:00 | 7 | 0 | HTML | 0 | [] |
 | OpachevskyEmil/ByteMap-Shellcode-Loader | Encodes and runs shellcode payloads. | https://github.com/OpachevskyEmil/ByteMap-Shellcode-Loader | ['shellcode'] | 1 | 2022-01-08 14:26:22+00:00 | 32 | 0 | Go | 0 | [] |
 | spencer-burke/Exploit-Education-Writeups | This is the repository for all of the Exploit Education challenges I complete. | https://github.com/spencer-burke/Exploit-Education-Writeups | ['exploit'] | 1 | 2022-01-08 06:58:40+00:00 | 32 | 0 | Python | 0 | [] |
@@ -72,21 +74,22 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-08 00:04:17+00:00 | 439120 | 42 | | 21 | [] |
 | itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2022-01-08 03:11:41+00:00 | 58286 | 4 | HTML | 0 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-08 07:55:12+00:00 | 7375 | 0 | Python | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-08 00:46:08+00:00 | 17942 | 25 | | 18 | [] |
 | BuildAPKs/db.BuildAPKs | BuildAPKs' database for built APKs from open source accounts at https://github.com | https://github.com/BuildAPKs/db.BuildAPKs | ['shellcode'] | 1 | 2022-01-08 08:41:33+00:00 | 1395 | 5 | Shell | 3 | [] |
+| Gudratliishere/HeapOverflow | nan | https://github.com/Gudratliishere/HeapOverflow | ['heap overflow'] | 1 | 2022-01-08 19:59:01+00:00 | 32875 | 0 | C# | 0 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2022-01-08 04:45:04+00:00 | 1207 | 292 | Rust | 18 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-08 00:17:18+00:00 | 215814 | 265 | Ruby | 78 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-08 00:54:55+00:00 | 18224 | 1808 | C++ | 300 | [] |
 | 0xdea/exploits | A handy collection of my public exploits, all in one place. | https://github.com/0xdea/exploits | ['exploit'] | 1 | 2022-01-08 10:00:01+00:00 | 445 | 366 | C | 94 | [] |
 | arossi1/photobook | catalog / index images, expose interface for exploitation | https://github.com/arossi1/photobook | ['exploit'] | 1 | 2022-01-08 20:36:33+00:00 | 13 | 0 | Python | 0 | [] |
 | rapid7/metasploitable3 | Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. | https://github.com/rapid7/metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-01-08 05:57:52+00:00 | 254099 | 3396 | HTML | 896 | [] |
+| shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2022-01-08 21:57:17+00:00 | 334 | 5064 | C | 981 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-08 02:03:21+00:00 | 7291 | 4232 | Python | 571 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-08 08:39:21+00:00 | 5165 | 3044 | Python | 676 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-08 05:08:40+00:00 | 237143 | 6729 | C | 1845 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-08 12:22:38+00:00 | 27204 | 8647 | Python | 1477 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2022-01-08 18:12:31+00:00 | 435 | 183 | Python | 34 | [] |
+| JonLH22/Web-Exploit-Resources | This is a collection of resources that are focused on Web Exploitation. | https://github.com/JonLH22/Web-Exploit-Resources | ['exploit'] | 1 | 2022-01-08 19:40:59+00:00 | 15 | 0 | | 0 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-08 19:35:28+00:00 | 1485147 | 8 | | 4 | [] |
-| Gudratliishere/HeapOverflow | nan | https://github.com/Gudratliishere/HeapOverflow | ['heap overflow'] | 1 | 2022-01-08 19:59:01+00:00 | 32875 | 0 | C# | 0 | [] |
 | alone-skiddie/tmsfi | tmsfi (termux metasploit-framework installer ) is a simple python tool for complete beginners in termux and in linux commands who want to install metasploit in termux very easily .This is actually not a tool but full of linux basic commands for install bas | https://github.com/alone-skiddie/tmsfi | ['metasploit module OR payload'] | 1 | 2022-01-08 06:09:37+00:00 | 51 | 2 | Python | 1 | [] |
 | jmpshell/BinEx | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2022-01-08 15:28:06+00:00 | 7702 | 2 | C++ | 0 | [] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-01-08 08:22:34+00:00 | 235 | 45 | C++ | 6 | [] |
@@ -111,4 +114,4 @@
 | P-DennyGamingYT/PDennSploit | #1 FREE SCRIPT UTILITY | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2022-01-08 15:58:04+00:00 | 12439 | 1 | | 0 | [] |
 | ashshelby/MORDOR | A python based RAT, that you can use to get a shell similar to metasploit. | https://github.com/ashshelby/MORDOR | ['metasploit module OR payload'] | 1 | 2022-01-08 14:25:20+00:00 | 43088 | 0 | HTML | 0 | [] |
 | ikeohachidi/ikeoha | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | ['exploit'] | 1 | 2022-01-08 11:24:52+00:00 | 306 | 0 | Vue | 0 | [] |
-| DrixSh/dlink-exploit | dlink leaked by drix. | https://github.com/DrixSh/dlink-exploit | ['exploit'] | 1 | 2022-01-08 19:51:26+00:00 | 0 | 1 | | 0 | [] |
+| MichaelsPlayground/CVE-2019-9465 | None | https://github.com/MichaelsPlayground/CVE-2019-9465 | ['cve-2 OR cve_2'] | 1 | 2022-01-08 22:25:48+00:00 | 0 | 0 | Java | 0 | ['CVE-2019-9465'] |
