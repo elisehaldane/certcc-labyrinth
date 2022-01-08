@@ -1,17 +1,18 @@
 
 # Summary for results/2022/01/07
     
-119 records found after deduplication
+120 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-07 05:19:02+00:00 | 669915 | 26037 | Ruby | 11875 | [] |
-| loneicewolf/LOCKHEED-PLATFORM | The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like "platform", designed for advanced Cyber Assessments. | https://github.com/loneicewolf/LOCKHEED-PLATFORM | ['metasploit module OR payload'] | 1 | 2022-01-07 14:12:14+00:00 | 27 | 1 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-07 02:19:31+00:00 | 21989 | 6253 | JavaScript | 1473 | [] |
 | rnsss/CVE-2021-43798-poc | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-07 03:09:46+00:00 | 2 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | puzzlepeaches/Log4jHorizon | Exploiting CVE-2021-44228 in VMWare Horizon for remote code execution and more. | https://github.com/puzzlepeaches/Log4jHorizon | ['exploit', 'remote code execution'] | 2 | 2022-01-07 22:33:21+00:00 | 17 | 0 | Python | 0 | ['CVE-2021-44228'] |
 | Yuji-Kakeya/log4j-CVE-2021-45046-poc | None | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-07 06:05:00+00:00 | 17 | 0 | Java | 0 | ['CVE-2021-45046'] |
 | maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-07 16:29:26+00:00 | 42 | 0 | Go | 0 | [] |
 | Peithon/scLoader | CS shellcode 加载器 | https://github.com/Peithon/scLoader | ['shellcode'] | 1 | 2022-01-07 07:15:55+00:00 | 196 | 2 | Go | 1 | [] |
+| lukeyako/exploitalpha | None | https://github.com/lukeyako/exploitalpha | ['exploit'] | 1 | 2022-01-07 21:13:16+00:00 | 4960 | 0 | TypeScript | 0 | [] |
 | freemyipod/wInd3x | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | ['exploit'] | 1 | 2022-01-07 23:35:20+00:00 | 514 | 1 | Go | 0 | [] |
 | warren2i/Reverse-engineering-cobalt-strike | The goal is to reverse engineer the cobalt staging powershell shellcode to become resistant to detection. Currently we have a 100% fud wallaround. | https://github.com/warren2i/Reverse-engineering-cobalt-strike | ['shellcode'] | 1 | 2022-01-07 16:28:40+00:00 | 93 | 1 | | 0 | [] |
 | NS-Sp4ce/Vm4J | A tool for detect&exploit vmware product log4j vulnerability. | https://github.com/NS-Sp4ce/Vm4J | ['exploit'] | 1 | 2022-01-07 01:01:13+00:00 | 246 | 54 | C# | 14 | [] |
@@ -19,8 +20,8 @@
 | xaletr/Fuel-CMS | Fuel CMS 1.4 Exploit Coded By Xale TD Vln RCE | https://github.com/xaletr/Fuel-CMS | ['exploit', 'rce'] | 2 | 2022-01-07 22:18:37+00:00 | 1 | 0 | Python | 0 | [] |
 | TheGraySpy/ParrotSploit | None | https://github.com/TheGraySpy/ParrotSploit | ['sploit'] | 1 | 2022-01-07 20:32:05+00:00 | 4 | 0 | | 0 | [] |
 | cyberaz0r/Burp-IISTildeEnumerationScanner | Burp extension for exploiting IIS Tilde Enumeration vulnerability | https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner | ['exploit'] | 1 | 2022-01-07 21:35:59+00:00 | 37 | 0 | Java | 0 | [] |
+| loneicewolf/LOCKHEED-PLATFORM | The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like "platform", designed for advanced Cyber Assessments. | https://github.com/loneicewolf/LOCKHEED-PLATFORM | ['metasploit module OR payload'] | 1 | 2022-01-07 14:12:14+00:00 | 27 | 1 | | 0 | [] |
 | KameleonReloaded/900V4B | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | ['exploit'] | 1 | 2022-01-07 05:25:18+00:00 | 2478 | 11 | JavaScript | 9 | [] |
-| Errare-humanum-est/Linearization-Protocol | Verification of the Linearization Protocol proposed in: Scale-out CcNUMA: Exploiting Skew with Strongly Consistent Caching | https://github.com/Errare-humanum-est/Linearization-Protocol | ['exploit'] | 1 | 2022-01-07 01:38:40+00:00 | 6896 | 0 | C++ | 1 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-01-07 20:00:24+00:00 | 386 | 3 | C++ | 1 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-01-07 04:47:37+00:00 | 282 | 3 | Python | 3 | [] |
 | Kr0ff/CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-07 15:01:51+00:00 | 1106 | 4 | Python | 0 | ['CVE-2021-44228'] |
@@ -34,8 +35,8 @@
 | ronin-rb/ronin-post_exploitation | A Ruby library for Post Exploitation functionality. | https://github.com/ronin-rb/ronin-post_exploitation | ['exploit'] | 1 | 2022-01-07 21:43:05+00:00 | 597 | 2 | Ruby | 0 | [] |
 | bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-07 20:15:10+00:00 | 825 | 2 | Go | 0 | [] |
 | alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2022-01-07 20:08:42+00:00 | 2 | 0 | C | 0 | [] |
+| Errare-humanum-est/Linearization-Protocol | Verification of the Linearization Protocol proposed in: Scale-out CcNUMA: Exploiting Skew with Strongly Consistent Caching | https://github.com/Errare-humanum-est/Linearization-Protocol | ['exploit'] | 1 | 2022-01-07 01:38:40+00:00 | 6896 | 0 | C++ | 1 | [] |
 | dindibo/DHCP-Spoofing | This is a POC repository of DHCP Spoofing attack | https://github.com/dindibo/DHCP-Spoofing | ['attack poc'] | 1 | 2022-01-07 01:33:33+00:00 | 0 | 0 | nan | 0 | [] |
-| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-07 00:00:20+00:00 | 66 | 0 | C | 0 | [] |
 | dodocrypto/0day-document | None | https://github.com/dodocrypto/0day-document | ['0day'] | 1 | 2022-01-07 10:24:11+00:00 | 0 | 0 | | 0 | [] |
 | C0ldheim/NetworkExploitation | None | https://github.com/C0ldheim/NetworkExploitation | ['exploit'] | 1 | 2022-01-07 22:04:43+00:00 | 0 | 0 | Python | 0 | [] |
 | twosevenzero/vcenter_vsan_exploit | Cleaned up version of PoC code | https://github.com/twosevenzero/vcenter_vsan_exploit | ['exploit'] | 1 | 2022-01-07 21:28:39+00:00 | 0 | 0 | | 0 | [] |
@@ -64,8 +65,8 @@
 | rjcoulter/Stack-Smashing | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | ['exploit'] | 1 | 2022-01-07 01:45:14+00:00 | 0 | 0 | | 0 | [] |
 | 0-POOT/LFI_to_RCE | explain how to exploit LFI and get RCE | https://github.com/0-POOT/LFI_to_RCE | ['exploit', 'rce'] | 2 | 2022-01-07 00:50:41+00:00 | 0 | 0 | | 0 | [] |
 | h4ck1t/nightmare | All my exploits written when learning on Nightmare | https://github.com/h4ck1t/nightmare | ['exploit'] | 1 | 2022-01-07 05:41:08+00:00 | 15509 | 0 | Python | 0 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-07 00:00:20+00:00 | 66 | 0 | C | 0 | [] |
 | skahwah/encrypt | Pseudorandom AES-256 encryption designed to protect shellcode and arbitrary strings. C# and C/C++ compatible. | https://github.com/skahwah/encrypt | ['shellcode'] | 1 | 2022-01-07 17:28:38+00:00 | 53 | 28 | C# | 5 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-07 02:19:31+00:00 | 21989 | 6253 | JavaScript | 1473 | [] |
 | mm0r1/exploits | Pwn stuff. | https://github.com/mm0r1/exploits | ['exploit'] | 1 | 2022-01-07 01:57:14+00:00 | 19 | 1315 | PHP | 333 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-07 02:03:56+00:00 | 132347 | 14 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-07 00:03:57+00:00 | 458194 | 42 | | 21 | [] |
