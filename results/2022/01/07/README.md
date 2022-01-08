@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/07
     
-120 records found after deduplication
+121 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-07 05:19:02+00:00 | 669915 | 26037 | Ruby | 11875 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-07 02:19:31+00:00 | 21989 | 6253 | JavaScript | 1473 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-07 00:00:20+00:00 | 66 | 0 | C | 0 | [] |
 | rnsss/CVE-2021-43798-poc | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-07 03:09:46+00:00 | 2 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | puzzlepeaches/Log4jHorizon | Exploiting CVE-2021-44228 in VMWare Horizon for remote code execution and more. | https://github.com/puzzlepeaches/Log4jHorizon | ['exploit', 'remote code execution'] | 2 | 2022-01-07 22:33:21+00:00 | 17 | 0 | Python | 0 | ['CVE-2021-44228'] |
 | Yuji-Kakeya/log4j-CVE-2021-45046-poc | None | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-07 06:05:00+00:00 | 17 | 0 | Java | 0 | ['CVE-2021-45046'] |
@@ -65,9 +65,9 @@
 | rjcoulter/Stack-Smashing | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | ['exploit'] | 1 | 2022-01-07 01:45:14+00:00 | 0 | 0 | | 0 | [] |
 | 0-POOT/LFI_to_RCE | explain how to exploit LFI and get RCE | https://github.com/0-POOT/LFI_to_RCE | ['exploit', 'rce'] | 2 | 2022-01-07 00:50:41+00:00 | 0 | 0 | | 0 | [] |
 | h4ck1t/nightmare | All my exploits written when learning on Nightmare | https://github.com/h4ck1t/nightmare | ['exploit'] | 1 | 2022-01-07 05:41:08+00:00 | 15509 | 0 | Python | 0 | [] |
-| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-07 00:00:20+00:00 | 66 | 0 | C | 0 | [] |
 | skahwah/encrypt | Pseudorandom AES-256 encryption designed to protect shellcode and arbitrary strings. C# and C/C++ compatible. | https://github.com/skahwah/encrypt | ['shellcode'] | 1 | 2022-01-07 17:28:38+00:00 | 53 | 28 | C# | 5 | [] |
-| mm0r1/exploits | Pwn stuff. | https://github.com/mm0r1/exploits | ['exploit'] | 1 | 2022-01-07 01:57:14+00:00 | 19 | 1315 | PHP | 333 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-07 02:19:31+00:00 | 21989 | 6253 | JavaScript | 1473 | [] |
+| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-07 13:13:29+00:00 | 35 | 2 | Python | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-07 02:03:56+00:00 | 132347 | 14 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-07 00:03:57+00:00 | 458194 | 42 | | 21 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2022-01-07 14:44:39+00:00 | 179971 | 387 | Batchfile | 114 | [] |
@@ -80,8 +80,8 @@
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2022-01-07 04:00:14+00:00 | 486 | 8 | Go | 8 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-07 02:06:34+00:00 | 7368 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-07 00:46:07+00:00 | 17185 | 25 | | 18 | [] |
+| mm0r1/exploits | Pwn stuff. | https://github.com/mm0r1/exploits | ['exploit'] | 1 | 2022-01-07 01:57:14+00:00 | 19 | 1315 | PHP | 333 | [] |
 | wyzxxz/jndi_tool | JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具 | https://github.com/wyzxxz/jndi_tool | ['rce'] | 1 | 2022-01-07 09:38:54+00:00 | 225851 | 1033 | | 241 | [] |
-| pen4uin/Bug-Bounty-Hunter | Bug Bounty Hunter | https://github.com/pen4uin/Bug-Bounty-Hunter | ['rce'] | 1 | 2022-01-07 15:57:52+00:00 | 222 | 21 | | 9 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-07 14:01:28+00:00 | 1515140 | 3900 | PowerShell | 1366 | [] |
 | ViRb3/apk-utilities | 🛠 Tools and scripts to manipulate Android APKs | https://github.com/ViRb3/apk-utilities | ['rce'] | 1 | 2022-01-07 13:10:37+00:00 | 76638 | 156 | Python | 34 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2022-01-07 04:02:28+00:00 | 1121 | 147 | Go | 38 | [] |
@@ -90,13 +90,14 @@
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2022-01-07 00:49:30+00:00 | 418660 | 1 | C++ | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-07 00:17:07+00:00 | 214279 | 265 | Ruby | 78 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-01-07 12:35:04+00:00 | 71292 | 10555 | Jupyter Notebook | 1814 | [] |
+| rapid7/metasploitable3 | Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. | https://github.com/rapid7/metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-01-07 21:00:29+00:00 | 254099 | 3396 | HTML | 896 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-01-07 06:19:29+00:00 | 4062 | 86 | Go | 7 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-07 20:15:32+00:00 | 7047 | 4232 | Python | 571 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-07 00:06:57+00:00 | 1534773 | 1547 | Python | 529 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-07 07:38:26+00:00 | 46359 | 860 | Python | 203 | [] |
 | yuawn/Linux-Kernel-Exploitation | Linux kernel exploitation lab. | https://github.com/yuawn/Linux-Kernel-Exploitation | ['exploit'] | 1 | 2022-01-07 10:08:44+00:00 | 17198 | 91 | C | 13 | [] |
-| pen4uin/Poc-Exp | 漏洞研究☞OA/中间件/框架/路由器... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-07 14:56:15+00:00 | 545 | 130 | | 27 | [] |
-| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-07 13:13:29+00:00 | 35 | 2 | Python | 0 | [] |
+| pen4uin/Bug-Bounty-Hunter | Bug Bounty Hunter | https://github.com/pen4uin/Bug-Bounty-Hunter | ['rce'] | 1 | 2022-01-07 15:57:52+00:00 | 222 | 21 | | 9 | [] |
+| pen4uin/Poc-Exp | 漏洞研究☞OA/中间件/框架/路由器... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-07 14:56:15+00:00 | 545 | 130 | nan | 27 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2022-01-07 02:16:23+00:00 | 95 | 6 | Python | 2 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2022-01-07 03:59:34+00:00 | 269 | 7 | Go | 2 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-07 12:09:13+00:00 | 148 | 0 | Java | 0 | [] |
