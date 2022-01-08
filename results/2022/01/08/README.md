@@ -1,13 +1,12 @@
 
 # Summary for results/2022/01/08
     
-56 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | ronin-rb/ronin-asm | ronin-asm is a Ruby DSL for crafting Assmebly programs and Shellcode. | https://github.com/ronin-rb/ronin-asm | ['shellcode'] | 1 | 2022-01-08 00:33:16+00:00 | 496 | 40 | Ruby | 7 | [] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-08 01:40:27+00:00 | 673800 | 26043 | Ruby | 11874 | [] |
-| tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-01-08 08:22:34+00:00 | 235 | 45 | C++ | 6 | [] |
 | RoadLuck/exploits-tryhackme | None | https://github.com/RoadLuck/exploits-tryhackme | ['exploit'] | 1 | 2022-01-08 03:39:44+00:00 | 8 | 0 | Python | 0 | [] |
 | vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2022-01-08 06:16:58+00:00 | 4900 | 0 | JavaScript | 0 | [] |
 | LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | None | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-08 00:27:33+00:00 | 113 | 1 | | 0 | ['CVE-2021-44228'] |
@@ -15,9 +14,11 @@
 | anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | A one-stop repo/ information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-08 02:58:27+00:00 | 499 | 0 | Shell | 1 | ['CVE-2021-44228'] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-01-08 03:59:17+00:00 | 410 | 3 | C++ | 1 | [] |
 | webofchaos/HTTP-Interception | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | ['exploit'] | 1 | 2022-01-08 07:42:30+00:00 | 1613 | 0 | PHP | 0 | [] |
+| TheGraySpy/ParrotSploit | None | https://github.com/TheGraySpy/ParrotSploit | ['sploit'] | 1 | 2022-01-08 09:47:39+00:00 | 35 | 0 | | 0 | [] |
 | l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2022-01-08 05:01:14+00:00 | 4 | 0 | Lua | 0 | [] |
 | freemyipod/wInd3x | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | ['exploit'] | 1 | 2022-01-08 00:51:34+00:00 | 525 | 1 | Go | 0 | [] |
 | ikebobz/rcentre | None | https://github.com/ikebobz/rcentre | ['rce'] | 1 | 2022-01-08 02:30:38+00:00 | 43 | 0 | HTML | 0 | [] |
+| alexpena5635/CVE-2021-44228_scanner-main-Modified- | None | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | ['cve-2 OR cve_2'] | 1 | 2022-01-08 10:08:33+00:00 | 1018 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
 | jangodev/CrownJS | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | ['exploit'] | 1 | 2022-01-08 01:25:44+00:00 | 35 | 2 | | 0 | [] |
 | 0-POOT/LOG_me_ROOT_u | explain how to exploit LFI and get RCE | https://github.com/0-POOT/LOG_me_ROOT_u | ['exploit', 'rce'] | 2 | 2022-01-08 07:57:19+00:00 | 33 | 0 | | 0 | [] |
 | gopro2027/GTAOnline-RCE | This is the writeup for my GTA V rce discovered on PS3 in 2019 | https://github.com/gopro2027/GTAOnline-RCE | ['rce'] | 1 | 2022-01-08 03:53:17+00:00 | 140 | 1 | C++ | 0 | [] |
@@ -32,14 +33,16 @@
 | fyannz/vanity-exploit | Make custom invite (vanity link) for your Discord server. | https://github.com/fyannz/vanity-exploit | ['exploit'] | 1 | 2022-01-08 07:38:15+00:00 | 0 | 0 | | 0 | [] |
 | zxg3017/Saliency-CCE | This code implements the proposed method: Saliency-CCE: Exploiting Colour Contextual Extractor and Saliency-based Skin Lesion Segmentation | https://github.com/zxg3017/Saliency-CCE | ['exploit'] | 1 | 2022-01-08 08:19:09+00:00 | 0 | 0 | MATLAB | 0 | [] |
 | yggcwhat/CVE-2021-45232 | 一键批量检测poc | https://github.com/yggcwhat/CVE-2021-45232 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-08 08:27:19+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-45232'] |
+| laoqin1234/juansacco-exploitpack | None | https://github.com/laoqin1234/juansacco-exploitpack | ['exploit'] | 1 | 2022-01-08 09:34:22+00:00 | 0 | 0 | | 0 | [] |
+| tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-01-08 08:22:34+00:00 | 235 | 45 | C++ | 6 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-01-08 06:02:38+00:00 | 22098 | 0 | CSS | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-08 03:17:05+00:00 | 453 | 0 | C | 0 | [] |
-| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-08 00:37:27+00:00 | 68 | 0 | C | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-08 00:04:17+00:00 | 439120 | 42 | | 21 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-08 05:08:40+00:00 | 237143 | 6729 | C | 1845 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-08 08:39:21+00:00 | 5165 | 3044 | Python | 676 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-08 02:03:21+00:00 | 7291 | 4232 | Python | 571 | [] |
 | rapid7/metasploitable3 | Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. | https://github.com/rapid7/metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-01-08 05:57:52+00:00 | 254099 | 3396 | HTML | 896 | [] |
+| 0xdea/exploits | A handy collection of my public exploits, all in one place. | https://github.com/0xdea/exploits | ['exploit'] | 1 | 2022-01-08 10:00:01+00:00 | 445 | 366 | C | 94 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-08 00:54:55+00:00 | 18224 | 1808 | C++ | 300 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-08 00:17:18+00:00 | 215814 | 265 | Ruby | 78 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2022-01-08 04:45:04+00:00 | 1207 | 292 | Rust | 18 | [] |
@@ -48,7 +51,7 @@
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-08 07:55:12+00:00 | 7375 | 0 | Python | 0 | [] |
 | itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2022-01-08 03:11:41+00:00 | 58286 | 4 | HTML | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-08 06:15:14+00:00 | 415570 | 786 | TypeScript | 102 | [] |
-| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-08 09:35:37+00:00 | 35 | 2 | Python | 0 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-08 00:37:27+00:00 | 68 | 0 | C | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-08 04:00:29+00:00 | 83983 | 278 | Python | 83 | [] |
 | Li4n0/revsuit | RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. | https://github.com/Li4n0/revsuit | ['rce'] | 1 | 2022-01-08 05:31:44+00:00 | 9433 | 197 | Go | 28 | [] |
 | spencer-burke/Exploit-Education-Writeups | This is the repository for all of the Exploit Education challenges I complete. | https://github.com/spencer-burke/Exploit-Education-Writeups | ['exploit'] | 1 | 2022-01-08 06:58:40+00:00 | 32 | 0 | Python | 0 | [] |
@@ -60,4 +63,5 @@
 | SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-08 04:02:14+00:00 | 10062 | 29 | C++ | 3 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-01-08 00:25:14+00:00 | 552 | 30 | JavaScript | 21 | [] |
 | oSumAtrIX/dinkleberg | Catch users faking their offline status on discord | https://github.com/oSumAtrIX/dinkleberg | ['exploit'] | 1 | 2022-01-08 07:20:04+00:00 | 518 | 9 | Rust | 0 | [] |
-| laoqin1234/juansacco-exploitpack | None | https://github.com/laoqin1234/juansacco-exploitpack | ['exploit'] | 1 | 2022-01-08 09:34:22+00:00 | 0 | 0 | | 0 | [] |
+| hansmach1ne/MyExploits | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-01-08 09:35:37+00:00 | 35 | 2 | Python | 0 | [] |
+| bormaxi8080/nmap-scanner | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | ['exploit'] | 1 | 2022-01-08 10:37:07+00:00 | 0 | 0 | | 0 | [] |
