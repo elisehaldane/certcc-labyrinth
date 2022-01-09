@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+446163958,MedKH1684/Log4j-Vulneradility-Exploitation,README.md,98ad2d4f8130ec4e69e60905ff3f1df4db3e804f,CVE-2021-44228
