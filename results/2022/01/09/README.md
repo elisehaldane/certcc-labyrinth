@@ -1,12 +1,14 @@
 
 # Summary for results/2022/01/09
     
-90 records found after deduplication
+93 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-09 02:56:44+00:00 | 676955 | 26056 | Ruby | 11873 | [] |
+| 25-67/rblx-exploit | None | https://github.com/25-67/rblx-exploit | ['exploit'] | 1 | 2022-01-09 14:31:38+00:00 | 1 | 0 | | 0 | [] |
 | DrixSh/dlink-exploit | dlink leaked by drix. | https://github.com/DrixSh/dlink-exploit | ['exploit'] | 1 | 2022-01-09 10:12:21+00:00 | 5 | 1 | Go | 0 | [] |
+| HackJava/CVE2022 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | ['cve-2 OR cve_2'] | 1 | 2022-01-09 15:42:36+00:00 | 0 | 0 | | 0 | [] |
 | volkandindar/agartha | a burp extension for penetration testing {LFI, RCE, Auth,etc} | https://github.com/volkandindar/agartha | ['rce'] | 1 | 2022-01-09 13:20:54+00:00 | 67 | 0 | Python | 0 | [] |
 | Davidutuu1/HoodX | This is an paied Exploiting Gui for Hood Modded | https://github.com/Davidutuu1/HoodX | ['exploit'] | 1 | 2022-01-09 12:20:37+00:00 | 1027 | 0 | | 0 | [] |
 | bormaxi8080/nmap-scanner | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | ['exploit'] | 1 | 2022-01-09 12:46:22+00:00 | 5 | 1 | Shell | 0 | [] |
@@ -14,8 +16,8 @@
 | dindibo/DHCP-Spoofing | This is a POC repository of DHCP Spoofing attack | https://github.com/dindibo/DHCP-Spoofing | ['attack poc'] | 1 | 2022-01-09 15:07:58+00:00 | 171 | 0 | Python | 0 | [] |
 | natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-01-09 01:00:16+00:00 | 44 | 3 | Python | 1 | [] |
 | cryptoforcecommand/log4j-CVE-2021-44228 | latest developments and resources on log4j vulnerability CVE-2021-44228 | https://github.com/cryptoforcecommand/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-09 06:48:21+00:00 | 6 | 0 | | 0 | ['CVE-2021-44228'] |
-| 25-67/rblx-exploit | None | https://github.com/25-67/rblx-exploit | ['exploit'] | 1 | 2022-01-09 14:31:38+00:00 | 1 | 0 | | 0 | [] |
 | alexpena5635/CVE-2021-44228_scanner-main-Modified- | None | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | ['cve-2 OR cve_2'] | 1 | 2022-01-09 01:44:58+00:00 | 1026 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
+| dorkerdevil/vcenter_fileread_exploit | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read | https://github.com/dorkerdevil/vcenter_fileread_exploit | ['exploit'] | 1 | 2022-01-09 15:39:15+00:00 | 8 | 3 | Python | 2 | [] |
 | rceeop/rceeop.github.io | Github Pages | https://github.com/rceeop/rceeop.github.io | ['rce'] | 1 | 2022-01-09 08:53:25+00:00 | 21 | 0 | SCSS | 0 | [] |
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-01-09 11:36:49+00:00 | 2343 | 15 | Python | 0 | [] |
 | ikebobz/rcentre | None | https://github.com/ikebobz/rcentre | ['rce'] | 1 | 2022-01-09 04:39:48+00:00 | 46 | 0 | HTML | 0 | [] |
@@ -24,12 +26,13 @@
 | l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2022-01-09 00:30:48+00:00 | 9 | 0 | Lua | 0 | [] |
 | ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2022-01-09 14:59:13+00:00 | 50236 | 2 | Jupyter Notebook | 0 | [] |
 | blueIbird/exploit | None | https://github.com/blueIbird/exploit | ['exploit'] | 1 | 2022-01-09 00:19:00+00:00 | 551 | 0 | JavaScript | 0 | [] |
-| jmpshell/BinEx | Binary Exploitation | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2022-01-09 00:24:04+00:00 | 12260 | 2 | C++ | 0 | [] |
-| dorkerdevil/vcenter_fileread_exploit | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read | https://github.com/dorkerdevil/vcenter_fileread_exploit | ['exploit'] | 1 | 2022-01-09 15:39:15+00:00 | 8 | 3 | Python | 2 | [] |
-| HackJava/CVE2022 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | ['cve-2 OR cve_2'] | 1 | 2022-01-09 15:42:36+00:00 | 0 | 0 | | 0 | [] |
+| loneicewolf/LOCKHEED-PLATFORM | The LOCKHEED-PLATFORM - better known as LP - is a metasploit and beef-xss -like "platform", designed for advanced Cyber Assessments. | https://github.com/loneicewolf/LOCKHEED-PLATFORM | ['metasploit module OR payload'] | 1 | 2022-01-09 19:08:42+00:00 | 30 | 1 | | 0 | [] |
 | Howard277m/XPR1M3 | This tool is uses for SQLI+LFI+XSS+LFI+RCE Dorking and finding vulnerable sites. | https://github.com/Howard277m/XPR1M3 | ['rce'] | 1 | 2022-01-09 01:04:27+00:00 | 0 | 0 | Python | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-09 07:11:24+00:00 | 5209 | 3044 | Python | 676 | [] |
 | HappyyCat/exploit | None | https://github.com/HappyyCat/exploit | ['exploit'] | 1 | 2022-01-09 01:52:25+00:00 | 0 | 0 | CSS | 0 | [] |
+| Tribhuwan-Joshi/Art_of_Exploitation | This repository all the important notes and code from the book Art_of_Exploitaion. | https://github.com/Tribhuwan-Joshi/Art_of_Exploitation | ['exploit'] | 1 | 2022-01-09 02:56:54+00:00 | 0 | 0 | | 0 | [] |
+| huy-dai/BinaryExploitation_IAP_2022 | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | ['exploit'] | 1 | 2022-01-09 04:14:55+00:00 | 0 | 0 | Python | 0 | [] |
+| itsmepayback/Rebcoana.exe-malware | This malware combines exploits and privilege escalation to get its payloads ready. For this time, it is closed source. | https://github.com/itsmepayback/Rebcoana.exe-malware | ['exploit'] | 1 | 2022-01-09 18:49:26+00:00 | 0 | 0 | | 0 | [] |
+| dj0wns/Metal-Arms-Format-String-Exploit-Writeup | None | https://github.com/dj0wns/Metal-Arms-Format-String-Exploit-Writeup | ['exploit'] | 1 | 2022-01-09 18:31:38+00:00 | 0 | 0 | | 0 | [] |
 | magicono43/DFU-Mod_Banking-Overhaul | Overhauls the banking system, making it less exploitable, as well as more detailed and interesting to use. | https://github.com/magicono43/DFU-Mod_Banking-Overhaul | ['exploit'] | 1 | 2022-01-09 17:51:11+00:00 | 0 | 0 | C# | 0 | [] |
 | zilibobi/zdc | zilibobi's exploit prompt | https://github.com/zilibobi/zdc | ['exploit'] | 1 | 2022-01-09 17:38:34+00:00 | 0 | 0 | | 0 | [] |
 | 8ua/Roblox-Scripts | A collection of Roblox Exploiting scripts I've made. | https://github.com/8ua/Roblox-Scripts | ['exploit'] | 1 | 2022-01-09 17:27:56+00:00 | 0 | 1 | Lua | 0 | [] |
@@ -47,12 +50,11 @@
 | th3-5had0w/kernel-exploitation | None | https://github.com/th3-5had0w/kernel-exploitation | ['exploit'] | 1 | 2022-01-09 05:50:29+00:00 | 0 | 0 | | 0 | [] |
 | rholterhus/Code4rena-POCs | Location to host POC exploits/attacks for Code4rena contests | https://github.com/rholterhus/Code4rena-POCs | ['attack poc', 'exploit'] | 2 | 2022-01-09 05:32:39+00:00 | 0 | 0 | | 0 | [] |
 | sz0314/RCEs-eML | None | https://github.com/sz0314/RCEs-eML | ['rce'] | 1 | 2022-01-09 04:07:43+00:00 | 0 | 0 | | 0 | [] |
-| huy-dai/BinaryExploitation_IAP_2022 | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | ['exploit'] | 1 | 2022-01-09 04:14:55+00:00 | 0 | 0 | Python | 0 | [] |
-| Tribhuwan-Joshi/Art_of_Exploitation | This repository all the important notes and code from the book Art_of_Exploitaion. | https://github.com/Tribhuwan-Joshi/Art_of_Exploitation | ['exploit'] | 1 | 2022-01-09 02:56:54+00:00 | 0 | 0 | | 0 | [] |
+| jmpshell/BinEx | Binary Exploitation | https://github.com/jmpshell/BinEx | ['exploit'] | 1 | 2022-01-09 00:24:04+00:00 | 12260 | 2 | C++ | 0 | [] |
 | bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-09 11:26:31+00:00 | 826 | 2 | Go | 0 | [] |
-| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-09 06:17:46+00:00 | 53505 | 41 | Python | 10 | [] |
-| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-01-09 14:57:47+00:00 | 10 | 0 | Python | 0 | [] |
-| Gabriel-Lima232/EternalBlue-in-Python3 | Exploit to Eternal Blue in python3 | https://github.com/Gabriel-Lima232/EternalBlue-in-Python3 | ['exploit'] | 1 | 2022-01-09 02:11:21+00:00 | 41 | 0 | Assembly | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-09 07:11:24+00:00 | 5209 | 3044 | Python | 676 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-09 12:02:15+00:00 | 1515578 | 3904 | PowerShell | 1369 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-09 06:48:51+00:00 | 442040 | 787 | TypeScript | 102 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-09 09:09:00+00:00 | 79391 | 700 | Go | 114 | [] |
 | Malam-X/DragonMS | DragonMS is Tools for ddos, scanner, tracker, payload generator msfvenom and scraping | https://github.com/Malam-X/DragonMS | ['metasploit module OR payload'] | 1 | 2022-01-09 05:58:53+00:00 | 655 | 39 | Python | 15 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-09 00:04:09+00:00 | 440083 | 42 | | 21 | [] |
@@ -61,8 +63,8 @@
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-01-09 08:17:15+00:00 | 7375 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-09 14:57:09+00:00 | 18636 | 25 | | 18 | [] |
 | mm0r1/exploits | Pwn stuff. | https://github.com/mm0r1/exploits | ['exploit'] | 1 | 2022-01-09 07:05:39+00:00 | 23 | 1350 | PHP | 340 | [] |
-| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-09 12:02:15+00:00 | 1515578 | 3904 | PowerShell | 1369 | [] |
 | guldenolgun/NoRCE | Non-coding RNA sets Cis Enrichment Tool (NoRCE) | https://github.com/guldenolgun/NoRCE | ['rce'] | 1 | 2022-01-09 00:07:41+00:00 | 74361 | 1 | R | 1 | [] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-09 06:17:46+00:00 | 53505 | 41 | Python | 10 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-01-09 01:03:11+00:00 | 624 | 124 | Julia | 24 | [] |
 | rtwen/cnvdst | Copy number variant detection softawre | https://github.com/rtwen/cnvdst | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-01-09 06:54:20+00:00 | 3 | 0 | Python | 0 | [] |
 | sabri-zaki/EasY_HaCk | Hack the World using Termux | https://github.com/sabri-zaki/EasY_HaCk | ['metasploit module OR payload'] | 1 | 2022-01-09 17:21:00+00:00 | 153384 | 906 | Python | 146 | [] |
@@ -72,10 +74,12 @@
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-09 18:42:53+00:00 | 18224 | 1810 | C++ | 300 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-01-09 11:35:05+00:00 | 71292 | 10570 | Jupyter Notebook | 1817 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-09 15:15:05+00:00 | 7422 | 4235 | Python | 571 | [] |
-| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-09 06:48:51+00:00 | 442040 | 787 | TypeScript | 102 | [] |
 | RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-01-09 17:33:01+00:00 | 297 | 216 | HTML | 10 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-09 08:07:52+00:00 | 633 | 1 | Lua | 0 | [] |
-| dorkerdevil/CVE-2021-33044 | Dahua IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-09 15:39:06+00:00 | 4 | 8 | Python | 5 | ['CVE-2021-33044'] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-09 04:00:29+00:00 | 85683 | 278 | Python | 83 | [] |
+| Li4n0/revsuit | RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. | https://github.com/Li4n0/revsuit | ['rce'] | 1 | 2022-01-09 12:20:32+00:00 | 9481 | 197 | Go | 28 | [] |
+| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-01-09 14:57:47+00:00 | 10 | 0 | Python | 0 | [] |
+| Gabriel-Lima232/EternalBlue-in-Python3 | Exploit to Eternal Blue in python3 | https://github.com/Gabriel-Lima232/EternalBlue-in-Python3 | ['exploit'] | 1 | 2022-01-09 02:11:21+00:00 | 41 | 0 | Assembly | 0 | [] |
 | exodiaxd/IndExploit | None | https://github.com/exodiaxd/IndExploit | ['exploit'] | 1 | 2022-01-09 14:48:48+00:00 | 1 | 1 | Python | 0 | [] |
 | exodiaxd/AutoExploit | None | https://github.com/exodiaxd/AutoExploit | ['exploit'] | 1 | 2022-01-09 14:47:12+00:00 | 1 | 1 | PHP | 0 | [] |
 | edcod3/hevd-drivexp | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | ['exploit'] | 1 | 2022-01-09 02:12:37+00:00 | 144 | 0 | C | 0 | [] |
@@ -84,8 +88,8 @@
 | dorkerdevil/CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | ['cve-2 OR cve_2'] | 1 | 2022-01-09 15:38:35+00:00 | 3 | 9 | Python | 3 | ['CVE-2021-26294'] |
 | Henrinnes/exploiting-securing-Docker-and-kubernetes | None | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | ['exploit'] | 1 | 2022-01-09 12:50:13+00:00 | 24 | 0 | Java | 0 | [] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2022-01-09 04:55:51+00:00 | 921 | 0 | CSS | 1 | [] |
+| dorkerdevil/CVE-2021-33044 | Dahua IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-09 15:39:06+00:00 | 4 | 8 | Python | 5 | ['CVE-2021-33044'] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-01-09 00:06:28+00:00 | 555 | 30 | JavaScript | 21 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-09 04:00:29+00:00 | 85683 | 278 | Python | 83 | [] |
 | dorkerdevil/CVE-2021-36749 | None | https://github.com/dorkerdevil/CVE-2021-36749 | ['cve-2 OR cve_2'] | 1 | 2022-01-09 15:38:45+00:00 | 5 | 9 | Python | 3 | ['CVE-2021-36749'] |
 | XaFF-XaFF/Shellcodev | Shellcodev is a tool designed to help and automate the process of shellcode creation. | https://github.com/XaFF-XaFF/Shellcodev | ['shellcode'] | 1 | 2022-01-09 14:23:18+00:00 | 3776 | 1 | C++ | 0 | [] |
 | SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-09 04:39:19+00:00 | 10081 | 29 | C++ | 3 | [] |
@@ -93,5 +97,4 @@
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-09 11:31:37+00:00 | 1485150 | 8 | | 4 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2022-01-09 04:53:37+00:00 | 1314 | 1 | Lua | 1 | [] |
 | rudyerudite/AngErza | Toy implementation of a Automated Exploit Generation built on Angr; stiched using radare, pwntools, pyelftools, and Angrop. | https://github.com/rudyerudite/AngErza | ['exploit'] | 1 | 2022-01-09 15:23:46+00:00 | 5393 | 0 | Python | 0 | [] |
-| Li4n0/revsuit | RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. | https://github.com/Li4n0/revsuit | ['rce'] | 1 | 2022-01-09 12:20:32+00:00 | 9481 | 197 | Go | 28 | [] |
-| dj0wns/Metal-Arms-Format-String-Exploit-Writeup | None | https://github.com/dj0wns/Metal-Arms-Format-String-Exploit-Writeup | ['exploit'] | 1 | 2022-01-09 18:31:38+00:00 | 0 | 0 | | 0 | [] |
+| Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-09 19:36:18+00:00 | 0 | 1 | | 0 | [] |
