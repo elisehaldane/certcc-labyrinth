@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+446085084,s-leonhardt/THM-RootMe,nikto/init,15b9a8d14f10c9cd5ebd59d8b57610a4ac8d4a28,OSVDB-3092
+446085084,s-leonhardt/THM-RootMe,nikto/init,15b9a8d14f10c9cd5ebd59d8b57610a4ac8d4a28,OSVDB-3233
+446085084,s-leonhardt/THM-RootMe,nikto/init,15b9a8d14f10c9cd5ebd59d8b57610a4ac8d4a28,OSVDB-3268
