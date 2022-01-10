@@ -1,0 +1,18 @@
+
+# Summary for results/2022/01/10
+    
+11 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-10 00:07:01+00:00 | 1534773 | 1546 | Python | 529 | [] |
+| Bio3SS/Exploitation_models | None | https://github.com/Bio3SS/Exploitation_models | ['exploit'] | 1 | 2022-01-10 00:10:32+00:00 | 18 | 0 | R | 0 | [] |
+| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-10 00:42:25+00:00 | 13636 | 1810 | C++ | 300 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-10 00:17:03+00:00 | 217348 | 266 | Ruby | 78 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-01-10 00:14:08+00:00 | 1904 | 261 | C | 10 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-10 00:03:49+00:00 | 440096 | 43 | | 21 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-10 00:18:09+00:00 | 87939 | 278 | Python | 84 | [] |
+| AmeyaJagtap/Rowdy_Activation_Functions | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | ['exploit'] | 1 | 2022-01-10 00:15:30+00:00 | 25 | 1 | Python | 2 | [] |
+| Kr0ff/CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-10 00:47:34+00:00 | 1105 | 5 | Python | 0 | ['CVE-2021-44228'] |
+| hbs7/hbs7.github.io | PS4 Exploit Loader | https://github.com/hbs7/hbs7.github.io | ['exploit'] | 1 | 2022-01-10 00:28:32+00:00 | 1607 | 0 | HTML | 0 | [] |
+| hostinfodev/jericho-validator | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | ['exploit', 'rce'] | 2 | 2022-01-10 00:41:23+00:00 | 0 | 0 | Python | 0 | [] |
