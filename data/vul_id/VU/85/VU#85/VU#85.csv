@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#85,0.33333333,https://github.com/Dilshan-Eranda/CVE-2020-13699,Dilshan-Eranda/CVE-2020-13699,441779302
 VU#85,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
+VU#85,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#85,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#85,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#85,0.04000000,https://github.com/prodseanb/Xsearch,prodseanb/Xsearch,443673812

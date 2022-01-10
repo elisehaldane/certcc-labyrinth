@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#11,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#11,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#11,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#11,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
