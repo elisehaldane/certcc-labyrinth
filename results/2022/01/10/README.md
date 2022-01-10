@@ -1,13 +1,12 @@
 
 # Summary for results/2022/01/10
     
-45 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-10 00:07:01+00:00 | 1534773 | 1546 | Python | 529 | [] |
-| SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-10 02:33:28+00:00 | 10105 | 29 | C++ | 3 | [] |
-| yfolias/cap-exploit-poc | None | https://github.com/yfolias/cap-exploit-poc | ['exploit'] | 1 | 2022-01-10 06:23:59+00:00 | 1 | 0 | Shell | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-10 08:41:56+00:00 | 1726 | 69 | Java | 21 | [] |
 | Kr0ff/CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-10 00:47:34+00:00 | 1105 | 5 | Python | 0 | ['CVE-2021-44228'] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-01-10 04:49:32+00:00 | 291 | 3 | Python | 3 | [] |
 | blueIbird/exploit | None | https://github.com/blueIbird/exploit | ['exploit'] | 1 | 2022-01-10 01:56:01+00:00 | 591 | 0 | JavaScript | 0 | [] |
@@ -26,10 +25,13 @@
 | tsyj/vulns_collections | 收集漏洞相关技术分析文章、POC、EXP等资料 | https://github.com/tsyj/vulns_collections | ['vuln poc'] | 1 | 2022-01-10 04:15:52+00:00 | 0 | 0 | | 0 | [] |
 | c4dr01d/CVE-2121-44228 | Experimental exploit for Log4Shell | https://github.com/c4dr01d/CVE-2121-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-10 04:55:24+00:00 | 0 | 0 | | 0 | ['CVE-2121-44228'] |
 | UzJu/Gin-Vue-admin-poc-CVE-2022-21660 | CVE-2022-21660 | https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-10 05:52:03+00:00 | 0 | 0 | | 0 | ['CVE-2022-21660'] |
+| budserottt/ShellCodeFrame | ShellCodeFrame | https://github.com/budserottt/ShellCodeFrame | ['shellcode'] | 1 | 2022-01-10 07:10:52+00:00 | 0 | 0 | C++ | 0 | [] |
+| ritikarana04/College-Enquiry-Chatbot- | The college enquiry chatbot project is developed exploitation algorithms that analyze user queries and understand user message | https://github.com/ritikarana04/College-Enquiry-Chatbot- | ['exploit'] | 1 | 2022-01-10 08:02:50+00:00 | 0 | 0 | PHP | 0 | [] |
+| dpfaffenbauer/defichain-icx-exploit-review | None | https://github.com/dpfaffenbauer/defichain-icx-exploit-review | ['exploit'] | 1 | 2022-01-10 08:22:20+00:00 | 0 | 0 | TypeScript | 0 | [] |
+| yfolias/cap-exploit-poc | None | https://github.com/yfolias/cap-exploit-poc | ['exploit'] | 1 | 2022-01-10 06:23:59+00:00 | 1 | 0 | Shell | 0 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-10 04:54:19+00:00 | 156 | 1 | Java | 0 | [] |
-| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-10 04:34:26+00:00 | 359 | 1 | Python | 2 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-10 07:18:31+00:00 | 5239 | 3048 | Python | 676 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-10 01:11:15+00:00 | 22628 | 2 | Python | 0 | [] |
+| SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-10 02:33:28+00:00 | 10105 | 29 | C++ | 3 | [] |
 | Bio3SS/Exploitation_models | None | https://github.com/Bio3SS/Exploitation_models | ['exploit'] | 1 | 2022-01-10 00:10:32+00:00 | 18 | 0 | R | 0 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-10 00:42:25+00:00 | 13636 | 1810 | C++ | 300 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-10 00:17:03+00:00 | 217348 | 266 | Ruby | 78 | [] |
@@ -49,4 +51,6 @@
 | AmeyaJagtap/Rowdy_Activation_Functions | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | ['exploit'] | 1 | 2022-01-10 00:15:30+00:00 | 25 | 1 | Python | 2 | [] |
 | 8ypass/weblogicExploit | weblogic历史漏洞利用工具 | https://github.com/8ypass/weblogicExploit | ['exploit'] | 1 | 2022-01-10 06:52:19+00:00 | 1 | 7 | | 1 | [] |
 | A1andNS/auto_vuln_test_script | There are some Vuln POC auto test scripts based on python3 by A1andNS | https://github.com/A1andNS/auto_vuln_test_script | ['vuln poc'] | 1 | 2022-01-10 01:37:42+00:00 | 36 | 1 | Python | 0 | [] |
-| budserottt/ShellCodeFrame | ShellCodeFrame | https://github.com/budserottt/ShellCodeFrame | ['shellcode'] | 1 | 2022-01-10 07:10:52+00:00 | 0 | 0 | C++ | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-10 01:11:15+00:00 | 22628 | 2 | Python | 0 | [] |
+| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-10 04:34:26+00:00 | 359 | 1 | Python | 2 | [] |
+| Abdibimantara/How-to-Vulnerabilities-Scanning-Metasploitable-1vm-vunlhub | None | https://github.com/Abdibimantara/How-to-Vulnerabilities-Scanning-Metasploitable-1vm-vunlhub | ['metasploit module OR payload'] | 1 | 2022-01-10 08:40:44+00:00 | 0 | 0 | | 0 | [] |
