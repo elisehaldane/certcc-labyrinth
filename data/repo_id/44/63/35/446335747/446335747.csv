@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+446335747,dpfaffenbauer/defichain-icx-exploit-review,db.sql.gz,371c466e34b536028776c53a1fadad03143f191c,VU#002
+446335747,dpfaffenbauer/defichain-icx-exploit-review,db.sql.gz,371c466e34b536028776c53a1fadad03143f191c,VU#02
+446335747,dpfaffenbauer/defichain-icx-exploit-review,db.sql.gz,371c466e34b536028776c53a1fadad03143f191c,VU#05
+446335747,dpfaffenbauer/defichain-icx-exploit-review,db.sql.gz,371c466e34b536028776c53a1fadad03143f191c,VU#28
+446335747,dpfaffenbauer/defichain-icx-exploit-review,db.sql.gz,371c466e34b536028776c53a1fadad03143f191c,VU#67
