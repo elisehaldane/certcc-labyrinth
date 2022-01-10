@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/10
     
-49 records found after deduplication
+51 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-10 00:07:01+00:00 | 1534773 | 1546 | Python | 529 | [] |
-| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-10 08:41:56+00:00 | 1726 | 69 | Java | 21 | [] |
+| cybersecurityworks553/CVE-2021-42392-Detect | None | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | ['cve-2 OR cve_2'] | 1 | 2022-01-10 06:01:00+00:00 | 61 | 2 | Python | 0 | ['CVE-2021-42392'] |
 | Kr0ff/CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-10 00:47:34+00:00 | 1105 | 5 | Python | 0 | ['CVE-2021-44228'] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-01-10 04:49:32+00:00 | 291 | 3 | Python | 3 | [] |
 | blueIbird/exploit | None | https://github.com/blueIbird/exploit | ['exploit'] | 1 | 2022-01-10 01:56:01+00:00 | 591 | 0 | JavaScript | 0 | [] |
@@ -14,10 +14,11 @@
 | talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-10 01:40:28+00:00 | 32420 | 0 | Jupyter Notebook | 0 | [] |
 | YungBinary/get-log4j-exploit-payload-docker | None | https://github.com/YungBinary/get-log4j-exploit-payload-docker | ['exploit'] | 1 | 2022-01-10 02:16:36+00:00 | 1 | 0 | Shell | 0 | [] |
 | minhnq22/log4shell_exploit | Log4shell Exploit tool. | https://github.com/minhnq22/log4shell_exploit | ['exploit'] | 1 | 2022-01-10 04:28:20+00:00 | 39500 | 0 | Python | 0 | [] |
+| C0ldheim/NetworkExploitation | This repository stores tools for conducting network attacks. | https://github.com/C0ldheim/NetworkExploitation | ['exploit'] | 1 | 2022-01-10 09:11:15+00:00 | 43 | 0 | Python | 0 | [] |
 | huy-dai/BinaryExploitation_IAP_2022 | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | ['exploit'] | 1 | 2022-01-10 01:18:40+00:00 | 1047 | 0 | Python | 0 | [] |
 | cryptoforcecommand/log4j-cve-2021-44228 | None | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-10 01:46:29+00:00 | 8 | 1 | | 0 | ['CVE-2021-44228'] |
-| cybersecurityworks553/CVE-2021-42392-Detect | None | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | ['cve-2 OR cve_2'] | 1 | 2022-01-10 06:01:00+00:00 | 61 | 2 | Python | 0 | ['CVE-2021-42392'] |
 | hostinfodev/jericho-validator | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | ['exploit', 'rce'] | 2 | 2022-01-10 00:41:23+00:00 | 0 | 0 | Python | 0 | [] |
+| Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-10 08:41:56+00:00 | 1726 | 69 | Java | 21 | [] |
 | sasukeourad/CVE-2021-41277_SSRF | CVE-2021-41277 can be extended to an SSRF | https://github.com/sasukeourad/CVE-2021-41277_SSRF | ['cve-2 OR cve_2'] | 1 | 2022-01-10 01:52:11+00:00 | 0 | 0 | | 0 | ['CVE-2021-41277'] |
 | gnaiq/cve-2022-2222 | None | https://github.com/gnaiq/cve-2022-2222 | ['cve-2 OR cve_2'] | 1 | 2022-01-10 02:23:07+00:00 | 0 | 0 | | 0 | ['CVE-2022-2222'] |
 | C2ActiveThreatHunters/ThreatHunting-for-Log4j | This repo will be validating various threat hunting scenarios based on Log4j Exploitation. | https://github.com/C2ActiveThreatHunters/ThreatHunting-for-Log4j | ['exploit'] | 1 | 2022-01-10 02:48:51+00:00 | 0 | 0 | | 0 | [] |
@@ -29,9 +30,9 @@
 | ritikarana04/College-Enquiry-Chatbot- | The college enquiry chatbot project is developed exploitation algorithms that analyze user queries and understand user message | https://github.com/ritikarana04/College-Enquiry-Chatbot- | ['exploit'] | 1 | 2022-01-10 08:02:50+00:00 | 0 | 0 | PHP | 0 | [] |
 | dpfaffenbauer/defichain-icx-exploit-review | None | https://github.com/dpfaffenbauer/defichain-icx-exploit-review | ['exploit'] | 1 | 2022-01-10 08:22:20+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | yfolias/cap-exploit-poc | None | https://github.com/yfolias/cap-exploit-poc | ['exploit'] | 1 | 2022-01-10 06:23:59+00:00 | 1 | 0 | Shell | 0 | [] |
-| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-10 04:54:19+00:00 | 156 | 1 | Java | 0 | [] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-10 08:58:56+00:00 | 53560 | 49 | Python | 11 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-10 07:18:31+00:00 | 5239 | 3048 | Python | 676 | [] |
-| SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-10 02:33:28+00:00 | 10105 | 29 | C++ | 3 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-10 07:04:17+00:00 | 544407 | 789 | TypeScript | 103 | [] |
 | Bio3SS/Exploitation_models | None | https://github.com/Bio3SS/Exploitation_models | ['exploit'] | 1 | 2022-01-10 00:10:32+00:00 | 18 | 0 | R | 0 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-10 00:42:25+00:00 | 13636 | 1810 | C++ | 300 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-10 00:17:03+00:00 | 217348 | 266 | Ruby | 78 | [] |
@@ -42,8 +43,8 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-10 00:03:49+00:00 | 440096 | 43 | | 21 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-10 05:53:19+00:00 | 79396 | 700 | Go | 114 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-10 01:17:32+00:00 | 103 | 0 | PHP | 0 | [] |
-| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-10 07:04:17+00:00 | 544407 | 789 | TypeScript | 103 | [] |
 | Hack3rHan/IIS_Tilde_Vuln_PoC | IIS Tilde Vulnerability PoC - IIS短文件名漏洞PoC | https://github.com/Hack3rHan/IIS_Tilde_Vuln_PoC | ['vuln poc', 'vulnerability poc'] | 2 | 2022-01-10 02:35:19+00:00 | 18 | 0 | Python | 3 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-10 04:54:19+00:00 | 156 | 1 | Java | 0 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-10 01:58:22+00:00 | 650 | 1 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-10 00:18:09+00:00 | 87939 | 278 | Python | 84 | [] |
 | dnr6419/CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC | https://github.com/dnr6419/CVE-2021-29447 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-10 07:07:12+00:00 | 31 | 3 | Shell | 0 | ['CVE-2021-29447'] |
@@ -53,4 +54,5 @@
 | A1andNS/auto_vuln_test_script | There are some Vuln POC auto test scripts based on python3 by A1andNS | https://github.com/A1andNS/auto_vuln_test_script | ['vuln poc'] | 1 | 2022-01-10 01:37:42+00:00 | 36 | 1 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-10 01:11:15+00:00 | 22628 | 2 | Python | 0 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-10 04:34:26+00:00 | 359 | 1 | Python | 2 | [] |
+| SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-10 02:33:28+00:00 | 10105 | 29 | C++ | 3 | [] |
 | Abdibimantara/How-to-Vulnerabilities-Scanning-Metasploitable-1vm-vunlhub | None | https://github.com/Abdibimantara/How-to-Vulnerabilities-Scanning-Metasploitable-1vm-vunlhub | ['metasploit module OR payload'] | 1 | 2022-01-10 08:40:44+00:00 | 0 | 0 | | 0 | [] |
