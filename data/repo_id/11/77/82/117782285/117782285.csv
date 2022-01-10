@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/G8L48LKR56.p12,120847e2e543423c8614c29abbf7bdcdcaef1711,VU#16
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/SwiftIcons/Source/Fonts/FontAwesome.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/SwiftIcons/Source/Fonts/TypIcons.ttf,2dc9a89bcbe7cc129bd6bd924f6d03fe4310f04e,VU#21
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf,40a9a14f4db7e8eff1efb0376855622c8dd4d110,VU#89
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf,40a9a14f4db7e8eff1efb0376855622c8dd4d110,VU#898
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf,40a9a14f4db7e8eff1efb0376855622c8dd4d110,VU#8998
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/Google-Mobile-Ads-SDK/Frameworks/GoogleMobileAdsFramework-Current/GoogleMobileAds.framework/GoogleMobileAds,42300df5823f23990b0e92d5318e847d684f4fbf,VU#89
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/GoogleMaps,4bb89e958e9130b2f91c9d5b443a23d6e1172e90,VU#888
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/GoogleMaps,4bb89e958e9130b2f91c9d5b443a23d6e1172e90,VU#89
+117782285,SoftFeta/tempusespatium,ios/Tempus E Spatium/Tempus E Spatium.app.dSYM.zip,93759d12c0e598b6b11a5063b799a35e18c6b743,VU#89
+117782285,SoftFeta/tempusespatium,upload_certificate.pem,ec91cc7b7c1cfc576cbff77c5156d57c0ebf32ef,VU#25
