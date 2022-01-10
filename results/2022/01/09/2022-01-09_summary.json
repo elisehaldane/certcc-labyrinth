@@ -133,6 +133,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -256,6 +257,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -406,6 +408,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "command injection",
       "exploit"
@@ -548,6 +551,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -709,6 +713,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -842,6 +847,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -971,6 +977,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1098,6 +1105,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -1224,6 +1232,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1346,6 +1355,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1487,6 +1497,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1604,6 +1615,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cnvd-c OR cnvd-2 OR cnnvd-2"
     ],
@@ -1746,6 +1758,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1869,6 +1882,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -2010,6 +2024,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -2130,6 +2145,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2266,6 +2282,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2383,6 +2400,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2512,6 +2530,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2643,6 +2662,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -2760,6 +2780,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2883,6 +2904,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -3003,6 +3025,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3151,6 +3174,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3279,6 +3303,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -3411,6 +3436,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3539,6 +3565,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "shellcode"
@@ -3696,6 +3723,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -3840,6 +3868,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3957,6 +3986,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4083,6 +4113,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -4213,6 +4244,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -4330,6 +4362,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4447,6 +4480,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4565,6 +4599,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4698,6 +4733,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4825,6 +4861,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -4971,6 +5008,139 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":408234804,
+    "node_id":"MDEwOlJlcG9zaXRvcnk0MDgyMzQ4MDQ=",
+    "name":"blooket-hack",
+    "full_name":"glixzzy\/blooket-hack",
+    "private":false,
+    "html_url":"https:\/\/github.com\/glixzzy\/blooket-hack",
+    "description":"The Official Blooket Hack",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack",
+    "forks_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/glixzzy\/blooket-hack\/deployments",
+    "created_at":"2021-09-19T20:55:45Z",
+    "updated_at":"2022-01-10T14:18:54Z",
+    "pushed_at":"2022-01-09T16:41:42Z",
+    "git_url":"git:\/\/github.com\/glixzzy\/blooket-hack.git",
+    "ssh_url":"git@github.com:glixzzy\/blooket-hack.git",
+    "clone_url":"https:\/\/github.com\/glixzzy\/blooket-hack.git",
+    "svn_url":"https:\/\/github.com\/glixzzy\/blooket-hack",
+    "homepage":"",
+    "size":1701,
+    "stargazers_count":338,
+    "watchers_count":338,
+    "language":"JavaScript",
+    "has_issues":true,
+    "has_projects":false,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":870,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":23,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+      "blooket",
+      "blooket-hack",
+      "blooketapi",
+      "blookethack",
+      "blooketjs",
+      "blookettokens",
+      "cheat",
+      "exploit",
+      "hack"
+    ],
+    "visibility":"public",
+    "forks":870,
+    "open_issues":23,
+    "watchers":338,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":870,
+    "subscribers_count":37,
+    "matched_at":"2022-01-10T14:40:22Z",
+    "owner_login":"glixzzy",
+    "owner_id":73669084,
+    "owner_node_id":"MDQ6VXNlcjczNjY5MDg0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/73669084?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/glixzzy",
+    "owner_html_url":"https:\/\/github.com\/glixzzy",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/glixzzy\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/glixzzy\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/glixzzy\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/glixzzy\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/glixzzy\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/glixzzy\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/glixzzy\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/glixzzy\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/glixzzy\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5092,6 +5262,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -5209,6 +5380,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -5331,6 +5503,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5428,7 +5601,7 @@
     "temp_clone_token":"",
     "network_count":5,
     "subscribers_count":2,
-    "matched_at":"2022-01-09T15:41:59Z",
+    "matched_at":"2022-01-09T15:41:42Z",
     "owner_login":"dorkerdevil",
     "owner_id":15796745,
     "owner_node_id":"MDQ6VXNlcjE1Nzk2NzQ1",
@@ -5448,6 +5621,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit"
@@ -5579,6 +5753,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5696,6 +5871,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5813,6 +5989,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -5930,6 +6107,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6053,6 +6231,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6190,6 +6369,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6307,6 +6487,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6424,6 +6605,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6541,6 +6723,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6664,6 +6847,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6787,6 +6971,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6911,6 +7096,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "rce",
@@ -7036,6 +7222,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "remote code execution"
     ],
@@ -7153,6 +7340,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7270,6 +7458,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7393,6 +7582,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7510,6 +7700,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7631,6 +7822,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -7748,6 +7940,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7884,6 +8077,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8001,6 +8195,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8118,6 +8313,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8235,6 +8431,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8352,6 +8549,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -8475,6 +8673,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "0day",
       "cve poc"
@@ -8599,6 +8798,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -8722,6 +8922,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -8839,6 +9040,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8956,6 +9158,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -9084,6 +9287,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9201,6 +9405,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "attack poc"
     ],
@@ -9318,6 +9523,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9444,6 +9650,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9561,6 +9768,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9678,6 +9886,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -9814,6 +10023,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -9931,6 +10141,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10048,6 +10259,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -10171,6 +10383,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10288,6 +10501,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10405,6 +10619,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10522,6 +10737,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -10639,6 +10855,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "attack poc",
       "exploit"
@@ -10757,6 +10974,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10880,6 +11098,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10997,6 +11216,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11114,6 +11334,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11231,6 +11452,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11348,6 +11570,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11465,6 +11688,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11562,7 +11786,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-01-09T13:42:22Z",
+    "matched_at":"2022-01-09T13:42:25Z",
     "owner_login":"maximofernandezriera",
     "owner_id":43608040,
     "owner_node_id":"MDQ6VXNlcjQzNjA4MDQw",
@@ -11582,6 +11806,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit",
@@ -11701,6 +11926,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11818,6 +12044,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11935,6 +12162,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12052,6 +12280,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12169,6 +12398,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12292,6 +12522,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12409,6 +12640,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12526,6 +12758,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12643,6 +12876,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12760,6 +12994,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12895,6 +13130,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13012,6 +13248,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -13129,6 +13366,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13252,6 +13490,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -13394,6 +13633,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13511,6 +13751,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "shellcode"
