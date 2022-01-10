@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+446409038,nu11secur1ty/Windows11Exploits,InstallerFileTakeOver/README.md,5b44177df030254073b5eb6461713a414539e66e,CVE-2021-41379
+446409038,nu11secur1ty/Windows11Exploits,InstallerFileTakeOver/README.md,5b44177df030254073b5eb6461713a414539e66e,CVE-2021-43883
