@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+446477383,puckiestyle/JNDI-Exploit-Kit,JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,d0dd6eaaa0750670dda8f41f859ada03390c5b74,VU#23
+446477383,puckiestyle/JNDI-Exploit-Kit,JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,d0dd6eaaa0750670dda8f41f859ada03390c5b74,VU#74
+446477383,puckiestyle/JNDI-Exploit-Kit,JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,d0dd6eaaa0750670dda8f41f859ada03390c5b74,VU#83
