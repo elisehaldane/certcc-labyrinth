@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/11
     
-119 records found after deduplication
+120 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-11 11:20:45+00:00 | 677423 | 26084 | Ruby | 11877 | [] |
-| stevensblueprint/gavel | A remote code execution engine to aid with grading programming assignments at Stevens Institute of Technology | https://github.com/stevensblueprint/gavel | ['remote code execution'] | 1 | 2022-01-11 05:12:15+00:00 | 64 | 0 | JavaScript | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-11 05:08:43+00:00 | 239200 | 6735 | C | 1845 | [] |
+| cryptoforcecommand/log4j-cve-2021-44228 | None | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:19:25+00:00 | 14 | 1 | | 0 | ['CVE-2021-44228'] |
 | rodpwn/CVE-2021-43798-mass_scanner | None | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-11 01:28:59+00:00 | 643 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | t3rp/web-hack-gooder | Resources, re-written exploits, challenges, notes, and more in an attempt to get gooder at web-application hacking. | https://github.com/t3rp/web-hack-gooder | ['exploit'] | 1 | 2022-01-11 20:51:04+00:00 | 0 | 0 | Python | 0 | [] |
 | 0zvxr/CVE-2012-5519 | cups-root-file-read.sh _ CVE-2012-5519 | https://github.com/0zvxr/CVE-2012-5519 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-11 14:50:26+00:00 | 56 | 0 | Shell | 0 | ['CVE-2012-5519'] |
@@ -19,8 +20,8 @@
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-01-11 06:25:24+00:00 | 2786 | 25 | Python | 0 | [] |
 | talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-11 17:24:01+00:00 | 36533 | 0 | Jupyter Notebook | 0 | [] |
 | l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2022-01-11 06:37:47+00:00 | 18 | 0 | Lua | 0 | [] |
+| stevensblueprint/gavel | A remote code execution engine to aid with grading programming assignments at Stevens Institute of Technology | https://github.com/stevensblueprint/gavel | ['remote code execution'] | 1 | 2022-01-11 05:12:15+00:00 | 64 | 0 | JavaScript | 0 | [] |
 | xaletr/Fuel-CMS | Fuel CMS 1.4 Exploit Coded By Xale TD Vln RCE | https://github.com/xaletr/Fuel-CMS | ['exploit', 'rce'] | 2 | 2022-01-11 21:17:59+00:00 | 2 | 0 | Python | 0 | [] |
-| song856854132/scrapy_CVE2021 | a cve crawler for 2021 | https://github.com/song856854132/scrapy_CVE2021 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 07:38:02+00:00 | 26 | 0 | Python | 0 | [] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-01-11 03:57:57+00:00 | 1096 | 0 | TypeScript | 0 | [] |
 | aW3ikun/Modern_Windows_Exploit_Development | None | https://github.com/aW3ikun/Modern_Windows_Exploit_Development | ['exploit'] | 1 | 2022-01-11 10:36:29+00:00 | 84853 | 0 | Python | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-11 12:00:54+00:00 | 63 | 5 | | 2 | ['CVE-2021-44228'] |
@@ -33,10 +34,11 @@
 | SongBird0x1337/ArmyCTF-TicklePickle | ArmyCTF-TicklePickle exploit and modified files. | https://github.com/SongBird0x1337/ArmyCTF-TicklePickle | ['exploit'] | 1 | 2022-01-11 15:01:05+00:00 | 3 | 0 | | 0 | [] |
 | Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-01-11 03:11:18+00:00 | 14438 | 16 | Python | 5 | [] |
 | optiv/Ivy | Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment to load, decrypt and execute shellcode. | https://github.com/optiv/Ivy | ['shellcode'] | 1 | 2022-01-11 16:21:23+00:00 | 405 | 6 | Go | 2 | [] |
-| cryptoforcecommand/log4j-cve-2021-44228 | None | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:19:25+00:00 | 14 | 1 | | 0 | ['CVE-2021-44228'] |
+| song856854132/scrapy_CVE2021 | a cve crawler for 2021 | https://github.com/song856854132/scrapy_CVE2021 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 07:38:02+00:00 | 26 | 0 | Python | 0 | [] |
 | Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-11 00:22:51+00:00 | 165 | 1 | Batchfile | 0 | [] |
-| febnug/ular | A boring shellcode web server | https://github.com/febnug/ular | ['shellcode'] | 1 | 2022-01-11 09:58:26+00:00 | 1 | 1 | Assembly | 0 | [] |
-| OttoBryant1997/shellCodes | shellCode相关内容 | https://github.com/OttoBryant1997/shellCodes | ['shellcode'] | 1 | 2022-01-11 07:30:24+00:00 | 0 | 0 | | 0 | [] |
+| c4dr01d/CVE-2021-44228 | Experimental exploit for Log4Shell | https://github.com/c4dr01d/CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-11 07:55:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| CnHack3r/Penetration_PoC | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-11 11:08:12+00:00 | 139 | 0 | Python | 0 | [] |
+| Ali199945/metasploit-armitage | None | https://github.com/Ali199945/metasploit-armitage | ['metasploit module OR payload'] | 1 | 2022-01-11 20:27:40+00:00 | 0 | 0 | | 0 | [] |
 | Ali199945/metasploit | None | https://github.com/Ali199945/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-11 20:09:18+00:00 | 0 | 0 | | 0 | [] |
 | rrmomaya2900/0dayWriteup-THM | CTF Writeup | https://github.com/rrmomaya2900/0dayWriteup-THM | ['0day'] | 1 | 2022-01-11 18:53:22+00:00 | 0 | 0 | | 0 | [] |
 | exthari/Pwncollege | Exploits for Pwncollege | https://github.com/exthari/Pwncollege | ['exploit'] | 1 | 2022-01-11 16:46:56+00:00 | 0 | 0 | Python | 0 | [] |
@@ -48,13 +50,13 @@
 | CnHack3r/Awesome-hacking-tools | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、shellcode免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | ['exploit', 'shellcode'] | 2 | 2022-01-11 11:22:22+00:00 | 0 | 0 | | 0 | [] |
 | ciaran3001/QR-Exploit-Canvas-App | None | https://github.com/ciaran3001/QR-Exploit-Canvas-App | ['exploit'] | 1 | 2022-01-11 09:59:20+00:00 | 0 | 0 | | 0 | [] |
 | zjicmDarkWing/CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 08:15:09+00:00 | 0 | 0 | | 0 | ['CVE-2021-32099'] |
-| CnHack3r/Penetration_PoC | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-11 07:39:02+00:00 | 0 | 0 | | 0 | [] |
+| OttoBryant1997/shellCodes | shellCode相关内容 | https://github.com/OttoBryant1997/shellCodes | ['shellcode'] | 1 | 2022-01-11 07:30:24+00:00 | 0 | 0 | | 0 | [] |
+| ritikarana04/College-Enquiry-Chatbot- | The college enquiry chatbot project is developed exploitation algorithms that analyze user queries and understand user message | https://github.com/ritikarana04/College-Enquiry-Chatbot- | ['exploit'] | 1 | 2022-01-11 07:57:44+00:00 | 77 | 0 | PHP | 0 | [] |
 | bennyhee/IoT_Exploits_Founder | auto identify iot exploits from real-time payload | https://github.com/bennyhee/IoT_Exploits_Founder | ['exploit'] | 1 | 2022-01-11 06:30:59+00:00 | 0 | 0 | | 0 | [] |
-| c4dr01d/CVE-2021-44228 | Experimental exploit for Log4Shell | https://github.com/c4dr01d/CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-11 07:55:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | None | https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:04:22+00:00 | 0 | 0 | C | 0 | ['CVE-2021-40490'] |
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:37:09+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:01:01+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
-| jbaines-r7/badblood | An exploit for CVE-2021-20038 | https://github.com/jbaines-r7/badblood | ['exploit', 'rce'] | 2 | 2022-01-11 02:25:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-20038'] |
+| jbaines-r7/badblood | SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038) | https://github.com/jbaines-r7/badblood | ['exploit', 'rce'] | 2 | 2022-01-11 11:22:06+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-20038'] |
 | bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-01-11 00:50:53+00:00 | 0 | 0 | | 0 | [] |
 | Tburm/liquidations-interface | An interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | ['exploit'] | 1 | 2022-01-11 00:45:18+00:00 | 0 | 0 | | 0 | [] |
 | RacquelleRequenez/Attack-Defense-Analysis | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | ['exploit'] | 1 | 2022-01-11 00:14:57+00:00 | 0 | 0 | | 0 | [] |
@@ -62,10 +64,9 @@
 | Darkhaxxor005/BeefSec | Automated Beef based browser exploitation framework with custom modules. | https://github.com/Darkhaxxor005/BeefSec | ['exploit'] | 1 | 2022-01-11 05:18:54+00:00 | 7940 | 0 | JavaScript | 0 | [] |
 | nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2022-01-11 11:19:43+00:00 | 33389 | 0 | C++ | 0 | [] |
 | open-AIMS/log4j | Log4j version 1.2.17 without the offending class responsible for CVE-2021-4104. | https://github.com/open-AIMS/log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-11 02:41:30+00:00 | 438 | 0 | | 0 | ['CVE-2021-4104'] |
-| ritikarana04/College-Enquiry-Chatbot- | The college enquiry chatbot project is developed exploitation algorithms that analyze user queries and understand user message | https://github.com/ritikarana04/College-Enquiry-Chatbot- | ['exploit'] | 1 | 2022-01-11 07:57:44+00:00 | 77 | 0 | PHP | 0 | [] |
 | FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2022-01-11 09:51:49+00:00 | 61 | 16 | Python | 21 | [] |
+| febnug/ular | A boring shellcode web server | https://github.com/febnug/ular | ['shellcode'] | 1 | 2022-01-11 09:58:26+00:00 | 1 | 1 | Assembly | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-11 18:10:19+00:00 | 110 | 5 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-11 05:08:43+00:00 | 239200 | 6735 | C | 1845 | [] |
 | leftrightleft/hacker-attacker | An exploitation framework simulator | https://github.com/leftrightleft/hacker-attacker | ['exploit'] | 1 | 2022-01-11 04:51:48+00:00 | 2605 | 0 | Go | 0 | [] |
 | DavideBuffelli/RWRReg | Code for the paper "Are Graph Convolutional Networks Fully Exploiting Graph Structure?", D. Buffelli, F. Vandin | https://github.com/DavideBuffelli/RWRReg | ['exploit'] | 1 | 2022-01-11 12:13:44+00:00 | 166 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-11 00:04:01+00:00 | 441509 | 43 | | 21 | [] |
@@ -123,4 +124,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-11 04:18:33+00:00 | 90761 | 280 | Python | 85 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-11 08:32:45+00:00 | 667 | 1 | Lua | 0 | [] |
 | RENNAARENATA/Exploits | Whatever ^^ | https://github.com/RENNAARENATA/Exploits | ['exploit'] | 1 | 2022-01-11 20:18:41+00:00 | 22 | 1 | | 0 | [] |
-| Ali199945/metasploit-armitage | None | https://github.com/Ali199945/metasploit-armitage | ['metasploit module OR payload'] | 1 | 2022-01-11 20:27:40+00:00 | 0 | 0 | | 0 | [] |
+| rcengineer/rcengineer | Config files for my GitHub profile. | https://github.com/rcengineer/rcengineer | ['rce'] | 1 | 2022-01-11 22:56:56+00:00 | 0 | 0 | | 0 | [] |
