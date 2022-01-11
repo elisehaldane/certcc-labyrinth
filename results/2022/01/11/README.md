@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/11
     
-42 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-11 05:08:43+00:00 | 239200 | 6735 | C | 1845 | [] |
-| Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-11 00:22:51+00:00 | 165 | 1 | Batchfile | 0 | [] |
+| open-AIMS/log4j | Log4j version 1.2.17 without the offending class responsible for CVE-2021-4104. | https://github.com/open-AIMS/log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-11 02:41:30+00:00 | 438 | 0 | | 0 | ['CVE-2021-4104'] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-11 04:05:37+00:00 | 12409 | 148 | Python | 32 | [] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-01-11 03:57:57+00:00 | 1096 | 0 | TypeScript | 0 | [] |
 | stevensblueprint/gavel | A remote code execution engine to aid with grading programming assignments at Stevens Institute of Technology | https://github.com/stevensblueprint/gavel | ['remote code execution'] | 1 | 2022-01-11 05:12:15+00:00 | 64 | 0 | JavaScript | 0 | [] |
@@ -15,9 +15,9 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-11 01:15:53+00:00 | 2687 | 1 | Jupyter Notebook | 0 | [] |
 | rodpwn/CVE-2021-43798-mass_scanner | None | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-11 01:28:59+00:00 | 643 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | cryptoforcecommand/log4j-cve-2021-44228 | None | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:19:25+00:00 | 14 | 1 | | 0 | ['CVE-2021-44228'] |
-| open-AIMS/log4j | Log4j version 1.2.17 without the offending class responsible for CVE-2021-4104. | https://github.com/open-AIMS/log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-11 02:41:30+00:00 | 438 | 0 | | 0 | ['CVE-2021-4104'] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-11 00:07:03+00:00 | 1534773 | 1547 | Python | 529 | [] |
+| Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-11 00:22:51+00:00 | 165 | 1 | Batchfile | 0 | [] |
 | Darkhaxxor005/BeefSec | Automated Beef based browser exploitation framework with custom modules. | https://github.com/Darkhaxxor005/BeefSec | ['exploit'] | 1 | 2022-01-11 05:18:54+00:00 | 7940 | 0 | JavaScript | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-11 00:07:03+00:00 | 1534773 | 1547 | Python | 529 | [] |
 | RacquelleRequenez/Attack-Defense-Analysis | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | ['exploit'] | 1 | 2022-01-11 00:14:57+00:00 | 0 | 0 | | 0 | [] |
 | Tburm/liquidations-interface | An interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | ['exploit'] | 1 | 2022-01-11 00:45:18+00:00 | 0 | 0 | | 0 | [] |
 | bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-01-11 00:50:53+00:00 | 0 | 0 | | 0 | [] |
@@ -25,10 +25,12 @@
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:01:01+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:37:09+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
 | Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | None | https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:04:22+00:00 | 0 | 0 | C | 0 | ['CVE-2021-40490'] |
+| bennyhee/IoT_Exploits_Founder | auto identify iot exploits from real-time payload | https://github.com/bennyhee/IoT_Exploits_Founder | ['exploit'] | 1 | 2022-01-11 06:30:59+00:00 | 0 | 0 | | 0 | [] |
+| OttoBryant1997/shellCodes | shellCode相关内容 | https://github.com/OttoBryant1997/shellCodes | ['shellcode'] | 1 | 2022-01-11 07:30:24+00:00 | 0 | 0 | | 0 | [] |
+| AmirLouktaila/lktploit | Install Metasploit for all version android | https://github.com/AmirLouktaila/lktploit | ['metasploit module OR payload'] | 1 | 2022-01-11 07:21:32+00:00 | 6 | 0 | Python | 0 | [] |
 | Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-01-11 03:11:18+00:00 | 14438 | 16 | Python | 5 | [] |
 | Quark064/WiiUAutoGate | I DO NOT OWN NOR AM I RESPONSIBLE FOR THE EXPLOIT CODE USED HERE - Credit goes to the talented hackers of the Wii U Modding Scene - Just a hacky website that launches a modified payload.elf to automate launching Mocha. The HBLExploit.html is just a gate th | https://github.com/Quark064/WiiUAutoGate | ['exploit'] | 1 | 2022-01-11 01:32:51+00:00 | 23 | 1 | HTML | 0 | [] |
 | hadrian3689/voting_system1.0_rce | None | https://github.com/hadrian3689/voting_system1.0_rce | ['rce'] | 1 | 2022-01-11 05:46:27+00:00 | 3 | 0 | Python | 0 | [] |
-| Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2022-01-11 03:45:00+00:00 | 22119 | 4 | Lua | 1 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-11 03:26:13+00:00 | 7696 | 4238 | Python | 572 | [] |
 | Ne0nd0g/merlin | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | https://github.com/Ne0nd0g/merlin | ['exploit'] | 1 | 2022-01-11 01:21:03+00:00 | 20778 | 3560 | Go | 587 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-11 00:34:30+00:00 | 13986 | 1812 | C++ | 300 | [] |
@@ -44,6 +46,8 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-11 00:51:30+00:00 | 104 | 0 | PHP | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-11 00:08:09+00:00 | 573972 | 793 | TypeScript | 102 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-11 04:18:33+00:00 | 90761 | 280 | Python | 85 | [] |
+| ReJimp/Kernel_Exploit | HEVD | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2022-01-11 06:58:23+00:00 | 482 | 2 | C | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-11 01:14:49+00:00 | 24353 | 2 | Python | 0 | [] |
 | hadrian3689/php8.1.0-dev-rce | None | https://github.com/hadrian3689/php8.1.0-dev-rce | ['rce'] | 1 | 2022-01-11 05:45:10+00:00 | 5 | 0 | Python | 0 | [] |
-| bennyhee/IoT_Exploits_Founder | auto identify iot exploits from real-time payload | https://github.com/bennyhee/IoT_Exploits_Founder | ['exploit'] | 1 | 2022-01-11 06:30:59+00:00 | 0 | 0 | | 0 | [] |
+| Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2022-01-11 03:45:00+00:00 | 22119 | 4 | Lua | 1 | [] |
+| CnHack3r/Penetration_PoC | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-11 07:39:02+00:00 | 0 | 0 | | 0 | [] |
