@@ -1,0 +1,19 @@
+
+# Summary for results/2022/01/11
+    
+12 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-11 00:07:03+00:00 | 1534773 | 1547 | Python | 529 | [] |
+| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-11 00:34:30+00:00 | 13986 | 1812 | C++ | 300 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-11 00:18:02+00:00 | 217349 | 266 | Ruby | 78 | [] |
+| brunocampos01/seguranca-de-redes | Aulas, exercícios e resumos da matéria: segurança da informação. | https://github.com/brunocampos01/seguranca-de-redes | ['metasploit module OR payload'] | 1 | 2022-01-11 00:24:33+00:00 | 67222 | 8 | Java | 1 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-11 00:46:11+00:00 | 18475 | 25 | | 18 | [] |
+| melian009/Deepbios | Evolving computational sustainability in rapidly changing exploited ecosystems | https://github.com/melian009/Deepbios | ['exploit'] | 1 | 2022-01-11 00:19:51+00:00 | 21906 | 0 | TeX | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-11 00:04:01+00:00 | 441509 | 43 | | 21 | [] |
+| lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-11 00:08:09+00:00 | 573972 | 793 | TypeScript | 102 | [] |
+| Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-11 00:22:51+00:00 | 165 | 1 | Batchfile | 0 | [] |
+| RacquelleRequenez/Attack-Defense-Analysis | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | ['exploit'] | 1 | 2022-01-11 00:14:57+00:00 | 0 | 0 | | 0 | [] |
+| Tburm/liquidations-interface | An interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | ['exploit'] | 1 | 2022-01-11 00:45:18+00:00 | 0 | 0 | | 0 | [] |
+| bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-01-11 00:50:53+00:00 | 0 | 0 | | 0 | [] |
