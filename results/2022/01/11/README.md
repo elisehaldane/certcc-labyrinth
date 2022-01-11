@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/11
     
-22 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-11 00:07:03+00:00 | 1534773 | 1547 | Python | 529 | [] |
-| Ne0nd0g/merlin | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | https://github.com/Ne0nd0g/merlin | ['exploit'] | 1 | 2022-01-11 01:21:03+00:00 | 20778 | 3560 | Go | 587 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-11 03:26:13+00:00 | 7696 | 4238 | Python | 572 | [] |
 | bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-01-11 00:50:53+00:00 | 0 | 0 | | 0 | [] |
 | Tburm/liquidations-interface | An interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | ['exploit'] | 1 | 2022-01-11 00:45:18+00:00 | 0 | 0 | | 0 | [] |
 | RacquelleRequenez/Attack-Defense-Analysis | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | ['exploit'] | 1 | 2022-01-11 00:14:57+00:00 | 0 | 0 | | 0 | [] |
@@ -14,6 +14,7 @@
 | Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-11 00:22:51+00:00 | 165 | 1 | Batchfile | 0 | [] |
 | rodpwn/CVE-2021-43798-mass_scanner | None | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-11 01:28:59+00:00 | 643 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-11 01:15:53+00:00 | 2687 | 1 | Jupyter Notebook | 0 | [] |
+| Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-01-11 03:11:18+00:00 | 14438 | 16 | Python | 5 | [] |
 | Quark064/WiiUAutoGate | I DO NOT OWN NOR AM I RESPONSIBLE FOR THE EXPLOIT CODE USED HERE - Credit goes to the talented hackers of the Wii U Modding Scene - Just a hacky website that launches a modified payload.elf to automate launching Mocha. The HBLExploit.html is just a gate th | https://github.com/Quark064/WiiUAutoGate | ['exploit'] | 1 | 2022-01-11 01:32:51+00:00 | 23 | 1 | HTML | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-11 01:14:49+00:00 | 24353 | 2 | Python | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-11 00:08:09+00:00 | 573972 | 793 | TypeScript | 102 | [] |
@@ -26,4 +27,5 @@
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-01-11 01:39:39+00:00 | 625 | 125 | Julia | 24 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-11 00:18:02+00:00 | 217349 | 266 | Ruby | 78 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-11 00:34:30+00:00 | 13986 | 1812 | C++ | 300 | [] |
+| Ne0nd0g/merlin | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | https://github.com/Ne0nd0g/merlin | ['exploit'] | 1 | 2022-01-11 01:21:03+00:00 | 20778 | 3560 | Go | 587 | [] |
 | jbaines-r7/badblood | An exploit for CVE-2021-20038 | https://github.com/jbaines-r7/badblood | ['exploit'] | 1 | 2022-01-11 02:25:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-20038'] |
