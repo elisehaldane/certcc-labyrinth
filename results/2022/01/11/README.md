@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/11
     
-99 records found after deduplication
+100 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-11 11:20:45+00:00 | 677423 | 26084 | Ruby | 11877 | [] |
-| c4dr01d/CVE-2021-44228 | Experimental exploit for Log4Shell | https://github.com/c4dr01d/CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-11 07:55:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-01-11 06:25:24+00:00 | 2786 | 25 | Python | 0 | [] |
 | song856854132/scrapy_CVE2021 | a cve crawler for 2021 | https://github.com/song856854132/scrapy_CVE2021 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 07:38:02+00:00 | 26 | 0 | Python | 0 | [] |
 | cryptoforcecommand/log4j-cve-2021-44228 | None | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:19:25+00:00 | 14 | 1 | | 0 | ['CVE-2021-44228'] |
 | rodpwn/CVE-2021-43798-mass_scanner | None | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-11 01:28:59+00:00 | 643 | 0 | Python | 0 | ['CVE-2021-43798'] |
@@ -17,7 +17,8 @@
 | light-Life/CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个验证 | https://github.com/light-Life/CVE-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 08:12:09+00:00 | 8 | 1 | Go | 0 | ['CVE-2021-43798'] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-11 15:36:22+00:00 | 110 | 0 | Go | 0 | [] |
 | szerszen199/PS-CVE-2020-7352 | Powershell implemetation of CVE-2020-7352 | https://github.com/szerszen199/PS-CVE-2020-7352 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 10:58:54+00:00 | 3 | 0 | PowerShell | 0 | ['CVE-2020-7352'] |
-| PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-01-11 06:25:24+00:00 | 2786 | 25 | Python | 0 | [] |
+| talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-11 17:24:01+00:00 | 36533 | 0 | Jupyter Notebook | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-11 05:08:43+00:00 | 239200 | 6735 | C | 1845 | [] |
 | l0st-idi0t/RblxScripts | simple exploits | https://github.com/l0st-idi0t/RblxScripts | ['exploit'] | 1 | 2022-01-11 06:37:47+00:00 | 18 | 0 | Lua | 0 | [] |
 | stevensblueprint/gavel | A remote code execution engine to aid with grading programming assignments at Stevens Institute of Technology | https://github.com/stevensblueprint/gavel | ['remote code execution'] | 1 | 2022-01-11 05:12:15+00:00 | 64 | 0 | JavaScript | 0 | [] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-01-11 03:57:57+00:00 | 1096 | 0 | TypeScript | 0 | [] |
@@ -29,8 +30,8 @@
 | AmirLouktaila/lktploit | Install Metasploit for all version android | https://github.com/AmirLouktaila/lktploit | ['metasploit module OR payload'] | 1 | 2022-01-11 07:21:32+00:00 | 6 | 0 | Python | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-11 13:24:40+00:00 | 53571 | 56 | Python | 13 | [] |
 | Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-11 00:22:51+00:00 | 165 | 1 | Batchfile | 0 | [] |
+| c4dr01d/CVE-2021-44228 | Experimental exploit for Log4Shell | https://github.com/c4dr01d/CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-11 07:55:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
 | ritikarana04/College-Enquiry-Chatbot- | The college enquiry chatbot project is developed exploitation algorithms that analyze user queries and understand user message | https://github.com/ritikarana04/College-Enquiry-Chatbot- | ['exploit'] | 1 | 2022-01-11 07:57:44+00:00 | 77 | 0 | PHP | 0 | [] |
-| Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-01-11 03:11:18+00:00 | 14438 | 16 | Python | 5 | [] |
 | open-AIMS/log4j | Log4j version 1.2.17 without the offending class responsible for CVE-2021-4104. | https://github.com/open-AIMS/log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-11 02:41:30+00:00 | 438 | 0 | | 0 | ['CVE-2021-4104'] |
 | aazhuliang/CVE-2021-31956-EXP | None | https://github.com/aazhuliang/CVE-2021-31956-EXP | ['cve-2 OR cve_2'] | 1 | 2022-01-11 16:16:08+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-31956'] |
 | mikias21/machine_learning_final_project | Generating Syntatic Cross-Site Scripting exploits using deep learning | https://github.com/mikias21/machine_learning_final_project | ['exploit'] | 1 | 2022-01-11 15:05:07+00:00 | 0 | 0 | | 0 | [] |
@@ -40,13 +41,13 @@
 | CnHack3r/Awesome-hacking-tools | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、shellcode免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | ['exploit', 'shellcode'] | 2 | 2022-01-11 11:22:22+00:00 | 0 | 0 | | 0 | [] |
 | ciaran3001/QR-Exploit-Canvas-App | None | https://github.com/ciaran3001/QR-Exploit-Canvas-App | ['exploit'] | 1 | 2022-01-11 09:59:20+00:00 | 0 | 0 | | 0 | [] |
 | zjicmDarkWing/CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 08:15:09+00:00 | 0 | 0 | | 0 | ['CVE-2021-32099'] |
-| CnHack3r/Penetration_PoC | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-11 07:39:02+00:00 | 0 | 0 | | 0 | [] |
+| CnHack3r/Penetration_PoC | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-11 11:08:12+00:00 | 139 | 0 | Python | 0 | [] |
 | OttoBryant1997/shellCodes | shellCode相关内容 | https://github.com/OttoBryant1997/shellCodes | ['shellcode'] | 1 | 2022-01-11 07:30:24+00:00 | 0 | 0 | | 0 | [] |
 | bennyhee/IoT_Exploits_Founder | auto identify iot exploits from real-time payload | https://github.com/bennyhee/IoT_Exploits_Founder | ['exploit'] | 1 | 2022-01-11 06:30:59+00:00 | 0 | 0 | | 0 | [] |
 | Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | None | https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:04:22+00:00 | 0 | 0 | C | 0 | ['CVE-2021-40490'] |
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:37:09+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:01:01+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
-| jbaines-r7/badblood | SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038) | https://github.com/jbaines-r7/badblood | ['exploit', 'rce'] | 2 | 2022-01-11 11:22:06+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-20038'] |
+| jbaines-r7/badblood | An exploit for CVE-2021-20038 | https://github.com/jbaines-r7/badblood | ['exploit', 'rce'] | 2 | 2022-01-11 02:25:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-20038'] |
 | bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-01-11 00:50:53+00:00 | 0 | 0 | | 0 | [] |
 | Tburm/liquidations-interface | An interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | ['exploit'] | 1 | 2022-01-11 00:45:18+00:00 | 0 | 0 | | 0 | [] |
 | RacquelleRequenez/Attack-Defense-Analysis | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | ['exploit'] | 1 | 2022-01-11 00:14:57+00:00 | 0 | 0 | | 0 | [] |
@@ -54,8 +55,8 @@
 | Darkhaxxor005/BeefSec | Automated Beef based browser exploitation framework with custom modules. | https://github.com/Darkhaxxor005/BeefSec | ['exploit'] | 1 | 2022-01-11 05:18:54+00:00 | 7940 | 0 | JavaScript | 0 | [] |
 | nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2022-01-11 11:19:43+00:00 | 33389 | 0 | C++ | 0 | [] |
 | SongBird0x1337/ArmyCTF-TicklePickle | ArmyCTF-TicklePickle exploit and modified files. | https://github.com/SongBird0x1337/ArmyCTF-TicklePickle | ['exploit'] | 1 | 2022-01-11 15:01:05+00:00 | 3 | 0 | | 0 | [] |
+| Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-01-11 03:11:18+00:00 | 14438 | 16 | Python | 5 | [] |
 | optiv/Ivy | Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment to load, decrypt and execute shellcode. | https://github.com/optiv/Ivy | ['shellcode'] | 1 | 2022-01-11 16:21:23+00:00 | 405 | 6 | Go | 2 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-11 05:08:43+00:00 | 239200 | 6735 | C | 1845 | [] |
 | NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2022-01-11 10:23:48+00:00 | 44 | 5 | Lua | 3 | [] |
 | DavideBuffelli/RWRReg | Code for the paper "Are Graph Convolutional Networks Fully Exploiting Graph Structure?", D. Buffelli, F. Vandin | https://github.com/DavideBuffelli/RWRReg | ['exploit'] | 1 | 2022-01-11 12:13:44+00:00 | 166 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-11 00:04:01+00:00 | 441509 | 43 | | 21 | [] |
