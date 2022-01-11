@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/11
     
-24 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -14,9 +14,13 @@
 | Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-11 00:22:51+00:00 | 165 | 1 | Batchfile | 0 | [] |
 | rodpwn/CVE-2021-43798-mass_scanner | None | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-11 01:28:59+00:00 | 643 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-11 01:15:53+00:00 | 2687 | 1 | Jupyter Notebook | 0 | [] |
+| tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-01-11 03:57:57+00:00 | 1096 | 0 | TypeScript | 0 | [] |
+| curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-11 04:05:37+00:00 | 12409 | 148 | Python | 32 | [] |
 | Vegetebird/StridedTransformer-Pose3D | This is an official implementation for "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation". | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-01-11 03:11:18+00:00 | 14438 | 16 | Python | 5 | [] |
 | Quark064/WiiUAutoGate | I DO NOT OWN NOR AM I RESPONSIBLE FOR THE EXPLOIT CODE USED HERE - Credit goes to the talented hackers of the Wii U Modding Scene - Just a hacky website that launches a modified payload.elf to automate launching Mocha. The HBLExploit.html is just a gate th | https://github.com/Quark064/WiiUAutoGate | ['exploit'] | 1 | 2022-01-11 01:32:51+00:00 | 23 | 1 | HTML | 0 | [] |
+| Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2022-01-11 03:45:00+00:00 | 22119 | 4 | Lua | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-11 01:14:49+00:00 | 24353 | 2 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-11 04:18:33+00:00 | 90761 | 280 | Python | 85 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-11 00:08:09+00:00 | 573972 | 793 | TypeScript | 102 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-11 00:51:30+00:00 | 104 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-11 00:04:01+00:00 | 441509 | 43 | | 21 | [] |
