@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-3268,0.33333333,https://github.com/s-leonhardt/THM-RootMe,s-leonhardt/THM-RootMe,446085084
+OSVDB-3268,0.16666667,https://github.com/rrmomaya2900/0dayWriteup-THM,rrmomaya2900/0dayWriteup-THM,446943711
 OSVDB-3268,0.16666667,https://github.com/elc4br4/0day-WriteUp-TryHackme-CTF-Medium,elc4br4/0day-WriteUp-TryHackme-CTF-Medium,440698452
 OSVDB-3268,0.16666667,https://github.com/ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,361279773
 OSVDB-3268,0.14285714,https://github.com/s-leonhardt/THM-0day,s-leonhardt/THM-0day,443985007
