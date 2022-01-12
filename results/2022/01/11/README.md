@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/11
     
-120 records found after deduplication
+121 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-11 11:20:45+00:00 | 677423 | 26084 | Ruby | 11877 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-11 05:08:43+00:00 | 239200 | 6735 | C | 1845 | [] |
+| febnug/ular | A boring shellcode web server | https://github.com/febnug/ular | ['shellcode'] | 1 | 2022-01-11 09:58:26+00:00 | 1 | 1 | Assembly | 0 | [] |
 | cryptoforcecommand/log4j-cve-2021-44228 | None | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:19:25+00:00 | 14 | 1 | | 0 | ['CVE-2021-44228'] |
 | rodpwn/CVE-2021-43798-mass_scanner | None | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-11 01:28:59+00:00 | 643 | 0 | Python | 0 | ['CVE-2021-43798'] |
 | t3rp/web-hack-gooder | Resources, re-written exploits, challenges, notes, and more in an attempt to get gooder at web-application hacking. | https://github.com/t3rp/web-hack-gooder | ['exploit'] | 1 | 2022-01-11 20:51:04+00:00 | 0 | 0 | Python | 0 | [] |
@@ -56,7 +56,7 @@
 | Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | None | https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | ['cve-2 OR cve_2'] | 1 | 2022-01-11 06:04:22+00:00 | 0 | 0 | C | 0 | ['CVE-2021-40490'] |
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:37:09+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
 | Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | None | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix | ['cve-2 OR cve_2'] | 1 | 2022-01-11 05:01:01+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0434'] |
-| jbaines-r7/badblood | SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038) | https://github.com/jbaines-r7/badblood | ['exploit', 'rce'] | 2 | 2022-01-11 11:22:06+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-20038'] |
+| jbaines-r7/badblood | An exploit for CVE-2021-20038 | https://github.com/jbaines-r7/badblood | ['exploit', 'rce'] | 2 | 2022-01-11 02:25:25+00:00 | 0 | 0 | | 0 | ['CVE-2021-20038'] |
 | bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-01-11 00:50:53+00:00 | 0 | 0 | | 0 | [] |
 | Tburm/liquidations-interface | An interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | ['exploit'] | 1 | 2022-01-11 00:45:18+00:00 | 0 | 0 | | 0 | [] |
 | RacquelleRequenez/Attack-Defense-Analysis | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | ['exploit'] | 1 | 2022-01-11 00:14:57+00:00 | 0 | 0 | | 0 | [] |
@@ -65,9 +65,10 @@
 | nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2022-01-11 11:19:43+00:00 | 33389 | 0 | C++ | 0 | [] |
 | open-AIMS/log4j | Log4j version 1.2.17 without the offending class responsible for CVE-2021-4104. | https://github.com/open-AIMS/log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-11 02:41:30+00:00 | 438 | 0 | | 0 | ['CVE-2021-4104'] |
 | FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2022-01-11 09:51:49+00:00 | 61 | 16 | Python | 21 | [] |
-| febnug/ular | A boring shellcode web server | https://github.com/febnug/ular | ['shellcode'] | 1 | 2022-01-11 09:58:26+00:00 | 1 | 1 | Assembly | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-11 18:10:19+00:00 | 110 | 5 | | 0 | [] |
-| leftrightleft/hacker-attacker | An exploitation framework simulator | https://github.com/leftrightleft/hacker-attacker | ['exploit'] | 1 | 2022-01-11 04:51:48+00:00 | 2605 | 0 | Go | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-11 05:08:43+00:00 | 239200 | 6735 | C | 1845 | [] |
+| 19dullarfortnitecard/DogPieceGUI | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/DogPieceGUI | ['exploit'] | 1 | 2022-01-11 18:13:45+00:00 | 50 | 0 | Lua | 0 | [] |
+| ecriminal/Exploit-Discord-Cache-System-PoC | 🗄️ Exploit Discord's cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims) | https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC | ['exploit'] | 1 | 2022-01-11 23:25:51+00:00 | 1188 | 111 | Python | 18 | [] |
 | DavideBuffelli/RWRReg | Code for the paper "Are Graph Convolutional Networks Fully Exploiting Graph Structure?", D. Buffelli, F. Vandin | https://github.com/DavideBuffelli/RWRReg | ['exploit'] | 1 | 2022-01-11 12:13:44+00:00 | 166 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-11 00:04:01+00:00 | 441509 | 43 | | 21 | [] |
 | F-Masood/Exploiting_StackBased_BufferOverflows | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox | https://github.com/F-Masood/Exploiting_StackBased_BufferOverflows | ['exploit'] | 1 | 2022-01-11 06:40:27+00:00 | 67 | 2 | Python | 0 | [] |
@@ -80,8 +81,8 @@
 | kaled-alshmrany/FuSeBMC | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | ['exploit'] | 1 | 2022-01-11 01:53:32+00:00 | 104025 | 23 | C | 2 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-11 09:55:22+00:00 | 18257 | 635 | Go | 138 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-11 00:46:11+00:00 | 18475 | 25 | | 18 | [] |
+| leftrightleft/hacker-attacker | An exploitation framework simulator | https://github.com/leftrightleft/hacker-attacker | ['exploit'] | 1 | 2022-01-11 04:51:48+00:00 | 2605 | 0 | Go | 0 | [] |
 | brunocampos01/seguranca-de-redes | Aulas, exercícios e resumos da matéria: segurança da informação. | https://github.com/brunocampos01/seguranca-de-redes | ['metasploit module OR payload'] | 1 | 2022-01-11 00:24:33+00:00 | 67222 | 8 | Java | 1 | [] |
-| NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2022-01-11 10:23:48+00:00 | 44 | 5 | Lua | 3 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-01-11 01:39:39+00:00 | 625 | 125 | Julia | 24 | [] |
 | CaptainFrost/captainfrostnet | Information about Captain Frosts various exploits | https://github.com/CaptainFrost/captainfrostnet | ['exploit'] | 1 | 2022-01-11 22:11:15+00:00 | 18 | 0 | | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-11 00:18:02+00:00 | 217349 | 266 | Ruby | 78 | [] |
@@ -95,8 +96,8 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-11 00:07:03+00:00 | 1534773 | 1547 | Python | 529 | [] |
 | xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-01-11 16:00:45+00:00 | 2422 | 301 | HTML | 109 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-11 13:45:44+00:00 | 79404 | 700 | Go | 114 | [] |
+| NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2022-01-11 10:23:48+00:00 | 44 | 5 | Lua | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-11 00:51:30+00:00 | 104 | 0 | PHP | 0 | [] |
-| 19dullarfortnitecard/DogPieceGUI | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/DogPieceGUI | ['exploit'] | 1 | 2022-01-11 18:13:45+00:00 | 50 | 0 | Lua | 0 | [] |
 | hadrian3689/php8.1.0-dev-rce | None | https://github.com/hadrian3689/php8.1.0-dev-rce | ['rce'] | 1 | 2022-01-11 05:45:10+00:00 | 5 | 0 | Python | 0 | [] |
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2022-01-11 20:23:51+00:00 | 327 | 2 | | 1 | [] |
 | tjcrone/rces | Work on the Research Computing in Earth Science Text | https://github.com/tjcrone/rces | ['rce'] | 1 | 2022-01-11 18:46:59+00:00 | 0 | 0 | | 0 | [] |
