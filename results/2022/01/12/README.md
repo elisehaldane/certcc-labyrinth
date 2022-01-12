@@ -1,13 +1,18 @@
 
 # Summary for results/2022/01/12
     
-26 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-12 01:52:31+00:00 | 7871 | 4241 | Python | 572 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-12 00:17:16+00:00 | 217349 | 267 | Ruby | 78 | [] |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-12 06:38:04+00:00 | 677476 | 26091 | Ruby | 11884 | [] |
+| glixzzy/blooket-hack | The Official Blooket Hack | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-12 04:44:53+00:00 | 1701 | 339 | JavaScript | 888 | [] |
+| Technopy311/GitStack-RCE-Remake | This is a remake of this script (https://www.exploit-db.com/exploits/43777) | https://github.com/Technopy311/GitStack-RCE-Remake | ['exploit', 'rce'] | 2 | 2022-01-12 06:26:27+00:00 | 0 | 0 | Python | 0 | [] |
+| rickey17l/DarkCoderSco | Shellcode Encoder using XOR. Supports bad characters. | https://github.com/rickey17l/DarkCoderSco | ['shellcode'] | 1 | 2022-01-12 06:03:11+00:00 | 0 | 0 | nan | 0 | [] |
+| progamer456t/SussySploit | nan | https://github.com/progamer456t/SussySploit | ['sploit'] | 1 | 2022-01-12 02:43:26+00:00 | 47 | 0 | C# | 0 | [] |
 | rcengineer/rcengineer | Config files for my GitHub profile. | https://github.com/rcengineer/rcengineer | ['rce'] | 1 | 2022-01-12 03:35:50+00:00 | 0 | 0 | | 0 | [] |
+| RobloxArchiver/AssetDownloader | Roblox Exploit Library for Synapse X to download assets simpler. | https://github.com/RobloxArchiver/AssetDownloader | ['exploit'] | 1 | 2022-01-12 06:53:03+00:00 | 3 | 0 | Lua | 0 | [] |
+| C0ldheim/NetworkExploitation | This repository stores tools for conducting network attacks. | https://github.com/C0ldheim/NetworkExploitation | ['exploit'] | 1 | 2022-01-12 06:09:50+00:00 | 47 | 0 | Python | 0 | [] |
 | ChandanShastri/Log4j_Vulnerability_Demo | A simple program to demonstrate how Log4j vulnerability can be exploited ( CVE-2021-44228 ) | https://github.com/ChandanShastri/Log4j_Vulnerability_Demo | ['exploit'] | 1 | 2022-01-12 04:36:45+00:00 | 1794 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-01-12 03:16:21+00:00 | 2789 | 25 | Python | 0 | [] |
 | talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-12 03:45:50+00:00 | 37338 | 0 | Jupyter Notebook | 0 | [] |
@@ -16,9 +21,10 @@
 | jake-k-38/win-log4shell-detect | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4shell-detect | ['exploit'] | 1 | 2022-01-12 01:51:27+00:00 | 18 | 1 | PowerShell | 0 | [] |
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-12 03:28:41+00:00 | 437 | 314 | PowerShell | 85 | ['CVE-2021-44228'] |
 | tobiasoed/log4j-CVE-2021-44228 | None | https://github.com/tobiasoed/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-12 02:30:03+00:00 | 28 | 0 | Shell | 0 | ['CVE-2021-44228'] |
-| glixzzy/blooket-hack | The Official Blooket Hack | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-12 04:44:53+00:00 | 1701 | 339 | JavaScript | 888 | [] |
 | hadrian3689/php8.1.0-dev-rce | None | https://github.com/hadrian3689/php8.1.0-dev-rce | ['rce'] | 1 | 2022-01-12 04:35:48+00:00 | 5 | 0 | Python | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-12 01:52:31+00:00 | 7871 | 4241 | Python | 572 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-12 01:14:40+00:00 | 26054 | 2 | Python | 0 | [] |
+| vishaljattan/privilege-escalation | privilege-escalation technique is written in this with complete step by step guide | https://github.com/vishaljattan/privilege-escalation | ['exploit'] | 1 | 2022-01-12 06:15:59+00:00 | 3 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-12 00:20:00+00:00 | 94146 | 281 | Python | 86 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-12 00:37:23+00:00 | 720 | 1 | Lua | 0 | [] |
 | lunasec-io/lunasec | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and | https://github.com/lunasec-io/lunasec | ['rce'] | 1 | 2022-01-12 00:27:31+00:00 | 594995 | 794 | TypeScript | 103 | [] |
@@ -30,4 +36,5 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-12 00:46:11+00:00 | 19405 | 25 | | 17 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-01-12 02:56:44+00:00 | 15760 | 290 | C | 41 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-01-12 01:00:47+00:00 | 627 | 126 | Julia | 24 | [] |
-| progamer456t/SussySploit | nan | https://github.com/progamer456t/SussySploit | ['sploit'] | 1 | 2022-01-12 02:43:26+00:00 | 47 | 0 | C# | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-12 00:17:16+00:00 | 217349 | 267 | Ruby | 78 | [] |
+| jiangminghua/Vulnerability-Remote-Code-Execution | CVE Vulnerability Remote Code Execution | https://github.com/jiangminghua/Vulnerability-Remote-Code-Execution | ['remote code execution'] | 1 | 2022-01-12 06:38:57+00:00 | 0 | 0 | | 0 | [] |
