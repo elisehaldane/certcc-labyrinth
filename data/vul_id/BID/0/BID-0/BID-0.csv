@@ -34,6 +34,7 @@ BID-0,0.04761905,https://github.com/bbrezillon/linux-0day,bbrezillon/linux-0day,
 BID-0,0.03846154,https://github.com/dns43/exploits,dns43/exploits,193015842
 BID-0,0.03125000,https://github.com/jaychowjingjie/CVE-2018-0202,jaychowjingjie/CVE-2018-0202,158891873
 BID-0,0.02777778,https://github.com/fenchelfen/ncs-exploit-environments,fenchelfen/ncs-exploit-environments,256838421
+BID-0,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 BID-0,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 BID-0,0.02173913,https://github.com/ucsb-seclab/boomerang,ucsb-seclab/boomerang,76598629
 BID-0,0.02040816,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old2,Nivaskumark/CVE-2020-0074-frameworks_base_old2,432927026
