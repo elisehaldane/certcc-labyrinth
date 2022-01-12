@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+447302273,EmanuelWaMungu/strapi-exploit-rce,exploit-strapi.py,4ae359864c3884c68764a78de9ec2d48ad5ff5c4,CVE-2019-18818
+447302273,EmanuelWaMungu/strapi-exploit-rce,exploit-strapi.py,4ae359864c3884c68764a78de9ec2d48ad5ff5c4,CVE-2019-19609
+447302273,EmanuelWaMungu/strapi-exploit-rce,exploit.py,d3281d8a4098f2c390398ee6a9f4caf7bbd60323,CVE-2019-19609
