@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+447012392,awslabs/jndi-deobfuscate-python,README.md,995686377cab6a8d907ffb50e4a98e746b06b558,CVE-2021-44228
