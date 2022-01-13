@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+439217985,Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228,README.md,3ec996d7896b4897e8cc218101a6331fc90328c4,CVE-2021-44228
+439217985,Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228,run-cve-patch.sh,5dbe6dc2e7dc202f84f2f978606614c595db5101,CVE-2021-44228
+439217985,Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
