@@ -1,16 +1,23 @@
 
 # Summary for results/2022/01/13
     
-9 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-13 00:07:16+00:00 | 1534773 | 1548 | Python | 529 | [] |
 | ParrotSec/metasploit-framework | None | https://github.com/ParrotSec/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-13 00:19:47+00:00 | 66669 | 9 | Ruby | 11 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-13 00:17:32+00:00 | 218884 | 267 | Ruby | 78 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-13 00:46:12+00:00 | 19791 | 25 | | 17 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-13 00:04:08+00:00 | 450468 | 43 | | 21 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-13 01:16:12+00:00 | 27661 | 2 | Python | 0 | [] |
+| YouCantCMe/Exploits | None | https://github.com/YouCantCMe/Exploits | ['exploit'] | 1 | 2022-01-13 01:47:00+00:00 | 186 | 0 | | 0 | [] |
 | I2rys/RAC-Clone | RAC/Roblox anti cheat exploiters database clone with database. | https://github.com/I2rys/RAC-Clone | ['exploit'] | 1 | 2022-01-13 00:17:29+00:00 | 46 | 1 | JavaScript | 0 | [] |
 | I2rys/pw-metasploit | Advance version of MsfSearch kinda as well as a module. | https://github.com/I2rys/pw-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-13 00:12:49+00:00 | 7 | 0 | JavaScript | 0 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-13 01:34:43+00:00 | 74 | 0 | C | 0 | [] |
+| lanhaifeng/jndi-exploit | None | https://github.com/lanhaifeng/jndi-exploit | ['exploit'] | 1 | 2022-01-13 01:54:47+00:00 | 5 | 0 | Java | 0 | [] |
+| Wh1terat/aQRootG3 | Enable telnet via qrcode command injection for Aqara G3 hub | https://github.com/Wh1terat/aQRootG3 | ['command injection'] | 1 | 2022-01-13 01:56:42+00:00 | 24 | 3 | Python | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-13 01:15:35+00:00 | 4092 | 1 | Jupyter Notebook | 0 | [] |
+| project-serum/sealevel-attacks | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | ['exploit'] | 1 | 2022-01-13 01:00:36+00:00 | 85 | 16 | Rust | 2 | [] |
 | DTMExploits/DTMExploits.github.io | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | ['exploit'] | 1 | 2022-01-13 00:24:28+00:00 | 0 | 0 | HTML | 0 | [] |
 | fpro4x/Manual-JWT-exploit | I wrote this script to complete the Try Hack Me zthobscurewebvulns JWT challenge. | https://github.com/fpro4x/Manual-JWT-exploit | ['exploit'] | 1 | 2022-01-13 00:37:06+00:00 | 0 | 0 | Python | 0 | [] |
