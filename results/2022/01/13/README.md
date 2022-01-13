@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/13
     
-57 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-13 05:08:48+00:00 | 239209 | 6737 | C | 1847 | [] |
-| dbgee/log4j2_rce | log4j2 rce、poc | https://github.com/dbgee/log4j2_rce | ['rce', 'rce poc'] | 2 | 2022-01-13 06:32:20+00:00 | 9821 | 54 | Java | 31 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-13 00:07:16+00:00 | 1534773 | 1548 | Python | 529 | [] |
 | lhotari/pulsar-docker-images-patch-CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.1 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-13 06:40:43+00:00 | 6202 | 1 | Dockerfile | 1 | ['CVE-2021-44228'] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-13 04:56:41+00:00 | 68 | 6 | | 2 | ['CVE-2021-44228'] |
 | ExploitDemon/ExploitDemon | None | https://github.com/ExploitDemon/ExploitDemon | ['exploit'] | 1 | 2022-01-13 05:55:03+00:00 | 20 | 0 | | 0 | [] |
@@ -17,9 +17,11 @@
 | stevensblueprint/gavel | A remote code execution engine API to aid with grading programming assignments at Stevens Institute of Technology | https://github.com/stevensblueprint/gavel | ['remote code execution'] | 1 | 2022-01-13 02:29:38+00:00 | 127 | 0 | JavaScript | 0 | [] |
 | talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-13 06:16:19+00:00 | 57509 | 0 | Jupyter Notebook | 0 | [] |
 | GYLQ/CVE-2021-45232-RCE | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-13 05:12:49+00:00 | 24 | 28 | Python | 5 | ['CVE-2021-45232'] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-13 10:03:09+00:00 | 157 | 0 | Go | 0 | [] |
 | nt1dr/CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-13 02:24:32+00:00 | 13 | 16 | Python | 0 | ['CVE-2021-45383', 'CVE-2021-45384'] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-13 01:15:35+00:00 | 4092 | 1 | Jupyter Notebook | 0 | [] |
 | C2ActiveThreatHunters/ThreatHunting-for-Log4j | This repo will be validating various threat hunting scenarios based on Log4j Exploitation. | https://github.com/C2ActiveThreatHunters/ThreatHunting-for-Log4j | ['exploit'] | 1 | 2022-01-13 09:29:10+00:00 | 31 | 0 | | 0 | [] |
+| dpfaffenbauer/defichain-icx-exploit-review | None | https://github.com/dpfaffenbauer/defichain-icx-exploit-review | ['exploit'] | 1 | 2022-01-13 10:11:33+00:00 | 57565 | 0 | TypeScript | 0 | [] |
 | open-AIMS/log4j | Log4j version 1.2.17 without the offending class responsible for CVE-2021-4104. | https://github.com/open-AIMS/log4j | ['cve-2 OR cve_2'] | 1 | 2022-01-13 03:57:58+00:00 | 443 | 0 | | 0 | ['CVE-2021-4104'] |
 | project-serum/sealevel-attacks | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | ['exploit'] | 1 | 2022-01-13 01:00:36+00:00 | 85 | 16 | Rust | 2 | [] |
 | CnHack3r/Awesome-hacking-tools | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | ['exploit'] | 1 | 2022-01-13 07:39:36+00:00 | 29 | 4 | Python | 0 | [] |
@@ -33,22 +35,23 @@
 | riceebowlrbx/riceebowIscripts | exploit yes yes | https://github.com/riceebowlrbx/riceebowIscripts | ['exploit'] | 1 | 2022-01-13 06:14:13+00:00 | 0 | 0 | | 0 | [] |
 | antx-code/CVE-2021-26084 | POC of CVE-2021-26084, which is Atlassian Confluence Server OGNL(Object-Graph Navigation Language) Injection Vulneralibity. | https://github.com/antx-code/CVE-2021-26084 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-01-13 06:29:51+00:00 | 0 | 0 | | 0 | ['CVE-2021-26084'] |
 | vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2022-01-13 08:49:13+00:00 | 60588 | 0 | JavaScript | 0 | [] |
+| dbgee/log4j2_rce | log4j2 rce、poc | https://github.com/dbgee/log4j2_rce | ['rce', 'rce poc'] | 2 | 2022-01-13 06:32:20+00:00 | 9821 | 54 | Java | 31 | [] |
 | Etisalat-Egypt/Rodan | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | ['exploit'] | 1 | 2022-01-13 08:36:15+00:00 | 1794 | 69 | Java | 21 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-13 00:07:16+00:00 | 1534773 | 1548 | Python | 529 | [] |
-| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-13 08:34:36+00:00 | 53580 | 87 | Python | 24 | [] |
+| ferdian91/metasploit2021 | Metasploit for Termux 2021 | https://github.com/ferdian91/metasploit2021 | ['metasploit module OR payload'] | 1 | 2022-01-13 08:31:17+00:00 | 29 | 2 | Shell | 1 | [] |
 | ParrotSec/metasploit-framework | None | https://github.com/ParrotSec/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-13 00:19:47+00:00 | 66669 | 9 | Ruby | 11 | [] |
 | r00t-3xp10it/venom | venom - C2 shellcode generator/compiler/handler | https://github.com/r00t-3xp10it/venom | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-01-13 03:18:57+00:00 | 231649 | 1167 | Shell | 471 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-13 00:17:32+00:00 | 218884 | 267 | Ruby | 78 | [] |
 | helloexp/0day | 各种开源CMS 各种版本的漏洞以及EXP 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-01-13 06:29:14+00:00 | 21 | 3 | Python | 203 | [] |
 | jamestiotio/CITM | Battle Cats MITM Mailbox Hack [PATCHED] | https://github.com/jamestiotio/CITM | ['exploit'] | 1 | 2022-01-13 02:36:52+00:00 | 710 | 9 | Python | 6 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-13 00:46:12+00:00 | 19791 | 25 | | 17 | [] |
+| jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-13 09:59:10+00:00 | 18335 | 637 | Go | 140 | [] |
 | nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2022-01-13 07:20:01+00:00 | 252819 | 351 | HTML | 108 | [] |
 | hash3liZer/SillyRAT | A Cross Platform multifunctional (Windows/Linux/Mac) RAT. | https://github.com/hash3liZer/SillyRAT | ['metasploit module OR payload'] | 1 | 2022-01-13 03:09:07+00:00 | 236 | 379 | Python | 99 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-13 00:04:08+00:00 | 450468 | 43 | | 21 | [] |
 | tyjiangU/fido | Code for the paper "Exploiting Definitions for Frame Identification" | https://github.com/tyjiangU/fido | ['exploit'] | 1 | 2022-01-13 04:41:55+00:00 | 5 | 0 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-13 02:30:17+00:00 | 105 | 0 | PHP | 0 | [] |
-| ferdian91/metasploit2021 | Metasploit for Termux 2021 | https://github.com/ferdian91/metasploit2021 | ['metasploit module OR payload'] | 1 | 2022-01-13 08:31:17+00:00 | 29 | 2 | Shell | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-13 04:00:36+00:00 | 97535 | 282 | Python | 86 | [] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-13 08:34:36+00:00 | 53580 | 87 | Python | 24 | [] |
 | DareQPlaysRBX/SyntaXCovert | SyntaXCovert is my two years old project, just a Exploit on Custom API/DLL | https://github.com/DareQPlaysRBX/SyntaXCovert | ['exploit'] | 1 | 2022-01-13 07:29:45+00:00 | 586486 | 0 | | 0 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-13 07:16:55+00:00 | 1760959 | 8 | | 4 | [] |
 | fdai3105/nest-zingmp3 | Exploit ZingMP3 API with NestJS, for study purposes only | https://github.com/fdai3105/nest-zingmp3 | ['exploit'] | 1 | 2022-01-13 07:01:17+00:00 | 115 | 0 | TypeScript | 0 | [] |
