@@ -1,13 +1,12 @@
 
 # Summary for results/2022/01/12
     
-121 records found after deduplication
+122 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-12 06:38:04+00:00 | 677476 | 26091 | Ruby | 11884 | [] |
-| tobiasoed/log4j-CVE-2021-44228 | None | https://github.com/tobiasoed/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-12 02:30:03+00:00 | 28 | 0 | Shell | 0 | ['CVE-2021-44228'] |
-| nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2022-01-12 09:32:43+00:00 | 56577 | 0 | C++ | 0 | [] |
+| project-serum/sealevel-attacks | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | ['exploit'] | 1 | 2022-01-12 17:47:10+00:00 | 34 | 6 | Rust | 1 | [] |
 | Bubbadudez/Crosshair-X-Ultimate | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | ['exploit'] | 1 | 2022-01-12 17:30:32+00:00 | 287 | 1 | Batchfile | 0 | [] |
 | RobloxArchiver/AssetDownloader | Roblox Exploit Library for Synapse X to download assets simpler. | https://github.com/RobloxArchiver/AssetDownloader | ['exploit'] | 1 | 2022-01-12 06:53:03+00:00 | 3 | 0 | Lua | 0 | [] |
 | sic4rio/Buffer-Overflow | Exploit and Fuzzer for OSCP.exe [TryHackMe] Buffer Overflow Prep | https://github.com/sic4rio/Buffer-Overflow | ['exploit'] | 1 | 2022-01-12 07:56:33+00:00 | 1 | 0 | Python | 0 | [] |
@@ -33,11 +32,12 @@
 | jake-k-38/win-log4shell-detect | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4shell-detect | ['exploit'] | 1 | 2022-01-12 01:51:27+00:00 | 18 | 1 | PowerShell | 0 | [] |
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-12 03:28:41+00:00 | 437 | 314 | PowerShell | 85 | ['CVE-2021-44228'] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-12 16:19:02+00:00 | 66 | 6 | | 2 | ['CVE-2021-44228'] |
+| mc-17/pspack-flask | pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | ['exploit'] | 1 | 2022-01-12 14:25:17+00:00 | 1561 | 30 | JavaScript | 17 | [] |
 | p0dalirius/AdminerRead | Exploit tool for Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability | https://github.com/p0dalirius/AdminerRead | ['exploit'] | 1 | 2022-01-12 14:38:24+00:00 | 1812 | 10 | Python | 1 | [] |
-| project-serum/sealevel-attacks | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | ['exploit'] | 1 | 2022-01-12 17:47:10+00:00 | 34 | 6 | Rust | 1 | [] |
+| nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2022-01-12 09:32:43+00:00 | 56577 | 0 | C++ | 0 | [] |
 | CnHack3r/Penetration_PoC | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-12 09:43:07+00:00 | 413490 | 0 | Python | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-12 20:53:36+00:00 | 21992 | 6268 | JavaScript | 1475 | [] |
 | CnHack3r/Awesome-hacking-tools | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | ['exploit'] | 1 | 2022-01-12 09:30:45+00:00 | 6 | 3 | Python | 0 | [] |
-| derStecher03/Agent-Switcher | Temporary repository to show code for an exploit | https://github.com/derStecher03/Agent-Switcher | ['exploit'] | 1 | 2022-01-12 15:19:25+00:00 | 2 | 0 | Python | 0 | [] |
 | MrGeek6000/Omegle-Exploit- | Omegle Exploit | https://github.com/MrGeek6000/Omegle-Exploit- | ['exploit'] | 1 | 2022-01-12 21:32:55+00:00 | 0 | 0 | | 0 | [] |
 | ryanmrestivo/metasploit-resource-files | work-in-progress | https://github.com/ryanmrestivo/metasploit-resource-files | ['metasploit module OR payload'] | 1 | 2022-01-12 21:07:56+00:00 | 0 | 0 | Ruby | 0 | [] |
 | rclancyc/trophy | TROPHY (Trust Region Optimization using Precision HierarchY) is a trust region method used for unconstrained optimization that exploits variable precision to reduce communication cost as well as memory and power consumption. | https://github.com/rclancyc/trophy | ['exploit'] | 1 | 2022-01-12 17:56:36+00:00 | 0 | 0 | | 0 | [] |
@@ -50,8 +50,8 @@
 | shoxxdj/log4shellExploit | A simple Exploit for log4shell | https://github.com/shoxxdj/log4shellExploit | ['exploit'] | 1 | 2022-01-12 16:20:33+00:00 | 0 | 0 | Python | 0 | [] |
 | dailigf/cs467_Vulnerability_POCs | Repository for each individual POC | https://github.com/dailigf/cs467_Vulnerability_POCs | ['vuln poc', 'vulnerability poc'] | 2 | 2022-01-12 15:40:03+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | ownedbyphysics/dashboardTemplate | USE CASE: a dashboard for the watch/sunglasses business to be exploited by marketing department | https://github.com/ownedbyphysics/dashboardTemplate | ['exploit'] | 1 | 2022-01-12 15:17:26+00:00 | 0 | 0 | Python | 0 | [] |
+| derStecher03/Agent-Switcher | Temporary repository to show code for an exploit | https://github.com/derStecher03/Agent-Switcher | ['exploit'] | 1 | 2022-01-12 15:19:25+00:00 | 2 | 0 | Python | 0 | [] |
 | shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated | Unauthenticated Sqlinjection that leads to dump data base but this one impersonated Admin and drops a interactive shell | https://github.com/shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated | ['exploit', 'rce'] | 2 | 2022-01-12 14:48:05+00:00 | 5 | 0 | Python | 0 | [] |
-| rcengineer/rcengineer | Config files for my GitHub profile. | https://github.com/rcengineer/rcengineer | ['rce'] | 1 | 2022-01-12 03:35:50+00:00 | 0 | 0 | | 0 | [] |
 | ibnuuby/CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | ['cve-2 OR cve_2'] | 1 | 2022-01-12 11:49:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-32099'] |
 | SABI-Ensimag/CVE-2019-18276 | None | https://github.com/SABI-Ensimag/CVE-2019-18276 | ['cve-2 OR cve_2'] | 1 | 2022-01-12 11:56:31+00:00 | 2712 | 0 | Dockerfile | 0 | ['CVE-2019-18276'] |
 | Raiders0786/ClickjackPoc | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | ['exploit', 'vulnerability poc'] | 2 | 2022-01-12 11:31:41+00:00 | 0 | 1 | Python | 0 | [] |
@@ -64,9 +64,10 @@
 | Technopy311/GitStack-RCE-Remake | This is a remake of this script (https://www.exploit-db.com/exploits/43777) | https://github.com/Technopy311/GitStack-RCE-Remake | ['exploit', 'rce'] | 2 | 2022-01-12 06:26:27+00:00 | 0 | 0 | Python | 0 | [] |
 | rickey17l/DarkCoderSco | Shellcode Encoder using XOR. Supports bad characters. | https://github.com/rickey17l/DarkCoderSco | ['shellcode'] | 1 | 2022-01-12 06:03:11+00:00 | 0 | 0 | | 0 | [] |
 | progamer456t/SussySploit | None | https://github.com/progamer456t/SussySploit | ['sploit'] | 1 | 2022-01-12 02:43:26+00:00 | 47 | 0 | C# | 0 | [] |
+| rcengineer/rcengineer | Config files for my GitHub profile. | https://github.com/rcengineer/rcengineer | ['rce'] | 1 | 2022-01-12 03:35:50+00:00 | 0 | 0 | | 0 | [] |
 | corelight/cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-12 15:39:51+00:00 | 4612 | 17 | Zeek | 5 | ['CVE-2021-44228'] |
+| tobiasoed/log4j-CVE-2021-44228 | None | https://github.com/tobiasoed/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-12 02:30:03+00:00 | 28 | 0 | Shell | 0 | ['CVE-2021-44228'] |
 | p0dalirius/CVE-2016-10956_mail_masta | MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956) | https://github.com/p0dalirius/CVE-2016-10956_mail_masta | ['cve-2 OR cve_2'] | 1 | 2022-01-12 14:37:18+00:00 | 2170 | 3 | Python | 0 | ['CVE-2016-10956'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-12 20:53:36+00:00 | 21992 | 6268 | JavaScript | 1475 | [] |
 | vishal501/Shellcode | None | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2022-01-12 08:11:51+00:00 | 60060 | 0 | JavaScript | 0 | [] |
 | pen4uin/Poc-Exp | 漏洞研究☞OA/中间件/框架/路由器... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-12 14:15:01+00:00 | 553 | 136 | | 29 | [] |
 | Malandrone/PowerDecode | PowerDecode is a PowerShell-based tool that allows to deobfuscate PowerShell scripts obfuscated across multiple layers. The tool performs code dynamic analysis, extracting malware hosting URLs and checking http response.It can also detect if the malware at | https://github.com/Malandrone/PowerDecode | ['shellcode'] | 1 | 2022-01-12 20:15:56+00:00 | 2233 | 9 | PowerShell | 1 | [] |
