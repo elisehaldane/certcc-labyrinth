@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+447615580,solitarysp/Log4j-CVE-2021-44228,Log4j-CVE-2021-44228.iml,277b11e6f1a55be26d17add17d29d8a5765b440e,CVE-2021-44228
+447615580,solitarysp/Log4j-CVE-2021-44228,webServer/get-logs-container.bat,3fea7cc310ffd066c05adc7cdadc270412f54c7f,CVE-2021-44228
+447615580,solitarysp/Log4j-CVE-2021-44228,LDAPRefServer/pom.xml,7c2d0ba9812c65b125a02884f12193893ca05cb6,CVE-2021-44228
+447615580,solitarysp/Log4j-CVE-2021-44228,webServer/dist/app.jar,7cf894ff370b0823cd2e5b00d6688972efc1df61,VU#46
+447615580,solitarysp/Log4j-CVE-2021-44228,webServer/dist/app.jar,7cf894ff370b0823cd2e5b00d6688972efc1df61,VU#78
+447615580,solitarysp/Log4j-CVE-2021-44228,webServer/docker-compose.yml,83080b23ad0f95ae3795f11c65ab94f0c20532ee,CVE-2021-44228
+447615580,solitarysp/Log4j-CVE-2021-44228,pom.xml,8372403b389bfbeb77473ab40fc233f655d24bc7,CVE-2021-44228
+447615580,solitarysp/Log4j-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
