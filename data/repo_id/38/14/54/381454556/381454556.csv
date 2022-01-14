@@ -1,41 +1,37 @@
 repo_id,repo_full_name,file,file_sha1,match
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part07.rar,0203fb436863e38c713285c1d7c6ef4bc4ec5d19,VU#31
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part07.rar,0203fb436863e38c713285c1d7c6ef4bc4ec5d19,VU#03
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part07.rar,0203fb436863e38c713285c1d7c6ef4bc4ec5d19,VU#81
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part07.rar,0203fb436863e38c713285c1d7c6ef4bc4ec5d19,VU#80
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part07.rar,0203fb436863e38c713285c1d7c6ef4bc4ec5d19,VU#19
 381454556,Vichingo455/MalwareDatabase,Trojans/MrsMajor/MrsMajor 2.0.zip,0222b6fd525b35b8294214529f2aca97b26fd944,VU#58
-381454556,Vichingo455/MalwareDatabase,Virus Builder/Mbr Owerwrite.zip,05a49fc24cb9b6e052d9595ea27b79e04d2954fb,VU#66
 381454556,Vichingo455/MalwareDatabase,Virus Builder/Mbr Owerwrite.zip,05a49fc24cb9b6e052d9595ea27b79e04d2954fb,VU#54
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part11.rar,0630fa60e390726f59ffc6b934d6980b6d7b001e,VU#37
+381454556,Vichingo455/MalwareDatabase,Virus Builder/Mbr Owerwrite.zip,05a49fc24cb9b6e052d9595ea27b79e04d2954fb,VU#66
 381454556,Vichingo455/MalwareDatabase,Trojans/Clutt4.zip,0786447c55aa272e456d6d8c57818821c9c828c3,VU#01
 381454556,Vichingo455/MalwareDatabase,Trojans/Clutt4.zip,0786447c55aa272e456d6d8c57818821c9c828c3,VU#78
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part4.rar,08e2190c68721ed0c9f7eea6adf536182be7a1d5,VU#12
-381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part2.rar,0c7a0b6ee661b329e84f52e131d0045bc5128041,VU#48
 381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part2.rar,0c7a0b6ee661b329e84f52e131d0045bc5128041,VU#17
 381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part2.rar,0c7a0b6ee661b329e84f52e131d0045bc5128041,VU#34
+381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part2.rar,0c7a0b6ee661b329e84f52e131d0045bc5128041,VU#48
 381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part2.rar,0c7a0b6ee661b329e84f52e131d0045bc5128041,VU#27
 381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part2.rar,0c7a0b6ee661b329e84f52e131d0045bc5128041,VU#01
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part02.rar,0cd8f9906bab11c921592e79f9731f99ca5c6a92,VU#00
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part02.rar,0cd8f9906bab11c921592e79f9731f99ca5c6a92,VU#87
+381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part1.rar,0e32d237bf80a611b87e44e9f769782f333b8977,VU#31
 381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part1.rar,0e32d237bf80a611b87e44e9f769782f333b8977,VU#16
 381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part1.rar,0e32d237bf80a611b87e44e9f769782f333b8977,VU#10
 381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part1.rar,0e32d237bf80a611b87e44e9f769782f333b8977,VU#77
 381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part1.rar,0e32d237bf80a611b87e44e9f769782f333b8977,VU#34
-381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part1.rar,0e32d237bf80a611b87e44e9f769782f333b8977,VU#31
 381454556,Vichingo455/MalwareDatabase,ransomwares/MBRLock.zip,131d9399592e0e9c74e4f943016a8dc393751832,VU#14
-381454556,Vichingo455/MalwareDatabase,Trojans/LogonFuck Beta.zip,17b915248967cfbac561e751c9209536ea82289b,VU#03
 381454556,Vichingo455/MalwareDatabase,Trojans/LogonFuck Beta.zip,17b915248967cfbac561e751c9209536ea82289b,VU#33
-381454556,Vichingo455/MalwareDatabase,Trojans/LogonFuck Beta.zip,17b915248967cfbac561e751c9209536ea82289b,VU#069
+381454556,Vichingo455/MalwareDatabase,Trojans/LogonFuck Beta.zip,17b915248967cfbac561e751c9209536ea82289b,VU#03
 381454556,Vichingo455/MalwareDatabase,Trojans/LogonFuck Beta.zip,17b915248967cfbac561e751c9209536ea82289b,VU#59
+381454556,Vichingo455/MalwareDatabase,Trojans/LogonFuck Beta.zip,17b915248967cfbac561e751c9209536ea82289b,VU#069
+381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part1.rar,19734cc14364d72756d3d0b62836a55fbf856204,VU#76
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part1.rar,19734cc14364d72756d3d0b62836a55fbf856204,VU#13
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part1.rar,19734cc14364d72756d3d0b62836a55fbf856204,VU#80
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part1.rar,19734cc14364d72756d3d0b62836a55fbf856204,VU#29
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part1.rar,19734cc14364d72756d3d0b62836a55fbf856204,VU#61
-381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part1.rar,19734cc14364d72756d3d0b62836a55fbf856204,VU#76
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part1.rar,19734cc14364d72756d3d0b62836a55fbf856204,VU#16
+381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part4.rar,1d6a434a7dab8443383028a4c75c4cb0f93f8222,VU#13
+381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part4.rar,1d6a434a7dab8443383028a4c75c4cb0f93f8222,VU#04
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part4.rar,1d6a434a7dab8443383028a4c75c4cb0f93f8222,VU#41
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part4.rar,1d6a434a7dab8443383028a4c75c4cb0f93f8222,VU#69
-381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part4.rar,1d6a434a7dab8443383028a4c75c4cb0f93f8222,VU#04
-381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part4.rar,1d6a434a7dab8443383028a4c75c4cb0f93f8222,VU#13
 381454556,Vichingo455/MalwareDatabase,PUP/Outbyte PC Repair.zip,1e72e24659e7d7a5e47703abaf2b6d5dbeff6fae,VU#12
 381454556,Vichingo455/MalwareDatabase,rogues/XFileCorrupter.zip,1faee2468e334974b512f48a356a2ee10b13740d,VU#86
 381454556,Vichingo455/MalwareDatabase,Virus Builder/PetyaBuilder.zip,23acebf26ad05fecc0292adf170a1d432fa1fa13,VU#31
@@ -43,37 +39,33 @@ repo_id,repo_full_name,file,file_sha1,match
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part1.rar,3d74838125ba1012f4f3dd73aadf86c0d99c96a7,VU#61
 381454556,Vichingo455/MalwareDatabase,Virus Builder/Cyborg Builder Ransomware V 1.0.zip,47c30e1ae99aadf38b123c246fc8995f7a5321f0,VU#12
 381454556,Vichingo455/MalwareDatabase,rogues/PCDefender.zip,495d65995d1e062e3c0217b5c7e53aef10a9bf0d,VU#10
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part01.rar,4eb4df2fabccd1b1c80b1dfb8edcd9fbf305a96a,VU#008
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part01.rar,4eb4df2fabccd1b1c80b1dfb8edcd9fbf305a96a,VU#07
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part01.rar,4eb4df2fabccd1b1c80b1dfb8edcd9fbf305a96a,VU#22
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part3.rar,5aed608867d7fa2ef17762838ea69d6fd5c237c6,VU#108
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part01.rar,5b70691d95ac5ec18974be1b48a6d7e418dc1bb3,VU#71
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part01.rar,5b70691d95ac5ec18974be1b48a6d7e418dc1bb3,VU#61
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part01.rar,5b70691d95ac5ec18974be1b48a6d7e418dc1bb3,VU#49
 381454556,Vichingo455/MalwareDatabase,PUP/Driver Easy.zip,5bb747b611c863d5f68b5645d017c50fca0afd5c,VU#84
-381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part1.rar,60afb5099bc88d73c45d092a1e0015f9ee1d795f,VU#39
 381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part1.rar,60afb5099bc88d73c45d092a1e0015f9ee1d795f,VU#78
+381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part1.rar,60afb5099bc88d73c45d092a1e0015f9ee1d795f,VU#39
 381454556,Vichingo455/MalwareDatabase,Trojans/VineMEMZ/VineMEMZ.part1.rar,60afb5099bc88d73c45d092a1e0015f9ee1d795f,VU#79
 381454556,Vichingo455/MalwareDatabase,ransomwares/RedEye.zip,625c4c24b8c08bf12070eb1a53e89bc5b0f60519,VU#81
-381454556,Vichingo455/MalwareDatabase,ransomwares/RedEye.zip,625c4c24b8c08bf12070eb1a53e89bc5b0f60519,VU#39
-381454556,Vichingo455/MalwareDatabase,ransomwares/RedEye.zip,625c4c24b8c08bf12070eb1a53e89bc5b0f60519,VU#51
 381454556,Vichingo455/MalwareDatabase,ransomwares/RedEye.zip,625c4c24b8c08bf12070eb1a53e89bc5b0f60519,VU#35
-381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part2.rar,6b23ed050c5c60b87320e6856b0c500cfa93819e,VU#38
+381454556,Vichingo455/MalwareDatabase,ransomwares/RedEye.zip,625c4c24b8c08bf12070eb1a53e89bc5b0f60519,VU#51
+381454556,Vichingo455/MalwareDatabase,ransomwares/RedEye.zip,625c4c24b8c08bf12070eb1a53e89bc5b0f60519,VU#39
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part2.rar,6b23ed050c5c60b87320e6856b0c500cfa93819e,VU#99
+381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part2.rar,6b23ed050c5c60b87320e6856b0c500cfa93819e,VU#38
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part07.rar,6d87ef22f23aa21ca36bbd0e1c1b74d9b3c618e8,VU#22
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part07.rar,6d87ef22f23aa21ca36bbd0e1c1b74d9b3c618e8,VU#24
 381454556,Vichingo455/MalwareDatabase,rogues/WolframAV.zip,7022a73d55a129e51b0976e8b8c0882a7f6abe01,VU#82
 381454556,Vichingo455/MalwareDatabase,jokes/Notepad Spam.zip,72d993ccaef49fd1a5144a4d41d67524ab216e14,VU#73
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part05.rar,759a08b22fbb158de4622881396b0ff3cea2561c,VU#02
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part09.rar,784b781b15813a9cd6e5a7f8473b1ba704e44b15,VU#18
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part09.rar,784b781b15813a9cd6e5a7f8473b1ba704e44b15,VU#07
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part09.rar,784b781b15813a9cd6e5a7f8473b1ba704e44b15,VU#72
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part09.rar,784b781b15813a9cd6e5a7f8473b1ba704e44b15,VU#28
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part09.rar,784b781b15813a9cd6e5a7f8473b1ba704e44b15,VU#52
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part5.rar,7b34b7be49266b369717cd2f137cd2cb649ef898,VU#27
+381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part5.rar,7b34b7be49266b369717cd2f137cd2cb649ef898,VU#96
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part5.rar,7b34b7be49266b369717cd2f137cd2cb649ef898,VU#10
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part5.rar,7b34b7be49266b369717cd2f137cd2cb649ef898,VU#37
-381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part5.rar,7b34b7be49266b369717cd2f137cd2cb649ef898,VU#96
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part5.rar,7fa1c861b4c446689ab40dedc7b99787b6520cae,VU#36
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#11
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#96
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#04
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#72
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#11
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#04
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#96
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part3.rar,856e391af32a85ea158396d60e2e3664d5b2eb58,VU#70
 381454556,Vichingo455/MalwareDatabase,rogues/HappyAntivirus.zip,85a5f1ef8978c4df4138af1e6de20184481947eb,VU#80
 381454556,Vichingo455/MalwareDatabase,rogues/Security Scanner.zip,8b9056104921ba9c460a96ef6c38608093e5018e,VU#05
@@ -81,27 +73,31 @@ repo_id,repo_full_name,file,file_sha1,match
 381454556,Vichingo455/MalwareDatabase,Trojans/RegFuck.zip,954f1bf4c12519760584dd57e5669198f72eec66,VU#18
 381454556,Vichingo455/MalwareDatabase,ransomwares/EvilQuest.zip,97733ff22182a5e4bb7fdb53330199dc7d08b76a,VU#90
 381454556,Vichingo455/MalwareDatabase,ransomwares/EvilQuest.zip,97733ff22182a5e4bb7fdb53330199dc7d08b76a,VU#31
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part08.rar,99219d5a7c9de449e12ebbf8f6b51c518360a726,VU#214
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part08.rar,99219d5a7c9de449e12ebbf8f6b51c518360a726,VU#80
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part08.rar,99219d5a7c9de449e12ebbf8f6b51c518360a726,VU#03
 381454556,Vichingo455/MalwareDatabase,Trojans/Halloware_BerkayV.zip,9b1243c4ffee6d3dad38d7f5598cf0fe06b95ad2,VU#30
 381454556,Vichingo455/MalwareDatabase,Trojans/Halloware_BerkayV.zip,9b1243c4ffee6d3dad38d7f5598cf0fe06b95ad2,VU#78
-381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part2.rar,9c79a7ec16051981395dd2ec35a2527fa8e8b624,VU#61
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part2.rar,9c79a7ec16051981395dd2ec35a2527fa8e8b624,VU#49
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part2.rar,a21fa86686474a16eb8c8299e9c174725a2796dd,VU#53
+381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part2.rar,9c79a7ec16051981395dd2ec35a2527fa8e8b624,VU#61
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part2.rar,a21fa86686474a16eb8c8299e9c174725a2796dd,VU#68
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part2.rar,a21fa86686474a16eb8c8299e9c174725a2796dd,VU#97
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part2.rar,a21fa86686474a16eb8c8299e9c174725a2796dd,VU#53
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part1.rar,a4888f503cfc81b8af5b7d6015dfd35257059d74,VU#37
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part08.rar,ad70ced53feba9ac5047e481321039696f16c425,VU#06
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part08.rar,ad70ced53feba9ac5047e481321039696f16c425,VU#89
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part2.rar,ad99bb3fc9a01387868ad0682a01ad0aee1010ec,VU#19
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part2.rar,ad99bb3fc9a01387868ad0682a01ad0aee1010ec,VU#67
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part2.rar,ad99bb3fc9a01387868ad0682a01ad0aee1010ec,VU#826
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part2.rar,ad99bb3fc9a01387868ad0682a01ad0aee1010ec,VU#12
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part2.rar,ad99bb3fc9a01387868ad0682a01ad0aee1010ec,VU#67
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part2.rar,ad99bb3fc9a01387868ad0682a01ad0aee1010ec,VU#19
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows XP Horror Edition/Windows XP Horror Edition.part2.rar,ad99bb3fc9a01387868ad0682a01ad0aee1010ec,VU#826
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part04.rar,b5acfc34034846dfde7a12325f10965c2afa2d6b,VU#27
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part04.rar,b5acfc34034846dfde7a12325f10965c2afa2d6b,VU#59
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part04.rar,b5acfc34034846dfde7a12325f10965c2afa2d6b,VU#31
 381454556,Vichingo455/MalwareDatabase,rogues/PCOptimizerPro.zip,c02ea84669417610065995a898b66f20d49cd66e,VU#82
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part09.rar,c2378fe7c9dc6d4bedbbb7146d63b724efdd1e0b,VU#31
 381454556,Vichingo455/MalwareDatabase,rogues/Security Defender 2015.zip,c54d223a42e5b000c3dd9c4245d765aab0b4e2c3,VU#67
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part06.rar,c6b315bedc5298357afe3c8e95220652a8e24afe,VU#19
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part06.rar,c6b315bedc5298357afe3c8e95220652a8e24afe,VU#74
 381454556,Vichingo455/MalwareDatabase,ransomwares/WannaCry.zip,cab3918bef894fd2fae0731ef76b64cc4b2595fe,VU#22
 381454556,Vichingo455/MalwareDatabase,Trojans/Bonzify.zip,cb34dee71eeda13185b220d61d85d6c475a740e3,VU#77
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part06.rar,cc860df18a24e34f46e0f7a180362c199444cef4,VU#75
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part06.rar,cc860df18a24e34f46e0f7a180362c199444cef4,VU#28
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part06.rar,cc860df18a24e34f46e0f7a180362c199444cef4,VU#23
 381454556,Vichingo455/MalwareDatabase,Trojans/NoEscape-Clone.zip,cc86ea906a951e353ee078c60df67a37ac7b93bc,VU#66
 381454556,Vichingo455/MalwareDatabase,Self-made Malware/WinRAR.zip,d02beb7a2776aad690658bd41ac45b773dd8e56c,VU#56
 381454556,Vichingo455/MalwareDatabase,Self-made Malware/WinRAR.zip,d02beb7a2776aad690658bd41ac45b773dd8e56c,VU#97
@@ -109,29 +105,34 @@ repo_id,repo_full_name,file,file_sha1,match
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part3.rar,d17239f84d2b91db7cb476e3e4dd819018f65e67,VU#40
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part3.rar,d17239f84d2b91db7cb476e3e4dd819018f65e67,VU#92
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part3.rar,d17239f84d2b91db7cb476e3e4dd819018f65e67,VU#64
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part10.rar,d480e24e18538b6d92c28ffa4c3a5047d088f82e,VU#12
-381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part10.rar,d480e24e18538b6d92c28ffa4c3a5047d088f82e,VU#86
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part1.rar,d90f58a3c5ce80e856f303c79a591a0da2490a71,VU#42
-381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part1.rar,d90f58a3c5ce80e856f303c79a591a0da2490a71,VU#14
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part03.rar,d417204809283f77f61a3091632101479ef1bdd0,VU#02
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part03.rar,d417204809283f77f61a3091632101479ef1bdd0,VU#09
 381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part1.rar,d90f58a3c5ce80e856f303c79a591a0da2490a71,VU#52
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part1.rar,d90f58a3c5ce80e856f303c79a591a0da2490a71,VU#14
+381454556,Vichingo455/MalwareDatabase,Trojans/Windows 10/Windows 10.part1.rar,d90f58a3c5ce80e856f303c79a591a0da2490a71,VU#42
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part4.rar,daf555b0e92e3ac95071181b787860982591947d,VU#64
+381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part4.rar,daf555b0e92e3ac95071181b787860982591947d,VU#78
+381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part4.rar,daf555b0e92e3ac95071181b787860982591947d,VU#34
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part4.rar,daf555b0e92e3ac95071181b787860982591947d,VU#93
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part4.rar,daf555b0e92e3ac95071181b787860982591947d,VU#66
-381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part4.rar,daf555b0e92e3ac95071181b787860982591947d,VU#34
-381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part4.rar,daf555b0e92e3ac95071181b787860982591947d,VU#78
-381454556,Vichingo455/MalwareDatabase,Trojans/Scorpion Virus.zip,dc8b1711f1f8dc08001611e6e6b695222d2541c9,VU#05
 381454556,Vichingo455/MalwareDatabase,Trojans/Scorpion Virus.zip,dc8b1711f1f8dc08001611e6e6b695222d2541c9,VU#71
+381454556,Vichingo455/MalwareDatabase,Trojans/Scorpion Virus.zip,dc8b1711f1f8dc08001611e6e6b695222d2541c9,VU#05
 381454556,Vichingo455/MalwareDatabase,Trojans/Scorpion Virus.zip,dc8b1711f1f8dc08001611e6e6b695222d2541c9,VU#15
 381454556,Vichingo455/MalwareDatabase,Trojans/Scorpion Virus.zip,dc8b1711f1f8dc08001611e6e6b695222d2541c9,VU#09
-381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#73
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part10.rar,ee4df03f5a25303ce90a2a6e377560fc7182a570,VU#69
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part10.rar,ee4df03f5a25303ce90a2a6e377560fc7182a570,VU#93
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part05.rar,eed42ba31da093261414cc287b088c5e80df4b44,VU#56
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part05.rar,eed42ba31da093261414cc287b088c5e80df4b44,VU#86
+381454556,Vichingo455/MalwareDatabase,Trojans/NoSleep/NoSleep.part05.rar,eed42ba31da093261414cc287b088c5e80df4b44,VU#25
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#48
-381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#03
+381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#73
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#52
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#46
+381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#03
 381454556,Vichingo455/MalwareDatabase,rogues/Protegent/Protegent.part3.rar,f6c639379eab24c353dbf77fe602e29427e1c29f,VU#99
 381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part3.rar,f77c4fd5f4210521d63684a1762326d41ae5b9ae,VU#32
 381454556,Vichingo455/MalwareDatabase,rogues/BonziKill/BonziKill.part3.rar,f77c4fd5f4210521d63684a1762326d41ae5b9ae,VU#96
-381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part6.rar,ffed99efed4cb05f8c9394ec9c3156056e932e5a,VU#81
-381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part6.rar,ffed99efed4cb05f8c9394ec9c3156056e932e5a,VU#22
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part6.rar,ffed99efed4cb05f8c9394ec9c3156056e932e5a,VU#65
 381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part6.rar,ffed99efed4cb05f8c9394ec9c3156056e932e5a,VU#25
+381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part6.rar,ffed99efed4cb05f8c9394ec9c3156056e932e5a,VU#22
+381454556,Vichingo455/MalwareDatabase,jokes/OMG/OMG.part6.rar,ffed99efed4cb05f8c9394ec9c3156056e932e5a,VU#81
