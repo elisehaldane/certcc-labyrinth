@@ -1,12 +1,14 @@
 
 # Summary for results/2022/01/14
     
-107 records found after deduplication
+113 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|--------------------------|---------------|--------------------|
 | ronin-rb/ronin-asm | ronin-asm is a Ruby DSL for crafting Assmebly programs and Shellcode. | https://github.com/ronin-rb/ronin-asm | ['shellcode'] | 1 | 2022-01-14 06:37:00+00:00 | 531 | 40 | Ruby | 7 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-14 19:36:54+00:00 | 173 | 0 | | 0 | [] |
 | E-Better/RBXLua-Monaco-Text-Editor | A Simple Text Editor For Roblox Exploits | https://github.com/E-Better/RBXLua-Monaco-Text-Editor | ['exploit'] | 1 | 2022-01-14 03:23:47+00:00 | 0 | 0 | HTML | 0 | [] |
+| NodeMixaholic/all-roblox-exploits-are-malware | 100% proof | https://github.com/NodeMixaholic/all-roblox-exploits-are-malware | ['exploit'] | 1 | 2022-01-14 03:35:36+00:00 | 0 | 0 | | 0 | [] |
 | Not-Nullz/Azure-Ware | Upcoming Roblox Exploit (Mac/Windows) | https://github.com/Not-Nullz/Azure-Ware | ['exploit'] | 1 | 2022-01-14 00:56:57+00:00 | 4 | 0 | | 0 | [] |
 | krnkl60/krnl | krnl roblox exploit | https://github.com/krnkl60/krnl | ['exploit'] | 1 | 2022-01-14 00:05:51+00:00 | 0 | 0 | | 0 | [] |
 | aalex954/jwt-key-confusion-poc | JWT Key Confusion PoC (CVE-2015-9235) Written for the Hack the Box challenge - Under Construction | https://github.com/aalex954/jwt-key-confusion-poc | ['cve poc'] | 1 | 2022-01-14 05:27:30+00:00 | 7 | 1 | Python | 0 | ['CVE-2015-9235'] |
@@ -30,10 +32,13 @@
 | upal212/Payload-Guest-With-Icons | Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00 | https://github.com/upal212/Payload-Guest-With-Icons | ['exploit'] | 1 | 2022-01-14 08:58:31+00:00 | 622 | 2 | | 0 | [] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-01-14 02:13:02+00:00 | 1126 | 0 | TypeScript | 0 | [] |
 | tothi/log4shell-vulnerable-app | A Basic Java Application Vulnerable to the Log4Shell RCE | https://github.com/tothi/log4shell-vulnerable-app | ['rce'] | 1 | 2022-01-14 15:55:57+00:00 | 803 | 20 | Java | 5 | [] |
-| NodeMixaholic/all-roblox-exploits-are-malware | 100% proof | https://github.com/NodeMixaholic/all-roblox-exploits-are-malware | ['exploit'] | 1 | 2022-01-14 03:35:36+00:00 | 0 | 0 | | 0 | [] |
 | PainNonsense/PainExploit.github.io | None | https://github.com/PainNonsense/PainExploit.github.io | ['exploit'] | 1 | 2022-01-14 03:35:18+00:00 | 0 | 0 | HTML | 0 | [] |
-| anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | A one-stop repo/ information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 05:38:05+00:00 | 499 | 0 | Shell | 1 | ['CVE-2021-44228'] |
 | kmhacks/RedSploit | None | https://github.com/kmhacks/RedSploit | ['sploit'] | 1 | 2022-01-14 04:19:21+00:00 | 0 | 0 | | 0 | [] |
+| cvlvxi/log4rust | expect exploits | https://github.com/cvlvxi/log4rust | ['exploit'] | 1 | 2022-01-14 04:33:31+00:00 | 0 | 0 | Rust | 0 | [] |
+| PainNonsense/PainExploit-Home | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | ['exploit'] | 1 | 2022-01-14 14:13:55+00:00 | 0 | 0 | HTML | 0 | [] |
+| plsanu/CVE-2021-46071 | CVE-2021-46071 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Category List Section in login panel. | https://github.com/plsanu/CVE-2021-46071 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 19:10:10+00:00 | 0 | 0 | | 0 | ['CVE-2021-46071'] |
+| plsanu/CVE-2021-46070 | CVE-2021-46070 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Service Requests Section in login panel. | https://github.com/plsanu/CVE-2021-46070 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 19:32:55+00:00 | 0 | 0 | | 0 | ['CVE-2021-46070'] |
+| plsanu/CVE-2021-46069 | CVE-2021-46069 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Mechanic List Section in login panel. | https://github.com/plsanu/CVE-2021-46069 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 18:27:27+00:00 | 0 | 0 | | 0 | ['CVE-2021-46069'] |
 | plsanu/CVE-2021-46068 | CVE-2021-46068 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the My Account Section in login panel. | https://github.com/plsanu/CVE-2021-46068 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 18:04:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-46068'] |
 | plsanu/CVE-2021-46067 | CVE-2021-46067 | https://github.com/plsanu/CVE-2021-46067 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 17:19:46+00:00 | 0 | 0 | | 0 | ['CVE-2021-46067'] |
 | plsanu/CVE-2021-45745 | CVE-2021-45745 | https://github.com/plsanu/CVE-2021-45745 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 16:52:45+00:00 | 0 | 0 | | 0 | ['CVE-2021-45745'] |
@@ -42,8 +47,8 @@
 | EagleTube/SQLI_Collections | Exploit sqli script | https://github.com/EagleTube/SQLI_Collections | ['exploit'] | 1 | 2022-01-14 15:07:38+00:00 | 0 | 0 | PHP | 0 | [] |
 | SEHSExploits/SEHSE_Website | Current page build of SEHS Exploits | https://github.com/SEHSExploits/SEHSE_Website | ['exploit'] | 1 | 2022-01-14 15:05:30+00:00 | 0 | 0 | | 0 | [] |
 | SirdsH/ExploitingAtoms1 | None | https://github.com/SirdsH/ExploitingAtoms1 | ['exploit'] | 1 | 2022-01-14 14:56:57+00:00 | 0 | 0 | | 0 | [] |
-| PainNonsense/PainExploit-Home | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | ['exploit'] | 1 | 2022-01-14 14:13:55+00:00 | 0 | 0 | HTML | 0 | [] |
 | tripoloski1337/android-task-hijacking | a simple exploit POC for https://promon.co/security-news/strandhogg/ which can steal username and password from targeted android package process | https://github.com/tripoloski1337/android-task-hijacking | ['exploit'] | 1 | 2022-01-14 13:38:23+00:00 | 0 | 0 | | 0 | [] |
+| m1keya/Windows-Shellcode | Some Shellcode | https://github.com/m1keya/Windows-Shellcode | ['shellcode'] | 1 | 2022-01-14 04:38:11+00:00 | 0 | 0 | | 0 | [] |
 | puckiestyle/CVE-2018-16341 | None | https://github.com/puckiestyle/CVE-2018-16341 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 13:39:12+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-16341'] |
 | mrvanonmus/SEA-SPLOIT | RAT | https://github.com/mrvanonmus/SEA-SPLOIT | ['sploit'] | 1 | 2022-01-14 13:21:24+00:00 | 0 | 0 | | 0 | [] |
 | jm0x0/apache_nifi_processor_rce | None | https://github.com/jm0x0/apache_nifi_processor_rce | ['rce'] | 1 | 2022-01-14 12:36:10+00:00 | 0 | 0 | | 0 | [] |
@@ -55,12 +60,12 @@
 | PainNonsense/PainExploit.github.io | None | https://github.com/PainNonsense/PainExploit.github.io | ['exploit'] | 1 | 2022-01-14 07:39:56+00:00 | 0 | 0 | | 0 | [] |
 | tisnik/poc-cve-cacher | None | https://github.com/tisnik/poc-cve-cacher | ['cve poc'] | 1 | 2022-01-14 07:35:07+00:00 | 0 | 0 | Python | 0 | [] |
 | BishopFox/CVE-2021-35211 | None | https://github.com/BishopFox/CVE-2021-35211 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 05:56:09+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35211'] |
-| m1keya/Windows-Shellcode | Some Shellcode | https://github.com/m1keya/Windows-Shellcode | ['shellcode'] | 1 | 2022-01-14 04:38:11+00:00 | 0 | 0 | | 0 | [] |
-| cvlvxi/log4rust | expect exploits | https://github.com/cvlvxi/log4rust | ['exploit'] | 1 | 2022-01-14 04:33:31+00:00 | 0 | 0 | Rust | 0 | [] |
 | KameleonReloaded/900V4B | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | ['exploit'] | 1 | 2022-01-14 00:20:24+00:00 | 2479 | 10 | JavaScript | 10 | [] |
-| lanhaifeng/jndi-exploit | None | https://github.com/lanhaifeng/jndi-exploit | ['exploit'] | 1 | 2022-01-14 06:52:56+00:00 | 5 | 0 | Java | 0 | [] |
+| anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | A one-stop repo/ information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 05:38:05+00:00 | 499 | 0 | Shell | 1 | ['CVE-2021-44228'] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-14 13:42:18+00:00 | 673097 | 26106 | Ruby | 11883 | [] |
+| lanhaifeng/jndi-exploit | None | https://github.com/lanhaifeng/jndi-exploit | ['exploit'] | 1 | 2022-01-14 06:52:56+00:00 | 5 | 0 | Java | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-14 02:09:44+00:00 | 7028 | 1 | Java | 0 | [] |
+| tyjiangU/fido | Code for the paper "Exploiting Definitions for Frame Identification" | https://github.com/tyjiangU/fido | ['exploit'] | 1 | 2022-01-14 04:30:02+00:00 | 64 | 0 | Python | 0 | [] |
 | DavideBuffelli/RWRReg | Code for the paper "Are Graph Convolutional Networks Fully Exploiting Graph Structure?", D. Buffelli, F. Vandin | https://github.com/DavideBuffelli/RWRReg | ['exploit'] | 1 | 2022-01-14 16:17:03+00:00 | 168 | 0 | Python | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-14 17:48:00+00:00 | 145945 | 14 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-14 00:04:21+00:00 | 451965 | 43 | | 21 | [] |
@@ -84,12 +89,14 @@
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-01-14 12:16:30+00:00 | 60581 | 1171 | C | 561 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-14 05:08:48+00:00 | 239739 | 6741 | C | 1848 | [] |
 | pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-14 17:45:05+00:00 | 19014 | 479 | Ruby | 117 | [] |
-| tyjiangU/fido | Code for the paper "Exploiting Definitions for Frame Identification" | https://github.com/tyjiangU/fido | ['exploit'] | 1 | 2022-01-14 04:30:02+00:00 | 64 | 0 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-14 01:03:19+00:00 | 105 | 0 | PHP | 0 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-14 10:35:23+00:00 | 73 | 6 | | 2 | ['CVE-2021-44228'] |
 | googleprojectzero/0days-in-the-wild | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | ['0day', 'exploit'] | 2 | 2022-01-14 13:47:55+00:00 | 238 | 399 | HTML | 41 | [] |
+| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-01-14 17:35:34+00:00 | 299 | 243 | HTML | 12 | [] |
+| PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-01-14 19:11:05+00:00 | 18 | 1 | | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-14 10:35:23+00:00 | 73 | 6 | | 2 | ['CVE-2021-44228'] |
 | alpacamybags118/log4j-cve-2021-44228-sample | Sample docker-compose setup to show how this exploit works | https://github.com/alpacamybags118/log4j-cve-2021-44228-sample | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-14 14:13:07+00:00 | 4 | 0 | JavaScript | 0 | ['CVE-2021-44228'] |
 | Panyaprach/Proof-CVE-2021-44228 | None | https://github.com/Panyaprach/Proof-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 10:08:06+00:00 | 3 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| ab41j1t4000/log4j | A simple script to exploit the log4j vulnerability | https://github.com/ab41j1t4000/log4j | ['exploit'] | 1 | 2022-01-14 19:03:33+00:00 | 1 | 6 | Python | 3 | [] |
 | hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-01-14 17:28:30+00:00 | 4 | 1 | Shell | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁漏洞poc快速获取目标权限 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-14 05:33:22+00:00 | 53583 | 92 | Python | 27 | [] |
 | Antinoe/DodgeMod | You can now dodge attacks using the provided hotkey. When dodging, you are lunged in the direction you are facing/moving. During this action, a certain amount of Mana is consumed. This scales with your Max Mana, that way higher Mana grants more Dodges with | https://github.com/Antinoe/DodgeMod | ['exploit'] | 1 | 2022-01-14 04:45:43+00:00 | 4 | 0 | | 0 | [] |
@@ -98,6 +105,7 @@
 | R3zk0n/sploitations | Directory for random Infosec sploitations.. | https://github.com/R3zk0n/sploitations | ['sploit'] | 1 | 2022-01-14 06:21:41+00:00 | 174666 | 0 | C | 0 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-01-14 08:49:50+00:00 | 60 | 2 | Python | 0 | [] |
 | hassan-turi/Linux-Privilege-Escalation-Exploits | None | https://github.com/hassan-turi/Linux-Privilege-Escalation-Exploits | ['exploit'] | 1 | 2022-01-14 17:13:50+00:00 | 11 | 1 | C | 0 | [] |
+| abundov/web-exploits | Tools and Exploits | https://github.com/abundov/web-exploits | ['exploit'] | 1 | 2022-01-14 18:13:32+00:00 | 88 | 2 | PHP | 0 | [] |
 | SleepTheGod/Twitter | Exploits | https://github.com/SleepTheGod/Twitter | ['exploit'] | 1 | 2022-01-14 09:01:45+00:00 | 43 | 0 | DIGITAL Command Language | 0 | [] |
 | SQLab/CRAXplusplus | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-14 12:14:39+00:00 | 10258 | 29 | C++ | 3 | [] |
 | mutur4/BinaryExploitation | This is a topic on binary exploitation :smile: | https://github.com/mutur4/BinaryExploitation | ['exploit'] | 1 | 2022-01-14 08:41:15+00:00 | 113 | 0 | C | 0 | [] |
@@ -109,6 +117,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-14 00:21:15+00:00 | 100927 | 282 | Python | 87 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-14 17:45:22+00:00 | 146703 | 56 | | 7 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-14 10:30:55+00:00 | 867 | 1 | Lua | 0 | [] |
-| abundov/web-exploits | Tools and Exploits | https://github.com/abundov/web-exploits | ['exploit'] | 1 | 2022-01-14 18:13:32+00:00 | 88 | 2 | PHP | 0 | [] |
-| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-01-14 17:35:34+00:00 | 299 | 243 | HTML | 12 | [] |
-| plsanu/CVE-2021-46069 | CVE-2021-46069 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Mechanic List Section in login panel. | https://github.com/plsanu/CVE-2021-46069 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 18:27:27+00:00 | 0 | 0 | | 0 | ['CVE-2021-46069'] |
+| plsanu/CVE-2021-46072 | CVE-2021-46072 - A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Service List Section in login panel. | https://github.com/plsanu/CVE-2021-46072 | ['cve-2 OR cve_2'] | 1 | 2022-01-14 19:35:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-46072'] |
