@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+446259550,C2ActiveThreatHunters/ThreatHunting-for-Log4j,README.md,67e1cf150eddaeacfbb4568c91d1d319101b18d5,CVE-2021-44228
+446259550,C2ActiveThreatHunters/ThreatHunting-for-Log4j,Log4j Vulnerability Scanners,74378a6871ff19d9674faa714969bf7c96d98902,CVE-2021-44228
