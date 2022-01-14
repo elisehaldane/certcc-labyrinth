@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+437031223,lhotari/pulsar-docker-images-patch-CVE-2021-44228,README.md,ae8ce97ab805a8f17755a70b1d90957269e05363,CVE-2021-44228
+437031223,lhotari/pulsar-docker-images-patch-CVE-2021-44228,README.md,ae8ce97ab805a8f17755a70b1d90957269e05363,CVE-2021-44832
+437031223,lhotari/pulsar-docker-images-patch-CVE-2021-44228,README.md,ae8ce97ab805a8f17755a70b1d90957269e05363,CVE-2021-45046
+437031223,lhotari/pulsar-docker-images-patch-CVE-2021-44228,README.md,ae8ce97ab805a8f17755a70b1d90957269e05363,CVE-2021-45105
 437031223,lhotari/pulsar-docker-images-patch-CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
