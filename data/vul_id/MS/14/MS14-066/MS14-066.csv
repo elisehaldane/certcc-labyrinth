@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS14-066,0.33333333,https://github.com/Ph33rr/Exploit,Ph33rr/Exploit,389680966
 MS14-066,0.33333333,https://github.com/devcoinfet/TheSurg30n,devcoinfet/TheSurg30n,127280488
 MS14-066,0.14285714,https://github.com/cudeso/security-tools,cudeso/security-tools,26758580
-MS14-066,0.03333333,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
 MS14-066,0.03333333,https://github.com/cranelab/exploit-development,cranelab/exploit-development,294222251
 MS14-066,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS14-066,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883

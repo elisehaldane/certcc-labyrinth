@@ -9,7 +9,6 @@ MS15-077,0.01694915,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.git
 MS15-077,0.01234568,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
 MS15-077,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 MS15-077,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
-MS15-077,0.00389105,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS15-077,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 MS15-077,0.00378788,https://github.com/njahrckstr/Windows_Kernel_Sploit_List,njahrckstr/Windows_Kernel_Sploit_List,140624271
 MS15-077,0.00375940,https://github.com/s0wr0b1ndef/Windows-Kernel-Exploits,s0wr0b1ndef/Windows-Kernel-Exploits,124866110
@@ -38,6 +37,7 @@ MS15-077,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/win
 MS15-077,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 MS15-077,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS15-077,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS15-077,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS15-077,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS15-077,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS15-077,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
@@ -61,7 +61,7 @@ MS15-077,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/e
 MS15-077,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 MS15-077,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS15-077,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-MS15-077,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS15-077,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 MS15-077,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS15-077,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 MS15-077,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876

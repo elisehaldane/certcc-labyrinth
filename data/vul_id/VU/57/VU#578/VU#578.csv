@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#578,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
+VU#578,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#578,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

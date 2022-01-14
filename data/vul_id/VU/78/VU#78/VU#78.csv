@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#78,1.00000000,https://github.com/comp426-2022-spring/a00-rceglie,comp426-2022-spring/a00-rceglie,447747128
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,447411190
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,440335279
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,440247935
@@ -18,10 +19,16 @@ VU#78,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#78,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#78,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#78,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
+VU#78,0.01282051,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#78,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
-VU#78,0.01250000,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#78,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#78,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#78,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
+VU#78,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#78,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#78,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#78,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#78,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
+VU#78,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#78,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#78,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

@@ -3,13 +3,13 @@ BID-97127,0.50000000,https://github.com/Al1ex/CVE-2017-7269,Al1ex/CVE-2017-7269,
 BID-97127,0.50000000,https://github.com/zcgonvh/cve-2017-7269,zcgonvh/cve-2017-7269,86754251
 BID-97127,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 BID-97127,0.00561798,https://github.com/Coldwave96/PocLibrary,Coldwave96/PocLibrary,289505825
-BID-97127,0.00389105,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
-BID-97127,0.00219298,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-97127,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+BID-97127,0.00210084,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-97127,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 BID-97127,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
 BID-97127,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 BID-97127,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
-BID-97127,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-97127,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-97127,0.00025733,https://github.com/syokake/metasploit-framework,syokake/metasploit-framework,91141820
 BID-97127,0.00025628,https://github.com/kongjiexi/metasploit,kongjiexi/metasploit,95047982
 BID-97127,0.00025628,https://github.com/CKmaenn/metasploit-framework,CKmaenn/metasploit-framework,94964125
@@ -65,9 +65,9 @@ BID-97127,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippie
 BID-97127,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 BID-97127,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 BID-97127,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-BID-97127,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 BID-97127,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-BID-97127,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-97127,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+BID-97127,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-97127,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 BID-97127,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-97127,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
@@ -86,5 +86,5 @@ BID-97127,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/
 BID-97127,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 BID-97127,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 BID-97127,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-BID-97127,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+BID-97127,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-97127,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

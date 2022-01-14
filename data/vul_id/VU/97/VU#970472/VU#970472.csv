@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#970472,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 VU#970472,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 VU#970472,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-metasploit/metasploit-clone,25959480
-VU#970472,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+VU#970472,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 VU#970472,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 VU#970472,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#970472,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
@@ -26,5 +26,5 @@ VU#970472,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/
 VU#970472,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 VU#970472,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 VU#970472,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-VU#970472,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+VU#970472,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#970472,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

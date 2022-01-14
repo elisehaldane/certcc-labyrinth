@@ -34,7 +34,7 @@ MS12-027,0.00323625,https://github.com/4thel00z/ExploitDB-Downloader,4thel00z/Ex
 MS12-027,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,223783259
 MS12-027,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/searchsploit_php,90531328
 MS12-027,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
-MS12-027,0.00219298,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS12-027,0.00210084,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS12-027,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS12-027,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS12-027,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
@@ -54,7 +54,7 @@ MS12-027,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7R
 MS12-027,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
 MS12-027,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS12-027,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
-MS12-027,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+MS12-027,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS12-027,0.00026413,https://github.com/webapproot/metasploit,webapproot/metasploit,61404840
 MS12-027,0.00026413,https://github.com/hamad313/https-github.com-hamad-metasploit-framework,hamad313/https-github.com-hamad-metasploit-framework,60901831
 MS12-027,0.00026378,https://github.com/dragrow/metasploit,dragrow/metasploit,62170440
@@ -123,9 +123,9 @@ MS12-027,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippie/
 MS12-027,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 MS12-027,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 MS12-027,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-MS12-027,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS12-027,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-MS12-027,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS12-027,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS12-027,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS12-027,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS12-027,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS12-027,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -151,6 +151,6 @@ MS12-027,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/e
 MS12-027,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 MS12-027,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS12-027,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-MS12-027,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS12-027,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 MS12-027,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS12-027,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222

@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-105314,0.00219298,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-105314,0.00210084,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-105314,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 BID-105314,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
 BID-105314,0.00023073,https://github.com/mkdirlove/METASPLOIT-FRAMEWORK,mkdirlove/METASPLOIT-FRAMEWORK,202658385
@@ -34,9 +34,9 @@ BID-105314,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippi
 BID-105314,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 BID-105314,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 BID-105314,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-BID-105314,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 BID-105314,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-BID-105314,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-105314,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+BID-105314,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-105314,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 BID-105314,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-105314,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

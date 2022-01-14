@@ -21,6 +21,7 @@ GPZ-1712,0.00952381,https://github.com/mzet-/linux-exploit-suggester,mzet-/linux
 GPZ-1712,0.00943396,https://github.com/febinrev/febrev-linuxploit,febinrev/febrev-linuxploit,202878578
 GPZ-1712,0.00934579,https://github.com/zputty/Linux-Exploit-Suggester,zputty/Linux-Exploit-Suggester,435836205
 GPZ-1712,0.00800000,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
+GPZ-1712,0.00769231,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 GPZ-1712,0.00719424,https://github.com/febinrev/privesc-post_exploit-collection,febinrev/privesc-post_exploit-collection,256685535
 GPZ-1712,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
 GPZ-1712,0.00588235,https://github.com/s0wr0b1ndef/Active-Directory-Exploitation-,s0wr0b1ndef/Active-Directory-Exploitation-,293183436
@@ -28,7 +29,7 @@ GPZ-1712,0.00588235,https://github.com/Integration-IT/Active-Directory-Exploitat
 GPZ-1712,0.00561798,https://github.com/Coldwave96/PocLibrary,Coldwave96/PocLibrary,289505825
 GPZ-1712,0.00448430,https://github.com/Awrrays/MetaSploit-Moudule,Awrrays/MetaSploit-Moudule,379840207
 GPZ-1712,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
-GPZ-1712,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+GPZ-1712,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 GPZ-1712,0.00023602,https://github.com/shahnwazsheikh00/metasploit-framework,shahnwazsheikh00/metasploit-framework,162744394
 GPZ-1712,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metasploit-docker,162195461
 GPZ-1712,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
@@ -64,14 +65,14 @@ GPZ-1712,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippie/
 GPZ-1712,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 GPZ-1712,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 GPZ-1712,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-GPZ-1712,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GPZ-1712,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-GPZ-1712,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GPZ-1712,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+GPZ-1712,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GPZ-1712,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1712,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 GPZ-1712,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/exploitdb,164003708
 GPZ-1712,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 GPZ-1712,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 GPZ-1712,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-GPZ-1712,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+GPZ-1712,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 GPZ-1712,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

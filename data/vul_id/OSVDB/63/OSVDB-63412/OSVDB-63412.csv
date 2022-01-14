@@ -1,8 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-63412,0.02000000,https://github.com/bemonolit/metasploitHelper,bemonolit/metasploitHelper,91027954
 OSVDB-63412,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
-OSVDB-63412,0.00485437,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 OSVDB-63412,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
+OSVDB-63412,0.00473934,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 OSVDB-63412,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 OSVDB-63412,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
 OSVDB-63412,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
@@ -17,7 +17,7 @@ OSVDB-63412,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-
 OSVDB-63412,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
 OSVDB-63412,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
 OSVDB-63412,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
-OSVDB-63412,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+OSVDB-63412,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 OSVDB-63412,0.00026413,https://github.com/webapproot/metasploit,webapproot/metasploit,61404840
 OSVDB-63412,0.00026413,https://github.com/hamad313/https-github.com-hamad-metasploit-framework,hamad313/https-github.com-hamad-metasploit-framework,60901831
 OSVDB-63412,0.00026378,https://github.com/dragrow/metasploit,dragrow/metasploit,62170440
@@ -86,9 +86,9 @@ OSVDB-63412,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChipp
 OSVDB-63412,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 OSVDB-63412,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 OSVDB-63412,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-OSVDB-63412,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 OSVDB-63412,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-OSVDB-63412,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+OSVDB-63412,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+OSVDB-63412,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 OSVDB-63412,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 OSVDB-63412,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 OSVDB-63412,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
@@ -112,5 +112,5 @@ OSVDB-63412,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMetho
 OSVDB-63412,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 OSVDB-63412,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 OSVDB-63412,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-OSVDB-63412,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+OSVDB-63412,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 OSVDB-63412,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

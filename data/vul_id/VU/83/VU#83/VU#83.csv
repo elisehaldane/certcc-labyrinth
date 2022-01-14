@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#83,1.00000000,https://github.com/crossminer/FOCUS,crossminer/FOCUS,161769303
 VU#83,0.33333333,https://github.com/puckiestyle/JNDI-Exploit-Kit,puckiestyle/JNDI-Exploit-Kit,446477383
 VU#83,0.33333333,https://github.com/Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,439312167
+VU#83,0.33333333,https://github.com/dbgee/log4j2_rce,dbgee/log4j2_rce,436839306
 VU#83,0.33333333,https://github.com/dragonlost/nafabox_rce_2021,dragonlost/nafabox_rce_2021,428990979
 VU#83,0.25000000,https://github.com/0x3SC4L4T3/Apache-Log4j-POC,0x3SC4L4T3/Apache-Log4j-POC,441001904
 VU#83,0.25000000,https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,439234639
@@ -15,6 +16,7 @@ VU#83,0.20000000,https://github.com/PeTcHeNkA/log4j-exploit,PeTcHeNkA/log4j-expl
 VU#83,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,437070304
 VU#83,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#83,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
+VU#83,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
 VU#83,0.16666667,https://github.com/minhnq22/log4shell_exploit,minhnq22/log4shell_exploit,445372469
 VU#83,0.16666667,https://github.com/MarceloLeite2604/log4j-vulnerability,MarceloLeite2604/log4j-vulnerability,443163405
 VU#83,0.16666667,https://github.com/jahidul-arafat/log4j-vulnerability-simulation,jahidul-arafat/log4j-vulnerability-simulation,442531784
@@ -37,12 +39,16 @@ VU#83,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3
 VU#83,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#83,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#83,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
+VU#83,0.05882353,https://github.com/SQLab/CRAXplusplus,SQLab/CRAXplusplus,401678100
 VU#83,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
 VU#83,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#83,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#83,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#83,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#83,0.02272727,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
+VU#83,0.02173913,https://github.com/tr0uble-mAker/POC-bomber,tr0uble-mAker/POC-bomber,432052287
+VU#83,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
+VU#83,0.02127660,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
 VU#83,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#83,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#83,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
@@ -54,6 +60,11 @@ VU#83,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/co
 VU#83,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#83,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#83,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
+VU#83,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#83,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#83,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#83,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#83,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#83,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
+VU#83,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+VU#83,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

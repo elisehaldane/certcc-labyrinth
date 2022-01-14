@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-38782,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-38782,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-38782,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-38782,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 BID-38782,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
@@ -19,5 +19,5 @@ BID-38782,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/
 BID-38782,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 BID-38782,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 BID-38782,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-BID-38782,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+BID-38782,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-38782,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

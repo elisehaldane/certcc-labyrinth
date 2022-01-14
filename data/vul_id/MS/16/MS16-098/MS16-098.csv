@@ -32,11 +32,11 @@ MS16-098,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,3
 MS16-098,0.01666667,https://github.com/blackunixteam/exploits-exploitdb-bin-sploits-,blackunixteam/exploits-exploitdb-bin-sploits-,223551179
 MS16-098,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS16-098,0.01470588,https://github.com/asr511/exploitdb-bin-sploits-offsec,asr511/exploitdb-bin-sploits-offsec,399769897
-MS16-098,0.01470588,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 MS16-098,0.01449275,https://github.com/paramint/offensive-security-exploitdb-bin-sploits,paramint/offensive-security-exploitdb-bin-sploits,402516412
 MS16-098,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
 MS16-098,0.01234568,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
 MS16-098,0.01204819,https://github.com/joker2a/Privesc,joker2a/Privesc,250345076
+MS16-098,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 MS16-098,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
 MS16-098,0.00584795,https://github.com/paramint/Windows-Exploit-Suggester,paramint/Windows-Exploit-Suggester,402506972
 MS16-098,0.00584795,https://github.com/3hydraking/Windows-Exploit-Suggester-Python3,3hydraking/Windows-Exploit-Suggester-Python3,386444638
@@ -102,7 +102,7 @@ MS16-098,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnC
 MS16-098,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS16-098,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS16-098,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
-MS16-098,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+MS16-098,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS16-098,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS16-098,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS16-098,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -120,5 +120,5 @@ MS16-098,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/e
 MS16-098,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 MS16-098,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS16-098,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-MS16-098,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS16-098,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 MS16-098,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

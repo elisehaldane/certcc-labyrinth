@@ -27,6 +27,7 @@ MS14-068,0.02500000,https://github.com/abatchy17/WindowsExploits,abatchy17/Windo
 MS14-068,0.02272727,https://github.com/c0ll3cti0n/exploitpack,c0ll3cti0n/exploitpack,51076752
 MS14-068,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS14-068,0.02040816,https://github.com/jenaye/Exploit,jenaye/Exploit,148447022
+MS14-068,0.02000000,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 MS14-068,0.02000000,https://github.com/0x727/MetasploitCoop-Backend,0x727/MetasploitCoop-Backend,397159606
 MS14-068,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
 MS14-068,0.01818182,https://github.com/crake7/CTF,crake7/CTF,330795559
@@ -79,7 +80,6 @@ MS14-068,0.00448430,https://github.com/fortify24x7/exploit-database-papers,forti
 MS14-068,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
 MS14-068,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
 MS14-068,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
-MS14-068,0.00389105,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS14-068,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 MS14-068,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793
 MS14-068,0.00378788,https://github.com/njahrckstr/Windows_Kernel_Sploit_List,njahrckstr/Windows_Kernel_Sploit_List,140624271
@@ -115,6 +115,7 @@ MS14-068,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,2
 MS14-068,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/searchsploit_php,90531328
 MS14-068,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS14-068,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS14-068,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS14-068,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 MS14-068,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
 MS14-068,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
@@ -128,7 +129,7 @@ MS14-068,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7R
 MS14-068,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
 MS14-068,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS14-068,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
-MS14-068,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+MS14-068,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS14-068,0.00026413,https://github.com/webapproot/metasploit,webapproot/metasploit,61404840
 MS14-068,0.00026413,https://github.com/hamad313/https-github.com-hamad-metasploit-framework,hamad313/https-github.com-hamad-metasploit-framework,60901831
 MS14-068,0.00026378,https://github.com/dragrow/metasploit,dragrow/metasploit,62170440
@@ -196,9 +197,9 @@ MS14-068,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippie/
 MS14-068,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 MS14-068,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 MS14-068,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-MS14-068,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS14-068,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-MS14-068,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-068,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS14-068,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-068,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS14-068,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS14-068,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
@@ -221,5 +222,5 @@ MS14-068,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/e
 MS14-068,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 MS14-068,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS14-068,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-MS14-068,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS14-068,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 MS14-068,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

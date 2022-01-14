@@ -15,7 +15,7 @@ MS14-025,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/e
 MS14-025,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS14-025,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
 MS14-025,0.00411523,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-MS14-025,0.00219298,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS14-025,0.00210084,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS14-025,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS14-025,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS14-025,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
@@ -90,7 +90,7 @@ MS14-025,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippie/
 MS14-025,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 MS14-025,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 MS14-025,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-MS14-025,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS14-025,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-MS14-025,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-025,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS14-025,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-025,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

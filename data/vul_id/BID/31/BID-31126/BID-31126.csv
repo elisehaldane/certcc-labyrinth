@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-31126,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
 BID-31126,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
-BID-31126,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-31126,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-31126,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-31126,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-31126,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

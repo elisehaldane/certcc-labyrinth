@@ -7,7 +7,6 @@ MS13-046,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-g
 MS13-046,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228/exploit-tools,116704087
 MS13-046,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
 MS13-046,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
-MS13-046,0.00389105,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS13-046,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 MS13-046,0.00378788,https://github.com/njahrckstr/Windows_Kernel_Sploit_List,njahrckstr/Windows_Kernel_Sploit_List,140624271
 MS13-046,0.00375940,https://github.com/s0wr0b1ndef/Windows-Kernel-Exploits,s0wr0b1ndef/Windows-Kernel-Exploits,124866110
@@ -36,6 +35,7 @@ MS13-046,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/win
 MS13-046,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 MS13-046,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS13-046,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS13-046,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS13-046,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS13-046,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS13-046,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487

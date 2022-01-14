@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-104071,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
-BID-104071,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-104071,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-104071,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
 BID-104071,0.00023759,https://github.com/iagox86/metasploit-framework-webexec,iagox86/metasploit-framework-webexec,153523335
 BID-104071,0.00023702,https://github.com/warecrer/metasploit-framework,warecrer/metasploit-framework,158476668
@@ -40,9 +40,9 @@ BID-104071,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippi
 BID-104071,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 BID-104071,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 BID-104071,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-BID-104071,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 BID-104071,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-BID-104071,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-104071,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+BID-104071,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-104071,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 BID-104071,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-104071,0.00005068,https://github.com/kunphiphitb/exploitdb,kunphiphitb/exploitdb,152238433
@@ -51,5 +51,5 @@ BID-104071,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod
 BID-104071,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 BID-104071,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 BID-104071,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-BID-104071,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+BID-104071,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-104071,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

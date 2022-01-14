@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-17-832,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 ZDI-17-832,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
-ZDI-17-832,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+ZDI-17-832,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 ZDI-17-832,0.00023602,https://github.com/shahnwazsheikh00/metasploit-framework,shahnwazsheikh00/metasploit-framework,162744394
 ZDI-17-832,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metasploit-docker,162195461
 ZDI-17-832,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
@@ -37,14 +37,14 @@ ZDI-17-832,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippi
 ZDI-17-832,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 ZDI-17-832,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 ZDI-17-832,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-ZDI-17-832,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 ZDI-17-832,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-ZDI-17-832,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+ZDI-17-832,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+ZDI-17-832,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 ZDI-17-832,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 ZDI-17-832,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZDI-17-832,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/exploitdb,164003708
 ZDI-17-832,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 ZDI-17-832,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 ZDI-17-832,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-ZDI-17-832,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+ZDI-17-832,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 ZDI-17-832,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

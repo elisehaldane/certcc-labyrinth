@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#802,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#802,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#802,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

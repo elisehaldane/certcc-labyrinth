@@ -21,13 +21,13 @@ MS10-015,0.03703704,https://github.com/Hackplayers/Empire-mod-Hackplayers,Hackpl
 MS10-015,0.03448276,https://github.com/Hacker-One/WindowsExploits,Hacker-One/WindowsExploits,191713638
 MS10-015,0.03030303,https://github.com/Pheelbert/ad_exploit_tools,Pheelbert/ad_exploit_tools,326074460
 MS10-015,0.02777778,https://github.com/ITNerdbox/exploits,ITNerdbox/exploits,81378778
-MS10-015,0.02777778,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 MS10-015,0.02500000,https://github.com/mishmashclone/abatchy17-WindowsExploits,mishmashclone/abatchy17-WindowsExploits,225470680
 MS10-015,0.02500000,https://github.com/dineshkumarc987/WindowsExploits,dineshkumarc987/WindowsExploits,110072791
 MS10-015,0.02500000,https://github.com/bbabacan/WinExploits,bbabacan/WinExploits,96568711
 MS10-015,0.02500000,https://github.com/abatchy17/WindowsExploits,abatchy17/WindowsExploits,90667664
 MS10-015,0.02380952,https://github.com/freeide/Exploits-4,freeide/Exploits-4,187695773
 MS10-015,0.02272727,https://github.com/JakeWalker23/Exploits,JakeWalker23/Exploits,312091862
+MS10-015,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 MS10-015,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS10-015,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
 MS10-015,0.01886792,https://github.com/Johk3/HTB_Walkthrough,Johk3/HTB_Walkthrough,214670823
@@ -84,7 +84,6 @@ MS10-015,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,19436
 MS10-015,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
 MS10-015,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
 MS10-015,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
-MS10-015,0.00389105,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS10-015,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 MS10-015,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793
 MS10-015,0.00378788,https://github.com/njahrckstr/Windows_Kernel_Sploit_List,njahrckstr/Windows_Kernel_Sploit_List,140624271
@@ -120,6 +119,7 @@ MS10-015,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,2
 MS10-015,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/searchsploit_php,90531328
 MS10-015,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS10-015,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS10-015,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS10-015,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS10-015,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS10-015,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
@@ -133,7 +133,7 @@ MS10-015,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7R
 MS10-015,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
 MS10-015,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS10-015,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
-MS10-015,0.00026504,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+MS10-015,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS10-015,0.00026413,https://github.com/webapproot/metasploit,webapproot/metasploit,61404840
 MS10-015,0.00026413,https://github.com/hamad313/https-github.com-hamad-metasploit-framework,hamad313/https-github.com-hamad-metasploit-framework,60901831
 MS10-015,0.00026378,https://github.com/dragrow/metasploit,dragrow/metasploit,62170440
@@ -201,9 +201,9 @@ MS10-015,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippie/
 MS10-015,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 MS10-015,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 MS10-015,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-MS10-015,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS10-015,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-MS10-015,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS10-015,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS10-015,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-015,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-015,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS10-015,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -227,6 +227,6 @@ MS10-015,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/e
 MS10-015,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 MS10-015,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS10-015,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-MS10-015,0.00004696,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS10-015,0.00004661,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 MS10-015,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS10-015,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068

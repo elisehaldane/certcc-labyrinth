@@ -3,6 +3,7 @@ VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplum
 VU#23,0.33333333,https://github.com/puckiestyle/JNDI-Exploit-Kit,puckiestyle/JNDI-Exploit-Kit,446477383
 VU#23,0.33333333,https://github.com/Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,439312167
 VU#23,0.33333333,https://github.com/DiCanio/CVE-2021-44228-docker-example,DiCanio/CVE-2021-44228-docker-example,437518939
+VU#23,0.33333333,https://github.com/dbgee/log4j2_rce,dbgee/log4j2_rce,436839306
 VU#23,0.33333333,https://github.com/trewisscotch/CobaltStr4.4,trewisscotch/CobaltStr4.4,422873872
 VU#23,0.33333333,https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking,Jee-King/ICCV2021_Event_Frame_Tracking,391794327
 VU#23,0.25000000,https://github.com/APresellingservices/hervus-exploit,APresellingservices/hervus-exploit,441324209
@@ -16,6 +17,7 @@ VU#23,0.20000000,https://github.com/PeTcHeNkA/log4j-exploit,PeTcHeNkA/log4j-expl
 VU#23,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,437070304
 VU#23,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#23,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
+VU#23,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
 VU#23,0.16666667,https://github.com/minhnq22/log4shell_exploit,minhnq22/log4shell_exploit,445372469
 VU#23,0.16666667,https://github.com/MarceloLeite2604/log4j-vulnerability,MarceloLeite2604/log4j-vulnerability,443163405
 VU#23,0.16666667,https://github.com/jahidul-arafat/log4j-vulnerability-simulation,jahidul-arafat/log4j-vulnerability-simulation,442531784
@@ -37,13 +39,18 @@ VU#23,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellEx
 VU#23,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
 VU#23,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
 VU#23,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
-VU#23,0.01250000,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#23,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#23,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
+VU#23,0.01086957,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#23,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#23,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#23,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#23,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#23,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
+VU#23,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#23,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#23,0.00221239,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#23,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
+VU#23,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#23,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

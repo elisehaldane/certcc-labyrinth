@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-20-703,0.02127660,https://github.com/rdomanski/Exploits_and_Advisories,rdomanski/Exploits_and_Advisories,254165166
 ZDI-20-703,0.02000000,https://github.com/0x727/MetasploitCoop-Backend,0x727/MetasploitCoop-Backend,397159606
-ZDI-20-703,0.00485437,https://github.com/pedrib/PoC,pedrib/PoC,13247147
+ZDI-20-703,0.00473934,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 ZDI-20-703,0.00022158,https://github.com/lbh3110/Metasploit,lbh3110/Metasploit,297422060
 ZDI-20-703,0.00022085,https://github.com/texasconnection88/METASploit,texasconnection88/METASploit,291259333
 ZDI-20-703,0.00022041,https://github.com/CyberTKR/Metasploit-Framework,CyberTKR/Metasploit-Framework,296959076
@@ -22,7 +22,7 @@ ZDI-20-703,0.00021501,https://github.com/HYPNOTIChippie/metasploit,HYPNOTIChippi
 ZDI-20-703,0.00021501,https://github.com/dahedgepeth/metasploit,dahedgepeth/metasploit,373962637
 ZDI-20-703,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit,370253962
 ZDI-20-703,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
-ZDI-20-703,0.00021349,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 ZDI-20-703,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
-ZDI-20-703,0.00021340,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+ZDI-20-703,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+ZDI-20-703,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 ZDI-20-703,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
