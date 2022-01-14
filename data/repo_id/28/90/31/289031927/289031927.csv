@@ -1,1 +1,13 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,CVE-2021-1675
+289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#240
+289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#596
+289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#63
+289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#66
+289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#69
+289031927,Am0rphous/Malware,Windows/PowerShell/CVE-2021-1675.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#71
+289031927,Am0rphous/Malware,Windows/dll/htmlayout.dll,39290d5e140107193fb0a9be13d0ccbfcfd00d50,VU#99
+289031927,Am0rphous/Malware,PHP/db2a52b3.ico,544d5140a943e1138e4633e018e1be001a4890a2,VU#09
+289031927,Am0rphous/Malware,Linux/frp_0.38.0_linux_amd64.tar.gz,73f5713b2eb6b5dd43240e2b2185a10e3c04b98d,VU#84
+289031927,Am0rphous/Malware,Windows/PowerShell/README.md,bb6410d7f8bbb3459429ee5e06b8fa3aa27d7371,CVE-2021-1675
+289031927,Am0rphous/Malware,Windows/重要通知附件-文件防泄密自查手册.doc.exe,e8f2847b2bc4e1585f47a46161c192caf3978d02,VU#81

@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 447314257,norrig/CVE-2021-41773-exploiter,README.md,7cd6a1193b6ea520149cb9fc516a4918e01a9fd9,CVE-2021-41773
+447314257,norrig/CVE-2021-41773-exploiter,main.py,e17199dcca7b8d1751472bb9f60a65335e92c8c4,CVE-2021-41773
 447314257,norrig/CVE-2021-41773-exploiter,_GITHUB_REPO_METADATA_,,CVE-2021-41773
