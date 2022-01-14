@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+439769875,tothi/log4shell-vulnerable-app,README.md,b30987b75956b6c542812949712a6e9630f5e00b,CVE-2021-44228
