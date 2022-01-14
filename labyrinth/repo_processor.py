@@ -52,6 +52,10 @@ def _check_repo_newer(repofile, repo_name):
     """
     True if Github has more recent data than repofile
     """
+    # Shorting this out on 2022-01-14
+    # because git doesn't preserve mtimes the way I thought it did
+    return True
+
     mtime = os.path.getmtime(repofile)
     m_ts = datetime.datetime.fromtimestamp(mtime)
 
@@ -69,6 +73,10 @@ def _check_stale_results(repofile):
     """
     True if age of repofile exceeds AGE_LIMIT_SEC
     """
+    # Shorting this out on 2022-01-14
+    # because git doesn't preserve mtimes the way I thought it did
+    return True
+
     mtime = os.path.getmtime(repofile)
     age_seconds = time.time() - mtime
     # are they recent?
@@ -99,11 +107,11 @@ def process_row(row):
 
     # do we already have results for repo?
     if os.path.exists(csvfile):
-        # stale = _check_stale_results(csvfile)
-        # if not stale:
-        #     logger.info(
-        #         f"Found existing results for {repo_name} within past {AGE_LIMIT_SEC} seconds, skipping"
-        #     )
+        stale = _check_stale_results(csvfile)
+        if not stale:
+            logger.info(
+                f"Found existing results for {repo_name} within past {AGE_LIMIT_SEC} seconds, skipping"
+            )
         #     return pd.DataFrame()
 
         # it is stale, but does github have anything newer?
