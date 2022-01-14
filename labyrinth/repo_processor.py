@@ -10,6 +10,8 @@ import time
 import datetime
 import glob
 import tempfile
+
+import dateutil.parser
 import pandas as pd
 from github import Github
 import git
@@ -48,16 +50,11 @@ def process_git_url(clone_from, workdir):
     return df
 
 
-def _check_repo_newer(repofile, repo_name):
+def _check_repo_newer(ts, repo_name):
     """
     True if Github has more recent data than repofile
     """
-    # Shorting this out on 2022-01-14
-    # because git doesn't preserve mtimes the way I thought it did
-    return True
-
-    mtime = os.path.getmtime(repofile)
-    m_ts = datetime.datetime.fromtimestamp(mtime)
+    m_ts = datetime.datetime.fromtimestamp(ts)
 
     gh = Github(login_or_token=labyrinth.GH_TOKEN)
     check_rl_core(gh)
@@ -69,16 +66,11 @@ def _check_repo_newer(repofile, repo_name):
     return False
 
 
-def _check_stale_results(repofile):
+def _check_stale_results(ts):
     """
     True if age of repofile exceeds AGE_LIMIT_SEC
     """
-    # Shorting this out on 2022-01-14
-    # because git doesn't preserve mtimes the way I thought it did
-    return True
-
-    mtime = os.path.getmtime(repofile)
-    age_seconds = time.time() - mtime
+    age_seconds = time.time() - ts
     # are they recent?
 
     if age_seconds >= AGE_LIMIT_SEC:
@@ -104,21 +96,33 @@ def process_row(row):
 
     repo_path = os.path.join(cfg.REPO_ID_RESULTS_HOME, repo_id_to_path(repo_id))
     csvfile = os.path.join(repo_path, f"{repo_id}.csv")
+    tsfile = os.path.join(repo_path, f"{repo_id}.ts")
 
     # do we already have results for repo?
-    if os.path.exists(csvfile):
-        stale = _check_stale_results(csvfile)
-        if not stale:
-            logger.info(
-                f"Found existing results for {repo_name} within past {AGE_LIMIT_SEC} seconds, skipping"
-            )
-        #     return pd.DataFrame()
+    if os.path.exists(tsfile):
 
-        # it is stale, but does github have anything newer?
-        gh_has_newer = _check_repo_newer(csvfile, repo_name)
-        if not gh_has_newer:
-            logger.info(f"Repo has not changed since we last looked, skipping")
-            return pd.DataFrame()
+        # read ts
+        ts = None
+        with open(tsfile, "r") as fp:
+            content = fp.read()
+            try:
+                ts = dateutil.parser.isoparse(content.strip()).timestamp()
+            except ValueError as e:
+                logger.error(f"Failed to parse timestamp out of {tsfile}: {e}")
+
+        if ts is not None:
+            stale = _check_stale_results(ts)
+            if not stale:
+                logger.info(
+                    f"Found existing results for {repo_name} within past {AGE_LIMIT_SEC} seconds, skipping"
+                )
+            #     return pd.DataFrame()
+
+            # it is stale, but does github have anything newer?
+            gh_has_newer = _check_repo_newer(ts, repo_name)
+            if not gh_has_newer:
+                logger.info(f"Repo has not changed since we last looked, skipping")
+                return pd.DataFrame()
     else:
         # we don't already have results
         # write an empty file to at least record that we looked at this repo
@@ -152,6 +156,12 @@ def process_row(row):
     df["repo_id"] = repo_id
     df["repo_html_url"] = row["html_url"]
     df["repo_pushed_at"] = row["pushed_at"]
+
+    # write the timestamp file for this repo
+    with open(tsfile, "w") as fp:
+        # we don't need subsecond resolution for this
+        now = datetime.datetime.now().replace(microsecond=0)
+        fp.write(f"{now.isoformat()}\n")
 
     return df
 
