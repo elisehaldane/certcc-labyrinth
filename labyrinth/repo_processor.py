@@ -99,12 +99,12 @@ def process_row(row):
 
     # do we already have results for repo?
     if os.path.exists(csvfile):
-        stale = _check_stale_results(csvfile)
-        if not stale:
-            logger.info(
-                f"Found existing results for {repo_name} within past {AGE_LIMIT_SEC} days, skipping"
-            )
-            return pd.DataFrame()
+        # stale = _check_stale_results(csvfile)
+        # if not stale:
+        #     logger.info(
+        #         f"Found existing results for {repo_name} within past {AGE_LIMIT_SEC} seconds, skipping"
+        #     )
+        #     return pd.DataFrame()
 
         # it is stale, but does github have anything newer?
         gh_has_newer = _check_repo_newer(csvfile, repo_name)
