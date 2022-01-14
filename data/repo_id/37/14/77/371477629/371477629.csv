@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
 371477629,kvturk/exploit,[turkish]-pen-testers-guide-for-metasploit-framework.pdf,9d42d75ad76116d7b2497b559af36446cf17bdf1,BID-1806
+371477629,kvturk/exploit,sites.rar,f4e328c6f3824e74e0a3fee0feb449f914af6a86,VU#37
