@@ -24,15 +24,12 @@ from labyrinth.file_processor import process_dir
 
 logger = logging.getLogger(__name__)
 
-DAYHOURS = 24
-DAYMIN = DAYHOURS * 60  # 1440
-DAYSEC = DAYMIN * 60  # 86400
-AGE_LIMIT_DAYS = 14  # might get overwritten at runtime
+AGE_LIMIT_SEC = 3600  # might get overwritten at runtime
 
 
 def set_max_age(age_limit):
-    global AGE_LIMIT_DAYS
-    AGE_LIMIT_DAYS = age_limit
+    global AGE_LIMIT_SEC
+    AGE_LIMIT_SEC = age_limit
 
 
 def process_git_url(clone_from, workdir):
@@ -70,14 +67,13 @@ def _check_repo_newer(repofile, repo_name):
 
 def _check_stale_results(repofile):
     """
-    True if age of repofile exceeds AGE_LIMIT_DAYS
+    True if age of repofile exceeds AGE_LIMIT_SEC
     """
     mtime = os.path.getmtime(repofile)
     age_seconds = time.time() - mtime
-    age_days = age_seconds / DAYSEC
     # are they recent?
 
-    if age_days >= AGE_LIMIT_DAYS:
+    if age_seconds >= AGE_LIMIT_SEC:
         return True
 
     return False
@@ -106,7 +102,7 @@ def process_row(row):
         stale = _check_stale_results(csvfile)
         if not stale:
             logger.info(
-                f"Found existing results for {repo_name} within past {AGE_LIMIT_DAYS} days, skipping"
+                f"Found existing results for {repo_name} within past {AGE_LIMIT_SEC} days, skipping"
             )
             return pd.DataFrame()
 

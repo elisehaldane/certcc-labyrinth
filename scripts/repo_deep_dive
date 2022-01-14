@@ -19,7 +19,7 @@ logger.addHandler(hdlr)
 
 _MOD = None
 _DIVISOR = 100
-_MAX_AGE = 14  # in days, how long until we revisit a repo we already looked at?
+_MAX_AGE_SEC = 4 * 3600  # wait four hours between deep dives
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -32,7 +32,7 @@ if __name__ == "__main__":
         "--results_dir", action="store", type=str, default=(cfg.SEARCH_RESULTS_HOME)
     )
     parser.add_argument("--token", action="store", type=str, default=None)
-    parser.add_argument("--max_age", action="store", type=int, default=_MAX_AGE)
+    parser.add_argument("--max_age", action="store", type=int, default=_MAX_AGE_SEC)
 
     group = parser.add_mutually_exclusive_group()
     group.add_argument("--verbose", "-v", action="store_true", default=False)

@@ -17,9 +17,9 @@ inputs:
     description: "a github token"
     required: true
   max_age:
-    description: "days to wait before rechecking a repo"
+    description: "seconds to wait before rechecking a repo"
     required: false
-    default: 14
+    default: 14400
 
 runs:
   using: "composite"
