@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/15
     
-41 records found after deduplication
+44 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-15 00:07:20+00:00 | 1534774 | 1550 | Python | 529 | [] |
-| ChrisTheCoolHut/Linux_kernel_exploitation | https://breaking-bits.gitbook.io/breaking-bits/exploit-development/linux-kernel-exploit-development | https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation | ['exploit'] | 1 | 2022-01-15 05:16:16+00:00 | 12116 | 24 | C | 1 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-15 00:33:57+00:00 | 8161 | 4263 | Python | 573 | [] |
+| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-01-15 01:39:38+00:00 | 566 | 34 | JavaScript | 25 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-01-15 00:09:56+00:00 | 66 | 2 | Python | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-15 02:41:01+00:00 | 25000 | 250 | Python | 94 | [] |
 | ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit'] | 1 | 2022-01-15 03:56:09+00:00 | 735 | 0 | Ruby | 0 | [] |
@@ -24,10 +25,11 @@
 | binganao/vulns-2022 | 本项目并不刻意搜集 POC 或 EXP，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['vuln poc'] | 1 | 2022-01-15 01:25:29+00:00 | 13 | 1 | nan | 0 | [] |
 | SEHSExploits/ExploitPackOne | Just installation tutorial | https://github.com/SEHSExploits/ExploitPackOne | ['exploit'] | 1 | 2022-01-15 01:04:27+00:00 | 0 | 0 | | 0 | [] |
 | stackviolator/ccso-exploitdev | None | https://github.com/stackviolator/ccso-exploitdev | ['exploit'] | 1 | 2022-01-15 01:19:40+00:00 | 0 | 0 | | 0 | [] |
-| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-01-15 01:39:38+00:00 | 566 | 34 | JavaScript | 25 | [] |
+| MBHudson/AutoCamExploit | Automatic IP-Cam Search and Exploit | https://github.com/MBHudson/AutoCamExploit | ['exploit'] | 1 | 2022-01-15 02:48:32+00:00 | 0 | 0 | Python | 0 | [] |
+| ChrisTheCoolHut/Linux_kernel_exploitation | https://breaking-bits.gitbook.io/breaking-bits/exploit-development/linux-kernel-exploit-development | https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation | ['exploit'] | 1 | 2022-01-15 05:16:16+00:00 | 12116 | 24 | C | 1 | [] |
+| YTZirex/Zirexium-Exploit | None | https://github.com/YTZirex/Zirexium-Exploit | ['exploit'] | 1 | 2022-01-15 09:59:32+00:00 | 10 | 0 | | 0 | [] |
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2022-01-15 05:28:14+00:00 | 22119 | 4 | Lua | 1 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-15 00:33:57+00:00 | 8161 | 4263 | Python | 573 | [] |
-| SQLab/CRAXplusplus | None | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-15 09:30:33+00:00 | 10320 | 29 | C++ | 3 | [] |
+| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-01-15 00:27:04+00:00 | 325 | 274 | HTML | 12 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-15 00:17:13+00:00 | 220420 | 267 | Ruby | 78 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-15 06:31:24+00:00 | 1517186 | 3917 | PowerShell | 1371 | [] |
 | cypherpunks-core/cypherpunks-ctf | Cypherpunks CTF 智能合約漏洞攻擊 | https://github.com/cypherpunks-core/cypherpunks-ctf | ['exploit'] | 1 | 2022-01-15 02:05:24+00:00 | 26509 | 18 | JavaScript | 6 | [] |
@@ -36,13 +38,14 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-15 00:03:34+00:00 | 453607 | 43 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-15 07:33:43+00:00 | 159126 | 14 | Python | 5 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-01-15 00:26:11+00:00 | 6407 | 120 | Python | 39 | [] |
-| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-01-15 00:27:04+00:00 | 325 | 274 | HTML | 12 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-15 01:13:30+00:00 | 867 | 1 | Lua | 0 | [] |
+| SQLab/CRAXplusplus | None | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-15 09:30:33+00:00 | 10320 | 29 | C++ | 3 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-15 07:10:11+00:00 | 155306 | 56 | | 7 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-15 00:22:33+00:00 | 103758 | 284 | Python | 88 | [] |
+| GaryOderNichts/bluubomb | Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | ['exploit'] | 1 | 2022-01-15 10:25:07+00:00 | 55 | 72 | C | 2 | [] |
 | ceat-ceat/ScriptPanelv2 | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | ['exploit'] | 1 | 2022-01-15 03:06:54+00:00 | 300 | 0 | Lua | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-15 01:11:41+00:00 | 31056 | 2 | Python | 0 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2022-01-15 03:07:09+00:00 | 128 | 0 | Lua | 0 | [] |
 | Wra7h/Single-Dose | Generate .NET Process Injection Binaries/Shellcode Loaders | https://github.com/Wra7h/Single-Dose | ['shellcode'] | 1 | 2022-01-15 06:21:38+00:00 | 276 | 21 | C# | 6 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-01-15 05:46:52+00:00 | 155 | 10 | Python | 5 | [] |
-| MBHudson/AutoCamExploit | Automatic IP-Cam Search and Exploit | https://github.com/MBHudson/AutoCamExploit | ['exploit'] | 1 | 2022-01-15 02:48:32+00:00 | 0 | 0 | Python | 0 | [] |
+| FewgBlocks/CQ | Keyless Roblox exploiter, level: 7, language: Lua | https://github.com/FewgBlocks/CQ | ['exploit'] | 1 | 2022-01-15 10:32:24+00:00 | 0 | 0 | | 0 | [] |
