@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 420396093,7Rocky/HackTheBox-scripts,Machines/Monitors/README.md,7d02d0c8c619a8a0a85c8d9724d3a63a26ff6c6a,CVE-2020-9496
-420396093,7Rocky/HackTheBox-scripts,Machines/NodeBlog/README.md,ce3e2e82756a7a5ac1fbb6773c7835a2002185c6,CVE-2017-5941
 420396093,7Rocky/HackTheBox-scripts,Machines/BountyHunter/README.md,ef2b90d0a1a8a4eaec2a5662e408696c049094c1,VU#29
+420396093,7Rocky/HackTheBox-scripts,Machines/NodeBlog/README.md,ff5ebdf8ec23799ad10702657f2153dc20f7cb08,CVE-2017-5941
