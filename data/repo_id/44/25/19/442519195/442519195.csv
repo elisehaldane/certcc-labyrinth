@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-442519195,Puliczek/awesome-list-of-secrets-in-environment-variables,README.md,fde797752483e1d13f830d57f5e0ff67dc3dfc3d,CVE-2021-44228
+442519195,Puliczek/awesome-list-of-secrets-in-environment-variables,README.md,55907d99f9ead868f7d7b6e71b6dfe09ce167da7,CVE-2021-44228
