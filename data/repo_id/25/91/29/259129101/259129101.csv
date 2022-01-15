@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-259129101,d4t4s3c/Win7Blue,mysmb.py,008f8dcc2fcafaba720406bd36d2405a9a06f255,MS17-010
-259129101,d4t4s3c/Win7Blue,README.md,3185e01eeffb5a8b85306c9434e8f3ea23bebdce,MS17-010
-259129101,d4t4s3c/Win7Blue,eternalblue_exploit7.py,cb28f114ef5bbfc60ded63b435b0223280eec529,MS17-010
-259129101,d4t4s3c/Win7Blue,eternalblue_scanner.py,f2fa28ed26c62d7c166ebb84cbce9652ed906333,MS17-010
+259129101,d4t4s3c/Win7Blue,README.md,3ac7e42a5ed41577aafe38ebccfb7b2e9ff57448,MS17-010
+259129101,d4t4s3c/Win7Blue,Win7Blue.sh,7bd8a1985b928bc62bde037828f6ec413c5f4387,MS17-010
+259129101,d4t4s3c/Win7Blue,ms17_010_eternalblue.py,ad0a481054c7b3b08ae64644237cb435a3fd0c55,MS17-010
+259129101,d4t4s3c/Win7Blue,eternalblue_scanner.py,d2e0e981558ad0dc14450baae6d9671edf0d3e70,MS17-010
 259129101,d4t4s3c/Win7Blue,_GITHUB_REPO_METADATA_,,MS17-010
