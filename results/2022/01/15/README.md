@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/15
     
-27 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-15 00:07:20+00:00 | 1534774 | 1550 | Python | 529 | [] |
-| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-01-15 01:39:38+00:00 | 566 | 34 | JavaScript | 25 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-15 00:33:57+00:00 | 8161 | 4263 | Python | 573 | [] |
 | stackviolator/ccso-exploitdev | None | https://github.com/stackviolator/ccso-exploitdev | ['exploit'] | 1 | 2022-01-15 01:19:40+00:00 | 0 | 0 | | 0 | [] |
 | SEHSExploits/ExploitPackOne | Just installation tutorial | https://github.com/SEHSExploits/ExploitPackOne | ['exploit'] | 1 | 2022-01-15 01:04:27+00:00 | 0 | 0 | | 0 | [] |
 | binganao/vulns-2022 | 本项目并不刻意搜集 POC 或 EXP，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['vuln poc'] | 1 | 2022-01-15 01:25:29+00:00 | 13 | 1 | nan | 0 | [] |
@@ -16,10 +16,11 @@
 | PainNonsense/PainExploit-Home | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | ['exploit'] | 1 | 2022-01-15 02:02:54+00:00 | 11 | 0 | HTML | 0 | [] |
 | PainNonsense/PainExploit-Scripts | None | https://github.com/PainNonsense/PainExploit-Scripts | ['exploit'] | 1 | 2022-01-15 03:41:43+00:00 | 959 | 0 | HTML | 0 | [] |
 | aalex954/jwt-key-confusion-poc | JWT Key Confusion PoC (CVE-2015-9235) Written for the Hack the Box challenge - Under Construction | https://github.com/aalex954/jwt-key-confusion-poc | ['cve poc'] | 1 | 2022-01-15 02:17:30+00:00 | 11 | 1 | Python | 0 | ['CVE-2015-9235'] |
+| ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit'] | 1 | 2022-01-15 03:56:09+00:00 | 735 | 0 | Ruby | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-15 02:41:01+00:00 | 25000 | 250 | Python | 94 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-01-15 00:09:56+00:00 | 66 | 2 | Python | 0 | [] |
+| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-01-15 01:39:38+00:00 | 566 | 34 | JavaScript | 25 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2022-01-15 03:07:09+00:00 | 128 | 0 | Lua | 0 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-15 00:33:57+00:00 | 8161 | 4263 | Python | 573 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-15 01:11:41+00:00 | 31056 | 2 | Python | 0 | [] |
 | ceat-ceat/ScriptPanelv2 | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | ['exploit'] | 1 | 2022-01-15 03:06:54+00:00 | 300 | 0 | Lua | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-15 00:22:33+00:00 | 103758 | 284 | Python | 88 | [] |
