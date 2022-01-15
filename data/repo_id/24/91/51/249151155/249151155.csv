@@ -1,1 +1,5 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+249151155,karma9874/AndroRAT,Compiled_apk/smali/androidx/core/util/PatternsCompat.smali,1660eadadd5b9c1b1a760b301a966d84e7c4acab,VU#861
+249151155,karma9874/AndroRAT,Jar_utils/apktool.jar,36df33b49f5b70a6a9ea464bd8d9fc340ce1f617,VU#12
+249151155,karma9874/AndroRAT,Jar_utils/apktool.jar,36df33b49f5b70a6a9ea464bd8d9fc340ce1f617,VU#48
+249151155,karma9874/AndroRAT,Compiled_apk/build/apk/classes.dex,d98bba43643abb4457dc2b3c5ee5d9cbad7aedab,VU#861
