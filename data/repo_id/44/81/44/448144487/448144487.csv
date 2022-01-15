@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+448144487,binganao/vulns-2022,README.md,fa526c504cd2fe77c02aacd49e59df0aa29c59ca,CVE-2021-20038
+448144487,binganao/vulns-2022,README.md,fa526c504cd2fe77c02aacd49e59df0aa29c59ca,CVE-2021-42342
+448144487,binganao/vulns-2022,README.md,fa526c504cd2fe77c02aacd49e59df0aa29c59ca,CVE-2021-42392
+448144487,binganao/vulns-2022,README.md,fa526c504cd2fe77c02aacd49e59df0aa29c59ca,CVE-2021-43947
+448144487,binganao/vulns-2022,README.md,fa526c504cd2fe77c02aacd49e59df0aa29c59ca,CVE-2021-45039
+448144487,binganao/vulns-2022,README.md,fa526c504cd2fe77c02aacd49e59df0aa29c59ca,CVE-2022-21660
