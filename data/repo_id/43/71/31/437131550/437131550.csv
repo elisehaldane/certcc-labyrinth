@@ -1,3 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,README.md,fe5b31abb41e36b7f49f2646b98d037d6253dcdc,CVE-2021-44228
+437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,README.md,78dbdcb9e1f61a0ef6e8b61ffe36c7bb7447b253,CVE-2021-4104
+437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,README.md,78dbdcb9e1f61a0ef6e8b61ffe36c7bb7447b253,CVE-2021-44228
+437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,README.md,78dbdcb9e1f61a0ef6e8b61ffe36c7bb7447b253,CVE-2021-45046
+437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,README.md,78dbdcb9e1f61a0ef6e8b61ffe36c7bb7447b253,CVE-2021-45105
 437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,_GITHUB_REPO_METADATA_,,CVE-2021-44228
