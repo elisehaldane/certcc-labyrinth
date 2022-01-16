@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/15
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -19,7 +19,7 @@
 | mkutyla/Buffer-Overflow | This repository contains an example of how a buffer overflow vulnerability can be exploited using Python. | https://github.com/mkutyla/Buffer-Overflow | ['exploit'] | 1 | 2022-01-15 23:19:33+00:00 | 274 | 0 | Python | 0 | [] |
 | byth22/Exploits | None | https://github.com/byth22/Exploits | ['exploit'] | 1 | 2022-01-15 19:56:49+00:00 | 1 | 0 | Python | 0 | [] |
 | Davidutuu1/HoodX | This is an paied Exploiting Gui for Hood Modded | https://github.com/Davidutuu1/HoodX | ['exploit'] | 1 | 2022-01-15 11:43:16+00:00 | 1686 | 0 | | 0 | [] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-15 22:25:02+00:00 | 19015 | 479 | Ruby | 117 | [] |
+| bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-15 11:14:59+00:00 | 846 | 4 | Go | 1 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-15 18:30:08+00:00 | 5519 | 1 | Jupyter Notebook | 0 | [] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-15 14:33:44+00:00 | 161 | 0 | Go | 0 | [] |
 | Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-01-15 13:26:24+00:00 | 21 | 305 | | 20 | [] |
@@ -59,9 +59,10 @@
 | SEHSExploits/ExploitPackOne | Just installation tutorial | https://github.com/SEHSExploits/ExploitPackOne | ['exploit'] | 1 | 2022-01-15 01:04:27+00:00 | 0 | 0 | | 0 | [] |
 | binganao/vulns-2022 | 本项目并不刻意搜集 POC 或 EXP，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['vuln poc'] | 1 | 2022-01-15 01:25:29+00:00 | 13 | 1 | nan | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-15 02:41:01+00:00 | 25000 | 250 | Python | 94 | [] |
-| bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-15 11:14:59+00:00 | 846 | 4 | Go | 1 | [] |
 | ghostapustaja/legionhub | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | ['exploit'] | 1 | 2022-01-15 17:12:01+00:00 | 25 | 0 | Lua | 0 | [] |
-| Crystalware/HEVD-Exploits | Collection of exploits, mainly to see where I'm at. | https://github.com/Crystalware/HEVD-Exploits | ['exploit'] | 1 | 2022-01-15 14:11:50+00:00 | 31371 | 2 | C | 0 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-15 22:25:02+00:00 | 19015 | 479 | Ruby | 117 | [] |
+| karma9874/AndroRAT | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | ['exploit'] | 1 | 2022-01-15 16:07:48+00:00 | 38347 | 424 | Java | 186 | [] |
+| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-01-15 00:27:04+00:00 | 325 | 274 | HTML | 12 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-01-15 00:26:11+00:00 | 6407 | 120 | Python | 39 | [] |
 | tyjiangU/fido | Code for the paper "Exploiting Definitions for Frame Identification" | https://github.com/tyjiangU/fido | ['exploit'] | 1 | 2022-01-15 18:20:33+00:00 | 76 | 0 | Python | 0 | [] |
 | d4t4s3c/OpenNetAdmin18.1.1RCE | OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE) | https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-01-15 13:25:19+00:00 | 1568 | 7 | Shell | 2 | [] |
@@ -72,8 +73,8 @@
 | zehuanli/Metasploit-Plugin-Session-Filter | A Metasploit Framework plugin that filters incoming sessions. | https://github.com/zehuanli/Metasploit-Plugin-Session-Filter | ['metasploit module OR payload'] | 1 | 2022-01-15 21:12:33+00:00 | 7 | 0 | Ruby | 0 | [] |
 | maxiwoj/Ethsploiter | Raspberry Pi Zero exploiting gadget using ethernet over USB | https://github.com/maxiwoj/Ethsploiter | ['exploit'] | 1 | 2022-01-15 19:36:59+00:00 | 1805 | 22 | Python | 2 | [] |
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-01-15 13:31:36+00:00 | 1862 | 29 | Python | 5 | ['MS17-010'] |
-| karma9874/AndroRAT | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | ['exploit'] | 1 | 2022-01-15 16:07:48+00:00 | 38347 | 424 | Java | 186 | [] |
 | d4t4s3c/SMBploit | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework. | https://github.com/d4t4s3c/SMBploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-15 13:24:34+00:00 | 10414 | 63 | Shell | 17 | [] |
+| distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2022-01-15 17:36:46+00:00 | 256 | 0 | TypeScript | 3 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-15 03:40:14+00:00 | 19320 | 639 | Go | 142 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-01-15 23:54:00+00:00 | 1954 | 260 | C | 10 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-15 00:46:14+00:00 | 21106 | 25 | | 17 | [] |
@@ -85,9 +86,9 @@
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-15 00:33:57+00:00 | 8161 | 4263 | Python | 573 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-15 14:55:09+00:00 | 5246 | 3057 | Python | 675 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-15 00:07:20+00:00 | 1534774 | 1550 | Python | 529 | [] |
-| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-01-15 00:27:04+00:00 | 325 | 274 | HTML | 12 | [] |
+| Crystalware/HEVD-Exploits | Collection of exploits, mainly to see where I'm at. | https://github.com/Crystalware/HEVD-Exploits | ['exploit'] | 1 | 2022-01-15 14:11:50+00:00 | 31371 | 2 | C | 0 | [] |
+| Kilo-411/MetaSploits | Metasploit Repo | https://github.com/Kilo-411/MetaSploits | ['metasploit module OR payload', 'sploit'] | 2 | 2022-01-15 01:17:07+00:00 | 9 | 2 | | 0 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-15 01:13:30+00:00 | 867 | 1 | Lua | 0 | [] |
-| distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2022-01-15 17:36:46+00:00 | 256 | 0 | TypeScript | 3 | [] |
 | Cerbersec/notes | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | ['exploit'] | 1 | 2022-01-15 16:29:53+00:00 | 8 | 20 | | 4 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-15 18:10:10+00:00 | 131 | 5 | | 0 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-01-15 00:09:56+00:00 | 66 | 2 | Python | 0 | [] |
