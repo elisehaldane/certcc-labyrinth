@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+404915380,Kappaladi/exploitupdate,SloCron.zip,c6d50fd9f9655f50cf315ab48ad071ce16eda66e,VU#39
+404915380,Kappaladi/exploitupdate,SloCron.zip,c6d50fd9f9655f50cf315ab48ad071ce16eda66e,VU#75
