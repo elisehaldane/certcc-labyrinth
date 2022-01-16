@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#75,1.00000000,https://github.com/coolp972/maintripexdl,coolp972/maintripexdl,430021184
 VU#75,1.00000000,https://github.com/coolp972/tripex,coolp972/tripex,424054761
+VU#75,0.50000000,https://github.com/Kappaladi/exploitupdate,Kappaladi/exploitupdate,404915380
 VU#75,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#75,0.03225806,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#75,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
