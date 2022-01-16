@@ -1,1 +1,22 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+206853622,LittleNewton/ucas_exploit_practice,bib/漏洞论文/5.2_The Geometry of Innocent Flesh on the Bone Returninto-libc without Calls (on the x86).pdf,07848afa4b5f2f09cd2fe28a6cdc25c642da61cd,VU#475
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 7 次课 - 2 - 课程总结.pdf,0c59c4e12963e4771ac34f992f2d238932fa5bb8,VU#65
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 1 次课 - 1 - 课程引言（霍玮）.pdf,1ea41873d77cecf6f31c427e8539e68e7786b0bb,VU#38
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 5 次课 - 2 - 模糊测试实践1：AFL 上手.pdf,427a94fed67216eeefe23a66c959fae6b1c773f1,VU#369
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 5 次课 - 2 - 模糊测试实践1：AFL 上手.pdf,427a94fed67216eeefe23a66c959fae6b1c773f1,VU#65
+206853622,LittleNewton/ucas_exploit_practice,bib/General_经典漏洞利用.Data/PDF/3979536724/Carbone-2019-Deep Learning to Evaluate Secure.pdf,448b4dbfb2ce8b1fad6426596057d0bf8727c37c,VU#38
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 2 次课 - 1 - 控制流劫持与利用：栈溢出.pdf,5c251ed742f439dad36184f62954ef7eedc98fec,VU#49
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 2 次课 - 1 - 控制流劫持与利用：栈溢出.pdf,5c251ed742f439dad36184f62954ef7eedc98fec,VU#65
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 6 次课 - 2 - 模糊测试实践3：变异策略.pdf,60ec26b29fbf814d2448e4588d716fa8701dd18d,VU#65
+206853622,LittleNewton/ucas_exploit_practice,"bib/漏洞论文/5.3_Control-Flow Integrity Precision, Security, and Performance.pdf",6b731a873b7248479d73513ce13e9a4544fa4130,VU#61
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 4 次课 - 1 - 控制流劫持与利用：Javascript的堆漏洞及利用.pdf,6d0808005dcbdf04f665ce6ddcfe4e4cfaa2a38a,VU#74
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 4 次课 - 1 - 控制流劫持与利用：Javascript的堆漏洞及利用.pdf,6d0808005dcbdf04f665ce6ddcfe4e4cfaa2a38a,VU#65
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 4 次课 - 2 - 代码重用攻击与防御.pdf,8d69e7030ee03eb7057fc2b15ee5ee1895f6a0c2,VU#65
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 3 次课 - 2 - 堆利用.pdf,8f05e95878fa49265f548c68a3a0f8847a3af014,VU#237
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 3 次课 - 2 - 堆利用.pdf,8f05e95878fa49265f548c68a3a0f8847a3af014,VU#65
+206853622,LittleNewton/ucas_exploit_practice,bib/漏洞论文/ccproxy缓冲区溢出利用实验过程的视频.wmv,9111081a7c5a5323ee688943cb98a0397b55c1fe,VU#95
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 1 次课 - 2 - 安全分析手段与模糊测试（邹燕燕）.pdf,9c721fa2f0c2729a0c680fc4fa22d5882d02570b,VU#65
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 5 次课 - 1 - 内核漏洞利用技术介绍.pdf,b61bd86024511308d2bd594432d8b684cb4db7eb,VU#65
+206853622,LittleNewton/ucas_exploit_practice,bib/General_经典漏洞利用.Data/PDF/2625111603/Bletsch-2011-Jump-Oriented Programming_ A New.pdf,b7bb30b2951335f09b26ad0b9895b92290611fea,VU#34
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 6 次课 - 1 - 模糊测试实践2：AFL 改进.pdf,bbfeba2591379f411ad8666926d5c713c7835020,VU#65
+206853622,LittleNewton/ucas_exploit_practice,slides/漏洞利用与攻防实践2019-2020秋季_第 7 次课 - 1 - 模糊测试实践4：变异调度策略.pdf,fdc9d6d99a7fa95d1c05e6244c2367e690c423b2,VU#65
