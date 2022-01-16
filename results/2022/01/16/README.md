@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/16
     
-109 records found after deduplication
+110 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -19,7 +19,7 @@
 | o7-Fire/Log4Shell | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | ['exploit', 'rce'] | 2 | 2022-01-16 01:37:12+00:00 | 83 | 14 | Java | 7 | [] |
 | bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-16 14:03:59+00:00 | 859 | 4 | Go | 1 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-16 20:27:05+00:00 | 84 | 0 | C | 0 | [] |
-| Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2022-01-16 18:16:22+00:00 | 9659 | 0 | | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-16 06:29:47+00:00 | 6905 | 1 | Jupyter Notebook | 0 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2022-01-16 00:05:21+00:00 | 274 | 0 | TypeScript | 3 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-16 18:10:09+00:00 | 131 | 5 | | 0 | [] |
 | inspiringz/CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-01-16 15:54:14+00:00 | 2307 | 98 | Python | 12 | ['CVE-2021-22205'] |
@@ -32,9 +32,10 @@
 | 0bfxgh0st/UnrealIrcd-3.2.8.1-cve-2010-2075-exploit | [CVE-2010-2078] Exploit for UnrealIrcd 3.2.8.1 version (custom modification from a perl script simplifying all posible for bash scripting) | https://github.com/0bfxgh0st/UnrealIrcd-3.2.8.1-cve-2010-2075-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-16 17:42:53+00:00 | 164 | 0 | Shell | 0 | ['CVE-2010-2075', 'CVE-2010-2078'] |
 | glixzzy/blooket-hack | The Official Blooket Hack | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-16 20:45:36+00:00 | 2276 | 351 | JavaScript | 948 | [] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-16 09:21:52+00:00 | 167 | 0 | Go | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-16 06:29:47+00:00 | 6905 | 1 | Jupyter Notebook | 0 | [] |
 | nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2022-01-16 13:16:56+00:00 | 57016 | 0 | C++ | 0 | [] |
-| mkutyla/Buffer-Overflow | This repository contains an example of how a buffer overflow vulnerability can be exploited using Python. | https://github.com/mkutyla/Buffer-Overflow | ['exploit'] | 1 | 2022-01-16 00:12:01+00:00 | 277 | 0 | Python | 0 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-16 20:13:19+00:00 | 19022 | 480 | Ruby | 117 | [] |
+| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-01-16 07:38:00+00:00 | 0 | 0 | PHP | 0 | [] |
+| Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2022-01-16 21:39:27+00:00 | 0 | 0 | | 0 | [] |
 | matin85-mkh/shadow-exploit | None | https://github.com/matin85-mkh/shadow-exploit | ['exploit'] | 1 | 2022-01-16 20:14:12+00:00 | 0 | 0 | | 0 | [] |
 | Bloody0/ExploitY-additional | None | https://github.com/Bloody0/ExploitY-additional | ['exploit'] | 1 | 2022-01-16 19:49:40+00:00 | 0 | 0 | | 0 | [] |
 | 0bfxgh0st-secondary/TV_SONY_BRAVIA_KDL-32W600A | Exploit Sony Bravia KDL-32W600A API while is connected to internet (cable or wireless) with this bash script poc + Friendly PHP website to control the TV from other devices. You can host it in an apache server configuring ports.conf with your host address. | https://github.com/0bfxgh0st-secondary/TV_SONY_BRAVIA_KDL-32W600A | ['exploit'] | 1 | 2022-01-16 19:28:25+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -45,8 +46,8 @@
 | 10rd-d4rk/Exploit_Finder | None | https://github.com/10rd-d4rk/Exploit_Finder | ['exploit'] | 1 | 2022-01-16 10:19:04+00:00 | 0 | 0 | Python | 0 | [] |
 | qurbat/CVE-2022-0236 | None | https://github.com/qurbat/CVE-2022-0236 | ['cve-2 OR cve_2'] | 1 | 2022-01-16 09:57:22+00:00 | 0 | 0 | | 0 | ['CVE-2022-0236'] |
 | nipund513/Review-Paper---Exploiting-FTP-21-version-VSFTDP-2.3.4-in-Metasploitable-2- | Exploiting FTP/21 version VSFTDP 2.3.4 in Metasploitable 2 | https://github.com/nipund513/Review-Paper---Exploiting-FTP-21-version-VSFTDP-2.3.4-in-Metasploitable-2- | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-16 08:19:52+00:00 | 0 | 0 | | 0 | [] |
-| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-01-16 07:38:00+00:00 | 0 | 0 | PHP | 0 | [] |
 | xXheckerX/spring | local library = loadstring(game:HttpGet('https://pastebin.com/raw/T3tvmaz4'))() local MainWindow = library:CreateWindow("Farming") local EggsWindow = library:CreateWindow("Eggs") local GameLibrary = require(game:GetService("ReplicatedStorage"):WaitForChil | https://github.com/xXheckerX/spring | ['exploit'] | 1 | 2022-01-16 07:26:43+00:00 | 0 | 0 | | 0 | [] |
+| mkutyla/Buffer-Overflow | This repository contains an example of how a buffer overflow vulnerability can be exploited using Python. | https://github.com/mkutyla/Buffer-Overflow | ['exploit'] | 1 | 2022-01-16 00:12:01+00:00 | 277 | 0 | Python | 0 | [] |
 | DrmnSamoLiu/CVE-2019-17147_Practice_Material | This repo contains dumped flash partitions with firmware version vulnerable to CVE-2019-17147, and some useful binaries to downgrade and debug your WR841N router. | https://github.com/DrmnSamoLiu/CVE-2019-17147_Practice_Material | ['cve-2 OR cve_2'] | 1 | 2022-01-16 07:08:58+00:00 | 0 | 0 | | 0 | ['CVE-2019-17147'] |
 | xoElf/FortniteExploits | Every time I see an exploit get posted/leaked, I will throw it into this. | https://github.com/xoElf/FortniteExploits | ['exploit'] | 1 | 2022-01-16 07:13:20+00:00 | 0 | 0 | | 0 | [] |
 | PinkDev1/CVE-2021-42237 | An exploit/PoC for CVE-2021-42237 | https://github.com/PinkDev1/CVE-2021-42237 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-01-16 05:40:17+00:00 | 0 | 0 | | 0 | ['CVE-2021-42237'] |
@@ -59,8 +60,8 @@
 | adamtheapiguy/log4jshellPoC | Building a PoC for log4j vulnerability and its possible attacks is critical for your teams to study and research vulnerabilities and malware to be able to come-up with effective security controls. It would also contribute to secure by design initiative ins | https://github.com/adamtheapiguy/log4jshellPoC | ['attack poc', 'vulnerability poc'] | 2 | 2022-01-16 00:29:56+00:00 | 7084 | 0 | nan | 0 | [] |
 | bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-01-16 04:22:32+00:00 | 1 | 0 | | 0 | [] |
 | 0bfxgh0st/lxd-privesc-exploit | lxd privilege escalation exploit (includes alpine image encoded inside) | https://github.com/0bfxgh0st/lxd-privesc-exploit | ['exploit'] | 1 | 2022-01-16 17:35:50+00:00 | 7031 | 2 | Shell | 1 | [] |
+| Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2022-01-16 18:16:22+00:00 | 9659 | 0 | | 0 | [] |
 | SQLab/CRAXplusplus | None | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-16 15:13:23+00:00 | 10349 | 29 | C++ | 3 | [] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-16 20:13:19+00:00 | 19022 | 480 | Ruby | 117 | [] |
 | LittleNewton/ucas_exploit_practice | 中国科学院大学，《漏洞利用与攻防实践》，霍玮 | https://github.com/LittleNewton/ucas_exploit_practice | ['exploit'] | 1 | 2022-01-16 03:34:35+00:00 | 9968 | 0 | Python | 0 | [] |
 | ezluci/Roblox-scripts | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | ['exploit'] | 1 | 2022-01-16 12:51:13+00:00 | 237 | 1 | Lua | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-01-16 14:30:01+00:00 | 3877197 | 2 | Batchfile | 0 | [] |
@@ -113,4 +114,4 @@
 | pen4uin/Poc-Exp | 漏洞研究☞OA/中间件/框架/路由器... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-16 18:55:05+00:00 | 569 | 139 | | 29 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-16 04:08:49+00:00 | 159563 | 14 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-16 00:03:35+00:00 | 453426 | 43 | | 21 | [] |
-| Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2022-01-16 21:39:27+00:00 | 0 | 0 | | 0 | [] |
+| Jack7988/Silent-PDF-Exploit-2022 | None | https://github.com/Jack7988/Silent-PDF-Exploit-2022 | ['exploit'] | 1 | 2022-01-16 22:21:50+00:00 | 0 | 1 | | 0 | [] |
