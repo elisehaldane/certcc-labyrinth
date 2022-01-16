@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-447697301,adamtheapiguy/log4jshellPoC,README.md,3eac438c1197e33e640cf2dd003ce2ad1a36c707,CVE-2021-44228
-447697301,adamtheapiguy/log4jshellPoC,aws-log4jshell-CVE-2021-44228-poc.yaml,e3533d2f23865a26a4d4240f5656b6d82b1e637e,CVE-2021-44228
+447697301,adamtheapiguy/log4jshellPoC,aws-log4jshell-CVE-2021-44228-poc.yaml,9392293b635f3fe0db3e749c8820e032bc256f2c,CVE-2021-44228
+447697301,adamtheapiguy/log4jshellPoC,README.md,ac10ea9694e7b9a0725fa583b91472f03741ff99,CVE-2021-44228
