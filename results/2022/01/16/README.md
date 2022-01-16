@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/16
     
-21 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-16 03:27:36+00:00 | 673100 | 26113 | Ruby | 11886 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-16 00:07:16+00:00 | 1534774 | 1552 | Python | 529 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-16 01:16:41+00:00 | 8003 | 2 | Python | 0 | [] |
 | OpenSourceRoblox/Exploits | Compilation of roblox scripts made specifically for cheating | https://github.com/OpenSourceRoblox/Exploits | ['exploit'] | 1 | 2022-01-16 01:59:20+00:00 | 0 | 0 | | 0 | [] |
 | SutemVzla/PS4 | SIMON ROSALES EXPLOIT 9.00 | https://github.com/SutemVzla/PS4 | ['exploit'] | 1 | 2022-01-16 00:22:30+00:00 | 779 | 0 | JavaScript | 0 | [] |
 | adamtheapiguy/log4jshellPoC | Building a PoC for log4j vulnerability and its possible attacks is critical for your teams to study and research vulnerabilities and malware to be able to come-up with effective security controls. It would also contribute to secure by design initiative ins | https://github.com/adamtheapiguy/log4jshellPoC | ['attack poc', 'vulnerability poc'] | 2 | 2022-01-16 00:29:56+00:00 | 7084 | 0 | nan | 0 | [] |
@@ -14,9 +14,12 @@
 | Koupah/MC-Log4j-Patcher | A singular file to protect as many Minecraft servers and clients as possible from the Log4j exploit (CVE-2021-44228). | https://github.com/Koupah/MC-Log4j-Patcher | ['exploit'] | 1 | 2022-01-16 01:59:24+00:00 | 57 | 4 | Java | 1 | ['CVE-2021-44228'] |
 | o7-Fire/Log4Shell | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | ['exploit', 'rce'] | 2 | 2022-01-16 01:37:12+00:00 | 83 | 14 | Java | 7 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2022-01-16 00:05:21+00:00 | 274 | 0 | TypeScript | 3 | [] |
+| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-01-16 03:37:17+00:00 | 568 | 34 | JavaScript | 24 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2022-01-16 00:01:06+00:00 | 397 | 49 | JavaScript | 22 | [] |
+| tburakdirlik/vulnserverBufferOverflowExploit | None | https://github.com/tburakdirlik/vulnserverBufferOverflowExploit | ['exploit'] | 1 | 2022-01-16 03:22:47+00:00 | 30 | 0 | Python | 0 | [] |
+| Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2022-01-16 03:33:03+00:00 | 802 | 6 | | 1 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-16 01:16:41+00:00 | 8003 | 2 | Python | 0 | [] |
 | HuskyHacks/ShadowSteal | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | ['exploit'] | 1 | 2022-01-16 02:00:26+00:00 | 290 | 183 | Nim | 35 | ['CVE-2021-36934'] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-16 00:17:07+00:00 | 221954 | 268 | Ruby | 78 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-01-16 02:25:04+00:00 | 3200 | 11 | Python | 8 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-16 00:22:24+00:00 | 105463 | 283 | Python | 89 | [] |
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-01-16 00:49:58+00:00 | 904 | 1 | Lua | 0 | [] |
@@ -24,5 +27,9 @@
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-01-16 01:25:19+00:00 | 6506 | 120 | Python | 39 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-16 00:03:35+00:00 | 453426 | 43 | | 21 | [] |
 | FrancescoDiSalesGithub/SimpleVirusWriting | An example of basic virus writing in C | https://github.com/FrancescoDiSalesGithub/SimpleVirusWriting | ['exploit'] | 1 | 2022-01-16 00:43:34+00:00 | 1975 | 1 | C | 0 | [] |
+| CaledoniaProject/drivers-binaries | Exploitable drivers, you know what I mean | https://github.com/CaledoniaProject/drivers-binaries | ['exploit'] | 1 | 2022-01-16 03:30:55+00:00 | 527 | 4 | | 2 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-01-16 03:14:34+00:00 | 1954 | 260 | C | 10 | [] |
+| LittleNewton/ucas_exploit_practice | 中国科学院大学，《漏洞利用与攻防实践》，霍玮 | https://github.com/LittleNewton/ucas_exploit_practice | ['exploit'] | 1 | 2022-01-16 03:34:35+00:00 | 9968 | 0 | Python | 0 | [] |
 | acaglayan/exploitCNN-RNN | Exploiting Multi-Layer Features Using a CNN-RNN Approach for RGB-D Object Recognition | https://github.com/acaglayan/exploitCNN-RNN | ['exploit'] | 1 | 2022-01-16 02:04:17+00:00 | 1014 | 11 | MATLAB | 1 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-16 00:17:07+00:00 | 221954 | 268 | Ruby | 78 | [] |
 | australeo/CVE-2021-28476 | CVE-2021-28476: Hyper-V vmswitch.sys arbitrary pointer dereference from guest VM | https://github.com/australeo/CVE-2021-28476 | ['cve-2 OR cve_2'] | 1 | 2022-01-16 02:46:22+00:00 | 0 | 0 | C | 0 | ['CVE-2021-28476'] |
