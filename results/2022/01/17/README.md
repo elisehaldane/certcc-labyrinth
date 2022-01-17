@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/17
     
-11 records found after deduplication
+12 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-17 00:07:23+00:00 | 1534774 | 1553 | Python | 529 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-17 00:17:06+00:00 | 221955 | 268 | Ruby | 78 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-01-17 03:31:03+00:00 | 142188 | 7 | C | 206 | [] |
 | BuildAPKs/db.BuildAPKs | BuildAPKs' database for built APKs from open source accounts at https://github.com | https://github.com/BuildAPKs/db.BuildAPKs | ['shellcode'] | 1 | 2022-01-17 02:20:57+00:00 | 1503 | 5 | Shell | 3 | [] |
 | cybertechvibes/rcestep.github.io | nan | https://github.com/cybertechvibes/rcestep.github.io | ['rce'] | 1 | 2022-01-17 01:34:25+00:00 | 36702 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-17 00:03:55+00:00 | 453503 | 44 | | 21 | [] |
