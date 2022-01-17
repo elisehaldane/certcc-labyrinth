@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+439728433,criteo/log4j-jndi-jar-detector,README.md,0fbd7cf74c26901462bd815bff28f8109d4e7a0a,CVE-2021-44228
