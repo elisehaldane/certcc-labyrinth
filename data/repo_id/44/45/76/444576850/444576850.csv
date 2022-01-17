@@ -1,3 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 444576850,casagency/metasploit-CVE,log4j-scan.py,22cfa4fa70b73d75084493d282996dd9ced137c4,CVE-2021-44228
 444576850,casagency/metasploit-CVE,log4j-scan.py,22cfa4fa70b73d75084493d282996dd9ced137c4,CVE-2021-45046
+444576850,casagency/metasploit-CVE,50239.py,4ae359864c3884c68764a78de9ec2d48ad5ff5c4,CVE-2019-18818
+444576850,casagency/metasploit-CVE,50239.py,4ae359864c3884c68764a78de9ec2d48ad5ff5c4,CVE-2019-19609
+444576850,casagency/metasploit-CVE,README.md,ec909a044f340a0f1b96bfd28ffeca6e4e656dbc,CVE-2021-3129
