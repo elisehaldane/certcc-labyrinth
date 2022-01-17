@@ -1,17 +1,19 @@
 
 # Summary for results/2022/01/17
     
-49 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-17 10:34:42+00:00 | 673100 | 26126 | Ruby | 11889 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-17 05:23:41+00:00 | 78 | 7 | | 2 | ['CVE-2021-44228'] |
-| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-17 12:42:04+00:00 | 171 | 0 | Go | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-17 12:40:33+00:00 | 6926 | 1 | Jupyter Notebook | 0 | [] |
-| Davidutuu1/HoodX | This is an paied Exploiting Gui for Hood Modded | https://github.com/Davidutuu1/HoodX | ['exploit'] | 1 | 2022-01-17 12:30:24+00:00 | 2311 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-17 13:20:36+00:00 | 21995 | 6275 | JavaScript | 1475 | [] |
 | cybersecurityworks553/CVE-2021-42392-Detect | None | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | ['cve-2 OR cve_2'] | 1 | 2022-01-17 06:56:02+00:00 | 168 | 7 | Python | 0 | ['CVE-2021-42392'] |
+| adeleporte/arcade_metasploit | None | https://github.com/adeleporte/arcade_metasploit | ['metasploit module OR payload'] | 1 | 2022-01-17 12:55:50+00:00 | 0 | 0 | Shell | 0 | [] |
 | mikias21/machine_learning_final_project | Generating Syntatic Cross-Site Scripting exploits using deep learning | https://github.com/mikias21/machine_learning_final_project | ['exploit'] | 1 | 2022-01-17 07:15:08+00:00 | 12 | 0 | Jupyter Notebook | 0 | [] |
+| PainNonsense/PainExploit-Scripts | None | https://github.com/PainNonsense/PainExploit-Scripts | ['exploit'] | 1 | 2022-01-17 13:19:15+00:00 | 1148 | 0 | HTML | 0 | [] |
+| PainNonsense/PainExploit-Home | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | ['exploit'] | 1 | 2022-01-17 13:28:58+00:00 | 24 | 0 | HTML | 0 | [] |
+| PainNonsense/PainExploit-Shindo-Life | None | https://github.com/PainNonsense/PainExploit-Shindo-Life | ['exploit'] | 1 | 2022-01-17 13:23:02+00:00 | 67 | 0 | HTML | 0 | [] |
+| PainNonsense/PainExploit-ADMIN-COMMAND | None | https://github.com/PainNonsense/PainExploit-ADMIN-COMMAND | ['exploit'] | 1 | 2022-01-17 13:26:20+00:00 | 86 | 0 | HTML | 0 | [] |
 | Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-01-17 10:02:50+00:00 | 271 | 20 | HTML | 2 | [] |
 | nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195 | None | https://github.com/nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-17 08:35:31+00:00 | 0 | 0 | | 0 | [] |
 | qurbat/CVE-2022-0236 | None | https://github.com/qurbat/CVE-2022-0236 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 07:41:02+00:00 | 1 | 0 | | 0 | ['CVE-2022-0236'] |
@@ -26,12 +28,17 @@
 | KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability | None | https://github.com/KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-17 08:55:34+00:00 | 0 | 0 | | 0 | ['CVE-2016-5195'] |
 | zeroday-z/zeroday-z | None | https://github.com/zeroday-z/zeroday-z | ['zeroday'] | 1 | 2022-01-17 10:04:32+00:00 | 0 | 0 | | 0 | [] |
 | christopherhjung/log4j-exploit | None | https://github.com/christopherhjung/log4j-exploit | ['exploit'] | 1 | 2022-01-17 11:31:10+00:00 | 0 | 0 | Java | 0 | [] |
+| soyzer0/imt_exploit | None | https://github.com/soyzer0/imt_exploit | ['exploit'] | 1 | 2022-01-17 13:06:37+00:00 | 48 | 0 | HTML | 0 | [] |
 | HyukIsBack/Simple-Metasploit-Loader | None | https://github.com/HyukIsBack/Simple-Metasploit-Loader | ['metasploit module OR payload'] | 1 | 2022-01-17 12:30:37+00:00 | 0 | 0 | C# | 0 | [] |
 | bitterzzZZ/CVE-2021-43297-POC | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-17 12:33:49+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-43297'] |
-| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2022-01-17 12:05:07+00:00 | 51426 | 2 | Jupyter Notebook | 0 | [] |
-| doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2022-01-17 10:33:22+00:00 | 430 | 0 | Jupyter Notebook | 0 | [] |
+| arnaudluti/PS-CVE-2020-44228 | Static detection of vulnerable log4j librairies on Windows members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2020-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 12:46:21+00:00 | 0 | 0 | | 0 | ['CVE-2020-44228'] |
+| xiska62314/CVE-2022-0236 | CVE-2022-0236 | https://github.com/xiska62314/CVE-2022-0236 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 12:56:20+00:00 | 0 | 0 | | 0 | ['CVE-2022-0236'] |
+| PainNonsense/PainExploit-Shindo-Life-GUI | None | https://github.com/PainNonsense/PainExploit-Shindo-Life-GUI | ['exploit'] | 1 | 2022-01-17 13:09:30+00:00 | 0 | 0 | HTML | 0 | [] |
+| Davidutuu1/HoodX | This is an paied Exploiting Gui for Hood Modded | https://github.com/Davidutuu1/HoodX | ['exploit'] | 1 | 2022-01-17 12:30:24+00:00 | 2311 | 0 | | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-17 12:40:33+00:00 | 6926 | 1 | Jupyter Notebook | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-17 12:42:04+00:00 | 171 | 0 | Go | 0 | [] |
+| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-01-17 07:58:10+00:00 | 43 | 0 | | 0 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-01-17 09:37:52+00:00 | 60581 | 1172 | C | 561 | [] |
-| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-17 00:32:14+00:00 | 14 | 0 | | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-17 00:07:23+00:00 | 1534774 | 1553 | Python | 529 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-17 07:32:47+00:00 | 5280 | 3060 | Python | 675 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-17 04:21:32+00:00 | 4849 | 4269 | Python | 573 | [] |
@@ -43,8 +50,8 @@
 | thomasverelst/dynconv | Code for Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference (CVPR2020) | https://github.com/thomasverelst/dynconv | ['exploit'] | 1 | 2022-01-17 11:14:05+00:00 | 109676 | 103 | Cuda | 12 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-01-17 11:04:26+00:00 | 131223 | 333 | Go | 63 | [] |
 | cybertechvibes/rcestep.github.io | None | https://github.com/cybertechvibes/rcestep.github.io | ['rce'] | 1 | 2022-01-17 01:34:25+00:00 | 36702 | 0 | | 0 | [] |
-| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-01-17 07:58:10+00:00 | 43 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-17 00:03:55+00:00 | 453503 | 44 | | 21 | [] |
+| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-01-17 12:59:14+00:00 | 189 | 7 | Rust | 2 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-17 10:08:08+00:00 | 14781 | 14 | Python | 5 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-17 01:08:07+00:00 | 106 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-17 03:48:57+00:00 | 180728 | 58 | JavaScript | 7 | [] |
@@ -53,4 +60,8 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-17 01:14:14+00:00 | 9695 | 2 | Python | 0 | [] |
 | SQLab/CRAXplusplus | None | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-17 04:20:54+00:00 | 10385 | 29 | C++ | 3 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2022-01-17 09:17:08+00:00 | 269 | 7 | Go | 2 | [] |
-| arnaudluti/PS-CVE-2020-44228 | Static detection of vulnerable log4j librairies on Windows members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2020-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 12:46:21+00:00 | 0 | 0 | | 0 | ['CVE-2020-44228'] |
+| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-17 00:32:14+00:00 | 14 | 0 | | 0 | [] |
+| doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2022-01-17 10:33:22+00:00 | 430 | 0 | Jupyter Notebook | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-17 05:23:41+00:00 | 78 | 7 | | 2 | ['CVE-2021-44228'] |
+| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2022-01-17 12:05:07+00:00 | 51426 | 2 | Jupyter Notebook | 0 | [] |
+| xiska62314/CVE-2022-21907 | CVE-2022-21907 | https://github.com/xiska62314/CVE-2022-21907 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 13:42:45+00:00 | 0 | 0 | | 0 | ['CVE-2022-21907'] |
