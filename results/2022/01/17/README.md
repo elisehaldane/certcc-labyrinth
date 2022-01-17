@@ -1,39 +1,44 @@
 
 # Summary for results/2022/01/17
     
-32 records found after deduplication
+37 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-01-17 09:37:52+00:00 | 60581 | 1172 | C | 561 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-17 00:07:23+00:00 | 1534774 | 1553 | Python | 529 | [] |
-| lys7aves/Metasploitable3 | None | https://github.com/lys7aves/Metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-01-17 05:52:43+00:00 | 0 | 0 | | 0 | [] |
-| lys7aves/Metasploitable2 | None | https://github.com/lys7aves/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-01-17 05:51:42+00:00 | 0 | 0 | | 0 | [] |
-| mustakimur/UGA-SW-Vuln-Exploit-Disclosure | A repo where we gather good explanation of real-world sw vulnerabilities, their exploitation | https://github.com/mustakimur/UGA-SW-Vuln-Exploit-Disclosure | ['exploit'] | 1 | 2022-01-17 04:44:59+00:00 | 0 | 0 | | 0 | [] |
-| artsking/linux-4.19.72_CVE-2020-14386_extrapatch | None | https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch | ['cve-2 OR cve_2'] | 1 | 2022-01-17 04:11:34+00:00 | 0 | 0 | C | 0 | ['CVE-2020-14386'] |
-| antx-code/CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 02:28:52+00:00 | 0 | 0 | | 0 | ['CVE-2022-21907'] |
-| Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2022-01-17 07:27:32+00:00 | 2 | 0 | | 0 | [] |
-| noucharles/ExploitationDonneesSpark | None | https://github.com/noucharles/ExploitationDonneesSpark | ['exploit'] | 1 | 2022-01-17 09:33:15+00:00 | 382 | 0 | Java | 0 | [] |
-| qurbat/CVE-2022-0236 | None | https://github.com/qurbat/CVE-2022-0236 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 07:41:02+00:00 | 1 | 0 | | 0 | ['CVE-2022-0236'] |
-| nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195 | None | https://github.com/nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-17 08:35:31+00:00 | 0 | 0 | | 0 | [] |
-| mikias21/machine_learning_final_project | Generating Syntatic Cross-Site Scripting exploits using deep learning | https://github.com/mikias21/machine_learning_final_project | ['exploit'] | 1 | 2022-01-17 07:15:08+00:00 | 12 | 0 | Jupyter Notebook | 0 | [] |
-| cybersecurityworks553/CVE-2021-42392-Detect | None | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | ['cve-2 OR cve_2'] | 1 | 2022-01-17 06:56:02+00:00 | 168 | 7 | Python | 0 | ['CVE-2021-42392'] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-17 05:23:41+00:00 | 78 | 7 | | 2 | ['CVE-2021-44228'] |
-| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-17 00:32:14+00:00 | 14 | 0 | | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-17 10:34:42+00:00 | 673100 | 26126 | Ruby | 11889 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2022-01-17 09:17:08+00:00 | 269 | 7 | Go | 2 | [] |
-| SQLab/CRAXplusplus | None | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-17 04:20:54+00:00 | 10385 | 29 | C++ | 3 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-17 01:14:14+00:00 | 9695 | 2 | Python | 0 | [] |
-| bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-17 02:17:00+00:00 | 6650 | 294 | Python | 57 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-17 00:22:44+00:00 | 108306 | 283 | Python | 90 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-17 03:48:57+00:00 | 180728 | 58 | JavaScript | 7 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-17 01:08:07+00:00 | 106 | 0 | PHP | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-17 00:03:55+00:00 | 453503 | 44 | | 21 | [] |
-| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-01-17 07:58:10+00:00 | 43 | 0 | | 0 | [] |
-| cybertechvibes/rcestep.github.io | None | https://github.com/cybertechvibes/rcestep.github.io | ['rce'] | 1 | 2022-01-17 01:34:25+00:00 | 36702 | 0 | | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-17 06:46:15+00:00 | 21451 | 26 | | 17 | [] |
-| BuildAPKs/db.BuildAPKs | BuildAPKs' database for built APKs from open source accounts at https://github.com | https://github.com/BuildAPKs/db.BuildAPKs | ['shellcode'] | 1 | 2022-01-17 02:20:57+00:00 | 1503 | 5 | Shell | 3 | [] |
-| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-01-17 03:31:03+00:00 | 142188 | 7 | C | 206 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-17 00:17:06+00:00 | 221955 | 268 | Ruby | 78 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-17 04:21:32+00:00 | 4849 | 4269 | Python | 573 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-17 07:32:47+00:00 | 5280 | 3060 | Python | 675 | [] |
+| doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2022-01-17 10:33:22+00:00 | 430 | 0 | Jupyter Notebook | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-17 05:23:41+00:00 | 78 | 7 | | 2 | ['CVE-2021-44228'] |
+| cybersecurityworks553/CVE-2021-42392-Detect | None | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | ['cve-2 OR cve_2'] | 1 | 2022-01-17 06:56:02+00:00 | 168 | 7 | Python | 0 | ['CVE-2021-42392'] |
+| mikias21/machine_learning_final_project | Generating Syntatic Cross-Site Scripting exploits using deep learning | https://github.com/mikias21/machine_learning_final_project | ['exploit'] | 1 | 2022-01-17 07:15:08+00:00 | 12 | 0 | Jupyter Notebook | 0 | [] |
+| Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-01-17 10:02:50+00:00 | 271 | 20 | HTML | 2 | [] |
+| nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195 | None | https://github.com/nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-17 08:35:31+00:00 | 0 | 0 | | 0 | [] |
+| qurbat/CVE-2022-0236 | None | https://github.com/qurbat/CVE-2022-0236 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 07:41:02+00:00 | 1 | 0 | | 0 | ['CVE-2022-0236'] |
+| noucharles/ExploitationDonneesSpark | None | https://github.com/noucharles/ExploitationDonneesSpark | ['exploit'] | 1 | 2022-01-17 09:33:15+00:00 | 382 | 0 | Java | 0 | [] |
+| Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2022-01-17 07:27:32+00:00 | 2 | 0 | | 0 | [] |
+| antx-code/CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | ['cve-2 OR cve_2'] | 1 | 2022-01-17 02:28:52+00:00 | 0 | 0 | | 0 | ['CVE-2022-21907'] |
+| artsking/linux-4.19.72_CVE-2020-14386_extrapatch | None | https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch | ['cve-2 OR cve_2'] | 1 | 2022-01-17 04:11:34+00:00 | 0 | 0 | C | 0 | ['CVE-2020-14386'] |
+| mustakimur/UGA-SW-Vuln-Exploit-Disclosure | A repo where we gather good explanation of real-world sw vulnerabilities, their exploitation | https://github.com/mustakimur/UGA-SW-Vuln-Exploit-Disclosure | ['exploit'] | 1 | 2022-01-17 04:44:59+00:00 | 0 | 0 | | 0 | [] |
+| lys7aves/Metasploitable2 | None | https://github.com/lys7aves/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-01-17 05:51:42+00:00 | 0 | 0 | | 0 | [] |
+| lys7aves/Metasploitable3 | None | https://github.com/lys7aves/Metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-01-17 05:52:43+00:00 | 0 | 0 | | 0 | [] |
 | KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability | None | https://github.com/KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-17 08:55:34+00:00 | 0 | 0 | | 0 | ['CVE-2016-5195'] |
+| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-17 00:32:14+00:00 | 14 | 0 | | 0 | [] |
+| SQLab/CRAXplusplus | None | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-17 04:20:54+00:00 | 10385 | 29 | C++ | 3 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-01-17 09:37:52+00:00 | 60581 | 1172 | C | 561 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-17 01:14:14+00:00 | 9695 | 2 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-17 00:07:23+00:00 | 1534774 | 1553 | Python | 529 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-17 07:32:47+00:00 | 5280 | 3060 | Python | 675 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-17 04:21:32+00:00 | 4849 | 4269 | Python | 573 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-17 00:17:06+00:00 | 221955 | 268 | Ruby | 78 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-01-17 03:31:03+00:00 | 142188 | 7 | C | 206 | [] |
+| BuildAPKs/db.BuildAPKs | BuildAPKs' database for built APKs from open source accounts at https://github.com | https://github.com/BuildAPKs/db.BuildAPKs | ['shellcode'] | 1 | 2022-01-17 02:20:57+00:00 | 1503 | 5 | Shell | 3 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-17 06:46:15+00:00 | 21451 | 26 | | 17 | [] |
+| cybertechvibes/rcestep.github.io | None | https://github.com/cybertechvibes/rcestep.github.io | ['rce'] | 1 | 2022-01-17 01:34:25+00:00 | 36702 | 0 | | 0 | [] |
+| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-01-17 07:58:10+00:00 | 43 | 0 | | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-17 00:03:55+00:00 | 453503 | 44 | | 21 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-17 10:08:08+00:00 | 14781 | 14 | Python | 5 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-17 01:08:07+00:00 | 106 | 0 | PHP | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-17 03:48:57+00:00 | 180728 | 58 | JavaScript | 7 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-17 00:22:44+00:00 | 108306 | 283 | Python | 90 | [] |
+| bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-17 02:17:00+00:00 | 6650 | 294 | Python | 57 | [] |
+| zeroday-z/zeroday-z | None | https://github.com/zeroday-z/zeroday-z | ['zeroday'] | 1 | 2022-01-17 10:04:32+00:00 | 0 | 0 | | 0 | [] |
