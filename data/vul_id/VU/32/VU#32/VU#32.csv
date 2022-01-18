@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#32,1.00000000,https://github.com/DavidBuchanan314/WAMpage,DavidBuchanan314/WAMpage,441808910
+VU#32,1.00000000,https://github.com/rcelyte/BeatUpRcelyte,rcelyte/BeatUpRcelyte,430196616
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
 VU#32,0.50000000,https://github.com/Zebratic/UE4Injector,Zebratic/UE4Injector,442869549
 VU#32,0.50000000,https://github.com/Shreyas-Penkar/MITM-SDR,Shreyas-Penkar/MITM-SDR,442740464
