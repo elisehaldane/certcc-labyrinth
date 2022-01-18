@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#577,1.00000000,https://github.com/aW3ikun/Modern_Windows_Exploit_Development,aW3ikun/Modern_Windows_Exploit_Development,438576357
-VU#577,0.02127660,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
+VU#577,0.02083333,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
 VU#577,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#577,0.00220751,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#577,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
