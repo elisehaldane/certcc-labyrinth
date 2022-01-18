@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/17
     
-106 records found after deduplication
+107 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,6 +22,7 @@
 | PainNonsense/PainExploit-Scripts | None | https://github.com/PainNonsense/PainExploit-Scripts | ['exploit'] | 1 | 2022-01-17 13:19:15+00:00 | 1148 | 0 | HTML | 0 | [] |
 | su1s/encryptor | Windows shellcode encoding and encrypting tool | https://github.com/su1s/encryptor | ['shellcode'] | 1 | 2022-01-17 23:38:00+00:00 | 133 | 1 | C# | 0 | [] |
 | Mario-Kart-Felix/A-potential-Denial-of-Service-issue-in-protobuf-java | A potential Denial of Service issue in protobuf-java high severity GitHub Reviewed Published 5 days ago in protocolbuffers/protobuf • Updated yesterday Vulnerability details Dependabot alerts 2 Package com.google.protobuf:protobuf-java (maven) Affected ve | https://github.com/Mario-Kart-Felix/A-potential-Denial-of-Service-issue-in-protobuf-java | ['cve-2 OR cve_2'] | 1 | 2022-01-17 18:18:18+00:00 | 163 | 0 | Java | 0 | ['CVE-2021-22569'] |
+| twelvesec/RogueLDAP | A lightweight rogue LDAP server which is a modified version of the JNDIExploit-1 | https://github.com/twelvesec/RogueLDAP | ['exploit'] | 1 | 2022-01-17 11:55:53+00:00 | 132029 | 1 | Java | 0 | [] |
 | mikias21/machine_learning_final_project | Generating Syntatic Cross-Site Scripting exploits using deep learning | https://github.com/mikias21/machine_learning_final_project | ['exploit'] | 1 | 2022-01-17 07:15:08+00:00 | 12 | 0 | Jupyter Notebook | 0 | [] |
 | adeleporte/arcade_metasploit | None | https://github.com/adeleporte/arcade_metasploit | ['metasploit module OR payload'] | 1 | 2022-01-17 12:55:50+00:00 | 0 | 0 | Shell | 0 | [] |
 | cybersecurityworks553/CVE-2021-42392-Detect | None | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | ['cve-2 OR cve_2'] | 1 | 2022-01-17 06:56:02+00:00 | 168 | 7 | Python | 0 | ['CVE-2021-42392'] |
@@ -29,10 +30,9 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-17 12:40:33+00:00 | 6926 | 1 | Jupyter Notebook | 0 | [] |
 | kibotrel/42-Snowcrash | Introduction to information security, exploiting a vulnerable ISO. | https://github.com/kibotrel/42-Snowcrash | ['exploit'] | 1 | 2022-01-17 20:12:34+00:00 | 68 | 0 | JavaScript | 0 | [] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-17 12:42:04+00:00 | 171 | 0 | Go | 0 | [] |
-| casagency/metasploit-CVE | None | https://github.com/casagency/metasploit-CVE | ['metasploit module OR payload'] | 1 | 2022-01-17 16:57:57+00:00 | 7 | 0 | Python | 0 | [] |
 | artsking/linux-4.19.72_CVE-2020-14386_extrapatch | None | https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch | ['cve-2 OR cve_2'] | 1 | 2022-01-17 04:11:34+00:00 | 0 | 0 | C | 0 | ['CVE-2020-14386'] |
 | lys7aves/Metasploitable2 | None | https://github.com/lys7aves/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-01-17 05:51:42+00:00 | 0 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-17 13:20:36+00:00 | 21995 | 6275 | JavaScript | 1475 | [] |
+| maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-17 16:57:47+00:00 | 57 | 1 | Go | 0 | [] |
 | lys7aves/Metasploitable3 | None | https://github.com/lys7aves/Metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-01-17 05:52:43+00:00 | 0 | 0 | | 0 | [] |
 | ydy4/Clickjacking | this script can be used as POC for Clickjacking vulnerabilities | https://github.com/ydy4/Clickjacking | ['vulnerability poc'] | 1 | 2022-01-17 22:32:40+00:00 | 0 | 0 | Python | 0 | [] |
 | cryptofyre/hub.cryptofyre.org | PS4 Exploit Host based on @Nazky's V4 host. | https://github.com/cryptofyre/hub.cryptofyre.org | ['exploit'] | 1 | 2022-01-17 21:33:05+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -57,10 +57,10 @@
 | christopherhjung/log4j-exploit | None | https://github.com/christopherhjung/log4j-exploit | ['exploit'] | 1 | 2022-01-17 11:31:10+00:00 | 0 | 0 | Java | 0 | [] |
 | zeroday-z/zeroday-z | None | https://github.com/zeroday-z/zeroday-z | ['zeroday'] | 1 | 2022-01-17 10:04:32+00:00 | 0 | 0 | | 0 | [] |
 | KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability | None | https://github.com/KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-17 08:55:34+00:00 | 0 | 0 | | 0 | ['CVE-2016-5195'] |
-| maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-17 16:57:47+00:00 | 57 | 1 | Go | 0 | [] |
+| casagency/metasploit-CVE | None | https://github.com/casagency/metasploit-CVE | ['metasploit module OR payload'] | 1 | 2022-01-17 16:57:57+00:00 | 7 | 0 | Python | 0 | [] |
 | talking2wall/Vulnerabilities-Exploits-Analysis | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-01-17 23:13:56+00:00 | 57510 | 0 | Jupyter Notebook | 0 | [] |
-| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-01-17 12:59:14+00:00 | 189 | 7 | Rust | 2 | [] |
-| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2022-01-17 12:05:07+00:00 | 51426 | 2 | Jupyter Notebook | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-17 13:20:36+00:00 | 21995 | 6275 | JavaScript | 1475 | [] |
+| b4shfire/stegcrack | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | ['exploit'] | 1 | 2022-01-17 17:33:20+00:00 | 22 | 4 | C++ | 2 | ['CVE-2021-27211'] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-17 00:03:55+00:00 | 453503 | 44 | | 21 | [] |
 | mjwhitta/runsc | Simple shellcode injector. | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2022-01-17 22:39:35+00:00 | 63 | 4 | Go | 5 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-01-17 15:25:07+00:00 | 8391 | 30 | Shell | 6 | [] |
@@ -85,9 +85,10 @@
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-01-17 09:37:52+00:00 | 60581 | 1172 | C | 561 | [] |
 | pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-17 14:04:08+00:00 | 19017 | 480 | Ruby | 117 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-17 10:08:08+00:00 | 14781 | 14 | Python | 5 | [] |
-| b4shfire/stegcrack | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | ['exploit'] | 1 | 2022-01-17 17:33:20+00:00 | 22 | 4 | C++ | 2 | ['CVE-2021-27211'] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-17 20:25:23+00:00 | 7031 | 1 | Java | 0 | [] |
-| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-17 00:32:14+00:00 | 14 | 0 | | 0 | [] |
+| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-01-17 12:59:14+00:00 | 189 | 7 | Rust | 2 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-17 01:08:07+00:00 | 106 | 0 | PHP | 0 | [] |
+| ECAM-4MIN/GPU-computing | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | ['exploit'] | 1 | 2022-01-17 12:05:07+00:00 | 51426 | 2 | Jupyter Notebook | 0 | [] |
 | exp1orer/JNDI-Inject-Exploit | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | ['exploit'] | 1 | 2022-01-17 09:42:04+00:00 | 88 | 275 | Java | 74 | [] |
 | LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-01-17 22:37:24+00:00 | 817 | 0 | C | 0 | [] |
 | criteo/log4j-jndi-jar-detector | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | ['exploit'] | 1 | 2022-01-17 14:24:35+00:00 | 3192 | 3 | Go | 0 | [] |
@@ -98,8 +99,8 @@
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-17 16:27:44+00:00 | 12479 | 149 | Python | 32 | [] |
 | doke93/Modeling-Time-Series-using-ARIMA-model | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | ['exploit'] | 1 | 2022-01-17 10:33:22+00:00 | 430 | 0 | Jupyter Notebook | 0 | [] |
 | Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2022-01-17 22:37:28+00:00 | 11 | 0 | Lua | 0 | [] |
+| IIssacDev/iSPLOIT-Library-Config | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | ['exploit', 'sploit'] | 2 | 2022-01-17 00:32:14+00:00 | 14 | 0 | | 0 | [] |
 | bilginyuksel/remote-code-execution | Fast remote code execution engine for multiple programming languages | https://github.com/bilginyuksel/remote-code-execution | ['remote code execution'] | 1 | 2022-01-17 22:31:24+00:00 | 867 | 4 | Go | 1 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-17 01:08:07+00:00 | 106 | 0 | PHP | 0 | [] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2022-01-17 09:17:08+00:00 | 269 | 7 | Go | 2 | [] |
 | distributed-ledger-technology/vofarm-deno-part | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | ['exploit'] | 1 | 2022-01-17 16:24:57+00:00 | 289 | 0 | TypeScript | 3 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-17 18:10:22+00:00 | 132 | 5 | | 0 | [] |
