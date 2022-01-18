@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/coherence.jar,65072eb90e11d8489c60fc66f973e33fb005b3d5,VU#29
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/com.oracle.webservices.wls.jaxrpc-client.jar,688c84bc76cb0d40b653804d7c9beddd677898d3,VU#00
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/com.oracle.webservices.wls.jaxrpc-client.jar,688c84bc76cb0d40b653804d7c9beddd677898d3,VU#04
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/com.oracle.webservices.wls.jaxrpc-client.jar,688c84bc76cb0d40b653804d7c9beddd677898d3,VU#17
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/com.oracle.webservices.wls.jaxrpc-client.jar,688c84bc76cb0d40b653804d7c9beddd677898d3,VU#91
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/weblogic.jar,a1fb75f4e415fc8a7f66bd04809121773abc53d8,VU#45
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/weblogic.jar,a1fb75f4e415fc8a7f66bd04809121773abc53d8,VU#48
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/weblogic.jar,a1fb75f4e415fc8a7f66bd04809121773abc53d8,VU#54
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/weblogic.jar,a1fb75f4e415fc8a7f66bd04809121773abc53d8,VU#57
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/weblogic.jar,a1fb75f4e415fc8a7f66bd04809121773abc53d8,VU#73
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/weblogic.jar,a1fb75f4e415fc8a7f66bd04809121773abc53d8,VU#86
+447263009,twelvesec/RogueLDAP,logging-log4j2/target/logging-log4j2-vuln.jar,b79db610f8554b85a32205b6a4a482347a69f262,VU#01
+447263009,twelvesec/RogueLDAP,RogueLDAP/lib/wlthint3client.jar,bcbab2e1d4b56f360f4781238dc9f1bac34e8d58,VU#42
