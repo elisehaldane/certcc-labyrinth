@@ -7,9 +7,6 @@ repo_id,repo_full_name,file,file_sha1,match
 370407340,forrest-orr/Exploits,Standalone/CVE-2019-17026/Forrest_Orr_CVE-2019-17026_64-bit.html,1f43eb0884fe224b3360b3f7cbee4102faa37966,CVE-2019-17026
 370407340,forrest-orr/Exploits,Payloads/Source/DoubleStar/Stage2_WpadSandboxEscape/WpadSandboxEscape.c,1f5bdcd1ff3ae20f359c6617fea76faab3053017,CVE-2020-0674
 370407340,forrest-orr/Exploits,Payloads/Source/DoubleStar/Stage2_WpadSandboxEscape/WpadSandboxEscape.c,1f5bdcd1ff3ae20f359c6617fea76faab3053017,CVE-2019-17026
-370407340,forrest-orr/Exploits,Standalone/CVE-2019-11707/full_standalone.html,23942ebf52e7db988d08913f1a36d4669699090f,CVE-2019-11707
-370407340,forrest-orr/Exploits,Standalone/CVE-2019-11707/full_standalone.html,23942ebf52e7db988d08913f1a36d4669699090f,CVE-2019-11708
-370407340,forrest-orr/Exploits,Standalone/CVE-2019-11707/full_standalone.html,23942ebf52e7db988d08913f1a36d4669699090f,CVE-2019-17026
 370407340,forrest-orr/Exploits,Standalone/CVE-2020-0674/Forrest_Orr_CVE-2020-0674_32-bit.html,43f43cee9e894ca155a61b3150f3d33f4ab5370e,CVE-2020-0674
 370407340,forrest-orr/Exploits,Standalone/CVE-2020-0674/Forrest_Orr_CVE-2020-0674_32-bit.js,4d0d54272c928421d7f350e0e427b88e124463a1,CVE-2020-0674
 370407340,forrest-orr/Exploits,Payloads/Source/DoubleStar/Stage3_SpoolPotato/README.md,6155779e38a4ecb0f65e426cbebd74ef568033a5,CVE-2020-0674
