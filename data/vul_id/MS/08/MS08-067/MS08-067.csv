@@ -85,7 +85,6 @@ MS08-067,0.33333333,https://github.com/MarkBuffalo/exploits,MarkBuffalo/exploits
 MS08-067,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
 MS08-067,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,veerupandey/Penetration-Testing-Toolkit,18219927
 MS08-067,0.25000000,https://github.com/NickSanzotta/scanman,NickSanzotta/scanman,368895563
-MS08-067,0.25000000,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 MS08-067,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS08-067,0.25000000,https://github.com/thomcz/smb-kastel-praktikum,thomcz/smb-kastel-praktikum,114903623
 MS08-067,0.25000000,https://github.com/n3tsky/Exploits,n3tsky/Exploits,111472762
@@ -165,6 +164,7 @@ MS08-067,0.07142857,https://github.com/sandoche/Terminhack,sandoche/Terminhack,2
 MS08-067,0.07142857,https://github.com/pattersonbr/InvokeShellcode,pattersonbr/InvokeShellcode,30663715
 MS08-067,0.07142857,https://github.com/Demuxx/nifflsploit,Demuxx/nifflsploit,9782286
 MS08-067,0.06666667,https://github.com/noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,134124105
+MS08-067,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 MS08-067,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS08-067,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
 MS08-067,0.05555556,https://github.com/paulveillard/cybersecurity-windows-exploitation,paulveillard/cybersecurity-windows-exploitation,442265373
@@ -343,7 +343,7 @@ MS08-067,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf
 MS08-067,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS08-067,0.00030441,https://github.com/pwnieexpress/metasploit-framework,pwnieexpress/metasploit-framework,5058277
 MS08-067,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-metasploit/metasploit-clone,25959480
-MS08-067,0.00029002,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS08-067,0.00029011,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
 MS08-067,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS08-067,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
