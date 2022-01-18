@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML2.java,3eb9c2bfef3c8c44edb00085decd9a48b44ca9e6,CVE-2017-10271
-239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML2.java,3eb9c2bfef3c8c44edb00085decd9a48b44ca9e6,CVE-2019-2725
-239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,64645ab95020acc9b91b64fd64bd8532a35ea088,CVE-2017-10271
-239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,64645ab95020acc9b91b64fd64bd8532a35ea088,CVE-2019-2725
-239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/bullets/weblogic/xml/WeblogicXMLRCEBullet.java,71a90d5d80594433fba47f58e98bd44e83c9bc2f,CVE-2017-10271
-239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/bullets/weblogic/xml/WeblogicXMLJndiBullet.java,c6e0e8afb65dc3e5ec0d17083747b7b4ba28f724,CVE-2019-2725
-239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xstream/XMLMessagePacket.java,d03434909abfb8afd19e99a2a42230c5eea7efea,CVE-2021-29505
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/bullets/weblogic/xml/WeblogicXMLRCEBullet.java,2069cd5c6487c32da3b22c72eb435d909aa557d6,CVE-2017-10271
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML2.java,2b86c8785a3806d3398f00ea504ce23ac7036e69,CVE-2017-10271
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML2.java,2b86c8785a3806d3398f00ea504ce23ac7036e69,CVE-2019-2725
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,36b6436304c057fac614cafc62fbc6d92065f98d,CVE-2017-10271
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,36b6436304c057fac614cafc62fbc6d92065f98d,CVE-2019-2725
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xstream/XMLMessagePacket.java,d97efdda0ee5a432532681bf55e3789a28ce1c87,CVE-2021-29505
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/bullets/weblogic/xml/WeblogicXMLJndiBullet.java,fdfd5436f0b13ca50959ea0171cf0101f0b05373,CVE-2019-2725
