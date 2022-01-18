@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+449349599,gengstah/bitbucket-path-traversal-rce,bitbucket-tarversal.py,798aa3b60dab1f5f5b4da0ff9f0907b9d6205847,CVE-2019-3397
+449349599,gengstah/bitbucket-path-traversal-rce,README.md,857d8bd928119d2598e51054655902b2859ff531,CVE-2019-3397
