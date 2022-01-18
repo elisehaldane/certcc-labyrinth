@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#34,0.33333333,https://github.com/jas502n/Log4j2-CVE-2021-44228,jas502n/Log4j2-CVE-2021-44228,436860437
 VU#34,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
 VU#34,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
 VU#34,0.05882353,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
