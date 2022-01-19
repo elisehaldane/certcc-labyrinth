@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2005-3299
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2007-6750
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2009-3733
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2010-2333
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2011-0966
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2012-0002
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2012-0152
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2012-1182
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,CVE-2017-0143
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,MS10-054
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,MS10-061
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,MS12-020
+449806826,ray-tracer96024/metasploitable3-win2k8,metasploitable3-nmap-script-vuln-scan.txt,424399251a40aa6082ca4c6bb5d1e603df4bc24a,MS17-010
