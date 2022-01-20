@@ -317,7 +317,6 @@ MS17-010,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasp
 MS17-010,0.00448430,https://github.com/Awrrays/MetaSploit-Moudule,Awrrays/MetaSploit-Moudule,379840207
 MS17-010,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS17-010,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
-MS17-010,0.00411523,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 MS17-010,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 MS17-010,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 MS17-010,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
@@ -354,6 +353,7 @@ MS17-010,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,2
 MS17-010,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/searchsploit_php,90531328
 MS17-010,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS17-010,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS17-010,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 MS17-010,0.00220751,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS17-010,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS17-010,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960

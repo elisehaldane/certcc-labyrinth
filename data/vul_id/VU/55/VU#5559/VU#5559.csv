@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#5559,0.33333333,https://github.com/dragonlost/nafabox_rce_2021,dragonlost/nafabox_rce_2021,428990979
+VU#5559,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
