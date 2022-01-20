@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.c,57ab9406468833234e87872f1f7e4b87ebc1dfa3,CVE-2011-1249
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.c,57ab9406468833234e87872f1f7e4b87ebc1dfa3,MS11-046
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.c,57ab9406468833234e87872f1f7e4b87ebc1dfa3,MS11-080
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.c,57ab9406468833234e87872f1f7e4b87ebc1dfa3,MS12-009
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.c,57ab9406468833234e87872f1f7e4b87ebc1dfa3,MS13-093
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.c,57ab9406468833234e87872f1f7e4b87ebc1dfa3,MS14-040
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/README.md,632dad73575d29c2b50d5eb63158b65c266883db,MS11-046
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.exe,de53a5dcfac79e167ef95ec7246ca373fcbb9e56,CVE-2011-1249
+450261345,rcs-tringuyen/working-exploit-poc,Windows/MS11-046/MS11-046.exe,de53a5dcfac79e167ef95ec7246ca373fcbb9e56,MS11-046
