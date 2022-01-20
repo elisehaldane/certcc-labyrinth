@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/19
     
-122 records found after deduplication
+123 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -15,7 +15,7 @@
 | Exunys/AirTeam-Hub | ROBLOX Script Hub | https://github.com/Exunys/AirTeam-Hub | ['exploit'] | 1 | 2022-01-19 00:50:05+00:00 | 92 | 1 | Lua | 0 | [] |
 | PainNonsense/PainExploit-ADMIN-COMMAND | None | https://github.com/PainNonsense/PainExploit-ADMIN-COMMAND | ['exploit'] | 1 | 2022-01-19 07:27:39+00:00 | 101 | 0 | HTML | 0 | [] |
 | PainNonsense/PainExploit-Shindo-Life | None | https://github.com/PainNonsense/PainExploit-Shindo-Life | ['exploit'] | 1 | 2022-01-19 07:27:23+00:00 | 73 | 0 | HTML | 0 | [] |
-| binganao/vulns-2022 | 本项目并不刻意搜集 POC 或 EXP，主要以CVE-2022为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-19 01:27:18+00:00 | 18 | 10 | | 1 | [] |
+| binganao/vulns-2022 | 本项目并不刻意搜集 POC 或 EXP，主要以CVE-2022为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-19 01:27:18+00:00 | 18 | 10 | nan | 1 | [] |
 | PainNonsense/PainExploit-Home | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | ['exploit'] | 1 | 2022-01-19 02:36:59+00:00 | 107 | 0 | HTML | 0 | [] |
 | PainNonsense/PainExploit-Scripts | None | https://github.com/PainNonsense/PainExploit-Scripts | ['exploit'] | 1 | 2022-01-19 02:40:51+00:00 | 1157 | 0 | HTML | 0 | [] |
 | inhack/damn-vernerable-defi-solutions | Damn Vulnerable DeFi(The offensive security playground for decentralized finances) Solutions - Contracts and Exploit Codes | https://github.com/inhack/damn-vernerable-defi-solutions | ['exploit'] | 1 | 2022-01-19 12:11:19+00:00 | 121 | 0 | Solidity | 0 | [] |
@@ -36,7 +36,7 @@
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-19 17:47:51+00:00 | 440 | 330 | PowerShell | 86 | ['CVE-2021-44228'] |
 | arnaudluti/PS-CVE-2021-44228 | Static detection of vulnerable log4j librairies on Windows servers, members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-19 08:31:33+00:00 | 848 | 0 | PowerShell | 1 | ['CVE-2021-44228'] |
 | PainNonsense/PainExploit-SubSploit | None | https://github.com/PainNonsense/PainExploit-SubSploit | ['exploit', 'sploit'] | 2 | 2022-01-19 07:26:39+00:00 | 40 | 0 | HTML | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-19 07:33:34+00:00 | 46476 | 860 | Python | 203 | [] |
+| darkxex/ps4 | exploit for PS4 9.0.0 + goldhen with cache. | https://github.com/darkxex/ps4 | ['exploit'] | 1 | 2022-01-19 00:25:10+00:00 | 696 | 0 | C# | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-01-19 04:53:09+00:00 | 1461 | 2 | | 0 | [] |
 | averywit/CS4501FinalProject | Received grade: 100%, Project weight: 40%, Description: Code utilized to exploit perceptual hashing algorithms, a main component of social media platforms. The purpose of this project was to display the lacking coverage perceptual hashing algorithms provid | https://github.com/averywit/CS4501FinalProject | ['exploit'] | 1 | 2022-01-19 23:11:00+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | Jbyford89/sudo-less-exploit | How to perform the `sudo less` exploit to gain root access in Linux terminal | https://github.com/Jbyford89/sudo-less-exploit | ['exploit'] | 1 | 2022-01-19 21:36:24+00:00 | 0 | 0 | | 0 | [] |
@@ -66,9 +66,9 @@
 | levcr/lev.wc32168.metasploit_v3 | todo | https://github.com/levcr/lev.wc32168.metasploit_v3 | ['metasploit module OR payload'] | 1 | 2022-01-19 04:01:16+00:00 | 0 | 0 | | 0 | [] |
 | PainNonsense/PainExploit-Dark-Hub | None | https://github.com/PainNonsense/PainExploit-Dark-Hub | ['exploit'] | 1 | 2022-01-19 02:36:35+00:00 | 0 | 0 | HTML | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-19 14:41:25+00:00 | 84 | 8 | | 3 | ['CVE-2021-44228'] |
-| darkxex/ps4 | exploit for PS4 9.0.0 + goldhen with cache. | https://github.com/darkxex/ps4 | ['exploit'] | 1 | 2022-01-19 00:25:10+00:00 | 696 | 0 | C# | 0 | [] |
 | qingtengyun/cve-2021-44228-qingteng-online-patch | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-19 09:07:14+00:00 | 79 | 25 | Java | 4 | ['CVE-2021-44228'] |
-| dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-19 09:58:35+00:00 | 3 | 1 | nan | 0 | ['CVE-2021-44228'] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-19 07:33:34+00:00 | 46476 | 860 | Python | 203 | [] |
+| Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2022-01-19 16:08:00+00:00 | 3211 | 24 | C | 14 | [] |
 | nerdsinspace/nocom-frontend | The No Comment web application frontend. | https://github.com/nerdsinspace/nocom-frontend | ['exploit'] | 1 | 2022-01-19 17:00:01+00:00 | 349 | 0 | TypeScript | 0 | [] |
 | nerdsinspace/nocom-http | The No Comment web application backend. | https://github.com/nerdsinspace/nocom-http | ['exploit'] | 1 | 2022-01-19 17:00:07+00:00 | 8892 | 0 | Java | 0 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-01-19 02:21:53+00:00 | 4189 | 4 | HTML | 0 | [] |
@@ -97,9 +97,9 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-19 05:08:54+00:00 | 241280 | 6753 | C | 1850 | [] |
 | pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-19 18:29:44+00:00 | 19042 | 483 | Ruby | 119 | [] |
 | Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-01-19 17:09:06+00:00 | 57 | 5 | JavaScript | 6 | [] |
-| Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2022-01-19 16:08:00+00:00 | 3211 | 24 | C | 14 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-01-19 12:35:30+00:00 | 8587 | 30 | Shell | 6 | [] |
-| gd-js/WEB-SECURITY | This repository is for unification of and tinkering with HTML, CSS, JS, SQL, C, ASM, Python, Protocols, Browsers, Single Page Applications, Web Exploitations, Penetrations, Cryptopgraphy, Binary Exploitations, Forensics and Reverse Engineering with focus o | https://github.com/gd-js/WEB-SECURITY | ['exploit'] | 1 | 2022-01-19 19:54:00+00:00 | 176 | 1 | C | 0 | [] |
+| dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-19 09:58:35+00:00 | 3 | 1 | | 0 | ['CVE-2021-44228'] |
+| gikabyte27/Pentest | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | ['exploit'] | 1 | 2022-01-19 11:39:24+00:00 | 4856 | 0 | Python | 0 | [] |
 | tr0uble-mAker/POC-bomber | 一款高威胁漏洞的POC/EXP集成框架，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-19 04:42:41+00:00 | 53628 | 112 | Python | 32 | [] |
 | u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-01-19 02:33:22+00:00 | 19825 | 0 | C | 0 | [] |
 | FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2022-01-19 08:41:50+00:00 | 65 | 17 | Python | 22 | [] |
@@ -108,12 +108,13 @@
 | Jun-5heng/CVE-2021-26084 | confluence远程代码执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-01-19 07:18:33+00:00 | 59 | 1 | Python | 0 | ['CVE-2021-26084'] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-01-19 19:06:13+00:00 | 218 | 303 | C# | 63 | [] |
 | glixzzy/blooket-hack | The Blooket Hack | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2022-01-19 02:31:32+00:00 | 2280 | 353 | JavaScript | 961 | [] |
+| FM35/Website | Website for my tech and photography exploits | https://github.com/FM35/Website | ['exploit'] | 1 | 2022-01-19 00:43:53+00:00 | 353884 | 0 | JavaScript | 0 | [] |
 | SQLab/CRAXplusplus | None | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-19 07:15:03+00:00 | 10427 | 30 | C++ | 3 | [] |
 | renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2022-01-19 10:14:52+00:00 | 69 | 0 | C | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-19 01:06:08+00:00 | 13070 | 2 | Python | 0 | [] |
 | AvexcitalScripts/RSU-GUI | Roblox exploiting script | https://github.com/AvexcitalScripts/RSU-GUI | ['exploit'] | 1 | 2022-01-19 19:36:14+00:00 | 27 | 0 | | 0 | [] |
+| gd-js/WEB-SECURITY | This repository is for unification of and tinkering with HTML, CSS, JS, SQL, C, ASM, Python, Protocols, Browsers, Single Page Applications, Web Exploitations, Penetrations, Cryptopgraphy, Binary Exploitations, Forensics and Reverse Engineering with focus o | https://github.com/gd-js/WEB-SECURITY | ['exploit'] | 1 | 2022-01-19 19:54:00+00:00 | 176 | 1 | C | 0 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-01-19 08:32:59+00:00 | 23 | 0 | | 0 | [] |
-| gikabyte27/Pentest | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | ['exploit'] | 1 | 2022-01-19 11:39:24+00:00 | 4856 | 0 | Python | 0 | [] |
 | adornerz/lightshot-exploit | Script that downloads random screenshots taken with lightshot app. | https://github.com/adornerz/lightshot-exploit | ['exploit'] | 1 | 2022-01-19 16:09:59+00:00 | 14 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-19 00:23:18+00:00 | 115134 | 284 | Python | 90 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-19 03:49:12+00:00 | 231589 | 65 | | 10 | [] |
