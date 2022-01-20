@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+450053162,semelnyk/CVE-2021-44228-ScannersListFromRF,README.md,1da70c9eedecdd94eb787cc01bb1021e94dd6e19,CVE-2021-44228
+450053162,semelnyk/CVE-2021-44228-ScannersListFromRF,_GITHUB_REPO_METADATA_,,CVE-2021-44228
