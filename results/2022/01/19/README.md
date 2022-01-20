@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/19
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -15,13 +15,13 @@
 | Exunys/AirTeam-Hub | ROBLOX Script Hub | https://github.com/Exunys/AirTeam-Hub | ['exploit'] | 1 | 2022-01-19 00:50:05+00:00 | 92 | 1 | Lua | 0 | [] |
 | PainNonsense/PainExploit-ADMIN-COMMAND | None | https://github.com/PainNonsense/PainExploit-ADMIN-COMMAND | ['exploit'] | 1 | 2022-01-19 07:27:39+00:00 | 101 | 0 | HTML | 0 | [] |
 | PainNonsense/PainExploit-Shindo-Life | None | https://github.com/PainNonsense/PainExploit-Shindo-Life | ['exploit'] | 1 | 2022-01-19 07:27:23+00:00 | 73 | 0 | HTML | 0 | [] |
-| binganao/vulns-2022 | 本项目并不刻意搜集 POC 或 EXP，主要以CVE-2022为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-19 01:27:18+00:00 | 18 | 10 | nan | 1 | [] |
+| binganao/vulns-2022 | 本项目并不刻意搜集 POC 或 EXP，主要以CVE-2022为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-19 01:27:18+00:00 | 18 | 10 | | 1 | [] |
 | PainNonsense/PainExploit-Home | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | ['exploit'] | 1 | 2022-01-19 02:36:59+00:00 | 107 | 0 | HTML | 0 | [] |
 | PainNonsense/PainExploit-Scripts | None | https://github.com/PainNonsense/PainExploit-Scripts | ['exploit'] | 1 | 2022-01-19 02:40:51+00:00 | 1157 | 0 | HTML | 0 | [] |
 | inhack/damn-vernerable-defi-solutions | Damn Vulnerable DeFi(The offensive security playground for decentralized finances) Solutions - Contracts and Exploit Codes | https://github.com/inhack/damn-vernerable-defi-solutions | ['exploit'] | 1 | 2022-01-19 12:11:19+00:00 | 121 | 0 | Solidity | 0 | [] |
 | rclancyc/trophy | TROPHY (Trust Region Optimization using Precision HierarchY) is a trust region method used for unconstrained optimization that exploits variable precision to reduce communication cost as well as memory and power consumption. | https://github.com/rclancyc/trophy | ['exploit'] | 1 | 2022-01-19 05:20:41+00:00 | 12 | 0 | Julia | 0 | [] |
 | Davidutuu1/HoodX | This is an paied Exploiting Gui for Hood Modded | https://github.com/Davidutuu1/HoodX | ['exploit'] | 1 | 2022-01-19 11:22:01+00:00 | 2794 | 0 | | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-19 07:33:34+00:00 | 46476 | 860 | Python | 203 | [] |
+| qingtengyun/cve-2021-44228-qingteng-online-patch | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-19 09:07:14+00:00 | 79 | 25 | Java | 4 | ['CVE-2021-44228'] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-19 01:07:16+00:00 | 8312 | 1 | Jupyter Notebook | 0 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-19 03:34:41+00:00 | 208 | 0 | HCL | 0 | [] |
 | maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-19 02:54:01+00:00 | 77 | 1 | Go | 0 | [] |
@@ -67,9 +67,9 @@
 | levcr/lev.wc32168.metasploit_v3 | todo | https://github.com/levcr/lev.wc32168.metasploit_v3 | ['metasploit module OR payload'] | 1 | 2022-01-19 04:01:16+00:00 | 0 | 0 | | 0 | [] |
 | PainNonsense/PainExploit-Dark-Hub | None | https://github.com/PainNonsense/PainExploit-Dark-Hub | ['exploit'] | 1 | 2022-01-19 02:36:35+00:00 | 0 | 0 | HTML | 0 | [] |
 | darkxex/ps4 | exploit for PS4 9.0.0 + goldhen with cache. | https://github.com/darkxex/ps4 | ['exploit'] | 1 | 2022-01-19 00:25:10+00:00 | 696 | 0 | C# | 0 | [] |
-| qingtengyun/cve-2021-44228-qingteng-online-patch | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-19 09:07:14+00:00 | 79 | 25 | Java | 4 | ['CVE-2021-44228'] |
 | dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-19 09:58:35+00:00 | 3 | 1 | | 0 | ['CVE-2021-44228'] |
-| Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-01-19 17:09:06+00:00 | 57 | 5 | JavaScript | 6 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-19 07:33:34+00:00 | 46476 | 860 | Python | 203 | [] |
+| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2022-01-19 23:27:23+00:00 | 26650 | 2492 | Python | 449 | [] |
 | nerdsinspace/nocom-http | The No Comment web application backend. | https://github.com/nerdsinspace/nocom-http | ['exploit'] | 1 | 2022-01-19 17:00:07+00:00 | 8892 | 0 | Java | 0 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-01-19 02:21:53+00:00 | 4189 | 4 | HTML | 0 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3 & 4 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-01-19 08:47:47+00:00 | 317355 | 44 | JavaScript | 15 | [] |
@@ -82,8 +82,9 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-01-19 04:21:27+00:00 | 35575 | 6367 | Vue | 1345 | [] |
 | TH3xACE/SUDO_KILLER | A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | ['exploit'] | 1 | 2022-01-19 09:54:40+00:00 | 6806 | 1425 | Shell | 200 | [] |
 | infosecn1nja/AD-Attack-Defense | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | ['exploit'] | 1 | 2022-01-19 12:29:01+00:00 | 429 | 3182 | | 830 | [] |
-| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2022-01-19 23:27:23+00:00 | 26650 | 2492 | Python | 449 | [] |
+| GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2022-01-19 18:34:34+00:00 | 190191 | 25 | C++ | 58 | [] |
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2022-01-19 15:44:10+00:00 | 1413 | 13 | JavaScript | 28 | [] |
+| tr0uble-mAker/POC-bomber | 一款高威胁漏洞的POC/EXP集成框架，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-19 04:42:41+00:00 | 53628 | 112 | Python | 32 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-01-19 07:36:40+00:00 | 292590 | 94 | Python | 14 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-01-19 00:49:43+00:00 | 3870 | 1070 | C | 171 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-19 00:16:53+00:00 | 221957 | 268 | Ruby | 78 | [] |
@@ -98,8 +99,8 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-19 05:08:54+00:00 | 241280 | 6753 | C | 1850 | [] |
 | pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-19 18:29:44+00:00 | 19042 | 483 | Ruby | 119 | [] |
 | nerdsinspace/nocom-frontend | The No Comment web application frontend. | https://github.com/nerdsinspace/nocom-frontend | ['exploit'] | 1 | 2022-01-19 17:00:01+00:00 | 349 | 0 | TypeScript | 0 | [] |
+| Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-01-19 17:09:06+00:00 | 57 | 5 | JavaScript | 6 | [] |
 | Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2022-01-19 16:08:00+00:00 | 3211 | 24 | C | 14 | [] |
-| tr0uble-mAker/POC-bomber | 一款高威胁漏洞的POC/EXP集成框架，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-19 04:42:41+00:00 | 53628 | 112 | Python | 32 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-01-19 12:35:30+00:00 | 8587 | 30 | Shell | 6 | [] |
 | u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-01-19 02:33:22+00:00 | 19825 | 0 | C | 0 | [] |
 | FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2022-01-19 08:41:50+00:00 | 65 | 17 | Python | 22 | [] |
