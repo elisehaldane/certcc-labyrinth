@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#15,0.16666667,https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo,BabooPan/Log4Shell-CVE-2021-44228-Demo,440722343
+VU#15,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
 VU#15,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
 VU#15,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
 VU#15,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
@@ -8,6 +9,7 @@ VU#15,0.02857143,https://github.com/hbs7/hbs.github.io,hbs7/hbs.github.io,441657
 VU#15,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
 VU#15,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
 VU#15,0.02857143,https://github.com/KameleonReloaded/leeful900,KameleonReloaded/leeful900,438099843
+VU#15,0.02631579,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#15,0.02325581,https://github.com/sinjeanmin/cvedetails_2020,sinjeanmin/cvedetails_2020,419696106
 VU#15,0.02272727,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#15,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch,artsking/linux-4.19.72_CVE-2020-14386_extrapatch,448747272
@@ -15,6 +17,7 @@ VU#15,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#15,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#15,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#15,0.02173913,https://github.com/sinjeanmin/cvedetails_2020_final,sinjeanmin/cvedetails_2020_final,424184998
+VU#15,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#15,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#15,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#15,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
@@ -34,6 +37,6 @@ VU#15,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#15,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#15,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 VU#15,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#15,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#15,0.00020404,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#15,0.00004660,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#15,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-59001,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 OSVDB-59001,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-59001,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 OSVDB-59001,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
@@ -77,4 +78,4 @@ OSVDB-59001,0.00021487,https://github.com/talentsec/metasploit,talentsec/metaspl
 OSVDB-59001,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 OSVDB-59001,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 OSVDB-59001,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-OSVDB-59001,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+OSVDB-59001,0.00020404,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

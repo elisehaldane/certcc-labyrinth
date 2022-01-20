@@ -3,11 +3,11 @@ MS14-025,1.00000000,https://github.com/mgoular/Powershell-Pentest,mgoular/Powers
 MS14-025,1.00000000,https://github.com/FancyDoesSecurity/BOMBEM,FancyDoesSecurity/BOMBEM,309483841
 MS14-025,1.00000000,https://github.com/Ondrik8/Post_exploit,Ondrik8/Post_exploit,230592082
 MS14-025,1.00000000,https://github.com/MaroGenio/Sysvol_Hunter,MaroGenio/Sysvol_Hunter,62271716
-MS14-025,0.33333333,https://github.com/gikabyte27/Pentest,gikabyte27/Pentest,300961124
 MS14-025,0.33333333,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
+MS14-025,0.25000000,https://github.com/gikabyte27/Pentest,gikabyte27/Pentest,300961124
 MS14-025,0.25000000,https://github.com/sbanks00700/Vulnerabilities-and-Exploitations,sbanks00700/Vulnerabilities-and-Exploitations,272962261
 MS14-025,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
-MS14-025,0.05882353,https://github.com/infosecn1nja/AD-Attack-Defense,infosecn1nja/AD-Attack-Defense,158092993
+MS14-025,0.05263158,https://github.com/infosecn1nja/AD-Attack-Defense,infosecn1nja/AD-Attack-Defense,158092993
 MS14-025,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS14-025,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
 MS14-025,0.00606061,https://github.com/oudb/exploit-db-papers,oudb/exploit-db-papers,67758688
@@ -92,5 +92,5 @@ MS14-025,0.00021487,https://github.com/talentsec/metasploit,talentsec/metasploit
 MS14-025,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 MS14-025,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 MS14-025,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS14-025,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-025,0.00020404,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-025,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

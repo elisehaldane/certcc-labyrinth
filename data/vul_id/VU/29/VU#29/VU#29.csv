@@ -10,6 +10,7 @@ VU#29,0.50000000,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#29,0.33333333,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093
 VU#29,0.16666667,https://github.com/Dviros/log4shell-possible-malware,Dviros/log4shell-possible-malware,437827313
 VU#29,0.16666667,https://github.com/samjcs/log4shell-possible-malware,samjcs/log4shell-possible-malware,437729597
+VU#29,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
 VU#29,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
 VU#29,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#29,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
@@ -35,6 +36,7 @@ VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#29,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#29,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#29,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#29,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
@@ -50,6 +52,7 @@ VU#29,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/The
 VU#29,0.00769231,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#29,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#29,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#29,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#29,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#29,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#29,0.00220751,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
@@ -58,5 +61,5 @@ VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Ex
 VU#29,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#29,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 VU#29,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00020404,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00004660,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

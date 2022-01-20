@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#99,0.33333333,https://github.com/mansstiv/eClass-Penetration-Testing,mansstiv/eClass-Penetration-Testing,423972679
 VU#99,0.33333333,https://github.com/AristiPap/E-Class_PenTesting,AristiPap/E-Class_PenTesting,388372065
 VU#99,0.33333333,https://github.com/saig599/PentestingResources,saig599/PentestingResources,351091436
+VU#99,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
 VU#99,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
 VU#99,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
 VU#99,0.11111111,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
@@ -14,6 +15,7 @@ VU#99,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webv
 VU#99,0.03225806,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#99,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 VU#99,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#99,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#99,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#99,0.01282051,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#99,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -28,5 +30,5 @@ VU#99,0.00220751,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#99,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#99,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#99,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#99,0.00020408,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#99,0.00020404,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#99,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
