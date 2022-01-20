@@ -1,23 +1,24 @@
 
 # Summary for results/2022/01/20
     
-45 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-20 05:09:01+00:00 | 241936 | 6758 | C | 1852 | [] |
-| anvbis/windows-shellcode | Windows shellcoding techniques. | https://github.com/anvbis/windows-shellcode | ['shellcode'] | 1 | 2022-01-20 03:45:58+00:00 | 21 | 0 | Python | 0 | [] |
+| s17179XTY/ICYExploitCheckData | ICY Exploit | https://github.com/s17179XTY/ICYExploitCheckData | ['exploit'] | 1 | 2022-01-20 07:19:31+00:00 | 1 | 1 | | 0 | [] |
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-01-20 03:30:44+00:00 | 2790 | 26 | Python | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-20 06:27:57+00:00 | 9772 | 1 | Jupyter Notebook | 0 | [] |
 | Jenderal92/Cgi-Exploit-Jp-Shell-Upload | Python 2.7 | https://github.com/Jenderal92/Cgi-Exploit-Jp-Shell-Upload | ['exploit'] | 1 | 2022-01-20 02:03:26+00:00 | 10 | 0 | | 0 | [] |
 | rclancyc/trophy | TROPHY (Trust Region Optimization using Precision HierarchY) is a trust region method used for unconstrained optimization that exploits variable precision to reduce communication cost as well as memory and power consumption. | https://github.com/rclancyc/trophy | ['exploit'] | 1 | 2022-01-20 07:21:09+00:00 | 367 | 0 | Python | 0 | [] |
 | Exunys/AirTeam-Hub | ROBLOX Script Hub | https://github.com/Exunys/AirTeam-Hub | ['exploit'] | 1 | 2022-01-20 02:03:08+00:00 | 146 | 1 | Lua | 0 | [] |
 | rodriguezcoding/HTB-Web-exploits | None | https://github.com/rodriguezcoding/HTB-Web-exploits | ['exploit'] | 1 | 2022-01-20 02:28:10+00:00 | 3 | 0 | JavaScript | 1 | [] |
+| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-01-20 07:40:22+00:00 | 8626 | 0 | PHP | 0 | [] |
 | antx-code/CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-20 02:04:05+00:00 | 18 | 265 | Python | 79 | ['CVE-2022-21907'] |
 | upal212/pkg-store | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-01-20 03:05:27+00:00 | 2698 | 3 | | 0 | [] |
 | pronsSec/IDOR-for-the-casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/pronsSec/IDOR-for-the-casual | ['exploit'] | 1 | 2022-01-20 02:31:45+00:00 | 45 | 0 | Jupyter Notebook | 0 | [] |
-| s17179XTY/ICYExploitCheckData | ICY Exploit | https://github.com/s17179XTY/ICYExploitCheckData | ['exploit'] | 1 | 2022-01-20 07:19:31+00:00 | 1 | 1 | | 0 | [] |
 | zhirobyte/WinExploit | None | https://github.com/zhirobyte/WinExploit | ['exploit'] | 1 | 2022-01-20 00:17:42+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-20 00:07:39+00:00 | 1534774 | 1555 | Python | 529 | [] |
 | tgp-top/D-Link-DIR-825 | D-Link DIR-825 have an unauthorized command injection vulnerability. | https://github.com/tgp-top/D-Link-DIR-825 | ['command injection'] | 1 | 2022-01-20 02:00:52+00:00 | 0 | 0 | nan | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-01-20 02:48:42+00:00 | 0 | 0 | | 0 | [] |
 | tungdo0602/Discord-Login-As-Bot-Script | Fixed by me | https://github.com/tungdo0602/Discord-Login-As-Bot-Script | ['exploit'] | 1 | 2022-01-20 03:28:10+00:00 | 0 | 0 | | 0 | [] |
@@ -26,9 +27,11 @@
 | 7wuza/Hikivision-backdoor-scanner-snapshot-saver | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/7wuza/Hikivision-backdoor-scanner-snapshot-saver | ['exploit'] | 1 | 2022-01-20 05:49:13+00:00 | 159 | 0 | Python | 0 | [] |
 | nitingpt000/exploit | None | https://github.com/nitingpt000/exploit | ['exploit'] | 1 | 2022-01-20 05:41:20+00:00 | 0 | 0 | | 0 | [] |
 | itzNuer/metasploit | Metasploiot and root access in Termux in 1 command!!!!!! | https://github.com/itzNuer/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-20 06:02:33+00:00 | 8 | 0 | | 0 | [] |
+| computer-engineer/Postgres-SQLi-RCE.js | PostgreSQL Large Objects and UDF (User Defined Functions) RCE exploit re-written in javascript, for easy chaining with XSS | https://github.com/computer-engineer/Postgres-SQLi-RCE.js | ['exploit', 'rce'] | 2 | 2022-01-20 07:08:40+00:00 | 4 | 0 | JavaScript | 0 | [] |
+| DS1NC-DesConnet/EvilMC | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | ['exploit'] | 1 | 2022-01-20 08:23:27+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | 0RaMsY0/ramsy | Exploitation Tool | https://github.com/0RaMsY0/ramsy | ['exploit'] | 1 | 2022-01-20 00:49:25+00:00 | 20 | 1 | Python | 0 | [] |
+| anvbis/windows-shellcode | Windows shellcoding techniques. | https://github.com/anvbis/windows-shellcode | ['shellcode'] | 1 | 2022-01-20 03:45:58+00:00 | 21 | 0 | Python | 0 | [] |
 | LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-01-20 02:13:06+00:00 | 1670 | 1 | C | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-20 00:07:39+00:00 | 1534774 | 1555 | Python | 529 | [] |
 | dnts3110/TryHackMe-Writeups | My TryHackMe writeups and notes | https://github.com/dnts3110/TryHackMe-Writeups | ['exploit'] | 1 | 2022-01-20 00:34:18+00:00 | 93 | 4 | | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-20 04:04:26+00:00 | 5818 | 4281 | Python | 574 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-20 00:17:53+00:00 | 221957 | 268 | Ruby | 78 | [] |
@@ -39,14 +42,16 @@
 | wyzxxz/jndi_tool | JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具 | https://github.com/wyzxxz/jndi_tool | ['rce'] | 1 | 2022-01-20 03:28:24+00:00 | 225861 | 1043 | | 250 | [] |
 | mm0r1/exploits | Pwn stuff. | https://github.com/mm0r1/exploits | ['exploit'] | 1 | 2022-01-20 01:23:18+00:00 | 19 | 1373 | PHP | 348 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-20 00:46:18+00:00 | 22918 | 26 | | 17 | [] |
+| rdomanski/Exploits_and_Advisories | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | ['exploit'] | 1 | 2022-01-20 08:04:08+00:00 | 3521 | 44 | Ruby | 8 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-20 00:03:50+00:00 | 461067 | 44 | | 20 | [] |
 | vital-information-resource-under-siege/PWN-Challenges | Writeups of some of the Binary Exploitation challenges that I have solved during CTF. | https://github.com/vital-information-resource-under-siege/PWN-Challenges | ['exploit'] | 1 | 2022-01-20 05:27:25+00:00 | 32641 | 6 | Python | 2 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-20 01:19:58+00:00 | 106 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2022-01-20 04:04:09+00:00 | 257031 | 70 | | 11 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-20 00:24:38+00:00 | 117988 | 285 | Python | 90 | [] |
+| G00Dway/DebugSploit | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | ['exploit', 'sploit'] | 2 | 2022-01-20 08:18:50+00:00 | 317 | 1 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-20 01:20:37+00:00 | 14809 | 2 | Python | 0 | [] |
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2022-01-20 04:38:06+00:00 | 22122 | 4 | Lua | 1 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-20 07:04:01+00:00 | 574 | 0 | C | 0 | [] |
 | computer-engineer/WSS-Race-Condition-Tester | Simple python script to test and exploit race condition vulnerabilities in websockets | https://github.com/computer-engineer/WSS-Race-Condition-Tester | ['exploit'] | 1 | 2022-01-20 06:07:03+00:00 | 2 | 0 | Python | 0 | [] |
 | Alexis-Melot/RCencoder | None | https://github.com/Alexis-Melot/RCencoder | ['rce'] | 1 | 2022-01-20 00:23:22+00:00 | 6740 | 0 | Python | 0 | [] |
-| computer-engineer/Postgres-SQLi-RCE.js | PostgreSQL Large Objects and UDF (User Defined Functions) RCE exploit re-written in javascript, for easy chaining with XSS | https://github.com/computer-engineer/Postgres-SQLi-RCE.js | ['exploit', 'rce'] | 2 | 2022-01-20 07:08:40+00:00 | 4 | 0 | JavaScript | 0 | [] |
+| merlineaudrey/SparkRepo | Exploitation des données de masse(Dataset) | https://github.com/merlineaudrey/SparkRepo | ['exploit'] | 1 | 2022-01-20 08:40:32+00:00 | 0 | 0 | | 0 | [] |
