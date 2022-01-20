@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/19
     
-123 records found after deduplication
+124 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-19 00:04:44+00:00 | 675730 | 26135 | Ruby | 11891 | [] |
-| PainNonsense/PainExploit-Shindo-Life-GUI | None | https://github.com/PainNonsense/PainExploit-Shindo-Life-GUI | ['exploit'] | 1 | 2022-01-19 07:27:00+00:00 | 49 | 0 | HTML | 0 | [] |
+| magicono43/DFU-Mod_Banking-Overhaul | Overhauls the banking system, making it less exploitable, as well as more detailed and interesting to use. | https://github.com/magicono43/DFU-Mod_Banking-Overhaul | ['exploit'] | 1 | 2022-01-19 02:38:01+00:00 | 28 | 0 | C# | 0 | [] |
 | mustakimur/UGA-SW-Vuln-Exploit-Disclosure | A repo where we gather good explanation of real-world sw vulnerabilities, their exploitation | https://github.com/mustakimur/UGA-SW-Vuln-Exploit-Disclosure | ['exploit'] | 1 | 2022-01-19 04:10:06+00:00 | 0 | 0 | C | 0 | [] |
 | antx-code/CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | ['cve-2 OR cve_2'] | 1 | 2022-01-19 13:06:17+00:00 | 18 | 243 | Python | 72 | ['CVE-2022-21907'] |
 | matin85-mkh/shadow-exploit | None | https://github.com/matin85-mkh/shadow-exploit | ['exploit'] | 1 | 2022-01-19 13:20:13+00:00 | 16 | 0 | | 0 | [] |
@@ -20,8 +20,8 @@
 | PainNonsense/PainExploit-Scripts | None | https://github.com/PainNonsense/PainExploit-Scripts | ['exploit'] | 1 | 2022-01-19 02:40:51+00:00 | 1157 | 0 | HTML | 0 | [] |
 | inhack/damn-vernerable-defi-solutions | Damn Vulnerable DeFi(The offensive security playground for decentralized finances) Solutions - Contracts and Exploit Codes | https://github.com/inhack/damn-vernerable-defi-solutions | ['exploit'] | 1 | 2022-01-19 12:11:19+00:00 | 121 | 0 | Solidity | 0 | [] |
 | rclancyc/trophy | TROPHY (Trust Region Optimization using Precision HierarchY) is a trust region method used for unconstrained optimization that exploits variable precision to reduce communication cost as well as memory and power consumption. | https://github.com/rclancyc/trophy | ['exploit'] | 1 | 2022-01-19 05:20:41+00:00 | 12 | 0 | Julia | 0 | [] |
-| magicono43/DFU-Mod_Banking-Overhaul | Overhauls the banking system, making it less exploitable, as well as more detailed and interesting to use. | https://github.com/magicono43/DFU-Mod_Banking-Overhaul | ['exploit'] | 1 | 2022-01-19 02:38:01+00:00 | 28 | 0 | C# | 0 | [] |
 | Davidutuu1/HoodX | This is an paied Exploiting Gui for Hood Modded | https://github.com/Davidutuu1/HoodX | ['exploit'] | 1 | 2022-01-19 11:22:01+00:00 | 2794 | 0 | | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-19 07:33:34+00:00 | 46476 | 860 | Python | 203 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-19 01:07:16+00:00 | 8312 | 1 | Jupyter Notebook | 0 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-19 03:34:41+00:00 | 208 | 0 | HCL | 0 | [] |
 | maxpoletaev/van | In-app command/event bus with dependency-injection | https://github.com/maxpoletaev/van | ['command injection'] | 1 | 2022-01-19 02:54:01+00:00 | 77 | 1 | Go | 0 | [] |
@@ -34,9 +34,10 @@
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-01-19 02:23:27+00:00 | 293 | 3 | Python | 3 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-19 19:42:24+00:00 | 193 | 0 | | 0 | [] |
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-19 17:47:51+00:00 | 440 | 330 | PowerShell | 86 | ['CVE-2021-44228'] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-19 14:41:25+00:00 | 84 | 8 | | 3 | ['CVE-2021-44228'] |
 | arnaudluti/PS-CVE-2021-44228 | Static detection of vulnerable log4j librairies on Windows servers, members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-19 08:31:33+00:00 | 848 | 0 | PowerShell | 1 | ['CVE-2021-44228'] |
+| PainNonsense/PainExploit-Shindo-Life-GUI | None | https://github.com/PainNonsense/PainExploit-Shindo-Life-GUI | ['exploit'] | 1 | 2022-01-19 07:27:00+00:00 | 49 | 0 | HTML | 0 | [] |
 | PainNonsense/PainExploit-SubSploit | None | https://github.com/PainNonsense/PainExploit-SubSploit | ['exploit', 'sploit'] | 2 | 2022-01-19 07:26:39+00:00 | 40 | 0 | HTML | 0 | [] |
-| darkxex/ps4 | exploit for PS4 9.0.0 + goldhen with cache. | https://github.com/darkxex/ps4 | ['exploit'] | 1 | 2022-01-19 00:25:10+00:00 | 696 | 0 | C# | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-01-19 04:53:09+00:00 | 1461 | 2 | | 0 | [] |
 | averywit/CS4501FinalProject | Received grade: 100%, Project weight: 40%, Description: Code utilized to exploit perceptual hashing algorithms, a main component of social media platforms. The purpose of this project was to display the lacking coverage perceptual hashing algorithms provid | https://github.com/averywit/CS4501FinalProject | ['exploit'] | 1 | 2022-01-19 23:11:00+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | Jbyford89/sudo-less-exploit | How to perform the `sudo less` exploit to gain root access in Linux terminal | https://github.com/Jbyford89/sudo-less-exploit | ['exploit'] | 1 | 2022-01-19 21:36:24+00:00 | 0 | 0 | | 0 | [] |
@@ -65,11 +66,10 @@
 | pronsSec/IDOR-for-the-casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/pronsSec/IDOR-for-the-casual | ['exploit'] | 1 | 2022-01-19 04:29:58+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | levcr/lev.wc32168.metasploit_v3 | todo | https://github.com/levcr/lev.wc32168.metasploit_v3 | ['metasploit module OR payload'] | 1 | 2022-01-19 04:01:16+00:00 | 0 | 0 | | 0 | [] |
 | PainNonsense/PainExploit-Dark-Hub | None | https://github.com/PainNonsense/PainExploit-Dark-Hub | ['exploit'] | 1 | 2022-01-19 02:36:35+00:00 | 0 | 0 | HTML | 0 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-19 14:41:25+00:00 | 84 | 8 | | 3 | ['CVE-2021-44228'] |
+| darkxex/ps4 | exploit for PS4 9.0.0 + goldhen with cache. | https://github.com/darkxex/ps4 | ['exploit'] | 1 | 2022-01-19 00:25:10+00:00 | 696 | 0 | C# | 0 | [] |
 | qingtengyun/cve-2021-44228-qingteng-online-patch | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-19 09:07:14+00:00 | 79 | 25 | Java | 4 | ['CVE-2021-44228'] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-19 07:33:34+00:00 | 46476 | 860 | Python | 203 | [] |
-| Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2022-01-19 16:08:00+00:00 | 3211 | 24 | C | 14 | [] |
-| nerdsinspace/nocom-frontend | The No Comment web application frontend. | https://github.com/nerdsinspace/nocom-frontend | ['exploit'] | 1 | 2022-01-19 17:00:01+00:00 | 349 | 0 | TypeScript | 0 | [] |
+| dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-19 09:58:35+00:00 | 3 | 1 | | 0 | ['CVE-2021-44228'] |
+| Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-01-19 17:09:06+00:00 | 57 | 5 | JavaScript | 6 | [] |
 | nerdsinspace/nocom-http | The No Comment web application backend. | https://github.com/nerdsinspace/nocom-http | ['exploit'] | 1 | 2022-01-19 17:00:07+00:00 | 8892 | 0 | Java | 0 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-01-19 02:21:53+00:00 | 4189 | 4 | HTML | 0 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3 & 4 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-01-19 08:47:47+00:00 | 317355 | 44 | JavaScript | 15 | [] |
@@ -82,6 +82,7 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-01-19 04:21:27+00:00 | 35575 | 6367 | Vue | 1345 | [] |
 | TH3xACE/SUDO_KILLER | A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | ['exploit'] | 1 | 2022-01-19 09:54:40+00:00 | 6806 | 1425 | Shell | 200 | [] |
 | infosecn1nja/AD-Attack-Defense | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | ['exploit'] | 1 | 2022-01-19 12:29:01+00:00 | 429 | 3182 | | 830 | [] |
+| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2022-01-19 23:27:23+00:00 | 26650 | 2492 | Python | 449 | [] |
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2022-01-19 15:44:10+00:00 | 1413 | 13 | JavaScript | 28 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-01-19 07:36:40+00:00 | 292590 | 94 | Python | 14 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-01-19 00:49:43+00:00 | 3870 | 1070 | C | 171 | [] |
@@ -96,11 +97,10 @@
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-01-19 18:08:07+00:00 | 60594 | 1174 | C | 561 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-19 05:08:54+00:00 | 241280 | 6753 | C | 1850 | [] |
 | pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-19 18:29:44+00:00 | 19042 | 483 | Ruby | 119 | [] |
-| Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-01-19 17:09:06+00:00 | 57 | 5 | JavaScript | 6 | [] |
-| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-01-19 12:35:30+00:00 | 8587 | 30 | Shell | 6 | [] |
-| dbgee/CVE-2021-44228 | Apache Log4j 2 a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-19 09:58:35+00:00 | 3 | 1 | | 0 | ['CVE-2021-44228'] |
-| gikabyte27/Pentest | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | ['exploit'] | 1 | 2022-01-19 11:39:24+00:00 | 4856 | 0 | Python | 0 | [] |
+| nerdsinspace/nocom-frontend | The No Comment web application frontend. | https://github.com/nerdsinspace/nocom-frontend | ['exploit'] | 1 | 2022-01-19 17:00:01+00:00 | 349 | 0 | TypeScript | 0 | [] |
+| Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2022-01-19 16:08:00+00:00 | 3211 | 24 | C | 14 | [] |
 | tr0uble-mAker/POC-bomber | 一款高威胁漏洞的POC/EXP集成框架，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-19 04:42:41+00:00 | 53628 | 112 | Python | 32 | [] |
+| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-01-19 12:35:30+00:00 | 8587 | 30 | Shell | 6 | [] |
 | u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-01-19 02:33:22+00:00 | 19825 | 0 | C | 0 | [] |
 | FuckingToasters/discord-group-spammer | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | ['exploit'] | 1 | 2022-01-19 08:41:50+00:00 | 65 | 17 | Python | 22 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-19 18:10:11+00:00 | 133 | 5 | | 0 | [] |
@@ -127,4 +127,5 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-19 10:19:48+00:00 | 42032 | 14 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-19 00:04:00+00:00 | 458514 | 44 | | 21 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-01-19 13:59:36+00:00 | 219711 | 166 | C | 37 | [] |
+| gikabyte27/Pentest | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | ['exploit'] | 1 | 2022-01-19 11:39:24+00:00 | 4856 | 0 | Python | 0 | [] |
 | e2002e/eSploit | cSploit upgraded | https://github.com/e2002e/eSploit | ['sploit'] | 1 | 2022-01-19 23:19:39+00:00 | 0 | 0 | | 0 | [] |
