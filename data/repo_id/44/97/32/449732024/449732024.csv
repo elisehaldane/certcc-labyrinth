@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 449732024,scheatkode/CVE-2018-18955,exploit.bash_completion.sh,08139dd12c5fd1e38457df70e2cec818df572115,CVE-2018-18955
 449732024,scheatkode/CVE-2018-18955,exploit.cron.sh,32f7e428da541c3dfeb6fd4a177183e754356eb3,CVE-2018-18955
+449732024,scheatkode/CVE-2018-18955,README.md,43efd7d42604bbfcd15a1dd966abd3bbb2564bbb,CVE-2018-18955
+449732024,scheatkode/CVE-2018-18955,README.md,43efd7d42604bbfcd15a1dd966abd3bbb2564bbb,GPZ-1712
 449732024,scheatkode/CVE-2018-18955,exploit.polkit.sh,9fb42f677f98850668f9a08be044f23ce1481592,CVE-2018-18955
 449732024,scheatkode/CVE-2018-18955,subshell.c,cc32362d283bc4fa2c1c8bff2bbbeed519fa9b7d,GPZ-1712
 449732024,scheatkode/CVE-2018-18955,subuid_shell.c,ce981dfa83da0e06ba07fe64153a669b2c0eb62a,CVE-2018-18955
