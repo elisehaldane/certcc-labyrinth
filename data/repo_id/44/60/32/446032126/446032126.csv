@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-446032126,cryptoforcecommand/log4j-cve-2021-44228,README.md,3aa088156ce0e825b05be91448b930075a4b394d,CVE-2021-44228
+446032126,cryptoforcecommand/log4j-cve-2021-44228,README.md,58e9eeda725f3fe3c08ed416cbaaa11735d73042,CVE-2021-26084
+446032126,cryptoforcecommand/log4j-cve-2021-44228,README.md,58e9eeda725f3fe3c08ed416cbaaa11735d73042,CVE-2021-34473
+446032126,cryptoforcecommand/log4j-cve-2021-44228,README.md,58e9eeda725f3fe3c08ed416cbaaa11735d73042,CVE-2021-44228
 446032126,cryptoforcecommand/log4j-cve-2021-44228,index.md-old,64df94dda9fa7d132285fd7c8286c2d642b753b1,CVE-2021-44228
 446032126,cryptoforcecommand/log4j-cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
