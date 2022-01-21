@@ -13,3 +13,4 @@ binganao/vulns-2022,本项目用于搜集 2022 年的漏洞，注意：本项目
 jaygoncalves/wrenches2exploits,Wrenches 2 Exploits is my personal blog detailing my journey from becoming a mechanic to a future ethical hacker,https://github.com/jaygoncalves/wrenches2exploits,['exploit'],1,2022-01-21T00:58:42+0000,0,0,,0,[]
 catiau/Rceita,nan,https://github.com/catiau/Rceita,['rce'],1,2022-01-21T01:17:27+0000,0,0,,0,[]
 caesar-exploit/caesar-exploit,Config files for my GitHub profile.,https://github.com/caesar-exploit/caesar-exploit,['exploit'],1,2022-01-21T01:41:36+0000,0,0,,0,[]
+l3eol3eo/CVE-2021-32099_SQLi,CVE-2021-32099 SQLi allow attacker bypass login,https://github.com/l3eol3eo/CVE-2021-32099_SQLi,['cve-2 OR cve_2'],1,2022-01-21T02:43:20+0000,0,0,,0,['CVE-2021-32099']
