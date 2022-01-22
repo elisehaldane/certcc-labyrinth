@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/22
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
@@ -14,10 +14,12 @@
 | LSouzaDev/ps4-900-webkit-exploit | None | https://github.com/LSouzaDev/ps4-900-webkit-exploit | ['exploit'] | 1 | 2022-01-22 01:50:44+00:00 | 0 | 0 | HTML | 0 | [] |
 | itzNuer/metasploit | Metasploiot and root access in Termux in 1 command!!!!!! | https://github.com/itzNuer/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-22 04:41:10+00:00 | 8 | 0 | | 0 | [] |
 | pronsSec/IDOR-for-the-casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/pronsSec/IDOR-for-the-casual | ['exploit'] | 1 | 2022-01-22 01:10:34+00:00 | 91 | 2 | Jupyter Notebook | 0 | [] |
+| HyukIsBack/Simple-Metasploit-Loader | Simple Metaexploit Loader | https://github.com/HyukIsBack/Simple-Metasploit-Loader | ['metasploit module OR payload'] | 1 | 2022-01-22 06:18:28+00:00 | 13 | 0 | C# | 0 | [] |
 | Exunys/AirTeam-Hub | ROBLOX Script Hub | https://github.com/Exunys/AirTeam-Hub | ['exploit'] | 1 | 2022-01-22 00:17:10+00:00 | 167 | 1 | Lua | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-22 01:05:49+00:00 | 9772 | 1 | Jupyter Notebook | 0 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-01-22 01:30:25+00:00 | 215 | 7 | Rust | 2 | [] |
 | tingzeng1208/demo-rce-frontend | nan | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-01-22 04:30:04+00:00 | 2232 | 0 | TypeScript | 1 | [] |
+| ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-01-22 06:42:11+00:00 | 716 | 1 | Ruby | 0 | [] |
 | dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2022-01-22 00:13:57+00:00 | 1454 | 0 | C | 0 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-22 04:12:03+00:00 | 655 | 31 | C++ | 3 | [] |
 | RoseSecurity/Anti-Virus-Evading-Payloads | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineer | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | ['exploit'] | 1 | 2022-01-22 05:29:48+00:00 | 5 | 52 | | 7 | [] |
