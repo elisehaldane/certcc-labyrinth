@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/22
     
-13 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-22 00:07:37+00:00 | 1534775 | 1556 | Python | 530 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-22 00:16:51+00:00 | 225028 | 268 | Ruby | 78 | [] |
+| Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2022-01-22 03:13:57+00:00 | 474 | 1091 | Perl | 463 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-22 00:46:19+00:00 | 23832 | 26 | | 17 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-22 00:04:42+00:00 | 465923 | 44 | | 20 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-22 01:06:46+00:00 | 18220 | 2 | Python | 0 | [] |
@@ -18,3 +19,5 @@
 | LSouzaDev/ps4-900-webkit-exploit | None | https://github.com/LSouzaDev/ps4-900-webkit-exploit | ['exploit'] | 1 | 2022-01-22 01:50:44+00:00 | 0 | 0 | HTML | 0 | [] |
 | AnxinCanada/Blook-Exploit-Bookmarklet | None | https://github.com/AnxinCanada/Blook-Exploit-Bookmarklet | ['exploit'] | 1 | 2022-01-22 01:56:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Discord-PrimeBot/Blooket-Bookmarklet-Exploit | None | https://github.com/Discord-PrimeBot/Blooket-Bookmarklet-Exploit | ['exploit'] | 1 | 2022-01-22 02:41:13+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| bad-skater/jsonbin-Store | Patches & Exploit | https://github.com/bad-skater/jsonbin-Store | ['exploit'] | 1 | 2022-01-22 03:22:28+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| bad-skater/Notes-Application | Exploit & Patches | https://github.com/bad-skater/Notes-Application | ['exploit'] | 1 | 2022-01-22 03:25:58+00:00 | 0 | 0 | JavaScript | 0 | [] |
