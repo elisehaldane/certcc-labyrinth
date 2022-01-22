@@ -1,10 +1,10 @@
 
 # Summary for results/2022/01/22
     
-11 records found after deduplication
+13 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-22 00:07:37+00:00 | 1534775 | 1556 | Python | 530 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-22 00:16:51+00:00 | 225028 | 268 | Ruby | 78 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-22 00:46:19+00:00 | 23832 | 26 | | 17 | [] |
@@ -16,3 +16,5 @@
 | Exunys/AirTeam-Hub | ROBLOX Script Hub | https://github.com/Exunys/AirTeam-Hub | ['exploit'] | 1 | 2022-01-22 00:17:10+00:00 | 167 | 1 | Lua | 0 | [] |
 | pronsSec/IDOR-for-the-casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/pronsSec/IDOR-for-the-casual | ['exploit'] | 1 | 2022-01-22 01:10:34+00:00 | 91 | 2 | Jupyter Notebook | 0 | [] |
 | LSouzaDev/ps4-900-webkit-exploit | None | https://github.com/LSouzaDev/ps4-900-webkit-exploit | ['exploit'] | 1 | 2022-01-22 01:50:44+00:00 | 0 | 0 | HTML | 0 | [] |
+| AnxinCanada/Blook-Exploit-Bookmarklet | None | https://github.com/AnxinCanada/Blook-Exploit-Bookmarklet | ['exploit'] | 1 | 2022-01-22 01:56:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| Discord-PrimeBot/Blooket-Bookmarklet-Exploit | None | https://github.com/Discord-PrimeBot/Blooket-Bookmarklet-Exploit | ['exploit'] | 1 | 2022-01-22 02:41:13+00:00 | 0 | 0 | JavaScript | 0 | [] |

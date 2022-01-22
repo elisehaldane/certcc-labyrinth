@@ -10,3 +10,5 @@ jgamblin/CISA_Enrichment,CISA Known Exploited Vulnerabilities Catalog Enrichment
 Exunys/AirTeam-Hub,ROBLOX Script Hub,https://github.com/Exunys/AirTeam-Hub,['exploit'],1,2022-01-22T00:17:10+0000,167,1,Lua,0,[]
 pronsSec/IDOR-for-the-casual,A casual IDOR exploiter that provides .csv files of url and status code. ,https://github.com/pronsSec/IDOR-for-the-casual,['exploit'],1,2022-01-22T01:10:34+0000,91,2,Jupyter Notebook,0,[]
 LSouzaDev/ps4-900-webkit-exploit,None,https://github.com/LSouzaDev/ps4-900-webkit-exploit,['exploit'],1,2022-01-22T01:50:44+0000,0,0,HTML,0,[]
+AnxinCanada/Blook-Exploit-Bookmarklet,None,https://github.com/AnxinCanada/Blook-Exploit-Bookmarklet,['exploit'],1,2022-01-22T01:56:46+0000,0,0,JavaScript,0,[]
+Discord-PrimeBot/Blooket-Bookmarklet-Exploit,None,https://github.com/Discord-PrimeBot/Blooket-Bookmarklet-Exploit,['exploit'],1,2022-01-22T02:41:13+0000,0,0,JavaScript,0,[]
