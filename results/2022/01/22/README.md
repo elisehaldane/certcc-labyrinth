@@ -1,13 +1,12 @@
 
 # Summary for results/2022/01/22
     
-55 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-22 05:37:13+00:00 | 22009 | 6281 | JavaScript | 1478 | [] |
-| LSouzaDev/ps4-900-webkit-exploit | None | https://github.com/LSouzaDev/ps4-900-webkit-exploit | ['exploit'] | 1 | 2022-01-22 01:50:44+00:00 | 0 | 0 | HTML | 0 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-22 10:07:59+00:00 | 89 | 8 | | 3 | ['CVE-2021-44228'] |
+| kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-22 14:55:02+00:00 | 39532 | 1184 | Python | 309 | ['CVE-2021-44228'] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-01-22 04:30:04+00:00 | 2232 | 0 | TypeScript | 1 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-01-22 01:30:25+00:00 | 215 | 7 | Rust | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-22 01:05:49+00:00 | 9772 | 1 | Jupyter Notebook | 0 | [] |
@@ -18,8 +17,8 @@
 | pronsSec/IDOR-for-the-casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/pronsSec/IDOR-for-the-casual | ['exploit'] | 1 | 2022-01-22 01:10:34+00:00 | 91 | 2 | Jupyter Notebook | 0 | [] |
 | itzNuer/metasploit | Metasploiot and root access in Termux in 1 command!!!!!! | https://github.com/itzNuer/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-22 04:41:10+00:00 | 8 | 0 | | 0 | [] |
 | Captaincrogs/weak-database-exploiter- | None | https://github.com/Captaincrogs/weak-database-exploiter- | ['exploit'] | 1 | 2022-01-22 14:03:58+00:00 | 1 | 0 | Python | 0 | [] |
+| LSouzaDev/ps4-900-webkit-exploit | None | https://github.com/LSouzaDev/ps4-900-webkit-exploit | ['exploit'] | 1 | 2022-01-22 01:50:44+00:00 | 0 | 0 | HTML | 0 | [] |
 | AnxinCanada/Blook-Exploit-Bookmarklet | None | https://github.com/AnxinCanada/Blook-Exploit-Bookmarklet | ['exploit'] | 1 | 2022-01-22 01:56:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| vishal501/Shellcode | nan | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2022-01-22 15:27:48+00:00 | 60602 | 0 | JavaScript | 0 | [] |
 | Discord-PrimeBot/Blooket-Bookmarklet-Exploit | None | https://github.com/Discord-PrimeBot/Blooket-Bookmarklet-Exploit | ['exploit'] | 1 | 2022-01-22 02:41:13+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | bad-skater/jsonbin-Store | Patches & Exploit | https://github.com/bad-skater/jsonbin-Store | ['exploit'] | 1 | 2022-01-22 03:22:28+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | bad-skater/Notes-Application | Exploit & Patches | https://github.com/bad-skater/Notes-Application | ['exploit'] | 1 | 2022-01-22 03:25:58+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -31,10 +30,12 @@
 | GandalfX65/Exploit-GandalfX | None | https://github.com/GandalfX65/Exploit-GandalfX | ['exploit'] | 1 | 2022-01-22 11:17:00+00:00 | 0 | 0 | | 0 | [] |
 | Coderx-Gamer/invincibility-hack | A fabric client-side mod for an invincibility exploit. | https://github.com/Coderx-Gamer/invincibility-hack | ['exploit'] | 1 | 2022-01-22 14:07:46+00:00 | 0 | 0 | Java | 0 | [] |
 | anonymansz/xmlrpc-bruteforcer | This script is a PoC for the "Brute Force Amplification Attack" exploit against XMLRPC interfaces | https://github.com/anonymansz/xmlrpc-bruteforcer | ['attack poc', 'exploit'] | 2 | 2022-01-22 14:59:32+00:00 | 0 | 0 | | 0 | [] |
-| kozmer/log4j-shell-poc | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. | https://github.com/kozmer/log4j-shell-poc | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-22 14:55:02+00:00 | 39532 | 1184 | Python | 309 | ['CVE-2021-44228'] |
-| ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-01-22 06:42:11+00:00 | 716 | 1 | Ruby | 0 | [] |
+| upal212/adguard-ps4-usersguide | 'Users Guide' via the help of AdGuard Home | https://github.com/upal212/adguard-ps4-usersguide | ['exploit'] | 1 | 2022-01-22 15:28:41+00:00 | 0 | 0 | | 0 | [] |
+| AleX77NP/RCE | Remote Code Execution skeleton in Go using Docker SDK. | https://github.com/AleX77NP/RCE | ['rce', 'remote code execution'] | 2 | 2022-01-22 15:56:19+00:00 | 0 | 0 | Go | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-22 10:07:59+00:00 | 89 | 8 | | 3 | ['CVE-2021-44228'] |
+| vishal501/Shellcode | nan | https://github.com/vishal501/Shellcode | ['shellcode'] | 1 | 2022-01-22 15:27:48+00:00 | 60602 | 0 | JavaScript | 0 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-22 07:16:35+00:00 | 32338 | 1044 | Python | 383 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-22 04:23:39+00:00 | 123131 | 290 | Python | 90 | [] |
+| ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-01-22 06:42:11+00:00 | 716 | 1 | Ruby | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-22 00:07:37+00:00 | 1534775 | 1556 | Python | 530 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-22 14:58:43+00:00 | 5366 | 3067 | Python | 676 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-01-22 11:35:04+00:00 | 72679 | 10630 | Jupyter Notebook | 1837 | [] |
@@ -46,8 +47,8 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-22 10:33:29+00:00 | 82962 | 14 | Python | 5 | [] |
 | NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2022-01-22 13:36:37+00:00 | 50 | 5 | Lua | 3 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-22 04:01:18+00:00 | 307910 | 71 | | 11 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-22 04:23:39+00:00 | 123131 | 290 | Python | 90 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2022-01-22 07:22:52+00:00 | 137 | 0 | | 0 | [] |
-| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-22 11:41:46+00:00 | 720 | 0 | C | 0 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-22 10:26:03+00:00 | 2034096 | 9 | | 5 | [] |
 | ikeohachidi/ikeoha | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | ['exploit'] | 1 | 2022-01-22 13:44:57+00:00 | 343 | 0 | Vue | 0 | [] |
 | xinerva/exploits | Any items for index | https://github.com/xinerva/exploits | ['exploit'] | 1 | 2022-01-22 12:36:49+00:00 | 152 | 1 | PHP | 0 | [] |
@@ -59,4 +60,5 @@
 | talsim/Exploit-Education | writeups of challenges in Exploit Education | https://github.com/talsim/Exploit-Education | ['exploit'] | 1 | 2022-01-22 14:26:26+00:00 | 1 | 0 | | 0 | [] |
 | dracoanguis/Systeme-Exploitation | None | https://github.com/dracoanguis/Systeme-Exploitation | ['exploit'] | 1 | 2022-01-22 00:13:57+00:00 | 1454 | 0 | C | 0 | [] |
 | alexplaygithub/Charasploit-Update-Database | This is the github repository which you receive exploit updates. | https://github.com/alexplaygithub/Charasploit-Update-Database | ['exploit'] | 1 | 2022-01-22 14:02:02+00:00 | 79656 | 0 | | 1 | [] |
-| upal212/adguard-ps4-usersguide | 'Users Guide' via the help of AdGuard Home | https://github.com/upal212/adguard-ps4-usersguide | ['exploit'] | 1 | 2022-01-22 15:28:41+00:00 | 0 | 0 | | 0 | [] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-22 11:41:46+00:00 | 720 | 0 | C | 0 | [] |
+| mrunkno3n/HackSploit | None | https://github.com/mrunkno3n/HackSploit | ['sploit'] | 1 | 2022-01-22 16:44:55+00:00 | 0 | 0 | | 0 | [] |
