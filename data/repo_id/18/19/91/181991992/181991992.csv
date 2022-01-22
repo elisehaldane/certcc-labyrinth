@@ -1,2 +1,11 @@
 repo_id,repo_full_name,file,file_sha1,match
-181991992,wvu-r7/metasploit-ctf-challenges,2019/2_of_diamonds/rq.dsk.gz,52057edb1f26e0f90105832d4a6bf4e44abc0e48,VU#74
+181991992,wvu/metasploit-ctf-challenges,2020/2_of_diamonds/rq.dsk.gz,52057edb1f26e0f90105832d4a6bf4e44abc0e48,VU#14
+181991992,wvu/metasploit-ctf-challenges,2020/2_of_diamonds/rq.dsk.gz,52057edb1f26e0f90105832d4a6bf4e44abc0e48,VU#74
+181991992,wvu/metasploit-ctf-challenges,2020/2_of_diamonds/rq.dsk.gz,52057edb1f26e0f90105832d4a6bf4e44abc0e48,VU#746
+181991992,wvu/metasploit-ctf-challenges,2020/2_of_diamonds/rq.dsk.gz,52057edb1f26e0f90105832d4a6bf4e44abc0e48,VU#93
+181991992,wvu/metasploit-ctf-challenges,2018/2_of_diamonds/rq.dsk.gz,808407f157108730cd85c1216cfbfd878a6bce12,VU#15
+181991992,wvu/metasploit-ctf-challenges,2018/2_of_diamonds/rq.dsk.gz,808407f157108730cd85c1216cfbfd878a6bce12,VU#33
+181991992,wvu/metasploit-ctf-challenges,2018/2_of_diamonds/rq.dsk.gz,808407f157108730cd85c1216cfbfd878a6bce12,VU#39
+181991992,wvu/metasploit-ctf-challenges,2018/2_of_diamonds/rq.dsk.gz,808407f157108730cd85c1216cfbfd878a6bce12,VU#65
+181991992,wvu/metasploit-ctf-challenges,2018/2_of_diamonds/rq.dsk.gz,808407f157108730cd85c1216cfbfd878a6bce12,VU#75
+181991992,wvu/metasploit-ctf-challenges,2020/king_of_spades/shrine.qcow2,dffb0fc7d695982a31ab84f42a97e410e05fe623,VU#27
