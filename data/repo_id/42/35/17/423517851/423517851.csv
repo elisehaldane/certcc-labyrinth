@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+423517851,sharkmoos/Baron-Samedit,README.md,2329cbce867b580300aea9f810947439c0b48ade,CVE-2021-3156
+423517851,sharkmoos/Baron-Samedit,sudo-1.8.27/NEWS,be146d4054b4ff1f9fb98e91e66062b9b50bb9cc,CVE-2017-1000367
+423517851,sharkmoos/Baron-Samedit,_GITHUB_REPO_METADATA_,,CVE-2021-3156
