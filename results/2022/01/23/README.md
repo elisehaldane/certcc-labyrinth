@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/23
     
-26 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-23 00:07:40+00:00 | 1534779 | 1556 | Python | 530 | [] |
-| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-23 00:40:47+00:00 | 17719 | 1823 | C++ | 303 | [] |
+| Nwqda/snitchyScript | A malicious JavaScript script that exploit XSS vulnerabilities in a modern way using steganography technique and Telegram. | https://github.com/Nwqda/snitchyScript | ['exploit'] | 1 | 2022-01-23 05:47:50+00:00 | 91 | 2 | HTML | 0 | [] |
+| glowbase/CVE-2019-19609 | Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609) | https://github.com/glowbase/CVE-2019-19609 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-23 05:34:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-18818', 'CVE-2019-19609'] |
 | kingszhaif/AbsoZed | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/kingszhaif/AbsoZed | ['exploit'] | 1 | 2022-01-23 05:02:54+00:00 | 0 | 0 | Python | 0 | [] |
 | naren2844/Web-Exploitation | None | https://github.com/naren2844/Web-Exploitation | ['exploit'] | 1 | 2022-01-23 03:08:22+00:00 | 0 | 0 | HTML | 0 | [] |
 | ace10102/QuickStop | Brute force prevention for numerous dupe exploits via disabling quickswapping | https://github.com/ace10102/QuickStop | ['exploit'] | 1 | 2022-01-23 02:31:14+00:00 | 0 | 0 | | 0 | [] |
@@ -19,6 +20,7 @@
 | natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-01-23 01:35:27+00:00 | 44 | 5 | Python | 2 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-01-23 02:19:36+00:00 | 67 | 2 | Python | 0 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2022-01-23 04:10:40+00:00 | 45 | 5 | Java | 0 | [] |
+| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-23 00:40:47+00:00 | 17719 | 1823 | C++ | 303 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-01-23 03:31:40+00:00 | 159 | 10 | Python | 5 | [] |
 | prodseanb/vsftpd-3.0.3-DoS | vsftpd 3.0.3 Exploit - Remote Denial of Service | https://github.com/prodseanb/vsftpd-3.0.3-DoS | ['exploit'] | 1 | 2022-01-23 02:48:47+00:00 | 3 | 1 | Python | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-23 01:09:44+00:00 | 19913 | 2 | Python | 0 | [] |
@@ -26,8 +28,9 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-23 04:04:01+00:00 | 270539 | 71 | | 11 | [] |
 | Lesking72/ps4 | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | ['exploit'] | 1 | 2022-01-23 02:21:31+00:00 | 3778 | 0 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-23 00:04:32+00:00 | 434142 | 44 | | 20 | [] |
+| moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-01-23 05:50:54+00:00 | 649 | 125 | Java | 25 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2022-01-23 05:23:31+00:00 | 5168 | 2 | | 1 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2022-01-23 02:06:30+00:00 | 16632 | 1046 | PowerShell | 247 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-01-23 00:40:42+00:00 | 3983 | 1077 | C | 173 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-23 00:16:50+00:00 | 225028 | 268 | Ruby | 78 | [] |
-| glowbase/CVE-2019-19609 | Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609) | https://github.com/glowbase/CVE-2019-19609 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-23 05:34:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-18818', 'CVE-2019-19609'] |
+| charlescabbage/dll-injector | A command line DLL injector using Reflective DLL Injection technique. | https://github.com/charlescabbage/dll-injector | ['command injection'] | 1 | 2022-01-23 06:13:50+00:00 | 0 | 0 | C++ | 0 | [] |
