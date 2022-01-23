@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/23
     
-29 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
@@ -18,9 +18,10 @@
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-01-23 00:50:19+00:00 | 95 | 0 | Makefile | 0 | [] |
 | itzNuer/metasploit | Metasploiot and root access in Termux in 1 command!!!!!! | https://github.com/itzNuer/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-23 04:31:03+00:00 | 37 | 0 | | 0 | [] |
 | natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-01-23 01:35:27+00:00 | 44 | 5 | Python | 2 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-23 07:13:53+00:00 | 25043 | 261 | Python | 99 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-01-23 02:19:36+00:00 | 67 | 2 | Python | 0 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2022-01-23 04:10:40+00:00 | 45 | 5 | Java | 0 | [] |
-| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-23 00:40:47+00:00 | 17719 | 1823 | C++ | 303 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-23 07:22:59+00:00 | 5383 | 3069 | Python | 676 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-01-23 03:31:40+00:00 | 159 | 10 | Python | 5 | [] |
 | prodseanb/vsftpd-3.0.3-DoS | vsftpd 3.0.3 Exploit - Remote Denial of Service | https://github.com/prodseanb/vsftpd-3.0.3-DoS | ['exploit'] | 1 | 2022-01-23 02:48:47+00:00 | 3 | 1 | Python | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-23 01:09:44+00:00 | 19913 | 2 | Python | 0 | [] |
@@ -33,4 +34,5 @@
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2022-01-23 02:06:30+00:00 | 16632 | 1046 | PowerShell | 247 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-01-23 00:40:42+00:00 | 3983 | 1077 | C | 173 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-23 00:16:50+00:00 | 225028 | 268 | Ruby | 78 | [] |
+| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-23 00:40:47+00:00 | 17719 | 1823 | C++ | 303 | [] |
 | charlescabbage/dll-injector | A command line DLL injector using Reflective DLL Injection technique. | https://github.com/charlescabbage/dll-injector | ['command injection'] | 1 | 2022-01-23 06:13:50+00:00 | 0 | 0 | C++ | 0 | [] |
