@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/23
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-23 09:10:21+00:00 | 22206 | 6282 | JavaScript | 1478 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-23 10:33:31+00:00 | 91 | 8 | | 3 | ['CVE-2021-44228'] |
+| DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-01-23 10:54:11+00:00 | 2244 | 2 | C | 1 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-01-23 09:38:02+00:00 | 60288 | 0 | CSS | 0 | [] |
 | natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-01-23 01:35:27+00:00 | 44 | 5 | Python | 2 | [] |
 | mashahzad/Network-Security | These consist of projects and practical in the field of Network security | https://github.com/mashahzad/Network-Security | ['metasploit module OR payload'] | 1 | 2022-01-23 12:26:18+00:00 | 45 | 1 | | 0 | [] |
@@ -34,7 +35,8 @@
 | RCEcom/RCEcom | None | https://github.com/RCEcom/RCEcom | ['rce'] | 1 | 2022-01-23 12:45:58+00:00 | 0 | 0 | | 0 | [] |
 | BrianBarakaKasamba/Offensive-Python | Python for exploits. | https://github.com/BrianBarakaKasamba/Offensive-Python | ['exploit'] | 1 | 2022-01-23 12:40:48+00:00 | 0 | 0 | Python | 0 | [] |
 | ExploitCN/CVE-2021-1732-EXP- | 对1909下windows版本的EXP进行分析，并对代码添加调试和注释 | https://github.com/ExploitCN/CVE-2021-1732-EXP- | ['cve-2 OR cve_2'] | 1 | 2022-01-23 12:43:33+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-1732'] |
-| DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-01-23 10:54:11+00:00 | 2244 | 2 | C | 1 | [] |
+| Dani-Hacker/exploiter-web | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | ['exploit'] | 1 | 2022-01-23 12:42:33+00:00 | 0 | 0 | | 0 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-23 13:38:37+00:00 | 199 | 0 | | 0 | [] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-23 12:44:34+00:00 | 12769 | 150 | Python | 33 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-23 00:07:40+00:00 | 1534779 | 1556 | Python | 530 | [] |
 | ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-01-23 07:54:28+00:00 | 718 | 1 | Ruby | 0 | [] |
@@ -48,6 +50,7 @@
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-01-23 08:41:35+00:00 | 1296 | 6 | Rust | 3 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-23 12:33:49+00:00 | 1521683 | 3931 | PowerShell | 1382 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-01-23 05:50:54+00:00 | 649 | 125 | Java | 25 | [] |
+| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-01-23 13:20:57+00:00 | 3905214 | 2 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-23 00:04:32+00:00 | 434142 | 44 | | 20 | [] |
 | vital-information-resource-under-siege/PWN-Challenges | Writeups of some of the Binary Exploitation challenges that I have solved during CTF. | https://github.com/vital-information-resource-under-siege/PWN-Challenges | ['exploit'] | 1 | 2022-01-23 10:22:04+00:00 | 39091 | 6 | Python | 2 | [] |
 | Lesking72/ps4 | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | ['exploit'] | 1 | 2022-01-23 02:21:31+00:00 | 3778 | 0 | JavaScript | 0 | [] |
@@ -62,7 +65,8 @@
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2022-01-23 04:10:40+00:00 | 45 | 5 | Java | 0 | [] |
 | Nwqda/snitchyScript | A malicious JavaScript script that exploit XSS vulnerabilities in a modern way using steganography technique and Telegram. | https://github.com/Nwqda/snitchyScript | ['exploit'] | 1 | 2022-01-23 05:47:50+00:00 | 91 | 2 | HTML | 0 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-01-23 09:47:41+00:00 | 241 | 305 | C# | 63 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-01-23 12:51:55+00:00 | 25780 | 35 | Rust | 6 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-01-23 02:19:36+00:00 | 67 | 2 | Python | 0 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-01-23 12:13:41+00:00 | 102 | 0 | C | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-23 07:13:53+00:00 | 25043 | 261 | Python | 99 | [] |
-| Dani-Hacker/exploiter-web | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | ['exploit'] | 1 | 2022-01-23 12:42:33+00:00 | 0 | 0 | | 0 | [] |
+| EsharkyTheGreat/Kernel-Exploitation | None | https://github.com/EsharkyTheGreat/Kernel-Exploitation | ['exploit'] | 1 | 2022-01-23 13:25:15+00:00 | 0 | 0 | C | 0 | [] |
