@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS11-046,0.50000000,https://github.com/ROBSAUCE/Compiled-Exploits,ROBSAUCE/Compiled-Exploits,157931900
 MS11-046,0.25000000,https://github.com/rad10/SearchSploit.py,rad10/SearchSploit.py,211869171
+MS11-046,0.16666667,https://github.com/rcs-tringuyen/working-exploit-poc,rcs-tringuyen/working-exploit-poc,450261345
 MS11-046,0.16666667,https://github.com/3hydraking/CVE-2011-1249,3hydraking/CVE-2011-1249,384774726
 MS11-046,0.16666667,https://github.com/nullarmor/hackthebox-exploits,nullarmor/hackthebox-exploits,243875577
 MS11-046,0.16666667,https://github.com/davidp37/wannazot,davidp37/wannazot,207142074
@@ -76,7 +77,7 @@ MS11-046,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/search
 MS11-046,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS11-046,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
 MS11-046,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-MS11-046,0.00220751,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+MS11-046,0.00220264,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS11-046,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS11-046,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS11-046,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479

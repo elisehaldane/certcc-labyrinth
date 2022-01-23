@@ -9,11 +9,13 @@ VU#09,0.33333333,https://github.com/go-bi/CVE-2019-0708-EXP-Windows,go-bi/CVE-20
 VU#09,0.33333333,https://github.com/cbwang505/CVE-2019-0708-EXP-Windows,cbwang505/CVE-2019-0708-EXP-Windows,235239045
 VU#09,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
 VU#09,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/CVE-2021-28750-site,444335154
+VU#09,0.11111111,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#09,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#09,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
 VU#09,0.09090909,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
 VU#09,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
 VU#09,0.05882353,https://github.com/SQLab/CRAXplusplus,SQLab/CRAXplusplus,401678100
+VU#09,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#09,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
 VU#09,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#09,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
@@ -39,7 +41,7 @@ VU#09,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#09,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#09,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#09,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-VU#09,0.00220751,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#09,0.00220264,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#09,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#09,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#09,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209

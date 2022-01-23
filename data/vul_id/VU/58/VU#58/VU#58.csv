@@ -1,12 +1,13 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#58,1.00000000,https://github.com/non778899TH/gamefreebykaiice,non778899TH/gamefreebykaiice,435394074
 VU#58,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
+VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorship-2,cirosantilli/china-dictatorship-2,397523094
 VU#58,0.33333333,https://github.com/acecilia/OpenWRTInvasion,acecilia/OpenWRTInvasion,248380503
+VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorship,cirosantilli/china-dictatorship,33331247
 VU#58,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
 VU#58,0.20000000,https://github.com/AkmHasan/Ethical-Hacking-Final-Project_AKM-HASAN,AkmHasan/Ethical-Hacking-Final-Project_AKM-HASAN,433080139
 VU#58,0.20000000,https://github.com/adrelanos/lkrg,adrelanos/lkrg,221547218
 VU#58,0.11111111,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
-VU#58,0.09090909,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
 VU#58,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,436316308
 VU#58,0.02857143,https://github.com/hbs7/hbs.github.io,hbs7/hbs.github.io,441657025
 VU#58,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -27,7 +28,7 @@ VU#58,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/The
 VU#58,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#58,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#58,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-VU#58,0.00220751,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#58,0.00220264,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#58,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#58,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#58,0.00004660,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
