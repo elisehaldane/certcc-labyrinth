@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+451168050,ameetsaahu/Kernel-exploitation,ips/client/initramfs.cpio.gz,09885c8aafdf1f15d199146a4701b261d5ae0617,VU#30
+451168050,ameetsaahu/Kernel-exploitation,ips/client/initramfs.cpio.gz,09885c8aafdf1f15d199146a4701b261d5ae0617,VU#77
+451168050,ameetsaahu/Kernel-exploitation,easy-kernel/bzImage,86a6577fd702fd1c26af20ec832bc496c444d37b,VU#07
+451168050,ameetsaahu/Kernel-exploitation,easy-kernel/bzImage,86a6577fd702fd1c26af20ec832bc496c444d37b,VU#69
+451168050,ameetsaahu/Kernel-exploitation,ips/ips.tar.gz,94db48b8acbb320af7a6bf7b536e2a0dddc32c6d,VU#43
+451168050,ameetsaahu/Kernel-exploitation,ips/ips.tar.gz,94db48b8acbb320af7a6bf7b536e2a0dddc32c6d,VU#58
+451168050,ameetsaahu/Kernel-exploitation,ips/ips.tar.gz,94db48b8acbb320af7a6bf7b536e2a0dddc32c6d,VU#69
