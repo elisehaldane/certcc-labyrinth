@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/24
     
-106 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-24 10:40:30+00:00 | 675401 | 26179 | Ruby | 11907 | [] |
-| anonymansz/xmlrpc-bruteforcer | This script is a PoC for the "Brute Force Amplification Attack" exploit against XMLRPC interfaces | https://github.com/anonymansz/xmlrpc-bruteforcer | ['attack poc', 'exploit'] | 2 | 2022-01-24 10:34:17+00:00 | 0 | 0 | nan | 0 | [] |
+| byth22/Exploits | None | https://github.com/byth22/Exploits | ['exploit'] | 1 | 2022-01-24 15:33:01+00:00 | 6 | 0 | Python | 0 | [] |
+| jcarabantes/CVE-2022-23046 | None | https://github.com/jcarabantes/CVE-2022-23046 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 17:29:09+00:00 | 72 | 0 | Python | 0 | ['CVE-2022-23046'] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-01-24 03:51:41+00:00 | 279 | 0 | Python | 0 | [] |
 | gregxsunday/homebrew-rce-labs-test | None | https://github.com/gregxsunday/homebrew-rce-labs-test | ['rce'] | 1 | 2022-01-24 08:28:36+00:00 | 12 | 0 | Ruby | 0 | [] |
 | kush-js/rce-backend | None | https://github.com/kush-js/rce-backend | ['rce'] | 1 | 2022-01-24 17:32:29+00:00 | 58 | 0 | | 0 | [] |
@@ -16,9 +17,9 @@
 | bitterzzZZ/CVE-2021-43297-POC | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-01-24 11:24:56+00:00 | 360 | 4 | Java | 7 | ['CVE-2021-43297'] |
 | matin85-mkh/shadow-exploit | None | https://github.com/matin85-mkh/shadow-exploit | ['exploit'] | 1 | 2022-01-24 10:28:21+00:00 | 23 | 0 | | 0 | [] |
 | DeadlyHollows/Redis-Exploitation-Toolkit | Redis Exploitation Toolkit - A tool to pwn Redis server before the bad guys do! | https://github.com/DeadlyHollows/Redis-Exploitation-Toolkit | ['exploit'] | 1 | 2022-01-24 15:51:39+00:00 | 465 | 0 | C | 0 | [] |
-| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以 CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-24 05:28:04+00:00 | 30 | 39 | | 4 | [] |
-| byth22/Exploits | None | https://github.com/byth22/Exploits | ['exploit'] | 1 | 2022-01-24 15:33:01+00:00 | 6 | 0 | Python | 0 | [] |
+| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以 CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-24 05:28:04+00:00 | 30 | 39 | nan | 4 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-24 15:45:39+00:00 | 12631 | 1 | Jupyter Notebook | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-24 04:21:24+00:00 | 22217 | 6282 | JavaScript | 1478 | [] |
 | 25-67/rblx-exploiting | None | https://github.com/25-67/rblx-exploiting | ['exploit'] | 1 | 2022-01-24 10:31:35+00:00 | 4 | 0 | | 0 | [] |
 | Soup-tech/0day | None | https://github.com/Soup-tech/0day | ['0day'] | 1 | 2022-01-24 06:04:48+00:00 | 6593 | 0 | C | 0 | [] |
 | casagency/metasploit-CVE | None | https://github.com/casagency/metasploit-CVE | ['metasploit module OR payload'] | 1 | 2022-01-24 16:42:13+00:00 | 11 | 0 | Python | 0 | [] |
@@ -30,9 +31,9 @@
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-01-24 01:23:21+00:00 | 560 | 4 | C++ | 1 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-24 10:32:24+00:00 | 93 | 8 | | 3 | ['CVE-2021-44228'] |
 | tobiasoed/log4j-CVE-2021-44228 | None | https://github.com/tobiasoed/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 07:15:03+00:00 | 28 | 0 | Shell | 0 | ['CVE-2021-44228'] |
-| jcarabantes/CVE-2022-23046 | None | https://github.com/jcarabantes/CVE-2022-23046 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 17:29:09+00:00 | 72 | 0 | Python | 0 | ['CVE-2022-23046'] |
+| ilol1337/Fivem-Exploitation-Library | FiveM Exploitation Library. FiveM and Discord tool | https://github.com/ilol1337/Fivem-Exploitation-Library | ['exploit'] | 1 | 2022-01-24 20:09:35+00:00 | 8 | 0 | Python | 0 | [] |
+| anonymansz/xmlrpc-bruteforcer | This script is a PoC for the "Brute Force Amplification Attack" exploit against XMLRPC interfaces | https://github.com/anonymansz/xmlrpc-bruteforcer | ['attack poc', 'exploit'] | 2 | 2022-01-24 10:34:17+00:00 | 0 | 0 | Python | 0 | [] |
 | ps4md/ps4md.github.io | LW PS4 Exploit 9.00FW | https://github.com/ps4md/ps4md.github.io | ['exploit'] | 1 | 2022-01-24 15:09:19+00:00 | 770 | 0 | JavaScript | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-24 04:21:24+00:00 | 22217 | 6282 | JavaScript | 1478 | [] |
 | Itzme-lucifer/MetaV-sploit | None | https://github.com/Itzme-lucifer/MetaV-sploit | ['sploit'] | 1 | 2022-01-24 03:03:56+00:00 | 0 | 0 | Python | 0 | [] |
 | casualdegenerate/Exploits | Please patch these | https://github.com/casualdegenerate/Exploits | ['exploit'] | 1 | 2022-01-24 18:41:24+00:00 | 0 | 0 | Lua | 0 | [] |
 | MrFalconn/Slider-Revolution-exploit | Slider Revolution exploit code | https://github.com/MrFalconn/Slider-Revolution-exploit | ['exploit'] | 1 | 2022-01-24 17:59:31+00:00 | 0 | 0 | Python | 0 | [] |
@@ -60,7 +61,7 @@
 | 0e0w/CodeQL | 《深入理解0day挖掘神器CodeQL》 | https://github.com/0e0w/CodeQL | ['0day'] | 1 | 2022-01-24 15:26:04+00:00 | 553 | 2 | | 1 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-24 01:59:54+00:00 | 37549 | 261 | JavaScript | 99 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-01-24 15:00:38+00:00 | 22254 | 0 | CSS | 0 | [] |
-| tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-24 07:51:54+00:00 | 53636 | 115 | Python | 32 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-24 10:32:37+00:00 | 82999 | 14 | Python | 5 | [] |
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2022-01-24 13:01:12+00:00 | 16285 | 21 | PowerShell | 9 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-01-24 17:56:27+00:00 | 45 | 0 | | 0 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-01-24 12:39:21+00:00 | 668 | 125 | Java | 24 | [] |
@@ -85,21 +86,22 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-01-24 15:25:57+00:00 | 12572 | 4270 | Python | 604 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-01-24 10:39:45+00:00 | 46523 | 860 | Python | 203 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-24 00:04:07+00:00 | 434633 | 45 | | 20 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-24 10:32:37+00:00 | 82999 | 14 | Python | 5 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-01-24 17:28:14+00:00 | 5967 | 5 | Go | 2 | [] |
-| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-24 08:02:29+00:00 | 2034572 | 10 | | 5 | [] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-24 07:51:54+00:00 | 53636 | 115 | Python | 32 | [] |
+| Passive/discord-exploits | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | ['exploit'] | 1 | 2022-01-24 02:30:10+00:00 | 25 | 9 | Python | 2 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-24 14:59:34+00:00 | 762 | 0 | C | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-24 18:10:03+00:00 | 185 | 5 | | 0 | [] |
 | exploitact/exploitnews | None | https://github.com/exploitact/exploitnews | ['exploit'] | 1 | 2022-01-24 01:20:02+00:00 | 1092 | 0 | HTML | 0 | [] |
 | Anonyme35/vulnerability_system-finder | Will extract all software and version from the system and try to find an exploit. | https://github.com/Anonyme35/vulnerability_system-finder | ['exploit'] | 1 | 2022-01-24 08:03:55+00:00 | 4422 | 0 | Python | 0 | [] |
 | hamza07-w/Exploit-Development | None | https://github.com/hamza07-w/Exploit-Development | ['exploit'] | 1 | 2022-01-24 15:22:37+00:00 | 13532 | 3 | Python | 0 | [] |
+| icyguider/Shhhloader | SysWhispers Shellcode Loader (Work in Progress) | https://github.com/icyguider/Shhhloader | ['shellcode'] | 1 | 2022-01-24 20:12:44+00:00 | 31 | 102 | Python | 19 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-24 05:30:41+00:00 | 704 | 31 | C++ | 3 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-01-24 03:50:00+00:00 | 160 | 10 | Python | 5 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2022-01-24 06:37:55+00:00 | 271 | 2 | Python | 2 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-24 03:22:06+00:00 | 375 | 2 | Python | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-24 01:09:34+00:00 | 21713 | 2 | Python | 0 | [] |
+| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-24 08:02:29+00:00 | 2034572 | 10 | | 5 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-01-24 06:54:32+00:00 | 204700 | 0 | JavaScript | 0 | [] |
-| Passive/discord-exploits | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | ['exploit'] | 1 | 2022-01-24 02:30:10+00:00 | 25 | 9 | Python | 2 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2022-01-24 14:07:17+00:00 | 461 | 186 | Python | 36 | [] |
 | 0xTDF/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | Exploitation of security vulnerabilities found in poorly designed token-weighted governance protocols, using AAVE flash loans to gain unfair voting power. | https://github.com/0xTDF/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | ['exploit'] | 1 | 2022-01-24 14:29:13+00:00 | 22 | 4 | Solidity | 0 | [] |
 | lucagobbi/bitfinis | A simple btc exchange written in DJango that exploits MongoDB through DJongo. | https://github.com/lucagobbi/bitfinis | ['exploit'] | 1 | 2022-01-24 19:33:09+00:00 | 21 | 0 | Python | 0 | [] |
