@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-443452862,Jymit/exploit-notes,readme.md,95f1c9b037953afd5ab54ed5d81cf5dff98932be,CVE-2021-30860
+443452862,Jymit/exploit-notes,readme.md,6494bfe928ec7ee3c53b351eed050370adc03ca2,CVE-2021-30657
+443452862,Jymit/exploit-notes,readme.md,6494bfe928ec7ee3c53b351eed050370adc03ca2,CVE-2021-30853
+443452862,Jymit/exploit-notes,readme.md,6494bfe928ec7ee3c53b351eed050370adc03ca2,CVE-2021-30860
