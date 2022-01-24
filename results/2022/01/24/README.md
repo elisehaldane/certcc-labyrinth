@@ -1,13 +1,13 @@
 
 # Summary for results/2022/01/24
     
-37 records found after deduplication
+44 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-24 04:21:24+00:00 | 22217 | 6282 | JavaScript | 1478 | [] |
-| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-01-24 03:50:00+00:00 | 160 | 10 | Python | 5 | [] |
-| exploitact/exploitnews | None | https://github.com/exploitact/exploitnews | ['exploit'] | 1 | 2022-01-24 01:20:02+00:00 | 1092 | 0 | HTML | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-24 00:07:39+00:00 | 1534785 | 1556 | Python | 530 | [] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-24 07:51:54+00:00 | 53636 | 115 | Python | 32 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-24 01:59:54+00:00 | 37549 | 261 | JavaScript | 99 | [] |
 | tobiasoed/log4j-CVE-2021-44228 | None | https://github.com/tobiasoed/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 07:15:03+00:00 | 28 | 0 | Shell | 0 | ['CVE-2021-44228'] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-01-24 01:23:21+00:00 | 560 | 4 | C++ | 1 | [] |
@@ -16,16 +16,20 @@
 | Soup-tech/0day | nan | https://github.com/Soup-tech/0day | ['0day'] | 1 | 2022-01-24 06:04:48+00:00 | 6593 | 0 | C | 0 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以 CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-24 05:28:04+00:00 | 30 | 39 | nan | 4 | [] |
 | Lopinosaurus/NoCom-but-on-Gmod | [In-Dev, not open source at the time] This is a lua addon using lua server sided exploit to give to any player any entities or other netMessage requests advantages. | https://github.com/Lopinosaurus/NoCom-but-on-Gmod | ['exploit'] | 1 | 2022-01-24 07:07:22+00:00 | 7 | 0 | Lua | 0 | [] |
+| gregxsunday/homebrew-rce-labs-test | None | https://github.com/gregxsunday/homebrew-rce-labs-test | ['rce'] | 1 | 2022-01-24 08:28:36+00:00 | 12 | 0 | Ruby | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-01-24 03:51:41+00:00 | 279 | 0 | Python | 0 | [] |
 | Itzme-lucifer/MetaV-sploit | None | https://github.com/Itzme-lucifer/MetaV-sploit | ['sploit'] | 1 | 2022-01-24 03:03:56+00:00 | 0 | 0 | Python | 0 | [] |
 | w1023913214/CVE-2022 | test | https://github.com/w1023913214/CVE-2022 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 03:06:51+00:00 | 0 | 0 | | 0 | [] |
 | auxsyo/Roblox-Exploits | a collection of roblox exploits created or skidded by me. | https://github.com/auxsyo/Roblox-Exploits | ['exploit'] | 1 | 2022-01-24 04:24:38+00:00 | 0 | 0 | | 0 | [] |
 | w1023913214/CVE-2022-26545 | None | https://github.com/w1023913214/CVE-2022-26545 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 04:33:54+00:00 | 0 | 0 | | 0 | ['CVE-2022-26545'] |
 | ArchCWithClasses/ExploitDevelopment | Repository with PoCs for binary overflow exploitation | https://github.com/ArchCWithClasses/ExploitDevelopment | ['exploit'] | 1 | 2022-01-24 07:11:14+00:00 | 0 | 0 | | 0 | [] |
+| w1023913214/CVE-2022-33332 | None | https://github.com/w1023913214/CVE-2022-33332 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 07:29:29+00:00 | 0 | 0 | | 0 | ['CVE-2022-33332'] |
+| ColeHouston/x86-com-hijack-shellcode | 32 bit shellcode that performs COM hijacking with Chrome | https://github.com/ColeHouston/x86-com-hijack-shellcode | ['shellcode'] | 1 | 2022-01-24 08:32:19+00:00 | 0 | 0 | Assembly | 0 | [] |
+| w1023913214/CVE-2022-3666 | None | https://github.com/w1023913214/CVE-2022-3666 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 08:26:00+00:00 | 0 | 0 | | 0 | ['CVE-2022-3666'] |
+| exploitact/exploitnews | None | https://github.com/exploitact/exploitnews | ['exploit'] | 1 | 2022-01-24 01:20:02+00:00 | 1092 | 0 | HTML | 0 | [] |
+| Anonyme35/vulnerability_system-finder | Will extract all software and version from the system and try to find an exploit. | https://github.com/Anonyme35/vulnerability_system-finder | ['exploit'] | 1 | 2022-01-24 08:03:55+00:00 | 4422 | 0 | Python | 0 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-24 05:30:41+00:00 | 704 | 31 | C++ | 3 | [] |
-| bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2022-01-24 06:37:55+00:00 | 271 | 2 | Python | 2 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-24 00:07:39+00:00 | 1534785 | 1556 | Python | 530 | [] |
-| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-24 03:22:06+00:00 | 375 | 2 | Python | 3 | [] |
+| nuzzl/CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 04:30:26+00:00 | 24 | 4 | HTML | 1 | ['CVE-2020-10558'] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-24 06:44:38+00:00 | 5395 | 3070 | Python | 676 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-01-24 03:00:05+00:00 | 70409 | 10636 | Jupyter Notebook | 1839 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-24 00:17:02+00:00 | 225029 | 269 | Ruby | 78 | [] |
@@ -34,11 +38,14 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-01-24 06:01:52+00:00 | 35576 | 6382 | Vue | 1345 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-24 06:22:04+00:00 | 64255 | 1404 | Python | 283 | [] |
 | ppepos/inf600c | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | ['exploit'] | 1 | 2022-01-24 06:06:39+00:00 | 13272 | 4 | | 0 | [] |
-| nuzzl/CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 04:30:26+00:00 | 24 | 4 | HTML | 1 | ['CVE-2020-10558'] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-24 00:04:07+00:00 | 434633 | 45 | | 20 | [] |
+| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-01-24 03:50:00+00:00 | 160 | 10 | Python | 5 | [] |
 | Passive/discord-exploits | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | ['exploit'] | 1 | 2022-01-24 02:30:10+00:00 | 25 | 9 | Python | 2 | [] |
-| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-24 01:30:03+00:00 | 107 | 0 | PHP | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-24 01:30:03+00:00 | 107 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-24 04:23:55+00:00 | 127155 | 293 | Python | 90 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-01-24 06:54:32+00:00 | 204700 | 0 | JavaScript | 0 | [] |
+| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-24 08:02:29+00:00 | 2034572 | 10 | | 5 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-24 01:09:34+00:00 | 21713 | 2 | Python | 0 | [] |
-| w1023913214/CVE-2022-33332 | None | https://github.com/w1023913214/CVE-2022-33332 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 07:29:29+00:00 | 0 | 0 | | 0 | ['CVE-2022-33332'] |
+| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-24 03:22:06+00:00 | 375 | 2 | Python | 3 | [] |
+| bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2022-01-24 06:37:55+00:00 | 271 | 2 | Python | 2 | [] |
+| w1023913214/CVE-2022-123456789 | None | https://github.com/w1023913214/CVE-2022-123456789 | ['cve-2 OR cve_2'] | 1 | 2022-01-24 08:41:11+00:00 | 0 | 0 | | 0 | ['CVE-2022-123456789'] |
