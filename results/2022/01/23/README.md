@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/23
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-23 15:34:57+00:00 | 674918 | 26172 | Ruby | 11904 | [] |
-| EasyDonate/EasyExploitFix | An easy way to fix the Log4j2 exploit for unsupported server software | https://github.com/EasyDonate/EasyExploitFix | ['exploit'] | 1 | 2022-01-23 07:44:36+00:00 | 0 | 0 | | 0 | [] |
+| ilol1337/Fivem-Exploitation-Library | FiveM Exploitation Library. FiveM and Discord tool | https://github.com/ilol1337/Fivem-Exploitation-Library | ['exploit'] | 1 | 2022-01-23 16:19:51+00:00 | 3 | 0 | Python | 0 | [] |
 | charlescabbage/dll-injector | A command line DLL injector using Reflective DLL Injection technique. | https://github.com/charlescabbage/dll-injector | ['command injection'] | 1 | 2022-01-23 06:13:50+00:00 | 0 | 0 | C++ | 0 | [] |
 | glowbase/CVE-2019-19609 | Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609) | https://github.com/glowbase/CVE-2019-19609 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-23 05:34:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-18818', 'CVE-2019-19609'] |
 | kingszhaif/AbsoZed | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/kingszhaif/AbsoZed | ['exploit'] | 1 | 2022-01-23 05:02:54+00:00 | 0 | 0 | Python | 0 | [] |
@@ -18,8 +18,8 @@
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-01-23 20:47:55+00:00 | 2190 | 3 | C++ | 0 | [] |
 | cepxeo/dll4shell | Shellcode launcher for AV bypass | https://github.com/cepxeo/dll4shell | ['shellcode'] | 1 | 2022-01-23 10:28:40+00:00 | 0 | 0 | Python | 0 | [] |
 | georgebluff/Kali | Oculus Quest 2 & Kali Linux Exploit | https://github.com/georgebluff/Kali | ['exploit'] | 1 | 2022-01-23 00:35:29+00:00 | 2059 | 0 | | 0 | [] |
-| ilol1337/Fivem-Exploitation-Library | FiveM Exploitation Library. FiveM and Discord tool | https://github.com/ilol1337/Fivem-Exploitation-Library | ['exploit'] | 1 | 2022-01-23 16:19:51+00:00 | 3 | 0 | Python | 0 | [] |
 | Swizz14/SkidWareLight-Hub | So far contains Roblox Ninja Legends and Prison life Exploits more will be added very soon | https://github.com/Swizz14/SkidWareLight-Hub | ['exploit'] | 1 | 2022-01-23 19:09:04+00:00 | 352 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-23 09:10:21+00:00 | 22206 | 6282 | JavaScript | 1478 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-01-23 00:50:19+00:00 | 95 | 0 | Makefile | 0 | [] |
 | KadenZipfel/max-mint-exploit | reentrancy exploit on maxMintPerUser nft contracts using _safeMint | https://github.com/KadenZipfel/max-mint-exploit | ['exploit'] | 1 | 2022-01-23 19:55:54+00:00 | 1548 | 0 | JavaScript | 0 | [] |
 | azecdev90/sqliscanner | Tool for automation exploiting SQL injection vulnerability | https://github.com/azecdev90/sqliscanner | ['exploit'] | 1 | 2022-01-23 16:36:10+00:00 | 32 | 0 | PHP | 0 | [] |
@@ -30,9 +30,10 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-23 18:27:20+00:00 | 11174 | 1 | Jupyter Notebook | 0 | [] |
 | natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-01-23 01:35:27+00:00 | 44 | 5 | Python | 2 | [] |
 | Jymit/exploit-notes | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-01-23 23:16:59+00:00 | 8 | 0 | | 0 | [] |
+| exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-01-23 09:38:02+00:00 | 60288 | 0 | CSS | 0 | [] |
 | mrunkno3n/HackSploit | Advanced Android and System Hacking Tool . This tool used for some Cyber Attacks in System This Tool used for educational purpose and This tool worked on kali linux and android rooted phone with install kali nethunter. | https://github.com/mrunkno3n/HackSploit | ['sploit'] | 1 | 2022-01-23 07:43:28+00:00 | 0 | 0 | Shell | 0 | [] |
+| EasyDonate/EasyExploitFix | An easy way to fix the Log4j2 exploit for unsupported server software | https://github.com/EasyDonate/EasyExploitFix | ['exploit'] | 1 | 2022-01-23 07:44:36+00:00 | 0 | 0 | | 0 | [] |
 | Abbykawai/Abbykawai | 好用的代码安全检测工具推荐，支持软件成分分析，POC&EXP识别，IDEA检测插件 | https://github.com/Abbykawai/Abbykawai | ['vulnerability poc'] | 1 | 2022-01-23 08:01:13+00:00 | 0 | 0 | | 0 | [] |
-| 0RaMsY0/ramsy | Exploitation Tool | https://github.com/0RaMsY0/ramsy | ['exploit'] | 1 | 2022-01-23 21:46:30+00:00 | 26 | 1 | Python | 0 | [] |
 | shabarkin/plab_rce | test for rce | https://github.com/shabarkin/plab_rce | ['rce'] | 1 | 2022-01-23 09:33:22+00:00 | 0 | 0 | | 0 | [] |
 | not-body/NotBodySploit | None | https://github.com/not-body/NotBodySploit | ['sploit'] | 1 | 2022-01-23 22:38:57+00:00 | 0 | 0 | Python | 0 | [] |
 | rcemper/rcemper-GlobalToJSON-Academic | create a JSON Object from Global and with Importer - in all details | https://github.com/rcemper/rcemper-GlobalToJSON-Academic | ['rce'] | 1 | 2022-01-23 21:34:37+00:00 | 0 | 0 | ObjectScript | 0 | [] |
@@ -57,11 +58,10 @@
 | UDFreeCheats/UD-RN-External-fortnite-cheat- | UD fortnite external cheat, uisng leaked drivers, has cool exploits, aim,esp | https://github.com/UDFreeCheats/UD-RN-External-fortnite-cheat- | ['exploit'] | 1 | 2022-01-23 10:50:06+00:00 | 0 | 0 | | 0 | [] |
 | ace10102/Swapper-No-Swapping | A brute force prevention for numerous dupe exploits via disabling Quick-Swapping | https://github.com/ace10102/Swapper-No-Swapping | ['exploit'] | 1 | 2022-01-23 10:41:28+00:00 | 0 | 0 | Java | 0 | [] |
 | LazyTitan33/CVE-2021-22204 | None | https://github.com/LazyTitan33/CVE-2021-22204 | ['cve-2 OR cve_2'] | 1 | 2022-01-23 10:36:37+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22204'] |
-| exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-01-23 09:38:02+00:00 | 60288 | 0 | CSS | 0 | [] |
+| 0RaMsY0/ramsy | Exploitation Tool | https://github.com/0RaMsY0/ramsy | ['exploit'] | 1 | 2022-01-23 21:46:30+00:00 | 26 | 1 | Python | 0 | [] |
 | DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-01-23 10:54:11+00:00 | 2244 | 2 | C | 1 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-23 09:10:21+00:00 | 22206 | 6282 | JavaScript | 1478 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-23 04:04:01+00:00 | 270539 | 71 | | 11 | [] |
-| vital-information-resource-under-siege/PWN-Challenges | Writeups of some of the Binary Exploitation challenges that I have solved during CTF. | https://github.com/vital-information-resource-under-siege/PWN-Challenges | ['exploit'] | 1 | 2022-01-23 10:22:04+00:00 | 39091 | 6 | Python | 2 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-23 13:38:37+00:00 | 199 | 0 | | 0 | [] |
+| Lesking72/ps4 | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | ['exploit'] | 1 | 2022-01-23 02:21:31+00:00 | 3778 | 0 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-23 00:04:32+00:00 | 434142 | 44 | | 20 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-01-23 19:06:14+00:00 | 1052 | 1 | Python | 0 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2022-01-23 20:10:45+00:00 | 13303 | 2 | | 0 | [] |
@@ -80,15 +80,15 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-23 00:16:50+00:00 | 225028 | 268 | Ruby | 78 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-01-23 00:40:47+00:00 | 17719 | 1823 | C++ | 303 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-01-23 11:35:05+00:00 | 70302 | 10634 | Jupyter Notebook | 1839 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-23 22:09:05+00:00 | 6842 | 4284 | Python | 574 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-23 07:22:59+00:00 | 5383 | 3069 | Python | 676 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-23 00:07:40+00:00 | 1534779 | 1556 | Python | 530 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-01-23 16:23:31+00:00 | 12572 | 4267 | Python | 603 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-23 16:49:25+00:00 | 27207 | 8678 | Python | 1485 | [] |
-| Lesking72/ps4 | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | ['exploit'] | 1 | 2022-01-23 02:21:31+00:00 | 3778 | 0 | JavaScript | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-23 00:27:48+00:00 | 125424 | 291 | Python | 90 | [] |
-| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-01-23 13:38:37+00:00 | 199 | 0 | | 0 | [] |
-| Shuvamoy/TinyFireExploiter | Exploit Insecure Firebase Directly | https://github.com/Shuvamoy/TinyFireExploiter | ['exploit'] | 1 | 2022-01-23 12:33:49+00:00 | 5 | 0 | Shell | 0 | [] |
+| vital-information-resource-under-siege/PWN-Challenges | Writeups of some of the Binary Exploitation challenges that I have solved during CTF. | https://github.com/vital-information-resource-under-siege/PWN-Challenges | ['exploit'] | 1 | 2022-01-23 10:22:04+00:00 | 39091 | 6 | Python | 2 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-23 04:04:01+00:00 | 270539 | 71 | | 11 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-23 10:33:31+00:00 | 91 | 8 | | 3 | ['CVE-2021-44228'] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-23 00:27:48+00:00 | 125424 | 291 | Python | 90 | [] |
 | curated-intel/Log4Shell-IOCs | A collection of intelligence about Log4Shell and its exploitation activity. | https://github.com/curated-intel/Log4Shell-IOCs | ['exploit'] | 1 | 2022-01-23 12:44:34+00:00 | 12769 | 150 | Python | 33 | [] |
 | ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-01-23 07:54:28+00:00 | 718 | 1 | Ruby | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-23 07:13:53+00:00 | 25043 | 261 | Python | 99 | [] |
@@ -111,4 +111,5 @@
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-23 10:37:37+00:00 | 2034385 | 9 | | 5 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-01-23 18:40:32+00:00 | 2037 | 0 | | 0 | [] |
 | octorber123/YoloV4-predictive-object-search-robot | A predictive object search robot, that can quickly find, never before seen objects in the home environment by hypothesizing their location. It achieves this by using a model that exploits patterns seen in the home environment. | https://github.com/octorber123/YoloV4-predictive-object-search-robot | ['exploit'] | 1 | 2022-01-23 18:52:43+00:00 | 26602 | 0 | Python | 0 | [] |
+| Shuvamoy/TinyFireExploiter | Exploit Insecure Firebase Directly | https://github.com/Shuvamoy/TinyFireExploiter | ['exploit'] | 1 | 2022-01-23 12:33:49+00:00 | 5 | 0 | Shell | 0 | [] |
 | MysteryWasFound/Auto-Rap-Battles-Exploit-Beta | BEFORE U FINNA SAY SOMETHING iIGizMonster11I AND MysteryWasFound ARE THE SAME PERSON! | https://github.com/MysteryWasFound/Auto-Rap-Battles-Exploit-Beta | ['exploit'] | 1 | 2022-01-23 23:13:02+00:00 | 0 | 0 | | 0 | [] |
