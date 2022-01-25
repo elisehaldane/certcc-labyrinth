@@ -1,16 +1,18 @@
 
 # Summary for results/2022/01/25
     
-53 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-25 03:22:58+00:00 | 676358 | 26191 | Ruby | 11909 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-25 01:15:26+00:00 | 23384 | 2 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-25 01:28:46+00:00 | 22261 | 6284 | JavaScript | 1477 | [] |
+| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-25 03:37:44+00:00 | 384 | 2 | Python | 3 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-25 07:49:09+00:00 | 741 | 31 | C++ | 3 | [] |
 | senhaxor/msf_shellcode | nan | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-01-25 07:50:59+00:00 | 630 | 0 | nan | 1 | [] |
 | Bouclas/Repetitive-Action-Recognition | This is the official repository of the paper "Exploiting the Nature of Repetitive Actions fortheir Effective and Efficient Recognition". We provide guidelines to generate the datasets that are used in this work, as well as any important documentation regar | https://github.com/Bouclas/Repetitive-Action-Recognition | ['exploit'] | 1 | 2022-01-25 08:47:54+00:00 | 5 | 0 | | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-25 00:28:54+00:00 | 850 | 0 | C | 0 | [] |
+| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-01-25 10:20:56+00:00 | 14 | 0 | Python | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-25 01:51:17+00:00 | 37598 | 260 | JavaScript | 99 | [] |
 | robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-25 00:19:51+00:00 | 40 | 8 | | 0 | ['CVE-2021-44228'] |
 | LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-01-25 03:02:54+00:00 | 1675 | 1 | C | 0 | [] |
@@ -30,10 +32,10 @@
 | 00FB00P/Ignify | roblox exploit git repos. | https://github.com/00FB00P/Ignify | ['exploit'] | 1 | 2022-01-25 02:41:07+00:00 | 0 | 0 | | 0 | [] |
 | OpenEvade/SpearWebsiteScanner | Extract specific data points and try to exploit the website using the data gathered. | https://github.com/OpenEvade/SpearWebsiteScanner | ['exploit'] | 1 | 2022-01-25 05:51:20+00:00 | 0 | 0 | Python | 0 | [] |
 | 0xfaer/ares-lpi | Ares "Low Profile Injection" POC, exploits a flaw in Windows to inject Dynamically linked libraries without any notice. | https://github.com/0xfaer/ares-lpi | ['exploit'] | 1 | 2022-01-25 09:15:00+00:00 | 0 | 0 | Assembly | 0 | [] |
-| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-25 03:37:44+00:00 | 384 | 2 | Python | 3 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-25 01:15:26+00:00 | 23384 | 2 | Python | 0 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-25 08:32:18+00:00 | 2036177 | 10 | | 5 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-25 01:28:46+00:00 | 22261 | 6284 | JavaScript | 1477 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-25 00:27:49+00:00 | 128876 | 293 | Python | 93 | [] |
+| nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2022-01-25 10:33:40+00:00 | 131 | 463 | | 52 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-25 00:46:22+00:00 | 24788 | 26 | | 17 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-25 01:30:54+00:00 | 32410 | 1047 | Python | 384 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-25 05:09:04+00:00 | 244005 | 6767 | C | 1857 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-25 00:07:35+00:00 | 1534786 | 1556 | Python | 530 | [] |
@@ -45,11 +47,12 @@
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-01-25 06:57:26+00:00 | 2642 | 7 | Rust | 4 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-25 06:12:19+00:00 | 64281 | 1406 | Python | 283 | [] |
 | 01rabbit/PAKURI | PAKURI has been merged with Python and launched as a new project, PAKURI-THON. | https://github.com/01rabbit/PAKURI | ['metasploit module OR payload'] | 1 | 2022-01-25 03:25:33+00:00 | 6974 | 140 | Shell | 30 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-25 00:46:22+00:00 | 24788 | 26 | | 17 | [] |
 | nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2022-01-25 08:30:36+00:00 | 254791 | 690 | HTML | 167 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-25 00:27:49+00:00 | 128876 | 293 | Python | 93 | [] |
 | j00c3/metasploit_modules | Just a couple MSF modules I created to make my red team job easier | https://github.com/j00c3/metasploit_modules | ['metasploit module OR payload'] | 1 | 2022-01-25 04:25:35+00:00 | 3 | 0 | Ruby | 0 | [] |
 | CloudDefenseAI/cd | CloudDefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross-site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | ['exploit'] | 1 | 2022-01-25 00:40:52+00:00 | 13547015 | 17 | Shell | 1 | [] |
 | zehuanli/Metasploit-Plugin-Session-Filter | A Metasploit Framework plugin that filters incoming sessions. | https://github.com/zehuanli/Metasploit-Plugin-Session-Filter | ['metasploit module OR payload'] | 1 | 2022-01-25 01:21:18+00:00 | 13 | 0 | Ruby | 0 | [] |
+| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-01-25 10:28:57+00:00 | 45 | 0 | | 0 | [] |
 | Webins/Hacking_The_Art_Of_Exploitation | Book hacking the art of exploitation source code | https://github.com/Webins/Hacking_The_Art_Of_Exploitation | ['exploit'] | 1 | 2022-01-25 00:11:03+00:00 | 28 | 1 | C | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-25 00:03:30+00:00 | 436598 | 45 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-25 08:33:31+00:00 | 96664 | 14 | Python | 5 | [] |
