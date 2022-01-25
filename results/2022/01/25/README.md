@@ -1,16 +1,15 @@
 
 # Summary for results/2022/01/25
     
-49 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-25 03:22:58+00:00 | 676358 | 26191 | Ruby | 11909 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-25 00:27:49+00:00 | 128876 | 293 | Python | 93 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-25 01:15:26+00:00 | 23384 | 2 | Python | 0 | [] |
-| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-25 03:37:44+00:00 | 384 | 2 | Python | 3 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-25 07:49:09+00:00 | 741 | 31 | C++ | 3 | [] |
 | senhaxor/msf_shellcode | nan | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-01-25 07:50:59+00:00 | 630 | 0 | nan | 1 | [] |
+| Bouclas/Repetitive-Action-Recognition | This is the official repository of the paper "Exploiting the Nature of Repetitive Actions fortheir Effective and Efficient Recognition". We provide guidelines to generate the datasets that are used in this work, as well as any important documentation regar | https://github.com/Bouclas/Repetitive-Action-Recognition | ['exploit'] | 1 | 2022-01-25 08:47:54+00:00 | 5 | 0 | | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-25 00:28:54+00:00 | 850 | 0 | C | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-25 01:51:17+00:00 | 37598 | 260 | JavaScript | 99 | [] |
 | robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-25 00:19:51+00:00 | 40 | 8 | | 0 | ['CVE-2021-44228'] |
@@ -21,6 +20,7 @@
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-01-25 00:15:03+00:00 | 2717 | 18 | | 1 | [] |
 | itzNuer/metasploit | Metasploiot and root access in Termux in 1 command!!!!!! | https://github.com/itzNuer/metasploit | ['metasploit module OR payload'] | 1 | 2022-01-25 03:54:34+00:00 | 41 | 0 | | 0 | [] |
 | kush-js/rce-backend | None | https://github.com/kush-js/rce-backend | ['rce'] | 1 | 2022-01-25 04:53:43+00:00 | 67 | 0 | Java | 0 | [] |
+| gregxsunday/homebrew-rce-labs-test | None | https://github.com/gregxsunday/homebrew-rce-labs-test | ['rce'] | 1 | 2022-01-25 09:19:45+00:00 | 753 | 0 | Ruby | 0 | [] |
 | ONeT-Github/ISAC317 | A collection of tools and exploits written and used for WPA2/3 vulnerability analysis | https://github.com/ONeT-Github/ISAC317 | ['exploit'] | 1 | 2022-01-25 07:25:58+00:00 | 46 | 0 | Makefile | 0 | [] |
 | glowbase/CVE-2019-19609 | Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609) | https://github.com/glowbase/CVE-2019-19609 | ['cve-2 OR cve_2', 'rce', 'remote code execution'] | 3 | 2022-01-25 00:41:39+00:00 | 4 | 0 | Python | 0 | ['CVE-2019-18818', 'CVE-2019-19609'] |
 | Abbykawai/Abbykawai | 好用的代码安全检测工具推荐，支持软件成分分析，POC&EXP识别，IDEA检测插件 | https://github.com/Abbykawai/Abbykawai | ['vulnerability poc'] | 1 | 2022-01-25 07:11:07+00:00 | 5 | 0 | | 0 | [] |
@@ -28,10 +28,12 @@
 | zzssrko/EFREI_PARIS_System_Exploitation_TP1 | None | https://github.com/zzssrko/EFREI_PARIS_System_Exploitation_TP1 | ['exploit'] | 1 | 2022-01-25 07:22:48+00:00 | 3 | 0 | C | 0 | [] |
 | lexisrepo/Linux-Exploitation | None | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-01-25 00:05:22+00:00 | 14 | 0 | | 0 | [] |
 | 00FB00P/Ignify | roblox exploit git repos. | https://github.com/00FB00P/Ignify | ['exploit'] | 1 | 2022-01-25 02:41:07+00:00 | 0 | 0 | | 0 | [] |
+| OpenEvade/SpearWebsiteScanner | Extract specific data points and try to exploit the website using the data gathered. | https://github.com/OpenEvade/SpearWebsiteScanner | ['exploit'] | 1 | 2022-01-25 05:51:20+00:00 | 0 | 0 | Python | 0 | [] |
+| 0xfaer/ares-lpi | Ares "Low Profile Injection" POC, exploits a flaw in Windows to inject Dynamically linked libraries without any notice. | https://github.com/0xfaer/ares-lpi | ['exploit'] | 1 | 2022-01-25 09:15:00+00:00 | 0 | 0 | Assembly | 0 | [] |
+| Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-25 03:37:44+00:00 | 384 | 2 | Python | 3 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-25 08:32:18+00:00 | 2036177 | 10 | | 5 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-25 00:02:17+00:00 | 287377 | 71 | | 11 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-25 01:28:46+00:00 | 22261 | 6284 | JavaScript | 1477 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-25 01:01:45+00:00 | 108 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-25 00:27:49+00:00 | 128876 | 293 | Python | 93 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-01-25 01:30:54+00:00 | 32410 | 1047 | Python | 384 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-25 05:09:04+00:00 | 244005 | 6767 | C | 1857 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-25 00:07:35+00:00 | 1534786 | 1556 | Python | 530 | [] |
@@ -53,4 +55,6 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-25 08:33:31+00:00 | 96664 | 14 | Python | 5 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-01-25 03:39:42+00:00 | 6906 | 1 | JavaScript | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-25 00:34:31+00:00 | 7037 | 1 | Java | 0 | [] |
-| OpenEvade/SpearWebsiteScanner | Extract specific data points and try to exploit the website using the data gathered. | https://github.com/OpenEvade/SpearWebsiteScanner | ['exploit'] | 1 | 2022-01-25 05:51:20+00:00 | 0 | 0 | Python | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-25 01:01:45+00:00 | 108 | 0 | PHP | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-25 00:02:17+00:00 | 287377 | 71 | | 11 | [] |
+| 0xfaer/csgo-lag-exploit | Counter-Strike: Global Offensive lag exploit from a private cheat of mine, I have removed some key parts but if you are dedicated, you can fix it. | https://github.com/0xfaer/csgo-lag-exploit | ['exploit'] | 1 | 2022-01-25 09:28:01+00:00 | 0 | 0 | | 0 | [] |
