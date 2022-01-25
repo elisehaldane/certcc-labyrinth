@@ -1,0 +1,22 @@
+
+# Summary for results/2022/01/25
+    
+15 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|--------------------------------------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-25 00:07:35+00:00 | 1534786 | 1556 | Python | 530 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-25 00:17:06+00:00 | 225030 | 269 | Ruby | 78 | [] |
+| robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2022-01-25 00:17:49+00:00 | 205 | 3 | | 1 | ['CVE-2018-19788'] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-25 00:46:22+00:00 | 24788 | 26 | | 17 | [] |
+| CloudDefenseAI/cd | CloudDefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross-site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | ['exploit'] | 1 | 2022-01-25 00:40:52+00:00 | 13547015 | 17 | Shell | 1 | [] |
+| Webins/Hacking_The_Art_Of_Exploitation | Book hacking the art of exploitation source code | https://github.com/Webins/Hacking_The_Art_Of_Exploitation | ['exploit'] | 1 | 2022-01-25 00:11:03+00:00 | 28 | 1 | C | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-25 00:03:30+00:00 | 436598 | 45 | | 20 | [] |
+| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-25 00:34:31+00:00 | 7037 | 1 | Java | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-25 00:02:17+00:00 | 287377 | 71 | | 11 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-25 00:27:49+00:00 | 128876 | 293 | Python | 93 | [] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-25 00:28:54+00:00 | 850 | 0 | C | 0 | [] |
+| robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-25 00:19:51+00:00 | 40 | 8 | | 0 | ['CVE-2021-44228'] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-01-25 00:15:03+00:00 | 2717 | 18 | | 1 | [] |
+| glowbase/CVE-2019-19609 | Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609) | https://github.com/glowbase/CVE-2019-19609 | ['cve-2 OR cve_2', 'rce', 'remote code execution'] | 3 | 2022-01-25 00:41:39+00:00 | 4 | 0 | Python | 0 | ['CVE-2019-18818', 'CVE-2019-19609'] |
+| lexisrepo/Linux-Exploitation | None | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-01-25 00:05:22+00:00 | 14 | 0 | | 0 | [] |
