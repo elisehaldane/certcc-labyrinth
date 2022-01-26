@@ -4,3 +4,4 @@ repo_id,repo_full_name,file,file_sha1,match
 168689073,hktalent/exploit-poc,Pardus 21 Linux发行版-远程代码执行0天2021 CVE-2021-3806.docx,7a1301a90820e888fe02d5792331013374390432,CVE-2021-3806
 168689073,hktalent/exploit-poc,利用CVE-2021-43267.docx,bb9053ca5527ef6582c4ab63b871cd70af98e0d6,CVE-2021-43267
 168689073,hktalent/exploit-poc,CVE-2021-43557 Apache APISIX- Path traversal in request_uri variable.docx,ccb32b1b6a80adfc4dd6576a19c2069c05f82485,CVE-2021-43557
+168689073,hktalent/exploit-poc,README.md,d26897cc8c2f2e266b709d080bdbcc60320dbf38,CVE-2022-23221
