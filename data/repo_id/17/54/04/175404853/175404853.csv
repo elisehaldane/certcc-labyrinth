@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+175404853,ISK33/Exploit,linpeas_linux_amd64,5ec20bcc8c8a75311e0aad8c46a8c578b90e876e,VU#09
+175404853,ISK33/Exploit,linpeas_linux_amd64,5ec20bcc8c8a75311e0aad8c46a8c578b90e876e,VU#19
+175404853,ISK33/Exploit,linpeas_linux_amd64,5ec20bcc8c8a75311e0aad8c46a8c578b90e876e,VU#21
+175404853,ISK33/Exploit,linpeas_linux_amd64,5ec20bcc8c8a75311e0aad8c46a8c578b90e876e,VU#25
+175404853,ISK33/Exploit,linpeas_linux_amd64,5ec20bcc8c8a75311e0aad8c46a8c578b90e876e,VU#29
