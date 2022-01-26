@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-451886760,furuanruan/Exploit,Joomla/CVE-2021-26039,97af58cbad9c3ce7f9a4077989d419c1aecfc021,CVE-2021-26039
+451886760,furuanruan/Exploit,XSS/WordPrss/Reflected/CVE-2021-25067.md,6d22ffba4c3fcf944945e487648b5f434e48e6d2,CVE-2021-25067
