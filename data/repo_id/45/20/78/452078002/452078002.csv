@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+452078002,lourkeur/cve-2021-4034-playground,guide.txt,a6410ffe49917e01f761281a1ed80dc2fb269b38,CVE-2021-4034
+452078002,lourkeur/cve-2021-4034-playground,_GITHUB_REPO_METADATA_,,CVE-2021-4034
