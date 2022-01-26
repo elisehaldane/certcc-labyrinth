@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+203156588,WPXSS/wordpress-malware,4522171d318.php,07ac32458ea3887aea6582f1817232ca2083d84f,VU#86
+203156588,WPXSS/wordpress-malware,4522171d318.php,07ac32458ea3887aea6582f1817232ca2083d84f,VU#89
+203156588,WPXSS/wordpress-malware,3fmcu/libxml2-xpath.php,25cb0d2a763393e62b52739f6da6e64f70b128a0,CVE-2011-1944
+203156588,WPXSS/wordpress-malware,3fmcu/libxml2-xpath.php,25cb0d2a763393e62b52739f6da6e64f70b128a0,CVE-2011-2834
+203156588,WPXSS/wordpress-malware,3fmcu/libxml2-xpath.php,25cb0d2a763393e62b52739f6da6e64f70b128a0,CVE-2018-14404
+203156588,WPXSS/wordpress-malware,j8ox/osisoft-forum.php,79888aae14323e0b5226f5362e77dc8d3a3b80e4,CVE-2019-13515
