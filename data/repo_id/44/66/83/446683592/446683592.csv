@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 446683592,corelight/cve-2022-21907,scripts/main.zeek,105e5981bfba0c98af25ab62dbab63085e501feb,CVE-2022-21907
-446683592,corelight/cve-2022-21907,zkg.meta,960edb9a45122a91d1a58bde97752d2cb9cef4eb,CVE-2022-21907
+446683592,corelight/cve-2022-21907,zkg.meta,5ef7329164e7d9e2ea941df012b957191a0d442a,CVE-2022-21907
 446683592,corelight/cve-2022-21907,README.md,e14eba22550d3ae2b29b3245dbd4e1f240c1d197,CVE-2022-21907
 446683592,corelight/cve-2022-21907,_GITHUB_REPO_METADATA_,,CVE-2022-21907
