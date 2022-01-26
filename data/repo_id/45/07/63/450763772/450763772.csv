@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+450763772,saberkid/0day-outbreak-alert,scripts/google_0day_search.py,a16650ad4f900679e437696be7c9b7f6e9ec60b9,CVE-2021-44228
+450763772,saberkid/0day-outbreak-alert,scripts/utils.py,c9d8907c09fc4f1eaa7ad8b9aa7adebc6e67a87a,CVE-2021-27104
