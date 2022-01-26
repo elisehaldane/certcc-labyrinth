@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#12,0.33333333,https://github.com/karma9874/AndroRAT,karma9874/AndroRAT,249151155
 VU#12,0.20000000,https://github.com/Anjali-kumari-0/cyber-Security,Anjali-kumari-0/cyber-Security,441175617
 VU#12,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
+VU#12,0.07692308,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#12,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
 VU#12,0.04000000,https://github.com/prodseanb/Xsearch,prodseanb/Xsearch,443673812
 VU#12,0.03225806,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
@@ -22,9 +23,11 @@ VU#12,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 VU#12,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#12,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#12,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
+VU#12,0.01492537,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#12,0.01428571,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#12,0.01282051,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#12,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
+VU#12,0.01219512,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#12,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#12,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#12,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -33,11 +36,12 @@ VU#12,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/The
 VU#12,0.00769231,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#12,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#12,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#12,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#12,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#12,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#12,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-VU#12,0.00220264,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#12,0.00219780,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#12,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#12,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#12,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#12,0.00020404,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#12,0.00020396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

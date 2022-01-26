@@ -16,7 +16,7 @@ VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-E
 VU#21,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
 VU#21,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#21,0.04347826,https://github.com/Maks1116/roblox-exploit-scripts,Maks1116/roblox-exploit-scripts,299615185
-VU#21,0.03703704,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#21,0.03571429,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#21,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#21,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#21,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
@@ -31,7 +31,9 @@ VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Ni
 VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#21,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#21,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#21,0.01492537,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#21,0.01428571,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
+VU#21,0.01219512,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#21,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#21,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#21,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
@@ -40,12 +42,13 @@ VU#21,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#21,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#21,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#21,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#21,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#21,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#21,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#21,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-VU#21,0.00220264,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#21,0.00219780,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#21,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#21,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#21,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#21,0.00020404,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00020396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00004660,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
