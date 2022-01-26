@@ -1,23 +1,23 @@
 
 # Summary for results/2022/01/26
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-26 00:48:36+00:00 | 676865 | 26195 | Ruby | 11911 | [] |
-| xryshirfxn/exkern | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | ['exploit'] | 1 | 2022-01-26 01:00:48+00:00 | 0 | 1 | | 0 | [] |
-| rodriguezcoding/HTB-Web-exploits | None | https://github.com/rodriguezcoding/HTB-Web-exploits | ['exploit'] | 1 | 2022-01-26 04:24:24+00:00 | 7 | 0 | Python | 1 | [] |
+| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以 CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-26 01:05:13+00:00 | 37 | 68 | | 6 | [] |
 | xoElf/FortniteExploits | Every time I see an exploit get posted/leaked, I will throw it into this. | https://github.com/xoElf/FortniteExploits | ['exploit'] | 1 | 2022-01-26 02:12:32+00:00 | 18 | 1 | | 1 | [] |
 | saberkid/0day-outbreak-alert | nan | https://github.com/saberkid/0day-outbreak-alert | ['0day'] | 1 | 2022-01-26 04:41:23+00:00 | 33 | 0 | Python | 0 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-01-26 05:10:30+00:00 | 2192 | 5 | C++ | 1 | [] |
 | ryaagard/CVE-2021-4034 | Local Privilege Escalation in polkit's pkexec | https://github.com/ryaagard/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:07:47+00:00 | 7 | 0 | C | 0 | ['CVE-2021-4034'] |
 | berdav/CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 02:35:32+00:00 | 1 | 43 | C | 13 | ['CVE-2021-4034'] |
 | numanturle/CVE-2022-0332 | None | https://github.com/numanturle/CVE-2022-0332 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:18:26+00:00 | 0 | 1 | | 0 | ['CVE-2022-0332'] |
 | xqeokcwxbpcfmrmj/exploits | None | https://github.com/xqeokcwxbpcfmrmj/exploits | ['exploit'] | 1 | 2022-01-26 00:21:11+00:00 | 0 | 0 | C | 0 | [] |
 | clubby789/CVE-2021-4034 | None | https://github.com/clubby789/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:29:08+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | gbrsh/CVE-2021-4034 | None | https://github.com/gbrsh/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:57:04+00:00 | 2 | 0 | C | 1 | ['CVE-2021-4034'] |
+| xryshirfxn/exkern | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | ['exploit'] | 1 | 2022-01-26 01:00:48+00:00 | 0 | 1 | | 0 | [] |
 | arthepsy/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-01-26 01:10:08+00:00 | 0 | 1 | C | 1 | ['CVE-2021-4034'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-26 02:41:19+00:00 | 22261 | 6286 | JavaScript | 1478 | [] |
 | VICXOR/shellcode_runner | None | https://github.com/VICXOR/shellcode_runner | ['shellcode'] | 1 | 2022-01-26 00:57:01+00:00 | 6 | 0 | C# | 0 | [] |
 | evannns/desmos-packet-modifier | modifies desmos packets to allow any user to attach an image directly to the website | https://github.com/evannns/desmos-packet-modifier | ['exploit'] | 1 | 2022-01-26 01:27:52+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | JohnHammond/CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 01:05:56+00:00 | 0 | 1 | | 0 | ['CVE-2021-4034'] |
@@ -27,11 +27,13 @@
 | signfind/CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 02:30:05+00:00 | 0 | 1 | C | 1 | ['CVE-2021-4034'] |
 | mebeim/CVE-2021-4034 | CVE-2021-4034: Local Privilege Escalation in polkit's pkexec proof of concept | https://github.com/mebeim/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 04:14:41+00:00 | 47 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Ayrx/CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-26 03:42:56+00:00 | 1 | 1 | C | 0 | ['CVE-2021-4034'] |
-| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以 CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-01-26 01:05:13+00:00 | 37 | 68 | | 6 | [] |
+| Y3A/CVE-2021-4034 | None | https://github.com/Y3A/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 04:08:28+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
+| rodriguezcoding/HTB-Web-exploits | None | https://github.com/rodriguezcoding/HTB-Web-exploits | ['exploit'] | 1 | 2022-01-26 04:24:24+00:00 | 7 | 0 | Python | 1 | [] |
 | Miftahul7838/Projects_and_Scripts | Creating tools, scripts, and exploits with different types of programming languages, and other types of of projects. | https://github.com/Miftahul7838/Projects_and_Scripts | ['exploit'] | 1 | 2022-01-26 00:50:57+00:00 | 0 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-26 02:41:19+00:00 | 22261 | 6286 | JavaScript | 1478 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-01-26 02:38:49+00:00 | 217 | 0 | HCL | 0 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-26 02:42:51+00:00 | 38191 | 260 | JavaScript | 99 | [] |
 | trustedsec/unicorn | Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 1 | https://github.com/trustedsec/unicorn | ['shellcode'] | 1 | 2022-01-26 01:57:15+00:00 | 444 | 3086 | Python | 761 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-26 05:09:01+00:00 | 244007 | 6772 | C | 1861 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-26 00:07:35+00:00 | 1534787 | 1558 | Python | 530 | [] |
 | rapid7/metasploitable3 | Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. | https://github.com/rapid7/metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-01-26 04:26:35+00:00 | 254114 | 3422 | HTML | 900 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-01-26 01:55:05+00:00 | 70625 | 10648 | Jupyter Notebook | 1842 | [] |
@@ -50,4 +52,5 @@
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-01-26 03:33:02+00:00 | 445 | 2 | Python | 2 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-26 03:22:00+00:00 | 755 | 31 | C++ | 3 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-01-26 01:55:31+00:00 | 820 | 0 | TypeScript | 0 | [] |
-| Y3A/CVE-2021-4034 | None | https://github.com/Y3A/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 04:08:28+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-26 02:42:51+00:00 | 38191 | 260 | JavaScript | 99 | [] |
+| An00bRektn/CVE-2021-4034 | A Golang implementation of clubby789's implementation of CVE-2021-4034 | https://github.com/An00bRektn/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 05:12:00+00:00 | 0 | 0 | Go | 1 | ['CVE-2021-4034'] |
