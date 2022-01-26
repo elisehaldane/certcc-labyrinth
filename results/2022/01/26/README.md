@@ -1,12 +1,14 @@
 
 # Summary for results/2022/01/26
     
-175 records found after deduplication
+178 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-26 00:48:36+00:00 | 676865 | 26195 | Ruby | 11911 | [] |
-| zhzyker/CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 07:35:45+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| baonviclates/metasploitgui | None | https://github.com/baonviclates/metasploitgui | ['metasploit module OR payload'] | 1 | 2022-01-26 09:50:19+00:00 | 0 | 0 | | 0 | [] |
+| signfind/CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 02:30:05+00:00 | 0 | 1 | C | 1 | ['CVE-2021-4034'] |
+| mebeim/CVE-2021-4034 | CVE-2021-4034: Local Privilege Escalation in polkit's pkexec proof of concept | https://github.com/mebeim/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 04:14:41+00:00 | 47 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Ayrx/CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-26 03:42:56+00:00 | 1 | 1 | C | 0 | ['CVE-2021-4034'] |
 | Y3A/CVE-2021-4034 | None | https://github.com/Y3A/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 04:08:28+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
 | An00bRektn/CVE-2021-4034 | A Golang implementation of clubby789's implementation of CVE-2021-4034 | https://github.com/An00bRektn/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 05:12:00+00:00 | 0 | 0 | Go | 1 | ['CVE-2021-4034'] |
@@ -15,8 +17,8 @@
 | omarothmann/Embedded-Backdoor-Connection | This demonstration video shows how we can control the victim's device by sending the innocent-looking PDF file to the target which actually consists of embedded payload. The exploit was made public as CVE-2010-1240. | https://github.com/omarothmann/Embedded-Backdoor-Connection | ['exploit'] | 1 | 2022-01-26 06:03:07+00:00 | 0 | 0 | | 0 | ['CVE-2010-1240'] |
 | 0x05a/my-cve-2021-4034-poc | my PoC | https://github.com/0x05a/my-cve-2021-4034-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 06:05:20+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | ColeHouston/x64-shellcode-encoder | Custom 64 bit shellcode encoder that evades detection and removes some common badchars (\x00\x0a\x0d\x20) | https://github.com/ColeHouston/x64-shellcode-encoder | ['shellcode'] | 1 | 2022-01-26 07:23:50+00:00 | 0 | 0 | Python | 0 | [] |
+| zhzyker/CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 07:35:45+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | baonviclates/metasploitgui | None | https://github.com/baonviclates/metasploitgui | ['metasploit module OR payload'] | 1 | 2022-01-26 08:36:14+00:00 | 0 | 0 | Smali | 0 | [] |
-| signfind/CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 02:30:05+00:00 | 0 | 1 | C | 1 | ['CVE-2021-4034'] |
 | joey-s1/github_cve | Search exploit/cve/POC stuff from github | https://github.com/joey-s1/github_cve | ['cve poc', 'exploit'] | 2 | 2022-01-26 08:42:23+00:00 | 0 | 0 | Python | 0 | [] |
 | J0hnbX/CVE-2021-4034-new | None | https://github.com/J0hnbX/CVE-2021-4034-new | ['cve-2 OR cve_2'] | 1 | 2022-01-26 08:06:04+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Green-Avocado/exploits | Exploit POCs for publicly disclosed vulnerabilites. For educational purposes only. | https://github.com/Green-Avocado/exploits | ['exploit'] | 1 | 2022-01-26 08:15:41+00:00 | 0 | 0 | | 0 | [] |
@@ -24,33 +26,33 @@
 | Immersive-Labs-Sec/CVE-2021-4034 | Proof of Concept for CVE-2021-4034 Polkit Privilege Escalation | https://github.com/Immersive-Labs-Sec/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 09:37:18+00:00 | 3 | 0 | Shell | 0 | ['CVE-2021-4034'] |
 | Mckenziegwendolynuxjp2/Social-networks-are-not-to-exploit-technology-but-to-serve-society | Social networks are not to exploit technology, but to serve society | https://github.com/Mckenziegwendolynuxjp2/Social-networks-are-not-to-exploit-technology-but-to-serve-society | ['exploit'] | 1 | 2022-01-26 08:41:44+00:00 | 0 | 0 | | 0 | [] |
 | kimusan/pkwner | A python3 PoC for CVE-2021-4034 by Kim Schulz | https://github.com/kimusan/pkwner | ['cve poc'] | 1 | 2022-01-26 09:22:30+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
-| N1et/CVE-2021-4034 | Just a sh script file to CVE-2021-4034 | https://github.com/N1et/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 10:08:47+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
-| mebeim/CVE-2021-4034 | CVE-2021-4034: Local Privilege Escalation in polkit's pkexec proof of concept | https://github.com/mebeim/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 04:14:41+00:00 | 47 | 0 | C | 0 | ['CVE-2021-4034'] |
 | nikaiw/CVE-2021-4034 | PoC for CVE-2021-4034 | https://github.com/nikaiw/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 02:27:53+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
-| darkencoder/-ODiscord | discord-hack discord-exploits discord-exploit i2rys 0discord discord-hacking-tools discord-exploit-collection discord-tools-collection discord-fun-tools discord-trolling-tools | https://github.com/darkencoder/-ODiscord | ['exploit'] | 1 | 2022-01-26 10:10:13+00:00 | 0 | 0 | | 0 | [] |
-| numanturle/CVE-2022-0332 | None | https://github.com/numanturle/CVE-2022-0332 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:18:26+00:00 | 0 | 1 | | 0 | ['CVE-2022-0332'] |
+| dzonerzy/poc-cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 01:41:04+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
+| Audiobahn/CVE-2021-4034 | CVE-2021-4034 🎧 | https://github.com/Audiobahn/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 01:34:11+00:00 | 0 | 1 | C | 0 | ['CVE-2021-4034'] |
+| ryaagard/CVE-2021-4034 | Local Privilege Escalation in polkit's pkexec | https://github.com/ryaagard/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:07:47+00:00 | 7 | 0 | C | 0 | ['CVE-2021-4034'] |
+| ASER-VANT/ShellsHock | ShellsHock Zaafiyeti İçin Exploit Aracı | https://github.com/ASER-VANT/ShellsHock | ['exploit'] | 1 | 2022-01-26 14:20:16+00:00 | 5 | 1 | Python | 1 | [] |
 | not-body/NotBodySploit | None | https://github.com/not-body/NotBodySploit | ['sploit'] | 1 | 2022-01-26 09:39:08+00:00 | 19 | 1 | Python | 0 | [] |
 | ArchCWithClasses/ExploitDevelopment | Repository with PoCs for binary overflow exploitation | https://github.com/ArchCWithClasses/ExploitDevelopment | ['exploit'] | 1 | 2022-01-26 09:30:08+00:00 | 1071 | 0 | Python | 0 | [] |
 | Stef-Boogers/SagaScape | Model of subsitence and resource exploitation in the territory of Sagalassos, Turkey during the Late Iron Age - Early Hellenistic period | https://github.com/Stef-Boogers/SagaScape | ['exploit'] | 1 | 2022-01-26 15:45:50+00:00 | 6671 | 0 | NetLogo | 0 | [] |
 | 0xZyd/WP | WordPress Plugin The True Ranker 2.2.2 - Arbitrary File Read-Exploit | https://github.com/0xZyd/WP | ['exploit'] | 1 | 2022-01-26 14:13:53+00:00 | 2 | 0 | Python | 0 | [] |
 | furuanruan/Exploit | Reproduce public CVE vulnerability notes | https://github.com/furuanruan/Exploit | ['exploit'] | 1 | 2022-01-26 08:41:49+00:00 | 1 | 0 | | 0 | [] |
+| lnfernal/roblox-rce | Roblox 0day exploit also known as xss and pretty much a one click beaming method for roblox | https://github.com/lnfernal/roblox-rce | ['0day', 'exploit', 'rce'] | 3 | 2022-01-26 23:32:09+00:00 | 12 | 0 | | 0 | [] |
 | chvancooten/NimPackt-v1 | Nim-based assembly packer and shellcode loader for opsec & profit | https://github.com/chvancooten/NimPackt-v1 | ['shellcode'] | 1 | 2022-01-26 14:55:17+00:00 | 664 | 10 | Nim | 4 | [] |
-| ryaagard/CVE-2021-4034 | Local Privilege Escalation in polkit's pkexec | https://github.com/ryaagard/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:07:47+00:00 | 7 | 0 | C | 0 | ['CVE-2021-4034'] |
 | berdav/CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 02:35:32+00:00 | 1 | 43 | C | 13 | ['CVE-2021-4034'] |
+| JohnHammond/CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 01:05:56+00:00 | 0 | 1 | | 0 | ['CVE-2021-4034'] |
+| numanturle/CVE-2022-0332 | None | https://github.com/numanturle/CVE-2022-0332 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:18:26+00:00 | 0 | 1 | | 0 | ['CVE-2022-0332'] |
 | xqeokcwxbpcfmrmj/exploits | None | https://github.com/xqeokcwxbpcfmrmj/exploits | ['exploit'] | 1 | 2022-01-26 00:21:11+00:00 | 0 | 0 | C | 0 | [] |
-| dzonerzy/poc-cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 01:41:04+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
 | clubby789/CVE-2021-4034 | None | https://github.com/clubby789/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:29:08+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | gbrsh/CVE-2021-4034 | None | https://github.com/gbrsh/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:57:04+00:00 | 2 | 0 | C | 1 | ['CVE-2021-4034'] |
 | xryshirfxn/exkern | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | ['exploit'] | 1 | 2022-01-26 01:00:48+00:00 | 0 | 1 | | 0 | [] |
 | arthepsy/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-01-26 01:10:08+00:00 | 0 | 1 | C | 1 | ['CVE-2021-4034'] |
 | VICXOR/shellcode_runner | None | https://github.com/VICXOR/shellcode_runner | ['shellcode'] | 1 | 2022-01-26 00:57:01+00:00 | 6 | 0 | C# | 0 | [] |
 | evannns/desmos-packet-modifier | modifies desmos packets to allow any user to attach an image directly to the website | https://github.com/evannns/desmos-packet-modifier | ['exploit'] | 1 | 2022-01-26 01:27:52+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| JohnHammond/CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 01:05:56+00:00 | 0 | 1 | | 0 | ['CVE-2021-4034'] |
-| Audiobahn/CVE-2021-4034 | CVE-2021-4034 🎧 | https://github.com/Audiobahn/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 01:34:11+00:00 | 0 | 1 | C | 0 | ['CVE-2021-4034'] |
-| baonviclates/metasploitgui | None | https://github.com/baonviclates/metasploitgui | ['metasploit module OR payload'] | 1 | 2022-01-26 09:50:19+00:00 | 0 | 0 | | 0 | [] |
+| N1et/CVE-2021-4034 | Just a sh script file to CVE-2021-4034 | https://github.com/N1et/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 10:08:47+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
+| darkencoder/-ODiscord | discord-hack discord-exploits discord-exploit i2rys 0discord discord-hacking-tools discord-exploit-collection discord-tools-collection discord-fun-tools discord-trolling-tools | https://github.com/darkencoder/-ODiscord | ['exploit'] | 1 | 2022-01-26 10:10:13+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-26 02:41:19+00:00 | 22261 | 6286 | JavaScript | 1478 | [] |
 | aleeamini/ExploitDevelopmentCourse | material of exploit dev course | https://github.com/aleeamini/ExploitDevelopmentCourse | ['exploit'] | 1 | 2022-01-26 10:24:13+00:00 | 0 | 0 | Python | 0 | [] |
-| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-01-26 05:10:30+00:00 | 2192 | 5 | C++ | 1 | [] |
-| luijait/PwnKit-Exploit | CVE | https://github.com/luijait/PwnKit-Exploit | ['exploit'] | 1 | 2022-01-26 18:02:14+00:00 | 0 | 0 | C | 0 | [] |
+| sunny0day/CVE-2021-4034 | None | https://github.com/sunny0day/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 16:08:09+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | mike-artemis/cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 16:44:52+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | whokilleddb/CVE-2021-4034 | An exploit for CVE-2021-4034 aka Pwnkit: Local Privilege Escalation in polkit's pkexec | https://github.com/whokilleddb/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-26 16:19:23+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | discordianfish/cve-2022-0185-crash-poc | None | https://github.com/discordianfish/cve-2022-0185-crash-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 16:45:45+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0185'] |
@@ -59,8 +61,8 @@
 | luijait/Pwnkit-PoC | CVE-2021-4034 Proof Of Concept | https://github.com/luijait/Pwnkit-PoC | ['cve poc'] | 1 | 2022-01-26 17:42:30+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | robemmerson/CVE-2021-4034 | None | https://github.com/robemmerson/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 17:50:55+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | joeammond/CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-26 18:00:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
+| luijait/PwnKit-Exploit | CVE | https://github.com/luijait/PwnKit-Exploit | ['exploit'] | 1 | 2022-01-26 18:02:14+00:00 | 0 | 0 | C | 0 | [] |
 | MaherAzzouzi/CVE-2022-23967 | TightVNC Vulnerability. | https://github.com/MaherAzzouzi/CVE-2022-23967 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 18:53:03+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-23967'] |
-| PeterGottesman/pwnkit-exploit | None | https://github.com/PeterGottesman/pwnkit-exploit | ['cve poc', 'exploit'] | 2 | 2022-01-26 16:15:16+00:00 | 0 | 0 | C | 0 | [] |
 | Anonymous-Family/CVE-2021-4034 | Linux system service bug gives root on all major distros, exploit published A vulnerability in the pkexec component of Polkit identified as CVE-2021-4034 PwnKit is present in the default configuration of all major Linux distributions and can be exploited t | https://github.com/Anonymous-Family/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-26 19:31:04+00:00 | 0 | 1 | C | 0 | ['CVE-2021-4034'] |
 | phvilasboas/CVE-2021-4034 | None | https://github.com/phvilasboas/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 19:10:02+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | hackingyseguridad/CVE-2021-4034 | None | https://github.com/hackingyseguridad/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 19:37:17+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
@@ -69,10 +71,11 @@
 | kylekennedy26/3482-lab2 | exploit lab connor and kyle | https://github.com/kylekennedy26/3482-lab2 | ['exploit'] | 1 | 2022-01-26 20:38:22+00:00 | 0 | 0 | C | 0 | [] |
 | nobelh/CVE-2020-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept | https://github.com/nobelh/CVE-2020-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 20:32:11+00:00 | 0 | 0 | | 0 | ['CVE-2020-4034', 'CVE-2021-4034'] |
 | wariokirby/CoffeelockCheeseTracker | Designed for tracking spell slots and sorcery points for the unique case of crossing a warlock and a sorcerer exploiting the no sleep temp spell slot rules | https://github.com/wariokirby/CoffeelockCheeseTracker | ['exploit'] | 1 | 2022-01-26 20:52:25+00:00 | 0 | 0 | Java | 0 | [] |
-| sunny0day/CVE-2021-4034 | None | https://github.com/sunny0day/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 16:08:09+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| PeterGottesman/pwnkit-exploit | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | ['cve poc', 'exploit'] | 2 | 2022-01-26 16:15:16+00:00 | 3 | 0 | C | 0 | ['CVE-2021-4034'] |
 | skollr34p3r/Common_Vulns | Keeping some CVE exploits easily accessible | https://github.com/skollr34p3r/Common_Vulns | ['exploit'] | 1 | 2022-01-26 16:19:24+00:00 | 0 | 0 | | 0 | [] |
+| azminawwar/CVE-2021-4034 | CVE-2021-4034 in Bash Script | https://github.com/azminawwar/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 16:09:15+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
+| ailtonbsj/exploits-and-others | CVE, exploits and PoC's only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | ['cve poc', 'exploit'] | 2 | 2022-01-26 12:20:45+00:00 | 0 | 0 | | 0 | [] |
 | Nero22k/CVE-2021-4034 | Dirty PoC for CVE-2021-4034 (Pwnkit) | https://github.com/Nero22k/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 10:30:43+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
-| jostmart/-CVE-2021-4034 | None | https://github.com/jostmart/-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 12:45:07+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | LukeGix/CVE-2021-4034 | A stupid poc for CVE-2021-4034 | https://github.com/LukeGix/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 10:41:02+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | aus-mate/CVE-2021-4034-POC | None | https://github.com/aus-mate/CVE-2021-4034-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 10:39:27+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | chenaotian/CVE-2021-4034 | CVE-2021-4034 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 11:13:35+00:00 | 0 | 1 | C | 0 | ['CVE-2021-4034'] |
@@ -80,21 +83,20 @@
 | m96dg/CVE-2021-41773-exercise | A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are | https://github.com/m96dg/CVE-2021-41773-exercise | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-26 11:20:57+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
 | NotReloads/reload-faketriggers | Fake Triggers for FiveM _ To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | ['exploit'] | 1 | 2022-01-26 11:33:10+00:00 | 0 | 0 | Lua | 0 | [] |
 | 7unn3l/CVE-2015-3306-PoC | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-01-26 12:05:19+00:00 | 0 | 0 | Python | 0 | ['CVE-2015-3306'] |
-| ailtonbsj/exploits-and-others | CVE, exploits and PoC's only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | ['cve poc', 'exploit'] | 2 | 2022-01-26 12:20:45+00:00 | 0 | 0 | | 0 | [] |
+| jostmart/-CVE-2021-4034 | None | https://github.com/jostmart/-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 12:45:07+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
+| SonOfOdin33/Internal-Pentest-Exploit-Info | Listed services with general info, how to enumerate, how they work and how to exploit. | https://github.com/SonOfOdin33/Internal-Pentest-Exploit-Info | ['exploit'] | 1 | 2022-01-26 15:23:42+00:00 | 0 | 0 | | 0 | [] |
 | JaeXploit/WPFM-Exploiter | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | ['exploit'] | 1 | 2022-01-26 13:30:18+00:00 | 0 | 1 | Shell | 0 | [] |
-| azminawwar/CVE-2021-4034 | CVE-2021-4034 in Bash Script | https://github.com/azminawwar/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 16:09:15+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
-| c3l3si4n/pwnkit | PoC for the CVE-2021-4034 vulnerability, affecting polkit < 0.120. | https://github.com/c3l3si4n/pwnkit | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-26 13:39:27+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| c3l3si4n/pwnkit | PoC for the CVE-2021-4034 vulnerability, affecting polkit < 0.120. | https://github.com/c3l3si4n/pwnkit | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-26 13:40:31+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | 1nf1n17yk1ng/CVE-2021-4034 | None | https://github.com/1nf1n17yk1ng/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 13:50:23+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | binksjar/cve-2021-4034 | Simple POC Code | https://github.com/binksjar/cve-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 14:25:35+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | ly4k/PwnKit | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | ['exploit'] | 1 | 2022-01-26 14:27:26+00:00 | 0 | 2 | C | 1 | ['CVE-2021-4034'] |
 | san3ncrypt3d/CVE-2021-4034-POC | None | https://github.com/san3ncrypt3d/CVE-2021-4034-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 14:43:49+00:00 | 4 | 0 | C | 0 | ['CVE-2021-4034'] |
 | fdellwing/CVE-2021-4034 | None | https://github.com/fdellwing/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 15:06:26+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | xcanwin/CVE-2021-4034-UniontechOS | 低调证明 | https://github.com/xcanwin/CVE-2021-4034-UniontechOS | ['cve-2 OR cve_2'] | 1 | 2022-01-26 15:09:38+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
-| SonOfOdin33/Internal-Pentest-Exploit-Info | Listed services with general info, how to enumerate, how they work and how to exploit. | https://github.com/SonOfOdin33/Internal-Pentest-Exploit-Info | ['exploit'] | 1 | 2022-01-26 15:23:42+00:00 | 0 | 0 | | 0 | [] |
-| ASER-VANT/ShellsHock | ShellsHock Zaafiyeti İçin Exploit Aracı | https://github.com/ASER-VANT/ShellsHock | ['exploit'] | 1 | 2022-01-26 14:20:16+00:00 | 5 | 1 | Python | 1 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-01-26 05:10:30+00:00 | 2192 | 5 | C++ | 1 | [] |
 | saberkid/0day-outbreak-alert | None | https://github.com/saberkid/0day-outbreak-alert | ['0day'] | 1 | 2022-01-26 04:41:23+00:00 | 33 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-01-26 02:41:19+00:00 | 22261 | 6286 | JavaScript | 1478 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-26 00:04:10+00:00 | 441019 | 45 | | 20 | [] |
+| nixpal/kernel32-finder | Two new methods to find kernel32 base address | https://github.com/nixpal/kernel32-finder | ['shellcode'] | 1 | 2022-01-26 22:28:38+00:00 | 15 | 0 | Assembly | 0 | [] |
+| kush-js/rce-backend | None | https://github.com/kush-js/rce-backend | ['rce'] | 1 | 2022-01-26 23:13:35+00:00 | 71 | 0 | Java | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-26 00:46:22+00:00 | 25356 | 26 | | 17 | [] |
 | nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2022-01-26 13:30:57+00:00 | 254987 | 695 | HTML | 168 | [] |
 | iwazer/rcellrange | Converts Google spreadsheet cell and matrix position specifications. | https://github.com/iwazer/rcellrange | ['rce'] | 1 | 2022-01-26 08:35:57+00:00 | 6 | 0 | Ruby | 0 | [] |
@@ -103,8 +105,9 @@
 | SevenC-base/PostExploitation | This is use for PostExploitation. | https://github.com/SevenC-base/PostExploitation | ['exploit'] | 1 | 2022-01-26 14:13:44+00:00 | 2 | 0 | Python | 0 | [] |
 | NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-01-26 17:50:07+00:00 | 2494 | 0 | C | 0 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-01-26 12:30:41+00:00 | 9591 | 30 | Shell | 6 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-01-26 22:51:13+00:00 | 1054 | 1 | Python | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-26 00:04:10+00:00 | 441019 | 45 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-26 00:32:24+00:00 | 110334 | 14 | Python | 5 | [] |
-| tomBombad17/exploit | code for testing exploits | https://github.com/tomBombad17/exploit | ['exploit'] | 1 | 2022-01-26 02:22:28+00:00 | 7 | 0 | Python | 0 | [] |
 | yuawn/Linux-Kernel-Exploitation | Linux kernel exploitation lab. | https://github.com/yuawn/Linux-Kernel-Exploitation | ['exploit'] | 1 | 2022-01-26 06:25:04+00:00 | 17201 | 116 | C | 17 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-01-26 02:06:17+00:00 | 7038 | 1 | Java | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-26 01:08:42+00:00 | 108 | 0 | PHP | 0 | [] |
@@ -114,8 +117,8 @@
 | Medaz-Sploit/Medaz-Sploit.github.io | None | https://github.com/Medaz-Sploit/Medaz-Sploit.github.io | ['sploit'] | 1 | 2022-01-26 20:39:10+00:00 | 92 | 1 | PHP | 0 | [] |
 | Hacker5preme/Exploits | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | ['exploit'] | 1 | 2022-01-26 21:28:01+00:00 | 2892 | 13 | Python | 4 | [] |
 | vesche/CVE-2019-10475 | None | https://github.com/vesche/CVE-2019-10475 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 17:08:27+00:00 | 501 | 14 | Python | 4 | ['CVE-2019-10475'] |
+| tomBombad17/exploit | code for testing exploits | https://github.com/tomBombad17/exploit | ['exploit'] | 1 | 2022-01-26 02:22:28+00:00 | 7 | 0 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-26 13:41:41+00:00 | 1521756 | 3941 | PowerShell | 1388 | [] |
-| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-26 12:34:42+00:00 | 2036305 | 11 | | 5 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2022-01-26 13:43:13+00:00 | 9406 | 67 | PHP | 15 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-26 14:50:21+00:00 | 27214 | 8688 | Python | 1486 | [] |
 | trustedsec/unicorn | Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 1 | https://github.com/trustedsec/unicorn | ['shellcode'] | 1 | 2022-01-26 01:57:15+00:00 | 444 | 3086 | Python | 761 | [] |
@@ -136,8 +139,8 @@
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-01-26 15:22:32+00:00 | 162 | 107 | | 18 | [] |
 | ISK33/Exploit | None | https://github.com/ISK33/Exploit | ['exploit'] | 1 | 2022-01-26 19:56:10+00:00 | 0 | 0 | | 0 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2022-01-26 16:09:31+00:00 | 461 | 187 | Python | 37 | [] |
+| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-01-26 12:34:42+00:00 | 2036305 | 11 | | 5 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-26 01:15:38+00:00 | 25164 | 2 | Python | 0 | [] |
-| nixpal/kernel32-finder | Two new methods to find kernel32 base address | https://github.com/nixpal/kernel32-finder | ['shellcode'] | 1 | 2022-01-26 22:28:38+00:00 | 15 | 0 | Assembly | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-26 12:34:45+00:00 | 14070 | 1 | Jupyter Notebook | 0 | [] |
 | DavidTDC3377/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui | https://github.com/DavidTDC3377/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-01-26 12:15:31+00:00 | 5 | 0 | Lua | 0 | [] |
 | exp1orer/JNDI-Inject-Exploit | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | ['exploit'] | 1 | 2022-01-26 07:17:30+00:00 | 118 | 289 | Java | 76 | [] |
