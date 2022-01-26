@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+452436770,callrbx/pkexec-lpe-poc,README.md,41cc086a9e7c903e67a902d01861731ea427c5d0,CVE-2021-4034
+452436770,callrbx/pkexec-lpe-poc,_GITHUB_REPO_METADATA_,,CVE-2021-4034
