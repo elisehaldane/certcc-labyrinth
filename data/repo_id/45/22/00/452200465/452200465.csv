@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+452200465,kimusan/pkwner,pkwner.py,98aaa1daf1829c78a287c1897fbfde2c9fb9321b,CVE-2021-4034
+452200465,kimusan/pkwner,README.md,b01077ba452a4ad4da425f56ca679e8273733491,CVE-2021-4034
+452200465,kimusan/pkwner,_GITHUB_REPO_METADATA_,,CVE-2021-4034
