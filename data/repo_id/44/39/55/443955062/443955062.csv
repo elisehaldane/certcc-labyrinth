@@ -4,5 +4,8 @@ repo_id,repo_full_name,file,file_sha1,match
 443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/Web应用漏洞/Grafana/Grafana plugins 任意文件读取漏洞 CVE-2021-43798.py,1d9026306d13c1e54b1b299aa2c53be7253b8d5f,CVE-2021-43798
 443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/Web服务器漏洞/Apache/Apache Flink/Apache Flink 目录遍历漏洞 CVE-2020-17519.py,43544a4069d32d3cc560ae65723771e77ebb173c,CVE-2020-17518
 443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/Web服务器漏洞/Apache/Apache Flink/Apache Flink 目录遍历漏洞 CVE-2020-17519.py,43544a4069d32d3cc560ae65723771e77ebb173c,CVE-2020-17519
+443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/操作系统漏洞/Linux Polkit权限提升漏洞 CVE-2021-4034.py,44ed32ccfa4be2079c621c935ef64a4d804d9fee,CVE-2021-4034
+443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/操作系统漏洞/Linux Polkit权限提升漏洞 CVE-2021-4034.py,44ed32ccfa4be2079c621c935ef64a4d804d9fee,VU#205
+443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/操作系统漏洞/Linux Polkit权限提升漏洞 CVE-2021-4034.py,44ed32ccfa4be2079c621c935ef64a4d804d9fee,VU#40
 443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/Web服务器漏洞/Apache/Apache Druid/Apache Druid sampler 远程代码执行漏洞 CVE-2021-25646.py,6fe4fb3d42f6bb0e47e9aaa80f98168667be1a00,CVE-2021-25646
 443955062,PeiQi0/PeiQi-WIKI-PocSuite3,POC/Web服务器漏洞/Apache/Apache ShenYu/Apache ShenYu dashboardUser 账号密码泄漏漏洞 CVE-2021-37580.py,fb44643346fa6681ae6bdd2d3fcb53e4f7b3378a,CVE-2021-37580
