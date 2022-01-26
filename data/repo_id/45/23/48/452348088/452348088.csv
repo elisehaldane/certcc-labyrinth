@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+452348088,whokilleddb/CVE-2021-4034,README.md,8e2bc63aa09233d298e5bea64eb07dc3225d60e9,CVE-2021-4034
+452348088,whokilleddb/CVE-2021-4034,src/exploit.c,cc06640da5937a841e62fc1c4b29ef8341db95f4,CVE-2021-4034
+452348088,whokilleddb/CVE-2021-4034,_GITHUB_REPO_METADATA_,,CVE-2021-4034
