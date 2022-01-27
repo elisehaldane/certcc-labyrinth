@@ -7,7 +7,7 @@ VU#65,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNew
 VU#65,0.10000000,https://github.com/wvu/metasploit-ctf-challenges,wvu/metasploit-ctf-challenges,181991992
 VU#65,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#65,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
-VU#65,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
+VU#65,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#65,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#65,0.05882353,https://github.com/SQLab/CRAXplusplus,SQLab/CRAXplusplus,401678100
 VU#65,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
@@ -27,13 +27,17 @@ VU#65,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bi
 VU#65,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#65,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#65,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
+VU#65,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
+VU#65,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#65,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#65,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#65,0.00465116,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 VU#65,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#65,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-VU#65,0.00219780,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#65,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
+VU#65,0.00218818,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#65,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#65,0.00073910,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#65,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#65,0.00020421,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#65,0.00020396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

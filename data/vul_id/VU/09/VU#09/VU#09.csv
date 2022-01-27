@@ -8,6 +8,7 @@ VU#09,0.50000000,https://github.com/vlourn/vc-exploit,vlourn/vc-exploit,41801330
 VU#09,0.33333333,https://github.com/go-bi/CVE-2019-0708-EXP-Windows,go-bi/CVE-2019-0708-EXP-Windows,330872202
 VU#09,0.33333333,https://github.com/cbwang505/CVE-2019-0708-EXP-Windows,cbwang505/CVE-2019-0708-EXP-Windows,235239045
 VU#09,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
+VU#09,0.20000000,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#09,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/CVE-2021-28750-site,444335154
 VU#09,0.11111111,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#09,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
@@ -24,6 +25,7 @@ VU#09,0.03571429,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,17
 VU#09,0.02857143,https://github.com/hbs7/hbs.github.io,hbs7/hbs.github.io,441657025
 VU#09,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
 VU#09,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
+VU#09,0.02857143,https://github.com/darkxex/ps4,darkxex/ps4,438368269
 VU#09,0.02857143,https://github.com/KameleonReloaded/leeful900,KameleonReloaded/leeful900,438099843
 VU#09,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#09,0.02272727,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
@@ -39,12 +41,14 @@ VU#09,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bi
 VU#09,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#09,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#09,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#09,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#09,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#09,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#09,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#09,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#09,0.00225225,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-VU#09,0.00219780,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#09,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
+VU#09,0.00218818,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#09,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#09,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#09,0.00026441,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
