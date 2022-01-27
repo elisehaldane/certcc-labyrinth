@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+452288004,c3l3si4n/pwnkit,pwnkit,10e01d3117afa58d31ee46baf51f8f1b72a3a584,CVE-2021-4034
+452288004,c3l3si4n/pwnkit,pwnkit.c,b1370ebd1d926f0678f3eecd9a52ad6e2a7df4ee,CVE-2021-4034
+452288004,c3l3si4n/pwnkit,_GITHUB_REPO_METADATA_,,CVE-2021-4034

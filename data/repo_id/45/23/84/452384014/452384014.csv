@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+452384014,luijait/PwnKit-Exploit,README.md,9a9dad22f83c13d15b7f92e659267a6d3c4d042f,CVE-2021-4034
+452384014,luijait/PwnKit-Exploit,exploit.c,dbd47a6420991b11d3482db01a5890bd90bad1da,CVE-2021-4034
+452384014,luijait/PwnKit-Exploit,pwnkit64decoded.c,df602b8d48e12cefb1cac005743dff0ef17b2375,CVE-2021-4034
