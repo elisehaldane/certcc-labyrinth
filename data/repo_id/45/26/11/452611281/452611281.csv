@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+452611281,Redshift-CyberSecurity/Metasploit,redshift-modules/exploits/multi/http/apache_http_server_lfi_cgi_rce.rb,9b855af5d9c403798ca95d5ee582fa2d89cf03ac,CVE-2021-41773
+452611281,Redshift-CyberSecurity/Metasploit,redshift-modules/exploits/multi/http/apache_http_server_lfi_cgi_rce.rb,9b855af5d9c403798ca95d5ee582fa2d89cf03ac,CVE-2021-42013
