@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+452784469,Fato07/Pwnkit-exploit,README.md,253ae3f39e1bf1a8e42e7dd34386efbbdf54cc08,CVE-2021-4034
+452784469,Fato07/Pwnkit-exploit,exploit.py,44ed32ccfa4be2079c621c935ef64a4d804d9fee,CVE-2021-4034
+452784469,Fato07/Pwnkit-exploit,exploit.py,44ed32ccfa4be2079c621c935ef64a4d804d9fee,VU#205
+452784469,Fato07/Pwnkit-exploit,exploit.py,44ed32ccfa4be2079c621c935ef64a4d804d9fee,VU#40
+452784469,Fato07/Pwnkit-exploit,exploit.c,48d1b45bfc85bc4f5f6661e22dd3ad480c35fb03,CVE-2021-4034
+452784469,Fato07/Pwnkit-exploit,_GITHUB_REPO_METADATA_,,CVE-2021-4034
