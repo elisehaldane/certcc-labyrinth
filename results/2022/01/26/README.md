@@ -37,7 +37,7 @@
 | furuanruan/Exploit | Reproduce public CVE vulnerability notes | https://github.com/furuanruan/Exploit | ['exploit'] | 1 | 2022-01-26 08:41:49+00:00 | 1 | 0 | | 0 | [] |
 | lnfernal/roblox-rce | Roblox 0day exploit also known as xss and pretty much a one click beaming method for roblox | https://github.com/lnfernal/roblox-rce | ['0day', 'exploit', 'rce'] | 3 | 2022-01-26 23:32:09+00:00 | 12 | 0 | | 0 | [] |
 | chvancooten/NimPackt-v1 | Nim-based assembly packer and shellcode loader for opsec & profit | https://github.com/chvancooten/NimPackt-v1 | ['shellcode'] | 1 | 2022-01-26 14:55:17+00:00 | 664 | 10 | Nim | 4 | [] |
-| ryaagard/CVE-2021-4034 | Local Privilege Escalation in polkit's pkexec | https://github.com/ryaagard/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:07:47+00:00 | 7 | 0 | C | 0 | ['CVE-2021-4034'] |
+| ryaagard/CVE-2021-4034 | Local Privilege Escalation in polkit's pkexec | https://github.com/ryaagard/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-26 01:01:15+00:00 | 8 | 31 | C | 17 | ['CVE-2021-4034'] |
 | berdav/CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 02:35:32+00:00 | 1 | 43 | C | 13 | ['CVE-2021-4034'] |
 | numanturle/CVE-2022-0332 | None | https://github.com/numanturle/CVE-2022-0332 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 00:18:26+00:00 | 0 | 1 | | 0 | ['CVE-2022-0332'] |
 | xqeokcwxbpcfmrmj/exploits | None | https://github.com/xqeokcwxbpcfmrmj/exploits | ['exploit'] | 1 | 2022-01-26 00:21:11+00:00 | 0 | 0 | C | 0 | [] |
@@ -74,7 +74,7 @@
 | T3cnokarita/CVE-2021-4034 | None | https://github.com/T3cnokarita/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 23:46:29+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | mike-artemis/cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 16:44:52+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | sunny0day/CVE-2021-4034 | None | https://github.com/sunny0day/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 16:08:09+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
-| PeterGottesman/pwnkit-exploit | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | ['cve poc', 'exploit'] | 2 | 2022-01-26 16:15:16+00:00 | 3 | 0 | C | 0 | ['CVE-2021-4034'] |
+| PeterGottesman/pwnkit-exploit | None | https://github.com/PeterGottesman/pwnkit-exploit | ['cve poc', 'exploit'] | 2 | 2022-01-26 16:15:16+00:00 | 0 | 0 | C | 0 | [] |
 | JaeXploit/WPFM-Exploiter | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | ['exploit'] | 1 | 2022-01-26 13:30:18+00:00 | 0 | 1 | Shell | 0 | [] |
 | aus-mate/CVE-2021-4034-POC | None | https://github.com/aus-mate/CVE-2021-4034-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 10:39:27+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | chenaotian/CVE-2021-4034 | CVE-2021-4034 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 11:13:35+00:00 | 0 | 1 | C | 0 | ['CVE-2021-4034'] |
@@ -84,7 +84,7 @@
 | 7unn3l/CVE-2015-3306-PoC | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-01-26 12:05:19+00:00 | 0 | 0 | Python | 0 | ['CVE-2015-3306'] |
 | ailtonbsj/exploits-and-others | CVE, exploits and PoC's only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | ['cve poc', 'exploit'] | 2 | 2022-01-26 12:20:45+00:00 | 0 | 0 | | 0 | [] |
 | jostmart/-CVE-2021-4034 | None | https://github.com/jostmart/-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 12:45:07+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
-| c3l3si4n/pwnkit | PoC for the CVE-2021-4034 vulnerability, affecting polkit < 0.120. | https://github.com/c3l3si4n/pwnkit | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-26 13:40:31+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| c3l3si4n/pwnkit | PoC for the CVE-2021-4034 vulnerability, affecting polkit < 0.120. | https://github.com/c3l3si4n/pwnkit | ['cve poc', 'vulnerability poc'] | 2 | 2022-01-26 13:39:27+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | skollr34p3r/Common_Vulns | Keeping some CVE exploits easily accessible | https://github.com/skollr34p3r/Common_Vulns | ['exploit'] | 1 | 2022-01-26 16:19:24+00:00 | 0 | 0 | | 0 | [] |
 | 1nf1n17yk1ng/CVE-2021-4034 | None | https://github.com/1nf1n17yk1ng/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-26 13:50:23+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | binksjar/cve-2021-4034 | Simple POC Code | https://github.com/binksjar/cve-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-26 14:25:35+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
