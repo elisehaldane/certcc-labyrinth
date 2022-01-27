@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+452770723,BrunoPincho/cve-2018-16763-rust,Cargo.toml,713dc8cfe66c710f6ddefd49c6da5bdf7df066b0,CVE-2018-16763
+452770723,BrunoPincho/cve-2018-16763-rust,README.md,ee634dd281583fc1561a41dd7e7e3d5884aeca66,CVE-2018-16763
+452770723,BrunoPincho/cve-2018-16763-rust,Cargo.lock,fac7fa24d2f7f9e46d58d6123f58993093399be6,CVE-2018-16763
+452770723,BrunoPincho/cve-2018-16763-rust,_GITHUB_REPO_METADATA_,,CVE-2018-16763
