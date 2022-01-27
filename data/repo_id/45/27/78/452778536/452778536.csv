@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+452778536,r4hn1/Simple-Client-Management-System-Exploit,README.md,4762bde4534ef655d63a540b8e7bb9868367c36f,CVE-2021-43509
+452778536,r4hn1/Simple-Client-Management-System-Exploit,README.md,4762bde4534ef655d63a540b8e7bb9868367c36f,CVE-2021-43510
+452778536,r4hn1/Simple-Client-Management-System-Exploit,CVE-2021-43509,ec495ef6371079290ddbb7cda51ef0359559336d,CVE-2021-43509
+452778536,r4hn1/Simple-Client-Management-System-Exploit,CVE-2021-43510,fd2351a64177659bf289fca2730534dd0deb43a4,CVE-2021-43510
