@@ -1,12 +1,14 @@
 
 # Summary for results/2022/01/27
     
-52 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|------------------------------------|
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-27 00:30:45+00:00 | 27214 | 8690 | Python | 1486 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-27 00:07:34+00:00 | 1534788 | 1558 | Python | 530 | [] |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|------------------------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-27 08:32:37+00:00 | 681119 | 26207 | Ruby | 11915 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-01-27 00:02:40+00:00 | 2200 | 5 | C++ | 1 | [] |
+| Sant268/CVE-2022-22851 | None | https://github.com/Sant268/CVE-2022-22851 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 03:04:39+00:00 | 0 | 1 | | 0 | ['CVE-2022-22851'] |
+| Sant268/CVE-2022-22852 | None | https://github.com/Sant268/CVE-2022-22852 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 03:04:11+00:00 | 0 | 1 | | 0 | ['CVE-2022-22852'] |
 | DioBruh/dbuster-pro | Dbuster-pro is a beta open-source hacking tool for scanning directories in the websites! | https://github.com/DioBruh/dbuster-pro | ['exploit'] | 1 | 2022-01-27 01:49:43+00:00 | 61 | 8 | Shell | 1 | [] |
 | 00FB00P/Ignify | roblox exploit git repos. | https://github.com/00FB00P/Ignify | ['exploit'] | 1 | 2022-01-27 02:29:54+00:00 | 1 | 0 | | 0 | [] |
 | berdav/CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 04:57:32+00:00 | 4 | 609 | C | 192 | ['CVE-2021-4034'] |
@@ -30,22 +32,29 @@
 | ThanhHien98/CVE-2021-44228 | CVE-2021-44228 | https://github.com/ThanhHien98/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 07:10:03+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | puckiestyle/CVE-2021-4034 | None | https://github.com/puckiestyle/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 07:19:25+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Abdibimantara/Vulnerability-Scanning-Metasploitable1 | None | https://github.com/Abdibimantara/Vulnerability-Scanning-Metasploitable1 | ['metasploit module OR payload'] | 1 | 2022-01-27 07:40:05+00:00 | 0 | 0 | | 0 | [] |
-| Sant268/CVE-2022-22852 | None | https://github.com/Sant268/CVE-2022-22852 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 03:04:11+00:00 | 0 | 1 | | 0 | ['CVE-2022-22852'] |
-| Sant268/CVE-2022-22851 | None | https://github.com/Sant268/CVE-2022-22851 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 03:04:39+00:00 | 0 | 1 | | 0 | ['CVE-2022-22851'] |
+| ashutoshrohilla/CVE-2021-4034 | This repository contains the exploit for vulnerability CVE-2021-4034 . | https://github.com/ashutoshrohilla/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-27 07:39:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
+| nikip72/CVE-2021-4034 | None | https://github.com/nikip72/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 08:21:38+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Sant268/CVE-2022-22850 | None | https://github.com/Sant268/CVE-2022-22850 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 02:37:34+00:00 | 0 | 1 | | 0 | ['CVE-2022-22850'] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-27 04:25:03+00:00 | 134049 | 292 | Python | 92 | [] |
+| jake-k-38/win-log4shell-detect | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4shell-detect | ['exploit'] | 1 | 2022-01-27 01:42:00+00:00 | 29 | 1 | PowerShell | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-27 00:30:45+00:00 | 27214 | 8690 | Python | 1486 | [] |
+| robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 08:39:18+00:00 | 45 | 8 | | 0 | ['CVE-2021-44228'] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-27 00:07:34+00:00 | 1534788 | 1558 | Python | 530 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-27 07:29:35+00:00 | 5502 | 3073 | Python | 676 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-01-27 00:58:39+00:00 | 4111 | 86 | Go | 7 | [] |
 | mzet-/linux-exploit-suggester | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | ['exploit'] | 1 | 2022-01-27 01:35:05+00:00 | 593 | 3222 | Shell | 828 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-27 00:16:54+00:00 | 226566 | 269 | Ruby | 79 | [] |
+| robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2022-01-27 08:23:14+00:00 | 212 | 3 | | 1 | ['CVE-2018-19788'] |
+| crypt0sploit/exploit_pcmanftpd2 | Exploit for PCMan's FTP Server _ Windows 7 | https://github.com/crypt0sploit/exploit_pcmanftpd2 | ['exploit'] | 1 | 2022-01-27 07:43:01+00:00 | 21 | 1 | Python | 1 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-27 00:46:23+00:00 | 25712 | 27 | | 17 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3 & 4 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-01-27 06:24:54+00:00 | 317385 | 44 | JavaScript | 15 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-01-27 05:36:04+00:00 | 502 | 10 | Python | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-27 00:04:12+00:00 | 444782 | 45 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-27 00:21:18+00:00 | 137636 | 14 | Python | 5 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-27 08:27:21+00:00 | 79414 | 718 | Go | 123 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-27 02:39:09+00:00 | 109 | 0 | PHP | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-27 07:53:08+00:00 | 334193 | 71 | | 12 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-27 04:25:03+00:00 | 134049 | 292 | Python | 92 | [] |
 | xymeng16/security | Security-related code includes but is not limited to PoCs of existing CVEs, side-channel investigations, etc. | https://github.com/xymeng16/security | ['cve poc'] | 1 | 2022-01-27 03:07:20+00:00 | 4 | 1 | C | 0 | [] |
-| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-01-27 00:02:40+00:00 | 2200 | 5 | C++ | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-27 01:10:08+00:00 | 26850 | 2 | Python | 0 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-27 03:44:23+00:00 | 813 | 31 | C++ | 3 | [] |
 | rain0x06/InternalS8Exploits | Uses UE4. Outdated now. | https://github.com/rain0x06/InternalS8Exploits | ['exploit'] | 1 | 2022-01-27 06:39:06+00:00 | 673 | 3 | C++ | 1 | [] |
@@ -54,6 +63,6 @@
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-27 04:43:28+00:00 | 157 | 1 | Java | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-01-27 05:18:18+00:00 | 53638 | 117 | Python | 34 | [] |
 | nisforrnicholas/WordPress-Theme-Editor-Exploit | Simple Python tool that opens a reverse shell by exploiting the theme editor in WordPress | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | ['exploit'] | 1 | 2022-01-27 01:12:45+00:00 | 7 | 0 | Python | 0 | [] |
+| j-jasson/CVE-2021-43798-grafana_fileread | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-27 08:35:29+00:00 | 8 | 7 | Python | 1 | ['CVE-2021-43798'] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-01-27 06:39:46+00:00 | 5148 | 751 | Java | 154 | ['CVE-2021-44228'] |
-| jake-k-38/win-log4shell-detect | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4shell-detect | ['exploit'] | 1 | 2022-01-27 01:42:00+00:00 | 29 | 1 | PowerShell | 0 | [] |
-| ashutoshrohilla/CVE-2021-4034 | This repository contains the exploit for vulnerability CVE-2021-4034 . | https://github.com/ashutoshrohilla/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-27 07:39:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
+| NiS3x/CVE-2021-4034 | PoC CVE 2021-4034 PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec | https://github.com/NiS3x/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-01-27 08:40:56+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
