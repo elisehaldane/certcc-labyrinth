@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+452019439,iosifache/NetworkProtocolsFuzzingEssay,essay/project/main.tex,ed0be0cf6e6d26489bbfd3514a701265ea46f600,CVE-2014-0160
+452019439,iosifache/NetworkProtocolsFuzzingEssay,essay/project/main.tex,ed0be0cf6e6d26489bbfd3514a701265ea46f600,CVE-2019-15232
+452019439,iosifache/NetworkProtocolsFuzzingEssay,essay/project/main.tex,ed0be0cf6e6d26489bbfd3514a701265ea46f600,CVE-2019-7314
