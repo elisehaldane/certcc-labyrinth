@@ -13,7 +13,7 @@ import tempfile
 
 import dateutil.parser
 import pandas as pd
-from github import Github
+from github import Github, GithubException
 import git
 
 import labyrinth
@@ -59,7 +59,12 @@ def _check_repo_newer(ts, repo_name):
     gh = Github(login_or_token=labyrinth.GH_TOKEN)
     check_rl_core(gh)
 
-    repo = gh.get_repo(repo_name)
+    try:
+        repo = gh.get_repo(repo_name)
+    except GithubException as e:
+        logger.error(f"Caught GithubException: {e}")
+        return False
+
     if m_ts < repo.pushed_at:
         return True
 
