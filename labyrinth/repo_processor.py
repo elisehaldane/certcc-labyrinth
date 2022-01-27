@@ -62,7 +62,7 @@ def _check_repo_newer(ts, repo_name):
     try:
         repo = gh.get_repo(repo_name)
     except GithubException as e:
-        logger.error(f"Caught GithubException: {e}")
+        logger.error(f"Caught GithubException on {repo_name}: {e}")
         return False
 
     if m_ts < repo.pushed_at:
