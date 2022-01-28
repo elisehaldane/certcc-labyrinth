@@ -1,12 +1,14 @@
 
 # Summary for results/2022/01/28
     
-21 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-28 01:25:47+00:00 | 682086 | 26218 | Ruby | 11917 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-28 02:13:58+00:00 | 60164 | 259 | PHP | 99 | [] |
+| n3onhacks/CVE-2021-4034-BASH-One-File-Exploit | CVE-2021-4034 - One line in the terminal for an instant priv esc to boxes that are vulnerable. See usage. | https://github.com/n3onhacks/CVE-2021-4034-BASH-One-File-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-28 04:23:00+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034'] |
+| pengalaman-1t/CVE-2021-4034 | None | https://github.com/pengalaman-1t/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 03:20:18+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | EstamelGG/CVE-2021-4032-NoGCC | None | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | ['cve-2 OR cve_2'] | 1 | 2022-01-28 03:19:43+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4032'] |
 | genjix2/CVE-2020-29599 | None | https://github.com/genjix2/CVE-2020-29599 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 01:48:21+00:00 | 0 | 0 | | 0 | ['CVE-2020-29599'] |
 | Captan40000/SaveService | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | ['exploit'] | 1 | 2022-01-28 00:47:49+00:00 | 0 | 0 | | 0 | [] |
@@ -19,10 +21,12 @@
 | screetsec/TheFatRat | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, | https://github.com/screetsec/TheFatRat | ['exploit'] | 1 | 2022-01-28 00:00:52+00:00 | 363432 | 6055 | C | 1896 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-28 02:50:55+00:00 | 165 | 1 | Java | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-28 01:11:05+00:00 | 28653 | 2 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-28 04:25:42+00:00 | 137514 | 293 | Python | 92 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-28 01:13:30+00:00 | 109 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-28 00:04:14+00:00 | 447206 | 45 | | 20 | [] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2022-01-28 02:31:42+00:00 | 37801 | 438 | C++ | 66 | [] |
 | j00c3/metasploit_modules | Just a couple MSF modules I created to make my red team job easier | https://github.com/j00c3/metasploit_modules | ['metasploit module OR payload'] | 1 | 2022-01-28 01:14:57+00:00 | 4 | 0 | Ruby | 0 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-01-28 04:08:28+00:00 | 1442 | 623 | Java | 78 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-28 00:46:24+00:00 | 26323 | 27 | | 17 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-28 00:17:03+00:00 | 228101 | 269 | Ruby | 79 | [] |
-| pengalaman-1t/CVE-2021-4034 | None | https://github.com/pengalaman-1t/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 03:20:18+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| jpmcb/pwnkit-go | Exploit for the PwnKit vulnerability, CVE-2021-4034, written in Go | https://github.com/jpmcb/pwnkit-go | ['exploit'] | 1 | 2022-01-28 04:27:16+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
