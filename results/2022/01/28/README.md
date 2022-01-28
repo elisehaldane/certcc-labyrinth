@@ -1,20 +1,23 @@
 
 # Summary for results/2022/01/28
     
-18 records found after deduplication
+21 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-28 01:25:47+00:00 | 682086 | 26218 | Ruby | 11917 | [] |
-| screetsec/TheFatRat | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, | https://github.com/screetsec/TheFatRat | ['exploit'] | 1 | 2022-01-28 00:00:52+00:00 | 363432 | 6055 | C | 1896 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-28 02:13:58+00:00 | 60164 | 259 | PHP | 99 | [] |
+| EstamelGG/CVE-2021-4032-NoGCC | None | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | ['cve-2 OR cve_2'] | 1 | 2022-01-28 03:19:43+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4032'] |
+| genjix2/CVE-2020-29599 | None | https://github.com/genjix2/CVE-2020-29599 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 01:48:21+00:00 | 0 | 0 | | 0 | ['CVE-2020-29599'] |
 | Captan40000/SaveService | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | ['exploit'] | 1 | 2022-01-28 00:47:49+00:00 | 0 | 0 | | 0 | [] |
 | numanturle/CVE-2021-43789 | Prestashop >= 1.7.5.0 < 1.7.8.2 - SQL injection | https://github.com/numanturle/CVE-2021-43789 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 00:27:12+00:00 | 0 | 0 | | 0 | ['CVE-2021-43789'] |
 | callrbx/pkexec-lpe-poc | POC for CVE-2021-4034 | https://github.com/callrbx/pkexec-lpe-poc | ['cve poc'] | 1 | 2022-01-28 01:59:25+00:00 | 7 | 2 | C | 0 | ['CVE-2021-4034'] |
 | joeammond/CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-28 00:29:15+00:00 | 7 | 8 | Python | 4 | ['CVE-2021-4034'] |
 | PeterGottesman/pwnkit-exploit | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | ['cve poc', 'exploit'] | 2 | 2022-01-28 00:38:03+00:00 | 3 | 10 | C | 2 | ['CVE-2021-4034'] |
 | arthepsy/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-01-28 01:27:52+00:00 | 5 | 490 | C | 162 | ['CVE-2021-4034'] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-28 02:13:58+00:00 | 60164 | 259 | PHP | 99 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-28 01:05:21+00:00 | 1021 | 2 | C | 1 | [] |
+| screetsec/TheFatRat | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, | https://github.com/screetsec/TheFatRat | ['exploit'] | 1 | 2022-01-28 00:00:52+00:00 | 363432 | 6055 | C | 1896 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-28 02:50:55+00:00 | 165 | 1 | Java | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-28 01:11:05+00:00 | 28653 | 2 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-28 01:13:30+00:00 | 109 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-28 00:04:14+00:00 | 447206 | 45 | | 20 | [] |
@@ -22,4 +25,4 @@
 | j00c3/metasploit_modules | Just a couple MSF modules I created to make my red team job easier | https://github.com/j00c3/metasploit_modules | ['metasploit module OR payload'] | 1 | 2022-01-28 01:14:57+00:00 | 4 | 0 | Ruby | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-28 00:46:24+00:00 | 26323 | 27 | | 17 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-28 00:17:03+00:00 | 228101 | 269 | Ruby | 79 | [] |
-| genjix2/CVE-2020-29599 | None | https://github.com/genjix2/CVE-2020-29599 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 01:48:21+00:00 | 0 | 0 | | 0 | ['CVE-2020-29599'] |
+| pengalaman-1t/CVE-2021-4034 | None | https://github.com/pengalaman-1t/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 03:20:18+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
