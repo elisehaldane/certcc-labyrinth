@@ -1,17 +1,18 @@
 
 # Summary for results/2022/01/28
     
-58 records found after deduplication
+64 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-28 01:25:47+00:00 | 682086 | 26218 | Ruby | 11917 | [] |
-| luijait/PwnKit-Exploit | Proof of Concept (PoC) CVE-2021-4034 | https://github.com/luijait/PwnKit-Exploit | ['cve poc', 'exploit'] | 2 | 2022-01-28 07:15:57+00:00 | 80 | 6 | C | 0 | ['CVE-2021-4034'] |
-| Dargonizer/Roblox | Mostly used for exploiting but sometimes just some other scripts or maybe a readme type thingy idk | https://github.com/Dargonizer/Roblox | ['exploit'] | 1 | 2022-01-28 10:34:28+00:00 | 74 | 0 | Lua | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-28 09:17:44+00:00 | 27214 | 8689 | Python | 1486 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-01-28 02:50:55+00:00 | 165 | 1 | Java | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-28 01:05:21+00:00 | 1021 | 2 | C | 1 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-28 02:13:58+00:00 | 60164 | 259 | PHP | 99 | [] |
 | Moaaz-Rafique/shellCodes | None | https://github.com/Moaaz-Rafique/shellCodes | ['shellcode'] | 1 | 2022-01-28 07:30:52+00:00 | 528 | 0 | Shell | 0 | [] |
+| lefayjey/linWinPwn | linWinPwn is a script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | ['exploit'] | 1 | 2022-01-28 11:46:25+00:00 | 101 | 2 | Shell | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-28 12:34:05+00:00 | 15503 | 1 | Jupyter Notebook | 0 | [] |
 | mauricelambert/CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-28 07:27:00+00:00 | 22 | 12 | Python | 4 | ['CVE-2022-21907'] |
 | 0xfaer/csgo-lag-exploit | Counter-Strike: Global Offensive lag exploit from a private cheat of mine, I have removed some key parts but if you are dedicated, you can fix it. | https://github.com/0xfaer/csgo-lag-exploit | ['exploit'] | 1 | 2022-01-28 06:35:00+00:00 | 3 | 4 | C | 0 | [] |
 | berdav/CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 07:34:39+00:00 | 8 | 789 | C | 245 | ['CVE-2021-4034'] |
@@ -19,8 +20,9 @@
 | evannns/desmos-packet-modifier | modifies desmos packets to allow any user to attach an image directly to the website | https://github.com/evannns/desmos-packet-modifier | ['exploit'] | 1 | 2022-01-28 07:14:20+00:00 | 157 | 0 | TypeScript | 0 | [] |
 | PeterGottesman/pwnkit-exploit | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | ['cve poc', 'exploit'] | 2 | 2022-01-28 00:38:03+00:00 | 3 | 10 | C | 2 | ['CVE-2021-4034'] |
 | joeammond/CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-28 00:29:15+00:00 | 7 | 8 | Python | 4 | ['CVE-2021-4034'] |
+| luijait/PwnKit-Exploit | CVE-2021-4034 | https://github.com/luijait/PwnKit-Exploit | ['cve poc', 'exploit'] | 2 | 2022-01-28 05:37:56+00:00 | 28 | 4 | C | 0 | ['CVE-2021-4034'] |
 | callrbx/pkexec-lpe-poc | POC for CVE-2021-4034 | https://github.com/callrbx/pkexec-lpe-poc | ['cve poc'] | 1 | 2022-01-28 01:59:25+00:00 | 7 | 2 | C | 0 | ['CVE-2021-4034'] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-01-28 09:17:44+00:00 | 27214 | 8689 | Python | 1486 | [] |
+| Green-Avocado/exploits | Exploit proof-of-concepts for publicly disclosed vulnerabilities. For educational purposes only. | https://github.com/Green-Avocado/exploits | ['exploit'] | 1 | 2022-01-28 12:43:45+00:00 | 2 | 0 | | 0 | [] |
 | jm33-m0/go-lpe | A collection of LPE exploits written in Go | https://github.com/jm33-m0/go-lpe | ['exploit'] | 1 | 2022-01-28 09:33:54+00:00 | 1226 | 12 | Go | 0 | [] |
 | numanturle/CVE-2021-43789 | Prestashop >= 1.7.5.0 < 1.7.8.2 - SQL injection | https://github.com/numanturle/CVE-2021-43789 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 00:27:12+00:00 | 0 | 0 | | 0 | ['CVE-2021-43789'] |
 | Captan40000/SaveService | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | ['exploit'] | 1 | 2022-01-28 00:47:49+00:00 | 0 | 0 | | 0 | [] |
@@ -33,10 +35,11 @@
 | JoyGhoshs/CVE-2021-4034 | Exploit for Local Privilege Escalation Vulnerability in polkit’s pkexec | https://github.com/JoyGhoshs/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-28 07:23:22+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | YeetBlank1337/VRChat-RCE-Exploit-Fix | NO CREDITS NEEDED JUST PUT THIS IN YOUR CLIENT!!!!! | https://github.com/YeetBlank1337/VRChat-RCE-Exploit-Fix | ['exploit', 'rce'] | 2 | 2022-01-28 09:06:34+00:00 | 9 | 0 | C# | 0 | [] |
 | charlesaurav13/storedpasswordcapture | You can use to capture the stored password after the post exploitation for the windows machine and then report will be send to you through gmail. | https://github.com/charlesaurav13/storedpasswordcapture | ['exploit'] | 1 | 2022-01-28 10:13:25+00:00 | 0 | 0 | Python | 0 | [] |
+| mauritaniacoder99/mauritania-sploit | All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers | https://github.com/mauritaniacoder99/mauritania-sploit | ['sploit'] | 1 | 2022-01-28 10:49:51+00:00 | 0 | 0 | nan | 0 | [] |
+| Dargonizer/Roblox | Mostly used for exploiting but sometimes just some other scripts or maybe a readme type thingy idk | https://github.com/Dargonizer/Roblox | ['exploit'] | 1 | 2022-01-28 10:34:28+00:00 | 74 | 0 | Lua | 0 | [] |
+| K1llf0rce/K1llf0rce | My personal repository | https://github.com/K1llf0rce/K1llf0rce | ['rce'] | 1 | 2022-01-28 12:17:52+00:00 | 6 | 0 | | 0 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-01-28 08:30:45+00:00 | 813 | 31 | C++ | 3 | [] |
-| michealkeines/Exploit-Development | Exploit code, Learning materials, Binaries, everything related to Low-Level Exploit Development. | https://github.com/michealkeines/Exploit-Development | ['exploit'] | 1 | 2022-01-28 05:14:54+00:00 | 24048 | 0 | C | 2 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-28 01:11:05+00:00 | 28653 | 2 | Python | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-28 04:25:42+00:00 | 137514 | 293 | Python | 92 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-01-28 04:08:28+00:00 | 1442 | 623 | Java | 78 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-28 05:09:02+00:00 | 246068 | 6777 | C | 1861 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-28 06:34:34+00:00 | 5536 | 3074 | Python | 676 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-28 05:31:31+00:00 | 5872 | 4299 | Python | 573 | [] |
@@ -50,8 +53,9 @@
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-01-28 10:34:42+00:00 | 14995 | 0 | Hack | 0 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-01-28 09:34:20+00:00 | 64281 | 1410 | Python | 283 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-28 00:46:24+00:00 | 26323 | 27 | | 17 | [] |
-| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-01-28 04:08:28+00:00 | 1442 | 623 | Java | 78 | [] |
 | julixsalas/CVE-2020-0796 | Scanner for CVE-2020-0796 | https://github.com/julixsalas/CVE-2020-0796 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 11:31:43+00:00 | 2 | 1 | Python | 4 | ['CVE-2020-0796'] |
+| michealkeines/Exploit-Development | Exploit code, Learning materials, Binaries, everything related to Low-Level Exploit Development. | https://github.com/michealkeines/Exploit-Development | ['exploit'] | 1 | 2022-01-28 05:14:54+00:00 | 24048 | 0 | C | 2 | [] |
+| kaled-alshmrany/FuSeBMC | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | ['exploit'] | 1 | 2022-01-28 12:43:58+00:00 | 97711 | 23 | C | 2 | [] |
 | j00c3/metasploit_modules | Just a couple MSF modules I created to make my red team job easier | https://github.com/j00c3/metasploit_modules | ['metasploit module OR payload'] | 1 | 2022-01-28 01:14:57+00:00 | 4 | 0 | Ruby | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-01-28 10:31:15+00:00 | 4022711 | 2 | Lua | 0 | [] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2022-01-28 02:31:42+00:00 | 37801 | 438 | C++ | 66 | [] |
@@ -62,4 +66,6 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-28 08:18:43+00:00 | 151355 | 14 | Python | 5 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-01-28 01:13:30+00:00 | 109 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-28 07:51:11+00:00 | 351069 | 71 | | 12 | [] |
-| mauritaniacoder99/mauritania-sploit | All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers | https://github.com/mauritaniacoder99/mauritania-sploit | ['sploit'] | 1 | 2022-01-28 10:49:51+00:00 | 0 | 0 | nan | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-28 04:25:42+00:00 | 137514 | 293 | Python | 92 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-01-28 01:11:05+00:00 | 28653 | 2 | Python | 0 | [] |
+| galoget/PwnKit-CVE-2021-4034 | None | https://github.com/galoget/PwnKit-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-28 12:08:26+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
