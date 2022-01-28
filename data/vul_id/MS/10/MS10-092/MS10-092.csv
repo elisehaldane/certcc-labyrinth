@@ -5,7 +5,6 @@ MS10-092,0.14285714,https://github.com/OrangeHacking-CyberSecurity/Metasploit,Or
 MS10-092,0.14285714,https://github.com/BlackCyber21/exploit-toolkit,BlackCyber21/exploit-toolkit,356499280
 MS10-092,0.10000000,https://github.com/bcheung/EE379K-Lab-3-APT-Fuzzing-Exploitation,bcheung/EE379K-Lab-3-APT-Fuzzing-Exploitation,216675078
 MS10-092,0.10000000,https://github.com/pentest-academy/windows-privilege-escalation,pentest-academy/windows-privilege-escalation,87706784
-MS10-092,0.07142857,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS10-092,0.07142857,https://github.com/existXFx/metasploit-modules,existXFx/metasploit-modules,96632234
 MS10-092,0.05882353,https://github.com/febinrev/windows_privesc-post_exploitation,febinrev/windows_privesc-post_exploitation,256433120
 MS10-092,0.05882353,https://github.com/benyG/PentaDrone,benyG/PentaDrone,218828715
@@ -27,6 +26,7 @@ MS10-092,0.01204819,https://github.com/joker2a/Privesc,joker2a/Privesc,250345076
 MS10-092,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937
 MS10-092,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/WindowsExploitTest,141821540
 MS10-092,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
+MS10-092,0.00900901,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS10-092,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS10-092,0.00800000,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
 MS10-092,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
