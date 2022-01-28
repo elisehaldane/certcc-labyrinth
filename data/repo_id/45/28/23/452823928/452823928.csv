@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+452823928,0xalwayslucky/log4j-polkit-poc,README.md,0ac30077dba1aabe3ed1858adcfd78f7624a9cbf,CVE-2021-4034
+452823928,0xalwayslucky/log4j-polkit-poc,README.md,0ac30077dba1aabe3ed1858adcfd78f7624a9cbf,CVE-2021-4035
+452823928,0xalwayslucky/log4j-polkit-poc,README.md,0ac30077dba1aabe3ed1858adcfd78f7624a9cbf,CVE-2021-44228
+452823928,0xalwayslucky/log4j-polkit-poc,log4j-polkit-vuln/spring-boot-application.jar,63151e444a31db94d704d5a9f320d58b65fa5b48,VU#45
+452823928,0xalwayslucky/log4j-polkit-poc,_GITHUB_REPO_METADATA_,,CVE-2021-4034
+452823928,0xalwayslucky/log4j-polkit-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228
