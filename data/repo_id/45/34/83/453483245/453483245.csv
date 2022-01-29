@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+453483245,Sterb3nn/MS17_010-ToAllArch,script.py,70ae809cbaa715a8cb8bd5bcb6101542cd86fa9d,MS17-010
+453483245,Sterb3nn/MS17_010-ToAllArch,eternalblue_exploit7.py,cb28f114ef5bbfc60ded63b435b0223280eec529,MS17-010
 453483245,Sterb3nn/MS17_010-ToAllArch,_GITHUB_REPO_METADATA_,,MS17-010
