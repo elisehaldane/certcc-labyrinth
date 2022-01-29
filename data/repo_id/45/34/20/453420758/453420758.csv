@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+453420758,Schnitker/log4j-min,README.md,32c70abe237cdf4dcb682d58630e1b1cf60e03aa,CVE-2019-17571
+453420758,Schnitker/log4j-min,README.md,32c70abe237cdf4dcb682d58630e1b1cf60e03aa,CVE-2020-9488
+453420758,Schnitker/log4j-min,README.md,32c70abe237cdf4dcb682d58630e1b1cf60e03aa,CVE-2021-4104
+453420758,Schnitker/log4j-min,README.md,32c70abe237cdf4dcb682d58630e1b1cf60e03aa,CVE-2022-23302
+453420758,Schnitker/log4j-min,README.md,32c70abe237cdf4dcb682d58630e1b1cf60e03aa,CVE-2022-23305
+453420758,Schnitker/log4j-min,README.md,32c70abe237cdf4dcb682d58630e1b1cf60e03aa,CVE-2022-23307
