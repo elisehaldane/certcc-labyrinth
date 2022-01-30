@@ -1,3 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-332424498,liamg/traitor,pkg/exploits/exploit_polkit.go,08b8167c5a0cfe2532e06f2b232f6f1078037b1d,CVE-2021-3560
-332424498,liamg/traitor,README.md,83d197c65ea3d51a24d2a86663f6e4bdaded3c1a,CVE-2021-3560
+332424498,liamg/traitor,README.md,3ca85a870432538204e42c5d164d377fd7a6330b,CVE-2021-4034
+332424498,liamg/traitor,pkg/exploits/cve20213560/exploit.go,58f6bd12905b34375c2a31f9c906e7bcc1bf474b,CVE-2021-3560
+332424498,liamg/traitor,pkg/exploits/cve20214034/exploit.go,5e66dd3d30aae404689dc6eb7059feb1e91d9c4b,CVE-2021-4034
+332424498,liamg/traitor,pkg/exploits/all.go,a1cdcd44fa4dde8a8fae76192d979b8d04669aa5,CVE-2021-3560
+332424498,liamg/traitor,pkg/exploits/all.go,a1cdcd44fa4dde8a8fae76192d979b8d04669aa5,CVE-2021-4034
