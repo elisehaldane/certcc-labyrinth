@@ -1,0 +1,331 @@
+repo_id,repo_full_name,file,file_sha1,match
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/exp0.php,016385fcd02b2fce8f2ba5e3ea2cd4c2772378ae,VU#05
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/exp0.php,016385fcd02b2fce8f2ba5e3ea2cd4c2772378ae,VU#25
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Info.resx,070067fd1900418c6fdb0737f86aa291e2183a61,VU#975
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Info.resx,070067fd1900418c6fdb0737f86aa291e2183a61,VU#94
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Info.resx,070067fd1900418c6fdb0737f86aa291e2183a61,VU#28
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Info.resx,070067fd1900418c6fdb0737f86aa291e2183a61,VU#33
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-3754.php,0a3a434628aae7a8c8c002688601c35edca5506f,VU#02
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DEVRAT/Cleint/obj/x86/Debug/Client.Resources.resources,0c3256f8c4e14eb94b01241a238ebfa32e3d7a24,VU#62
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/RemoteChat.resx,0f7bcc362230bdb98674068161e1a23293f61809,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Thumbnails.resx,0f7bcc362230bdb98674068161e1a23293f61809,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/SysManager.resx,0f90881ea95f1de0fc2bc2912f900f9682ba00ca,VU#67
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/cs2.php,100cfa309dedb223b712d963a75037ff1a78f99c,VU#25
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form6.resx,12262804afd94609983306a7911e2a91cdccbf49,VU#89
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/wisdom_phr0st_modd.zip,1616db1284a3378d293c2a284f481323df2e9dc7,VU#40
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/ioncube/ioncube-loader-helper.php,161793f2fb5d825d3179047ab72043b6220da888,VU#054
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Ruffbotv2.rar,167217d1edecd0c226fe5b477545bade5f04320a,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/StressTester.resx,1705735505adc71f6e4c788b43f4cb1f5872b043,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/StressTester.resx,1705735505adc71f6e4c788b43f4cb1f5872b043,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DEVRAT/Cleint/obj/x86/Debug/Egypt-Rat v1.2.exe,177c0dbce25c89a7501b7ec1d7d892a8281a4fae,VU#62
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/TsGh_Bot_v3.rar,17f3b1f31bf696c5cb4fd16f81ed8fb80ae559d4,VU#11
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/CYBERBOTv4.0.rar,1884306463ba6d20a95abed992840396be83c5b2,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/njRAT/njRAT 0.3.6/FM.resx,1a0a82146aa4ba1e92bc918ed4f2973c9985b374,VU#82
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/ciscobawt.rar,1ba9c5719404e33ea839dc57811e62462eaaf90e,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-1297.php,1d85f4e18224201c7771d1d29794072aa174a1ee,VU#29
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-1297.php,1d85f4e18224201c7771d1d29794072aa174a1ee,VU#04
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/File manager.resx,1e09aa0feb43f1acdf8be9078f3ac51bce0ffbfb,VU#816
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/exploits/003.php,1fb0882fdc028a82904416b1dc983e8db7ff54aa,VU#06
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#43
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#71
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#82
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#14
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#84
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1993.php,216cb7d263bfcb8c8536780a8e147a1f417ebceb,VU#02
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Get password.resx,24386b0d2acf5c1fbc6f1c0818f8c1516760aebe,VU#20
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Get password.resx,24386b0d2acf5c1fbc6f1c0818f8c1516760aebe,VU#36
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Get password.resx,24386b0d2acf5c1fbc6f1c0818f8c1516760aebe,VU#84
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Get password.resx,24386b0d2acf5c1fbc6f1c0818f8c1516760aebe,VU#39
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Get password.resx,24386b0d2acf5c1fbc6f1c0818f8c1516760aebe,VU#71
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Creat Server.resx,27faa23fbb353f6684e6eddc171d9944e86ccbfb,VU#12
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/ChodeBot C++ v1 base.rar,2c8d4770ed3029ed00afce2a54a8cf72be02a75e,VU#26
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rbot_netapi_vnc_ipswitch.rar,2cdbc6220b67982c4f2eb030c7ec8b325e79ca58,MS05-039
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rbot_netapi_vnc_ipswitch.rar,2cdbc6220b67982c4f2eb030c7ec8b325e79ca58,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/New_NZM_netapi_bot.rar,2ed412dff75f467cbac71bd477cd0419dfbcdfcf,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/URX-pnp-asn.rar,2fc60de4179b061daf831b4f8861170b107ea71c,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/Technical Notes.txt,2ff3f7deae934a8ea5f4284166d61eef7ac7dd98,MS09-002
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#25
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#34
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#70
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#02
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-1633.php,31219ba449cba71081735d00a948cc4e4782598a,VU#03
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2008-2992.php,34a52a517d326f022de3eec3f22af1ffbb3c9628,VU#07
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/addRule2.php,3534009067c49955c3aca4f74169b521a5cb859c,VU#42
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/cs.php,358e60d1bd18a6327be2904f81acbfa651d3d341,VU#29
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form9.resx,38e90175fd0a291a5c6168192b7fae11b6729672,VU#601
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form9.resx,38e90175fd0a291a5c6168192b7fae11b6729672,VU#25
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form9.resx,38e90175fd0a291a5c6168192b7fae11b6729672,VU#35
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rxbot_undertow-6-10-05.rar,3ac92e172b7097377aaa5d5a524c5bad0f7158a4,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form5.resx,3c6e8b4d39fdb3fb1e870649f30e4528a656825a,VU#22
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/InTeL_m0dd-Test101-ms0640.rar,3d24bb74a27c91c3bb272421b8e5792d00bd76aa,MS06-040
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/agobot3-0.2.1-pre4-priv.rar,3d8431c2e422f427728d482f1960834aba8042ee,VU#48
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/agobot3-0.2.1-pre4-priv.rar,3d8431c2e422f427728d482f1960834aba8042ee,VU#14
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Remote Descktop.resx,3e67c019d3e8ab38a0f7b7494394e0de128b14e1,VU#75
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Updeter.resx,3ee8a3323a8990c4618121c9b60c403025dcfb07,VU#79
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Updeter.resx,3ee8a3323a8990c4618121c9b60c403025dcfb07,VU#859
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Updeter.resx,3ee8a3323a8990c4618121c9b60c403025dcfb07,VU#95
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rx-AKMod___msDTC1025- Stripp3d------sc4nn3rz.rar,3f21fe2d2498d9d7a8b5681d31272d5499e22aca,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#17
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#19
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#25
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#33
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#99
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#67
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Audio.resx,3fe4efba97095fc2de229830abaca823725c988d,VU#40
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/CYBERBOTv2.2-Stable.m0dd_ownz.DreamWoRK.rar,41884fbbb1d9d23da773d3f217cdca9229a5d2d0,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/prueva[1].Netapi.asn.m0dded-Norman.rar,4204e8f9974a5778765717ebf2c3802c65dbfc8e,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rxbot_undertow[PnP]modded.memcpy.0.2.rar,4270e10555e067e6ad8e0b07f177c248c5a3e330,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Ruffbot1.2-MassAsnPrivShit-150705.rar,46330654bedc61cabe4258c4726ee4d22a019244,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/njRAT/njRAT 0.3.6/About.resx,4731754fa39818df64b56d46e0dcd0cac0674b9d,VU#60
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#781
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#74
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#75
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#85
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#34
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#58
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Informaçoes.resx,474400b02c258165656e093b45e1f9dd092a47f5,VU#43
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/r00t3d.asn.ftp.lsass.by.Morgan.rar,4955f10560f748435b310679a877ef872a121be1,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/No-ip.resx,4de7273d66955f1d0876a70a2c196ac1d051a3b8,VU#297
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/libtiff.php,51aa249c55502cbf113f97252c8cbfcce7d03a4d,VU#09
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/site.php,54953f522cece18cd69a94b32d1bdccf703740db,MS06-006
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/install.php,55c9e5a0e5fb62deee754bc9e5bae766acc95b45,VU#95
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Urx.SYM+ASN.rar,57d61b299cf0831b547a01abe53da9f87b038b11,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Keylogger.resx,58f835e452c2ae54b5994b68196018baf0db8c6b,VU#44
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/clickbord.resx,59be510f29c2f4c5beb35a4bab73b128e969a7c6,VU#92
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/load.php,5a0fcc0fe47dbc124a912ed55c2e773ef25b4723,MS09-002
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/load.php,5a0fcc0fe47dbc124a912ed55c2e773ef25b4723,MS06-006
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Man.resx,5cf7f016bfc1b27a58a145184ab6e6eff05c06ad,VU#22
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/threadsAjax.php,5d2b927ca7f6b2e58daaf6c703b93205c62f7987,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/threadsAjax.php,5d2b927ca7f6b2e58daaf6c703b93205c62f7987,VU#99
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#69
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#32
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#36
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#037
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#41
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#42
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#78
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#755
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#19
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#48
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#44
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#75
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#71
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#729
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#02
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#49
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#63
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#73
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#62
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Microphone.resx,6453cac5f5f51abb0350cc9159240f6ee6a2fbd2,VU#13
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/DCI Bot.rar,6695a73938c9fc390bdb31ac66a4f293840b332b,VU#66
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/120 Moded By t0nixx.rar,6a07ffb2b97df75115c2bd4574628979f1b7fc1e,VU#024
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Rose_2008.rar,6a850e0f32e5077d6215404fa40cb8976c250c8c,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Notification.resx,6ace4bd797000292d34a0ae64f9adbab3e854a98,VU#81
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Notification.resx,6ace4bd797000292d34a0ae64f9adbab3e854a98,VU#42
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Notification.resx,6ace4bd797000292d34a0ae64f9adbab3e854a98,VU#77
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Notification.resx,6ace4bd797000292d34a0ae64f9adbab3e854a98,VU#85
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Notification.resx,6ace4bd797000292d34a0ae64f9adbab3e854a98,VU#458
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Notification.resx,6ace4bd797000292d34a0ae64f9adbab3e854a98,VU#05
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/Notification.resx,6ace4bd797000292d34a0ae64f9adbab3e854a98,VU#072
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#27
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#99
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#95
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#102
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#757
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#32
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#87
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#91
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/opções.resx,6c1cb24170d728eca8dba311986386474cd9bfcf,VU#871
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/uber-wks-asn-m0dded-Pr1v.rar,6e2db5ac29b576e9a3efceb7c90da970a16952fb,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form3.resx,6e81c4dee172c603ab23098ea7f040de3ee1a978,VU#22
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/FunManager.resx,6eef7a39e1a441bcead5af4f4d57bf8f12379737,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/FunManager.resx,6eef7a39e1a441bcead5af4f4d57bf8f12379737,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rxbot2006.rar,6f20c586071b1c1d68a0e18c9e97a3f88b93f64e,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/paswdrec.resx,6fd47fa2497dd280b7502228fbfb63ff200ee8bd,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/paswdrec.resx,6fd47fa2497dd280b7502228fbfb63ff200ee8bd,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/fudfiles/exp.php,7162f8b1176176169e4b64b0819402b5c1521cea,MS09-002
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/fudfiles/exp.php,7162f8b1176176169e4b64b0819402b5c1521cea,MS06-006
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#62
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#983
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#551
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#528
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/logs.php,71cc6758f495eefdf46007da5c565b670815fb00,VU#66
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DEVRAT/Cleint/Form120.resx,72a960d54d05efacf87e6c0f4052230fb08e2cd0,VU#57
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/CP-ENC-7274.php,73fe896be5ff3eecc3201bd59b7ca5bfeff0f1cf,VU#77
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#27
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#99
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#658
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#42
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#66
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#91
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#102
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#37
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#32
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#76
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#5199
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#95
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#87
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#94
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#871
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#757
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Process manager.resx,74317c9826ca5508678c6928b8dffd875fb21df2,VU#56
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/LoexBot.rar,7565d31cf7afa39f42d95483eb3e66142371070f,MS05-039
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/LoexBot.rar,7565d31cf7afa39f42d95483eb3e66142371070f,VU#75
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/LoexBot.rar,7565d31cf7afa39f42d95483eb3e66142371070f,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/EfY6ZtNV8IfBuKQJYhBkxnbUkwZXL0wnfphtobLRPk7643MApZMKYhKgcrVQ7WTKl7gXp5Ro4sIEGx.tar,7615eba2ef3ac8036d545d73abe78e0c150219b0,MS07-017
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/M0LdBotv1.0-small.rar,76eba1178ff50cfa583b87b8f82b228d711ecad3,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DEVRAT/Cleint/obj/x86/Debug/Devils-Rat 6.0.exe,7736109ef8a91a630f4dd8a473825a78ece1da63,VU#62
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/img/icons/countries/index.php,77ff7b5a056e49e5fbd7e48b450e710799f1ed1c,VU#697
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DEVRAT/Cleint/obj/x86/Debug/Microsoft.Resources.resources,786e8db80dc19b2ba2ecc0dd0dc973cccdccd1b3,VU#62
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/fiesta Sploit-pack.rar,789b491a4d512ba562ef10b25f7a3116da835ee0,VU#92
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/fiesta Sploit-pack.rar,789b491a4d512ba562ef10b25f7a3116da835ee0,VU#98
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/browser.php,79144432e653e2a422e29a5a7b4dee38cc7aab27,VU#23
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/browser.php,79144432e653e2a422e29a5a7b4dee38cc7aab27,VU#90
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/RemoteWebcam.resx,7a417929eabaa098f7a0440469a920d05d7d5347,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/RemoteWebcam.resx,7a417929eabaa098f7a0440469a920d05d7d5347,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/TXT Msgbox.resx,7b1c464eeec7a30f67d72180b00540db961b2cb7,VU#371
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/TXT Msgbox.resx,7b1c464eeec7a30f67d72180b00540db961b2cb7,VU#39
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/TXT Msgbox.resx,7b1c464eeec7a30f67d72180b00540db961b2cb7,VU#028
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/TXT Msgbox.resx,7b1c464eeec7a30f67d72180b00540db961b2cb7,VU#33
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/TXT Msgbox.resx,7b1c464eeec7a30f67d72180b00540db961b2cb7,VU#72
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/TXT Msgbox.resx,7b1c464eeec7a30f67d72180b00540db961b2cb7,VU#51
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Port Teste.resx,7c350f3408a18a53d3e086bc72c891b3acc2bc03,VU#785
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Rx_Temptation.rar,7cc06ec61db02599d6aa1382a658eef4bb91e8dd,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/SystemInformation.resx,7fd049ed64dcf0f29e0683e1e9637837a83eb399,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/SystemInformation.resx,7fd049ed64dcf0f29e0683e1e9637837a83eb399,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#03
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#46
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#86
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#95
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#93
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#51
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#5953
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/showflag.php,82a005732da2da92c62f262bd5cd1b15beabf041,VU#83
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/JavaSignedApplet.php,8733ad3900b9516a299f0dff46f5d33c469daad1,VU#63
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/ircd.tar.gz,8d0f1e077176094324c31133df863b0ed44f3d50,VU#26
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/cryptor.php,8d280e649909767d60765c9fd7e6929da970ac63,VU#14
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-2884.php,8e555d3420368c7af99fa67d1fa153d91a393d52,VU#389
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-2010-2884.php,8e555d3420368c7af99fa67d1fa153d91a393d52,VU#32
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Creat Server DownloadFile.resx,8f9988119339a7fa8973e903025b2d5a4f12db7b,VU#04
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Creat Server DownloadFile.resx,8f9988119339a7fa8973e903025b2d5a4f12db7b,VU#859
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Creat Server DownloadFile.resx,8f9988119339a7fa8973e903025b2d5a4f12db7b,VU#79
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/Creat Server DownloadFile.resx,8f9988119339a7fa8973e903025b2d5a4f12db7b,VU#95
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/include/shellcode.php,90f5ebaf8e3964363076de968edd40d4f7ffa2bb,VU#815
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/addWidget.php,929562cf7a334922ee36981789e031f21d5dba33,VU#71
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Rose1.1.rar,932b71465e59583d76baad03b89d753e8aaa3e4f,MS05-039
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Rose1.1.rar,932b71465e59583d76baad03b89d753e8aaa3e4f,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/ZSichaOrDt26MOkE5aAyScB1ZYB1SjzZA3IRIbuYEgZsoVVqPIBf.zip,93541cf8bfeb0e4871b6ecace8766dfde02973ff,MS07-017
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Crypter/DivineProtector/GUI/GUI/GUI/Form1.resX,994b2b94bd105b70ab2c1c96c06ddafab909302d,VU#923
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rx-asn-2-re-worked_v3.rar,9b729b4a8dab00acae803cb72598a637f75605d1,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/nzm-netapi.rar,9df06f07f7124331cbfb879158825467f400fd8c,MS06-040
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/nzm-netapi.rar,9df06f07f7124331cbfb879158825467f400fd8c,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Urxbot.pRiV-sKull.MoD-ASN_FTP_WORKING.rar,9e53669b5772079b4a6cd113876f8fbb0677d675,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/db.php,a13958780e0474d8cee3248eae4e4b085ada8816,VU#04
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/db.php,a13958780e0474d8cee3248eae4e4b085ada8816,VU#70
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/nesebot1.1r-ASN-PNP.rar,a388f886a34712096472486e98a6c28c9ec502ab,MS05-039
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/nesebot1.1r-ASN-PNP.rar,a388f886a34712096472486e98a6c28c9ec502ab,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Netapi.Prueb-Norman.2oo6.Prif-Jessi-Off.rar,aaf3e32ee661f4597cf04856144984bf19be8dab,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Rose_v1.3_2007_by_DreamWoRK.rar,ad12241865e426d6cab3df0abad2121eb867edcd,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form1.resx,ae472ecb926839f84275d5153f84ce7f234e9fd9,VU#89
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form1.resx,ae472ecb926839f84275d5153f84ce7f234e9fd9,VU#5992
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form1.resx,ae472ecb926839f84275d5153f84ce7f234e9fd9,VU#680
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/VRT/Client/RDP/Form1.resx,ae472ecb926839f84275d5153f84ce7f234e9fd9,VU#74
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/exploits/004.php,afa089afcf5ffcfc7683d74b9e40b8796122dd81,VU#90
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/nzmlite_symantec___.rar,b86f4898d5e4473a53bd7c0fe15765f84edadfb7,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/login.php,b87c24be38cde0ffe4eda2cc9c6dba7fe8f94434,VU#55
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/_dkcs_ddos_bot.rar,b90dddfccc8042cceffe223dd64fd1659f0aac56,VU#24
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/sc.php,b9bae935f2635c838fdb3694eac6a5ad9687a63a,VU#00
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#777
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#75
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#37
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#102
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#757
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#78
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#36
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#84
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#39
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#10
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#69
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#99
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#96
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#32
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#56
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#43
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#016
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#95
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#11
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#941
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#91
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#14
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#24
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#871
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#27
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#87
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#33
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DesckVBRAT/Cliente/Cleint/DesckVB Rat.resx,bac6e7bfe0c0638d644ea63b1a6a84a81fc21140,VU#66
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/geoip.php,bda6eac798f3e4a69eb088a837f530e545841afa,VU#19
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/NzM 3.0 By Ph3mt.rar,be46dd479d3ab4537788e6c992988e76dc373a6d,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/read1.php,bf71914d4961700a7e7399c8c40711729f933283,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/exec.php,bfaddfb280d26b2bc7f1625e3fb9baab3c388105,VU#01
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/include/ip2c.php,c20b72773ed899affb4267a73dde936903a02409,VU#51
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/PsyProxy.zip,c5763efb1b7cbf7aa61ed770cec1fc960c4c6055,VU#624
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/PsyProxy.zip,c5763efb1b7cbf7aa61ed770cec1fc960c4c6055,VU#77
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/filesAjax.php,c57b839b357bdfc2acc10f4a32fa578897c90614,VU#45
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/filesAjax.php,c57b839b357bdfc2acc10f4a32fa578897c90614,VU#682
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/ScarePrank.resx,c6e3086f125e4c02a0f55f33016265614aa98754,VU#12
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/ScarePrank.resx,c6e3086f125e4c02a0f55f33016265614aa98754,VU#659
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/ScarePrank.resx,c6e3086f125e4c02a0f55f33016265614aa98754,VU#15
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/ScarePrank.resx,c6e3086f125e4c02a0f55f33016265614aa98754,VU#72
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/ScarePrank.resx,c6e3086f125e4c02a0f55f33016265614aa98754,VU#32
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/ScarePrank.resx,c6e3086f125e4c02a0f55f33016265614aa98754,VU#76
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/ScarePrank.resx,c6e3086f125e4c02a0f55f33016265614aa98754,VU#48
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/nzm_priv_shit.rar,c6f99595a6f8eb80bd510eda97a4e97c4f79c0fe,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/exp.php,c788ff097a6dfcf14dc5cc5a98a3f65e5b479b0f,MS09-002
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/exp.php,c788ff097a6dfcf14dc5cc5a98a3f65e5b479b0f,MS06-006
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rx-asn-2-re-worked_v2.rar,c7908847e6e5d1893a7e9b33f7547ccc20f79b2b,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/BleedingLife2/Bleeding Life v2/exploits/Adobe-80-2010-0188.php,ce2675049c434f439df21e4b555475971eabb16f,VU#29
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/reptile-small.rar,d0642d2888cbd9c9c19315464ce0e3ad2bfc8edc,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/reptile-small.rar,d0642d2888cbd9c9c19315464ce0e3ad2bfc8edc,MS05-039
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Phatbot-gh3tt0Bot.rar,d2b1d625ef542112825de98f9b2928bb7b1c1ab5,VU#59
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/adm.php,d5727aacde1c7f18d8fc2954115c53fdb94bea1a,VU#14
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Form1.resx,d63518cd21257bf12111196136c05f57086427f6,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Form1.resx,d63518cd21257bf12111196136c05f57086427f6,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/exploits/012.php,d7c1ef4040763faaadeb9d13218ed87027aee1ed,VU#18
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rxbot_undertow-6-6-05ASN.rar,dabb9ab2c56d61f307584b2c0a6f147bf15a81d8,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/control.php,dc6d7c1aa9ba15bf0f38084d9d591e07ae44b90a,VU#36
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/control.php,dc6d7c1aa9ba15bf0f38084d9d591e07ae44b90a,VU#812
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Crimepack3.1.3/nolock/control.php,dc6d7c1aa9ba15bf0f38084d9d591e07ae44b90a,VU#93
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/index.php,dfe7b845e18eaece37e47bf246ab1438c8fae34e,VU#62
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/threads.php,e173b0d780cbbb34f7067defe758570acb177322,VU#87
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/pda/addFile.php,e8534ab42146e33363a41341097c1da6b7de670b,VU#68
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Rose v1.3 2007 by DreamWoRK.rar,ea1d5b77b20d466f2227496bba1270af96e55ff2,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Sava Exploits Pack/exe.php,ed278e1541fd7a4e3676941c5e6f3715db6a900a,VU#94
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/rx-asn-2-re-worked v3.rar,ee2afbfa99e41f41800e27310cfefcc0b68d75b1,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Keylogger.resx,ee5e015276a23462357c172c46c047c0417d6d3f,VU#64
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/DiamondRAT/Keylogger.resx,ee5e015276a23462357c172c46c047c0417d6d3f,VU#08
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Sdbot_Hardcore_Mod_By_StOner.zip,f4952999aac75ba03afe1e11af4c276459c69b6f,MS04-007
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/Sdbot_Hardcore_Mod_By_StOner.zip,f4952999aac75ba03afe1e11af4c276459c69b6f,MS05-039
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/FormMain.resx,f4d2e29711fb90263aa0c177122adcebec0d7cff,VU#13
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/FormMain.resx,f4d2e29711fb90263aa0c177122adcebec0d7cff,VU#67
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/FormMain.resx,f4d2e29711fb90263aa0c177122adcebec0d7cff,VU#86
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ActiveMalwares/LuxNET/LuxNET/FormMain.resx,f4d2e29711fb90263aa0c177122adcebec0d7cff,VU#71
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/shadowbot-m3.rar,f60f96113c2eb7cb09a36926a127475954f62427,VU#60
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/woodworm2.rar,f78b0ea82c066384989b8a1b2d0d18b9b3a7467c,VU#10
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#42
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#26
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#03
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#29
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#51
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#01
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#11
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#877
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#05
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/Phoenix2.5/2.5/install.php,f7d0e358a0e8a1e97a966230d74d8d4d42b5620b,VU#80
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/threads.php,f7edade9df27f5b4a242ac203bac87ba7683fa38,VU#81
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/blackhole102/blackhole/lib/templates/default/threads.php,f7edade9df27f5b4a242ac203bac87ba7683fa38,VU#40144
+453449768,maxamin/The-Awesome-And-Dangerous-collection,ExploitKit/eleonorev1.4.4 mod/eleonorev1.4.4 mod/el144/readme.txt,f8e49fadb685c1d4bc447b93c538579048f778e1,MS06-006
+453449768,maxamin/The-Awesome-And-Dangerous-collection,Dangerous Zone/mmodbasn.rar,fb749caeda403a34adb54bba35c29e8ab85ac837,MS04-007
