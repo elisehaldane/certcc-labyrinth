@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/30
     
-11 records found after deduplication
+14 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -9,9 +9,12 @@
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-30 02:21:24+00:00 | 6389 | 4303 | Python | 575 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-30 00:16:59+00:00 | 229638 | 269 | Ruby | 79 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-30 00:04:11+00:00 | 448349 | 45 | | 20 | [] |
+| dylanmeca/labsecurity | labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2022-01-30 04:11:36+00:00 | 840 | 11 | Python | 5 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-30 04:26:00+00:00 | 142160 | 295 | Python | 92 | [] |
 | shownadda/DarkStar | DarkStar is an Exploitation Framework written in Python 3. It's mainly inspired from DanderSpritZ. | https://github.com/shownadda/DarkStar | ['exploit'] | 1 | 2022-01-30 03:34:36+00:00 | 1 | 2 | | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-01-30 00:32:28+00:00 | 1092 | 2 | C | 1 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-30 03:22:43+00:00 | 118543 | 261 | PHP | 99 | [] |
+| jake-k-38/win-log4shell-detect | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4shell-detect | ['exploit'] | 1 | 2022-01-30 04:13:25+00:00 | 39 | 1 | PowerShell | 0 | [] |
 | arget13/DDexec | A technique to execute binaries from memory on linux by tricking dd into exploiting itself. | https://github.com/arget13/DDexec | ['exploit'] | 1 | 2022-01-30 03:35:50+00:00 | 26 | 0 | Shell | 0 | [] |
 | canarddu38/DuckSploit-chat | None | https://github.com/canarddu38/DuckSploit-chat | ['sploit'] | 1 | 2022-01-30 00:46:07+00:00 | 6 | 0 | Python | 0 | [] |
 | ihackerx/waline-fake-any-ip-poc | A Proof-Of-Concept for the waline fake any ip vulnerability. | https://github.com/ihackerx/waline-fake-any-ip-poc | ['vulnerability poc'] | 1 | 2022-01-30 01:09:53+00:00 | 0 | 0 | Python | 0 | [] |
