@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+453575588,navisec/CVE-2021-4034-PwnKit,navipwnkit.nim,7e4bd1ba1349b4e7bf01c65764615cebefffb9e2,CVE-2021-4034
+453575588,navisec/CVE-2021-4034-PwnKit,README.md,8e225977fd4e66dae00d88e8606ca6386278a289,CVE-2021-4034
+453575588,navisec/CVE-2021-4034-PwnKit,_GITHUB_REPO_METADATA_,,CVE-2021-4034
