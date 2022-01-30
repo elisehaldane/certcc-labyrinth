@@ -1,4 +1,5 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hugsy/gef,GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢,https://github.com/hugsy/gef,['exploit'],1,2022-01-30T02:21:24+0000,6389,4303,Python,575,[]
 hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-01-30T00:16:59+0000,229638,269,Ruby,79,[]
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-01-30T00:04:11+0000,448349,45,,20,[]
 rcelyte/BeatUpRcelyte,A lightweight modded Beat Saber multiplayer server for self-hosting,https://github.com/rcelyte/BeatUpRcelyte,['rce'],1,2022-01-30T00:32:28+0000,1092,2,C,1,[]
