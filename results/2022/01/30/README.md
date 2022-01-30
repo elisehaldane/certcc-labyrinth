@@ -1,12 +1,13 @@
 
 # Summary for results/2022/01/30
     
-92 records found after deduplication
+96 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-30 10:18:30+00:00 | 683488 | 26237 | Ruby | 11922 | [] |
-| TW-D/PwnKit-Vulnerability_CVE-2021-4034 | PwnKit - Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/TW-D/PwnKit-Vulnerability_CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-30 07:26:47+00:00 | 1 | 0 | C | 0 | ['CVE-2021-4034'] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-30 00:07:33+00:00 | 1534788 | 1560 | Python | 530 | [] |
+| glowbase/CVE-2020-35476 | A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. | https://github.com/glowbase/CVE-2020-35476 | ['command injection', 'cve-2 OR cve_2', 'remote code execution'] | 3 | 2022-01-30 05:09:07+00:00 | 0 | 0 | | 0 | ['CVE-2020-35476'] |
 | tab6433/exploit | CSRFの実証用ページ | https://github.com/tab6433/exploit | ['exploit'] | 1 | 2022-01-30 05:30:34+00:00 | 0 | 0 | HTML | 0 | [] |
 | AndrewTrube/CVE-2021-1675 | PrintNightmare Local Privilege Escalation | https://github.com/AndrewTrube/CVE-2021-1675 | ['cve-2 OR cve_2'] | 1 | 2022-01-30 04:54:23+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-1675'] |
 | 0xBruno/CVE-2021-22204 | A complete PoC for CVE-2021-22204 exiftool RCE | https://github.com/0xBruno/CVE-2021-22204 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-01-30 03:17:42+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-22204'] |
@@ -16,8 +17,8 @@
 | canarddu38/DuckSploit-chat | None | https://github.com/canarddu38/DuckSploit-chat | ['sploit'] | 1 | 2022-01-30 00:46:07+00:00 | 6 | 0 | Python | 0 | [] |
 | milot/dissecting-pkexec-cve-2021-4034 | None | https://github.com/milot/dissecting-pkexec-cve-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-30 10:25:52+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | OXDBXKXO/go-PwnKit | Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034) | https://github.com/OXDBXKXO/go-PwnKit | ['exploit'] | 1 | 2022-01-30 15:22:04+00:00 | 5 | 1 | Go | 0 | ['CVE-2021-4034'] |
+| TW-D/PwnKit-Vulnerability_CVE-2021-4034 | PwnKit - Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/TW-D/PwnKit-Vulnerability_CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-30 07:26:47+00:00 | 1 | 0 | C | 0 | ['CVE-2021-4034'] |
 | maxamin/The-Awesome-And-Dangerous-collection | None | https://github.com/maxamin/The-Awesome-And-Dangerous-collection | ['shellcode'] | 1 | 2022-01-30 09:10:58+00:00 | 215887 | 2 | VBA | 1 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-30 00:07:33+00:00 | 1534788 | 1560 | Python | 530 | [] |
 | v-rzh/CVE-2021-4034 | Exploit for the PwnKit Vulnerability | https://github.com/v-rzh/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-30 12:58:55+00:00 | 13 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Schnitker/log4j-min | Log4j 1.2 project, stripped of the additional appenders and CVEs | https://github.com/Schnitker/log4j-min | ['cve-2 OR cve_2'] | 1 | 2022-01-30 09:21:55+00:00 | 344 | 0 | Java | 0 | [] |
 | EstamelGG/CVE-2021-4034-NoGCC | None | https://github.com/EstamelGG/CVE-2021-4034-NoGCC | ['cve-2 OR cve_2'] | 1 | 2022-01-30 16:34:27+00:00 | 20 | 1 | C | 1 | ['CVE-2021-4034'] |
@@ -27,10 +28,12 @@
 | m96dg/CVE-2021-41773-exercise | A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are | https://github.com/m96dg/CVE-2021-41773-exercise | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-01-30 19:02:43+00:00 | 3 | 0 | | 0 | ['CVE-2021-41773'] |
 | berdav/CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-30 14:22:23+00:00 | 17 | 1029 | C | 298 | ['CVE-2021-4034'] |
 | lnfernal/roblox-rce | Roblox 0day exploit also known as xss and pretty much a one click beaming method for roblox | https://github.com/lnfernal/roblox-rce | ['0day', 'exploit', 'rce'] | 3 | 2022-01-30 19:23:25+00:00 | 13 | 1 | Python | 0 | [] |
-| glowbase/CVE-2020-35476 | A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. | https://github.com/glowbase/CVE-2020-35476 | ['command injection', 'cve-2 OR cve_2', 'remote code execution'] | 3 | 2022-01-30 05:09:07+00:00 | 0 | 0 | | 0 | ['CVE-2020-35476'] |
 | covesghe/Lavender-Exploits | exploit for roblox | https://github.com/covesghe/Lavender-Exploits | ['exploit'] | 1 | 2022-01-30 06:26:12+00:00 | 0 | 0 | Lua | 0 | [] |
 | TahsinMir/Wordle-Exploiter | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | ['exploit'] | 1 | 2022-01-30 07:04:07+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | litt1eb0yy/CVE-2021-3156 | Exploit for CVE-2021-3156 | https://github.com/litt1eb0yy/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-01-30 06:58:29+00:00 | 0 | 0 | C | 0 | ['CVE-2021-3156'] |
+| lexisrepo/Azure-Exploitation | None | https://github.com/lexisrepo/Azure-Exploitation | ['exploit'] | 1 | 2022-01-30 16:30:12+00:00 | 0 | 0 | | 0 | [] |
+| enty8080/Exploitation-Techniques | Some exploitation techniques from EntySec. | https://github.com/enty8080/Exploitation-Techniques | ['exploit'] | 1 | 2022-01-30 21:02:46+00:00 | 0 | 0 | Python | 0 | [] |
+| CyberSecurityUP/CVE-2019-5420-POC | None | https://github.com/CyberSecurityUP/CVE-2019-5420-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-30 19:44:07+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2019-5420'] |
 | omergoc/ExploitHavuzProjesi | Python İle Web Kazıma // MongoDB | https://github.com/omergoc/ExploitHavuzProjesi | ['exploit'] | 1 | 2022-01-30 19:37:53+00:00 | 0 | 0 | Python | 0 | [] |
 | Sneden/XSS-Attacks | Testing Cross site scripting attacks including reflected, stored and DOM based using Browser Exploitation Framework (BeEF) to grab user data along with prevention measures. | https://github.com/Sneden/XSS-Attacks | ['exploit'] | 1 | 2022-01-30 19:36:03+00:00 | 0 | 0 | | 0 | [] |
 | Octoberfest7/Custom_Builder | Custom shellcode runner builder w/ CobaltStrike integration | https://github.com/Octoberfest7/Custom_Builder | ['shellcode'] | 1 | 2022-01-30 18:38:16+00:00 | 0 | 1 | C | 0 | [] |
@@ -38,8 +41,8 @@
 | NZRKEY/exploit | None | https://github.com/NZRKEY/exploit | ['exploit'] | 1 | 2022-01-30 17:15:56+00:00 | 0 | 0 | | 0 | [] |
 | OfficalLBFluxus/Prison-Life-Exploit-Guis | Prison Life Exploit Guis - Roblox | https://github.com/OfficalLBFluxus/Prison-Life-Exploit-Guis | ['exploit'] | 1 | 2022-01-30 16:56:56+00:00 | 0 | 0 | | 0 | [] |
 | lexisrepo/Database-Exploitation | None | https://github.com/lexisrepo/Database-Exploitation | ['exploit'] | 1 | 2022-01-30 16:33:57+00:00 | 0 | 0 | | 0 | [] |
-| lexisrepo/Azure-Exploitation | None | https://github.com/lexisrepo/Azure-Exploitation | ['exploit'] | 1 | 2022-01-30 16:30:12+00:00 | 0 | 0 | | 0 | [] |
 | SwareJonge/inazumahax | save game exploit for Inazuma Eleven to launch an .ELF File from the SD Card | https://github.com/SwareJonge/inazumahax | ['exploit'] | 1 | 2022-01-30 16:25:25+00:00 | 0 | 0 | C | 0 | [] |
+| Pastofarian/DB | Gestion et exploitation de bases de données | https://github.com/Pastofarian/DB | ['exploit'] | 1 | 2022-01-30 10:14:22+00:00 | 0 | 0 | TSQL | 0 | [] |
 | galaxiesfn/SpartaFN-Free-Fortnite-Cheat | SpartaFN Is A Free Fortnite Cheat With A Bunch Of Exploits And Is Completely Undetected, Join Here: https://discord.gg/CPUTXPTKD5 | https://github.com/galaxiesfn/SpartaFN-Free-Fortnite-Cheat | ['exploit'] | 1 | 2022-01-30 16:08:02+00:00 | 0 | 1 | | 0 | [] |
 | Stan-Enryu/docker-file-binex | Script for create docker file and other (challeng binary exploitation) | https://github.com/Stan-Enryu/docker-file-binex | ['exploit'] | 1 | 2022-01-30 15:55:11+00:00 | 0 | 0 | Python | 0 | [] |
 | darknake333/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/darknake333/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-01-30 15:55:28+00:00 | 0 | 0 | | 0 | [] |
@@ -49,11 +52,10 @@
 | hackerW1/reverse_shell | It's not for you it's an reverse shell exploit I am just testing | https://github.com/hackerW1/reverse_shell | ['exploit'] | 1 | 2022-01-30 14:01:55+00:00 | 0 | 0 | PowerShell | 0 | [] |
 | Almorabea/pkexec-exploit | pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034) | https://github.com/Almorabea/pkexec-exploit | ['exploit'] | 1 | 2022-01-30 10:34:28+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | rorafah/RCE | None | https://github.com/rorafah/RCE | ['rce'] | 1 | 2022-01-30 10:32:03+00:00 | 0 | 0 | | 0 | [] |
-| Pastofarian/DB | Gestion et exploitation de bases de données | https://github.com/Pastofarian/DB | ['exploit'] | 1 | 2022-01-30 10:14:22+00:00 | 0 | 0 | TSQL | 0 | [] |
 | lexisrepo/Linux-Exploitation | None | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-01-30 17:32:50+00:00 | 16 | 0 | | 0 | [] |
 | ameetsaahu/Kernel-exploitation | None | https://github.com/ameetsaahu/Kernel-exploitation | ['exploit'] | 1 | 2022-01-30 14:41:21+00:00 | 108729 | 0 | C | 0 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-01-30 07:43:05+00:00 | 2203 | 6 | C++ | 3 | [] |
-| BinarySwami-10/swamixInstaBot | this repo contains codes related to instagram, bots and scripts, exploiting API's and automation to create new unofficial features. | https://github.com/BinarySwami-10/swamixInstaBot | ['exploit'] | 1 | 2022-01-30 15:36:54+00:00 | 35 | 2 | Python | 1 | [] |
+| MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2022-01-30 13:53:35+00:00 | 163561 | 67 | Python | 20 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-30 04:26:00+00:00 | 142160 | 295 | Python | 92 | [] |
 | InsultingPros/DoshFix | Prevents dosh spam related exploits - server lags, server crash, blocking volume bypass, zed kills, etc. | https://github.com/InsultingPros/DoshFix | ['exploit'] | 1 | 2022-01-30 09:26:12+00:00 | 17 | 0 | UnrealScript | 0 | [] |
 | evildevill/tmetasploit | This tool is used to install metasploit framework in termux | https://github.com/evildevill/tmetasploit | ['metasploit module OR payload'] | 1 | 2022-01-30 04:47:14+00:00 | 36 | 8 | Ruby | 2 | [] |
@@ -63,7 +65,8 @@
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-01-30 17:02:03+00:00 | 4042620 | 2 | Lua | 0 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-01-30 18:03:14+00:00 | 527 | 10 | Python | 4 | [] |
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-01-30 17:51:55+00:00 | 1879 | 34 | Python | 5 | ['MS17-010'] |
-| MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2022-01-30 13:53:35+00:00 | 163561 | 67 | Python | 20 | [] |
+| 0xb0bb/karkinos | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | ['exploit'] | 1 | 2022-01-30 21:03:55+00:00 | 544148 | 181 | Python | 15 | [] |
+| BinarySwami-10/swamixInstaBot | this repo contains codes related to instagram, bots and scripts, exploiting API's and automation to create new unofficial features. | https://github.com/BinarySwami-10/swamixInstaBot | ['exploit'] | 1 | 2022-01-30 15:36:54+00:00 | 35 | 2 | Python | 1 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-30 14:57:26+00:00 | 27259 | 27 | | 17 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-30 16:21:19+00:00 | 1521971 | 3969 | PowerShell | 1392 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-01-30 08:06:59+00:00 | 35577 | 6399 | Vue | 1352 | [] |
@@ -76,17 +79,18 @@
 | febnug/shellcode | Exploit payload | https://github.com/febnug/shellcode | ['exploit', 'shellcode'] | 2 | 2022-01-30 13:56:23+00:00 | 8 | 1 | C | 0 | [] |
 | Hacker5preme/Exploits | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | ['exploit'] | 1 | 2022-01-30 17:18:21+00:00 | 2937 | 15 | Python | 4 | [] |
 | cepxeo/dll4shell | Shellcode launcher for AV bypass | https://github.com/cepxeo/dll4shell | ['shellcode'] | 1 | 2022-01-30 20:29:25+00:00 | 178 | 1 | C++ | 1 | [] |
-| 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-01-30 18:30:30+00:00 | 37829 | 1 | Java | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-30 19:10:39+00:00 | 172 | 0 | Go | 0 | [] |
 | Checkam/how2jemalloc | List of exploitation techniques on vulnerabilities in programs using jemalloc | https://github.com/Checkam/how2jemalloc | ['exploit'] | 1 | 2022-01-30 14:56:56+00:00 | 1 | 0 | Shell | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-01-30 08:25:22+00:00 | 2737 | 18 | | 1 | [] |
 | Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2022-01-30 15:37:47+00:00 | 76 | 0 | | 0 | [] |
 | DeadlyHollows/Redis-Exploitation-Toolkit | Redis Exploitation Toolkit - A tool to pwn Redis server before the bad guys do! | https://github.com/DeadlyHollows/Redis-Exploitation-Toolkit | ['exploit'] | 1 | 2022-01-30 13:17:02+00:00 | 520 | 0 | C | 0 | [] |
 | Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-01-30 12:43:18+00:00 | 281 | 27 | HTML | 5 | [] |
+| razor1997/CostsExploitationCarFrontApp | It's front end app using angular framework | https://github.com/razor1997/CostsExploitationCarFrontApp | ['exploit'] | 1 | 2022-01-30 21:21:21+00:00 | 816 | 0 | TypeScript | 0 | [] |
 | volkandindar/agartha | a burp extension for penetration testing {LFI, RCE, Auth,etc} | https://github.com/volkandindar/agartha | ['rce'] | 1 | 2022-01-30 19:55:24+00:00 | 99 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-01-30 12:35:21+00:00 | 18391 | 1 | Jupyter Notebook | 0 | [] |
 | jangodev/CrownJS | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | ['exploit'] | 1 | 2022-01-30 14:36:01+00:00 | 95 | 3 | JavaScript | 2 | [] |
-| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-01-30 19:10:39+00:00 | 172 | 0 | Go | 0 | [] |
 | kaptantrx/ExploitHavuz | Exploit Havuz Projesi // Python MongoDB | https://github.com/kaptantrx/ExploitHavuz | ['exploit'] | 1 | 2022-01-30 18:54:29+00:00 | 18 | 0 | Python | 0 | [] |
+| 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-01-30 18:30:30+00:00 | 37829 | 1 | Java | 0 | [] |
 | jake-k-38/win-log4shell-detect | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4shell-detect | ['exploit'] | 1 | 2022-01-30 04:13:25+00:00 | 39 | 1 | PowerShell | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-01-30 15:25:21+00:00 | 101 | 8 | | 3 | ['CVE-2021-44228'] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-01-30 03:22:43+00:00 | 118543 | 261 | PHP | 99 | [] |
@@ -96,4 +100,4 @@
 | alexplaygithub/Charasploit-Update-Database | This is the github repository which you receive exploit updates. | https://github.com/alexplaygithub/Charasploit-Update-Database | ['exploit'] | 1 | 2022-01-30 17:55:55+00:00 | 98518 | 0 | | 1 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-01-30 18:09:58+00:00 | 214 | 5 | | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2022-01-30 13:56:52+00:00 | 19480 | 5 | Python | 0 | [] |
-| CyberSecurityUP/CVE-2019-5420-POC | None | https://github.com/CyberSecurityUP/CVE-2019-5420-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-01-30 19:44:07+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2019-5420'] |
+| NostalgiaBoy/RLUA-Module-Collection | A collection of exploit scripting modules I've derived of my own and others volition. Just use loadstrings to load them. | https://github.com/NostalgiaBoy/RLUA-Module-Collection | ['exploit'] | 1 | 2022-01-30 21:15:10+00:00 | 0 | 0 | | 0 | [] |
