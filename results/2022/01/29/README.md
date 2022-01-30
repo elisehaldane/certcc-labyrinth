@@ -1,7 +1,7 @@
 
 # Summary for results/2022/01/29
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -19,7 +19,7 @@
 | DosAmp/pkwned | Proof of Concept for CVE-2021-4034 (with experimental traceless exploitation) | https://github.com/DosAmp/pkwned | ['cve poc', 'exploit'] | 2 | 2022-01-29 14:48:01+00:00 | 4 | 0 | C | 0 | ['CVE-2021-4034'] |
 | system-69/roblox-exploit-api | Bare-bones Roblox exploit API | https://github.com/system-69/roblox-exploit-api | ['exploit'] | 1 | 2022-01-29 14:24:25+00:00 | 11 | 0 | C# | 0 | [] |
 | arthepsy/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-01-29 06:22:16+00:00 | 5 | 682 | C | 200 | ['CVE-2021-4034'] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-29 05:09:04+00:00 | 246172 | 6781 | C | 1863 | [] |
+| Diego-7/rce-ramos-consultoria-empresarial | Template criado com React e BootStrap | https://github.com/Diego-7/rce-ramos-consultoria-empresarial | ['rce'] | 1 | 2022-01-29 01:41:40+00:00 | 2147 | 0 | JavaScript | 0 | [] |
 | berdav/CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-29 02:48:47+00:00 | 14 | 995 | C | 278 | ['CVE-2021-4034'] |
 | apexmaniac/RECONeX | A Begineer ToolKit for Information Gathering , Man In The Middle & Exploitation | https://github.com/apexmaniac/RECONeX | ['exploit'] | 1 | 2022-01-29 18:11:32+00:00 | 11 | 0 | Python | 0 | [] |
 | xzajyjs/phpstudy_Backdoor-EXP | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | ['rce'] | 1 | 2022-01-29 07:57:08+00:00 | 2 | 4 | Python | 1 | [] |
@@ -59,9 +59,9 @@
 | sofire/polkit-0.96-CVE-2021-4034 | centos 6.10的rpm包，修复CVE-2021-4034 漏洞 | https://github.com/sofire/polkit-0.96-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-29 06:55:59+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | n00py/CUCMe | Cisco Unfied Call Manager exploit | https://github.com/n00py/CUCMe | ['exploit'] | 1 | 2022-01-29 06:25:39+00:00 | 0 | 1 | Shell | 0 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-01-29 14:27:31+00:00 | 60291 | 0 | CSS | 0 | [] |
-| Diego-7/rce-ramos-consultoria-empresarial | Template criado com React e BootStrap | https://github.com/Diego-7/rce-ramos-consultoria-empresarial | ['rce'] | 1 | 2022-01-29 01:41:40+00:00 | 2147 | 0 | JavaScript | 0 | [] |
 | klezVirus/vortex | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | ['exploit'] | 1 | 2022-01-29 12:08:40+00:00 | 49556 | 223 | Python | 22 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-29 07:51:39+00:00 | 372376 | 71 | | 12 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-01-29 05:09:04+00:00 | 246172 | 6781 | C | 1863 | [] |
+| nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2022-01-29 11:21:11+00:00 | 254995 | 709 | HTML | 169 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-01-29 02:21:24+00:00 | 79436 | 719 | Go | 123 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-01-29 00:20:10+00:00 | 165036 | 14 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-29 00:04:25+00:00 | 453212 | 45 | | 20 | [] |
@@ -73,21 +73,22 @@
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-01-29 14:15:22+00:00 | 4022759 | 2 | Lua | 0 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-01-29 01:49:09+00:00 | 668 | 128 | Java | 24 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-01-29 22:01:33+00:00 | 519 | 10 | Python | 4 | [] |
-| nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2022-01-29 11:21:11+00:00 | 254995 | 709 | HTML | 169 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-01-29 01:59:44+00:00 | 19386 | 647 | Go | 143 | [] |
+| Kyron14-max/Exploit-Key-System | None | https://github.com/Kyron14-max/Exploit-Key-System | ['exploit'] | 1 | 2022-01-29 20:40:26+00:00 | 3775 | 5 | C# | 0 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-01-29 19:46:31+00:00 | 2051 | 260 | C | 10 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-01-29 00:46:25+00:00 | 26862 | 27 | | 17 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-01-29 06:18:46+00:00 | 1521899 | 3966 | PowerShell | 1392 | [] |
 | ChrisTheCoolHut/Zeratool | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | ['exploit', 'shellcode'] | 2 | 2022-01-29 21:58:51+00:00 | 2819 | 847 | Python | 119 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-01-29 00:16:50+00:00 | 228102 | 269 | Ruby | 79 | [] |
 | Hax4us/Metasploit_termux | None | https://github.com/Hax4us/Metasploit_termux | ['metasploit module OR payload'] | 1 | 2022-01-29 16:15:45+00:00 | 68 | 505 | Ruby | 164 | [] |
+| rapid7/rex-exploitation | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | ['exploit'] | 1 | 2022-01-29 14:02:30+00:00 | 544 | 17 | Ruby | 31 | [] |
 | screetsec/TheFatRat | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, | https://github.com/screetsec/TheFatRat | ['exploit'] | 1 | 2022-01-29 01:25:30+00:00 | 487522 | 6057 | C | 1897 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-01-29 00:26:36+00:00 | 6256 | 4301 | Python | 575 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-01-29 10:20:11+00:00 | 5536 | 3075 | Python | 675 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-29 00:07:32+00:00 | 1534788 | 1559 | Python | 530 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-01-29 13:12:35+00:00 | 268 | 5 | Python | 1 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-01-29 07:51:39+00:00 | 372376 | 71 | | 12 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-29 00:30:47+00:00 | 139256 | 293 | Python | 92 | [] |
-| Kyron14-max/Exploit-Key-System | None | https://github.com/Kyron14-max/Exploit-Key-System | ['exploit'] | 1 | 2022-01-29 20:40:26+00:00 | 3775 | 5 | C# | 0 | [] |
 | Hacker5preme/Exploits | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | ['exploit'] | 1 | 2022-01-29 11:39:16+00:00 | 2937 | 15 | Python | 4 | [] |
 | razor1997/CostsExploitationCarsBackend | Angular and MVC App | https://github.com/razor1997/CostsExploitationCarsBackend | ['exploit'] | 1 | 2022-01-29 12:34:20+00:00 | 46 | 1 | C# | 0 | [] |
 | tobiasoed/log4j-CVE-2021-44228 | None | https://github.com/tobiasoed/log4j-CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-01-29 19:00:03+00:00 | 28 | 0 | Shell | 0 | ['CVE-2021-44228'] |
