@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+453650253,Almorabea/pkexec-exploit,CVE-2021-4034.py,4f18235722fd1f43736d13e31422c6114dda99aa,CVE-2021-4034
+453650253,Almorabea/pkexec-exploit,README.md,6be10be56e3ee781bd47dec3f46cae97ae407ebb,CVE-2021-4034
+453650253,Almorabea/pkexec-exploit,_GITHUB_REPO_METADATA_,,CVE-2021-4034
