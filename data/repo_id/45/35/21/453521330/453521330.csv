@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+453521330,milot/dissecting-pkexec-cve-2021-4034,README.md,7c48f83834d9e49248ac3324d513bef62a48a81d,CVE-2021-4034
+453521330,milot/dissecting-pkexec-cve-2021-4034,README.md,7c48f83834d9e49248ac3324d513bef62a48a81d,CVE-2021-43267
+453521330,milot/dissecting-pkexec-cve-2021-4034,pkexec-cve-2021-4034.c,b04c630d75a812683baa7a8cc26688e72905b019,CVE-2021-4034
+453521330,milot/dissecting-pkexec-cve-2021-4034,_GITHUB_REPO_METADATA_,,CVE-2021-4034
