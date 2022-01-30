@@ -6,12 +6,12 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS08-067
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS12-020
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS17-010
+264704306,aryanguenthner/365,pingsweep.sh,1ce29a01ccca252ed248a26d0b30ee1c34b90a1f,MS08-067
+264704306,aryanguenthner/365,pingsweep.sh,1ce29a01ccca252ed248a26d0b30ee1c34b90a1f,MS17-010
+264704306,aryanguenthner/365,pingsweep.sh,1ce29a01ccca252ed248a26d0b30ee1c34b90a1f,MS12-020
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS08-067
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS12-020
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS17-010
-264704306,aryanguenthner/365,pingsweep.sh,55eff5f67f54e8e6a151180e8859bff847d502eb,MS08-067
-264704306,aryanguenthner/365,pingsweep.sh,55eff5f67f54e8e6a151180e8859bff847d502eb,MS17-010
-264704306,aryanguenthner/365,pingsweep.sh,55eff5f67f54e8e6a151180e8859bff847d502eb,MS12-020
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS12-020
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS08-067
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS17-010
