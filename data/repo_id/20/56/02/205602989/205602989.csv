@@ -1,1 +1,5 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+205602989,0xl3x1/zeek-EternalSafety,tests/traces/shadowbrokers/eternalblue-success-unpatched-win7.pcap,4eebc94c1a36850e18971779085021f44a5fa56f,VU#28
+205602989,0xl3x1/zeek-EternalSafety,tests/traces/shadowbrokers/eternalblue-success-unpatched-win7.pcap,4eebc94c1a36850e18971779085021f44a5fa56f,VU#38
+205602989,0xl3x1/zeek-EternalSafety,tests/traces/shadowbrokers/eternalblue-success-unpatched-win7.pcap,4eebc94c1a36850e18971779085021f44a5fa56f,VU#53
+205602989,0xl3x1/zeek-EternalSafety,tests/traces/shadowbrokers/eternalromance-doublepulsar-meterpreter.pcap,fb27652b86f854cd775b9cc91ff81730967a6973,VU#09
