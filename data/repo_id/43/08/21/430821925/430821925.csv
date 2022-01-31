@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+430821925,iBLISSLabs/Exploit-WordPress-Library-File-Manager-Plugin-Version-5.2.2,README.md,ae83857bb17631a6dbe0a4e81db2f5a9e3356e20,CVE-2022-0403
