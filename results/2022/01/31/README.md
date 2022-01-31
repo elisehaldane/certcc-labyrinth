@@ -1,12 +1,12 @@
 
 # Summary for results/2022/01/31
     
-32 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-01-31 04:54:23+00:00 | 683488 | 26243 | Ruby | 11921 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-31 00:07:34+00:00 | 1534788 | 1561 | Python | 529 | [] |
+| ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2022-01-31 00:00:22+00:00 | 43 | 21 | | 7 | [] |
 | kangpaidjo/CVE-2021-4034 | nan | https://github.com/kangpaidjo/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-01-31 04:53:49+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-4034'] |
 | BINM7MD/MetaSploitPP | This project lets you execute shellcode (CPP) In Local or remote processes. | https://github.com/BINM7MD/MetaSploitPP | ['metasploit module OR payload', 'shellcode', 'sploit'] | 3 | 2022-01-31 03:18:16+00:00 | 0 | 0 | C++ | 0 | [] |
 | ygorsimoes/dionisio | Find exploits and vulnerabilities in the most important databases. | https://github.com/ygorsimoes/dionisio | ['exploit'] | 1 | 2022-01-31 02:33:16+00:00 | 0 | 0 | | 0 | [] |
@@ -21,8 +21,9 @@
 | Imptovskii/ExploitFixer | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | ['exploit'] | 1 | 2022-01-31 00:35:26+00:00 | 53 | 7 | Java | 1 | [] |
 | crossjam/discogsdata | CLI for exploring/exploiting a DB populated from Discogs.com data | https://github.com/crossjam/discogsdata | ['exploit'] | 1 | 2022-01-31 00:48:27+00:00 | 10 | 0 | Python | 0 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-01-31 01:57:50+00:00 | 37856 | 3 | Java | 1 | [] |
-| ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2022-01-31 00:00:22+00:00 | 43 | 21 | | 7 | [] |
 | P-DennyGamingYT/PDennSploit | #1 FREE SCRIPT UTILITY | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2022-01-31 00:13:25+00:00 | 12442 | 1 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-01-31 00:07:34+00:00 | 1534788 | 1561 | Python | 529 | [] |
+| ehsaanqazi/Mind-Maps | Vulnerabilities in Web Application and How to test and exploit for them. | https://github.com/ehsaanqazi/Mind-Maps | ['exploit'] | 1 | 2022-01-31 06:12:49+00:00 | 5049 | 46 | | 8 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-01-31 00:31:29+00:00 | 49880 | 296 | Python | 93 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-01-31 00:03:32+00:00 | 448820 | 45 | | 20 | [] |
 | cylaris/awesomekql | Azure Sentinel intrusion detection rules, recent exploits and lolbas :) | https://github.com/cylaris/awesomekql | ['exploit'] | 1 | 2022-01-31 02:22:24+00:00 | 77 | 12 | | 0 | [] |
