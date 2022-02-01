@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/bins/Dell CVE-2021-21551.pdb,01c066815a4acef484af9d92ceb20bd96ae83c8f,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/exploit/Dell CVE-2021-21551.vcxproj.user,3ba38385380485d9ff25eb142eca0a01d8ce2fab,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/exploit/Dell CVE-2021-21551.vcxproj,4bc7671c82cb3e3910f83a944751fdc9d74cd126,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/readme.md,5bb142a20e6d91a6eaf9c2a110e767d5731191d6,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/bins/blah,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/exploit/Dell CVE-2021-21551.vcxproj.filters,c595d9ce48730632639e96de11b96fbffb9413a6,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/dbutil_2_3.sys,c948ae14761095e4d76b55d9de86412258be7afd,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/exploit/Dell CVE-2021-21551.c,d5206e6df021cfd7394be111f9a114ebc4da774d,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/bins/Dell CVE-2021-21551.exe,e0624d4f3c3917a3592fbc368351c9ce4e85fe7a,CVE-2021-21551
+452789056,HadiMed/Reverse-engineering-exploiting-Win-drivers,DELL DButil driver ( CVE-2021-21551 )/exploit/System_Handles.h,f400fbd93366745311d3a9ecc1fb8c2289c9c759,CVE-2021-21551
