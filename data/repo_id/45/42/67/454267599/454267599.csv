@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+454267599,daffychuy/Log4j-Exploit,README.md,06061e827da146f738b0455abcf30c0f975dd0d5,CVE-2021-44228
+454267599,daffychuy/Log4j-Exploit,README.md,06061e827da146f738b0455abcf30c0f975dd0d5,VU#270
