@@ -1,13 +1,12 @@
 
 # Summary for results/2022/02
     
-56 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-01 02:10:44+00:00 | 683488 | 26243 | Ruby | 11923 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-01 05:57:46+00:00 | 22272 | 6295 | JavaScript | 1483 | [] |
-| 32bitmeterpreterwastaken/LucidHub | Lucid Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2022-02-01 00:37:44+00:00 | 168 | 0 | | 0 | [] |
 | mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-01 00:07:37+00:00 | 59 | 0 | C | 0 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2022-02-01 09:02:43+00:00 | 19488 | 5 | Python | 0 | [] |
 | Xh4H/Loki | The Dependency Confusion vulnerability scanner and autoexploitation tool to help identifying and mitigating supply chain attacks | https://github.com/Xh4H/Loki | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 09:59:29+00:00 | 69 | 15 | JavaScript | 0 | [] |
@@ -16,6 +15,7 @@
 | Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-02-01 06:40:25+00:00 | 284 | 28 | HTML | 6 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-01 11:10:10+00:00 | 2744 | 18 | | 1 | [] |
 | HadiMed/Reverse-engineering-exploiting-Win-drivers | My Analysis and Exploits for old Driver Vulnerabilities | https://github.com/HadiMed/Reverse-engineering-exploiting-Win-drivers | ['exploit'] | 1 | 2022-02-01 13:07:15+00:00 | 152 | 0 | C | 0 | [] |
+| Mrprogramer885/Anti-exploit-kit-0.1.0-0.2.3 | This is for anti exploit kit. i am writing some stupid shit and hoping it will works. | https://github.com/Mrprogramer885/Anti-exploit-kit-0.1.0-0.2.3 | ['exploit'] | 1 | 2022-02-01 13:43:30+00:00 | 2 | 0 | HTML | 0 | [] |
 | pviscone/flowmodoro | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | ['exploit'] | 1 | 2022-02-01 06:13:51+00:00 | 703 | 0 | Kotlin | 0 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-01 00:20:46+00:00 | 23437 | 0 | | 0 | [] |
 | ayvacs/scripts | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | ['exploit'] | 1 | 2022-02-01 04:33:38+00:00 | 107 | 1 | HTML | 0 | [] |
@@ -32,10 +32,12 @@
 | forSecurityaa/metasploitable3-win2k8 | metasploit 勉強用 | https://github.com/forSecurityaa/metasploitable3-win2k8 | ['metasploit module OR payload'] | 1 | 2022-02-01 10:23:27+00:00 | 0 | 0 | | 0 | [] |
 | conteluca/androidExploitwithMetasploit | None | https://github.com/conteluca/androidExploitwithMetasploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-01 11:12:01+00:00 | 0 | 0 | | 0 | [] |
 | scent2d/PoC-CVE-2021-4034 | Pwnkit CVE-2021-4034 | https://github.com/scent2d/PoC-CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-01 12:37:05+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| VladlenaSkubi-du/CyberSecurity_42school | Projects for deep diving into programs exploitations that can be used for getting root rights, reverse engineering, learning to reconstruct a code, and understanding it to detect faults. | https://github.com/VladlenaSkubi-du/CyberSecurity_42school | ['exploit'] | 1 | 2022-02-01 14:23:53+00:00 | 47 | 0 | C | 0 | [] |
+| qkrtjsrbs315/CVE-2013-1763 | None | https://github.com/qkrtjsrbs315/CVE-2013-1763 | ['cve-2 OR cve_2'] | 1 | 2022-02-01 13:39:28+00:00 | 0 | 0 | C | 0 | ['CVE-2013-1763'] |
+| 32bitmeterpreterwastaken/LucidHub | Lucid Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2022-02-01 00:37:44+00:00 | 168 | 0 | | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-02-01 08:44:48+00:00 | 1312 | 0 | TypeScript | 0 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-01 09:23:56+00:00 | 881 | 31 | C++ | 3 | [] |
-| 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-02-01 01:22:11+00:00 | 37858 | 3 | Java | 1 | [] |
-| ladecruze/Exploits | Contains security vulnerabilities payloads and exploits that I come across or use | https://github.com/ladecruze/Exploits | ['exploit'] | 1 | 2022-02-01 12:49:11+00:00 | 3 | 1 | JavaScript | 0 | [] |
+| mmartinezsaito/fish-cpr | Code for the research article "Neural basis of common-pool resources exploitation" | https://github.com/mmartinezsaito/fish-cpr | ['exploit'] | 1 | 2022-02-01 14:12:34+00:00 | 885 | 0 | MATLAB | 0 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-02-01 10:26:46+00:00 | 27219 | 8696 | Python | 1487 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-01 00:07:30+00:00 | 1534789 | 1562 | Python | 529 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-01 05:17:52+00:00 | 5579 | 3078 | Python | 677 | [] |
@@ -47,8 +49,9 @@
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-02-01 13:40:01+00:00 | 292713 | 94 | Python | 14 | [] |
 | alicangnll/phpwaf-phanalyzer | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | ['exploit'] | 1 | 2022-02-01 12:42:36+00:00 | 18595 | 14 | CSS | 6 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-01 00:46:27+00:00 | 27824 | 27 | | 17 | [] |
+| ladecruze/Exploits | Contains security vulnerabilities payloads and exploits that I come across or use | https://github.com/ladecruze/Exploits | ['exploit'] | 1 | 2022-02-01 12:49:11+00:00 | 3 | 1 | JavaScript | 0 | [] |
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-02-01 07:26:46+00:00 | 1891 | 36 | Python | 5 | ['MS17-010'] |
-| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-02-01 13:31:38+00:00 | 2044144 | 16 | | 6 | [] |
+| 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-02-01 01:22:11+00:00 | 37858 | 3 | Java | 1 | [] |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-02-01 09:34:08+00:00 | 5327 | 0 | JavaScript | 1 | [] |
 | rcebrian/rcebrian | None | https://github.com/rcebrian/rcebrian | ['rce'] | 1 | 2022-02-01 10:05:58+00:00 | 126 | 0 | | 0 | [] |
 | panictriggers/henschotermeer-exploits-public | Public repository of the exploits found on Henschotermeer site | https://github.com/panictriggers/henschotermeer-exploits-public | ['exploit'] | 1 | 2022-02-01 10:19:48+00:00 | 1156 | 0 | JavaScript | 0 | [] |
@@ -60,4 +63,5 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-01 00:30:26+00:00 | 52205 | 298 | Python | 93 | [] |
 | ulexec/Exploits | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | ['exploit'] | 1 | 2022-02-01 12:17:43+00:00 | 302415 | 4 | Rich Text Format | 0 | [] |
 | ZeroDayTea/ZeroDayTea | nan | https://github.com/ZeroDayTea/ZeroDayTea | ['zeroday'] | 1 | 2022-02-01 02:49:12+00:00 | 1087 | 0 | nan | 1 | [] |
-| qkrtjsrbs315/CVE-2013-1763 | None | https://github.com/qkrtjsrbs315/CVE-2013-1763 | ['cve-2 OR cve_2'] | 1 | 2022-02-01 13:39:28+00:00 | 0 | 0 | C | 0 | ['CVE-2013-1763'] |
+| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-02-01 13:31:38+00:00 | 2044144 | 16 | | 6 | [] |
+| Tanskicorp/WPS-Dos | Wordpress Vulnerability Exploitation Tool | https://github.com/Tanskicorp/WPS-Dos | ['exploit'] | 1 | 2022-02-01 14:35:38+00:00 | 0 | 0 | | 0 | [] |
