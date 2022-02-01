@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02
     
-14 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -12,10 +12,12 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-01 00:46:27+00:00 | 27824 | 27 | | 17 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-01 00:04:14+00:00 | 449419 | 45 | | 20 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-01 00:30:26+00:00 | 52205 | 298 | Python | 93 | [] |
+| ZeroDayTea/ZeroDayTea | nan | https://github.com/ZeroDayTea/ZeroDayTea | ['zeroday'] | 1 | 2022-02-01 02:49:12+00:00 | 1087 | 0 | nan | 1 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-02-01 01:22:11+00:00 | 37858 | 3 | Java | 1 | [] |
 | 32bitmeterpreterwastaken/LucidHub | Lucid Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2022-02-01 00:37:44+00:00 | 168 | 0 | | 0 | [] |
 | mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-01 00:07:37+00:00 | 59 | 0 | C | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-01 02:34:14+00:00 | 49823 | 0 | Python | 0 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-01 00:20:46+00:00 | 23437 | 0 | | 0 | [] |
+| Ix1x0x3/eurus | A CmdLib for exploits. | https://github.com/Ix1x0x3/eurus | ['exploit'] | 1 | 2022-02-01 03:23:40+00:00 | 13 | 0 | Lua | 0 | [] |
 | nathants/aws-rce | nan | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-01 01:55:06+00:00 | 0 | 0 | Go | 0 | [] |
 | Sigmw/meltdown-pocrs | The meltdown exploit converted in rust. | https://github.com/Sigmw/meltdown-pocrs | ['exploit'] | 1 | 2022-02-01 01:54:09+00:00 | 0 | 0 | | 0 | [] |
