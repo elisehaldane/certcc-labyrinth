@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+454710941,Ankit-Ojha16/pkexecExploit,setup.sh,1f7fdfc437128d3d49d1d98a3e57279938facb73,CVE-2021-4034
+454710941,Ankit-Ojha16/pkexecExploit,MakePermanent.sh,a1f30369a404ab8d6b7d89f9a7f8bdf29abf7ddd,CVE-2021-4034
+454710941,Ankit-Ojha16/pkexecExploit,pkexecExploit,a7ce2eb91b41b68aef80f1cb6f857c5e49630a58,CVE-2021-4034
+454710941,Ankit-Ojha16/pkexecExploit,README.txt,f76704174c2012ebaf441b911370d75c24949381,CVE-2021-4034
