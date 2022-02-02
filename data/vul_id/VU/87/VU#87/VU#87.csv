@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#87,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
+VU#87,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
 VU#87,0.33333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#87,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/generateJenkinsExploit,432525611
 VU#87,0.33333333,https://github.com/tmenochet/PowerDump,tmenochet/PowerDump,416900394
