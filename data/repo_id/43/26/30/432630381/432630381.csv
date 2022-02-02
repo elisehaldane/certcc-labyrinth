@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+432630381,nisforrnicholas/WordPress-Theme-Editor-Exploit,wpte_exploit.py,f7d3e84fb0a6b05f6c67fcbc55b1c21205334651,VU#58
+432630381,nisforrnicholas/WordPress-Theme-Editor-Exploit,wpte_exploit.py,f7d3e84fb0a6b05f6c67fcbc55b1c21205334651,VU#87
