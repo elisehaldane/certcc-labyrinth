@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/01
     
-116 records found after deduplication
+117 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -20,7 +20,7 @@
 | Pleezon/Bonze.cc | Tool to automate the looting-swap exploit on the minecraft-server GrieferGames. | https://github.com/Pleezon/Bonze.cc | ['exploit'] | 1 | 2022-02-01 19:32:32+00:00 | 23 | 0 | Java | 0 | [] |
 | DioBruh/dbuster-pro | Dbuster-pro is a beta open-source hacking tool for scanning directories in the websites! | https://github.com/DioBruh/dbuster-pro | ['exploit'] | 1 | 2022-02-01 15:04:40+00:00 | 78 | 11 | Ruby | 2 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-02-01 21:58:22+00:00 | 2221 | 7 | C++ | 5 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-01 05:57:46+00:00 | 22272 | 6295 | JavaScript | 1483 | [] |
+| tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-01 19:06:42+00:00 | 5659 | 0 | TypeScript | 1 | [] |
 | upal212/adguard-ps4-usersguide | 'Users Guide' via the help of AdGuard Home | https://github.com/upal212/adguard-ps4-usersguide | ['exploit'] | 1 | 2022-02-01 15:09:33+00:00 | 43 | 2 | | 1 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-01 11:10:10+00:00 | 2744 | 18 | | 1 | [] |
 | DeadlyHollows/Redis-Exploitation-Toolkit | Redis Exploitation Toolkit - A tool to pwn Redis server before the bad guys do! | https://github.com/DeadlyHollows/Redis-Exploitation-Toolkit | ['exploit'] | 1 | 2022-02-01 16:29:56+00:00 | 545 | 0 | C | 0 | [] |
@@ -63,9 +63,10 @@
 | azdmcpeak/SEC05-J | A demonstration on the reflection exploit discussed by CMU Rule 15 Platform security. | https://github.com/azdmcpeak/SEC05-J | ['exploit'] | 1 | 2022-02-01 08:31:37+00:00 | 0 | 0 | Java | 0 | [] |
 | daffychuy/Log4j-Exploit | A lab for CSC427 | https://github.com/daffychuy/Log4j-Exploit | ['exploit'] | 1 | 2022-02-01 05:02:36+00:00 | 0 | 0 | | 0 | [] |
 | AceKiron/RBLXScripts | Roblox exploit scripts | https://github.com/AceKiron/RBLXScripts | ['exploit'] | 1 | 2022-02-01 18:03:33+00:00 | 51 | 0 | Lua | 0 | [] |
-| tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-01 19:06:42+00:00 | 5659 | 0 | TypeScript | 1 | [] |
 | lefayjey/linWinPwn | linWinPwn is a script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | ['exploit'] | 1 | 2022-02-01 20:19:50+00:00 | 119 | 6 | Shell | 0 | [] |
-| panictriggers/henschotermeer-exploits-public | Public repository of the exploits found on Henschotermeer site | https://github.com/panictriggers/henschotermeer-exploits-public | ['exploit'] | 1 | 2022-02-01 10:19:48+00:00 | 1156 | 0 | JavaScript | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-01 05:57:46+00:00 | 22272 | 6295 | JavaScript | 1483 | [] |
+| tylerbarnum/perchlorate-and-chlorate-reduction-2020 | Scripts used in the publication Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. Exploitation of a complete respiratory pathway by a partial respiratory pathway in chlorine oxyanion reduction. In prep. | https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020 | ['exploit'] | 1 | 2022-02-01 15:37:26+00:00 | 763 | 0 | Jupyter Notebook | 0 | [] |
+| melnicek/peh | Post exploitation helper | https://github.com/melnicek/peh | ['exploit'] | 1 | 2022-02-01 17:41:23+00:00 | 42 | 34 | Shell | 5 | [] |
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2022-02-01 21:25:52+00:00 | 16289 | 21 | PowerShell | 9 | [] |
 | rcebrian/rcebrian | None | https://github.com/rcebrian/rcebrian | ['rce'] | 1 | 2022-02-01 10:05:58+00:00 | 126 | 0 | | 0 | [] |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-02-01 09:34:08+00:00 | 5327 | 0 | JavaScript | 1 | [] |
@@ -77,8 +78,8 @@
 | ladecruze/Exploits | Contains security vulnerabilities payloads and exploits that I come across or use | https://github.com/ladecruze/Exploits | ['exploit'] | 1 | 2022-02-01 12:49:11+00:00 | 3 | 1 | JavaScript | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-01 00:46:27+00:00 | 27824 | 27 | | 17 | [] |
 | alicangnll/phpwaf-phanalyzer | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | ['exploit'] | 1 | 2022-02-01 12:42:36+00:00 | 18595 | 14 | CSS | 6 | [] |
-| tylerbarnum/perchlorate-and-chlorate-reduction-2020 | Scripts used in the publication Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. Exploitation of a complete respiratory pathway by a partial respiratory pathway in chlorine oxyanion reduction. In prep. | https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020 | ['exploit'] | 1 | 2022-02-01 15:37:26+00:00 | 763 | 0 | Jupyter Notebook | 0 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-02-01 18:38:45+00:00 | 156 | 0 | Shell | 0 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-01 19:29:35+00:00 | 202 | 0 | | 0 | [] |
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2022-02-01 18:54:58+00:00 | 1498 | 13 | JavaScript | 29 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-02-01 13:40:01+00:00 | 292713 | 94 | Python | 14 | [] |
 | JoyChou93/java-sec-code | Java web common vulnerabilities and security code which is base on springboot and spring security | https://github.com/JoyChou93/java-sec-code | ['rce'] | 1 | 2022-02-01 01:00:23+00:00 | 410 | 1400 | Java | 366 | [] |
@@ -91,10 +92,10 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-01 00:07:30+00:00 | 1534789 | 1562 | Python | 529 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-01 15:55:37+00:00 | 3885 | 2590 | PowerShell | 739 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-02-01 10:26:46+00:00 | 27219 | 8696 | Python | 1487 | [] |
-| melnicek/peh | Post exploitation helper | https://github.com/melnicek/peh | ['exploit'] | 1 | 2022-02-01 17:41:23+00:00 | 42 | 34 | Shell | 5 | [] |
+| panictriggers/henschotermeer-exploits-public | Public repository of the exploits found on Henschotermeer site | https://github.com/panictriggers/henschotermeer-exploits-public | ['exploit'] | 1 | 2022-02-01 10:19:48+00:00 | 1156 | 0 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-01 00:04:14+00:00 | 449419 | 45 | | 20 | [] |
-| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-01 19:29:35+00:00 | 202 | 0 | | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-01 10:20:37+00:00 | 14904 | 14 | Python | 5 | [] |
+| LucaBarile/DLL-Hijacking | DLL Hijacking using DLL Proxying technique | https://github.com/LucaBarile/DLL-Hijacking | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 21:36:36+00:00 | 16 | 1 | HTML | 2 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-01 21:17:27+00:00 | 104 | 8 | | 3 | ['CVE-2021-44228'] |
 | Xh4H/Loki | The Dependency Confusion vulnerability scanner and autoexploitation tool to help identifying and mitigating supply chain attacks | https://github.com/Xh4H/Loki | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 09:59:29+00:00 | 69 | 15 | JavaScript | 0 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-02-01 16:31:44+00:00 | 195 | 1 | Java | 0 | [] |
@@ -111,6 +112,7 @@
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-02-01 19:12:47+00:00 | 2041 | 0 | | 0 | [] |
 | triscuitcircuit/rcengine | Game Engine written in Rust and C++. Work in progress | https://github.com/triscuitcircuit/rcengine | ['rce'] | 1 | 2022-02-01 22:24:39+00:00 | 13162 | 4 | C++ | 0 | [] |
 | ulexec/Exploits | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | ['exploit'] | 1 | 2022-02-01 12:17:43+00:00 | 302415 | 4 | Rich Text Format | 0 | [] |
+| tegal1337/CiLocks | Crack Interface lockscreen, Metasploit and More Android/IOS Hacking | https://github.com/tegal1337/CiLocks | ['metasploit module OR payload'] | 1 | 2022-02-01 16:48:38+00:00 | 5773 | 638 | Shell | 141 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-01 00:30:26+00:00 | 52205 | 298 | Python | 93 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 09:50:36+00:00 | 344016 | 71 | | 12 | [] |
 | Pen-Test3rs/binary_exploits_backend | Educational web application demonstrating techniques of binary exploitation (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | ['exploit'] | 1 | 2022-02-01 22:15:32+00:00 | 487 | 0 | Python | 0 | [] |
@@ -119,5 +121,4 @@
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-02-01 20:52:16+00:00 | 291 | 5 | Python | 1 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-02-01 03:58:14+00:00 | 291765 | 813 | C# | 186 | [] |
 | LucaBarile/TOCTOU | Exploiting TOCTOU vulnerability using OpLock and Junctions | https://github.com/LucaBarile/TOCTOU | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 21:37:18+00:00 | 8580 | 1 | C# | 1 | [] |
-| LucaBarile/DLL-Hijacking | DLL Hijacking using DLL Proxying technique | https://github.com/LucaBarile/DLL-Hijacking | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 21:36:36+00:00 | 16 | 1 | HTML | 2 | [] |
 | bribes/wordle-hacks | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | ['exploit'] | 1 | 2022-02-01 23:33:16+00:00 | 0 | 0 | | 0 | [] |
