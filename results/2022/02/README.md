@@ -1,11 +1,11 @@
 
 # Summary for results/2022/02
     
-132 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-01 02:10:44+00:00 | 683488 | 26243 | Ruby | 11923 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-02 00:05:05+00:00 | 682592 | 26249 | Ruby | 11921 | [] |
 | DioBruh/dbuster-pro | Dbuster-pro is a beta open-source hacking tool for scanning directories in the websites! | https://github.com/DioBruh/dbuster-pro | ['exploit'] | 1 | 2022-02-01 15:04:40+00:00 | 78 | 11 | Ruby | 2 | [] |
 | Sigmw/meltdown-pocrs | The meltdown exploit converted in rust. | https://github.com/Sigmw/meltdown-pocrs | ['exploit'] | 1 | 2022-02-01 01:54:09+00:00 | 0 | 0 | | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-01 01:55:06+00:00 | 0 | 0 | Go | 0 | [] |
@@ -22,7 +22,7 @@
 | HadiMed/Reverse-engineering-exploiting-Win-drivers | My Analysis and Exploits for old Driver Vulnerabilities | https://github.com/HadiMed/Reverse-engineering-exploiting-Win-drivers | ['exploit'] | 1 | 2022-02-01 13:07:15+00:00 | 152 | 0 | C | 0 | [] |
 | Pleezon/Bonze.cc | Tool to automate the looting-swap exploit on the minecraft-server GrieferGames. | https://github.com/Pleezon/Bonze.cc | ['exploit'] | 1 | 2022-02-01 19:32:32+00:00 | 23 | 0 | Java | 0 | [] |
 | Stef-Boogers/SagaScape | Model of subsitence and resource exploitation in the territory of Sagalassos, Turkey during the Late Iron Age - Early Hellenistic period | https://github.com/Stef-Boogers/SagaScape | ['exploit'] | 1 | 2022-02-01 19:45:10+00:00 | 6686 | 0 | NetLogo | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-01 05:57:46+00:00 | 22272 | 6295 | JavaScript | 1483 | [] |
+| DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-02-01 15:08:49+00:00 | 2296 | 3 | JavaScript | 3 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-02-01 21:58:22+00:00 | 2221 | 7 | C++ | 5 | [] |
 | upal212/adguard-ps4-usersguide | 'Users Guide' via the help of AdGuard Home | https://github.com/upal212/adguard-ps4-usersguide | ['exploit'] | 1 | 2022-02-01 15:09:33+00:00 | 43 | 2 | | 1 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-01 11:10:10+00:00 | 2744 | 18 | | 1 | [] |
@@ -71,9 +71,9 @@
 | conteluca/androidExploitwithMetasploit | None | https://github.com/conteluca/androidExploitwithMetasploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-01 11:12:01+00:00 | 0 | 0 | | 0 | [] |
 | forSecurityaa/metasploitable3-win2k8 | metasploit 勉強用 | https://github.com/forSecurityaa/metasploitable3-win2k8 | ['metasploit module OR payload'] | 1 | 2022-02-01 10:23:27+00:00 | 0 | 0 | | 0 | [] |
 | HrishitJoshi/Final_Exploit | Exploited a vulnerable binary by doing buffer overflow and exploiting Format string vulnerabilities. | https://github.com/HrishitJoshi/Final_Exploit | ['exploit'] | 1 | 2022-02-02 05:57:11+00:00 | 734 | 1 | Perl | 0 | [] |
-| DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-02-01 15:08:49+00:00 | 2296 | 3 | JavaScript | 3 | [] |
 | AceKiron/RBLXScripts | Roblox exploit scripts | https://github.com/AceKiron/RBLXScripts | ['exploit'] | 1 | 2022-02-01 18:03:33+00:00 | 51 | 0 | Lua | 0 | [] |
-| LucaBarile/TOCTOU | Exploiting TOCTOU vulnerability using OpLock and Junctions | https://github.com/LucaBarile/TOCTOU | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 21:37:18+00:00 | 8580 | 1 | C# | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-01 05:57:46+00:00 | 22272 | 6295 | JavaScript | 1483 | [] |
+| jamesmoriarty/gohack | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | ['exploit'] | 1 | 2022-02-02 07:13:45+00:00 | 3923 | 41 | Go | 8 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-01 10:20:37+00:00 | 14904 | 14 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-01 00:04:14+00:00 | 449419 | 45 | | 20 | [] |
 | panictriggers/henschotermeer-exploits-public | Public repository of the exploits found on Henschotermeer site | https://github.com/panictriggers/henschotermeer-exploits-public | ['exploit'] | 1 | 2022-02-01 10:19:48+00:00 | 1156 | 0 | JavaScript | 0 | [] |
@@ -87,8 +87,9 @@
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-02-01 07:26:46+00:00 | 1891 | 36 | Python | 5 | ['MS17-010'] |
 | mmartinezsaito/fish-cpr | Code for the research article "Neural basis of common-pool resources exploitation" | https://github.com/mmartinezsaito/fish-cpr | ['exploit'] | 1 | 2022-02-01 14:12:34+00:00 | 885 | 0 | MATLAB | 0 | [] |
 | ladecruze/Exploits | Contains security vulnerabilities payloads and exploits that I come across or use | https://github.com/ladecruze/Exploits | ['exploit'] | 1 | 2022-02-01 12:49:11+00:00 | 3 | 1 | JavaScript | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-02 00:46:28+00:00 | 27825 | 27 | | 17 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-01 00:46:27+00:00 | 27824 | 27 | | 17 | [] |
 | alicangnll/phpwaf-phanalyzer | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | ['exploit'] | 1 | 2022-02-01 12:42:36+00:00 | 18595 | 14 | CSS | 6 | [] |
+| tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-01 19:06:42+00:00 | 5659 | 0 | TypeScript | 1 | [] |
 | tylerbarnum/perchlorate-and-chlorate-reduction-2020 | Scripts used in the publication Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. Exploitation of a complete respiratory pathway by a partial respiratory pathway in chlorine oxyanion reduction. In prep. | https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020 | ['exploit'] | 1 | 2022-02-01 15:37:26+00:00 | 763 | 0 | Jupyter Notebook | 0 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-02-01 18:38:45+00:00 | 156 | 0 | Shell | 0 | [] |
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2022-02-01 18:54:58+00:00 | 1498 | 13 | JavaScript | 29 | [] |
@@ -98,14 +99,14 @@
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-02-01 08:46:41+00:00 | 253 | 82 | Python | 33 | [] |
 | HexxiumCreations/threat-list | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE! | https://github.com/HexxiumCreations/threat-list | ['exploit'] | 1 | 2022-02-02 05:21:26+00:00 | 1621 | 13 | HTML | 5 | [] |
 | infoslack/awesome-web-hacking | A list of web application security | https://github.com/infoslack/awesome-web-hacking | ['metasploit module OR payload'] | 1 | 2022-02-01 09:23:27+00:00 | 162 | 3831 | | 1010 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-02 01:27:32+00:00 | 6787 | 4316 | Python | 575 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-01 00:40:00+00:00 | 6266 | 4311 | Python | 575 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-01 05:17:52+00:00 | 5579 | 3078 | Python | 677 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-02 00:07:29+00:00 | 1534789 | 1563 | Python | 529 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-01 00:07:30+00:00 | 1534789 | 1562 | Python | 529 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-01 15:55:37+00:00 | 3885 | 2590 | PowerShell | 739 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-02-01 10:26:46+00:00 | 27219 | 8696 | Python | 1487 | [] |
 | LucaBarile/DLL-Hijacking | DLL Hijacking using DLL Proxying technique | https://github.com/LucaBarile/DLL-Hijacking | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 21:36:36+00:00 | 16 | 1 | HTML | 2 | [] |
+| LucaBarile/TOCTOU | Exploiting TOCTOU vulnerability using OpLock and Junctions | https://github.com/LucaBarile/TOCTOU | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-01 21:37:18+00:00 | 8580 | 1 | C# | 1 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-02-01 03:58:14+00:00 | 291765 | 813 | C# | 186 | [] |
-| tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-01 19:06:42+00:00 | 5659 | 0 | TypeScript | 1 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-02-01 20:52:16+00:00 | 291 | 5 | Python | 1 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-02 04:19:30+00:00 | 298 | 3 | Python | 3 | [] |
 | lefayjey/linWinPwn | linWinPwn is a script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | ['exploit'] | 1 | 2022-02-01 20:19:50+00:00 | 119 | 6 | Shell | 0 | [] |
