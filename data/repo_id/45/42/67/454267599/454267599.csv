@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-454267599,daffychuy/Log4j-Exploit,README.md,b1c81d6234beef5edadfc194bd893bee0228c3e1,CVE-2021-44228
-454267599,daffychuy/Log4j-Exploit,README.md,b1c81d6234beef5edadfc194bd893bee0228c3e1,VU#270
+454267599,daffychuy/Log4j-Exploit,README.md,415f336c9b484e23e9060db134688c5207f2d766,CVE-2021-44228
+454267599,daffychuy/Log4j-Exploit,README.md,415f336c9b484e23e9060db134688c5207f2d766,VU#270
