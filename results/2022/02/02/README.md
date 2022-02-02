@@ -1,20 +1,21 @@
 
 # Summary for results/2022/02/02
     
-37 records found after deduplication
+38 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-02 00:05:05+00:00 | 682592 | 26249 | Ruby | 11921 | [] |
-| Diego-7/rce-ramos-consultoria-empresarial | Template criado com React e BootStrap | https://github.com/Diego-7/rce-ramos-consultoria-empresarial | ['rce'] | 1 | 2022-02-02 01:41:02+00:00 | 1820 | 0 | JavaScript | 0 | [] |
+| daffychuy/Log4j-Exploit | A lab for CSC427 | https://github.com/daffychuy/Log4j-Exploit | ['exploit'] | 1 | 2022-02-02 04:43:43+00:00 | 69 | 0 | Java | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-02 01:10:05+00:00 | 21195 | 2 | Jupyter Notebook | 0 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-02 04:18:09+00:00 | 47 | 86 | nan | 7 | [] |
 | Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-02-02 01:30:29+00:00 | 286 | 28 | HTML | 6 | [] |
 | DeadlyHollows/Redis-Exploitation-Toolkit | Redis Exploitation Toolkit - A tool to pwn Redis server before the bad guys do! | https://github.com/DeadlyHollows/Redis-Exploitation-Toolkit | ['exploit'] | 1 | 2022-02-02 02:39:21+00:00 | 548 | 0 | C | 0 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-02-02 02:28:51+00:00 | 2222 | 7 | C++ | 5 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-02 00:16:01+00:00 | 41892 | 0 | | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-02 03:00:03+00:00 | 97 | 0 | Go | 0 | [] |
-| daffychuy/Log4j-Exploit | A lab for CSC427 | https://github.com/daffychuy/Log4j-Exploit | ['exploit'] | 1 | 2022-02-02 04:43:43+00:00 | 69 | 0 | Java | 0 | [] |
 | Neluve/Trainer | Trainer Offline/online como desees ^_^ solo aplica y guarda en el icono de herramientas tu Host (si te lo descargas...) Ademas he incluido una Gran Variedad de Exploits para ke no te falte de Nada!Disfrutalo! | https://github.com/Neluve/Trainer | ['exploit'] | 1 | 2022-02-02 00:29:15+00:00 | 4742 | 0 | JavaScript | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-02 01:23:45+00:00 | 22272 | 6294 | JavaScript | 1484 | [] |
 | Shizmob/res1gn | Simple pure-software System ES1 exploit | https://github.com/Shizmob/res1gn | ['exploit'] | 1 | 2022-02-02 01:50:48+00:00 | 0 | 0 | Shell | 0 | [] |
 | bribes/wordle-hacks | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | ['exploit'] | 1 | 2022-02-02 01:51:36+00:00 | 1 | 1 | | 0 | [] |
 | razordeveloper/Warzone-XLL-Excel-Exploit-Crack | None | https://github.com/razordeveloper/Warzone-XLL-Excel-Exploit-Crack | ['exploit'] | 1 | 2022-02-02 00:36:21+00:00 | 0 | 0 | | 0 | [] |
@@ -22,15 +23,16 @@
 | JackC4G/Synapse-X-Cracked-Roblox-Exploit-Free-Download-2022- | Synapse X cracked tool is a free code executor application | https://github.com/JackC4G/Synapse-X-Cracked-Roblox-Exploit-Free-Download-2022- | ['exploit'] | 1 | 2022-02-02 01:25:02+00:00 | 0 | 1 | | 0 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-02-02 02:46:18+00:00 | 0 | 0 | Python | 0 | [] |
 | GioMakesDaHoodORRobloxScriptsLol1245/exploitingisfunig | sdfg | https://github.com/GioMakesDaHoodORRobloxScriptsLol1245/exploitingisfunig | ['exploit'] | 1 | 2022-02-02 04:41:11+00:00 | 0 | 0 | | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-02 01:10:05+00:00 | 21195 | 2 | Jupyter Notebook | 0 | [] |
+| Diego-7/rce-ramos-consultoria-empresarial | Template criado com React e BootStrap | https://github.com/Diego-7/rce-ramos-consultoria-empresarial | ['rce'] | 1 | 2022-02-02 01:41:02+00:00 | 1820 | 0 | JavaScript | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-02 03:18:09+00:00 | 49853 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-02 01:23:45+00:00 | 22272 | 6294 | JavaScript | 1484 | [] |
 | HrishitJoshi/Final_Exploit | Exploited a vulnerable binary by doing buffer overflow and exploiting Format string vulnerabilities. | https://github.com/HrishitJoshi/Final_Exploit | ['exploit'] | 1 | 2022-02-02 05:57:11+00:00 | 734 | 1 | Perl | 0 | [] |
+| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-02 04:19:30+00:00 | 298 | 3 | Python | 3 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-02 01:13:52+00:00 | 3901 | 2590 | PowerShell | 740 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-02 00:07:29+00:00 | 1534789 | 1563 | Python | 529 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-02 01:27:32+00:00 | 6787 | 4316 | Python | 575 | [] |
 | HexxiumCreations/threat-list | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE! | https://github.com/HexxiumCreations/threat-list | ['exploit'] | 1 | 2022-02-02 05:21:26+00:00 | 1621 | 13 | HTML | 5 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-02 00:17:04+00:00 | 229640 | 269 | Ruby | 79 | [] |
+| jamesmoriarty/gohack | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | ['exploit'] | 1 | 2022-02-02 07:13:45+00:00 | 3923 | 41 | Go | 8 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-02 00:46:28+00:00 | 27825 | 27 | | 17 | [] |
 | jm33-m0/static-bins | statically linked post-exploitation tools for linux | https://github.com/jm33-m0/static-bins | ['exploit'] | 1 | 2022-02-02 04:49:09+00:00 | 56260 | 4 | Shell | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-02 00:04:21+00:00 | 453377 | 45 | | 20 | [] |
@@ -40,5 +42,4 @@
 | nisforrnicholas/WordPress-Theme-Editor-Exploit | Simple Python tool that opens a reverse shell by exploiting the theme editor in WordPress | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | ['exploit'] | 1 | 2022-02-02 02:42:43+00:00 | 6 | 0 | Python | 0 | [] |
 | Babyhamsta/Exploit-Update-Watcher | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2022-02-02 01:17:21+00:00 | 107 | 2 | C# | 1 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-02 04:49:18+00:00 | 5185 | 758 | Java | 154 | ['CVE-2021-44228'] |
-| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-02 04:19:30+00:00 | 298 | 3 | Python | 3 | [] |
 | HrishitJoshi/CVE-2021-4034 | PWNKIT - Local Privilege Escalation Vulnerability on Linux (Polkit) | https://github.com/HrishitJoshi/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-02 05:37:20+00:00 | 0 | 1 | C | 0 | ['CVE-2021-4034'] |
