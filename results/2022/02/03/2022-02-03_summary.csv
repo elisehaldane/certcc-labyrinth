@@ -1,6 +1,7 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
 rapid7/metasploit-framework,Metasploit Framework,https://github.com/rapid7/metasploit-framework,['metasploit module OR payload'],1,2022-02-03T00:33:29+0000,683067,26253,Ruby,11928,[]
-hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-02-03T00:17:05+0000,229641,269,Ruby,79,[]
+LMS57/Bin_Exp,Binary Exploitation Challenges from different places based on category,https://github.com/LMS57/Bin_Exp,['exploit'],1,2022-02-03T03:06:19+0000,2606,1,C,0,[]
+IloveExploits101/IloveExploits101,Config files for my GitHub profile.,https://github.com/IloveExploits101/IloveExploits101,['exploit'],1,2022-02-03T02:32:08+0000,0,0,,0,[]
 anvbis/linux-kernel-papers,A collection of academic papers on Linux kernel exploitation.,https://github.com/anvbis/linux-kernel-papers,['exploit'],1,2022-02-03T02:26:21+0000,0,0,,0,[]
 RyanScripz/Basic-Print-Exploit,None,https://github.com/RyanScripz/Basic-Print-Exploit,['exploit'],1,2022-02-03T01:05:15+0000,0,0,C++,0,[]
 AnonymousMonke12/ExlinSploit,Hello this is an exploit I made (MAY HAVE ISSUES AFTER NEW ROBLOX UPDATES),https://github.com/AnonymousMonke12/ExlinSploit,"['exploit', 'sploit']",2,2022-02-03T00:34:30+0000,0,0,Lua,0,[]
@@ -10,6 +11,8 @@ RapidoBuzz/RhyteredExploit,None,https://github.com/RapidoBuzz/RhyteredExploit,['
 OXDBXKXO/go-PwnKit,Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034),https://github.com/OXDBXKXO/go-PwnKit,['exploit'],1,2022-02-03T00:47:51+0000,25,2,Go,0,['CVE-2021-4034']
 upal212/pkg-store,http://ps4h3x.xyz/store,https://github.com/upal212/pkg-store,['exploit'],1,2022-02-03T01:10:09+0000,2747,20,,1,[]
 logpresso/CVE-2021-44228-Scanner,Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228,https://github.com/logpresso/CVE-2021-44228-Scanner,['cve-2 OR cve_2'],1,2022-02-03T02:00:16+0000,5192,761,Java,154,['CVE-2021-44228']
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-02-03T00:17:05+0000,229641,269,Ruby,79,[]
+nisforrnicholas/WordPress-Theme-Editor-Exploit,Simple Python tool that opens a reverse shell by exploiting the theme editor in WordPress,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,['exploit'],1,2022-02-03T03:15:14+0000,182,0,Python,0,[]
 thelikes/ownlist,Weekly compilation of offensive security tools and write-ups,https://github.com/thelikes/ownlist,['exploit'],1,2022-02-03T02:27:50+0000,41,18,,3,[]
 ARPSyndicate/cvemon,Monitoring exploits & references for CVEs,https://github.com/ARPSyndicate/cvemon,"['cve poc', 'exploit', 'vulnerability poc']",3,2022-02-03T00:16:06+0000,356757,71,,12,[]
 Wr0zen/wr0zen.github.io,Yet Another Exploit Host,https://github.com/Wr0zen/wr0zen.github.io,['exploit'],1,2022-02-03T01:36:27+0000,8719,1,JavaScript,3,[]
@@ -18,4 +21,4 @@ Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unifie
 z-Mythic/ExPatch,Exploit / Backdoor patcher / preventer for gmod. ,https://github.com/z-Mythic/ExPatch,['exploit'],1,2022-02-03T00:25:56+0000,16,1,Lua,0,[]
 nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-02-03T00:46:29+0000,28716,27,,17,[]
 YosiSF/EinsteinDB,"In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan",https://github.com/YosiSF/EinsteinDB,['exploit'],1,2022-02-03T02:36:04+0000,4004,7,Rust,4,[]
-IloveExploits101/IloveExploits101,Config files for my GitHub profile.,https://github.com/IloveExploits101/IloveExploits101,['exploit'],1,2022-02-03T02:32:08+0000,0,0,,0,[]
+dest-3/exploit_dev,A collection of memory corruption exploits and related material ,https://github.com/dest-3/exploit_dev,['exploit'],1,2022-02-03T03:22:33+0000,0,0,Python,0,[]
