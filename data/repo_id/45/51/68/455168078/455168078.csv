@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+455168078,loicosquare/rce_project,src/assets/scss/icons/font-awesome/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+455168078,loicosquare/rce_project,src/assets/scss/icons/font-awesome/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+455168078,loicosquare/rce_project,src/assets/scss/font/Webfont/QuincyCF-Medium.woff,5a8545a725bd3d12f25d8a5da2b1dc8d26e9378b,VU#66
+455168078,loicosquare/rce_project,src/assets/scss/icons/font-awesome/old/fonts/fontawesome-webfont-old.ttf,6484f1af6b485d5096b71b344e67f4164c33dd1f,VU#96
+455168078,loicosquare/rce_project,src/assets/scss/icons/font-awesome/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
