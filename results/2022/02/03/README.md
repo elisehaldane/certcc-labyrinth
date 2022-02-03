@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/03
     
-27 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -16,19 +16,23 @@
 | AnonymousMonke12/ExlinSploit | Hello this is an exploit I made (MAY HAVE ISSUES AFTER NEW ROBLOX UPDATES) | https://github.com/AnonymousMonke12/ExlinSploit | ['exploit', 'sploit'] | 2 | 2022-02-03 00:34:30+00:00 | 0 | 0 | Lua | 0 | [] |
 | hippolippo/RCE-Games-Played-Site | nan | https://github.com/hippolippo/RCE-Games-Played-Site | ['rce'] | 1 | 2022-02-03 00:39:07+00:00 | 1647 | 0 | Python | 0 | [] |
 | bribes/wordle-hacks | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | ['exploit'] | 1 | 2022-02-03 02:41:48+00:00 | 58 | 1 | | 0 | [] |
+| Ix1x0x3/eurus | A CmdLib for exploits. | https://github.com/Ix1x0x3/eurus | ['exploit'] | 1 | 2022-02-03 05:05:56+00:00 | 40 | 0 | Lua | 0 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-03 02:02:53+00:00 | 44065 | 0 | | 0 | [] |
 | OXDBXKXO/go-PwnKit | Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034) | https://github.com/OXDBXKXO/go-PwnKit | ['exploit'] | 1 | 2022-02-03 00:47:51+00:00 | 25 | 2 | Go | 0 | ['CVE-2021-4034'] |
+| deoxykev/CVE-2021-4034-Rust | Linux LPE using polkit-1 written in Rust. | https://github.com/deoxykev/CVE-2021-4034-Rust | ['cve-2 OR cve_2'] | 1 | 2022-02-03 05:17:52+00:00 | 10 | 1 | Rust | 1 | ['CVE-2021-4034'] |
 | LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-02-03 03:06:19+00:00 | 2606 | 1 | C | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-03 00:17:05+00:00 | 229641 | 269 | Ruby | 79 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-03 05:09:05+00:00 | 246173 | 6797 | C | 1864 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-03 02:00:16+00:00 | 5192 | 761 | Java | 154 | ['CVE-2021-44228'] |
 | nisforrnicholas/WordPress-Theme-Editor-Exploit | Simple Python tool that opens a reverse shell by exploiting the theme editor in WordPress | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | ['exploit'] | 1 | 2022-02-03 03:15:14+00:00 | 182 | 0 | Python | 0 | [] |
+| senhaxor/msf_shellcode | nan | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-02-03 05:05:50+00:00 | 848 | 0 | nan | 1 | [] |
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-02-03 02:27:50+00:00 | 41 | 18 | | 3 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-03 04:00:32+00:00 | 58596 | 300 | Python | 93 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-03 00:16:06+00:00 | 356757 | 71 | | 12 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-03 00:16:06+00:00 | 356757 | 71 | nan | 12 | [] |
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-02-03 01:36:27+00:00 | 8719 | 1 | JavaScript | 3 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-02-03 00:52:10+00:00 | 187 | 7 | Shell | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-03 00:04:48+00:00 | 458608 | 45 | | 20 | [] |
 | z-Mythic/ExPatch | Exploit / Backdoor patcher / preventer for gmod. | https://github.com/z-Mythic/ExPatch | ['exploit'] | 1 | 2022-02-03 00:25:56+00:00 | 16 | 1 | Lua | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-03 00:46:29+00:00 | 28716 | 27 | | 17 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-02-03 02:36:04+00:00 | 4004 | 7 | Rust | 4 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-03 00:17:05+00:00 | 229641 | 269 | Ruby | 79 | [] |
 | 32Bites/NOPE | Noah's Offensive Post Exploitation | https://github.com/32Bites/NOPE | ['exploit'] | 1 | 2022-02-03 04:40:56+00:00 | 0 | 0 | | 0 | [] |
