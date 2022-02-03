@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/03
     
-132 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,7 +22,7 @@
 | pviscone/flowmodoro | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | ['exploit'] | 1 | 2022-02-03 14:29:53+00:00 | 708 | 0 | Kotlin | 0 | [] |
 | OXDBXKXO/go-PwnKit | Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034) | https://github.com/OXDBXKXO/go-PwnKit | ['exploit'] | 1 | 2022-02-03 00:47:51+00:00 | 25 | 2 | Go | 0 | ['CVE-2021-4034'] |
 | MedKH1684/Pwnkit-CVE-2021-4034 | None | https://github.com/MedKH1684/Pwnkit-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-03 14:04:39+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-03 13:15:37+00:00 | 22272 | 6297 | JavaScript | 1483 | [] |
+| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-02-03 03:06:19+00:00 | 2606 | 1 | C | 0 | [] |
 | deoxykev/CVE-2021-4034-Rust | Linux LPE using polkit-1 written in Rust. | https://github.com/deoxykev/CVE-2021-4034-Rust | ['cve-2 OR cve_2'] | 1 | 2022-02-03 05:17:52+00:00 | 10 | 1 | Rust | 1 | ['CVE-2021-4034'] |
 | nawed20002/CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | ['cve-2 OR cve_2'] | 1 | 2022-02-03 11:01:43+00:00 | 7 | 0 | | 0 | ['CVE-2021-46005'] |
 | xzajyjs/phpstudy_Backdoor-EXP | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | ['rce'] | 1 | 2022-02-03 08:40:04+00:00 | 443 | 4 | Python | 1 | [] |
@@ -71,9 +71,10 @@
 | 32Bites/NOPE | Noah's Offensive Post Exploitation | https://github.com/32Bites/NOPE | ['exploit'] | 1 | 2022-02-03 04:40:56+00:00 | 0 | 0 | | 0 | [] |
 | PwnSavant/all-my-exploits | some of them are trash | https://github.com/PwnSavant/all-my-exploits | ['exploit'] | 1 | 2022-02-03 04:38:36+00:00 | 0 | 0 | | 0 | [] |
 | klezVirus/vortex | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | ['exploit'] | 1 | 2022-02-03 12:08:23+00:00 | 49559 | 224 | Python | 24 | [] |
-| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-02-03 03:06:19+00:00 | 2606 | 1 | C | 0 | [] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-03 17:32:33+00:00 | 5679 | 0 | TypeScript | 1 | [] |
-| binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-02-03 06:30:08+00:00 | 5970 | 5 | Go | 2 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-03 13:15:37+00:00 | 22272 | 6297 | JavaScript | 1483 | [] |
+| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-02-03 02:36:04+00:00 | 4004 | 7 | Rust | 4 | [] |
+| pen4uin/bug-bounty | list of bug bounty writeups | https://github.com/pen4uin/bug-bounty | ['rce'] | 1 | 2022-02-03 14:36:28+00:00 | 239 | 26 | | 12 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-03 08:42:50+00:00 | 28600 | 15 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-03 00:04:48+00:00 | 458608 | 45 | | 20 | [] |
 | z-Mythic/ExPatch | Exploit / Backdoor patcher / preventer for gmod. | https://github.com/z-Mythic/ExPatch | ['exploit'] | 1 | 2022-02-03 00:25:56+00:00 | 16 | 1 | Lua | 0 | [] |
@@ -87,8 +88,8 @@
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2022-02-03 13:59:15+00:00 | 68360 | 673 | Lua | 145 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-03 07:12:11+00:00 | 36695 | 648 | Go | 144 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-03 00:46:29+00:00 | 28716 | 27 | | 17 | [] |
-| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-02-03 02:36:04+00:00 | 4004 | 7 | Rust | 4 | [] |
 | ISK33/Exploit | None | https://github.com/ISK33/Exploit | ['exploit'] | 1 | 2022-02-03 19:39:45+00:00 | 4585 | 0 | Shell | 0 | [] |
+| CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-03 20:02:09+00:00 | 439 | 336 | PowerShell | 92 | ['CVE-2021-44228'] |
 | hackerschoice/THC-Archive | All releases of the security research group (a.k.a. hackers) The Hacker's Choice | https://github.com/hackerschoice/THC-Archive | ['exploit'] | 1 | 2022-02-03 09:37:44+00:00 | 74963 | 521 | HTML | 170 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2022-02-03 20:45:36+00:00 | 17287 | 1059 | PowerShell | 252 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-03 00:17:05+00:00 | 229641 | 269 | Ruby | 79 | [] |
@@ -103,10 +104,10 @@
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-02-03 13:34:00+00:00 | 60649 | 1180 | C | 561 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-03 05:09:05+00:00 | 246173 | 6797 | C | 1864 | [] |
 | pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-03 12:18:13+00:00 | 19048 | 489 | Ruby | 121 | [] |
-| pen4uin/bug-bounty | list of bug bounty writeups | https://github.com/pen4uin/bug-bounty | ['rce'] | 1 | 2022-02-03 14:36:28+00:00 | 239 | 26 | | 12 | [] |
+| binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-02-03 06:30:08+00:00 | 5970 | 5 | Go | 2 | [] |
 | wibuheker/Laravel-RCE | None | https://github.com/wibuheker/Laravel-RCE | ['rce'] | 1 | 2022-02-03 13:07:17+00:00 | 16 | 4 | Python | 4 | [] |
-| CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-03 20:02:09+00:00 | 439 | 336 | PowerShell | 92 | ['CVE-2021-44228'] |
 | aeverj/NimShellCodeLoader | 使用nim编写的shellcode加载器 | https://github.com/aeverj/NimShellCodeLoader | ['shellcode'] | 1 | 2022-02-03 08:32:02+00:00 | 165 | 278 | C | 54 | [] |
+| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2022-02-03 18:35:15+00:00 | 484 | 160 | | 54 | [] |
 | rwincey/CVE-2021-44228-Log4j-Payloads | None | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | ['cve-2 OR cve_2'] | 1 | 2022-02-03 20:39:46+00:00 | 771 | 58 | | 15 | ['CVE-2021-44228'] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-03 02:00:16+00:00 | 5192 | 761 | Java | 154 | ['CVE-2021-44228'] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-02-03 08:27:07+00:00 | 255 | 50 | C++ | 7 | [] |
@@ -117,6 +118,7 @@
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-03 19:24:56+00:00 | 588 | 37 | JavaScript | 32 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-02-03 18:16:42+00:00 | 20 | 1 | | 0 | [] |
 | xen0vas/Win32-Reverse-TCP-Shellcode | Windows Reverse TCP Shellcode ( 330 Bytes ) | https://github.com/xen0vas/Win32-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2022-02-03 15:11:12+00:00 | 39 | 2 | C | 0 | [] |
+| joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-02-03 22:42:13+00:00 | 537 | 0 | Lua | 2 | [] |
 | 9lyph/CVE-2021-45901 | None | https://github.com/9lyph/CVE-2021-45901 | ['cve-2 OR cve_2'] | 1 | 2022-02-03 22:10:16+00:00 | 2094 | 0 | Python | 0 | ['CVE-2021-45901'] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-03 08:14:54+00:00 | 945 | 31 | C++ | 3 | [] |
 | Balasys/dheater | D(HE)ater is a proof of concept implementation of the D(HE)at attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'cve poc', 'exploit', 'vulnerability poc'] | 4 | 2022-02-03 14:20:13+00:00 | 100 | 90 | Python | 9 | ['CVE-2002-20001'] |
@@ -135,5 +137,4 @@
 | CamHenlin/coprocessor.js | serial-based, nodejs-backed, remote code execution system | https://github.com/CamHenlin/coprocessor.js | ['remote code execution'] | 1 | 2022-02-03 07:28:26+00:00 | 39 | 5 | JavaScript | 0 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-02-03 00:52:10+00:00 | 187 | 7 | Shell | 1 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-02-03 13:58:52+00:00 | 347 | 5 | Python | 1 | [] |
-| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2022-02-03 18:35:15+00:00 | 484 | 160 | | 54 | [] |
 | swarogisreal/Simple-Exploit-Steal-Cookie | None | https://github.com/swarogisreal/Simple-Exploit-Steal-Cookie | ['exploit'] | 1 | 2022-02-03 20:58:48+00:00 | 0 | 0 | Hack | 0 | [] |
