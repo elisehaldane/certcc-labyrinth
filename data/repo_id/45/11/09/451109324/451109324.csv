@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-451109324,EsharkyTheGreat/Kernel-Exploitation,meowmeow/bzImage,1c0dc5cab8d564a26bcd4c4a5aac306b56bc91e9,VU#10
 451109324,EsharkyTheGreat/Kernel-Exploitation,kernel-rop/kernel-rop/vmlinuz,6b0d90579fa0362feba0c1e414828c6de51f3e32,VU#87
+451109324,EsharkyTheGreat/Kernel-Exploitation,meowmeow/pure/bzImage,d73b33a05847216d5c91db57edf9c859b1eacb53,VU#49
+451109324,EsharkyTheGreat/Kernel-Exploitation,meowmeow/built/bzImage,d7b8968a2ea9a1443a06df870be609eccfc57f12,VU#16
 451109324,EsharkyTheGreat/Kernel-Exploitation,kernel-rop/kernel-rop/initramfs.cpio.gz,e02f9a924ddb4d6e67d1c0b5890d9b23284d9472,VU#482
