@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/02
     
-118 records found after deduplication
+120 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|----------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-02 00:05:05+00:00 | 682592 | 26249 | Ruby | 11921 | [] |
-| Mrprogramer885/Anti-exploit-kit-0.1.0-0.2.3 | This is for anti exploit kit. i am writing some stupid shit and hoping it will works. | https://github.com/Mrprogramer885/Anti-exploit-kit-0.1.0-0.2.3 | ['exploit'] | 1 | 2022-02-02 20:57:06+00:00 | 1793 | 0 | HTML | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-02 01:23:45+00:00 | 22272 | 6294 | JavaScript | 1484 | [] |
 | CyberSecThreat-Corporation-Limited/vscode-exe-calc | "vscode-exe-calc" is a simple vscode extension to execute calc.exe. It demonstrated the possibility to execute reverse shell C2 tunnel or other RCE via vscode extension. An attacker may launch such kinds of "Supply-Chain Attacks" via Social Engineering or | https://github.com/CyberSecThreat-Corporation-Limited/vscode-exe-calc | ['rce'] | 1 | 2022-02-02 14:46:03+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Sniperkaos/TraitorTownExploitModule-Private- | None | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | ['exploit'] | 1 | 2022-02-02 18:26:57+00:00 | 8 | 0 | Lua | 0 | [] |
 | Tanskicorp/WPS-Dos | Wordpress Vulnerability Exploitation Tool | https://github.com/Tanskicorp/WPS-Dos | ['exploit'] | 1 | 2022-02-02 12:36:57+00:00 | 5 | 0 | Python | 0 | [] |
@@ -19,8 +19,9 @@
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-02 00:16:01+00:00 | 41892 | 0 | | 0 | [] |
 | ihackerx/waline-fake-any-ip-poc | A Proof-Of-Concept for the waline fake any ip vulnerability. | https://github.com/ihackerx/waline-fake-any-ip-poc | ['vulnerability poc'] | 1 | 2022-02-02 10:54:28+00:00 | 54 | 0 | Python | 0 | [] |
 | OXDBXKXO/go-PwnKit | Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034) | https://github.com/OXDBXKXO/go-PwnKit | ['exploit'] | 1 | 2022-02-02 23:34:54+00:00 | 22 | 2 | Go | 0 | ['CVE-2021-4034'] |
+| Mrprogramer885/Anti-exploit-kit-0.1.0-0.2.3 | This is for anti exploit kit. i am writing some stupid shit and hoping it will works. | https://github.com/Mrprogramer885/Anti-exploit-kit-0.1.0-0.2.3 | ['exploit'] | 1 | 2022-02-02 20:57:06+00:00 | 1793 | 0 | HTML | 0 | [] |
 | kylekennedy26/3482-lab2 | exploit lab connor and kyle | https://github.com/kylekennedy26/3482-lab2 | ['exploit'] | 1 | 2022-02-02 20:12:41+00:00 | 24 | 0 | C | 0 | [] |
-| rawk77/nim_trojan | Nim based shellcode launcher | https://github.com/rawk77/nim_trojan | ['shellcode'] | 1 | 2022-02-02 21:29:31+00:00 | 177 | 0 | Nim | 0 | [] |
+| luijait/PwnKit-Exploit | Proof of Concept (PoC) CVE-2021-4034 | https://github.com/luijait/PwnKit-Exploit | ['cve poc', 'exploit'] | 2 | 2022-02-02 23:56:26+00:00 | 119 | 12 | C | 1 | ['CVE-2021-4034'] |
 | ArchCWithClasses/ExploitDevelopment | Repository with PoCs for binary overflow exploitation | https://github.com/ArchCWithClasses/ExploitDevelopment | ['exploit'] | 1 | 2022-02-02 10:01:56+00:00 | 1905 | 0 | Python | 0 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-02-02 02:28:51+00:00 | 2222 | 7 | C++ | 5 | [] |
 | upal212/adguard-ps4-usersguide | 'Users Guide' via the help of AdGuard Home | https://github.com/upal212/adguard-ps4-usersguide | ['exploit'] | 1 | 2022-02-02 14:33:32+00:00 | 45 | 3 | | 1 | [] |
@@ -34,8 +35,8 @@
 | Diego-7/rce-ramos-consultoria-empresarial | Template criado com React e BootStrap | https://github.com/Diego-7/rce-ramos-consultoria-empresarial | ['rce'] | 1 | 2022-02-02 01:41:02+00:00 | 1820 | 0 | JavaScript | 0 | [] |
 | RealMepon/DiscordTool | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | ['exploit'] | 1 | 2022-02-02 20:10:51+00:00 | 98 | 2 | Python | 0 | [] |
 | hkopp/exploitation | Exploits and Writeups from CTFs | https://github.com/hkopp/exploitation | ['exploit'] | 1 | 2022-02-02 18:17:33+00:00 | 4881 | 0 | Python | 0 | [] |
+| rawk77/nim_trojan | Nim based shellcode launcher | https://github.com/rawk77/nim_trojan | ['shellcode'] | 1 | 2022-02-02 21:29:31+00:00 | 177 | 0 | Nim | 0 | [] |
 | Neluve/Trainer | Trainer Offline/online como desees ^_^ solo aplica y guarda en el icono de herramientas tu Host (si te lo descargas...) Ademas he incluido una Gran Variedad de Exploits para ke no te falte de Nada!Disfrutalo! | https://github.com/Neluve/Trainer | ['exploit'] | 1 | 2022-02-02 00:29:15+00:00 | 4742 | 0 | JavaScript | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-02 01:23:45+00:00 | 22272 | 6294 | JavaScript | 1484 | [] |
 | SamKamar/perl-exploit | Exploit suggester built using perl-lang | https://github.com/SamKamar/perl-exploit | ['exploit'] | 1 | 2022-02-02 10:35:37+00:00 | 0 | 0 | | 0 | [] |
 | psxploitz/PSXploitz.github.io | PS-Phwoar! Lite Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1 Coded by SiSTRo | https://github.com/psxploitz/PSXploitz.github.io | ['exploit'] | 1 | 2022-02-02 21:09:16+00:00 | 0 | 0 | HTML | 1 | [] |
 | DTMExploits/DTMExploits.github.io | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | ['exploit'] | 1 | 2022-02-02 20:54:31+00:00 | 0 | 0 | HTML | 1 | [] |
@@ -80,7 +81,7 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-02 07:38:47+00:00 | 30547 | 648 | Go | 143 | [] |
 | 0xApt/awesome-bbht | A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain. | https://github.com/0xApt/awesome-bbht | ['exploit'] | 1 | 2022-02-02 22:38:49+00:00 | 240 | 389 | Shell | 78 | [] |
 | jamesmoriarty/gohack | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | ['exploit'] | 1 | 2022-02-02 07:13:45+00:00 | 3923 | 41 | Go | 8 | [] |
-| lefayjey/linWinPwn | linWinPwn is a script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | ['exploit'] | 1 | 2022-02-02 17:46:39+00:00 | 130 | 19 | Shell | 2 | [] |
+| jessica0f0116/cve_2021_1732 | None | https://github.com/jessica0f0116/cve_2021_1732 | ['cve-2 OR cve_2'] | 1 | 2022-02-02 08:36:19+00:00 | 178 | 8 | Rust | 4 | ['CVE-2021-1732'] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-02 10:21:09+00:00 | 15042 | 1 | Hack | 0 | [] |
 | alicangnll/phpwaf-phanalyzer | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | ['exploit'] | 1 | 2022-02-02 18:34:50+00:00 | 19801 | 14 | CSS | 6 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-02-02 22:25:05+00:00 | 3267 | 7 | Rust | 4 | [] |
@@ -94,9 +95,9 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-02 01:13:52+00:00 | 3901 | 2590 | PowerShell | 740 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-02 08:39:13+00:00 | 46600 | 861 | Python | 204 | [] |
 | CamHenlin/coprocessor.js | serial-based, nodejs-backed, remote code execution system | https://github.com/CamHenlin/coprocessor.js | ['remote code execution'] | 1 | 2022-02-02 07:42:59+00:00 | 39 | 5 | JavaScript | 0 | [] |
-| jessica0f0116/cve_2021_1732 | None | https://github.com/jessica0f0116/cve_2021_1732 | ['cve-2 OR cve_2'] | 1 | 2022-02-02 08:36:19+00:00 | 178 | 8 | Rust | 4 | ['CVE-2021-1732'] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-02 16:22:37+00:00 | 352652 | 71 | | 12 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-02 00:32:14+00:00 | 55688 | 298 | Python | 93 | [] |
+| lefayjey/linWinPwn | linWinPwn is a script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | ['exploit'] | 1 | 2022-02-02 17:46:39+00:00 | 130 | 19 | Shell | 2 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-02-02 20:45:03+00:00 | 25847 | 47 | Rust | 8 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-02 11:31:34+00:00 | 239 | 0 | | 0 | [] |
 | h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-02 10:34:19+00:00 | 44 | 12 | Jupyter Notebook | 7 | [] |
 | darkxex/ps4 | exploit for PS4 9.0.0 + goldhen with cache. | https://github.com/darkxex/ps4 | ['exploit'] | 1 | 2022-02-02 21:23:07+00:00 | 2683 | 0 | C# | 0 | [] |
@@ -109,10 +110,11 @@
 | alexplaygithub/Charasploit-Update-Database | This is the github repository which you receive exploit updates. | https://github.com/alexplaygithub/Charasploit-Update-Database | ['exploit'] | 1 | 2022-02-02 17:57:51+00:00 | 117643 | 0 | | 1 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-02 18:10:11+00:00 | 216 | 5 | | 0 | [] |
 | R3zk0n/sploitations | Directory for random Infosec sploitations.. | https://github.com/R3zk0n/sploitations | ['sploit'] | 1 | 2022-02-02 21:28:42+00:00 | 174667 | 0 | C | 0 | [] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-02-02 20:45:03+00:00 | 25847 | 47 | Rust | 8 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-02 00:18:53+00:00 | 584 | 37 | JavaScript | 31 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-02 00:32:14+00:00 | 55688 | 298 | Python | 93 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-02-02 19:11:17+00:00 | 20 | 1 | | 0 | [] |
 | i1z-aria/shellcode | shellcode | https://github.com/i1z-aria/shellcode | ['shellcode'] | 1 | 2022-02-02 10:08:27+00:00 | 1 | 0 | | 0 | [] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-02 23:50:21+00:00 | 2380 | 1 | C | 0 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-02-02 17:30:39+00:00 | 534 | 0 | Lua | 2 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-02 08:37:46+00:00 | 909 | 31 | C++ | 3 | [] |
 | Balasys/dheater | D(HE)ater is a proof of concept implementation of the D(HE)at attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'cve poc', 'exploit', 'vulnerability poc'] | 4 | 2022-02-02 19:42:28+00:00 | 100 | 90 | Python | 9 | ['CVE-2002-20001'] |
