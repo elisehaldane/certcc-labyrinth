@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+455445970,drapl0n/dawnKit,README.md,1a5e37c907a8ffe51e828bffd300d0d74588adb8,CVE-2021-4034
+455445970,drapl0n/dawnKit,payload.txt,be23da38fa179a3c083fcd6f202bf0866554a499,CVE-2021-4034
+455445970,drapl0n/dawnKit,_GITHUB_REPO_METADATA_,,CVE-2021-4034
