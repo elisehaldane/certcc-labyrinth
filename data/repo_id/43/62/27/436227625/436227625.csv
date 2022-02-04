@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+436227625,accuknox/samples,microservice-demo/src/frontend/static/git.zip,18c32f415a527042cce4dcbbcbfc90f8291cb868,VU#04
+436227625,accuknox/samples,microservice-demo/src/frontend/static/git.zip,18c32f415a527042cce4dcbbcbfc90f8291cb868,VU#58
+436227625,accuknox/samples,polkit-vulnerability/cve-2021-4034.c,7d0e0c956e1abd24e76c7e4248581cb0306fb6b2,CVE-2021-4034
