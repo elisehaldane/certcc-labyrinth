@@ -1,16 +1,18 @@
 
 # Summary for results/2022/02/04
     
-20 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | fozavci/viproy-voipkit | VIPROY - VoIP Pen-Test Kit for Metasploit Framework | https://github.com/fozavci/viproy-voipkit | ['metasploit module OR payload'] | 1 | 2022-02-04 01:15:04+00:00 | 263 | 363 | Ruby | 95 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-04 00:07:27+00:00 | 1534789 | 1564 | Python | 529 | [] |
+| HongPeize/CMU-24678-CVE | nan | https://github.com/HongPeize/CMU-24678-CVE | ['cve-2 OR cve_2'] | 1 | 2022-02-04 01:51:23+00:00 | 0 | 0 | Python | 0 | [] |
 | hyperobjects/dirty-socks-deny | Recently my local machine was subject to the dirty sock privellege escalation exploitation. Here's an imperfect solution to denying the hackers my dirty socks by turning off all listening service ports. | https://github.com/hyperobjects/dirty-socks-deny | ['exploit'] | 1 | 2022-02-04 00:33:55+00:00 | 0 | 0 | | 0 | [] |
 | goldmoments/simple.lua | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | ['exploit'] | 1 | 2022-02-04 01:10:21+00:00 | 103 | 0 | | 0 | [] |
 | L4ys/CVE-2022-21882 | nan | https://github.com/L4ys/CVE-2022-21882 | ['cve-2 OR cve_2'] | 1 | 2022-02-04 02:20:47+00:00 | 31 | 23 | C++ | 3 | ['CVE-2022-21882'] |
 | pviscone/flowmodoro | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | ['exploit'] | 1 | 2022-02-04 01:06:21+00:00 | 863 | 1 | Kotlin | 0 | [] |
+| PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-02-04 03:35:12+00:00 | 2812 | 31 | Python | 2 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-04 00:51:58+00:00 | 134329 | 268 | PHP | 101 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-02-04 00:38:22+00:00 | 105 | 0 | C | 0 | [] |
 | ArchCWithClasses/VanillaX86BufferOverflow | Repository with python scripts to help in exploiting x86 stack-based buffer overflows. | https://github.com/ArchCWithClasses/VanillaX86BufferOverflow | ['exploit'] | 1 | 2022-02-04 00:02:46+00:00 | 13 | 0 | Python | 0 | [] |
@@ -24,4 +26,4 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-04 00:17:22+00:00 | 229641 | 269 | Ruby | 79 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-02-04 00:12:39+00:00 | 18410 | 1863 | C++ | 309 | [] |
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-02-04 02:29:06+00:00 | 258 | 82 | Python | 33 | [] |
-| HongPeize/CMU-24678-CVE | nan | https://github.com/HongPeize/CMU-24678-CVE | ['cve-2 OR cve_2'] | 1 | 2022-02-04 01:51:23+00:00 | 0 | 0 | Python | 0 | [] |
+| shownadda/Exploit-Dev | This will Contain all my Notes, Scripts, PoC's, for Exploit Dev. | https://github.com/shownadda/Exploit-Dev | ['exploit'] | 1 | 2022-02-04 03:16:47+00:00 | 0 | 0 | | 0 | [] |
