@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/04
     
-42 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| fozavci/viproy-voipkit | VIPROY - VoIP Pen-Test Kit for Metasploit Framework | https://github.com/fozavci/viproy-voipkit | ['metasploit module OR payload'] | 1 | 2022-02-04 01:15:04+00:00 | 263 | 363 | Ruby | 95 | [] |
-| TahsinMir/Wordle-Exploiter | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | ['exploit'] | 1 | 2022-02-04 05:09:04+00:00 | 9920 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-04 00:49:20+00:00 | 22278 | 6299 | JavaScript | 1483 | [] |
+| efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2022-02-04 08:59:08+00:00 | 9663 | 3 | HTML | 0 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-02-04 00:38:22+00:00 | 105 | 0 | C | 0 | [] |
 | Harleythetech/MultiFW-RD-PS4 | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | ['exploit'] | 1 | 2022-02-04 08:39:45+00:00 | 2323 | 1 | HTML | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-04 00:51:58+00:00 | 134329 | 268 | PHP | 101 | [] |
@@ -15,8 +15,9 @@
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-02-04 04:12:28+00:00 | 231 | 0 | HCL | 0 | [] |
 | shoxxdj/log4shellExploit | A simple Exploit for log4shell | https://github.com/shoxxdj/log4shellExploit | ['exploit'] | 1 | 2022-02-04 08:57:10+00:00 | 416688 | 0 | Python | 1 | [] |
 | pviscone/flowmodoro | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | ['exploit'] | 1 | 2022-02-04 01:06:21+00:00 | 863 | 1 | Kotlin | 0 | [] |
+| TahsinMir/Wordle-Exploiter | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | ['exploit'] | 1 | 2022-02-04 05:09:04+00:00 | 9920 | 0 | Python | 0 | [] |
 | Gavpherk/Wizard101LuaRCE | Simple wizard101 Lua RCE method | https://github.com/Gavpherk/Wizard101LuaRCE | ['rce'] | 1 | 2022-02-04 07:55:58+00:00 | 11 | 1 | nan | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-04 00:07:27+00:00 | 1534789 | 1564 | Python | 529 | [] |
+| conteluca/androidExploitwithMetasploit | None | https://github.com/conteluca/androidExploitwithMetasploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-04 09:42:42+00:00 | 1478 | 0 | | 1 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-02-04 04:44:59+00:00 | 16 | 2 | Python | 1 | [] |
 | L4ys/CVE-2022-21882 | nan | https://github.com/L4ys/CVE-2022-21882 | ['cve-2 OR cve_2'] | 1 | 2022-02-04 02:20:47+00:00 | 31 | 23 | C++ | 3 | ['CVE-2022-21882'] |
 | goldmoments/simple.lua | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | ['exploit'] | 1 | 2022-02-04 01:10:21+00:00 | 103 | 0 | | 0 | [] |
@@ -26,9 +27,10 @@
 | ngherve/Application-of-Intelligent-Algorithms-for-Optimal-Exploration-and-Exploitation-of-Ad-Click-Through-R | Recently, the field of reinforcement learning is used to address prob-lems in a wide variety of domains, including clinical trials, recommender sys-tems, telecommunications, computer games, and economics. The exploration and exploitation dilemma are fundam | https://github.com/ngherve/Application-of-Intelligent-Algorithms-for-Optimal-Exploration-and-Exploitation-of-Ad-Click-Through-R | ['exploit'] | 1 | 2022-02-04 04:10:26+00:00 | 0 | 0 | Java | 0 | [] |
 | drapl0n/dawnKit | DawnKit is Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you. | https://github.com/drapl0n/dawnKit | ['exploit'] | 1 | 2022-02-04 06:50:50+00:00 | 2 | 1 | | 1 | ['CVE-2021-4034'] |
 | tungdo0602/Discord-Token-Cracker | This is a simple token cracker that use user / bot id to crack and use proxy to bypass rate limit. For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2022-02-04 04:10:28+00:00 | 158 | 25 | Python | 7 | [] |
-| efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2022-02-04 08:59:08+00:00 | 9663 | 3 | HTML | 0 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-04 03:57:21+00:00 | 1014 | 31 | C++ | 3 | [] |
+| fozavci/viproy-voipkit | VIPROY - VoIP Pen-Test Kit for Metasploit Framework | https://github.com/fozavci/viproy-voipkit | ['metasploit module OR payload'] | 1 | 2022-02-04 01:15:04+00:00 | 263 | 363 | Ruby | 95 | [] |
 | ArchCWithClasses/VanillaX86BufferOverflow | Repository with python scripts to help in exploiting x86 stack-based buffer overflows. | https://github.com/ArchCWithClasses/VanillaX86BufferOverflow | ['exploit'] | 1 | 2022-02-04 00:02:46+00:00 | 13 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-04 00:07:27+00:00 | 1534789 | 1564 | Python | 529 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-04 07:06:27+00:00 | 5615 | 3083 | Python | 676 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-04 02:27:59+00:00 | 6912 | 4319 | Python | 575 | [] |
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-02-04 02:29:06+00:00 | 258 | 82 | Python | 33 | [] |
@@ -42,6 +44,7 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-04 04:48:45+00:00 | 36696 | 651 | Go | 146 | [] |
 | opencompl/QMLIR | A prototype of an SSA-based quantum IR exploiting value semantics | https://github.com/opencompl/QMLIR | ['exploit'] | 1 | 2022-02-04 01:15:40+00:00 | 11291 | 1 | C++ | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-04 00:04:07+00:00 | 468393 | 45 | | 20 | [] |
+| hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-02-04 10:18:59+00:00 | 362 | 5 | Python | 1 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-02-04 09:34:09+00:00 | 889 | 63 | Python | 10 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-04 00:15:45+00:00 | 378140 | 71 | | 12 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-04 00:32:51+00:00 | 62081 | 300 | Python | 93 | [] |
