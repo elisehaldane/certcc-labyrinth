@@ -14,6 +14,7 @@ repo_id,repo_full_name,file,file_sha1,match
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.aa,818ac7b6df6643be815f11ebbb145cc99312009d,VU#52
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.aa,818ac7b6df6643be815f11ebbb145cc99312009d,VU#08
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.aa,818ac7b6df6643be815f11ebbb145cc99312009d,VU#98
+447275441,shoxxdj/log4shellExploit,log4shell/exploit.py,acdaaef9d0bb657504cd66b0505ee7e1d0761e0a,CVE-2021-44228
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.ac,b47bc637e5cb2a3dc339783d8a690a8f8e63f0b8,VU#44
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.ac,b47bc637e5cb2a3dc339783d8a690a8f8e63f0b8,VU#33
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.ac,b47bc637e5cb2a3dc339783d8a690a8f8e63f0b8,VU#74
@@ -24,4 +25,3 @@ repo_id,repo_full_name,file,file_sha1,match
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.ab,c772b9eb5a72b029c0b6d3e4aca8544283c57b11,VU#46
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.ab,c772b9eb5a72b029c0b6d3e4aca8544283c57b11,VU#68
 447275441,shoxxdj/log4shellExploit,log4shell/tools/jdk.part.ab,c772b9eb5a72b029c0b6d3e4aca8544283c57b11,VU#24
-447275441,shoxxdj/log4shellExploit,log4shell/exploit.py,f75d961f490724e2f84783535d22fade87763b9e,CVE-2021-44228
