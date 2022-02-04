@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#57,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/generateJenkinsExploit,432525611
+VU#57,0.10000000,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#57,0.10000000,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#57,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#57,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
