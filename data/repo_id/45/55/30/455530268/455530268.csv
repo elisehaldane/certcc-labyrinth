@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+455530268,Sergio235705/audit-xss-cve-2020-7934,simple_injection.js,6a5bc9dc71fa298d5a3aa50b8e06137bfbea3ef0,CVE-2020-7934
+455530268,Sergio235705/audit-xss-cve-2020-7934,attack.js,d0a3061f3d6f5548e80e859e693712e139da5179,CVE-2020-7934
+455530268,Sergio235705/audit-xss-cve-2020-7934,_GITHUB_REPO_METADATA_,,CVE-2020-7934
