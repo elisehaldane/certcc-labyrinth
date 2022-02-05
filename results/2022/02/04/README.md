@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/04
     
-102 records found after deduplication
+103 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|---------------------|---------------|--------------------|
@@ -31,7 +31,7 @@
 | robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-02-04 13:14:26+00:00 | 47 | 8 | | 0 | ['CVE-2021-44228'] |
 | Ix1x0x3/eurus | A CmdLib for exploits. | https://github.com/Ix1x0x3/eurus | ['exploit'] | 1 | 2022-02-04 22:29:15+00:00 | 42 | 0 | Lua | 0 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-02-04 04:44:59+00:00 | 16 | 2 | Python | 1 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-04 00:49:20+00:00 | 22278 | 6299 | JavaScript | 1483 | [] |
+| accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-04 06:52:16+00:00 | 52022 | 1 | Python | 3 | [] |
 | DANZADY/metasploit | None | https://github.com/DANZADY/metasploit | ['metasploit module OR payload'] | 1 | 2022-02-04 15:59:11+00:00 | 0 | 0 | | 0 | [] |
 | apolo1337/jstDoS | HTTP Protocol Stack Remote Code Execution Vulnerability | https://github.com/apolo1337/jstDoS | ['remote code execution'] | 1 | 2022-02-04 22:34:27+00:00 | 0 | 0 | nan | 0 | [] |
 | isniffpoo/TsunamiSploit | Yes | https://github.com/isniffpoo/TsunamiSploit | ['sploit'] | 1 | 2022-02-04 22:30:12+00:00 | 0 | 0 | | 0 | [] |
@@ -56,10 +56,9 @@
 | goldmoments/simple.lua | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | ['exploit'] | 1 | 2022-02-04 01:10:21+00:00 | 103 | 0 | | 0 | [] |
 | 0x580x540x43/CometDocs | Unofficial documentation for the Roblox exploit Comet | https://github.com/0x580x540x43/CometDocs | ['exploit'] | 1 | 2022-02-04 16:49:21+00:00 | 85 | 0 | | 0 | [] |
 | bobux-man/CronosX | Website for Web/External Exploits (games) | https://github.com/bobux-man/CronosX | ['exploit'] | 1 | 2022-02-04 17:30:53+00:00 | 6 | 0 | | 0 | [] |
-| accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-04 06:52:16+00:00 | 52022 | 1 | Python | 3 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-04 00:51:58+00:00 | 134329 | 268 | PHP | 101 | [] |
-| mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2022-02-04 01:51:19+00:00 | 17289 | 1059 | PowerShell | 252 | [] |
-| Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2022-02-04 11:01:03+00:00 | 16293 | 21 | PowerShell | 9 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-04 00:49:20+00:00 | 22278 | 6299 | JavaScript | 1483 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-04 00:17:22+00:00 | 229641 | 269 | Ruby | 79 | [] |
 | opencompl/QMLIR | A prototype of an SSA-based quantum IR exploiting value semantics | https://github.com/opencompl/QMLIR | ['exploit'] | 1 | 2022-02-04 01:15:40+00:00 | 11291 | 1 | C++ | 1 | [] |
 | CNR-STIIMA-IRAS/cnr_ros_control | Extension of ros_control (http://wiki.ros.org/ros_control) to multiple hardware interfaces, exploiting nodelet | https://github.com/CNR-STIIMA-IRAS/cnr_ros_control | ['exploit'] | 1 | 2022-02-04 11:59:55+00:00 | 27434 | 2 | C++ | 0 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-02-04 12:49:48+00:00 | 267458 | 0 | Jupyter Notebook | 0 | [] |
@@ -69,9 +68,9 @@
 | BGPavelAng/ARM64 | ARM | https://github.com/BGPavelAng/ARM64 | ['shellcode'] | 1 | 2022-02-04 02:19:47+00:00 | 298 | 0 | Assembly | 0 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-04 18:55:11+00:00 | 15087 | 1 | Hack | 0 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-02-04 08:14:00+00:00 | 292740 | 94 | Python | 14 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-04 00:17:22+00:00 | 229641 | 269 | Ruby | 79 | [] |
-| Harleythetech/MultiFW-RD-PS4 | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | ['exploit'] | 1 | 2022-02-04 08:39:45+00:00 | 2323 | 1 | HTML | 0 | [] |
+| mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2022-02-04 01:51:19+00:00 | 17289 | 1059 | PowerShell | 252 | [] |
 | tercen/teRcen | Tercen R client api | https://github.com/tercen/teRcen | ['rce'] | 1 | 2022-02-04 13:11:14+00:00 | 503 | 0 | R | 0 | [] |
+| Maks1116/roblox-exploit-scripts | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | ['exploit'] | 1 | 2022-02-04 18:50:52+00:00 | 1008 | 0 | Lua | 0 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-02-04 00:12:39+00:00 | 18410 | 1863 | C++ | 309 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-04 11:35:05+00:00 | 71494 | 10707 | Jupyter Notebook | 1854 | [] |
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-02-04 02:29:06+00:00 | 258 | 82 | Python | 33 | [] |
@@ -80,11 +79,12 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-04 00:07:27+00:00 | 1534789 | 1564 | Python | 529 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-04 17:10:14+00:00 | 3904 | 2591 | PowerShell | 738 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-04 14:38:39+00:00 | 37110 | 1051 | Python | 387 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-02-04 18:52:21+00:00 | 27263 | 8705 | Python | 1491 | [] |
 | fozavci/viproy-voipkit | VIPROY - VoIP Pen-Test Kit for Metasploit Framework | https://github.com/fozavci/viproy-voipkit | ['metasploit module OR payload'] | 1 | 2022-02-04 01:15:04+00:00 | 263 | 363 | Ruby | 95 | [] |
-| Maks1116/roblox-exploit-scripts | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | ['exploit'] | 1 | 2022-02-04 18:50:52+00:00 | 1008 | 0 | Lua | 0 | [] |
+| Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2022-02-04 11:01:03+00:00 | 16293 | 21 | PowerShell | 9 | [] |
 | F0rce/F0rce | None | https://github.com/F0rce/F0rce | ['rce'] | 1 | 2022-02-04 11:55:01+00:00 | 6 | 0 | | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-04 00:04:07+00:00 | 468393 | 45 | | 20 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-04 16:53:47+00:00 | 42298 | 15 | Python | 5 | [] |
+| Harleythetech/MultiFW-RD-PS4 | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | ['exploit'] | 1 | 2022-02-04 08:39:45+00:00 | 2323 | 1 | HTML | 0 | [] |
+| joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-02-04 15:48:49+00:00 | 545 | 0 | Lua | 2 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-02-04 00:38:22+00:00 | 105 | 0 | C | 0 | [] |
 | alexplaygithub/Charasploit-Update-Database | This is the github repository which you receive exploit updates. | https://github.com/alexplaygithub/Charasploit-Update-Database | ['exploit'] | 1 | 2022-02-04 21:29:52+00:00 | 125651 | 0 | | 1 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-04 18:09:49+00:00 | 217 | 5 | | 0 | [] |
@@ -95,8 +95,8 @@
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2022-02-04 17:58:08+00:00 | 68069 | 1 | C# | 0 | [] |
 | efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2022-02-04 08:59:08+00:00 | 9663 | 3 | HTML | 0 | [] |
 | talsim/Exploit-Education | writeups of challenges in Exploit Education | https://github.com/talsim/Exploit-Education | ['exploit'] | 1 | 2022-02-04 22:10:01+00:00 | 121 | 0 | Python | 0 | [] |
-| joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-02-04 15:48:49+00:00 | 545 | 0 | Lua | 2 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-04 03:57:21+00:00 | 1014 | 31 | C++ | 3 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-04 00:04:07+00:00 | 468393 | 45 | | 20 | [] |
 | ArchCWithClasses/VanillaX86BufferOverflow | Repository with python scripts to help in exploiting x86 stack-based buffer overflows. | https://github.com/ArchCWithClasses/VanillaX86BufferOverflow | ['exploit'] | 1 | 2022-02-04 00:02:46+00:00 | 13 | 0 | Python | 0 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-02-04 12:37:06+00:00 | 2072309 | 18 | | 7 | [] |
 | satoki/csv-plus_vulnerability | 👻 [PoC] CSV+ 0.8.0 - Arbitrary Code Execution (CVE-2022-21241) | https://github.com/satoki/csv-plus_vulnerability | ['cve poc', 'vuln poc', 'vulnerability poc'] | 3 | 2022-02-04 07:53:06+00:00 | 3455 | 0 | HTML | 0 | ['CVE-2022-21241'] |
@@ -106,4 +106,5 @@
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-02-04 09:34:09+00:00 | 889 | 63 | Python | 10 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-02-04 10:18:59+00:00 | 362 | 5 | Python | 1 | [] |
 | clu3bot/owt | Update Version 3.1 added free SMS messaging. | https://github.com/clu3bot/owt | ['shellcode'] | 1 | 2022-02-04 15:59:32+00:00 | 1783 | 327 | Shell | 38 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-04 16:53:47+00:00 | 42298 | 15 | Python | 5 | [] |
 | R0rt1z2/CVE-2017-0505-mtk | None | https://github.com/R0rt1z2/CVE-2017-0505-mtk | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-04 22:54:33+00:00 | 0 | 0 | Makefile | 0 | ['CVE-2017-0505'] |
