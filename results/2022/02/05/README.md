@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/05
     
-77 records found after deduplication
+79 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -15,7 +15,7 @@
 | casualdegenerate/Exploits | Please patch these | https://github.com/casualdegenerate/Exploits | ['exploit'] | 1 | 2022-02-05 03:59:52+00:00 | 6 | 0 | Lua | 0 | [] |
 | xzajyjs/phpstudy_Backdoor-EXP | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | ['rce'] | 1 | 2022-02-05 13:58:22+00:00 | 686 | 4 | Python | 1 | [] |
 | OwO-Wolfyy-UwU/owo | Roblox Exploit Script Whitelist Loadstring | https://github.com/OwO-Wolfyy-UwU/owo | ['exploit'] | 1 | 2022-02-05 01:41:03+00:00 | 0 | 0 | Lua | 0 | [] |
-| joeengo/exploit-update-checker-py | None | https://github.com/joeengo/exploit-update-checker-py | ['exploit'] | 1 | 2022-02-05 16:42:06+00:00 | 17 | 0 | | 0 | [] |
+| goldmoments/simple.lua | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | ['exploit'] | 1 | 2022-02-05 07:18:23+00:00 | 214 | 0 | | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-05 07:46:32+00:00 | 2757 | 22 | | 1 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-05 06:13:16+00:00 | 50 | 88 | nan | 8 | [] |
 | volkandindar/agartha | a burp extension for penetration testing {LFI, RCE, Auth,SQLi, Http-JS, etc} | https://github.com/volkandindar/agartha | ['rce'] | 1 | 2022-02-05 11:29:34+00:00 | 286 | 5 | Python | 0 | [] |
@@ -24,17 +24,18 @@
 | Wh1terat/aQRootG3 | Enable telnet via qrcode command injection for Aqara G3 hub | https://github.com/Wh1terat/aQRootG3 | ['command injection'] | 1 | 2022-02-05 00:55:38+00:00 | 23 | 9 | Python | 1 | [] |
 | lefayjey/linWinPwn | linWinPwn is a bash script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | ['exploit'] | 1 | 2022-02-05 07:44:41+00:00 | 138 | 28 | Shell | 4 | [] |
 | wajnie/vacEXPLOIT | An implementation of Valve Anti Cheat Exploit, written in C with a built-in injector. | https://github.com/wajnie/vacEXPLOIT | ['exploit'] | 1 | 2022-02-05 20:22:41+00:00 | 30 | 0 | C | 0 | [] |
-| goldmoments/simple.lua | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | ['exploit'] | 1 | 2022-02-05 07:18:23+00:00 | 214 | 0 | | 0 | [] |
 | drapl0n/dawnKit | DawnKit is Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you. | https://github.com/drapl0n/dawnKit | ['exploit'] | 1 | 2022-02-05 16:11:17+00:00 | 2 | 3 | | 2 | ['CVE-2021-4034'] |
-| llIlIIIIIIllIIllI/KiddoSploit-bloxburg | KiddoSploit bloxburg | https://github.com/llIlIIIIIIllIIllI/KiddoSploit-bloxburg | ['sploit'] | 1 | 2022-02-05 15:42:07+00:00 | 16 | 0 | | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-05 00:18:02+00:00 | 106 | 8 | | 3 | ['CVE-2021-44228'] |
+| samq-research/Csharp-exploit | None | https://github.com/samq-research/Csharp-exploit | ['exploit'] | 1 | 2022-02-05 17:03:47+00:00 | 0 | 0 | C# | 0 | [] |
+| tonyykyu/String-Shellcode-Generator | String To Little Endian Shellcode Generator | https://github.com/tonyykyu/String-Shellcode-Generator | ['shellcode'] | 1 | 2022-02-05 20:36:39+00:00 | 0 | 0 | | 0 | [] |
 | imayberoot/shell-to-paste | a service that will generate and upload msf shellcode remotely. | https://github.com/imayberoot/shell-to-paste | ['shellcode'] | 1 | 2022-02-05 20:36:58+00:00 | 0 | 0 | | 0 | [] |
 | DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-05 19:35:08+00:00 | 0 | 0 | | 2 | [] |
 | yoavshah/ShellCodeCreator | None | https://github.com/yoavshah/ShellCodeCreator | ['shellcode'] | 1 | 2022-02-05 18:21:10+00:00 | 0 | 0 | Python | 0 | [] |
 | PysephRBX/DrawingElement | A powerful extension to the Drawing API, which many Roblox exploits have. | https://github.com/PysephRBX/DrawingElement | ['exploit'] | 1 | 2022-02-05 18:21:46+00:00 | 0 | 0 | Lua | 0 | [] |
 | hazesploit/HazeSploit.py | little py script | https://github.com/hazesploit/HazeSploit.py | ['sploit'] | 1 | 2022-02-05 17:23:40+00:00 | 0 | 0 | Python | 0 | [] |
 | iskanderrr/PyFUD | fully Undetectable payload generator for metasploit | https://github.com/iskanderrr/PyFUD | ['metasploit module OR payload'] | 1 | 2022-02-05 17:34:37+00:00 | 0 | 0 | Python | 0 | [] |
-| samq-research/Csharp-exploit | None | https://github.com/samq-research/Csharp-exploit | ['exploit'] | 1 | 2022-02-05 17:03:47+00:00 | 0 | 0 | C# | 0 | [] |
 | farshad-rezaei1/VAGWO | This project presents the source code of a novel variant of the Grey Wolf Optimization (GWO) algorithm, named Velocity-Aided Grey Wolf Optimizer (VAGWO). The original GWO lacks a velocity term in its position-updating procedure, and this is the main factor | https://github.com/farshad-rezaei1/VAGWO | ['exploit'] | 1 | 2022-02-05 17:08:17+00:00 | 0 | 0 | MATLAB | 0 | [] |
+| llIlIIIIIIllIIllI/KiddoSploit-bloxburg | KiddoSploit bloxburg | https://github.com/llIlIIIIIIllIIllI/KiddoSploit-bloxburg | ['sploit'] | 1 | 2022-02-05 15:42:07+00:00 | 16 | 0 | | 0 | [] |
 | karutabyss/exploit-simulator | This can simulate hacking. | https://github.com/karutabyss/exploit-simulator | ['exploit'] | 1 | 2022-02-05 16:30:33+00:00 | 0 | 0 | HTML | 0 | [] |
 | wesleydekraker/log4j-poc | Proof of concept for the Log4j vulnerability (using docker containers). | https://github.com/wesleydekraker/log4j-poc | ['vulnerability poc'] | 1 | 2022-02-05 11:35:37+00:00 | 0 | 0 | nan | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-05 08:06:02+00:00 | 0 | 0 | | 0 | [] |
@@ -42,8 +43,8 @@
 | AnonymousMonke12/Updated-ExlinSploit | Hello this is an updated version for exlinsploit where I will add updates and stuff for it | https://github.com/AnonymousMonke12/Updated-ExlinSploit | ['sploit'] | 1 | 2022-02-05 03:20:18+00:00 | 0 | 0 | Lua | 0 | [] |
 | one2blame/shellcodes | Custom shellcodes, free for use. | https://github.com/one2blame/shellcodes | ['shellcode'] | 1 | 2022-02-05 17:08:24+00:00 | 20 | 0 | C | 0 | [] |
 | MrDuckOfficial/AzureExploit | None | https://github.com/MrDuckOfficial/AzureExploit | ['exploit'] | 1 | 2022-02-05 14:37:29+00:00 | 201 | 0 | | 0 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-05 00:18:02+00:00 | 106 | 8 | nan | 3 | ['CVE-2021-44228'] |
-| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-05 14:45:42+00:00 | 5221 | 761 | Java | 155 | ['CVE-2021-44228'] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-05 21:33:55+00:00 | 257 | 0 | | 0 | [] |
+| joeengo/exploit-update-checker-py | None | https://github.com/joeengo/exploit-update-checker-py | ['exploit'] | 1 | 2022-02-05 16:42:06+00:00 | 17 | 0 | | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-05 05:09:09+00:00 | 248878 | 6801 | C | 1864 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-05 16:27:34+00:00 | 4091807 | 2 | Lua | 0 | [] |
 | jkctech/Telegram-Trilateration | Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location | https://github.com/jkctech/Telegram-Trilateration | ['exploit'] | 1 | 2022-02-05 12:38:30+00:00 | 6118 | 49 | Python | 5 | [] |
@@ -54,7 +55,7 @@
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2022-02-05 16:18:40+00:00 | 868 | 2680 | | 482 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-02-05 19:48:33+00:00 | 51 | 0 | | 1 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-02-05 05:05:18+00:00 | 541 | 10 | Python | 4 | [] |
-| tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-02-05 12:51:08+00:00 | 255 | 50 | C++ | 7 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-02-05 12:36:56+00:00 | 907 | 63 | Python | 10 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-05 00:46:30+00:00 | 31246 | 27 | | 17 | [] |
 | G1ft3dC0d3/MsfMania | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | ['metasploit module OR payload'] | 1 | 2022-02-05 00:13:04+00:00 | 704 | 318 | Python | 64 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-02-05 14:22:34+00:00 | 4042 | 1196 | C | 179 | [] |
@@ -63,17 +64,18 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-05 11:35:05+00:00 | 71603 | 10713 | Jupyter Notebook | 1853 | [] |
 | HexxiumCreations/threat-list | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE! | https://github.com/HexxiumCreations/threat-list | ['exploit'] | 1 | 2022-02-05 19:09:02+00:00 | 1712 | 13 | HTML | 5 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-02-05 08:37:06+00:00 | 291838 | 817 | C# | 187 | [] |
-| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-02-05 12:36:56+00:00 | 907 | 63 | Python | 10 | [] |
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-02-05 07:56:37+00:00 | 10854 | 1 | JavaScript | 3 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-05 00:24:57+00:00 | 395002 | 71 | | 12 | [] |
+| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-05 14:45:42+00:00 | 5221 | 761 | Java | 155 | ['CVE-2021-44228'] |
+| cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2022-02-05 12:20:01+00:00 | 68070 | 1 | C# | 0 | [] |
+| tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-02-05 12:51:08+00:00 | 255 | 50 | C++ | 7 | [] |
 | tikene/fun-dare-vulnerability-write-up | A write-up describing the discovery and exploitation of a vulnerability I found on fun-dare | https://github.com/tikene/fun-dare-vulnerability-write-up | ['exploit'] | 1 | 2022-02-05 16:25:15+00:00 | 25 | 0 | Python | 0 | [] |
 | u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-02-05 18:32:30+00:00 | 19828 | 78 | C | 7 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-05 18:09:48+00:00 | 243 | 5 | | 0 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-02-05 15:01:12+00:00 | 70 | 2 | Python | 0 | [] |
 | Tyler2P/Roblox-Scripts | Basic roblox exploits | https://github.com/Tyler2P/Roblox-Scripts | ['exploit'] | 1 | 2022-02-05 09:47:28+00:00 | 44 | 0 | Lua | 0 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-02-05 18:54:39+00:00 | 305 | 318 | C# | 65 | [] |
-| cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2022-02-05 12:20:01+00:00 | 68070 | 1 | C# | 0 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-02-05 07:48:32+00:00 | 731 | 5 | | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-05 00:24:57+00:00 | 395002 | 71 | | 12 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-02-05 20:19:33+00:00 | 561 | 0 | Lua | 2 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-05 05:51:30+00:00 | 1102 | 31 | C++ | 3 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat or Telegram (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-02-05 03:34:05+00:00 | 463 | 2 | Python | 2 | [] |
@@ -81,4 +83,4 @@
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-02-05 07:49:43+00:00 | 2042 | 0 | | 0 | [] |
 | OpachevskyEmil/ByteMap-Shellcode-Loader | Encodes and runs shellcode payloads. | https://github.com/OpachevskyEmil/ByteMap-Shellcode-Loader | ['shellcode'] | 1 | 2022-02-05 15:01:27+00:00 | 38 | 0 | Go | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-05 00:34:51+00:00 | 63831 | 300 | Python | 93 | [] |
-| tonyykyu/String-Shellcode-Generator | String To Little Endian Shellcode Generator | https://github.com/tonyykyu/String-Shellcode-Generator | ['shellcode'] | 1 | 2022-02-05 20:36:39+00:00 | 0 | 0 | | 0 | [] |
+| notcos/Wing-FTP-RCE | None | https://github.com/notcos/Wing-FTP-RCE | ['rce'] | 1 | 2022-02-05 21:14:23+00:00 | 0 | 0 | | 0 | [] |
