@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/05
     
-8 records found after deduplication
+9 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -13,3 +13,4 @@
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-05 00:18:02+00:00 | 106 | 8 | | 3 | ['CVE-2021-44228'] |
 | Wh1terat/aQRootG3 | Enable telnet via qrcode command injection for Aqara G3 hub | https://github.com/Wh1terat/aQRootG3 | ['command injection'] | 1 | 2022-02-05 00:55:38+00:00 | 23 | 9 | Python | 1 | [] |
 | OwO-Wolfyy-UwU/owo | Roblox Exploit Script Whitelist Loadstring | https://github.com/OwO-Wolfyy-UwU/owo | ['exploit'] | 1 | 2022-02-05 01:41:03+00:00 | 0 | 0 | Lua | 0 | [] |
+| RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-05 02:19:07+00:00 | 65263 | 0 | | 0 | [] |
