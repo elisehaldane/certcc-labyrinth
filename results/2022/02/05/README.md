@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/05
     
-29 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -13,6 +13,7 @@
 | 0x0021h/pwnlinux | Some Linux kernel exploit documentation/Linux内核利用资料精选 | https://github.com/0x0021h/pwnlinux | ['exploit'] | 1 | 2022-02-05 08:36:22+00:00 | 17 | 40 | | 7 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-05 02:19:07+00:00 | 65263 | 0 | | 0 | [] |
 | casualdegenerate/Exploits | Please patch these | https://github.com/casualdegenerate/Exploits | ['exploit'] | 1 | 2022-02-05 03:59:52+00:00 | 6 | 0 | Lua | 0 | [] |
+| lefayjey/SharpSQLPwn | C# tool to identify and exploit weaknesses within MSSQL instances in Active Directory environments | https://github.com/lefayjey/SharpSQLPwn | ['exploit'] | 1 | 2022-02-05 08:39:57+00:00 | 778 | 2 | C# | 1 | [] |
 | OwO-Wolfyy-UwU/owo | Roblox Exploit Script Whitelist Loadstring | https://github.com/OwO-Wolfyy-UwU/owo | ['exploit'] | 1 | 2022-02-05 01:41:03+00:00 | 0 | 0 | Lua | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-05 07:46:32+00:00 | 2757 | 22 | | 1 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-05 06:13:16+00:00 | 50 | 88 | nan | 8 | [] |
@@ -28,6 +29,7 @@
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-02-05 07:56:37+00:00 | 10854 | 1 | JavaScript | 3 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2022-02-05 08:37:06+00:00 | 291838 | 817 | C# | 187 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-02-05 04:47:09+00:00 | 5971 | 5 | Go | 2 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-05 08:47:15+00:00 | 55990 | 15 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-05 00:04:21+00:00 | 470770 | 45 | | 20 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-02-05 05:05:18+00:00 | 541 | 10 | Python | 4 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-05 00:46:30+00:00 | 31246 | 27 | | 17 | [] |
