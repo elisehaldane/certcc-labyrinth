@@ -1,6 +1,7 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+v3n0m-Scanner/V3n0M-Scanner,Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns,https://github.com/v3n0m-Scanner/V3n0M-Scanner,"['exploit', 'metasploit module OR payload']",2,2022-02-05T07:10:43+0000,37110,1051,Python,387,[]
 offensive-security/exploitdb,The official Exploit Database repository,https://github.com/offensive-security/exploitdb,['exploit'],1,2022-02-05T05:09:09+0000,248878,6801,C,1864,[]
-hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-02-05T00:16:50+0000,231178,269,Ruby,79,[]
+goldmoments/simple.lua,simple.lua is a project I have made for exploiters that are not good at scripting.,https://github.com/goldmoments/simple.lua,['exploit'],1,2022-02-05T07:18:23+0000,214,0,,0,[]
 RapidoBuzz/RhyteredExploit,None,https://github.com/RapidoBuzz/RhyteredExploit,['exploit'],1,2022-02-05T02:19:07+0000,65263,0,,0,[]
 casualdegenerate/Exploits,Please patch these,https://github.com/casualdegenerate/Exploits,['exploit'],1,2022-02-05T03:59:52+0000,6,0,Lua,0,[]
 OwO-Wolfyy-UwU/owo,Roblox Exploit Script Whitelist Loadstring,https://github.com/OwO-Wolfyy-UwU/owo,['exploit'],1,2022-02-05T01:41:03+0000,0,0,Lua,0,[]
@@ -16,4 +17,5 @@ Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unifie
 aryanguenthner/365,"OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting",https://github.com/aryanguenthner/365,['exploit'],1,2022-02-05T05:05:18+0000,541,10,Python,4,[]
 nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-02-05T00:46:30+0000,31246,27,,17,[]
 G1ft3dC0d3/MsfMania,Python AV Evasion Tools,https://github.com/G1ft3dC0d3/MsfMania,['metasploit module OR payload'],1,2022-02-05T00:13:04+0000,704,318,Python,64,[]
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-02-05T00:16:50+0000,231178,269,Ruby,79,[]
 AnonymousMonke12/Updated-ExlinSploit,Hello this is an updated version for exlinsploit where I will add updates and stuff for it,https://github.com/AnonymousMonke12/Updated-ExlinSploit,['sploit'],1,2022-02-05T03:20:18+0000,0,0,Lua,0,[]
