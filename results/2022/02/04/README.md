@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/04
     
-103 records found after deduplication
+104 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|---------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-04 12:01:50+00:00 | 683569 | 26267 | Ruby | 11936 | [] |
-| volkandindar/agartha | a burp extension for penetration testing {LFI, RCE, Auth,SQLi, Http-JS, etc} | https://github.com/volkandindar/agartha | ['rce'] | 1 | 2022-02-04 22:58:44+00:00 | 274 | 5 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-04 00:49:20+00:00 | 22278 | 6299 | JavaScript | 1483 | [] |
 | MegamiShin/Exploit-Scripts | All my exploit scripts will be here. :) | https://github.com/MegamiShin/Exploit-Scripts | ['exploit'] | 1 | 2022-02-04 23:26:05+00:00 | 18 | 0 | Lua | 0 | [] |
 | Gavpherk/Wizard101LuaRCE | Simple wizard101 Lua RCE method | https://github.com/Gavpherk/Wizard101LuaRCE | ['rce'] | 1 | 2022-02-04 07:55:58+00:00 | 11 | 1 | | 0 | [] |
 | ayvacs/scripts | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | ['exploit'] | 1 | 2022-02-04 14:36:53+00:00 | 111 | 1 | HTML | 0 | [] |
@@ -17,11 +17,12 @@
 | lefayjey/SharpSQLPwn | C# tool to identify and exploit weaknesses within MSSQL instances in Active Directory environments | https://github.com/lefayjey/SharpSQLPwn | ['exploit'] | 1 | 2022-02-04 21:03:49+00:00 | 24 | 0 | C# | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-04 12:06:55+00:00 | 2751 | 20 | | 1 | [] |
 | shoxxdj/log4shellExploit | A simple Exploit for log4shell | https://github.com/shoxxdj/log4shellExploit | ['exploit'] | 1 | 2022-02-04 08:57:10+00:00 | 416688 | 0 | Python | 1 | [] |
+| volkandindar/agartha | a burp extension for penetration testing {LFI, RCE, Auth,SQLi, Http-JS, etc} | https://github.com/volkandindar/agartha | ['rce'] | 1 | 2022-02-04 22:58:44+00:00 | 274 | 5 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-04 12:30:51+00:00 | 22640 | 2 | Jupyter Notebook | 0 | [] |
-| conteluca/androidExploitwithMetasploit | None | https://github.com/conteluca/androidExploitwithMetasploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-04 09:42:42+00:00 | 1478 | 0 | | 1 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-02-04 04:12:28+00:00 | 231 | 0 | HCL | 0 | [] |
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-02-04 03:35:12+00:00 | 2812 | 31 | Python | 2 | [] |
 | Diego-7/rce-ramos-consultoria-empresarial | Template criado com React e BootStrap | https://github.com/Diego-7/rce-ramos-consultoria-empresarial | ['rce'] | 1 | 2022-02-04 23:41:20+00:00 | 1822 | 0 | JavaScript | 0 | [] |
+| 0RaMsY0/ramsy | Exploitation Tool | https://github.com/0RaMsY0/ramsy | ['exploit'] | 1 | 2022-02-04 22:05:44+00:00 | 34 | 1 | Python | 0 | [] |
 | Element18592/360-Slim-PLL-QSB | Slim PLL QSB for the RGH 3 exploit | https://github.com/Element18592/360-Slim-PLL-QSB | ['exploit'] | 1 | 2022-02-04 14:52:41+00:00 | 58 | 6 | Game Maker Language | 0 | [] |
 | tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-04 20:38:24+00:00 | 7221 | 0 | TypeScript | 1 | [] |
 | tothi/log4shell-vulnerable-app | A Basic Java Application Vulnerable to the Log4Shell RCE | https://github.com/tothi/log4shell-vulnerable-app | ['rce'] | 1 | 2022-02-04 22:37:50+00:00 | 803 | 23 | Java | 6 | [] |
@@ -30,8 +31,8 @@
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-04 15:34:09+00:00 | 248 | 0 | | 0 | [] |
 | robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-02-04 13:14:26+00:00 | 47 | 8 | | 0 | ['CVE-2021-44228'] |
 | Ix1x0x3/eurus | A CmdLib for exploits. | https://github.com/Ix1x0x3/eurus | ['exploit'] | 1 | 2022-02-04 22:29:15+00:00 | 42 | 0 | Lua | 0 | [] |
+| conteluca/androidExploitwithMetasploit | None | https://github.com/conteluca/androidExploitwithMetasploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-04 09:42:42+00:00 | 1478 | 0 | | 1 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-02-04 04:44:59+00:00 | 16 | 2 | Python | 1 | [] |
-| accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-04 06:52:16+00:00 | 52022 | 1 | Python | 3 | [] |
 | DANZADY/metasploit | None | https://github.com/DANZADY/metasploit | ['metasploit module OR payload'] | 1 | 2022-02-04 15:59:11+00:00 | 0 | 0 | | 0 | [] |
 | apolo1337/jstDoS | HTTP Protocol Stack Remote Code Execution Vulnerability | https://github.com/apolo1337/jstDoS | ['remote code execution'] | 1 | 2022-02-04 22:34:27+00:00 | 0 | 0 | nan | 0 | [] |
 | isniffpoo/TsunamiSploit | Yes | https://github.com/isniffpoo/TsunamiSploit | ['sploit'] | 1 | 2022-02-04 22:30:12+00:00 | 0 | 0 | | 0 | [] |
@@ -56,8 +57,8 @@
 | goldmoments/simple.lua | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | ['exploit'] | 1 | 2022-02-04 01:10:21+00:00 | 103 | 0 | | 0 | [] |
 | 0x580x540x43/CometDocs | Unofficial documentation for the Roblox exploit Comet | https://github.com/0x580x540x43/CometDocs | ['exploit'] | 1 | 2022-02-04 16:49:21+00:00 | 85 | 0 | | 0 | [] |
 | bobux-man/CronosX | Website for Web/External Exploits (games) | https://github.com/bobux-man/CronosX | ['exploit'] | 1 | 2022-02-04 17:30:53+00:00 | 6 | 0 | | 0 | [] |
+| accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-04 06:52:16+00:00 | 52022 | 1 | Python | 3 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-04 00:51:58+00:00 | 134329 | 268 | PHP | 101 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-04 00:49:20+00:00 | 22278 | 6299 | JavaScript | 1483 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-04 00:17:22+00:00 | 229641 | 269 | Ruby | 79 | [] |
 | opencompl/QMLIR | A prototype of an SSA-based quantum IR exploiting value semantics | https://github.com/opencompl/QMLIR | ['exploit'] | 1 | 2022-02-04 01:15:40+00:00 | 11291 | 1 | C++ | 1 | [] |
 | CNR-STIIMA-IRAS/cnr_ros_control | Extension of ros_control (http://wiki.ros.org/ros_control) to multiple hardware interfaces, exploiting nodelet | https://github.com/CNR-STIIMA-IRAS/cnr_ros_control | ['exploit'] | 1 | 2022-02-04 11:59:55+00:00 | 27434 | 2 | C++ | 0 | [] |
