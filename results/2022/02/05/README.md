@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/05
     
-31 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-05 07:10:43+00:00 | 37110 | 1051 | Python | 387 | [] |
-| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-02-05 07:48:32+00:00 | 731 | 5 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-05 05:09:09+00:00 | 248878 | 6801 | C | 1864 | [] |
 | 0xdea/shellcode | A collection of my shellcode samples. | https://github.com/0xdea/shellcode | ['shellcode'] | 1 | 2022-02-05 08:23:17+00:00 | 0 | 0 | C | 0 | [] |
 | AnonymousMonke12/Updated-ExlinSploit | Hello this is an updated version for exlinsploit where I will add updates and stuff for it | https://github.com/AnonymousMonke12/Updated-ExlinSploit | ['sploit'] | 1 | 2022-02-05 03:20:18+00:00 | 0 | 0 | Lua | 0 | [] |
 | goldmoments/simple.lua | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | ['exploit'] | 1 | 2022-02-05 07:18:23+00:00 | 214 | 0 | | 0 | [] |
@@ -20,8 +20,9 @@
 | Wh1terat/aQRootG3 | Enable telnet via qrcode command injection for Aqara G3 hub | https://github.com/Wh1terat/aQRootG3 | ['command injection'] | 1 | 2022-02-05 00:55:38+00:00 | 23 | 9 | Python | 1 | [] |
 | lefayjey/linWinPwn | linWinPwn is a bash script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | ['exploit'] | 1 | 2022-02-05 07:44:41+00:00 | 138 | 28 | Shell | 4 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-05 00:18:02+00:00 | 106 | 8 | | 3 | ['CVE-2021-44228'] |
+| Tyler2P/Roblox-Scripts | Basic roblox exploits | https://github.com/Tyler2P/Roblox-Scripts | ['exploit'] | 1 | 2022-02-05 09:47:28+00:00 | 44 | 0 | Lua | 0 | [] |
+| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-02-05 07:48:32+00:00 | 731 | 5 | | 0 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-05 05:51:30+00:00 | 1102 | 31 | C++ | 3 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-05 05:09:09+00:00 | 248878 | 6801 | C | 1864 | [] |
 | Kira-Pgr/Github-CVE-Listener | Get latest GitHub CVE EXP/POC repos and send to WeChat or Telegram (GitHub Actions) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2022-02-05 03:34:05+00:00 | 463 | 2 | Python | 2 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-02-05 07:49:43+00:00 | 2042 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-05 00:34:51+00:00 | 63831 | 300 | Python | 93 | [] |
