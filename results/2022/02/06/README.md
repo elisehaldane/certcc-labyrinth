@@ -1,14 +1,21 @@
 
 # Summary for results/2022/02/06
     
-7 records found after deduplication
+14 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-06 00:07:26+00:00 | 1534790 | 1565 | Python | 529 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-06 00:21:46+00:00 | 231179 | 269 | Ruby | 79 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-06 00:03:59+00:00 | 450744 | 45 | | 20 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-06 00:08:33+00:00 | 393959 | 71 | nan | 12 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-06 00:08:33+00:00 | 393959 | 71 | | 12 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-06 00:33:59+00:00 | 67321 | 300 | Python | 93 | [] |
+| SillyScarly/ZeroDay3791 | Config files for my GitHub profile. | https://github.com/SillyScarly/ZeroDay3791 | ['zeroday'] | 1 | 2022-02-06 01:43:00+00:00 | 2 | 0 | nan | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-06 00:50:44+00:00 | 107 | 8 | | 3 | ['CVE-2021-44228'] |
+| glowbase/PwnKit-CVE-2021-4034 | PwnKit PoC - Local privilege escalation vulnerability for polkit's pkexec utility | https://github.com/glowbase/PwnKit-CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-02-06 01:20:00+00:00 | 5 | 0 | Shell | 0 | ['CVE-2021-4034'] |
 | hippolippo/RCE-Games-Played-Site | None | https://github.com/hippolippo/RCE-Games-Played-Site | ['rce'] | 1 | 2022-02-06 00:21:26+00:00 | 1706 | 0 | Python | 0 | [] |
+| AnythingForTheTrustRank/ZeroGay | ZeroDay Is A Paste, Here Are Their Features | https://github.com/AnythingForTheTrustRank/ZeroGay | ['zeroday'] | 1 | 2022-02-06 01:12:09+00:00 | 1208 | 0 | nan | 0 | [] |
 | SamirJ1134/ExploitingAD | None | https://github.com/SamirJ1134/ExploitingAD | ['exploit'] | 1 | 2022-02-06 00:17:49+00:00 | 176 | 0 | | 0 | [] |
+| UnfairRoblox91/PlutoExploit.github.io | None | https://github.com/UnfairRoblox91/PlutoExploit.github.io | ['exploit'] | 1 | 2022-02-06 01:21:18+00:00 | 0 | 0 | | 0 | [] |
+| Rehshma/Image-processing-algorithms-on-GPU-machines | Image processing algorithms in general are good candidates for exploiting GPU capabilities. The parallelism is naturally provided by per-pixel operations. Application includes MRI processing of human head scans is one such area to effectively utilize the G | https://github.com/Rehshma/Image-processing-algorithms-on-GPU-machines | ['exploit'] | 1 | 2022-02-06 01:35:06+00:00 | 0 | 0 | | 0 | [] |
+| IONHeart93/ION-Meli-Script-Injector | Roblox Exploit Injector Created by ION Services and 7Meli 𖤐 . Enjoy the Injector | https://github.com/IONHeart93/ION-Meli-Script-Injector | ['exploit'] | 1 | 2022-02-06 01:30:57+00:00 | 0 | 0 | | 0 | [] |
