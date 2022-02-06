@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/06
     
-14 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -11,6 +11,7 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-06 00:08:33+00:00 | 393959 | 71 | | 12 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-06 00:33:59+00:00 | 67321 | 300 | Python | 93 | [] |
 | SillyScarly/ZeroDay3791 | Config files for my GitHub profile. | https://github.com/SillyScarly/ZeroDay3791 | ['zeroday'] | 1 | 2022-02-06 01:43:00+00:00 | 2 | 0 | nan | 0 | [] |
+| mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-06 02:42:43+00:00 | 64 | 0 | C | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-06 00:50:44+00:00 | 107 | 8 | | 3 | ['CVE-2021-44228'] |
 | glowbase/PwnKit-CVE-2021-4034 | PwnKit PoC - Local privilege escalation vulnerability for polkit's pkexec utility | https://github.com/glowbase/PwnKit-CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-02-06 01:20:00+00:00 | 5 | 0 | Shell | 0 | ['CVE-2021-4034'] |
 | hippolippo/RCE-Games-Played-Site | None | https://github.com/hippolippo/RCE-Games-Played-Site | ['rce'] | 1 | 2022-02-06 00:21:26+00:00 | 1706 | 0 | Python | 0 | [] |
@@ -19,3 +20,4 @@
 | UnfairRoblox91/PlutoExploit.github.io | None | https://github.com/UnfairRoblox91/PlutoExploit.github.io | ['exploit'] | 1 | 2022-02-06 01:21:18+00:00 | 0 | 0 | | 0 | [] |
 | Rehshma/Image-processing-algorithms-on-GPU-machines | Image processing algorithms in general are good candidates for exploiting GPU capabilities. The parallelism is naturally provided by per-pixel operations. Application includes MRI processing of human head scans is one such area to effectively utilize the G | https://github.com/Rehshma/Image-processing-algorithms-on-GPU-machines | ['exploit'] | 1 | 2022-02-06 01:35:06+00:00 | 0 | 0 | | 0 | [] |
 | IONHeart93/ION-Meli-Script-Injector | Roblox Exploit Injector Created by ION Services and 7Meli 𖤐 . Enjoy the Injector | https://github.com/IONHeart93/ION-Meli-Script-Injector | ['exploit'] | 1 | 2022-02-06 01:30:57+00:00 | 0 | 0 | | 0 | [] |
+| Thun2552/Xmi-Project | Rblx exploit powered by Wearedev api | https://github.com/Thun2552/Xmi-Project | ['exploit'] | 1 | 2022-02-06 02:43:33+00:00 | 0 | 0 | | 0 | [] |
