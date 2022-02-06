@@ -23,7 +23,7 @@ repo_id,repo_full_name,file,file_sha1,match
 326303286,binarytrails/prober,sploits/tls/cve-2021-3449/go.sum,7a09e8a13f25f1f7e7c264ba0e426ea247007dec,CVE-2021-3449
 326303286,binarytrails/prober,sploits/lavarel/laravel_token_unserialize_exec.rb,7dc4252b7056ac8c1d51516a6aeec50b9e6138d2,CVE-2017-16894
 326303286,binarytrails/prober,sploits/lavarel/laravel_token_unserialize_exec.rb,7dc4252b7056ac8c1d51516a6aeec50b9e6138d2,CVE-2018-15133
-326303286,binarytrails/prober,bin/nmap_rdp.sh,7ec9903c410f141374357cbbe6de807f33a147b5,MS12-020
+326303286,binarytrails/prober,bin/nmap/nmap_rdp.sh,7ec9903c410f141374357cbbe6de807f33a147b5,MS12-020
 326303286,binarytrails/prober,sploits/gitlab/gitlab_file_read_rce.rb,7fd7329b671b0af15b1ca194d73f5ab643bef59e,CVE-2020-10977
 326303286,binarytrails/prober,sploits/tls/cve-2021-3449/tls/cipher_suites.go,8599e26ac1514aab08fa1dc9c876e72c87805609,CVE-2021-3449
 326303286,binarytrails/prober,sploits/tls/cve-2021-3449/tls/handshake_server_tls13.go,8ff7c780c9af2b70bee77985f74d9c2ddc3be12c,CVE-2021-3449
