@@ -133,6 +133,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -269,6 +270,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -392,6 +394,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -516,6 +519,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -677,6 +681,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -806,6 +811,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -923,6 +929,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1072,6 +1079,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1193,7 +1201,7 @@
     "temp_clone_token":"",
     "network_count":1395,
     "subscribers_count":218,
-    "matched_at":"2022-02-06T08:41:41Z",
+    "matched_at":"2022-02-06T08:42:15Z",
     "owner_login":"Mr-xn",
     "owner_id":18260135,
     "owner_node_id":"MDQ6VXNlcjE4MjYwMTM1",
@@ -1213,6 +1221,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -1352,6 +1361,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1455,7 +1465,7 @@
     "temp_clone_token":"",
     "network_count":65,
     "subscribers_count":16,
-    "matched_at":"2022-02-06T04:44:45Z",
+    "matched_at":"2022-02-06T04:44:43Z",
     "owner_login":"gege-circle",
     "owner_id":80689889,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjgwNjg5ODg5",
@@ -1494,6 +1504,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "attack poc",
       "exploit"
@@ -1618,6 +1629,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1754,6 +1766,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1902,6 +1915,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2028,6 +2042,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2164,6 +2179,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -2281,6 +2297,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2402,7 +2419,7 @@
     "temp_clone_token":"",
     "network_count":42,
     "subscribers_count":9,
-    "matched_at":"2022-02-06T14:39:20Z",
+    "matched_at":"2022-02-06T14:37:51Z",
     "owner_login":"EntySec",
     "owner_id":72795305,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjcyNzk1MzA1",
@@ -2441,6 +2458,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -2546,7 +2564,7 @@
     "temp_clone_token":"",
     "network_count":12,
     "subscribers_count":6,
-    "matched_at":"2022-02-06T00:53:46Z",
+    "matched_at":"2022-02-06T00:53:53Z",
     "owner_login":"ARPSyndicate",
     "owner_id":71436716,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjcxNDM2NzE2",
@@ -2585,6 +2603,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -2693,7 +2712,7 @@
     "temp_clone_token":"",
     "network_count":93,
     "subscribers_count":14,
-    "matched_at":"2022-02-06T00:55:21Z",
+    "matched_at":"2022-02-06T00:53:53Z",
     "owner_login":"ycdxsb",
     "owner_id":32149596,
     "owner_node_id":"MDQ6VXNlcjMyMTQ5NTk2",
@@ -2713,6 +2732,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -2872,6 +2892,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "shellcode"
@@ -3031,6 +3052,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3181,6 +3203,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3329,6 +3352,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3462,6 +3486,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3589,6 +3614,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -3735,6 +3761,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3852,6 +3879,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -3969,6 +3997,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4086,6 +4115,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4203,6 +4233,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4321,6 +4352,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -4444,6 +4476,131 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":427322873,
+    "node_id":"R_kgDOGXht-Q",
+    "name":"cisa-known-exploited-vulns",
+    "full_name":"hrbrmstr\/cisa-known-exploited-vulns",
+    "private":false,
+    "html_url":"https:\/\/github.com\/hrbrmstr\/cisa-known-exploited-vulns",
+    "description":"Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns",
+    "forks_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/hrbrmstr\/cisa-known-exploited-vulns\/deployments",
+    "created_at":"2021-11-12T10:43:06Z",
+    "updated_at":"2022-02-06T05:34:21Z",
+    "pushed_at":"2022-02-06T18:10:05Z",
+    "git_url":"git:\/\/github.com\/hrbrmstr\/cisa-known-exploited-vulns.git",
+    "ssh_url":"git@github.com:hrbrmstr\/cisa-known-exploited-vulns.git",
+    "clone_url":"https:\/\/github.com\/hrbrmstr\/cisa-known-exploited-vulns.git",
+    "svn_url":"https:\/\/github.com\/hrbrmstr\/cisa-known-exploited-vulns",
+    "homepage":null,
+    "size":244,
+    "stargazers_count":6,
+    "watchers_count":6,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":true,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":6,
+    "default_branch":"batman",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2022-02-06T18:42:46Z",
+    "owner_login":"hrbrmstr",
+    "owner_id":509878,
+    "owner_node_id":"MDQ6VXNlcjUwOTg3OA==",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/509878?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/hrbrmstr",
+    "owner_html_url":"https:\/\/github.com\/hrbrmstr",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/hrbrmstr\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/hrbrmstr\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/hrbrmstr\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/hrbrmstr\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/hrbrmstr\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/hrbrmstr\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/hrbrmstr\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/hrbrmstr\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/hrbrmstr\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4561,6 +4718,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4714,6 +4872,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -4856,6 +5015,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -4964,7 +5124,7 @@
     "temp_clone_token":"",
     "network_count":3,
     "subscribers_count":1,
-    "matched_at":"2022-02-06T00:53:52Z",
+    "matched_at":"2022-02-06T00:55:23Z",
     "owner_login":"razz0r",
     "owner_id":96150618,
     "owner_node_id":"U_kgDOBbskWg",
@@ -4984,6 +5144,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -5105,6 +5266,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5228,6 +5390,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5351,6 +5514,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -5477,6 +5641,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -5594,6 +5759,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5723,6 +5889,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5849,6 +6016,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5984,6 +6152,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6101,6 +6270,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -6232,6 +6402,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6359,6 +6530,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -6476,6 +6648,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -6593,6 +6766,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6711,6 +6885,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -6834,6 +7009,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6951,6 +7127,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7074,6 +7251,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7171,7 +7349,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-02-06T01:59:07Z",
+    "matched_at":"2022-02-06T01:59:09Z",
     "owner_login":"glowbase",
     "owner_id":45991010,
     "owner_node_id":"MDQ6VXNlcjQ1OTkxMDEw",
@@ -7191,6 +7369,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -7199,6 +7378,251 @@
     "matched_count":3,
     "vul_ids":[
       "CVE-2021-4034"
+    ]
+  },
+  {
+    "id":453485827,
+    "node_id":"R_kgDOGwelAw",
+    "name":"Anti-Chat-Exploit",
+    "full_name":"uberripper\/Anti-Chat-Exploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/uberripper\/Anti-Chat-Exploit",
+    "description":"Lamba plugin preventing chat exploits for 1.12 anarchy servers",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/uberripper\/Anti-Chat-Exploit\/deployments",
+    "created_at":"2022-01-29T18:35:54Z",
+    "updated_at":"2022-02-06T17:56:34Z",
+    "pushed_at":"2022-02-06T17:44:05Z",
+    "git_url":"git:\/\/github.com\/uberripper\/Anti-Chat-Exploit.git",
+    "ssh_url":"git@github.com:uberripper\/Anti-Chat-Exploit.git",
+    "clone_url":"https:\/\/github.com\/uberripper\/Anti-Chat-Exploit.git",
+    "svn_url":"https:\/\/github.com\/uberripper\/Anti-Chat-Exploit",
+    "homepage":"",
+    "size":8331,
+    "stargazers_count":2,
+    "watchers_count":2,
+    "language":"Kotlin",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"lgpl-3.0",
+      "name":"GNU Lesser General Public License v3.0",
+      "spdx_id":"LGPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/lgpl-3.0",
+      "node_id":"MDc6TGljZW5zZTEy"
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+      "2b2t",
+      "5b5t",
+      "7b7t",
+      "9b9t",
+      "anarchy",
+      "lambda",
+      "log4j",
+      "minecraft",
+      "plugin"
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":2,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-02-06T18:42:46Z",
+    "owner_login":"uberripper",
+    "owner_id":96502613,
+    "owner_node_id":"U_kgDOBcCDVQ",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/96502613?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/uberripper",
+    "owner_html_url":"https:\/\/github.com\/uberripper",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/uberripper\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/uberripper\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/uberripper\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/uberripper\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/uberripper\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/uberripper\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/uberripper\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/uberripper\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/uberripper\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "template_repository":{
+      "id":363312281,
+      "node_id":"MDEwOlJlcG9zaXRvcnkzNjMzMTIyODE=",
+      "name":"ExamplePlugin",
+      "full_name":"lambda-client\/ExamplePlugin",
+      "private":false,
+      "owner":{
+        "login":"lambda-client",
+        "id":83095891,
+        "node_id":"MDEyOk9yZ2FuaXphdGlvbjgzMDk1ODkx",
+        "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/83095891?v=4",
+        "gravatar_id":"",
+        "url":"https:\/\/api.github.com\/users\/lambda-client",
+        "html_url":"https:\/\/github.com\/lambda-client",
+        "followers_url":"https:\/\/api.github.com\/users\/lambda-client\/followers",
+        "following_url":"https:\/\/api.github.com\/users\/lambda-client\/following{\/other_user}",
+        "gists_url":"https:\/\/api.github.com\/users\/lambda-client\/gists{\/gist_id}",
+        "starred_url":"https:\/\/api.github.com\/users\/lambda-client\/starred{\/owner}{\/repo}",
+        "subscriptions_url":"https:\/\/api.github.com\/users\/lambda-client\/subscriptions",
+        "organizations_url":"https:\/\/api.github.com\/users\/lambda-client\/orgs",
+        "repos_url":"https:\/\/api.github.com\/users\/lambda-client\/repos",
+        "events_url":"https:\/\/api.github.com\/users\/lambda-client\/events{\/privacy}",
+        "received_events_url":"https:\/\/api.github.com\/users\/lambda-client\/received_events",
+        "type":"Organization",
+        "site_admin":false
+      },
+      "html_url":"https:\/\/github.com\/lambda-client\/ExamplePlugin",
+      "description":"Software Development Kit for creating Lambda plugins",
+      "fork":false,
+      "url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin",
+      "forks_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/forks",
+      "keys_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/keys{\/key_id}",
+      "collaborators_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/collaborators{\/collaborator}",
+      "teams_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/teams",
+      "hooks_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/hooks",
+      "issue_events_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/issues\/events{\/number}",
+      "events_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/events",
+      "assignees_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/assignees{\/user}",
+      "branches_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/branches{\/branch}",
+      "tags_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/tags",
+      "blobs_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/git\/blobs{\/sha}",
+      "git_tags_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/git\/tags{\/sha}",
+      "git_refs_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/git\/refs{\/sha}",
+      "trees_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/git\/trees{\/sha}",
+      "statuses_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/statuses\/{sha}",
+      "languages_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/languages",
+      "stargazers_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/stargazers",
+      "contributors_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/contributors",
+      "subscribers_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/subscribers",
+      "subscription_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/subscription",
+      "commits_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/commits{\/sha}",
+      "git_commits_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/git\/commits{\/sha}",
+      "comments_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/comments{\/number}",
+      "issue_comment_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/issues\/comments{\/number}",
+      "contents_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/contents\/{+path}",
+      "compare_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/compare\/{base}...{head}",
+      "merges_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/merges",
+      "archive_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/{archive_format}{\/ref}",
+      "downloads_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/downloads",
+      "issues_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/issues{\/number}",
+      "pulls_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/pulls{\/number}",
+      "milestones_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/milestones{\/number}",
+      "notifications_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/notifications{?since,all,participating}",
+      "labels_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/labels{\/name}",
+      "releases_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/releases{\/id}",
+      "deployments_url":"https:\/\/api.github.com\/repos\/lambda-client\/ExamplePlugin\/deployments",
+      "created_at":"2021-05-01T03:15:32Z",
+      "updated_at":"2022-01-18T15:13:06Z",
+      "pushed_at":"2022-01-16T04:11:06Z",
+      "git_url":"git:\/\/github.com\/lambda-client\/ExamplePlugin.git",
+      "ssh_url":"git@github.com:lambda-client\/ExamplePlugin.git",
+      "clone_url":"https:\/\/github.com\/lambda-client\/ExamplePlugin.git",
+      "svn_url":"https:\/\/github.com\/lambda-client\/ExamplePlugin",
+      "homepage":"",
+      "size":28361,
+      "stargazers_count":7,
+      "watchers_count":7,
+      "language":"Kotlin",
+      "has_issues":true,
+      "has_projects":true,
+      "has_downloads":true,
+      "has_wiki":true,
+      "has_pages":false,
+      "forks_count":10,
+      "mirror_url":null,
+      "archived":false,
+      "disabled":false,
+      "open_issues_count":2,
+      "license":{
+        "key":"lgpl-3.0",
+        "name":"GNU Lesser General Public License v3.0",
+        "spdx_id":"LGPL-3.0",
+        "url":"https:\/\/api.github.com\/licenses\/lgpl-3.0",
+        "node_id":"MDc6TGljZW5zZTEy"
+      },
+      "allow_forking":true,
+      "is_template":true,
+      "topics":[
+
+      ],
+      "visibility":"public",
+      "forks":10,
+      "open_issues":2,
+      "watchers":7,
+      "default_branch":"master",
+      "permissions":{
+        "admin":false,
+        "maintain":false,
+        "push":false,
+        "triage":false,
+        "pull":false
+      },
+      "temp_clone_token":""
+    },
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
     ]
   },
   {
@@ -7318,6 +7742,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "vulnerability poc"
     ],
@@ -7435,6 +7860,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -7558,6 +7984,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -7675,6 +8102,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -7799,6 +8227,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7916,6 +8345,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8058,6 +8488,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8175,6 +8606,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -8292,6 +8724,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8409,6 +8842,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8526,6 +8960,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8643,6 +9078,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8760,6 +9196,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8877,6 +9314,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "vulnerability poc"
     ],
@@ -8994,6 +9432,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9123,6 +9562,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9240,6 +9680,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9357,6 +9798,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -9493,6 +9935,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "rce",
       "remote code execution"
@@ -9611,6 +10054,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9728,6 +10172,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9845,6 +10290,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9962,6 +10408,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -10085,8 +10532,251 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":456228478,
+    "node_id":"R_kgDOGzF-fg",
+    "name":"ExternalUserCMD",
+    "full_name":"Lufzys\/ExternalUserCMD",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Lufzys\/ExternalUserCMD",
+    "description":"External No ShellCode Execute Console Command -> C#",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD",
+    "forks_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Lufzys\/ExternalUserCMD\/deployments",
+    "created_at":"2022-02-06T17:56:55Z",
+    "updated_at":"2022-02-06T17:56:59Z",
+    "pushed_at":"2022-02-06T18:03:42Z",
+    "git_url":"git:\/\/github.com\/Lufzys\/ExternalUserCMD.git",
+    "ssh_url":"git@github.com:Lufzys\/ExternalUserCMD.git",
+    "clone_url":"https:\/\/github.com\/Lufzys\/ExternalUserCMD.git",
+    "svn_url":"https:\/\/github.com\/Lufzys\/ExternalUserCMD",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"C#",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-02-06T18:42:24Z",
+    "owner_login":"Lufzys",
+    "owner_id":53129220,
+    "owner_node_id":"MDQ6VXNlcjUzMTI5MjIw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/53129220?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Lufzys",
+    "owner_html_url":"https:\/\/github.com\/Lufzys",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Lufzys\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Lufzys\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Lufzys\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Lufzys\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Lufzys\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Lufzys\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Lufzys\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Lufzys\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Lufzys\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "shellcode"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":456229874,
+    "node_id":"R_kgDOGzGD8g",
+    "name":"BloxSploit",
+    "full_name":"kitki30\/BloxSploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/kitki30\/BloxSploit",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/kitki30\/BloxSploit\/deployments",
+    "created_at":"2022-02-06T18:02:38Z",
+    "updated_at":"2022-02-06T18:02:38Z",
+    "pushed_at":"2022-02-06T18:18:13Z",
+    "git_url":"git:\/\/github.com\/kitki30\/BloxSploit.git",
+    "ssh_url":"git@github.com:kitki30\/BloxSploit.git",
+    "clone_url":"https:\/\/github.com\/kitki30\/BloxSploit.git",
+    "svn_url":"https:\/\/github.com\/kitki30\/BloxSploit",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-02-06T18:42:08Z",
+    "owner_login":"kitki30",
+    "owner_id":95166343,
+    "owner_node_id":"U_kgDOBawfhw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/95166343?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/kitki30",
+    "owner_html_url":"https:\/\/github.com\/kitki30",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/kitki30\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/kitki30\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/kitki30\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/kitki30\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/kitki30\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/kitki30\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/kitki30\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/kitki30\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/kitki30\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "sploit"
     ],
     "matched_count":1,
     "vul_ids":[
