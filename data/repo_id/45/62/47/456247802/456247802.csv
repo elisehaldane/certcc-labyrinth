@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+456247802,630r63k/safari-exploits,README.md,2072dc19189413ee2a53db290428f33631d7ddc2,CVE-2020-9802
+456247802,630r63k/safari-exploits,README.md,2072dc19189413ee2a53db290428f33631d7ddc2,CVE-2020-9870
+456247802,630r63k/safari-exploits,README.md,2072dc19189413ee2a53db290428f33631d7ddc2,CVE-2020-9910
+456247802,630r63k/safari-exploits,jitsploitation/README.md,3b85dc74afa90f16300d4d7bc56a79f7d35f75e8,CVE-2020-9802
+456247802,630r63k/safari-exploits,jitsploitation/my-poc/README.md,3d2abbc9a94d993c4378d98a47eb462dd8bc9d1e,CVE-2020-9802
+456247802,630r63k/safari-exploits,jitsploitation/my-poc/README.md,3d2abbc9a94d993c4378d98a47eb462dd8bc9d1e,CVE-2020-9910
+456247802,630r63k/safari-exploits,jitsploitation/my-poc/README.md,3d2abbc9a94d993c4378d98a47eb462dd8bc9d1e,GPZ-2020
+456247802,630r63k/safari-exploits,jitsploitation/my-poc/README.md,3d2abbc9a94d993c4378d98a47eb462dd8bc9d1e,GPZ-2042
