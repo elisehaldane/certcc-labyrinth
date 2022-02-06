@@ -2,3 +2,5 @@ repo_id,repo_full_name,file,file_sha1,match
 455997487,AnythingForTheTrustRank/ZeroGay,ZeroDayAPI_1.0.0.0.nrmap,66cb0c3ae4b9406d403ba62fcee8c44743fceedf,VU#26
 455997487,AnythingForTheTrustRank/ZeroGay,ZeroDayAPI_1.0.0.0.nrmap,66cb0c3ae4b9406d403ba62fcee8c44743fceedf,VU#552
 455997487,AnythingForTheTrustRank/ZeroGay,ZeroDayAPI_1.0.0.0.nrmap,66cb0c3ae4b9406d403ba62fcee8c44743fceedf,VU#90
+455997487,AnythingForTheTrustRank/ZeroGay,ZeroGay.dll,9478fa2c1a4cb80cc3ea67670f47b1a1bdd8a6b5,VU#32
+455997487,AnythingForTheTrustRank/ZeroGay,ZeroGay.dll,9478fa2c1a4cb80cc3ea67670f47b1a1bdd8a6b5,VU#86
