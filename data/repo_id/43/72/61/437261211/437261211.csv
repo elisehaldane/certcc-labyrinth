@@ -20,7 +20,7 @@ repo_id,repo_full_name,file,file_sha1,match
 437261211,logpresso/CVE-2021-44228-Scanner,README.md,2e5e187b4a54348c26cd4e6262df7f51ef8b80fb,CVE-2020-9488
 437261211,logpresso/CVE-2021-44228-Scanner,README.md,2e5e187b4a54348c26cd4e6262df7f51ef8b80fb,CVE-2019-17571
 437261211,logpresso/CVE-2021-44228-Scanner,README.md,2e5e187b4a54348c26cd4e6262df7f51ef8b80fb,CVE-2022-23307
-437261211,logpresso/CVE-2021-44228-Scanner,src/main/java/com/logpresso/scanner/Configuration.java,89887e99c6ce58bdae997f7cefde61f7cc9be872,CVE-2021-42550
+437261211,logpresso/CVE-2021-44228-Scanner,src/main/java/com/logpresso/scanner/Configuration.java,42702b5525da0566c44f23e0d8b0b464f22663a6,CVE-2021-42550
 437261211,logpresso/CVE-2021-44228-Scanner,src/test/java/com/logpresso/scanner/Log4jScannerTest.java,adca68cc7ebb40a76424010357c252458d1ea59c,CVE-2021-44832
 437261211,logpresso/CVE-2021-44228-Scanner,src/test/java/com/logpresso/scanner/Log4jScannerTest.java,adca68cc7ebb40a76424010357c252458d1ea59c,CVE-2021-45046
 437261211,logpresso/CVE-2021-44228-Scanner,src/test/java/com/logpresso/scanner/Log4jScannerTest.java,adca68cc7ebb40a76424010357c252458d1ea59c,CVE-2021-4104
