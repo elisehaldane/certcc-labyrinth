@@ -1,1 +1,7 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+345155702,agnath18K/eXploit,src/WebHTML.h,a0928638d4072e97a3e2c78a1945530a2baaaf5d,VU#01
+345155702,agnath18K/eXploit,src/WebHTML.h,a0928638d4072e97a3e2c78a1945530a2baaaf5d,VU#22
+345155702,agnath18K/eXploit,src/WebHTML.h,a0928638d4072e97a3e2c78a1945530a2baaaf5d,VU#38
+345155702,agnath18K/eXploit,src/WebHTML.h,a0928638d4072e97a3e2c78a1945530a2baaaf5d,VU#59
+345155702,agnath18K/eXploit,src/WebHTML.h,a0928638d4072e97a3e2c78a1945530a2baaaf5d,VU#78
+345155702,agnath18K/eXploit,src/WebHTML.h,a0928638d4072e97a3e2c78a1945530a2baaaf5d,VU#94
