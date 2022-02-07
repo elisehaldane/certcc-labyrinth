@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/07
     
-46 records found after deduplication
+48 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-07 05:06:07+00:00 | 37110 | 1051 | Python | 388 | [] |
-| notcos/Wing-FTP-RCE | None | https://github.com/notcos/Wing-FTP-RCE | ['rce'] | 1 | 2022-02-07 02:50:11+00:00 | 3 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-07 00:07:28+00:00 | 1534790 | 1565 | Python | 528 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2022-02-07 02:26:15+00:00 | 78 | 0 | C | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-07 01:40:42+00:00 | 134330 | 269 | PHP | 101 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-07 08:09:48+00:00 | 52239 | 1 | Python | 3 | [] |
@@ -16,8 +16,9 @@
 | ArchCWithClasses/ExploitDevelopment | Repository with PoCs for binary overflow exploitation | https://github.com/ArchCWithClasses/ExploitDevelopment | ['exploit'] | 1 | 2022-02-07 00:52:09+00:00 | 1914 | 0 | Python | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-07 02:41:11+00:00 | 105 | 0 | Go | 0 | [] |
 | AnonymousMonke12/Updated-ExlinSploit | Hello this is an updated version for exlinsploit where I will add updates and stuff for it | https://github.com/AnonymousMonke12/Updated-ExlinSploit | ['sploit'] | 1 | 2022-02-07 02:07:42+00:00 | 6880 | 0 | Lua | 0 | [] |
+| notcos/Wing-FTP-RCE | None | https://github.com/notcos/Wing-FTP-RCE | ['rce'] | 1 | 2022-02-07 02:50:11+00:00 | 3 | 0 | Python | 0 | [] |
+| Shankhajit-Sen/Shellcode-sols | None | https://github.com/Shankhajit-Sen/Shellcode-sols | ['shellcode'] | 1 | 2022-02-07 09:33:06+00:00 | 125 | 0 | HTML | 0 | [] |
 | Lakshaysh93/RCE_SK_Project | None | https://github.com/Lakshaysh93/RCE_SK_Project | ['rce'] | 1 | 2022-02-07 00:47:57+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-07 00:07:28+00:00 | 1534790 | 1565 | Python | 528 | [] |
 | sailay1996/cve-2022-21882-poc | lpe poc for cve-2022-21882 | https://github.com/sailay1996/cve-2022-21882-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-07 03:49:37+00:00 | 0 | 0 | C++ | 1 | ['CVE-2022-21882'] |
 | anbdummy/gfi-mailarchiver-exploit | GFI Mail Archiver <= 15.1 - Telerik UI Component Arbitrary File Upload (Unauthenticated) | https://github.com/anbdummy/gfi-mailarchiver-exploit | ['exploit'] | 1 | 2022-02-07 04:13:59+00:00 | 0 | 0 | Python | 0 | [] |
 | CinisArboris/shellcoder | practice : the shellcoder handbook | https://github.com/CinisArboris/shellcoder | ['shellcode'] | 1 | 2022-02-07 04:10:20+00:00 | 0 | 0 | | 0 | [] |
@@ -30,7 +31,7 @@
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-07 02:13:03+00:00 | 1202 | 41 | JavaScript | 36 | [] |
 | Spard2/ps4exploit | None | https://github.com/Spard2/ps4exploit | ['exploit'] | 1 | 2022-02-07 07:52:04+00:00 | 3255 | 2 | JavaScript | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-02-07 00:31:06+00:00 | 223 | 0 | Lua | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-07 01:10:31+00:00 | 30401 | 2 | Python | 0 | [] |
+| NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-02-07 04:34:43+00:00 | 2864 | 1 | C | 1 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-07 07:10:12+00:00 | 5615 | 3085 | Python | 676 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-07 00:24:59+00:00 | 7029 | 4326 | Python | 576 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-02-07 02:18:27+00:00 | 24939 | 1878 | C++ | 310 | [] |
@@ -40,8 +41,8 @@
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2022-02-07 01:00:07+00:00 | 68360 | 677 | Lua | 145 | [] |
 | salmanyam/rop-exploit | This is a simple ROP exploit that opens a shell | https://github.com/salmanyam/rop-exploit | ['exploit'] | 1 | 2022-02-07 04:47:48+00:00 | 9804 | 1 | Python | 1 | [] |
 | chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2022-02-07 05:31:14+00:00 | 1043 | 8 | Shell | 1 | [] |
-| NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-02-07 04:34:43+00:00 | 2864 | 1 | C | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-07 00:04:40+00:00 | 450785 | 45 | | 20 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-07 01:10:31+00:00 | 30401 | 2 | Python | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-07 08:32:38+00:00 | 69697 | 15 | Python | 5 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-02-07 02:51:54+00:00 | 293751 | 816 | C# | 187 | [] |
 | 0iphor13/Random | Random stuff | https://github.com/0iphor13/Random | ['metasploit module OR payload'] | 1 | 2022-02-07 07:58:00+00:00 | 58 | 4 | PowerShell | 0 | [] |
@@ -49,5 +50,6 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-07 08:08:59+00:00 | 401927 | 71 | | 12 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-07 00:33:55+00:00 | 70232 | 300 | Python | 93 | [] |
 | tegal1337/CiLocks | Crack Interface lockscreen, Metasploit and More Android/IOS Hacking | https://github.com/tegal1337/CiLocks | ['metasploit module OR payload'] | 1 | 2022-02-07 05:47:11+00:00 | 5803 | 647 | Shell | 141 | [] |
+| Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2022-02-07 05:51:53+00:00 | 84361 | 188 | | 37 | [] |
 | PressureDraper/Reverse-Shellcode | Just a reverse shell-code made for Pentesting subject. | https://github.com/PressureDraper/Reverse-Shellcode | ['shellcode'] | 1 | 2022-02-07 01:15:14+00:00 | 9 | 0 | Python | 0 | [] |
 | nxiwmd/cve-2022-yuio | None | https://github.com/nxiwmd/cve-2022-yuio | ['cve-2 OR cve_2'] | 1 | 2022-02-07 08:33:46+00:00 | 0 | 0 | | 0 | [] |
