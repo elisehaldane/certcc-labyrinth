@@ -1,13 +1,12 @@
 
 # Summary for results/2022/02/08
     
-62 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-08 00:43:53+00:00 | 685068 | 26301 | Ruby | 11940 | [] |
-| DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-08 03:04:26+00:00 | 13 | 0 | Python | 3 | [] |
-| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-02-08 09:55:30+00:00 | 185 | 0 | Go | 0 | [] |
+| klezVirus/vortex | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | ['exploit'] | 1 | 2022-02-08 09:53:21+00:00 | 49573 | 225 | Python | 26 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-08 12:34:56+00:00 | 25535 | 2 | Jupyter Notebook | 0 | [] |
 | bruvzz/YouExploit | None | https://github.com/bruvzz/YouExploit | ['exploit'] | 1 | 2022-02-08 00:48:12+00:00 | 4 | 0 | | 0 | [] |
 | Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-02-08 04:46:04+00:00 | 313 | 29 | HTML | 7 | [] |
@@ -20,25 +19,27 @@
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-02-08 03:54:23+00:00 | 16 | 0 | | 0 | [] |
 | drapl0n/pwnKit | DawnKit is Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you. | https://github.com/drapl0n/pwnKit | ['exploit'] | 1 | 2022-02-08 04:57:32+00:00 | 5 | 3 | | 2 | ['CVE-2021-4034'] |
 | AnonymousMonke12/Updated-ExlinSploit | Hello this is an updated version for exlinsploit where I will add updates and stuff for it | https://github.com/AnonymousMonke12/Updated-ExlinSploit | ['sploit'] | 1 | 2022-02-08 12:08:19+00:00 | 7288 | 0 | Lua | 0 | [] |
+| DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-08 03:04:26+00:00 | 13 | 0 | Python | 3 | [] |
 | notcos/Wing-FTP-RCE | None | https://github.com/notcos/Wing-FTP-RCE | ['rce'] | 1 | 2022-02-08 10:10:09+00:00 | 5 | 0 | Python | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-08 00:07:26+00:00 | 1534790 | 1566 | Python | 528 | [] |
-| koparmalbaris/MySQL-UDF-Exploitation | MySQL User Defined Functions Exploitation to RCE or PrivEsc Simple Cheat Sheet. #4rch | https://github.com/koparmalbaris/MySQL-UDF-Exploitation | ['exploit', 'rce'] | 2 | 2022-02-08 08:04:11+00:00 | 31 | 0 | | 0 | [] |
-| ziadsaleemi/polkit_CVE-2021-4034 | Ansible role to patch RHSB-2022-001 Polkit Privilege Escalation - (CVE-2021-4034) | https://github.com/ziadsaleemi/polkit_CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-08 00:42:15+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-4034'] |
+| koparmalbaris/MySQL-UDF-Exploitation | MySQL UDF Exploitation to Bash Shell | https://github.com/koparmalbaris/MySQL-UDF-Exploitation | ['exploit', 'rce'] | 2 | 2022-02-08 07:26:57+00:00 | 21 | 0 | | 0 | [] |
+| ziadsaleemi/polkit_CVE-2021-4034 | Ansible role to patch RHSB-2022-001 Polkit Privilege Escalation - (CVE-2021-4034) | https://github.com/ziadsaleemi/polkit_CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-08 00:42:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | JawaTengahXploit1337/KCXploit | Deface POC KCFINDER Exploit With Terminal | https://github.com/JawaTengahXploit1337/KCXploit | ['exploit'] | 1 | 2022-02-08 00:51:17+00:00 | 0 | 0 | Shell | 0 | [] |
 | SamirJ1134/ExploitingAD | None | https://github.com/SamirJ1134/ExploitingAD | ['exploit'] | 1 | 2022-02-08 01:01:46+00:00 | 0 | 0 | | 0 | [] |
 | caique-garbim/VSFTPDv2.3.4-Exploit | Backdoor Command Execution VSFTPD v2.3.4. | https://github.com/caique-garbim/VSFTPDv2.3.4-Exploit | ['exploit'] | 1 | 2022-02-08 01:48:05+00:00 | 0 | 0 | Python | 0 | [] |
 | JoseDz7/Metasploit | Ruby 2.7.2.0 | https://github.com/JoseDz7/Metasploit | ['metasploit module OR payload'] | 1 | 2022-02-08 01:42:47+00:00 | 0 | 0 | Shell | 0 | [] |
 | Nefcore/cveExploits | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | ['exploit'] | 1 | 2022-02-08 02:35:52+00:00 | 0 | 0 | | 0 | [] |
-| fireclasher/pwnkit-CVE-2021-4034- | local privilage esscalation vulnerablity | https://github.com/fireclasher/pwnkit-CVE-2021-4034- | ['cve-2 OR cve_2'] | 1 | 2022-02-08 03:55:24+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-4034'] |
+| fireclasher/pwnkit-CVE-2021-4034- | local privilage esscalation vulnerablity | https://github.com/fireclasher/pwnkit-CVE-2021-4034- | ['cve-2 OR cve_2'] | 1 | 2022-02-08 03:55:24+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | traumschmuser/MasterDuelSurrender | Master Duel Surrender Exploit. Konami, please fix this. | https://github.com/traumschmuser/MasterDuelSurrender | ['exploit'] | 1 | 2022-02-08 05:10:20+00:00 | 0 | 0 | C++ | 0 | [] |
 | shyeun/exploit | None | https://github.com/shyeun/exploit | ['exploit'] | 1 | 2022-02-08 05:22:33+00:00 | 0 | 0 | | 0 | [] |
 | Kubenew/Stop-cryptominer | Stopping a Struts exploit that download and run a cryptominer | https://github.com/Kubenew/Stop-cryptominer | ['exploit'] | 1 | 2022-02-08 06:40:50+00:00 | 0 | 0 | | 0 | [] |
 | OrtalGitHub/Vulnerabilities-Exploits-Analysis | None | https://github.com/OrtalGitHub/Vulnerabilities-Exploits-Analysis | ['exploit'] | 1 | 2022-02-08 08:41:36+00:00 | 0 | 0 | | 0 | [] |
 | nic-obert/copy-paste-injection | An command injection attack vector. | https://github.com/nic-obert/copy-paste-injection | ['command injection'] | 1 | 2022-02-08 08:43:30+00:00 | 0 | 0 | nan | 0 | [] |
-| klezVirus/vortex | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | ['exploit'] | 1 | 2022-02-08 09:53:21+00:00 | 49573 | 225 | Python | 26 | [] |
+| thushi99/scp-client-vulnerability-exploit | None | https://github.com/thushi99/scp-client-vulnerability-exploit | ['exploit'] | 1 | 2022-02-08 10:33:44+00:00 | 0 | 0 | Python | 0 | [] |
+| ArseneTahaa/tlcommande-rcepteur | Un projet MakeCode | https://github.com/ArseneTahaa/tlcommande-rcepteur | ['rce'] | 1 | 2022-02-08 12:54:11+00:00 | 0 | 0 | TypeScript | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-02-08 09:55:30+00:00 | 185 | 0 | Go | 0 | [] |
 | Kappaladi/BeastSploits | None | https://github.com/Kappaladi/BeastSploits | ['sploit'] | 1 | 2022-02-08 09:59:09+00:00 | 1 | 0 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-08 00:07:26+00:00 | 1534790 | 1566 | Python | 528 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-08 11:24:37+00:00 | 286 | 0 | | 0 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-08 03:00:34+00:00 | 109 | 8 | | 3 | ['CVE-2021-44228'] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-02-08 06:39:31+00:00 | 4325 | 90 | Go | 7 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-08 11:35:05+00:00 | 72040 | 10730 | Jupyter Notebook | 1857 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-08 00:16:56+00:00 | 232722 | 269 | Ruby | 79 | [] |
@@ -49,6 +50,7 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-08 12:06:29+00:00 | 37690 | 658 | Go | 149 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-02-08 02:33:52+00:00 | 1456 | 622 | Java | 78 | [] |
 | shellcodesniper/shellcodesniper | ME? | https://github.com/shellcodesniper/shellcodesniper | ['shellcode'] | 1 | 2022-02-08 08:38:30+00:00 | 29 | 0 | | 0 | [] |
+| DeuxEx/LogAnalyzer | LogAnalyzer (for Entropia Universe logfile) (MMO RCE) | https://github.com/DeuxEx/LogAnalyzer | ['rce'] | 1 | 2022-02-08 13:40:25+00:00 | 1813 | 2 | | 0 | [] |
 | Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-02-08 09:17:27+00:00 | 197 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-08 00:03:59+00:00 | 456503 | 45 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-08 08:37:58+00:00 | 83404 | 15 | Python | 5 | [] |
@@ -66,4 +68,5 @@
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-02-08 09:10:20+00:00 | 208 | 2 | Java | 0 | [] |
 | dapivei/tweetple | A wrapper to stream information from Twitter's Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2022-02-08 06:14:44+00:00 | 24 | 3 | Python | 0 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-08 05:09:10+00:00 | 52241 | 1 | Python | 3 | [] |
-| thushi99/scp-client-vulnerability-exploit | None | https://github.com/thushi99/scp-client-vulnerability-exploit | ['exploit'] | 1 | 2022-02-08 10:33:44+00:00 | 0 | 0 | Python | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-08 03:00:34+00:00 | 109 | 8 | | 3 | ['CVE-2021-44228'] |
+| ExploitCN/CVE-2012-1876-win7_x86_and_win7x64 | CVE-2012-1876 win7_x86和x64平台分析，EXP、POC代码和分析文档 | https://github.com/ExploitCN/CVE-2012-1876-win7_x86_and_win7x64 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-08 13:07:29+00:00 | 0 | 0 | HTML | 0 | ['CVE-2012-1876'] |
