@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+456722456,ziadsaleemi/polkit_CVE-2021-4034,vars/main.yml,7fc1d429e227db8a08aeea5f32bc4e01f2bb02a5,CVE-2021-4034
 456722456,ziadsaleemi/polkit_CVE-2021-4034,README.md,c6aaf83f450b2f461b3097235ad3d3484924a863,CVE-2021-4034
 456722456,ziadsaleemi/polkit_CVE-2021-4034,_GITHUB_REPO_METADATA_,,CVE-2021-4034
