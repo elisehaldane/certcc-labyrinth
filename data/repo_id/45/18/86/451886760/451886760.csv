@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 451886760,furuanruan/Exploit,XSS/WordPrss/Reflected/CVE-2021-25041.md,253be0d86cbad16126f573e8fa8098113ee6f5dd,CVE-2021-25041
 451886760,furuanruan/Exploit,XSS/WordPrss/Reflected/CVE-2021-24436.md,301a7811253b100243191483a23dcb3c0a50b331,CVE-2021-24436
+451886760,furuanruan/Exploit,XSS/WordPrss/Stored/CVE-2021-24988.md,35e69e5fc9a77eb378c1bc281c0f9dc04b6e11e9,CVE-2021-24988
+451886760,furuanruan/Exploit,XSS/WordPrss/Stored/CVE-2021-25046.md,3e0ba5abf059812925c5fedb0d76f867db35bde6,CVE-2021-25046
 451886760,furuanruan/Exploit,XSS/WordPrss/Reflected/CVE-2021-24225.md,6bde85d18e0ad5267517ada2773df5161524e159,CVE-2021-24225
 451886760,furuanruan/Exploit,XSS/WordPrss/Reflected/CVE-2021-25047.md,71d641b25b3488ad5c30bd28e0d04b2262aff4c7,CVE-2021-25047
 451886760,furuanruan/Exploit,XSS/WordPrss/Reflected/CVE-2021-24437.md,7c5ce51b9bb86b86f24a71eb90467296cc8abceb,CVE-2021-24437
