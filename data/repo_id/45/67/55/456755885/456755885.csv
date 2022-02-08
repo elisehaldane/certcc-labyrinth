@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-456755885,Nefcore/cveExploits,CVE-2022-23178.py,18b68a9a1d20c962080055f70724c97f65b501fe,CVE-2022-23178
+456755885,Nefcore/cveExploits,2022/CVE-2022-23178.py,18b68a9a1d20c962080055f70724c97f65b501fe,CVE-2022-23178
