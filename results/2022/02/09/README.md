@@ -1,12 +1,14 @@
 
 # Summary for results/2022/02/09
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-09 02:20:44+00:00 | 685532 | 26310 | Ruby | 11946 | [] |
-| h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-09 01:53:58+00:00 | 62 | 13 | Jupyter Notebook | 8 | [] |
+| u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-02-09 10:16:04+00:00 | 22445 | 83 | C | 7 | [] |
+| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-09 02:24:01+00:00 | 434 | 14 | Python | 4 | [] |
+| PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-02-09 10:55:10+00:00 | 2815 | 38 | Python | 3 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-09 06:28:38+00:00 | 25624 | 2 | Jupyter Notebook | 0 | [] |
 | volkandindar/agartha | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and mor | https://github.com/volkandindar/agartha | ['exploit', 'rce'] | 2 | 2022-02-09 07:35:10+00:00 | 831 | 6 | Python | 0 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-09 05:44:10+00:00 | 53 | 157 | | 15 | [] |
@@ -34,12 +36,13 @@
 | mail-ecnu/PICO | An algorithm for exploiting Reinforcement Learning (RL) on Multi-agent Path Finding tasks. | https://github.com/mail-ecnu/PICO | ['exploit'] | 1 | 2022-02-09 03:38:01+00:00 | 0 | 0 | | 0 | [] |
 | AidenPearce369/Vulnserver-Walkthrough | My exploit scripts and vulnserver walkthrough | https://github.com/AidenPearce369/Vulnserver-Walkthrough | ['exploit'] | 1 | 2022-02-09 07:36:44+00:00 | 0 | 0 | | 0 | [] |
 | jsfleming/pwntainer | Docker container to use with binary exploitation challenges. | https://github.com/jsfleming/pwntainer | ['exploit'] | 1 | 2022-02-09 07:30:24+00:00 | 0 | 0 | | 0 | [] |
-| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-09 02:24:01+00:00 | 434 | 14 | Python | 4 | [] |
-| u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-02-09 10:16:04+00:00 | 22445 | 83 | C | 7 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-09 05:09:13+00:00 | 249435 | 6814 | C | 1865 | [] |
+| h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-09 01:53:58+00:00 | 62 | 13 | Jupyter Notebook | 8 | [] |
 | twseptian/CVE-2021-42013-Docker-Lab | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Docker-Lab | ['cve-2 OR cve_2'] | 1 | 2022-02-09 08:47:05+00:00 | 9 | 0 | Dockerfile | 1 | ['CVE-2021-42013'] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-09 05:09:13+00:00 | 249435 | 6814 | C | 1865 | [] |
+| SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-09 06:20:44+00:00 | 754 | 32 | C++ | 3 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-09 00:07:30+00:00 | 1534790 | 1566 | Python | 528 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-09 01:59:08+00:00 | 7409 | 4330 | Python | 575 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-09 11:35:05+00:00 | 72043 | 10734 | Jupyter Notebook | 1858 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-02-09 02:32:39+00:00 | 25710 | 1887 | C++ | 310 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-09 00:16:59+00:00 | 232722 | 269 | Ruby | 79 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-02-09 02:32:31+00:00 | 4723 | 1213 | C | 181 | [] |
@@ -51,12 +54,14 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-09 09:51:40+00:00 | 37697 | 658 | Go | 149 | [] |
 | Nyxott/ShellcodePolymorphique | None | https://github.com/Nyxott/ShellcodePolymorphique | ['shellcode'] | 1 | 2022-02-09 08:40:24+00:00 | 10 | 0 | Assembly | 0 | [] |
 | shellcodesniper/shellcodesniper | ME? | https://github.com/shellcodesniper/shellcodesniper | ['shellcode'] | 1 | 2022-02-09 10:26:27+00:00 | 45 | 0 | | 0 | [] |
+| Maks1116/roblox-exploit-scripts | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | ['exploit'] | 1 | 2022-02-09 10:44:03+00:00 | 1041 | 1 | Lua | 1 | [] |
 | Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-02-09 08:34:19+00:00 | 200 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-09 00:03:48+00:00 | 462317 | 45 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-09 08:30:38+00:00 | 97114 | 15 | Python | 5 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-09 09:55:21+00:00 | 81224 | 728 | Go | 124 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-09 00:19:21+00:00 | 436047 | 72 | | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-09 00:34:33+00:00 | 78377 | 301 | Python | 94 | [] |
+| richie0866/Rostruct | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | ['exploit'] | 1 | 2022-02-09 11:24:24+00:00 | 1805 | 6 | TypeScript | 1 | [] |
 | satoki/csv-plus_vulnerability | 👻 [PoC] CSV+ 0.8.0 - Arbitrary Code Execution (CVE-2022-21241) | https://github.com/satoki/csv-plus_vulnerability | ['cve poc', 'vuln poc', 'vulnerability poc'] | 3 | 2022-02-09 02:42:03+00:00 | 3456 | 1 | HTML | 1 | ['CVE-2022-21241'] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-02-09 06:39:26+00:00 | 2127525 | 21 | | 7 | [] |
 | richie0866/rbxm-suite | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-02-09 00:29:32+00:00 | 159 | 2 | TypeScript | 1 | [] |
@@ -64,5 +69,4 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-09 01:16:21+00:00 | 33373 | 2 | Python | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-02-09 00:45:36+00:00 | 223 | 0 | Lua | 0 | [] |
 | 0xvpr/Malicious-Software-Research | A repository dedicated to researching, documenting, developing, and ultimately, defending against various strains of malicious software. | https://github.com/0xvpr/Malicious-Software-Research | ['shellcode'] | 1 | 2022-02-09 08:15:53+00:00 | 724 | 4 | C | 1 | [] |
-| SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-09 06:20:44+00:00 | 754 | 32 | C++ | 3 | [] |
 | synapse-xdownload/synapse-xdownload | Synapse X is best Roblox Exploit to execute and inject scripts | https://github.com/synapse-xdownload/synapse-xdownload | ['exploit'] | 1 | 2022-02-09 08:40:51+00:00 | 0 | 0 | HTML | 0 | [] |
