@@ -1,12 +1,14 @@
 
 # Summary for results/2022/02/09
     
-47 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-09 02:20:44+00:00 | 685532 | 26310 | Ruby | 11946 | [] |
-| Nefcore/cveExploits | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | ['exploit'] | 1 | 2022-02-09 01:56:49+00:00 | 18 | 1 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-09 05:09:13+00:00 | 249435 | 6814 | C | 1865 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-09 06:28:38+00:00 | 25624 | 2 | Jupyter Notebook | 0 | [] |
+| volkandindar/agartha | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and mor | https://github.com/volkandindar/agartha | ['exploit', 'rce'] | 2 | 2022-02-09 07:35:10+00:00 | 831 | 6 | Python | 0 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-09 05:44:10+00:00 | 53 | 157 | | 15 | [] |
 | Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-02-09 02:46:20+00:00 | 320 | 29 | HTML | 7 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-09 03:07:51+00:00 | 2763 | 24 | | 1 | [] |
@@ -16,8 +18,8 @@
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | None | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-02-09 01:57:59+00:00 | 3 | 0 | | 0 | [] |
 | DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-09 03:05:42+00:00 | 14 | 0 | Python | 4 | [] |
 | Joffr3y/Polkit-CVE-2021-4034-HLP | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-09 07:30:56+00:00 | 22 | 0 | C | 0 | ['CVE-2021-4034'] |
+| Nefcore/cveExploits | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | ['exploit'] | 1 | 2022-02-09 01:56:49+00:00 | 18 | 1 | Python | 0 | [] |
 | comp426-2022-spring/a01-rceglie | a01-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a01-rceglie | ['rce'] | 1 | 2022-02-09 02:44:59+00:00 | 20 | 0 | HTML | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-09 06:28:38+00:00 | 25624 | 2 | Jupyter Notebook | 0 | [] |
 | Nintendo-Homebrew/h-encore | Exploit up to version 3.73 (PS Vita/TV) | https://github.com/Nintendo-Homebrew/h-encore | ['exploit'] | 1 | 2022-02-09 00:49:36+00:00 | 18704 | 0 | | 0 | [] |
 | nicholas-long/github-exploit-code-repository-index | just a grep of all of github's repositories API data for the word "exploit" | https://github.com/nicholas-long/github-exploit-code-repository-index | ['exploit'] | 1 | 2022-02-09 00:18:46+00:00 | 0 | 0 | Shell | 0 | [] |
 | iVlados/exploit-test | None | https://github.com/iVlados/exploit-test | ['exploit'] | 1 | 2022-02-09 01:22:19+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -27,10 +29,11 @@
 | tomhatesnerds/Anti-Exploit-Roblox | A Roblox Anti-Exploit that can detect injections. | https://github.com/tomhatesnerds/Anti-Exploit-Roblox | ['exploit'] | 1 | 2022-02-09 03:14:03+00:00 | 0 | 0 | Lua | 0 | [] |
 | mail-ecnu/PICO | An algorithm for exploiting Reinforcement Learning (RL) on Multi-agent Path Finding tasks. | https://github.com/mail-ecnu/PICO | ['exploit'] | 1 | 2022-02-09 03:38:01+00:00 | 0 | 0 | | 0 | [] |
 | AidenPearce369/Vulnserver-Walkthrough | My exploit scripts and vulnserver walkthrough | https://github.com/AidenPearce369/Vulnserver-Walkthrough | ['exploit'] | 1 | 2022-02-09 07:36:44+00:00 | 0 | 0 | | 0 | [] |
-| volkandindar/agartha | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and mor | https://github.com/volkandindar/agartha | ['exploit', 'rce'] | 2 | 2022-02-09 07:35:10+00:00 | 831 | 6 | Python | 0 | [] |
+| jsfleming/pwntainer | Docker container to use with binary exploitation challenges. | https://github.com/jsfleming/pwntainer | ['exploit'] | 1 | 2022-02-09 07:30:24+00:00 | 0 | 0 | | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-09 02:24:01+00:00 | 434 | 14 | Python | 4 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-09 05:09:13+00:00 | 249435 | 6814 | C | 1865 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-09 00:46:34+00:00 | 32867 | 28 | | 17 | [] |
+| h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-09 01:53:58+00:00 | 62 | 13 | Jupyter Notebook | 8 | [] |
+| SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-09 06:20:44+00:00 | 754 | 32 | C++ | 3 | [] |
+| Nyxott/ShellcodePolymorphique | None | https://github.com/Nyxott/ShellcodePolymorphique | ['shellcode'] | 1 | 2022-02-09 08:40:24+00:00 | 10 | 0 | Assembly | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-09 00:07:30+00:00 | 1534790 | 1566 | Python | 528 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-09 01:59:08+00:00 | 7409 | 4330 | Python | 575 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-02-09 02:32:39+00:00 | 25710 | 1887 | C++ | 310 | [] |
@@ -40,8 +43,11 @@
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2022-02-09 06:04:08+00:00 | 3228 | 1413 | | 466 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-02-09 03:29:09+00:00 | 3597 | 2291 | Python | 641 | [] |
 | rooted-cyber/Metasploit-Installation | This Tool installing Metasploit | https://github.com/rooted-cyber/Metasploit-Installation | ['metasploit module OR payload'] | 1 | 2022-02-09 05:36:08+00:00 | 13267 | 10 | Shell | 17 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-09 00:46:34+00:00 | 32867 | 28 | | 17 | [] |
+| Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-02-09 08:34:19+00:00 | 200 | 0 | Python | 0 | [] |
+| 0xvpr/Malicious-Software-Research | A repository dedicated to researching, documenting, developing, and ultimately, defending against various strains of malicious software. | https://github.com/0xvpr/Malicious-Software-Research | ['shellcode'] | 1 | 2022-02-09 08:15:53+00:00 | 724 | 4 | C | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-09 00:03:48+00:00 | 462317 | 45 | | 20 | [] |
-| h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-09 01:53:58+00:00 | 62 | 13 | Jupyter Notebook | 8 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-09 08:30:38+00:00 | 97114 | 15 | Python | 5 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-09 00:19:21+00:00 | 436047 | 72 | | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-09 00:34:33+00:00 | 78377 | 301 | Python | 94 | [] |
 | satoki/csv-plus_vulnerability | 👻 [PoC] CSV+ 0.8.0 - Arbitrary Code Execution (CVE-2022-21241) | https://github.com/satoki/csv-plus_vulnerability | ['cve poc', 'vuln poc', 'vulnerability poc'] | 3 | 2022-02-09 02:42:03+00:00 | 3456 | 1 | HTML | 1 | ['CVE-2022-21241'] |
@@ -50,5 +56,4 @@
 | nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2022-02-09 05:19:37+00:00 | 5018 | 511 | | 35 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-09 01:16:21+00:00 | 33373 | 2 | Python | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-02-09 00:45:36+00:00 | 223 | 0 | Lua | 0 | [] |
-| SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-09 06:20:44+00:00 | 754 | 32 | C++ | 3 | [] |
-| jsfleming/pwntainer | Docker container to use with binary exploitation challenges. | https://github.com/jsfleming/pwntainer | ['exploit'] | 1 | 2022-02-09 07:30:24+00:00 | 0 | 0 | | 0 | [] |
+| synapse-xdownload/synapse-xdownload | Synapse X is best Roblox Exploit to execute and inject scripts | https://github.com/synapse-xdownload/synapse-xdownload | ['exploit'] | 1 | 2022-02-09 08:40:51+00:00 | 0 | 0 | HTML | 0 | [] |
