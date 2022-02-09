@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/09
     
-65 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-09 02:20:44+00:00 | 685532 | 26310 | Ruby | 11946 | [] |
-| u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-02-09 10:16:04+00:00 | 22445 | 83 | C | 7 | [] |
+| Brandochili/ENSE-871-RCE-Team-Project-Enums | None | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-02-09 01:57:59+00:00 | 3 | 0 | | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-09 02:24:01+00:00 | 434 | 14 | Python | 4 | [] |
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-02-09 10:55:10+00:00 | 2815 | 38 | Python | 3 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-09 06:28:38+00:00 | 25624 | 2 | Jupyter Notebook | 0 | [] |
@@ -21,10 +21,11 @@
 | Shizmob/res1gn | Simple pure-software System ES1 exploit | https://github.com/Shizmob/res1gn | ['exploit'] | 1 | 2022-02-09 00:10:58+00:00 | 814 | 12 | Shell | 1 | [] |
 | stypr/vulnerable-nodejs-express-mysql | Example of a vulnerable NodeJS+Express+MySQL service | https://github.com/stypr/vulnerable-nodejs-express-mysql | ['0day'] | 1 | 2022-02-09 07:51:55+00:00 | 18 | 0 | JavaScript | 0 | [] |
 | jojo2406/API-Qualite-EAU-77 | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne | https://github.com/jojo2406/API-Qualite-EAU-77 | ['exploit'] | 1 | 2022-02-09 10:40:54+00:00 | 717 | 1 | HTML | 0 | [] |
-| Brandochili/ENSE-871-RCE-Team-Project-Enums | None | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-02-09 01:57:59+00:00 | 3 | 0 | | 0 | [] |
 | DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-09 03:05:42+00:00 | 14 | 0 | Python | 4 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-09 05:09:13+00:00 | 249435 | 6814 | C | 1865 | [] |
 | Joffr3y/Polkit-CVE-2021-4034-HLP | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-09 07:30:56+00:00 | 22 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Nefcore/cveExploits | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | ['exploit'] | 1 | 2022-02-09 01:56:49+00:00 | 18 | 1 | Python | 0 | [] |
+| jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-02-09 12:31:34+00:00 | 25 | 0 | Jupyter Notebook | 0 | [] |
 | comp426-2022-spring/a01-rceglie | a01-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a01-rceglie | ['rce'] | 1 | 2022-02-09 02:44:59+00:00 | 20 | 0 | HTML | 0 | [] |
 | Nintendo-Homebrew/h-encore | Exploit up to version 3.73 (PS Vita/TV) | https://github.com/Nintendo-Homebrew/h-encore | ['exploit'] | 1 | 2022-02-09 00:49:36+00:00 | 18704 | 0 | | 0 | [] |
 | nicholas-long/github-exploit-code-repository-index | just a grep of all of github's repositories API data for the word "exploit" | https://github.com/nicholas-long/github-exploit-code-repository-index | ['exploit'] | 1 | 2022-02-09 00:18:46+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -37,8 +38,8 @@
 | AidenPearce369/Vulnserver-Walkthrough | My exploit scripts and vulnserver walkthrough | https://github.com/AidenPearce369/Vulnserver-Walkthrough | ['exploit'] | 1 | 2022-02-09 07:36:44+00:00 | 0 | 0 | | 0 | [] |
 | jsfleming/pwntainer | Docker container to use with binary exploitation challenges. | https://github.com/jsfleming/pwntainer | ['exploit'] | 1 | 2022-02-09 07:30:24+00:00 | 0 | 0 | | 0 | [] |
 | h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-09 01:53:58+00:00 | 62 | 13 | Jupyter Notebook | 8 | [] |
+| u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-02-09 10:16:04+00:00 | 22445 | 83 | C | 7 | [] |
 | twseptian/CVE-2021-42013-Docker-Lab | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Docker-Lab | ['cve-2 OR cve_2'] | 1 | 2022-02-09 08:47:05+00:00 | 9 | 0 | Dockerfile | 1 | ['CVE-2021-42013'] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-09 05:09:13+00:00 | 249435 | 6814 | C | 1865 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-09 06:20:44+00:00 | 754 | 32 | C++ | 3 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-09 00:07:30+00:00 | 1534790 | 1566 | Python | 528 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-09 01:59:08+00:00 | 7409 | 4330 | Python | 575 | [] |
