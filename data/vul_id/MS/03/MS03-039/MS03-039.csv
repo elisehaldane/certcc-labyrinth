@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS03-039,0.05555556,https://github.com/tklengyel/dionaea,tklengyel/dionaea,10159961
 MS03-039,0.04545455,https://github.com/PleXone2019/Nosql-Exploitation-Framework,PleXone2019/Nosql-Exploitation-Framework,229854044
-MS03-039,0.04545455,https://github.com/torque59/Nosql-Exploitation-Framework,torque59/Nosql-Exploitation-Framework,15457437
+MS03-039,0.04347826,https://github.com/torque59/Nosql-Exploitation-Framework,torque59/Nosql-Exploitation-Framework,15457437
 MS03-039,0.03448276,https://github.com/demilson/WindowsExploit,demilson/WindowsExploit,381191322
 MS03-039,0.02777778,https://github.com/ITNerdbox/exploits,ITNerdbox/exploits,81378778
 MS03-039,0.02500000,https://github.com/mishmashclone/abatchy17-WindowsExploits,mishmashclone/abatchy17-WindowsExploits,225470680
