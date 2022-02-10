@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/09
     
-122 records found after deduplication
+123 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -36,7 +36,7 @@
 | h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-09 01:53:58+00:00 | 62 | 13 | Jupyter Notebook | 8 | [] |
 | joehaffey/scripting | A noob's exploits with the Python programming language | https://github.com/joehaffey/scripting | ['exploit'] | 1 | 2022-02-09 17:05:50+00:00 | 18 | 0 | Python | 0 | [] |
 | Nefcore/cveExploits | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | ['exploit'] | 1 | 2022-02-09 01:56:49+00:00 | 18 | 1 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-09 13:12:54+00:00 | 22282 | 6308 | JavaScript | 1485 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-09 18:10:10+00:00 | 246 | 6 | | 0 | [] |
 | AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-09 17:43:15+00:00 | 22168 | 1 | C# | 0 | [] |
 | KLKLNET/KLKL-Exploit | None | https://github.com/KLKLNET/KLKL-Exploit | ['exploit'] | 1 | 2022-02-09 23:29:11+00:00 | 0 | 0 | | 0 | [] |
 | pashokkok/Me4Sploit | Hacker tool for termux | https://github.com/pashokkok/Me4Sploit | ['sploit'] | 1 | 2022-02-09 21:16:46+00:00 | 0 | 0 | Python | 0 | [] |
@@ -66,14 +66,14 @@
 | jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-02-09 12:31:34+00:00 | 25 | 0 | Jupyter Notebook | 0 | [] |
 | ly4k/SpoolFool | Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/SpoolFool | ['exploit'] | 1 | 2022-02-09 16:54:09+00:00 | 132 | 224 | C# | 37 | ['CVE-2022-21999', 'CVE-2022-22718'] |
 | u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-02-09 10:16:04+00:00 | 22445 | 83 | C | 7 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-09 18:10:10+00:00 | 246 | 6 | | 0 | [] |
 | AndreMaquesMachado/POC | POC to test vulnerabilities | https://github.com/AndreMaquesMachado/POC | ['vulnerability poc'] | 1 | 2022-02-09 13:55:54+00:00 | 837 | 0 | Java | 0 | [] |
-| mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-09 22:21:03+00:00 | 75 | 0 | C | 0 | [] |
-| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-09 20:09:21+00:00 | 4132762 | 2 | Lua | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-09 13:12:54+00:00 | 22282 | 6308 | JavaScript | 1485 | [] |
+| Nyxott/ShellcodePolymorphique | None | https://github.com/Nyxott/ShellcodePolymorphique | ['shellcode'] | 1 | 2022-02-09 08:40:24+00:00 | 10 | 0 | Assembly | 0 | [] |
 | Xh4H/Satellian-CVE-2020-7980 | PoC script that shows RCE vulnerability over Intellian Satellite controller | https://github.com/Xh4H/Satellian-CVE-2020-7980 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-02-09 21:23:29+00:00 | 10 | 73 | Python | 9 | ['CVE-2020-7980'] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-09 09:51:40+00:00 | 37697 | 658 | Go | 149 | [] |
 | ppepos/inf600c | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | ['exploit'] | 1 | 2022-02-09 20:02:00+00:00 | 13299 | 5 | | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-09 00:46:34+00:00 | 32867 | 28 | | 17 | [] |
+| cn-panda/JavaCodeAudit | Getting started with java code auditing 代码审计入门的小项目 | https://github.com/cn-panda/JavaCodeAudit | ['rce'] | 1 | 2022-02-09 22:12:53+00:00 | 60979 | 462 | JavaScript | 58 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-09 13:28:17+00:00 | 16552 | 1 | PHP | 0 | [] |
 | JonnyBanana/DUCKY_REAPER | Collection of Multi-platform Scripts for Rubber Ducky that exploit the css webkit filter attack to crash Internet Explorer, Edge or Safari, crashing the target machine Compatibility: Windows - MacOs - Linux (Ubuntu) | https://github.com/JonnyBanana/DUCKY_REAPER | ['exploit'] | 1 | 2022-02-09 16:58:51+00:00 | 199 | 11 | Batchfile | 10 | [] |
 | rooted-cyber/Metasploit-Installation | This Tool installing Metasploit | https://github.com/rooted-cyber/Metasploit-Installation | ['metasploit module OR payload'] | 1 | 2022-02-09 05:36:08+00:00 | 13267 | 10 | Shell | 17 | [] |
@@ -96,10 +96,10 @@
 | virtru-components/js-html-sanitizer | HTML Sanitizer to prevent XSS exploits. | https://github.com/virtru-components/js-html-sanitizer | ['exploit'] | 1 | 2022-02-09 14:20:49+00:00 | 69 | 4 | JavaScript | 3 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-09 05:09:13+00:00 | 249435 | 6814 | C | 1865 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-02-09 16:23:08+00:00 | 27263 | 8714 | Python | 1491 | [] |
-| Nyxott/ShellcodePolymorphique | None | https://github.com/Nyxott/ShellcodePolymorphique | ['shellcode'] | 1 | 2022-02-09 08:40:24+00:00 | 10 | 0 | Assembly | 0 | [] |
+| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-09 20:09:21+00:00 | 4132762 | 2 | Lua | 0 | [] |
 | shellcodesniper/shellcodesniper | ME? | https://github.com/shellcodesniper/shellcodesniper | ['shellcode'] | 1 | 2022-02-09 10:26:27+00:00 | 45 | 0 | | 0 | [] |
+| mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-09 22:21:03+00:00 | 75 | 0 | C | 0 | [] |
 | Maks1116/roblox-exploit-scripts | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | ['exploit'] | 1 | 2022-02-09 10:44:03+00:00 | 1041 | 1 | Lua | 1 | [] |
-| richie0866/rbxm-suite | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-02-09 00:29:32+00:00 | 159 | 2 | TypeScript | 1 | [] |
 | twseptian/CVE-2021-42013-Docker-Lab | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Docker-Lab | ['cve-2 OR cve_2'] | 1 | 2022-02-09 08:47:05+00:00 | 9 | 0 | Dockerfile | 1 | ['CVE-2021-42013'] |
 | peterdavidfagan/robo-dream | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. | https://github.com/peterdavidfagan/robo-dream | ['exploit'] | 1 | 2022-02-09 14:19:40+00:00 | 6212 | 0 | Python | 0 | [] |
 | icyguider/Shhhloader | SysWhispers Shellcode Loader (Work in Progress) | https://github.com/icyguider/Shhhloader | ['shellcode'] | 1 | 2022-02-09 22:54:01+00:00 | 33 | 115 | Python | 20 | [] |
@@ -112,8 +112,8 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-09 01:16:21+00:00 | 33373 | 2 | Python | 0 | [] |
 | nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2022-02-09 05:19:37+00:00 | 5018 | 511 | | 35 | [] |
 | Th3CracKed/rce | Run untrusted code in aws lambda | https://github.com/Th3CracKed/rce | ['rce'] | 1 | 2022-02-09 22:38:53+00:00 | 102 | 0 | TypeScript | 0 | [] |
+| richie0866/rbxm-suite | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-02-09 00:29:32+00:00 | 159 | 2 | TypeScript | 1 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-02-09 06:39:26+00:00 | 2127525 | 21 | | 7 | [] |
-| Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-02-09 08:34:19+00:00 | 200 | 0 | Python | 0 | [] |
 | satoki/csv-plus_vulnerability | 👻 [PoC] CSV+ 0.8.0 - Arbitrary Code Execution (CVE-2022-21241) | https://github.com/satoki/csv-plus_vulnerability | ['cve poc', 'vuln poc', 'vulnerability poc'] | 3 | 2022-02-09 02:42:03+00:00 | 3456 | 1 | HTML | 1 | ['CVE-2022-21241'] |
 | richie0866/Rostruct | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | ['exploit'] | 1 | 2022-02-09 11:24:24+00:00 | 1805 | 6 | TypeScript | 1 | [] |
 | Hacker5preme/Exploits | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | ['exploit'] | 1 | 2022-02-09 20:25:06+00:00 | 2975 | 15 | Python | 4 | [] |
@@ -126,4 +126,5 @@
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-09 09:55:21+00:00 | 81224 | 728 | Go | 124 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-09 08:30:38+00:00 | 97114 | 15 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-09 00:03:48+00:00 | 462317 | 45 | | 20 | [] |
+| Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-02-09 08:34:19+00:00 | 200 | 0 | Python | 0 | [] |
 | gaveitmypaul/checkouttime | I dont know what this is but i intend to find out. once i achieve that. im going to exploit anyone i possibly can. thank you | https://github.com/gaveitmypaul/checkouttime | ['exploit'] | 1 | 2022-02-09 23:48:37+00:00 | 0 | 0 | | 0 | [] |
