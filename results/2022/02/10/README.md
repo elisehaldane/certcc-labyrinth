@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/10
     
-86 records found after deduplication
+90 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-10 01:43:26+00:00 | 686499 | 26316 | Ruby | 11951 | [] |
-| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-02-10 10:09:50+00:00 | 193 | 0 | Go | 0 | [] |
+| DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-10 03:27:59+00:00 | 14 | 0 | Python | 4 | [] |
 | hippolippo/RCE-Games-Played-Site | None | https://github.com/hippolippo/RCE-Games-Played-Site | ['rce'] | 1 | 2022-02-10 13:31:06+00:00 | 1993 | 0 | Python | 0 | [] |
 | EJEgan/secureVaxBooking | A Spring Boot App to facilitate appointment booking, engineered to be secure against common exploits and infiltration techniques. | https://github.com/EJEgan/secureVaxBooking | ['exploit'] | 1 | 2022-02-10 10:21:16+00:00 | 11 | 1 | Java | 0 | [] |
 | TahsinMir/Wordle-Exploiter | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | ['exploit'] | 1 | 2022-02-10 01:37:57+00:00 | 10061 | 0 | Python | 0 | [] |
@@ -15,8 +15,8 @@
 | Marcel46509/Exploit | None | https://github.com/Marcel46509/Exploit | ['exploit'] | 1 | 2022-02-10 09:26:40+00:00 | 1 | 0 | | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-10 16:32:07+00:00 | 2769 | 27 | | 1 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-10 06:28:13+00:00 | 25536 | 2 | Jupyter Notebook | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-02-10 10:09:50+00:00 | 193 | 0 | Go | 0 | [] |
 | ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2022-02-10 16:28:11+00:00 | 5 | 0 | nan | 0 | [] |
-| DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-10 03:27:59+00:00 | 14 | 0 | Python | 4 | [] |
 | 0RaMsY0/ramsy | Exploitation Tool | https://github.com/0RaMsY0/ramsy | ['exploit'] | 1 | 2022-02-10 13:43:56+00:00 | 48 | 1 | Python | 0 | [] |
 | 0e0w/CodeQL | 《深入理解0day挖掘神器CodeQL》 | https://github.com/0e0w/CodeQL | ['0day'] | 1 | 2022-02-10 13:04:44+00:00 | 553 | 4 | | 1 | [] |
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2022-02-10 02:08:41+00:00 | 454 | 123 | Java | 28 | [] |
@@ -25,10 +25,12 @@
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-02-10 09:39:10+00:00 | 222 | 2 | Java | 0 | [] |
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2022-02-10 12:55:35+00:00 | 68072 | 1 | | 0 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-10 05:09:38+00:00 | 2380 | 1 | C | 0 | [] |
+| xen0vas/Win32-Reverse-TCP-Shellcode | Windows Reverse TCP Shellcode ( 421 Bytes ) | https://github.com/xen0vas/Win32-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2022-02-10 11:24:02+00:00 | 50 | 2 | C | 1 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | None | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-02-10 15:16:59+00:00 | 56 | 0 | | 0 | [] |
 | LouisXVBTW/Vulnerability-Discovery-And-Exploitation | None | https://github.com/LouisXVBTW/Vulnerability-Discovery-And-Exploitation | ['exploit'] | 1 | 2022-02-10 13:40:56+00:00 | 638 | 0 | C | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-10 05:09:14+00:00 | 251658 | 6819 | C | 1865 | [] |
-| Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-10 10:08:00+00:00 | 0 | 0 | | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-10 16:53:45+00:00 | 3909 | 2594 | PowerShell | 738 | [] |
+| manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-10 15:37:00+00:00 | 0 | 0 | Python | 0 | [] |
+| JackDotExee/Google-slides-crash | this exploit effects lower end computers like Chromebooks and old laptops. | https://github.com/JackDotExee/Google-slides-crash | ['exploit'] | 1 | 2022-02-10 16:47:07+00:00 | 0 | 0 | | 0 | [] |
 | rcescribano/rcescribano | Config files for my GitHub profile. | https://github.com/rcescribano/rcescribano | ['rce'] | 1 | 2022-02-10 15:27:22+00:00 | 0 | 0 | | 0 | [] |
 | dsund/miniapi | Work in progress to exploit minimal api's and .net 6 | https://github.com/dsund/miniapi | ['exploit'] | 1 | 2022-02-10 15:26:45+00:00 | 0 | 0 | C# | 0 | [] |
 | JohnDoeAntler/senpai-agar-chat-server-exploit | None | https://github.com/JohnDoeAntler/senpai-agar-chat-server-exploit | ['exploit'] | 1 | 2022-02-10 15:10:05+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -37,8 +39,8 @@
 | lainswork/sc-factory | c/c++ shellcode factory | https://github.com/lainswork/sc-factory | ['shellcode'] | 1 | 2022-02-10 13:13:57+00:00 | 0 | 0 | | 0 | [] |
 | joehaffey/scripting | My exploits with scripting languages: Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | ['exploit'] | 1 | 2022-02-10 13:04:00+00:00 | 0 | 0 | | 0 | [] |
 | chizzymeka/association-rule-mining-experiment | This program evaluates the association strength of the bug-inducing and bug-fixing commit pairs for the datasets in the paper 'Exploring and Exploiting the Correlations between Bug-Inducing and Bug-Fixing Commits'. The goal is to ascertain how reliable co | https://github.com/chizzymeka/association-rule-mining-experiment | ['exploit'] | 1 | 2022-02-10 12:31:41+00:00 | 0 | 0 | Java | 0 | [] |
+| Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-10 10:08:00+00:00 | 0 | 0 | | 0 | [] |
 | RegoNoShi/AttackRIPToken | Exploit a smart contract that uses a "random" function to decide how many token to mint | https://github.com/RegoNoShi/AttackRIPToken | ['exploit'] | 1 | 2022-02-10 09:37:50+00:00 | 0 | 0 | | 0 | [] |
-| manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-10 15:37:00+00:00 | 0 | 0 | Python | 0 | [] |
 | wolf1892/CVE-2019-7609 | docker lab setup for kibana-7609 | https://github.com/wolf1892/CVE-2019-7609 | ['cve-2 OR cve_2'] | 1 | 2022-02-10 06:27:39+00:00 | 0 | 0 | | 0 | ['CVE-2019-7609'] |
 | Mephistoteles28/SQL-Injection-Payload | some SQL command that I usually use to SQL Injection. | https://github.com/Mephistoteles28/SQL-Injection-Payload | ['command injection'] | 1 | 2022-02-10 03:31:21+00:00 | 0 | 0 | | 0 | [] |
 | exploita123/exploiter | -- Script generated by SimpleSpy - credits to exxtremewa#9394 -- This generator is IN DEVELOPMENT, not compatible with all types/classes yet local args = { [1] = "Circe", } game:GetService("ReplicatedStorage").PickCharacter:FireServer(unpack(args)) | https://github.com/exploita123/exploiter | ['exploit'] | 1 | 2022-02-10 03:06:37+00:00 | 0 | 0 | | 0 | [] |
@@ -47,11 +49,10 @@
 | KLKLNET/KLKL-Exploit | None | https://github.com/KLKLNET/KLKL-Exploit | ['exploit'] | 1 | 2022-02-10 00:48:36+00:00 | 1 | 0 | | 0 | [] |
 | Arnau002/rce-04-gif-expert-app | None | https://github.com/Arnau002/rce-04-gif-expert-app | ['rce'] | 1 | 2022-02-10 09:36:48+00:00 | 283 | 0 | JavaScript | 0 | [] |
 | stringency/WebeExploit | Study | https://github.com/stringency/WebeExploit | ['exploit'] | 1 | 2022-02-10 09:17:38+00:00 | 16 | 0 | JavaScript | 0 | [] |
-| xen0vas/Win32-Reverse-TCP-Shellcode | Windows Reverse TCP Shellcode ( 421 Bytes ) | https://github.com/xen0vas/Win32-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2022-02-10 11:24:02+00:00 | 50 | 2 | C | 1 | [] |
 | 0xf4n9x/CVE-2021-26084 | CVE-2021-26084 Remote Code Execution on Confluence Servers | https://github.com/0xf4n9x/CVE-2021-26084 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-02-10 11:38:46+00:00 | 4698 | 45 | Python | 27 | ['CVE-2021-26084'] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2022-02-10 05:02:46+00:00 | 155 | 2 | | 0 | [] |
-| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-02-10 10:37:35+00:00 | 292859 | 95 | Python | 15 | [] |
-| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-10 12:15:06+00:00 | 4148868 | 2 | Lua | 0 | [] |
+| renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2022-02-10 11:28:13+00:00 | 6933 | 0 | C | 0 | [] |
+| cirosantilli/china-dictatorhsip-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorhsip-2 | ['attack poc', 'exploit'] | 2 | 2022-02-10 11:03:33+00:00 | 9575 | 26 | HTML | 9 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-10 03:23:28+00:00 | 37725 | 659 | Go | 149 | [] |
 | ppepos/inf600c | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | ['exploit'] | 1 | 2022-02-10 16:40:10+00:00 | 13706 | 5 | | 0 | [] |
 | wyzxxz/shiro_rce_tool | shiro 反序列 命令执行辅助检测工具 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2022-02-10 09:42:04+00:00 | 72461 | 794 | | 165 | [] |
@@ -59,8 +60,9 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-02-10 05:42:32+00:00 | 64397 | 1426 | Python | 285 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-10 13:07:07+00:00 | 18915 | 1 | PHP | 0 | [] |
 | ambarus/linux-0day | None | https://github.com/ambarus/linux-0day | ['0day'] | 1 | 2022-02-10 02:57:44+00:00 | 2147306 | 0 | C | 0 | [] |
+| thezdi/PoC | Proofs-of-concept | https://github.com/thezdi/PoC | ['exploit', 'vulnerability poc'] | 2 | 2022-02-10 16:49:03+00:00 | 1200 | 529 | C# | 188 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-02-10 10:37:35+00:00 | 292859 | 95 | Python | 15 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-02-10 03:29:26+00:00 | 4724 | 1215 | C | 181 | [] |
-| renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2022-02-10 11:28:13+00:00 | 6933 | 0 | C | 0 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-02-10 04:04:35+00:00 | 144714 | 15 | C | 207 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-10 00:17:18+00:00 | 232723 | 269 | Ruby | 79 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-02-10 01:53:42+00:00 | 25725 | 1887 | C++ | 310 | [] |
@@ -69,11 +71,11 @@
 | cirosantilli/china-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2022-02-10 11:03:43+00:00 | 38902 | 753 | HTML | 141 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-10 06:51:48+00:00 | 5616 | 3093 | Python | 678 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-10 00:07:29+00:00 | 1534790 | 1568 | Python | 529 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-10 05:09:14+00:00 | 251658 | 6819 | C | 1865 | [] |
+| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-10 12:15:06+00:00 | 4148868 | 2 | Lua | 0 | [] |
 | zeroday0619/zeroday0619 | About Me | https://github.com/zeroday0619/zeroday0619 | ['zeroday'] | 1 | 2022-02-10 08:02:12+00:00 | 134 | 3 | | 2 | [] |
 | houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2022-02-10 02:33:20+00:00 | 307 | 327 | | 37 | [] |
-| Maks1116/roblox-exploit-scripts | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | ['exploit'] | 1 | 2022-02-10 07:44:46+00:00 | 1133 | 1 | Lua | 1 | [] |
-| maihoanganh/ctpPOP | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | ['exploit'] | 1 | 2022-02-10 10:04:20+00:00 | 1405 | 0 | Julia | 0 | [] |
-| cirosantilli/china-dictatorhsip-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorhsip-2 | ['attack poc', 'exploit'] | 2 | 2022-02-10 11:03:33+00:00 | 9575 | 26 | HTML | 9 | [] |
+| DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2022-02-10 07:53:57+00:00 | 139 | 0 | | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-02-10 03:37:29+00:00 | 257 | 0 | Lua | 0 | [] |
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-02-10 14:17:14+00:00 | 43 | 18 | | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-10 01:14:26+00:00 | 6796 | 33 | HTML | 11 | [] |
@@ -82,12 +84,14 @@
 | ReJimp/Kernel_Exploit | HEVD Exploit | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2022-02-10 06:05:07+00:00 | 495 | 2 | C | 0 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-02-10 07:07:41+00:00 | 2127534 | 21 | | 7 | [] |
 | nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2022-02-10 07:56:27+00:00 | 158 | 475 | | 55 | [] |
-| DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2022-02-10 07:53:57+00:00 | 139 | 0 | | 0 | [] |
 | PRBonn/LiDAR-MOS | (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2022-02-10 07:54:09+00:00 | 42729 | 242 | Python | 49 | [] |
+| Maks1116/roblox-exploit-scripts | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | ['exploit'] | 1 | 2022-02-10 07:44:46+00:00 | 1133 | 1 | Lua | 1 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-10 03:21:18+00:00 | 6692 | 307 | Python | 60 | [] |
+| yuba-0/yuba-whatsapp-exploit | ＹＵＢＡ　　>Ｔｕｒｋｉｓｈ　Ｈａｃｋｅｒｓ | https://github.com/yuba-0/yuba-whatsapp-exploit | ['exploit'] | 1 | 2022-02-10 17:07:01+00:00 | 1249 | 1 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-10 04:29:40+00:00 | 80714 | 302 | Python | 95 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-10 00:18:08+00:00 | 452927 | 73 | | 13 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-10 00:50:54+00:00 | 110 | 0 | PHP | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-10 00:44:49+00:00 | 110825 | 15 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-10 00:04:05+00:00 | 469868 | 46 | | 21 | [] |
-| JackDotExee/Google-slides-crash | this exploit effects lower end computers like Chromebooks and old laptops. | https://github.com/JackDotExee/Google-slides-crash | ['exploit'] | 1 | 2022-02-10 16:47:07+00:00 | 0 | 0 | | 0 | [] |
+| maihoanganh/ctpPOP | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | ['exploit'] | 1 | 2022-02-10 10:04:20+00:00 | 1405 | 0 | Julia | 0 | [] |
+| francescopedronomnys/OWASP-Dependency_Check-Multi_Module | This is a sample android project with 2 gradle modules that uses OWASP dependency check gradle plugin detecting a CVE on one of the modules' dependecies | https://github.com/francescopedronomnys/OWASP-Dependency_Check-Multi_Module | ['cve-2 OR cve_2'] | 1 | 2022-02-10 16:50:29+00:00 | 0 | 0 | HTML | 0 | [] |
