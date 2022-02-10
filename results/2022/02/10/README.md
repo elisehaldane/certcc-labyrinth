@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/10
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -17,6 +17,7 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-10 01:14:26+00:00 | 6796 | 33 | HTML | 11 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-10 01:12:14+00:00 | 34766 | 2 | Python | 0 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-10 03:21:18+00:00 | 6692 | 307 | Python | 60 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-10 04:29:40+00:00 | 80714 | 302 | Python | 95 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-10 00:18:08+00:00 | 452927 | 73 | | 13 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-10 00:50:54+00:00 | 110 | 0 | PHP | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-10 00:44:49+00:00 | 110825 | 15 | Python | 5 | [] |
@@ -24,8 +25,9 @@
 | houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2022-02-10 02:33:20+00:00 | 307 | 327 | | 37 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-10 03:23:28+00:00 | 37725 | 659 | Go | 149 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-10 00:46:34+00:00 | 34083 | 28 | | 17 | [] |
-| ambarus/linux-0day | nan | https://github.com/ambarus/linux-0day | ['0day'] | 1 | 2022-02-10 02:57:44+00:00 | 2147306 | 0 | C | 0 | [] |
+| ambarus/linux-0day | None | https://github.com/ambarus/linux-0day | ['0day'] | 1 | 2022-02-10 02:57:44+00:00 | 2147306 | 0 | C | 0 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-02-10 03:29:26+00:00 | 4724 | 1215 | C | 181 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-02-10 04:04:35+00:00 | 144714 | 15 | C | 207 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-10 00:17:18+00:00 | 232723 | 269 | Ruby | 79 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2022-02-10 01:53:42+00:00 | 25725 | 1887 | C++ | 310 | [] |
 | Mephistoteles28/SQL-Injection-Payload | some SQL command that I usually use to SQL Injection. | https://github.com/Mephistoteles28/SQL-Injection-Payload | ['command injection'] | 1 | 2022-02-10 03:31:21+00:00 | 0 | 0 | nan | 0 | [] |
