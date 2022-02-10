@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/09
     
-121 records found after deduplication
+122 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-09 02:20:44+00:00 | 685532 | 26310 | Ruby | 11946 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-09 18:10:10+00:00 | 246 | 6 | | 0 | [] |
+| Joffr3y/Polkit-CVE-2021-4034-HLP | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-09 07:30:56+00:00 | 22 | 0 | C | 0 | ['CVE-2021-4034'] |
 | DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-09 03:05:42+00:00 | 14 | 0 | Python | 4 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | None | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-02-09 01:57:59+00:00 | 3 | 0 | | 0 | [] |
 | AnonymousMonke12/Updated-ExlinSploit | Hello this is an updated version for exlinsploit where I will add updates and stuff for it | https://github.com/AnonymousMonke12/Updated-ExlinSploit | ['sploit'] | 1 | 2022-02-09 20:21:51+00:00 | 13934 | 0 | Lua | 0 | [] |
@@ -35,9 +35,10 @@
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-09 02:24:01+00:00 | 434 | 14 | Python | 4 | [] |
 | h41stur/beco.py | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | ['exploit'] | 1 | 2022-02-09 01:53:58+00:00 | 62 | 13 | Jupyter Notebook | 8 | [] |
 | joehaffey/scripting | A noob's exploits with the Python programming language | https://github.com/joehaffey/scripting | ['exploit'] | 1 | 2022-02-09 17:05:50+00:00 | 18 | 0 | Python | 0 | [] |
-| Joffr3y/Polkit-CVE-2021-4034-HLP | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-09 07:30:56+00:00 | 22 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Nefcore/cveExploits | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | ['exploit'] | 1 | 2022-02-09 01:56:49+00:00 | 18 | 1 | Python | 0 | [] |
-| jsfleming/pwntainer | Docker container to use with binary exploitation challenges. | https://github.com/jsfleming/pwntainer | ['exploit'] | 1 | 2022-02-09 07:30:24+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-09 13:12:54+00:00 | 22282 | 6308 | JavaScript | 1485 | [] |
+| AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-09 17:43:15+00:00 | 22168 | 1 | C# | 0 | [] |
+| KLKLNET/KLKL-Exploit | None | https://github.com/KLKLNET/KLKL-Exploit | ['exploit'] | 1 | 2022-02-09 23:29:11+00:00 | 0 | 0 | | 0 | [] |
 | pashokkok/Me4Sploit | Hacker tool for termux | https://github.com/pashokkok/Me4Sploit | ['sploit'] | 1 | 2022-02-09 21:16:46+00:00 | 0 | 0 | Python | 0 | [] |
 | pashokkok/Me4Sploit_Framework | Dont download it... Just trust me | https://github.com/pashokkok/Me4Sploit_Framework | ['sploit'] | 1 | 2022-02-09 21:06:31+00:00 | 0 | 0 | Python | 0 | [] |
 | EXtremeExploit/EXtremeExploit | None | https://github.com/EXtremeExploit/EXtremeExploit | ['exploit'] | 1 | 2022-02-09 20:29:48+00:00 | 0 | 0 | | 0 | [] |
@@ -50,8 +51,8 @@
 | psfargo/darkmodder | Improved version of DarkmodderVC's offline exploit, | https://github.com/psfargo/darkmodder | ['exploit'] | 1 | 2022-02-09 13:41:21+00:00 | 0 | 0 | | 0 | [] |
 | Codism66/Hire-Golang-Web-Development-Services-by-Codism | Codism provides Golang Development Company for clients who do not get into the entrenched code base and yet went to gain from the high-end functionalities of a programming language. Golang, as a programming language for software products and this web platf | https://github.com/Codism66/Hire-Golang-Web-Development-Services-by-Codism | ['exploit'] | 1 | 2022-02-09 13:20:55+00:00 | 0 | 0 | | 0 | [] |
 | synapse-xdownload/synapse-xdownload | Synapse X is best Roblox Exploit to execute and inject scripts | https://github.com/synapse-xdownload/synapse-xdownload | ['exploit'] | 1 | 2022-02-09 08:40:51+00:00 | 0 | 0 | HTML | 0 | [] |
+| jsfleming/pwntainer | Docker container to use with binary exploitation challenges. | https://github.com/jsfleming/pwntainer | ['exploit'] | 1 | 2022-02-09 07:30:24+00:00 | 0 | 0 | | 0 | [] |
 | AidenPearce369/Vulnserver-Walkthrough | My exploit scripts and vulnserver walkthrough | https://github.com/AidenPearce369/Vulnserver-Walkthrough | ['exploit'] | 1 | 2022-02-09 07:36:44+00:00 | 0 | 0 | | 0 | [] |
-| AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-09 17:43:15+00:00 | 22168 | 1 | C# | 0 | [] |
 | mail-ecnu/PICO | An algorithm for exploiting Reinforcement Learning (RL) on Multi-agent Path Finding tasks. | https://github.com/mail-ecnu/PICO | ['exploit'] | 1 | 2022-02-09 03:38:01+00:00 | 0 | 0 | | 0 | [] |
 | tomhatesnerds/Anti-Exploit-Roblox | A Roblox Anti-Exploit that can detect injections. | https://github.com/tomhatesnerds/Anti-Exploit-Roblox | ['exploit'] | 1 | 2022-02-09 03:14:03+00:00 | 0 | 0 | Lua | 0 | [] |
 | comp426-2022-spring/a02-rceglie | a02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a02-rceglie | ['rce'] | 1 | 2022-02-09 03:05:25+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -65,8 +66,8 @@
 | jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-02-09 12:31:34+00:00 | 25 | 0 | Jupyter Notebook | 0 | [] |
 | ly4k/SpoolFool | Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/SpoolFool | ['exploit'] | 1 | 2022-02-09 16:54:09+00:00 | 132 | 224 | C# | 37 | ['CVE-2022-21999', 'CVE-2022-22718'] |
 | u1f383/Software-Security-2021 | 2021 交大程式安全 binary exploit 課程教材 | https://github.com/u1f383/Software-Security-2021 | ['exploit'] | 1 | 2022-02-09 10:16:04+00:00 | 22445 | 83 | C | 7 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-09 18:10:10+00:00 | 246 | 6 | | 0 | [] |
 | AndreMaquesMachado/POC | POC to test vulnerabilities | https://github.com/AndreMaquesMachado/POC | ['vulnerability poc'] | 1 | 2022-02-09 13:55:54+00:00 | 837 | 0 | Java | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-09 13:12:54+00:00 | 22282 | 6308 | JavaScript | 1485 | [] |
 | mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-09 22:21:03+00:00 | 75 | 0 | C | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-09 20:09:21+00:00 | 4132762 | 2 | Lua | 0 | [] |
 | Xh4H/Satellian-CVE-2020-7980 | PoC script that shows RCE vulnerability over Intellian Satellite controller | https://github.com/Xh4H/Satellian-CVE-2020-7980 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-02-09 21:23:29+00:00 | 10 | 73 | Python | 9 | ['CVE-2020-7980'] |
@@ -125,4 +126,4 @@
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-09 09:55:21+00:00 | 81224 | 728 | Go | 124 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-09 08:30:38+00:00 | 97114 | 15 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-09 00:03:48+00:00 | 462317 | 45 | | 20 | [] |
-| KLKLNET/KLKL-Exploit | None | https://github.com/KLKLNET/KLKL-Exploit | ['exploit'] | 1 | 2022-02-09 23:29:11+00:00 | 0 | 0 | | 0 | [] |
+| gaveitmypaul/checkouttime | I dont know what this is but i intend to find out. once i achieve that. im going to exploit anyone i possibly can. thank you | https://github.com/gaveitmypaul/checkouttime | ['exploit'] | 1 | 2022-02-09 23:48:37+00:00 | 0 | 0 | | 0 | [] |
