@@ -1,12 +1,13 @@
 
 # Summary for results/2022/02/11
     
-115 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-11 01:39:39+00:00 | 686018 | 26324 | Ruby | 11953 | [] |
-| AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-11 17:50:22+00:00 | 22190 | 2 | C# | 1 | [] |
+| puckiestyle/CVE-2021-4034 | None | https://github.com/puckiestyle/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-11 14:32:31+00:00 | 9 | 1 | Python | 0 | ['CVE-2021-4034'] |
+| twseptian/Bypass-Login-and-RCE-from-Exploit-DB | Bypass Login (SQLi), and Remote Code Execution (RCE) | https://github.com/twseptian/Bypass-Login-and-RCE-from-Exploit-DB | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-02-11 15:30:31+00:00 | 64 | 0 | Python | 1 | [] |
 | Lakshaysh93/RCE_SK_Project | None | https://github.com/Lakshaysh93/RCE_SK_Project | ['rce'] | 1 | 2022-02-11 06:14:03+00:00 | 4 | 0 | | 0 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-02-11 05:20:01+00:00 | 452 | 0 | | 0 | [] |
 | johanpalos/API-Qualite-EAU-77 | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne | https://github.com/johanpalos/API-Qualite-EAU-77 | ['exploit'] | 1 | 2022-02-11 13:40:47+00:00 | 755 | 1 | HTML | 0 | [] |
@@ -18,8 +19,8 @@
 | lexisrepo/Azure-Exploitation | None | https://github.com/lexisrepo/Azure-Exploitation | ['exploit'] | 1 | 2022-02-11 10:59:20+00:00 | 0 | 0 | | 0 | [] |
 | Pastofarian/DB | Gestion et exploitation de bases de données | https://github.com/Pastofarian/DB | ['exploit'] | 1 | 2022-02-11 19:37:20+00:00 | 2 | 0 | TSQL | 0 | [] |
 | Vicvenpet/gen-exploits | My proof-of-concept exploits for the Linux kernel, Windows Terminal and Android Kotlin | https://github.com/Vicvenpet/gen-exploits | ['exploit'] | 1 | 2022-02-11 16:10:25+00:00 | 9143 | 0 | Python | 0 | [] |
-| puckiestyle/CVE-2021-4034 | None | https://github.com/puckiestyle/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-11 14:32:31+00:00 | 9 | 1 | Python | 0 | ['CVE-2021-4034'] |
 | Stef-Boogers/SagaScape | Model of subsitence and resource exploitation in the territory of Sagalassos, Turkey during the Late Iron Age - Early Hellenistic period | https://github.com/Stef-Boogers/SagaScape | ['exploit'] | 1 | 2022-02-11 12:39:22+00:00 | 6764 | 0 | NetLogo | 0 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-11 09:37:50+00:00 | 19053 | 494 | Ruby | 123 | [] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-02-11 01:40:19+00:00 | 7 | 0 | Rust | 0 | [] |
 | Marcel46509/Exploit | None | https://github.com/Marcel46509/Exploit | ['exploit'] | 1 | 2022-02-11 14:27:46+00:00 | 9 | 0 | | 0 | [] |
 | Checkam/how2jemalloc | List of exploitation techniques on vulnerabilities in programs using jemalloc | https://github.com/Checkam/how2jemalloc | ['exploit'] | 1 | 2022-02-11 16:22:43+00:00 | 5 | 0 | C | 0 | [] |
@@ -32,14 +33,15 @@
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-11 06:38:56+00:00 | 50006 | 0 | Python | 0 | [] |
 | shadman-ahmed/log4j-exploit | Tinker project to play with vulnerabilities exposed by log4j package | https://github.com/shadman-ahmed/log4j-exploit | ['exploit'] | 1 | 2022-02-11 06:46:13+00:00 | 52 | 0 | Java | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-11 03:37:30+00:00 | 463 | 22 | Python | 5 | [] |
-| twseptian/Bypass-Login-and-RCE-from-Exploit-DB | Bypass Login (SQLi), and Remote Code Execution (RCE) | https://github.com/twseptian/Bypass-Login-and-RCE-from-Exploit-DB | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-02-11 15:30:31+00:00 | 64 | 0 | Python | 1 | [] |
+| AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-11 17:50:22+00:00 | 22190 | 2 | C# | 1 | [] |
 | comp426-2022-spring/a01-rceglie | a01-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a01-rceglie | ['rce'] | 1 | 2022-02-11 01:51:42+00:00 | 23 | 0 | HTML | 0 | [] |
-| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-11 15:39:06+00:00 | 5248 | 764 | Java | 156 | ['CVE-2021-44228'] |
 | comp426-2022-spring/a02-rceglie | a02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a02-rceglie | ['rce'] | 1 | 2022-02-11 01:51:13+00:00 | 17 | 0 | JavaScript | 0 | [] |
+| manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-11 00:24:12+00:00 | 4 | 0 | Python | 0 | [] |
+| m4udSec/AppLockerBypass | C# shellcode runner adapted to run from a csproj to be triggered by MSBuild | https://github.com/m4udSec/AppLockerBypass | ['shellcode'] | 1 | 2022-02-11 20:40:25+00:00 | 0 | 0 | | 0 | [] |
 | zam0x1ma/github-desktop-rce | None | https://github.com/zam0x1ma/github-desktop-rce | ['rce'] | 1 | 2022-02-11 19:50:00+00:00 | 0 | 0 | | 0 | [] |
 | saptarshi-laha/Shellcode-Runner | A Windows Solution for Executing Shellcode and Debugging It! | https://github.com/saptarshi-laha/Shellcode-Runner | ['shellcode'] | 1 | 2022-02-11 17:49:17+00:00 | 13 | 0 | | 0 | [] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-02-11 16:03:43+00:00 | 0 | 0 | Python | 0 | [] |
-| ColdFusionX/CVE-2020-9484 | POC - CVE-2020-9484 | https://github.com/ColdFusionX/CVE-2020-9484 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 6 | 2022-02-11 15:45:11+00:00 | 0 | 0 | | 0 | ['CVE-2020-9484'] |
+| ColdFusionX/CVE-2020-9484 | POC - Apache Tomcat Deserialization Vulnerability (CVE-2020-9484) | https://github.com/ColdFusionX/CVE-2020-9484 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 6 | 2022-02-11 18:02:52+00:00 | 975 | 0 | Java | 0 | ['CVE-2020-9484'] |
 | Unityaj007/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Unityaj007/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-02-11 14:49:43+00:00 | 112 | 0 | | 0 | [] |
 | SunnyLy/IntentAttackPOC | 针对Intent发送接收数据时可能出现异常的POC | https://github.com/SunnyLy/IntentAttackPOC | ['attack poc'] | 1 | 2022-02-11 14:26:23+00:00 | 0 | 0 | nan | 0 | [] |
 | Rdos0211/ExploitFix | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | ['exploit'] | 1 | 2022-02-11 14:22:00+00:00 | 0 | 0 | | 0 | [] |
@@ -60,10 +62,9 @@
 | blairbilodeau/adaptive-causal-bandits | Code for our paper "Adaptively Exploiting d-Separators with Causal Bandits". | https://github.com/blairbilodeau/adaptive-causal-bandits | ['exploit'] | 1 | 2022-02-11 02:02:02+00:00 | 4 | 0 | Julia | 0 | [] |
 | priyacshah/RCE_Sask_Website_Design | None | https://github.com/priyacshah/RCE_Sask_Website_Design | ['rce'] | 1 | 2022-02-11 06:14:28+00:00 | 370 | 0 | | 0 | [] |
 | stringency/WebeExploit | Study | https://github.com/stringency/WebeExploit | ['exploit'] | 1 | 2022-02-11 09:16:22+00:00 | 16 | 0 | JavaScript | 0 | [] |
-| manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-11 00:24:12+00:00 | 4 | 0 | Python | 0 | [] |
 | corelight/cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-11 15:18:38+00:00 | 4615 | 18 | Zeek | 6 | ['CVE-2021-44228'] |
+| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-11 15:39:06+00:00 | 5248 | 764 | Java | 156 | ['CVE-2021-44228'] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-02-11 18:06:47+00:00 | 265 | 54 | C++ | 9 | [] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-11 09:37:50+00:00 | 19053 | 494 | Ruby | 123 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-11 00:04:28+00:00 | 478846 | 46 | | 21 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-02-11 17:53:51+00:00 | 10655 | 31 | Shell | 6 | [] |
 | chennqqi/godnslog | An exquisite dns&http log server for verify SSRF/XXE/RFI/RCE vulnerability | https://github.com/chennqqi/godnslog | ['rce'] | 1 | 2022-02-11 14:04:23+00:00 | 928 | 337 | Go | 65 | [] |
@@ -119,4 +120,4 @@
 | mahaloz/ike | 'Ike: A binary exploitation and reversing handbook. | https://github.com/mahaloz/ike | ['exploit'] | 1 | 2022-02-11 07:20:47+00:00 | 5447 | 15 | Shell | 0 | [] |
 | MythicAgents/merlin | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | ['exploit'] | 1 | 2022-02-11 11:53:23+00:00 | 386 | 8 | Python | 3 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-11 01:17:25+00:00 | 81237 | 729 | Go | 125 | [] |
-| m4udSec/AppLockerBypass | C# shellcode runner adapted to run from a csproj to be triggered by MSBuild | https://github.com/m4udSec/AppLockerBypass | ['shellcode'] | 1 | 2022-02-11 20:40:25+00:00 | 0 | 0 | | 0 | [] |
+| lucasdicioccio/webxec | lambda^W cgi-bin^W rce^W useful thing as a devtool | https://github.com/lucasdicioccio/webxec | ['rce'] | 1 | 2022-02-11 21:36:07+00:00 | 0 | 0 | Haskell | 0 | [] |
