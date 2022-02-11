@@ -1,6 +1,8 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
 rapid7/metasploit-framework,Metasploit Framework,https://github.com/rapid7/metasploit-framework,['metasploit module OR payload'],1,2022-02-11T01:39:39+0000,686018,26324,Ruby,11953,[]
 RectangularObject/boblox,omg stupid script kiddie go lick a shower drain,https://github.com/RectangularObject/boblox,['exploit'],1,2022-02-11T00:13:04+0000,262,0,Lua,0,[]
+blairbilodeau/adaptive-causal-bandits,"Code for our paper ""Adaptively Exploiting d-Separators with Causal Bandits"".",https://github.com/blairbilodeau/adaptive-causal-bandits,['exploit'],1,2022-02-11T02:02:02+0000,4,0,Julia,0,[]
+manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,"Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark.",https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,['metasploit module OR payload'],1,2022-02-11T00:24:12+0000,4,0,Python,0,[]
 comp426-2022-spring/a02-rceglie,a02-rceglie created by GitHub Classroom,https://github.com/comp426-2022-spring/a02-rceglie,['rce'],1,2022-02-11T01:51:13+0000,17,0,JavaScript,0,[]
 comp426-2022-spring/a01-rceglie,a01-rceglie created by GitHub Classroom,https://github.com/comp426-2022-spring/a01-rceglie,['rce'],1,2022-02-11T01:51:42+0000,23,0,HTML,0,[]
 cehteh/rcell,None,https://github.com/cehteh/rcell,['rce'],1,2022-02-11T01:40:19+0000,7,0,Rust,0,[]
@@ -19,6 +21,8 @@ tencentcloud-sdk-php/rce,None,https://github.com/tencentcloud-sdk-php/rce,['rce'
 lcvvvv/kscan,Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。,https://github.com/lcvvvv/kscan,['exploit'],1,2022-02-11T01:17:25+0000,81237,729,Go,125,[]
 ARPSyndicate/xlocate,the ultimate exploits/references finder,https://github.com/ARPSyndicate/xlocate,['exploit'],1,2022-02-11T00:28:24+0000,124551,15,Python,5,[]
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-02-11T00:04:28+0000,478846,46,,21,[]
+jm33-m0/emp3r0r,Linux/Windows post-exploitation framework made by linux user,https://github.com/jm33-m0/emp3r0r,['exploit'],1,2022-02-11T02:13:08+0000,37767,659,Go,149,[]
 nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-02-11T00:46:36+0000,35046,28,,17,[]
 0xDezzy/CVE-2019-11539,Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect,https://github.com/0xDezzy/CVE-2019-11539,"['cve-2 OR cve_2', 'exploit', 'rce']",3,2022-02-11T00:00:44+0000,56,125,Python,38,['CVE-2019-11539']
-manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,"Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark.",https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,['metasploit module OR payload'],1,2022-02-11T00:24:12+0000,4,0,Python,0,[]
+Ascotbe/Medusa,:cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 ,https://github.com/Ascotbe/Medusa,['cve poc'],1,2022-02-11T02:22:22+0000,64419,1427,Python,286,[]
+Hagrid29/PELoader,PE loader with various shellcode injection techniques,https://github.com/Hagrid29/PELoader,['shellcode'],1,2022-02-11T02:39:40+0000,853,0,C++,0,[]
