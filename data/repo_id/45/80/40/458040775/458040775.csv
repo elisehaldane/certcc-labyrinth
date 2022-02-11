@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+458040775,cspshivam/cve-2021-4043,exploit2,7cacde5ab5258705c973f82b9937a875df10e884,CVE-2021-4034
+458040775,cspshivam/cve-2021-4043,exploit,8b0e4f06bb653191d91d29468d8784831be1fabd,CVE-2021-4034
+458040775,cspshivam/cve-2021-4043,_GITHUB_REPO_METADATA_,,CVE-2021-4043
