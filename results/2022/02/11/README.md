@@ -1,20 +1,22 @@
 
 # Summary for results/2022/02/11
     
-42 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-11 01:39:39+00:00 | 686018 | 26324 | Ruby | 11953 | [] |
 | 3rsh1/goFunctionStomping | FunctionStomping (using golang) : A new shellcode injection technique. | https://github.com/3rsh1/goFunctionStomping | ['shellcode'] | 1 | 2022-02-11 03:17:23+00:00 | 10 | 26 | Go | 1 | [] |
-| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-11 05:22:05+00:00 | 3614 | 1 | C | 0 | [] |
-| sergiogcharles/fadee | FADEE: Faster Adaptation for Decoupled Exploration and Exploitation | https://github.com/sergiogcharles/fadee | ['exploit'] | 1 | 2022-02-11 01:14:45+00:00 | 2154539 | 0 | Python | 0 | [] |
 | hacefresko/CVE-2021-4045-PoC | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2022-02-11 00:43:06+00:00 | 2240 | 0 | Python | 0 | ['CVE-2021-4045'] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-02-11 01:42:42+00:00 | 1146 | 2 | C | 1 | [] |
+| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-02-11 07:23:25+00:00 | 5 | 1 | Python | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-11 03:37:30+00:00 | 463 | 22 | Python | 5 | [] |
+| shadman-ahmed/log4j-exploit | Tinker project to play with vulnerabilities exposed by log4j package | https://github.com/shadman-ahmed/log4j-exploit | ['exploit'] | 1 | 2022-02-11 06:46:13+00:00 | 52 | 0 | Java | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-11 06:38:56+00:00 | 50006 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-11 01:15:31+00:00 | 27072 | 2 | Jupyter Notebook | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-11 07:28:18+00:00 | 2774 | 27 | | 1 | [] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-02-11 01:40:19+00:00 | 7 | 0 | Rust | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | ['cve poc'] | 1 | 2022-02-11 07:28:50+00:00 | 14128 | 31 | | 5 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-02-11 05:20:01+00:00 | 452 | 0 | | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-11 05:09:16+00:00 | 251662 | 6820 | C | 1865 | [] |
 | Lakshaysh93/RCE_SK_Project | None | https://github.com/Lakshaysh93/RCE_SK_Project | ['rce'] | 1 | 2022-02-11 06:14:03+00:00 | 4 | 0 | | 0 | [] |
@@ -25,10 +27,13 @@
 | blairbilodeau/adaptive-causal-bandits | Code for our paper "Adaptively Exploiting d-Separators with Causal Bandits". | https://github.com/blairbilodeau/adaptive-causal-bandits | ['exploit'] | 1 | 2022-02-11 02:02:02+00:00 | 4 | 0 | Julia | 0 | [] |
 | Hagrid29/PELoader | PE loader with various shellcode injection techniques | https://github.com/Hagrid29/PELoader | ['shellcode'] | 1 | 2022-02-11 02:39:40+00:00 | 853 | 0 | C++ | 0 | [] |
 | cspshivam/cve-2021-4043 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4043 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-11 04:18:19+00:00 | 0 | 0 | | 0 | ['CVE-2021-4043'] |
+| gabe-k/CVE-2021-1883 | None | https://github.com/gabe-k/CVE-2021-1883 | ['cve-2 OR cve_2'] | 1 | 2022-02-11 04:17:20+00:00 | 0 | 0 | C | 0 | ['CVE-2021-1883'] |
+| Unityaj007/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Unityaj007/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-02-11 07:13:45+00:00 | 0 | 0 | | 0 | [] |
+| sergiogcharles/fadee | FADEE: Faster Adaptation for Decoupled Exploration and Exploitation | https://github.com/sergiogcharles/fadee | ['exploit'] | 1 | 2022-02-11 01:14:45+00:00 | 2154539 | 0 | Python | 0 | [] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-11 05:22:05+00:00 | 3614 | 1 | C | 0 | [] |
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2022-02-11 01:34:56+00:00 | 2823 | 6 | Zeek | 5 | ['CVE-2021-38647'] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2022-02-11 01:03:29+00:00 | 184 | 2 | | 0 | [] |
-| RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-02-11 00:13:04+00:00 | 262 | 0 | Lua | 0 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-11 01:17:46+00:00 | 6799 | 34 | HTML | 12 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-11 06:46:03+00:00 | 5638 | 3096 | Python | 679 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-02-11 03:34:58+00:00 | 4342 | 90 | Go | 7 | [] |
 | hacktoolspack/hack-tools | hack tools | https://github.com/hacktoolspack/hack-tools | ['0day', 'exploit', 'zeroday'] | 3 | 2022-02-11 02:31:45+00:00 | 221966 | 647 | Python | 436 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-11 00:17:13+00:00 | 232726 | 269 | Ruby | 79 | [] |
@@ -41,9 +46,12 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-11 00:04:28+00:00 | 478846 | 46 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-11 00:28:24+00:00 | 124551 | 15 | Python | 5 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-11 01:17:25+00:00 | 81237 | 729 | Go | 125 | [] |
+| mahaloz/ike | 'Ike: A binary exploitation and reversing handbook. | https://github.com/mahaloz/ike | ['exploit'] | 1 | 2022-02-11 07:20:47+00:00 | 5447 | 15 | Shell | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-11 01:25:02+00:00 | 110 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-11 00:04:32+00:00 | 474313 | 73 | | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-11 04:31:07+00:00 | 83633 | 304 | Python | 95 | [] |
 | richie0866/rbxm-suite | Tool designed for exploiting with a Rojo-based workflow | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-02-11 01:40:25+00:00 | 181 | 2 | Lua | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-11 01:16:13+00:00 | 36296 | 2 | Python | 0 | [] |
-| gabe-k/CVE-2021-1883 | None | https://github.com/gabe-k/CVE-2021-1883 | ['cve-2 OR cve_2'] | 1 | 2022-02-11 04:17:20+00:00 | 0 | 0 | C | 0 | ['CVE-2021-1883'] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-11 01:17:46+00:00 | 6799 | 34 | HTML | 12 | [] |
+| RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-02-11 00:13:04+00:00 | 262 | 0 | Lua | 0 | [] |
+| milesd/exploits | Old exploits for various vulnerabilities | https://github.com/milesd/exploits | ['exploit'] | 1 | 2022-02-11 07:37:53+00:00 | 0 | 0 | C | 0 | [] |
