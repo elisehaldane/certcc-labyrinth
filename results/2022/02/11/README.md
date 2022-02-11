@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/11
     
-27 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -11,15 +11,17 @@
 | manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-11 00:24:12+00:00 | 4 | 0 | Python | 0 | [] |
 | comp426-2022-spring/a02-rceglie | a02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a02-rceglie | ['rce'] | 1 | 2022-02-11 01:51:13+00:00 | 17 | 0 | JavaScript | 0 | [] |
 | comp426-2022-spring/a01-rceglie | a01-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a01-rceglie | ['rce'] | 1 | 2022-02-11 01:51:42+00:00 | 23 | 0 | HTML | 0 | [] |
+| 3rsh1/goFunctionStomping | FunctionStomping (using golang) : A new shellcode injection technique. | https://github.com/3rsh1/goFunctionStomping | ['shellcode'] | 1 | 2022-02-11 03:17:23+00:00 | 10 | 26 | Go | 1 | [] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-02-11 01:40:19+00:00 | 7 | 0 | Rust | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-11 01:15:31+00:00 | 27072 | 2 | Jupyter Notebook | 0 | [] |
+| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-11 03:37:30+00:00 | 463 | 22 | Python | 5 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-02-11 01:42:42+00:00 | 1146 | 2 | C | 1 | [] |
 | hacefresko/CVE-2021-4045-PoC | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2022-02-11 00:43:06+00:00 | 2240 | 0 | Python | 0 | ['CVE-2021-4045'] |
 | sergiogcharles/fadee | FADEE: Faster Adaptation for Decoupled Exploration and Exploitation | https://github.com/sergiogcharles/fadee | ['exploit'] | 1 | 2022-02-11 01:14:45+00:00 | 2154539 | 0 | Python | 0 | [] |
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2022-02-11 01:34:56+00:00 | 2823 | 6 | Zeek | 5 | ['CVE-2021-38647'] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2022-02-11 01:03:29+00:00 | 184 | 2 | | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-11 01:17:46+00:00 | 6799 | 34 | HTML | 12 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-11 00:17:13+00:00 | 232726 | 269 | Ruby | 79 | [] |
+| gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-02-11 03:34:58+00:00 | 4342 | 90 | Go | 7 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-11 01:16:13+00:00 | 36296 | 2 | Python | 0 | [] |
 | richie0866/rbxm-suite | Tool designed for exploiting with a Rojo-based workflow | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-02-11 01:40:25+00:00 | 181 | 2 | Lua | 1 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-11 00:04:32+00:00 | 474313 | 73 | | 13 | [] |
@@ -31,4 +33,6 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-11 00:46:36+00:00 | 35046 | 28 | | 17 | [] |
 | 0xDezzy/CVE-2019-11539 | Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect | https://github.com/0xDezzy/CVE-2019-11539 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-02-11 00:00:44+00:00 | 56 | 125 | Python | 38 | ['CVE-2019-11539'] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-02-11 02:22:22+00:00 | 64419 | 1427 | Python | 286 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-11 00:17:13+00:00 | 232726 | 269 | Ruby | 79 | [] |
+| hacktoolspack/hack-tools | hack tools | https://github.com/hacktoolspack/hack-tools | ['0day', 'exploit', 'zeroday'] | 3 | 2022-02-11 02:31:45+00:00 | 221966 | 647 | Python | 436 | [] |
 | Hagrid29/PELoader | PE loader with various shellcode injection techniques | https://github.com/Hagrid29/PELoader | ['shellcode'] | 1 | 2022-02-11 02:39:40+00:00 | 853 | 0 | C++ | 0 | [] |
