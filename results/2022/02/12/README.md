@@ -1,12 +1,13 @@
 
 # Summary for results/2022/02/12
     
-55 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|----------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-12 01:15:28+00:00 | 686390 | 26333 | Ruby | 11955 | [] |
-| saptarshi-laha/Shellcode-Runner | A Windows Solution for Executing Shellcode and Debugging It! | https://github.com/saptarshi-laha/Shellcode-Runner | ['shellcode'] | 1 | 2022-02-12 00:05:38+00:00 | 13 | 0 | C | 0 | [] |
+| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-12 00:12:01+00:00 | 478 | 23 | Python | 6 | [] |
+| TheGraySpy/ParrotSploit | None | https://github.com/TheGraySpy/ParrotSploit | ['sploit'] | 1 | 2022-02-12 07:07:07+00:00 | 63 | 0 | | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-12 09:01:21+00:00 | 50037 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-12 06:26:59+00:00 | 29912 | 2 | Jupyter Notebook | 0 | [] |
 | Stef-Boogers/SagaScape | Model of subsitence and resource exploitation in the territory of Sagalassos, Turkey during the Late Iron Age - Early Hellenistic period | https://github.com/Stef-Boogers/SagaScape | ['exploit'] | 1 | 2022-02-12 00:28:32+00:00 | 21651 | 0 | NetLogo | 0 | [] |
@@ -18,8 +19,8 @@
 | notcos/Wing-FTP-RCE | nan | https://github.com/notcos/Wing-FTP-RCE | ['rce'] | 1 | 2022-02-12 06:22:06+00:00 | 8 | 0 | Python | 0 | [] |
 | AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-12 09:51:11+00:00 | 22193 | 2 | C# | 1 | [] |
 | manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-12 00:06:32+00:00 | 8 | 0 | Python | 0 | [] |
+| saptarshi-laha/Shellcode-Runner | A Windows Solution for Executing Shellcode and Debugging It! | https://github.com/saptarshi-laha/Shellcode-Runner | ['shellcode'] | 1 | 2022-02-12 00:05:38+00:00 | 13 | 0 | C | 0 | [] |
 | hhddj/ExploitClass | 利用类总结 | https://github.com/hhddj/ExploitClass | ['exploit'] | 1 | 2022-02-12 02:44:59+00:00 | 0 | 0 | | 0 | [] |
-| mufeedvh/moonwalk | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | ['exploit'] | 1 | 2022-02-12 10:53:46+00:00 | 26 | 531 | Rust | 49 | [] |
 | cvEngineerAhang/cvEngineerAhang_2.github.io | None | https://github.com/cvEngineerAhang/cvEngineerAhang_2.github.io | ['cve-2 OR cve_2'] | 1 | 2022-02-12 03:36:06+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | atlas-51/WP-SupportPlusTicketSystemPE | This is a PoC written in Go for Wordpress Privilege Escalation. It was based on exploit´s logic of https://www.exploit-db.com/exploits/41006 | https://github.com/atlas-51/WP-SupportPlusTicketSystemPE | ['exploit'] | 1 | 2022-02-12 04:44:37+00:00 | 0 | 0 | Go | 0 | [] |
 | an0n7os/CVE-2021-4034 | None | https://github.com/an0n7os/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-12 06:26:39+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
@@ -31,10 +32,10 @@
 | hotpotcookie/lol4j-white-box | Log4j vulnerability testing environment that based on CVE-2021-44228. This environment provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-02-12 11:21:32+00:00 | 0 | 1 | | 0 | ['CVE-2021-44228'] |
 | KxmischesDomi/TeleportExploitFixer | Limits the maximum range of the teleport command | https://github.com/KxmischesDomi/TeleportExploitFixer | ['exploit'] | 1 | 2022-02-12 11:21:32+00:00 | 0 | 0 | Java | 0 | [] |
 | purple-WL/Jenkins_CVE-2019-1003000 | None | https://github.com/purple-WL/Jenkins_CVE-2019-1003000 | ['cve-2 OR cve_2'] | 1 | 2022-02-12 11:27:49+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-1003000'] |
-| TheGraySpy/ParrotSploit | None | https://github.com/TheGraySpy/ParrotSploit | ['sploit'] | 1 | 2022-02-12 07:07:07+00:00 | 63 | 0 | | 0 | [] |
-| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-12 00:12:01+00:00 | 478 | 23 | Python | 6 | [] |
+| mufeedvh/moonwalk | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | ['exploit'] | 1 | 2022-02-12 10:53:46+00:00 | 26 | 531 | Rust | 49 | [] |
+| Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2022-02-12 09:31:45+00:00 | 469 | 716 | Python | 131 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-12 05:09:22+00:00 | 253728 | 6824 | C | 1869 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-12 00:04:16+00:00 | 482160 | 46 | | 21 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-12 03:14:09+00:00 | 275480 | 284 | PHP | 104 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-02-12 05:52:15+00:00 | 60662 | 1185 | C | 565 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-12 11:35:05+00:00 | 72374 | 10746 | Jupyter Notebook | 1864 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-12 00:17:06+00:00 | 234262 | 269 | Ruby | 79 | [] |
@@ -45,9 +46,10 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-12 08:10:09+00:00 | 37799 | 664 | Go | 150 | [] |
 | karma9874/AndroRAT | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | ['exploit'] | 1 | 2022-02-12 07:37:37+00:00 | 38353 | 491 | Java | 203 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-12 05:54:05+00:00 | 4156288 | 2 | Lua | 0 | [] |
+| FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2022-02-12 12:34:00+00:00 | 4048 | 12 | PowerShell | 3 | [] |
 | Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-02-12 10:42:04+00:00 | 207 | 0 | Python | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-12 00:04:16+00:00 | 482160 | 46 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-12 10:35:48+00:00 | 151986 | 15 | Python | 5 | [] |
-| Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2022-02-12 09:31:45+00:00 | 469 | 716 | Python | 131 | [] |
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-02-12 04:33:10+00:00 | 11648 | 1 | JavaScript | 3 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-12 04:06:44+00:00 | 499837 | 73 | | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-12 00:39:49+00:00 | 86557 | 305 | Python | 95 | [] |
@@ -58,5 +60,5 @@
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-12 07:32:48+00:00 | 770 | 32 | C++ | 3 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-12 08:12:06+00:00 | 1615 | 44 | JavaScript | 46 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-02-12 11:25:49+00:00 | 25904 | 54 | Rust | 9 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-12 03:14:09+00:00 | 275480 | 284 | PHP | 104 | [] |
+| Imptovskii/ExploitFixer | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | ['exploit'] | 1 | 2022-02-12 12:03:53+00:00 | 55 | 7 | Java | 1 | [] |
 | purple-WL/wordpress-CVE-2022-21661 | None | https://github.com/purple-WL/wordpress-CVE-2022-21661 | ['cve-2 OR cve_2'] | 1 | 2022-02-12 11:31:45+00:00 | 0 | 0 | | 0 | ['CVE-2022-21661'] |
