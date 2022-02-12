@@ -1,1 +1,5 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,ea9b4156035b03209c96194f4c4745c654e6c95c,CVE-2007-0017
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,ea9b4156035b03209c96194f4c4745c654e6c95c,CVE-2016-1240
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,ea9b4156035b03209c96194f4c4745c654e6c95c,CVE-2019-18634
+457408529,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,01- Introducción completa para principiantes/01- Introduccion completa para principiantes.md,ea9b4156035b03209c96194f4c4745c654e6c95c,CVE-2020-10385
