@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/12
     
-24 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-12 01:15:28+00:00 | 686390 | 26333 | Ruby | 11955 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-12 00:17:06+00:00 | 234262 | 269 | Ruby | 79 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-12 03:14:09+00:00 | 275480 | 284 | PHP | 104 | [] |
 | cvEngineerAhang/cvEngineerAhang_2.github.io | nan | https://github.com/cvEngineerAhang/cvEngineerAhang_2.github.io | ['cve-2 OR cve_2'] | 1 | 2022-02-12 03:36:06+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | hhddj/ExploitClass | 利用类总结 | https://github.com/hhddj/ExploitClass | ['exploit'] | 1 | 2022-02-12 02:44:59+00:00 | 0 | 0 | | 0 | [] |
 | saptarshi-laha/Shellcode-Runner | A Windows Solution for Executing Shellcode and Debugging It! | https://github.com/saptarshi-laha/Shellcode-Runner | ['shellcode'] | 1 | 2022-02-12 00:05:38+00:00 | 13 | 0 | C | 0 | [] |
@@ -17,8 +17,8 @@
 | 00FB00P/Ignify | roblox exploit git repos. | https://github.com/00FB00P/Ignify | ['exploit'] | 1 | 2022-02-12 02:15:06+00:00 | 3 | 0 | | 0 | [] |
 | Stef-Boogers/SagaScape | Model of subsitence and resource exploitation in the territory of Sagalassos, Turkey during the Late Iron Age - Early Hellenistic period | https://github.com/Stef-Boogers/SagaScape | ['exploit'] | 1 | 2022-02-12 00:28:32+00:00 | 21651 | 0 | NetLogo | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-12 00:12:01+00:00 | 478 | 23 | Python | 6 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-12 03:14:09+00:00 | 275480 | 284 | PHP | 104 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-12 01:18:14+00:00 | 6854 | 35 | HTML | 12 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-12 05:09:22+00:00 | 253728 | 6824 | C | 1869 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-12 01:16:45+00:00 | 37691 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-12 00:39:49+00:00 | 86557 | 305 | Python | 95 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-12 04:06:44+00:00 | 499837 | 73 | | 13 | [] |
@@ -28,4 +28,5 @@
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2022-02-12 02:10:17+00:00 | 1033 | 5 | C | 2 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-02-12 01:02:22+00:00 | 638 | 130 | Julia | 24 | [] |
 | GoVanguard/legion | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | ['exploit'] | 1 | 2022-02-12 00:12:49+00:00 | 3239 | 697 | Python | 133 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-12 00:17:06+00:00 | 234262 | 269 | Ruby | 79 | [] |
 | atlas-51/WP-SupportPlusTicketSystemPE | This is a PoC written in Go for Wordpress Privilege Escalation. It was based on exploit´s logic of https://www.exploit-db.com/exploits/41006 | https://github.com/atlas-51/WP-SupportPlusTicketSystemPE | ['exploit'] | 1 | 2022-02-12 04:44:37+00:00 | 0 | 0 | Go | 0 | [] |
