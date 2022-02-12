@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/11
     
-122 records found after deduplication
+123 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -36,7 +36,7 @@
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-11 03:37:30+00:00 | 463 | 22 | Python | 5 | [] |
 | AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-11 17:50:22+00:00 | 22190 | 2 | C# | 1 | [] |
 | comp426-2022-spring/a02-rceglie | a02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a02-rceglie | ['rce'] | 1 | 2022-02-11 01:51:13+00:00 | 17 | 0 | JavaScript | 0 | [] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-11 09:37:50+00:00 | 19053 | 494 | Ruby | 123 | [] |
+| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-11 15:39:06+00:00 | 5248 | 764 | Java | 156 | ['CVE-2021-44228'] |
 | manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-11 00:24:12+00:00 | 4 | 0 | Python | 0 | [] |
 | vikasyadav190049/exploiting-eternal-blue | in this project we will scan the eternal blue virtual machine and then try to gain all the info read it and then exploit | https://github.com/vikasyadav190049/exploiting-eternal-blue | ['exploit'] | 1 | 2022-02-11 22:14:22+00:00 | 0 | 0 | | 0 | [] |
 | lucasdicioccio/webxec | lambda^W cgi-bin^W rce^W useful thing as a devtool | https://github.com/lucasdicioccio/webxec | ['rce'] | 1 | 2022-02-11 21:36:07+00:00 | 0 | 0 | Haskell | 0 | [] |
@@ -44,7 +44,7 @@
 | zam0x1ma/github-desktop-rce | None | https://github.com/zam0x1ma/github-desktop-rce | ['rce'] | 1 | 2022-02-11 19:50:00+00:00 | 0 | 0 | | 0 | [] |
 | saptarshi-laha/Shellcode-Runner | A Windows Solution for Executing Shellcode and Debugging It! | https://github.com/saptarshi-laha/Shellcode-Runner | ['shellcode'] | 1 | 2022-02-11 17:49:17+00:00 | 13 | 0 | | 0 | [] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-02-11 16:03:43+00:00 | 0 | 0 | Python | 0 | [] |
-| ColdFusionX/CVE-2020-9484 | POC - Apache Tomcat Deserialization Vulnerability (CVE-2020-9484) | https://github.com/ColdFusionX/CVE-2020-9484 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 6 | 2022-02-11 18:02:52+00:00 | 975 | 0 | Java | 0 | ['CVE-2020-9484'] |
+| ColdFusionX/CVE-2020-9484 | POC - CVE-2020-9484 | https://github.com/ColdFusionX/CVE-2020-9484 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 6 | 2022-02-11 15:45:11+00:00 | 0 | 0 | | 0 | ['CVE-2020-9484'] |
 | Unityaj007/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Unityaj007/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-02-11 14:49:43+00:00 | 112 | 0 | | 0 | [] |
 | SunnyLy/IntentAttackPOC | 针对Intent发送接收数据时可能出现异常的POC | https://github.com/SunnyLy/IntentAttackPOC | ['attack poc'] | 1 | 2022-02-11 14:26:23+00:00 | 0 | 0 | nan | 0 | [] |
 | Rdos0211/ExploitFix | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | ['exploit'] | 1 | 2022-02-11 14:22:00+00:00 | 0 | 0 | | 0 | [] |
@@ -66,16 +66,16 @@
 | priyacshah/RCE_Sask_Website_Design | None | https://github.com/priyacshah/RCE_Sask_Website_Design | ['rce'] | 1 | 2022-02-11 06:14:28+00:00 | 370 | 0 | | 0 | [] |
 | stringency/WebeExploit | Study | https://github.com/stringency/WebeExploit | ['exploit'] | 1 | 2022-02-11 09:16:22+00:00 | 16 | 0 | JavaScript | 0 | [] |
 | corelight/cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-11 15:18:38+00:00 | 4615 | 18 | Zeek | 6 | ['CVE-2021-44228'] |
-| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-11 15:39:06+00:00 | 5248 | 764 | Java | 156 | ['CVE-2021-44228'] |
 | tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-02-11 18:06:47+00:00 | 265 | 54 | C++ | 9 | [] |
-| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-02-11 07:23:25+00:00 | 5 | 1 | Python | 0 | [] |
-| z-Mythic/ExPatch | Exploit / Backdoor patcher / preventer for gmod. | https://github.com/z-Mythic/ExPatch | ['exploit'] | 1 | 2022-02-11 04:05:27+00:00 | 23 | 1 | Lua | 0 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-11 09:37:50+00:00 | 19053 | 494 | Ruby | 123 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-11 00:04:28+00:00 | 478846 | 46 | | 21 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-02-11 17:53:51+00:00 | 10655 | 31 | Shell | 6 | [] |
 | chennqqi/godnslog | An exquisite dns&http log server for verify SSRF/XXE/RFI/RCE vulnerability | https://github.com/chennqqi/godnslog | ['rce'] | 1 | 2022-02-11 14:04:23+00:00 | 928 | 337 | Go | 65 | [] |
 | d4t4s3c/Win7Blue | Scan/Exploit - EternalBlue MS17-010 - Windows 7 x86/x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-02-11 11:33:26+00:00 | 1895 | 36 | Python | 5 | ['MS17-010'] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-02-11 18:46:44+00:00 | 4218 | 4 | HTML | 0 | [] |
 | rdomanski/Exploits_and_Advisories | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | ['exploit'] | 1 | 2022-02-11 09:41:10+00:00 | 3523 | 43 | Ruby | 9 | [] |
 | luisfontes19/xxexploiter | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | ['exploit'] | 1 | 2022-02-11 01:35:26+00:00 | 1104 | 370 | TypeScript | 61 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-02-11 11:06:33+00:00 | 1447 | 625 | Java | 78 | [] |
 | 0xb0bb/karkinos | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | ['exploit'] | 1 | 2022-02-11 17:10:41+00:00 | 544149 | 182 | Python | 15 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-11 02:13:08+00:00 | 37767 | 659 | Go | 149 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-11 00:46:36+00:00 | 35046 | 28 | | 17 | [] |
@@ -96,10 +96,10 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-11 06:46:03+00:00 | 5638 | 3096 | Python | 679 | [] |
 | niklasb/libc-database | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | ['exploit'] | 1 | 2022-02-11 10:23:41+00:00 | 1408 | 1282 | Shell | 189 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-11 05:09:16+00:00 | 251662 | 6820 | C | 1865 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-11 00:04:28+00:00 | 478846 | 46 | | 21 | [] |
+| z-Mythic/ExPatch | Exploit / Backdoor patcher / preventer for gmod. | https://github.com/z-Mythic/ExPatch | ['exploit'] | 1 | 2022-02-11 04:05:27+00:00 | 23 | 1 | Lua | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-11 00:28:24+00:00 | 124551 | 15 | Python | 5 | [] |
+| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-02-11 07:23:25+00:00 | 5 | 1 | Python | 0 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-02-11 17:41:28+00:00 | 5985 | 5 | Go | 2 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-11 01:17:46+00:00 | 6799 | 34 | HTML | 12 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-02-11 01:42:42+00:00 | 1146 | 2 | C | 1 | [] |
 | hacefresko/CVE-2021-4045-PoC | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2022-02-11 00:43:06+00:00 | 2240 | 0 | Python | 0 | ['CVE-2021-4045'] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-11 18:10:09+00:00 | 247 | 7 | | 0 | [] |
@@ -112,8 +112,8 @@
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-11 18:52:43+00:00 | 754 | 32 | C++ | 3 | [] |
 | HxDDD/CVE-PoC | CVE PoC | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2022-02-11 01:03:29+00:00 | 184 | 2 | | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-02-11 00:13:04+00:00 | 262 | 0 | Lua | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-11 01:17:46+00:00 | 6799 | 34 | HTML | 12 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-11 01:16:13+00:00 | 36296 | 2 | Python | 0 | [] |
-| lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-11 01:17:25+00:00 | 81237 | 729 | Go | 125 | [] |
 | richie0866/rbxm-suite | Tool designed for exploiting with a Rojo-based workflow | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-02-11 01:40:25+00:00 | 181 | 2 | Lua | 1 | [] |
 | lilmond/Roblox-Exploit-Scripts | None | https://github.com/lilmond/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2022-02-11 14:39:56+00:00 | 283 | 0 | Lua | 0 | [] |
 | satoki/csv-plus_vulnerability | 👻 [PoC] CSV+ 0.8.0 - Arbitrary Code Execution (CVE-2022-21241) | https://github.com/satoki/csv-plus_vulnerability | ['cve poc', 'vuln poc', 'vulnerability poc'] | 3 | 2022-02-11 13:59:14+00:00 | 3464 | 15 | HTML | 5 | ['CVE-2022-21241'] |
@@ -126,4 +126,5 @@
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-11 14:30:46+00:00 | 6652 | 128 | Python | 41 | [] |
 | mahaloz/ike | 'Ike: A binary exploitation and reversing handbook. | https://github.com/mahaloz/ike | ['exploit'] | 1 | 2022-02-11 07:20:47+00:00 | 5447 | 15 | Shell | 0 | [] |
 | MythicAgents/merlin | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | ['exploit'] | 1 | 2022-02-11 11:53:23+00:00 | 386 | 8 | Python | 3 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-11 01:17:25+00:00 | 81237 | 729 | Go | 125 | [] |
 | odf-community/mcds-beta | Beta Version of the Malicious Code Deployment System, A standalone Win32 Executable With Many ON-SITE Exploitation Tools. | https://github.com/odf-community/mcds-beta | ['exploit'] | 1 | 2022-02-11 23:17:57+00:00 | 0 | 0 | | 0 | [] |
