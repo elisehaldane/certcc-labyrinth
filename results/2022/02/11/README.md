@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/11
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -21,7 +21,7 @@
 | Pastofarian/DB | Gestion et exploitation de bases de données | https://github.com/Pastofarian/DB | ['exploit'] | 1 | 2022-02-11 19:37:20+00:00 | 2 | 0 | TSQL | 0 | [] |
 | Vicvenpet/gen-exploits | My proof-of-concept exploits for the Linux kernel, Windows Terminal and Android Kotlin | https://github.com/Vicvenpet/gen-exploits | ['exploit'] | 1 | 2022-02-11 16:10:25+00:00 | 9143 | 0 | Python | 0 | [] |
 | Stef-Boogers/SagaScape | Model of subsitence and resource exploitation in the territory of Sagalassos, Turkey during the Late Iron Age - Early Hellenistic period | https://github.com/Stef-Boogers/SagaScape | ['exploit'] | 1 | 2022-02-11 12:39:22+00:00 | 6764 | 0 | NetLogo | 0 | [] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-11 09:37:50+00:00 | 19053 | 494 | Ruby | 123 | [] |
+| tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-02-11 18:06:47+00:00 | 265 | 54 | C++ | 9 | [] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-02-11 01:40:19+00:00 | 7 | 0 | Rust | 0 | [] |
 | Marcel46509/Exploit | None | https://github.com/Marcel46509/Exploit | ['exploit'] | 1 | 2022-02-11 14:27:46+00:00 | 9 | 0 | | 0 | [] |
 | Checkam/how2jemalloc | List of exploitation techniques on vulnerabilities in programs using jemalloc | https://github.com/Checkam/how2jemalloc | ['exploit'] | 1 | 2022-02-11 16:22:43+00:00 | 5 | 0 | C | 0 | [] |
@@ -45,7 +45,7 @@
 | zam0x1ma/github-desktop-rce | None | https://github.com/zam0x1ma/github-desktop-rce | ['rce'] | 1 | 2022-02-11 19:50:00+00:00 | 0 | 0 | | 0 | [] |
 | saptarshi-laha/Shellcode-Runner | A Windows Solution for Executing Shellcode and Debugging It! | https://github.com/saptarshi-laha/Shellcode-Runner | ['shellcode'] | 1 | 2022-02-11 17:49:17+00:00 | 13 | 0 | | 0 | [] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-02-11 16:03:43+00:00 | 0 | 0 | Python | 0 | [] |
-| ColdFusionX/CVE-2020-9484 | POC - CVE-2020-9484 | https://github.com/ColdFusionX/CVE-2020-9484 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 6 | 2022-02-11 15:45:11+00:00 | 0 | 0 | | 0 | ['CVE-2020-9484'] |
+| ColdFusionX/CVE-2020-9484 | POC - Apache Tomcat Deserialization Vulnerability (CVE-2020-9484) | https://github.com/ColdFusionX/CVE-2020-9484 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 6 | 2022-02-11 18:02:52+00:00 | 975 | 0 | Java | 0 | ['CVE-2020-9484'] |
 | Unityaj007/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Unityaj007/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-02-11 14:49:43+00:00 | 112 | 0 | | 0 | [] |
 | SunnyLy/IntentAttackPOC | 针对Intent发送接收数据时可能出现异常的POC | https://github.com/SunnyLy/IntentAttackPOC | ['attack poc'] | 1 | 2022-02-11 14:26:23+00:00 | 0 | 0 | nan | 0 | [] |
 | Rdos0211/ExploitFix | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | ['exploit'] | 1 | 2022-02-11 14:22:00+00:00 | 0 | 0 | | 0 | [] |
@@ -67,9 +67,10 @@
 | priyacshah/RCE_Sask_Website_Design | None | https://github.com/priyacshah/RCE_Sask_Website_Design | ['rce'] | 1 | 2022-02-11 06:14:28+00:00 | 370 | 0 | | 0 | [] |
 | stringency/WebeExploit | Study | https://github.com/stringency/WebeExploit | ['exploit'] | 1 | 2022-02-11 09:16:22+00:00 | 16 | 0 | JavaScript | 0 | [] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-11 15:39:06+00:00 | 5248 | 764 | Java | 156 | ['CVE-2021-44228'] |
-| tbhaxor/WinAPI-RedBlue | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | ['exploit'] | 1 | 2022-02-11 18:06:47+00:00 | 265 | 54 | C++ | 9 | [] |
 | hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-02-11 07:23:25+00:00 | 5 | 1 | Python | 0 | [] |
-| z-Mythic/ExPatch | Exploit / Backdoor patcher / preventer for gmod. | https://github.com/z-Mythic/ExPatch | ['exploit'] | 1 | 2022-02-11 04:05:27+00:00 | 23 | 1 | Lua | 0 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-02-11 09:37:50+00:00 | 19053 | 494 | Ruby | 123 | [] |
+| stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-11 09:48:40+00:00 | 18927 | 1 | PHP | 0 | [] |
+| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-02-11 17:53:51+00:00 | 10655 | 31 | Shell | 6 | [] |
 | chennqqi/godnslog | An exquisite dns&http log server for verify SSRF/XXE/RFI/RCE vulnerability | https://github.com/chennqqi/godnslog | ['rce'] | 1 | 2022-02-11 14:04:23+00:00 | 928 | 337 | Go | 65 | [] |
 | d4t4s3c/Win7Blue | Scan/Exploit - EternalBlue MS17-010 - Windows 7 x86/x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2022-02-11 11:33:26+00:00 | 1895 | 36 | Python | 5 | ['MS17-010'] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-02-11 18:46:44+00:00 | 4218 | 4 | HTML | 0 | [] |
@@ -82,8 +83,8 @@
 | rlaw125/localFileInclusionServer | A web application built with Node.js with a local file inclusion vulnerability that enables users to write JavaScript files for remote code execution to be used in a vulnerable virtual machine. | https://github.com/rlaw125/localFileInclusionServer | ['remote code execution'] | 1 | 2022-02-11 06:31:54+00:00 | 2054 | 1 | JavaScript | 0 | [] |
 | 0xDezzy/CVE-2019-11539 | Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect | https://github.com/0xDezzy/CVE-2019-11539 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-02-11 00:00:44+00:00 | 56 | 125 | Python | 38 | ['CVE-2019-11539'] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-02-11 02:22:22+00:00 | 64419 | 1427 | Python | 286 | [] |
-| stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-11 09:48:40+00:00 | 18927 | 1 | PHP | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-02-11 12:16:08+00:00 | 1522683 | 3986 | PowerShell | 1397 | [] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-02-11 01:42:42+00:00 | 1146 | 2 | C | 1 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-02-11 11:35:05+00:00 | 628 | 130 | Julia | 24 | [] |
 | TH3xACE/SUDO_KILLER | A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | ['exploit'] | 1 | 2022-02-11 17:28:13+00:00 | 14806 | 1447 | Shell | 201 | [] |
 | ivam3/embed | Embed Metasploit Payload in Legtim APK with Termux | https://github.com/ivam3/embed | ['metasploit module OR payload'] | 1 | 2022-02-11 23:11:41+00:00 | 94625 | 17 | Ruby | 4 | [] |
@@ -97,16 +98,17 @@
 | niklasb/libc-database | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | ['exploit'] | 1 | 2022-02-11 10:23:41+00:00 | 1408 | 1282 | Shell | 189 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-02-11 15:49:54+00:00 | 60662 | 1185 | C | 565 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-11 05:09:16+00:00 | 251662 | 6820 | C | 1865 | [] |
-| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-02-11 17:53:51+00:00 | 10655 | 31 | Shell | 6 | [] |
+| z-Mythic/ExPatch | Exploit / Backdoor patcher / preventer for gmod. | https://github.com/z-Mythic/ExPatch | ['exploit'] | 1 | 2022-02-11 04:05:27+00:00 | 23 | 1 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-11 00:04:28+00:00 | 478846 | 46 | | 21 | [] |
-| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-02-11 01:42:42+00:00 | 1146 | 2 | C | 1 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-11 00:28:24+00:00 | 124551 | 15 | Python | 5 | [] |
+| binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-02-11 17:41:28+00:00 | 5985 | 5 | Go | 2 | [] |
 | hacefresko/CVE-2021-4045-PoC | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2022-02-11 00:43:06+00:00 | 2240 | 0 | Python | 0 | ['CVE-2021-4045'] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-11 18:10:09+00:00 | 247 | 7 | | 0 | [] |
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2022-02-11 14:19:28+00:00 | 423 | 2 | | 1 | [] |
 | sergiogcharles/fadee | FADEE: Faster Adaptation for Decoupled Exploration and Exploitation | https://github.com/sergiogcharles/fadee | ['exploit'] | 1 | 2022-02-11 01:14:45+00:00 | 2154539 | 0 | Python | 0 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-02-11 23:12:22+00:00 | 25868 | 53 | Rust | 9 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-11 23:37:18+00:00 | 1399 | 43 | JavaScript | 45 | [] |
+| Jackbail4/VAC-Bypass | Full VAC Bypass. Inject detected cheats and not get VAC banned. | https://github.com/Jackbail4/VAC-Bypass | ['exploit'] | 1 | 2022-02-11 16:51:18+00:00 | 7238 | 43 | C++ | 13 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-11 05:22:05+00:00 | 3614 | 1 | C | 0 | [] |
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2022-02-11 01:34:56+00:00 | 2823 | 6 | Zeek | 5 | ['CVE-2021-38647'] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-11 18:52:43+00:00 | 754 | 32 | C++ | 3 | [] |
@@ -127,5 +129,4 @@
 | mahaloz/ike | 'Ike: A binary exploitation and reversing handbook. | https://github.com/mahaloz/ike | ['exploit'] | 1 | 2022-02-11 07:20:47+00:00 | 5447 | 15 | Shell | 0 | [] |
 | MythicAgents/merlin | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | ['exploit'] | 1 | 2022-02-11 11:53:23+00:00 | 386 | 8 | Python | 3 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-11 01:17:25+00:00 | 81237 | 729 | Go | 125 | [] |
-| binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-02-11 17:41:28+00:00 | 5985 | 5 | Go | 2 | [] |
 | odf-community/mcds-beta | Beta Version of the Malicious Code Deployment System, A standalone Win32 Executable With Many ON-SITE Exploitation Tools. | https://github.com/odf-community/mcds-beta | ['exploit'] | 1 | 2022-02-11 23:17:57+00:00 | 0 | 0 | | 0 | [] |
