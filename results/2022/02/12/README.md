@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/12
     
-43 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-12 01:15:28+00:00 | 686390 | 26333 | Ruby | 11955 | [] |
-| bribes/wordle-hacks | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | ['exploit'] | 1 | 2022-02-12 03:09:28+00:00 | 71 | 1 | | 0 | [] |
+| notcos/Wing-FTP-RCE | nan | https://github.com/notcos/Wing-FTP-RCE | ['rce'] | 1 | 2022-02-12 06:22:06+00:00 | 8 | 0 | Python | 0 | [] |
 | TheGraySpy/ParrotSploit | None | https://github.com/TheGraySpy/ParrotSploit | ['sploit'] | 1 | 2022-02-12 07:07:07+00:00 | 63 | 0 | | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-12 09:01:21+00:00 | 50037 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-12 06:26:59+00:00 | 29912 | 2 | Jupyter Notebook | 0 | [] |
@@ -15,8 +15,9 @@
 | arthepsy/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-02-12 05:22:58+00:00 | 5 | 741 | C | 242 | ['CVE-2021-4034'] |
 | trickest/cve | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | ['cve poc'] | 1 | 2022-02-12 01:43:07+00:00 | 16105 | 80 | | 14 | [] |
 | nathants/aws-rce | nan | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-12 04:03:08+00:00 | 145 | 0 | Go | 0 | [] |
-| notcos/Wing-FTP-RCE | nan | https://github.com/notcos/Wing-FTP-RCE | ['rce'] | 1 | 2022-02-12 06:22:06+00:00 | 8 | 0 | Python | 0 | [] |
-| Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2022-02-12 09:31:45+00:00 | 469 | 716 | Python | 131 | [] |
+| bribes/wordle-hacks | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | ['exploit'] | 1 | 2022-02-12 03:09:28+00:00 | 71 | 1 | | 0 | [] |
+| AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-12 09:51:11+00:00 | 22193 | 2 | C# | 1 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-12 05:09:22+00:00 | 253728 | 6824 | C | 1869 | [] |
 | manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-12 00:06:32+00:00 | 8 | 0 | Python | 0 | [] |
 | saptarshi-laha/Shellcode-Runner | A Windows Solution for Executing Shellcode and Debugging It! | https://github.com/saptarshi-laha/Shellcode-Runner | ['shellcode'] | 1 | 2022-02-12 00:05:38+00:00 | 13 | 0 | C | 0 | [] |
 | hhddj/ExploitClass | 利用类总结 | https://github.com/hhddj/ExploitClass | ['exploit'] | 1 | 2022-02-12 02:44:59+00:00 | 0 | 0 | | 0 | [] |
@@ -25,10 +26,11 @@
 | an0n7os/CVE-2021-4034 | None | https://github.com/an0n7os/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-12 06:26:39+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | davidsonmizael/meduso | Meduso is an open-source post-exploitation tool containing a botnet payload and a c2 server | https://github.com/davidsonmizael/meduso | ['exploit'] | 1 | 2022-02-12 06:42:04+00:00 | 0 | 0 | | 0 | [] |
 | Rdos0211/ExploitFix | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | ['exploit'] | 1 | 2022-02-12 08:35:38+00:00 | 0 | 0 | | 0 | [] |
+| ExploitCN/CVE-2014-1767-EXP-PAPER | CVE-2014-1767在win7_x64平台的EXP和分析文章 | https://github.com/ExploitCN/CVE-2014-1767-EXP-PAPER | ['cve-2 OR cve_2'] | 1 | 2022-02-12 09:05:36+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-1767'] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-12 00:12:01+00:00 | 478 | 23 | Python | 6 | [] |
+| Neo23x0/log4shell-detector | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | ['exploit'] | 1 | 2022-02-12 09:31:45+00:00 | 469 | 716 | Python | 131 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-12 03:14:09+00:00 | 275480 | 284 | PHP | 104 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-12 05:09:22+00:00 | 253728 | 6824 | C | 1869 | [] |
-| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-12 05:54:05+00:00 | 4156288 | 2 | Lua | 0 | [] |
+| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-12 08:12:06+00:00 | 1615 | 44 | JavaScript | 46 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-02-12 05:52:15+00:00 | 60662 | 1185 | C | 565 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-12 00:17:06+00:00 | 234262 | 269 | Ruby | 79 | [] |
 | GoVanguard/legion | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | ['exploit'] | 1 | 2022-02-12 00:12:49+00:00 | 3239 | 697 | Python | 133 | [] |
@@ -37,8 +39,9 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-12 00:46:36+00:00 | 36286 | 28 | | 17 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-12 08:10:09+00:00 | 37799 | 664 | Go | 150 | [] |
 | karma9874/AndroRAT | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | ['exploit'] | 1 | 2022-02-12 07:37:37+00:00 | 38353 | 491 | Java | 203 | [] |
+| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-12 05:54:05+00:00 | 4156288 | 2 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-12 00:04:16+00:00 | 482160 | 46 | | 21 | [] |
-| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-12 08:12:06+00:00 | 1615 | 44 | JavaScript | 46 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-12 10:35:48+00:00 | 151986 | 15 | Python | 5 | [] |
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-02-12 04:33:10+00:00 | 11648 | 1 | JavaScript | 3 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-12 04:06:44+00:00 | 499837 | 73 | | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-12 00:39:49+00:00 | 86557 | 305 | Python | 95 | [] |
@@ -47,4 +50,4 @@
 | Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR | Shell Script to calculate simple and compound interest | https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR | ['shellcode'] | 1 | 2022-02-12 07:37:21+00:00 | 127 | 3 | Shell | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-12 01:18:14+00:00 | 6854 | 35 | HTML | 12 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-12 07:32:48+00:00 | 770 | 32 | C++ | 3 | [] |
-| ExploitCN/CVE-2014-1767-EXP-PAPER | CVE-2014-1767在win7_x64平台的EXP和分析文章 | https://github.com/ExploitCN/CVE-2014-1767-EXP-PAPER | ['cve-2 OR cve_2'] | 1 | 2022-02-12 09:05:36+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-1767'] |
+| pghgh/Insecure-Deserialization | Exploiting and preventing insecure deserialization | https://github.com/pghgh/Insecure-Deserialization | ['exploit'] | 1 | 2022-02-12 10:31:15+00:00 | 0 | 0 | | 0 | [] |
