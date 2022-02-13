@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS07-009,0.05263158,https://github.com/sctb512/exploitDB_spider_new,sctb512/exploitDB_spider_new,223102072
-MS07-009,0.03030303,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 MS07-009,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
 MS07-009,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
 MS07-009,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
@@ -50,6 +49,7 @@ MS07-009,0.00363636,https://github.com/Datacrass/Windows-Exploits,Datacrass/Wind
 MS07-009,0.00362319,https://github.com/cys3c/viper-shell,cys3c/viper-shell,94091391
 MS07-009,0.00361011,https://github.com/QChiLan/win-exploit,QChiLan/win-exploit,198334925
 MS07-009,0.00361011,https://github.com/valentinoJones/Windows-Kernel-Exploits,valentinoJones/Windows-Kernel-Exploits,181759333
+MS07-009,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 MS07-009,0.00359712,https://github.com/xfinest/windows-kernel-exploits,xfinest/windows-kernel-exploits,237788864
 MS07-009,0.00359712,https://github.com/yiyebuhuijia/windows-kernel-exploits,yiyebuhuijia/windows-kernel-exploits,230777738
 MS07-009,0.00359712,https://github.com/yige666/windows-kernel-exploits,yige666/windows-kernel-exploits,221876968
