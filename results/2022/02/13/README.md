@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/13
     
-12 records found after deduplication
+13 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
@@ -16,4 +16,5 @@
 | m4udSec/Csharp_ShellcodeRunners | Personal collection of Shellcode runners | https://github.com/m4udSec/Csharp_ShellcodeRunners | ['shellcode'] | 1 | 2022-02-13 01:14:41+00:00 | 28 | 1 | C# | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-13 00:18:48+00:00 | 149 | 0 | Go | 0 | [] |
 | joehaffey/scripting | My exploits with scripting languages: Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | ['exploit'] | 1 | 2022-02-13 00:09:14+00:00 | 15 | 0 | | 0 | [] |
+| odf-community/mcds-beta | Beta Version Of The Malicious Code Deployment System, A Standalone Win32 Executable Builder With A Configuration Editor | https://github.com/odf-community/mcds-beta | ['zeroday'] | 1 | 2022-02-13 02:16:33+00:00 | 0 | 0 | | 0 | [] |
 | DanaEpp/pwncat_pwnkit | pwncat module that automatically exploits CVE-2021-4034 (pwnkit) | https://github.com/DanaEpp/pwncat_pwnkit | ['exploit'] | 1 | 2022-02-13 00:45:41+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
