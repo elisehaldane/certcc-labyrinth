@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/14
     
-130 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-14 11:38:04+00:00 | 686912 | 26357 | Ruby | 11960 | [] |
-| ColeStrickler/x64-Shellcoding | Testing and practicing shellcoding in the x86_64 architecture | https://github.com/ColeStrickler/x64-Shellcoding | ['shellcode'] | 1 | 2022-02-14 16:31:55+00:00 | 58 | 0 | Assembly | 0 | [] |
+| joey-s1/github_cve | Search exploit/cve/POC stuff from github | https://github.com/joey-s1/github_cve | ['cve poc', 'exploit'] | 2 | 2022-02-14 10:03:03+00:00 | 8 | 0 | Python | 0 | [] |
 | ChadMotivation/TymSpecial | SysWhispers integrated shellcode loader w/ ETW patching & anti-sandboxing | https://github.com/ChadMotivation/TymSpecial | ['shellcode'] | 1 | 2022-02-14 17:13:09+00:00 | 673 | 28 | Python | 6 | [] |
 | jbaines-r7/staystaystay | Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE | https://github.com/jbaines-r7/staystaystay | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-02-14 14:32:48+00:00 | 28 | 3 | C++ | 0 | ['CVE-2021-1585'] |
 | JackDotExee/Google-slides-crash | this exploit effects lower end computers like Chromebooks and old laptops. | https://github.com/JackDotExee/Google-slides-crash | ['exploit'] | 1 | 2022-02-14 19:01:50+00:00 | 293 | 1 | | 0 | [] |
@@ -21,8 +21,8 @@
 | bribes/wordle-hacks | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | ['exploit'] | 1 | 2022-02-14 01:52:18+00:00 | 82 | 1 | | 0 | [] |
 | RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-02-14 09:16:45+00:00 | 19 | 0 | Lua | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-14 00:46:02+00:00 | 24532 | 138 | | 22 | [] |
-| joey-s1/github_cve | Search exploit/cve/POC stuff from github | https://github.com/joey-s1/github_cve | ['cve poc', 'exploit'] | 2 | 2022-02-14 10:03:03+00:00 | 8 | 0 | Python | 0 | [] |
 | Stef-Boogers/SagaScape | Model of subsitence and resource exploitation in the territory of Sagalassos, Turkey during the Late Iron Age - Early Hellenistic period | https://github.com/Stef-Boogers/SagaScape | ['exploit'] | 1 | 2022-02-14 09:13:42+00:00 | 21684 | 0 | NetLogo | 0 | [] |
+| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-02-14 19:29:55+00:00 | 11 | 1 | Python | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-02-14 10:00:29+00:00 | 63 | 0 | C | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-14 19:46:45+00:00 | 2778 | 28 | | 1 | [] |
 | Jack7988/Silent-PDF-Exploit-2022 | None | https://github.com/Jack7988/Silent-PDF-Exploit-2022 | ['exploit'] | 1 | 2022-02-14 17:50:18+00:00 | 1 | 1 | | 0 | [] |
@@ -36,9 +36,10 @@
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-14 01:08:57+00:00 | 112 | 8 | | 3 | ['CVE-2021-44228'] |
 | b-abderrahmane/CVE-2021-44228-playground | None | https://github.com/b-abderrahmane/CVE-2021-44228-playground | ['cve-2 OR cve_2'] | 1 | 2022-02-14 14:15:34+00:00 | 38875 | 3 | Java | 2 | ['CVE-2021-44228'] |
 | logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-14 02:53:14+00:00 | 5297 | 764 | Java | 156 | ['CVE-2021-44228'] |
+| cl4ym0re/log4jRCE | Apache log4j 远程代码执行 | https://github.com/cl4ym0re/log4jRCE | ['rce'] | 1 | 2022-02-14 09:50:55+00:00 | 3 | 1 | | 0 | [] |
 | callum1337/Auth-Webiste | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | ['exploit'] | 1 | 2022-02-14 18:42:40+00:00 | 25 | 1 | EJS | 0 | [] |
+| ColeStrickler/x64-Shellcoding | Testing and practicing shellcoding in the x86_64 architecture | https://github.com/ColeStrickler/x64-Shellcoding | ['shellcode'] | 1 | 2022-02-14 16:31:55+00:00 | 58 | 0 | Assembly | 0 | [] |
 | MasterHM-ml/dip-with-yolov5 | A research project to exploit the effect of DIP techniques over yolo predictions and accuracy. Target of research was to improve reliability of Yolo models in specialized environments and use cases. | https://github.com/MasterHM-ml/dip-with-yolov5 | ['exploit'] | 1 | 2022-02-14 14:08:56+00:00 | 1 | 0 | Jupyter Notebook | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-14 10:32:18+00:00 | 46627 | 861 | Python | 204 | [] |
 | sh4rknado/CTF | ZeroDay-CVE | https://github.com/sh4rknado/CTF | ['zeroday'] | 1 | 2022-02-14 00:17:30+00:00 | 1 | 0 | | 0 | [] |
 | r1l4-i3pur1l4/CVE-2022-21882 | None | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | ['cve-2 OR cve_2'] | 1 | 2022-02-14 21:38:51+00:00 | 0 | 0 | C++ | 0 | ['CVE-2022-21882'] |
 | yung-orchestrator/CISA_Exploited_Vulns | Cisa Exploited Vulns | https://github.com/yung-orchestrator/CISA_Exploited_Vulns | ['exploit'] | 1 | 2022-02-14 21:22:58+00:00 | 0 | 0 | | 0 | [] |
@@ -69,15 +70,16 @@
 | coalio/tb-proxy-flaw | An exploit that causes the opponent to ping using DNAT redirect and a proxy | https://github.com/coalio/tb-proxy-flaw | ['exploit'] | 1 | 2022-02-14 03:15:27+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-14 01:52:21+00:00 | 0 | 0 | | 0 | [] |
 | AnonymPlayer2/TL-Exploit | None | https://github.com/AnonymPlayer2/TL-Exploit | ['exploit'] | 1 | 2022-02-14 21:42:58+00:00 | 55814 | 0 | Lua | 0 | [] |
-| cl4ym0re/log4jRCE | Apache log4j 远程代码执行 | https://github.com/cl4ym0re/log4jRCE | ['rce'] | 1 | 2022-02-14 09:50:55+00:00 | 3 | 1 | | 0 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-14 16:40:27+00:00 | 52249 | 1 | Python | 4 | [] |
-| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-02-14 19:29:55+00:00 | 11 | 1 | Python | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-14 00:57:26+00:00 | 302646 | 284 | PHP | 105 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-14 10:32:18+00:00 | 46627 | 861 | Python | 204 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-02-14 18:33:12+00:00 | 639 | 131 | Julia | 24 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2022-02-14 22:08:00+00:00 | 13317 | 2 | | 0 | [] |
 | houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2022-02-14 03:21:29+00:00 | 314 | 328 | | 37 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-02-14 05:34:46+00:00 | 1147 | 108 | Shell | 51 | [] |
 | zehuanli/Metasploit-Plugin-Session-Filter | A Metasploit Framework plugin that filters incoming sessions. | https://github.com/zehuanli/Metasploit-Plugin-Session-Filter | ['metasploit module OR payload'] | 1 | 2022-02-14 19:34:13+00:00 | 14 | 0 | Ruby | 0 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-02-14 11:44:06+00:00 | 1461 | 626 | Java | 77 | [] |
+| ppepos/inf600c | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | ['exploit'] | 1 | 2022-02-14 23:23:23+00:00 | 13720 | 5 | | 1 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-02-14 13:51:55+00:00 | 2086 | 263 | C | 10 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-14 12:46:39+00:00 | 36478 | 28 | | 17 | [] |
 | lyshark/Windows-exploits | 🎯 Windows 平台提权漏洞大合集（收集） | https://github.com/lyshark/Windows-exploits | ['exploit'] | 1 | 2022-02-14 06:56:41+00:00 | 168542 | 460 | | 199 | [] |
@@ -86,8 +88,8 @@
 | lukablagoje/agent-based-explore-exploit-science-nerccs-2021 | None | https://github.com/lukablagoje/agent-based-explore-exploit-science-nerccs-2021 | ['exploit'] | 1 | 2022-02-14 15:42:24+00:00 | 50 | 0 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-02-14 14:14:06+00:00 | 1524626 | 3989 | PowerShell | 1396 | [] |
 | dar3k93/Basic-service-enumeration | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | ['exploit'] | 1 | 2022-02-14 17:32:20+00:00 | 888 | 0 | | 0 | [] |
-| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-02-14 18:33:12+00:00 | 639 | 131 | Julia | 24 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-02-14 07:36:50+00:00 | 42 | 110 | | 18 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-14 18:10:43+00:00 | 276 | 7 | | 0 | [] |
 | robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2022-02-14 08:15:24+00:00 | 214 | 3 | | 1 | ['CVE-2018-19788'] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2022-02-14 18:05:17+00:00 | 3267 | 1420 | | 467 | [] |
 | gushmazuko/metasploit_in_termux | Install Metasploit Framework 6 in Termux | https://github.com/gushmazuko/metasploit_in_termux | ['metasploit module OR payload'] | 1 | 2022-02-14 09:40:27+00:00 | 16654 | 622 | Shell | 160 | [] |
@@ -105,13 +107,13 @@
 | NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-02-14 13:32:33+00:00 | 3222 | 2 | C | 1 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2022-02-14 14:17:53+00:00 | 4166 | 12 | PowerShell | 3 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-02-14 13:38:23+00:00 | 11086 | 32 | Shell | 6 | [] |
-| xinerva/exploits | Any items for index | https://github.com/xinerva/exploits | ['exploit'] | 1 | 2022-02-14 20:23:25+00:00 | 155 | 1 | PHP | 0 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-14 18:10:43+00:00 | 276 | 7 | | 0 | [] |
+| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2022-02-14 13:44:33+00:00 | 1207 | 17 | Shell | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-14 00:25:33+00:00 | 1765 | 46 | JavaScript | 47 | [] |
 | ConsumingChef/Consumer-hub | Exploit on roblox | https://github.com/ConsumingChef/Consumer-hub | ['exploit'] | 1 | 2022-02-14 01:10:50+00:00 | 264 | 0 | | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-02-14 19:53:54+00:00 | 918 | 1 | Python | 0 | [] |
 | hassan-turi/Linux-Privilege-Escalation-Exploits | None | https://github.com/hassan-turi/Linux-Privilege-Escalation-Exploits | ['exploit'] | 1 | 2022-02-14 04:20:01+00:00 | 18 | 1 | C | 0 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2022-02-14 15:13:50+00:00 | 118 | 3 | Python | 0 | [] |
+| icyguider/Shhhloader | SysWhispers Shellcode Loader (Work in Progress) | https://github.com/icyguider/Shhhloader | ['shellcode'] | 1 | 2022-02-14 23:17:00+00:00 | 41 | 193 | Python | 32 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-14 17:31:49+00:00 | 3622 | 1 | C | 0 | [] |
 | xen0vas/Win32-Reverse-TCP-Shellcode | Windows Reverse TCP Shellcode ( 420 Bytes ) | https://github.com/xen0vas/Win32-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2022-02-14 11:18:28+00:00 | 51 | 2 | C | 1 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-14 09:39:11+00:00 | 776 | 32 | C++ | 3 | [] |
@@ -119,8 +121,8 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-14 01:10:27+00:00 | 6913 | 35 | HTML | 12 | [] |
 | Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR | Shell Script to calculate simple and compound interest | https://github.com/Amey-Thakur/SIMPLE-AND-COMPOUND-INTEREST-CALCULATOR | ['shellcode'] | 1 | 2022-02-14 16:44:07+00:00 | 127 | 3 | Shell | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-14 01:09:20+00:00 | 11246 | 2 | Python | 0 | [] |
+| xinerva/exploits | Any items for index | https://github.com/xinerva/exploits | ['exploit'] | 1 | 2022-02-14 20:23:25+00:00 | 155 | 1 | PHP | 0 | [] |
 | Nickguitar/YAPS | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | ['exploit'] | 1 | 2022-02-14 01:46:03+00:00 | 266 | 29 | PHP | 3 | [] |
-| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2022-02-14 13:44:33+00:00 | 1207 | 17 | Shell | 0 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-14 08:49:35+00:00 | 6739 | 313 | Python | 62 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-14 04:00:34+00:00 | 92999 | 306 | Python | 96 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-14 10:50:01+00:00 | 538112 | 73 | | 13 | [] |
@@ -132,6 +134,7 @@
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-14 16:31:46+00:00 | 6659 | 129 | Python | 42 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-02-14 17:13:42+00:00 | 7054 | 1 | Java | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-02-14 09:54:21+00:00 | 293798 | 834 | C# | 194 | [] |
+| liamg/traitor | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | ['exploit'] | 1 | 2022-02-14 23:18:38+00:00 | 2459 | 3548 | Go | 205 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-14 00:03:41+00:00 | 452193 | 46 | | 21 | [] |
 | Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-02-14 16:51:19+00:00 | 217 | 0 | Python | 0 | [] |
 | ToxicStuff/ZeroDayAPI | Please ERP With me | https://github.com/ToxicStuff/ZeroDayAPI | ['zeroday'] | 1 | 2022-02-14 22:34:46+00:00 | 0 | 0 | | 0 | [] |
