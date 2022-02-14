@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/vcredist_x86.exe,2222fc008e469fec77d0d291877f357c6e1eb16d,VU#35
+458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/VC_redist.x86.exe,23d7d69c27dc2781bb44b60359d9850e7bd73bb5,VU#06
+458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/VC_redist.x86.exe,23d7d69c27dc2781bb44b60359d9850e7bd73bb5,VU#98
+458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/VC_redist.x64.exe,2b7462bb7732725f011a085349d6d206eed40048,VU#65
+458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/VC_redist.x64.exe,2b7462bb7732725f011a085349d6d206eed40048,VU#98
