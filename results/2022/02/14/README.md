@@ -1,16 +1,18 @@
 
 # Summary for results/2022/02/14
     
-23 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-14 00:07:32+00:00 | 1534791 | 1569 | Python | 529 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-14 00:57:26+00:00 | 302646 | 284 | PHP | 105 | [] |
+| 4n931/https-GitHub-com-Cesar-Hack-FotoSploit | Cr 4566 sur | https://github.com/4n931/https-GitHub-com-Cesar-Hack-FotoSploit | ['sploit'] | 1 | 2022-02-14 03:29:26+00:00 | 0 | 0 | | 0 | [] |
 | coalio/tb-proxy-flaw | An exploit that causes the opponent to ping using DNAT redirect and a proxy | https://github.com/coalio/tb-proxy-flaw | ['exploit'] | 1 | 2022-02-14 03:15:27+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-14 01:52:21+00:00 | 0 | 0 | | 0 | [] |
 | sh4rknado/CTF | ZeroDay-CVE | https://github.com/sh4rknado/CTF | ['zeroday'] | 1 | 2022-02-14 00:17:30+00:00 | 1 | 0 | | 0 | [] |
 | manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | Challenges y CTF del curso Complete Beginner de TryHackMe. Tecnologias: Nmap, Burp Suite, Metasploit, John The Ripper, WireShark, GoBuster. | https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe- | ['metasploit module OR payload'] | 1 | 2022-02-14 00:22:27+00:00 | 65 | 0 | Python | 0 | [] |
+| CinisArboris/shellcoder | practice : the shellcoder handbook | https://github.com/CinisArboris/shellcoder | ['shellcode'] | 1 | 2022-02-14 03:53:47+00:00 | 0 | 0 | C | 0 | [] |
 | bribes/wordle-hacks | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | ['exploit'] | 1 | 2022-02-14 01:52:18+00:00 | 82 | 1 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-14 00:46:02+00:00 | 24532 | 138 | | 22 | [] |
 | jangodev/CrownJS | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | ['exploit'] | 1 | 2022-02-14 01:37:10+00:00 | 129 | 5 | JavaScript | 5 | [] |
@@ -19,12 +21,14 @@
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-14 00:25:33+00:00 | 1765 | 46 | JavaScript | 47 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-14 00:27:53+00:00 | 7419 | 4339 | Python | 577 | [] |
 | ConsumingChef/Consumer-hub | Exploit on roblox | https://github.com/ConsumingChef/Consumer-hub | ['exploit'] | 1 | 2022-02-14 01:10:50+00:00 | 264 | 0 | | 0 | [] |
+| hassan-turi/Linux-Privilege-Escalation-Exploits | None | https://github.com/hassan-turi/Linux-Privilege-Escalation-Exploits | ['exploit'] | 1 | 2022-02-14 04:20:01+00:00 | 18 | 1 | C | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-14 01:10:27+00:00 | 6913 | 35 | HTML | 12 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-14 01:09:20+00:00 | 11246 | 2 | Python | 0 | [] |
 | Nickguitar/YAPS | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | ['exploit'] | 1 | 2022-02-14 01:46:03+00:00 | 266 | 29 | PHP | 3 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-14 04:00:34+00:00 | 92999 | 306 | Python | 96 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-14 01:29:48+00:00 | 110 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-14 00:03:41+00:00 | 452193 | 46 | | 21 | [] |
 | houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2022-02-14 03:21:29+00:00 | 314 | 328 | | 37 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-02-14 00:10:40+00:00 | 64460 | 1430 | Python | 286 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-14 00:16:59+00:00 | 237337 | 271 | Ruby | 80 | [] |
-| 4n931/https-GitHub-com-Cesar-Hack-FotoSploit | Cr 4566 sur | https://github.com/4n931/https-GitHub-com-Cesar-Hack-FotoSploit | ['sploit'] | 1 | 2022-02-14 03:29:26+00:00 | 0 | 0 | | 0 | [] |
+| RobloxScr/Roblox-Exploit-Hub | Inf_Jump.Name = "Inf_Jump" Inf_Jump.Parent = Display_Main_Frame Inf_Jump.BackgroundColor3 = Color3.fromRGB(0, 0, 0) Inf_Jump.BorderColor3 = Color3.fromRGB(0, 0, 0) Inf_Jump.Position = UDim2.new(0.769352496, 0, 0.0636493117, 0) Inf_Jump.Size = UDim2.new(0.2 | https://github.com/RobloxScr/Roblox-Exploit-Hub | ['exploit'] | 1 | 2022-02-14 04:42:40+00:00 | 0 | 0 | | 0 | [] |
