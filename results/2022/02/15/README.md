@@ -1,12 +1,13 @@
 
 # Summary for results/2022/02/15
     
-45 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-15 00:50:25+00:00 | 686939 | 26362 | Ruby | 11962 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-15 00:55:56+00:00 | 115 | 8 | | 3 | ['CVE-2021-44228'] |
+| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-15 07:35:06+00:00 | 5310 | 764 | Java | 156 | ['CVE-2021-44228'] |
+| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-02-15 03:28:37+00:00 | 2611 | 1 | C | 0 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-02-15 02:12:58+00:00 | 237 | 0 | HCL | 0 | [] |
 | hadrian3689/rejetto_hfs_rce | None | https://github.com/hadrian3689/rejetto_hfs_rce | ['rce'] | 1 | 2022-02-15 00:23:42+00:00 | 1 | 0 | Python | 1 | [] |
 | gosirys/WebSecurity-ITA-2009 | A training course on Web Security, Exploit Development and Source Code Auditing from 2009. | https://github.com/gosirys/WebSecurity-ITA-2009 | ['exploit'] | 1 | 2022-02-15 01:19:23+00:00 | 65 | 8 | | 1 | [] |
@@ -14,6 +15,8 @@
 | trickest/cve | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-15 02:09:15+00:00 | 30493 | 197 | | 30 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-15 00:41:59+00:00 | 160 | 0 | Go | 0 | [] |
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-02-15 04:06:11+00:00 | 32 | 0 | | 0 | [] |
+| Hagrid29/PELoader | PE loader with various shellcode injection techniques | https://github.com/Hagrid29/PELoader | ['shellcode'] | 1 | 2022-02-15 07:19:37+00:00 | 1354 | 1 | C++ | 0 | [] |
+| cspshivam/cve-2021-4034 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-15 07:09:45+00:00 | 7 | 0 | | 0 | ['CVE-2021-4034'] |
 | yuxiaokui/CVE-2022-xxxx | None | https://github.com/yuxiaokui/CVE-2022-xxxx | ['cve-2 OR cve_2'] | 1 | 2022-02-15 02:40:48+00:00 | 0 | 0 | | 0 | [] |
 | ChadMotivation/TymSpecial | SysWhispers integrated shellcode loader w/ ETW patching, anti-sandboxing, & spoofed code signing certificates | https://github.com/ChadMotivation/TymSpecial | ['shellcode'] | 1 | 2022-02-15 01:48:46+00:00 | 740 | 32 | Python | 7 | [] |
 | davidsonmizael/meduso | Meduso is an open-source post-exploitation tool containing a botnet payload and a c2 server | https://github.com/davidsonmizael/meduso | ['exploit'] | 1 | 2022-02-15 00:47:32+00:00 | 5291 | 1 | CSS | 0 | [] |
@@ -26,7 +29,8 @@
 | ck00004/CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 02:39:28+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Ahmad141/BinaryExploitation | None | https://github.com/Ahmad141/BinaryExploitation | ['exploit'] | 1 | 2022-02-15 03:22:08+00:00 | 0 | 0 | C | 0 | [] |
 | webhack-009/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/webhack-009/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-02-15 06:36:18+00:00 | 0 | 0 | | 0 | [] |
-| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-02-15 03:28:37+00:00 | 2611 | 1 | C | 0 | [] |
+| MrShiF/CVE-2022-1-15 | 测试测试 | https://github.com/MrShiF/CVE-2022-1-15 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 06:32:34+00:00 | 0 | 0 | | 0 | ['CVE-2022-0001'] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-15 00:55:56+00:00 | 115 | 8 | nan | 3 | ['CVE-2021-44228'] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-15 01:48:04+00:00 | 310751 | 285 | PHP | 105 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-15 00:07:27+00:00 | 1534791 | 1570 | Python | 529 | [] |
 | HuzaifaPatel/java-random-exploit | Exploiting Java's Random Number Generator | https://github.com/HuzaifaPatel/java-random-exploit | ['exploit'] | 1 | 2022-02-15 00:34:00+00:00 | 7 | 0 | Java | 0 | [] |
@@ -44,9 +48,13 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-15 04:12:21+00:00 | 550873 | 74 | | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-15 04:32:26+00:00 | 95927 | 310 | Python | 96 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2022-02-15 00:23:24+00:00 | 1187050 | 0 | Python | 0 | [] |
+| bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-15 06:51:12+00:00 | 6756 | 314 | Python | 63 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-15 01:19:24+00:00 | 12654 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-15 01:22:18+00:00 | 6974 | 36 | HTML | 12 | [] |
+| Relkss/Testing_Exploit | None | https://github.com/Relkss/Testing_Exploit | ['exploit'] | 1 | 2022-02-15 07:36:38+00:00 | 159 | 0 | | 0 | [] |
+| SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-15 07:08:09+00:00 | 788 | 32 | C++ | 3 | [] |
 | 9lyph/CVE-2021-45901 | None | https://github.com/9lyph/CVE-2021-45901 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 01:16:10+00:00 | 2101 | 0 | Python | 0 | ['CVE-2021-45901'] |
 | hadrian3689/voting_system1.0_rce | None | https://github.com/hadrian3689/voting_system1.0_rce | ['rce'] | 1 | 2022-02-15 00:58:14+00:00 | 4 | 0 | Python | 0 | [] |
+| zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2022-02-15 07:02:02+00:00 | 120 | 3 | Python | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-15 03:52:33+00:00 | 1765 | 46 | JavaScript | 48 | [] |
-| MrShiF/CVE-2022-1-15 | 测试测试 | https://github.com/MrShiF/CVE-2022-1-15 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 06:32:34+00:00 | 0 | 0 | | 0 | ['CVE-2022-0001'] |
+| MrShiF/CVE-2022-1 | ceshiceshi | https://github.com/MrShiF/CVE-2022-1 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 07:01:53+00:00 | 0 | 0 | | 0 | ['CVE-2022-0001'] |
