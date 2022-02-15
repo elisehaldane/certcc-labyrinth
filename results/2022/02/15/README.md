@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/15
     
-40 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-15 00:50:25+00:00 | 686939 | 26362 | Ruby | 11962 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-15 00:07:27+00:00 | 1534791 | 1570 | Python | 529 | [] |
+| glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-02-15 04:06:11+00:00 | 32 | 0 | | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-15 00:55:56+00:00 | 115 | 8 | | 3 | ['CVE-2021-44228'] |
 | LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-02-15 03:28:37+00:00 | 2611 | 1 | C | 0 | [] |
 | pangealab/tartarus | AWS Terraform Vulnerable targets for pen-testing using Kali & Metasploit | https://github.com/pangealab/tartarus | ['metasploit module OR payload'] | 1 | 2022-02-15 02:12:58+00:00 | 237 | 0 | HCL | 0 | [] |
@@ -15,11 +15,12 @@
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-15 04:35:34+00:00 | 95325 | 0 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-15 02:09:15+00:00 | 30493 | 197 | | 30 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-15 00:41:59+00:00 | 160 | 0 | Go | 0 | [] |
-| glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-02-15 04:06:11+00:00 | 32 | 0 | | 0 | [] |
 | yuxiaokui/CVE-2022-xxxx | None | https://github.com/yuxiaokui/CVE-2022-xxxx | ['cve-2 OR cve_2'] | 1 | 2022-02-15 02:40:48+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-15 00:07:27+00:00 | 1534791 | 1570 | Python | 529 | [] |
 | ChadMotivation/TymSpecial | SysWhispers integrated shellcode loader w/ ETW patching, anti-sandboxing, & spoofed code signing certificates | https://github.com/ChadMotivation/TymSpecial | ['shellcode'] | 1 | 2022-02-15 01:48:46+00:00 | 740 | 32 | Python | 7 | [] |
 | davidsonmizael/meduso | Meduso is an open-source post-exploitation tool containing a botnet payload and a c2 server | https://github.com/davidsonmizael/meduso | ['exploit'] | 1 | 2022-02-15 00:47:32+00:00 | 5291 | 1 | CSS | 0 | [] |
 | callum1337/Auth-Webiste | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | ['exploit'] | 1 | 2022-02-15 00:28:39+00:00 | 49 | 1 | JavaScript | 0 | [] |
+| dnr6419/CVE-2021-45416 | Stored XSS Vulnerability on RosarioSIS 8.2.1 | https://github.com/dnr6419/CVE-2021-45416 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 05:20:55+00:00 | 9185 | 0 | PHP | 0 | ['CVE-2021-45416'] |
 | NumanZaidan/RayxExploitVersion | None | https://github.com/NumanZaidan/RayxExploitVersion | ['exploit'] | 1 | 2022-02-15 02:37:56+00:00 | 1 | 0 | | 0 | [] |
 | dnr6419/CVE-2022-23046 | SQL Injection Vulnerability on PhpIPAM v1.4.4 | https://github.com/dnr6419/CVE-2022-23046 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 00:25:16+00:00 | 0 | 1 | Python | 1 | ['CVE-2022-23046'] |
 | testpilot031/vulnerability_struts-2.3.31 | Build the struts-2.3.31 (CVE-2017-5638) environment | https://github.com/testpilot031/vulnerability_struts-2.3.31 | ['cve-2 OR cve_2'] | 1 | 2022-02-15 00:44:58+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2017-5638'] |
@@ -27,7 +28,7 @@
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-15 01:48:04+00:00 | 310751 | 285 | PHP | 105 | [] |
 | HuzaifaPatel/java-random-exploit | Exploiting Java's Random Number Generator | https://github.com/HuzaifaPatel/java-random-exploit | ['exploit'] | 1 | 2022-02-15 00:34:00+00:00 | 7 | 0 | Java | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-15 03:52:33+00:00 | 1765 | 46 | JavaScript | 48 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-15 00:04:18+00:00 | 453270 | 46 | | 21 | [] |
+| hadrian3689/voting_system1.0_rce | None | https://github.com/hadrian3689/voting_system1.0_rce | ['rce'] | 1 | 2022-02-15 00:58:14+00:00 | 4 | 0 | Python | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-15 00:17:09+00:00 | 237337 | 271 | Ruby | 80 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2022-02-15 03:02:35+00:00 | 3345 | 1420 | | 467 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-02-15 01:06:53+00:00 | 639 | 131 | Julia | 24 | [] |
@@ -35,8 +36,9 @@
 | dedsecurity/dedsecurity-framework | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | ['exploit'] | 1 | 2022-02-15 03:49:34+00:00 | 970 | 13 | Python | 8 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-15 00:46:39+00:00 | 36694 | 28 | | 17 | [] |
 | ppepos/inf600c | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | ['exploit'] | 1 | 2022-02-15 01:29:49+00:00 | 13851 | 5 | | 1 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-15 00:04:18+00:00 | 453270 | 46 | | 21 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-02-15 02:06:28+00:00 | 7055 | 1 | Java | 0 | [] |
-| hadrian3689/voting_system1.0_rce | None | https://github.com/hadrian3689/voting_system1.0_rce | ['rce'] | 1 | 2022-02-15 00:58:14+00:00 | 4 | 0 | Python | 0 | [] |
+| xrenaa/DisCo | [ICLR2022] Code for "Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View" | https://github.com/xrenaa/DisCo | ['exploit'] | 1 | 2022-02-15 05:26:06+00:00 | 21424 | 68 | Python | 5 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-15 01:33:50+00:00 | 110 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-15 04:12:21+00:00 | 550873 | 74 | | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-15 04:32:26+00:00 | 95927 | 310 | Python | 96 | [] |
