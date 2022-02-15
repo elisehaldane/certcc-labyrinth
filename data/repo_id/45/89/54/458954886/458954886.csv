@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+458954886,AnonymPlayer2/TL-Exploit,TL/DLLs/TLDLL.dll,077cef8a8c9ab96695200e92b107215c1ebc3bfb,VU#13
+458954886,AnonymPlayer2/TL-Exploit,TL/DLLs/TLDLL.dll,077cef8a8c9ab96695200e92b107215c1ebc3bfb,VU#77
 458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/vcredist_x86.exe,2222fc008e469fec77d0d291877f357c6e1eb16d,VU#35
 458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/VC_redist.x86.exe,23d7d69c27dc2781bb44b60359d9850e7bd73bb5,VU#06
 458954886,AnonymPlayer2/TL-Exploit,TL/Crash TL FIX/VC_redist.x86.exe,23d7d69c27dc2781bb44b60359d9850e7bd73bb5,VU#98
