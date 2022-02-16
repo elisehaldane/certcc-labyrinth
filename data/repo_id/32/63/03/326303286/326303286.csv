@@ -6,6 +6,7 @@ repo_id,repo_full_name,file,file_sha1,match
 326303286,binarytrails/prober,sploits/tls/cve-2021-3449/configs/apache-default-ssl.conf,1e0cc5ff9cdfb1bf7d638f2f71d84e4c04fd4572,CVE-2021-3449
 326303286,binarytrails/prober,bin/win/pstools/PSTools_v2.33.zip,1e7db2bcb1853cf3eb28a208a4579002aebb1f10,VU#49
 326303286,binarytrails/prober,sploits/msexchange/ecp_proxylogon_ssrf_curl_poc.sh,22f0b8899ce0c186cf1739f6fbef21414f84dda1,CVE-2021-26855
+326303286,binarytrails/prober,sploits/linux/pkexec.c,256d87f1e5ff03d135dc22f92fd478f66192793d,CVE-2021-4034
 326303286,binarytrails/prober,sploits/cutenews/cutenews_avatar_rce.py,2c7adbae26f8d1993c27ed453b47e74bf13fdcbf,CVE-2019-11447
 326303286,binarytrails/prober,sploits/tls/cve-2021-3449/tls/tls.go,3210dd39e0d8fbdf543a350cd603dccb732f46ce,CVE-2021-3449
 326303286,binarytrails/prober,sploits/tls/cve-2021-3449/Vagrantfile,38adff9e44f3819587db5fd2c1cfd9afafd81f03,CVE-2021-3449
