@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
+VU#23,0.33333333,https://github.com/Mr-xn/sunlogin_rce,Mr-xn/sunlogin_rce,460035686
 VU#23,0.33333333,https://github.com/TRYblog/sunlogin_rce_,TRYblog/sunlogin_rce_,459925922
 VU#23,0.33333333,https://github.com/puckiestyle/JNDI-Exploit-Kit,puckiestyle/JNDI-Exploit-Kit,446477383
 VU#23,0.33333333,https://github.com/Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,439312167
