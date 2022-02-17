@@ -1,12 +1,15 @@
 
 # Summary for results/2022/02/17
     
-86 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|----------------------------------------|
 | wireghoul/htshells | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | ['exploit'] | 1 | 2022-02-17 00:26:23+00:00 | 58 | 800 | Shell | 183 | [] |
-| RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-02-17 09:11:56+00:00 | 63 | 0 | Lua | 1 | [] |
+| maxamin/exploitpack-from-an-APT-infrastructure | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | ['exploit'] | 1 | 2022-02-17 13:09:31+00:00 | 0 | 1 | Python | 0 | [] |
+| JoyGhoshs/last-breath | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | ['exploit'] | 1 | 2022-02-17 03:51:26+00:00 | 20 | 2 | Shell | 0 | [] |
+| RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-02-17 02:25:31+00:00 | 283 | 0 | Lua | 0 | [] |
+| cartoon-raccoon/ropemporium | My exploits (pun intended) in solving ROPEmporium. | https://github.com/cartoon-raccoon/ropemporium | ['exploit'] | 1 | 2022-02-17 10:06:26+00:00 | 24 | 0 | Python | 0 | [] |
 | NTDXYG/EL-CodeBert | EL-CodeBert: Better Exploiting CodeBert to Support Source Code-Related Classification Tasks | https://github.com/NTDXYG/EL-CodeBert | ['exploit'] | 1 | 2022-02-17 08:30:42+00:00 | 1 | 0 | Python | 0 | [] |
 | purple-WL/wordpress-CVE-2022-21661 | None | https://github.com/purple-WL/wordpress-CVE-2022-21661 | ['cve-2 OR cve_2'] | 1 | 2022-02-17 03:59:18+00:00 | 1 | 3 | | 0 | ['CVE-2022-21661'] |
 | ChaptalAdrien/systeme-exploitation-labs | None | https://github.com/ChaptalAdrien/systeme-exploitation-labs | ['exploit'] | 1 | 2022-02-17 10:15:34+00:00 | 721 | 0 | C | 0 | [] |
@@ -15,20 +18,21 @@
 | DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-17 02:59:29+00:00 | 36 | 0 | Python | 4 | [] |
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-02-17 04:09:54+00:00 | 36 | 1 | | 0 | [] |
 | Autumncup/Bachelor-Thesis-Comparison-of-Chinese-Trade-Agreements-NZCFTA-ChAFTA-and-RCEP | Bachelor Thesis on the qualitative comparison of three Chinese FTAs in terms of liberalization tendencies | https://github.com/Autumncup/Bachelor-Thesis-Comparison-of-Chinese-Trade-Agreements-NZCFTA-ChAFTA-and-RCEP | ['rce'] | 1 | 2022-02-17 07:20:47+00:00 | 144 | 0 | R | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-17 10:14:28+00:00 | 45054 | 1404 | nan | 152 | [] |
-| RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-02-17 02:25:31+00:00 | 283 | 0 | Lua | 0 | [] |
+| RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-02-17 09:11:56+00:00 | 63 | 0 | Lua | 1 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-17 10:14:28+00:00 | 45054 | 1404 | | 152 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-17 02:27:28+00:00 | 129953 | 0 | | 0 | [] |
 | Idov31/FunctionStomping | A new shellcode injection technique. Given as C++ header, standalone Rust program or library. | https://github.com/Idov31/FunctionStomping | ['shellcode'] | 1 | 2022-02-17 09:00:27+00:00 | 582 | 454 | Rust | 67 | [] |
 | Marcel46509/Exploit | None | https://github.com/Marcel46509/Exploit | ['exploit'] | 1 | 2022-02-17 09:07:36+00:00 | 13 | 0 | | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-02-17 02:20:16+00:00 | 199 | 0 | HTML | 0 | [] |
 | zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | The purpose of this project is to investigate the applicability of a tensor framework to global cross-asset-factor-country investing. Indeed, multiple assets (e.g., bonds, equities), across multiple factors (e.g., carry, momentum), across multiple countrie | https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | ['exploit'] | 1 | 2022-02-17 09:22:15+00:00 | 0 | 0 | HTML | 0 | [] |
 | Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-02-17 04:19:49+00:00 | 688 | 0 | JavaScript | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-17 01:08:13+00:00 | 32903 | 2 | Jupyter Notebook | 0 | [] |
+| Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-17 02:15:07+00:00 | 15 | 0 | Go | 0 | [] |
+| taimoon/C-summation-example | Various ways of C style for looping by exploiting the locality of arguments and properties of post unary operator | https://github.com/taimoon/C-summation-example | ['exploit'] | 1 | 2022-02-17 01:27:54+00:00 | 0 | 0 | C | 0 | [] |
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-02-17 02:47:46+00:00 | 2384 | 52 | Python | 6 | [] |
-| cartoon-raccoon/ropemporium | My exploits (pun intended) in solving ROPEmporium. | https://github.com/cartoon-raccoon/ropemporium | ['exploit'] | 1 | 2022-02-17 10:06:26+00:00 | 24 | 0 | Python | 0 | [] |
-| JoyGhoshs/last-breath | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | ['exploit'] | 1 | 2022-02-17 03:51:26+00:00 | 20 | 2 | Shell | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-17 01:16:42+00:00 | 688481 | 26385 | Ruby | 11970 | [] |
-| e11usion/Sunlogin-RCE-exp | None | https://github.com/e11usion/Sunlogin-RCE-exp | ['rce'] | 1 | 2022-02-17 07:34:29+00:00 | 0 | 1 | Python | 0 | [] |
+| BLACKHAT-SSG/Exploit-Development-01 | None | https://github.com/BLACKHAT-SSG/Exploit-Development-01 | ['exploit'] | 1 | 2022-02-17 01:35:16+00:00 | 0 | 0 | C | 0 | [] |
+| 1nj3ct10n/HackTheBox | Retired machines' notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | ['exploit'] | 1 | 2022-02-17 13:40:59+00:00 | 0 | 0 | | 0 | [] |
+| RobertDra/CVE-2022-25256 | None | https://github.com/RobertDra/CVE-2022-25256 | ['cve-2 OR cve_2'] | 1 | 2022-02-17 13:19:40+00:00 | 0 | 0 | | 0 | ['CVE-2022-25256'] |
+| Valeraxxx/ExploitQuest | Document and Patch Security Flaws in Oculus software/firmware. | https://github.com/Valeraxxx/ExploitQuest | ['exploit'] | 1 | 2022-02-17 12:24:00+00:00 | 0 | 0 | | 0 | [] |
 | fendylox/Fortnite-Exploits | Fortnite-Exploits XD | https://github.com/fendylox/Fortnite-Exploits | ['exploit'] | 1 | 2022-02-17 12:35:18+00:00 | 0 | 0 | C++ | 0 | [] |
 | th3-5had0w/DirtyCOW-PoC | An exploit script of CVE-2016-5195 | https://github.com/th3-5had0w/DirtyCOW-PoC | ['cve poc', 'exploit'] | 2 | 2022-02-17 11:57:10+00:00 | 0 | 0 | C | 0 | ['CVE-2016-5195'] |
 | RobertDra/CVE-2022-25256 | None | https://github.com/RobertDra/CVE-2022-25256 | ['cve-2 OR cve_2'] | 1 | 2022-02-17 10:16:20+00:00 | 0 | 0 | | 0 | ['CVE-2022-25256'] |
@@ -37,20 +41,18 @@
 | tranmanhdat/couchdb_cve-2017-12635 | None | https://github.com/tranmanhdat/couchdb_cve-2017-12635 | ['cve-2 OR cve_2'] | 1 | 2022-02-17 09:25:29+00:00 | 0 | 0 | | 0 | ['CVE-2017-12635'] |
 | 8bl/Discord-Nitro-Exploit-V1 | Nitro Exploit | https://github.com/8bl/Discord-Nitro-Exploit-V1 | ['exploit'] | 1 | 2022-02-17 08:59:55+00:00 | 0 | 0 | | 0 | [] |
 | Skymine/xiangrikui-exp | 向日葵RCE漏洞一键批量检测 | https://github.com/Skymine/xiangrikui-exp | ['rce'] | 1 | 2022-02-17 09:27:59+00:00 | 0 | 5 | Python | 0 | [] |
+| e11usion/Sunlogin-RCE-exp | None | https://github.com/e11usion/Sunlogin-RCE-exp | ['rce'] | 1 | 2022-02-17 07:34:29+00:00 | 0 | 1 | Python | 0 | [] |
 | Wrin9/sunflower_RCE_POC | CNVD-2022-10270/CNVD-2022-03672 | https://github.com/Wrin9/sunflower_RCE_POC | ['rce', 'rce poc'] | 2 | 2022-02-17 08:14:48+00:00 | 2 | 0 | Python | 0 | ['CNVD-2022-03672', 'CNVD-2022-10270'] |
-| Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-17 02:15:07+00:00 | 15 | 0 | Go | 0 | [] |
 | cryp71c/PostExploitationTK | None | https://github.com/cryp71c/PostExploitationTK | ['exploit'] | 1 | 2022-02-17 05:31:18+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | mrknow001/Sunlogin-rce | 支持IP、网段、文件扫描，支持端口扫描 | https://github.com/mrknow001/Sunlogin-rce | ['rce'] | 1 | 2022-02-17 03:28:05+00:00 | 0 | 1 | Python | 0 | [] |
 | Greetdawn/SunloginClientRCE | None | https://github.com/Greetdawn/SunloginClientRCE | ['rce'] | 1 | 2022-02-17 02:25:39+00:00 | 0 | 1 | | 0 | [] |
 | mx61tt/smart-contracts-exploits | None | https://github.com/mx61tt/smart-contracts-exploits | ['exploit'] | 1 | 2022-02-17 02:24:32+00:00 | 0 | 0 | Solidity | 0 | [] |
 | skyMateus/skyExploit | - 👀 Exploit Free & Open Source | https://github.com/skyMateus/skyExploit | ['exploit'] | 1 | 2022-02-17 02:27:12+00:00 | 0 | 0 | C# | 0 | [] |
 | RuanLang0777/kwai | sunflower-RCE | https://github.com/RuanLang0777/kwai | ['rce'] | 1 | 2022-02-17 01:49:13+00:00 | 0 | 0 | | 0 | [] |
-| BLACKHAT-SSG/Exploit-Development-01 | None | https://github.com/BLACKHAT-SSG/Exploit-Development-01 | ['exploit'] | 1 | 2022-02-17 01:35:16+00:00 | 0 | 0 | C | 0 | [] |
-| taimoon/C-summation-example | Various ways of C style for looping by exploiting the locality of arguments and properties of post unary operator | https://github.com/taimoon/C-summation-example | ['exploit'] | 1 | 2022-02-17 01:27:54+00:00 | 0 | 0 | C | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-17 01:08:13+00:00 | 32903 | 2 | Jupyter Notebook | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-17 07:02:23+00:00 | 50231 | 0 | Python | 0 | [] |
-| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-17 00:21:31+00:00 | 341 | 0 | | 0 | [] |
-| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-17 04:54:32+00:00 | 5310 | 765 | Java | 156 | ['CVE-2021-44228'] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-17 00:16:56+00:00 | 237339 | 272 | Ruby | 81 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-17 01:16:42+00:00 | 688481 | 26385 | Ruby | 11970 | [] |
+| juliengossa/parcoursup | Une exploitation des données Parcoursup | https://github.com/juliengossa/parcoursup | ['exploit'] | 1 | 2022-02-17 12:11:30+00:00 | 14 | 0 | | 0 | [] |
 | smallkirby/kernelpwn | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | ['exploit'] | 1 | 2022-02-17 00:27:12+00:00 | 11548 | 207 | C | 12 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-17 10:18:29+00:00 | 4213458 | 3 | Lua | 0 | [] |
 | IvanMarchesini/r.survey.py | Given a set of survey locations of an observer walking in the fleld or flying over a given areas, r.survey calculates best solid angle, 3D Distance, View Angle and Solid Angle for each pixel and for a given object size. It runs in GRASS GIS and exploits r. | https://github.com/IvanMarchesini/r.survey.py | ['exploit'] | 1 | 2022-02-17 11:04:35+00:00 | 3500 | 2 | Python | 0 | [] |
@@ -59,9 +61,10 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-17 00:46:40+00:00 | 37705 | 28 | | 17 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2022-02-17 11:39:11+00:00 | 17772 | 1128 | PowerShell | 264 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-02-17 05:37:33+00:00 | 144847 | 16 | C | 208 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-17 00:16:56+00:00 | 237339 | 272 | Ruby | 81 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-17 11:35:13+00:00 | 70871 | 10764 | Jupyter Notebook | 1865 | [] |
-| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-02-17 02:10:14+00:00 | 222 | 2 | Java | 0 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-02-17 05:06:10+00:00 | 4563 | 90 | Go | 7 | [] |
+| xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-02-17 12:56:14+00:00 | 2733 | 304 | HTML | 109 | [] |
 | cran/TwoPhaseInd | :exclamation: This is a read-only mirror of the CRAN R package repository. TwoPhaseInd — Estimate Gene-Treatment Interaction Exploiting Randomization | https://github.com/cran/TwoPhaseInd | ['exploit'] | 1 | 2022-02-17 03:32:36+00:00 | 1437 | 0 | R | 0 | [] |
 | torque59/Nosql-Exploitation-Framework | A Python Framework For NoSQL Scanning and Exploitation | https://github.com/torque59/Nosql-Exploitation-Framework | ['exploit'] | 1 | 2022-02-17 12:26:13+00:00 | 2932 | 583 | Python | 157 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-17 05:08:58+00:00 | 255910 | 6836 | C | 1871 | [] |
@@ -70,9 +73,11 @@
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-17 10:10:57+00:00 | 46720 | 861 | Python | 204 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-17 06:16:45+00:00 | 22286 | 6418 | JavaScript | 1507 | [] |
 | kryptops/lycanthropy | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | ['exploit'] | 1 | 2022-02-17 08:17:28+00:00 | 3678 | 7 | Python | 1 | [] |
-| juliengossa/parcoursup | Une exploitation des données Parcoursup | https://github.com/juliengossa/parcoursup | ['exploit'] | 1 | 2022-02-17 12:11:30+00:00 | 14 | 0 | | 0 | [] |
 | XZE3N/pe_scripts | A set of basic Post Exploitation scripts written in PowerShell | https://github.com/XZE3N/pe_scripts | ['exploit'] | 1 | 2022-02-17 07:29:58+00:00 | 1124 | 1 | PowerShell | 0 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-17 00:21:31+00:00 | 341 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-17 00:04:04+00:00 | 458401 | 46 | | 21 | [] |
+| logpresso/CVE-2021-44228-Scanner | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-02-17 04:54:32+00:00 | 5310 | 765 | Java | 156 | ['CVE-2021-44228'] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-02-17 02:10:14+00:00 | 222 | 2 | Java | 0 | [] |
 | pmalmsten/tension-wrench | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | ['exploit'] | 1 | 2022-02-17 01:08:41+00:00 | 2667 | 1 | TypeScript | 0 | [] |
 | Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2022-02-17 03:31:08+00:00 | 9666 | 0 | | 0 | [] |
 | safe6Sec/tp5rce | payload | https://github.com/safe6Sec/tp5rce | ['rce'] | 1 | 2022-02-17 02:41:02+00:00 | 15 | 7 | | 3 | [] |
@@ -90,4 +95,4 @@
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-02-17 05:06:01+00:00 | 294242 | 845 | C# | 198 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-02-17 08:40:59+00:00 | 81243 | 737 | Go | 127 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-17 10:33:53+00:00 | 193148 | 16 | Python | 5 | [] |
-| Valeraxxx/ExploitQuest | Document and Patch Security Flaws in Oculus software/firmware. | https://github.com/Valeraxxx/ExploitQuest | ['exploit'] | 1 | 2022-02-17 12:24:00+00:00 | 0 | 0 | | 0 | [] |
+| RobertDra/CVE-2022-25257 | None | https://github.com/RobertDra/CVE-2022-25257 | ['cve-2 OR cve_2'] | 1 | 2022-02-17 13:29:27+00:00 | 0 | 0 | | 0 | ['CVE-2022-25257'] |
