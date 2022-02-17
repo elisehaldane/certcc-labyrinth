@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-72526,0.33333333,https://github.com/adipinto/HP-Data-Protector-RCE,adipinto/HP-Data-Protector-RCE,144449966
-OSVDB-72526,0.06250000,https://github.com/wireghoul/sploit-dev,wireghoul/sploit-dev,5593528
+OSVDB-72526,0.05882353,https://github.com/wireghoul/sploit-dev,wireghoul/sploit-dev,5593528
 OSVDB-72526,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-72526,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 OSVDB-72526,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
