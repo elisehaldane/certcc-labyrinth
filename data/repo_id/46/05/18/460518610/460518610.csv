@@ -1,1 +1,8 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+460518610,ce-automne/SunloginRCE,SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
+460518610,ce-automne/SunloginRCE,SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#23
+460518610,ce-automne/SunloginRCE,SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67
+460518610,ce-automne/SunloginRCE,sunRce,bb59f4b5e784fb8ad7a25a82b5878eb8531b5f09,VU#861
+460518610,ce-automne/SunloginRCE,sunRce,bb59f4b5e784fb8ad7a25a82b5878eb8531b5f09,VU#88
+460518610,ce-automne/SunloginRCE,sunRce.exe,dccc46ec2db517d467204321cdd9b38a90300ee4,VU#861
+460518610,ce-automne/SunloginRCE,sunRce.exe,dccc46ec2db517d467204321cdd9b38a90300ee4,VU#88
