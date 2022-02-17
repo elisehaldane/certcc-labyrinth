@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-20940,0.01639344,https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology,jas502n/0day-security-software-vulnerability-analysis-technology,124250221
 BID-20940,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
+BID-20940,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 BID-20940,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 BID-20940,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-20940,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072

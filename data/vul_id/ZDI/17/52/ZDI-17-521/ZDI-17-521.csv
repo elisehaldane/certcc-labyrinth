@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-17-521,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 ZDI-17-521,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
+ZDI-17-521,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 ZDI-17-521,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 ZDI-17-521,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 ZDI-17-521,0.00025432,https://github.com/xfinest/metasploit-framework,xfinest/metasploit-framework,112618794
