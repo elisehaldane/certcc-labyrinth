@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/16
     
-146 records found after deduplication
+147 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -42,7 +42,7 @@
 | Rollin1234/GlorySploit | GlorySploit made by --Rollin. Updates every month, if not then every year | https://github.com/Rollin1234/GlorySploit | ['sploit'] | 1 | 2022-02-16 19:59:19+00:00 | 2 | 0 | | 0 | [] |
 | BLACKHAT-SSG/AWESOME-EXPLOIT-DEVELOPMENT | None | https://github.com/BLACKHAT-SSG/AWESOME-EXPLOIT-DEVELOPMENT | ['exploit'] | 1 | 2022-02-16 02:58:33+00:00 | 0 | 0 | | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-16 04:06:10+00:00 | 0 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-16 00:26:42+00:00 | 22282 | 6366 | JavaScript | 1489 | [] |
+| mashahzad/Network-Security | These consist of projects and practical in the field of Network security | https://github.com/mashahzad/Network-Security | ['metasploit module OR payload'] | 1 | 2022-02-16 11:44:59+00:00 | 88 | 1 | | 0 | [] |
 | nanom/busNumberRecognition | The problem of the detection and the recognition of bus line numbers of public transport in the city of Córdoba is addressed. The goal of this project is the exploitation of computer vision techniques and the analysis of images for the generation of a tool | https://github.com/nanom/busNumberRecognition | ['exploit'] | 1 | 2022-02-16 04:33:21+00:00 | 148480 | 0 | Python | 0 | [] |
 | 416e6e61/concrete5-rce-chain | None | https://github.com/416e6e61/concrete5-rce-chain | ['rce'] | 1 | 2022-02-16 15:19:37+00:00 | 0 | 0 | | 0 | [] |
 | centos-crypter/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/centos-crypter/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-02-16 15:32:48+00:00 | 0 | 1 | | 0 | [] |
@@ -78,9 +78,9 @@
 | altuga/command-injection | nan | https://github.com/altuga/command-injection | ['command injection'] | 1 | 2022-02-16 12:33:19+00:00 | 0 | 0 | Java | 0 | [] |
 | x0reaxeax/exec-prot-bypass | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | ['exploit'] | 1 | 2022-02-16 12:55:54+00:00 | 0 | 0 | C | 0 | [] |
 | Idov31/FunctionStomping | A new shellcode injection technique. Given as C++ header or standalone Rust program. | https://github.com/Idov31/FunctionStomping | ['shellcode'] | 1 | 2022-02-16 07:37:58+00:00 | 580 | 453 | Rust | 67 | [] |
-| mashahzad/Network-Security | These consist of projects and practical in the field of Network security | https://github.com/mashahzad/Network-Security | ['metasploit module OR payload'] | 1 | 2022-02-16 11:44:59+00:00 | 88 | 1 | | 0 | [] |
 | Shivelight/pOOBs4-buildroot | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | ['exploit'] | 1 | 2022-02-16 01:43:04+00:00 | 332 | 30 | HTML | 8 | [] |
-| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-16 10:54:40+00:00 | 60 | 197 | nan | 21 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-16 00:26:42+00:00 | 22282 | 6366 | JavaScript | 1489 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-16 18:26:12+00:00 | 6732 | 130 | Python | 43 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-02-16 15:23:00+00:00 | 4230 | 4 | HTML | 0 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-02-16 10:59:57+00:00 | 317173 | 0 | Jupyter Notebook | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-16 16:33:13+00:00 | 4206036 | 3 | Lua | 0 | [] |
@@ -115,17 +115,18 @@
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-02-16 08:01:01+00:00 | 92906 | 2759 | Python | 424 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-16 00:46:40+00:00 | 37487 | 28 | | 17 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-02-16 12:40:01+00:00 | 293798 | 843 | C# | 197 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-16 18:26:12+00:00 | 6732 | 130 | Python | 43 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-16 01:37:44+00:00 | 111 | 0 | PHP | 0 | [] |
-| tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-16 23:27:12+00:00 | 8743 | 0 | TypeScript | 1 | [] |
+| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-16 10:54:40+00:00 | 60 | 197 | | 21 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-16 04:07:48+00:00 | 576388 | 76 | | 13 | [] |
 | hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-02-16 16:51:41+00:00 | 25 | 1 | Python | 0 | [] |
 | vorburger/Log4j_CVE-2021-44228 | None | https://github.com/vorburger/Log4j_CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-02-16 21:58:54+00:00 | 3 | 2 | | 0 | ['CVE-2021-44228'] |
 | lzxstr/lzxstr.github.io | Learn to exploit in Roblox! | https://github.com/lzxstr/lzxstr.github.io | ['exploit'] | 1 | 2022-02-16 14:59:47+00:00 | 102 | 0 | CSS | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-16 02:42:46+00:00 | 115 | 8 | | 3 | ['CVE-2021-44228'] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-16 16:26:57+00:00 | 328 | 0 | | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-02-16 03:39:09+00:00 | 481 | 23 | Python | 6 | [] |
+| tingzeng1208/demo-rce-frontend | None | https://github.com/tingzeng1208/demo-rce-frontend | ['rce'] | 1 | 2022-02-16 23:27:12+00:00 | 8743 | 0 | TypeScript | 1 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-02-16 06:11:13+00:00 | 153 | 1 | | 0 | [] |
 | amouchere/log4shell-exploit | Demo project for Log4Shell exploit | https://github.com/amouchere/log4shell-exploit | ['exploit'] | 1 | 2022-02-16 20:34:58+00:00 | 4 | 0 | Java | 0 | [] |
-| MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2022-02-16 08:50:56+00:00 | 1360 | 0 | Lua | 0 | [] |
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-02-16 10:43:01+00:00 | 2372 | 52 | Python | 6 | [] |
 | freitzzz/tpas-binary-exploitation | None | https://github.com/freitzzz/tpas-binary-exploitation | ['exploit'] | 1 | 2022-02-16 01:18:24+00:00 | 60953 | 0 | C | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-16 01:17:36+00:00 | 31474 | 2 | Jupyter Notebook | 0 | [] |
@@ -133,8 +134,8 @@
 | 0xCuSO4/DHLYK | 大灰狼远控木马 V9.5 源码 | https://github.com/0xCuSO4/DHLYK | ['shellcode'] | 1 | 2022-02-16 06:11:17+00:00 | 25699 | 124 | C++ | 68 | [] |
 | TheGetch/CVE-2022-23378 | None | https://github.com/TheGetch/CVE-2022-23378 | ['cve-2 OR cve_2'] | 1 | 2022-02-16 14:36:44+00:00 | 330 | 0 | | 0 | ['CVE-2022-23378'] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-16 18:10:23+00:00 | 277 | 7 | | 0 | [] |
+| MiloHaxx/ChairWare | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | ['exploit'] | 1 | 2022-02-16 08:50:56+00:00 | 1360 | 0 | Lua | 0 | [] |
 | kingbiagio/exploit | None | https://github.com/kingbiagio/exploit | ['exploit'] | 1 | 2022-02-16 22:32:34+00:00 | 12 | 0 | Python | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-16 04:07:48+00:00 | 576388 | 76 | | 13 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-16 01:19:52+00:00 | 6977 | 40 | HTML | 12 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-16 00:37:43+00:00 | 98855 | 310 | Python | 96 | [] |
 | Bex32/binary-exploitation | writeups for binary exploitation challenges | https://github.com/Bex32/binary-exploitation | ['exploit'] | 1 | 2022-02-16 00:11:46+00:00 | 1006 | 0 | Python | 0 | [] |
