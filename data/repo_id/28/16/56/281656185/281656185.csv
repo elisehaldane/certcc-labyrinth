@@ -3,4 +3,4 @@ repo_id,repo_full_name,file,file_sha1,match
 281656185,smallkirby/kernelpwn,test/bzImage,72232944686e64b5f0ce9837ed58d56cb8d82b15,VU#56
 281656185,smallkirby/kernelpwn,test/bzImage,72232944686e64b5f0ce9837ed58d56cb8d82b15,VU#62
 281656185,smallkirby/kernelpwn,test/bzImage,72232944686e64b5f0ce9837ed58d56cb8d82b15,VU#64
-281656185,smallkirby/kernelpwn,README.md,d57bffee1c39f8d49cc300d8b5fc7011cab51d3f,ZDI-20-1440
+281656185,smallkirby/kernelpwn,README.md,7b9bcde56cb1f36b3fcb518aa804041f7dd05d06,ZDI-20-1440
