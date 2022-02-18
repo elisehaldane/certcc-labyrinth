@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/pwnkitty.c,0cf591cdb608563d2ecda5a98c11ec21fd97afb1,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,CVE-2021-4034/README.md,be5ac0d26b4cac7199d51c41f838b5780bce73f7,CVE-2021-4034
+442806243,mutur4/Hacking-Scripts,_GITHUB_REPO_METADATA_,,CVE-2021-4034
