@@ -1,13 +1,12 @@
 
 # Summary for results/2022/02/18
     
-113 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-18 02:45:43+00:00 | 688501 | 26398 | Ruby | 11969 | [] |
-| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-18 07:38:00+00:00 | 380 | 0 | | 0 | [] |
-| LJP-TW/CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-18 07:31:30+00:00 | 250 | 0 | C | 0 | ['CVE-2021-4034'] |
+| Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-02-18 14:40:18+00:00 | 77300 | 0 | HTML | 0 | [] |
 | skyMateus/skyExploit | - 👀 Exploit Free & Open Source | https://github.com/skyMateus/skyExploit | ['exploit'] | 1 | 2022-02-18 15:38:28+00:00 | 2650 | 0 | | 0 | [] |
 | RobloxArchiver/RemoteModule | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/RemoteModule | ['exploit'] | 1 | 2022-02-18 05:34:45+00:00 | 4 | 0 | Lua | 0 | [] |
 | JoyGhoshs/last-breath | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | ['exploit'] | 1 | 2022-02-18 04:24:50+00:00 | 26 | 2 | Shell | 0 | [] |
@@ -19,10 +18,11 @@
 | kmeps4/900manual | Kameleon PS4 9.00FW Manual Exploit Host | https://github.com/kmeps4/900manual | ['exploit'] | 1 | 2022-02-18 06:30:13+00:00 | 2073 | 0 | JavaScript | 0 | [] |
 | kmeps4/900auto | Kameleon PS4 9.00 FW Exploit Host Lite Auto Method | https://github.com/kmeps4/900auto | ['exploit'] | 1 | 2022-02-18 06:36:16+00:00 | 2218 | 2 | HTML | 0 | [] |
 | AimSploit/FreeSploit | Roblox Executor | https://github.com/AimSploit/FreeSploit | ['sploit'] | 1 | 2022-02-18 14:11:18+00:00 | 22204 | 2 | C# | 1 | [] |
+| KOZ1OL/exploits | None | https://github.com/KOZ1OL/exploits | ['exploit'] | 1 | 2022-02-18 21:10:34+00:00 | 42881 | 0 | | 0 | [] |
 | upal212/900v2 | PS4H3X 9.00 Jailbreak V2 | https://github.com/upal212/900v2 | ['exploit'] | 1 | 2022-02-18 08:37:49+00:00 | 1498 | 1 | HTML | 0 | [] |
 | DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-18 06:13:13+00:00 | 41 | 0 | Python | 4 | [] |
 | johanpalos/API-Qualite-EAU-77 | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne (77) | https://github.com/johanpalos/API-Qualite-EAU-77 | ['exploit'] | 1 | 2022-02-18 18:35:42+00:00 | 1012 | 2 | JavaScript | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-18 12:05:28+00:00 | 45317 | 1863 | | 198 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-18 12:05:28+00:00 | 45317 | 1862 | | 198 | [] |
 | SussySploitDev/SussySploit1 | None | https://github.com/SussySploitDev/SussySploit1 | ['sploit'] | 1 | 2022-02-18 02:37:11+00:00 | 3 | 0 | | 0 | [] |
 | skollr34p3r/Common_Vulns | Keeping some CVE exploits easily accessible | https://github.com/skollr34p3r/Common_Vulns | ['exploit'] | 1 | 2022-02-18 19:46:52+00:00 | 38 | 0 | | 0 | [] |
 | aemmitt-ns/skeleton | Skeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326 | https://github.com/aemmitt-ns/skeleton | ['exploit', 'rce'] | 2 | 2022-02-18 01:43:08+00:00 | 19 | 13 | Python | 5 | ['CVE-2021-0326'] |
@@ -32,10 +32,10 @@
 | PeiQi0/PeiQi-WIKI-PocSuite3 | 基于Pocsuite3框架的 POC/EXP ✨ | https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3 | ['0day', 'cve poc'] | 2 | 2022-02-18 12:28:30+00:00 | 2385 | 56 | Python | 8 | [] |
 | mutur4/Hacking-Scripts | This is a repo about some hacking scripts to make your hacks better and easier.Please do not use these for illegal purposes, It also includes a (CVE-2021-4034) exploit | https://github.com/mutur4/Hacking-Scripts | ['exploit'] | 1 | 2022-02-18 08:22:36+00:00 | 95 | 0 | C | 0 | ['CVE-2021-4034'] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-18 08:32:14+00:00 | 50376 | 0 | Python | 0 | [] |
-| Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-02-18 14:40:18+00:00 | 77300 | 0 | HTML | 0 | [] |
+| LJP-TW/CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-18 07:31:30+00:00 | 250 | 0 | C | 0 | ['CVE-2021-4034'] |
 | Dlol/exploitsite | None | https://github.com/Dlol/exploitsite | ['exploit'] | 1 | 2022-02-18 16:01:09+00:00 | 56 | 1 | CSS | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-18 08:01:47+00:00 | 22286 | 6551 | JavaScript | 1521 | [] |
 | biggmojo/BOF-Scripts | Scripts for exploiting BOF, based off of TryHackMe Buffer Overflow Prep module. | https://github.com/biggmojo/BOF-Scripts | ['exploit'] | 1 | 2022-02-18 15:44:23+00:00 | 6 | 0 | Python | 0 | [] |
-| shakeman8/Sunlogin_shellcodeloader | Sunlogin_shellcodeloader | https://github.com/shakeman8/Sunlogin_shellcodeloader | ['shellcode'] | 1 | 2022-02-18 07:38:35+00:00 | 0 | 0 | | 0 | [] |
 | pkcn445/sun_rce | None | https://github.com/pkcn445/sun_rce | ['rce'] | 1 | 2022-02-18 15:41:00+00:00 | 0 | 0 | Python | 0 | [] |
 | ZVR999/Working_With_Exploits | I will show my current understanding of exploits by finding them, breaking them down, understanding how they work, and building my own from scratch | https://github.com/ZVR999/Working_With_Exploits | ['exploit'] | 1 | 2022-02-18 15:37:44+00:00 | 0 | 0 | | 0 | [] |
 | maxnextgen/exploitspark | None | https://github.com/maxnextgen/exploitspark | ['exploit'] | 1 | 2022-02-18 14:53:24+00:00 | 0 | 0 | | 0 | [] |
@@ -47,8 +47,8 @@
 | Mr-xn/cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-18 12:00:19+00:00 | 0 | 6 | Python | 1 | ['CVE-2022-23131'] |
 | Nosferatuvjr/RCE-GNU-gdbserver | Exploit para exploração de plugins Wordpress para auxílio numa possível escalação de privilégios. | https://github.com/Nosferatuvjr/RCE-GNU-gdbserver | ['exploit', 'rce'] | 2 | 2022-02-18 11:37:19+00:00 | 0 | 0 | | 0 | [] |
 | chenaotian/CVE-2022-0185 | CVE-2021-4034 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-18 09:32:30+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-4034', 'CVE-2022-0185'] |
+| shakeman8/Sunlogin_shellcodeloader | Sunlogin_shellcodeloader | https://github.com/shakeman8/Sunlogin_shellcodeloader | ['shellcode'] | 1 | 2022-02-18 07:38:35+00:00 | 0 | 0 | | 0 | [] |
 | 0verSp4ce/Bundler | PE学习小工具，它的作用就是将32位的PE文件的按内存对齐，然后合并所有节，接着新增一个节存放Shellcode，将程序入口位置修改到Shellcode的位置。 | https://github.com/0verSp4ce/Bundler | ['shellcode'] | 1 | 2022-02-18 07:37:08+00:00 | 0 | 0 | | 0 | [] |
-| Kitolua/RobloxExploits | None | https://github.com/Kitolua/RobloxExploits | ['exploit'] | 1 | 2022-02-18 00:46:55+00:00 | 0 | 0 | Lua | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-18 07:14:56+00:00 | 0 | 0 | Java | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-18 06:02:25+00:00 | 0 | 0 | | 0 | [] |
 | Kakkoinamae/Kakkoi-Spammerv1.2 | Hai script kiddies... Perkenalkan Tools Kakkoi Spammer yg saya buat, dan sya mendapat ide ini dari metasploit... Tools spam nya di rilis pada pukul 13:21 WITA jadi dimana Tools Nya Bernama Kakkoi_Spammer yg kegunaannya untuk Mengirim Spam Ke system pesan s | https://github.com/Kakkoinamae/Kakkoi-Spammerv1.2 | ['metasploit module OR payload'] | 1 | 2022-02-18 06:41:26+00:00 | 0 | 0 | Python | 0 | [] |
@@ -60,9 +60,10 @@
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-18 01:29:36+00:00 | 0 | 0 | | 0 | [] |
 | huangpan110/sunlogin_rce | 向日葵 命令注入（rce）利用 | https://github.com/huangpan110/sunlogin_rce | ['rce'] | 1 | 2022-02-18 01:50:24+00:00 | 0 | 0 | | 0 | [] |
 | soroshsalehi/DarkSploit | None | https://github.com/soroshsalehi/DarkSploit | ['sploit'] | 1 | 2022-02-18 00:29:45+00:00 | 0 | 0 | | 0 | [] |
+| Kitolua/RobloxExploits | None | https://github.com/Kitolua/RobloxExploits | ['exploit'] | 1 | 2022-02-18 00:46:55+00:00 | 0 | 0 | Lua | 0 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-02-18 12:58:52+00:00 | 340 | 7 | Rust | 2 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-18 07:38:00+00:00 | 380 | 0 | | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-18 13:16:22+00:00 | 117 | 8 | | 3 | ['CVE-2021-44228'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-18 08:01:47+00:00 | 22286 | 6551 | JavaScript | 1521 | [] |
 | kmeps4/leeful900 | PS4 9.00FW Exploit Host By Leeful | https://github.com/kmeps4/leeful900 | ['exploit'] | 1 | 2022-02-18 06:40:15+00:00 | 4756 | 11 | HTML | 10 | [] |
 | rcenk/rcenk | None | https://github.com/rcenk/rcenk | ['rce'] | 1 | 2022-02-18 12:55:38+00:00 | 9 | 0 | | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-18 01:14:10+00:00 | 112 | 0 | PHP | 0 | [] |
