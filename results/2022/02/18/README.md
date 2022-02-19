@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/18
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -21,8 +21,8 @@
 | upal212/900v2 | PS4H3X 9.00 Jailbreak V2 | https://github.com/upal212/900v2 | ['exploit'] | 1 | 2022-02-18 08:37:49+00:00 | 1498 | 1 | HTML | 0 | [] |
 | DanYellow71091/CVEDetectivePOC | CVE Detective | https://github.com/DanYellow71091/CVEDetectivePOC | ['cve poc'] | 1 | 2022-02-18 06:13:13+00:00 | 41 | 0 | Python | 4 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-18 23:46:09+00:00 | 171 | 0 | Go | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-18 08:01:47+00:00 | 22286 | 6551 | JavaScript | 1521 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-18 12:05:28+00:00 | 45317 | 1863 | | 198 | [] |
+| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-18 07:38:00+00:00 | 380 | 0 | | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-18 12:05:28+00:00 | 45317 | 1862 | | 198 | [] |
 | SussySploitDev/SussySploit1 | None | https://github.com/SussySploitDev/SussySploit1 | ['sploit'] | 1 | 2022-02-18 02:37:11+00:00 | 3 | 0 | | 0 | [] |
 | skollr34p3r/Common_Vulns | Keeping some CVE exploits easily accessible | https://github.com/skollr34p3r/Common_Vulns | ['exploit'] | 1 | 2022-02-18 19:46:52+00:00 | 38 | 0 | | 0 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-02-18 23:24:44+00:00 | 2226 | 12 | C++ | 7 | [] |
@@ -67,14 +67,15 @@
 | Kitolua/RobloxExploits | None | https://github.com/Kitolua/RobloxExploits | ['exploit'] | 1 | 2022-02-18 00:46:55+00:00 | 0 | 0 | Lua | 0 | [] |
 | biggmojo/BOF-Scripts | Scripts for exploiting BOF, based off of TryHackMe Buffer Overflow Prep module. | https://github.com/biggmojo/BOF-Scripts | ['exploit'] | 1 | 2022-02-18 15:44:23+00:00 | 6 | 0 | Python | 0 | [] |
 | one2blame/the-dark-arts | Repository to contain my notes from my self-study of binary exploitation and reverse engineering. | https://github.com/one2blame/the-dark-arts | ['exploit'] | 1 | 2022-02-18 21:56:15+00:00 | 1568 | 0 | | 0 | [] |
-| jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-18 07:38:00+00:00 | 380 | 0 | | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-18 13:16:22+00:00 | 117 | 8 | | 3 | ['CVE-2021-44228'] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-18 01:14:10+00:00 | 112 | 0 | PHP | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-18 08:01:47+00:00 | 22286 | 6551 | JavaScript | 1521 | [] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-02-18 00:25:36+00:00 | 3596 | 2305 | Python | 646 | [] |
 | raidcraft/rcelevator | Complex elevator plugin to move players across multiple Floors in huge buildings like normal elevators | https://github.com/raidcraft/rcelevator | ['rce'] | 1 | 2022-02-18 07:07:36+00:00 | 1136 | 0 | Java | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-18 10:30:21+00:00 | 206881 | 16 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-18 00:03:53+00:00 | 462401 | 46 | | 21 | [] |
 | p3rce/p3rce.github.io | None | https://github.com/p3rce/p3rce.github.io | ['rce'] | 1 | 2022-02-18 22:29:43+00:00 | 4276 | 0 | HTML | 0 | [] |
 | itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2022-02-18 23:31:37+00:00 | 58295 | 6 | HTML | 0 | [] |
+| FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2022-02-18 22:11:15+00:00 | 171 | 358 | C# | 82 | [] |
 | LinuxUser255/MS17-010_explained | This repo is a deep-dive into the Eternal Blue buffer overflow attack, included is the exploit source code, and extensive documentation. | https://github.com/LinuxUser255/MS17-010_explained | ['exploit'] | 1 | 2022-02-18 14:48:33+00:00 | 3220 | 0 | Python | 0 | ['MS17-010'] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-02-18 13:34:25+00:00 | 12291 | 32 | Shell | 6 | [] |
 | kryptops/lycanthropy | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | ['exploit'] | 1 | 2022-02-18 01:37:20+00:00 | 3693 | 7 | Python | 1 | [] |
@@ -82,8 +83,8 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-18 06:46:49+00:00 | 38284 | 28 | | 17 | [] |
 | rburrito/localFileInclusionServer | A web application built with Node.js with a local file inclusion vulnerability that enables users to write JavaScript files for remote code execution to be used in a vulnerable virtual machine. | https://github.com/rburrito/localFileInclusionServer | ['remote code execution'] | 1 | 2022-02-18 02:28:31+00:00 | 2056 | 1 | JavaScript | 0 | [] |
 | LinuxUser255/BufferOverflowDev | Series of Python scripts used to develop a buffer overflow | https://github.com/LinuxUser255/BufferOverflowDev | ['heap overflow'] | 1 | 2022-02-18 15:03:04+00:00 | 23 | 1 | Python | 0 | [] |
-| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-02-18 00:25:36+00:00 | 3596 | 2305 | Python | 646 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2022-02-18 02:16:16+00:00 | 5172 | 2 | | 1 | [] |
+| kmeps4/leeful900 | PS4 9.00FW Exploit Host By Leeful | https://github.com/kmeps4/leeful900 | ['exploit'] | 1 | 2022-02-18 06:40:15+00:00 | 4756 | 11 | HTML | 10 | [] |
 | dantehemerson/storytelling-cubes | :bulb::sparkles: Create great stories, exploit your creativity. | https://github.com/dantehemerson/storytelling-cubes | ['exploit'] | 1 | 2022-02-18 03:45:48+00:00 | 1391 | 0 | JavaScript | 0 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2022-02-18 13:29:50+00:00 | 190382 | 26 | C++ | 58 | [] |
 | AdrianVollmer/PowerHub | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | ['exploit'] | 1 | 2022-02-18 15:15:52+00:00 | 2025 | 478 | Python | 86 | [] |
@@ -95,11 +96,11 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-18 00:19:03+00:00 | 237340 | 273 | Ruby | 81 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-18 11:35:05+00:00 | 71093 | 10781 | Jupyter Notebook | 1866 | [] |
 | shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2022-02-18 23:24:27+00:00 | 342 | 5206 | C | 993 | [] |
-| xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-02-18 13:40:05+00:00 | 2855 | 306 | HTML | 109 | [] |
+| xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-02-18 13:49:59+00:00 | 2905 | 306 | HTML | 109 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-02-18 22:09:10+00:00 | 27282 | 8745 | Python | 1490 | [] |
 | MythicAgents/merlin | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | ['exploit'] | 1 | 2022-02-18 11:45:30+00:00 | 390 | 10 | Python | 3 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-18 01:14:10+00:00 | 112 | 0 | PHP | 0 | [] |
 | rcenk/rcenk | None | https://github.com/rcenk/rcenk | ['rce'] | 1 | 2022-02-18 12:55:38+00:00 | 9 | 0 | | 0 | [] |
-| kmeps4/leeful900 | PS4 9.00FW Exploit Host By Leeful | https://github.com/kmeps4/leeful900 | ['exploit'] | 1 | 2022-02-18 06:40:15+00:00 | 4756 | 11 | HTML | 10 | [] |
 | raheel0x01/CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discov | https://github.com/raheel0x01/CVE-2021-26855 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-18 03:36:58+00:00 | 18 | 12 | Python | 8 | ['CVE-2021-26855', 'CVE-2021-27065'] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-02-18 13:16:39+00:00 | 52253 | 1 | Python | 4 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-02-18 00:11:40+00:00 | 1617 | 171 | Ruby | 22 | [] |
