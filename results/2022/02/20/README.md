@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/20
     
-24 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | r4wd3r/ADPWN | Useful Windows and AD tools | https://github.com/r4wd3r/ADPWN | ['exploit'] | 1 | 2022-02-20 00:50:17+00:00 | 1838 | 13 | Python | 9 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-20 00:22:27+00:00 | 238878 | 273 | Ruby | 81 | [] |
+| rootjkqsta/Blog---Bug-Bounty | Bug Bounty Hunting, Web App Penetration Testing, 0day Hunting | https://github.com/rootjkqsta/Blog---Bug-Bounty | ['0day'] | 1 | 2022-02-20 00:21:14+00:00 | 0 | 0 | nan | 0 | [] |
 | gtx666ti/web-security | Backdoor Shell Scanner and Web App Filter (SQLI, XSS, RCE, LFI) | https://github.com/gtx666ti/web-security | ['rce'] | 1 | 2022-02-20 01:44:33+00:00 | 0 | 0 | PHP | 0 | [] |
 | jammiess/rust-shellcode | Template for writing shellcode in rust | https://github.com/jammiess/rust-shellcode | ['shellcode'] | 1 | 2022-02-20 01:30:20+00:00 | 0 | 0 | Rust | 0 | [] |
 | Cracked5pider/ShellcodeTemplate | A easily modifiable shellcode template for Windows x64/x86 | https://github.com/Cracked5pider/ShellcodeTemplate | ['shellcode'] | 1 | 2022-02-20 01:36:55+00:00 | 0 | 1 | C | 0 | [] |
@@ -17,8 +17,9 @@
 | Exploitspacks/CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-02-20 00:06:44+00:00 | 4 | 0 | | 0 | ['CVE-2020-1472'] |
 | Younes-Laidoudi/Cockroach-associated-Wolbachia | Urban entomology heavily relies on the use of conventional insecticides for cockroach management. Yet the symbiotic relationship between cockroaches and their endosymbionts such as Wolbachia holds apposite insights that could be exploited for control. To | https://github.com/Younes-Laidoudi/Cockroach-associated-Wolbachia | ['exploit'] | 1 | 2022-02-20 00:26:59+00:00 | 101 | 0 | | 0 | [] |
 | calebjswartz/mailbot_executioner | This is a python program that reads code from a drafted email in a gmail account and executes it. Intended to be run on a remote device. | https://github.com/calebjswartz/mailbot_executioner | ['remote code execution'] | 1 | 2022-02-20 02:21:51+00:00 | 2 | 0 | Python | 0 | [] |
-| rootjkqsta/Blog---Bug-Bounty | Bug Bounty Hunting, Web App Penetration Testing, 0day Hunting | https://github.com/rootjkqsta/Blog---Bug-Bounty | ['0day'] | 1 | 2022-02-20 00:21:14+00:00 | 0 | 0 | nan | 0 | [] |
+| twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-02-20 04:04:47+00:00 | 9 | 0 | Python | 0 | [] |
 | RobloxArchiver/RemoteModule | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/RemoteModule | ['exploit'] | 1 | 2022-02-20 01:38:23+00:00 | 7 | 0 | Lua | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-20 00:22:27+00:00 | 238878 | 273 | Ruby | 81 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-20 01:22:06+00:00 | 173 | 0 | Go | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-20 00:58:27+00:00 | 65491 | 2072 | | 219 | [] |
 | krypton612/ExploitGenMb | None | https://github.com/krypton612/ExploitGenMb | ['exploit'] | 1 | 2022-02-20 01:55:15+00:00 | 6 | 0 | Python | 0 | [] |
@@ -26,6 +27,8 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-20 01:21:17+00:00 | 7096 | 51 | HTML | 12 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-20 01:19:05+00:00 | 20116 | 2 | Python | 0 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-20 03:04:59+00:00 | 6757 | 317 | Python | 64 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-20 04:34:15+00:00 | 110594 | 323 | Python | 99 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-20 04:07:36+00:00 | 585898 | 78 | | 14 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-20 00:03:44+00:00 | 467194 | 46 | | 21 | [] |
 | kryptops/lycanthropy | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | ['exploit'] | 1 | 2022-02-20 00:08:26+00:00 | 3728 | 8 | Python | 1 | [] |
 | IUploadExploits/Enki-X-DailyXploits | Its our new exploits we made together using teamview thanks! youtube - https://www.youtube.com/channel/UCJ_EIpyHPlWlKJ-BRZ57Rrg | https://github.com/IUploadExploits/Enki-X-DailyXploits | ['exploit'] | 1 | 2022-02-20 02:41:12+00:00 | 0 | 0 | | 0 | [] |
