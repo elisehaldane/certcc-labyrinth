@@ -1,12 +1,13 @@
 
 # Summary for results/2022/02/20
     
-43 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
-| r4wd3r/ADPWN | Useful Windows and AD tools | https://github.com/r4wd3r/ADPWN | ['exploit'] | 1 | 2022-02-20 00:50:17+00:00 | 1838 | 13 | Python | 9 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-20 09:18:12+00:00 | 5638 | 3106 | Python | 681 | [] |
 | Aura18x/AuraX | AuraX is a new Executor Created By Aura18x and Nexure. We are a Level 7 Executor for Roblox. we come with tons of preloaded scripts in its own menu and even host giveaways for beta access from time to time. Hope to see you using AuraX for your next trollin | https://github.com/Aura18x/AuraX | ['exploit'] | 1 | 2022-02-20 00:33:27+00:00 | 0 | 0 | | 0 | [] |
+| Local-Micro/NativeSploit-Framework | nan | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-20 05:05:40+00:00 | 16 | 0 | Java | 0 | [] |
 | fazasaputra/exploit | some random rblx exploit | https://github.com/fazasaputra/exploit | ['exploit'] | 1 | 2022-02-20 06:01:33+00:00 | 46272 | 1 | C# | 0 | [] |
 | rootjkqsta/Blog---Bug-Bounty | Bug Bounty Hunting, Web App Penetration Testing, 0day Hunting | https://github.com/rootjkqsta/Blog---Bug-Bounty | ['0day'] | 1 | 2022-02-20 00:21:14+00:00 | 0 | 0 | nan | 0 | [] |
 | nikasakandelidze/remote-code-execution-engine | REST API for execution code in remote docker sandbox containers | https://github.com/nikasakandelidze/remote-code-execution-engine | ['remote code execution'] | 1 | 2022-02-20 06:16:58+00:00 | 6 | 0 | Python | 0 | [] |
@@ -16,7 +17,7 @@
 | Exploitspacks/CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-02-20 00:06:44+00:00 | 4 | 0 | | 0 | ['CVE-2020-1472'] |
 | Blue-PvP/RobloxExploits | None | https://github.com/Blue-PvP/RobloxExploits | ['exploit'] | 1 | 2022-02-20 00:12:33+00:00 | 0 | 0 | Lua | 0 | [] |
 | foxtrot/CVE-2021-1965 | None | https://github.com/foxtrot/CVE-2021-1965 | ['cve-2 OR cve_2'] | 1 | 2022-02-20 01:58:54+00:00 | 0 | 0 | C | 0 | ['CVE-2021-1965'] |
-| RobloxArchiver/RemoteModule | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/RemoteModule | ['exploit'] | 1 | 2022-02-20 01:38:23+00:00 | 7 | 0 | Lua | 0 | [] |
+| r4wd3r/ADPWN | Useful Windows and AD tools | https://github.com/r4wd3r/ADPWN | ['exploit'] | 1 | 2022-02-20 00:50:17+00:00 | 1838 | 13 | Python | 9 | [] |
 | Ruia-ruia/NFC-UAF-exploit-2021 | None | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | ['exploit'] | 1 | 2022-02-20 01:17:43+00:00 | 0 | 0 | | 0 | [] |
 | Cracked5pider/ShellcodeTemplate | A easily modifiable shellcode template for Windows x64/x86 | https://github.com/Cracked5pider/ShellcodeTemplate | ['shellcode'] | 1 | 2022-02-20 01:36:55+00:00 | 0 | 1 | C | 0 | [] |
 | jammiess/rust-shellcode | Template for writing shellcode in rust | https://github.com/jammiess/rust-shellcode | ['shellcode'] | 1 | 2022-02-20 01:30:20+00:00 | 0 | 0 | Rust | 0 | [] |
@@ -25,10 +26,13 @@
 | MineAdam2019/Roblox-Script-Hub | Welcome To Roblox Script Hub! You will Learn All Adventures Exploits And Commands | https://github.com/MineAdam2019/Roblox-Script-Hub | ['exploit'] | 1 | 2022-02-20 04:46:34+00:00 | 0 | 0 | | 0 | [] |
 | crizskuk/exploit | hackeando un sueño | https://github.com/crizskuk/exploit | ['exploit'] | 1 | 2022-02-20 06:13:25+00:00 | 1 | 0 | C | 0 | [] |
 | bmyy1024/Security-vulnerability-test-record | 日常网络安全漏洞测试研究记录，采集信息均来源已授权目标及实验搭建环境。已发布：向日葵RCE漏洞测试； | https://github.com/bmyy1024/Security-vulnerability-test-record | ['rce'] | 1 | 2022-02-20 08:07:10+00:00 | 266 | 1 | | 0 | [] |
-| Local-Micro/NativeSploit-Framework | nan | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-20 05:05:40+00:00 | 16 | 0 | Java | 0 | [] |
+| naksyn/python-bof-runner | Python inline shellcode injector that could be used to run BOFs by leveraging BOF2shellcode | https://github.com/naksyn/python-bof-runner | ['shellcode'] | 1 | 2022-02-20 07:54:49+00:00 | 2416 | 0 | Python | 0 | [] |
+| RobloxArchiver/RemoteModule | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/RemoteModule | ['exploit'] | 1 | 2022-02-20 01:38:23+00:00 | 7 | 0 | Lua | 0 | [] |
 | 0x0021h/pwnlinux | Some Linux kernel exploit documentation/Linux内核利用资料精选 | https://github.com/0x0021h/pwnlinux | ['exploit'] | 1 | 2022-02-20 04:55:02+00:00 | 24 | 67 | | 13 | [] |
+| nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-20 01:22:06+00:00 | 173 | 0 | Go | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-20 00:58:27+00:00 | 65491 | 2072 | | 219 | [] |
+| OHDSI/ArachneExecutionEngine | Arachne Execution Engine is a component used to execute remote SQL or R code. It is used by both Arachne Data Node as well as WebAPI | https://github.com/OHDSI/ArachneExecutionEngine | ['remote code execution'] | 1 | 2022-02-20 09:30:53+00:00 | 28097 | 4 | PLpgSQL | 5 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-20 00:22:27+00:00 | 238878 | 273 | Ruby | 81 | [] |
-| KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-02-20 06:20:56+00:00 | 76454 | 0 | Python | 0 | [] |
 | DuckLL/hitcon_zeroday_bot | A telegram bot which pushes hitcon zeroday disclosed vulnerabilities | https://github.com/DuckLL/hitcon_zeroday_bot | ['zeroday'] | 1 | 2022-02-20 08:20:02+00:00 | 267 | 2 | Python | 1 | [] |
 | dedsecurity/dedsecurity-framework | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | ['exploit'] | 1 | 2022-02-20 06:10:48+00:00 | 973 | 14 | Python | 8 | [] |
 | kryptops/lycanthropy | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | ['exploit'] | 1 | 2022-02-20 00:08:26+00:00 | 3728 | 8 | Python | 1 | [] |
@@ -37,8 +41,8 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-20 04:34:15+00:00 | 110594 | 323 | Python | 99 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2022-02-20 08:02:12+00:00 | 371 | 35 | Python | 5 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-20 03:04:59+00:00 | 6757 | 317 | Python | 64 | [] |
+| KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-02-20 06:20:56+00:00 | 76454 | 0 | Python | 0 | [] |
 | cl4ym0re/CVE-2016-3088 | Apache ActiveMQ PUT RCE Scan | https://github.com/cl4ym0re/CVE-2016-3088 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-20 07:21:24+00:00 | 10 | 2 | Python | 0 | ['CVE-2016-3088'] |
-| nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-20 01:22:06+00:00 | 173 | 0 | Go | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-20 01:19:05+00:00 | 20116 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-20 01:21:17+00:00 | 7096 | 51 | HTML | 12 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-20 05:10:19+00:00 | 974 | 32 | C++ | 3 | [] |
@@ -46,5 +50,4 @@
 | krypton612/ExploitGenMb | None | https://github.com/krypton612/ExploitGenMb | ['exploit'] | 1 | 2022-02-20 01:55:15+00:00 | 6 | 0 | Python | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-20 07:50:42+00:00 | 7470 | 902 | TypeScript | 148 | [] |
 | Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-02-20 06:49:24+00:00 | 794 | 0 | JavaScript | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-20 00:58:27+00:00 | 65491 | 2072 | | 219 | [] |
-| naksyn/python-bof-runner | Python inline shellcode injector that could be used to run BOFs by leveraging BOF2shellcode | https://github.com/naksyn/python-bof-runner | ['shellcode'] | 1 | 2022-02-20 07:54:49+00:00 | 2416 | 0 | Python | 0 | [] |
+| its0x08/werkzeug-debug | A simple python tool to achieve RCE when debug is enabled. | https://github.com/its0x08/werkzeug-debug | ['rce'] | 1 | 2022-02-20 09:09:25+00:00 | 0 | 0 | | 0 | [] |
