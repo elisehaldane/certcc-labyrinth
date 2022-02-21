@@ -1,12 +1,13 @@
 
 # Summary for results/2022/02/21
     
-45 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-21 01:41:26+00:00 | 3913 | 2608 | PowerShell | 741 | [] |
-| ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2022-02-21 09:07:23+00:00 | 9 | 0 | Go | 0 | [] |
+| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-21 09:50:08+00:00 | 50422 | 0 | Python | 0 | [] |
+| Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-02-21 03:16:13+00:00 | 806 | 0 | JavaScript | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-21 09:29:09+00:00 | 2788 | 31 | | 2 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-02-21 06:47:53+00:00 | 14171 | 1 | HTML | 1 | [] |
 | NotReloads/reload-faketriggers | Fake Triggers for FiveM _ To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | ['exploit'] | 1 | 2022-02-21 00:36:47+00:00 | 1 | 1 | Lua | 0 | [] |
@@ -19,6 +20,7 @@
 | AS4mir/CVE-2021-45007 | Cross-Site Request Forgery | https://github.com/AS4mir/CVE-2021-45007 | ['cve-2 OR cve_2'] | 1 | 2022-02-21 09:27:22+00:00 | 1 | 0 | | 0 | ['CVE-2021-45007'] |
 | h4ck3r0/Metasploit-termux | None | https://github.com/h4ck3r0/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-02-21 07:18:21+00:00 | 3801 | 0 | Shell | 0 | [] |
 | thamugadi/hs-pwn | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | ['exploit'] | 1 | 2022-02-21 01:37:31+00:00 | 3 | 0 | Haskell | 0 | [] |
+| Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-21 10:41:09+00:00 | 15 | 0 | Python | 0 | [] |
 | jammiess/mem_runner | Run shellcode in memory | https://github.com/jammiess/mem_runner | ['shellcode'] | 1 | 2022-02-21 00:36:59+00:00 | 0 | 0 | Rust | 0 | [] |
 | Eddi0x/PDF-Silent-Exploit-FUD | None | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | ['exploit'] | 1 | 2022-02-21 00:45:16+00:00 | 0 | 0 | | 0 | [] |
 | 0tt7/CVE-2022-23131 | None | https://github.com/0tt7/CVE-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-21 00:51:15+00:00 | 0 | 0 | | 0 | ['CVE-2022-23131'] |
@@ -26,13 +28,14 @@
 | 2xy0x/JToh-Free-VM | Fuck JToH and Jukereise, here you go exploiters. | https://github.com/2xy0x/JToh-Free-VM | ['exploit'] | 1 | 2022-02-21 05:17:12+00:00 | 0 | 0 | | 0 | [] |
 | kaFox4/FxSploit | None | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2022-02-21 07:01:16+00:00 | 0 | 0 | | 0 | [] |
 | THECRAZEDPOTATTO/discord-0day-gif | They patched it as soon as I found it so please hold | https://github.com/THECRAZEDPOTATTO/discord-0day-gif | ['0day'] | 1 | 2022-02-21 07:39:33+00:00 | 0 | 1 | C++ | 0 | [] |
-| Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-02-21 03:16:13+00:00 | 806 | 0 | JavaScript | 0 | [] |
+| ashmeet-singh/heap-overflow-server | nan | https://github.com/ashmeet-singh/heap-overflow-server | ['heap overflow'] | 1 | 2022-02-21 09:07:23+00:00 | 9 | 0 | Go | 0 | [] |
 | exploitblizzard/WindowsMDM-LPE-0Day | CVE-2021-24084 Windows Local Privilege Escalation Left officially unpatched since 2020. Hence, its still a zero day | https://github.com/exploitblizzard/WindowsMDM-LPE-0Day | ['0day'] | 1 | 2022-02-21 08:30:22+00:00 | 2587 | 14 | C++ | 4 | ['CVE-2021-24084'] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-21 00:07:39+00:00 | 1534791 | 1572 | Python | 529 | [] |
 | adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-21 01:50:01+00:00 | 11 | 0 | Go | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-21 00:20:25+00:00 | 7833 | 4356 | Python | 579 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-21 00:19:28+00:00 | 240416 | 273 | Ruby | 81 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-02-21 02:35:04+00:00 | 170913 | 207 | C | 265 | [] |
+| stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-21 10:24:34+00:00 | 18965 | 1 | PHP | 0 | [] |
 | wyzxxz/shiro_rce_tool | shiro 反序列 命令执行辅助检测工具 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2022-02-21 06:08:22+00:00 | 72464 | 807 | | 166 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-21 06:56:11+00:00 | 37879 | 670 | Go | 150 | [] |
 | zeroday0619/zeroday0619 | About Me | https://github.com/zeroday0619/zeroday0619 | ['zeroday'] | 1 | 2022-02-21 03:44:54+00:00 | 137 | 3 | | 2 | [] |
@@ -42,6 +45,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-21 00:03:42+00:00 | 469413 | 46 | | 21 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-21 00:52:17+00:00 | 113 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-21 04:35:35+00:00 | 112950 | 323 | Python | 99 | [] |
+| Hacker5preme/Exploits | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | ['exploit'] | 1 | 2022-02-21 09:50:01+00:00 | 3029 | 18 | Python | 4 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-21 01:11:45+00:00 | 21602 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-21 01:11:45+00:00 | 7153 | 53 | HTML | 12 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-02-21 04:45:27+00:00 | 1014 | 32 | C++ | 3 | [] |
