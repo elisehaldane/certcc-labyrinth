@@ -1,12 +1,13 @@
 
 # Summary for results/2022/02/21
     
-30 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-21 01:41:26+00:00 | 3913 | 2608 | PowerShell | 741 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-21 00:07:39+00:00 | 1534791 | 1572 | Python | 529 | [] |
+| zwjjustdoit/cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-21 02:43:44+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-23131'] |
 | 0tt7/CVE-2022-23131 | None | https://github.com/0tt7/CVE-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-21 00:51:15+00:00 | 0 | 0 | | 0 | ['CVE-2022-23131'] |
 | Eddi0x/PDF-Silent-Exploit-FUD | None | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | ['exploit'] | 1 | 2022-02-21 00:45:16+00:00 | 0 | 0 | | 0 | [] |
 | jammiess/mem_runner | Run shellcode in memory | https://github.com/jammiess/mem_runner | ['shellcode'] | 1 | 2022-02-21 00:36:59+00:00 | 0 | 0 | Rust | 0 | [] |
@@ -14,6 +15,7 @@
 | fazasaputra/exploit | some random rblx exploit | https://github.com/fazasaputra/exploit | ['exploit'] | 1 | 2022-02-21 02:04:35+00:00 | 46279 | 1 | C# | 0 | [] |
 | Dlol/exploitsite | None | https://github.com/Dlol/exploitsite | ['exploit'] | 1 | 2022-02-21 04:24:07+00:00 | 45121 | 1 | HTML | 0 | [] |
 | cartoon-raccoon/ropemporium | My exploits (pun intended) in solving ROPEmporium. | https://github.com/cartoon-raccoon/ropemporium | ['exploit'] | 1 | 2022-02-21 03:15:04+00:00 | 62 | 0 | Python | 0 | [] |
+| glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-02-21 04:56:15+00:00 | 41 | 1 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-21 02:11:09+00:00 | 70726 | 2135 | nan | 227 | [] |
 | NotReloads/reload-faketriggers | Fake Triggers for FiveM _ To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | ['exploit'] | 1 | 2022-02-21 00:36:47+00:00 | 1 | 1 | Lua | 0 | [] |
 | Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-02-21 03:16:13+00:00 | 806 | 0 | JavaScript | 0 | [] |
@@ -34,4 +36,4 @@
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-02-21 02:35:04+00:00 | 170913 | 207 | C | 265 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-21 00:19:28+00:00 | 240416 | 273 | Ruby | 81 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-21 00:20:25+00:00 | 7833 | 4356 | Python | 579 | [] |
-| zwjjustdoit/cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-21 02:43:44+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-23131'] |
+| 2xy0x/JToh-Free-VM | Fuck JToH and Jukereise, here you go exploiters. | https://github.com/2xy0x/JToh-Free-VM | ['exploit'] | 1 | 2022-02-21 05:17:12+00:00 | 0 | 0 | | 0 | [] |
