@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/22
     
-31 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-22 01:33:07+00:00 | 22290 | 6675 | JavaScript | 1543 | [] |
-| lexisrepo/Database-Exploitation | None | https://github.com/lexisrepo/Database-Exploitation | ['exploit'] | 1 | 2022-02-22 00:09:01+00:00 | 7 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-22 05:09:09+00:00 | 258696 | 6864 | C | 1874 | [] |
 | mtthwstffrd/SecuraBV-CVE-2020-1472 | None | https://github.com/mtthwstffrd/SecuraBV-CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 03:33:33+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
 | mtthwstffrd/calebstewart-CVE-2021-1675 | None | https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 03:32:45+00:00 | 0 | 0 | PowerShell | 0 | ['CVE-2021-1675'] |
 | mtthwstffrd/cube0x0-CVE-2021-1675 | None | https://github.com/mtthwstffrd/cube0x0-CVE-2021-1675 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 03:32:23+00:00 | 0 | 0 | C# | 0 | ['CVE-2021-1675'] |
@@ -20,8 +20,8 @@
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-02-22 03:21:22+00:00 | 23 | 19 | Python | 11 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-22 00:44:27+00:00 | 76012 | 2196 | | 243 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-22 02:28:44+00:00 | 135241 | 0 | | 0 | [] |
+| lexisrepo/Database-Exploitation | None | https://github.com/lexisrepo/Database-Exploitation | ['exploit'] | 1 | 2022-02-22 00:09:01+00:00 | 7 | 0 | | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-22 04:08:40+00:00 | 382 | 1 | Python | 0 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-22 04:31:50+00:00 | 7833 | 4358 | Python | 579 | [] |
 | LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | None | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-22 00:21:04+00:00 | 39 | 1 | | 0 | ['CVE-2021-44228'] |
 | adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-22 03:54:26+00:00 | 12 | 0 | Go | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-22 01:04:00+00:00 | 3544108 | 14 | Python | 3 | [] |
@@ -35,4 +35,5 @@
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-02-22 03:07:58+00:00 | 2182 | 263 | C | 10 | [] |
 | audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2022-02-22 01:23:19+00:00 | 8135 | 0 | Rich Text Format | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-22 00:18:53+00:00 | 240417 | 273 | Ruby | 81 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-22 04:31:50+00:00 | 7833 | 4358 | Python | 579 | [] |
 | mtthwstffrd/dirkjanm-CVE-2020-1472 | None | https://github.com/mtthwstffrd/dirkjanm-CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 03:33:46+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
