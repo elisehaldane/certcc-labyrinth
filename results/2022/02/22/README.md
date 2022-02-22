@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/22
     
-48 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -28,6 +28,8 @@
 | mtthwstffrd/dirkjanm-CVE-2020-1472 | None | https://github.com/mtthwstffrd/dirkjanm-CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 03:33:46+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
 | mxypoo/CVE-2016-3116-DropbearSSH | None | https://github.com/mxypoo/CVE-2016-3116-DropbearSSH | ['cve-2 OR cve_2'] | 1 | 2022-02-22 07:02:01+00:00 | 0 | 0 | Python | 0 | ['CVE-2016-3116'] |
 | vicojump/Exploit5 | None | https://github.com/vicojump/Exploit5 | ['exploit'] | 1 | 2022-02-22 08:33:04+00:00 | 0 | 0 | | 0 | [] |
+| vicojump/Exploit6 | None | https://github.com/vicojump/Exploit6 | ['exploit'] | 1 | 2022-02-22 08:37:34+00:00 | 0 | 0 | C# | 0 | [] |
+| Amaranese/Metasploit-termux | None | https://github.com/Amaranese/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-02-22 09:19:54+00:00 | 0 | 1 | Shell | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-22 08:39:26+00:00 | 50477 | 0 | Python | 0 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-22 07:37:07+00:00 | 483 | 0 | | 0 | [] |
 | LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | None | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-22 00:21:04+00:00 | 39 | 1 | | 0 | ['CVE-2021-44228'] |
@@ -36,6 +38,7 @@
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-02-22 04:31:50+00:00 | 7833 | 4358 | Python | 579 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-22 00:18:53+00:00 | 240417 | 273 | Ruby | 81 | [] |
 | audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2022-02-22 01:23:19+00:00 | 8135 | 0 | Rich Text Format | 1 | [] |
+| cnotin/SplunkWhisperer2 | Local privilege escalation, or remote code execution, through Splunk Universal Forwarder (UF) misconfigurations | https://github.com/cnotin/SplunkWhisperer2 | ['remote code execution'] | 1 | 2022-02-22 09:36:21+00:00 | 21 | 184 | Python | 43 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-22 06:46:44+00:00 | 39142 | 28 | | 18 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-02-22 03:07:58+00:00 | 2182 | 263 | C | 10 | [] |
 | wyzxxz/shiro_rce_tool | shiro 反序列 命令执行辅助检测工具 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2022-02-22 06:50:01+00:00 | 72469 | 807 | | 166 | [] |
@@ -50,6 +53,7 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-22 01:14:07+00:00 | 23234 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-22 01:14:52+00:00 | 7155 | 55 | HTML | 12 | [] |
 | hadrian3689/php8.1.0-dev-rce | None | https://github.com/hadrian3689/php8.1.0-dev-rce | ['rce'] | 1 | 2022-02-22 00:59:41+00:00 | 7 | 0 | Python | 0 | [] |
+| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-02-22 09:32:56+00:00 | 1393 | 0 | TypeScript | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-22 01:04:00+00:00 | 3544108 | 14 | Python | 3 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-22 08:04:50+00:00 | 4242 | 1 | Python | 0 | [] |
-| vicojump/Exploit6 | None | https://github.com/vicojump/Exploit6 | ['exploit'] | 1 | 2022-02-22 08:37:34+00:00 | 0 | 0 | C# | 0 | [] |
+| winezer0/SunloginBatchRCE | 向日葵RCE漏洞检测的相关脚本 | https://github.com/winezer0/SunloginBatchRCE | ['rce'] | 1 | 2022-02-22 09:28:25+00:00 | 0 | 0 | Python | 0 | [] |
