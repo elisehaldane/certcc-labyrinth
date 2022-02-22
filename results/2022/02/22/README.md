@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/22
     
-125 records found after deduplication
+127 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -21,7 +21,7 @@
 | Leaker-Gang/Multi-Exploit-Builder | Multi Exploit Builder V1 is a straightforward exploit builder for Firefox addons that allows for silent download, execution, and use of Windows shortcuts. | https://github.com/Leaker-Gang/Multi-Exploit-Builder | ['exploit'] | 1 | 2022-02-22 06:35:54+00:00 | 5 | 0 | | 0 | [] |
 | rysthicmc/RYS-Public | RYS is a Minecraft Bedrock Realms anticheat, made to stop hackers, exploits, and other things you wouldn't like in your server. | https://github.com/rysthicmc/RYS-Public | ['exploit'] | 1 | 2022-02-22 00:44:25+00:00 | 43 | 0 | mcfunction | 0 | [] |
 | Mr-xn/CVE-2022-24086 | CVE-2022-24086 about Magento RCE | https://github.com/Mr-xn/CVE-2022-24086 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-02-22 14:02:16+00:00 | 6 | 8 | | 2 | ['CVE-2022-24086'] |
-| lexisrepo/Linux-Exploitation | Audit and pentest methodologies for Linux including internal enumeration, privesc, lateral movement, etc. | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-02-22 22:07:51+00:00 | 32 | 0 | | 0 | [] |
+| vicojump/Exploit6 | None | https://github.com/vicojump/Exploit6 | ['exploit'] | 1 | 2022-02-22 08:37:34+00:00 | 0 | 0 | C# | 0 | [] |
 | Cracked5pider/ShellcodeTemplate | An easily modifiable shellcode template for Windows x64/x86 | https://github.com/Cracked5pider/ShellcodeTemplate | ['shellcode'] | 1 | 2022-02-22 13:06:22+00:00 | 146 | 116 | C | 19 | [] |
 | j2ekim/sunlogin_rce | 向日葵RCE漏洞检测工具 | https://github.com/j2ekim/sunlogin_rce | ['rce'] | 1 | 2022-02-22 08:39:22+00:00 | 14 | 1 | Python | 3 | [] |
 | ce-automne/SunloginRCE | 向日葵RCE，适用于内网安全检测场景 | https://github.com/ce-automne/SunloginRCE | ['rce'] | 1 | 2022-02-22 12:40:33+00:00 | 24657 | 3 | Go | 2 | [] |
@@ -32,13 +32,14 @@
 | pashokkok/Me4Sploit_Framework | Dont download it... Just trust me | https://github.com/pashokkok/Me4Sploit_Framework | ['sploit'] | 1 | 2022-02-22 12:19:30+00:00 | 3 | 0 | Python | 0 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-02-22 03:21:22+00:00 | 23 | 19 | Python | 11 | [] |
 | forSecurityaa/metasploitable3-win2k8 | metasploit 勉強用 | https://github.com/forSecurityaa/metasploitable3-win2k8 | ['metasploit module OR payload'] | 1 | 2022-02-22 18:34:30+00:00 | 16 | 0 | Shell | 0 | [] |
+| nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-22 23:07:11+00:00 | 175 | 0 | Go | 0 | [] |
 | RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-02-22 18:39:32+00:00 | 65 | 0 | Lua | 1 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-22 00:44:27+00:00 | 76012 | 2196 | nan | 243 | [] |
-| RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-22 02:28:44+00:00 | 135241 | 0 | | 0 | [] |
 | vicojump/Exploit5 | None | https://github.com/vicojump/Exploit5 | ['exploit'] | 1 | 2022-02-22 08:33:04+00:00 | 0 | 0 | | 0 | [] |
-| vicojump/Exploit6 | None | https://github.com/vicojump/Exploit6 | ['exploit'] | 1 | 2022-02-22 08:37:34+00:00 | 0 | 0 | C# | 0 | [] |
 | Amaranese/Metasploit-termux | None | https://github.com/Amaranese/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-02-22 09:19:54+00:00 | 0 | 1 | Shell | 0 | [] |
-| winezer0/SunloginBatchRCE | 向日葵RCE漏洞检测的相关脚本 | https://github.com/winezer0/SunloginBatchRCE | ['rce'] | 1 | 2022-02-22 09:28:25+00:00 | 0 | 0 | Python | 0 | [] |
+| lexisrepo/Database-Exploitation | None | https://github.com/lexisrepo/Database-Exploitation | ['exploit'] | 1 | 2022-02-22 00:09:01+00:00 | 7 | 0 | | 0 | [] |
+| zam0x1ma/github-desktop-pr-rce | None | https://github.com/zam0x1ma/github-desktop-pr-rce | ['rce'] | 1 | 2022-02-22 16:42:59+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| Nintendo-Homebrew/Tiramisu | Exploit que executa o CFW e o Tiramisu bootloader automaticamente a cada reinício. | https://github.com/Nintendo-Homebrew/Tiramisu | ['exploit'] | 1 | 2022-02-22 21:25:02+00:00 | 0 | 0 | | 0 | [] |
 | Thatcooldevguy/log4warn | A tool that scans Minecraft servers for the log4shell RCE, and warn all player(s) online about it. | https://github.com/Thatcooldevguy/log4warn | ['rce'] | 1 | 2022-02-22 21:09:33+00:00 | 0 | 0 | | 0 | [] |
 | DeepPainDev/python-wrdapi | a python port of the wearedevs exploit api | https://github.com/DeepPainDev/python-wrdapi | ['exploit'] | 1 | 2022-02-22 20:39:11+00:00 | 0 | 0 | Python | 0 | [] |
 | explabs/ad-ctf-paas-exploits | None | https://github.com/explabs/ad-ctf-paas-exploits | ['exploit'] | 1 | 2022-02-22 20:31:25+00:00 | 0 | 0 | Go | 0 | [] |
@@ -51,8 +52,8 @@
 | mihaigalos/exploits | None | https://github.com/mihaigalos/exploits | ['exploit'] | 1 | 2022-02-22 19:10:47+00:00 | 1 | 0 | Dockerfile | 0 | [] |
 | NoobieWacka/Roblox-Exploites | There's roblox exploites! | https://github.com/NoobieWacka/Roblox-Exploites | ['exploit'] | 1 | 2022-02-22 17:40:13+00:00 | 0 | 0 | | 0 | [] |
 | nayeem-bd/exploit | None | https://github.com/nayeem-bd/exploit | ['exploit'] | 1 | 2022-02-22 16:50:41+00:00 | 0 | 0 | HTML | 0 | [] |
-| zam0x1ma/github-desktop-pr-rce | None | https://github.com/zam0x1ma/github-desktop-pr-rce | ['rce'] | 1 | 2022-02-22 16:42:59+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Gboy64/K-E-D-EXPLOIT | None | https://github.com/Gboy64/K-E-D-EXPLOIT | ['exploit'] | 1 | 2022-02-22 16:15:27+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| winezer0/SunloginBatchRCE | 向日葵RCE漏洞检测的相关脚本 | https://github.com/winezer0/SunloginBatchRCE | ['rce'] | 1 | 2022-02-22 09:28:25+00:00 | 0 | 0 | Python | 0 | [] |
 | woahminas/RoSploits2 | to the moon | https://github.com/woahminas/RoSploits2 | ['sploit'] | 1 | 2022-02-22 16:29:30+00:00 | 0 | 0 | | 0 | [] |
 | ROOT44x/Exploit-Hub-Generator-By-j0nny | https://j0nny.neocities.org/Exploit%20Hub%20Generator.html | https://github.com/ROOT44x/Exploit-Hub-Generator-By-j0nny | ['exploit'] | 1 | 2022-02-22 15:33:03+00:00 | 0 | 0 | | 0 | [] |
 | HGDIS/ThinkPHP5-RCE | 漏洞检测、利用工具 | https://github.com/HGDIS/ThinkPHP5-RCE | ['rce'] | 1 | 2022-02-22 15:28:26+00:00 | 0 | 1 | Python | 0 | [] |
@@ -66,8 +67,8 @@
 | codernocook/-Build-A-Boat-For-Treasure-Exploit-Postum | None | https://github.com/codernocook/-Build-A-Boat-For-Treasure-Exploit-Postum | ['exploit'] | 1 | 2022-02-22 10:30:00+00:00 | 0 | 0 | | 0 | [] |
 | RSecxXx/RSecxXx_MassDork | Priv8 Tools Software Mass Dork Auto Exploit. | https://github.com/RSecxXx/RSecxXx_MassDork | ['exploit'] | 1 | 2022-02-22 10:09:07+00:00 | 0 | 0 | Python | 0 | [] |
 | UzJu/CVE-2022-21660 | None | https://github.com/UzJu/CVE-2022-21660 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 09:50:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-21660'] |
-| lexisrepo/Database-Exploitation | None | https://github.com/lexisrepo/Database-Exploitation | ['exploit'] | 1 | 2022-02-22 00:09:01+00:00 | 7 | 0 | | 0 | [] |
-| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-22 04:08:40+00:00 | 382 | 1 | Python | 0 | [] |
+| RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-22 02:28:44+00:00 | 135241 | 0 | | 0 | [] |
+| lexisrepo/Linux-Exploitation | Audit and pentest methodologies for Linux including internal enumeration, privesc, lateral movement, etc. | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-02-22 22:07:51+00:00 | 32 | 0 | | 0 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-22 01:33:07+00:00 | 22290 | 6675 | JavaScript | 1543 | [] |
 | CBIIT/rcellminerUtilsCDB | R package for cellminercdb | https://github.com/CBIIT/rcellminerUtilsCDB | ['rce'] | 1 | 2022-02-22 16:06:00+00:00 | 34187 | 0 | R | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-22 10:29:21+00:00 | 28786 | 16 | Python | 5 | [] |
@@ -76,7 +77,7 @@
 | gikabyte27/Pentest | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | ['exploit'] | 1 | 2022-02-22 10:17:38+00:00 | 4856 | 0 | Python | 0 | [] |
 | Maks1116/roblox-exploit-scripts | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | ['exploit'] | 1 | 2022-02-22 21:32:23+00:00 | 1310 | 2 | Lua | 1 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-02-22 14:52:55+00:00 | 13289 | 32 | Shell | 6 | [] |
-| snippray/Hell0 | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the dark web every day to find zero-day exploits which target hardware/software you have on your system. In version 1.0, it only works | https://github.com/snippray/Hell0 | ['0day', 'exploit'] | 2 | 2022-02-22 16:46:22+00:00 | 23 | 21 | Python | 0 | [] |
+| snippray/Hell0 | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the dark web every day to find zero-day exploits which target hardware/software you have on your system. In version 1.0, it only works | https://github.com/snippray/Hell0 | ['0day', 'exploit'] | 2 | 2022-02-22 17:03:47+00:00 | 35 | 21 | Python | 0 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-22 07:33:18+00:00 | 37933 | 670 | Go | 150 | [] |
 | wyzxxz/shiro_rce_tool | shiro 反序列 命令执行辅助检测工具 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2022-02-22 06:50:01+00:00 | 72469 | 807 | | 166 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-02-22 03:07:58+00:00 | 2182 | 263 | C | 10 | [] |
@@ -84,7 +85,7 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-02-22 12:30:19+00:00 | 204207 | 127 | REXX | 12 | [] |
 | dar3k93/Basic-service-enumeration | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | ['exploit'] | 1 | 2022-02-22 17:21:59+00:00 | 935 | 0 | | 0 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-02-22 11:48:46+00:00 | 96040 | 2768 | Python | 427 | [] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-22 16:49:53+00:00 | 2793 | 31 | | 2 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-22 20:37:53+00:00 | 7038 | 131 | Python | 43 | [] |
 | DanMcInerney/pymetasploit3 | Automation library for Metasploit | https://github.com/DanMcInerney/pymetasploit3 | ['metasploit module OR payload'] | 1 | 2022-02-22 19:23:48+00:00 | 1500 | 264 | PowerShell | 79 | [] |
 | cnotin/SplunkWhisperer2 | Local privilege escalation, or remote code execution, through Splunk Universal Forwarder (UF) misconfigurations | https://github.com/cnotin/SplunkWhisperer2 | ['remote code execution'] | 1 | 2022-02-22 09:36:21+00:00 | 21 | 184 | Python | 43 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2022-02-22 12:13:43+00:00 | 192252 | 26 | C++ | 58 | [] |
@@ -99,9 +100,10 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-22 05:09:09+00:00 | 258696 | 6864 | C | 1874 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-22 08:40:27+00:00 | 46721 | 862 | Python | 204 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-02-22 05:54:27+00:00 | 294322 | 854 | C# | 200 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-22 20:37:53+00:00 | 7038 | 131 | Python | 43 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-22 00:56:09+00:00 | 114 | 0 | PHP | 0 | [] |
-| RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-02-22 01:20:26+00:00 | 192 | 7 | Shell | 1 | [] |
+| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-22 04:08:40+00:00 | 382 | 1 | Python | 0 | [] |
+| PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-02-22 19:11:16+00:00 | 21 | 1 | | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-22 16:49:53+00:00 | 2793 | 31 | | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-22 12:16:03+00:00 | 36063 | 2 | Jupyter Notebook | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-22 08:39:26+00:00 | 50477 | 0 | Python | 0 | [] |
 | Wh1terat/aQRootG3 | Enable telnet via qrcode command injection for Aqara G3 hub | https://github.com/Wh1terat/aQRootG3 | ['command injection'] | 1 | 2022-02-22 12:17:28+00:00 | 25 | 12 | Python | 5 | [] |
@@ -114,8 +116,8 @@
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2022-02-22 21:29:58+00:00 | 462 | 2 | | 1 | [] |
 | NobleMathews/devaa-docker | Exploit android vulnerabilities automatically ~ Project moved to pydevaa development | https://github.com/NobleMathews/devaa-docker | ['exploit'] | 1 | 2022-02-22 20:53:25+00:00 | 5042 | 1 | PowerShell | 0 | [] |
 | mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-22 17:22:39+00:00 | 83 | 0 | C | 0 | [] |
-| PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-02-22 19:11:16+00:00 | 21 | 1 | | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-22 09:59:01+00:00 | 7499 | 944 | TypeScript | 156 | [] |
+| RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-02-22 01:20:26+00:00 | 192 | 7 | Shell | 1 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-22 08:04:50+00:00 | 4242 | 1 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-22 01:04:00+00:00 | 3544108 | 14 | Python | 3 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-02-22 09:32:56+00:00 | 1393 | 0 | TypeScript | 0 | [] |
@@ -129,4 +131,4 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-22 10:07:04+00:00 | 598066 | 79 | | 14 | [] |
 | brad-lin/FreePSXBoot | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | ['exploit'] | 1 | 2022-02-22 07:06:39+00:00 | 545 | 296 | C | 22 | [] |
 | Lesking72/ps4 | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | ['exploit'] | 1 | 2022-02-22 17:12:53+00:00 | 4043 | 0 | JavaScript | 0 | [] |
-| Nintendo-Homebrew/Tiramisu | Exploit que executa o CFW e o Tiramisu bootloader automaticamente a cada reinício. | https://github.com/Nintendo-Homebrew/Tiramisu | ['exploit'] | 1 | 2022-02-22 21:25:02+00:00 | 0 | 0 | | 0 | [] |
+| kolbyomalley/Microsoft_hacking | My collection of Microsoft security information, exploits, and tools for information use only | https://github.com/kolbyomalley/Microsoft_hacking | ['exploit'] | 1 | 2022-02-22 23:22:53+00:00 | 0 | 0 | | 0 | [] |
