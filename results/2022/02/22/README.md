@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/22
     
-52 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -14,6 +14,7 @@
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-02-22 03:21:22+00:00 | 23 | 19 | Python | 11 | [] |
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-02-22 04:00:42+00:00 | 31980 | 0 | Lua | 0 | [] |
 | Skymine/xiangrikui-exp | 向日葵RCE漏洞一键批量检测 | https://github.com/Skymine/xiangrikui-exp | ['rce'] | 1 | 2022-02-22 03:36:24+00:00 | 775 | 13 | Python | 7 | [] |
+| hbo-partners/guides | Guide Exploitation | https://github.com/hbo-partners/guides | ['exploit'] | 1 | 2022-02-22 10:29:23+00:00 | 462 | 0 | Dockerfile | 0 | [] |
 | j2ekim/sunlogin_rce | 向日葵RCE漏洞检测工具 | https://github.com/j2ekim/sunlogin_rce | ['rce'] | 1 | 2022-02-22 08:39:22+00:00 | 14 | 1 | Python | 3 | [] |
 | lexisrepo/Web-Exploitation | None | https://github.com/lexisrepo/Web-Exploitation | ['exploit'] | 1 | 2022-02-22 00:15:22+00:00 | 17 | 0 | | 0 | [] |
 | rysthicmc/RYS-Public | RYS is a Minecraft Bedrock Realms anticheat, made to stop hackers, exploits, and other things you wouldn't like in your server. | https://github.com/rysthicmc/RYS-Public | ['exploit'] | 1 | 2022-02-22 00:44:25+00:00 | 43 | 0 | mcfunction | 0 | [] |
@@ -30,6 +31,9 @@
 | vicojump/Exploit5 | None | https://github.com/vicojump/Exploit5 | ['exploit'] | 1 | 2022-02-22 08:33:04+00:00 | 0 | 0 | | 0 | [] |
 | vicojump/Exploit6 | None | https://github.com/vicojump/Exploit6 | ['exploit'] | 1 | 2022-02-22 08:37:34+00:00 | 0 | 0 | C# | 0 | [] |
 | Amaranese/Metasploit-termux | None | https://github.com/Amaranese/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-02-22 09:19:54+00:00 | 0 | 1 | Shell | 0 | [] |
+| winezer0/SunloginBatchRCE | 向日葵RCE漏洞检测的相关脚本 | https://github.com/winezer0/SunloginBatchRCE | ['rce'] | 1 | 2022-02-22 09:28:25+00:00 | 0 | 0 | Python | 0 | [] |
+| UzJu/CVE-2022-21660 | None | https://github.com/UzJu/CVE-2022-21660 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 09:50:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-21660'] |
+| RSecxXx/RSecxXx_MassDork | Priv8 Tools Software Mass Dork Auto Exploit. | https://github.com/RSecxXx/RSecxXx_MassDork | ['exploit'] | 1 | 2022-02-22 10:09:07+00:00 | 0 | 0 | Python | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-22 08:39:26+00:00 | 50477 | 0 | Python | 0 | [] |
 | jnz-dev/PL-Exploiter-DB | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | ['exploit'] | 1 | 2022-02-22 07:37:07+00:00 | 483 | 0 | | 0 | [] |
 | LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | None | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-22 00:21:04+00:00 | 39 | 1 | | 0 | ['CVE-2021-44228'] |
@@ -43,11 +47,14 @@
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-02-22 03:07:58+00:00 | 2182 | 263 | C | 10 | [] |
 | wyzxxz/shiro_rce_tool | shiro 反序列 命令执行辅助检测工具 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2022-02-22 06:50:01+00:00 | 72469 | 807 | | 166 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-22 07:33:18+00:00 | 37933 | 670 | Go | 150 | [] |
+| gikabyte27/Pentest | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | ['exploit'] | 1 | 2022-02-22 10:17:38+00:00 | 4856 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-22 00:03:42+00:00 | 471746 | 46 | | 21 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-22 10:29:21+00:00 | 28786 | 16 | Python | 5 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-22 00:56:09+00:00 | 114 | 0 | PHP | 0 | [] |
 | adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-22 03:54:26+00:00 | 12 | 0 | Go | 0 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-02-22 01:20:26+00:00 | 192 | 7 | Shell | 1 | [] |
 | brad-lin/FreePSXBoot | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | ['exploit'] | 1 | 2022-02-22 07:06:39+00:00 | 545 | 296 | C | 22 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-22 10:07:04+00:00 | 598066 | 79 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-22 00:40:40+00:00 | 115895 | 323 | Python | 99 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-02-22 06:02:12+00:00 | 2395681 | 21 | | 9 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-22 01:14:07+00:00 | 23234 | 2 | Python | 0 | [] |
@@ -56,4 +63,5 @@
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-02-22 09:32:56+00:00 | 1393 | 0 | TypeScript | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-22 01:04:00+00:00 | 3544108 | 14 | Python | 3 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-22 08:04:50+00:00 | 4242 | 1 | Python | 0 | [] |
-| winezer0/SunloginBatchRCE | 向日葵RCE漏洞检测的相关脚本 | https://github.com/winezer0/SunloginBatchRCE | ['rce'] | 1 | 2022-02-22 09:28:25+00:00 | 0 | 0 | Python | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-22 09:59:01+00:00 | 7499 | 944 | TypeScript | 156 | [] |
+| codernocook/-Build-A-Boat-For-Treasure-Exploit-Postum | None | https://github.com/codernocook/-Build-A-Boat-For-Treasure-Exploit-Postum | ['exploit'] | 1 | 2022-02-22 10:30:00+00:00 | 0 | 0 | | 0 | [] |
