@@ -1,12 +1,13 @@
 
 # Summary for results/2022/02/22
     
-130 records found after deduplication
+131 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-22 11:22:24+00:00 | 688882 | 26432 | Ruby | 11981 | [] |
-| vicojump/Exploit6 | None | https://github.com/vicojump/Exploit6 | ['exploit'] | 1 | 2022-02-22 08:37:34+00:00 | 0 | 0 | C# | 0 | [] |
+| Amaranese/Metasploit-termux | None | https://github.com/Amaranese/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-02-22 09:19:54+00:00 | 0 | 1 | Shell | 0 | [] |
+| vicojump/Exploit5 | None | https://github.com/vicojump/Exploit5 | ['exploit'] | 1 | 2022-02-22 08:33:04+00:00 | 0 | 0 | | 0 | [] |
 | mxypoo/CVE-2016-3116-DropbearSSH | None | https://github.com/mxypoo/CVE-2016-3116-DropbearSSH | ['cve-2 OR cve_2'] | 1 | 2022-02-22 07:02:01+00:00 | 0 | 0 | Python | 0 | ['CVE-2016-3116'] |
 | Milo-D/write-ups | Binary Exploitation Write-Ups | https://github.com/Milo-D/write-ups | ['exploit'] | 1 | 2022-02-22 20:01:32+00:00 | 789 | 1 | Python | 0 | [] |
 | mtthwstffrd/dirkjanm-CVE-2020-1472 | None | https://github.com/mtthwstffrd/dirkjanm-CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 03:33:46+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
@@ -35,11 +36,10 @@
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-22 23:07:11+00:00 | 175 | 0 | Go | 0 | [] |
 | RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-02-22 18:39:32+00:00 | 65 | 0 | Lua | 1 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-22 00:44:27+00:00 | 76012 | 2196 | nan | 243 | [] |
-| RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-22 02:28:44+00:00 | 135241 | 0 | | 0 | [] |
-| vicojump/Exploit5 | None | https://github.com/vicojump/Exploit5 | ['exploit'] | 1 | 2022-02-22 08:33:04+00:00 | 0 | 0 | | 0 | [] |
-| Amaranese/Metasploit-termux | None | https://github.com/Amaranese/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-02-22 09:19:54+00:00 | 0 | 1 | Shell | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-22 01:33:07+00:00 | 22290 | 6675 | JavaScript | 1543 | [] |
+| vicojump/Exploit6 | None | https://github.com/vicojump/Exploit6 | ['exploit'] | 1 | 2022-02-22 08:37:34+00:00 | 0 | 0 | C# | 0 | [] |
 | winezer0/SunloginBatchRCE | 向日葵RCE漏洞检测的相关脚本 | https://github.com/winezer0/SunloginBatchRCE | ['rce'] | 1 | 2022-02-22 09:28:25+00:00 | 0 | 0 | Python | 0 | [] |
+| lexisrepo/Database-Exploitation | None | https://github.com/lexisrepo/Database-Exploitation | ['exploit'] | 1 | 2022-02-22 00:09:01+00:00 | 7 | 0 | | 0 | [] |
+| UzJu/CVE-2022-21660 | None | https://github.com/UzJu/CVE-2022-21660 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 09:50:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-21660'] |
 | kolbyomalley/Microsoft_hacking | My collection of Microsoft security information, exploits, and tools for information use only | https://github.com/kolbyomalley/Microsoft_hacking | ['exploit'] | 1 | 2022-02-22 23:22:53+00:00 | 0 | 0 | | 0 | [] |
 | Nintendo-Homebrew/Tiramisu | Exploit que executa o CFW e o Tiramisu bootloader automaticamente a cada reinício. | https://github.com/Nintendo-Homebrew/Tiramisu | ['exploit'] | 1 | 2022-02-22 21:25:02+00:00 | 0 | 0 | | 0 | [] |
 | Thatcooldevguy/log4warn | A tool that scans Minecraft servers for the log4shell RCE, and warn all player(s) online about it. | https://github.com/Thatcooldevguy/log4warn | ['rce'] | 1 | 2022-02-22 21:09:33+00:00 | 0 | 0 | | 0 | [] |
@@ -50,6 +50,7 @@
 | Udyz/CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-02-22 19:05:58+00:00 | 0 | 2 | Python | 0 | ['CVE-2022-24112'] |
 | pashokkok/Me4Sploit | Big hack tool project | https://github.com/pashokkok/Me4Sploit | ['sploit'] | 1 | 2022-02-22 19:38:26+00:00 | 0 | 0 | Python | 0 | [] |
 | giuliocarot0/QtScreenRecorder | A Qt App to capture your screen and the audio from your microphone. This app exploits the screenreclib. | https://github.com/giuliocarot0/QtScreenRecorder | ['exploit'] | 1 | 2022-02-22 18:15:25+00:00 | 0 | 0 | C++ | 0 | [] |
+| srao39/CStoneTest | Team Project worked on to showcase how computer securities and flaws exist at the code level for online games, which can give an unfair advantage with those who are aware of exploiting them. | https://github.com/srao39/CStoneTest | ['exploit'] | 1 | 2022-02-22 18:51:17+00:00 | 189 | 0 | C++ | 0 | [] |
 | nperry15/Vulnerabilities | Vulnerabilities exploit project | https://github.com/nperry15/Vulnerabilities | ['exploit'] | 1 | 2022-02-22 17:47:22+00:00 | 0 | 0 | Ruby | 0 | [] |
 | mihaigalos/exploits | None | https://github.com/mihaigalos/exploits | ['exploit'] | 1 | 2022-02-22 19:10:47+00:00 | 1 | 0 | Dockerfile | 0 | [] |
 | NoobieWacka/Roblox-Exploites | There's roblox exploites! | https://github.com/NoobieWacka/Roblox-Exploites | ['exploit'] | 1 | 2022-02-22 17:40:13+00:00 | 0 | 0 | | 0 | [] |
@@ -68,11 +69,10 @@
 | giwrgos7/Machine-Learning-WAF | This repo contains the deliverables of my Master's Thesis provisioning the deployment of a simple ML-enabled WAF system mitigating injection-type payloads (SQL Injection, XSS, Command Injection) | https://github.com/giwrgos7/Machine-Learning-WAF | ['command injection'] | 1 | 2022-02-22 11:36:49+00:00 | 0 | 0 | | 0 | [] |
 | codernocook/-Build-A-Boat-For-Treasure-Exploit-Postum | None | https://github.com/codernocook/-Build-A-Boat-For-Treasure-Exploit-Postum | ['exploit'] | 1 | 2022-02-22 10:30:00+00:00 | 0 | 0 | | 0 | [] |
 | RSecxXx/RSecxXx_MassDork | Priv8 Tools Software Mass Dork Auto Exploit. | https://github.com/RSecxXx/RSecxXx_MassDork | ['exploit'] | 1 | 2022-02-22 10:09:07+00:00 | 0 | 0 | Python | 0 | [] |
-| UzJu/CVE-2022-21660 | None | https://github.com/UzJu/CVE-2022-21660 | ['cve-2 OR cve_2'] | 1 | 2022-02-22 09:50:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-21660'] |
-| lexisrepo/Database-Exploitation | None | https://github.com/lexisrepo/Database-Exploitation | ['exploit'] | 1 | 2022-02-22 00:09:01+00:00 | 7 | 0 | | 0 | [] |
+| RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-22 02:28:44+00:00 | 135241 | 0 | | 0 | [] |
 | lexisrepo/Linux-Exploitation | Audit and pentest methodologies for Linux including internal enumeration, privesc, lateral movement, etc. | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-02-22 22:07:51+00:00 | 32 | 0 | | 0 | [] |
-| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-22 04:08:40+00:00 | 382 | 1 | Python | 0 | [] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-22 16:49:53+00:00 | 2793 | 31 | | 2 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-22 01:33:07+00:00 | 22290 | 6675 | JavaScript | 1543 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-02-22 05:54:27+00:00 | 294322 | 854 | C# | 200 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-22 10:29:21+00:00 | 28786 | 16 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-22 00:03:42+00:00 | 471746 | 46 | | 21 | [] |
 | LinuxUser255/MS17-010_explained | This repo is a deep-dive into the Eternal Blue buffer overflow attack, included is the exploit source code, and extensive documentation. | https://github.com/LinuxUser255/MS17-010_explained | ['exploit'] | 1 | 2022-02-22 16:10:43+00:00 | 3221 | 0 | Python | 0 | ['MS17-010'] |
@@ -103,9 +103,10 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-22 05:09:09+00:00 | 258696 | 6864 | C | 1874 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-22 08:40:27+00:00 | 46721 | 862 | Python | 204 | [] |
 | liamg/traitor | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | ['exploit'] | 1 | 2022-02-22 13:05:45+00:00 | 2459 | 3563 | Go | 216 | [] |
-| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-02-22 05:54:27+00:00 | 294322 | 854 | C# | 200 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-22 20:37:53+00:00 | 7038 | 131 | Python | 43 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-22 09:59:01+00:00 | 7499 | 944 | TypeScript | 156 | [] |
+| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-22 04:08:40+00:00 | 382 | 1 | Python | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-22 00:56:09+00:00 | 114 | 0 | PHP | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-22 16:49:53+00:00 | 2793 | 31 | | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-22 12:16:03+00:00 | 36063 | 2 | Jupyter Notebook | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-22 08:39:26+00:00 | 50477 | 0 | Python | 0 | [] |
 | Wh1terat/aQRootG3 | Enable telnet via qrcode command injection for Aqara G3 hub | https://github.com/Wh1terat/aQRootG3 | ['command injection'] | 1 | 2022-02-22 12:17:28+00:00 | 25 | 12 | Python | 5 | [] |
@@ -119,8 +120,8 @@
 | NobleMathews/devaa-docker | Exploit android vulnerabilities automatically ~ Project moved to pydevaa development | https://github.com/NobleMathews/devaa-docker | ['exploit'] | 1 | 2022-02-22 20:53:25+00:00 | 5042 | 1 | PowerShell | 0 | [] |
 | mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2022-02-22 17:22:39+00:00 | 83 | 0 | C | 0 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-02-22 19:11:16+00:00 | 21 | 1 | | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-22 09:59:01+00:00 | 7499 | 944 | TypeScript | 156 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-22 08:04:50+00:00 | 4242 | 1 | Python | 0 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-22 00:56:09+00:00 | 114 | 0 | PHP | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-22 01:04:00+00:00 | 3544108 | 14 | Python | 3 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-02-22 09:32:56+00:00 | 1393 | 0 | TypeScript | 0 | [] |
 | hadrian3689/php8.1.0-dev-rce | None | https://github.com/hadrian3689/php8.1.0-dev-rce | ['rce'] | 1 | 2022-02-22 00:59:41+00:00 | 7 | 0 | Python | 0 | [] |
