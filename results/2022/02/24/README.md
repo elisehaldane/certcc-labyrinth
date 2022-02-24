@@ -1,12 +1,12 @@
 
 # Summary for results/2022/02/24
     
-113 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-24 14:39:17+00:00 | 690791 | 26452 | Ruby | 11989 | [] |
-| mikias21/machine_learning_final_project | Generating Syntatic Cross-Site Scripting exploits using deep learning | https://github.com/mikias21/machine_learning_final_project | ['exploit'] | 1 | 2022-02-24 16:20:47+00:00 | 20 | 0 | Jupyter Notebook | 0 | [] |
+| its0x08/werkzeug-debug | A simple python tool to achieve RCE when debug is enabled. | https://github.com/its0x08/werkzeug-debug | ['rce'] | 1 | 2022-02-24 11:38:11+00:00 | 5 | 3 | Python | 0 | [] |
 | Henry4E36/sunlogin-rce | 向日葵RCE | https://github.com/Henry4E36/sunlogin-rce | ['rce'] | 1 | 2022-02-24 02:19:05+00:00 | 0 | 1 | | 0 | [] |
 | P-DennyGamingYT/PDennSploit-F | The #1 Fortnite Private Server Client | https://github.com/P-DennyGamingYT/PDennSploit-F | ['sploit'] | 1 | 2022-02-24 01:33:43+00:00 | 0 | 0 | | 0 | [] |
 | Eli-Segovia/BufferOverflowExploit | None | https://github.com/Eli-Segovia/BufferOverflowExploit | ['exploit'] | 1 | 2022-02-24 01:14:27+00:00 | 0 | 0 | | 0 | [] |
@@ -19,8 +19,8 @@
 | Leo-Security/CVE-2021-27965-Win10-20H2-x64 | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-24 02:45:33+00:00 | 2 | 0 | C | 0 | ['CVE-2021-27965'] |
 | PratyayMallik1006/Cybersecurity-Guide | when we know in what ways a hacker can exploit our systems we can figureout ways to protect our systems. | https://github.com/PratyayMallik1006/Cybersecurity-Guide | ['exploit'] | 1 | 2022-02-24 03:20:55+00:00 | 5084 | 0 | | 0 | [] |
 | zjysteven/PrivayAttack_AT_FL | A privacy attack that exploits Adversarial Training models to compromise the privacy of Federated Learning systems. | https://github.com/zjysteven/PrivayAttack_AT_FL | ['exploit'] | 1 | 2022-02-24 20:18:17+00:00 | 3090 | 1 | Python | 1 | [] |
-| its0x08/werkzeug-debug | A simple python tool to achieve RCE when debug is enabled. | https://github.com/its0x08/werkzeug-debug | ['rce'] | 1 | 2022-02-24 11:38:11+00:00 | 5 | 3 | Python | 0 | [] |
 | 0bfxgh0st/lfisuite | Local File Inclusion scanner, enumerator and rce. | https://github.com/0bfxgh0st/lfisuite | ['rce'] | 1 | 2022-02-24 18:29:30+00:00 | 970 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-24 16:18:15+00:00 | 22289 | 6708 | JavaScript | 1552 | [] |
 | Mr-xn/cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-24 15:02:12+00:00 | 4 | 68 | Python | 25 | ['CVE-2022-23131'] |
 | comp426-2022-spring/a03-rceglie | a03-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a03-rceglie | ['rce'] | 1 | 2022-02-24 17:29:35+00:00 | 18 | 0 | | 0 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-02-24 21:28:27+00:00 | 77371 | 0 | HTML | 0 | [] |
@@ -29,13 +29,15 @@
 | dsund/miniapi | Work in progress to exploit minimal api's and .net 6 | https://github.com/dsund/miniapi | ['exploit'] | 1 | 2022-02-24 11:30:05+00:00 | 10299 | 0 | C# | 0 | [] |
 | coding-stuffs/china-dictatorshrip | Anti Chinese government information. 反中共消息库。https://github.com/cirosantilli/china-dictatorship 的备份backup. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/coding-stuffs/china-dictatorshrip | ['attack poc', 'exploit'] | 2 | 2022-02-24 11:02:58+00:00 | 6148 | 1 | HTML | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 02:29:04+00:00 | 91341 | 2270 | | 260 | [] |
+| EmanuelFirmino/Shellshock-Remote-Shell-Exploit | None | https://github.com/EmanuelFirmino/Shellshock-Remote-Shell-Exploit | ['exploit'] | 1 | 2022-02-24 20:14:26+00:00 | 408 | 0 | Python | 0 | [] |
 | not-body/NotBodySploit | None | https://github.com/not-body/NotBodySploit | ['sploit'] | 1 | 2022-02-24 17:34:34+00:00 | 41 | 1 | HTML | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-24 05:39:17+00:00 | 451 | 1 | Python | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-24 08:26:50+00:00 | 2800 | 33 | | 2 | [] |
 | Ryze-T/CNVD-2022-10270-LPE | 基于向日葵RCE的本地权限提升，无需指定端口 | https://github.com/Ryze-T/CNVD-2022-10270-LPE | ['cnvd-c OR cnvd-2 OR cnnvd-2', 'rce'] | 2 | 2022-02-24 02:39:55+00:00 | 0 | 4 | C# | 0 | ['CNVD-2022-10270'] |
 | AninditaDeb/-LDAM-DRW-and-RCE | Robust CNN model using LDAM DRW and RCE Loss functions | https://github.com/AninditaDeb/-LDAM-DRW-and-RCE | ['rce'] | 1 | 2022-02-24 02:58:32+00:00 | 0 | 0 | Python | 0 | [] |
 | JCCD/Contao-Managed-Edition-1.5-RCE | Contao Managed Edition 1.5 RCE | https://github.com/JCCD/Contao-Managed-Edition-1.5-RCE | ['rce'] | 1 | 2022-02-24 03:36:48+00:00 | 0 | 0 | | 0 | [] |
-| OmriBaso/-CVE-2022-22845-Exploit | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-24 13:42:13+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22845'] |
+| PlexDevelopment/Blackout | Blackout exploits on your Minecraft server. | https://github.com/PlexDevelopment/Blackout | ['exploit'] | 1 | 2022-02-24 06:16:42+00:00 | 0 | 0 | | 0 | [] |
+| Zedruc/NSIDAB | Auto bans every player joining without a Steam ID. (Steam exploit) | https://github.com/Zedruc/NSIDAB | ['exploit'] | 1 | 2022-02-24 21:26:22+00:00 | 0 | 0 | | 0 | [] |
 | marcmoiagese/eyp-metasploit | None | https://github.com/marcmoiagese/eyp-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-24 19:47:28+00:00 | 0 | 0 | Ruby | 0 | [] |
 | eqq-evil/kokolaXD | The new roblox exploit script. | https://github.com/eqq-evil/kokolaXD | ['exploit'] | 1 | 2022-02-24 19:12:45+00:00 | 0 | 0 | Lua | 0 | [] |
 | sarovenbd/shellCodes | None | https://github.com/sarovenbd/shellCodes | ['shellcode'] | 1 | 2022-02-24 18:54:35+00:00 | 0 | 0 | | 0 | [] |
@@ -47,8 +49,8 @@
 | hamm0nz/CVE-2020-18324 | None | https://github.com/hamm0nz/CVE-2020-18324 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-02-24 15:42:09+00:00 | 0 | 0 | | 0 | ['CVE-2020-18324'] |
 | benliew68/hungry-jacks-survey-exploit | POC of cracking the myhjexperience.com Validation Code ciphers | https://github.com/benliew68/hungry-jacks-survey-exploit | ['exploit'] | 1 | 2022-02-24 13:58:23+00:00 | 0 | 0 | Python | 0 | [] |
 | Ananya-0306/Log-4j-scanner | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 | https://github.com/Ananya-0306/Log-4j-scanner | ['rce'] | 1 | 2022-02-24 13:49:18+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-44228'] |
+| OmriBaso/-CVE-2022-22845-Exploit | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-24 13:42:13+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22845'] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-24 13:11:40+00:00 | 0 | 0 | Java | 0 | [] |
-| PlexDevelopment/Blackout | Blackout exploits on your Minecraft server. | https://github.com/PlexDevelopment/Blackout | ['exploit'] | 1 | 2022-02-24 06:16:42+00:00 | 0 | 0 | | 0 | [] |
 | pykiller/CVE-2022-23131 | None | https://github.com/pykiller/CVE-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-24 11:34:28+00:00 | 0 | 0 | | 0 | ['CVE-2022-23131'] |
 | QHpix/CVE-2021-44521 | Automated PoC of CVE-2021-44521 | https://github.com/QHpix/CVE-2021-44521 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-24 11:11:07+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-44521'] |
 | 1rm/SunloginClient_RCE | 🔆CNVD-2022-10270 | https://github.com/1rm/SunloginClient_RCE | ['rce'] | 1 | 2022-02-24 11:34:20+00:00 | 0 | 0 | | 0 | ['CNVD-2022-10270'] |
@@ -61,9 +63,9 @@
 | samiam2013/fightingBack | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/fightingBack | ['exploit'] | 1 | 2022-02-24 08:02:53+00:00 | 0 | 0 | | 0 | [] |
 | NFTBoosts-io/the-worlds-largest-NFT-marketing-company | WHAT EXACTLY IS AN NFT? WHAT DOES NFT REPRESENT? Token that is not fungible. That doesn't help things much. Sorry for the inconvenience. "Non-fungible" basically indicates it's one-of-a-kind and can't be substituted with anything else. A bitcoin, for ex | https://github.com/NFTBoosts-io/the-worlds-largest-NFT-marketing-company | ['exploit'] | 1 | 2022-02-24 07:47:40+00:00 | 0 | 0 | | 0 | [] |
 | phoenixthrush-malicious/www.phoenixthrush-malicious.com | malware samples, payloads and exploits | https://github.com/phoenixthrush-malicious/www.phoenixthrush-malicious.com | ['exploit'] | 1 | 2022-02-24 15:38:50+00:00 | 15 | 0 | | 0 | [] |
+| mikias21/machine_learning_final_project | Generating Syntatic Cross-Site Scripting exploits using deep learning | https://github.com/mikias21/machine_learning_final_project | ['exploit'] | 1 | 2022-02-24 16:20:47+00:00 | 20 | 0 | Jupyter Notebook | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-24 12:13:20+00:00 | 39022 | 2 | Jupyter Notebook | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-24 16:18:15+00:00 | 22289 | 6708 | JavaScript | 1552 | [] |
-| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-02-24 03:24:41+00:00 | 154 | 1 | | 0 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-24 10:29:54+00:00 | 56276 | 16 | Python | 5 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2022-02-24 16:42:44+00:00 | 4361 | 13 | PowerShell | 3 | [] |
 | Devolutions/rcedit-rs | Rust fork of rcedit (https://github.com/electron/rcedit) | https://github.com/Devolutions/rcedit-rs | ['rce'] | 1 | 2022-02-24 13:33:37+00:00 | 28 | 1 | C++ | 1 | [] |
 | smallkirby/kernelpwn | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | ['exploit'] | 1 | 2022-02-24 03:22:22+00:00 | 11555 | 208 | C | 12 | [] |
@@ -90,9 +92,9 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-24 00:45:25+00:00 | 3974 | 2608 | PowerShell | 742 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-24 08:23:21+00:00 | 46799 | 862 | Python | 204 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-24 00:04:07+00:00 | 481221 | 46 | | 21 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-24 10:29:54+00:00 | 56276 | 16 | Python | 5 | [] |
+| liamg/traitor | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | ['exploit'] | 1 | 2022-02-24 17:54:32+00:00 | 2459 | 3566 | Go | 220 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-02-24 03:24:41+00:00 | 154 | 1 | | 0 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-02-24 00:17:50+00:00 | 62 | 0 | Ruby | 0 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-24 01:09:35+00:00 | 3722482 | 15 | Python | 3 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-02-24 11:23:13+00:00 | 1644 | 180 | Ruby | 21 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-24 11:25:48+00:00 | 320620 | 318 | PHP | 119 | [] |
 | DevDeclann/gadgets | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | ['exploit'] | 1 | 2022-02-24 00:55:57+00:00 | 17 | 0 | JavaScript | 1 | [] |
@@ -104,8 +106,8 @@
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-02-24 18:13:48+00:00 | 1766 | 47 | JavaScript | 52 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-24 02:39:23+00:00 | 7534 | 970 | TypeScript | 160 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-02-24 13:32:59+00:00 | 563 | 0 | Lua | 2 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-24 01:09:35+00:00 | 3722482 | 15 | Python | 3 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-02-24 10:32:50+00:00 | 1599 | 0 | TypeScript | 0 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-24 01:34:36+00:00 | 114 | 0 | PHP | 0 | [] |
 | Wra7h/Single-Dose | Generate .NET Process Injection Binaries/Shellcode Loaders | https://github.com/Wra7h/Single-Dose | ['shellcode'] | 1 | 2022-02-24 16:43:13+00:00 | 308 | 29 | C# | 8 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2022-02-24 16:24:43+00:00 | 129 | 0 | Lua | 0 | [] |
 | cirosantilli/china-dictatorhsip-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorhsip-2 | ['attack poc', 'exploit'] | 2 | 2022-02-24 11:02:59+00:00 | 10114 | 26 | HTML | 9 | [] |
@@ -117,4 +119,5 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 04:06:43+00:00 | 640561 | 81 | | 14 | [] |
 | gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-02-24 10:02:45+00:00 | 4636 | 0 | R | 0 | [] |
 | davidshares/Lightning-Network | List of Lightning Network technical issues, bugs, flaws, and exploits. | https://github.com/davidshares/Lightning-Network | ['exploit'] | 1 | 2022-02-24 14:32:25+00:00 | 153 | 62 | | 1 | [] |
-| Zedruc/NSIDAB | Auto bans every player joining without a Steam ID. (Steam exploit) | https://github.com/Zedruc/NSIDAB | ['exploit'] | 1 | 2022-02-24 21:26:22+00:00 | 0 | 0 | | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-24 01:34:36+00:00 | 114 | 0 | PHP | 0 | [] |
+| lanmor2013/Roblox-Puro-Exploit | only changed fans like this | https://github.com/lanmor2013/Roblox-Puro-Exploit | ['exploit'] | 1 | 2022-02-24 22:07:42+00:00 | 0 | 0 | | 0 | [] |
