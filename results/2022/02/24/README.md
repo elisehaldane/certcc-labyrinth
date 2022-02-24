@@ -1,14 +1,15 @@
 
 # Summary for results/2022/02/24
     
-50 records found after deduplication
+54 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-24 08:23:21+00:00 | 46799 | 862 | Python | 204 | [] |
 | P-DennyGamingYT/PDennSploit-F | The #1 Fortnite Private Server Client | https://github.com/P-DennyGamingYT/PDennSploit-F | ['sploit'] | 1 | 2022-02-24 01:33:43+00:00 | 0 | 0 | | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-24 08:26:50+00:00 | 2800 | 33 | | 2 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-24 05:39:17+00:00 | 451 | 1 | Python | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 02:29:04+00:00 | 91341 | 2270 | | 260 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 02:29:04+00:00 | 91341 | 2270 | nan | 260 | [] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-02-24 04:40:04+00:00 | 4 | 0 | Python | 0 | [] |
 | PratyayMallik1006/Cybersecurity-Guide | when we know in what ways a hacker can exploit our systems we can figureout ways to protect our systems. | https://github.com/PratyayMallik1006/Cybersecurity-Guide | ['exploit'] | 1 | 2022-02-24 03:20:55+00:00 | 5084 | 0 | | 0 | [] |
 | Leo-Security/CVE-2021-27965-Win10-20H2-x64 | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-24 02:45:33+00:00 | 2 | 0 | C | 0 | ['CVE-2021-27965'] |
@@ -29,10 +30,11 @@
 | real-exploit/red_hat_python | GUI Python tools. Copyright (c) 2021 real-exploit | https://github.com/real-exploit/red_hat_python | ['exploit'] | 1 | 2022-02-24 08:41:33+00:00 | 0 | 0 | | 0 | [] |
 | JustExploit/JustExploit | Config files for my GitHub profile. | https://github.com/JustExploit/JustExploit | ['exploit'] | 1 | 2022-02-24 09:10:44+00:00 | 0 | 0 | | 0 | [] |
 | JustExploit/JustExploits | None | https://github.com/JustExploit/JustExploits | ['exploit'] | 1 | 2022-02-24 09:26:29+00:00 | 0 | 0 | | 0 | [] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-24 08:26:50+00:00 | 2800 | 33 | | 2 | [] |
+| SploitToken/Sploit-Token | None | https://github.com/SploitToken/Sploit-Token | ['sploit'] | 1 | 2022-02-24 09:22:57+00:00 | 0 | 0 | | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-02-24 03:24:41+00:00 | 154 | 1 | | 0 | [] |
 | DevDeclann/gadgets | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | ['exploit'] | 1 | 2022-02-24 00:55:57+00:00 | 17 | 0 | JavaScript | 1 | [] |
 | adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-24 01:24:12+00:00 | 23 | 0 | Go | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-24 02:39:23+00:00 | 7534 | 970 | TypeScript | 160 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-24 05:09:11+00:00 | 260280 | 6869 | C | 1874 | [] |
 | xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-02-24 00:13:54+00:00 | 3032 | 306 | HTML | 109 | [] |
 | alienwithin/Scripts-Sploits | A number of scripts POC's and problems solved as pentests move along. | https://github.com/alienwithin/Scripts-Sploits | ['exploit', 'sploit'] | 2 | 2022-02-24 04:06:12+00:00 | 119 | 36 | Python | 21 | [] |
@@ -45,13 +47,15 @@
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-02-24 00:25:39+00:00 | 4220 | 4 | HTML | 0 | [] |
 | smallkirby/kernelpwn | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | ['exploit'] | 1 | 2022-02-24 03:22:22+00:00 | 11555 | 208 | C | 12 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-24 00:04:07+00:00 | 481221 | 46 | | 21 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-24 10:29:54+00:00 | 56276 | 16 | Python | 5 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-02-24 00:17:50+00:00 | 62 | 0 | Ruby | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-24 01:34:36+00:00 | 114 | 0 | PHP | 0 | [] |
+| gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-02-24 10:02:45+00:00 | 4636 | 0 | R | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 04:06:43+00:00 | 640561 | 81 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-24 04:00:37+00:00 | 121818 | 327 | Python | 99 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-24 01:21:33+00:00 | 26591 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-24 01:22:41+00:00 | 7215 | 57 | HTML | 12 | [] |
 | mr-r3bot/Proxyshell-Exchange | Poc script for ProxyShell exploit chain in Exchange Server | https://github.com/mr-r3bot/Proxyshell-Exchange | ['exploit'] | 1 | 2022-02-24 02:31:32+00:00 | 57 | 4 | Python | 5 | [] |
+| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-02-24 10:32:50+00:00 | 1599 | 0 | TypeScript | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-24 01:09:35+00:00 | 3722482 | 15 | Python | 3 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-24 02:39:23+00:00 | 7534 | 970 | TypeScript | 160 | [] |
-| SploitToken/Sploit-Token | None | https://github.com/SploitToken/Sploit-Token | ['sploit'] | 1 | 2022-02-24 09:22:57+00:00 | 0 | 0 | | 0 | [] |
+| jason-plainlog/codexec | Remote Code Execution API | https://github.com/jason-plainlog/codexec | ['remote code execution'] | 1 | 2022-02-24 10:40:29+00:00 | 0 | 0 | Go | 0 | [] |
