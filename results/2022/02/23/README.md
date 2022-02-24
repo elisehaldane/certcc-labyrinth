@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/23
     
-134 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|----------------------------------------|
@@ -39,7 +39,7 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-23 02:32:29+00:00 | 83698 | 2240 | | 249 | [] |
 | etheriums/exploits | Config files for my GitHub profile. | https://github.com/etheriums/exploits | ['exploit'] | 1 | 2022-02-23 01:24:33+00:00 | 0 | 1 | Lua | 0 | [] |
 | nevernever69/windows-shellcode | writing shellcodes for windows | https://github.com/nevernever69/windows-shellcode | ['shellcode'] | 1 | 2022-02-23 03:18:03+00:00 | 0 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-23 22:13:43+00:00 | 22289 | 6702 | JavaScript | 1551 | [] |
+| OXDBXKXO/ez-pwnkit | Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034) | https://github.com/OXDBXKXO/ez-pwnkit | ['exploit'] | 1 | 2022-02-23 21:54:41+00:00 | 32 | 2 | Go | 0 | ['CVE-2021-4034'] |
 | ZeroDayPointer/ZeroDayPointer.github.io | None | https://github.com/ZeroDayPointer/ZeroDayPointer.github.io | ['zeroday'] | 1 | 2022-02-23 14:38:13+00:00 | 0 | 0 | SCSS | 0 | [] |
 | asib/exploits | None | https://github.com/asib/exploits | ['exploit'] | 1 | 2022-02-23 21:59:11+00:00 | 0 | 0 | Python | 0 | [] |
 | enty8080/HatSploit-Payloads | A collection of HatSploit payloads implemented in HatLoads. | https://github.com/enty8080/HatSploit-Payloads | ['sploit'] | 1 | 2022-02-23 19:39:34+00:00 | 0 | 0 | | 0 | [] |
@@ -72,13 +72,13 @@
 | rcendelin/rcendelin | Config files for my GitHub profile. | https://github.com/rcendelin/rcendelin | ['rce'] | 1 | 2022-02-23 05:25:29+00:00 | 0 | 0 | | 0 | [] |
 | ssys505/metasploit_in_termux | None | https://github.com/ssys505/metasploit_in_termux | ['metasploit module OR payload'] | 1 | 2022-02-23 05:14:04+00:00 | 0 | 0 | | 0 | [] |
 | RapidoBuzz/RhyteredExploit | None | https://github.com/RapidoBuzz/RhyteredExploit | ['exploit'] | 1 | 2022-02-23 02:49:34+00:00 | 135242 | 0 | | 0 | [] |
-| OXDBXKXO/ez-pwnkit | Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034) | https://github.com/OXDBXKXO/ez-pwnkit | ['exploit'] | 1 | 2022-02-23 21:54:41+00:00 | 32 | 2 | Go | 0 | ['CVE-2021-4034'] |
 | lexisrepo/Windows-Exploitation | Audit and pentest methodologies for Windows including internal enumeration, privesc, lateral movement, etc. | https://github.com/lexisrepo/Windows-Exploitation | ['exploit'] | 1 | 2022-02-23 22:14:04+00:00 | 41 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-23 22:13:43+00:00 | 22289 | 6702 | JavaScript | 1551 | [] |
 | hugsy/pwn-- | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-02-23 03:54:18+00:00 | 1033 | 59 | C++ | 3 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-23 04:36:42+00:00 | 118852 | 325 | Python | 99 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-23 04:06:14+00:00 | 614981 | 80 | | 14 | [] |
 | Closerset/WordPress-RCE-EXP | None | https://github.com/Closerset/WordPress-RCE-EXP | ['rce'] | 1 | 2022-02-23 05:15:17+00:00 | 7 | 1 | Python | 0 | [] |
 | davidshares/Lightning-Network | List of Lightning Network technical issues, bugs, flaws, and exploits. | https://github.com/davidshares/Lightning-Network | ['exploit'] | 1 | 2022-02-23 15:41:46+00:00 | 138 | 62 | | 1 | [] |
+| epi052/osed-scripts | bespoke tooling for offensive security's Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | ['exploit', 'shellcode'] | 2 | 2022-02-23 17:22:50+00:00 | 780 | 163 | Python | 71 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-23 01:30:21+00:00 | 114 | 0 | PHP | 0 | [] |
 | danbev/learning-exploits | Project that contains notes and examples for learning about exploits | https://github.com/danbev/learning-exploits | ['exploit'] | 1 | 2022-02-23 05:27:04+00:00 | 111 | 0 | C | 2 | [] |
 | zha0gongz1/DesertFox | Implement load Cobalt Strike & Metasploit shellcode with golang | https://github.com/zha0gongz1/DesertFox | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-02-23 06:27:48+00:00 | 4873 | 81 | Go | 23 | [] |
@@ -90,7 +90,7 @@
 | XenocodeRCE/XenocodeRCE | None | https://github.com/XenocodeRCE/XenocodeRCE | ['rce'] | 1 | 2022-02-23 15:26:47+00:00 | 2853 | 6 | | 2 | [] |
 | smallkirby/pwn-writeups | CTF pwn problem writeup | https://github.com/smallkirby/pwn-writeups | ['exploit'] | 1 | 2022-02-23 16:17:34+00:00 | 635977 | 8 | C | 1 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-02-23 06:32:58+00:00 | 37952 | 671 | Go | 150 | [] |
-| lexisrepo/Linux-Exploitation | Audit and pentest methodologies for Linux including internal enumeration, privesc, lateral movement, etc. | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-02-23 22:45:44+00:00 | 34 | 0 | | 0 | [] |
+| pathtofile/SealighterTI | Combining Sealighter with unpatched exploits to run the Threat-Intelligence ETW Provider | https://github.com/pathtofile/SealighterTI | ['exploit'] | 1 | 2022-02-23 03:40:08+00:00 | 790 | 23 | C | 3 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-23 00:46:45+00:00 | 39874 | 28 | | 18 | [] |
 | 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2022-02-23 15:30:53+00:00 | 523 | 140 | Java | 30 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-02-23 09:30:38+00:00 | 35758 | 6472 | Vue | 1373 | [] |
@@ -105,10 +105,10 @@
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-02-23 23:10:50+00:00 | 60665 | 1195 | C | 565 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-23 05:09:09+00:00 | 258709 | 6868 | C | 1874 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-23 15:41:36+00:00 | 3957 | 2608 | PowerShell | 742 | [] |
-| pathtofile/SealighterTI | Combining Sealighter with unpatched exploits to run the Threat-Intelligence ETW Provider | https://github.com/pathtofile/SealighterTI | ['exploit'] | 1 | 2022-02-23 03:40:08+00:00 | 790 | 23 | C | 3 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-23 04:36:42+00:00 | 118852 | 325 | Python | 99 | [] |
 | chaoyivision/SGGpoint | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis (official pytorch implementation) | https://github.com/chaoyivision/SGGpoint | ['exploit'] | 1 | 2022-02-23 12:45:08+00:00 | 2419 | 33 | Jupyter Notebook | 7 | [] |
-| nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2022-02-23 07:52:49+00:00 | 161 | 505 | | 59 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-23 01:22:33+00:00 | 24829 | 2 | Python | 0 | [] |
+| lexisrepo/Linux-Exploitation | Audit and pentest methodologies for Linux including internal enumeration, privesc, lateral movement, etc. | https://github.com/lexisrepo/Linux-Exploitation | ['exploit'] | 1 | 2022-02-23 22:45:44+00:00 | 34 | 0 | | 0 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-23 18:10:14+00:00 | 309 | 9 | | 0 | [] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-02-23 04:59:54+00:00 | 9 | 0 | Rust | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-23 02:57:29+00:00 | 383 | 1 | Python | 0 | [] |
 | Checkam/how2jemalloc | List of exploitation techniques on vulnerabilities in programs using jemalloc | https://github.com/Checkam/how2jemalloc | ['exploit'] | 1 | 2022-02-23 17:32:52+00:00 | 6 | 0 | C | 0 | [] |
@@ -123,8 +123,8 @@
 | Babyhamsta/Exploit-Update-Watcher | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | ['exploit'] | 1 | 2022-02-23 17:12:57+00:00 | 107 | 2 | C# | 1 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-23 02:11:19+00:00 | 320031 | 313 | PHP | 117 | [] |
 | adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-23 03:29:18+00:00 | 19 | 0 | Go | 0 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-23 18:10:14+00:00 | 309 | 9 | | 0 | [] |
 | byteofjoshua/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/byteofjoshua/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-02-23 19:21:42+00:00 | 189 | 21 | Ruby | 9 | ['CVE-2021-20837'] |
+| nccgroup/exploit_mitigations | Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | ['exploit'] | 1 | 2022-02-23 07:52:49+00:00 | 161 | 505 | | 59 | [] |
 | MrTuxx/aad-sso-enum-brute-spray | Proof of Concept in Go from Secureworks' research on Azure Active Directory Brute-Force Attacks. Inspired by @treebuilder's POC on PowerShell. | https://github.com/MrTuxx/aad-sso-enum-brute-spray | ['attack poc'] | 1 | 2022-02-23 00:35:28+00:00 | 45 | 7 | Go | 1 | [] |
 | NobleMathews/devaa-docker | Exploit android vulnerabilities automatically ~ Project moved to pydevaa development | https://github.com/NobleMathews/devaa-docker | ['exploit'] | 1 | 2022-02-23 06:25:30+00:00 | 9619 | 1 | PowerShell | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-23 04:02:12+00:00 | 7506 | 958 | TypeScript | 157 | [] |
@@ -138,4 +138,5 @@
 | Pastea/CVE-2017-1000486 | None | https://github.com/Pastea/CVE-2017-1000486 | ['cve-2 OR cve_2'] | 1 | 2022-02-23 11:38:11+00:00 | 25323 | 1 | Perl | 1 | ['CVE-2017-1000486'] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-23 01:23:33+00:00 | 7213 | 56 | HTML | 12 | [] |
 | draconas1/stellaris-space-exploitation | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | ['exploit'] | 1 | 2022-02-23 12:42:35+00:00 | 326 | 0 | AMPL | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-23 01:22:33+00:00 | 24829 | 2 | Python | 0 | [] |
 | AviaAlex/ExploitKeySystem | A key system for exploiters. | https://github.com/AviaAlex/ExploitKeySystem | ['exploit'] | 1 | 2022-02-23 22:33:56+00:00 | 0 | 0 | HTML | 0 | [] |
