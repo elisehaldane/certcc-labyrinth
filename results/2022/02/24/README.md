@@ -1,13 +1,12 @@
 
 # Summary for results/2022/02/24
     
-46 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-24 08:23:21+00:00 | 46799 | 862 | Python | 204 | [] |
-| enamulhqenam/0day | this is first git | https://github.com/enamulhqenam/0day | ['0day'] | 1 | 2022-02-24 00:51:22+00:00 | 0 | 0 | nan | 0 | [] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-24 08:26:50+00:00 | 2800 | 33 | | 2 | [] |
+| P-DennyGamingYT/PDennSploit-F | The #1 Fortnite Private Server Client | https://github.com/P-DennyGamingYT/PDennSploit-F | ['sploit'] | 1 | 2022-02-24 01:33:43+00:00 | 0 | 0 | | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-24 05:39:17+00:00 | 451 | 1 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 02:29:04+00:00 | 91341 | 2270 | | 260 | [] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-02-24 04:40:04+00:00 | 4 | 0 | Python | 0 | [] |
@@ -16,10 +15,10 @@
 | winezer0/SunloginBatchRCE | 向日葵RCE漏洞检测的相关脚本 | https://github.com/winezer0/SunloginBatchRCE | ['rce'] | 1 | 2022-02-24 02:30:34+00:00 | 20 | 0 | Python | 0 | [] |
 | tranmanhdat/exploit | None | https://github.com/tranmanhdat/exploit | ['exploit'] | 1 | 2022-02-24 08:38:55+00:00 | 0 | 0 | Dockerfile | 0 | [] |
 | AviaAlex/ExploitKeySystem | A key system for exploiters. | https://github.com/AviaAlex/ExploitKeySystem | ['exploit'] | 1 | 2022-02-24 01:59:37+00:00 | 8 | 0 | HTML | 0 | [] |
+| enamulhqenam/0day | this is first git | https://github.com/enamulhqenam/0day | ['0day'] | 1 | 2022-02-24 00:51:22+00:00 | 0 | 0 | | 0 | [] |
 | Eli-Segovia/BufferOverflowExploit | None | https://github.com/Eli-Segovia/BufferOverflowExploit | ['exploit'] | 1 | 2022-02-24 01:14:27+00:00 | 0 | 0 | | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-24 00:45:25+00:00 | 3974 | 2608 | PowerShell | 742 | [] |
-| P-DennyGamingYT/PDennSploit-F | The #1 Fortnite Private Server Client | https://github.com/P-DennyGamingYT/PDennSploit-F | ['sploit'] | 1 | 2022-02-24 01:33:43+00:00 | 0 | 0 | | 0 | [] |
 | Henry4E36/sunlogin-rce | 向日葵RCE | https://github.com/Henry4E36/sunlogin-rce | ['rce'] | 1 | 2022-02-24 02:19:05+00:00 | 0 | 1 | | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-24 00:45:25+00:00 | 3974 | 2608 | PowerShell | 742 | [] |
 | Ryze-T/CNVD-2022-10270-LPE | 基于向日葵RCE的本地权限提升，无需指定端口 | https://github.com/Ryze-T/CNVD-2022-10270-LPE | ['cnvd-c OR cnvd-2 OR cnnvd-2', 'rce'] | 2 | 2022-02-24 02:39:55+00:00 | 0 | 4 | C# | 0 | ['CNVD-2022-10270'] |
 | AninditaDeb/-LDAM-DRW-and-RCE | Robust CNN model using LDAM DRW and RCE Loss functions | https://github.com/AninditaDeb/-LDAM-DRW-and-RCE | ['rce'] | 1 | 2022-02-24 02:58:32+00:00 | 0 | 0 | Python | 0 | [] |
 | JCCD/Contao-Managed-Edition-1.5-RCE | Contao Managed Edition 1.5 RCE | https://github.com/JCCD/Contao-Managed-Edition-1.5-RCE | ['rce'] | 1 | 2022-02-24 03:36:48+00:00 | 0 | 0 | | 0 | [] |
@@ -27,14 +26,18 @@
 | NFTBoosts-io/the-worlds-largest-NFT-marketing-company | WHAT EXACTLY IS AN NFT? WHAT DOES NFT REPRESENT? Token that is not fungible. That doesn't help things much. Sorry for the inconvenience. "Non-fungible" basically indicates it's one-of-a-kind and can't be substituted with anything else. A bitcoin, for ex | https://github.com/NFTBoosts-io/the-worlds-largest-NFT-marketing-company | ['exploit'] | 1 | 2022-02-24 07:47:40+00:00 | 0 | 0 | | 0 | [] |
 | samiam2013/fightingBack | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/fightingBack | ['exploit'] | 1 | 2022-02-24 08:02:53+00:00 | 0 | 0 | | 0 | [] |
 | trganda/CVE-2022-23131 | None | https://github.com/trganda/CVE-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-24 08:23:52+00:00 | 0 | 0 | | 0 | ['CVE-2022-23131'] |
+| real-exploit/red_hat_python | GUI Python tools. Copyright (c) 2021 real-exploit | https://github.com/real-exploit/red_hat_python | ['exploit'] | 1 | 2022-02-24 08:41:33+00:00 | 0 | 0 | | 0 | [] |
+| JustExploit/JustExploit | Config files for my GitHub profile. | https://github.com/JustExploit/JustExploit | ['exploit'] | 1 | 2022-02-24 09:10:44+00:00 | 0 | 0 | | 0 | [] |
+| JustExploit/JustExploits | None | https://github.com/JustExploit/JustExploits | ['exploit'] | 1 | 2022-02-24 09:26:29+00:00 | 0 | 0 | | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-24 08:26:50+00:00 | 2800 | 33 | | 2 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-02-24 03:24:41+00:00 | 154 | 1 | | 0 | [] |
 | DevDeclann/gadgets | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | ['exploit'] | 1 | 2022-02-24 00:55:57+00:00 | 17 | 0 | JavaScript | 1 | [] |
 | adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-24 01:24:12+00:00 | 23 | 0 | Go | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-24 02:39:23+00:00 | 7534 | 970 | TypeScript | 160 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-24 05:09:11+00:00 | 260280 | 6869 | C | 1874 | [] |
 | xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-02-24 00:13:54+00:00 | 3032 | 306 | HTML | 109 | [] |
 | alienwithin/Scripts-Sploits | A number of scripts POC's and problems solved as pentests move along. | https://github.com/alienwithin/Scripts-Sploits | ['exploit', 'sploit'] | 2 | 2022-02-24 04:06:12+00:00 | 119 | 36 | Python | 21 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-24 00:19:27+00:00 | 241955 | 275 | Ruby | 81 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-02-24 09:38:53+00:00 | 184810 | 391 | C | 298 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-02-24 02:30:20+00:00 | 214979 | 129 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-24 00:46:46+00:00 | 40682 | 28 | | 18 | [] |
 | hugsy/pwn-- | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-02-24 07:58:16+00:00 | 1049 | 59 | C++ | 3 | [] |
@@ -50,4 +53,5 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-24 01:22:41+00:00 | 7215 | 57 | HTML | 12 | [] |
 | mr-r3bot/Proxyshell-Exchange | Poc script for ProxyShell exploit chain in Exchange Server | https://github.com/mr-r3bot/Proxyshell-Exchange | ['exploit'] | 1 | 2022-02-24 02:31:32+00:00 | 57 | 4 | Python | 5 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-24 01:09:35+00:00 | 3722482 | 15 | Python | 3 | [] |
-| real-exploit/red_hat_python | GUI Python tools. Copyright (c) 2021 real-exploit | https://github.com/real-exploit/red_hat_python | ['exploit'] | 1 | 2022-02-24 08:41:33+00:00 | 0 | 0 | | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-24 02:39:23+00:00 | 7534 | 970 | TypeScript | 160 | [] |
+| SploitToken/Sploit-Token | None | https://github.com/SploitToken/Sploit-Token | ['sploit'] | 1 | 2022-02-24 09:22:57+00:00 | 0 | 0 | | 0 | [] |
