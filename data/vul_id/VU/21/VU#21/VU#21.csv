@@ -38,7 +38,6 @@ VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#21,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
-VU#21,0.01923077,https://github.com/lukablagoje/agent-based-explore-exploit-science-nerccs-2021,lukablagoje/agent-based-explore-exploit-science-nerccs-2021,199435921
 VU#21,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#21,0.01428571,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#21,0.01408451,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
@@ -70,6 +69,6 @@ VU#21,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository
 VU#21,0.00063492,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#21,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#21,0.00020396,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#21,0.00020329,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00020325,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00004650,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#21,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
