@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2022-10270,1.00000000,https://github.com/Ryze-T/CNVD-2022-10270-LPE,Ryze-T/CNVD-2022-10270-LPE,462979630
 CNVD-2022-10270,1.00000000,https://github.com/bmyy1024/Security-vulnerability-test-record,bmyy1024/Security-vulnerability-test-record,461404828
 CNVD-2022-10270,0.50000000,https://github.com/Wrin9/sunflower_RCE_POC,Wrin9/sunflower_RCE_POC,460306906
 CNVD-2022-10270,0.25000000,https://github.com/Greetdawn/SunloginClientRCE,Greetdawn/SunloginClientRCE,460251394
