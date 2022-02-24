@@ -1,13 +1,12 @@
 
 # Summary for results/2022/02/24
     
-36 records found after deduplication
+37 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-24 00:45:25+00:00 | 3974 | 2608 | PowerShell | 742 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-24 05:09:11+00:00 | 260280 | 6869 | C | 1874 | [] |
-| DevDeclann/gadgets | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | ['exploit'] | 1 | 2022-02-24 00:55:57+00:00 | 17 | 0 | JavaScript | 1 | [] |
+| adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-24 01:24:12+00:00 | 23 | 0 | Go | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-02-24 03:24:41+00:00 | 154 | 1 | | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-24 05:39:17+00:00 | 451 | 1 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 02:29:04+00:00 | 91341 | 2270 | | 260 | [] |
@@ -22,22 +21,24 @@
 | Henry4E36/sunlogin-rce | 向日葵RCE | https://github.com/Henry4E36/sunlogin-rce | ['rce'] | 1 | 2022-02-24 02:19:05+00:00 | 0 | 1 | | 0 | [] |
 | Ryze-T/CNVD-2022-10270-LPE | 基于向日葵RCE的本地权限提升，无需指定端口 | https://github.com/Ryze-T/CNVD-2022-10270-LPE | ['cnvd-c OR cnvd-2 OR cnnvd-2', 'rce'] | 2 | 2022-02-24 02:39:55+00:00 | 0 | 4 | C# | 0 | ['CNVD-2022-10270'] |
 | AninditaDeb/-LDAM-DRW-and-RCE | Robust CNN model using LDAM DRW and RCE Loss functions | https://github.com/AninditaDeb/-LDAM-DRW-and-RCE | ['rce'] | 1 | 2022-02-24 02:58:32+00:00 | 0 | 0 | Python | 0 | [] |
-| adeljck/goexploit | exploit in go | https://github.com/adeljck/goexploit | ['exploit'] | 1 | 2022-02-24 01:24:12+00:00 | 23 | 0 | Go | 0 | [] |
+| JCCD/Contao-Managed-Edition-1.5-RCE | Contao Managed Edition 1.5 RCE | https://github.com/JCCD/Contao-Managed-Edition-1.5-RCE | ['rce'] | 1 | 2022-02-24 03:36:48+00:00 | 0 | 0 | | 0 | [] |
+| DevDeclann/gadgets | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | ['exploit'] | 1 | 2022-02-24 00:55:57+00:00 | 17 | 0 | JavaScript | 1 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-24 02:39:23+00:00 | 7534 | 970 | TypeScript | 160 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-24 05:09:11+00:00 | 260280 | 6869 | C | 1874 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-24 01:09:35+00:00 | 3722482 | 15 | Python | 3 | [] |
-| smallkirby/kernelpwn | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | ['exploit'] | 1 | 2022-02-24 03:22:22+00:00 | 11555 | 208 | C | 12 | [] |
 | xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-02-24 00:13:54+00:00 | 3032 | 306 | HTML | 109 | [] |
 | alienwithin/Scripts-Sploits | A number of scripts POC's and problems solved as pentests move along. | https://github.com/alienwithin/Scripts-Sploits | ['exploit', 'sploit'] | 2 | 2022-02-24 04:06:12+00:00 | 119 | 36 | Python | 21 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-24 00:19:27+00:00 | 241955 | 275 | Ruby | 81 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-02-24 02:30:20+00:00 | 214979 | 129 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-24 00:46:46+00:00 | 40682 | 28 | | 18 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-02-24 00:25:39+00:00 | 4220 | 4 | HTML | 0 | [] |
+| smallkirby/kernelpwn | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | ['exploit'] | 1 | 2022-02-24 03:22:22+00:00 | 11555 | 208 | C | 12 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-24 00:04:07+00:00 | 481221 | 46 | | 21 | [] |
-| mr-r3bot/Proxyshell-Exchange | Poc script for ProxyShell exploit chain in Exchange Server | https://github.com/mr-r3bot/Proxyshell-Exchange | ['exploit'] | 1 | 2022-02-24 02:31:32+00:00 | 57 | 4 | Python | 5 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-02-24 00:17:50+00:00 | 62 | 0 | Ruby | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-24 01:34:36+00:00 | 114 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-24 04:06:43+00:00 | 640561 | 81 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-24 04:00:37+00:00 | 121818 | 327 | Python | 99 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-24 01:21:33+00:00 | 26591 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-24 01:22:41+00:00 | 7215 | 57 | HTML | 12 | [] |
-| JCCD/Contao-Managed-Edition-1.5-RCE | Contao Managed Edition 1.5 RCE | https://github.com/JCCD/Contao-Managed-Edition-1.5-RCE | ['rce'] | 1 | 2022-02-24 03:36:48+00:00 | 0 | 0 | | 0 | [] |
+| mr-r3bot/Proxyshell-Exchange | Poc script for ProxyShell exploit chain in Exchange Server | https://github.com/mr-r3bot/Proxyshell-Exchange | ['exploit'] | 1 | 2022-02-24 02:31:32+00:00 | 57 | 4 | Python | 5 | [] |
+| PlexDevelopment/Blackout | Blackout exploits on your Minecraft server. | https://github.com/PlexDevelopment/Blackout | ['exploit'] | 1 | 2022-02-24 06:16:42+00:00 | 0 | 0 | | 0 | [] |
