@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/25
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -19,7 +19,7 @@
 | twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-02-25 15:28:42+00:00 | 278 | 0 | Python | 0 | [] |
 | adamstorek/cinsects2022-hireme-pickle-exploit | Cinsects 2022 hireme django pickle exploit | https://github.com/adamstorek/cinsects2022-hireme-pickle-exploit | ['exploit'] | 1 | 2022-02-25 02:23:42+00:00 | 9 | 0 | Python | 0 | [] |
 | Kitolua/RobloxExploits | None | https://github.com/Kitolua/RobloxExploits | ['exploit'] | 1 | 2022-02-25 00:03:09+00:00 | 20 | 0 | Lua | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-25 09:39:24+00:00 | 46800 | 862 | Python | 204 | [] |
+| not-body/NotBodySploit | None | https://github.com/not-body/NotBodySploit | ['sploit'] | 1 | 2022-02-25 17:40:45+00:00 | 47 | 2 | HTML | 0 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-02-25 03:58:27+00:00 | 77397 | 0 | HTML | 0 | [] |
 | tecnobabble/cisa-kev_2_tsc | Support CISA Known Exploitable Vulnerabilities into Tenable.sc with dynamic dates; fork of Vuln2Tenb | https://github.com/tecnobabble/cisa-kev_2_tsc | ['exploit'] | 1 | 2022-02-25 16:27:31+00:00 | 41 | 0 | Python | 0 | [] |
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-02-25 01:19:18+00:00 | 53587 | 0 | Lua | 0 | [] |
@@ -59,9 +59,10 @@
 | xjusthaxor/metasploit | None | https://github.com/xjusthaxor/metasploit | ['metasploit module OR payload'] | 1 | 2022-02-25 05:22:38+00:00 | 0 | 1 | Ruby | 0 | [] |
 | TheChocolatine/Rblx-Infinity-Hub-UI-Exploit | None | https://github.com/TheChocolatine/Rblx-Infinity-Hub-UI-Exploit | ['exploit'] | 1 | 2022-02-25 01:42:18+00:00 | 0 | 0 | | 0 | [] |
 | EmanuelFirmino/Shellshock-Remote-Shell-Exploit | None | https://github.com/EmanuelFirmino/Shellshock-Remote-Shell-Exploit | ['exploit'] | 1 | 2022-02-25 12:40:09+00:00 | 408 | 0 | Python | 0 | [] |
-| not-body/NotBodySploit | None | https://github.com/not-body/NotBodySploit | ['sploit'] | 1 | 2022-02-25 17:40:45+00:00 | 47 | 2 | HTML | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-25 08:55:28+00:00 | 2803 | 32 | | 2 | [] |
-| fabmob/open_trafic | exploiter le potentiel des logiciels de reconnaissance d’objets pour identifier et compter tous les types de véhicules dans des flux vidéos des caméras de videosurveillance | https://github.com/fabmob/open_trafic | ['exploit'] | 1 | 2022-02-25 15:20:41+00:00 | 28 | 5 | JavaScript | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-02-25 09:39:24+00:00 | 46800 | 862 | Python | 204 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-02-25 06:57:12+00:00 | 1461 | 630 | Java | 80 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-25 01:35:02+00:00 | 115 | 0 | PHP | 0 | [] |
 | xrenaa/DisCo | [ICLR2022] Code for "Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View" | https://github.com/xrenaa/DisCo | ['exploit'] | 1 | 2022-02-25 13:57:31+00:00 | 21429 | 71 | Python | 4 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-25 01:09:45+00:00 | 7048 | 131 | Python | 43 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-02-25 00:21:20+00:00 | 64 | 0 | Ruby | 0 | [] |
@@ -72,8 +73,8 @@
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-02-25 03:13:40+00:00 | 1191 | 112 | Shell | 49 | [] |
 | hoanx4/screen2root | GNU Screen 4.5.0 exploit with Perl | https://github.com/hoanx4/screen2root | ['exploit'] | 1 | 2022-02-25 03:37:47+00:00 | 316 | 0 | PHP | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-25 05:06:02+00:00 | 4259436 | 3 | Lua | 0 | [] |
-| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-02-25 06:57:12+00:00 | 1461 | 630 | Java | 80 | [] |
 | dillonwu-97/csec-code | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | ['exploit'] | 1 | 2022-02-25 08:45:04+00:00 | 7386 | 0 | Python | 0 | [] |
+| p0dalirius/CVE-2022-21907-http.sys | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-02-25 11:05:11+00:00 | 2447 | 50 | Python | 7 | ['CVE-2022-21907'] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-25 00:46:46+00:00 | 41095 | 28 | | 18 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-02-25 12:04:32+00:00 | 1529517 | 4039 | PowerShell | 1420 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-02-25 02:30:17+00:00 | 220338 | 129 | REXX | 12 | [] |
@@ -85,15 +86,16 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-02-25 07:27:34+00:00 | 5669 | 3119 | Python | 683 | [] |
 | xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-02-25 09:52:19+00:00 | 3040 | 306 | HTML | 109 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-02-25 05:09:13+00:00 | 261439 | 6871 | C | 1874 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-25 01:35:02+00:00 | 115 | 0 | PHP | 0 | [] |
+| fabmob/open_trafic | exploiter le potentiel des logiciels de reconnaissance d’objets pour identifier et compter tous les types de véhicules dans des flux vidéos des caméras de videosurveillance | https://github.com/fabmob/open_trafic | ['exploit'] | 1 | 2022-02-25 15:20:41+00:00 | 28 | 5 | JavaScript | 0 | [] |
 | HadiMed/pwn | Exploits for some pwn challenges on windows and linux . | https://github.com/HadiMed/pwn | ['exploit'] | 1 | 2022-02-25 14:11:14+00:00 | 535 | 1 | Python | 0 | [] |
-| p0dalirius/CVE-2022-21907-http.sys | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-02-25 11:05:11+00:00 | 2447 | 50 | Python | 7 | ['CVE-2022-21907'] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2022-02-25 02:56:48+00:00 | 4308 | 128 | HTML | 56 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-25 04:06:47+00:00 | 666131 | 82 | | 14 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-25 12:12:31+00:00 | 39126 | 2 | Jupyter Notebook | 0 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-02-25 17:09:38+00:00 | 354 | 7 | Rust | 2 | [] |
 | p0dalirius/AdminerRead | Exploit tool for Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability | https://github.com/p0dalirius/AdminerRead | ['exploit'] | 1 | 2022-02-25 10:58:22+00:00 | 1815 | 16 | Python | 4 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-02-25 05:18:31+00:00 | 1654 | 181 | Ruby | 21 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-02-25 06:21:59+00:00 | 320621 | 319 | PHP | 120 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-02-25 18:10:33+00:00 | 337 | 9 | | 0 | [] |
 | Yang9999999/Shiro-exploit | 小白适用的，界面简洁的Shiro漏洞检测利用工具 | https://github.com/Yang9999999/Shiro-exploit | ['exploit'] | 1 | 2022-02-25 09:00:46+00:00 | 17 | 5 | Java | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-02-25 03:25:04+00:00 | 7563 | 984 | TypeScript | 163 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-02-25 16:50:29+00:00 | 1107 | 5 | | 0 | [] |
@@ -111,5 +113,4 @@
 | richie0866/Rostruct | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | ['exploit'] | 1 | 2022-02-25 06:10:39+00:00 | 1792 | 6 | TypeScript | 1 | [] |
 | zerodayrat/ZeroDayRAT | Config files for my GitHub profile. | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2022-02-25 17:12:14+00:00 | 32 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-25 04:38:41+00:00 | 121821 | 328 | Python | 99 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-25 04:06:47+00:00 | 666131 | 82 | | 14 | [] |
 | TretornESP/bec | Binary exploitation course | https://github.com/TretornESP/bec | ['exploit'] | 1 | 2022-02-25 17:05:45+00:00 | 0 | 0 | | 0 | [] |
