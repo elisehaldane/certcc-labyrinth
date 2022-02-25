@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/25
     
-27 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
@@ -10,8 +10,10 @@
 | hahaleyile/CVE-2021-4034 | nan | https://github.com/hahaleyile/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-25 01:30:55+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | benliew68/hungry-jacks-survey-exploit | POC of cracking the myhjexperience.com Validation Code ciphers | https://github.com/benliew68/hungry-jacks-survey-exploit | ['exploit'] | 1 | 2022-02-25 00:18:06+00:00 | 6181 | 0 | Python | 0 | [] |
 | giwrgos7/Machine-Learning-WAF | This repo contains the deliverables of my Master's Thesis provisioning the deployment of a simple ML-enabled WAF system mitigating injection-type payloads (SQL Injection, XSS, Command Injection) | https://github.com/giwrgos7/Machine-Learning-WAF | ['command injection'] | 1 | 2022-02-25 00:27:34+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
+| Milo-D/write-ups | Some of my Binary Exploitation Write-Ups | https://github.com/Milo-D/write-ups | ['exploit'] | 1 | 2022-02-25 04:20:37+00:00 | 1336 | 2 | C | 0 | [] |
 | adamstorek/cinsects2022-hireme-pickle-exploit | Cinsects 2022 hireme django pickle exploit | https://github.com/adamstorek/cinsects2022-hireme-pickle-exploit | ['exploit'] | 1 | 2022-02-25 02:23:42+00:00 | 9 | 0 | Python | 0 | [] |
 | Kitolua/RobloxExploits | None | https://github.com/Kitolua/RobloxExploits | ['exploit'] | 1 | 2022-02-25 00:03:09+00:00 | 20 | 0 | Lua | 0 | [] |
+| Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-02-25 03:58:27+00:00 | 77397 | 0 | HTML | 0 | [] |
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-02-25 01:19:18+00:00 | 53587 | 0 | Lua | 0 | [] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-02-25 01:42:47+00:00 | 6 | 0 | Python | 0 | [] |
 | comp426-2022-spring/a02-rceglie | a02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a02-rceglie | ['rce'] | 1 | 2022-02-25 01:20:50+00:00 | 39 | 0 | JavaScript | 0 | [] |
@@ -22,6 +24,8 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-25 00:19:45+00:00 | 243493 | 277 | Ruby | 81 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-25 01:18:32+00:00 | 28347 | 2 | Python | 0 | [] |
 | KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-02-25 01:02:41+00:00 | 76454 | 0 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-25 04:38:41+00:00 | 121821 | 328 | Python | 99 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-25 04:06:47+00:00 | 666131 | 82 | | 14 | [] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2022-02-25 02:56:48+00:00 | 4308 | 128 | HTML | 56 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-25 01:35:02+00:00 | 115 | 0 | PHP | 0 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-25 01:09:45+00:00 | 7048 | 131 | Python | 43 | [] |
