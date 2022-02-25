@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#99,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
+VU#99,0.50000000,https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier,RishiDarkDevil/Regularization-Based-Fair-Classifier,459614574
 VU#99,0.33333333,https://github.com/mansstiv/eClass-Penetration-Testing,mansstiv/eClass-Penetration-Testing,423972679
 VU#99,0.33333333,https://github.com/AristiPap/E-Class_PenTesting,AristiPap/E-Class_PenTesting,388372065
 VU#99,0.33333333,https://github.com/saig599/PentestingResources,saig599/PentestingResources,351091436
@@ -51,7 +52,7 @@ VU#99,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#99,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#99,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#99,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#99,0.00215054,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#99,0.00214592,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#99,0.00168634,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#99,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 VU#99,0.00062305,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
