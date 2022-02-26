@@ -1,13 +1,12 @@
 
 # Summary for results/2022/02/26
     
-58 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-26 12:36:02+00:00 | 691935 | 26465 | Ruby | 11996 | [] |
-| m7alex2/Fortnite-Exploits | None | https://github.com/m7alex2/Fortnite-Exploits | ['exploit'] | 1 | 2022-02-26 09:06:22+00:00 | 10 | 0 | C | 1 | [] |
-| SussySploitDev/SussySploit1 | None | https://github.com/SussySploitDev/SussySploit1 | ['sploit'] | 1 | 2022-02-26 08:07:24+00:00 | 4 | 0 | | 0 | [] |
+| DevPrestigious/vulnerablitiesAndExploits | None | https://github.com/DevPrestigious/vulnerablitiesAndExploits | ['exploit'] | 1 | 2022-02-26 09:35:14+00:00 | 1388 | 0 | C++ | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-26 01:28:33+00:00 | 102865 | 2315 | | 265 | [] |
 | one2blame/shellcodes | Custom shellcodes, free for use. | https://github.com/one2blame/shellcodes | ['shellcode'] | 1 | 2022-02-26 03:06:01+00:00 | 32 | 1 | Assembly | 0 | [] |
 | comp426-2022-spring/a02-rceglie | a02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a02-rceglie | ['rce'] | 1 | 2022-02-26 03:07:26+00:00 | 42 | 0 | JavaScript | 0 | [] |
@@ -17,12 +16,13 @@
 | Kitolua/RobloxExploits | None | https://github.com/Kitolua/RobloxExploits | ['exploit'] | 1 | 2022-02-26 12:06:36+00:00 | 20 | 0 | Lua | 0 | [] |
 | zjysteven/PrivayAttack_AT_FL | A privacy attack that exploits Adversarial Training models to compromise the privacy of Federated Learning systems. | https://github.com/zjysteven/PrivayAttack_AT_FL | ['exploit'] | 1 | 2022-02-26 01:40:38+00:00 | 3221 | 1 | Python | 2 | [] |
 | pashokkok/Me4Sploit | Big hack tool project | https://github.com/pashokkok/Me4Sploit | ['sploit'] | 1 | 2022-02-26 11:33:07+00:00 | 11 | 0 | Python | 0 | [] |
+| explabs/ad-ctf-paas-exploits | None | https://github.com/explabs/ad-ctf-paas-exploits | ['exploit'] | 1 | 2022-02-26 14:47:19+00:00 | 18 | 0 | Go | 0 | [] |
 | PunkedOut/Punked-Hub | * 0.0 | https://github.com/PunkedOut/Punked-Hub | ['exploit'] | 1 | 2022-02-26 14:26:24+00:00 | 52 | 0 | Lua | 0 | [] |
 | eqq-evil/kokolaXD | The new roblox exploit script. | https://github.com/eqq-evil/kokolaXD | ['exploit'] | 1 | 2022-02-26 12:33:25+00:00 | 39 | 0 | Lua | 0 | [] |
+| m7alex2/Fortnite-Exploits | None | https://github.com/m7alex2/Fortnite-Exploits | ['exploit'] | 1 | 2022-02-26 09:06:22+00:00 | 10 | 0 | C | 1 | [] |
 | CedgonzalDevCda/API_Typicode | Exercice Vuejs pour exploiter une API | https://github.com/CedgonzalDevCda/API_Typicode | ['exploit'] | 1 | 2022-02-26 14:30:49+00:00 | 1 | 0 | HTML | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-26 03:34:04+00:00 | 22289 | 6723 | JavaScript | 1557 | [] |
-| DevPrestigious/vulnerablitiesAndExploits | None | https://github.com/DevPrestigious/vulnerablitiesAndExploits | ['exploit'] | 1 | 2022-02-26 09:35:14+00:00 | 1388 | 0 | C++ | 0 | [] |
 | cryptogalaxy04/exploit-contract | None | https://github.com/cryptogalaxy04/exploit-contract | ['exploit'] | 1 | 2022-02-26 02:04:35+00:00 | 1 | 0 | Solidity | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-26 03:34:04+00:00 | 22289 | 6723 | JavaScript | 1557 | [] |
 | jevam/GentlemensGui | Welcome To Gentlemens Gui, A Require Script Compiled With All The Best Scripts, And GUIS. To install it, simply get the text file in readme.md and copty it into your executor | https://github.com/jevam/GentlemensGui | ['exploit'] | 1 | 2022-02-26 10:52:11+00:00 | 1 | 0 | | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-02-26 00:15:02+00:00 | 0 | 2 | Java | 0 | [] |
 | Dir0x/Multiple-SQLi-in-Simple-Subscription-Company | Exploits in Simple Subscription Company to dump users and hashes from database. | https://github.com/Dir0x/Multiple-SQLi-in-Simple-Subscription-Company | ['exploit'] | 1 | 2022-02-26 00:14:24+00:00 | 0 | 0 | Python | 0 | [] |
@@ -33,10 +33,14 @@
 | Tech-Hacker-Ak/Metasploit_by_ak | None | https://github.com/Tech-Hacker-Ak/Metasploit_by_ak | ['metasploit module OR payload'] | 1 | 2022-02-26 11:22:44+00:00 | 0 | 0 | Shell | 0 | [] |
 | J0lm3d0/EtternalBlue8_Exploit_Python3 | None | https://github.com/J0lm3d0/EtternalBlue8_Exploit_Python3 | ['exploit'] | 1 | 2022-02-26 11:17:32+00:00 | 0 | 0 | Python | 0 | [] |
 | malthis2/wolfieshack.github.io | A new roblox exploit | https://github.com/malthis2/wolfieshack.github.io | ['exploit'] | 1 | 2022-02-26 12:21:31+00:00 | 0 | 0 | HTML | 0 | [] |
+| Pigman168/csc-rce | None | https://github.com/Pigman168/csc-rce | ['rce'] | 1 | 2022-02-26 13:24:13+00:00 | 0 | 0 | | 0 | [] |
+| malakkf/CVE-2021-46702 | Tor Browser 9.0.7 on Windows 10 build 10586 is vulnerable to information disclosure. This could allow local attackers to bypass the intended anonymity feature and obtain information regarding the onion services visited by a local user. This can be accompli | https://github.com/malakkf/CVE-2021-46702 | ['cve-2 OR cve_2'] | 1 | 2022-02-26 14:44:24+00:00 | 19 | 0 | Shell | 0 | ['CVE-2021-46702'] |
+| HackerTBack-supporter/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/HackerTBack-supporter/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-02-26 14:47:16+00:00 | 0 | 2 | | 1 | [] |
+| HackerTBack-supporter/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/HackerTBack-supporter/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-02-26 14:54:30+00:00 | 0 | 1 | | 0 | [] |
+| SussySploitDev/SussySploit1 | None | https://github.com/SussySploitDev/SussySploit1 | ['sploit'] | 1 | 2022-02-26 08:07:24+00:00 | 4 | 0 | | 0 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-02-26 06:42:37+00:00 | 64 | 214 | | 24 | [] |
 | 0xCuSO4/DHLYK | 大灰狼远控木马 V9.5 源码 | https://github.com/0xCuSO4/DHLYK | ['shellcode'] | 1 | 2022-02-26 04:47:10+00:00 | 25747 | 198 | C++ | 97 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-26 00:24:31+00:00 | 40554 | 2 | Jupyter Notebook | 0 | [] |
-| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-26 03:30:33+00:00 | 50536 | 0 | Python | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-02-26 11:35:04+00:00 | 71920 | 10820 | Jupyter Notebook | 1870 | [] |
 | super-l/superl-url | 根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款轻量级软程序。 程序主要运用于安全渗透测试项目，以及批量评估各类CMS系统0DAY的影响程度，同时也是批量采集自己获取感兴趣的网站的一个小程序~~ 可自动从搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。 | https://github.com/super-l/superl-url | ['0day'] | 1 | 2022-02-26 11:31:06+00:00 | 953 | 579 | Python | 144 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-26 00:18:28+00:00 | 245035 | 278 | Ruby | 81 | [] |
@@ -48,9 +52,12 @@
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-02-26 13:51:52+00:00 | 2220 | 262 | C | 10 | [] |
 | Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2022-02-26 09:15:39+00:00 | 3211 | 24 | C | 14 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-02-26 02:45:48+00:00 | 1220 | 113 | Shell | 50 | [] |
+| sartlabs/0days | None | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-02-26 15:26:55+00:00 | 13 | 0 | PHP | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-26 00:03:52+00:00 | 490929 | 46 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-26 10:24:15+00:00 | 83775 | 16 | Python | 5 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-02-26 00:22:17+00:00 | 6014 | 5 | Go | 2 | [] |
+| enkomio/AlanFramework | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | ['exploit'] | 1 | 2022-02-26 14:44:01+00:00 | 4472 | 141 | JavaScript | 29 | [] |
+| rrmenon10/ADAPET | [EMNLP 2021] Improving and Simplifying Pattern Exploiting Training | https://github.com/rrmenon10/ADAPET | ['exploit'] | 1 | 2022-02-26 15:12:58+00:00 | 257 | 96 | Python | 9 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-26 04:03:31+00:00 | 691684 | 82 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-26 04:38:49+00:00 | 124786 | 329 | Python | 99 | [] |
 | mvlnetdev/CVE-2021-31166-detection-rules | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-26 12:52:37+00:00 | 21 | 4 | Zeek | 1 | ['CVE-2021-31166'] |
@@ -62,4 +69,5 @@
 | Gudratliishere/HeapOverflow | nan | https://github.com/Gudratliishere/HeapOverflow | ['heap overflow'] | 1 | 2022-02-26 13:52:42+00:00 | 32876 | 0 | C# | 0 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-02-26 02:39:37+00:00 | 1687 | 181 | Ruby | 21 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-02-26 11:02:49+00:00 | 122 | 8 | | 3 | ['CVE-2021-44228'] |
-| Pigman168/csc-rce | None | https://github.com/Pigman168/csc-rce | ['rce'] | 1 | 2022-02-26 13:24:13+00:00 | 0 | 0 | | 0 | [] |
+| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-26 03:30:33+00:00 | 50536 | 0 | Python | 0 | [] |
+| ropgadgetz/racecar | exploit made by me for racecar ctf challenge on hackthebox | https://github.com/ropgadgetz/racecar | ['exploit'] | 1 | 2022-02-26 15:24:27+00:00 | 0 | 0 | Python | 0 | [] |
