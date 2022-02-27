@@ -1,7 +1,7 @@
 
 # Summary for results/2022/02/27
     
-93 records found after deduplication
+94 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -17,7 +17,7 @@
 | Kitolua/RobloxExploits | None | https://github.com/Kitolua/RobloxExploits | ['exploit'] | 1 | 2022-02-27 00:11:13+00:00 | 21 | 0 | Lua | 0 | [] |
 | comp426-2022-spring/a03-rceglie | a03-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a03-rceglie | ['rce'] | 1 | 2022-02-27 04:03:45+00:00 | 22 | 0 | JavaScript | 0 | [] |
 | RishiDarkDevil/Regularization-Based-Fair-Classifier | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | ['exploit'] | 1 | 2022-02-27 14:39:22+00:00 | 287 | 0 | Jupyter Notebook | 2 | [] |
-| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-27 09:40:39+00:00 | 50607 | 0 | Python | 0 | [] |
+| claytonjgilmer/exploit-framework | None | https://github.com/claytonjgilmer/exploit-framework | ['exploit'] | 1 | 2022-02-27 06:05:17+00:00 | 12 | 0 | Rust | 0 | [] |
 | HowDoIprintHelloWorld/SuperSploit | None | https://github.com/HowDoIprintHelloWorld/SuperSploit | ['sploit'] | 1 | 2022-02-27 18:30:37+00:00 | 5 | 0 | Python | 0 | [] |
 | naisuu/Rxitect | A deep reinforcement learning-based drug molecule generator focused on generation of molecules using SELFIES to exploit the guarantee of valid molecular structures. | https://github.com/naisuu/Rxitect | ['exploit'] | 1 | 2022-02-27 14:39:18+00:00 | 1055 | 0 | Jupyter Notebook | 0 | [] |
 | ravindubw/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/ravindubw/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-02-27 14:09:00+00:00 | 28 | 0 | Python | 3 | ['CVE-2021-4034'] |
@@ -28,9 +28,10 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-02-27 12:12:55+00:00 | 42089 | 2 | Jupyter Notebook | 0 | [] |
 | pencuricode/findlogin | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/pencuricode/findlogin | ['exploit'] | 1 | 2022-02-27 00:38:17+00:00 | 65 | 0 | Python | 1 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-02-27 00:51:15+00:00 | 32 | 0 | | 0 | [] |
-| claytonjgilmer/exploit-framework | None | https://github.com/claytonjgilmer/exploit-framework | ['exploit'] | 1 | 2022-02-27 06:05:17+00:00 | 12 | 0 | Rust | 0 | [] |
 | winterrdog/shellcode-myner | Extracts shellcode from any specified binary. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-02-27 14:10:28+00:00 | 28 | 1 | Rust | 0 | [] |
-| burnbrian/web-hack-gooder | Random collection of scripts to assist in source code analysis and exploit development. | https://github.com/burnbrian/web-hack-gooder | ['exploit'] | 1 | 2022-02-27 19:24:38+00:00 | 1 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-27 08:20:44+00:00 | 22289 | 6730 | JavaScript | 1560 | [] |
+| Fa1c0n35/zabbix-cve-2022-23131 | None | https://github.com/Fa1c0n35/zabbix-cve-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-27 11:31:02+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-23131'] |
+| WanManolo/custom-exploit | Actividad 11 - Offensive Security | https://github.com/WanManolo/custom-exploit | ['exploit'] | 1 | 2022-02-27 19:46:52+00:00 | 0 | 0 | Python | 0 | [] |
 | stevenyu113228/Meow-Ware-Loader | A meow meow shellcode based, anti-antivirus shell-code loader | https://github.com/stevenyu113228/Meow-Ware-Loader | ['shellcode'] | 1 | 2022-02-27 17:04:57+00:00 | 0 | 0 | C | 0 | [] |
 | AMTitan/Copy-and-Paste-Exploit | None | https://github.com/AMTitan/Copy-and-Paste-Exploit | ['exploit'] | 1 | 2022-02-27 15:48:33+00:00 | 0 | 0 | | 0 | [] |
 | KiaWeb/BeamX | Roblox 6/7 Lua Exploit | https://github.com/KiaWeb/BeamX | ['exploit'] | 1 | 2022-02-27 15:52:53+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -39,8 +40,8 @@
 | shahparkhan/cve-2022-0185 | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-27 14:04:50+00:00 | 0 | 0 | | 0 | ['CVE-2022-0185'] |
 | cuj/yml-exploits-vulnerabilities | teste | https://github.com/cuj/yml-exploits-vulnerabilities | ['exploit'] | 1 | 2022-02-27 13:40:25+00:00 | 0 | 0 | | 0 | [] |
 | woahminas/RoSploits-V2 | to the moon | https://github.com/woahminas/RoSploits-V2 | ['sploit'] | 1 | 2022-02-27 18:36:58+00:00 | 2 | 0 | | 0 | [] |
-| Fa1c0n35/zabbix-cve-2022-23131 | None | https://github.com/Fa1c0n35/zabbix-cve-2022-23131 | ['cve-2 OR cve_2'] | 1 | 2022-02-27 11:31:02+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-23131'] |
 | LogMoss/exploit_site | None | https://github.com/LogMoss/exploit_site | ['exploit'] | 1 | 2022-02-27 11:06:24+00:00 | 0 | 0 | HTML | 0 | [] |
+| burnbrian/web-hack-gooder | Random collection of scripts to assist in source code analysis and exploit development. | https://github.com/burnbrian/web-hack-gooder | ['exploit'] | 1 | 2022-02-27 19:24:38+00:00 | 1 | 0 | Python | 0 | [] |
 | yjhang-one/Vulnerability-POC-script | 一个脚本小子的自我修养（A script boy's self-cultivation） | https://github.com/yjhang-one/Vulnerability-POC-script | ['vuln poc', 'vulnerability poc'] | 2 | 2022-02-27 09:55:48+00:00 | 0 | 0 | | 0 | [] |
 | KyloBeckles01/bug-free-giggle | Giggling is fish hunting or mini-game with a spear or similar spiked spear. Wild animals commonly exploited include suckers | https://github.com/KyloBeckles01/bug-free-giggle | ['exploit'] | 1 | 2022-02-27 05:59:48+00:00 | 0 | 0 | | 0 | [] |
 | ohbrbthen/random-roblox-exploits | random roblox scripts i found on the internet | https://github.com/ohbrbthen/random-roblox-exploits | ['exploit'] | 1 | 2022-02-27 04:11:12+00:00 | 0 | 0 | | 0 | [] |
@@ -51,10 +52,10 @@
 | ncax/voidsploit | a gui exploit for fellow road blocks script kiddies (wip) | https://github.com/ncax/voidsploit | ['exploit'] | 1 | 2022-02-27 02:25:25+00:00 | 18 | 0 | Lua | 0 | [] |
 | ArkAngeL43/EXIF-Stegonography-and-image-injection | A simple compiling of notes and information / teachings on how stegonography works, and how we can use stegonography to execute system commands or inject ZIP files into JPG/JPEG formats | https://github.com/ArkAngeL43/EXIF-Stegonography-and-image-injection | ['command injection'] | 1 | 2022-02-27 00:10:00+00:00 | 562 | 1 | | 0 | [] |
 | RealMepon/DiscordTool | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | ['exploit'] | 1 | 2022-02-27 17:35:24+00:00 | 102 | 3 | Python | 0 | [] |
+| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-27 09:40:39+00:00 | 50607 | 0 | Python | 0 | [] |
 | MachineLearningMike/ExploitMe | A training course of ethereum | https://github.com/MachineLearningMike/ExploitMe | ['exploit'] | 1 | 2022-02-27 11:30:36+00:00 | 260 | 0 | JavaScript | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-27 08:20:44+00:00 | 22289 | 6730 | JavaScript | 1560 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-02-27 15:47:12+00:00 | 1535320 | 4046 | PowerShell | 1424 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-27 20:41:24+00:00 | 7065 | 131 | Python | 43 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-02-27 20:16:14+00:00 | 7065 | 131 | Python | 43 | [] |
 | jkctech/Telegram-Trilateration | Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location | https://github.com/jkctech/Telegram-Trilateration | ['exploit'] | 1 | 2022-02-27 11:26:58+00:00 | 6132 | 241 | Python | 39 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-27 04:17:53+00:00 | 83785 | 16 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-27 00:03:54+00:00 | 454601 | 46 | | 21 | [] |
@@ -97,4 +98,4 @@
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-27 13:58:01+00:00 | 6792 | 318 | Python | 64 | [] |
 | littlepig453/PF-Exploit-AIM-BOT- | aimbot in phantom forces | https://github.com/littlepig453/PF-Exploit-AIM-BOT- | ['exploit'] | 1 | 2022-02-27 00:49:40+00:00 | 9 | 0 | Lua | 0 | [] |
 | zerodayrat/ZeroDayRAT | My github readme.md 📑 | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2022-02-27 04:24:20+00:00 | 58 | 0 | | 0 | [] |
-| WanManolo/custom-exploit | Actividad 11 - Offensive Security | https://github.com/WanManolo/custom-exploit | ['exploit'] | 1 | 2022-02-27 19:46:52+00:00 | 0 | 0 | Python | 0 | [] |
+| Ginny1807/Ginny-exploit-Premium | Roblox Exploit | https://github.com/Ginny1807/Ginny-exploit-Premium | ['exploit'] | 1 | 2022-02-27 22:40:19+00:00 | 0 | 0 | | 0 | [] |
