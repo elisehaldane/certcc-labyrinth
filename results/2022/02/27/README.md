@@ -1,12 +1,14 @@
 
 # Summary for results/2022/02/27
     
-36 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-27 05:42:52+00:00 | 691935 | 26473 | Ruby | 11996 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-27 08:20:44+00:00 | 22289 | 6730 | JavaScript | 1560 | [] |
+| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-02-27 09:40:39+00:00 | 50607 | 0 | Python | 0 | [] |
+| C0ldheim/NetworkExploitation | This repository stores tools for conducting network attacks. | https://github.com/C0ldheim/NetworkExploitation | ['exploit'] | 1 | 2022-02-27 09:34:34+00:00 | 93 | 1 | Python | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-27 06:31:12+00:00 | 2805 | 32 | | 2 | [] |
 | Abbykawai/Abbykawai | 好用的代码安全检测工具推荐，支持软件成分分析，POC&EXP识别，IDEA检测插件 | https://github.com/Abbykawai/Abbykawai | ['vulnerability poc'] | 1 | 2022-02-27 03:49:17+00:00 | 8 | 0 | | 1 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-27 08:01:26+00:00 | 110007 | 2328 | | 266 | [] |
 | comp426-2022-spring/a03-rceglie | a03-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a03-rceglie | ['rce'] | 1 | 2022-02-27 04:03:45+00:00 | 22 | 0 | JavaScript | 0 | [] |
@@ -22,22 +24,25 @@
 | liangyueliangyue/sunlogin_rce | 向日葵rce一条龙 | https://github.com/liangyueliangyue/sunlogin_rce | ['rce'] | 1 | 2022-02-27 02:46:55+00:00 | 0 | 0 | Go | 0 | [] |
 | x-j-j/vulnable | 自己学习代码，审计，java安全，渗透测试等所练习的部分。包括poc和exp，leetcode刷题等 | https://github.com/x-j-j/vulnable | ['vuln poc'] | 1 | 2022-02-27 04:22:01+00:00 | 0 | 0 | Java | 0 | [] |
 | ohbrbthen/random-roblox-exploits | random roblox scripts i found on the internet | https://github.com/ohbrbthen/random-roblox-exploits | ['exploit'] | 1 | 2022-02-27 04:11:12+00:00 | 0 | 0 | | 0 | [] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-02-27 06:31:12+00:00 | 2805 | 32 | | 2 | [] |
 | pencuricode/findlogin | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/pencuricode/findlogin | ['exploit'] | 1 | 2022-02-27 00:38:17+00:00 | 65 | 0 | Python | 1 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-02-27 04:25:42+00:00 | 22870 | 0 | CSS | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-27 03:58:14+00:00 | 717258 | 82 | | 14 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-27 08:20:44+00:00 | 22289 | 6730 | JavaScript | 1560 | [] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-02-27 02:37:37+00:00 | 1365 | 3 | C | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-27 00:21:10+00:00 | 246573 | 279 | Ruby | 81 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-02-27 02:30:18+00:00 | 228615 | 129 | REXX | 12 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-02-27 02:38:27+00:00 | 35758 | 6492 | Vue | 1377 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-02-27 03:41:05+00:00 | 2247 | 262 | C | 10 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-27 00:03:54+00:00 | 454601 | 46 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-27 04:17:53+00:00 | 83785 | 16 | Python | 5 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-27 03:58:14+00:00 | 717258 | 82 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-27 00:44:26+00:00 | 127162 | 329 | Python | 99 | [] |
-| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-02-27 02:37:37+00:00 | 1365 | 3 | C | 0 | [] |
 | zerodayrat/ZeroDayRAT | My github readme.md 📑 | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2022-02-27 04:24:20+00:00 | 58 | 0 | | 0 | [] |
 | littlepig453/PF-Exploit-AIM-BOT- | aimbot in phantom forces | https://github.com/littlepig453/PF-Exploit-AIM-BOT- | ['exploit'] | 1 | 2022-02-27 00:49:40+00:00 | 9 | 0 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-02-27 01:18:53+00:00 | 31665 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-02-27 01:20:52+00:00 | 7332 | 64 | HTML | 13 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2022-02-27 09:38:15+00:00 | 402 | 66 | JavaScript | 34 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-02-27 01:09:08+00:00 | 3798447 | 16 | Python | 3 | [] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-02-27 08:53:07+00:00 | 4243 | 2 | Python | 1 | [] |
+| Jackbail4/VAC-Bypass | Full VAC Bypass. Inject detected cheats and not get VAC banned. | https://github.com/Jackbail4/VAC-Bypass | ['exploit'] | 1 | 2022-02-27 09:06:24+00:00 | 7248 | 57 | C++ | 16 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-02-27 02:33:15+00:00 | 228 | 3 | Java | 0 | [] |
 | KyloBeckles01/bug-free-giggle | Giggling is fish hunting or mini-game with a spear or similar spiked spear. Wild animals commonly exploited include suckers | https://github.com/KyloBeckles01/bug-free-giggle | ['exploit'] | 1 | 2022-02-27 05:59:48+00:00 | 0 | 0 | | 0 | [] |
