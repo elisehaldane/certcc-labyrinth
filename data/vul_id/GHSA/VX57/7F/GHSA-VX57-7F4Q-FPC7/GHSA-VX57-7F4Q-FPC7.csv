@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-VX57-7F4Q-FPC7,0.00558659,https://github.com/chaitin/xray,chaitin/xray,191117123
 GHSA-VX57-7F4Q-FPC7,0.00062305,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
