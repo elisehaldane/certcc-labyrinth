@@ -1,12 +1,14 @@
 
 # Summary for results/2022/02/28
     
-131 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-02-28 11:32:06+00:00 | 691454 | 26486 | Ruby | 11998 | [] |
+| PlexDevelopment/Blackout | Blackout exploits on your Minecraft server. | https://github.com/PlexDevelopment/Blackout | ['exploit'] | 1 | 2022-02-28 05:18:54+00:00 | 79 | 0 | Java | 0 | [] |
 | l00neyhacker/CVE-2022-26155 | None | https://github.com/l00neyhacker/CVE-2022-26155 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 03:48:47+00:00 | 0 | 0 | | 0 | ['CVE-2022-26155'] |
+| Morton-L/Exploit | None | https://github.com/Morton-L/Exploit | ['exploit'] | 1 | 2022-02-28 03:36:08+00:00 | 0 | 0 | Python | 0 | [] |
 | mofang1104/clash_rce_mac | None | https://github.com/mofang1104/clash_rce_mac | ['rce'] | 1 | 2022-02-28 03:00:09+00:00 | 0 | 0 | | 0 | [] |
 | mofang1104/clash_mac_rce | None | https://github.com/mofang1104/clash_mac_rce | ['rce'] | 1 | 2022-02-28 02:47:16+00:00 | 0 | 0 | | 0 | [] |
 | KiritoLoveAsuna/CVE-2022-2222 | CVE-2022-2222 | https://github.com/KiritoLoveAsuna/CVE-2022-2222 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 01:53:28+00:00 | 0 | 0 | | 0 | ['CVE-2022-2222'] |
@@ -19,8 +21,8 @@
 | winterrdog/shellcode-myner | Extracts shellcode from any specified binary. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-02-28 10:24:05+00:00 | 28 | 1 | Rust | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-02-28 00:49:50+00:00 | 40 | 0 | | 0 | [] |
 | ColdFusionX/CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-28 05:52:16+00:00 | 3 | 2 | Go | 1 | ['CVE-2022-24124'] |
-| PlexDevelopment/Blackout | Blackout exploits on your Minecraft server. | https://github.com/PlexDevelopment/Blackout | ['exploit'] | 1 | 2022-02-28 05:18:54+00:00 | 79 | 0 | Java | 0 | [] |
 | Eli-Segovia/BufferOverflowExploit | None | https://github.com/Eli-Segovia/BufferOverflowExploit | ['exploit'] | 1 | 2022-02-28 22:11:18+00:00 | 22 | 0 | C++ | 0 | [] |
+| nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-28 21:10:14+00:00 | 181 | 0 | Go | 0 | [] |
 | AviaAlex/ExploitKeySystem | A key system for exploiters. | https://github.com/AviaAlex/ExploitKeySystem | ['exploit'] | 1 | 2022-02-28 01:42:58+00:00 | 28 | 0 | HTML | 0 | [] |
 | ByteHackr/unzip_poc | CVE-2022-0529 & CVE-2022-0530 | https://github.com/ByteHackr/unzip_poc | ['cve poc'] | 1 | 2022-02-28 05:10:39+00:00 | 241 | 1 | Shell | 1 | ['CVE-2022-0529', 'CVE-2022-0530'] |
 | p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML | A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file. | https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-02-28 15:14:44+00:00 | 153 | 0 | Python | 0 | ['CVE-2022-26159'] |
@@ -35,11 +37,12 @@
 | naisuu/Rxitect | A deep reinforcement learning-based drug molecule generator focused on generation of molecules using SELFIES to exploit the guarantee of valid molecular structures. | https://github.com/naisuu/Rxitect | ['exploit'] | 1 | 2022-02-28 01:39:37+00:00 | 1231 | 0 | Jupyter Notebook | 0 | [] |
 | johanpalos/API-Qualite-EAU-77 | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne (77) | https://github.com/johanpalos/API-Qualite-EAU-77 | ['exploit'] | 1 | 2022-02-28 19:12:16+00:00 | 1017 | 2 | JavaScript | 0 | [] |
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-02-28 05:35:53+00:00 | 51 | 1 | | 1 | [] |
-| hippolippo/RCE-Games-Played-Site | None | https://github.com/hippolippo/RCE-Games-Played-Site | ['rce'] | 1 | 2022-02-28 14:01:58+00:00 | 1996 | 0 | HTML | 0 | [] |
-| Morton-L/Exploit | None | https://github.com/Morton-L/Exploit | ['exploit'] | 1 | 2022-02-28 03:36:08+00:00 | 0 | 0 | Python | 0 | [] |
 | l00neyhacker/CVE-2022-26156 | None | https://github.com/l00neyhacker/CVE-2022-26156 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 03:50:32+00:00 | 0 | 0 | | 0 | ['CVE-2022-26156'] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-28 01:11:14+00:00 | 113636 | 2345 | | 269 | [] |
 | l00neyhacker/CVE-2022-26157 | None | https://github.com/l00neyhacker/CVE-2022-26157 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 03:51:26+00:00 | 0 | 0 | | 0 | ['CVE-2022-26157'] |
+| l00neyhacker/CVE-2022-26158 | None | https://github.com/l00neyhacker/CVE-2022-26158 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 03:52:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-26158'] |
+| movvamrocks/PwnKit-CVE-2021-4034 | None | https://github.com/movvamrocks/PwnKit-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 04:41:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
+| ilijadivi/VisionExploit | None | https://github.com/ilijadivi/VisionExploit | ['exploit'] | 1 | 2022-02-28 23:23:27+00:00 | 0 | 0 | | 0 | [] |
+| nickorlow/CVE-2021-30955-POC | Proof of concept (wrapped into an iOS app) for CVE-2021-30955 | https://github.com/nickorlow/CVE-2021-30955-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-28 22:27:53+00:00 | 0 | 0 | C | 0 | ['CVE-2021-30955'] |
 | bernardopal/csrf | attack poc | https://github.com/bernardopal/csrf | ['attack poc'] | 1 | 2022-02-28 22:17:36+00:00 | 0 | 0 | HTML | 0 | [] |
 | Ayoub-2/RCE-webshell | Get a stable shell using the web port througth a command injection | https://github.com/Ayoub-2/RCE-webshell | ['command injection', 'rce'] | 2 | 2022-02-28 21:58:55+00:00 | 0 | 0 | Python | 0 | [] |
 | weavermike012/meterpreter | Metasploit/Meterpreter reverse shell from Kali to Windows VM | https://github.com/weavermike012/meterpreter | ['metasploit module OR payload'] | 1 | 2022-02-28 20:40:54+00:00 | 0 | 0 | | 0 | [] |
@@ -67,12 +70,11 @@
 | ItzApipAjalah/Cipher | java -jar exploitbot.jar host=mc.hypixel.net port=25565 protocol=47 exploit=ExploitBot proxiesFile=socks.txt srvResolve=false srvResolve2=false threads=10000 timeout=1000 attackTime=600 connections=10000 loopAmount=1 keepAlive=true alwaysResolve=false prin | https://github.com/ItzApipAjalah/Cipher | ['exploit'] | 1 | 2022-02-28 06:21:11+00:00 | 0 | 0 | Python | 0 | [] |
 | ByteHackr/unzip_poc | CVE-2022-0529 & CVE-2022-0530 | https://github.com/ByteHackr/unzip_poc | ['cve poc'] | 1 | 2022-02-28 06:01:08+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-0529', 'CVE-2022-0530'] |
 | nanaao/unzip_poc | CVE-2022-0529 & CVE-2022-0530 | https://github.com/nanaao/unzip_poc | ['cve poc'] | 1 | 2022-02-28 05:10:39+00:00 | 241 | 0 | | 0 | ['CVE-2022-0529', 'CVE-2022-0530'] |
-| movvamrocks/PwnKit-CVE-2021-4034 | None | https://github.com/movvamrocks/PwnKit-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 04:41:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
-| l00neyhacker/CVE-2022-26158 | None | https://github.com/l00neyhacker/CVE-2022-26158 | ['cve-2 OR cve_2'] | 1 | 2022-02-28 03:52:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-26158'] |
-| nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-02-28 21:10:14+00:00 | 181 | 0 | Go | 0 | [] |
-| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-02-28 13:42:27+00:00 | 6132 | 1 | TypeScript | 0 | [] |
+| hippolippo/RCE-Games-Played-Site | None | https://github.com/hippolippo/RCE-Games-Played-Site | ['rce'] | 1 | 2022-02-28 14:01:58+00:00 | 1996 | 0 | HTML | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-28 01:11:14+00:00 | 113636 | 2345 | | 269 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-02-28 05:22:07+00:00 | 22289 | 6736 | JavaScript | 1561 | [] |
-| graysuit/cnic | exploiting cnic number to view registered residence and gender behind it | https://github.com/graysuit/cnic | ['exploit'] | 1 | 2022-02-28 18:10:49+00:00 | 216 | 4 | HTML | 3 | [] |
+| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-02-28 12:54:48+00:00 | 15795 | 295 | C | 42 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-28 01:42:12+00:00 | 114 | 0 | PHP | 0 | [] |
 | spvreddy/spvreddy.github.io | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on W | https://github.com/spvreddy/spvreddy.github.io | ['exploit'] | 1 | 2022-02-28 09:39:55+00:00 | 20248 | 0 | HTML | 1 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-02-28 11:59:28+00:00 | 97538 | 16 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-02-28 00:04:25+00:00 | 455115 | 46 | | 21 | [] |
@@ -86,8 +88,8 @@
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-02-28 17:40:03+00:00 | 4268857 | 3 | Lua | 0 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-02-28 03:02:57+00:00 | 1461 | 632 | Java | 80 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-02-28 06:46:49+00:00 | 42098 | 28 | | 18 | [] |
-| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-02-28 12:54:48+00:00 | 15795 | 295 | C | 42 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-02-28 03:58:43+00:00 | 64874 | 1456 | Python | 290 | [] |
+| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-02-28 13:42:27+00:00 | 6132 | 1 | TypeScript | 0 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-02-28 15:01:27+00:00 | 19002 | 2 | PHP | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-02-28 11:54:08+00:00 | 1535320 | 4050 | PowerShell | 1425 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-02-28 02:30:19+00:00 | 236763 | 130 | REXX | 12 | [] |
@@ -102,10 +104,11 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-02-28 00:21:36+00:00 | 246574 | 280 | Ruby | 81 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-02-28 00:07:52+00:00 | 1534792 | 1574 | Python | 530 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-02-28 15:51:17+00:00 | 4005 | 2613 | PowerShell | 741 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-02-28 01:42:12+00:00 | 114 | 0 | PHP | 0 | [] |
+| graysuit/cnic | exploiting cnic number to view registered residence and gender behind it | https://github.com/graysuit/cnic | ['exploit'] | 1 | 2022-02-28 18:10:49+00:00 | 216 | 4 | HTML | 3 | [] |
 | faizxn/events-exploit-logs | None | https://github.com/faizxn/events-exploit-logs | ['exploit'] | 1 | 2022-02-28 09:28:21+00:00 | 1578 | 0 | | 0 | [] |
-| Idov31/FunctionStomping | A new shellcode injection technique. Given as C++ header, standalone Rust program or library. | https://github.com/Idov31/FunctionStomping | ['shellcode'] | 1 | 2022-02-28 21:22:09+00:00 | 584 | 474 | Rust | 69 | [] |
 | panchis7u7/Linux_Commands | Commands for linux related programs, theory and definitions that can be applied to information gathering, password cracking and system exploits. | https://github.com/panchis7u7/Linux_Commands | ['exploit'] | 1 | 2022-02-28 15:02:22+00:00 | 2707 | 0 | | 0 | [] |
+| davidshares/Lightning-Network | List of Lightning Network technical issues, bugs, flaws, and exploits. | https://github.com/davidshares/Lightning-Network | ['exploit'] | 1 | 2022-02-28 17:36:27+00:00 | 191 | 63 | | 2 | [] |
+| Idov31/FunctionStomping | A new shellcode injection technique. Given as C++ header, standalone Rust program or library. | https://github.com/Idov31/FunctionStomping | ['shellcode'] | 1 | 2022-02-28 21:22:09+00:00 | 584 | 474 | Rust | 69 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-02-28 00:47:27+00:00 | 490 | 1 | Python | 0 | [] |
 | DS1NC-DesConnet/EvilMC | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | ['exploit'] | 1 | 2022-02-28 11:35:45+00:00 | 1298 | 2 | JavaScript | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-02-28 02:52:38+00:00 | 14706 | 3 | Python | 1 | [] |
@@ -134,5 +137,4 @@
 | zerodayrat/ZeroDayRAT | My github readme.md 📑 | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2022-02-28 03:54:03+00:00 | 61 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-02-28 00:44:21+00:00 | 130130 | 329 | Python | 99 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-02-28 11:35:50+00:00 | 730045 | 84 | | 14 | [] |
-| davidshares/Lightning-Network | List of Lightning Network technical issues, bugs, flaws, and exploits. | https://github.com/davidshares/Lightning-Network | ['exploit'] | 1 | 2022-02-28 17:36:27+00:00 | 191 | 63 | | 2 | [] |
-| nickorlow/CVE-2021-30955-POC | Proof of concept (wrapped into an iOS app) for CVE-2021-30955 | https://github.com/nickorlow/CVE-2021-30955-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-28 22:27:53+00:00 | 0 | 0 | C | 0 | ['CVE-2021-30955'] |
+| verygenericname/CVE-2021-30955-POC-IPA | https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa compiled into a ipa | https://github.com/verygenericname/CVE-2021-30955-POC-IPA | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-02-28 23:29:29+00:00 | 0 | 0 | | 0 | ['CVE-2021-30955'] |
