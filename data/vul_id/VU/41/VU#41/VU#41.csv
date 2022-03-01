@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#41,0.33333333,https://github.com/JakeHost/JakeSploit-Exec,JakeHost/JakeSploit-Exec,433368423
-VU#41,0.25000000,https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier,RishiDarkDevil/Regularization-Based-Fair-Classifier,459614574
+VU#41,0.20000000,https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier,RishiDarkDevil/Regularization-Based-Fair-Classifier,459614574
 VU#41,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
 VU#41,0.16666667,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#41,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
@@ -49,7 +49,7 @@ VU#41,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,3570
 VU#41,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#41,0.00392157,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#41,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
-VU#41,0.00317460,https://github.com/helloexp/0day,helloexp/0day,106411071
+VU#41,0.00318471,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#41,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#41,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#41,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927

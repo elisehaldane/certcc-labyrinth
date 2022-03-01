@@ -27,7 +27,7 @@ OSVDB-68518,0.00353357,https://github.com/paramint/windows-kernel-exploits,param
 OSVDB-68518,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/windows-kernel-exploits,400130573
 OSVDB-68518,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 OSVDB-68518,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
-OSVDB-68518,0.00317460,https://github.com/helloexp/0day,helloexp/0day,106411071
+OSVDB-68518,0.00318471,https://github.com/helloexp/0day,helloexp/0day,106411071
 OSVDB-68518,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
 OSVDB-68518,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-68518,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
@@ -134,5 +134,5 @@ OSVDB-68518,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMetho
 OSVDB-68518,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 OSVDB-68518,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 OSVDB-68518,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-OSVDB-68518,0.00004649,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+OSVDB-68518,0.00004648,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 OSVDB-68518,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
