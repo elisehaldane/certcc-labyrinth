@@ -1,14 +1,15 @@
 
 # Summary for results/2022/03/01
     
-60 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-03-01 07:56:59+00:00 | 27282 | 8781 | Python | 1489 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-01 05:09:22+00:00 | 263046 | 6897 | C | 1879 | [] |
-| DS1NC-DesConnet/EvilMC | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | ['exploit'] | 1 | 2022-03-01 03:14:27+00:00 | 1304 | 2 | JavaScript | 1 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-01 01:27:40+00:00 | 120309 | 2364 | nan | 273 | [] |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-01 12:48:27+00:00 | 692470 | 26492 | Ruby | 12006 | [] |
+| julxploitrr/Roblox-Exploits | random roblox scripts i found on the internet | https://github.com/julxploitrr/Roblox-Exploits | ['exploit'] | 1 | 2022-03-01 06:29:24+00:00 | 26 | 0 | Lua | 0 | [] |
+| Checkam/how2jemalloc | List of exploitation techniques on vulnerabilities in programs using jemalloc | https://github.com/Checkam/how2jemalloc | ['exploit'] | 1 | 2022-03-01 11:55:11+00:00 | 8 | 0 | C | 0 | [] |
+| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-01 12:41:29+00:00 | 6157 | 1 | TypeScript | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-01 01:27:40+00:00 | 120309 | 2364 | | 273 | [] |
 | seal9055/cyber_attack_simulation | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | ['exploit', 'rce'] | 2 | 2022-03-01 01:20:47+00:00 | 0 | 0 | C | 0 | [] |
 | jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-03-01 01:03:36+00:00 | 29 | 1 | Jupyter Notebook | 0 | [] |
 | RishiDarkDevil/Regularization-Based-Fair-Classifier | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | ['exploit'] | 1 | 2022-03-01 03:33:34+00:00 | 486 | 0 | Jupyter Notebook | 2 | [] |
@@ -20,9 +21,10 @@
 | hackcat105/shellshock | 從漏洞靶機建立到概念驗證 | https://github.com/hackcat105/shellshock | ['vuln poc'] | 1 | 2022-03-01 02:58:27+00:00 | 455 | 0 | Shell | 0 | [] |
 | winterrdog/shellcode-myner | Extracts shellcode from any specified binary/object file. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-03-01 04:01:10+00:00 | 34 | 1 | Rust | 0 | [] |
 | x-j-j/vulnable | 自己学习代码，审计，java安全，渗透测试等所练习的部分。包括poc和exp，leetcode刷题等 | https://github.com/x-j-j/vulnable | ['vuln poc'] | 1 | 2022-03-01 01:30:16+00:00 | 1183 | 0 | Java | 0 | [] |
-| julxploitrr/Roblox-Exploits | random roblox scripts i found on the internet | https://github.com/julxploitrr/Roblox-Exploits | ['exploit'] | 1 | 2022-03-01 06:29:24+00:00 | 26 | 0 | Lua | 0 | [] |
 | garywei944/reverse_shell_x86-64 | shellcode to spawn a Reverse Shell on x86-64 arch with special characters excluded | https://github.com/garywei944/reverse_shell_x86-64 | ['shellcode'] | 1 | 2022-03-01 04:15:42+00:00 | 5842 | 0 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-03-01 07:56:59+00:00 | 27282 | 8781 | Python | 1489 | [] |
 | hellwolf/popsicle-exploit | Using dapptool to rediscover popsicle exploit | https://github.com/hellwolf/popsicle-exploit | ['exploit'] | 1 | 2022-03-01 00:36:36+00:00 | 17 | 10 | Solidity | 0 | [] |
+| 2baias/exploit_education | Walkthroughs of exploit education | https://github.com/2baias/exploit_education | ['exploit'] | 1 | 2022-03-01 12:30:47+00:00 | 303 | 0 | C | 0 | [] |
 | bernardopal/csrf | attack poc | https://github.com/bernardopal/csrf | ['attack poc'] | 1 | 2022-03-01 00:29:03+00:00 | 1 | 0 | HTML | 0 | [] |
 | ilijadivi/VisionExploit | None | https://github.com/ilijadivi/VisionExploit | ['exploit'] | 1 | 2022-03-01 00:00:40+00:00 | 4 | 0 | | 0 | [] |
 | verygenericname/CVE-2021-30955-POC-IPA | https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa compiled into a ipa | https://github.com/verygenericname/CVE-2021-30955-POC-IPA | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-01 11:39:28+00:00 | 9 | 0 | | 0 | ['CVE-2021-30955'] |
@@ -34,10 +36,12 @@
 | Ishalroy/metasploit | Metasploit is 6 | https://github.com/Ishalroy/metasploit | ['metasploit module OR payload'] | 1 | 2022-03-01 06:53:54+00:00 | 0 | 0 | | 0 | [] |
 | mingjfjh/shellCode | None | https://github.com/mingjfjh/shellCode | ['shellcode'] | 1 | 2022-03-01 08:44:31+00:00 | 0 | 0 | Shell | 0 | [] |
 | byteofjoshua/wearerce | exploitations for code injection. | https://github.com/byteofjoshua/wearerce | ['exploit'] | 1 | 2022-03-01 08:46:56+00:00 | 0 | 0 | Shell | 0 | [] |
+| xiaoQ1z/sunlogin_rce_cnvd-2022-10270 | None | https://github.com/xiaoQ1z/sunlogin_rce_cnvd-2022-10270 | ['cnvd-c OR cnvd-2 OR cnnvd-2', 'rce'] | 2 | 2022-03-01 10:56:23+00:00 | 0 | 0 | Python | 0 | ['CNVD-2022-10270'] |
+| DS1NC-DesConnet/EvilMC | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | ['exploit'] | 1 | 2022-03-01 03:14:27+00:00 | 1304 | 2 | JavaScript | 1 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-01 06:43:25+00:00 | 14707 | 3 | Python | 1 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-01 08:34:25+00:00 | 2815 | 35 | | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-01 00:26:15+00:00 | 40662 | 2 | Jupyter Notebook | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-01 00:04:06+00:00 | 457880 | 46 | | 21 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-01 05:09:22+00:00 | 263046 | 6897 | C | 1879 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-01 00:07:55+00:00 | 1534793 | 1573 | Python | 530 | [] |
 | infoslack/awesome-web-hacking | A list of web application security | https://github.com/infoslack/awesome-web-hacking | ['metasploit module OR payload'] | 1 | 2022-03-01 03:47:28+00:00 | 197 | 3885 | | 1019 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-03-01 11:35:05+00:00 | 72036 | 10835 | Jupyter Notebook | 1874 | [] |
@@ -50,8 +54,8 @@
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-03-01 10:38:47+00:00 | 14180 | 33 | Shell | 8 | [] |
 | bmedicke/REED | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | ['exploit'] | 1 | 2022-03-01 07:38:49+00:00 | 16773 | 3 | C | 1 | [] |
 | n1sh1th/CVE-POC | This is collection of latest CVE POCs. | https://github.com/n1sh1th/CVE-POC | ['cve poc'] | 1 | 2022-03-01 05:42:56+00:00 | 23 | 9 | | 4 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-01 00:04:06+00:00 | 457880 | 46 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-01 10:33:44+00:00 | 111293 | 16 | Python | 5 | [] |
-| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-03-01 02:22:46+00:00 | 3472 | 1 | C | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-03-01 06:55:08+00:00 | 294678 | 864 | C# | 202 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-01 00:46:21+00:00 | 115 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-01 04:06:47+00:00 | 742835 | 84 | nan | 14 | [] |
@@ -62,6 +66,8 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-01 01:23:33+00:00 | 3900338 | 22 | Python | 4 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-03-01 03:27:36+00:00 | 1128 | 6 | | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-01 02:31:16+00:00 | 7575 | 1041 | TypeScript | 172 | [] |
+| AjayMT6/UltramanGaia | A login bypass(CVE-2019-18371) and a command injection vulnerability(CVE-2019-18370) in Xiaomi Router R3G up to versi… | https://github.com/AjayMT6/UltramanGaia | ['command injection'] | 1 | 2022-03-01 12:36:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-18370', 'CVE-2019-18371'] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-03-01 01:26:11+00:00 | 561 | 3 | C | 0 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-01 02:41:36+00:00 | 1704 | 182 | Ruby | 21 | [] |
-| xiaoQ1z/sunlogin_rce_cnvd-2022-10270 | nan | https://github.com/xiaoQ1z/sunlogin_rce_cnvd-2022-10270 | ['cnvd-c OR cnvd-2 OR cnnvd-2', 'rce'] | 2 | 2022-03-01 10:56:23+00:00 | 0 | 0 | Python | 0 | ['CNVD-2022-10270'] |
+| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-03-01 02:22:46+00:00 | 3472 | 1 | C | 0 | [] |
+| b1n4r1b01/desc_race | iOS 15.1 kernel exploit POC for CVE-2021-30955 | https://github.com/b1n4r1b01/desc_race | ['cve poc', 'exploit'] | 2 | 2022-03-01 12:46:21+00:00 | 0 | 2 | C | 0 | ['CVE-2021-30955'] |
