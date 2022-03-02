@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/02
     
-53 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -25,20 +25,24 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-02 00:52:27+00:00 | 46 | 0 | | 0 | [] |
 | janschejbal/raceread | proof of concept for exploiting create-then-chmod vulnerabilities | https://github.com/janschejbal/raceread | ['exploit'] | 1 | 2022-03-02 04:40:23+00:00 | 7 | 0 | C | 0 | [] |
 | winterrdog/shellcode-myner | Extracts shellcode from any specified binary/object file. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-03-02 10:00:10+00:00 | 38 | 1 | Rust | 0 | [] |
+| yjhang-one/Vulnerability-POC-script | 一个脚本小子的自我修养（A script boy's self-cultivation） | https://github.com/yjhang-one/Vulnerability-POC-script | ['vuln poc', 'vulnerability poc'] | 2 | 2022-03-02 12:48:41+00:00 | 2633 | 0 | Python | 0 | [] |
 | JUMWA/alx-zeroday | I'm now a ALX Student, this is my first repository as a full-stack engineer | https://github.com/JUMWA/alx-zeroday | ['zeroday'] | 1 | 2022-03-02 01:38:47+00:00 | 0 | 0 | | 0 | [] |
 | wukong-bin/PeiQi-https-github.com-Ryze-T-CNVD-2022-10270-LPE | nan | https://github.com/wukong-bin/PeiQi-https-github.com-Ryze-T-CNVD-2022-10270-LPE | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-02 03:19:11+00:00 | 0 | 0 | C# | 0 | ['CNVD-2022-10270'] |
 | wukong-bin/PeiQi-0day | None | https://github.com/wukong-bin/PeiQi-0day | ['0day'] | 1 | 2022-03-02 03:32:02+00:00 | 0 | 0 | C | 0 | [] |
 | ascemama/ShellcodeStubTemplate | None | https://github.com/ascemama/ShellcodeStubTemplate | ['shellcode'] | 1 | 2022-03-02 05:38:29+00:00 | 0 | 0 | Python | 0 | [] |
 | YutuSec/Sunlogin_RCE_Detect | None | https://github.com/YutuSec/Sunlogin_RCE_Detect | ['rce'] | 1 | 2022-03-02 07:37:08+00:00 | 0 | 0 | | 0 | [] |
+| YutuSec/Sunlogin_RCE_DetectNew | None | https://github.com/YutuSec/Sunlogin_RCE_DetectNew | ['rce'] | 1 | 2022-03-02 08:06:46+00:00 | 0 | 0 | Go | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-02 03:52:05+00:00 | 7607 | 1053 | TypeScript | 178 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-02 01:18:08+00:00 | 3861654 | 23 | Python | 4 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-02 01:39:12+00:00 | 4039 | 2615 | PowerShell | 742 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-02 01:25:27+00:00 | 7393 | 73 | HTML | 14 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-03-02 12:10:29+00:00 | 12586 | 4371 | Python | 609 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-02 00:07:56+00:00 | 1534793 | 1575 | Python | 530 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-03-02 11:35:04+00:00 | 72148 | 10839 | Jupyter Notebook | 1874 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-02 00:22:56+00:00 | 246575 | 281 | Ruby | 82 | [] |
-| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-03-02 03:13:06+00:00 | 368563 | 447 | C | 319 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-03-02 02:06:57+00:00 | 351622 | 447 | C | 318 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-03-02 09:12:54+00:00 | 293313 | 94 | Python | 15 | [] |
+| soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-03-02 11:55:18+00:00 | 6146 | 480 | C++ | 96 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-03-02 00:27:24+00:00 | 640 | 133 | Julia | 24 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-02 02:30:20+00:00 | 253009 | 131 | REXX | 12 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-03-02 07:10:03+00:00 | 35758 | 6506 | Vue | 1387 | [] |
@@ -57,4 +61,4 @@
 | zerodayrat/ZeroDayRAT | My github readme.md 📑 | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2022-03-02 03:43:30+00:00 | 69 | 0 | | 0 | [] |
 | boomshy/sample_shellcode | None | https://github.com/boomshy/sample_shellcode | ['shellcode'] | 1 | 2022-03-02 08:51:29+00:00 | 38 | 2 | C | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-02 01:22:53+00:00 | 36715 | 2 | Python | 0 | [] |
-| YutuSec/Sunlogin_RCE_DetectNew | None | https://github.com/YutuSec/Sunlogin_RCE_DetectNew | ['rce'] | 1 | 2022-03-02 08:06:46+00:00 | 0 | 0 | Go | 0 | [] |
+| lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | nan | https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-02 12:02:28+00:00 | 0 | 3 | Python | 0 | ['CVE-2022-22947'] |
