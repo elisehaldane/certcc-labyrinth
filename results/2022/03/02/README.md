@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/02
     
-42 records found after deduplication
+47 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-02 00:43:53+00:00 | 692016 | 26496 | Ruby | 12008 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-02 06:56:38+00:00 | 125334 | 2381 | | 275 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-02 03:52:05+00:00 | 7607 | 1053 | TypeScript | 178 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-02 02:57:12+00:00 | 1901 | 54 | JavaScript | 57 | [] |
 | senhaxor/msf_shellcode | nan | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-03-02 05:42:01+00:00 | 1037 | 0 | Python | 1 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-02 04:17:11+00:00 | 1710 | 182 | Ruby | 21 | [] |
@@ -15,8 +16,9 @@
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-02 05:26:02+00:00 | 50753 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-02 00:26:43+00:00 | 42091 | 2 | Jupyter Notebook | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-02 01:22:28+00:00 | 519 | 1 | Python | 0 | [] |
+| johanpalos/API-Qualite-EAU-77 | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne (77) | https://github.com/johanpalos/API-Qualite-EAU-77 | ['exploit'] | 1 | 2022-03-02 09:21:49+00:00 | 2085 | 2 | JavaScript | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-02 01:18:08+00:00 | 3861654 | 23 | Python | 4 | [] |
 | EXtremeExploit/EXtremeExploit | None | https://github.com/EXtremeExploit/EXtremeExploit | ['exploit'] | 1 | 2022-03-02 02:51:24+00:00 | 1 | 1 | | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-02 01:39:12+00:00 | 4039 | 2615 | PowerShell | 742 | [] |
 | ce-automne/SunloginRCE | 向日葵RCE，网段扫描/中文显示 | https://github.com/ce-automne/SunloginRCE | ['rce'] | 1 | 2022-03-02 06:56:14+00:00 | 24677 | 13 | Go | 8 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-02 00:52:27+00:00 | 46 | 0 | | 0 | [] |
 | janschejbal/raceread | proof of concept for exploiting create-then-chmod vulnerabilities | https://github.com/janschejbal/raceread | ['exploit'] | 1 | 2022-03-02 04:40:23+00:00 | 7 | 0 | C | 0 | [] |
@@ -25,25 +27,28 @@
 | wukong-bin/PeiQi-0day | None | https://github.com/wukong-bin/PeiQi-0day | ['0day'] | 1 | 2022-03-02 03:32:02+00:00 | 0 | 0 | C | 0 | [] |
 | ascemama/ShellcodeStubTemplate | nan | https://github.com/ascemama/ShellcodeStubTemplate | ['shellcode'] | 1 | 2022-03-02 05:38:29+00:00 | 0 | 0 | Python | 0 | [] |
 | YutuSec/Sunlogin_RCE_Detect | None | https://github.com/YutuSec/Sunlogin_RCE_Detect | ['rce'] | 1 | 2022-03-02 07:37:08+00:00 | 0 | 0 | | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-02 03:52:05+00:00 | 7607 | 1053 | TypeScript | 178 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-02 01:18:08+00:00 | 3861654 | 23 | Python | 4 | [] |
+| mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-03-02 09:41:35+00:00 | 918 | 1 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-02 01:25:27+00:00 | 7393 | 73 | HTML | 14 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-02 01:22:53+00:00 | 36715 | 2 | Python | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-02 01:39:12+00:00 | 4039 | 2615 | PowerShell | 742 | [] |
+| sketchyboi14/PhoneSploitGui | A GUI version of the PhoneSpoit CLI tool. | https://github.com/sketchyboi14/PhoneSploitGui | ['sploit'] | 1 | 2022-03-02 04:31:35+00:00 | 17757 | 3 | Python | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-02 00:07:56+00:00 | 1534793 | 1575 | Python | 530 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-02 00:22:56+00:00 | 246575 | 281 | Ruby | 82 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-03-02 02:06:57+00:00 | 351622 | 447 | C | 318 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-03-02 09:12:54+00:00 | 293313 | 94 | Python | 15 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-03-02 00:27:24+00:00 | 640 | 133 | Julia | 24 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-02 02:30:20+00:00 | 253009 | 131 | REXX | 12 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-03-02 07:10:03+00:00 | 35758 | 6506 | Vue | 1387 | [] |
 | connormcgarr/Exploit-Development | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2022 | https://github.com/connormcgarr/Exploit-Development | ['exploit'] | 1 | 2022-03-02 06:30:07+00:00 | 289 | 176 | Python | 86 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-02 00:46:51+00:00 | 43541 | 29 | | 18 | [] |
-| sketchyboi14/PhoneSploitGui | A GUI version of the PhoneSpoit CLI tool. | https://github.com/sketchyboi14/PhoneSploitGui | ['sploit'] | 1 | 2022-03-02 04:31:35+00:00 | 17757 | 3 | Python | 0 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-03-02 03:47:13+00:00 | 1056 | 1 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-02 01:22:53+00:00 | 36715 | 2 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-02 00:04:17+00:00 | 463986 | 46 | | 21 | [] |
 | NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2022-03-02 00:01:48+00:00 | 55 | 7 | Lua | 5 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-03-02 02:10:04+00:00 | 7073 | 1 | Java | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-02 01:34:21+00:00 | 115 | 0 | PHP | 0 | [] |
+| gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-03-02 09:37:57+00:00 | 5433 | 0 | R | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-02 03:59:37+00:00 | 768430 | 85 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-02 00:45:52+00:00 | 136671 | 330 | Python | 99 | [] |
 | zerodayrat/ZeroDayRAT | My github readme.md 📑 | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2022-03-02 03:43:30+00:00 | 69 | 0 | | 0 | [] |
+| boomshy/sample_shellcode | nan | https://github.com/boomshy/sample_shellcode | ['shellcode'] | 1 | 2022-03-02 08:51:29+00:00 | 38 | 2 | C | 1 | [] |
 | YutuSec/Sunlogin_RCE_DetectNew | None | https://github.com/YutuSec/Sunlogin_RCE_DetectNew | ['rce'] | 1 | 2022-03-02 08:06:46+00:00 | 0 | 0 | Go | 0 | [] |
