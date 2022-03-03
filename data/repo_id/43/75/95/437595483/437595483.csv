@@ -2,9 +2,9 @@ repo_id,repo_full_name,file,file_sha1,match
 437595483,curated-intel/Log4Shell-IOCs,KPMG_Log4Shell_Feeds/MISP-CSV_AlienVaultOTX_Unfiltered/Log4j_AlienVaultOTX_ThreatHunt_Feed.csv,0afedf6fcab631f4497ee68ebfa0eabf64aa7248,CVE-2021-44228
 437595483,curated-intel/Log4Shell-IOCs,CI_Log4Shell_Products/CSV/Log4j_AffectedProducts_swithak.csv,181e4f18b840ce8d7d12baabe59652a1122d1dc1,GHSA-JFH8-C2JP-5V3Q
 437595483,curated-intel/Log4Shell-IOCs,CI_Log4Shell_Products/CSV/Log4j_AffectedProducts_swithak.csv,181e4f18b840ce8d7d12baabe59652a1122d1dc1,CVE-2021-44228
-437595483,curated-intel/Log4Shell-IOCs,README.md,407683ac833da5af7e4c4ea597ecdf427ffa2d2e,CVE-2021-26084
-437595483,curated-intel/Log4Shell-IOCs,README.md,407683ac833da5af7e4c4ea597ecdf427ffa2d2e,CVE-2021-34473
-437595483,curated-intel/Log4Shell-IOCs,README.md,407683ac833da5af7e4c4ea597ecdf427ffa2d2e,CVE-2021-44228
+437595483,curated-intel/Log4Shell-IOCs,README.md,5c9c9eb5afa71050ac0092d0b4fe29fc8aca71b7,CVE-2021-26084
+437595483,curated-intel/Log4Shell-IOCs,README.md,5c9c9eb5afa71050ac0092d0b4fe29fc8aca71b7,CVE-2021-34473
+437595483,curated-intel/Log4Shell-IOCs,README.md,5c9c9eb5afa71050ac0092d0b4fe29fc8aca71b7,CVE-2021-44228
 437595483,curated-intel/Log4Shell-IOCs,ETAC_Log4Shell_Analysis/ETAC_Vetted_Log4Shell_IOCs.csv,66749bdd7b72ddaf278e8c92fcdec8cf816892d4,CVE-2021-44233
 437595483,curated-intel/Log4Shell-IOCs,ETAC_Log4Shell_Analysis/ETAC_Vetted_Log4Shell_IOCs.csv,66749bdd7b72ddaf278e8c92fcdec8cf816892d4,CVE-2021-44236
 437595483,curated-intel/Log4Shell-IOCs,ETAC_Log4Shell_Analysis/ETAC_Vetted_Log4Shell_IOCs.csv,66749bdd7b72ddaf278e8c92fcdec8cf816892d4,CVE-2021-44232
