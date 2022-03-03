@@ -1,15 +1,12 @@
 
 # Summary for results/2022/03/03
     
-56 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-03 00:09:51+00:00 | 692967 | 26511 | Ruby | 12009 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-03 04:54:35+00:00 | 4104 | 2618 | PowerShell | 743 | [] |
-| bSkracic/delta | Virtualization system for remote code execution. | https://github.com/bSkracic/delta | ['remote code execution'] | 1 | 2022-03-03 00:49:05+00:00 | 16002 | 1 | Go | 0 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-03 00:17:36+00:00 | 1783 | 183 | Ruby | 22 | [] |
-| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-03-03 02:30:16+00:00 | 4425 | 1 | C | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-03 08:42:23+00:00 | 50762 | 0 | Python | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-03 07:47:20+00:00 | 2818 | 35 | | 2 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-03 07:31:02+00:00 | 14709 | 3 | Python | 1 | [] |
@@ -19,6 +16,7 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-03 00:53:10+00:00 | 66 | 0 | | 0 | [] |
 | julxploitrr/Roblox-Exploits | random roblox scripts i found on the internet | https://github.com/julxploitrr/Roblox-Exploits | ['exploit'] | 1 | 2022-03-03 04:58:59+00:00 | 83 | 0 | Lua | 0 | [] |
 | ilijadivi/VisionExploit | None | https://github.com/ilijadivi/VisionExploit | ['exploit'] | 1 | 2022-03-03 06:47:38+00:00 | 8 | 0 | | 0 | [] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-03 09:34:12+00:00 | 13 | 0 | nan | 0 | [] |
 | ViNi0608/CVE-2022-23361 | CVE-2022-23361 | https://github.com/ViNi0608/CVE-2022-23361 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 07:04:37+00:00 | 10 | 0 | | 0 | ['CVE-2022-23361'] |
 | lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | None | https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 06:22:51+00:00 | 2 | 54 | Python | 11 | ['CVE-2022-22947'] |
 | zhangdapeng520/zdpgo_metasploit | golang操作metasploit的库 | https://github.com/zhangdapeng520/zdpgo_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:01:44+00:00 | 32 | 0 | Go | 0 | [] |
@@ -32,10 +30,14 @@
 | zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 03:57:06+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-26422'] |
 | daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-03-03 04:44:55+00:00 | 0 | 0 | Python | 0 | [] |
 | masterc123/EasyExploits.dll | None | https://github.com/masterc123/EasyExploits.dll | ['exploit'] | 1 | 2022-03-03 05:19:52+00:00 | 0 | 0 | | 0 | [] |
+| ray0be/exploits | Some exploits | https://github.com/ray0be/exploits | ['exploit'] | 1 | 2022-03-03 08:24:32+00:00 | 0 | 0 | | 0 | [] |
+| Ch4nc3n/PublicExploitation | None | https://github.com/Ch4nc3n/PublicExploitation | ['exploit'] | 1 | 2022-03-03 09:27:11+00:00 | 0 | 0 | C | 0 | [] |
+| adammchugh/Wordpress-Deployer | A Rapid Wordpress Deployer intended for vulnerability testing and exploit development | https://github.com/adammchugh/Wordpress-Deployer | ['exploit'] | 1 | 2022-03-03 09:26:57+00:00 | 0 | 0 | Shell | 0 | [] |
+| cgddgc/cve-2022-22947 | poc for cve-2022-22947 | https://github.com/cgddgc/cve-2022-22947 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-03 09:27:42+00:00 | 0 | 0 | Python | 1 | ['CVE-2022-22947'] |
+| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-03-03 02:30:16+00:00 | 4425 | 1 | C | 0 | [] |
+| bSkracic/delta | Virtualization system for remote code execution. | https://github.com/bSkracic/delta | ['remote code execution'] | 1 | 2022-03-03 00:49:05+00:00 | 16002 | 1 | Go | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-03 04:54:35+00:00 | 4104 | 2618 | PowerShell | 743 | [] |
 | byteofjoshua/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/byteofjoshua/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-03 05:57:27+00:00 | 192 | 21 | Ruby | 9 | ['CVE-2021-20837'] |
-| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-03 02:58:31+00:00 | 2012 | 55 | JavaScript | 58 | [] |
-| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2022-03-03 01:57:12+00:00 | 5 | 1 | Python | 0 | [] |
-| sartlabs/0days | None | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-03-03 06:04:37+00:00 | 243 | 0 | PHP | 1 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-03 05:09:26+00:00 | 263093 | 6915 | C | 1882 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-03 00:07:59+00:00 | 1534793 | 1577 | Python | 531 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:22:33+00:00 | 248115 | 282 | Ruby | 82 | [] |
@@ -47,8 +49,8 @@
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-03-03 01:56:52+00:00 | 4223 | 4 | HTML | 0 | [] |
 | ails-lab/with | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | ['exploit'] | 1 | 2022-03-03 08:17:52+00:00 | 107302 | 1 | Java | 2 | [] |
 | 0thm4n3/Docker-Exorcise | Exploit Docker Daemon - Unprotected TCP Socket | https://github.com/0thm4n3/Docker-Exorcise | ['exploit'] | 1 | 2022-03-03 00:17:07+00:00 | 7 | 0 | Shell | 0 | [] |
+| sartlabs/0days | None | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-03-03 06:04:37+00:00 | 243 | 0 | PHP | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-03 00:03:37+00:00 | 467177 | 46 | | 21 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-03 01:19:16+00:00 | 3889028 | 23 | Python | 4 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-03 04:26:06+00:00 | 138803 | 16 | Python | 5 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-03-03 03:19:24+00:00 | 294711 | 864 | C# | 202 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-03-03 07:09:14+00:00 | 7097 | 132 | Python | 43 | [] |
@@ -60,4 +62,7 @@
 | Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2022-03-03 01:24:43+00:00 | 148286 | 0 | Shell | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-03 01:23:31+00:00 | 38528 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-03 01:26:02+00:00 | 7452 | 73 | HTML | 14 | [] |
-| ray0be/exploits | Some exploits | https://github.com/ray0be/exploits | ['exploit'] | 1 | 2022-03-03 08:24:32+00:00 | 0 | 0 | | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-03 01:19:16+00:00 | 3889028 | 23 | Python | 4 | [] |
+| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2022-03-03 01:57:12+00:00 | 5 | 1 | Python | 0 | [] |
+| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-03 02:58:31+00:00 | 2012 | 55 | JavaScript | 58 | [] |
+| yasin-cs-ko-ak/grafana-cve-2021-43798 | This repository contains files for reproducing the vulnerability. | https://github.com/yasin-cs-ko-ak/grafana-cve-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 09:40:22+00:00 | 0 | 0 | | 0 | ['CVE-2021-43798'] |
