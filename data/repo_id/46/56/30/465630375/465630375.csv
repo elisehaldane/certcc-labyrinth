@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+465630375,ray0be/exploits,CVE-2013-1362/nrpexploit.py,778a441c5980fc460fef06ebf3a4b360d6260927,CVE-2013-1362
+465630375,ray0be/exploits,CVE-2013-1362/example.py,84dfe3eced8af689c58f7206cc9d67a6bcf5a615,CVE-2013-1362
+465630375,ray0be/exploits,CVE-2013-1362/README.md,dedfbfa848dc19ec0367d2040d6a1d4bf3665919,CVE-2013-1362
