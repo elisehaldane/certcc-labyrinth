@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+464725675,wwl012345/Vuln-List,Vuln-List.md,05732881511c2711d8b19bbc33a799dbb5795272,CVE-2022-22947
