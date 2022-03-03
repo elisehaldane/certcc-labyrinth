@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/03
     
-27 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-03 00:09:51+00:00 | 692967 | 26511 | Ruby | 12009 | [] |
-| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2022-03-03 01:57:12+00:00 | 5 | 1 | Python | 0 | [] |
+| bSkracic/delta | Virtualization system for remote code execution. | https://github.com/bSkracic/delta | ['remote code execution'] | 1 | 2022-03-03 00:49:05+00:00 | 16002 | 1 | Go | 0 | [] |
+| Anonymous-Family/CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/Anonymous-Family/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 02:00:41+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
 | rdwnmlna/projectenscovery | Project Management Created By Exploiters Team | https://github.com/rdwnmlna/projectenscovery | ['exploit'] | 1 | 2022-03-03 02:01:02+00:00 | 0 | 0 | Python | 0 | [] |
 | realbed/luckysploit-beta | an roblox exploit | https://github.com/realbed/luckysploit-beta | ['exploit'] | 1 | 2022-03-03 01:36:44+00:00 | 0 | 0 | | 0 | [] |
 | Touchcreator/CloudtalkerWhoops | This is exploit software for the Scratch-based social media cloudtalker. | https://github.com/Touchcreator/CloudtalkerWhoops | ['exploit'] | 1 | 2022-03-03 00:48:54+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -16,10 +17,12 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-03 00:53:10+00:00 | 66 | 0 | | 0 | [] |
 | kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-03-03 00:28:42+00:00 | 25 | 0 | C | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-03-03 00:56:46+00:00 | 189 | 0 | Go | 0 | [] |
+| cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-03-03 02:16:09+00:00 | 12 | 0 | Rust | 0 | [] |
+| LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-03-03 02:30:16+00:00 | 4425 | 1 | C | 0 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-03 00:17:36+00:00 | 1783 | 183 | Ruby | 22 | [] |
-| bSkracic/delta | Virtualization system for remote code execution. | https://github.com/bSkracic/delta | ['remote code execution'] | 1 | 2022-03-03 00:49:05+00:00 | 16002 | 1 | Go | 0 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-03 01:19:16+00:00 | 3889028 | 23 | Python | 4 | [] |
+| zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2022-03-03 01:57:12+00:00 | 5 | 1 | Python | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-03 00:07:59+00:00 | 1534793 | 1577 | Python | 531 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-03 01:19:16+00:00 | 3889028 | 23 | Python | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-03 01:26:02+00:00 | 7452 | 73 | HTML | 14 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-03 01:23:31+00:00 | 38528 | 2 | Python | 0 | [] |
 | Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2022-03-03 01:24:43+00:00 | 148286 | 0 | Shell | 1 | [] |
@@ -30,5 +33,6 @@
 | 0thm4n3/Docker-Exorcise | Exploit Docker Daemon - Unprotected TCP Socket | https://github.com/0thm4n3/Docker-Exorcise | ['exploit'] | 1 | 2022-03-03 00:17:07+00:00 | 7 | 0 | Shell | 0 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-03-03 01:56:52+00:00 | 4223 | 4 | HTML | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-03 00:46:51+00:00 | 44345 | 29 | | 18 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-03 02:30:19+00:00 | 258539 | 132 | REXX | 12 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:22:33+00:00 | 248115 | 282 | Ruby | 82 | [] |
-| Anonymous-Family/CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/Anonymous-Family/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 02:00:41+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
+| zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 02:39:40+00:00 | 0 | 0 | nan | 0 | ['CNVD-2021-26422'] |
