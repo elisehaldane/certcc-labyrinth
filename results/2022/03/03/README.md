@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/03
     
-38 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
@@ -14,8 +14,9 @@
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-03-03 00:56:46+00:00 | 189 | 0 | Go | 0 | [] |
 | kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-03-03 00:28:42+00:00 | 25 | 0 | C | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-03 00:53:10+00:00 | 66 | 0 | | 0 | [] |
+| julxploitrr/Roblox-Exploits | random roblox scripts i found on the internet | https://github.com/julxploitrr/Roblox-Exploits | ['exploit'] | 1 | 2022-03-03 04:58:59+00:00 | 83 | 0 | Lua | 0 | [] |
 | Flickworld/Admin | This exploit is made for exploiters on Roblox. Lol. | https://github.com/Flickworld/Admin | ['exploit'] | 1 | 2022-03-03 00:45:56+00:00 | 3 | 0 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-03 00:07:59+00:00 | 1534793 | 1577 | Python | 531 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-03 04:54:35+00:00 | 4104 | 2618 | PowerShell | 743 | [] |
 | shawn110285/side_channel_attack_on_o3_cpu | POC code on side channel attack, including spectre attack and meltdown; verified on the BOOMv3 (smallBoomconfig) | https://github.com/shawn110285/side_channel_attack_on_o3_cpu | ['attack poc'] | 1 | 2022-03-03 00:10:36+00:00 | 34 | 0 | C | 0 | [] |
 | Touchcreator/CloudtalkerWhoops | This is exploit software for the Scratch-based social media cloudtalker. | https://github.com/Touchcreator/CloudtalkerWhoops | ['exploit'] | 1 | 2022-03-03 00:48:54+00:00 | 0 | 0 | HTML | 0 | [] |
 | realbed/luckysploit-beta | an roblox exploit | https://github.com/realbed/luckysploit-beta | ['exploit'] | 1 | 2022-03-03 01:36:44+00:00 | 0 | 0 | | 0 | [] |
@@ -23,10 +24,13 @@
 | Anonymous-Family/CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/Anonymous-Family/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 02:00:41+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
 | zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 02:39:40+00:00 | 0 | 0 | | 0 | ['CNVD-2021-26422'] |
 | zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 03:57:06+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-26422'] |
+| daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-03-03 04:44:55+00:00 | 0 | 0 | Python | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-03 02:58:31+00:00 | 2012 | 55 | JavaScript | 58 | [] |
 | zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2022-03-03 01:57:12+00:00 | 5 | 1 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-03 01:19:16+00:00 | 3889028 | 23 | Python | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-03 01:26:02+00:00 | 7452 | 73 | HTML | 14 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-03 05:09:26+00:00 | 263093 | 6915 | C | 1882 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-03 00:07:59+00:00 | 1534793 | 1577 | Python | 531 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:22:33+00:00 | 248115 | 282 | Ruby | 82 | [] |
 | trinhudo/Matlab-code-TWC-Aug2017 | Matlab code of the paper: N. T. Do, D. B. da Costa, T. Q. Duong, V. N. Q. Bao, and B. An, “Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling,” IEEE Transactions on Wireless Communications, vol. 16, no. | https://github.com/trinhudo/Matlab-code-TWC-Aug2017 | ['exploit'] | 1 | 2022-03-03 03:32:34+00:00 | 18 | 6 | MATLAB | 7 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-03 02:30:19+00:00 | 258539 | 132 | REXX | 12 | [] |
@@ -37,9 +41,9 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-03 04:26:06+00:00 | 138803 | 16 | Python | 5 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-03-03 03:19:24+00:00 | 294711 | 864 | C# | 202 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-03 01:08:44+00:00 | 116 | 0 | PHP | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-03 04:04:07+00:00 | 789815 | 85 | | 14 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-03 04:04:07+00:00 | 789815 | 85 | nan | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-03 00:45:59+00:00 | 140242 | 331 | Python | 99 | [] |
 | GaryOderNichts/bluubomb | Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | ['exploit'] | 1 | 2022-03-03 00:24:47+00:00 | 73 | 79 | C | 2 | [] |
 | Omolabake94/CyberSecurity_Bootcamp | This is an intensive 24-week long boot camp program. Skills learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite, Elk Stack, Splunk and alot more which is showcased in the included Projects and Homework in this Repo and also training towards Se | https://github.com/Omolabake94/CyberSecurity_Bootcamp | ['metasploit module OR payload'] | 1 | 2022-03-03 01:24:43+00:00 | 148286 | 0 | Shell | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-03 01:23:31+00:00 | 38528 | 2 | Python | 0 | [] |
-| daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-03-03 04:44:55+00:00 | 0 | 0 | Python | 0 | [] |
+| masterc123/EasyExploits.dll | None | https://github.com/masterc123/EasyExploits.dll | ['exploit'] | 1 | 2022-03-03 05:19:52+00:00 | 0 | 0 | | 0 | [] |
