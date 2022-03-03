@@ -1,0 +1,22 @@
+
+# Summary for results/2022/03/03
+    
+15 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-03 00:09:51+00:00 | 692967 | 26511 | Ruby | 12009 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-03 00:07:59+00:00 | 1534793 | 1577 | Python | 531 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:22:33+00:00 | 248115 | 282 | Ruby | 82 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-03 00:46:51+00:00 | 44345 | 29 | | 18 | [] |
+| 0thm4n3/Docker-Exorcise | Exploit Docker Daemon - Unprotected TCP Socket | https://github.com/0thm4n3/Docker-Exorcise | ['exploit'] | 1 | 2022-03-03 00:17:07+00:00 | 7 | 0 | Shell | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-03 00:03:37+00:00 | 467177 | 46 | | 21 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-03 00:45:59+00:00 | 140242 | 331 | Python | 99 | [] |
+| GaryOderNichts/bluubomb | Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | ['exploit'] | 1 | 2022-03-03 00:24:47+00:00 | 73 | 79 | C | 2 | [] |
+| bSkracic/delta | Virtualization system for remote code execution. | https://github.com/bSkracic/delta | ['remote code execution'] | 1 | 2022-03-03 00:49:05+00:00 | 16002 | 1 | Go | 0 | [] |
+| hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-03 00:17:36+00:00 | 1783 | 183 | Ruby | 22 | [] |
+| kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-03-03 00:28:42+00:00 | 25 | 0 | C | 0 | [] |
+| zhangdapeng520/zdpgo_metasploit | golang操作metasploit的库 | https://github.com/zhangdapeng520/zdpgo_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:01:44+00:00 | 32 | 0 | Go | 0 | [] |
+| Flickworld/Admin | This exploit is made for exploiters on Roblox. Lol. | https://github.com/Flickworld/Admin | ['exploit'] | 1 | 2022-03-03 00:45:56+00:00 | 3 | 0 | | 0 | [] |
+| shawn110285/side_channel_attack_on_o3_cpu | POC code on side channel attack, including spectre attack and meltdown; verified on the BOOMv3 (smallBoomconfig) | https://github.com/shawn110285/side_channel_attack_on_o3_cpu | ['attack poc'] | 1 | 2022-03-03 00:10:36+00:00 | 34 | 0 | C | 0 | [] |
+| Touchcreator/CloudtalkerWhoops | This is exploit software for the Scratch-based social media cloudtalker. | https://github.com/Touchcreator/CloudtalkerWhoops | ['exploit'] | 1 | 2022-03-03 00:48:54+00:00 | 0 | 0 | HTML | 0 | [] |
