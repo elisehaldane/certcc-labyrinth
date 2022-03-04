@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,.idea/modules.xml,43cb5caee7a705e4da9e98e2a9ce776d43130e4f,CVE-2022-22947
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,vuln/spring-gateway-demo-0.0.1-SNAPSHOT.jar,663e774f0473d0fcaa2f23791678373468b6a3f2,VU#45
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,vuln/spring-gateway-demo-0.0.1-SNAPSHOT.jar,663e774f0473d0fcaa2f23791678373468b6a3f2,VU#59
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,main.go,bbe8ea277da175cd745f4bf53a73b59a1eace535,CVE-2022-22947
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,go.mod,dcd2782e71a5cba17ab639bca2f8d4c0dfe6158c,CVE-2022-22947
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,.idea/.name,e59ec46567277c2735982ffb99452b87e212e110,CVE-2022-22947
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,.idea/CVE-2022-22947-Spring-Cloud-Gateway.iml,e97d654372ef437ced1d771fc7339a3a5ea653c8,CVE-2022-22947
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,README.md,fec70e93a0cf0d2bd7f35cfdd4dc0c576b392c2c,CVE-2022-22947
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,_GITHUB_REPO_METADATA_,,CVE-2021-42013
+466011549,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,_GITHUB_REPO_METADATA_,,CVE-2022-22947
