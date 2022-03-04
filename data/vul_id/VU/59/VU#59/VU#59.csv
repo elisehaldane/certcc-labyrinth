@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#59,0.25000000,https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,466011549
 VU#59,0.16666667,https://github.com/agnath18K/eXploit,agnath18K/eXploit,345155702
 VU#59,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#59,0.05263158,https://github.com/Blue-PvP/RobloxExploits,Blue-PvP/RobloxExploits,461344305
