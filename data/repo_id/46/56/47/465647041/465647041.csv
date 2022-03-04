@@ -6,6 +6,8 @@ repo_id,repo_full_name,file,file_sha1,match
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/libfuse/fuse_opt.h,5fc7e1d858cd959f0f57df02bd1cae289bd0a148,CVE-2022-0185
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/Makefile,602c110e0e8a6798db09ff681bb9b76f87484cec,CVE-2022-0185
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/libfuse3.a,6964ee3c72a5dcbfac64c8882724129943af90b2,CVE-2022-0185
+465647041,Ch4nc3n/PublicExploitation,README.md,70823ff4d1fa1a1821ee7896cab2daec3cb507e6,CVE-2022-0185
+465647041,Ch4nc3n/PublicExploitation,README.md,70823ff4d1fa1a1821ee7896cab2daec3cb507e6,CVE-2021-22555
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/README.md,71b26c36cc0323d6561e08764dfff1c5a709e66e,CVE-2022-0185
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/exploit_kctf.c,7313d128d2d04410b4edbcfcfec9ba07ee2e53bf,CVE-2022-0185
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/libfuse/fuse_kernel.h,83fcace33017a018b0a5348c52e2dab86012cded,CVE-2022-0185
@@ -16,4 +18,4 @@ repo_id,repo_full_name,file,file_sha1,match
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/libfuse/fuse.h,d52156d23d11208bfe93313a244a1560bfd87abb,CVE-2022-0185
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/libfuse/fuse_log.h,de0c4ddd1c80882d38746edd0ce872ee17ab3592,CVE-2022-0185
 465647041,Ch4nc3n/PublicExploitation,CVE-2022-0185/fakefuse.h,e472af31da75cd29cbe57241d521e50f6092615a,CVE-2022-0185
-465647041,Ch4nc3n/PublicExploitation,README.md,e668e6203619292abbcf6041d1316803315833b0,CVE-2022-0185
+465647041,Ch4nc3n/PublicExploitation,CVE-2021-22555/exploit.c,ecdd14fb7acf9a822dcce9df2d7fb71e7a489b4e,CVE-2021-22555
