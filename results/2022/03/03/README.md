@@ -1,28 +1,29 @@
 
 # Summary for results/2022/03/03
     
-135 records found after deduplication
+136 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-03 00:09:51+00:00 | 692967 | 26511 | Ruby | 12009 | [] |
-| AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-03 17:25:06+00:00 | 71 | 0 | HTML | 0 | [] |
-| Touchcreator/CloudtalkerWhoops | This is exploit software for the Scratch-based social media cloudtalker. | https://github.com/Touchcreator/CloudtalkerWhoops | ['exploit'] | 1 | 2022-03-03 00:48:54+00:00 | 0 | 0 | HTML | 0 | [] |
-| shawn110285/side_channel_attack_on_o3_cpu | POC code on side channel attack, including spectre attack and meltdown; verified on the BOOMv3 (smallBoomconfig) | https://github.com/shawn110285/side_channel_attack_on_o3_cpu | ['attack poc'] | 1 | 2022-03-03 00:10:36+00:00 | 34 | 0 | C | 0 | [] |
-| Flickworld/Admin | This exploit is made for exploiters on Roblox. Lol. | https://github.com/Flickworld/Admin | ['exploit'] | 1 | 2022-03-03 00:45:56+00:00 | 3 | 0 | | 0 | [] |
-| zhangdapeng520/zdpgo_metasploit | golang操作metasploit的库 | https://github.com/zhangdapeng520/zdpgo_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:01:44+00:00 | 32 | 0 | Go | 0 | [] |
-| lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | None | https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 06:22:51+00:00 | 2 | 54 | Python | 11 | ['CVE-2022-22947'] |
-| ViNi0608/CVE-2022-23361 | CVE-2022-23361 | https://github.com/ViNi0608/CVE-2022-23361 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 07:04:37+00:00 | 10 | 0 | | 0 | ['CVE-2022-23361'] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-03 09:34:12+00:00 | 13 | 0 | | 0 | [] |
-| ilijadivi/VisionExploit | None | https://github.com/ilijadivi/VisionExploit | ['exploit'] | 1 | 2022-03-03 06:47:38+00:00 | 8 | 0 | | 0 | [] |
-| yjhang-one/Vulnerability-POC-script | 一个脚本小子的自我修养（A script boy's self-cultivation） | https://github.com/yjhang-one/Vulnerability-POC-script | ['vuln poc', 'vulnerability poc'] | 2 | 2022-03-03 14:30:13+00:00 | 15058 | 0 | Python | 0 | [] |
-| julxploitrr/Roblox-Exploits | random roblox scripts i found on the internet | https://github.com/julxploitrr/Roblox-Exploits | ['exploit'] | 1 | 2022-03-03 04:58:59+00:00 | 83 | 0 | Lua | 0 | [] |
-| Bonnie39/mach_10 | iOS 15.0-15.1 kernel exploit | https://github.com/Bonnie39/mach_10 | ['exploit'] | 1 | 2022-03-03 09:44:34+00:00 | 26 | 0 | C | 0 | [] |
-| TretornESP/bec | Binary exploitation course | https://github.com/TretornESP/bec | ['exploit'] | 1 | 2022-03-03 17:41:27+00:00 | 1 | 0 | C | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-03 00:53:10+00:00 | 66 | 0 | | 0 | [] |
+| TretornESP/bec | Binary exploitation course | https://github.com/TretornESP/bec | ['exploit'] | 1 | 2022-03-03 17:41:27+00:00 | 1 | 0 | C | 0 | [] |
+| Bonnie39/mach_10 | iOS 15.0-15.1 kernel exploit | https://github.com/Bonnie39/mach_10 | ['exploit'] | 1 | 2022-03-03 09:44:34+00:00 | 26 | 0 | C | 0 | [] |
+| julxploitrr/Roblox-Exploits | random roblox scripts i found on the internet | https://github.com/julxploitrr/Roblox-Exploits | ['exploit'] | 1 | 2022-03-03 04:58:59+00:00 | 83 | 0 | Lua | 0 | [] |
+| yjhang-one/Vulnerability-POC-script | 一个脚本小子的自我修养（A script boy's self-cultivation） | https://github.com/yjhang-one/Vulnerability-POC-script | ['vuln poc', 'vulnerability poc'] | 2 | 2022-03-03 14:30:13+00:00 | 15058 | 0 | Python | 0 | [] |
+| ilijadivi/VisionExploit | None | https://github.com/ilijadivi/VisionExploit | ['exploit'] | 1 | 2022-03-03 06:47:38+00:00 | 8 | 0 | | 0 | [] |
+| ViNi0608/CVE-2022-23361 | CVE-2022-23361 | https://github.com/ViNi0608/CVE-2022-23361 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 07:04:37+00:00 | 10 | 0 | | 0 | ['CVE-2022-23361'] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-03 16:29:45+00:00 | 19894 | 532 | Ruby | 132 | [] |
+| lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | None | https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 06:22:51+00:00 | 2 | 54 | Python | 11 | ['CVE-2022-22947'] |
+| zhangdapeng520/zdpgo_metasploit | golang操作metasploit的库 | https://github.com/zhangdapeng520/zdpgo_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:01:44+00:00 | 32 | 0 | Go | 0 | [] |
+| Flickworld/Admin | This exploit is made for exploiters on Roblox. Lol. | https://github.com/Flickworld/Admin | ['exploit'] | 1 | 2022-03-03 00:45:56+00:00 | 3 | 0 | | 0 | [] |
+| shawn110285/side_channel_attack_on_o3_cpu | POC code on side channel attack, including spectre attack and meltdown; verified on the BOOMv3 (smallBoomconfig) | https://github.com/shawn110285/side_channel_attack_on_o3_cpu | ['attack poc'] | 1 | 2022-03-03 00:10:36+00:00 | 34 | 0 | C | 0 | [] |
+| Touchcreator/CloudtalkerWhoops | This is exploit software for the Scratch-based social media cloudtalker. | https://github.com/Touchcreator/CloudtalkerWhoops | ['exploit'] | 1 | 2022-03-03 00:48:54+00:00 | 0 | 0 | HTML | 0 | [] |
+| realbed/luckysploit-beta | an roblox exploit | https://github.com/realbed/luckysploit-beta | ['exploit'] | 1 | 2022-03-03 01:36:44+00:00 | 0 | 0 | | 0 | [] |
 | kin018/CommanderAPI | REST API using ASP.NET Core 3.1 while employing MVC, Representational state transfer, Repository Patterns, Dependency Injection, Entity Framework, Data Transfer Objects (DTOs), and AutoMapper to provide 6 API endpoints that allows user Create, Read Update | https://github.com/kin018/CommanderAPI | ['command injection'] | 1 | 2022-03-03 16:21:04+00:00 | 27 | 0 | C# | 0 | [] |
+| AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-03 17:25:06+00:00 | 71 | 0 | HTML | 0 | [] |
 | bjelefano/CSC427Winter2022-MetasploitLab | Lab Assignment for the Winter 2022 CSC427 Metasploit Presentation | https://github.com/bjelefano/CSC427Winter2022-MetasploitLab | ['metasploit module OR payload'] | 1 | 2022-03-03 17:51:25+00:00 | 864159 | 0 | Shell | 0 | [] |
-| rdwnmlna/projectenscovery | Project Management Created By Exploiters Team | https://github.com/rdwnmlna/projectenscovery | ['exploit'] | 1 | 2022-03-03 02:01:02+00:00 | 0 | 0 | Python | 0 | [] |
 | ZVR999/Working_With_Exploits | Current understanding of exploits by finding them, breaking them down, understanding how they work, and building my own from scratch | https://github.com/ZVR999/Working_With_Exploits | ['exploit'] | 1 | 2022-03-03 21:19:08+00:00 | 2 | 0 | | 0 | [] |
 | RishiDarkDevil/Regularization-Based-Fair-Classifier | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | ['exploit'] | 1 | 2022-03-03 15:52:24+00:00 | 1255 | 0 | Jupyter Notebook | 2 | [] |
 | kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-03-03 00:28:42+00:00 | 25 | 0 | C | 0 | [] |
@@ -37,9 +38,9 @@
 | michalbednarski/ReparcelBug2 | Writeup and exploit for installed app to system privilege escalation on Android 12 Beta through CVE-2021-0928, a `writeToParcel`/`createFromParcel` serialization mismatch in `OutputConfiguration` | https://github.com/michalbednarski/ReparcelBug2 | ['exploit'] | 1 | 2022-03-03 17:50:03+00:00 | 255 | 32 | Java | 7 | ['CVE-2021-0928'] |
 | nobelh/CVE-2021-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept and Patching | https://github.com/nobelh/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 21:20:09+00:00 | 78 | 0 | C | 2 | ['CVE-2021-4034'] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-03 13:10:13+00:00 | 6201 | 1 | TypeScript | 0 | [] |
-| realbed/luckysploit-beta | an roblox exploit | https://github.com/realbed/luckysploit-beta | ['exploit'] | 1 | 2022-03-03 01:36:44+00:00 | 0 | 0 | | 0 | [] |
+| rdwnmlna/projectenscovery | Project Management Created By Exploiters Team | https://github.com/rdwnmlna/projectenscovery | ['exploit'] | 1 | 2022-03-03 02:01:02+00:00 | 0 | 0 | Python | 0 | [] |
 | Anonymous-Family/CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/Anonymous-Family/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 02:00:41+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
-| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-03 07:31:02+00:00 | 14709 | 3 | Python | 1 | [] |
+| zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 02:39:40+00:00 | 0 | 0 | | 0 | ['CNVD-2021-26422'] |
 | semwastaken/NoNameExploit | None | https://github.com/semwastaken/NoNameExploit | ['exploit'] | 1 | 2022-03-03 14:17:27+00:00 | 0 | 0 | | 0 | [] |
 | SkylarIsLive/AzureExploit | None | https://github.com/SkylarIsLive/AzureExploit | ['exploit'] | 1 | 2022-03-03 22:39:28+00:00 | 0 | 0 | | 0 | [] |
 | Alaneczek123123851/ZeSploit | None | https://github.com/Alaneczek123123851/ZeSploit | ['sploit'] | 1 | 2022-03-03 22:16:02+00:00 | 0 | 0 | | 0 | [] |
@@ -56,7 +57,7 @@
 | oalaoui21/fract-ol | Here’s what Wikipedia has to say on hydraulic fracturing: The "hydraulic fracturing," is the targeted disruption of geological formations with low permeability by means of injection under high pressure of a fluid to micro-cracking and crack the rock. This | https://github.com/oalaoui21/fract-ol | ['exploit'] | 1 | 2022-03-03 15:21:17+00:00 | 0 | 0 | C | 0 | [] |
 | CyberOne-Security/TeamARES | Repository for POCs of exploits either discovered or written by members of TeamARES | https://github.com/CyberOne-Security/TeamARES | ['exploit'] | 1 | 2022-03-03 14:35:36+00:00 | 0 | 0 | | 0 | [] |
 | JuyLang/Learn-Web-Exploitation | None | https://github.com/JuyLang/Learn-Web-Exploitation | ['exploit'] | 1 | 2022-03-03 13:29:57+00:00 | 0 | 0 | | 0 | [] |
-| zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 02:39:40+00:00 | 0 | 0 | | 0 | ['CNVD-2021-26422'] |
+| zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 03:57:06+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-26422'] |
 | Axx8/CVE-2022-22947_Rce_Exp | Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947 | https://github.com/Axx8/CVE-2022-22947_Rce_Exp | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-03 13:35:13+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
 | FieldingRadcliffe/car--manufacturing--technology | Automotive engineering technology is a discipline that integrates knowledge of many fields: mechanics, automation, electricity - electronics and machine manufacturing technology, specializing in exploitation, use and management of technical services. autom | https://github.com/FieldingRadcliffe/car--manufacturing--technology | ['exploit'] | 1 | 2022-03-03 12:49:53+00:00 | 0 | 0 | | 0 | [] |
 | DangHoangPhuc123/exploit-vulnerabilities | exploit vulnerabilities | https://github.com/DangHoangPhuc123/exploit-vulnerabilities | ['exploit'] | 1 | 2022-03-03 11:30:14+00:00 | 0 | 0 | | 0 | [] |
@@ -64,16 +65,16 @@
 | shakeman8/CVE-2022-22947-RCE | CVE-2022-22947 RCE | https://github.com/shakeman8/CVE-2022-22947-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-03 10:47:35+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
 | SoftwareSecurityLab/HeapOverflowDetection | nan | https://github.com/SoftwareSecurityLab/HeapOverflowDetection | ['heap overflow'] | 1 | 2022-03-03 10:17:59+00:00 | 0 | 0 | nan | 0 | [] |
 | yasin-cs-ko-ak/grafana-cve-2021-43798 | This repository contains files for reproducing the vulnerability. | https://github.com/yasin-cs-ko-ak/grafana-cve-2021-43798 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 09:40:22+00:00 | 0 | 0 | | 0 | ['CVE-2021-43798'] |
+| scopion/cve-2022-22947 | poc for cve-2022-22947 | https://github.com/scopion/cve-2022-22947 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-03 09:27:42+00:00 | 0 | 0 | | 3 | ['CVE-2022-22947'] |
 | cgddgc/cve-2022-22947 | poc for cve-2022-22947 | https://github.com/cgddgc/cve-2022-22947 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-03 09:27:42+00:00 | 0 | 0 | Python | 1 | ['CVE-2022-22947'] |
 | adammchugh/Wordpress-Deployer | A Rapid Wordpress Deployer intended for vulnerability testing and exploit development | https://github.com/adammchugh/Wordpress-Deployer | ['exploit'] | 1 | 2022-03-03 09:26:57+00:00 | 0 | 0 | Shell | 0 | [] |
 | Ch4nc3n/PublicExploitation | None | https://github.com/Ch4nc3n/PublicExploitation | ['exploit'] | 1 | 2022-03-03 09:27:11+00:00 | 0 | 0 | C | 0 | [] |
 | ray0be/exploits | Some exploits | https://github.com/ray0be/exploits | ['exploit'] | 1 | 2022-03-03 08:24:32+00:00 | 0 | 0 | | 0 | [] |
 | masterc123/EasyExploits.dll | None | https://github.com/masterc123/EasyExploits.dll | ['exploit'] | 1 | 2022-03-03 05:19:52+00:00 | 0 | 0 | | 0 | [] |
 | daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-03-03 04:44:55+00:00 | 0 | 0 | Python | 0 | [] |
-| zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 03:57:06+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-26422'] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-03-03 02:16:09+00:00 | 12 | 0 | Rust | 0 | [] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-03 07:31:02+00:00 | 14709 | 3 | Python | 1 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-03 07:47:20+00:00 | 2818 | 35 | | 2 | [] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-03 16:29:45+00:00 | 19894 | 532 | Ruby | 132 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-03 00:46:51+00:00 | 44345 | 29 | | 18 | [] |
 | graysuit/cnic | exploiting pakistani cnic number to get location and gender behind it | https://github.com/graysuit/cnic | ['exploit'] | 1 | 2022-03-03 12:49:45+00:00 | 217 | 5 | HTML | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-03 01:08:44+00:00 | 116 | 0 | PHP | 0 | [] |
