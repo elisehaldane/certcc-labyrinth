@@ -1,14 +1,16 @@
 
 # Summary for results/2022/03/04
     
-53 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|----------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-04 00:45:33+00:00 | 693057 | 26515 | Ruby | 12014 | [] |
-| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-04 03:01:56+00:00 | 521 | 1 | Python | 0 | [] |
+| Tegan478/wordleGA | This uses a genetic algorithm to find how large the search space should be when moving from exploration to exploitation in a wordle game. | https://github.com/Tegan478/wordleGA | ['exploit'] | 1 | 2022-03-04 02:54:57+00:00 | 55 | 0 | Java | 0 | [] |
+| Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-04 01:57:52+00:00 | 812 | 0 | | 1 | [] |
 | priyacshah/RCE_Sask_Website_Design | None | https://github.com/priyacshah/RCE_Sask_Website_Design | ['rce'] | 1 | 2022-03-04 03:37:45+00:00 | 5188 | 0 | | 0 | [] |
 | Wrin9/sunflower_RCE_POC | CNVD-2022-10270/CNVD-2022-03672 | https://github.com/Wrin9/sunflower_RCE_POC | ['rce', 'rce poc'] | 2 | 2022-03-04 03:39:13+00:00 | 29 | 4 | Python | 3 | ['CNVD-2022-03672', 'CNVD-2022-10270'] |
+| ce-automne/SunloginRCE | 向日葵RCE，网段扫描/中文显示 | https://github.com/ce-automne/SunloginRCE | ['rce'] | 1 | 2022-03-04 08:36:08+00:00 | 24681 | 33 | Go | 14 | [] |
 | PlexDevelopment/Blackout | Blackout exploits on your Minecraft server. | https://github.com/PlexDevelopment/Blackout | ['exploit'] | 1 | 2022-03-04 02:00:08+00:00 | 88 | 0 | Java | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-04 02:17:14+00:00 | 66 | 0 | | 0 | [] |
 | yjhang-one/Vulnerability-POC-script | 一个脚本小子的自我修养（A script boy's self-cultivation） | https://github.com/yjhang-one/Vulnerability-POC-script | ['vuln poc', 'vulnerability poc'] | 2 | 2022-03-04 01:18:28+00:00 | 15059 | 0 | Python | 0 | [] |
@@ -17,8 +19,8 @@
 | daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-03-04 04:18:39+00:00 | 10 | 0 | Python | 0 | [] |
 | Ch4nc3n/PublicExploitation | None | https://github.com/Ch4nc3n/PublicExploitation | ['exploit'] | 1 | 2022-03-04 06:44:55+00:00 | 498 | 1 | C | 0 | [] |
 | cgddgc/cve-2022-22947 | poc for cve-2022-22947 | https://github.com/cgddgc/cve-2022-22947 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-04 03:46:57+00:00 | 1 | 8 | Python | 4 | ['CVE-2022-22947'] |
-| Tegan478/wordleGA | This uses a genetic algorithm to find how large the search space should be when moving from exploration to exploitation in a wordle game. | https://github.com/Tegan478/wordleGA | ['exploit'] | 1 | 2022-03-04 02:54:57+00:00 | 55 | 0 | Java | 0 | [] |
 | T4t4ru/Grafana_exploit | None | https://github.com/T4t4ru/Grafana_exploit | ['exploit'] | 1 | 2022-03-04 06:35:04+00:00 | 0 | 0 | | 0 | [] |
+| WangYihang/GitHacker | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind | https://github.com/WangYihang/GitHacker | ['exploit'] | 1 | 2022-03-04 03:36:48+00:00 | 1860 | 785 | Python | 179 | [] |
 | VVeakee/CNVD-2021-28277poc | nan | https://github.com/VVeakee/CNVD-2021-28277poc | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-04 00:36:23+00:00 | 0 | 0 | nan | 0 | ['CNVD-2021-28277'] |
 | chrimson/seed_shellcode | nan | https://github.com/chrimson/seed_shellcode | ['shellcode'] | 1 | 2022-03-04 01:33:12+00:00 | 0 | 0 | Assembly | 0 | [] |
 | Greetdawn/CVE-2022-22947 | None | https://github.com/Greetdawn/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-04 02:29:55+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
@@ -30,9 +32,10 @@
 | york-cmd/CVE-2022-22947-goby | 日常更新一些顺手写的gobypoc，包含高危害EXP | https://github.com/york-cmd/CVE-2022-22947-goby | ['cve-2 OR cve_2'] | 1 | 2022-03-04 05:47:14+00:00 | 0 | 1 | | 0 | ['CVE-2022-22947'] |
 | tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | ['cve-2 OR cve_2'] | 1 | 2022-03-04 06:43:56+00:00 | 0 | 2 | Go | 0 | ['CVE-2021-42013', 'CVE-2022-22947'] |
 | ajay-nooji/Web-Penetration-Testing | Write-up about vulnerabilities and method to exploit Test Websites, DVWA and OWASP machines. | https://github.com/ajay-nooji/Web-Penetration-Testing | ['exploit'] | 1 | 2022-03-04 07:01:09+00:00 | 0 | 0 | | 0 | [] |
-| Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-04 01:57:52+00:00 | 812 | 0 | | 1 | [] |
+| dingxiao77/-cve-2022-22947- | cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | ['cve-2 OR cve_2'] | 1 | 2022-03-04 07:34:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-04 08:42:23+00:00 | 127094 | 2404 | | 276 | [] |
+| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-04 03:01:56+00:00 | 521 | 1 | Python | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-04 02:55:42+00:00 | 14712 | 4 | Python | 2 | [] |
-| WangYihang/GitHacker | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind | https://github.com/WangYihang/GitHacker | ['exploit'] | 1 | 2022-03-04 03:36:48+00:00 | 1860 | 785 | Python | 179 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-04 06:20:37+00:00 | 2820 | 35 | | 2 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-04 00:23:05+00:00 | 248115 | 284 | Ruby | 82 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-03-04 02:27:22+00:00 | 376581 | 451 | C | 322 | [] |
@@ -50,11 +53,13 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-04 01:29:00+00:00 | 40226 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-04 01:37:22+00:00 | 7453 | 73 | HTML | 15 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-04 01:18:08+00:00 | 3765611 | 23 | Python | 4 | [] |
+| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-03-04 08:16:17+00:00 | 1278 | 6 | | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-04 03:38:11+00:00 | 7602 | 1084 | TypeScript | 179 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-04 06:11:15+00:00 | 2012 | 55 | JavaScript | 60 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-04 06:53:50+00:00 | 323005 | 325 | PHP | 122 | [] |
+| hack-different/apple-knowledge | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-04 07:50:21+00:00 | 1794 | 188 | Ruby | 23 | [] |
 | paulveillard/cybersecurity-windows-exploitation | A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation. | https://github.com/paulveillard/cybersecurity-windows-exploitation | ['exploit'] | 1 | 2022-03-04 01:03:25+00:00 | 394 | 2 | | 1 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-04 02:06:19+00:00 | 50802 | 0 | Python | 0 | [] |
 | Pravin-26/Insecure_deserialization_Remote-Code-Execution | nan | https://github.com/Pravin-26/Insecure_deserialization_Remote-Code-Execution | ['remote code execution'] | 1 | 2022-03-04 02:33:34+00:00 | 1225 | 0 | HTML | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-04 00:26:43+00:00 | 45451 | 2 | Jupyter Notebook | 0 | [] |
-| dingxiao77/-cve-2022-22947- | cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | ['cve-2 OR cve_2'] | 1 | 2022-03-04 07:34:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
+| H3rmesk1t/XMLDecode-Exploit-Tool | XMLDecode Deserialization Vulnerability Exploit Generation Tool. | https://github.com/H3rmesk1t/XMLDecode-Exploit-Tool | ['exploit'] | 1 | 2022-03-04 07:47:21+00:00 | 0 | 0 | Python | 0 | [] |
