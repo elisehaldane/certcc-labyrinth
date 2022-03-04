@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/03
     
-134 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -39,7 +39,7 @@
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-03 13:10:13+00:00 | 6201 | 1 | TypeScript | 0 | [] |
 | realbed/luckysploit-beta | an roblox exploit | https://github.com/realbed/luckysploit-beta | ['exploit'] | 1 | 2022-03-03 01:36:44+00:00 | 0 | 0 | | 0 | [] |
 | Anonymous-Family/CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/Anonymous-Family/CVE-2020-1472 | ['cve-2 OR cve_2'] | 1 | 2022-03-03 02:00:41+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1472'] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-03 16:29:45+00:00 | 19894 | 532 | Ruby | 132 | [] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-03 07:31:02+00:00 | 14709 | 3 | Python | 1 | [] |
 | semwastaken/NoNameExploit | None | https://github.com/semwastaken/NoNameExploit | ['exploit'] | 1 | 2022-03-03 14:17:27+00:00 | 0 | 0 | | 0 | [] |
 | SkylarIsLive/AzureExploit | None | https://github.com/SkylarIsLive/AzureExploit | ['exploit'] | 1 | 2022-03-03 22:39:28+00:00 | 0 | 0 | | 0 | [] |
 | Alaneczek123123851/ZeSploit | None | https://github.com/Alaneczek123123851/ZeSploit | ['sploit'] | 1 | 2022-03-03 22:16:02+00:00 | 0 | 0 | | 0 | [] |
@@ -72,10 +72,9 @@
 | daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-03-03 04:44:55+00:00 | 0 | 0 | Python | 0 | [] |
 | zhangweijie11/CNVD-2021-26422 | nan | https://github.com/zhangweijie11/CNVD-2021-26422 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-03 03:57:06+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-26422'] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-03-03 02:16:09+00:00 | 12 | 0 | Rust | 0 | [] |
-| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-03 07:31:02+00:00 | 14709 | 3 | Python | 1 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-03 07:47:20+00:00 | 2818 | 35 | | 2 | [] |
-| AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-03-03 01:56:52+00:00 | 4223 | 4 | HTML | 0 | [] |
-| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-03-03 18:16:11+00:00 | 341 | 486 | HTML | 18 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-03 16:29:45+00:00 | 19894 | 532 | Ruby | 132 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-03 00:46:51+00:00 | 44345 | 29 | | 18 | [] |
 | graysuit/cnic | exploiting pakistani cnic number to get location and gender behind it | https://github.com/graysuit/cnic | ['exploit'] | 1 | 2022-03-03 12:49:45+00:00 | 217 | 5 | HTML | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-03 01:08:44+00:00 | 116 | 0 | PHP | 0 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-03-03 07:09:14+00:00 | 7097 | 132 | Python | 43 | [] |
@@ -89,11 +88,12 @@
 | Devolutions/rcedit-rs | Rust fork of rcedit (https://github.com/electron/rcedit) | https://github.com/Devolutions/rcedit-rs | ['rce'] | 1 | 2022-03-03 21:18:10+00:00 | 28 | 1 | C++ | 1 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-03-03 14:24:51+00:00 | 4286157 | 3 | Lua | 0 | [] |
 | ails-lab/with | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | ['exploit'] | 1 | 2022-03-03 08:17:52+00:00 | 107302 | 1 | Java | 2 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-03 00:46:51+00:00 | 44345 | 29 | | 18 | [] |
-| renox31/silent-exploit-PDF | None | https://github.com/renox31/silent-exploit-PDF | ['exploit'] | 1 | 2022-03-03 12:37:45+00:00 | 2 | 1 | | 0 | [] |
+| AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-03-03 01:56:52+00:00 | 4223 | 4 | HTML | 0 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-03-03 10:06:13+00:00 | 19010 | 2 | PHP | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-03 04:04:07+00:00 | 789815 | 85 | | 14 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-03 02:30:19+00:00 | 258539 | 132 | REXX | 12 | [] |
 | trinhudo/Matlab-code-TWC-Aug2017 | Matlab code of the paper: N. T. Do, D. B. da Costa, T. Q. Duong, V. N. Q. Bao, and B. An, “Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling,” IEEE Transactions on Wireless Communications, vol. 16, no. | https://github.com/trinhudo/Matlab-code-TWC-Aug2017 | ['exploit'] | 1 | 2022-03-03 03:32:34+00:00 | 18 | 6 | MATLAB | 7 | [] |
+| Cryptogenic/REBot | A discord bot for reverse engineers and exploit developers. | https://github.com/Cryptogenic/REBot | ['exploit'] | 1 | 2022-03-03 23:54:34+00:00 | 34 | 54 | Go | 13 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-03-03 08:41:36+00:00 | 293405 | 94 | Python | 15 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-03-03 06:59:07+00:00 | 371268 | 449 | C | 320 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-03 00:22:33+00:00 | 248115 | 282 | Ruby | 82 | [] |
@@ -105,10 +105,10 @@
 | xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-03-03 13:53:53+00:00 | 3153 | 307 | HTML | 109 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-03 05:09:26+00:00 | 263093 | 6915 | C | 1882 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-03 04:54:35+00:00 | 4104 | 2618 | PowerShell | 743 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-03 04:04:07+00:00 | 789815 | 85 | | 14 | [] |
+| RootMyTV/RootMyTV.github.io | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | ['exploit'] | 1 | 2022-03-03 18:16:11+00:00 | 341 | 486 | HTML | 18 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-03 00:45:59+00:00 | 140242 | 331 | Python | 99 | [] |
-| Bin4xin/bigger-than-bigger | POC&EXP: 用友NC反序列化 · LFS · Vulnerabilities · CTF; 供后来者学习以及技术探讨 Upload by git LFS. | https://github.com/Bin4xin/bigger-than-bigger | ['vulnerability poc'] | 1 | 2022-03-03 14:57:59+00:00 | 164715 | 6 | Java | 3 | [] |
-| Kazutada/ExploitHax | None | https://github.com/Kazutada/ExploitHax | ['exploit'] | 1 | 2022-03-03 21:13:02+00:00 | 22 | 0 | | 1 | [] |
+| renox31/silent-exploit-PDF | None | https://github.com/renox31/silent-exploit-PDF | ['exploit'] | 1 | 2022-03-03 12:37:45+00:00 | 2 | 1 | | 0 | [] |
+| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-03-03 23:30:41+00:00 | 324 | 341 | C# | 72 | [] |
 | volkandindar/agartha | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and mor | https://github.com/volkandindar/agartha | ['exploit', 'rce'] | 2 | 2022-03-03 22:35:03+00:00 | 1161 | 22 | Python | 3 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-03 12:15:19+00:00 | 43732 | 2 | Jupyter Notebook | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-03 08:42:23+00:00 | 50762 | 0 | Python | 0 | [] |
@@ -123,8 +123,8 @@
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-03 02:58:31+00:00 | 2012 | 55 | JavaScript | 58 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-03-03 10:24:14+00:00 | 958 | 1 | Python | 0 | [] |
 | zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2022-03-03 01:57:12+00:00 | 5 | 1 | Python | 0 | [] |
-| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-03-03 23:30:41+00:00 | 324 | 341 | C# | 72 | [] |
 | Team8K/Web | Web exploits | https://github.com/Team8K/Web | ['exploit'] | 1 | 2022-03-03 15:04:44+00:00 | 581 | 0 | | 1 | [] |
+| Bin4xin/bigger-than-bigger | POC&EXP: 用友NC反序列化 · LFS · Vulnerabilities · CTF; 供后来者学习以及技术探讨 Upload by git LFS. | https://github.com/Bin4xin/bigger-than-bigger | ['vulnerability poc'] | 1 | 2022-03-03 14:57:59+00:00 | 164715 | 6 | Java | 3 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-03-03 12:37:33+00:00 | 1233 | 6 | | 0 | [] |
 | rishabh-panda/Quantum-Nationn | Quantum computing, a study focused on the development of computer-based technologies centred around the principles of quantum theory. It is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of quantum states | https://github.com/rishabh-panda/Quantum-Nationn | ['exploit'] | 1 | 2022-03-03 13:58:35+00:00 | 211 | 1 | Jupyter Notebook | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-03 01:19:16+00:00 | 3889028 | 23 | Python | 4 | [] |
@@ -138,4 +138,5 @@
 | KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-03-03 06:52:39+00:00 | 78017 | 2 | Python | 0 | [] |
 | ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345 | RFI to RCE Nagios/NagiosXI exploitation | https://github.com/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-03-03 17:08:52+00:00 | 3 | 0 | | 0 | ['CVE-2021-40345'] |
 | GaryOderNichts/bluubomb | Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | ['exploit'] | 1 | 2022-03-03 00:24:47+00:00 | 73 | 79 | C | 2 | [] |
+| Kazutada/ExploitHax | None | https://github.com/Kazutada/ExploitHax | ['exploit'] | 1 | 2022-03-03 21:13:02+00:00 | 22 | 0 | | 1 | [] |
 | renox31/-silent-exploit-PDF | None | https://github.com/renox31/-silent-exploit-PDF | ['exploit'] | 1 | 2022-03-03 23:20:34+00:00 | 0 | 1 | | 0 | [] |
