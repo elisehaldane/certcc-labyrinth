@@ -6,16 +6,15 @@ repo_id,repo_full_name,file,file_sha1,match
 411307412,vuldb/cyber_threat_intelligence,actors/Cobalt Group/README.md,487132705e783dc66a98cbbc029672d3974b96a1,CVE-2017-0199
 411307412,vuldb/cyber_threat_intelligence,actors/Cobalt Group/README.md,487132705e783dc66a98cbbc029672d3974b96a1,CVE-2017-8759
 411307412,vuldb/cyber_threat_intelligence,actors/Royal Road/README.md,58dc79775bfb670c87675eb94f1dd2e4bd7c5e33,CVE-2018-0798
-411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,64d26ab5dfee5121dccb7155ff6d53063eb53817,CVE-2019-2725
 411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,64d26ab5dfee5121dccb7155ff6d53063eb53817,CVE-2017-10271
 411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,64d26ab5dfee5121dccb7155ff6d53063eb53817,CVE-2018-7600
+411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,64d26ab5dfee5121dccb7155ff6d53063eb53817,CVE-2019-2725
 411307412,vuldb/cyber_threat_intelligence,actors/Luoxk/README.md,678fcda5bd74bf7298e4f69ed2de353488824994,CVE-2018-2893
-411307412,vuldb/cyber_threat_intelligence,actors/DEV-0322/README.md,79bd48072ee640d1c0ee6513408fed2f94740f18,CVE-2021-35211
 411307412,vuldb/cyber_threat_intelligence,actors/REvil/README.md,8ce982e4f262c0a5dd85dde9036c299e9e80b358,CVE-2019-2725
 411307412,vuldb/cyber_threat_intelligence,actors/APT3/README.md,8daf2659ac5194fe3dd721dcf0ebbfa1a9adbbdf,CVE-2015-5119
 411307412,vuldb/cyber_threat_intelligence,actors/APT3/README.md,8daf2659ac5194fe3dd721dcf0ebbfa1a9adbbdf,CVE-2015-5122
-411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,92cdec960c8100a744650da906cd88cc90f52de3,CVE-2021-26855
 411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,92cdec960c8100a744650da906cd88cc90f52de3,CVE-2021-44228
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,92cdec960c8100a744650da906cd88cc90f52de3,CVE-2021-26855
 411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,92cdec960c8100a744650da906cd88cc90f52de3,CVE-2021-41773
 411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,92cdec960c8100a744650da906cd88cc90f52de3,CVE-2021-42237
 411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,92cdec960c8100a744650da906cd88cc90f52de3,CVE-2021-40539
@@ -27,4 +26,5 @@ repo_id,repo_full_name,file,file_sha1,match
 411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,aef485edae970cf3746539d0783557ef04e2f14e,CVE-2017-18368
 411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,aef485edae970cf3746539d0783557ef04e2f14e,CVE-2017-17215
 411307412,vuldb/cyber_threat_intelligence,actors/APT41/README.md,d2e75c268bf0c70c1a735621fd236cbaf0544fd6,CVE-2019-19781
+411307412,vuldb/cyber_threat_intelligence,actors/DEV-0322/README.md,e720829edb4168c391709bb3fcc3fb7648f43370,CVE-2021-35211
 411307412,vuldb/cyber_threat_intelligence,actors/Poison Needles/README.md,e944eac609196d49f77c493e47adf4cc3cb24edd,CVE-2018-15982
