@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#45,1.00000000,https://github.com/stangezond/exploit,stangezond/exploit,461877842
 VU#45,1.00000000,https://github.com/wesleydekraker/log4j-poc,wesleydekraker/log4j-poc,455852447
+VU#45,0.50000000,https://github.com/hoprik/bgExploit,hoprik/bgExploit,466544271
 VU#45,0.50000000,https://github.com/netslutter/metasploit-framework,netslutter/metasploit-framework,464172308
 VU#45,0.50000000,https://github.com/real-exploit/red_hat_python,real-exploit/red_hat_python,463070747
 VU#45,0.50000000,https://github.com/disjcordLAMO/XYZ-roblox-exploit,disjcordLAMO/XYZ-roblox-exploit,435216853
