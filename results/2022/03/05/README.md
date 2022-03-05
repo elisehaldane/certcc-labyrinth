@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/05
     
-18 records found after deduplication
+20 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|----------------------|
@@ -10,6 +10,7 @@
 | R3LI4NT/MSF-Android | Generador de APK's maliciosas para Android _ local y remoto. | https://github.com/R3LI4NT/MSF-Android | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-05 00:57:39+00:00 | 18 | 1 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-05 00:52:26+00:00 | 79 | 0 | | 0 | [] |
 | PlexDevelopment/Blackout | Blackout exploits on your Minecraft server. | https://github.com/PlexDevelopment/Blackout | ['exploit'] | 1 | 2022-03-05 00:05:42+00:00 | 94 | 0 | Java | 0 | [] |
+| Eddi0x/PDF-Silent-Exploit-FUD | None | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | ['exploit'] | 1 | 2022-03-05 02:34:19+00:00 | 4 | 1 | | 0 | [] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-03-05 01:33:32+00:00 | 7 | 0 | Python | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-03-05 00:40:38+00:00 | 190 | 0 | Go | 0 | [] |
 | jake-k-38/win-log4shell-detect | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4shell-detect | ['exploit'] | 1 | 2022-03-05 00:55:17+00:00 | 52 | 1 | PowerShell | 0 | [] |
@@ -19,6 +20,7 @@
 | KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-03-05 01:53:27+00:00 | 78220 | 2 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-05 00:04:09+00:00 | 473583 | 46 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-05 00:46:52+00:00 | 45779 | 29 | | 18 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-05 02:30:18+00:00 | 277556 | 133 | REXX | 12 | [] |
 | ivam3/embed | Embed Metasploit Payload in Legtim APK with Termux | https://github.com/ivam3/embed | ['metasploit module OR payload'] | 1 | 2022-03-05 01:32:35+00:00 | 94628 | 17 | Ruby | 4 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-03-05 01:37:13+00:00 | 377001 | 457 | C | 326 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-05 00:20:33+00:00 | 249655 | 284 | Ruby | 83 | [] |
