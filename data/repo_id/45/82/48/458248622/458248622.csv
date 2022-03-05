@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 458248622,E1P0TR0/CVE-Machines_htb,CVE-2021-22204_Meta/exploit.py,1d263492f43f5ac59142b9595303d733a22ab62f,CVE-2021-22204
 458248622,E1P0TR0/CVE-Machines_htb,CVE-2013-4786_Shibboleth/requirements.sh,25cb672f089d019515b0c3f1b90f4af7becda914,CVE-2013-4786
+458248622,E1P0TR0/CVE-Machines_htb,CVE-2021-3560_Paper/exploit.py,2dc4a1e7440a807ce922844d085ff60a542e3ffb,CVE-2021-3560
 458248622,E1P0TR0/CVE-Machines_htb,CVE-2013-4786_Shibboleth/exploit.py,48e45bff2309a2322e84fc1ddf59a9954d6fad22,CVE-2013-4786
