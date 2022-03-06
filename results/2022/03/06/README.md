@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/06
     
-42 records found after deduplication
+47 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-06 07:36:09+00:00 | 694129 | 26540 | Ruby | 12020 | [] |
 | jas9reet/CVE-2019-11043 | CVE-2019-11043 LAB | https://github.com/jas9reet/CVE-2019-11043 | ['cve-2 OR cve_2'] | 1 | 2022-03-06 07:42:14+00:00 | 4896 | 0 | Python | 0 | ['CVE-2019-11043'] |
+| zilibobi/zHub | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | ['exploit'] | 1 | 2022-03-06 09:20:10+00:00 | 312 | 3 | Lua | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-06 05:02:22+00:00 | 137322 | 2417 | | 280 | [] |
 | illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-06 05:28:05+00:00 | 1576 | 0 | Python | 0 | [] |
 | 0bfxgh0st/lfisuite | Local File Inclusion scanner/enumerator and rce. | https://github.com/0bfxgh0st/lfisuite | ['rce'] | 1 | 2022-03-06 00:38:18+00:00 | 3846 | 0 | Python | 0 | [] |
@@ -16,19 +17,20 @@
 | LiDaoZang/GO_SHELL_ATUO | 用bat脚本在windows环境下，一键免杀shellcode | https://github.com/LiDaoZang/GO_SHELL_ATUO | ['shellcode'] | 1 | 2022-03-06 01:59:08+00:00 | 0 | 1 | C | 0 | [] |
 | Gnaneshwar-ctrl/binary-exploits- | None | https://github.com/Gnaneshwar-ctrl/binary-exploits- | ['exploit'] | 1 | 2022-03-06 02:51:13+00:00 | 3 | 0 | Python | 0 | [] |
 | T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-06 07:18:04+00:00 | 4 | 1 | C | 0 | [] |
-| v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-06 00:46:50+00:00 | 37174 | 1075 | Python | 394 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-06 01:44:23+00:00 | 323522 | 328 | PHP | 122 | [] |
+| bruhboy666/Bruhboy-Sploit | None | https://github.com/bruhboy666/Bruhboy-Sploit | ['sploit'] | 1 | 2022-03-06 09:39:58+00:00 | 23595 | 0 | Lua | 0 | [] |
 | AnonymousMonke1234/Slasher | Heres a really cool exploit for roblox I made, I hope you enjoy it, in fact- I worked on it for like a week so I hope you like it | https://github.com/AnonymousMonke1234/Slasher | ['exploit'] | 1 | 2022-03-06 00:39:52+00:00 | 6678 | 0 | Lua | 0 | [] |
 | jktrn/cyber | Documentation for the TSA Cybersecurity team. Contains Linux Fundamentals, picoCTF solves, crypto/stegano, web/binary exploit, etc. | https://github.com/jktrn/cyber | ['exploit'] | 1 | 2022-03-06 02:05:27+00:00 | 1 | 0 | | 0 | [] |
-| faisalfs10x/Webmin-CVE-2022-0824-revshell | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-06 06:42:20+00:00 | 5 | 0 | Python | 0 | ['CVE-2022-0824'] |
+| faisalfs10x/Webmin-CVE-2022-0824-revshell | Webmin CVE-2022-0824 Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-06 00:36:18+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-0824'] |
 | MasterExploiterz/MasterExploiterz | Config files for my GitHub profile. | https://github.com/MasterExploiterz/MasterExploiterz | ['exploit'] | 1 | 2022-03-06 00:05:27+00:00 | 0 | 0 | | 0 | [] |
 | Benadry/SNGUI | A Roblox Exploiter using the WeAreDevs API. | https://github.com/Benadry/SNGUI | ['exploit'] | 1 | 2022-03-06 02:54:45+00:00 | 0 | 0 | | 0 | [] |
 | lolAstral/AHS-EXPLOIT | None | https://github.com/lolAstral/AHS-EXPLOIT | ['exploit'] | 1 | 2022-03-06 04:21:11+00:00 | 0 | 0 | | 0 | [] |
 | trhacknon/Trhackdav-Mass-Exploiter | Webdav mass exploiter tool. Rewrite by trhacknon | https://github.com/trhacknon/Trhackdav-Mass-Exploiter | ['exploit'] | 1 | 2022-03-06 06:33:52+00:00 | 0 | 0 | HTML | 0 | [] |
 | Tsinghua-MARS-Lab/M2I | M2I is a simple but effective joint motion prediction framework that makes marginal and conditional predictions by exploiting the factorized relations between interacting agents | https://github.com/Tsinghua-MARS-Lab/M2I | ['exploit'] | 1 | 2022-03-06 06:48:18+00:00 | 0 | 0 | | 0 | [] |
 | KadenZipfel/max-mint-exploit | reentrancy exploit on maxMintPerUser nft contracts using _safeMint | https://github.com/KadenZipfel/max-mint-exploit | ['exploit'] | 1 | 2022-03-06 04:04:18+00:00 | 1548 | 0 | JavaScript | 0 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-06 01:44:23+00:00 | 323522 | 328 | PHP | 122 | [] |
 | tungdo0602/Discord-Token-Cracker | Simple and fast discord token cracker | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2022-03-06 03:49:37+00:00 | 166 | 27 | Python | 8 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-06 01:09:32+00:00 | 3861033 | 23 | Python | 4 | [] |
+| v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-06 00:46:50+00:00 | 37174 | 1075 | Python | 394 | [] |
+| xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-03-06 08:18:52+00:00 | 248599 | 7 | | 1 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-06 00:08:04+00:00 | 1534793 | 1578 | Python | 532 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-06 00:19:41+00:00 | 249655 | 286 | Ruby | 83 | [] |
 | audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2022-03-06 04:14:21+00:00 | 8168 | 0 | Rich Text Format | 1 | [] |
@@ -36,14 +38,17 @@
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-03-06 01:21:53+00:00 | 2274 | 262 | C | 10 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-06 00:04:01+00:00 | 470022 | 47 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-06 04:18:40+00:00 | 193878 | 16 | Python | 5 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-06 09:16:52+00:00 | 81249 | 763 | Go | 133 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-03-06 02:04:03+00:00 | 294808 | 879 | C# | 208 | [] |
-| xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-03-06 08:18:52+00:00 | 248599 | 7 | | 1 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-06 03:58:45+00:00 | 785255 | 86 | | 14 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-06 01:09:32+00:00 | 3861033 | 23 | Python | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-06 00:48:41+00:00 | 148002 | 331 | Python | 99 | [] |
 | eR072391/cve-2017-5674 | None | https://github.com/eR072391/cve-2017-5674 | ['cve-2 OR cve_2'] | 1 | 2022-03-06 05:15:32+00:00 | 22 | 0 | Python | 0 | ['CVE-2017-5674'] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-03-06 08:38:19+00:00 | 204727 | 0 | JavaScript | 0 | [] |
 | WLYLab/ATSE | Code for paper "ATSE: a peptide toxicity predictor by exploiting structural and evolutionary information based on graph neural network and attention mechanism" | https://github.com/WLYLab/ATSE | ['exploit'] | 1 | 2022-03-06 02:35:46+00:00 | 6901 | 3 | Python | 2 | [] |
+| Karma2424/cve2019-2215-3.18 | None | https://github.com/Karma2424/cve2019-2215-3.18 | ['cve-2 OR cve_2'] | 1 | 2022-03-06 09:22:28+00:00 | 549 | 0 | C | 2 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-06 01:21:12+00:00 | 12573 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-06 01:21:44+00:00 | 7512 | 73 | HTML | 15 | [] |
 | anvbis/anvbis.github.io | Personal blog on binary exploitation and reverse engineering. | https://github.com/anvbis/anvbis.github.io | ['exploit'] | 1 | 2022-03-06 03:41:53+00:00 | 4399 | 0 | CSS | 0 | [] |
+| BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2022-03-06 09:11:19+00:00 | 226676 | 30 | PowerShell | 11 | [] |
 | Onurhan1337/CVE-2018-10933 | None | https://github.com/Onurhan1337/CVE-2018-10933 | ['cve-2 OR cve_2'] | 1 | 2022-03-06 07:43:03+00:00 | 0 | 1 | | 0 | ['CVE-2018-10933'] |
