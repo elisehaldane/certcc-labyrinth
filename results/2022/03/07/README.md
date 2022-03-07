@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/07
     
-24 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-07 00:08:07+00:00 | 1534793 | 1579 | Python | 532 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-07 00:20:19+00:00 | 249656 | 287 | Ruby | 83 | [] |
+| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-07 05:52:27+00:00 | 51639 | 0 | Python | 0 | [] |
 | pengode-handal/alfarce | Bash, Perl, Python alfa Remote Code Execution | https://github.com/pengode-handal/alfarce | ['remote code execution'] | 1 | 2022-03-07 01:49:51+00:00 | 0 | 0 | nan | 0 | [] |
 | Tsinghua-MARS-Lab/M2I | M2I is a simple but effective joint motion prediction framework that makes marginal and conditional predictions by exploiting the factorized relations between interacting agents | https://github.com/Tsinghua-MARS-Lab/M2I | ['exploit'] | 1 | 2022-03-07 03:09:23+00:00 | 3 | 1 | | 0 | [] |
 | trhacknon/Trhackdav-Mass-Exploiter | Webdav mass exploiter tool. Rewrite by trhacknon | https://github.com/trhacknon/Trhackdav-Mass-Exploiter | ['exploit'] | 1 | 2022-03-07 05:01:52+00:00 | 45 | 0 | HTML | 0 | [] |
@@ -15,8 +15,11 @@
 | chrimson/seed_shellcode | nan | https://github.com/chrimson/seed_shellcode | ['shellcode'] | 1 | 2022-03-07 03:03:02+00:00 | 3 | 0 | Assembly | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-07 00:50:56+00:00 | 89 | 0 | nan | 0 | [] |
 | chenaotian/CVE-2022-0185 | CVE-2022-0185 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-07 03:59:37+00:00 | 12585 | 6 | Shell | 1 | ['CVE-2022-0185'] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-07 05:47:27+00:00 | 140330 | 2424 | | 281 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-07 04:21:17+00:00 | 524 | 1 | Python | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-07 06:17:46+00:00 | 47225 | 2 | Jupyter Notebook | 0 | [] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-07 00:26:17+00:00 | 127 | 8 | | 3 | ['CVE-2021-44228'] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-07 00:20:19+00:00 | 249656 | 287 | Ruby | 83 | [] |
 | Penya21/bgtoolbelt | An app that exploits the BGG API for misc purposes | https://github.com/Penya21/bgtoolbelt | ['exploit'] | 1 | 2022-03-07 02:51:36+00:00 | 178928 | 0 | Java | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-07 02:21:04+00:00 | 2253 | 56 | JavaScript | 66 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-07 01:11:06+00:00 | 3816340 | 23 | Python | 4 | [] |
