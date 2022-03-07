@@ -1,17 +1,21 @@
 
 # Summary for results/2022/03/07
     
-18 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-07 00:08:07+00:00 | 1534793 | 1579 | Python | 532 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-07 00:20:19+00:00 | 249656 | 287 | Ruby | 83 | [] |
+| pengode-handal/alfarce | Bash, Perl, Python alfa Remote Code Execution | https://github.com/pengode-handal/alfarce | ['remote code execution'] | 1 | 2022-03-07 01:49:51+00:00 | 0 | 0 | nan | 0 | [] |
 | Tsinghua-MARS-Lab/M2I | M2I is a simple but effective joint motion prediction framework that makes marginal and conditional predictions by exploiting the factorized relations between interacting agents | https://github.com/Tsinghua-MARS-Lab/M2I | ['exploit'] | 1 | 2022-03-07 03:09:23+00:00 | 3 | 1 | | 0 | [] |
+| Gnaneshwar-ctrl/binary-exploits- | None | https://github.com/Gnaneshwar-ctrl/binary-exploits- | ['exploit'] | 1 | 2022-03-07 04:05:25+00:00 | 4 | 0 | Python | 0 | [] |
 | Kob123678/KoSploit-Beta-2.0 | None | https://github.com/Kob123678/KoSploit-Beta-2.0 | ['sploit'] | 1 | 2022-03-07 02:51:29+00:00 | 10295 | 0 | | 0 | [] |
 | chrimson/seed_shellcode | nan | https://github.com/chrimson/seed_shellcode | ['shellcode'] | 1 | 2022-03-07 03:03:02+00:00 | 3 | 0 | Assembly | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-07 00:50:56+00:00 | 89 | 0 | nan | 0 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-07 00:26:17+00:00 | 127 | 8 | nan | 3 | ['CVE-2021-44228'] |
+| chenaotian/CVE-2022-0185 | CVE-2022-0185 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-07 03:59:37+00:00 | 12585 | 6 | Shell | 1 | ['CVE-2022-0185'] |
+| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-07 04:21:17+00:00 | 524 | 1 | Python | 0 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-07 00:26:17+00:00 | 127 | 8 | | 3 | ['CVE-2021-44228'] |
 | Penya21/bgtoolbelt | An app that exploits the BGG API for misc purposes | https://github.com/Penya21/bgtoolbelt | ['exploit'] | 1 | 2022-03-07 02:51:36+00:00 | 178928 | 0 | Java | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-07 02:21:04+00:00 | 2253 | 56 | JavaScript | 66 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-07 01:11:06+00:00 | 3816340 | 23 | Python | 4 | [] |
@@ -22,4 +26,4 @@
 | ContentGiraffe/CumSploit | None | https://github.com/ContentGiraffe/CumSploit | ['sploit'] | 1 | 2022-03-07 01:43:46+00:00 | 2017 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-07 00:03:27+00:00 | 470550 | 47 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-07 02:30:18+00:00 | 194408 | 134 | REXX | 12 | [] |
-| pengode-handal/alfarce | Bash, Perl, Python alfa Remote Code Execution | https://github.com/pengode-handal/alfarce | ['remote code execution'] | 1 | 2022-03-07 01:49:51+00:00 | 0 | 0 | nan | 0 | [] |
+| GeerxOS/msf-shell | msf-shell is a python3 script that uses payloads and metasploit modules to use. | https://github.com/GeerxOS/msf-shell | ['metasploit module OR payload'] | 1 | 2022-03-07 04:40:28+00:00 | 0 | 0 | | 0 | [] |
