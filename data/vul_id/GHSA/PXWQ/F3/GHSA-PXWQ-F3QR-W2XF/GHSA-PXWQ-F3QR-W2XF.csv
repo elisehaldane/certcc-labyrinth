@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-PXWQ-F3QR-W2XF,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
-GHSA-PXWQ-F3QR-W2XF,0.00020292,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-PXWQ-F3QR-W2XF,0.00020288,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
