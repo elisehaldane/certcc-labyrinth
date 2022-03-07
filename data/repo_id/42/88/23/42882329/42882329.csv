@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+42882329,n1nj4sec/pupy,pupy/network/lib/picocmd/dns_encoder.py,0f2c436ea0314818795e1a0286f7463c65b67705,VU#861
+42882329,n1nj4sec/pupy,pupy/network/lib/picocmd/dns_encoder.py,0f2c436ea0314818795e1a0286f7463c65b67705,VU#88
 42882329,n1nj4sec/pupy,pupy/external/PowerSploit/Recon/PowerView.ps1,311b73fbec523de65b4e2fb5885bb669ac7f7621,MS03-007
 42882329,n1nj4sec/pupy,pupy/external/PowerSploit/Recon/PowerView.ps1,311b73fbec523de65b4e2fb5885bb669ac7f7621,MS03-026
 42882329,n1nj4sec/pupy,pupy/external/PowerSploit/Recon/PowerView.ps1,311b73fbec523de65b4e2fb5885bb669ac7f7621,MS04-011
