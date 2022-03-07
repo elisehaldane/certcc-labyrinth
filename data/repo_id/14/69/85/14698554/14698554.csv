@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+14698554,spaze/exploited.cz,site/.well-known/security.txt,91538dc842cb509fafa78ad3dada09319cee1ce1,VU#42
