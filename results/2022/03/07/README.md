@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/07
     
-22 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -9,6 +9,7 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-07 00:20:19+00:00 | 249656 | 287 | Ruby | 83 | [] |
 | pengode-handal/alfarce | Bash, Perl, Python alfa Remote Code Execution | https://github.com/pengode-handal/alfarce | ['remote code execution'] | 1 | 2022-03-07 01:49:51+00:00 | 0 | 0 | nan | 0 | [] |
 | Tsinghua-MARS-Lab/M2I | M2I is a simple but effective joint motion prediction framework that makes marginal and conditional predictions by exploiting the factorized relations between interacting agents | https://github.com/Tsinghua-MARS-Lab/M2I | ['exploit'] | 1 | 2022-03-07 03:09:23+00:00 | 3 | 1 | | 0 | [] |
+| trhacknon/Trhackdav-Mass-Exploiter | Webdav mass exploiter tool. Rewrite by trhacknon | https://github.com/trhacknon/Trhackdav-Mass-Exploiter | ['exploit'] | 1 | 2022-03-07 05:01:52+00:00 | 45 | 0 | HTML | 0 | [] |
 | Gnaneshwar-ctrl/binary-exploits- | None | https://github.com/Gnaneshwar-ctrl/binary-exploits- | ['exploit'] | 1 | 2022-03-07 04:05:25+00:00 | 4 | 0 | Python | 0 | [] |
 | Kob123678/KoSploit-Beta-2.0 | None | https://github.com/Kob123678/KoSploit-Beta-2.0 | ['sploit'] | 1 | 2022-03-07 02:51:29+00:00 | 10295 | 0 | | 0 | [] |
 | chrimson/seed_shellcode | nan | https://github.com/chrimson/seed_shellcode | ['shellcode'] | 1 | 2022-03-07 03:03:02+00:00 | 3 | 0 | Assembly | 0 | [] |
@@ -25,5 +26,6 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-07 00:47:47+00:00 | 152179 | 332 | Python | 99 | [] |
 | ContentGiraffe/CumSploit | None | https://github.com/ContentGiraffe/CumSploit | ['sploit'] | 1 | 2022-03-07 01:43:46+00:00 | 2017 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-07 00:03:27+00:00 | 470550 | 47 | | 21 | [] |
+| sartlabs/0days | nan | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-03-07 05:18:33+00:00 | 579 | 0 | PHP | 1 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-07 02:30:18+00:00 | 194408 | 134 | REXX | 12 | [] |
 | GeerxOS/msf-shell | msf-shell is a python3 script that uses payloads and metasploit modules to use. | https://github.com/GeerxOS/msf-shell | ['metasploit module OR payload'] | 1 | 2022-03-07 04:40:28+00:00 | 0 | 0 | | 0 | [] |
