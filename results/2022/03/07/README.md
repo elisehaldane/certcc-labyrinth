@@ -1,14 +1,14 @@
 
 # Summary for results/2022/03/07
     
-133 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-07 11:40:45+00:00 | 694149 | 26547 | Ruby | 12020 | [] |
 | renox31/-silent-exploit-PDF | None | https://github.com/renox31/-silent-exploit-PDF | ['exploit'] | 1 | 2022-03-07 15:05:43+00:00 | 1 | 1 | | 0 | [] |
-| soezayzay/SoulExploitMiniWebShell | None | https://github.com/soezayzay/SoulExploitMiniWebShell | ['exploit'] | 1 | 2022-03-07 08:23:23+00:00 | 0 | 1 | PHP | 0 | [] |
-| j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE | Spring Cloud Gateway远程代码执行漏洞POC，基于命令执行的基础上，增加了反弹shell操作 | https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-03-07 08:22:13+00:00 | 14 | 1 | Python | 0 | ['CVE-2022-22947'] |
+| j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE | None | https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-03-07 07:41:31+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
+| loulan-ling/metasploit-module-introduction | metasploit模块介绍 | https://github.com/loulan-ling/metasploit-module-introduction | ['metasploit module OR payload'] | 1 | 2022-03-07 14:51:02+00:00 | 1 | 0 | | 0 | [] |
 | GeerxOS/msf-shell | msf-shell is a python3 script that uses payloads and metasploit modules to use. | https://github.com/GeerxOS/msf-shell | ['metasploit module OR payload'] | 1 | 2022-03-07 04:40:28+00:00 | 0 | 0 | | 0 | [] |
 | pengode-handal/alfarce | Bash, Perl, Python alfa Remote Code Execution | https://github.com/pengode-handal/alfarce | ['remote code execution'] | 1 | 2022-03-07 01:49:51+00:00 | 0 | 0 | | 0 | [] |
 | FabioDefilippo/ps-local-exploit | Porting of exploit-db local exploit for windows in powershell | https://github.com/FabioDefilippo/ps-local-exploit | ['exploit'] | 1 | 2022-03-07 23:17:19+00:00 | 17 | 0 | PowerShell | 0 | [] |
@@ -22,9 +22,9 @@
 | Kob123678/KoSploit-Beta-2.0 | None | https://github.com/Kob123678/KoSploit-Beta-2.0 | ['sploit'] | 1 | 2022-03-07 02:51:29+00:00 | 10295 | 0 | | 0 | [] |
 | chrimson/seed_shellcode | None | https://github.com/chrimson/seed_shellcode | ['shellcode'] | 1 | 2022-03-07 03:03:02+00:00 | 3 | 0 | Assembly | 0 | [] |
 | macromillion/portal-shitter | A brute force script in python made for a specific grade portal | https://github.com/macromillion/portal-shitter | ['exploit'] | 1 | 2022-03-07 18:06:11+00:00 | 20 | 1 | Python | 0 | [] |
-| mauricelambert/CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-03-07 19:02:57+00:00 | 47 | 16 | Ruby | 6 | ['CVE-2022-21907'] |
+| mfarukk06/Buffer-Overflow-Exploit | None | https://github.com/mfarukk06/Buffer-Overflow-Exploit | ['exploit'] | 1 | 2022-03-07 08:45:27+00:00 | 0 | 0 | Python | 0 | [] |
 | PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 21:07:57+00:00 | 1 | 18 | Shell | 4 | ['CVE-2022-0492'] |
-| EagleTube/LocaSiteWeb_Exploit | Combining of multiple vulnerabilites that could be lead to RCE | https://github.com/EagleTube/LocaSiteWeb_Exploit | ['exploit', 'rce'] | 2 | 2022-03-07 11:41:19+00:00 | 66 | 0 | Python | 0 | [] |
+| EagleTube/LocaSiteWeb_Exploit | Combining of multiple vulnerabilites that could be lead to RCE | https://github.com/EagleTube/LocaSiteWeb_Exploit | ['exploit', 'rce'] | 2 | 2022-03-07 12:24:02+00:00 | 76 | 0 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-07 00:50:56+00:00 | 89 | 0 | | 0 | [] |
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-07 15:39:48+00:00 | 86 | 0 | HTML | 0 | [] |
 | bjelefano/CSC427Winter2022-MetasploitLab | Lab Assignment for the Winter 2022 CSC427 Metasploit Presentation | https://github.com/bjelefano/CSC427Winter2022-MetasploitLab | ['metasploit module OR payload'] | 1 | 2022-03-07 23:20:38+00:00 | 864882 | 0 | Shell | 0 | [] |
@@ -37,10 +37,10 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-07 05:47:27+00:00 | 140330 | 2424 | | 281 | [] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-07 13:35:35+00:00 | 6736 | 2 | TypeScript | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-07 04:21:17+00:00 | 524 | 1 | Python | 0 | [] |
-| mfarukk06/Buffer-Overflow-Exploit | None | https://github.com/mfarukk06/Buffer-Overflow-Exploit | ['exploit'] | 1 | 2022-03-07 08:45:27+00:00 | 0 | 0 | Python | 0 | [] |
+| soezayzay/SoulExploitMiniWebShell | None | https://github.com/soezayzay/SoulExploitMiniWebShell | ['exploit'] | 1 | 2022-03-07 08:23:23+00:00 | 0 | 1 | PHP | 0 | [] |
 | DangPhucTech/exploit-vul | exploit-vul | https://github.com/DangPhucTech/exploit-vul | ['exploit'] | 1 | 2022-03-07 10:02:58+00:00 | 0 | 0 | | 0 | [] |
-| puckiestyle/CVE-2022-0492 | None | https://github.com/puckiestyle/CVE-2022-0492 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:03:26+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-0492'] |
-| RobertDra/CVE-2022-25256 | None | https://github.com/RobertDra/CVE-2022-25256 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:18:42+00:00 | 0 | 0 | | 0 | ['CVE-2022-25256'] |
+| mauricelambert/CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-03-07 19:02:57+00:00 | 47 | 16 | Ruby | 6 | ['CVE-2022-21907'] |
+| mrknow001/CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 16:26:15+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-22947'] |
 | Codingwithyay12/SuperSploit | None | https://github.com/Codingwithyay12/SuperSploit | ['sploit'] | 1 | 2022-03-07 23:07:35+00:00 | 0 | 0 | | 0 | [] |
 | CoolRooster/SimpleExploitFixer | None | https://github.com/CoolRooster/SimpleExploitFixer | ['exploit'] | 1 | 2022-03-07 21:17:18+00:00 | 0 | 1 | Java | 0 | [] |
 | Kipferl-OS/exploiting-croissant.sh | A blog that's supposed to be full of enumeration, vulnerability scanning, penetration of systems and...croissants! | https://github.com/Kipferl-OS/exploiting-croissant.sh | ['exploit'] | 1 | 2022-03-07 21:09:56+00:00 | 0 | 0 | | 0 | [] |
@@ -55,8 +55,8 @@
 | imfiver/CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit Linux内核提权 | https://github.com/imfiver/CVE-2022-0847 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-07 19:25:58+00:00 | 12 | 8 | Shell | 2 | ['CVE-2022-0847'] |
 | xndpxs/CVE-2022-0847 | Vulnerability in the Linux kernel since 5.8 | https://github.com/xndpxs/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 17:59:12+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | tropical-02/router-sploit | None | https://github.com/tropical-02/router-sploit | ['sploit'] | 1 | 2022-03-07 17:15:11+00:00 | 0 | 0 | | 0 | [] |
-| mrknow001/CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 16:26:15+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-22947'] |
 | harshmodi008/VIPPS_Present | I collaborated with Mrigakshi Goel to present on bypassing file uploads and exploiting attack vectors for | https://github.com/harshmodi008/VIPPS_Present | ['exploit'] | 1 | 2022-03-07 16:09:15+00:00 | 0 | 0 | | 0 | [] |
+| puckiestyle/CVE-2022-0492 | None | https://github.com/puckiestyle/CVE-2022-0492 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:03:26+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-0492'] |
 | BuggHub/sploit | Help to crash Android: framework | https://github.com/BuggHub/sploit | ['sploit'] | 1 | 2022-03-07 15:59:43+00:00 | 0 | 0 | Shell | 0 | [] |
 | bbaranoff/CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 15:52:23+00:00 | 0 | 3 | C | 2 | ['CVE-2022-0847'] |
 | BuggHub/sploit | Use for aploit Android framework | https://github.com/BuggHub/sploit | ['sploit'] | 1 | 2022-03-07 15:43:10+00:00 | 0 | 0 | | 0 | [] |
@@ -70,11 +70,11 @@
 | Jun-5heng/CVE-2022-22947 | SpringCloudGatewayRCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 11:56:21+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
 | rl-ehs-sl0th/exploit | None | https://github.com/rl-ehs-sl0th/exploit | ['exploit'] | 1 | 2022-03-07 10:54:15+00:00 | 0 | 0 | C# | 0 | [] |
 | RobertDra/CVE-2022-25257 | None | https://github.com/RobertDra/CVE-2022-25257 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:19:20+00:00 | 0 | 0 | | 0 | ['CVE-2022-25257'] |
+| RobertDra/CVE-2022-25256 | None | https://github.com/RobertDra/CVE-2022-25256 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:18:42+00:00 | 0 | 0 | | 0 | ['CVE-2022-25256'] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-07 23:10:36+00:00 | 2826 | 35 | | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-07 06:17:46+00:00 | 47225 | 2 | Jupyter Notebook | 0 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-07 08:29:12+00:00 | 46798 | 862 | Python | 204 | [] |
-| johnbwaldron/CNVdetection | scripts, functions, summary data for CNV detection | https://github.com/johnbwaldron/CNVdetection | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-07 20:24:12+00:00 | 5631 | 0 | R | 0 | [] |
-| loneicewolf/fanny.bmp | FANNY BMP MALWARE SOURCE + BINARY + Metasploit Module Checker | https://github.com/loneicewolf/fanny.bmp | ['metasploit module OR payload'] | 1 | 2022-03-07 21:06:18+00:00 | 57732 | 11 | C | 4 | [] |
+| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2022-03-07 03:39:51+00:00 | 26714 | 2556 | Python | 459 | [] |
 | sartlabs/0days | nan | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-03-07 05:18:33+00:00 | 579 | 0 | PHP | 1 | [] |
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2022-03-07 16:26:47+00:00 | 885 | 2772 | | 498 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-03-07 13:38:07+00:00 | 1303 | 118 | Shell | 53 | [] |
@@ -88,8 +88,9 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-07 02:30:18+00:00 | 194408 | 134 | REXX | 12 | [] |
 | hktalent/exploit-poc | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | ['exploit'] | 1 | 2022-03-07 13:53:38+00:00 | 5178 | 5 | | 1 | [] |
 | dsolstad/Shellcodes | Shellcode tutorials | https://github.com/dsolstad/Shellcodes | ['shellcode'] | 1 | 2022-03-07 08:50:39+00:00 | 8 | 1 | Assembly | 1 | [] |
+| johnbwaldron/CNVdetection | scripts, functions, summary data for CNV detection | https://github.com/johnbwaldron/CNVdetection | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-07 20:24:12+00:00 | 5631 | 0 | R | 0 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-03-07 17:12:47+00:00 | 293552 | 95 | Python | 15 | [] |
-| Jymit/exploit-notes | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-03-07 21:47:52+00:00 | 23 | 0 | | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-07 00:03:27+00:00 | 470550 | 47 | | 21 | [] |
 | gushmazuko/metasploit_in_termux | Install Metasploit Framework 6 in Termux | https://github.com/gushmazuko/metasploit_in_termux | ['metasploit module OR payload'] | 1 | 2022-03-07 16:43:24+00:00 | 16655 | 656 | Shell | 171 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2022-03-07 20:16:42+00:00 | 39688 | 7220 | Python | 1764 | [] |
 | stefanlucas/Exploit-Joomla | CVE-2017-8917 - SQL injection Vulnerability Exploit in Joomla 3.7.0 | https://github.com/stefanlucas/Exploit-Joomla | ['exploit'] | 1 | 2022-03-07 20:04:08+00:00 | 12089 | 22 | Python | 16 | ['CVE-2017-8917'] |
@@ -104,10 +105,10 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-07 00:08:07+00:00 | 1534793 | 1579 | Python | 532 | [] |
 | spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2022-03-07 20:28:41+00:00 | 3484 | 8 | HTML | 2 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-07 23:51:48+00:00 | 4172 | 2624 | PowerShell | 742 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-07 00:03:27+00:00 | 470550 | 47 | | 21 | [] |
+| loneicewolf/fanny.bmp | FANNY BMP MALWARE SOURCE + BINARY + Metasploit Module Checker | https://github.com/loneicewolf/fanny.bmp | ['metasploit module OR payload'] | 1 | 2022-03-07 21:06:18+00:00 | 57732 | 11 | C | 4 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-07 10:31:18+00:00 | 28904 | 16 | Python | 5 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-07 07:06:25+00:00 | 117 | 0 | PHP | 0 | [] |
-| RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-03-07 19:56:49+00:00 | 193 | 7 | Shell | 1 | [] |
+| Jymit/exploit-notes | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-03-07 21:47:52+00:00 | 23 | 0 | | 0 | [] |
+| byteofandri/CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/byteofandri/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-07 14:12:38+00:00 | 14 | 6 | | 3 | ['CVE-2021-21972'] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-07 05:52:27+00:00 | 51639 | 0 | Python | 0 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-03-07 16:12:02+00:00 | 703 | 5 | C++ | 1 | [] |
 | DavidBuchanan314/ambiguous-png-packer | Craft PNG files that appear completely different in Apple software [NOW PATCHED] | https://github.com/DavidBuchanan314/ambiguous-png-packer | ['exploit'] | 1 | 2022-03-07 12:53:36+00:00 | 101 | 1009 | Python | 38 | [] |
@@ -122,8 +123,8 @@
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-03-07 19:12:07+00:00 | 22 | 1 | | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-07 06:58:20+00:00 | 7657 | 1111 | TypeScript | 184 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-03-07 09:08:03+00:00 | 1226 | 1 | Python | 0 | [] |
-| byteofandri/CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/byteofandri/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-07 14:12:38+00:00 | 14 | 6 | | 3 | ['CVE-2021-21972'] |
 | talsim/Exploit-Education | writeups of challenges in Exploit Education | https://github.com/talsim/Exploit-Education | ['exploit'] | 1 | 2022-03-07 18:20:06+00:00 | 125 | 0 | Python | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-07 07:06:25+00:00 | 117 | 0 | PHP | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-07 01:11:06+00:00 | 3816340 | 23 | Python | 4 | [] |
 | Amitale/Penetration-Testing-Notes | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | ['exploit'] | 1 | 2022-03-07 21:19:25+00:00 | 10 | 0 | | 0 | [] |
 | cirosantilli/china-dictatorhsip-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorhsip-2 | ['attack poc', 'exploit'] | 2 | 2022-03-07 09:52:47+00:00 | 11732 | 26 | HTML | 11 | [] |
@@ -137,4 +138,5 @@
 | epi052/osed-scripts | bespoke tooling for offensive security's Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | ['exploit', 'shellcode'] | 2 | 2022-03-07 18:08:43+00:00 | 780 | 168 | Python | 72 | [] |
 | psorus/git-pay | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | ['exploit'] | 1 | 2022-03-07 21:07:23+00:00 | 4414 | 0 | Python | 2 | [] |
 | ContentGiraffe/CumSploit | None | https://github.com/ContentGiraffe/CumSploit | ['sploit'] | 1 | 2022-03-07 01:43:46+00:00 | 2017 | 0 | | 0 | [] |
+| RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-03-07 19:56:49+00:00 | 193 | 7 | Shell | 1 | [] |
 | Kipferl-OS/exploiting-croissant.github.io | A true and authentic pastry of cybersecurity write-ups! | https://github.com/Kipferl-OS/exploiting-croissant.github.io | ['exploit'] | 1 | 2022-03-07 23:15:49+00:00 | 0 | 0 | HTML | 0 | [] |
