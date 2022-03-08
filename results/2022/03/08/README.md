@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/08
     
-82 records found after deduplication
+83 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -26,7 +26,7 @@
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-08 04:02:17+00:00 | 69 | 3 | nan | 0 | [] |
 | GatoGamer1155/CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-08 03:55:37+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
 | si1ent-le/CVE-2022-0847 | CVE-2022-0487 | https://github.com/si1ent-le/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-08 05:18:15+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0487', 'CVE-2022-0847'] |
-| spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2022-03-08 02:41:12+00:00 | 3490 | 8 | HTML | 2 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-08 00:49:24+00:00 | 102 | 0 | | 0 | [] |
 | NekoExploits/NekoExploits | Profile | https://github.com/NekoExploits/NekoExploits | ['exploit'] | 1 | 2022-03-08 06:30:17+00:00 | 0 | 0 | | 0 | [] |
 | readloud/CVE-in-Ruby | It's a repository to import public exploits to be written in Ruby without Metasploit complication | https://github.com/readloud/CVE-in-Ruby | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-08 12:06:12+00:00 | 0 | 0 | Ruby | 0 | [] |
 | febinrev/dirtypipez-exploit | CVE-2022-0847 DirtyPipe Exploit. | https://github.com/febinrev/dirtypipez-exploit | ['exploit'] | 1 | 2022-03-08 11:52:22+00:00 | 5 | 0 | C | 0 | ['CVE-2022-0847'] |
@@ -46,9 +46,9 @@
 | Sonalim211/Docker-Training | Docker Training features the primary concepts and practices of Docker, including container orchestration, scaling docker across multiple nodes in a cluster, and much more. Our Docker training certified online course amplifies your knowledge with the depth | https://github.com/Sonalim211/Docker-Training | ['exploit'] | 1 | 2022-03-08 06:27:28+00:00 | 0 | 0 | | 0 | [] |
 | Greetdawn/Apache-APISIX-dashboard-RCE | None | https://github.com/Greetdawn/Apache-APISIX-dashboard-RCE | ['rce'] | 1 | 2022-03-08 06:28:21+00:00 | 0 | 0 | Go | 0 | [] |
 | EagleTube/LocaSiteWeb_Exploit | Combining of multiple vulnerabilites that could be lead to RCE | https://github.com/EagleTube/LocaSiteWeb_Exploit | ['exploit', 'rce'] | 2 | 2022-03-08 01:41:23+00:00 | 76 | 0 | Python | 0 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-08 00:49:24+00:00 | 102 | 0 | | 0 | [] |
 | Amaranese/Metasploit-termux | None | https://github.com/Amaranese/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-03-08 10:54:06+00:00 | 13 | 1 | Shell | 0 | [] |
-| twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-03-08 08:56:35+00:00 | 311 | 0 | Python | 0 | [] |
+| spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2022-03-08 02:41:12+00:00 | 3490 | 8 | HTML | 2 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-08 01:21:33+00:00 | 16358 | 2 | Python | 0 | [] |
 | Cr4sh/MicroBackdoor | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | ['shellcode'] | 1 | 2022-03-08 06:14:10+00:00 | 2956 | 345 | C++ | 76 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-08 00:47:14+00:00 | 155763 | 332 | Python | 99 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-08 04:11:50+00:00 | 815011 | 86 | | 15 | [] |
@@ -67,9 +67,9 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-08 00:08:10+00:00 | 1534794 | 1581 | Python | 532 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-08 05:09:35+00:00 | 265276 | 6928 | C | 1885 | [] |
 | KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-03-08 01:23:57+00:00 | 79951 | 2 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-08 01:21:33+00:00 | 16358 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-08 01:22:50+00:00 | 7572 | 74 | HTML | 15 | [] |
-| hadrian3689/rejetto_hfs_rce | None | https://github.com/hadrian3689/rejetto_hfs_rce | ['rce'] | 1 | 2022-03-08 04:47:07+00:00 | 2 | 0 | Python | 1 | [] |
+| twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-03-08 08:56:35+00:00 | 311 | 0 | Python | 0 | [] |
+| cheezcharmer/chinese-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cheezcharmer/chinese-dictatorship | ['attack poc', 'exploit'] | 2 | 2022-03-08 06:52:34+00:00 | 763 | 28 | HTML | 5 | [] |
 | nikasakandelidze/remote-code-execution-engine | REST API for executing code in remote, docker, sandboxed containers | https://github.com/nikasakandelidze/remote-code-execution-engine | ['remote code execution'] | 1 | 2022-03-08 09:55:40+00:00 | 481 | 0 | Python | 0 | [] |
 | ChadMotivation/TymSpecial | SysWhispers integrated shellcode loader w/ ETW patching, anti-sandboxing, & spoofed code signing certificates | https://github.com/ChadMotivation/TymSpecial | ['shellcode'] | 1 | 2022-03-08 03:46:10+00:00 | 1170 | 116 | Python | 28 | [] |
 | siberiah0h/CVE-CNVD-HUB | 用于保存漏洞信息的仓库 | https://github.com/siberiah0h/CVE-CNVD-HUB | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-08 03:38:01+00:00 | 27943 | 0 | Go | 1 | [] |
@@ -77,8 +77,9 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-08 05:36:15+00:00 | 143814 | 2428 | nan | 281 | [] |
 | HawkDebian/HawkUnion-Web-Deface-Exploit | This is a C++ Exploit tool which defaces/hacks websites (Note: Only Websites with WebDAV Vulnerability! | https://github.com/HawkDebian/HawkUnion-Web-Deface-Exploit | ['exploit'] | 1 | 2022-03-08 12:16:30+00:00 | 35 | 0 | C++ | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-08 03:23:17+00:00 | 15017 | 5 | Python | 2 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-08 13:25:29+00:00 | 2828 | 35 | | 2 | [] |
+| hadrian3689/rejetto_hfs_rce | None | https://github.com/hadrian3689/rejetto_hfs_rce | ['rce'] | 1 | 2022-03-08 04:47:07+00:00 | 2 | 0 | Python | 1 | [] |
 | r4m1x/Exploit_Finder | This is a Script for Exploit Search | https://github.com/r4m1x/Exploit_Finder | ['exploit'] | 1 | 2022-03-08 10:57:56+00:00 | 33 | 4 | Python | 0 | [] |
-| cheezcharmer/chinese-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cheezcharmer/chinese-dictatorship | ['attack poc', 'exploit'] | 2 | 2022-03-08 06:52:34+00:00 | 763 | 28 | HTML | 5 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-03-08 04:31:27+00:00 | 105 | 232 | | 27 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-08 00:21:32+00:00 | 46936 | 2 | Jupyter Notebook | 0 | [] |
 | HenryFBP/JNDI-Exploit-Server | JNDI Exploit Server | https://github.com/HenryFBP/JNDI-Exploit-Server | ['exploit'] | 1 | 2022-03-08 03:35:14+00:00 | 34810 | 0 | Java | 1 | [] |
