@@ -1,13 +1,14 @@
 
 # Summary for results/2022/03/08
     
-38 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-08 00:31:57+00:00 | 695862 | 26557 | Ruby | 12020 | [] |
 | KodaneFlash/ethical-hacking | This repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat huntin | https://github.com/KodaneFlash/ethical-hacking | ['exploit'] | 1 | 2022-03-08 00:23:32+00:00 | 190 | 0 | | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-08 03:23:17+00:00 | 15017 | 5 | Python | 2 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-08 05:36:15+00:00 | 143814 | 2428 | | 281 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-08 02:46:12+00:00 | 6157 | 0 | | 1 | [] |
 | siberiah0h/CVE-CNVD-HUB | 用于保存漏洞信息的仓库 | https://github.com/siberiah0h/CVE-CNVD-HUB | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-08 03:38:01+00:00 | 27943 | 0 | Go | 1 | [] |
 | ChadMotivation/TymSpecial | SysWhispers integrated shellcode loader w/ ETW patching, anti-sandboxing, & spoofed code signing certificates | https://github.com/ChadMotivation/TymSpecial | ['shellcode'] | 1 | 2022-03-08 03:46:10+00:00 | 1170 | 116 | Python | 28 | [] |
@@ -23,11 +24,14 @@
 | DenysDanov/SMBv3RCE | None | https://github.com/DenysDanov/SMBv3RCE | ['rce'] | 1 | 2022-03-08 02:05:08+00:00 | 0 | 0 | Python | 0 | [] |
 | GatoGamer1155/CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-08 02:07:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
 | GatoGamer1155/CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-08 03:55:37+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
+| rahul1406/cve-2022-0847dirtypipe-exploit | None | https://github.com/rahul1406/cve-2022-0847dirtypipe-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-08 03:59:21+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | hadrian3689/rejetto_hfs_rce | None | https://github.com/hadrian3689/rejetto_hfs_rce | ['rce'] | 1 | 2022-03-08 04:47:07+00:00 | 2 | 0 | Python | 1 | [] |
-| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-03-08 04:31:27+00:00 | 105 | 232 | | 27 | [] |
+| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-03-08 04:31:27+00:00 | 105 | 232 | nan | 27 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-08 00:21:32+00:00 | 46936 | 2 | Jupyter Notebook | 0 | [] |
 | HenryFBP/JNDI-Exploit-Server | JNDI Exploit Server | https://github.com/HenryFBP/JNDI-Exploit-Server | ['exploit'] | 1 | 2022-03-08 03:35:14+00:00 | 34810 | 0 | Java | 1 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-08 05:09:35+00:00 | 265276 | 6928 | C | 1885 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-08 00:08:10+00:00 | 1534794 | 1581 | Python | 532 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-08 05:28:07+00:00 | 5721 | 3135 | Python | 684 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-08 00:19:09+00:00 | 249657 | 288 | Ruby | 83 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-08 02:30:18+00:00 | 202648 | 134 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-08 00:46:55+00:00 | 46399 | 29 | | 19 | [] |
@@ -42,4 +46,4 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-08 01:08:45+00:00 | 4018865 | 23 | Python | 4 | [] |
 | hernan-soto/rce | None | https://github.com/hernan-soto/rce | ['rce'] | 1 | 2022-03-08 02:45:11+00:00 | 13 | 0 | HTML | 0 | [] |
 | senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-03-08 04:00:50+00:00 | 1037 | 0 | Python | 1 | [] |
-| rahul1406/cve-2022-0847dirtypipe-exploit | None | https://github.com/rahul1406/cve-2022-0847dirtypipe-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-08 03:59:21+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
+| si1ent-le/CVE-2022-0847 | CVE-2022-0487 | https://github.com/si1ent-le/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-08 05:18:15+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0487', 'CVE-2022-0847'] |
