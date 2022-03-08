@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/08
     
-27 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-08 00:31:57+00:00 | 695862 | 26557 | Ruby | 12020 | [] |
-| hernan-soto/rce | None | https://github.com/hernan-soto/rce | ['rce'] | 1 | 2022-03-08 02:45:11+00:00 | 13 | 0 | HTML | 0 | [] |
+| spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2022-03-08 02:41:12+00:00 | 3490 | 8 | HTML | 2 | [] |
 | DenysDanov/SMBv3RCE | None | https://github.com/DenysDanov/SMBv3RCE | ['rce'] | 1 | 2022-03-08 02:05:08+00:00 | 0 | 0 | Python | 0 | [] |
 | Exploitgodz/tracfonesploit | This Exploit tweaks with the API for Tracfone and try's to get to the endpoint of the API and will pull a account pin some times this works sometimes it don't this is a old exploit so yeah | https://github.com/Exploitgodz/tracfonesploit | ['exploit'] | 1 | 2022-03-08 01:41:37+00:00 | 0 | 0 | | 0 | [] |
 | Exploitgodz/Tracfone-exploit | This Exploit tweaks with the API for Tracfone and try's to get to the endpoint of the API and will pull a account pin some times this works sometimes it don't | https://github.com/Exploitgodz/Tracfone-exploit | ['exploit'] | 1 | 2022-03-08 01:40:34+00:00 | 0 | 0 | | 0 | [] |
@@ -16,10 +16,13 @@
 | KodaneFlash/ethical-hacking | This repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat huntin | https://github.com/KodaneFlash/ethical-hacking | ['exploit'] | 1 | 2022-03-08 00:23:32+00:00 | 190 | 0 | | 0 | [] |
 | EagleTube/LocaSiteWeb_Exploit | Combining of multiple vulnerabilites that could be lead to RCE | https://github.com/EagleTube/LocaSiteWeb_Exploit | ['exploit', 'rce'] | 2 | 2022-03-08 01:41:23+00:00 | 76 | 0 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-08 00:49:24+00:00 | 102 | 0 | | 0 | [] |
+| siberiah0h/CVE-CNVD-HUB | 用于保存漏洞信息的仓库 | https://github.com/siberiah0h/CVE-CNVD-HUB | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-08 03:38:01+00:00 | 27943 | 0 | Go | 1 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-08 02:46:12+00:00 | 6157 | 0 | | 1 | [] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-08 03:23:17+00:00 | 15017 | 5 | Python | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-08 00:21:32+00:00 | 46936 | 2 | Jupyter Notebook | 0 | [] |
+| HenryFBP/JNDI-Exploit-Server | JNDI Exploit Server | https://github.com/HenryFBP/JNDI-Exploit-Server | ['exploit'] | 1 | 2022-03-08 03:35:14+00:00 | 34810 | 0 | Java | 1 | [] |
+| hernan-soto/rce | None | https://github.com/hernan-soto/rce | ['rce'] | 1 | 2022-03-08 02:45:11+00:00 | 13 | 0 | HTML | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-08 01:08:45+00:00 | 4018865 | 23 | Python | 4 | [] |
-| spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2022-03-08 02:41:12+00:00 | 3490 | 8 | HTML | 2 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-08 01:22:50+00:00 | 7572 | 74 | HTML | 15 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-08 01:21:33+00:00 | 16358 | 2 | Python | 0 | [] |
 | KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-03-08 01:23:57+00:00 | 79951 | 2 | Python | 0 | [] |
