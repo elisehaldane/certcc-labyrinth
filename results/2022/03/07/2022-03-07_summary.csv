@@ -2,7 +2,7 @@ full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargaz
 rapid7/metasploit-framework,Metasploit Framework,https://github.com/rapid7/metasploit-framework,['metasploit module OR payload'],1,2022-03-07T11:40:45+0000,694149,26547,Ruby,12020,[]
 renox31/-silent-exploit-PDF,None,https://github.com/renox31/-silent-exploit-PDF,['exploit'],1,2022-03-07T15:05:43+0000,1,1,,0,[]
 soezayzay/SoulExploitMiniWebShell,None,https://github.com/soezayzay/SoulExploitMiniWebShell,['exploit'],1,2022-03-07T08:23:23+0000,0,1,PHP,0,[]
-j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE,None,https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE,"['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc']",4,2022-03-07T07:41:31+0000,0,0,Python,0,['CVE-2022-22947']
+j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE,Spring Cloud Gateway远程代码执行漏洞POC，基于命令执行的基础上，增加了反弹shell操作,https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE,"['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc']",4,2022-03-07T08:22:13+0000,14,1,Python,0,['CVE-2022-22947']
 GeerxOS/msf-shell,msf-shell is a python3 script that uses payloads and metasploit modules to use.,https://github.com/GeerxOS/msf-shell,['metasploit module OR payload'],1,2022-03-07T04:40:28+0000,0,0,,0,[]
 pengode-handal/alfarce,"Bash, Perl, Python alfa Remote Code Execution",https://github.com/pengode-handal/alfarce,['remote code execution'],1,2022-03-07T01:49:51+0000,0,0,,0,[]
 FabioDefilippo/ps-local-exploit,Porting of exploit-db local exploit for windows in powershell,https://github.com/FabioDefilippo/ps-local-exploit,['exploit'],1,2022-03-07T23:17:19+0000,17,0,PowerShell,0,[]
@@ -46,7 +46,7 @@ Anaas0/exim_4_4_6_9_string_format_function_heap_buffer_overflow,nan,https://gith
 Jack7988/New-Silent-PDF-EXPLOIT-,None,https://github.com/Jack7988/New-Silent-PDF-EXPLOIT-,['exploit'],1,2022-03-07T19:41:09+0000,0,0,,0,[]
 mauricelambert/CVE-2021-31166,"CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit.",https://github.com/mauricelambert/CVE-2021-31166,"['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload']",3,2022-03-07T18:57:47+0000,0,0,Python,0,"['CVE-2021-31166', 'CVE-2022-21907']"
 Arinerron/CVE-2022-0847-DirtyPipe-Exploit,A root exploit for CVE-2022-0847,https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit,"['cve-2 OR cve_2', 'exploit']",2,2022-03-07T19:13:42+0000,0,0,C,0,['CVE-2022-0847']
-imfiver/CVE-2022-0847,CVE-2022-0847简单复现,https://github.com/imfiver/CVE-2022-0847,['cve-2 OR cve_2'],1,2022-03-07T18:46:59+0000,0,0,Shell,0,['CVE-2022-0847']
+imfiver/CVE-2022-0847,CVE-2022-0847-DirtyPipe-Exploit   Linux内核提权,https://github.com/imfiver/CVE-2022-0847,"['cve-2 OR cve_2', 'exploit']",2,2022-03-07T19:25:58+0000,12,8,Shell,2,['CVE-2022-0847']
 xndpxs/CVE-2022-0847,Vulnerability in the Linux kernel since 5.8,https://github.com/xndpxs/CVE-2022-0847,['cve-2 OR cve_2'],1,2022-03-07T17:59:12+0000,0,0,C,0,['CVE-2022-0847']
 tropical-02/router-sploit,None,https://github.com/tropical-02/router-sploit,['sploit'],1,2022-03-07T17:15:11+0000,0,0,,0,[]
 mrknow001/CVE-2022-22947,Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947),https://github.com/mrknow001/CVE-2022-22947,['cve-2 OR cve_2'],1,2022-03-07T16:26:15+0000,0,1,Python,0,['CVE-2022-22947']
