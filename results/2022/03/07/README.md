@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/07
     
-131 records found after deduplication
+132 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-07 11:40:45+00:00 | 694149 | 26547 | Ruby | 12020 | [] |
-| DangPhucTech/exploit-vul | exploit-vul | https://github.com/DangPhucTech/exploit-vul | ['exploit'] | 1 | 2022-03-07 10:02:58+00:00 | 0 | 0 | | 0 | [] |
+| renox31/-silent-exploit-PDF | None | https://github.com/renox31/-silent-exploit-PDF | ['exploit'] | 1 | 2022-03-07 15:05:43+00:00 | 1 | 1 | | 0 | [] |
 | soezayzay/SoulExploitMiniWebShell | None | https://github.com/soezayzay/SoulExploitMiniWebShell | ['exploit'] | 1 | 2022-03-07 08:23:23+00:00 | 0 | 1 | PHP | 0 | [] |
 | j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE | None | https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-03-07 07:41:31+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
 | GeerxOS/msf-shell | msf-shell is a python3 script that uses payloads and metasploit modules to use. | https://github.com/GeerxOS/msf-shell | ['metasploit module OR payload'] | 1 | 2022-03-07 04:40:28+00:00 | 0 | 0 | | 0 | [] |
@@ -21,10 +21,10 @@
 | Gnaneshwar-ctrl/binary-exploits- | None | https://github.com/Gnaneshwar-ctrl/binary-exploits- | ['exploit'] | 1 | 2022-03-07 04:05:25+00:00 | 4 | 0 | Python | 0 | [] |
 | Kob123678/KoSploit-Beta-2.0 | None | https://github.com/Kob123678/KoSploit-Beta-2.0 | ['sploit'] | 1 | 2022-03-07 02:51:29+00:00 | 10295 | 0 | | 0 | [] |
 | chrimson/seed_shellcode | None | https://github.com/chrimson/seed_shellcode | ['shellcode'] | 1 | 2022-03-07 03:03:02+00:00 | 3 | 0 | Assembly | 0 | [] |
-| renox31/-silent-exploit-PDF | None | https://github.com/renox31/-silent-exploit-PDF | ['exploit'] | 1 | 2022-03-07 15:05:43+00:00 | 1 | 1 | | 0 | [] |
 | macromillion/portal-shitter | A brute force script in python made for a specific grade portal | https://github.com/macromillion/portal-shitter | ['exploit'] | 1 | 2022-03-07 18:06:11+00:00 | 20 | 1 | Python | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-07 08:29:12+00:00 | 46798 | 862 | Python | 204 | [] |
 | PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 21:07:57+00:00 | 1 | 18 | Shell | 4 | ['CVE-2022-0492'] |
-| EagleTube/LocaSiteWeb_Exploit | Combining of multiple vulnerabilites that could be lead to RCE | https://github.com/EagleTube/LocaSiteWeb_Exploit | ['exploit', 'rce'] | 2 | 2022-03-07 11:41:19+00:00 | 66 | 0 | Python | 0 | [] |
+| EagleTube/LocaSiteWeb_Exploit | Combining of multiple vulnerabilites that could be lead to RCE | https://github.com/EagleTube/LocaSiteWeb_Exploit | ['exploit', 'rce'] | 2 | 2022-03-07 12:24:02+00:00 | 76 | 0 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-07 00:50:56+00:00 | 89 | 0 | | 0 | [] |
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-07 15:39:48+00:00 | 86 | 0 | HTML | 0 | [] |
 | bjelefano/CSC427Winter2022-MetasploitLab | Lab Assignment for the Winter 2022 CSC427 Metasploit Presentation | https://github.com/bjelefano/CSC427Winter2022-MetasploitLab | ['metasploit module OR payload'] | 1 | 2022-03-07 23:20:38+00:00 | 864882 | 0 | Shell | 0 | [] |
@@ -36,9 +36,10 @@
 | hippolippo/RCE-Games-Played-Site | None | https://github.com/hippolippo/RCE-Games-Played-Site | ['rce'] | 1 | 2022-03-07 22:02:43+00:00 | 3798 | 0 | HTML | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-07 05:47:27+00:00 | 140330 | 2424 | | 281 | [] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-07 13:35:35+00:00 | 6736 | 2 | TypeScript | 0 | [] |
+| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-07 04:21:17+00:00 | 524 | 1 | Python | 0 | [] |
 | mfarukk06/Buffer-Overflow-Exploit | None | https://github.com/mfarukk06/Buffer-Overflow-Exploit | ['exploit'] | 1 | 2022-03-07 08:45:27+00:00 | 0 | 0 | Python | 0 | [] |
+| DangPhucTech/exploit-vul | exploit-vul | https://github.com/DangPhucTech/exploit-vul | ['exploit'] | 1 | 2022-03-07 10:02:58+00:00 | 0 | 0 | | 0 | [] |
 | puckiestyle/CVE-2022-0492 | None | https://github.com/puckiestyle/CVE-2022-0492 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:03:26+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-0492'] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-07 23:10:36+00:00 | 2826 | 35 | | 2 | [] |
 | RobertDra/CVE-2022-25256 | None | https://github.com/RobertDra/CVE-2022-25256 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:18:42+00:00 | 0 | 0 | | 0 | ['CVE-2022-25256'] |
 | Codingwithyay12/SuperSploit | None | https://github.com/Codingwithyay12/SuperSploit | ['sploit'] | 1 | 2022-03-07 23:07:35+00:00 | 0 | 0 | | 0 | [] |
 | CoolRooster/SimpleExploitFixer | None | https://github.com/CoolRooster/SimpleExploitFixer | ['exploit'] | 1 | 2022-03-07 21:17:18+00:00 | 0 | 1 | Java | 0 | [] |
@@ -69,11 +70,10 @@
 | Jun-5heng/CVE-2022-22947 | SpringCloudGatewayRCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 11:56:21+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
 | rl-ehs-sl0th/exploit | None | https://github.com/rl-ehs-sl0th/exploit | ['exploit'] | 1 | 2022-03-07 10:54:15+00:00 | 0 | 0 | C# | 0 | [] |
 | RobertDra/CVE-2022-25257 | None | https://github.com/RobertDra/CVE-2022-25257 | ['cve-2 OR cve_2'] | 1 | 2022-03-07 10:19:20+00:00 | 0 | 0 | | 0 | ['CVE-2022-25257'] |
-| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-07 04:21:17+00:00 | 524 | 1 | Python | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-07 23:10:36+00:00 | 2826 | 35 | | 2 | [] |
 | mauricelambert/CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-03-07 19:02:57+00:00 | 47 | 16 | Ruby | 6 | ['CVE-2022-21907'] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-07 08:29:12+00:00 | 46798 | 862 | Python | 204 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-07 07:06:25+00:00 | 117 | 0 | PHP | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-07 00:03:27+00:00 | 470550 | 47 | | 21 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-07 06:17:46+00:00 | 47225 | 2 | Jupyter Notebook | 0 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-07 10:31:18+00:00 | 28904 | 16 | Python | 5 | [] |
 | loneicewolf/fanny.bmp | FANNY BMP MALWARE SOURCE + BINARY + Metasploit Module Checker | https://github.com/loneicewolf/fanny.bmp | ['metasploit module OR payload'] | 1 | 2022-03-07 21:06:18+00:00 | 57732 | 11 | C | 4 | [] |
 | sartlabs/0days | nan | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-03-07 05:18:33+00:00 | 579 | 0 | PHP | 1 | [] |
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2022-03-07 16:26:47+00:00 | 885 | 2772 | | 498 | [] |
@@ -102,11 +102,11 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-07 08:56:06+00:00 | 5693 | 3133 | Python | 684 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-07 00:08:07+00:00 | 1534793 | 1579 | Python | 532 | [] |
 | spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2022-03-07 20:28:41+00:00 | 3484 | 8 | HTML | 2 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-07 10:31:18+00:00 | 28904 | 16 | Python | 5 | [] |
-| RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-03-07 19:56:49+00:00 | 193 | 7 | Shell | 1 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-07 06:17:46+00:00 | 47225 | 2 | Jupyter Notebook | 0 | [] |
-| ContentGiraffe/CumSploit | None | https://github.com/ContentGiraffe/CumSploit | ['sploit'] | 1 | 2022-03-07 01:43:46+00:00 | 2017 | 0 | | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-07 23:51:48+00:00 | 4172 | 2624 | PowerShell | 742 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-07 00:03:27+00:00 | 470550 | 47 | | 21 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-07 07:06:25+00:00 | 117 | 0 | PHP | 0 | [] |
 | Jymit/exploit-notes | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | ['exploit'] | 1 | 2022-03-07 21:47:52+00:00 | 23 | 0 | | 0 | [] |
+| RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-03-07 19:56:49+00:00 | 193 | 7 | Shell | 1 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-07 05:52:27+00:00 | 51639 | 0 | Python | 0 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-03-07 16:12:02+00:00 | 703 | 5 | C++ | 1 | [] |
 | DavidBuchanan314/ambiguous-png-packer | Craft PNG files that appear completely different in Apple software [NOW PATCHED] | https://github.com/DavidBuchanan314/ambiguous-png-packer | ['exploit'] | 1 | 2022-03-07 12:53:36+00:00 | 101 | 1009 | Python | 38 | [] |
@@ -135,4 +135,5 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-07 10:09:28+00:00 | 798069 | 86 | | 14 | [] |
 | epi052/osed-scripts | bespoke tooling for offensive security's Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | ['exploit', 'shellcode'] | 2 | 2022-03-07 18:08:43+00:00 | 780 | 168 | Python | 72 | [] |
 | psorus/git-pay | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | ['exploit'] | 1 | 2022-03-07 21:07:23+00:00 | 4414 | 0 | Python | 2 | [] |
+| ContentGiraffe/CumSploit | None | https://github.com/ContentGiraffe/CumSploit | ['sploit'] | 1 | 2022-03-07 01:43:46+00:00 | 2017 | 0 | | 0 | [] |
 | Kipferl-OS/exploiting-croissant.github.io | A true and authentic pastry of cybersecurity write-ups! | https://github.com/Kipferl-OS/exploiting-croissant.github.io | ['exploit'] | 1 | 2022-03-07 23:15:49+00:00 | 0 | 0 | HTML | 0 | [] |
