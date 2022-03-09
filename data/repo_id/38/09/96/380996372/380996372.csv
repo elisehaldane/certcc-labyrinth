@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 380996372,nccgroup/exploit_mitigations,dotnet_mitigations.md,28da2427bb2331caf99fbaeadbae4d980f2479cc,MS12-035
+380996372,nccgroup/exploit_mitigations,solaris_mitigations.md,3cfe8474238025fde28efe81eb07bf038a650611,CVE-2018-12207
 380996372,nccgroup/exploit_mitigations,linux_mitigations.md,4f45feab9e6bc52397a3235783631d43b32d54a9,CVE-2016-2384
 380996372,nccgroup/exploit_mitigations,linux_mitigations.md,4f45feab9e6bc52397a3235783631d43b32d54a9,CVE-2019-9213
 380996372,nccgroup/exploit_mitigations,linux_mitigations.md,4f45feab9e6bc52397a3235783631d43b32d54a9,CVE-2021-26708
