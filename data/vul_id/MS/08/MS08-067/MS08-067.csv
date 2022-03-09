@@ -172,10 +172,10 @@ MS08-067,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,1
 MS08-067,0.05555556,https://github.com/paulveillard/cybersecurity-windows-exploitation,paulveillard/cybersecurity-windows-exploitation,442265373
 MS08-067,0.05555556,https://github.com/wrayjustin/unsploitable,wrayjustin/unsploitable,322999805
 MS08-067,0.05555556,https://github.com/Henrique-Miranda/thg-framework,Henrique-Miranda/thg-framework,163638862
-MS08-067,0.05555556,https://github.com/leebaird/discover,leebaird/discover,13932470
 MS08-067,0.05555556,https://github.com/tklengyel/dionaea,tklengyel/dionaea,10159961
 MS08-067,0.05263158,https://github.com/rayhan0x01/reverse-shell-able-exploit-pocs,rayhan0x01/reverse-shell-able-exploit-pocs,299184197
 MS08-067,0.05263158,https://github.com/n0tr00t/Beehive,n0tr00t/Beehive,38807587
+MS08-067,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
 MS08-067,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
 MS08-067,0.04761905,https://github.com/ColdFusionX/ColdFusionX.github.io,ColdFusionX/ColdFusionX.github.io,289978694
 MS08-067,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
@@ -355,7 +355,7 @@ MS08-067,0.00030441,https://github.com/pwnieexpress/metasploit-framework,pwnieex
 MS08-067,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-metasploit/metasploit-clone,25959480
 MS08-067,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
 MS08-067,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
-MS08-067,0.00027586,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS08-067,0.00027594,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
 MS08-067,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS08-067,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
