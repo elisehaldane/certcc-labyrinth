@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/09
     
-121 records found after deduplication
+123 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-09 00:34:09+00:00 | 695172 | 26570 | Ruby | 12019 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-09 04:43:08+00:00 | 148197 | 2438 | | 283 | [] |
+| Al1ex/CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:47:32+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | bakhtiyarsierad/CVE-2021-4034-bug-root | None | https://github.com/bakhtiyarsierad/CVE-2021-4034-bug-root | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:04:16+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | dadhee/CVE-2022-0847_DirtyPipeExploit | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to pri | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-09 02:01:28+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | CxntBerry/PrintExploit | None | https://github.com/CxntBerry/PrintExploit | ['exploit'] | 1 | 2022-03-09 01:50:27+00:00 | 0 | 0 | | 0 | [] |
@@ -35,9 +35,10 @@
 | RobloxArchiver/WrapperLib | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/WrapperLib | ['exploit'] | 1 | 2022-03-09 16:42:20+00:00 | 38 | 0 | Lua | 0 | [] |
 | efxtv/Metasploit-in-termux | Install metasploit without any error 2022 script by EFX Tv | https://github.com/efxtv/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-09 14:39:03+00:00 | 20 | 2 | Shell | 0 | [] |
 | Greetdawn/CVE-2022-0847-DirtyPipe | None | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:47:06+00:00 | 0 | 0 | | 0 | ['CVE-2022-0847'] |
-| Al1ex/CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:47:32+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | MRNIKO1/Dirtypipe-exploit | Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn. a root shell. (and attempts to restore the damaged binary as well) | https://github.com/MRNIKO1/Dirtypipe-exploit | ['cve poc', 'exploit'] | 2 | 2022-03-09 04:43:00+00:00 | 0 | 0 | | 0 | ['CVE-2022-0847'] |
-| retr0-13/Linux_kernel_exploitation | None | https://github.com/retr0-13/Linux_kernel_exploitation | ['exploit'] | 1 | 2022-03-09 14:37:12+00:00 | 0 | 0 | C | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-09 04:43:08+00:00 | 148197 | 2438 | | 283 | [] |
+| Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit | None | https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-09 05:33:58+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
+| b4rcellos/b4rcellos | Config files for my GitHub profile. | https://github.com/b4rcellos/b4rcellos | ['rce'] | 1 | 2022-03-09 18:30:15+00:00 | 0 | 0 | | 0 | [] |
 | CodeXTF2/goautodial-rce-exploit | Pops a shell on a goautodial server | https://github.com/CodeXTF2/goautodial-rce-exploit | ['exploit', 'rce'] | 2 | 2022-03-09 18:17:59+00:00 | 0 | 0 | Python | 0 | [] |
 | exploitmaker2323/no-key-exploit | this is a no key exploit | https://github.com/exploitmaker2323/no-key-exploit | ['exploit'] | 1 | 2022-03-09 18:08:37+00:00 | 0 | 0 | | 0 | [] |
 | exploitmaker2323/exploitmaker2323 | Config files for my GitHub profile. | https://github.com/exploitmaker2323/exploitmaker2323 | ['exploit'] | 1 | 2022-03-09 18:06:46+00:00 | 0 | 0 | | 0 | [] |
@@ -50,8 +51,8 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-03-09 15:28:33+00:00 | 0 | 1 | | 0 | [] |
 | suruproblox/Surupexploit | roblox exploit | https://github.com/suruproblox/Surupexploit | ['exploit'] | 1 | 2022-03-09 14:48:39+00:00 | 0 | 0 | | 0 | [] |
 | retr0-13/Active-Directory-Exploitation-Cheat-Sheet | None | https://github.com/retr0-13/Active-Directory-Exploitation-Cheat-Sheet | ['exploit'] | 1 | 2022-03-09 14:32:17+00:00 | 0 | 0 | | 0 | [] |
+| retr0-13/Linux_kernel_exploitation | None | https://github.com/retr0-13/Linux_kernel_exploitation | ['exploit'] | 1 | 2022-03-09 14:37:12+00:00 | 0 | 0 | C | 0 | [] |
 | shripaddhopate/Thompson-sampling | Thompson Sampling is an algorithm that follows exploration and exploitation to maximize the cumulative rewards obtained by performing an action. Thompson Sampling is also sometimes referred to as Posterior Sampling or Probability Matching. In this I made t | https://github.com/shripaddhopate/Thompson-sampling | ['exploit'] | 1 | 2022-03-09 14:33:12+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
-| Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit | None | https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-09 05:33:58+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | retr0-13/Windows10Exploits | None | https://github.com/retr0-13/Windows10Exploits | ['exploit'] | 1 | 2022-03-09 14:12:56+00:00 | 0 | 0 | HTML | 0 | [] |
 | c0brabaghdad1/DVPA | Damn Vulnerable PHP Application - It is Lab Written in The PHP lang, Which Contains PHP Type Juggling - RCE Challenges | https://github.com/c0brabaghdad1/DVPA | ['rce'] | 1 | 2022-03-09 13:38:52+00:00 | 0 | 0 | HTML | 0 | [] |
 | CyclicaIIy/lua-remote-code-execution-vuln | abc123 | https://github.com/CyclicaIIy/lua-remote-code-execution-vuln | ['remote code execution'] | 1 | 2022-03-09 13:11:29+00:00 | 0 | 0 | nan | 0 | [] |
@@ -67,7 +68,7 @@
 | illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-09 02:01:12+00:00 | 1604 | 0 | Python | 0 | [] |
 | jm33-m0/go-lpe | A collection of weaponized LPE exploits written in Go. No dependencies, no bullshit, runs everywhere, NOT POC | https://github.com/jm33-m0/go-lpe | ['exploit'] | 1 | 2022-03-09 05:57:09+00:00 | 1240 | 23 | Go | 2 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-09 02:02:10+00:00 | 22293 | 6822 | JavaScript | 1580 | [] |
-| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-09 08:10:32+00:00 | 6734 | 2 | TypeScript | 0 | [] |
+| liamg/traitor | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | ['exploit'] | 1 | 2022-03-09 08:08:59+00:00 | 2470 | 3590 | Go | 247 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-09 00:04:23+00:00 | 473865 | 47 | | 21 | [] |
 | FuzzySecurity/StandIn | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | ['exploit'] | 1 | 2022-03-09 02:14:03+00:00 | 171 | 374 | C# | 84 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2022-03-09 12:47:18+00:00 | 9818 | 2087 | Go | 342 | [] |
@@ -96,9 +97,9 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-09 00:03:13+00:00 | 4214 | 2624 | PowerShell | 743 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-09 04:39:08+00:00 | 37265 | 1078 | Python | 393 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-09 10:51:34+00:00 | 42679 | 16 | Python | 5 | [] |
-| liamg/traitor | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | ['exploit'] | 1 | 2022-03-09 08:08:59+00:00 | 2470 | 3590 | Go | 247 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-09 02:05:16+00:00 | 81247 | 767 | Go | 133 | [] |
-| tungdo0602/Discord-Token-Cracker | Simple and fast discord token cracker | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2022-03-09 15:49:43+00:00 | 167 | 28 | Python | 10 | [] |
+| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-09 08:10:32+00:00 | 6734 | 2 | TypeScript | 0 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-03-09 07:16:26+00:00 | 7108 | 135 | Python | 44 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-09 00:38:41+00:00 | 531 | 1 | Python | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-09 00:39:58+00:00 | 2831 | 35 | | 2 | [] |
 | trevorspiniolas/homekitdos | Exploits CVE-2022-22588 vulnerability on iOS 15.2 and lower. Provided for research purposes only. | https://github.com/trevorspiniolas/homekitdos | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2022-03-09 18:32:20+00:00 | 541 | 18 | Swift | 2 | ['CVE-2022-22588'] |
@@ -110,9 +111,10 @@
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-09 06:45:05+00:00 | 351643 | 340 | PHP | 126 | [] |
 | Danniedan/HPMTTKRP | Exploiting Hierarchical Parallelism and Reusability in Tensor Kernel Processing on Heterogeneous HPC Systems | https://github.com/Danniedan/HPMTTKRP | ['exploit'] | 1 | 2022-03-09 13:56:57+00:00 | 17 | 0 | Cuda | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-03-09 18:10:27+00:00 | 470 | 9 | | 0 | [] |
+| onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2022-03-09 19:34:55+00:00 | 4521 | 3 | Python | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-09 03:50:29+00:00 | 7700 | 1131 | TypeScript | 187 | [] |
+| tungdo0602/Discord-Token-Cracker | Simple and fast discord token cracker | https://github.com/tungdo0602/Discord-Token-Cracker | ['exploit'] | 1 | 2022-03-09 15:49:43+00:00 | 167 | 28 | Python | 10 | [] |
 | Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2022-03-09 01:21:57+00:00 | 13818 | 0 | | 0 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-03-09 07:16:26+00:00 | 7108 | 135 | Python | 44 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-09 01:14:42+00:00 | 3937534 | 25 | Python | 4 | [] |
 | nicolagatta/Binary-Exploitation | Some examples of binary exploitation tecniques tracking my studies for ECPPTv2 and OSCP on INE, TryHackMe and HackTheBox platforms | https://github.com/nicolagatta/Binary-Exploitation | ['exploit'] | 1 | 2022-03-09 14:17:00+00:00 | 124 | 1 | Python | 0 | [] |
 | hadrian3689/php8.1.0-dev-rce | None | https://github.com/hadrian3689/php8.1.0-dev-rce | ['rce'] | 1 | 2022-03-09 05:37:22+00:00 | 9 | 0 | Python | 0 | [] |
@@ -125,4 +127,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-09 04:43:05+00:00 | 159359 | 333 | Python | 99 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-09 04:29:59+00:00 | 840615 | 87 | | 15 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-09 01:44:46+00:00 | 118 | 0 | PHP | 0 | [] |
-| b4rcellos/b4rcellos | Config files for my GitHub profile. | https://github.com/b4rcellos/b4rcellos | ['rce'] | 1 | 2022-03-09 18:30:15+00:00 | 0 | 0 | | 0 | [] |
+| hogeveen-lab/exploreExploit_fmri_distrib | original code for Hogeveen et al. explore-exploit monkey/human paper | https://github.com/hogeveen-lab/exploreExploit_fmri_distrib | ['exploit'] | 1 | 2022-03-09 18:55:47+00:00 | 0 | 0 | R | 0 | [] |
