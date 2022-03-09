@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+129941756,lxzh/Vulnerability-Exploitation,linux-kernel-exploits/CVE-2022-0847/exploit.c,1282934ac33de81d4cbf689e58b48f9ef7c7942c,CVE-2022-0847
 129941756,lxzh/Vulnerability-Exploitation,linux-kernel-exploits/CVE-2017-16995/README.md,1a203cf856e66af958b2d259494c526cbba116cf,CVE-2017-16995
 129941756,lxzh/Vulnerability-Exploitation,linux-kernel-exploits/CVE-2017-16995/pwned,21f5fde9b3b5a86ef0b92fa3487a767bc3210cda,CVE-2017-16995
 129941756,lxzh/Vulnerability-Exploitation,linux-kernel-exploits/CVE-2019-13272/poc-by-as502n.c,5d60340d32041ffa2253376b6ff6c6702aa8d72e,CVE-2019-13272
