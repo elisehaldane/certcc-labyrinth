@@ -1,12 +1,14 @@
 
 # Summary for results/2022/03/09
     
-25 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-09 00:34:09+00:00 | 695172 | 26570 | Ruby | 12019 | [] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-09 00:39:58+00:00 | 2831 | 35 | | 2 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-09 02:02:10+00:00 | 22293 | 6822 | JavaScript | 1580 | [] |
+| Greetdawn/CVE-2022-0847-DirtyPipe | None | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:47:06+00:00 | 0 | 0 | | 0 | ['CVE-2022-0847'] |
+| bakhtiyarsierad/CVE-2021-4034-bug-root | None | https://github.com/bakhtiyarsierad/CVE-2021-4034-bug-root | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:04:16+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
 | dadhee/CVE-2022-0847_DirtyPipeExploit | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to pri | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-09 02:01:28+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | CxntBerry/PrintExploit | None | https://github.com/CxntBerry/PrintExploit | ['exploit'] | 1 | 2022-03-09 01:50:27+00:00 | 0 | 0 | | 0 | [] |
 | LucasPDiniz/StudyRoom | Repository created for study and POC's on vulnerabilities. | https://github.com/LucasPDiniz/StudyRoom | ['vulnerability poc'] | 1 | 2022-03-09 01:33:05+00:00 | 0 | 0 | nan | 0 | [] |
@@ -17,16 +19,19 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-09 00:51:08+00:00 | 109 | 0 | | 0 | [] |
 | illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-09 02:01:12+00:00 | 1604 | 0 | Python | 0 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-09 00:38:41+00:00 | 531 | 1 | Python | 0 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-09 00:39:58+00:00 | 2831 | 35 | | 2 | [] |
 | Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2022-03-09 01:21:57+00:00 | 13818 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-09 02:02:10+00:00 | 22293 | 6822 | JavaScript | 1580 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-09 01:14:42+00:00 | 3937534 | 25 | Python | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-09 01:25:33+00:00 | 7632 | 75 | HTML | 16 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-09 01:23:47+00:00 | 18345 | 2 | Python | 0 | [] |
+| augsmachado/rust_port_sniffer_cli | A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit | https://github.com/augsmachado/rust_port_sniffer_cli | ['exploit'] | 1 | 2022-03-09 02:37:40+00:00 | 9063 | 0 | Rust | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-09 01:44:46+00:00 | 118 | 0 | PHP | 0 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-09 02:05:16+00:00 | 81247 | 767 | Go | 133 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-09 00:04:23+00:00 | 473865 | 47 | | 21 | [] |
+| 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-03-09 02:08:57+00:00 | 1340 | 118 | Shell | 53 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-09 00:46:56+00:00 | 47220 | 29 | | 19 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-09 02:30:19+00:00 | 210836 | 134 | REXX | 12 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-09 00:20:34+00:00 | 249657 | 288 | Ruby | 83 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-09 00:08:11+00:00 | 1534794 | 1581 | Python | 532 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-09 00:03:13+00:00 | 4214 | 2624 | PowerShell | 743 | [] |
-| bakhtiyarsierad/CVE-2021-4034-bug-root | None | https://github.com/bakhtiyarsierad/CVE-2021-4034-bug-root | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:04:16+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| Al1ex/CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-09 02:47:32+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
