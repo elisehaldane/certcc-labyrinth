@@ -1,6 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/Makefile,07dbb6a03d43283a91f2f322b30e2b3c4178aa10,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/pwnkit.so,1db811ea922f14ba38d17d87f6c84619d67ffd57,CVE-2021-4034
+452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/polkit32.zip,3719332ff6ef704d75685052ddb9bb35fac31257,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/dry-run/pwnkit-dry-run.c,3725f1f35e322a9501cd6c3c9203ce13c001196d,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/polkit.zip,5e5741ef30687edfacf49047c8c4d6cd09c13e60,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/gconv-modules,6740d6e024d7ac7599e53deb5106284b1a46a1d6,CVE-2021-4034
