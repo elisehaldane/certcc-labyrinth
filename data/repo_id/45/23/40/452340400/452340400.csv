@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034.zip,509843bf093a26c2cd2f2d68aa6bc8a4f2d82098,CVE-2021-4034
-452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034.md,bb554a1d492801e8931090dd4114052ef0fa153f,CVE-2021-4034
+452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/polkit.zip,5e5741ef30687edfacf49047c8c4d6cd09c13e60,CVE-2021-4034
+452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2022-0847-DirtyPipe/dirtypipe.c,a523482d6c361f476812bd44f35a77d31946f253,CVE-2022-0847
+452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2022-0847-DirtyPipe/compile.sh,cad12933b4ea29c417e8a2f47c775f74b7c52d46,CVE-2022-0847
+452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/polkit.md,cbad419b239fd5c67ecb83d88c2f8a91aed63c46,CVE-2021-4034
