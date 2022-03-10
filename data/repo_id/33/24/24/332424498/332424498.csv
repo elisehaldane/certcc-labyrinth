@@ -1,9 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
 332424498,liamg/traitor,pkg/exploits/cve20214034/exploit.go,1116a4fc39bb89ee5286d4211050b24cb72d4caf,CVE-2021-4034
+332424498,liamg/traitor,README.md,2e25330c61637359d003047a115111368be9a8ff,CVE-2021-3560
+332424498,liamg/traitor,README.md,2e25330c61637359d003047a115111368be9a8ff,CVE-2021-4034
+332424498,liamg/traitor,README.md,2e25330c61637359d003047a115111368be9a8ff,CVE-2022-0847
 332424498,liamg/traitor,pkg/exploits/cve20213560/exploit.go,58f6bd12905b34375c2a31f9c906e7bcc1bf474b,CVE-2021-3560
 332424498,liamg/traitor,pkg/exploits/all.go,9883eb7198bc43feca61b99ede537b8117dd3f6f,CVE-2021-3560
 332424498,liamg/traitor,pkg/exploits/all.go,9883eb7198bc43feca61b99ede537b8117dd3f6f,CVE-2021-4034
 332424498,liamg/traitor,pkg/exploits/all.go,9883eb7198bc43feca61b99ede537b8117dd3f6f,CVE-2022-0847
-332424498,liamg/traitor,README.md,b0be16bbcc9c887c61489d432d7c33dde54db10d,CVE-2021-3560
-332424498,liamg/traitor,README.md,b0be16bbcc9c887c61489d432d7c33dde54db10d,CVE-2021-4034
-332424498,liamg/traitor,README.md,b0be16bbcc9c887c61489d432d7c33dde54db10d,CVE-2022-0847
