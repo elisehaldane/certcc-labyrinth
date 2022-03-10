@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GPZ-1903,0.50000000,https://github.com/babyshen/CVE-2019-13272,babyshen/CVE-2019-13272,468151152
 GPZ-1903,0.50000000,https://github.com/karth97/exploit,karth97/exploit,333663188
 GPZ-1903,0.50000000,https://github.com/Dilki98/Local-Root-Vulnerability-Exploitation,Dilki98/Local-Root-Vulnerability-Exploitation,263355085
 GPZ-1903,0.50000000,https://github.com/Huandtx/CVE-2019-13272,Huandtx/CVE-2019-13272,209440455
