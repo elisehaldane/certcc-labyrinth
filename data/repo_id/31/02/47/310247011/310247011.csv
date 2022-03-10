@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 310247011,cdk-team/CDK,test/k8s_exploit_util/runc.yaml,21b4cb4d192ce55c0786f028a3c414b7128c2852,CVE-2019-5736
+310247011,cdk-team/CDK,pkg/util/namespace.go,34405b8a43460c20e5c0b0d096f5d4b115a3589f,CVE-2022-0492
 310247011,cdk-team/CDK,README.md,3b1dd1b378f36e7a33222d6084a2a4096f6779f0,CVE-2019-5736
 310247011,cdk-team/CDK,README.md,3b1dd1b378f36e7a33222d6084a2a4096f6779f0,CVE-2020-15257
 310247011,cdk-team/CDK,README.md,3b1dd1b378f36e7a33222d6084a2a4096f6779f0,CVE-2020-8554
@@ -7,6 +8,6 @@ repo_id,repo_full_name,file,file_sha1,match
 310247011,cdk-team/CDK,README.md,3b1dd1b378f36e7a33222d6084a2a4096f6779f0,CVE-2022-0492
 310247011,cdk-team/CDK,pkg/exploit/mount_cgroup.go,4a8f8f46480b4e187b60e4a54d49df4f592e9665,CVE-2022-0492
 310247011,cdk-team/CDK,pkg/exploit/docker_runc.go,8480428c85e31f4c66a9433904caae311c6d39b8,CVE-2019-5736
-310247011,cdk-team/CDK,pkg/exploit/abuse_unpriv_userns.go,8a19d9d628c0ff5b6248cd9f5bc31db169df1514,CVE-2022-0492
+310247011,cdk-team/CDK,pkg/exploit/abuse_unpriv_userns.go,a97f6ba0bb590cd9fb7f6468fdb22e1f3b7e3a94,CVE-2022-0492
 310247011,cdk-team/CDK,pkg/exploit/k8s_clusterip_mitm.go,ae9f5fa46c0df0c9b9472502fd0ea9a234a5f9a6,CVE-2020-8554
 310247011,cdk-team/CDK,pkg/exploit/containerd_shim_pwn.go,f6ae3c48230be4f835f980b1e0d5707c1fe66212,CVE-2020-15257
