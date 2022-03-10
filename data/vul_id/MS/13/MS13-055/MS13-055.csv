@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-MS13-055,0.25000000,https://github.com/connormcgarr/Exploit-Development,connormcgarr/Exploit-Development,209404112
+MS13-055,0.16666667,https://github.com/connormcgarr/Exploit-Development,connormcgarr/Exploit-Development,209404112
 MS13-055,0.14285714,https://github.com/Nazicc/metasploit-cn-wiki,Nazicc/metasploit-cn-wiki,120420246
 MS13-055,0.14285714,https://github.com/Earth-Online/metasploit-cn-wiki,Earth-Online/metasploit-cn-wiki,115410135
 MS13-055,0.14285714,https://github.com/TweekFawkes/White_Lightning,TweekFawkes/White_Lightning,24503079
