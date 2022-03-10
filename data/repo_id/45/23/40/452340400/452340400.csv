@@ -6,6 +6,7 @@ repo_id,repo_full_name,file,file_sha1,match
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/gconv-modules,6740d6e024d7ac7599e53deb5106284b1a46a1d6,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/LICENSE,7296fbf1a35ff9af548fa969f9bd730b44e0b982,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/dry-run/dry-run-cve-2021-4034.c,839aa6edf24024a62db30804caee7159f0a4f5e5,CVE-2021-4034
+452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/polkit_README.md,8e348478e309c6c66e907df3f086b997ab4b5d4a,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2022-0847-DirtyPipe/dirtypipe.c,a523482d6c361f476812bd44f35a77d31946f253,CVE-2022-0847
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/GCONV_PATH=./pwnkit.so:.,ad48e18be1bcec73d15a3f67896befbe380f1387,CVE-2021-4034
 452340400,skollr34p3r/Common_Vulns,PrivEsc/CVE-2021-4034-Polkit/build_yourself/dry-run/Makefile,c32ddde7ef0ee4286a619c7144ec53ea132f1e34,CVE-2021-4034
