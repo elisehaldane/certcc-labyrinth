@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#55,1.00000000,https://github.com/skyMateus/skyExploit,skyMateus/skyExploit,460245320
 VU#55,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
+VU#55,0.20000000,https://github.com/ByteHackr/CVE-2022-0853,ByteHackr/CVE-2022-0853,468269355
 VU#55,0.14285714,https://github.com/0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model,0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model,410147622
 VU#55,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
 VU#55,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
@@ -58,7 +59,7 @@ VU#55,0.00390625,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#55,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#55,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
 VU#55,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#55,0.00277008,https://github.com/helloexp/0day,helloexp/0day,106411071
+VU#55,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#55,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#55,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#55,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
