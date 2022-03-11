@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/11
     
-123 records found after deduplication
+124 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------------------------|
 | JonathanSalwan/ROPgadget | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures. | https://github.com/JonathanSalwan/ROPgadget | ['exploit'] | 1 | 2022-03-11 15:21:34+00:00 | 30145 | 2971 | Python | 524 | [] |
-| Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | ['metasploit module OR payload'] | 1 | 2022-03-11 02:16:10+00:00 | 0 | 0 | Java | 0 | [] |
+| Greetdawn/CVE-2022-0847-DirtyPipe | None | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe | ['cve-2 OR cve_2'] | 1 | 2022-03-11 02:55:37+00:00 | 16 | 0 | C | 0 | ['CVE-2022-0847'] |
 | Lallero98/quick-setup-for-exploitation-tools-on-Linux | Ansible playbook for automatic installation of useful tools for a reversing and exploitation environment | https://github.com/Lallero98/quick-setup-for-exploitation-tools-on-Linux | ['exploit'] | 1 | 2022-03-11 01:53:48+00:00 | 0 | 0 | | 0 | [] |
 | hh-hunter/cve-2022-22947-docker | cve-2022-22947-docker | https://github.com/hh-hunter/cve-2022-22947-docker | ['cve-2 OR cve_2'] | 1 | 2022-03-11 01:27:55+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
 | VVeakee/CVE-2022-24990-EXP | None | https://github.com/VVeakee/CVE-2022-24990-EXP | ['cve-2 OR cve_2'] | 1 | 2022-03-11 01:21:53+00:00 | 9414 | 0 | | 0 | ['CVE-2022-24990'] |
@@ -20,8 +20,8 @@
 | XBrevity/DiscordTokenExploitFix | Patched for the newly founded token logger exploit [ONLY WORKS FOR BROWSER] | https://github.com/XBrevity/DiscordTokenExploitFix | ['exploit'] | 1 | 2022-03-11 20:29:17+00:00 | 6 | 1 | | 0 | [] |
 | krishpranav/evilkit | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | ['exploit'] | 1 | 2022-03-11 13:31:02+00:00 | 6 | 1 | Rust | 0 | [] |
 | Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | None | https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | ['metasploit module OR payload'] | 1 | 2022-03-11 02:03:50+00:00 | 62370 | 0 | Java | 0 | [] |
-| Greetdawn/CVE-2022-0847-DirtyPipe | None | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe | ['cve-2 OR cve_2'] | 1 | 2022-03-11 02:55:37+00:00 | 16 | 0 | C | 0 | ['CVE-2022-0847'] |
 | Codingwithyay12/SuperSploit | None | https://github.com/Codingwithyay12/SuperSploit | ['sploit'] | 1 | 2022-03-11 22:05:54+00:00 | 3 | 0 | | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-11 01:23:16+00:00 | 699905 | 26591 | Ruby | 12024 | [] |
 | Rolesional/SinyorSploits-Free | Free | https://github.com/Rolesional/SinyorSploits-Free | ['sploit'] | 1 | 2022-03-11 11:03:01+00:00 | 1566 | 0 | | 0 | [] |
 | manuelz120/CVE-2022-23940 | PoC for CVE-2022-23940 | https://github.com/manuelz120/CVE-2022-23940 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-03-11 06:38:16+00:00 | 154 | 0 | Python | 2 | ['CVE-2022-23940'] |
 | T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-11 06:52:57+00:00 | 19 | 1 | C | 0 | [] |
@@ -34,9 +34,10 @@
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-11 02:47:04+00:00 | 6306 | 0 | | 1 | [] |
 | Hamziee/Hamzies-Hub | Hamzie's Hub is a Roblox Script. That gives you the best Exploit Scripts for all the supported games! And everyday there are more games added. Hamzie's Hub comes with its own executor, so NO KEY BULLSHIT! | https://github.com/Hamziee/Hamzies-Hub | ['exploit'] | 1 | 2022-03-11 17:26:40+00:00 | 68 | 2 | | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-03-11 19:59:10+00:00 | 195 | 0 | Go | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-11 04:32:08+00:00 | 158329 | 2461 | | 288 | [] |
 | cyantools/cve-detailer | A simple python command line tool to gather CVE information from https://www.cvedetails.com/ given a product and version number. Usage: python3 cve-detailer.py -p "PHP" -v "5.5.12" python3 cve-detailer.py -p "http server" -v "2.4.0" | https://github.com/cyantools/cve-detailer | ['cve-2 OR cve_2'] | 1 | 2022-03-11 02:02:21+00:00 | 0 | 0 | | 0 | [] |
+| Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | ['metasploit module OR payload'] | 1 | 2022-03-11 02:16:10+00:00 | 0 | 0 | Java | 0 | [] |
 | Greetdawn/CVE-2022-0847-DirtyPipe- | None | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe- | ['cve-2 OR cve_2'] | 1 | 2022-03-11 02:51:55+00:00 | 0 | 0 | | 0 | ['CVE-2022-0847'] |
-| PwnFunction/CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-11 09:49:22+00:00 | 10 | 9 | C | 0 | ['CVE-2021-4034'] |
 | Jenderal92/Alfa-Perl-RCE-ZoneH-Grabber-Python | Python2.7 | https://github.com/Jenderal92/Alfa-Perl-RCE-ZoneH-Grabber-Python | ['rce'] | 1 | 2022-03-11 03:36:01+00:00 | 0 | 0 | Python | 0 | [] |
 | the29a/CVE-2021-41773 | Small PoC of CVE-2021-41773 | https://github.com/the29a/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-11 22:10:25+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-41773'] |
 | GatoGamer1155/CVE-2021-22204 | Script en python para crear imagenes maliciosas (reverse shell) | https://github.com/GatoGamer1155/CVE-2021-22204 | ['cve-2 OR cve_2'] | 1 | 2022-03-11 19:02:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22204'] |
@@ -65,9 +66,9 @@
 | Chen-ling-afk/CVE-2021-41277 | MetaBase 任意文件读取 | https://github.com/Chen-ling-afk/CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2022-03-11 06:39:39+00:00 | 0 | 0 | | 0 | ['CVE-2021-41277'] |
 | password24254/multiexploits | multiple exploits in one | https://github.com/password24254/multiexploits | ['exploit'] | 1 | 2022-03-11 04:42:50+00:00 | 0 | 0 | | 0 | [] |
 | vncat-new/hostsmod-novo | prevents new novo 3.0 rce | https://github.com/vncat-new/hostsmod-novo | ['rce'] | 1 | 2022-03-11 04:26:30+00:00 | 0 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-11 04:32:08+00:00 | 158329 | 2461 | | 288 | [] |
+| PwnFunction/CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-11 09:49:22+00:00 | 10 | 9 | C | 0 | ['CVE-2021-4034'] |
 | DioBruh/dbuster-pro | Dbuster-pro is a beta open-source hacking tool for scanning directories in the websites! | https://github.com/DioBruh/dbuster-pro | ['exploit'] | 1 | 2022-03-11 17:18:52+00:00 | 82 | 11 | Ruby | 2 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-11 01:23:16+00:00 | 699905 | 26591 | Ruby | 12024 | [] |
+| zilibobi/zHub | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | ['exploit'] | 1 | 2022-03-11 13:31:20+00:00 | 507 | 3 | Lua | 0 | [] |
 | abundov/web-exploits | Tools and Exploits | https://github.com/abundov/web-exploits | ['exploit'] | 1 | 2022-03-11 21:38:23+00:00 | 94 | 2 | PHP | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-11 00:53:12+00:00 | 118 | 0 | PHP | 0 | [] |
 | vital-information-resource-under-siege/PWN-Challenges | Writeups of some of the Binary Exploitation challenges that I have solved during CTF. | https://github.com/vital-information-resource-under-siege/PWN-Challenges | ['exploit'] | 1 | 2022-03-11 03:37:44+00:00 | 39100 | 7 | Python | 3 | [] |
@@ -98,7 +99,7 @@
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-11 08:27:19+00:00 | 46813 | 862 | Python | 205 | [] |
 | 0xTRAW/PwnLnX | An advanced multi-threaded, multi-client python reverse shell for hacking linux systems. There's still more work to do so feel free to help out with the development. Disclaimer: This reverse shell should only be used in the lawful, remote administration of | https://github.com/0xTRAW/PwnLnX | ['metasploit module OR payload'] | 1 | 2022-03-11 09:42:13+00:00 | 605 | 185 | Python | 43 | [] |
 | ngimb64/Shellcode-Generator | None | https://github.com/ngimb64/Shellcode-Generator | ['shellcode'] | 1 | 2022-03-11 00:52:43+00:00 | 5 | 1 | Python | 0 | [] |
-| zilibobi/zHub | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | ['exploit'] | 1 | 2022-03-11 13:31:20+00:00 | 507 | 3 | Lua | 0 | [] |
+| SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-11 23:24:24+00:00 | 534 | 3 | Python | 0 | [] |
 | Gr1mmie/SharpShellCodeObfus | Caeser Cipher your shellcode! | https://github.com/Gr1mmie/SharpShellCodeObfus | ['shellcode'] | 1 | 2022-03-11 21:34:58+00:00 | 12 | 10 | C# | 4 | [] |
 | examplehack14/exploit | stress test exploit | https://github.com/examplehack14/exploit | ['exploit'] | 1 | 2022-03-11 15:47:17+00:00 | 36 | 0 | Lua | 0 | [] |
 | Captaincrogs/weak-database-exploiter- | None | https://github.com/Captaincrogs/weak-database-exploiter- | ['exploit'] | 1 | 2022-03-11 09:51:13+00:00 | 4 | 0 | Python | 0 | [] |
