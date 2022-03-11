@@ -1,23 +1,23 @@
 
 # Summary for results/2022/03/11
     
-47 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-11 01:23:16+00:00 | 699905 | 26591 | Ruby | 12024 | [] |
-| TAPESH-TEAM/Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated) | https://github.com/TAPESH-TEAM/Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-03-11 01:18:24+00:00 | 193 | 0 | Python | 0 | [] |
-| Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-11 02:47:04+00:00 | 6306 | 0 | | 1 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-11 04:32:08+00:00 | 158329 | 2461 | | 288 | [] |
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-11 00:29:07+00:00 | 288 | 0 | HTML | 0 | [] |
 | JustExploit/JustExploits | None | https://github.com/JustExploit/JustExploits | ['exploit'] | 1 | 2022-03-11 03:36:36+00:00 | 18 | 0 | | 0 | [] |
 | ByteHackr/keepass_poc | POC for KeePass [CVE-2022-0725] | https://github.com/ByteHackr/keepass_poc | ['cve poc'] | 1 | 2022-03-11 03:37:14+00:00 | 17 | 1 | | 0 | ['CVE-2022-0725'] |
+| T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-11 06:52:57+00:00 | 19 | 1 | C | 0 | [] |
 | manuelz120/CVE-2022-23940 | PoC for CVE-2022-23940 | https://github.com/manuelz120/CVE-2022-23940 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-03-11 06:38:16+00:00 | 154 | 0 | Python | 2 | ['CVE-2022-23940'] |
 | Greetdawn/CVE-2022-0847-DirtyPipe | None | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe | ['cve-2 OR cve_2'] | 1 | 2022-03-11 02:55:37+00:00 | 16 | 0 | C | 0 | ['CVE-2022-0847'] |
 | Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | None | https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk | ['metasploit module OR payload'] | 1 | 2022-03-11 02:03:50+00:00 | 62370 | 0 | Java | 0 | [] |
 | terabitSec/dirtyPipe-automaticRoot | CVE-2022-0847 Python exploit to get root or write a no write permission, immutable or read-only mounted file. | https://github.com/terabitSec/dirtyPipe-automaticRoot | ['exploit'] | 1 | 2022-03-11 01:07:25+00:00 | 5272 | 1 | Python | 0 | ['CVE-2022-0847'] |
 | ZortTechnologies/ZortTechnolgoiesExploitMakerExploits | None | https://github.com/ZortTechnologies/ZortTechnolgoiesExploitMakerExploits | ['exploit'] | 1 | 2022-03-11 02:06:14+00:00 | 1581 | 0 | | 0 | [] |
+| TAPESH-TEAM/Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated) | https://github.com/TAPESH-TEAM/Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-03-11 00:30:38+00:00 | 0 | 0 | Python | 0 | [] |
 | password24254/Exploit | exploit | https://github.com/password24254/Exploit | ['exploit'] | 1 | 2022-03-11 00:27:28+00:00 | 0 | 0 | | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-11 00:27:21+00:00 | 48720 | 2 | Jupyter Notebook | 0 | [] |
 | VVeakee/CVE-2022-24990-EXP | None | https://github.com/VVeakee/CVE-2022-24990-EXP | ['cve-2 OR cve_2'] | 1 | 2022-03-11 01:21:53+00:00 | 9414 | 0 | | 0 | ['CVE-2022-24990'] |
 | hh-hunter/cve-2022-22947-docker | cve-2022-22947-docker | https://github.com/hh-hunter/cve-2022-22947-docker | ['cve-2 OR cve_2'] | 1 | 2022-03-11 01:27:55+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
 | Lallero98/quick-setup-for-exploitation-tools-on-Linux | Ansible playbook for automatic installation of useful tools for a reversing and exploitation environment | https://github.com/Lallero98/quick-setup-for-exploitation-tools-on-Linux | ['exploit'] | 1 | 2022-03-11 01:53:48+00:00 | 0 | 0 | | 0 | [] |
@@ -27,10 +27,11 @@
 | Jenderal92/Alfa-Perl-RCE-ZoneH-Grabber-Python | Python2.7 | https://github.com/Jenderal92/Alfa-Perl-RCE-ZoneH-Grabber-Python | ['rce'] | 1 | 2022-03-11 03:36:01+00:00 | 0 | 0 | Python | 0 | [] |
 | vncat-new/hostsmod-novo | prevents new novo 3.0 rce | https://github.com/vncat-new/hostsmod-novo | ['rce'] | 1 | 2022-03-11 04:26:30+00:00 | 0 | 0 | | 0 | [] |
 | password24254/multiexploits | multiple exploits in one | https://github.com/password24254/multiexploits | ['exploit'] | 1 | 2022-03-11 04:42:50+00:00 | 0 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-11 04:32:08+00:00 | 158329 | 2461 | | 288 | [] |
-| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-03-11 05:41:55+00:00 | 31 | 1 | Python | 0 | [] |
+| Chen-ling-afk/CVE-2021-41277 | MetaBase 任意文件读取 | https://github.com/Chen-ling-afk/CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2022-03-11 06:39:39+00:00 | 0 | 0 | | 0 | ['CVE-2021-41277'] |
+| Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-11 02:47:04+00:00 | 6306 | 0 | | 1 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-11 00:27:21+00:00 | 48720 | 2 | Jupyter Notebook | 0 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-11 01:43:49+00:00 | 4246 | 2625 | PowerShell | 744 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-11 00:53:12+00:00 | 118 | 0 | PHP | 0 | [] |
+| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-03-11 05:41:55+00:00 | 31 | 1 | Python | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-11 05:09:43+00:00 | 268993 | 6937 | C | 1884 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-11 00:08:15+00:00 | 1534794 | 1584 | Python | 532 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-11 00:23:44+00:00 | 252736 | 291 | Ruby | 83 | [] |
@@ -40,8 +41,8 @@
 | 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-03-11 00:42:20+00:00 | 1397 | 119 | Shell | 55 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-11 00:05:13+00:00 | 479546 | 47 | | 21 | [] |
 | vital-information-resource-under-siege/PWN-Challenges | Writeups of some of the Binary Exploitation challenges that I have solved during CTF. | https://github.com/vital-information-resource-under-siege/PWN-Challenges | ['exploit'] | 1 | 2022-03-11 03:37:44+00:00 | 39100 | 7 | Python | 3 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-11 00:53:12+00:00 | 118 | 0 | PHP | 0 | [] |
 | ngimb64/Shellcode-Generator | None | https://github.com/ngimb64/Shellcode-Generator | ['shellcode'] | 1 | 2022-03-11 00:52:43+00:00 | 5 | 1 | Python | 0 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-11 01:31:41+00:00 | 352786 | 361 | PHP | 129 | [] |
 | romeolorenzo/Whitebox-Pentesting | This repo is an overview of my notes in preparation for the OSWE based on the Offensive Security Advanced Web Attacks and Exploitation (AWAE) course syllabus. | https://github.com/romeolorenzo/Whitebox-Pentesting | ['exploit'] | 1 | 2022-03-11 02:37:10+00:00 | 2 | 0 | | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-11 04:32:10+00:00 | 891832 | 87 | | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-11 04:43:45+00:00 | 167172 | 335 | Python | 100 | [] |
@@ -51,4 +52,5 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-11 01:15:50+00:00 | 3935709 | 26 | Python | 4 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-11 03:01:07+00:00 | 7798 | 1157 | TypeScript | 193 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-03-11 05:24:54+00:00 | 649 | 3 | C | 0 | [] |
-| Chen-ling-afk/CVE-2021-41277 | MetaBase 任意文件读取 | https://github.com/Chen-ling-afk/CVE-2021-41277 | ['cve-2 OR cve_2'] | 1 | 2022-03-11 06:39:39+00:00 | 0 | 0 | | 0 | ['CVE-2021-41277'] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-11 01:31:41+00:00 | 352786 | 361 | PHP | 129 | [] |
+| dskmehra/CVE-2022-0848 | None | https://github.com/dskmehra/CVE-2022-0848 | ['cve-2 OR cve_2'] | 1 | 2022-03-11 07:29:41+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-0848'] |
