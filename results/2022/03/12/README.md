@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/12
     
-45 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -13,6 +13,7 @@
 | kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-03-12 07:44:42+00:00 | 56 | 0 | C | 0 | [] |
 | RishiDarkDevil/Regularization-Based-Fair-Classifier | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | ['exploit'] | 1 | 2022-03-12 07:31:19+00:00 | 1316 | 0 | Jupyter Notebook | 2 | [] |
 | 0bfxgh0st/lfisuite | Local File Inclusion scanner/enumerator and rce. | https://github.com/0bfxgh0st/lfisuite | ['rce'] | 1 | 2022-03-12 00:30:20+00:00 | 3848 | 0 | Python | 0 | [] |
+| rootjkqsta/Blogs-Bug-Bounty | Bug Bounty Hunting, Web App Penetration Testing, 0day Hunting | https://github.com/rootjkqsta/Blogs-Bug-Bounty | ['0day'] | 1 | 2022-03-12 12:02:17+00:00 | 118 | 2 | nan | 0 | [] |
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-12 01:20:42+00:00 | 326 | 0 | HTML | 0 | [] |
 | OliverMBathurst/ps4-exploit-self-host | None | https://github.com/OliverMBathurst/ps4-exploit-self-host | ['exploit'] | 1 | 2022-03-12 11:33:16+00:00 | 2126 | 0 | TypeScript | 0 | [] |
 | T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-12 08:28:41+00:00 | 21 | 1 | C | 0 | [] |
@@ -26,6 +27,7 @@
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-12 05:30:39+00:00 | 0 | 0 | Nix | 0 | [] |
 | HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | None | https://github.com/HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | ['exploit'] | 1 | 2022-03-12 06:56:17+00:00 | 0 | 0 | | 0 | [] |
 | arttnba3/CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-12 11:31:46+00:00 | 0 | 0 | nan | 0 | ['CVE-2022-0847'] |
+| RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu | None | https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-12 11:34:46+00:00 | 0 | 0 | C++ | 0 | [] |
 | IIssacDev/iSPLOIT | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT | ['exploit', 'sploit'] | 2 | 2022-03-12 07:35:13+00:00 | 17 | 0 | | 0 | [] |
 | 0bfxgh0st/lxd-privesc-exploit | lxd privilege escalation exploit (includes alpine image encoded inside) | https://github.com/0bfxgh0st/lxd-privesc-exploit | ['exploit'] | 1 | 2022-03-12 00:08:35+00:00 | 10365 | 2 | Shell | 1 | [] |
 | SanderDemeester/evil_sysread | Evil Linux kernel module that hooks sys_read system call and lets a user get a reverse shell or execute shellcode in the kernel. | https://github.com/SanderDemeester/evil_sysread | ['shellcode'] | 1 | 2022-03-12 06:43:24+00:00 | 124 | 11 | C | 7 | [] |
@@ -40,13 +42,15 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-12 00:46:58+00:00 | 48119 | 29 | | 19 | [] |
 | sh4rknado/MetasploitScanner | python Automatisation metasploit scanner (msfrpc) | https://github.com/sh4rknado/MetasploitScanner | ['metasploit module OR payload'] | 1 | 2022-03-12 01:10:30+00:00 | 106 | 0 | Python | 1 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-12 02:02:25+00:00 | 46372 | 681 | Go | 151 | [] |
+| PizzaWhisperer/HLLVuln | Exploiting the vulnerabilities of the HLL sketch in different scenarios. | https://github.com/PizzaWhisperer/HLLVuln | ['exploit'] | 1 | 2022-03-12 12:24:44+00:00 | 30310 | 0 | C | 0 | [] |
 | Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-03-12 00:28:10+00:00 | 64 | 5 | JavaScript | 6 | [] |
+| cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2022-03-12 12:19:51+00:00 | 9855 | 2097 | Go | 347 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-12 00:04:00+00:00 | 483925 | 47 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-12 10:52:23+00:00 | 97793 | 16 | Python | 5 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:24:19+00:00 | 917457 | 87 | | 15 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:24:19+00:00 | 917457 | 87 | nan | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-12 00:51:23+00:00 | 168983 | 335 | Python | 100 | [] |
 | PeiQi0/PeiQi-WIKI-POC | 面向网络安全从业者的知识文库🍃 (项目重构中～) | https://github.com/PeiQi0/PeiQi-WIKI-POC | ['cve poc'] | 1 | 2022-03-12 08:41:49+00:00 | 174491 | 1336 | | 444 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-12 01:16:18+00:00 | 24028 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-12 01:17:01+00:00 | 7691 | 77 | HTML | 19 | [] |
 | safe6Sec/tp5rce | payload | https://github.com/safe6Sec/tp5rce | ['rce'] | 1 | 2022-03-12 06:40:52+00:00 | 19 | 7 | | 3 | [] |
-| RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu | None | https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-12 11:34:46+00:00 | 0 | 0 | C++ | 0 | [] |
+| Whiteforge/Delete-Webhook-Exploit | Delete any Discord webhook that you desire. | https://github.com/Whiteforge/Delete-Webhook-Exploit | ['exploit'] | 1 | 2022-03-12 11:54:21+00:00 | 3 | 0 | Python | 0 | [] |
