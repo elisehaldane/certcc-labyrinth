@@ -1,6 +1,6 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+SanderDemeester/evil_sysread,Evil Linux kernel module that hooks sys_read system call and lets a user get a reverse shell or execute shellcode in the kernel.,https://github.com/SanderDemeester/evil_sysread,['shellcode'],1,2022-03-12T06:43:24+0000,124,11,C,7,[]
 leebaird/discover,"Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.",https://github.com/leebaird/discover,['metasploit module OR payload'],1,2022-03-12T03:35:59+0000,4249,2626,PowerShell,744,[]
-offensive-security/exploitdb,The official Exploit Database repository,https://github.com/offensive-security/exploitdb,['exploit'],1,2022-03-12T05:09:41+0000,269540,6940,C,1885,[]
 FelixFelicis555/Multi-Arm-Bandit-Algorithm,Multi-Arm Bandit Thomspon Reinforcement Learning used at Uber Adtech Server team to solve Exploit & Explore problem in picking advertizing,https://github.com/FelixFelicis555/Multi-Arm-Bandit-Algorithm,['exploit'],1,2022-03-12T05:12:01+0000,0,0,Jupyter Notebook,0,[]
 freakanonymous/freakout-necrobot-botnet,LATEST AND FINAL SOURCE FOR FREAKOUT BOTNET DGA AND TOR VARIANTS + EXPLOITS,https://github.com/freakanonymous/freakout-necrobot-botnet,['exploit'],1,2022-03-12T05:14:39+0000,0,0,Python,0,[]
 sent-true/CNVD-2022-06399,nan,https://github.com/sent-true/CNVD-2022-06399,['cnvd-c OR cnvd-2 OR cnnvd-2'],1,2022-03-12T04:00:11+0000,0,1,Python,0,['CNVD-2022-06399']
@@ -16,6 +16,7 @@ DirtyFunkyFresh/DFF_UP_MSF,Metasploit-Framework Upgrade Tool for Kali Linux,http
 Adamkadaban/LearnPwn,Learn Binary Exploitation with sample problems.,https://github.com/Adamkadaban/LearnPwn,['exploit'],1,2022-03-12T05:01:55+0000,4256,2,Python,1,[]
 0bfxgh0st/lxd-privesc-exploit,lxd privilege escalation exploit (includes alpine image encoded inside),https://github.com/0bfxgh0st/lxd-privesc-exploit,['exploit'],1,2022-03-12T00:08:35+0000,10365,2,Shell,1,[]
 gmatuz/inthewilddb,Hourly updated database of exploit and exploitation reports,https://github.com/gmatuz/inthewilddb,['exploit'],1,2022-03-12T01:07:22+0000,4140396,26,Python,4,[]
+safe6Sec/tp5rce,payload,https://github.com/safe6Sec/tp5rce,['rce'],1,2022-03-12T06:40:52+0000,19,7,,3,[]
 Cobalt-Strike/community_kit,"Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o",https://github.com/Cobalt-Strike/community_kit,['exploit'],1,2022-03-12T01:17:01+0000,7691,77,HTML,19,[]
 HeiTang/Zrss,RSS feeds for HITCON ZeroDay’s vulnerability list,https://github.com/HeiTang/Zrss,['zeroday'],1,2022-03-12T01:16:18+0000,24028,2,Python,0,[]
 ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.,https://github.com/ycdxsb/PocOrExp_in_Github,"['cve poc', 'exploit']",2,2022-03-12T00:51:23+0000,168983,335,Python,100,[]
@@ -28,4 +29,5 @@ nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) ea
 drb-ra/C2IntelFeeds,Automatically created C2 Feeds,https://github.com/drb-ra/C2IntelFeeds,['metasploit module OR payload'],1,2022-03-12T02:30:25+0000,235561,136,REXX,12,[]
 hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-03-12T00:19:12+0000,254276,291,Ruby,84,[]
 offensive-security/exploitdb-bin-sploits,Exploit Database binary exploits located in the /sploits directory,https://github.com/offensive-security/exploitdb-bin-sploits,"['exploit', 'sploit']",2,2022-03-12T00:08:16+0000,1534794,1585,Python,532,[]
+offensive-security/exploitdb,The official Exploit Database repository,https://github.com/offensive-security/exploitdb,['exploit'],1,2022-03-12T05:09:41+0000,269540,6940,C,1885,[]
 nim-nix-pkgs/rcedit,Automatic nix flake of rcedit,https://github.com/nim-nix-pkgs/rcedit,['rce'],1,2022-03-12T05:30:39+0000,0,0,Nix,0,[]

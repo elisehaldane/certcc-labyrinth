@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/12
     
-30 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
+| SanderDemeester/evil_sysread | Evil Linux kernel module that hooks sys_read system call and lets a user get a reverse shell or execute shellcode in the kernel. | https://github.com/SanderDemeester/evil_sysread | ['shellcode'] | 1 | 2022-03-12 06:43:24+00:00 | 124 | 11 | C | 7 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-12 03:35:59+00:00 | 4249 | 2626 | PowerShell | 744 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-12 05:09:41+00:00 | 269540 | 6940 | C | 1885 | [] |
 | FelixFelicis555/Multi-Arm-Bandit-Algorithm | Multi-Arm Bandit Thomspon Reinforcement Learning used at Uber Adtech Server team to solve Exploit & Explore problem in picking advertizing | https://github.com/FelixFelicis555/Multi-Arm-Bandit-Algorithm | ['exploit'] | 1 | 2022-03-12 05:12:01+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | freakanonymous/freakout-necrobot-botnet | LATEST AND FINAL SOURCE FOR FREAKOUT BOTNET DGA AND TOR VARIANTS + EXPLOITS | https://github.com/freakanonymous/freakout-necrobot-botnet | ['exploit'] | 1 | 2022-03-12 05:14:39+00:00 | 0 | 0 | Python | 0 | [] |
 | sent-true/CNVD-2022-06399 | nan | https://github.com/sent-true/CNVD-2022-06399 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-12 04:00:11+00:00 | 0 | 1 | Python | 0 | ['CNVD-2022-06399'] |
@@ -22,6 +22,7 @@
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-03-12 05:01:55+00:00 | 4256 | 2 | Python | 1 | [] |
 | 0bfxgh0st/lxd-privesc-exploit | lxd privilege escalation exploit (includes alpine image encoded inside) | https://github.com/0bfxgh0st/lxd-privesc-exploit | ['exploit'] | 1 | 2022-03-12 00:08:35+00:00 | 10365 | 2 | Shell | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-12 01:07:22+00:00 | 4140396 | 26 | Python | 4 | [] |
+| safe6Sec/tp5rce | payload | https://github.com/safe6Sec/tp5rce | ['rce'] | 1 | 2022-03-12 06:40:52+00:00 | 19 | 7 | | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-12 01:17:01+00:00 | 7691 | 77 | HTML | 19 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-12 01:16:18+00:00 | 24028 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-12 00:51:23+00:00 | 168983 | 335 | Python | 100 | [] |
@@ -34,4 +35,5 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-12 02:30:25+00:00 | 235561 | 136 | REXX | 12 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-12 00:19:12+00:00 | 254276 | 291 | Ruby | 84 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-12 00:08:16+00:00 | 1534794 | 1585 | Python | 532 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-12 05:09:41+00:00 | 269540 | 6940 | C | 1885 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-12 05:30:39+00:00 | 0 | 0 | Nix | 0 | [] |
