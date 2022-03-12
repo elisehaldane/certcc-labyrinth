@@ -1,13 +1,12 @@
 
 # Summary for results/2022/03/12
     
-40 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-12 06:50:56+00:00 | 22304 | 6843 | JavaScript | 1587 | [] |
-| SanderDemeester/evil_sysread | Evil Linux kernel module that hooks sys_read system call and lets a user get a reverse shell or execute shellcode in the kernel. | https://github.com/SanderDemeester/evil_sysread | ['shellcode'] | 1 | 2022-03-12 06:43:24+00:00 | 124 | 11 | C | 7 | [] |
-| IIssacDev/iSPLOIT | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT | ['exploit', 'sploit'] | 2 | 2022-03-12 07:35:13+00:00 | 17 | 0 | | 0 | [] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-03-12 05:01:55+00:00 | 4256 | 2 | Python | 1 | [] |
 | DirtyFunkyFresh/DFF_UP_MSF | Metasploit-Framework Upgrade Tool for Kali Linux | https://github.com/DirtyFunkyFresh/DFF_UP_MSF | ['metasploit module OR payload'] | 1 | 2022-03-12 04:18:02+00:00 | 14 | 0 | Shell | 0 | [] |
 | Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-03-12 00:30:38+00:00 | 848 | 0 | JavaScript | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:49:41+00:00 | 164037 | 2470 | | 289 | [] |
@@ -15,6 +14,7 @@
 | RishiDarkDevil/Regularization-Based-Fair-Classifier | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | ['exploit'] | 1 | 2022-03-12 07:31:19+00:00 | 1316 | 0 | Jupyter Notebook | 2 | [] |
 | 0bfxgh0st/lfisuite | Local File Inclusion scanner/enumerator and rce. | https://github.com/0bfxgh0st/lfisuite | ['rce'] | 1 | 2022-03-12 00:30:20+00:00 | 3848 | 0 | Python | 0 | [] |
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-12 01:20:42+00:00 | 326 | 0 | HTML | 0 | [] |
+| OliverMBathurst/ps4-exploit-self-host | None | https://github.com/OliverMBathurst/ps4-exploit-self-host | ['exploit'] | 1 | 2022-03-12 11:33:16+00:00 | 2126 | 0 | TypeScript | 0 | [] |
 | T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-12 08:28:41+00:00 | 21 | 1 | C | 0 | [] |
 | EtashTyagi/buffer_overflow | x86-64 Buffer overflow attack + hello world shellcode | https://github.com/EtashTyagi/buffer_overflow | ['shellcode'] | 1 | 2022-03-12 03:58:48+00:00 | 184 | 0 | Python | 0 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and theire exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-12 02:17:34+00:00 | 16 | 0 | Solidity | 0 | [] |
@@ -24,24 +24,29 @@
 | freakanonymous/freakout-necrobot-botnet | LATEST AND FINAL SOURCE FOR FREAKOUT BOTNET DGA AND TOR VARIANTS + EXPLOITS | https://github.com/freakanonymous/freakout-necrobot-botnet | ['exploit'] | 1 | 2022-03-12 05:14:39+00:00 | 0 | 0 | Python | 0 | [] |
 | FelixFelicis555/Multi-Arm-Bandit-Algorithm | Multi-Arm Bandit Thomspon Reinforcement Learning used at Uber Adtech Server team to solve Exploit & Explore problem in picking advertizing | https://github.com/FelixFelicis555/Multi-Arm-Bandit-Algorithm | ['exploit'] | 1 | 2022-03-12 05:12:01+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-12 05:30:39+00:00 | 0 | 0 | Nix | 0 | [] |
-| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2022-03-12 05:01:55+00:00 | 4256 | 2 | Python | 1 | [] |
+| HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | None | https://github.com/HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | ['exploit'] | 1 | 2022-03-12 06:56:17+00:00 | 0 | 0 | | 0 | [] |
+| arttnba3/CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-12 11:31:46+00:00 | 0 | 0 | nan | 0 | ['CVE-2022-0847'] |
+| IIssacDev/iSPLOIT | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT | ['exploit', 'sploit'] | 2 | 2022-03-12 07:35:13+00:00 | 17 | 0 | | 0 | [] |
 | 0bfxgh0st/lxd-privesc-exploit | lxd privilege escalation exploit (includes alpine image encoded inside) | https://github.com/0bfxgh0st/lxd-privesc-exploit | ['exploit'] | 1 | 2022-03-12 00:08:35+00:00 | 10365 | 2 | Shell | 1 | [] |
+| SanderDemeester/evil_sysread | Evil Linux kernel module that hooks sys_read system call and lets a user get a reverse shell or execute shellcode in the kernel. | https://github.com/SanderDemeester/evil_sysread | ['shellcode'] | 1 | 2022-03-12 06:43:24+00:00 | 124 | 11 | C | 7 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-12 01:07:22+00:00 | 4140396 | 26 | Python | 4 | [] |
-| sh4rknado/MetasploitScanner | python Automatisation metasploit scanner (msfrpc) | https://github.com/sh4rknado/MetasploitScanner | ['metasploit module OR payload'] | 1 | 2022-03-12 01:10:30+00:00 | 106 | 0 | Python | 1 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-12 07:31:32+00:00 | 37266 | 1079 | Python | 393 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-12 03:35:59+00:00 | 4249 | 2626 | PowerShell | 744 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-12 05:09:41+00:00 | 269540 | 6940 | C | 1885 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-12 00:08:16+00:00 | 1534794 | 1585 | Python | 532 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-03-12 11:35:04+00:00 | 71038 | 10864 | Jupyter Notebook | 1887 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-12 00:19:12+00:00 | 254276 | 291 | Ruby | 84 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-12 02:30:25+00:00 | 235561 | 136 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-12 00:46:58+00:00 | 48119 | 29 | | 19 | [] |
+| sh4rknado/MetasploitScanner | python Automatisation metasploit scanner (msfrpc) | https://github.com/sh4rknado/MetasploitScanner | ['metasploit module OR payload'] | 1 | 2022-03-12 01:10:30+00:00 | 106 | 0 | Python | 1 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-12 02:02:25+00:00 | 46372 | 681 | Go | 151 | [] |
-| safe6Sec/tp5rce | payload | https://github.com/safe6Sec/tp5rce | ['rce'] | 1 | 2022-03-12 06:40:52+00:00 | 19 | 7 | | 3 | [] |
 | Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-03-12 00:28:10+00:00 | 64 | 5 | JavaScript | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-12 00:04:00+00:00 | 483925 | 47 | | 21 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:24:19+00:00 | 917457 | 87 | nan | 15 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-12 10:52:23+00:00 | 97793 | 16 | Python | 5 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:24:19+00:00 | 917457 | 87 | | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-12 00:51:23+00:00 | 168983 | 335 | Python | 100 | [] |
 | PeiQi0/PeiQi-WIKI-POC | 面向网络安全从业者的知识文库🍃 (项目重构中～) | https://github.com/PeiQi0/PeiQi-WIKI-POC | ['cve poc'] | 1 | 2022-03-12 08:41:49+00:00 | 174491 | 1336 | | 444 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-12 01:16:18+00:00 | 24028 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-12 01:17:01+00:00 | 7691 | 77 | HTML | 19 | [] |
-| HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | None | https://github.com/HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | ['exploit'] | 1 | 2022-03-12 06:56:17+00:00 | 0 | 0 | | 0 | [] |
+| safe6Sec/tp5rce | payload | https://github.com/safe6Sec/tp5rce | ['rce'] | 1 | 2022-03-12 06:40:52+00:00 | 19 | 7 | | 3 | [] |
+| RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu | None | https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-12 11:34:46+00:00 | 0 | 0 | C++ | 0 | [] |
