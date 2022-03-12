@@ -1,19 +1,21 @@
 
 # Summary for results/2022/03/12
     
-36 records found after deduplication
+40 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-12 06:50:56+00:00 | 22304 | 6843 | JavaScript | 1587 | [] |
 | SanderDemeester/evil_sysread | Evil Linux kernel module that hooks sys_read system call and lets a user get a reverse shell or execute shellcode in the kernel. | https://github.com/SanderDemeester/evil_sysread | ['shellcode'] | 1 | 2022-03-12 06:43:24+00:00 | 124 | 11 | C | 7 | [] |
-| v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-12 07:31:32+00:00 | 37266 | 1079 | Python | 393 | [] |
 | IIssacDev/iSPLOIT | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT | ['exploit', 'sploit'] | 2 | 2022-03-12 07:35:13+00:00 | 17 | 0 | | 0 | [] |
 | DirtyFunkyFresh/DFF_UP_MSF | Metasploit-Framework Upgrade Tool for Kali Linux | https://github.com/DirtyFunkyFresh/DFF_UP_MSF | ['metasploit module OR payload'] | 1 | 2022-03-12 04:18:02+00:00 | 14 | 0 | Shell | 0 | [] |
 | Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-03-12 00:30:38+00:00 | 848 | 0 | JavaScript | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:49:41+00:00 | 164037 | 2470 | nan | 289 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:49:41+00:00 | 164037 | 2470 | | 289 | [] |
+| kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-03-12 07:44:42+00:00 | 56 | 0 | C | 0 | [] |
 | RishiDarkDevil/Regularization-Based-Fair-Classifier | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | ['exploit'] | 1 | 2022-03-12 07:31:19+00:00 | 1316 | 0 | Jupyter Notebook | 2 | [] |
 | 0bfxgh0st/lfisuite | Local File Inclusion scanner/enumerator and rce. | https://github.com/0bfxgh0st/lfisuite | ['rce'] | 1 | 2022-03-12 00:30:20+00:00 | 3848 | 0 | Python | 0 | [] |
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-12 01:20:42+00:00 | 326 | 0 | HTML | 0 | [] |
+| T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-12 08:28:41+00:00 | 21 | 1 | C | 0 | [] |
 | EtashTyagi/buffer_overflow | x86-64 Buffer overflow attack + hello world shellcode | https://github.com/EtashTyagi/buffer_overflow | ['shellcode'] | 1 | 2022-03-12 03:58:48+00:00 | 184 | 0 | Python | 0 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and theire exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-12 02:17:34+00:00 | 16 | 0 | Solidity | 0 | [] |
 | jellybeanzz69/Roblox-Exploits | lua scripts | https://github.com/jellybeanzz69/Roblox-Exploits | ['exploit'] | 1 | 2022-03-12 00:10:47+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -26,6 +28,7 @@
 | 0bfxgh0st/lxd-privesc-exploit | lxd privilege escalation exploit (includes alpine image encoded inside) | https://github.com/0bfxgh0st/lxd-privesc-exploit | ['exploit'] | 1 | 2022-03-12 00:08:35+00:00 | 10365 | 2 | Shell | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-12 01:07:22+00:00 | 4140396 | 26 | Python | 4 | [] |
 | sh4rknado/MetasploitScanner | python Automatisation metasploit scanner (msfrpc) | https://github.com/sh4rknado/MetasploitScanner | ['metasploit module OR payload'] | 1 | 2022-03-12 01:10:30+00:00 | 106 | 0 | Python | 1 | [] |
+| v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-12 07:31:32+00:00 | 37266 | 1079 | Python | 393 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-12 03:35:59+00:00 | 4249 | 2626 | PowerShell | 744 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-12 05:09:41+00:00 | 269540 | 6940 | C | 1885 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-12 00:08:16+00:00 | 1534794 | 1585 | Python | 532 | [] |
@@ -36,8 +39,9 @@
 | safe6Sec/tp5rce | payload | https://github.com/safe6Sec/tp5rce | ['rce'] | 1 | 2022-03-12 06:40:52+00:00 | 19 | 7 | | 3 | [] |
 | Ray-Adams/NitroType-Archive | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-03-12 00:28:10+00:00 | 64 | 5 | JavaScript | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-12 00:04:00+00:00 | 483925 | 47 | | 21 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:24:19+00:00 | 917457 | 87 | | 15 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-12 04:24:19+00:00 | 917457 | 87 | nan | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-12 00:51:23+00:00 | 168983 | 335 | Python | 100 | [] |
+| PeiQi0/PeiQi-WIKI-POC | 面向网络安全从业者的知识文库🍃 (项目重构中～) | https://github.com/PeiQi0/PeiQi-WIKI-POC | ['cve poc'] | 1 | 2022-03-12 08:41:49+00:00 | 174491 | 1336 | | 444 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-12 01:16:18+00:00 | 24028 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-12 01:17:01+00:00 | 7691 | 77 | HTML | 19 | [] |
 | HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | None | https://github.com/HorseOnSky/SCAN-AND-EXPLOIT-VULNERABILITIES | ['exploit'] | 1 | 2022-03-12 06:56:17+00:00 | 0 | 0 | | 0 | [] |
