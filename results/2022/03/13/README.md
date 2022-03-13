@@ -1,13 +1,12 @@
 
 # Summary for results/2022/03/13
     
-60 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-13 11:41:36+00:00 | 700982 | 26614 | Ruby | 12032 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-13 00:08:17+00:00 | 1534794 | 1587 | Python | 532 | [] |
-| AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-13 01:15:52+00:00 | 335 | 0 | HTML | 0 | [] |
+| efxtv/Metasploit-in-termux | Install metasploit without any error 2022 script by EFX Tv | https://github.com/efxtv/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-13 04:47:36+00:00 | 3805 | 3 | | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-13 00:49:31+00:00 | 117 | 0 | | 0 | [] |
 | OliverMBathurst/ps4-exploit-self-host | My PS4 exploit host | https://github.com/OliverMBathurst/ps4-exploit-self-host | ['exploit'] | 1 | 2022-03-13 11:39:26+00:00 | 2599 | 0 | TypeScript | 0 | [] |
 | T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-13 10:05:55+00:00 | 27 | 1 | C | 0 | [] |
@@ -34,10 +33,11 @@
 | retr0-13/exploit-primitive-playground | None | https://github.com/retr0-13/exploit-primitive-playground | ['exploit'] | 1 | 2022-03-13 10:13:11+00:00 | 0 | 0 | C | 0 | [] |
 | SaneenKP/Insecure-Deserialization | Implementing Nodejs deserialization exploit | https://github.com/SaneenKP/Insecure-Deserialization | ['exploit'] | 1 | 2022-03-13 10:14:56+00:00 | 0 | 0 | | 0 | [] |
 | GrimSuch/Download-Here | you need level 7 exploit | https://github.com/GrimSuch/Download-Here | ['exploit'] | 1 | 2022-03-13 10:26:15+00:00 | 0 | 0 | Lua | 0 | [] |
-| efxtv/Metasploit-in-termux | Install metasploit without any error 2022 script by EFX Tv | https://github.com/efxtv/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-13 04:47:36+00:00 | 3805 | 3 | | 0 | [] |
+| danielmuthama/I_exploit | None | https://github.com/danielmuthama/I_exploit | ['exploit'] | 1 | 2022-03-13 10:26:40+00:00 | 0 | 0 | | 0 | [] |
+| AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-13 01:15:52+00:00 | 335 | 0 | HTML | 0 | [] |
 | hotpotcookie/lol4j-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-03-13 07:52:39+00:00 | 98 | 1 | Java | 0 | ['CVE-2021-44228'] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-13 04:52:04+00:00 | 37064 | 2473 | | 289 | [] |
-| edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2022-03-13 10:25:56+00:00 | 33987 | 55 | Shell | 18 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-13 00:08:17+00:00 | 1534794 | 1587 | Python | 532 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-13 04:52:04+00:00 | 37064 | 2473 | nan | 289 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-03-13 11:35:04+00:00 | 71151 | 10865 | Jupyter Notebook | 1887 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-13 00:20:09+00:00 | 255816 | 292 | Ruby | 84 | [] |
 | k8gege/K8tools | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | ['0day', 'exploit', 'shellcode'] | 3 | 2022-03-13 11:24:06+00:00 | 293931 | 4310 | PowerShell | 1891 | [] |
@@ -50,8 +50,8 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-13 01:44:01+00:00 | 76004 | 682 | Go | 151 | [] |
 | codexlynx/hardware-attacks-state-of-the-art | Microarchitectural exploitation and other hardware attacks. | https://github.com/codexlynx/hardware-attacks-state-of-the-art | ['exploit'] | 1 | 2022-03-13 01:27:44+00:00 | 168 | 28 | | 2 | [] |
 | MaherAzzouzi/LinuxKernelExploitation | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | ['exploit'] | 1 | 2022-03-13 11:28:29+00:00 | 247813 | 18 | Batchfile | 4 | [] |
+| edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2022-03-13 10:25:56+00:00 | 33987 | 55 | Shell | 18 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-13 00:04:23+00:00 | 471543 | 47 | | 21 | [] |
-| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-13 11:41:01+00:00 | 6769 | 2 | TypeScript | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-13 10:50:57+00:00 | 111577 | 16 | Python | 5 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-13 04:13:39+00:00 | 81253 | 775 | Go | 133 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-13 04:30:11+00:00 | 881593 | 87 | | 15 | [] |
@@ -64,4 +64,5 @@
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-13 09:09:31+00:00 | 2839 | 35 | | 2 | [] |
 | zilibobi/zHub | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | ['exploit'] | 1 | 2022-03-13 08:14:58+00:00 | 19558 | 3 | Lua | 0 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-03-13 05:05:07+00:00 | 2227 | 16 | C++ | 7 | [] |
-| danielmuthama/I_exploit | None | https://github.com/danielmuthama/I_exploit | ['exploit'] | 1 | 2022-03-13 10:26:40+00:00 | 0 | 0 | | 0 | [] |
+| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-13 11:41:01+00:00 | 6769 | 2 | TypeScript | 0 | [] |
+| AviaAdrian/UltraTechZ-Roblox-Exploit | A Roblox Exploit made by UltraTechZ | https://github.com/AviaAdrian/UltraTechZ-Roblox-Exploit | ['exploit'] | 1 | 2022-03-13 11:59:57+00:00 | 149 | 0 | | 0 | [] |
