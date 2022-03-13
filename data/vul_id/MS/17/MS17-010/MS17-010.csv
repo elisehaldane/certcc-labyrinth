@@ -256,7 +256,6 @@ MS17-010,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ra
 MS17-010,0.04347826,https://github.com/thelikes/ownlist,thelikes/ownlist,392439675
 MS17-010,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng/windows_exploit,147472650
 MS17-010,0.04347826,https://github.com/SirEOF/exploit-4,SirEOF/exploit-4,115913975
-MS17-010,0.04000000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS17-010,0.03846154,https://github.com/hoangcuongflp/exploit-1,hoangcuongflp/exploit-1,119947306
 MS17-010,0.03703704,https://github.com/Vicvenpet/gen-exploits,Vicvenpet/gen-exploits,452653886
 MS17-010,0.03703704,https://github.com/cybervaca/Empire-test-mod,cybervaca/Empire-test-mod,116150066
@@ -308,6 +307,7 @@ MS17-010,0.01204819,https://github.com/Lucifer1993/PoCHub,Lucifer1993/PoCHub,259
 MS17-010,0.01204819,https://github.com/joker2a/Privesc,joker2a/Privesc,250345076
 MS17-010,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS17-010,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
+MS17-010,0.00961538,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS17-010,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
 MS17-010,0.00900901,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS17-010,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
