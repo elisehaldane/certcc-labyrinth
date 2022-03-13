@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/13
     
-23 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-13 00:08:17+00:00 | 1534794 | 1587 | Python | 532 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-13 01:08:36+00:00 | 4075089 | 26 | Python | 4 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-13 00:20:09+00:00 | 255816 | 292 | Ruby | 84 | [] |
+| priii89/Metasploit | None | https://github.com/priii89/Metasploit | ['metasploit module OR payload'] | 1 | 2022-03-13 03:39:44+00:00 | 0 | 0 | | 0 | [] |
 | sneakyevilSK/CSGO_BacktrackPatch | Attempt to patch Lag Compensation "Exploit" aka Backtrack by checking history ticks inside CPlayerMove::RunCommand and simply blocking the new command that tries to use old used tick. | https://github.com/sneakyevilSK/CSGO_BacktrackPatch | ['exploit'] | 1 | 2022-03-13 02:36:44+00:00 | 0 | 0 | C | 0 | [] |
 | AhmedNoor-Official/A-full-scale-penetration-test-on-a-Linux-based-system | A full-scale penetration test on a Linux based system conducted in Kali Linux and using Metasploit. | https://github.com/AhmedNoor-Official/A-full-scale-penetration-test-on-a-Linux-based-system | ['metasploit module OR payload'] | 1 | 2022-03-13 01:24:48+00:00 | 0 | 0 | | 0 | [] |
 | Kiosec/Azure-Exploitation | Audit and pentest methodologies including enumeration, privesc, lateral movement, etc. | https://github.com/Kiosec/Azure-Exploitation | ['exploit'] | 1 | 2022-03-13 00:37:50+00:00 | 0 | 0 | | 0 | [] |
@@ -15,9 +16,11 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-13 00:49:31+00:00 | 117 | 0 | | 0 | [] |
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-13 01:15:52+00:00 | 335 | 0 | HTML | 0 | [] |
 | efxtv/Metasploit-in-termux | Install metasploit without any error 2022 script by EFX Tv | https://github.com/efxtv/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-13 04:47:36+00:00 | 3805 | 3 | | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-13 04:52:04+00:00 | 37064 | 2473 | nan | 289 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-03-13 05:05:07+00:00 | 2227 | 16 | C++ | 7 | [] |
 | Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-03-13 02:50:11+00:00 | 889 | 0 | JavaScript | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-13 01:08:36+00:00 | 4075089 | 26 | Python | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-13 01:19:52+00:00 | 7751 | 77 | HTML | 19 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-13 00:20:09+00:00 | 255816 | 292 | Ruby | 84 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-13 01:20:28+00:00 | 25962 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-13 00:51:35+00:00 | 83394 | 335 | Python | 100 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-13 04:30:11+00:00 | 881593 | 87 | | 15 | [] |
@@ -27,4 +30,4 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-13 01:44:01+00:00 | 76004 | 682 | Go | 151 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-03-13 03:18:19+00:00 | 1538517 | 4083 | PowerShell | 1433 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-13 02:30:25+00:00 | 241214 | 136 | REXX | 12 | [] |
-| priii89/Metasploit | None | https://github.com/priii89/Metasploit | ['metasploit module OR payload'] | 1 | 2022-03-13 03:39:44+00:00 | 0 | 0 | | 0 | [] |
+| onepersec/Software-Exploit | None | https://github.com/onepersec/Software-Exploit | ['exploit'] | 1 | 2022-03-13 05:42:44+00:00 | 0 | 0 | | 0 | [] |
