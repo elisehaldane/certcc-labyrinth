@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 461289600,twseptian/python-exploit-scripts,cve-2021-42013/rce2.py,607819947c8ee51da75ed9a6c16c720ea0e59a70,CVE-2021-42013
-461289600,twseptian/python-exploit-scripts,cve-2021-42013/README.md,966b2b5e39db5a57dde369a3dda704277f3975cc,CVE-2021-41773
-461289600,twseptian/python-exploit-scripts,cve-2021-42013/README.md,966b2b5e39db5a57dde369a3dda704277f3975cc,CVE-2021-42013
+461289600,twseptian/python-exploit-scripts,cve-2021-42013/README.md,7fdc6680989f024ef21c62504561d956705287de,CVE-2021-41773
+461289600,twseptian/python-exploit-scripts,cve-2021-42013/README.md,7fdc6680989f024ef21c62504561d956705287de,CVE-2021-42013
 461289600,twseptian/python-exploit-scripts,cve-2021-42013/rce1.py,bbd94da042bf48ddd2ef7e737e7a9194aedb3db8,CVE-2021-42013
 461289600,twseptian/python-exploit-scripts,cve-2021-42013/path_traversal_vuln.py,e740259d3f009a37cdb940bce0de0a98eebf2a1e,CVE-2021-42013
