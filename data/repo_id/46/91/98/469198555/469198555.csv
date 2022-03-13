@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-469198555,AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits,README.md,89af6c611a861ef5eb9ade2ce7501878d390c7fa,CVE-2022-0847
+469198555,AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits,exploit-1.c,0b3bd6b2cb57d1d3a2c51f948c0da474175b9f57,CVE-2022-0847
+469198555,AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits,exploit-2.c,3d5391884fc45872f1bf5cf30dda63d5681df786,CVE-2022-0847
+469198555,AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits,README.md,873d5fce6706e8944b901e1f80b7b78900d0fbd8,CVE-2022-0847
 469198555,AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits,_GITHUB_REPO_METADATA_,,CVE-2022-0847
