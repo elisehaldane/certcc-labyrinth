@@ -1,6 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 13932470,leebaird/discover,notes/PowerShell/PS-Attack.txt,05ceaba50c33892cf2eb11a0728ffc1b4b32e746,MS16-032
-13932470,leebaird/discover,notes/linux.txt,10cab4c0e4bd86daea5defd782f0e43407769658,CVE-2022-0847
 13932470,leebaird/discover,report.sh,14a1dae0076569fd33b19979970cd948496c12b1,MS08-067
 13932470,leebaird/discover,nse.sh,169176f909dceafecafb54b72492222eed029f8e,CVE-2017-7494
 13932470,leebaird/discover,nse.sh,169176f909dceafecafb54b72492222eed029f8e,MS17-010
@@ -20,6 +19,7 @@ repo_id,repo_full_name,file,file_sha1,match
 13932470,leebaird/discover,notes/active-directory.txt,7aa1eddc6f3321e42a89a2e48b43daf3f1236d42,CVE-2020-1472
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#29
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#40
-13932470,leebaird/discover,notes/pwk.txt,a8cb8390bc611a710d8caa5ab62c666920b78061,MS12-037
-13932470,leebaird/discover,notes/pwk.txt,a8cb8390bc611a710d8caa5ab62c666920b78061,MS11-080
+13932470,leebaird/discover,notes/pwk.txt,c9dc8e4d08adbb8431807de8a23bf4e99a20aed3,MS12-037
+13932470,leebaird/discover,notes/pwk.txt,c9dc8e4d08adbb8431807de8a23bf4e99a20aed3,MS11-080
 13932470,leebaird/discover,resource/445-smb.rc,e0910be58b72c2fcd594c6d03861a73ecfc80c3e,MS17-010
+13932470,leebaird/discover,notes/linux.txt,e3f6bf4e56cf9289dd518d7281332e901701ff16,CVE-2022-0847
