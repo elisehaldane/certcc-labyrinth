@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/14
     
-37 records found after deduplication
+40 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-14 04:49:02+00:00 | 701472 | 26619 | Ruby | 12036 | [] |
-| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-14 00:19:24+00:00 | 51686 | 0 | Python | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-14 01:40:16+00:00 | 4257 | 2627 | PowerShell | 744 | [] |
 | SIB-BYTE/Binary-exploitation | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-03-14 01:18:45+00:00 | 579 | 3 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-14 04:40:43+00:00 | 40218 | 2478 | | 292 | [] |
 | Xc1Ym/sunlogin_rce | 根据https://github.com/heyzm/sunlogin_rce_ 写的python版，重复造轮子 | https://github.com/Xc1Ym/sunlogin_rce | ['rce'] | 1 | 2022-03-14 03:37:57+00:00 | 4 | 0 | Python | 0 | [] |
@@ -22,10 +22,12 @@
 | cryst4lliz3/CVE-2021-41773 | None | https://github.com/cryst4lliz3/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:09:05+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-41773'] |
 | cryst4lliz3/CVE-2021-22205 | None | https://github.com/cryst4lliz3/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:09:28+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
 | cryst4lliz3/CVE-2021-44228 | None | https://github.com/cryst4lliz3/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:10:44+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-44228'] |
+| cryst4lliz3/CVE-2021-44228-vuln-app | None | https://github.com/cryst4lliz3/CVE-2021-44228-vuln-app | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:16:02+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| antx-code/CVE-2021-35587 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 05:07:01+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-35587'] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-03-14 04:39:59+00:00 | 60830 | 0 | CSS | 1 | [] |
+| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-14 00:19:24+00:00 | 51686 | 0 | Python | 0 | [] |
 | HrishitJoshi/Final_Exploit | Exploited a vulnerable binary by doing buffer overflow and exploiting Format string vulnerabilities. | https://github.com/HrishitJoshi/Final_Exploit | ['exploit'] | 1 | 2022-03-14 02:25:07+00:00 | 737 | 1 | Perl | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-14 01:40:16+00:00 | 4257 | 2627 | PowerShell | 744 | [] |
-| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-03-14 00:18:29+00:00 | 130 | 0 | C | 0 | [] |
+| lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-03-14 05:33:41+00:00 | 6910 | 1 | JavaScript | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-14 00:08:18+00:00 | 1534794 | 1588 | Python | 532 | [] |
 | hktalent/myhktools | https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script | https://github.com/hktalent/myhktools | ['0day', 'exploit', 'metasploit module OR payload', 'vuln poc'] | 4 | 2022-03-14 01:54:26+00:00 | 604783 | 14 | Java | 9 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-14 00:23:35+00:00 | 257356 | 295 | Ruby | 84 | [] |
@@ -34,6 +36,7 @@
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-14 01:39:11+00:00 | 76012 | 687 | Go | 152 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-14 00:03:56+00:00 | 472254 | 47 | | 21 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-03-14 03:29:43+00:00 | 297037 | 7 | | 1 | [] |
+| edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-03-14 00:18:29+00:00 | 130 | 0 | C | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-14 04:44:34+00:00 | 86404 | 336 | Python | 100 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-03-14 03:32:16+00:00 | 205462 | 0 | JavaScript | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-14 01:24:16+00:00 | 27775 | 2 | Python | 0 | [] |
@@ -41,4 +44,4 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-14 01:12:37+00:00 | 4077814 | 26 | Python | 4 | [] |
 | gamozolabs/elfloader | An architecture-agnostic ELF file flattener for shellcode | https://github.com/gamozolabs/elfloader | ['shellcode'] | 1 | 2022-03-14 04:14:19+00:00 | 32 | 151 | Rust | 15 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-03-14 02:57:13+00:00 | 233 | 4 | Java | 0 | [] |
-| cryst4lliz3/CVE-2021-44228-vuln-app | None | https://github.com/cryst4lliz3/CVE-2021-44228-vuln-app | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:16:02+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| darkphoenix2601/BruteSploit | None | https://github.com/darkphoenix2601/BruteSploit | ['sploit'] | 1 | 2022-03-14 05:46:25+00:00 | 0 | 0 | Python | 0 | [] |
