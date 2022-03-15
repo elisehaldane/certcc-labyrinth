@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/15
     
-53 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-15 05:49:08+00:00 | 702457 | 26630 | Ruby | 12037 | [] |
-| ZeroM3m0ry/Shellcode-Injector | shellcode injector | https://github.com/ZeroM3m0ry/Shellcode-Injector | ['shellcode'] | 1 | 2022-03-15 02:06:32+00:00 | 1786 | 35 | C++ | 6 | [] |
+| Extra-Mundane/Redline-Products | You'll never be bored again if you try out our custom exploiting service, you can request the games to be added, and we try to add requested games every week! | https://github.com/Extra-Mundane/Redline-Products | ['exploit'] | 1 | 2022-03-15 02:11:18+00:00 | 94 | 0 | Lua | 0 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-15 05:38:05+00:00 | 52949 | 1 | Python | 4 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-15 03:12:27+00:00 | 15020 | 5 | Go | 2 | [] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-15 02:25:38+00:00 | 7241 | 2 | TypeScript | 0 | [] |
@@ -19,8 +19,8 @@
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-15 03:34:54+00:00 | 2646 | 0 | Python | 0 | [] |
 | 0vercl0k/longue-vue | Longue vue is an exploit chain that can compromise over the internet NETGEAR DGND3700v2 devices. | https://github.com/0vercl0k/longue-vue | ['exploit'] | 1 | 2022-03-15 01:24:26+00:00 | 11374 | 9 | JavaScript | 4 | [] |
 | laaverts/VexSploit | None | https://github.com/laaverts/VexSploit | ['sploit'] | 1 | 2022-03-15 01:08:53+00:00 | 5 | 0 | | 0 | [] |
-| Extra-Mundane/Redline-Products | You'll never be bored again if you try out our custom exploiting service, you can request the games to be added, and we try to add requested games every week! | https://github.com/Extra-Mundane/Redline-Products | ['exploit'] | 1 | 2022-03-15 02:11:18+00:00 | 94 | 0 | Lua | 0 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-03-15 02:23:41+00:00 | 11021 | 1 | C# | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-15 04:30:04+00:00 | 22309 | 6859 | JavaScript | 1590 | [] |
 | bstevens94/IDOR-for-the-Casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | ['exploit'] | 1 | 2022-03-15 00:28:46+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | Trokovx/Z-Sploit | Z-Sploit [Fe, Client] | https://github.com/Trokovx/Z-Sploit | ['sploit'] | 1 | 2022-03-15 01:19:55+00:00 | 0 | 0 | Lua | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-03-15 02:00:00+00:00 | 0 | 0 | | 0 | [] |
@@ -30,10 +30,13 @@
 | CumberlandBrace02/exploiting-oil-by-technology-4.0 | Low oil prices have a great influence on maintaining output and applying industrial revolution 4.0 achievements in the oil and gas extraction and processing industry. Once there is a surplus of supply thanks to investment in exploitation of heavy oil (Sout | https://github.com/CumberlandBrace02/exploiting-oil-by-technology-4.0 | ['exploit'] | 1 | 2022-03-15 06:04:10+00:00 | 0 | 0 | | 0 | [] |
 | phuonguno98/CVE-2022-0847 | None | https://github.com/phuonguno98/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 06:06:51+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | faiyazkhankc/block-vote | Exploit Secure Blockchain Based E-Voting System | https://github.com/faiyazkhankc/block-vote | ['exploit'] | 1 | 2022-03-15 06:10:18+00:00 | 0 | 0 | | 0 | [] |
+| Offensive-Panda/ALL_SHELLCODE_FORMAT_COVERTOR | This scirpt will convert you binary form (raw shellcode) into C, C# and base64 encoded form. | https://github.com/Offensive-Panda/ALL_SHELLCODE_FORMAT_COVERTOR | ['shellcode'] | 1 | 2022-03-15 06:37:24+00:00 | 0 | 0 | Python | 0 | [] |
+| Thannwabinbai/Key-System | Key System S Hub Exploit | https://github.com/Thannwabinbai/Key-System | ['exploit'] | 1 | 2022-03-15 07:24:48+00:00 | 0 | 0 | | 0 | [] |
+| tabasy/similarity_prompting | Code for ACL 2022 short paper: Exploiting Language Model Prompts Using Similarity Measures | https://github.com/tabasy/similarity_prompting | ['exploit'] | 1 | 2022-03-15 07:26:08+00:00 | 0 | 0 | | 0 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-03-15 00:02:27+00:00 | 135 | 1 | C | 0 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-03-15 07:21:12+00:00 | 235 | 4 | Java | 0 | [] |
+| ZeroM3m0ry/Shellcode-Injector | shellcode injector | https://github.com/ZeroM3m0ry/Shellcode-Injector | ['shellcode'] | 1 | 2022-03-15 02:06:32+00:00 | 1786 | 35 | C++ | 6 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-15 02:29:01+00:00 | 7853 | 1229 | TypeScript | 200 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-15 04:30:04+00:00 | 22309 | 6859 | JavaScript | 1590 | [] |
-| 0xvpr/Pidjeon | A command line payload injector for 32 & 64 bit Windows applications. | https://github.com/0xvpr/Pidjeon | ['command injection'] | 1 | 2022-03-15 04:34:26+00:00 | 465 | 0 | C | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-15 05:09:47+00:00 | 271126 | 6953 | C | 1885 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-15 00:08:23+00:00 | 1534794 | 1590 | Python | 532 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-15 05:46:32+00:00 | 5841 | 3147 | Python | 686 | [] |
@@ -49,12 +52,14 @@
 | xrenaa/DisCo | [ICLR2022] Code for "Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View" | https://github.com/xrenaa/DisCo | ['exploit'] | 1 | 2022-03-15 05:39:58+00:00 | 21432 | 72 | Python | 5 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-15 01:28:53+00:00 | 118 | 0 | PHP | 0 | [] |
 | evildevill/tmetasploit | This tool is used to install metasploit framework in termux | https://github.com/evildevill/tmetasploit | ['metasploit module OR payload'] | 1 | 2022-03-15 01:26:09+00:00 | 38 | 8 | Ruby | 2 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-15 04:32:20+00:00 | 913730 | 87 | | 15 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-15 04:32:20+00:00 | 913730 | 87 | nan | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-15 04:45:44+00:00 | 88211 | 337 | Python | 100 | [] |
 | pathtofile/SealighterTI | Combining Sealighter with unpatched exploits to run the Threat-Intelligence ETW Provider | https://github.com/pathtofile/SealighterTI | ['exploit'] | 1 | 2022-03-15 04:50:03+00:00 | 790 | 29 | C | 8 | [] |
+| DK9510/web-app-exploitation | None | https://github.com/DK9510/web-app-exploitation | ['exploit'] | 1 | 2022-03-15 07:42:51+00:00 | 10635 | 12 | | 1 | [] |
 | aml360/remoteCodeFetch | Example of (desired) remote code execution | https://github.com/aml360/remoteCodeFetch | ['remote code execution'] | 1 | 2022-03-15 03:09:54+00:00 | 174 | 1 | TypeScript | 0 | [] |
 | Fans0n-Fan/Awesome-IoT-exp | Share some archives about IoT exploits. | https://github.com/Fans0n-Fan/Awesome-IoT-exp | ['exploit'] | 1 | 2022-03-15 02:52:59+00:00 | 3 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-15 01:26:17+00:00 | 29575 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-15 01:27:59+00:00 | 7811 | 77 | HTML | 19 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-15 01:15:31+00:00 | 3952455 | 27 | Python | 4 | [] |
-| Offensive-Panda/ALL_SHELLCODE_FORMAT_COVERTOR | This scirpt will convert you binary form (raw shellcode) into C, C# and base64 encoded form. | https://github.com/Offensive-Panda/ALL_SHELLCODE_FORMAT_COVERTOR | ['shellcode'] | 1 | 2022-03-15 06:37:24+00:00 | 0 | 0 | Python | 0 | [] |
+| 0xvpr/Pidjeon | A command line payload injector for 32 & 64 bit Windows applications. | https://github.com/0xvpr/Pidjeon | ['command injection'] | 1 | 2022-03-15 04:34:26+00:00 | 465 | 0 | C | 0 | [] |
+| Mani1325/ka-cve-2021-21341 | None | https://github.com/Mani1325/ka-cve-2021-21341 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 07:38:48+00:00 | 0 | 0 | Java | 1 | ['CVE-2021-21341'] |
