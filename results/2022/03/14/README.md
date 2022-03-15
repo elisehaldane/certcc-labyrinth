@@ -1,10 +1,10 @@
 
 # Summary for results/2022/03/14
     
-133 records found after deduplication
+134 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-14 04:49:02+00:00 | 701472 | 26619 | Ruby | 12036 | [] |
 | AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-14 07:40:23+00:00 | 14 | 46 | C | 9 | ['CVE-2022-0847'] |
 | GG-o1/cve-2022-testtets | testt | https://github.com/GG-o1/cve-2022-testtets | ['cve-2 OR cve_2'] | 1 | 2022-03-14 02:51:03+00:00 | 0 | 0 | | 0 | [] |
@@ -22,7 +22,7 @@
 | k3rwin/spring-cloud-gateway-rce | spring-cloud-gateway-rce CVE-2022-22947 | https://github.com/k3rwin/spring-cloud-gateway-rce | ['rce'] | 1 | 2022-03-14 08:32:17+00:00 | 578 | 2 | Python | 0 | ['CVE-2022-22947'] |
 | priii89/Metasploit | None | https://github.com/priii89/Metasploit | ['metasploit module OR payload'] | 1 | 2022-03-14 02:04:45+00:00 | 887 | 0 | | 0 | [] |
 | arttnba3/CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-14 17:51:29+00:00 | 3 | 4 | C | 1 | ['CVE-2022-0847'] |
-| efxtv/Metasploit-in-termux | Install metasploit without any error 2022 script by EFX Tv | https://github.com/efxtv/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-14 08:55:52+00:00 | 3809 | 4 | Shell | 0 | [] |
+| cryst4lliz3/CVE-2021-41773 | None | https://github.com/cryst4lliz3/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:09:05+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-41773'] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-14 01:43:22+00:00 | 18 | 2 | Solidity | 0 | [] |
 | meowmeowxw/CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 20:29:56+00:00 | 72 | 2 | C | 0 | ['CVE-2022-24122'] |
 | mauricelambert/CVE-2021-41773 | These Metasploit, Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload', 'rce'] | 4 | 2022-03-14 07:34:49+00:00 | 28 | 0 | Ruby | 0 | ['CVE-2021-41773'] |
@@ -38,9 +38,9 @@
 | Xc1Ym/sunlogin_rce | 根据https://github.com/heyzm/sunlogin_rce_ 写的python版，重复造轮子 | https://github.com/Xc1Ym/sunlogin_rce | ['rce'] | 1 | 2022-03-14 03:37:57+00:00 | 4 | 0 | Python | 0 | [] |
 | savi-1311/bank-security | A Web Application to identify critical security misconfigurations, resulting in data breaches or high severity exploits such as remote code execution. It will be specifically designed to keep the Indian Banking sector in mind to follow the RBI and PCI comp | https://github.com/savi-1311/bank-security | ['exploit', 'remote code execution'] | 2 | 2022-03-14 14:24:44+00:00 | 87 | 1 | JavaScript | 0 | [] |
 | cryst4lliz3/CVE-2021-42013 | None | https://github.com/cryst4lliz3/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:08:32+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-42013'] |
-| cryst4lliz3/CVE-2021-41773 | None | https://github.com/cryst4lliz3/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:09:05+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-41773'] |
 | cryst4lliz3/CVE-2021-22205 | None | https://github.com/cryst4lliz3/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:09:28+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-22205'] |
-| cryst4lliz3/CVE-2021-44228 | None | https://github.com/cryst4lliz3/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:10:44+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-44228'] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-14 01:40:16+00:00 | 4257 | 2627 | PowerShell | 744 | [] |
+| p0ch4t/CVE-2022-0867 | None | https://github.com/p0ch4t/CVE-2022-0867 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 13:45:43+00:00 | 0 | 0 | | 0 | ['CVE-2022-0867'] |
 | TomSgn/CVE-2021-4034 | pkexec --> privilege escalation | https://github.com/TomSgn/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 22:47:04+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-4034'] |
 | fu2x2000/PnkBstrA.exe_RCE | None | https://github.com/fu2x2000/PnkBstrA.exe_RCE | ['rce'] | 1 | 2022-03-14 20:58:26+00:00 | 0 | 0 | | 0 | [] |
 | Marklord96/solidity-exploits | None | https://github.com/Marklord96/solidity-exploits | ['exploit'] | 1 | 2022-03-14 20:38:49+00:00 | 0 | 0 | | 0 | [] |
@@ -55,8 +55,8 @@
 | breachnix/dirty-pipe-poc | CVE-2022-0847 POC | https://github.com/breachnix/dirty-pipe-poc | ['cve poc'] | 1 | 2022-03-14 15:32:26+00:00 | 0 | 0 | | 0 | ['CVE-2022-0847'] |
 | grng3r/rs_shellcode | shellcode adventures with rust | https://github.com/grng3r/rs_shellcode | ['shellcode'] | 1 | 2022-03-14 14:30:19+00:00 | 0 | 0 | Rust | 0 | [] |
 | grng3r/rs_exploits | just some exploits coded in rust | https://github.com/grng3r/rs_exploits | ['exploit'] | 1 | 2022-03-14 14:19:43+00:00 | 0 | 0 | Rust | 0 | [] |
-| p0ch4t/CVE-2022-0867 | None | https://github.com/p0ch4t/CVE-2022-0867 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 13:45:43+00:00 | 0 | 0 | | 0 | ['CVE-2022-0867'] |
 | CYB3RK1D/CVE-2022-0847-POC | dirtypipe | https://github.com/CYB3RK1D/CVE-2022-0847-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-14 13:29:03+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
+| cryst4lliz3/CVE-2021-44228 | None | https://github.com/cryst4lliz3/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:10:44+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-44228'] |
 | spacebin-org/0Day | None | https://github.com/spacebin-org/0Day | ['0day'] | 1 | 2022-03-14 12:33:04+00:00 | 0 | 0 | | 0 | [] |
 | xkhack/BattlEye_shellcode | 模拟BattlEye扫描的shellcode | https://github.com/xkhack/BattlEye_shellcode | ['shellcode'] | 1 | 2022-03-14 10:21:07+00:00 | 0 | 0 | C++ | 0 | [] |
 | zhangdapeng520/zdppy_msf | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_msf | ['metasploit module OR payload'] | 1 | 2022-03-14 08:56:22+00:00 | 0 | 0 | | 0 | [] |
@@ -66,13 +66,14 @@
 | liqian-Rcees/liqian-Rcees | Config files for my GitHub profile. | https://github.com/liqian-Rcees/liqian-Rcees | ['rce'] | 1 | 2022-03-14 07:51:21+00:00 | 0 | 0 | | 0 | [] |
 | harfoush8/metasploit | لكم الحل ان شاءالله. تثبيت الميتاسبلويت بدون روت انسخ الاوامر مرة واحدة لصقها في الترموكس وبعدها الانتظار فقط بعد التحديث الجديد حرفوش | https://github.com/harfoush8/metasploit | ['metasploit module OR payload'] | 1 | 2022-03-14 07:51:09+00:00 | 0 | 0 | | 0 | [] |
 | markie-dev/desc_race_A15 | CVE-2021-30955 iOS 15.1.1 POC for 6GB RAM devices (A14-A15) | https://github.com/markie-dev/desc_race_A15 | ['cve poc'] | 1 | 2022-03-14 07:58:37+00:00 | 6372 | 0 | C | 0 | ['CVE-2021-30955'] |
+| D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC | None | https://github.com/D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC | ['rce', 'rce poc'] | 2 | 2022-03-14 09:59:45+00:00 | 1055 | 0 | | 0 | [] |
 | zhangdapeng520/zdpruby_msf | 基于Metasploit二次开发的渗透框架 | https://github.com/zhangdapeng520/zdpruby_msf | ['metasploit module OR payload'] | 1 | 2022-03-14 06:20:32+00:00 | 5 | 0 | | 0 | [] |
 | darkphoenix2601/BruteSploit | None | https://github.com/darkphoenix2601/BruteSploit | ['sploit'] | 1 | 2022-03-14 05:46:25+00:00 | 0 | 0 | Python | 0 | [] |
 | antx-code/CVE-2021-35587 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587 | ['cve-2 OR cve_2'] | 1 | 2022-03-14 05:07:01+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-35587'] |
 | cryst4lliz3/CVE-2021-44228-vuln-app | None | https://github.com/cryst4lliz3/CVE-2021-44228-vuln-app | ['cve-2 OR cve_2'] | 1 | 2022-03-14 04:16:02+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | febinrev/tinyfilemanager-2.4.6-exploit | Tiny FIle Manager <= 2.4.3 Authenticated RCE exploit | https://github.com/febinrev/tinyfilemanager-2.4.6-exploit | ['exploit', 'rce'] | 2 | 2022-03-14 15:39:11+00:00 | 3 | 0 | Shell | 0 | [] |
+| efxtv/Metasploit-in-termux | Install metasploit without any error 2022 script by EFX Tv | https://github.com/efxtv/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-14 08:55:52+00:00 | 3809 | 4 | Shell | 0 | [] |
 | illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-14 22:37:48+00:00 | 1633 | 0 | Python | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-14 01:40:16+00:00 | 4257 | 2627 | PowerShell | 744 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-03-14 23:03:01+00:00 | 4232 | 4 | HTML | 0 | [] |
 | Noizeeee/Exploits | None | https://github.com/Noizeeee/Exploits | ['exploit'] | 1 | 2022-03-14 09:27:19+00:00 | 23810 | 0 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-14 04:44:34+00:00 | 86404 | 336 | Python | 100 | [] |
