@@ -1,25 +1,32 @@
 
 # Summary for results/2022/03/16
     
-19 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-16 00:35:56+00:00 | 22420 | 6864 | JavaScript | 1593 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-16 01:27:49+00:00 | 31287 | 2 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-16 00:08:22+00:00 | 1534795 | 1591 | Python | 532 | [] |
 | PixelCuba/ps4v9 | Exploit para PS4 versión 9.0 de PixelCuba | https://github.com/PixelCuba/ps4v9 | ['exploit'] | 1 | 2022-03-16 00:19:03+00:00 | 0 | 0 | | 0 | [] |
 | laaverts/VexSploit | None | https://github.com/laaverts/VexSploit | ['sploit'] | 1 | 2022-03-16 01:44:14+00:00 | 7 | 0 | | 0 | [] |
+| hustvl/AziNorm | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | ['exploit'] | 1 | 2022-03-16 02:39:29+00:00 | 1 | 9 | | 0 | [] |
 | Ch4nc3n/PublicExploitation | None | https://github.com/Ch4nc3n/PublicExploitation | ['exploit'] | 1 | 2022-03-16 01:27:05+00:00 | 504 | 2 | C | 0 | [] |
 | priyacshah/RCE_Sask_Website_Design | nan | https://github.com/priyacshah/RCE_Sask_Website_Design | ['rce'] | 1 | 2022-03-16 01:31:04+00:00 | 5622 | 0 | | 1 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-16 00:22:47+00:00 | 49017 | 2 | Jupyter Notebook | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-16 02:30:03+00:00 | 7880 | 1259 | TypeScript | 204 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-16 01:14:58+00:00 | 4178219 | 27 | Python | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-16 01:36:45+00:00 | 7810 | 77 | HTML | 19 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-16 01:27:49+00:00 | 31287 | 2 | Python | 0 | [] |
+| Bin4xin/bigger-than-bigger | POC&EXP: 用友NC反序列化 · LFS · Vulnerabilities · CTF; 供后来者学习以及技术探讨 Upload by git LFS. | https://github.com/Bin4xin/bigger-than-bigger | ['vulnerability poc'] | 1 | 2022-03-16 02:45:49+00:00 | 164817 | 6 | Python | 3 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-16 00:51:58+00:00 | 91227 | 338 | Python | 101 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-16 00:08:22+00:00 | 1534795 | 1591 | Python | 532 | [] |
+| abundov/web-exploits | Tools and Exploits | https://github.com/abundov/web-exploits | ['exploit'] | 1 | 2022-03-16 02:48:24+00:00 | 96 | 2 | PHP | 0 | [] |
 | tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-16 01:19:39+00:00 | 119 | 0 | PHP | 0 | [] |
+| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-03-16 02:51:28+00:00 | 7091 | 1 | Java | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-16 00:04:48+00:00 | 477991 | 47 | | 21 | [] |
+| jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-16 02:33:05+00:00 | 82023 | 693 | Go | 153 | [] |
 | ppepos/inf600c | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | ['exploit'] | 1 | 2022-03-16 00:03:29+00:00 | 14139 | 5 | | 2 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-16 00:47:01+00:00 | 49642 | 29 | | 19 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-16 02:30:25+00:00 | 269259 | 137 | REXX | 12 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-16 00:19:44+00:00 | 257357 | 294 | Ruby | 84 | [] |
 | zenedf/Install_Metasploit_Exploits | This makes it easier to download metasploit exploits and install them into your local metasploit database | https://github.com/zenedf/Install_Metasploit_Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-16 00:50:45+00:00 | 18 | 0 | Python | 0 | [] |
 | HexxiumCreations/threat-list | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE! | https://github.com/HexxiumCreations/threat-list | ['exploit'] | 1 | 2022-03-16 01:46:40+00:00 | 2061 | 12 | HTML | 5 | [] |
