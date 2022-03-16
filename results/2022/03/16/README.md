@@ -1,14 +1,14 @@
 
 # Summary for results/2022/03/16
     
-115 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-16 07:30:40+00:00 | 702479 | 26641 | Ruby | 12040 | [] |
-| leonardtang/exploit-explore-adaptive-gain | Exploration versus exploration under a multi-armed bandit as a function of uncertainty bonus | https://github.com/leonardtang/exploit-explore-adaptive-gain | ['exploit'] | 1 | 2022-03-16 01:46:43+00:00 | 0 | 0 | Python | 0 | [] |
+| hustvl/AziNorm | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | ['exploit'] | 1 | 2022-03-16 02:39:29+00:00 | 1 | 9 | | 0 | [] |
 | test1244bbbb/exploit | None | https://github.com/test1244bbbb/exploit | ['exploit'] | 1 | 2022-03-16 14:06:57+00:00 | 17 | 0 | JavaScript | 0 | [] |
-| W0rty/CVE-2021-39165 | None | https://github.com/W0rty/CVE-2021-39165 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-16 07:44:30+00:00 | 3 | 3 | Python | 0 | ['CVE-2021-39165'] |
+| W0rty/CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-16 18:01:04+00:00 | 6 | 4 | Python | 1 | ['CVE-2021-39165'] |
 | weewoo22/memflow-shellcode | None | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-03-16 13:32:26+00:00 | 4 | 0 | Zig | 0 | [] |
 | zyylhn/redis-rce | Redis primary/secondary replication RCE | https://github.com/zyylhn/redis-rce | ['rce'] | 1 | 2022-03-16 07:45:27+00:00 | 1 | 9 | Go | 1 | [] |
 | Jo-spec849/exploits | None | https://github.com/Jo-spec849/exploits | ['exploit'] | 1 | 2022-03-16 16:26:45+00:00 | 6 | 0 | | 0 | [] |
@@ -19,8 +19,8 @@
 | SaneenKP/Insecure-Deserialization | Implementing Nodejs deserialization exploit | https://github.com/SaneenKP/Insecure-Deserialization | ['exploit'] | 1 | 2022-03-16 18:14:03+00:00 | 577 | 0 | JavaScript | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-16 06:04:23+00:00 | 313624 | 95 | nan | 18 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-16 03:10:11+00:00 | 4 | 0 | Nix | 0 | [] |
-| hustvl/AziNorm | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | ['exploit'] | 1 | 2022-03-16 02:39:29+00:00 | 1 | 9 | | 0 | [] |
 | HackerPlayz/NightSploit | None | https://github.com/HackerPlayz/NightSploit | ['sploit'] | 1 | 2022-03-16 19:24:40+00:00 | 2 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-16 00:35:56+00:00 | 22420 | 6864 | JavaScript | 1593 | [] |
 | bruhboy666/Bruhboy-Sploit | None | https://github.com/bruhboy666/Bruhboy-Sploit | ['sploit'] | 1 | 2022-03-16 19:15:13+00:00 | 33250 | 0 | Lua | 0 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-03-16 16:59:33+00:00 | 19 | 2 | PHP | 0 | [] |
 | Ch4nc3n/PublicExploitation | None | https://github.com/Ch4nc3n/PublicExploitation | ['exploit'] | 1 | 2022-03-16 01:27:05+00:00 | 504 | 2 | C | 0 | [] |
@@ -32,9 +32,10 @@
 | RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-03-16 08:59:51+00:00 | 68 | 0 | Lua | 1 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-16 06:02:25+00:00 | 46907 | 2493 | | 294 | [] |
 | arget13/DDexec | A technique to run binaries filelessly and stealthily on Linux by tricking dd into exploiting itself. | https://github.com/arget13/DDexec | ['exploit'] | 1 | 2022-03-16 16:43:19+00:00 | 52 | 19 | Shell | 0 | [] |
+| aemmitt-ns/skeleton | Skeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326 | https://github.com/aemmitt-ns/skeleton | ['exploit', 'rce'] | 2 | 2022-03-16 02:58:42+00:00 | 20 | 13 | Python | 5 | ['CVE-2021-0326'] |
 | PixelCuba/ps4v9 | Exploit para PS4 versión 9.0 de PixelCuba | https://github.com/PixelCuba/ps4v9 | ['exploit'] | 1 | 2022-03-16 00:19:03+00:00 | 0 | 0 | | 0 | [] |
+| leonardtang/exploit-explore-adaptive-gain | Exploration versus exploration under a multi-armed bandit as a function of uncertainty bonus | https://github.com/leonardtang/exploit-explore-adaptive-gain | ['exploit'] | 1 | 2022-03-16 01:46:43+00:00 | 0 | 0 | Python | 0 | [] |
 | avi7611/AWScli-exploitation-cheatsheet | None | https://github.com/avi7611/AWScli-exploitation-cheatsheet | ['exploit'] | 1 | 2022-03-16 04:09:40+00:00 | 0 | 1 | | 0 | [] |
-| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-16 17:01:08+00:00 | 8643 | 1 | PHP | 1 | [] |
 | Thegameplayer/EXPLOITERHUB | None | https://github.com/Thegameplayer/EXPLOITERHUB | ['exploit'] | 1 | 2022-03-16 06:09:46+00:00 | 0 | 0 | | 0 | [] |
 | arthur-petre/Croissanted.py | A Python script exploiting Discord's authorization token. | https://github.com/arthur-petre/Croissanted.py | ['exploit'] | 1 | 2022-03-16 18:33:25+00:00 | 90 | 2 | Python | 0 | [] |
 | nimaarek/Exploit-Development-resources | All Things about Exploit Development | https://github.com/nimaarek/Exploit-Development-resources | ['exploit'] | 1 | 2022-03-16 16:47:02+00:00 | 0 | 0 | | 0 | [] |
@@ -61,9 +62,9 @@
 | pyth0n14n/PoC-TEE | For evaluating fault attack resistance of RISC-V based TEEs | https://github.com/pyth0n14n/PoC-TEE | ['attack poc'] | 1 | 2022-03-16 07:10:49+00:00 | 0 | 0 | nan | 0 | [] |
 | aodsec/CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-16 06:45:45+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-0543'] |
 | BobTheShoplifter/CVE-2022-0778-POC | Exploring and exploiting CVE-2022-0778. | https://github.com/BobTheShoplifter/CVE-2022-0778-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-03-16 06:29:43+00:00 | 0 | 0 | | 0 | ['CVE-2022-0778'] |
-| aemmitt-ns/skeleton | Skeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326 | https://github.com/aemmitt-ns/skeleton | ['exploit', 'rce'] | 2 | 2022-03-16 02:58:42+00:00 | 20 | 13 | Python | 5 | ['CVE-2021-0326'] |
+| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-16 17:01:08+00:00 | 8643 | 1 | PHP | 1 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-03-16 00:22:47+00:00 | 49017 | 2 | Jupyter Notebook | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-16 00:35:56+00:00 | 22420 | 6864 | JavaScript | 1593 | [] |
+| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-03-16 10:54:11+00:00 | 29 | 552 | | 40 | [] |
 | m3n0sd0n4ld/CVE-Exploits | None | https://github.com/m3n0sd0n4ld/CVE-Exploits | ['exploit'] | 1 | 2022-03-16 17:45:18+00:00 | 115 | 5 | Shell | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-16 00:04:48+00:00 | 477991 | 47 | | 21 | [] |
 | Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-03-16 10:27:10+00:00 | 283 | 0 | Python | 0 | [] |
@@ -92,14 +93,14 @@
 | spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2022-03-16 17:10:26+00:00 | 3492 | 8 | HTML | 2 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-16 04:54:54+00:00 | 139151 | 16 | Python | 5 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-03-16 02:51:28+00:00 | 7091 | 1 | Java | 0 | [] |
-| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-03-16 10:54:11+00:00 | 29 | 552 | | 40 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-16 01:19:39+00:00 | 119 | 0 | PHP | 0 | [] |
 | DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-03-16 15:08:35+00:00 | 2366 | 9 | C | 6 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-16 01:19:39+00:00 | 119 | 0 | PHP | 0 | [] |
 | k3rwin/CVE-2021-43798-Grafana | CVE-2021-43798 Grafana任意文件读取 | https://github.com/k3rwin/CVE-2021-43798-Grafana | ['cve-2 OR cve_2'] | 1 | 2022-03-16 04:33:37+00:00 | 309 | 1 | Python | 0 | ['CVE-2021-43798'] |
 | mc-17/pspack-flask | pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | ['exploit'] | 1 | 2022-03-16 15:09:08+00:00 | 1748 | 41 | JavaScript | 20 | [] |
 | p0dalirius/CVE-2021-43008-AdminerRead | Exploit tool for Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-16 09:35:04+00:00 | 1818 | 19 | Python | 4 | ['CVE-2021-43008'] |
 | Ridter/noPac | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user | https://github.com/Ridter/noPac | ['exploit'] | 1 | 2022-03-16 13:59:31+00:00 | 67 | 276 | Python | 57 | ['CVE-2021-42278', 'CVE-2021-42287'] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-16 08:35:30+00:00 | 52974 | 2 | Python | 6 | [] |
+| hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-16 20:10:12+00:00 | 1870 | 191 | Ruby | 24 | [] |
 | N0b1ta/Bit-Cannon | EXP and POC used to collect some common vulnerabilities | https://github.com/N0b1ta/Bit-Cannon | ['vulnerability poc'] | 1 | 2022-03-16 08:36:22+00:00 | 15407 | 1 | Raku | 0 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-03-16 04:06:17+00:00 | 249 | 4 | Java | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-03-16 18:10:30+00:00 | 476 | 9 | | 0 | [] |
