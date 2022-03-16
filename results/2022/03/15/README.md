@@ -1,28 +1,28 @@
 
 # Summary for results/2022/03/15
     
-153 records found after deduplication
+154 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-15 05:49:08+00:00 | 702457 | 26630 | Ruby | 12037 | [] |
-| Trokovx/Z-Sploit | Z-Sploit [Fe, Client] | https://github.com/Trokovx/Z-Sploit | ['sploit'] | 1 | 2022-03-15 01:19:55+00:00 | 0 | 0 | Lua | 0 | [] |
+| bstevens94/IDOR-for-the-Casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | ['exploit'] | 1 | 2022-03-15 00:28:46+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | laaverts/VexSploit | None | https://github.com/laaverts/VexSploit | ['sploit'] | 1 | 2022-03-15 01:08:53+00:00 | 5 | 0 | | 0 | [] |
 | Extra-Mundane/Redline-Products | You'll never be bored again if you try out our custom exploiting service, you can request the games to be added, and we try to add requested games every week! | https://github.com/Extra-Mundane/Redline-Products | ['exploit'] | 1 | 2022-03-15 02:11:18+00:00 | 94 | 0 | Lua | 0 | [] |
 | Gabriel712/0day-hibrido | None | https://github.com/Gabriel712/0day-hibrido | ['0day'] | 1 | 2022-03-15 11:34:25+00:00 | 33422 | 0 | PHP | 0 | [] |
 | CYB3RK1D/CVE-2022-0847-POC | dirtypipe | https://github.com/CYB3RK1D/CVE-2022-0847-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-15 09:06:03+00:00 | 2 | 1 | C | 0 | ['CVE-2022-0847'] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-03-15 02:23:41+00:00 | 11021 | 1 | C# | 0 | [] |
+| positive-security/dompdf-rce | RCE exploit for dompdf | https://github.com/positive-security/dompdf-rce | ['exploit', 'rce'] | 2 | 2022-03-15 10:55:56+00:00 | 4086 | 0 | PHP | 0 | [] |
 | Marklord96/solidity-exploits | None | https://github.com/Marklord96/solidity-exploits | ['exploit'] | 1 | 2022-03-15 21:04:19+00:00 | 0 | 0 | Solidity | 0 | [] |
-| bstevens94/IDOR-for-the-Casual | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | ['exploit'] | 1 | 2022-03-15 00:28:46+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
+| Trokovx/Z-Sploit | Z-Sploit [Fe, Client] | https://github.com/Trokovx/Z-Sploit | ['sploit'] | 1 | 2022-03-15 01:19:55+00:00 | 0 | 0 | Lua | 0 | [] |
+| Thannwabinbai/Key-System | Key System S Hub Exploit | https://github.com/Thannwabinbai/Key-System | ['exploit'] | 1 | 2022-03-15 07:24:48+00:00 | 0 | 0 | | 0 | [] |
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2022-03-15 02:00:00+00:00 | 0 | 0 | | 0 | [] |
-| icyguider/Nimcrypt2 | .NET, PE, & Raw Shellcode Packer/Loader Written in Nim | https://github.com/icyguider/Nimcrypt2 | ['shellcode'] | 1 | 2022-03-15 11:13:23+00:00 | 42 | 188 | Nim | 41 | [] |
 | Supersonic/CVE-2020-0443 | Proof of concept app for Android permanent denial-of-service vulnerability, CVE-2020-0443 | https://github.com/Supersonic/CVE-2020-0443 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 05:15:48+00:00 | 0 | 1 | Java | 0 | ['CVE-2020-0443'] |
 | k0zulzr/CVE-2022-24086-RCE | None | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-15 05:15:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-24086'] |
-| 416e6e61/Chamilo-RCE-PoC | None | https://github.com/416e6e61/Chamilo-RCE-PoC | ['rce', 'rce poc'] | 2 | 2022-03-15 05:40:35+00:00 | 0 | 0 | | 0 | [] |
+| 416e6e61/Chamilo-RCE-PoC | nan | https://github.com/416e6e61/Chamilo-RCE-PoC | ['rce', 'rce poc'] | 2 | 2022-03-15 05:40:35+00:00 | 0 | 0 | nan | 0 | [] |
 | CumberlandBrace02/exploiting-oil-by-technology-4.0 | Low oil prices have a great influence on maintaining output and applying industrial revolution 4.0 achievements in the oil and gas extraction and processing industry. Once there is a surplus of supply thanks to investment in exploitation of heavy oil (Sout | https://github.com/CumberlandBrace02/exploiting-oil-by-technology-4.0 | ['exploit'] | 1 | 2022-03-15 06:04:10+00:00 | 0 | 0 | | 0 | [] |
 | phuonguno98/CVE-2022-0847 | None | https://github.com/phuonguno98/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 06:06:51+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | faiyazkhankc/block-vote | Exploit Secure Blockchain Based E-Voting System | https://github.com/faiyazkhankc/block-vote | ['exploit'] | 1 | 2022-03-15 06:10:18+00:00 | 0 | 0 | | 0 | [] |
-| Offensive-Panda/SHELLCODE_FORMATS_COVERTOR | This scirpt will convert you binary form (raw shellcode) into C, C# and base64 encoded form. | https://github.com/Offensive-Panda/SHELLCODE_FORMATS_COVERTOR | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-03-15 06:58:14+00:00 | 8 | 0 | Python | 0 | [] |
 | Samir-Abuisneneh/CryptoAnalysis_rsa_signature_exploit | None | https://github.com/Samir-Abuisneneh/CryptoAnalysis_rsa_signature_exploit | ['exploit'] | 1 | 2022-03-15 13:46:19+00:00 | 3 | 0 | Python | 0 | [] |
 | 0vercl0k/longue-vue | Longue vue is an exploit chain that can compromise over the internet NETGEAR DGND3700v2 devices. | https://github.com/0vercl0k/longue-vue | ['exploit'] | 1 | 2022-03-15 01:24:26+00:00 | 11374 | 9 | JavaScript | 4 | [] |
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-15 03:34:54+00:00 | 2646 | 0 | Python | 0 | [] |
@@ -42,18 +42,19 @@
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-15 08:43:14+00:00 | 31 | 2 | Solidity | 0 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-15 02:29:27+00:00 | 3 | 0 | Nix | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-15 16:14:27+00:00 | 2415 | 29 | | 3 | [] |
-| Thannwabinbai/Key-System | Key System S Hub Exploit | https://github.com/Thannwabinbai/Key-System | ['exploit'] | 1 | 2022-03-15 07:24:48+00:00 | 0 | 0 | | 0 | [] |
+| Offensive-Panda/ALL_SHELLCODE_FORMAT_COVERTOR | This scirpt will convert you binary form (raw shellcode) into C, C# and base64 encoded form. | https://github.com/Offensive-Panda/ALL_SHELLCODE_FORMAT_COVERTOR | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-03-15 06:37:24+00:00 | 0 | 0 | Python | 0 | [] |
 | tabasy/similarity_prompting | Code for ACL 2022 short paper: Exploiting Language Model Prompts Using Similarity Measures | https://github.com/tabasy/similarity_prompting | ['exploit'] | 1 | 2022-03-15 07:26:08+00:00 | 0 | 0 | | 0 | [] |
-| Mani1325/ka-cve-2021-21341 | None | https://github.com/Mani1325/ka-cve-2021-21341 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 07:38:48+00:00 | 0 | 0 | Java | 1 | ['CVE-2021-21341'] |
-| Sint0-xyz/Stop-Spotify-Exploit | It's a simple "script" that allows you to hear Spotify without stops. | https://github.com/Sint0-xyz/Stop-Spotify-Exploit | ['exploit'] | 1 | 2022-03-15 15:50:51+00:00 | 1 | 1 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-15 04:30:04+00:00 | 22309 | 6859 | JavaScript | 1590 | [] |
+| test1244bbbb/exploit | None | https://github.com/test1244bbbb/exploit | ['exploit'] | 1 | 2022-03-15 19:40:09+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| Dylbin/DevilSpawn | Post-exploitation multiplexor daemon, used for surveillance and remote access (spy tool). | https://github.com/Dylbin/DevilSpawn | ['exploit'] | 1 | 2022-03-15 16:11:25+00:00 | 0 | 0 | Objective-C | 0 | [] |
 | SenSecurity/exploit | CVE-2018-11235: Git Submodule RCE | https://github.com/SenSecurity/exploit | ['exploit', 'rce'] | 2 | 2022-03-15 17:33:22+00:00 | 0 | 0 | | 0 | ['CVE-2018-11235'] |
 | AchocolatechipPancake/shellcode-scripts | Scripts for compiling hand written ASM instructions | https://github.com/AchocolatechipPancake/shellcode-scripts | ['shellcode'] | 1 | 2022-03-15 17:57:10+00:00 | 0 | 0 | Assembly | 0 | [] |
 | W0rty/CVE-2021-39165 | None | https://github.com/W0rty/CVE-2021-39165 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 18:17:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-39165'] |
 | BlockhostOfficial/RegionFixer | Fix all server exploits/iilegals at once! | https://github.com/BlockhostOfficial/RegionFixer | ['exploit'] | 1 | 2022-03-15 18:21:13+00:00 | 0 | 0 | | 0 | [] |
 | angelpimentell/distcc_exploit | DistCC exploit | https://github.com/angelpimentell/distcc_exploit | ['exploit'] | 1 | 2022-03-15 18:26:51+00:00 | 0 | 0 | Python | 0 | [] |
 | drago-96/CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 19:06:34+00:00 | 0 | 0 | | 0 | ['CVE-2022-0778'] |
-| test1244bbbb/exploit | None | https://github.com/test1244bbbb/exploit | ['exploit'] | 1 | 2022-03-15 19:40:09+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Anthony-sys/simple-bash-script-for-metasploit | It is a bash script for creating android payload | https://github.com/Anthony-sys/simple-bash-script-for-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-15 19:35:34+00:00 | 0 | 0 | | 0 | [] |
+| Mani1325/ka-cve-2021-21341 | None | https://github.com/Mani1325/ka-cve-2021-21341 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 07:38:48+00:00 | 0 | 0 | Java | 1 | ['CVE-2021-21341'] |
 | crump-youtube/900Test | Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints "failed to guess..." for you. Especially interested in reports from 9.00. | https://github.com/crump-youtube/900Test | ['vulnerability poc'] | 1 | 2022-03-15 19:37:55+00:00 | 0 | 0 | HTML | 0 | [] |
 | nimelehin/exploits | None | https://github.com/nimelehin/exploits | ['exploit'] | 1 | 2022-03-15 20:10:06+00:00 | 0 | 0 | C | 0 | [] |
 | RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu | This cheat is Internal really isn't like other liars | https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-15 22:33:16+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -61,10 +62,11 @@
 | razordeveloper/XLL-Excel-Exploit | None | https://github.com/razordeveloper/XLL-Excel-Exploit | ['exploit'] | 1 | 2022-03-15 22:51:18+00:00 | 0 | 0 | | 0 | [] |
 | 0xcybrK3r0/SimplePwnSeries | A series of simple but powerful scripts based on automation of exploits. | https://github.com/0xcybrK3r0/SimplePwnSeries | ['exploit'] | 1 | 2022-03-15 23:40:10+00:00 | 0 | 0 | Python | 0 | [] |
 | OreoByte/SwimmerSploit | SwimmerSploit is a collection of option fluid payloads that can perform mutiple different shell types without having to be recompiled. | https://github.com/OreoByte/SwimmerSploit | ['sploit'] | 1 | 2022-03-15 23:44:02+00:00 | 0 | 0 | Python | 0 | [] |
-| Dylbin/DevilSpawn | Post-exploitation multiplexor daemon, used for surveillance and remote access (spy tool). | https://github.com/Dylbin/DevilSpawn | ['exploit'] | 1 | 2022-03-15 16:11:25+00:00 | 0 | 0 | Objective-C | 0 | [] |
+| Sint0-xyz/Stop-Spotify-Exploit | It's a simple "script" that allows you to hear Spotify without stops. | https://github.com/Sint0-xyz/Stop-Spotify-Exploit | ['exploit'] | 1 | 2022-03-15 15:50:51+00:00 | 1 | 1 | | 0 | [] |
 | Its-Vichy/Dunocoin-Exploit | Custom miner that Spoof packets to be considered an IoT device and earn more coins. | https://github.com/Its-Vichy/Dunocoin-Exploit | ['exploit'] | 1 | 2022-03-15 15:40:21+00:00 | 0 | 5 | Python | 0 | [] |
-| githublihaha/DirtyPIPE-CVE-2022-0847 | None | https://github.com/githublihaha/DirtyPIPE-CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 08:34:03+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | F0rbidden-Equation/FtpExploit | None | https://github.com/F0rbidden-Equation/FtpExploit | ['exploit'] | 1 | 2022-03-15 14:35:04+00:00 | 0 | 0 | | 0 | [] |
+| Rvn0xsy/impacket-suite | Post-exploitation script developed using impacket | https://github.com/Rvn0xsy/impacket-suite | ['exploit'] | 1 | 2022-03-15 13:44:10+00:00 | 0 | 0 | Python | 0 | [] |
+| githublihaha/DirtyPIPE-CVE-2022-0847 | None | https://github.com/githublihaha/DirtyPIPE-CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 08:34:03+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
 | bysinks/CVE-2022-22947 | None | https://github.com/bysinks/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 08:52:38+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
 | bysinks/CVE-2021-29441 | None | https://github.com/bysinks/CVE-2021-29441 | ['cve-2 OR cve_2'] | 1 | 2022-03-15 08:56:39+00:00 | 0 | 1 | Go | 0 | ['CVE-2021-29441'] |
 | phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | None | https://github.com/phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-15 09:11:47+00:00 | 0 | 0 | C | 0 | ['CVE-2022-0847'] |
@@ -79,10 +81,9 @@
 | weewoo22/memflow-shellcode | None | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-03-15 13:25:53+00:00 | 0 | 0 | | 0 | [] |
 | Dylbin/desc_race | desc_race exploit for iOS 15.0 - 15.1.1 (with stable kernel r/w primitives) | https://github.com/Dylbin/desc_race | ['exploit'] | 1 | 2022-03-15 13:38:01+00:00 | 0 | 1 | C | 0 | [] |
 | PrestaDZ/vsftpd-2.3.4 | Simple python script to exploit Vsftpd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/PrestaDZ/vsftpd-2.3.4 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-15 13:45:05+00:00 | 0 | 0 | Python | 0 | ['CVE-2011-2523'] |
-| Rvn0xsy/impacket-suite | Post-exploitation script developed using impacket | https://github.com/Rvn0xsy/impacket-suite | ['exploit'] | 1 | 2022-03-15 13:44:10+00:00 | 0 | 0 | Python | 0 | [] |
 | janschejbal/raceread | proof of concept for exploiting create-then-chmod vulnerabilities | https://github.com/janschejbal/raceread | ['exploit'] | 1 | 2022-03-15 01:19:13+00:00 | 12 | 0 | C | 0 | [] |
+| icyguider/Nimcrypt2 | .NET, PE, & Raw Shellcode Packer/Loader Written in Nim | https://github.com/icyguider/Nimcrypt2 | ['shellcode'] | 1 | 2022-03-15 11:13:23+00:00 | 42 | 188 | Nim | 41 | [] |
 | savi-1311/bank-security | A Web Application to identify critical security misconfigurations, resulting in data breaches or high severity exploits such as remote code execution. It will be specifically designed to keep the Indian Banking sector in mind to follow the RBI and PCI comp | https://github.com/savi-1311/bank-security | ['exploit', 'remote code execution'] | 2 | 2022-03-15 06:18:13+00:00 | 88 | 1 | JavaScript | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-15 04:30:04+00:00 | 22309 | 6859 | JavaScript | 1590 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-15 00:47:01+00:00 | 49398 | 29 | | 19 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-03-15 07:57:05+00:00 | 35759 | 6555 | Vue | 1400 | [] |
 | CheckPointSW/QueryOrientedProgramming | Query Oriented Programming (QOP) gadgets for SQLite-based exploitation | https://github.com/CheckPointSW/QueryOrientedProgramming | ['exploit'] | 1 | 2022-03-15 12:37:29+00:00 | 3 | 41 | Python | 6 | [] |
