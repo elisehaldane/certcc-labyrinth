@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 469466961,tasox/Apophis,payloads/3DES/des_decryptor_embeded.cs,a66a4651f80068fcabc29281cbb29a9da8b83c31,VU#63
+469466961,tasox/Apophis,MSI/Wix311/WixVSExtension.dll,a8d697c369e2b88d15627c19e13f6a592976987d,VU#45
 469466961,tasox/Apophis,payloads/3DES/des_decryptor_embeded_marshal.cs,a9fe021025ae3d894e93aeb7f4a572fe19c91ccf,VU#33
