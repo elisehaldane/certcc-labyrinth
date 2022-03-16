@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-2XVV-723C-8P7R,0.00060753,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 GHSA-2XVV-723C-8P7R,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
-GHSA-2XVV-723C-8P7R,0.00020272,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-2XVV-723C-8P7R,0.00020268,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
