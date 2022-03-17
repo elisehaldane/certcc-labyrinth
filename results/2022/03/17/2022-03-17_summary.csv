@@ -1,0 +1,8 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-03-17T00:20:03+0000,258897,294,Ruby,84,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-03-17T00:47:02+0000,50543,29,,19,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-03-17T00:04:30+0000,480905,47,,21,[]
+tencentcloud-sdk-php/rce,nan,https://github.com/tencentcloud-sdk-php/rce,['rce'],1,2022-03-17T00:54:02+0000,119,0,PHP,0,[]
+ngimb64/Shellcode-Generator,Linux script to parse the raw bytes from objdump into shellcode.,https://github.com/ngimb64/Shellcode-Generator,['shellcode'],1,2022-03-17T00:39:19+0000,5,1,Python,0,[]
+hack-different/apple-knowledge,"A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",https://github.com/hack-different/apple-knowledge,['exploit'],1,2022-03-17T00:49:38+0000,1931,192,Ruby,24,[]
+AviaAlex/ExploitWebsite,A exploit system called Neutron,https://github.com/AviaAlex/ExploitWebsite,['exploit'],1,2022-03-17T00:13:28+0000,347,0,HTML,0,[]
