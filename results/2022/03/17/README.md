@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/17
     
-130 records found after deduplication
+131 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
@@ -38,7 +38,7 @@
 | ChadMotivation/TymSpecial | SysWhispers integrated shellcode loader w/ ETW patching, anti-sandboxing, & spoofed code signing certificates | https://github.com/ChadMotivation/TymSpecial | ['shellcode'] | 1 | 2022-03-17 02:06:51+00:00 | 1170 | 124 | Python | 29 | [] |
 | D4RKH0R1Z0N/RDP-Sploit-Dev | None | https://github.com/D4RKH0R1Z0N/RDP-Sploit-Dev | ['sploit'] | 1 | 2022-03-17 09:27:54+00:00 | 2 | 0 | Python | 0 | [] |
 | Salmanndytar/JavaFxApp.exeWindowsScappatteck | Une application système Windows en javaFx permettant a échapper a quelques attaques locaux telque " Metasploit", "middle attack (MITM)".L'inconvenant il y aura l'attende de connexion de 2 à 4 secondes après chaque x minutes selon votre configuration; par | https://github.com/Salmanndytar/JavaFxApp.exeWindowsScappatteck | ['metasploit module OR payload'] | 1 | 2022-03-17 15:00:31+00:00 | 62 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-17 03:33:46+00:00 | 22422 | 6878 | JavaScript | 1593 | [] |
+| glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-03-17 04:39:42+00:00 | 77 | 1 | | 1 | [] |
 | mtthwstffrd/mzet-linux-exploit-suggester | None | https://github.com/mtthwstffrd/mzet-linux-exploit-suggester | ['exploit'] | 1 | 2022-03-17 01:10:22+00:00 | 0 | 0 | Shell | 0 | [] |
 | babatunde-ayoade/exploit | Firmware exploit written in C/C++ and Assembly language. | https://github.com/babatunde-ayoade/exploit | ['exploit'] | 1 | 2022-03-17 19:56:53+00:00 | 0 | 0 | | 0 | [] |
 | johnpradoo/SpotifyExploit | Spotify Premium | https://github.com/johnpradoo/SpotifyExploit | ['exploit'] | 1 | 2022-03-17 19:48:39+00:00 | 0 | 0 | | 0 | [] |
@@ -70,9 +70,9 @@
 | renox31/silent-exploit-jpg | None | https://github.com/renox31/silent-exploit-jpg | ['exploit'] | 1 | 2022-03-17 02:15:01+00:00 | 0 | 0 | | 0 | [] |
 | Jiang59991/cve-2021-21300-01 | None | https://github.com/Jiang59991/cve-2021-21300-01 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 01:25:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-21300'] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-17 03:40:13+00:00 | 6392 | 0 | | 1 | [] |
-| glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-03-17 04:39:42+00:00 | 77 | 1 | | 1 | [] |
 | seal9055/cyber_attack_simulation | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | ['exploit', 'rce'] | 2 | 2022-03-17 03:00:38+00:00 | 6 | 0 | Batchfile | 0 | [] |
-| RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-03-17 09:58:03+00:00 | 70 | 0 | Lua | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-17 03:33:46+00:00 | 22422 | 6878 | JavaScript | 1593 | [] |
+| ngimb64/Shellcode-Generator | Linux script to parse the raw bytes from objdump into shellcode. | https://github.com/ngimb64/Shellcode-Generator | ['shellcode'] | 1 | 2022-03-17 00:39:19+00:00 | 5 | 1 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-17 00:54:02+00:00 | 119 | 0 | PHP | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-17 11:07:02+00:00 | 166731 | 16 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-17 00:04:30+00:00 | 480905 | 47 | | 21 | [] |
@@ -103,9 +103,9 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-17 18:26:14+00:00 | 4292 | 2628 | PowerShell | 744 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-17 15:31:53+00:00 | 46815 | 865 | Python | 205 | [] |
 | uraninite/win32-stuxnet | Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it | https://github.com/uraninite/win32-stuxnet | ['exploit'] | 1 | 2022-03-17 21:09:06+00:00 | 7646 | 10 | Assembly | 6 | [] |
-| ngimb64/Shellcode-Generator | Linux script to parse the raw bytes from objdump into shellcode. | https://github.com/ngimb64/Shellcode-Generator | ['shellcode'] | 1 | 2022-03-17 00:39:19+00:00 | 5 | 1 | Python | 0 | [] |
 | issa-project/web-visualization | The aim of this project is to develop a web interface for visualizing indexed documents, enriched by exploiting the semantic index | https://github.com/issa-project/web-visualization | ['exploit'] | 1 | 2022-03-17 10:31:10+00:00 | 1270 | 0 | JavaScript | 0 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-03-17 18:10:25+00:00 | 509 | 9 | | 0 | [] |
+| RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-03-17 09:58:03+00:00 | 70 | 0 | Lua | 1 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-17 04:26:41+00:00 | 965014 | 88 | | 15 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-17 04:53:58+00:00 | 51892 | 2498 | | 294 | [] |
 | arget13/DDexec | A technique to run binaries filelessly and stealthily on Linux by tricking dd into exploiting itself. | https://github.com/arget13/DDexec | ['exploit'] | 1 | 2022-03-17 21:24:11+00:00 | 66 | 20 | Shell | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-17 06:42:59+00:00 | 2847 | 36 | | 2 | [] |
@@ -119,8 +119,8 @@
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-17 07:45:14+00:00 | 68142 | 2 | Python | 7 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-17 00:49:38+00:00 | 1931 | 192 | Ruby | 24 | [] |
 | Vegetebird/StridedTransformer-Pose3D | [TMM 2022] Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-03-17 07:21:32+00:00 | 14431 | 31 | Python | 5 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-03-17 18:10:25+00:00 | 509 | 9 | | 0 | [] |
 | Kerago/shellcode_execution | None | https://github.com/Kerago/shellcode_execution | ['shellcode'] | 1 | 2022-03-17 13:11:00+00:00 | 1 | 0 | C++ | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-17 04:26:41+00:00 | 965014 | 88 | | 15 | [] |
 | FatCyclone/D-Pwn | D/Invoke standalone shellcode runners | https://github.com/FatCyclone/D-Pwn | ['shellcode'] | 1 | 2022-03-17 16:35:59+00:00 | 16 | 20 | C# | 7 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-17 02:49:11+00:00 | 7874 | 1289 | TypeScript | 209 | [] |
 | efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2022-03-17 18:44:18+00:00 | 9732 | 5 | HTML | 0 | [] |
@@ -129,6 +129,7 @@
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-03-17 20:50:11+00:00 | 352 | 0 | Lua | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-17 01:25:50+00:00 | 7871 | 77 | HTML | 19 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-17 01:24:55+00:00 | 33031 | 2 | Python | 0 | [] |
+| m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2022-03-17 22:42:08+00:00 | 19330 | 0 | C# | 0 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-03-17 09:11:02+00:00 | 2047 | 0 | | 0 | [] |
 | pathtofile/SealighterTI | Combining Sealighter with unpatched exploits to run the Threat-Intelligence ETW Provider | https://github.com/pathtofile/SealighterTI | ['exploit'] | 1 | 2022-03-17 04:30:38+00:00 | 795 | 30 | C | 8 | [] |
 | nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE | Netgear WNAP320 Firmware Version 2.0.3 RCE | https://github.com/nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE | ['rce'] | 1 | 2022-03-17 04:12:12+00:00 | 5356 | 3 | Python | 2 | [] |
