@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/17
     
-36 records found after deduplication
+39 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-17 03:33:46+00:00 | 22422 | 6878 | JavaScript | 1593 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-17 05:09:53+00:00 | 234131 | 6960 | C | 1888 | [] |
+| gou-web/ThinkphpGUI- | 自主开发的第一个JAVA图形化漏扫工具，支持ThinkPHP 2.x RCE，Thinkphp5 5.0.22/5.1.29RCE，ThinkPHP5 5.0.23RCE和ThinkPHP5 SQL注入漏洞和敏感信息泄露漏洞。 | https://github.com/gou-web/ThinkphpGUI- | ['rce'] | 1 | 2022-03-17 06:25:00+00:00 | 16 | 3 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-17 04:53:58+00:00 | 51892 | 2498 | | 294 | [] |
 | seal9055/cyber_attack_simulation | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | ['exploit', 'rce'] | 2 | 2022-03-17 03:00:38+00:00 | 6 | 0 | Batchfile | 0 | [] |
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-03-17 04:39:42+00:00 | 77 | 1 | | 1 | [] |
@@ -15,6 +15,7 @@
 | AviaAlex/ExploitWebsite | A exploit system called Neutron | https://github.com/AviaAlex/ExploitWebsite | ['exploit'] | 1 | 2022-03-17 00:13:28+00:00 | 347 | 0 | HTML | 0 | [] |
 | zan8in/afrog | afrog是一款基于 YAML 语法模板的定制化快速漏洞扫描器 | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-17 03:27:17+00:00 | 856 | 2 | Go | 0 | [] |
 | laaverts/VexSploit | nan | https://github.com/laaverts/VexSploit | ['sploit'] | 1 | 2022-03-17 03:07:35+00:00 | 9 | 0 | nan | 0 | [] |
+| hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-17 00:49:38+00:00 | 1931 | 192 | Ruby | 24 | [] |
 | mtthwstffrd/mzet-linux-exploit-suggester | None | https://github.com/mtthwstffrd/mzet-linux-exploit-suggester | ['exploit'] | 1 | 2022-03-17 01:10:22+00:00 | 0 | 0 | Shell | 0 | [] |
 | Jiang59991/cve-2021-21300-01 | None | https://github.com/Jiang59991/cve-2021-21300-01 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 01:25:21+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-21300'] |
 | renox31/silent-exploit-jpg | None | https://github.com/renox31/silent-exploit-jpg | ['exploit'] | 1 | 2022-03-17 02:15:01+00:00 | 0 | 0 | | 0 | [] |
@@ -22,22 +23,24 @@
 | Jiang59991/cve-2021-21300 | None | https://github.com/Jiang59991/cve-2021-21300 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 02:47:47+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-21300'] |
 | xigexbh/bazad1 | CVE-2018-4185: iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation. | https://github.com/xigexbh/bazad1 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 03:38:02+00:00 | 0 | 0 | nan | 0 | ['CVE-2018-4185'] |
 | R-047/shellcode | None | https://github.com/R-047/shellcode | ['shellcode'] | 1 | 2022-03-17 03:58:06+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-03-17 00:49:38+00:00 | 1931 | 192 | Ruby | 24 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-17 06:42:59+00:00 | 2847 | 36 | | 2 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-17 02:49:11+00:00 | 7874 | 1289 | TypeScript | 209 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-17 01:14:22+00:00 | 4192698 | 27 | Python | 4 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-17 05:09:53+00:00 | 234131 | 6960 | C | 1888 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-17 00:04:30+00:00 | 480905 | 47 | | 21 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-03-17 02:01:04+00:00 | 4746 | 92 | Go | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-17 00:20:03+00:00 | 258897 | 294 | Ruby | 84 | [] |
 | SaurabhhB/FileJacking | This is a automated exploit that will run on windows computer with command line PHP | https://github.com/SaurabhhB/FileJacking | ['exploit'] | 1 | 2022-03-17 04:19:18+00:00 | 29 | 1 | PHP | 0 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-03-17 05:15:53+00:00 | 99207 | 2800 | Python | 436 | [] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-03-17 06:15:56+00:00 | 3611 | 2349 | Python | 649 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-17 02:30:25+00:00 | 274879 | 137 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-17 00:47:02+00:00 | 50543 | 29 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-17 00:54:02+00:00 | 119 | 0 | PHP | 0 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-17 01:25:50+00:00 | 7871 | 77 | HTML | 19 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-17 01:14:22+00:00 | 4192698 | 27 | Python | 4 | [] |
 | ngimb64/Shellcode-Generator | Linux script to parse the raw bytes from objdump into shellcode. | https://github.com/ngimb64/Shellcode-Generator | ['shellcode'] | 1 | 2022-03-17 00:39:19+00:00 | 5 | 1 | Python | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-17 04:26:41+00:00 | 965014 | 88 | | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-17 04:46:04+00:00 | 94852 | 341 | Python | 101 | [] |
 | nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE | Netgear WNAP320 Firmware Version 2.0.3 RCE | https://github.com/nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE | ['rce'] | 1 | 2022-03-17 04:12:12+00:00 | 5356 | 3 | Python | 2 | [] |
 | pathtofile/SealighterTI | Combining Sealighter with unpatched exploits to run the Threat-Intelligence ETW Provider | https://github.com/pathtofile/SealighterTI | ['exploit'] | 1 | 2022-03-17 04:30:38+00:00 | 795 | 30 | C | 8 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-17 01:24:55+00:00 | 33031 | 2 | Python | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-17 01:25:50+00:00 | 7871 | 77 | HTML | 19 | [] |
 | ExecutiveDeveloper/SANDHURTS-THE-END-OF-MILSIMS | Develop by most experienced game developer, we aren't exploiter though. We're developer, develop game like other people, just do people realise that we're using same programming language? | https://github.com/ExecutiveDeveloper/SANDHURTS-THE-END-OF-MILSIMS | ['exploit'] | 1 | 2022-03-17 05:39:09+00:00 | 0 | 0 | | 0 | [] |
