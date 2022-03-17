@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/17
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-17 13:05:22+00:00 | 703016 | 26646 | Ruby | 12045 | [] |
-| ocman-nazir-briet/b-exploit | None | https://github.com/ocman-nazir-briet/b-exploit | ['exploit'] | 1 | 2022-03-17 09:58:54+00:00 | 983 | 0 | JavaScript | 0 | [] |
+| grimwolf007/Exploits | Playing Around with cyber vulns | https://github.com/grimwolf007/Exploits | ['exploit'] | 1 | 2022-03-17 13:46:44+00:00 | 14 | 0 | Java | 0 | [] |
+| D4RKH0R1Z0N/RDP-Sploit-Dev | None | https://github.com/D4RKH0R1Z0N/RDP-Sploit-Dev | ['sploit'] | 1 | 2022-03-17 09:27:54+00:00 | 2 | 0 | Python | 0 | [] |
 | manwelbugeja/metasploit | None | https://github.com/manwelbugeja/metasploit | ['metasploit module OR payload'] | 1 | 2022-03-17 11:58:53+00:00 | 6222 | 0 | | 0 | [] |
 | test1244bbbb/exploit | None | https://github.com/test1244bbbb/exploit | ['exploit'] | 1 | 2022-03-17 10:34:05+00:00 | 29 | 0 | JavaScript | 0 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-03-17 11:40:52+00:00 | 83 | 3 | Python | 0 | [] |
@@ -17,8 +18,8 @@
 | laaverts/VexSploit | None | https://github.com/laaverts/VexSploit | ['sploit'] | 1 | 2022-03-17 03:07:35+00:00 | 9 | 0 | | 0 | [] |
 | tasox/Apophis | Apophis project is bash script shellcode runner generator that uses various tools in the background such as DotNetToJScript, ConfuserEx, Net-Obfuscator etc. It contains Csharp templates that are compiled with Mono .Net Framework. | https://github.com/tasox/Apophis | ['shellcode'] | 1 | 2022-03-17 09:31:04+00:00 | 28837 | 1 | C# | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-17 12:34:35+00:00 | 318202 | 154 | nan | 32 | [] |
-| grimwolf007/Exploits | Playing Around with cyber vulns | https://github.com/grimwolf007/Exploits | ['exploit'] | 1 | 2022-03-17 13:46:44+00:00 | 14 | 0 | Java | 0 | [] |
 | houdinicc/pocsuite3-exp | Write vulnerability exp through pocsuite3 | https://github.com/houdinicc/pocsuite3-exp | ['vulnerability poc'] | 1 | 2022-03-17 14:22:08+00:00 | 1 | 1 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-17 03:33:46+00:00 | 22422 | 6878 | JavaScript | 1593 | [] |
 | k0imet/CVE-POCs | for this repo i wish to keep an archive of available POCs and Descriptions alike, | https://github.com/k0imet/CVE-POCs | ['cve poc'] | 1 | 2022-03-17 07:11:33+00:00 | 6 | 1 | | 0 | [] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-17 13:12:12+00:00 | 87 | 4 | nan | 0 | [] |
 | gou-web/ThinkphpGUI- | 自主开发的第一个JAVA图形化漏扫工具，支持ThinkPHP 2.x RCE，Thinkphp5 5.0.22/5.1.29RCE，ThinkPHP5 5.0.23RCE和ThinkPHP5 SQL注入漏洞和敏感信息泄露漏洞。 | https://github.com/gou-web/ThinkphpGUI- | ['rce'] | 1 | 2022-03-17 06:25:00+00:00 | 16 | 3 | | 0 | [] |
@@ -30,10 +31,11 @@
 | ChadMotivation/TymSpecial | SysWhispers integrated shellcode loader w/ ETW patching, anti-sandboxing, & spoofed code signing certificates | https://github.com/ChadMotivation/TymSpecial | ['shellcode'] | 1 | 2022-03-17 02:06:51+00:00 | 1170 | 124 | Python | 29 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-17 03:40:13+00:00 | 6392 | 0 | | 1 | [] |
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-03-17 04:39:42+00:00 | 77 | 1 | | 1 | [] |
-| D4RKH0R1Z0N/RDP-Sploit-Dev | None | https://github.com/D4RKH0R1Z0N/RDP-Sploit-Dev | ['sploit'] | 1 | 2022-03-17 09:27:54+00:00 | 2 | 0 | Python | 0 | [] |
+| ocman-nazir-briet/b-exploit | None | https://github.com/ocman-nazir-briet/b-exploit | ['exploit'] | 1 | 2022-03-17 09:58:54+00:00 | 983 | 0 | JavaScript | 0 | [] |
 | Salmanndytar/JavaFxApp.exeWindowsScappatteck | Une application système Windows en javaFx permettant a échapper a quelques attaques locaux telque " Metasploit", "middle attack (MITM)".L'inconvenant il y aura l'attende de connexion de 2 à 4 secondes après chaque x minutes selon votre configuration; par | https://github.com/Salmanndytar/JavaFxApp.exeWindowsScappatteck | ['metasploit module OR payload'] | 1 | 2022-03-17 15:00:31+00:00 | 62 | 0 | | 0 | [] |
-| RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-03-17 09:58:03+00:00 | 70 | 0 | Lua | 1 | [] |
 | mtthwstffrd/mzet-linux-exploit-suggester | None | https://github.com/mtthwstffrd/mzet-linux-exploit-suggester | ['exploit'] | 1 | 2022-03-17 01:10:22+00:00 | 0 | 0 | Shell | 0 | [] |
+| Jiang59991/cve-2021-21300-01 | None | https://github.com/Jiang59991/cve-2021-21300-01 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 01:25:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-21300'] |
+| kjy428ch/Cn33lizw | HackSys Extreme Vulnerable Driver - Windows 10 x64 StackOverflow Exploit with SMEP Bypass | https://github.com/kjy428ch/Cn33lizw | ['exploit'] | 1 | 2022-03-17 16:43:27+00:00 | 0 | 0 | | 0 | [] |
 | MASDXI/malicious-crowdsale-contract | An example exploit contract via malicious code inside ERC20 token contract | https://github.com/MASDXI/malicious-crowdsale-contract | ['exploit'] | 1 | 2022-03-17 15:48:52+00:00 | 0 | 0 | | 0 | [] |
 | Cr4ckC4t/cve-2019-7609 | Python3 exploit for CVE-2019-7609 | https://github.com/Cr4ckC4t/cve-2019-7609 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-03-17 15:48:25+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-7609'] |
 | francescopisu/CEVEP | An interpretable machine learning approach for cerebrovascular event prediction exploiting carotid plaque’s calcification | https://github.com/francescopisu/CEVEP | ['exploit'] | 1 | 2022-03-17 14:45:19+00:00 | 0 | 0 | | 0 | [] |
@@ -56,10 +58,9 @@
 | Jiang59991/cve-2021-21300 | None | https://github.com/Jiang59991/cve-2021-21300 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 02:47:47+00:00 | 0 | 0 | | 0 | ['CVE-2021-21300'] |
 | liliushan/windows-kernel-exploits | windows-kernel-exploits | https://github.com/liliushan/windows-kernel-exploits | ['exploit'] | 1 | 2022-03-17 02:28:07+00:00 | 0 | 0 | | 0 | [] |
 | renox31/silent-exploit-jpg | None | https://github.com/renox31/silent-exploit-jpg | ['exploit'] | 1 | 2022-03-17 02:15:01+00:00 | 0 | 0 | | 0 | [] |
-| Jiang59991/cve-2021-21300-01 | None | https://github.com/Jiang59991/cve-2021-21300-01 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 01:25:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-21300'] |
 | seal9055/cyber_attack_simulation | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | ['exploit', 'rce'] | 2 | 2022-03-17 03:00:38+00:00 | 6 | 0 | Batchfile | 0 | [] |
+| RoXploit/Ro-XploitMM2GUI | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | ['exploit'] | 1 | 2022-03-17 09:58:03+00:00 | 70 | 0 | Lua | 1 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-17 04:53:58+00:00 | 51892 | 2498 | | 294 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-17 03:33:46+00:00 | 22422 | 6878 | JavaScript | 1593 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-17 11:07:02+00:00 | 166731 | 16 | Python | 5 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-03-17 12:36:19+00:00 | 219734 | 215 | C | 42 | [] |
 | juliengossa/parcoursup | Une exploitation des données Parcoursup | https://github.com/juliengossa/parcoursup | ['exploit'] | 1 | 2022-03-17 16:41:51+00:00 | 536 | 0 | | 0 | [] |
@@ -111,4 +112,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-17 04:46:04+00:00 | 94852 | 341 | Python | 101 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-17 04:26:41+00:00 | 965014 | 88 | | 15 | [] |
 | issa-project/web-visualization | The aim of this project is to develop a web interface for visualizing indexed documents, enriched by exploiting the semantic index | https://github.com/issa-project/web-visualization | ['exploit'] | 1 | 2022-03-17 10:31:10+00:00 | 1270 | 0 | JavaScript | 0 | [] |
-| kjy428ch/Cn33lizw | HackSys Extreme Vulnerable Driver - Windows 10 x64 StackOverflow Exploit with SMEP Bypass | https://github.com/kjy428ch/Cn33lizw | ['exploit'] | 1 | 2022-03-17 16:43:27+00:00 | 0 | 0 | | 0 | [] |
+| scriptzteam/node-ipc-malware-protestware-CVE-2022-23812 | node-ipc is malware / protestware! | https://github.com/scriptzteam/node-ipc-malware-protestware-CVE-2022-23812 | ['cve-2 OR cve_2'] | 1 | 2022-03-17 16:49:44+00:00 | 0 | 0 | | 0 | ['CVE-2022-23812'] |
