@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+471360094,GeoSn0w/Pentagram-exploit-tester,README.md,312b3fc1925b2a4156dd44866960e3b1289b5605,CVE-2021-30955
+471360094,GeoSn0w/Pentagram-exploit-tester,Pentagram/Exploit/README.md,5da396fce8fe61d26ddda6c5491ef9c9b9ade390,CVE-2021-30955
+471360094,GeoSn0w/Pentagram-exploit-tester,_GITHUB_REPO_METADATA_,,CVE-2021-30955
