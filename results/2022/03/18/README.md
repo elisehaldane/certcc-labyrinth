@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/18
     
-42 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-18 02:49:15+00:00 | 704267 | 26649 | Ruby | 12048 | [] |
-| zhangdapeng520/zdpruby_metasploit | 基于Metasploit二次开发的渗透框架 | https://github.com/zhangdapeng520/zdpruby_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-18 02:42:51+00:00 | 5 | 0 | Ruby | 0 | [] |
+| zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-18 02:07:10+00:00 | 24 | 0 | Python | 0 | [] |
 | nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-03-18 03:08:04+00:00 | 197 | 0 | Go | 0 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-18 02:47:50+00:00 | 15727 | 0 | | 1 | [] |
 | Lakshaysh93/RCE_SK_Project | None | https://github.com/Lakshaysh93/RCE_SK_Project | ['rce'] | 1 | 2022-03-18 04:52:11+00:00 | 3261 | 0 | | 0 | [] |
@@ -15,9 +15,10 @@
 | crusoe112/DirtyPipePython | A Python-based DirtyPipe (CVE-2022-0847) POC to pop a root shell | https://github.com/crusoe112/DirtyPipePython | ['cve poc'] | 1 | 2022-03-18 01:52:49+00:00 | 8 | 1 | Python | 1 | ['CVE-2022-0847'] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-18 02:45:44+00:00 | 322421 | 159 | | 32 | [] |
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-18 04:25:21+00:00 | 4381 | 1 | Python | 0 | [] |
-| zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-18 02:07:10+00:00 | 24 | 0 | Python | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-18 01:22:53+00:00 | 4308 | 2627 | PowerShell | 744 | [] |
+| zhangdapeng520/zdpruby_metasploit | 基于Metasploit二次开发的渗透框架 | https://github.com/zhangdapeng520/zdpruby_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-18 02:42:51+00:00 | 5 | 0 | Ruby | 0 | [] |
 | lu1sjddk/apache2.4.49-exploit | None | https://github.com/lu1sjddk/apache2.4.49-exploit | ['exploit'] | 1 | 2022-03-18 01:18:03+00:00 | 0 | 1 | Python | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-18 01:22:53+00:00 | 4308 | 2627 | PowerShell | 744 | [] |
+| EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-03-18 07:35:09+00:00 | 102 | 3 | Python | 0 | [] |
 | Kerago/discord_exploit_2021 | This is an old Reposiory of mine that ive made back in 2020-21 to automate the creation proccess of Crashin Discord clients with gifs due to overloaded buffers with lvhd. | https://github.com/Kerago/discord_exploit_2021 | ['exploit'] | 1 | 2022-03-18 00:02:35+00:00 | 11 | 0 | C# | 0 | [] |
 | RodricBr/CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2022-03-18 00:17:41+00:00 | 10 | 0 | Shell | 0 | ['CVE-2021-3156'] |
 | nobelh/CVEs | CVEs PoC Repo | https://github.com/nobelh/CVEs | ['cve poc'] | 1 | 2022-03-18 02:20:52+00:00 | 0 | 0 | C | 0 | [] |
@@ -25,6 +26,7 @@
 | tzwlhack/CVE-2017-11882 | None | https://github.com/tzwlhack/CVE-2017-11882 | ['cve-2 OR cve_2'] | 1 | 2022-03-18 05:38:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2017-11882'] |
 | 174210786qqf/exploit3dguy6 | Tool to patch iOS 7.x, 8x and 9.x (up) iBoot64. | https://github.com/174210786qqf/exploit3dguy6 | ['exploit'] | 1 | 2022-03-18 05:47:13+00:00 | 0 | 0 | | 0 | [] |
 | DjSpacies/plabs | pentesterlabs exploit repo | https://github.com/DjSpacies/plabs | ['exploit'] | 1 | 2022-03-18 06:16:24+00:00 | 4 | 0 | | 0 | [] |
+| yecp181/ShiroExploit | Shiro利用工具 | https://github.com/yecp181/ShiroExploit | ['exploit'] | 1 | 2022-03-18 06:40:16+00:00 | 0 | 0 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-18 04:43:29+00:00 | 55413 | 2499 | | 296 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-03-18 02:20:18+00:00 | 2230 | 17 | C++ | 7 | [] |
 | Soup-tech/0day | None | https://github.com/Soup-tech/0day | ['0day'] | 1 | 2022-03-18 03:42:54+00:00 | 6959 | 0 | HTML | 0 | [] |
@@ -45,5 +47,7 @@
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-03-18 05:02:21+00:00 | 1023 | 35 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-18 01:16:16+00:00 | 4174724 | 27 | Python | 4 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-18 04:43:45+00:00 | 7943 | 1304 | TypeScript | 214 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-18 07:21:12+00:00 | 346254 | 389 | PHP | 137 | [] |
+| dbgee/log4j2_rce | log4j2 rce、poc | https://github.com/dbgee/log4j2_rce | ['rce', 'rce poc'] | 2 | 2022-03-18 07:27:13+00:00 | 9815 | 64 | Java | 34 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-03-18 01:19:11+00:00 | 173 | 1 | | 0 | [] |
-| yecp181/ShiroExploit | Shiro利用工具 | https://github.com/yecp181/ShiroExploit | ['exploit'] | 1 | 2022-03-18 06:40:16+00:00 | 0 | 0 | | 0 | [] |
+| yecp181/ShiroExploit | shiro利用工具：具有shiro密钥探测、命令执行回显、内存马注入、代理等功能 | https://github.com/yecp181/ShiroExploit | ['exploit'] | 1 | 2022-03-18 07:18:02+00:00 | 0 | 0 | Java | 0 | [] |
