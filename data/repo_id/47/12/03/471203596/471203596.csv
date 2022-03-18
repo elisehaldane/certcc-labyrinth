@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+471203596,nobelh/CVEs,Linux/2022-0847/original_PoC.c,3cb5645a549f3ff8801d4cc5b86acf75211d3221,CVE-2022-0847
+471203596,nobelh/CVEs,Linux/2022-0847/bl4asty_PoC.c,5cd33dcd80531becf652a05a485ee98044a5138a,CVE-2022-0847
