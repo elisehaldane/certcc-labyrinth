@@ -14,7 +14,6 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,afrog-pocs/noaudit/supervisord-cve-2017-11610.yml,0c3db61a7b1d093d0f8599549c91dc2c02a8bb0a,CVE-2017-11610
 463027648,zan8in/afrog,afrog-pocs/cve/2021/CVE-2021-40438.yml,0de00789368bf5bcbc403b20fb23f3d60a737583,CVE-2021-40438
 463027648,zan8in/afrog,afrog-pocs/noaudit/jetty-cve-2021-28164.yml,0f0db1a67564671c574debd80b85881fbab7cf85,CVE-2021-28164
-463027648,zan8in/afrog,README.md,0f1392160c809547ee738e37d069748dde4a0f10,CVE-2022-22947
 463027648,zan8in/afrog,afrog-pocs/noaudit/gilacms-cve-2020-5515.yml,0f988ffbaefdc14334856e243d5241c1ca673b39,CVE-2020-5515
 463027648,zan8in/afrog,afrog-pocs/noaudit/pulse-cve-2019-11510.yml,102cb8b476d6aff958b84c21f9e6073dbf864448,CVE-2019-11510
 463027648,zan8in/afrog,afrog-pocs/noaudit/eea-info-leak-cnvd-2021-10543.yml,1180e6164df2f19562e8df9617cd6009a3db2b43,CNVD-2021-10543
@@ -42,8 +41,8 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,afrog-pocs/noaudit/nexus-cve-2020-10199.yml,31760a924d42b60d30891a4cea4a504ce87a0dbb,CVE-2020-10199
 463027648,zan8in/afrog,afrog-pocs/noaudit/drupal-cve-2019-6340.yml,31c8ecb27c1899832f4e389e39e70f90ef05fc8d,CVE-2019-6340
 463027648,zan8in/afrog,afrog-pocs/noaudit/drupal-cve-2014-3704-sqli.yml,3226cfa60fc4f2dd0540b03d6da8275e5de68ad6,CVE-2014-3704
-463027648,zan8in/afrog,afrog-pocs/cve/2018/CVE-2018-11759.yml,336b0badffd57896f31163aeef1bd4dc5d30fa00,CVE-2018-11759
 463027648,zan8in/afrog,afrog-pocs/cve/2018/CVE-2018-11759.yml,336b0badffd57896f31163aeef1bd4dc5d30fa00,CVE-2018-1323
+463027648,zan8in/afrog,afrog-pocs/cve/2018/CVE-2018-11759.yml,336b0badffd57896f31163aeef1bd4dc5d30fa00,CVE-2018-11759
 463027648,zan8in/afrog,afrog-pocs/noaudit/citrix-cve-2020-8191-xss.yml,337bbb0cc6ab071502c1eb7e48a0f83bc459d897,CVE-2020-8191
 463027648,zan8in/afrog,afrog-pocs/noaudit/wifisky-default-password-cnvd-2021-39012.yml,340ef9295717fce9b707923a59095527061e3000,CNVD-2021-39012
 463027648,zan8in/afrog,afrog-pocs/noaudit/fortigate-cve-2018-13379-readfile.yml,3485783acefc1db97ffa42e7b59bcb03637343b9,CVE-2018-13379
@@ -94,6 +93,7 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,afrog-pocs/cve/2015/elasticsearch-cve-2015-3337-lfi.yml,7b6218bde8ade77fcfdb352b3268ec721db3d82e,CVE-2015-3337
 463027648,zan8in/afrog,afrog-pocs/noaudit/exchange-cve-2021-41349-xss.yml,7c3382074ae5eb276f6742f1f0193939110ce972,CVE-2021-41349
 463027648,zan8in/afrog,afrog-pocs/noaudit/solarwinds-cve-2020-10148.yml,7d11b82aedefc353ffdbfaca21669343ac14c05c,CVE-2020-10148
+463027648,zan8in/afrog,README.md,7d74f9883cceaccb3a11622e4fee34c3af73b096,CVE-2022-22947
 463027648,zan8in/afrog,afrog-pocs/noaudit/pentaho-cve-2021-31602-authentication-bypass.yml,7fad3825f26bfbda9174e3bf2ebe963e22670402,CVE-2021-31602
 463027648,zan8in/afrog,afrog-pocs/noaudit/satellian-cve-2020-7980-rce.yml,7ffea8b480f3b1416c3da23bf5d7ea95a468f31c,CVE-2020-7980
 463027648,zan8in/afrog,afrog-pocs/noaudit/e-zkeco-cnvd-2020-57264-read-file.yml,81e20a60677fb080a109ed3e3df09514cb7baaca,CNVD-2020-57264
@@ -105,8 +105,8 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,afrog-pocs/noaudit/weblogic-cve-2019-2725.yml,8b4f4c8da2f0ad200bc6cbd18458d635dd7273ab,CVE-2019-2725
 463027648,zan8in/afrog,afrog-pocs/noaudit/kibana-cve-2018-17246.yml,8d204bb2aab0153aa354d2cb4aa87e569ff5f365,CVE-2018-17246
 463027648,zan8in/afrog,afrog-pocs/noaudit/citrix-cve-2020-8193-unauthorized.yml,8ec9db14859f0fd128d0d758a79a18d416e03837,CVE-2020-8193
-463027648,zan8in/afrog,afrog-pocs/README.md,8ed1686c860399bf338292aa3f799785a3f04acc,CVE-2020-25078
 463027648,zan8in/afrog,afrog-pocs/README.md,8ed1686c860399bf338292aa3f799785a3f04acc,CVE-2020-13937
+463027648,zan8in/afrog,afrog-pocs/README.md,8ed1686c860399bf338292aa3f799785a3f04acc,CVE-2020-25078
 463027648,zan8in/afrog,afrog-pocs/README.md,8ed1686c860399bf338292aa3f799785a3f04acc,CVE-2020-9376
 463027648,zan8in/afrog,afrog-pocs/README.md,8ed1686c860399bf338292aa3f799785a3f04acc,CNVD-2021-04128
 463027648,zan8in/afrog,afrog-pocs/README.md,8ed1686c860399bf338292aa3f799785a3f04acc,CVE-2019-17506
