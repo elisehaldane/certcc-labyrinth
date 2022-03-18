@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/18
     
-49 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -20,7 +20,9 @@
 | zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-18 02:07:10+00:00 | 24 | 0 | Python | 0 | [] |
 | lu1sjddk/apache2.4.49-exploit | None | https://github.com/lu1sjddk/apache2.4.49-exploit | ['exploit'] | 1 | 2022-03-18 01:18:03+00:00 | 0 | 1 | Python | 0 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-03-18 07:35:09+00:00 | 102 | 3 | Python | 0 | [] |
+| manwelbugeja/metasploit | None | https://github.com/manwelbugeja/metasploit | ['metasploit module OR payload'] | 1 | 2022-03-18 09:47:24+00:00 | 6222 | 0 | | 0 | [] |
 | Kerago/discord_exploit_2021 | This is an old Reposiory of mine that ive made back in 2020-21 to automate the creation proccess of Crashin Discord clients with gifs due to overloaded buffers with lvhd. | https://github.com/Kerago/discord_exploit_2021 | ['exploit'] | 1 | 2022-03-18 00:02:35+00:00 | 11 | 0 | C# | 0 | [] |
+| ddnnife/exploiting-ddnnfs-eval | None | https://github.com/ddnnife/exploiting-ddnnfs-eval | ['exploit'] | 1 | 2022-03-18 09:13:01+00:00 | 111497 | 0 | Python | 0 | [] |
 | RodricBr/CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2022-03-18 00:17:41+00:00 | 10 | 0 | Shell | 0 | ['CVE-2021-3156'] |
 | nobelh/CVEs | CVEs PoC Repo | https://github.com/nobelh/CVEs | ['cve poc'] | 1 | 2022-03-18 02:20:52+00:00 | 0 | 0 | C | 0 | [] |
 | ExecutiveDeveloper/Warfronts-Exploit-Project | None | https://github.com/ExecutiveDeveloper/Warfronts-Exploit-Project | ['exploit'] | 1 | 2022-03-18 03:32:16+00:00 | 152 | 0 | Lua | 0 | [] |
@@ -33,6 +35,7 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-18 01:22:53+00:00 | 4308 | 2627 | PowerShell | 744 | [] |
 | Soup-tech/0day | None | https://github.com/Soup-tech/0day | ['0day'] | 1 | 2022-03-18 03:42:54+00:00 | 6959 | 0 | HTML | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-18 00:08:26+00:00 | 1534795 | 1593 | Python | 533 | [] |
+| dobin/yookiterm-slides | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | ['exploit'] | 1 | 2022-03-18 09:18:58+00:00 | 132552 | 97 | HTML | 26 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-18 00:20:25+00:00 | 260438 | 294 | Ruby | 84 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-18 02:30:24+00:00 | 286031 | 138 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-18 00:47:02+00:00 | 51022 | 31 | | 19 | [] |
@@ -48,6 +51,7 @@
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-03-18 03:03:00+00:00 | 585 | 239 | Go | 55 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-03-18 05:02:21+00:00 | 1023 | 35 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-18 01:16:16+00:00 | 4174724 | 27 | Python | 4 | [] |
+| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-03-18 09:39:40+00:00 | 1618 | 6 | | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-18 04:43:45+00:00 | 7943 | 1304 | TypeScript | 214 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-18 07:21:12+00:00 | 346254 | 389 | PHP | 137 | [] |
 | dbgee/log4j2_rce | log4j2 rce、poc | https://github.com/dbgee/log4j2_rce | ['rce', 'rce poc'] | 2 | 2022-03-18 07:27:13+00:00 | 9815 | 64 | Java | 34 | [] |
