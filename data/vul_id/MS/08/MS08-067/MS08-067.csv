@@ -107,7 +107,6 @@ MS08-067,0.16666667,https://github.com/ColdFusionX/LabScripts,ColdFusionX/LabScr
 MS08-067,0.16666667,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
 MS08-067,0.16666667,https://github.com/nullarmor/hackthebox-exploits,nullarmor/hackthebox-exploits,243875577
 MS08-067,0.16666667,https://github.com/unknwhp/EazySploit,unknwhp/EazySploit,120690452
-MS08-067,0.16666667,https://github.com/thapr0digy/exploits,thapr0digy/exploits,114681204
 MS08-067,0.16666667,https://github.com/patrick-usf/intro-shellcode,patrick-usf/intro-shellcode,82469672
 MS08-067,0.16666667,https://github.com/ankh2054/python-exploits,ankh2054/python-exploits,66629029
 MS08-067,0.14285714,https://github.com/F0rbidden-Equation/PortExploit,F0rbidden-Equation/PortExploit,470109652
@@ -118,6 +117,7 @@ MS08-067,0.14285714,https://github.com/N1ckDunn/Exploitivator,N1ckDunn/Exploitiv
 MS08-067,0.14285714,https://github.com/dar3k93/Basic-service-enumeration,dar3k93/Basic-service-enumeration,179030030
 MS08-067,0.14285714,https://github.com/Nazicc/metasploit-cn-wiki,Nazicc/metasploit-cn-wiki,120420246
 MS08-067,0.14285714,https://github.com/Earth-Online/metasploit-cn-wiki,Earth-Online/metasploit-cn-wiki,115410135
+MS08-067,0.14285714,https://github.com/thapr0digy/exploits,thapr0digy/exploits,114681204
 MS08-067,0.14285714,https://github.com/screetsec/Dracnmap,screetsec/Dracnmap,69849809
 MS08-067,0.12500000,https://github.com/nullprism/htb-boxes,nullprism/htb-boxes,392510036
 MS08-067,0.12500000,https://github.com/Elite-Computer-Club/winxploit,Elite-Computer-Club/winxploit,362995521
@@ -358,7 +358,7 @@ MS08-067,0.00030441,https://github.com/pwnieexpress/metasploit-framework,pwnieex
 MS08-067,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-metasploit/metasploit-clone,25959480
 MS08-067,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
 MS08-067,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
-MS08-067,0.00027427,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS08-067,0.00027420,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
 MS08-067,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS08-067,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
