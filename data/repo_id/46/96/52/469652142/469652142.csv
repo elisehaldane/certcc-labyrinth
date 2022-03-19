@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+469652142,zhangdapeng520/zdppy_metasploit,examples/z01_rpc/z05_modules/z08_获取模块参数信息.py,555c212c49852a4131ebe1af218c1784f49a35e3,MS08-067
+469652142,zhangdapeng520/zdppy_metasploit,examples/z01_rpc/z05_modules/z23_以HTML格式返回模块的详细信息.py,6a5336e09bdbe60acb94679e608a3bca317e6fa9,MS08-067
+469652142,zhangdapeng520/zdppy_metasploit,examples/z01_rpc/z05_modules/z09_返回特定攻击兼容的有效负载.py,756f9d61762c4ee8782befdeb20ba8baab7d79cf,MS08-067
 469652142,zhangdapeng520/zdppy_metasploit,examples/z01_rpc/z03_console/z08_获取tabs.py,7f71a3f600a2c1193c7637f97b43fb0619f9be27,MS08-067
+469652142,zhangdapeng520/zdppy_metasploit,examples/z01_rpc/z05_modules/z07_获取模块的具体信息.py,b6c1aee0a875f5be425fe58c71e78feb30dddd2c,MS08-067
