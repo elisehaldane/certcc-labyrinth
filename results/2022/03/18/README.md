@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/18
     
-116 records found after deduplication
+117 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -20,7 +20,7 @@
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-18 04:25:21+00:00 | 4381 | 1 | Python | 0 | [] |
 | obsti8383/golang_shellcode_memory_loader | Golang shellcode into memory loader demo using go:embed to include the binary code directly in the go executeable | https://github.com/obsti8383/golang_shellcode_memory_loader | ['shellcode'] | 1 | 2022-03-18 18:51:20+00:00 | 17 | 1 | Go | 1 | [] |
 | crusoe112/DirtyPipePython | A Python-based DirtyPipe (CVE-2022-0847) POC to pop a root shell | https://github.com/crusoe112/DirtyPipePython | ['cve poc'] | 1 | 2022-03-18 01:52:49+00:00 | 8 | 1 | Python | 1 | ['CVE-2022-0847'] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-03-18 21:20:56+00:00 | 27282 | 8823 | Python | 1492 | [] |
+| nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-03-18 03:08:04+00:00 | 197 | 0 | Go | 0 | [] |
 | k0imet/CVE-POCs | for this repo i wish to keep an archive of available POCs and Descriptions alike, | https://github.com/k0imet/CVE-POCs | ['cve poc'] | 1 | 2022-03-18 13:16:20+00:00 | 9 | 1 | | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-03-18 08:18:43+00:00 | 7717 | 0 | | 0 | [] |
 | T4t4ru/Exploit-Education | None | https://github.com/T4t4ru/Exploit-Education | ['exploit'] | 1 | 2022-03-18 11:17:17+00:00 | 34 | 1 | C | 0 | [] |
@@ -63,9 +63,10 @@
 | ExecutiveDeveloper/Warfronts-Exploit-Project | None | https://github.com/ExecutiveDeveloper/Warfronts-Exploit-Project | ['exploit'] | 1 | 2022-03-18 03:32:16+00:00 | 152 | 0 | Lua | 0 | [] |
 | nobelh/CVEs | CVEs PoC Repo | https://github.com/nobelh/CVEs | ['cve poc'] | 1 | 2022-03-18 02:20:52+00:00 | 0 | 0 | C | 0 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-03-18 02:47:50+00:00 | 15727 | 0 | | 1 | [] |
-| nathants/aws-rce | None | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-03-18 03:08:04+00:00 | 197 | 0 | Go | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-18 04:43:29+00:00 | 55413 | 2499 | | 296 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-18 04:31:49+00:00 | 990646 | 89 | | 15 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-03-18 21:20:56+00:00 | 27282 | 8823 | Python | 1492 | [] |
+| jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-18 13:29:17+00:00 | 83082 | 696 | Go | 153 | [] |
+| gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-03-18 10:59:25+00:00 | 5469 | 0 | R | 1 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-03-18 03:17:47+00:00 | 297680 | 8 | | 1 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-18 01:03:39+00:00 | 120 | 0 | PHP | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-18 10:58:03+00:00 | 180528 | 16 | Python | 5 | [] |
@@ -77,8 +78,8 @@
 | StarMKWii/Mario-Kart-Wii-Remote-Code-Execution | Injects and executes arbitrary code on a client. | https://github.com/StarMKWii/Mario-Kart-Wii-Remote-Code-Execution | ['remote code execution'] | 1 | 2022-03-18 17:30:00+00:00 | 21 | 10 | Assembly | 1 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-03-18 13:25:52+00:00 | 4455500 | 3 | Lua | 0 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-03-18 08:40:42+00:00 | 140580 | 362 | Go | 70 | [] |
-| jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-18 13:29:17+00:00 | 83082 | 696 | Go | 153 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-18 00:47:02+00:00 | 51022 | 31 | | 19 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-03-18 02:20:18+00:00 | 2230 | 17 | C++ | 7 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-03-18 11:13:21+00:00 | 1538744 | 4104 | PowerShell | 1437 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-18 02:30:24+00:00 | 286031 | 138 | REXX | 12 | [] |
 | jassics/awesome-aws-security | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | ['exploit'] | 1 | 2022-03-18 16:41:51+00:00 | 257 | 251 | | 84 | [] |
@@ -91,10 +92,10 @@
 | hasherezade/shellconv | Small tool for disassembling shellcode (using objdump) | https://github.com/hasherezade/shellconv | ['shellcode'] | 1 | 2022-03-18 12:36:50+00:00 | 86 | 136 | Python | 29 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-18 00:08:26+00:00 | 1534795 | 1593 | Python | 533 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-18 01:22:53+00:00 | 4308 | 2627 | PowerShell | 744 | [] |
-| gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-03-18 10:59:25+00:00 | 5469 | 0 | R | 1 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-18 04:31:49+00:00 | 990646 | 89 | | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-18 00:57:52+00:00 | 97877 | 341 | Python | 101 | [] |
-| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-03-18 02:20:18+00:00 | 2230 | 17 | C++ | 7 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-03-18 03:19:09+00:00 | 205463 | 0 | JavaScript | 0 | [] |
+| PRBonn/LiDAR-MOS | (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2022-03-18 14:54:50+00:00 | 42740 | 272 | Python | 55 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-18 10:04:12+00:00 | 22362 | 6 | Go | 4 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-18 22:47:38+00:00 | 2850 | 37 | | 2 | [] |
 | hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-18 14:10:07+00:00 | 8743 | 1 | PHP | 1 | [] |
@@ -104,6 +105,7 @@
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-03-18 01:19:11+00:00 | 173 | 1 | | 0 | [] |
 | lzxstr/lzxstr.github.io | Learn to exploit in Roblox! | https://github.com/lzxstr/lzxstr.github.io | ['exploit'] | 1 | 2022-03-18 19:59:36+00:00 | 124 | 0 | HTML | 0 | [] |
 | dbgee/log4j2_rce | log4j2 rce、poc | https://github.com/dbgee/log4j2_rce | ['rce', 'rce poc'] | 2 | 2022-03-18 07:27:13+00:00 | 9815 | 64 | Java | 34 | [] |
+| bobux-man/CronosX | Website for Web/External Exploits (games) | https://github.com/bobux-man/CronosX | ['exploit'] | 1 | 2022-03-18 23:45:41+00:00 | 251 | 0 | | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-18 07:21:12+00:00 | 346254 | 389 | PHP | 137 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-03-18 18:10:26+00:00 | 509 | 9 | | 1 | [] |
 | pen4uin/awesome-java-security | code review / post-exploitation | https://github.com/pen4uin/awesome-java-security | ['exploit'] | 1 | 2022-03-18 05:07:45+00:00 | 30275 | 444 | Java | 77 | [] |
@@ -119,5 +121,4 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-18 01:36:47+00:00 | 7930 | 77 | HTML | 20 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-18 01:27:48+00:00 | 34825 | 2 | Python | 0 | [] |
 | quiggleypuff/EvilProfiler | Simple COR_PROFILER shellcode loader | https://github.com/quiggleypuff/EvilProfiler | ['shellcode'] | 1 | 2022-03-18 20:48:24+00:00 | 10 | 0 | C++ | 0 | [] |
-| PRBonn/LiDAR-MOS | (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2022-03-18 14:54:50+00:00 | 42740 | 272 | Python | 55 | [] |
 | ArianeBlow/RCE-nagios-fusion-4.1.9 | Remote Code Execution on Nagios Fusion 4.1.9 product | https://github.com/ArianeBlow/RCE-nagios-fusion-4.1.9 | ['rce', 'remote code execution'] | 2 | 2022-03-18 23:29:50+00:00 | 0 | 0 | Shell | 0 | [] |
