@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/19
     
-48 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-19 00:18:59+00:00 | 260438 | 294 | Ruby | 84 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-03-19 07:34:06+00:00 | 293913 | 95 | Python | 15 | [] |
+| NathanTheIceCube/ProSploit-Hub | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits! | https://github.com/NathanTheIceCube/ProSploit-Hub | ['exploit', 'sploit'] | 2 | 2022-03-19 02:39:31+00:00 | 87 | 0 | C# | 0 | [] |
 | VVeakee/CVE-2022-24990-EXP | None | https://github.com/VVeakee/CVE-2022-24990-EXP | ['cve-2 OR cve_2'] | 1 | 2022-03-19 02:47:19+00:00 | 9414 | 0 | | 0 | ['CVE-2022-24990'] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-19 05:24:21+00:00 | 6 | 0 | Nix | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-19 09:03:42+00:00 | 357219 | 247 | nan | 44 | [] |
@@ -28,10 +29,14 @@
 | PixelCuba/host | Host de Exploit para PS4 9.00 de PixelCuba | https://github.com/PixelCuba/host | ['exploit'] | 1 | 2022-03-19 05:29:47+00:00 | 0 | 0 | HTML | 0 | [] |
 | calvwang9/zora-auctionhousev2-exploit | None | https://github.com/calvwang9/zora-auctionhousev2-exploit | ['exploit'] | 1 | 2022-03-19 06:12:07+00:00 | 0 | 0 | Solidity | 0 | [] |
 | lainswork/shellcode-factory | shellcode 生成框架 | https://github.com/lainswork/shellcode-factory | ['shellcode'] | 1 | 2022-03-19 06:39:29+00:00 | 0 | 0 | | 0 | [] |
-| NathanTheIceCube/ProSploit-Hub | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits! | https://github.com/NathanTheIceCube/ProSploit-Hub | ['exploit', 'sploit'] | 2 | 2022-03-19 02:39:31+00:00 | 87 | 0 | C# | 0 | [] |
+| Purbayan2014/Exploitation-Deveploment | None | https://github.com/Purbayan2014/Exploitation-Deveploment | ['exploit'] | 1 | 2022-03-19 09:09:36+00:00 | 0 | 0 | Assembly | 0 | [] |
+| 0x1mahmoud/Vuln-Kernel | Vuln-Kernel Is an automated tool that discovering if your current kernel linux version is vulnerable or not if yes, It will discovering for the exploitation method in different Websites/Platfroms | https://github.com/0x1mahmoud/Vuln-Kernel | ['exploit'] | 1 | 2022-03-19 09:46:25+00:00 | 102 | 0 | Shell | 0 | [] |
+| 2665151959qqz/jas502n7 | 0day安全_软件漏洞分析技术 | https://github.com/2665151959qqz/jas502n7 | ['0day'] | 1 | 2022-03-19 10:06:20+00:00 | 0 | 0 | nan | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-19 00:50:07+00:00 | 135 | 0 | | 0 | [] |
+| zan8in/afrog | afrog 是一款基于 YAML 语法模板的定制化快速漏洞扫描器 | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-19 09:57:22+00:00 | 1006 | 4 | Go | 0 | [] |
 | thamugadi/hs-pwn | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | ['exploit'] | 1 | 2022-03-19 01:48:29+00:00 | 7 | 0 | Haskell | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-19 01:21:24+00:00 | 36594 | 2 | Python | 0 | [] |
+| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-03-19 10:12:38+00:00 | 222727 | 7 | Rust | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-19 02:30:29+00:00 | 294436 | 138 | REXX | 12 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-03-19 07:27:34+00:00 | 1538895 | 4106 | PowerShell | 1437 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-19 00:47:03+00:00 | 51491 | 31 | | 19 | [] |
@@ -41,6 +46,7 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-19 04:34:11+00:00 | 1016287 | 89 | | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-19 00:53:22+00:00 | 101518 | 341 | Python | 101 | [] |
 | ContractAutomataProject/ContractAutomataApp | This is a GUI application of the Contract Automata Toolkit, exploiting the contract automata library to put contract automata at work | https://github.com/ContractAutomataProject/ContractAutomataApp | ['exploit'] | 1 | 2022-03-19 00:09:34+00:00 | 113818 | 0 | Java | 0 | [] |
+| yzddmr6/Java-Shellcode-Loader | 基于Java实现的Shellcode加载器 | https://github.com/yzddmr6/Java-Shellcode-Loader | ['shellcode'] | 1 | 2022-03-19 10:25:08+00:00 | 3 | 76 | Java | 22 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-19 01:23:23+00:00 | 7930 | 77 | HTML | 20 | [] |
 | NumanZaidan/RayxExploitVersion | None | https://github.com/NumanZaidan/RayxExploitVersion | ['exploit'] | 1 | 2022-03-19 06:45:42+00:00 | 7 | 0 | | 0 | [] |
 | lichen-lab/TLVar | Exploiting deep transfer learning for the prediction of functional noncoding variants using DNA sequence | https://github.com/lichen-lab/TLVar | ['exploit'] | 1 | 2022-03-19 02:19:58+00:00 | 3876 | 0 | Python | 0 | [] |
@@ -48,8 +54,10 @@
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-19 03:57:20+00:00 | 8037 | 1316 | TypeScript | 216 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-03-19 09:18:13+00:00 | 669 | 4 | C | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-19 02:16:04+00:00 | 346652 | 390 | PHP | 137 | [] |
+| TheMirkin/CVE-List-Public-Exploits | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | ['cve poc', 'exploit'] | 2 | 2022-03-19 10:26:26+00:00 | 134510 | 4 | | 1 | [] |
+| applemasterz17/linux-kernel-exploit-kit | for linux kernel debugging with QEMU | https://github.com/applemasterz17/linux-kernel-exploit-kit | ['exploit'] | 1 | 2022-03-19 10:17:11+00:00 | 1972 | 0 | C | 0 | [] |
 | hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-19 07:14:53+00:00 | 8745 | 1 | PHP | 1 | [] |
 | Swizz14/SkidWareLight-Hub | So far contains Roblox Ninja Legends and Prison life Exploits more will be added very soon | https://github.com/Swizz14/SkidWareLight-Hub | ['exploit'] | 1 | 2022-03-19 00:44:45+00:00 | 485 | 0 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-19 04:46:28+00:00 | 61448 | 2498 | | 298 | [] |
 | Rollin1234/GlorySploit | GlorySploit made by --Rollin. Updates every month, if not then every year | https://github.com/Rollin1234/GlorySploit | ['sploit'] | 1 | 2022-03-19 08:44:33+00:00 | 13 | 0 | | 0 | [] |
-| Purbayan2014/Exploitation-Deveploment | None | https://github.com/Purbayan2014/Exploitation-Deveploment | ['exploit'] | 1 | 2022-03-19 09:09:36+00:00 | 0 | 0 | Assembly | 0 | [] |
+| San3l/Install- | Meta-Sploit [ install ] | https://github.com/San3l/Install- | ['sploit'] | 1 | 2022-03-19 10:38:58+00:00 | 0 | 1 | | 0 | [] |
