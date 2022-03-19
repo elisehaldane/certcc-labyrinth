@@ -1,27 +1,30 @@
 
 # Summary for results/2022/03/19
     
-31 records found after deduplication
+34 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-19 00:18:59+00:00 | 260438 | 294 | Ruby | 84 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-19 00:50:07+00:00 | 135 | 0 | nan | 0 | [] |
-| im-dexx/r15tor6 | dump, dont exploit anymore. | https://github.com/im-dexx/r15tor6 | ['exploit'] | 1 | 2022-03-19 02:57:41+00:00 | 0 | 0 | Lua | 0 | [] |
-| vinspiert/scumjrs | PoC for Dirty COW (CVE-2016-5195) | https://github.com/vinspiert/scumjrs | ['cve poc'] | 1 | 2022-03-19 02:18:40+00:00 | 0 | 0 | | 0 | ['CVE-2016-5195'] |
-| xwbass1314z/jiayyz | This project contains pocs and exploits for vulneribilities I found (mostly) | https://github.com/xwbass1314z/jiayyz | ['exploit'] | 1 | 2022-03-19 02:00:07+00:00 | 0 | 0 | | 0 | [] |
-| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp Things | https://github.com/hktalent/TOP | ['cve poc'] | 1 | 2022-03-19 01:54:16+00:00 | 0 | 2 | | 0 | [] |
-| 2273852279qqs/0vercl0k | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/2273852279qqs/0vercl0k | ['cve poc', 'remote code execution', 'vulnerability poc'] | 3 | 2022-03-19 01:33:04+00:00 | 0 | 0 | | 0 | ['CVE-2021-28476'] |
 | praveenjntu34gmailr/chrysht | Collection of RISC-V exploits | https://github.com/praveenjntu34gmailr/chrysht | ['exploit'] | 1 | 2022-03-19 00:35:27+00:00 | 0 | 0 | | 0 | [] |
-| 79782136qqv/exploitagencyu | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/79782136qqv/exploitagencyu | ['exploit'] | 1 | 2022-03-19 00:26:36+00:00 | 0 | 0 | | 0 | [] |
-| 425154211qqch/stephenbradshaws | Vulnerable server used for learning software exploitation | https://github.com/425154211qqch/stephenbradshaws | ['exploit'] | 1 | 2022-03-19 00:04:35+00:00 | 0 | 0 | | 0 | [] |
-| SakuraSamuraii/ez-iRZ | Exploit for CVE-2022-27226 | https://github.com/SakuraSamuraii/ez-iRZ | ['exploit'] | 1 | 2022-03-19 00:53:39+00:00 | 38 | 0 | Python | 0 | ['CVE-2022-27226'] |
-| zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-19 02:02:19+00:00 | 49 | 0 | Python | 0 | [] |
+| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-19 05:24:21+00:00 | 6 | 0 | Nix | 0 | [] |
 | zhangdapeng520/zdpruby_metasploit | 基于Metasploit二次开发的渗透框架 | https://github.com/zhangdapeng520/zdpruby_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-19 02:02:41+00:00 | 64898 | 0 | Ruby | 0 | [] |
+| zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-19 02:02:19+00:00 | 49 | 0 | Python | 0 | [] |
+| SakuraSamuraii/ez-iRZ | Exploit for CVE-2022-27226 | https://github.com/SakuraSamuraii/ez-iRZ | ['exploit'] | 1 | 2022-03-19 00:53:39+00:00 | 38 | 0 | Python | 0 | ['CVE-2022-27226'] |
+| 425154211qqch/stephenbradshaws | Vulnerable server used for learning software exploitation | https://github.com/425154211qqch/stephenbradshaws | ['exploit'] | 1 | 2022-03-19 00:04:35+00:00 | 0 | 0 | | 0 | [] |
+| 79782136qqv/exploitagencyu | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/79782136qqv/exploitagencyu | ['exploit'] | 1 | 2022-03-19 00:26:36+00:00 | 0 | 0 | | 0 | [] |
+| 2273852279qqs/0vercl0k | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/2273852279qqs/0vercl0k | ['cve poc', 'remote code execution', 'vulnerability poc'] | 3 | 2022-03-19 01:33:04+00:00 | 0 | 0 | | 0 | ['CVE-2021-28476'] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-19 02:30:29+00:00 | 294436 | 138 | REXX | 12 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp Things | https://github.com/hktalent/TOP | ['cve poc'] | 1 | 2022-03-19 01:54:16+00:00 | 0 | 2 | | 0 | [] |
+| xwbass1314z/jiayyz | This project contains pocs and exploits for vulneribilities I found (mostly) | https://github.com/xwbass1314z/jiayyz | ['exploit'] | 1 | 2022-03-19 02:00:07+00:00 | 0 | 0 | | 0 | [] |
+| vinspiert/scumjrs | PoC for Dirty COW (CVE-2016-5195) | https://github.com/vinspiert/scumjrs | ['cve poc'] | 1 | 2022-03-19 02:18:40+00:00 | 0 | 0 | | 0 | ['CVE-2016-5195'] |
+| im-dexx/r15tor6 | dump, dont exploit anymore. | https://github.com/im-dexx/r15tor6 | ['exploit'] | 1 | 2022-03-19 02:57:41+00:00 | 0 | 0 | Lua | 0 | [] |
+| Gembal77/Metasploit-termux | source <(curl -fsSL https://kutt.it/msf) | https://github.com/Gembal77/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-03-19 04:26:58+00:00 | 0 | 0 | | 0 | [] |
+| sugsly/Exploits | Exploits for scanning boats XD | https://github.com/sugsly/Exploits | ['exploit'] | 1 | 2022-03-19 05:06:08+00:00 | 0 | 0 | Python | 0 | [] |
 | VVeakee/CVE-2022-24990-EXP | nan | https://github.com/VVeakee/CVE-2022-24990-EXP | ['cve-2 OR cve_2'] | 1 | 2022-03-19 02:47:19+00:00 | 9414 | 0 | nan | 0 | ['CVE-2022-24990'] |
 | NathanTheIceCube/ProSploit-Hub | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits! | https://github.com/NathanTheIceCube/ProSploit-Hub | ['exploit', 'sploit'] | 2 | 2022-03-19 02:39:31+00:00 | 87 | 0 | C# | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-19 00:50:07+00:00 | 135 | 0 | | 0 | [] |
 | thamugadi/hs-pwn | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | ['exploit'] | 1 | 2022-03-19 01:48:29+00:00 | 7 | 0 | Haskell | 0 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-19 02:30:29+00:00 | 294436 | 138 | REXX | 12 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-19 04:46:28+00:00 | 61448 | 2498 | | 298 | [] |
 | Swizz14/SkidWareLight-Hub | So far contains Roblox Ninja Legends and Prison life Exploits more will be added very soon | https://github.com/Swizz14/SkidWareLight-Hub | ['exploit'] | 1 | 2022-03-19 00:44:45+00:00 | 485 | 0 | | 0 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-19 02:16:04+00:00 | 346652 | 390 | PHP | 137 | [] |
@@ -35,4 +38,4 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-19 04:34:11+00:00 | 1016287 | 89 | | 15 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-19 00:04:24+00:00 | 487188 | 47 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-19 00:47:03+00:00 | 51491 | 31 | | 19 | [] |
-| Gembal77/Metasploit-termux | source <(curl -fsSL https://kutt.it/msf) | https://github.com/Gembal77/Metasploit-termux | ['metasploit module OR payload'] | 1 | 2022-03-19 04:26:58+00:00 | 0 | 0 | | 0 | [] |
+| PixelCuba/host | Host de Exploit para PS4 9.00 de PixelCuba | https://github.com/PixelCuba/host | ['exploit'] | 1 | 2022-03-19 05:29:47+00:00 | 0 | 0 | HTML | 0 | [] |
