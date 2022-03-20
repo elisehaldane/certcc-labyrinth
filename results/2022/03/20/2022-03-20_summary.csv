@@ -1,0 +1,6 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-03-20T00:20:58+0000,260439,295,Ruby,85,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-03-20T00:03:57+0000,457844,47,,21,[]
+ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.,https://github.com/ycdxsb/PocOrExp_in_Github,"['cve poc', 'exploit']",2,2022-03-20T00:54:06+0000,104561,341,Python,101,[]
+P-DennyGamingYT/PDennSploit,#1 FREE SCRIPT UTILITY,https://github.com/P-DennyGamingYT/PDennSploit,['sploit'],1,2022-03-20T00:02:15+0000,12442,1,,0,[]
+RectangularObject/boblox,omg stupid script kiddie go lick a shower drain,https://github.com/RectangularObject/boblox,['exploit'],1,2022-03-20T00:17:42+0000,584,0,Lua,0,[]
