@@ -1,15 +1,15 @@
 
 # Summary for results/2022/03/20
     
-40 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-20 01:20:42+00:00 | 4339 | 2629 | PowerShell | 744 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-20 00:20:58+00:00 | 260439 | 295 | Ruby | 85 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-20 08:39:26+00:00 | 350209 | 391 | PHP | 137 | [] |
+| aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2022-03-20 04:56:58+00:00 | 452 | 0 | HTML | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-20 04:47:08+00:00 | 65505 | 2500 | | 298 | [] |
 | zan8in/afrog | afrog 是一款基于 YAML 语法模板的定制化快速漏洞扫描器 | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-20 01:52:51+00:00 | 1033 | 5 | Go | 0 | [] |
+| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-03-20 09:02:27+00:00 | 7717 | 0 | | 0 | [] |
 | YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-03-20 04:07:01+00:00 | 15 | 0 | C | 0 | [] |
 | CC11001100/idea-project-fish-exploit | None | https://github.com/CC11001100/idea-project-fish-exploit | ['exploit'] | 1 | 2022-03-20 06:56:16+00:00 | 3819 | 2 | Go | 0 | [] |
 | hrafnskogr/shrunner | Simple Shellcode runner in Rust | https://github.com/hrafnskogr/shrunner | ['shellcode'] | 1 | 2022-03-20 08:11:29+00:00 | 17 | 0 | Rust | 0 | [] |
@@ -24,10 +24,10 @@
 | yaaraOyaara/exploits_using_Python | Exploits made using python | https://github.com/yaaraOyaara/exploits_using_Python | ['exploit'] | 1 | 2022-03-20 06:37:02+00:00 | 0 | 0 | | 0 | [] |
 | akr3ch/CVE-2017-9841 | RCE exploit for PHP Unit 5.6.2 | https://github.com/akr3ch/CVE-2017-9841 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-03-20 07:35:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2017-9841'] |
 | Mrshamrockergmailf/ant4g0nistw | A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/Mrshamrockergmailf/ant4g0nistw | ['exploit'] | 1 | 2022-03-20 07:12:09+00:00 | 0 | 0 | | 0 | [] |
-| aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2022-03-20 04:56:58+00:00 | 452 | 0 | HTML | 0 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-20 08:39:26+00:00 | 350209 | 391 | PHP | 137 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-20 05:47:48+00:00 | 6114 | 1348 | TypeScript | 218 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-20 00:20:58+00:00 | 260439 | 295 | Ruby | 85 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-20 01:14:36+00:00 | 4050450 | 27 | Python | 4 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-20 00:03:57+00:00 | 457844 | 47 | | 21 | [] |
 | m8sec/enumdb | Relational database brute force and post exploitation tool for MySQL and MSSQL | https://github.com/m8sec/enumdb | ['exploit'] | 1 | 2022-03-20 02:53:45+00:00 | 59 | 193 | Python | 67 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-03-20 01:46:40+00:00 | 214405 | 7 | Rust | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-20 02:30:33+00:00 | 191784 | 138 | REXX | 12 | [] |
@@ -35,8 +35,8 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-20 06:47:04+00:00 | 51711 | 31 | | 19 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-20 02:06:54+00:00 | 83098 | 696 | Go | 153 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-03-20 08:31:33+00:00 | 4468579 | 3 | Lua | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-20 00:03:57+00:00 | 457844 | 47 | | 21 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-03-20 07:32:31+00:00 | 297681 | 8 | | 1 | [] |
-| RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-03-20 00:17:42+00:00 | 584 | 0 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-20 00:54:06+00:00 | 104561 | 341 | Python | 101 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-03-20 07:36:59+00:00 | 205465 | 0 | JavaScript | 0 | [] |
 | Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays- | we propose the adoption of deep learning to detect whether there's a COVID-19 presence in X-ray images by exploiting transfer learning. thus proposes an improved algorithm of convolutional neural network VGG-16 and VGG-19 using deep learning to realize thi | https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays- | ['exploit'] | 1 | 2022-03-20 07:53:39+00:00 | 1232 | 0 | Jupyter Notebook | 0 | [] |
@@ -44,4 +44,5 @@
 | P-DennyGamingYT/PDennSploit | #1 FREE SCRIPT UTILITY | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2022-03-20 00:02:15+00:00 | 12442 | 1 | nan | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-20 01:26:44+00:00 | 38401 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-20 01:28:43+00:00 | 7929 | 77 | HTML | 21 | [] |
+| RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-03-20 00:17:42+00:00 | 584 | 0 | Lua | 0 | [] |
 | roHIT-MAN-45/Radix-Sort | ⚡ Radix sort is a special sorting algorithm that works on lists and numbers. ⚡ It never makes comparisons between elements. ⚡ It exploits the fact that information about the size of a number is encoded in the number of digits. | https://github.com/roHIT-MAN-45/Radix-Sort | ['exploit'] | 1 | 2022-03-20 07:15:56+00:00 | 0 | 0 | JavaScript | 0 | [] |
