@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+471893755,Hifumi1337/apache-traversal,README.md,462eca28a2a8d458ab786ac06dfdbe5e83c31c2f,CVE-2021-41773
+471893755,Hifumi1337/apache-traversal,README.md,462eca28a2a8d458ab786ac06dfdbe5e83c31c2f,CVE-2021-42013
+471893755,Hifumi1337/apache-traversal,exploit.py,85bb3252129628d204f4e998d83b4c7e4b024b55,CVE-2021-41773
+471893755,Hifumi1337/apache-traversal,exploit.py,85bb3252129628d204f4e998d83b4c7e4b024b55,CVE-2021-42013
