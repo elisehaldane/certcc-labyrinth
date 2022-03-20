@@ -1,13 +1,14 @@
 
 # Summary for results/2022/03/20
     
-56 records found after deduplication
+63 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-20 01:20:42+00:00 | 4339 | 2629 | PowerShell | 744 | [] |
-| screetsec/TheFatRat | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, | https://github.com/screetsec/TheFatRat | ['exploit'] | 1 | 2022-03-20 10:57:04+00:00 | 487954 | 6244 | C | 1930 | [] |
+| chatbottesisgmailh/Sauercloude | 0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119 | https://github.com/chatbottesisgmailh/Sauercloude | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-03-20 03:17:05+00:00 | 0 | 0 | | 0 | ['CVE-2021-2119'] |
 | HowDoIprintHelloWorld/SuperSploit | None | https://github.com/HowDoIprintHelloWorld/SuperSploit | ['sploit'] | 1 | 2022-03-20 10:10:35+00:00 | 14 | 0 | Python | 0 | [] |
+| NumanZaidan/RayxExploitVersion | None | https://github.com/NumanZaidan/RayxExploitVersion | ['exploit'] | 1 | 2022-03-20 14:17:21+00:00 | 8 | 0 | | 0 | [] |
 | zan8in/afrog | afrog 是一款基于 YAML 语法模板的定制化快速漏洞扫描器 | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-20 01:52:51+00:00 | 1033 | 5 | Go | 0 | [] |
 | wenlianggg/pwnkit-exploit | None | https://github.com/wenlianggg/pwnkit-exploit | ['exploit'] | 1 | 2022-03-20 09:46:02+00:00 | 6 | 0 | Python | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-03-20 09:02:27+00:00 | 7717 | 0 | | 0 | [] |
@@ -18,9 +19,9 @@
 | hrafnskogr/shrunner | Simple Shellcode runner in Rust | https://github.com/hrafnskogr/shrunner | ['shellcode'] | 1 | 2022-03-20 08:11:29+00:00 | 17 | 0 | Rust | 0 | [] |
 | maxamin/Exploitkits | None | https://github.com/maxamin/Exploitkits | ['exploit'] | 1 | 2022-03-20 02:01:12+00:00 | 0 | 0 | PHP | 0 | [] |
 | mtthwstffrd/saleemrashid-sudo-cve-2019-18634 | None | https://github.com/mtthwstffrd/saleemrashid-sudo-cve-2019-18634 | ['cve-2 OR cve_2'] | 1 | 2022-03-20 01:39:30+00:00 | 0 | 0 | C | 0 | ['CVE-2019-18634'] |
-| hktalent/go4Hacker | Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers | https://github.com/hktalent/go4Hacker | ['rce', 'rce poc'] | 2 | 2022-03-20 02:54:21+00:00 | 0 | 1 | Vue | 0 | [] |
-| chatbottesisgmailh/Sauercloude | 0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119 | https://github.com/chatbottesisgmailh/Sauercloude | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-03-20 03:17:05+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-2119'] |
+| hktalent/go4Hacker | Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers | https://github.com/hktalent/go4Hacker | ['rce', 'rce poc'] | 2 | 2022-03-20 02:51:28+00:00 | 0 | 0 | Vue | 0 | [] |
 | MrGhostOfficial/Metasploit-PLD | None | https://github.com/MrGhostOfficial/Metasploit-PLD | ['metasploit module OR payload'] | 1 | 2022-03-20 04:39:21+00:00 | 0 | 0 | | 0 | [] |
+| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web. Aplikasi ini menggunakan framework CI 3 dan masih dalam tahap pengembangan. | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-20 14:37:59+00:00 | 8759 | 1 | PHP | 1 | [] |
 | Mr12th/BEEF-Browser-Exploitation-Framework | None | https://github.com/Mr12th/BEEF-Browser-Exploitation-Framework | ['exploit'] | 1 | 2022-03-20 04:50:17+00:00 | 0 | 0 | | 0 | [] |
 | lishang520/CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-20 05:23:57+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-24990'] |
 | Hifumi1337/apache-traversal | This exploit is based on a few CVE vulnerabilities affecting Apache 2.4.49. We basically use URL-encoded characters to access certain files or access otherwise restricted resources | https://github.com/Hifumi1337/apache-traversal | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-20 06:37:46+00:00 | 0 | 0 | Python | 0 | [] |
@@ -32,10 +33,14 @@
 | retr0-13/malware-and-exploitdev-resources | None | https://github.com/retr0-13/malware-and-exploitdev-resources | ['exploit'] | 1 | 2022-03-20 10:43:02+00:00 | 0 | 0 | | 0 | [] |
 | sdes5317/RcePratice | .NET remote code execution pratice | https://github.com/sdes5317/RcePratice | ['rce', 'remote code execution'] | 2 | 2022-03-20 11:16:30+00:00 | 0 | 0 | C# | 0 | [] |
 | S4tria18/exploit | Install exsploit | https://github.com/S4tria18/exploit | ['exploit'] | 1 | 2022-03-20 11:59:05+00:00 | 0 | 0 | | 0 | [] |
+| AfroooCircuss/NeonExploit | None | https://github.com/AfroooCircuss/NeonExploit | ['exploit'] | 1 | 2022-03-20 12:22:19+00:00 | 0 | 0 | | 0 | [] |
+| loadstring1/rblxhubtemplate.github | Simple template of roblox hub (for exploits) | https://github.com/loadstring1/rblxhubtemplate.github | ['exploit'] | 1 | 2022-03-20 14:07:54+00:00 | 0 | 0 | Lua | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-20 04:47:08+00:00 | 65505 | 2500 | | 298 | [] |
 | cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-20 08:39:26+00:00 | 350209 | 391 | PHP | 137 | [] |
-| yuske/pwnphare | Cross-platform app/payloads for hijacking and RCE testing | https://github.com/yuske/pwnphare | ['rce'] | 1 | 2022-03-20 10:19:12+00:00 | 2 | 1 | C | 0 | [] |
+| david942j/heapinfo | An interactive memory info for pwning / exploiting | https://github.com/david942j/heapinfo | ['exploit'] | 1 | 2022-03-20 14:25:14+00:00 | 14256 | 94 | Ruby | 12 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-20 00:03:57+00:00 | 457844 | 47 | | 21 | [] |
+| screetsec/TheFatRat | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, | https://github.com/screetsec/TheFatRat | ['exploit'] | 1 | 2022-03-20 10:57:04+00:00 | 487954 | 6244 | C | 1930 | [] |
+| david942j/one_gadget | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | ['exploit', 'rce'] | 2 | 2022-03-20 14:17:25+00:00 | 13987 | 1536 | Ruby | 125 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-03-20 11:35:04+00:00 | 71985 | 10888 | Jupyter Notebook | 1897 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-20 00:20:58+00:00 | 260439 | 295 | Ruby | 85 | [] |
 | vitalysim/Awesome-Hacking-Resources | A collection of hacking / penetration testing resources to make you better! | https://github.com/vitalysim/Awesome-Hacking-Resources | ['exploit'] | 1 | 2022-03-20 12:29:13+00:00 | 275 | 11762 | | 1847 | [] |
@@ -48,7 +53,7 @@
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-20 02:06:54+00:00 | 83098 | 696 | Go | 153 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-03-20 08:31:33+00:00 | 4468579 | 3 | Lua | 0 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-03-20 07:32:31+00:00 | 297681 | 8 | | 1 | [] |
-| dombg1337/Exploit_Templates | Just some useful exploit helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2022-03-20 10:22:52+00:00 | 6 | 0 | Python | 0 | [] |
+| yuske/pwnphare | Cross-platform app/payloads for hijacking and RCE testing | https://github.com/yuske/pwnphare | ['rce'] | 1 | 2022-03-20 10:19:12+00:00 | 2 | 1 | C | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-20 00:54:06+00:00 | 104561 | 341 | Python | 101 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-03-20 07:36:59+00:00 | 205465 | 0 | JavaScript | 0 | [] |
 | Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays- | we propose the adoption of deep learning to detect whether there's a COVID-19 presence in X-ray images by exploiting transfer learning. thus proposes an improved algorithm of convolutional neural network VGG-16 and VGG-19 using deep learning to realize thi | https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays- | ['exploit'] | 1 | 2022-03-20 07:53:39+00:00 | 1232 | 0 | Jupyter Notebook | 0 | [] |
@@ -58,6 +63,8 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-20 01:28:43+00:00 | 7929 | 77 | HTML | 21 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-03-20 00:17:42+00:00 | 584 | 0 | Lua | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-20 01:14:36+00:00 | 4050450 | 27 | Python | 4 | [] |
+| efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2022-03-20 14:38:24+00:00 | 9739 | 5 | HTML | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-20 05:47:48+00:00 | 6114 | 1348 | TypeScript | 218 | [] |
 | aesth1/WiiUBrowserExploit | homebruwu | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2022-03-20 04:56:58+00:00 | 452 | 0 | HTML | 0 | [] |
-| AfroooCircuss/NeonExploit | None | https://github.com/AfroooCircuss/NeonExploit | ['exploit'] | 1 | 2022-03-20 12:22:19+00:00 | 0 | 0 | | 0 | [] |
+| dombg1337/Exploit_Templates | Just some useful exploit helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2022-03-20 10:22:52+00:00 | 6 | 0 | Python | 0 | [] |
+| MASDXI/malicious-crowdsale-contract | An example to exploit smart contract by injected malicious code inside smart contract | https://github.com/MASDXI/malicious-crowdsale-contract | ['exploit'] | 1 | 2022-03-20 14:19:50+00:00 | 0 | 0 | JavaScript | 0 | [] |
