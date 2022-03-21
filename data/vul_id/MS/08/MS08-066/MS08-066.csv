@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS08-066,0.25000000,https://github.com/Fajar-NS/ExploitDb,Fajar-NS/ExploitDb,472232983
 MS08-066,0.25000000,https://github.com/rad10/SearchSploit.py,rad10/SearchSploit.py,211869171
 MS08-066,0.06250000,https://github.com/sam-b/windows_kernel_resources,sam-b/windows_kernel_resources,79661887
 MS08-066,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
