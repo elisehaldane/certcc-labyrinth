@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/21
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-21 00:38:26+00:00 | 703556 | 26681 | Ruby | 12060 | [] |
-| weewoo22/memflow-shellcode | Shellcode execution for memflow | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-03-21 03:47:54+00:00 | 23 | 7 | Zig | 1 | [] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-21 02:18:20+00:00 | 22362 | 6 | Go | 4 | [] |
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-03-21 06:02:25+00:00 | 80 | 1 | | 1 | [] |
 | hotpotcookie/lol4j-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-03-21 06:43:50+00:00 | 120 | 1 | Java | 0 | ['CVE-2021-44228'] |
 | zan8in/afrog | afrog 是一款基于 YAML 语法模板的定制化快速漏洞扫描器 | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-21 06:18:51+00:00 | 1086 | 5 | Go | 0 | [] |
@@ -16,8 +16,9 @@
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-21 04:19:41+00:00 | 4381 | 2 | Python | 0 | [] |
 | zhangdapeng520/zdpruby_metasploit | 基于Metasploit二次开发的渗透框架 | https://github.com/zhangdapeng520/zdpruby_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-21 03:20:45+00:00 | 64921 | 0 | Ruby | 0 | [] |
 | zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-21 03:21:03+00:00 | 60 | 0 | Python | 0 | [] |
+| weewoo22/memflow-shellcode | Shellcode execution for memflow | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-03-21 03:47:54+00:00 | 23 | 7 | Zig | 1 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp Things | https://github.com/hktalent/TOP | ['cve poc'] | 1 | 2022-03-21 07:20:40+00:00 | 1 | 5 | Shell | 0 | [] |
 | hktalent/go4Hacker | Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers | https://github.com/hktalent/go4Hacker | ['rce', 'rce poc'] | 2 | 2022-03-21 03:15:31+00:00 | 621 | 4 | Go | 3 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-21 00:08:35+00:00 | 1534795 | 1594 | Python | 534 | [] |
 | ColorTokens-Labs/log4shell-demo-lab | Instructions for setting up minimal lab to demonstrate the log4shell exploit | https://github.com/ColorTokens-Labs/log4shell-demo-lab | ['exploit'] | 1 | 2022-03-21 05:19:02+00:00 | 5 | 0 | | 0 | [] |
 | DanaEpp/pwncat_dirtypipe | pwncat module that automatically exploits CVE-2022-0847 (dirtypipe) | https://github.com/DanaEpp/pwncat_dirtypipe | ['exploit'] | 1 | 2022-03-21 00:45:44+00:00 | 6 | 0 | Python | 0 | ['CVE-2022-0847'] |
 | NathanTheIceCube/ProSploit-Hub-Website | None | https://github.com/NathanTheIceCube/ProSploit-Hub-Website | ['sploit'] | 1 | 2022-03-21 00:11:18+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -28,9 +29,10 @@
 | demom-henata/Exploit-8383 | this is just a tool that i make to connect to people on the same network it's not good ,and am new to python i | https://github.com/demom-henata/Exploit-8383 | ['exploit'] | 1 | 2022-03-21 06:28:55+00:00 | 0 | 0 | Python | 0 | [] |
 | Anonymous-Family/CVE-2015-1701 | Unspecified vulnerability in Microsoft Windows before 8 allows local users to gain privileges via unknown vectors, as exploited in the wild in April 2015 (Base Score: 7.2 HIGH) Current Description Win32k.sys in the kernel-mode drivers in Microsoft Wind | https://github.com/Anonymous-Family/CVE-2015-1701 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-21 06:40:05+00:00 | 0 | 0 | nan | 0 | ['CVE-2015-1701'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-21 05:16:05+00:00 | 73046 | 2504 | | 301 | [] |
-| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-21 02:18:20+00:00 | 22362 | 6 | Go | 4 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-21 05:23:06+00:00 | 68163 | 2 | Python | 7 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-21 02:14:27+00:00 | 6117 | 1364 | TypeScript | 221 | [] |
+| frohoff/ysoserial | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | ['exploit', 'vulnerability poc'] | 2 | 2022-03-21 05:54:54+00:00 | 348 | 5091 | Java | 1456 | [] |
+| cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-21 07:27:27+00:00 | 2262 | 69 | JavaScript | 91 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-21 00:08:35+00:00 | 1534795 | 1594 | Python | 534 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-21 05:53:16+00:00 | 5869 | 3153 | Python | 684 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-21 00:21:01+00:00 | 260440 | 295 | Ruby | 85 | [] |
 | m8r0wn/enumdb | Relational database brute force and post exploitation tool for MySQL and MSSQL | https://github.com/m8r0wn/enumdb | ['exploit'] | 1 | 2022-03-21 01:23:41+00:00 | 65 | 193 | Python | 67 | [] |
@@ -50,4 +52,5 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-21 01:43:50+00:00 | 40359 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-21 01:41:15+00:00 | 7989 | 77 | HTML | 21 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-21 01:16:00+00:00 | 4209159 | 29 | Python | 4 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-21 02:14:27+00:00 | 6117 | 1364 | TypeScript | 221 | [] |
 | Anonymous-Family/CVE-2015-1701-download | None | https://github.com/Anonymous-Family/CVE-2015-1701-download | ['cve-2 OR cve_2'] | 1 | 2022-03-21 06:39:19+00:00 | 0 | 0 | nan | 0 | ['CVE-2015-1701'] |
