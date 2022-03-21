@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#86,1.00000000,https://github.com/augsmachado/rust_port_sniffer_cli,augsmachado/rust_port_sniffer_cli,363495039
 VU#86,1.00000000,https://github.com/orkinyo/bin-exp-course,orkinyo/bin-exp-course,362797524
+VU#86,1.00000000,https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2,blackbotinc/Atomic-Red-Team-Intelligence-C2,315417215
 VU#86,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,400513584
 VU#86,0.20000000,https://github.com/AnythingForTheTrustRank/ZeroGay,AnythingForTheTrustRank/ZeroGay,455997487
 VU#86,0.16666667,https://github.com/WPXSS/wordpress-malware,WPXSS/wordpress-malware,203156588
