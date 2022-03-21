@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-QM7J-C969-7J4Q,0.00001888,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-QM7J-C969-7J4Q,0.00001887,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-QM7J-C969-7J4Q,0.00000580,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 GHSA-QM7J-C969-7J4Q,0.00000479,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
