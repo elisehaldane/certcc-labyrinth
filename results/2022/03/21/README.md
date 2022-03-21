@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/21
     
-17 records found after deduplication
+19 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
@@ -10,6 +10,7 @@
 | NathanTheIceCube/ProSploit-Hub-Website | None | https://github.com/NathanTheIceCube/ProSploit-Hub-Website | ['sploit'] | 1 | 2022-03-21 00:11:18+00:00 | 0 | 0 | HTML | 0 | [] |
 | DanaEpp/pwncat_dirtypipe | pwncat module that automatically exploits CVE-2022-0847 (dirtypipe) | https://github.com/DanaEpp/pwncat_dirtypipe | ['exploit'] | 1 | 2022-03-21 00:45:44+00:00 | 6 | 0 | Python | 0 | ['CVE-2022-0847'] |
 | NathanTheIceCube/ProSploit-Hub | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits! | https://github.com/NathanTheIceCube/ProSploit-Hub | ['exploit', 'sploit'] | 2 | 2022-03-21 00:05:20+00:00 | 27153 | 0 | C# | 0 | [] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-21 02:18:20+00:00 | 22362 | 6 | Go | 4 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-21 02:14:27+00:00 | 6117 | 1364 | TypeScript | 221 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-21 01:16:00+00:00 | 4209159 | 29 | Python | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-21 01:41:15+00:00 | 7989 | 77 | HTML | 21 | [] |
@@ -19,6 +20,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-21 00:03:51+00:00 | 457943 | 47 | | 20 | [] |
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2022-03-21 00:47:31+00:00 | 921 | 2798 | | 500 | [] |
 | m8r0wn/ActiveReign | A Network Enumeration and Attack Toolset for Windows Active Directory Environments. | https://github.com/m8r0wn/ActiveReign | ['exploit'] | 1 | 2022-03-21 01:15:05+00:00 | 178 | 227 | Python | 37 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-21 02:30:32+00:00 | 200259 | 138 | REXX | 12 | [] |
 | darksideoftheshmoo/rcell2 | functions to produce and analyze Cell-ID data in a tidy and shiny framework | https://github.com/darksideoftheshmoo/rcell2 | ['rce'] | 1 | 2022-03-21 00:03:11+00:00 | 118071 | 0 | R | 0 | [] |
 | m8r0wn/enumdb | Relational database brute force and post exploitation tool for MySQL and MSSQL | https://github.com/m8r0wn/enumdb | ['exploit'] | 1 | 2022-03-21 01:23:41+00:00 | 65 | 193 | Python | 67 | [] |
 | Ant1n0/equaltion_editor_exploit | None | https://github.com/Ant1n0/equaltion_editor_exploit | ['exploit'] | 1 | 2022-03-21 01:54:57+00:00 | 0 | 0 | | 0 | [] |
