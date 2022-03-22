@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2021-10543,0.04000000,https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0,Anonymous-ghost/AttackWebFrameworkTools-5.0,337659353
-CNVD-2021-10543,0.00564972,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2021-10543,0.00561798,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 CNVD-2021-10543,0.00558659,https://github.com/chaitin/xray,chaitin/xray,191117123
 CNVD-2021-10543,0.00546448,https://github.com/veo/vscan,veo/vscan,377697824
 CNVD-2021-10543,0.00342466,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
