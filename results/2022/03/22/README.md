@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/22
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
@@ -19,7 +19,8 @@
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-22 11:16:56+00:00 | 4419 | 2 | Python | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-22 15:19:19+00:00 | 384768 | 327 | nan | 54 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-22 02:58:42+00:00 | 42 | 5 | Solidity | 1 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-22 13:16:07+00:00 | 22429 | 6916 | JavaScript | 1602 | [] |
+| TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-03-22 04:56:45+00:00 | 34 | 29 | Python | 16 | [] |
+| martinkubecka/OhMyDoS | :no_entry: Python console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | ['exploit'] | 1 | 2022-03-22 20:40:44+00:00 | 24 | 1 | Python | 0 | [] |
 | blindedofficial/Fortnite-Exploits | Fortnite external or internal exploits | https://github.com/blindedofficial/Fortnite-Exploits | ['exploit'] | 1 | 2022-03-22 00:23:44+00:00 | 1 | 0 | | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-03-22 05:35:18+00:00 | 16238 | 0 | | 0 | [] |
 | vlongle/Imperfecto | Python library of imperfect information games, and self-play and exploitative algorithms | https://github.com/vlongle/Imperfecto | ['exploit'] | 1 | 2022-03-22 05:34:05+00:00 | 14921 | 3 | Python | 0 | [] |
@@ -30,7 +31,6 @@
 | h4ck3r0/Metasploit-termux | Install Metasploit In Termux Without Error | https://github.com/h4ck3r0/Metasploit-termux | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-22 07:00:38+00:00 | 3847 | 3 | Shell | 0 | [] |
 | 0bfxgh0st/lfisuite | Local File Inclusion scanner/enumerator and rce. | https://github.com/0bfxgh0st/lfisuite | ['rce'] | 1 | 2022-03-22 00:40:24+00:00 | 3849 | 0 | Python | 0 | [] |
 | Proviesec/command-injection-payload | None | https://github.com/Proviesec/command-injection-payload | ['command injection'] | 1 | 2022-03-22 17:15:57+00:00 | 94 | 2 | | 1 | [] |
-| illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-22 19:10:18+00:00 | 1641 | 0 | Python | 0 | [] |
 | YeYuDao/36tz_cn__5221068 | BT5&metasploit从入门到精通（完整版） | https://github.com/YeYuDao/36tz_cn__5221068 | ['metasploit module OR payload'] | 1 | 2022-03-22 01:34:42+00:00 | 0 | 0 | | 0 | [] |
 | DaxiaSec/Poc_Exp | 漏洞概念证明及利用工具，主要基于Poc-bomber等优秀框架，分享一些0day和HW工具 | https://github.com/DaxiaSec/Poc_Exp | ['0day'] | 1 | 2022-03-22 03:43:09+00:00 | 0 | 0 | nan | 0 | [] |
 | cryst4lliz3/CVE-2022-0824 | Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990. | https://github.com/cryst4lliz3/CVE-2022-0824 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-03-22 04:21:38+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2022-0824'] |
@@ -58,10 +58,11 @@
 | Xc1Ym/Poc_Exp | 漏洞概念证明及利用工具，主要基于Poc-bomber等优秀框架，分享一些0day和HW工具 | https://github.com/Xc1Ym/Poc_Exp | ['0day'] | 1 | 2022-03-22 06:42:31+00:00 | 200 | 0 | nan | 5 | [] |
 | terijaki/rcedit-action | Github Action to modify icon of .exe using Rcedit | https://github.com/terijaki/rcedit-action | ['rce'] | 1 | 2022-03-22 07:15:32+00:00 | 0 | 0 | | 0 | [] |
 | hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vu | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | ['cve-2 OR cve_2'] | 1 | 2022-03-22 07:13:40+00:00 | 0 | 0 | | 0 | ['CVE-2021-43530'] |
-| TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-03-22 04:56:45+00:00 | 34 | 29 | Python | 16 | [] |
+| illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-22 19:10:18+00:00 | 1641 | 0 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-22 05:04:00+00:00 | 77923 | 2508 | | 302 | [] |
-| tremwil/ds3-nrssr-rce | Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126. | https://github.com/tremwil/ds3-nrssr-rce | ['exploit', 'rce'] | 2 | 2022-03-22 00:56:07+00:00 | 62 | 20 | C++ | 1 | ['CVE-2022-24125', 'CVE-2022-24126'] |
-| PwnedShell/Larascript | Laravel RCE exploit. CVE-2018-15133 | https://github.com/PwnedShell/Larascript | ['exploit', 'rce'] | 2 | 2022-03-22 17:30:40+00:00 | 114 | 13 | Python | 8 | ['CVE-2018-15133'] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-22 13:16:07+00:00 | 22429 | 6916 | JavaScript | 1602 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-03-22 08:23:11+00:00 | 35759 | 6589 | Vue | 1408 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-22 10:46:07+00:00 | 42803 | 17 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-22 00:04:34+00:00 | 459691 | 47 | | 20 | [] |
 | driesdaems10/Resoc | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | ['exploit'] | 1 | 2022-03-22 08:53:53+00:00 | 80420 | 1 | NetLogo | 1 | [] |
 | MainDabRblx/MainDabUISource | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | ['exploit'] | 1 | 2022-03-22 01:47:20+00:00 | 334749 | 2 | C# | 0 | [] |
@@ -72,8 +73,8 @@
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-03-22 08:54:12+00:00 | 21160 | 4 | PHP | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-03-22 12:25:33+00:00 | 1538970 | 4109 | PowerShell | 1437 | [] |
 | topavankumarj/CORS-Exploit-Script | None | https://github.com/topavankumarj/CORS-Exploit-Script | ['exploit'] | 1 | 2022-03-22 09:32:45+00:00 | 3 | 31 | HTML | 13 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-03-22 08:23:11+00:00 | 35759 | 6589 | Vue | 1408 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-22 02:30:30+00:00 | 206012 | 138 | REXX | 12 | [] |
+| tremwil/ds3-nrssr-rce | Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126. | https://github.com/tremwil/ds3-nrssr-rce | ['exploit', 'rce'] | 2 | 2022-03-22 00:56:07+00:00 | 62 | 20 | C++ | 1 | ['CVE-2022-24125', 'CVE-2022-24126'] |
 | ivam3/embed | Embed Metasploit Payload in Legtim APK with Termux | https://github.com/ivam3/embed | ['metasploit module OR payload'] | 1 | 2022-03-22 06:21:38+00:00 | 94629 | 20 | Ruby | 4 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-03-22 10:24:43+00:00 | 298702 | 96 | Python | 15 | [] |
 | bzyo/cve-pocs | None | https://github.com/bzyo/cve-pocs | ['cve poc'] | 1 | 2022-03-22 12:47:37+00:00 | 4229 | 3 | | 0 | [] |
@@ -85,10 +86,11 @@
 | frohoff/ysoserial | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | ['exploit', 'vulnerability poc'] | 2 | 2022-03-22 03:13:55+00:00 | 348 | 5093 | Java | 1457 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-22 05:10:03+00:00 | 235700 | 6980 | C | 1890 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-22 10:21:42+00:00 | 46895 | 865 | Python | 205 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-22 10:46:07+00:00 | 42803 | 17 | Python | 5 | [] |
+| PwnedShell/Larascript | Laravel RCE exploit. CVE-2018-15133 | https://github.com/PwnedShell/Larascript | ['exploit', 'rce'] | 2 | 2022-03-22 17:30:40+00:00 | 114 | 13 | Python | 8 | ['CVE-2018-15133'] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-22 07:45:57+00:00 | 81293 | 785 | Go | 133 | [] |
-| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-22 07:26:54+00:00 | 26183 | 6 | Python | 4 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-03-22 16:45:23+00:00 | 7098 | 1 | Java | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-22 05:41:00+00:00 | 121 | 0 | PHP | 0 | [] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-22 07:26:54+00:00 | 26183 | 6 | Python | 4 | [] |
 | hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-22 14:17:28+00:00 | 8765 | 1 | PHP | 1 | [] |
 | amacian/SetConcentrationPrivacy | Exploiting Set Concentration to Break the Privacy of Approximate Membership Check Filters | https://github.com/amacian/SetConcentrationPrivacy | ['exploit'] | 1 | 2022-03-22 15:22:38+00:00 | 2076 | 0 | Java | 0 | [] |
 | Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-03-22 08:24:59+00:00 | 40 | 604 | | 50 | [] |
@@ -111,5 +113,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-22 00:54:24+00:00 | 111871 | 344 | Python | 101 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-22 04:22:53+00:00 | 1054759 | 91 | | 17 | [] |
 | gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-03-22 07:48:06+00:00 | 5502 | 0 | R | 1 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-22 05:41:00+00:00 | 121 | 0 | PHP | 0 | [] |
 | Z3NTL3/WP-XPL0IT | An automated BOT that completely controls your computer without you having to do anything while it exploits the site list you have prompted with a very fast speed. | https://github.com/Z3NTL3/WP-XPL0IT | ['exploit'] | 1 | 2022-03-22 19:38:23+00:00 | 0 | 0 | Python | 0 | [] |
