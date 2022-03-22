@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/22
     
-55 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-22 00:12:27+00:00 | 704080 | 26681 | Ruby | 12065 | [] |
-| indeedion/CVETools | Downloads CVE exploited vulnerability catalog from CISA, gathers a score for every entry and ads to the file. | https://github.com/indeedion/CVETools | ['exploit'] | 1 | 2022-03-22 09:17:42+00:00 | 34 | 0 | Python | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-22 10:21:42+00:00 | 46895 | 865 | Python | 205 | [] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-22 07:26:54+00:00 | 26183 | 6 | Python | 4 | [] |
 | tremwil/ds3-nrssr-rce | Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126. | https://github.com/tremwil/ds3-nrssr-rce | ['exploit', 'rce'] | 2 | 2022-03-22 00:56:07+00:00 | 62 | 20 | C++ | 1 | ['CVE-2022-24125', 'CVE-2022-24126'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-22 05:04:00+00:00 | 77923 | 2508 | | 302 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-03-22 04:56:45+00:00 | 34 | 29 | Python | 16 | [] |
@@ -18,8 +19,8 @@
 | blindedofficial/Fortnite-Exploits | Fortnite external or internal exploits | https://github.com/blindedofficial/Fortnite-Exploits | ['exploit'] | 1 | 2022-03-22 00:23:44+00:00 | 1 | 0 | | 0 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-22 02:58:42+00:00 | 42 | 5 | Solidity | 1 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-22 04:24:12+00:00 | 10 | 0 | Nix | 0 | [] |
+| indeedion/CVETools | Downloads CVE exploited vulnerability catalog from CISA, gathers a score for every entry and ads to the file. | https://github.com/indeedion/CVETools | ['exploit'] | 1 | 2022-03-22 09:17:42+00:00 | 34 | 0 | Python | 0 | [] |
 | zhangdapeng520/zdpruby_metasploit | 基于Metasploit二次开发的渗透框架 | https://github.com/zhangdapeng520/zdpruby_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-22 09:05:16+00:00 | 64929 | 0 | Ruby | 0 | [] |
-| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-03-22 08:24:59+00:00 | 40 | 604 | | 50 | [] |
 | zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-03-22 06:38:16+00:00 | 68 | 0 | Python | 0 | [] |
 | SivaPriyaRanganatha/CVE-2020-6418 | None | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | ['cve-2 OR cve_2'] | 1 | 2022-03-22 02:45:33+00:00 | 0 | 0 | | 0 | ['CVE-2020-6418'] |
 | HerculesRD/exFinder | Interactive exploit finder with ExploitAlert | https://github.com/HerculesRD/exFinder | ['exploit'] | 1 | 2022-03-22 00:17:45+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -29,25 +30,30 @@
 | shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC | Remote Code Execution (RCE) | https://github.com/shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC | ['rce', 'rce poc', 'remote code execution'] | 3 | 2022-03-22 06:39:42+00:00 | 0 | 0 | | 0 | [] |
 | hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vu | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | ['cve-2 OR cve_2'] | 1 | 2022-03-22 07:13:40+00:00 | 0 | 0 | | 0 | ['CVE-2021-43530'] |
 | terijaki/rcedit-action | Github Action to modify icon of .exe using Rcedit | https://github.com/terijaki/rcedit-action | ['rce'] | 1 | 2022-03-22 07:15:32+00:00 | 0 | 0 | | 0 | [] |
+| Xc1Ym/Poc_Exp | 漏洞概念证明及利用工具，主要基于Poc-bomber等优秀框架，分享一些0day和HW工具 | https://github.com/Xc1Ym/Poc_Exp | ['0day'] | 1 | 2022-03-22 06:42:31+00:00 | 200 | 0 | nan | 5 | [] |
 | rceramic/rceramic.github.io | None | https://github.com/rceramic/rceramic.github.io | ['rce'] | 1 | 2022-03-22 08:38:07+00:00 | 0 | 0 | | 0 | [] |
 | santhosh-duraipandiyan/exploittube | None | https://github.com/santhosh-duraipandiyan/exploittube | ['exploit'] | 1 | 2022-03-22 08:37:05+00:00 | 0 | 0 | | 0 | [] |
-| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-22 07:26:54+00:00 | 26183 | 6 | Python | 4 | [] |
+| VirajLR/Metasploit-in-termux | Metasploit 6 installation to termux 💯 Working | https://github.com/VirajLR/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-22 09:44:33+00:00 | 0 | 0 | Shell | 0 | [] |
+| Puliczek/awesome-list-of-secrets-in-environment-variables | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | ['exploit'] | 1 | 2022-03-22 08:24:59+00:00 | 40 | 604 | | 50 | [] |
 | 0xInfection/LogMePwn | A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability. | https://github.com/0xInfection/LogMePwn | ['rce'] | 1 | 2022-03-22 04:27:38+00:00 | 58 | 269 | Go | 35 | ['CVE-2021-44228'] |
+| accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-22 03:29:28+00:00 | 68202 | 2 | Python | 7 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-22 00:47:05+00:00 | 51978 | 31 | | 19 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-22 05:10:03+00:00 | 235700 | 6980 | C | 1890 | [] |
-| MainDabRblx/MainDabUISource | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | ['exploit'] | 1 | 2022-03-22 01:47:20+00:00 | 334749 | 2 | C# | 0 | [] |
 | frohoff/ysoserial | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | ['exploit', 'vulnerability poc'] | 2 | 2022-03-22 03:13:55+00:00 | 348 | 5093 | Java | 1457 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-22 05:34:55+00:00 | 5889 | 3160 | Python | 688 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2022-03-22 08:24:42+00:00 | 9664 | 67 | PHP | 15 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-22 00:21:27+00:00 | 260441 | 295 | Ruby | 85 | [] |
 | leeqwind/HolicPOC | POC and exploitation of vulnerabilities | https://github.com/leeqwind/HolicPOC | ['exploit', 'vulnerability poc'] | 2 | 2022-03-22 03:02:53+00:00 | 228 | 82 | C++ | 42 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-03-22 10:24:43+00:00 | 298702 | 96 | Python | 15 | [] |
 | ivam3/embed | Embed Metasploit Payload in Legtim APK with Termux | https://github.com/ivam3/embed | ['metasploit module OR payload'] | 1 | 2022-03-22 06:21:38+00:00 | 94629 | 20 | Ruby | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-22 02:30:30+00:00 | 206012 | 138 | REXX | 12 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-03-22 08:23:11+00:00 | 35759 | 6589 | Vue | 1408 | [] |
 | topavankumarj/CORS-Exploit-Script | None | https://github.com/topavankumarj/CORS-Exploit-Script | ['exploit'] | 1 | 2022-03-22 09:32:45+00:00 | 3 | 31 | HTML | 13 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-03-22 08:54:12+00:00 | 21160 | 4 | PHP | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-22 00:47:05+00:00 | 51978 | 31 | | 19 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-22 09:15:31+00:00 | 81482 | 699 | Go | 152 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-22 02:25:07+00:00 | 6119 | 1382 | TypeScript | 227 | [] |
+| MainDabRblx/MainDabUISource | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | ['exploit'] | 1 | 2022-03-22 01:47:20+00:00 | 334749 | 2 | C# | 0 | [] |
 | driesdaems10/Resoc | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | ['exploit'] | 1 | 2022-03-22 08:53:53+00:00 | 80420 | 1 | NetLogo | 1 | [] |
-| accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-22 03:29:28+00:00 | 68202 | 2 | Python | 7 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-22 00:04:34+00:00 | 459691 | 47 | | 20 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-22 07:45:57+00:00 | 81293 | 785 | Go | 133 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-22 05:41:00+00:00 | 121 | 0 | PHP | 0 | [] |
@@ -58,5 +64,4 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-22 01:42:08+00:00 | 7989 | 78 | HTML | 21 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-22 01:20:32+00:00 | 4255328 | 29 | Python | 4 | [] |
 | efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2022-03-22 06:29:52+00:00 | 9850 | 5 | HTML | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-22 02:25:07+00:00 | 6119 | 1382 | TypeScript | 227 | [] |
-| VirajLR/Metasploit-in-termux | Metasploit 6 installation to termux 💯 Working | https://github.com/VirajLR/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-03-22 09:44:33+00:00 | 0 | 0 | Shell | 0 | [] |
+| admin360bug/Everything-can-be-RCE | None | https://github.com/admin360bug/Everything-can-be-RCE | ['rce'] | 1 | 2022-03-22 10:21:33+00:00 | 0 | 0 | | 0 | [] |
