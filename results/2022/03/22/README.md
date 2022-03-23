@@ -1,15 +1,15 @@
 
 # Summary for results/2022/03/22
     
-129 records found after deduplication
+130 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-22 00:12:27+00:00 | 704080 | 26681 | Ruby | 12065 | [] |
-| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-22 14:17:28+00:00 | 8765 | 1 | PHP | 1 | [] |
-| SivaPriyaRanganatha/CVE-2020-6418 | None | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | ['cve-2 OR cve_2'] | 1 | 2022-03-22 02:45:33+00:00 | 0 | 0 | | 0 | ['CVE-2020-6418'] |
+| HerculesRD/exFinder | Interactive exploit finder with ExploitAlert | https://github.com/HerculesRD/exFinder | ['exploit'] | 1 | 2022-03-22 00:17:45+00:00 | 0 | 0 | Shell | 0 | [] |
 | SoftwareSecurityLab/Heap-Overflow-Detection | nan | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-03-22 14:59:51+00:00 | 0 | 0 | nan | 0 | [] |
 | yazan828/CVE-2017-1000004 | None | https://github.com/yazan828/CVE-2017-1000004 | ['cve-2 OR cve_2'] | 1 | 2022-03-22 11:54:34+00:00 | 566 | 0 | | 0 | ['CVE-2017-1000004'] |
+| lainswork/dwm-screen-shot | 将shellcode注入dwm.exe以进行屏幕截取 | https://github.com/lainswork/dwm-screen-shot | ['shellcode'] | 1 | 2022-03-22 15:33:01+00:00 | 62 | 3 | C++ | 2 | [] |
 | avhiaryal/ssrf-exploitation | This repository include the witeup of SSRF exploitation in a Vulnhub Machine GEMINI INC 1 | https://github.com/avhiaryal/ssrf-exploitation | ['exploit'] | 1 | 2022-03-22 23:40:15+00:00 | 0 | 0 | | 0 | [] |
 | babatunde-ayoade/exploit | Firmware exploit written in C/C++ and Assembly language. | https://github.com/babatunde-ayoade/exploit | ['exploit'] | 1 | 2022-03-22 16:34:09+00:00 | 1 | 0 | C++ | 0 | [] |
 | Xn2/GLPwn | GLPI automatic exploitation tool for CVE-2020-15175 | https://github.com/Xn2/GLPwn | ['exploit'] | 1 | 2022-03-22 17:43:33+00:00 | 13 | 0 | Python | 1 | ['CVE-2020-15175'] |
@@ -36,10 +36,10 @@
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-03-22 04:56:45+00:00 | 34 | 29 | Python | 16 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-22 05:04:00+00:00 | 77923 | 2508 | | 302 | [] |
 | tremwil/ds3-nrssr-rce | Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126. | https://github.com/tremwil/ds3-nrssr-rce | ['exploit', 'rce'] | 2 | 2022-03-22 00:56:07+00:00 | 62 | 20 | C++ | 1 | ['CVE-2022-24125', 'CVE-2022-24126'] |
-| HerculesRD/exFinder | Interactive exploit finder with ExploitAlert | https://github.com/HerculesRD/exFinder | ['exploit'] | 1 | 2022-03-22 00:17:45+00:00 | 0 | 0 | Shell | 0 | [] |
+| SivaPriyaRanganatha/CVE-2020-6418 | None | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | ['cve-2 OR cve_2'] | 1 | 2022-03-22 02:45:33+00:00 | 0 | 0 | | 0 | ['CVE-2020-6418'] |
 | YeYuDao/36tz_cn__5221068 | BT5&metasploit从入门到精通（完整版） | https://github.com/YeYuDao/36tz_cn__5221068 | ['metasploit module OR payload'] | 1 | 2022-03-22 01:34:42+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-22 13:16:07+00:00 | 22429 | 6916 | JavaScript | 1602 | [] |
 | DaxiaSec/Poc_Exp | 漏洞概念证明及利用工具，主要基于Poc-bomber等优秀框架，分享一些0day和HW工具 | https://github.com/DaxiaSec/Poc_Exp | ['0day'] | 1 | 2022-03-22 03:43:09+00:00 | 0 | 0 | nan | 0 | [] |
-| SaluRamos/passei-direto-website-bug-exploit | None | https://github.com/SaluRamos/passei-direto-website-bug-exploit | ['exploit'] | 1 | 2022-03-22 14:35:47+00:00 | 0 | 0 | Python | 0 | [] |
 | Mario-Kart-Felix/firewall-cve | Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability CVE-2021-41338 Security Vulnerability Released: Oct 12, 2021 Assigning CNA: Microsoft MITRE CVE-2021-41338 CVSS:3.1 5.5 / 5.0 Attack Vector Local Attack Complexity Low Privileges R | https://github.com/Mario-Kart-Felix/firewall-cve | ['exploit'] | 1 | 2022-03-22 23:09:03+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41338'] |
 | shumonsharif/rce | None | https://github.com/shumonsharif/rce | ['rce'] | 1 | 2022-03-22 21:36:48+00:00 | 0 | 0 | | 0 | [] |
 | marcussacana/JB672 | My Personal PS4 Exploit Host | https://github.com/marcussacana/JB672 | ['exploit'] | 1 | 2022-03-22 21:02:13+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -53,8 +53,8 @@
 | nhthongDfVn/File-Converter-Exploit | A small collection of File converter vulnerability | https://github.com/nhthongDfVn/File-Converter-Exploit | ['exploit'] | 1 | 2022-03-22 16:29:22+00:00 | 0 | 0 | | 0 | [] |
 | BuggHub/Installer | Helps to install Metasploit in termux | https://github.com/BuggHub/Installer | ['metasploit module OR payload'] | 1 | 2022-03-22 16:25:24+00:00 | 0 | 0 | | 0 | [] |
 | exploitscat/exploitscat | Config files for my GitHub profile. | https://github.com/exploitscat/exploitscat | ['exploit'] | 1 | 2022-03-22 14:57:03+00:00 | 0 | 0 | | 0 | [] |
+| SaluRamos/passei-direto-website-bug-exploit | None | https://github.com/SaluRamos/passei-direto-website-bug-exploit | ['exploit'] | 1 | 2022-03-22 14:35:47+00:00 | 0 | 0 | Python | 0 | [] |
 | MrMcHir/FreeZX-Files | This Files For Working Loader Exploit | https://github.com/MrMcHir/FreeZX-Files | ['exploit'] | 1 | 2022-03-22 14:13:56+00:00 | 0 | 0 | Smalltalk | 0 | [] |
-| cryst4lliz3/CVE-2022-0824 | Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990. | https://github.com/cryst4lliz3/CVE-2022-0824 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-03-22 04:21:38+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2022-0824'] |
 | YeYuDao/36tz_cn__5217446 | Windows平台高效Shellcode编程技术实战 | https://github.com/YeYuDao/36tz_cn__5217446 | ['shellcode'] | 1 | 2022-03-22 13:32:08+00:00 | 1 | 0 | | 0 | [] |
 | Skyxmao/Weblogic_SSRF_REDIS_RCE | Weblogic中存在一个SSRF漏洞，利用该漏洞可以发送任意HTTP请求，进而攻击内网中redis、fastcgi等脆弱组件。 | https://github.com/Skyxmao/Weblogic_SSRF_REDIS_RCE | ['rce'] | 1 | 2022-03-22 13:34:19+00:00 | 0 | 0 | Python | 0 | [] |
 | LandenSisk/AEL | Simple application that automates the use of exploits for penetration testing | https://github.com/LandenSisk/AEL | ['exploit'] | 1 | 2022-03-22 13:43:01+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -68,9 +68,10 @@
 | terijaki/rcedit-action | Github Action to modify icon of .exe using Rcedit | https://github.com/terijaki/rcedit-action | ['rce'] | 1 | 2022-03-22 07:15:32+00:00 | 0 | 0 | | 0 | [] |
 | hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vu | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | ['cve-2 OR cve_2'] | 1 | 2022-03-22 07:13:40+00:00 | 0 | 0 | | 0 | ['CVE-2021-43530'] |
 | shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC | Remote Code Execution (RCE) | https://github.com/shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC | ['rce', 'rce poc', 'remote code execution'] | 3 | 2022-03-22 06:39:42+00:00 | 0 | 0 | | 0 | [] |
+| cryst4lliz3/CVE-2022-0824 | Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990. | https://github.com/cryst4lliz3/CVE-2022-0824 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-03-22 04:21:38+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2022-0824'] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-22 07:26:54+00:00 | 26183 | 6 | Python | 4 | [] |
+| hafiizh10/E-RCE | Aplikasi Respon Cepat Emergency (Panic Button) Berbasis Web | https://github.com/hafiizh10/E-RCE | ['rce'] | 1 | 2022-03-22 14:17:28+00:00 | 8765 | 1 | PHP | 1 | [] |
 | amacian/SetConcentrationPrivacy | Exploiting Set Concentration to Break the Privacy of Approximate Membership Check Filters | https://github.com/amacian/SetConcentrationPrivacy | ['exploit'] | 1 | 2022-03-22 15:22:38+00:00 | 2076 | 0 | Java | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-22 13:16:07+00:00 | 22429 | 6916 | JavaScript | 1602 | [] |
 | mutur4/Hacking-Scripts | This is a repo about some hacking scripts to make your hacks better and easier.This also includes a session on exploit development where we develop exploits for different vulnerabilities.Please do not use these for illegal purposes. | https://github.com/mutur4/Hacking-Scripts | ['exploit'] | 1 | 2022-03-22 22:56:02+00:00 | 445 | 0 | C | 0 | [] |
 | MainDabRblx/MainDabUISource | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | ['exploit'] | 1 | 2022-03-22 01:47:20+00:00 | 334749 | 2 | C# | 0 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-03-22 21:26:04+00:00 | 684 | 133 | Java | 27 | [] |
