@@ -1,14 +1,14 @@
 
 # Summary for results/2022/03/23
     
-51 records found after deduplication
+54 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-23 00:31:52+00:00 | 705362 | 26686 | Ruby | 12070 | [] |
 | lainswork/shellcode-factory | shellcode 生成框架 | https://github.com/lainswork/shellcode-factory | ['shellcode'] | 1 | 2022-03-23 04:14:50+00:00 | 477 | 1 | C++ | 0 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-23 04:07:11+00:00 | 68215 | 2 | Python | 7 | [] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-23 05:38:27+00:00 | 130 | 8 | | 3 | ['CVE-2021-44228'] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-23 05:38:27+00:00 | 130 | 8 | nan | 3 | ['CVE-2021-44228'] |
 | puzzlepeaches/Log4jUnifi | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | ['exploit', 'remote code execution'] | 2 | 2022-03-23 00:35:16+00:00 | 6 | 49 | Python | 17 | ['CVE-2021-44228'] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-23 08:40:51+00:00 | 52462 | 0 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-23 04:52:42+00:00 | 79813 | 2515 | | 304 | [] |
@@ -16,23 +16,25 @@
 | zan8in/afrog | Fast and customisable vulnerability scanner based on simple YAML based CEL-GO. | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-23 06:47:05+00:00 | 1226 | 5 | Go | 0 | [] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-23 03:33:53+00:00 | 188 | 4 | nan | 0 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-03-23 08:34:19+00:00 | 21 | 2 | PHP | 0 | [] |
+| k0imet/CVE-POCs | for this repo i wish to keep an archive of available POCs and Descriptions alike, | https://github.com/k0imet/CVE-POCs | ['cve poc'] | 1 | 2022-03-23 09:13:57+00:00 | 12 | 7 | | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-23 03:31:44+00:00 | 387749 | 329 | nan | 54 | [] |
 | avhiaryal/ssrf-exploitation | This repository include the witeup of SSRF exploitation in a Vulnhub Machine GEMINI INC 1 | https://github.com/avhiaryal/ssrf-exploitation | ['exploit'] | 1 | 2022-03-23 02:42:47+00:00 | 3 | 0 | | 0 | [] |
-| xx-demon/NoFileAtt | NoFileAtt-ShellCode | https://github.com/xx-demon/NoFileAtt | ['shellcode'] | 1 | 2022-03-23 06:56:32+00:00 | 5 | 0 | NASL | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-23 04:27:42+00:00 | 4361 | 2630 | PowerShell | 745 | [] |
 | SoftwareSecurityLab/Heap-Overflow-Detection | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-03-23 06:46:31+00:00 | 13 | 0 | nan | 0 | [] |
 | SivaPriyaRanganatha/CVE-2020-6418 | None | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | ['cve-2 OR cve_2'] | 1 | 2022-03-23 02:07:45+00:00 | 8 | 0 | nan | 0 | ['CVE-2020-6418'] |
 | darkdev123/AtyeExploit | None | https://github.com/darkdev123/AtyeExploit | ['exploit'] | 1 | 2022-03-23 07:06:22+00:00 | 1 | 0 | | 0 | [] |
 | Z3NTL3/WP-XPL0IT | An automated BOT that completely controls your computer without you having to do anything while it exploits the site list you have prompted with a very fast speed. | https://github.com/Z3NTL3/WP-XPL0IT | ['exploit'] | 1 | 2022-03-23 06:59:31+00:00 | 8318 | 0 | Python | 1 | [] |
 | SenMartinserna/JonyHacker | JNX Exploit Free | https://github.com/SenMartinserna/JonyHacker | ['exploit'] | 1 | 2022-03-23 00:49:56+00:00 | 0 | 0 | | 0 | [] |
 | jdb5523/flask-rce-demo | None | https://github.com/jdb5523/flask-rce-demo | ['rce'] | 1 | 2022-03-23 01:58:04+00:00 | 0 | 0 | HTML | 0 | [] |
-| s3nt3/clickhouse-lz4-rce | Includes analysis environment, poc for analyzing vulnerabilities found in clickhouse lz4 implementation | https://github.com/s3nt3/clickhouse-lz4-rce | ['rce', 'rce poc', 'vulnerability poc'] | 3 | 2022-03-23 03:49:27+00:00 | 0 | 0 | nan | 0 | [] |
+| s3nt3/clickhouse-lz4-rce | Includes analysis environment, poc for analyzing vulnerabilities found in clickhouse lz4 implementation | https://github.com/s3nt3/clickhouse-lz4-rce | ['rce', 'rce poc', 'vulnerability poc'] | 3 | 2022-03-23 03:49:27+00:00 | 0 | 0 | | 0 | [] |
 | 2894974172bb/GIS | A repository for GIS exploitation | https://github.com/2894974172bb/GIS | ['exploit'] | 1 | 2022-03-23 04:39:59+00:00 | 0 | 0 | | 0 | [] |
 | domain9065v/bazad3 | Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite. | https://github.com/domain9065v/bazad3 | ['exploit'] | 1 | 2022-03-23 06:02:52+00:00 | 0 | 0 | | 0 | ['CVE-2016-1827'] |
 | Ryze-T/cdb-wds | 利用白名单文件 cdb.exe 执行 shellcode | https://github.com/Ryze-T/cdb-wds | ['shellcode'] | 1 | 2022-03-23 06:24:50+00:00 | 0 | 1 | Python | 1 | [] |
+| johamad/zac-s-exploit-code | exploit code from ctf's | https://github.com/johamad/zac-s-exploit-code | ['exploit'] | 1 | 2022-03-23 06:30:58+00:00 | 0 | 0 | | 0 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2022-03-23 06:42:54+00:00 | 211260 | 0 | Shell | 0 | [] |
+| xx-demon/NoFileAtt | NoFileAtt-ShellCode | https://github.com/xx-demon/NoFileAtt | ['shellcode'] | 1 | 2022-03-23 06:56:32+00:00 | 5 | 0 | NASL | 0 | [] |
 | senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-03-23 05:35:24+00:00 | 2901 | 0 | Python | 1 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-23 04:27:42+00:00 | 4361 | 2630 | PowerShell | 745 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-23 00:04:18+00:00 | 463371 | 47 | | 20 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-23 08:39:49+00:00 | 6143 | 1425 | TypeScript | 230 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-23 05:10:06+00:00 | 235704 | 6981 | C | 1890 | [] |
 | frohoff/ysoserial | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | ['exploit', 'vulnerability poc'] | 2 | 2022-03-23 05:41:30+00:00 | 358 | 5096 | Java | 1459 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-23 00:08:36+00:00 | 1534796 | 1595 | Python | 534 | [] |
@@ -40,11 +42,12 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-23 00:24:52+00:00 | 260441 | 295 | Ruby | 85 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-03-23 00:02:48+00:00 | 305809 | 7 | Rust | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-23 02:30:35+00:00 | 217147 | 138 | REXX | 12 | [] |
+| stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-03-23 09:03:43+00:00 | 21193 | 4 | PHP | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-23 00:47:07+00:00 | 52643 | 32 | | 19 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-23 08:46:37+00:00 | 89876 | 700 | Go | 152 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3, PS4 & PS5 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-03-23 07:00:18+00:00 | 319382 | 53 | JavaScript | 16 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-23 00:04:18+00:00 | 463371 | 47 | | 20 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-23 05:17:53+00:00 | 81293 | 786 | Go | 133 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-23 08:39:49+00:00 | 6143 | 1425 | TypeScript | 230 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-23 00:47:52+00:00 | 121 | 0 | PHP | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-23 04:28:47+00:00 | 1080414 | 92 | | 17 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-23 04:00:39+00:00 | 116145 | 346 | Python | 101 | [] |
@@ -55,4 +58,4 @@
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2022-03-23 02:57:17+00:00 | 134 | 0 | Lua | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-23 01:25:34+00:00 | 4175554 | 29 | Python | 4 | [] |
 | ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-23 00:45:25+00:00 | 264 | 0 | | 0 | [] |
-| johamad/zac-s-exploit-code | exploit code from ctf's | https://github.com/johamad/zac-s-exploit-code | ['exploit'] | 1 | 2022-03-23 06:30:58+00:00 | 0 | 0 | | 0 | [] |
+| simen-g/SQLi-exploitation-RL | None | https://github.com/simen-g/SQLi-exploitation-RL | ['exploit'] | 1 | 2022-03-23 09:43:42+00:00 | 0 | 0 | Python | 0 | [] |
