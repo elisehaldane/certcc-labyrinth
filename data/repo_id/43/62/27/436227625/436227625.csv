@@ -1,7 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 436227625,accuknox/samples,django-vm/django/asgi.py,07010c21053b50af8b6c88e2275169a3b396622e,CVE-2019-19844
 436227625,accuknox/samples,grafana-cve-2021-43798/grafana-dep-8-2-0-vuln-app.yaml,0a1438e03c6ab7d8dc3217410a5e1a24802966ef,CVE-2021-43798
-436227625,accuknox/samples,dirtypipe-vulnerability/shell-root.c,1282934ac33de81d4cbf689e58b48f9ef7c7942c,CVE-2022-0847
 436227625,accuknox/samples,microservice-demo/src/frontend/static/git.zip,18c32f415a527042cce4dcbbcbfc90f8291cb868,VU#04
 436227625,accuknox/samples,microservice-demo/src/frontend/static/git.zip,18c32f415a527042cce4dcbbcbfc90f8291cb868,VU#58
 436227625,accuknox/samples,grafana-cve-2021-43798/ksp-grafana-cve-2021-43798.yaml,20d2a932d89575bbf6d78369d9cd936297397a94,CVE-2021-43798
