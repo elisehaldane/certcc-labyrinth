@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#500,1.00000000,https://github.com/GHa123/Dirty-COW-attack-Lab,GHa123/Dirty-COW-attack-Lab,445333110
 VU#500,1.00000000,https://github.com/Rjuhl/flipcup,Rjuhl/flipcup,437665707
-VU#500,0.01333333,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#500,0.01315789,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#500,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#500,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
