@@ -1,17 +1,19 @@
 
 # Summary for results/2022/03/23
     
-115 records found after deduplication
+120 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-23 00:31:52+00:00 | 705362 | 26686 | Ruby | 12070 | [] |
-| SoftwareSecurityLab/Heap-Overflow-Detection | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-03-23 06:46:31+00:00 | 13 | 0 | nan | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-23 12:43:14+00:00 | 22429 | 6923 | JavaScript | 1605 | [] |
 | lainswork/shellcode-factory | shellcode 生成框架 | https://github.com/lainswork/shellcode-factory | ['shellcode'] | 1 | 2022-03-23 04:14:50+00:00 | 477 | 1 | C++ | 0 | [] |
 | YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-03-23 15:47:20+00:00 | 29 | 0 | C | 0 | [] |
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-23 17:34:20+00:00 | 6064 | 2 | Python | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-23 03:31:44+00:00 | 387749 | 329 | nan | 54 | [] |
+| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-23 22:33:57+00:00 | 17 | 0 | Nix | 0 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-23 16:04:59+00:00 | 64 | 5 | Solidity | 1 | [] |
+| crusoe112/DirtyPipePython | A Python-based DirtyPipe (CVE-2022-0847) POC to pop a root shell | https://github.com/crusoe112/DirtyPipePython | ['cve poc'] | 1 | 2022-03-23 22:43:47+00:00 | 8 | 1 | Python | 2 | ['CVE-2022-0847'] |
 | k0imet/CVE-POCs | for this repo i wish to keep an archive of available POCs and Descriptions alike, | https://github.com/k0imet/CVE-POCs | ['cve poc'] | 1 | 2022-03-23 09:13:57+00:00 | 12 | 7 | | 0 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-03-23 08:34:19+00:00 | 21 | 2 | PHP | 0 | [] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-23 03:33:53+00:00 | 188 | 4 | nan | 0 | [] |
@@ -33,9 +35,10 @@
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-03-23 18:12:51+00:00 | 448 | 336 | PowerShell | 94 | ['CVE-2021-44228'] |
 | razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-23 05:38:27+00:00 | 130 | 8 | | 3 | ['CVE-2021-44228'] |
 | avhiaryal/ssrf-exploitation | This repository include the witeup of SSRF exploitation in a Vulnhub Machine GEMINI INC 1 | https://github.com/avhiaryal/ssrf-exploitation | ['exploit'] | 1 | 2022-03-23 02:42:47+00:00 | 3 | 0 | | 0 | [] |
+| SoftwareSecurityLab/Heap-Overflow-Detection | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-03-23 06:46:31+00:00 | 13 | 0 | nan | 0 | [] |
 | adamsvoboda/nim-loader | WIP shellcode loader in nim with EDR evasion techniques | https://github.com/adamsvoboda/nim-loader | ['shellcode'] | 1 | 2022-03-23 11:56:01+00:00 | 253 | 11 | Nim | 5 | [] |
-| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-03-23 21:40:21+00:00 | 18 | 0 | Python | 0 | [] |
-| SivaPriyaRanganatha/CVE-2020-6418 | None | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | ['cve-2 OR cve_2'] | 1 | 2022-03-23 02:07:45+00:00 | 8 | 0 | | 0 | ['CVE-2020-6418'] |
+| Khoroamu/ActivityExploitingDemo | 一个利用exported Activity的简单demo。目标apk来自https://github.com/dineshshetty/Android-InsecureBankv2。 | https://github.com/Khoroamu/ActivityExploitingDemo | ['exploit'] | 1 | 2022-03-23 11:37:37+00:00 | 0 | 0 | | 0 | [] |
+| kamue1a/bufferOverflowCTF | Exploit the unguarded buffer to overwrite the return address in the stack pointer and print the flag. | https://github.com/kamue1a/bufferOverflowCTF | ['exploit'] | 1 | 2022-03-23 20:10:54+00:00 | 0 | 0 | C | 0 | [] |
 | souzomain/dirtypipe | Dirtypipe check and exploit written in c | https://github.com/souzomain/dirtypipe | ['exploit'] | 1 | 2022-03-23 18:08:42+00:00 | 0 | 0 | C | 0 | [] |
 | Netskeepy/Drupal_RCE | None | https://github.com/Netskeepy/Drupal_RCE | ['rce'] | 1 | 2022-03-23 18:05:44+00:00 | 0 | 0 | | 0 | [] |
 | LuisFelipe146/ptools | Auxiliarys, exploits, scanner, tools etc | https://github.com/LuisFelipe146/ptools | ['exploit'] | 1 | 2022-03-23 17:29:54+00:00 | 0 | 0 | | 0 | [] |
@@ -47,8 +50,8 @@
 | flahsloan/flahsloan.github.io | Flash Loan no coding exploit attack | https://github.com/flahsloan/flahsloan.github.io | ['exploit'] | 1 | 2022-03-23 13:22:50+00:00 | 0 | 0 | HTML | 0 | [] |
 | HalsoCL/RCE | None | https://github.com/HalsoCL/RCE | ['rce'] | 1 | 2022-03-23 12:50:08+00:00 | 0 | 0 | | 0 | [] |
 | RashidKhanPathan/Pencrypt-The-Pentesting-Framework | Pencrypt: a Framework for Web, Linux, Windows Pentesting and Cryptographic Operations, Exploit Development and Reverse Engineering, Malware Analysis | https://github.com/RashidKhanPathan/Pencrypt-The-Pentesting-Framework | ['exploit'] | 1 | 2022-03-23 12:38:45+00:00 | 0 | 0 | Python | 0 | [] |
-| Khoroamu/ActivityExploitingDemo | 一个利用exported Activity的简单demo。目标apk来自https://github.com/dineshshetty/Android-InsecureBankv2。 | https://github.com/Khoroamu/ActivityExploitingDemo | ['exploit'] | 1 | 2022-03-23 11:37:37+00:00 | 0 | 0 | | 0 | [] |
 | mtthwstffrd/berdav-CVE-2021-4034 | None | https://github.com/mtthwstffrd/berdav-CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-23 11:08:33+00:00 | 0 | 0 | C | 0 | ['CVE-2021-4034'] |
+| SivaPriyaRanganatha/CVE-2020-6418 | None | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | ['cve-2 OR cve_2'] | 1 | 2022-03-23 02:07:45+00:00 | 8 | 0 | | 0 | ['CVE-2020-6418'] |
 | dusty99/Survant-V1 | Survant v1 is one of my exploits. | https://github.com/dusty99/Survant-V1 | ['exploit'] | 1 | 2022-03-23 10:28:01+00:00 | 0 | 0 | | 0 | [] |
 | dusty99/dusty | my exploit smh. | https://github.com/dusty99/dusty | ['exploit'] | 1 | 2022-03-23 10:26:14+00:00 | 0 | 0 | | 0 | [] |
 | simen-g/SQLi-exploitation-RL | None | https://github.com/simen-g/SQLi-exploitation-RL | ['exploit'] | 1 | 2022-03-23 09:43:42+00:00 | 0 | 0 | Python | 0 | [] |
@@ -62,9 +65,10 @@
 | Z3NTL3/WP-XPL0IT | An automated BOT that completely controls your computer without you having to do anything while it exploits the site list you have prompted with a very fast speed. | https://github.com/Z3NTL3/WP-XPL0IT | ['exploit'] | 1 | 2022-03-23 06:59:31+00:00 | 8318 | 0 | Python | 1 | [] |
 | darkdev123/AtyeExploit | None | https://github.com/darkdev123/AtyeExploit | ['exploit'] | 1 | 2022-03-23 07:06:22+00:00 | 1 | 0 | | 0 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-23 04:07:11+00:00 | 68215 | 2 | Python | 7 | [] |
+| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-03-23 21:40:21+00:00 | 18 | 0 | Python | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-03-23 18:10:36+00:00 | 513 | 9 | | 1 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-23 12:43:14+00:00 | 22429 | 6923 | JavaScript | 1605 | [] |
-| Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-03-23 16:42:39+00:00 | 386 | 0 | Python | 0 | [] |
+| tercen/teRcen | Tercen R client api | https://github.com/tercen/teRcen | ['rce'] | 1 | 2022-03-23 10:13:42+00:00 | 517 | 0 | R | 0 | [] |
+| lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-03-23 15:28:43+00:00 | 317464 | 1 | Jupyter Notebook | 0 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3, PS4 & PS5 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-03-23 07:00:18+00:00 | 319382 | 53 | JavaScript | 16 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-23 08:46:37+00:00 | 89876 | 700 | Go | 152 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-23 00:47:07+00:00 | 52643 | 32 | | 19 | [] |
@@ -76,8 +80,8 @@
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2022-03-23 19:38:16+00:00 | 1670 | 13 | JavaScript | 32 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-03-23 20:26:42+00:00 | 4783 | 1274 | C | 188 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-23 00:24:52+00:00 | 260441 | 295 | Ruby | 85 | [] |
-| tercen/teRcen | Tercen R client api | https://github.com/tercen/teRcen | ['rce'] | 1 | 2022-03-23 10:13:42+00:00 | 517 | 0 | R | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-03-23 11:35:04+00:00 | 72214 | 10907 | Jupyter Notebook | 1903 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-03-23 13:12:27+00:00 | 1071 | 1 | Python | 0 | [] |
 | ParrotSec/metasploit-framework | None | https://github.com/ParrotSec/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-23 13:04:43+00:00 | 69954 | 10 | Ruby | 12 | [] |
 | mzet-/linux-exploit-suggester | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | ['exploit'] | 1 | 2022-03-23 12:50:25+00:00 | 593 | 3361 | Shell | 866 | [] |
 | Bio3SS/Exploitation_models | None | https://github.com/Bio3SS/Exploitation_models | ['exploit'] | 1 | 2022-03-23 13:06:27+00:00 | 21 | 0 | R | 0 | [] |
@@ -90,14 +94,15 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-23 04:27:42+00:00 | 4361 | 2630 | PowerShell | 745 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-03-23 13:46:57+00:00 | 27282 | 8837 | Python | 1491 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-23 11:41:22+00:00 | 46862 | 865 | Python | 205 | [] |
-| lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-03-23 15:28:43+00:00 | 317464 | 1 | Jupyter Notebook | 0 | [] |
-| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-03-23 13:12:27+00:00 | 1071 | 1 | Python | 0 | [] |
-| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2022-03-23 06:42:54+00:00 | 211260 | 0 | Shell | 0 | [] |
+| Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-03-23 16:42:39+00:00 | 386 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-23 00:04:18+00:00 | 463371 | 47 | | 20 | [] |
+| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2022-03-23 06:42:54+00:00 | 211260 | 0 | Shell | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-23 01:42:00+00:00 | 44283 | 2 | Python | 0 | [] |
 | xx-demon/NoFileAtt | NoFileAtt-ShellCode | https://github.com/xx-demon/NoFileAtt | ['shellcode'] | 1 | 2022-03-23 06:56:32+00:00 | 5 | 0 | NASL | 0 | [] |
 | senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-03-23 05:35:24+00:00 | 2901 | 0 | Python | 1 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-23 08:39:49+00:00 | 6143 | 1425 | TypeScript | 230 | [] |
 | ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-23 00:45:25+00:00 | 264 | 0 | | 0 | [] |
+| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-03-23 21:45:21+00:00 | 341 | 382 | C# | 81 | [] |
 | tercen/teRcenApi | Tercen R api | https://github.com/tercen/teRcenApi | ['rce'] | 1 | 2022-03-23 10:08:47+00:00 | 261 | 0 | R | 0 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit', 'shellcode'] | 2 | 2022-03-23 13:12:49+00:00 | 4267 | 4 | Python | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-23 01:25:34+00:00 | 4175554 | 29 | Python | 4 | [] |
@@ -105,8 +110,8 @@
 | cirosantilli/china-dictatorhsip-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorhsip-2 | ['attack poc', 'exploit'] | 2 | 2022-03-23 10:40:13+00:00 | 12276 | 27 | HTML | 13 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-23 10:06:27+00:00 | 7 | 2 | C++ | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-23 01:46:26+00:00 | 8049 | 78 | HTML | 21 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-23 01:42:00+00:00 | 44283 | 2 | Python | 0 | [] |
 | m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2022-03-23 21:14:21+00:00 | 19365 | 0 | C# | 0 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-23 10:48:54+00:00 | 42807 | 17 | Python | 5 | [] |
 | ReJimp/Kernel_Exploit | HEVD & CVE Exploit | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2022-03-23 00:50:58+00:00 | 568 | 3 | C | 0 | [] |
 | KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-03-23 03:39:13+00:00 | 89250 | 3 | Python | 0 | [] |
 | Sentinal920/WPanel4-Authenticated-RCE | None | https://github.com/Sentinal920/WPanel4-Authenticated-RCE | ['rce'] | 1 | 2022-03-23 13:59:07+00:00 | 20 | 0 | Python | 0 | [] |
@@ -116,7 +121,7 @@
 | ContractAutomataProject/ContractAutomataApp | This is a GUI application of the Contract Automata Toolkit, exploiting the contract automata library to put contract automata at work | https://github.com/ContractAutomataProject/ContractAutomataApp | ['exploit'] | 1 | 2022-03-23 17:32:38+00:00 | 114093 | 0 | Java | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-23 04:00:39+00:00 | 116145 | 346 | Python | 101 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-23 04:28:47+00:00 | 1080414 | 92 | | 17 | [] |
+| Zpk2/Bruteforce-PoC | PoC demonstrating a bruteforce attack | https://github.com/Zpk2/Bruteforce-PoC | ['attack poc'] | 1 | 2022-03-23 22:15:28+00:00 | 20 | 2 | C# | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-23 00:47:52+00:00 | 121 | 0 | PHP | 0 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-23 05:17:53+00:00 | 81293 | 786 | Go | 133 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-23 10:48:54+00:00 | 42807 | 17 | Python | 5 | [] |
-| kamue1a/bufferOverflowCTF | Exploit the unguarded buffer to overwrite the return address in the stack pointer and print the flag. | https://github.com/kamue1a/bufferOverflowCTF | ['exploit'] | 1 | 2022-03-23 20:10:54+00:00 | 0 | 0 | C | 0 | [] |
+| ApprenticeofEnder/selenium_boilerplate | Boilerplate for Selenium-based exploit automation | https://github.com/ApprenticeofEnder/selenium_boilerplate | ['exploit'] | 1 | 2022-03-23 21:54:44+00:00 | 0 | 0 | | 0 | [] |
