@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
 VU#11,0.33333333,https://github.com/AidenPearce369/Vulnserver-Walkthrough,AidenPearce369/Vulnserver-Walkthrough,457252612
 VU#11,0.33333333,https://github.com/nsandholtz/hotspot_paper,nsandholtz/hotspot_paper,384251587
+VU#11,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
 VU#11,0.25000000,https://github.com/Nintendo-Homebrew/Tiramisu,Nintendo-Homebrew/Tiramisu,462477498
 VU#11,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#11,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
