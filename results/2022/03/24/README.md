@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/24
     
-51 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-24 02:38:16+00:00 | 4392 | 2631 | PowerShell | 745 | [] |
-| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-24 03:14:27+00:00 | 69 | 5 | Solidity | 1 | [] |
+| sh3d0ww01f/nim_shellloader | nim,免杀,红队,shellcode,bypass | https://github.com/sh3d0ww01f/nim_shellloader | ['shellcode'] | 1 | 2022-03-24 02:37:48+00:00 | 1992 | 2 | Nim | 1 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-03-24 02:05:38+00:00 | 23418 | 0 | CSS | 0 | [] |
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2022-03-24 02:10:41+00:00 | 456 | 177 | Java | 35 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-03-24 03:27:41+00:00 | 175 | 1 | | 0 | [] |
@@ -17,8 +17,8 @@
 | zan8in/afrog | Fast and customisable vulnerability scanner based on simple YAML based CEL-GO. | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-24 01:51:14+00:00 | 1557 | 5 | Go | 0 | [] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-24 04:47:51+00:00 | 192 | 5 | nan | 0 | [] |
 | novafacing/vscdbg | VSCode debugger extension for binary exploitation. | https://github.com/novafacing/vscdbg | ['exploit'] | 1 | 2022-03-24 04:39:14+00:00 | 49 | 1 | TypeScript | 0 | [] |
+| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-03-24 03:14:27+00:00 | 69 | 5 | Solidity | 1 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-24 01:49:24+00:00 | 18 | 0 | Nix | 0 | [] |
-| sh3d0ww01f/nim_shellloader | nim,免杀,红队,shellcode,bypass | https://github.com/sh3d0ww01f/nim_shellloader | ['shellcode'] | 1 | 2022-03-24 02:37:48+00:00 | 1992 | 2 | Nim | 1 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-03-24 03:30:08+00:00 | 400344 | 339 | nan | 55 | [] |
 | atb7249/InjectInplant | Injects shellcode into explorer.exe process to achieve remote session | https://github.com/atb7249/InjectInplant | ['shellcode'] | 1 | 2022-03-24 05:27:20+00:00 | 14 | 0 | C++ | 0 | [] |
 | cryst4lliz3/CVE-2022-0824 | Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990. | https://github.com/cryst4lliz3/CVE-2022-0824 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-03-24 04:44:34+00:00 | 3 | 0 | Dockerfile | 0 | ['CVE-2022-0824'] |
@@ -29,10 +29,11 @@
 | Luk6785/protostar_exploit | None | https://github.com/Luk6785/protostar_exploit | ['exploit'] | 1 | 2022-03-24 03:17:03+00:00 | 0 | 0 | | 0 | [] |
 | jkana/CVE-2021-44529 | CVE-2021-44529 PoC | https://github.com/jkana/CVE-2021-44529 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-24 04:07:34+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-44529'] |
 | Haileng007/https-github.com-rcedo | None | https://github.com/Haileng007/https-github.com-rcedo | ['rce'] | 1 | 2022-03-24 04:14:38+00:00 | 0 | 0 | | 0 | [] |
+| polygraphene/DirtyPipe-Android | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | ['exploit'] | 1 | 2022-03-24 05:33:57+00:00 | 0 | 0 | C | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-03-24 01:35:37+00:00 | 668 | 4 | C | 0 | [] |
 | edavgaun/RCEL_506 | None | https://github.com/edavgaun/RCEL_506 | ['rce'] | 1 | 2022-03-24 01:15:43+00:00 | 0 | 0 | | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-24 05:10:06+00:00 | 237821 | 6981 | C | 1892 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-24 00:03:53+00:00 | 466565 | 47 | | 20 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-24 03:07:20+00:00 | 6151 | 1452 | TypeScript | 234 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-24 00:08:39+00:00 | 1534796 | 1596 | Python | 534 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-24 05:30:16+00:00 | 5932 | 3163 | Python | 688 | [] |
 | danielga/gmsv_serversecure | A module for Garry's Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | ['exploit'] | 1 | 2022-03-24 01:49:00+00:00 | 459 | 86 | C++ | 26 | [] |
@@ -43,9 +44,10 @@
 | bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2022-03-24 04:21:02+00:00 | 3249 | 386 | C | 107 | ['MS17-010'] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-03-24 05:16:48+00:00 | 15759 | 33 | Shell | 8 | [] |
 | FabioDefilippo/search-vulns | this bash script will help you to find vulnerabilities in ELF binary files! | https://github.com/FabioDefilippo/search-vulns | ['exploit'] | 1 | 2022-03-24 05:22:03+00:00 | 29 | 3 | Shell | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-24 00:03:53+00:00 | 466565 | 47 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-24 04:48:47+00:00 | 56607 | 17 | Python | 5 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-24 03:07:20+00:00 | 6151 | 1452 | TypeScript | 234 | [] |
 | BlackLambert/astrominer | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | ['exploit'] | 1 | 2022-03-24 00:22:40+00:00 | 2394 | 0 | ShaderLab | 0 | [] |
+| xrenaa/DisCo | [ICLR2022] Code for "Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View" | https://github.com/xrenaa/DisCo | ['exploit'] | 1 | 2022-03-24 06:03:26+00:00 | 21446 | 78 | Python | 5 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-24 00:54:20+00:00 | 122 | 0 | PHP | 0 | [] |
 | ngimb64/Shellcode-Generator | Linux script to parse the raw bytes from objdump into shellcode. | https://github.com/ngimb64/Shellcode-Generator | ['shellcode'] | 1 | 2022-03-24 00:15:44+00:00 | 19 | 1 | Python | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-24 04:29:45+00:00 | 1106055 | 93 | | 17 | [] |
@@ -55,4 +57,4 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-24 01:41:13+00:00 | 8048 | 79 | HTML | 21 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-24 01:49:15+00:00 | 12 | 2 | C++ | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-24 01:19:20+00:00 | 4117402 | 30 | Python | 4 | [] |
-| polygraphene/DirtyPipe-Android | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | ['exploit'] | 1 | 2022-03-24 05:33:57+00:00 | 0 | 0 | C | 0 | [] |
+| TKLinux966/CVE-2020-8163 | This is a exploit code for CVE-202-8163 | https://github.com/TKLinux966/CVE-2020-8163 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-24 06:45:38+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-8163'] |
