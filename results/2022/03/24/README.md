@@ -1,12 +1,14 @@
 
 # Summary for results/2022/03/24
     
-23 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-03-24 02:38:16+00:00 | 4392 | 2631 | PowerShell | 745 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-24 00:08:39+00:00 | 1534796 | 1596 | Python | 534 | [] |
-| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-24 01:49:15+00:00 | 12 | 2 | C++ | 1 | [] |
+| ROBLOXRBLXH/ROBLOX-KOHLS-ADMIN-EXPLOIT | KOHLS ADMIN SCRIPT | https://github.com/ROBLOXRBLXH/ROBLOX-KOHLS-ADMIN-EXPLOIT | ['exploit'] | 1 | 2022-03-24 02:24:54+00:00 | 0 | 0 | | 0 | [] |
+| buff07/CVE-2022-10249 | nan | https://github.com/buff07/CVE-2022-10249 | ['cve-2 OR cve_2'] | 1 | 2022-03-24 02:09:52+00:00 | 0 | 0 | nan | 0 | ['CVE-2022-10249'] |
 | 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-03-24 01:26:57+00:00 | 19 | 0 | | 0 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-03-24 01:49:24+00:00 | 18 | 0 | Nix | 0 | [] |
 | zan8in/afrog | Fast and customisable vulnerability scanner based on simple YAML based CEL-GO. | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-24 01:51:14+00:00 | 1557 | 5 | Go | 0 | [] |
@@ -14,10 +16,11 @@
 | whwlsfb/Log4j2Scan | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan | ['rce'] | 1 | 2022-03-24 02:10:41+00:00 | 456 | 177 | Java | 35 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-03-24 02:05:38+00:00 | 23418 | 0 | CSS | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-03-24 01:35:37+00:00 | 668 | 4 | C | 0 | [] |
+| sh3d0ww01f/nim_shellloader | nim,免杀,红队,shellcode,bypass | https://github.com/sh3d0ww01f/nim_shellloader | ['shellcode'] | 1 | 2022-03-24 02:37:48+00:00 | 1992 | 2 | Nim | 1 | [] |
 | edavgaun/RCEL_506 | None | https://github.com/edavgaun/RCEL_506 | ['rce'] | 1 | 2022-03-24 01:15:43+00:00 | 0 | 0 | | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-24 01:19:20+00:00 | 4117402 | 30 | Python | 4 | [] |
+| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-24 01:49:15+00:00 | 12 | 2 | C++ | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-24 01:41:13+00:00 | 8048 | 79 | HTML | 21 | [] |
-| danielga/gmsv_serversecure | A module for Garry's Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | ['exploit'] | 1 | 2022-03-24 01:49:00+00:00 | 459 | 86 | C++ | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-24 01:38:17+00:00 | 46112 | 2 | Python | 0 | [] |
 | KiritoLoveAsuna/Exploits | self-written exploits for all Nday vulnerabilities | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-03-24 01:25:28+00:00 | 89257 | 3 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-24 00:56:59+00:00 | 119811 | 348 | Python | 101 | [] |
@@ -26,5 +29,7 @@
 | BlackLambert/astrominer | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | ['exploit'] | 1 | 2022-03-24 00:22:40+00:00 | 2394 | 0 | ShaderLab | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-24 00:03:53+00:00 | 466565 | 47 | | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-24 00:47:07+00:00 | 53737 | 32 | | 19 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-24 02:30:26+00:00 | 225570 | 139 | REXX | 12 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-24 00:20:35+00:00 | 261982 | 295 | Ruby | 85 | [] |
-| buff07/CVE-2022-10249 | nan | https://github.com/buff07/CVE-2022-10249 | ['cve-2 OR cve_2'] | 1 | 2022-03-24 02:09:52+00:00 | 0 | 0 | nan | 0 | ['CVE-2022-10249'] |
+| danielga/gmsv_serversecure | A module for Garry's Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | ['exploit'] | 1 | 2022-03-24 01:49:00+00:00 | 459 | 86 | C++ | 26 | [] |
+| jhhua/Cs_X_Msf_inject | Auxiliary tool to inject dll,for metasploit or CobaltStrike DLL injectionn modules | https://github.com/jhhua/Cs_X_Msf_inject | ['metasploit module OR payload'] | 1 | 2022-03-24 02:48:12+00:00 | 0 | 0 | | 0 | [] |
