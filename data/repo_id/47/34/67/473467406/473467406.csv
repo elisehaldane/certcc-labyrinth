@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+473467406,polygraphene/DirtyPipe-Android,dirtypipe-android.c,23c07a4121bcd118edfaf25dd89ae63f7a128120,CVE-2022-0847
+473467406,polygraphene/DirtyPipe-Android,README.md,5109180915f08817d664153ada5c58c51e182637,CVE-2022-0847
+473467406,polygraphene/DirtyPipe-Android,stage2-c.c,537e52fdbb695ffce3dfa7e69158f1076a55424d,CVE-2022-0847
