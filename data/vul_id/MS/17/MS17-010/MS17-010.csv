@@ -199,7 +199,6 @@ MS17-010,0.14285714,https://github.com/OrangeHacking-CyberSecurity/Metasploit,Or
 MS17-010,0.14285714,https://github.com/rouze-d/metasploit_eternal_doublepulsar,rouze-d/metasploit_eternal_doublepulsar,361634178
 MS17-010,0.14285714,https://github.com/BlackCyber21/exploit-toolkit,BlackCyber21/exploit-toolkit,356499280
 MS17-010,0.14285714,https://github.com/maxiwoj/Ethsploiter,maxiwoj/Ethsploiter,261003330
-MS17-010,0.14285714,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 MS17-010,0.14285714,https://github.com/N1ckDunn/Exploitivator,N1ckDunn/Exploitivator,218966600
 MS17-010,0.14285714,https://github.com/dar3k93/Basic-service-enumeration,dar3k93/Basic-service-enumeration,179030030
 MS17-010,0.14285714,https://github.com/chaao195/EBEKv2.0,chaao195/EBEKv2.0,163538019
@@ -249,6 +248,7 @@ MS17-010,0.05555556,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 MS17-010,0.05263158,https://github.com/rayhan0x01/reverse-shell-able-exploit-pocs,rayhan0x01/reverse-shell-able-exploit-pocs,299184197
 MS17-010,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
 MS17-010,0.04761905,https://github.com/ColdFusionX/ColdFusionX.github.io,ColdFusionX/ColdFusionX.github.io,289978694
+MS17-010,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 MS17-010,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
 MS17-010,0.04761905,https://github.com/RootUp/AutoSploit,RootUp/AutoSploit,94699487
 MS17-010,0.04545455,https://github.com/Fplyth0ner-Combie/Bug-Project-Framework,Fplyth0ner-Combie/Bug-Project-Framework,131603063
@@ -395,7 +395,7 @@ MS17-010,0.00052165,https://github.com/w3h/isf,w3h/isf,96204829
 MS17-010,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 MS17-010,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS17-010,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
-MS17-010,0.00027196,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00027167,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS17-010,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS17-010,0.00025733,https://github.com/syokake/metasploit-framework,syokake/metasploit-framework,91141820
