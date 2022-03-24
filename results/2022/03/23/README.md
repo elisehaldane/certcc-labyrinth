@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/23
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -21,7 +21,7 @@
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-23 03:33:53+00:00 | 188 | 4 | nan | 0 | [] |
 | OliverMBathurst/ps4-exploit-self-host | My PS4 exploit host | https://github.com/OliverMBathurst/ps4-exploit-self-host | ['exploit'] | 1 | 2022-03-23 18:14:47+00:00 | 2841 | 1 | TypeScript | 0 | [] |
 | RobloxArchiver/WrapperLib | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/WrapperLib | ['exploit'] | 1 | 2022-03-23 13:09:45+00:00 | 56 | 1 | Lua | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-23 12:43:14+00:00 | 22429 | 6923 | JavaScript | 1605 | [] |
+| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-23 05:38:27+00:00 | 130 | 8 | | 3 | ['CVE-2021-44228'] |
 | hotpotcookie/lol4j-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-03-23 15:34:37+00:00 | 135 | 1 | Java | 0 | ['CVE-2021-44228'] |
 | illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-23 13:48:57+00:00 | 1647 | 0 | Python | 0 | [] |
 | coding-stuffs/china-dictatorshrip | Anti Chinese government information. 反中共消息库。https://github.com/cirosantilli/china-dictatorship 的备份backup. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/coding-stuffs/china-dictatorshrip | ['attack poc', 'exploit'] | 2 | 2022-03-23 10:40:13+00:00 | 8310 | 5 | HTML | 1 | [] |
@@ -67,9 +67,9 @@
 | jdb5523/flask-rce-demo | None | https://github.com/jdb5523/flask-rce-demo | ['rce'] | 1 | 2022-03-23 01:58:04+00:00 | 0 | 0 | HTML | 0 | [] |
 | SenMartinserna/JonyHacker | JNX Exploit Free | https://github.com/SenMartinserna/JonyHacker | ['exploit'] | 1 | 2022-03-23 00:49:56+00:00 | 0 | 0 | | 0 | [] |
 | CERTCC/CVE-2021-44228_scanner | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | ['cve-2 OR cve_2'] | 1 | 2022-03-23 18:12:51+00:00 | 448 | 336 | PowerShell | 94 | ['CVE-2021-44228'] |
-| razz0r/CVE-2021-44228-Mass-RCE | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-03-23 05:38:27+00:00 | 130 | 8 | | 3 | ['CVE-2021-44228'] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-03-23 04:07:11+00:00 | 68215 | 2 | Python | 7 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-23 00:04:18+00:00 | 463371 | 47 | | 20 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-23 12:43:14+00:00 | 22429 | 6923 | JavaScript | 1605 | [] |
+| tercen/teRcen | Tercen R client api | https://github.com/tercen/teRcen | ['rce'] | 1 | 2022-03-23 10:13:42+00:00 | 517 | 0 | R | 0 | [] |
 | Franco7Scala/exploiting_gradient | None | https://github.com/Franco7Scala/exploiting_gradient | ['exploit'] | 1 | 2022-03-23 16:42:39+00:00 | 386 | 0 | Python | 0 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-03-23 15:28:43+00:00 | 317464 | 1 | Jupyter Notebook | 0 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3, PS4 & PS5 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-03-23 07:00:18+00:00 | 319382 | 53 | JavaScript | 16 | [] |
@@ -83,8 +83,9 @@
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2022-03-23 19:38:16+00:00 | 1670 | 13 | JavaScript | 32 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2022-03-23 20:26:42+00:00 | 4783 | 1274 | C | 188 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-23 00:24:52+00:00 | 260441 | 295 | Ruby | 85 | [] |
-| tercen/teRcen | Tercen R client api | https://github.com/tercen/teRcen | ['rce'] | 1 | 2022-03-23 10:13:42+00:00 | 517 | 0 | R | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-03-23 11:35:04+00:00 | 72214 | 10907 | Jupyter Notebook | 1903 | [] |
+| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-03-23 21:40:21+00:00 | 18 | 0 | Python | 0 | [] |
+| david942j/one_gadget | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | ['exploit', 'rce'] | 2 | 2022-03-23 21:51:32+00:00 | 13992 | 1539 | Ruby | 125 | [] |
 | ParrotSec/metasploit-framework | None | https://github.com/ParrotSec/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-23 13:04:43+00:00 | 69954 | 10 | Ruby | 12 | [] |
 | mzet-/linux-exploit-suggester | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | ['exploit'] | 1 | 2022-03-23 12:50:25+00:00 | 593 | 3361 | Shell | 866 | [] |
 | Bio3SS/Exploitation_models | None | https://github.com/Bio3SS/Exploitation_models | ['exploit'] | 1 | 2022-03-23 13:06:27+00:00 | 21 | 0 | R | 0 | [] |
@@ -98,8 +99,8 @@
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-03-23 13:46:57+00:00 | 27282 | 8837 | Python | 1491 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-03-23 11:41:22+00:00 | 46862 | 865 | Python | 205 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-03-23 13:12:27+00:00 | 1071 | 1 | Python | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-23 00:04:18+00:00 | 463371 | 47 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-23 10:48:54+00:00 | 42807 | 17 | Python | 5 | [] |
-| kryptohaker/exploits | Written exploits by me | https://github.com/kryptohaker/exploits | ['exploit'] | 1 | 2022-03-23 21:40:21+00:00 | 18 | 0 | Python | 0 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-23 05:17:53+00:00 | 81293 | 786 | Go | 133 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-03-23 18:10:36+00:00 | 513 | 9 | | 1 | [] |
 | koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2022-03-23 06:42:54+00:00 | 211260 | 0 | Shell | 0 | [] |
