@@ -19,7 +19,7 @@ repo_id,repo_full_name,file,file_sha1,match
 13932470,leebaird/discover,notes/active-directory.txt,7aa1eddc6f3321e42a89a2e48b43daf3f1236d42,CVE-2020-1472
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#29
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#40
+13932470,leebaird/discover,notes/linux.txt,9bf0f79e73eb6b714a46acad65cbb1c2960d6bcf,CVE-2022-0847
 13932470,leebaird/discover,notes/pwk.txt,c9dc8e4d08adbb8431807de8a23bf4e99a20aed3,MS12-037
 13932470,leebaird/discover,notes/pwk.txt,c9dc8e4d08adbb8431807de8a23bf4e99a20aed3,MS11-080
 13932470,leebaird/discover,resource/445-smb.rc,e0910be58b72c2fcd594c6d03861a73ecfc80c3e,MS17-010
-13932470,leebaird/discover,notes/linux.txt,f1e91d091e83d8cf54b51aee3b3d377c540e1973,CVE-2022-0847
