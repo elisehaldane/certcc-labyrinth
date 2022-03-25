@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/24
     
-153 records found after deduplication
+154 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------|
@@ -15,7 +15,7 @@
 | weewoo22/memflow-shellcode | Shellcode execution for memflow | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-03-24 19:47:48+00:00 | 26 | 7 | Zig | 1 | [] |
 | PrestaDZ/vsftpd-2.3.4 | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/PrestaDZ/vsftpd-2.3.4 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-24 17:52:22+00:00 | 11 | 0 | Python | 0 | ['CVE-2011-2523'] |
 | AfroooCircuss/NeonExploit | None | https://github.com/AfroooCircuss/NeonExploit | ['exploit'] | 1 | 2022-03-24 20:58:09+00:00 | 1 | 0 | | 0 | [] |
-| natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-03-24 22:09:09+00:00 | 55 | 11 | Python | 5 | [] |
+| 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-03-24 01:26:57+00:00 | 19 | 0 | | 0 | [] |
 | sevnth/exploit-vscode-theme | None | https://github.com/sevnth/exploit-vscode-theme | ['exploit'] | 1 | 2022-03-24 13:49:51+00:00 | 76 | 0 | | 0 | [] |
 | Enokiy/cve-2022-22947-spring-cloud-gateway | None | https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway | ['cve-2 OR cve_2'] | 1 | 2022-03-24 11:13:00+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22947'] |
 | atb7249/InjectInplant | Injects shellcode into explorer.exe process to achieve remote session | https://github.com/atb7249/InjectInplant | ['shellcode'] | 1 | 2022-03-24 05:27:20+00:00 | 14 | 0 | C++ | 0 | [] |
@@ -43,17 +43,18 @@
 | zan8in/afrog | Fast and customisable vulnerability scanner based on simple YAML based CEL-GO. | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-24 01:51:14+00:00 | 1557 | 5 | Go | 0 | [] |
 | winterrdog/shellcode-myner | Extracts shellcode from any specified binary/object file. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-03-24 08:59:32+00:00 | 58 | 2 | Rust | 0 | [] |
 | 039710/RCE-Node-Simple | Simple RCE exploit using eval builtin function | https://github.com/039710/RCE-Node-Simple | ['exploit', 'rce'] | 2 | 2022-03-24 12:10:31+00:00 | 4 | 0 | JavaScript | 0 | [] |
-| 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-03-24 01:26:57+00:00 | 19 | 0 | | 0 | [] |
 | buff07/CVE-2022-10249 | None | https://github.com/buff07/CVE-2022-10249 | ['cve-2 OR cve_2'] | 1 | 2022-03-24 02:09:52+00:00 | 0 | 0 | | 0 | ['CVE-2022-10249'] |
-| delonekg/pong-game-python | Ah, yes! Pong another excellent example of one of the most nostalgic games ever built on this planet Earth. First built by a wise man, who had found an exploit to the gaming industry and succeeded! | https://github.com/delonekg/pong-game-python | ['exploit'] | 1 | 2022-03-24 13:00:42+00:00 | 0 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-24 18:48:25+00:00 | 22429 | 6933 | JavaScript | 1610 | [] |
+| RcsBum/Fortnite-Hack-Esp-Exploits-With-Menu | None | https://github.com/RcsBum/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-24 18:25:20+00:00 | 0 | 0 | | 0 | [] |
+| Tanjoui/Python-Webscraper | This project allows to retrieve information from websites, and to store it as exploitable data | https://github.com/Tanjoui/Python-Webscraper | ['exploit'] | 1 | 2022-03-24 15:07:04+00:00 | 0 | 0 | Python | 0 | [] |
 | 0x34d/Exploit-dev | Full-fledged binary Exploit-dev | https://github.com/0x34d/Exploit-dev | ['exploit'] | 1 | 2022-03-24 15:23:09+00:00 | 0 | 0 | | 0 | [] |
 | frankienhayesa/glowing-computing-machine | Amazon announced a new device called the Glow during its fall product launch event, a $250 video chatting gadget that allows children to virtually interact with loved ones by playing games and reading books together. Although the company has been selling t | https://github.com/frankienhayesa/glowing-computing-machine | ['remote code execution'] | 1 | 2022-03-24 16:00:49+00:00 | 0 | 0 | | 0 | [] |
 | YashTechnoBoy/metasploittest | None | https://github.com/YashTechnoBoy/metasploittest | ['metasploit module OR payload'] | 1 | 2022-03-24 16:12:38+00:00 | 0 | 0 | PHP | 0 | [] |
 | tzwlhack/python-sploitkit | None | https://github.com/tzwlhack/python-sploitkit | ['sploit'] | 1 | 2022-03-24 16:48:23+00:00 | 0 | 0 | Python | 0 | [] |
 | zxzxz1/Exploit | Exploit | https://github.com/zxzxz1/Exploit | ['exploit'] | 1 | 2022-03-24 17:17:30+00:00 | 0 | 0 | Lua | 0 | [] |
 | no0g/ROPEmporium | Collection of exploit as my solution for challenges in ropemporium.com | https://github.com/no0g/ROPEmporium | ['exploit'] | 1 | 2022-03-24 18:06:07+00:00 | 0 | 0 | Python | 0 | [] |
-| RcsBum/Fortnite-Hack-Esp-Exploits-With-Menu | None | https://github.com/RcsBum/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-24 18:25:20+00:00 | 0 | 0 | | 0 | [] |
 | CISSP/pwn4vmapk | red team simulation environment, exploit, android security virtual machine and mitigation. | https://github.com/CISSP/pwn4vmapk | ['exploit'] | 1 | 2022-03-24 18:29:09+00:00 | 0 | 0 | | 0 | [] |
+| ROBLOXRBLXH/ROBLOX-KOHLS-ADMIN-EXPLOIT | KOHLS ADMIN SCRIPT | https://github.com/ROBLOXRBLXH/ROBLOX-KOHLS-ADMIN-EXPLOIT | ['exploit'] | 1 | 2022-03-24 02:24:54+00:00 | 0 | 0 | | 0 | [] |
 | RcsRep/Fortnite-Hack-Esp-Exploits-With-Menu | Fortnite HACK ESP EXPLOITS WITH MENU | https://github.com/RcsRep/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-24 19:32:42+00:00 | 0 | 0 | C++ | 0 | [] |
 | RcsRep/Fortnite-OrangeWare-Source-Full | Fortnite Full Source Interal Esp AImbot fixed with exploits | https://github.com/RcsRep/Fortnite-OrangeWare-Source-Full | ['exploit'] | 1 | 2022-03-24 19:38:00+00:00 | 0 | 0 | C++ | 0 | [] |
 | danieldurnea/WordPress-Exploit-60-Joomla-Exploit-20-Other-Filemanager-Exploit-500-WordPress-Joomla-Oth | 0day exploit | https://github.com/danieldurnea/WordPress-Exploit-60-Joomla-Exploit-20-Other-Filemanager-Exploit-500-WordPress-Joomla-Oth | ['0day', 'exploit'] | 2 | 2022-03-24 19:34:37+00:00 | 0 | 0 | | 0 | [] |
@@ -61,10 +62,10 @@
 | BENOSHITO/exploithosting.github.io | None | https://github.com/BENOSHITO/exploithosting.github.io | ['exploit'] | 1 | 2022-03-24 20:33:59+00:00 | 0 | 0 | HTML | 0 | [] |
 | asaddasad/unito-exploit | None | https://github.com/asaddasad/unito-exploit | ['exploit'] | 1 | 2022-03-24 21:21:22+00:00 | 0 | 0 | HTML | 0 | [] |
 | AgentInventor/exploiting-arson | None | https://github.com/AgentInventor/exploiting-arson | ['exploit'] | 1 | 2022-03-24 21:40:59+00:00 | 0 | 0 | | 0 | [] |
-| Tanjoui/Python-Webscraper | This project allows to retrieve information from websites, and to store it as exploitable data | https://github.com/Tanjoui/Python-Webscraper | ['exploit'] | 1 | 2022-03-24 15:07:04+00:00 | 0 | 0 | Python | 0 | [] |
+| delonekg/pong-game-python | Ah, yes! Pong another excellent example of one of the most nostalgic games ever built on this planet Earth. First built by a wise man, who had found an exploit to the gaming industry and succeeded! | https://github.com/delonekg/pong-game-python | ['exploit'] | 1 | 2022-03-24 13:00:42+00:00 | 0 | 0 | Python | 0 | [] |
 | alexander-fernandes/CVE-2019-16278 | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | https://github.com/alexander-fernandes/CVE-2019-16278 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-03-24 12:25:13+00:00 | 4 | 0 | Python | 0 | ['CVE-2019-16278'] |
-| ROBLOXRBLXH/ROBLOX-KOHLS-ADMIN-EXPLOIT | KOHLS ADMIN SCRIPT | https://github.com/ROBLOXRBLXH/ROBLOX-KOHLS-ADMIN-EXPLOIT | ['exploit'] | 1 | 2022-03-24 02:24:54+00:00 | 0 | 0 | | 0 | [] |
 | rcester/rcester | Config files for my GitHub profile. | https://github.com/rcester/rcester | ['rce'] | 1 | 2022-03-24 10:41:59+00:00 | 0 | 0 | | 0 | [] |
+| cyber-cafe-org/exploits | None | https://github.com/cyber-cafe-org/exploits | ['exploit'] | 1 | 2022-03-24 10:30:32+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | jhhua/Cs_X_Msf_inject | Auxiliary tool to inject dll,for metasploit or CobaltStrike DLL injectionn modules | https://github.com/jhhua/Cs_X_Msf_inject | ['metasploit module OR payload'] | 1 | 2022-03-24 02:48:12+00:00 | 0 | 0 | | 0 | [] |
 | Luk6785/protostar_exploit | None | https://github.com/Luk6785/protostar_exploit | ['exploit'] | 1 | 2022-03-24 03:17:03+00:00 | 0 | 0 | | 0 | [] |
 | jkana/CVE-2021-44529 | CVE-2021-44529 PoC | https://github.com/jkana/CVE-2021-44529 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-24 04:07:34+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-44529'] |
@@ -79,10 +80,10 @@
 | crystal1017ch/anyaschukinc | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/crystal1017ch/anyaschukinc | ['exploit'] | 1 | 2022-03-24 08:46:19+00:00 | 0 | 0 | | 0 | [] |
 | nxtexploit/CVE-2020-3580 | None | https://github.com/nxtexploit/CVE-2020-3580 | ['cve-2 OR cve_2'] | 1 | 2022-03-24 09:40:39+00:00 | 0 | 0 | HTML | 0 | ['CVE-2020-3580'] |
 | noob-Engle/redteam-shellcodeloader-code | shellcode加载 | https://github.com/noob-Engle/redteam-shellcodeloader-code | ['shellcode'] | 1 | 2022-03-24 09:44:16+00:00 | 0 | 0 | C++ | 0 | [] |
-| cyber-cafe-org/exploits | None | https://github.com/cyber-cafe-org/exploits | ['exploit'] | 1 | 2022-03-24 10:30:32+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| getcode2git/DaxiaGeGe | 武装你的工具库，分享0day EXP和工具 | https://github.com/getcode2git/DaxiaGeGe | ['0day'] | 1 | 2022-03-24 08:45:05+00:00 | 4185 | 0 | | 17 | [] |
 | razor1997/CostsExploitationCarFrontApp | It's front end app using angular framework | https://github.com/razor1997/CostsExploitationCarFrontApp | ['exploit'] | 1 | 2022-03-24 22:09:58+00:00 | 1111 | 0 | TypeScript | 0 | [] |
+| natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-03-24 22:09:09+00:00 | 55 | 11 | Python | 5 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-03-24 03:27:41+00:00 | 175 | 1 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-24 18:48:25+00:00 | 22429 | 6933 | JavaScript | 1610 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2022-03-24 05:16:48+00:00 | 15759 | 33 | Shell | 8 | [] |
 | dachafra/thesis | PhD thesis: "Knowledge Graph Construction from Heterogeneous Data Sources exploiting Declarative Mapping Rules" | https://github.com/dachafra/thesis | ['exploit'] | 1 | 2022-03-24 15:47:23+00:00 | 102360 | 7 | TeX | 3 | [] |
 | bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2022-03-24 04:21:02+00:00 | 3249 | 386 | C | 107 | ['MS17-010'] |
