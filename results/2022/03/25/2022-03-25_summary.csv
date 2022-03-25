@@ -1,0 +1,10 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+offensive-security/exploitdb-bin-sploits,Exploit Database binary exploits located in the /sploits directory,https://github.com/offensive-security/exploitdb-bin-sploits,"['exploit', 'sploit']",2,2022-03-25T00:08:41+0000,1534796,1597,Python,535,[]
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-03-25T00:20:26+0000,263522,295,Ruby,85,[]
+vulsio/go-exploitdb,"Tool for searching Exploits from Exploit Databases, etc.",https://github.com/vulsio/go-exploitdb,['exploit'],1,2022-03-25T00:21:19+0000,1180,154,Go,39,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-03-25T00:47:07+0000,54014,32,,19,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-03-25T00:04:05+0000,469828,47,,20,[]
+ConsumingChef/ConsumerHub,Roblox Exploit,https://github.com/ConsumingChef/ConsumerHub,['exploit'],1,2022-03-25T00:52:07+0000,274,0,,0,[]
+Vegetebird/StridedTransformer-Pose3D,[TMM 2022] Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation,https://github.com/Vegetebird/StridedTransformer-Pose3D,['exploit'],1,2022-03-25T00:05:07+0000,14433,32,Python,6,[]
+weewoo22/memflow-shellcode,Shellcode execution for memflow,https://github.com/weewoo22/memflow-shellcode,['shellcode'],1,2022-03-25T00:29:06+0000,27,7,Zig,1,[]
+nobelh/CVEs,CVEs PoC Repo,https://github.com/nobelh/CVEs,['cve poc'],1,2022-03-25T00:52:56+0000,3,0,C,0,[]
