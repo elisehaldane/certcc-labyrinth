@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+468068745,DataDog/dirtypipe-container-breakout-poc,image/exploit.c,0b1c3e8d3052b3cab78f895a266efdb22796b860,CVE-2022-0847
+468068745,DataDog/dirtypipe-container-breakout-poc,README.md,9b047fb4550b031a071f76f0e6dc1feb6426dbba,CVE-2019-5736
+468068745,DataDog/dirtypipe-container-breakout-poc,README.md,9b047fb4550b031a071f76f0e6dc1feb6426dbba,CVE-2022-0847
+468068745,DataDog/dirtypipe-container-breakout-poc,_GITHUB_REPO_METADATA_,,CVE-2022-0847
