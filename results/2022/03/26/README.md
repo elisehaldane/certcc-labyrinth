@@ -1,13 +1,12 @@
 
 # Summary for results/2022/03/26
     
-73 records found after deduplication
+74 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-26 10:34:09+00:00 | 22430 | 6944 | JavaScript | 1611 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-26 04:42:39+00:00 | 93055 | 2532 | | 308 | [] |
-| nxtexploit/CVE-2020-3580 | None | https://github.com/nxtexploit/CVE-2020-3580 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 14:39:56+00:00 | 5 | 0 | HTML | 0 | ['CVE-2020-3580'] |
+| no0g/ROPEmporium | Collection of exploit as my solution for challenges in ropemporium.com | https://github.com/no0g/ROPEmporium | ['exploit'] | 1 | 2022-03-26 09:35:13+00:00 | 7 | 0 | Python | 0 | [] |
 | Luk6785/protostar_exploit | None | https://github.com/Luk6785/protostar_exploit | ['exploit'] | 1 | 2022-03-26 07:10:24+00:00 | 8 | 0 | | 0 | [] |
 | nonamecoder/CVE-2022-27254 | PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254) | https://github.com/nonamecoder/CVE-2022-27254 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-03-26 03:07:50+00:00 | 2 | 113 | | 10 | ['CVE-2022-27254'] |
 | Ryze-T/cdb-wds | 利用白名单文件 cdb.exe 执行 shellcode | https://github.com/Ryze-T/cdb-wds | ['shellcode'] | 1 | 2022-03-26 04:33:20+00:00 | 156 | 122 | Python | 20 | [] |
@@ -21,28 +20,30 @@
 | Mario-Kart-Felix/solar-wind-hacker-book | 2020 was a roller coaster of major, world-shaking events. We all couldn't wait for the year to end. But just as 2020 was about to close, it pulled another fast one on us: the SolarWinds hack, one of the biggest cybersecurity breaches of the 21st century. | https://github.com/Mario-Kart-Felix/solar-wind-hacker-book | ['command injection', 'exploit'] | 2 | 2022-03-26 06:56:12+00:00 | 17 | 2 | | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-03-26 06:22:23+00:00 | 16238 | 0 | | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-26 00:52:59+00:00 | 140 | 0 | | 0 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-26 15:38:07+00:00 | 1596 | 6 | Go | 0 | [] |
 | h4ck3r0/Metasploit-termux | Install Metasploit In Termux Without Error | https://github.com/h4ck3r0/Metasploit-termux | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-26 05:39:02+00:00 | 7936 | 3 | Shell | 0 | [] |
-| no0g/ROPEmporium | Collection of exploit as my solution for challenges in ropemporium.com | https://github.com/no0g/ROPEmporium | ['exploit'] | 1 | 2022-03-26 09:35:13+00:00 | 7 | 0 | Python | 0 | [] |
+| nxtexploit/CVE-2020-3580 | None | https://github.com/nxtexploit/CVE-2020-3580 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 14:39:56+00:00 | 5 | 0 | HTML | 0 | ['CVE-2020-3580'] |
 | PSO-Group/BrowserExploitationToolkit | 🧰 A toolkit to exploit the clients browser | https://github.com/PSO-Group/BrowserExploitationToolkit | ['exploit'] | 1 | 2022-03-26 12:15:14+00:00 | 19 | 0 | HTML | 1 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-26 00:08:43+00:00 | 1534796 | 1598 | Python | 535 | [] |
 | EpicCatto/Bcc-Security-Vulnerability | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | ['exploit'] | 1 | 2022-03-26 04:24:31+00:00 | 22 | 0 | | 0 | [] |
-| ExploiterWolfy/ExploiterWolfy.github.io | None | https://github.com/ExploiterWolfy/ExploiterWolfy.github.io | ['exploit'] | 1 | 2022-03-26 09:36:31+00:00 | 0 | 0 | EJS | 0 | [] |
 | Eddi0x/Last-Silent-PDF-Exploit | None | https://github.com/Eddi0x/Last-Silent-PDF-Exploit | ['exploit'] | 1 | 2022-03-26 13:58:16+00:00 | 0 | 1 | | 0 | [] |
 | banxian/EDUReviver | J-Link edu v10/v11 usb exploit utility | https://github.com/banxian/EDUReviver | ['exploit'] | 1 | 2022-03-26 13:55:45+00:00 | 0 | 0 | | 0 | [] |
 | h2oco2PU/BeEF | Testing of Web Exploitation | https://github.com/h2oco2PU/BeEF | ['exploit'] | 1 | 2022-03-26 12:26:39+00:00 | 0 | 0 | PHP | 0 | [] |
 | theLSA/sunlogin-exp-cmd | 命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool | https://github.com/theLSA/sunlogin-exp-cmd | ['exploit', 'rce'] | 2 | 2022-03-26 10:06:47+00:00 | 0 | 2 | C++ | 0 | [] |
 | t13pm/exploit-db | None | https://github.com/t13pm/exploit-db | ['exploit'] | 1 | 2022-03-26 09:38:20+00:00 | 0 | 0 | Shell | 0 | [] |
 | theLSA/sunlogin-exp-gui | java GUI版向日葵RCE漏洞检测工具 / sunlogin exploit GUI tool | https://github.com/theLSA/sunlogin-exp-gui | ['exploit', 'rce'] | 2 | 2022-03-26 09:32:41+00:00 | 0 | 1 | Java | 0 | [] |
+| ExploiterWolfy/ExploiterWolfy.github.io | None | https://github.com/ExploiterWolfy/ExploiterWolfy.github.io | ['exploit'] | 1 | 2022-03-26 09:36:31+00:00 | 0 | 0 | EJS | 0 | [] |
 | cckuailong/spring-cloud-function-SpEL-RCE | spring-cloud-function SpEL RCE, Vultarget & Poc | https://github.com/cckuailong/spring-cloud-function-SpEL-RCE | ['rce', 'rce poc'] | 2 | 2022-03-26 08:42:50+00:00 | 0 | 0 | Java | 0 | [] |
-| raesene/CVE-2022-23648-POC | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-26 13:42:49+00:00 | 5 | 7 | Dockerfile | 3 | ['CVE-2022-23648'] |
 | brookehorizon/HungryRAT | Remote access tool | https://github.com/brookehorizon/HungryRAT | ['metasploit module OR payload'] | 1 | 2022-03-26 07:51:56+00:00 | 12 | 1 | PowerShell | 0 | [] |
 | 0DayResearcher/0DayResearcher | Config files for my GitHub profile. | https://github.com/0DayResearcher/0DayResearcher | ['0day'] | 1 | 2022-03-26 06:54:12+00:00 | 0 | 0 | nan | 0 | [] |
 | sysenter-eip/CVE-2022-26629 | None | https://github.com/sysenter-eip/CVE-2022-26629 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 06:09:50+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-26629'] |
 | YeYuDao/www_36tz_cn_5217446 | Windows平台高效Shellcode编程技术实战 | https://github.com/YeYuDao/www_36tz_cn_5217446 | ['shellcode'] | 1 | 2022-03-26 03:08:21+00:00 | 0 | 0 | | 0 | [] |
 | weto91/GitHub_Search_CVE | CVE exploit searcher from GitHub with some deploy options | https://github.com/weto91/GitHub_Search_CVE | ['exploit'] | 1 | 2022-03-26 11:55:55+00:00 | 26 | 0 | Shell | 0 | [] |
 | hktalent/spring-spel-0day-poc | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP | https://github.com/hktalent/spring-spel-0day-poc | ['0day', 'rce', 'rce poc'] | 3 | 2022-03-26 02:07:09+00:00 | 0 | 3 | | 0 | [] |
+| raesene/CVE-2022-23648-POC | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-26 13:42:49+00:00 | 5 | 7 | Dockerfile | 3 | ['CVE-2022-23648'] |
 | nikasakandelidze/remote-code-execution-engine | REST API for executing code in remote containers like hackerrank or leetcode | https://github.com/nikasakandelidze/remote-code-execution-engine | ['remote code execution'] | 1 | 2022-03-26 13:04:15+00:00 | 487 | 0 | Python | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-26 04:42:39+00:00 | 93055 | 2532 | | 308 | [] |
 | SVEFinders/KaplashTools | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | ['exploit'] | 1 | 2022-03-26 07:59:48+00:00 | 11 | 2 | Python | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-26 00:08:43+00:00 | 1534796 | 1598 | Python | 535 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-26 10:48:38+00:00 | 2865 | 37 | | 2 | [] |
 | NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-03-26 05:52:50+00:00 | 3243 | 3 | C | 1 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-26 03:42:43+00:00 | 90911 | 706 | Go | 156 | [] |
