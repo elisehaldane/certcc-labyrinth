@@ -1,14 +1,14 @@
 
 # Summary for results/2022/03/26
     
-37 records found after deduplication
+40 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-26 00:08:43+00:00 | 1534796 | 1598 | Python | 535 | [] |
-| ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-26 00:19:09+00:00 | 337 | 0 | | 0 | [] |
-| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-26 04:13:19+00:00 | 350252 | 398 | PHP | 137 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-26 07:01:09+00:00 | 5968 | 3168 | Python | 688 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-03-26 05:11:50+00:00 | 61163 | 0 | CSS | 1 | [] |
+| SVEFinders/KaplashTools | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | ['exploit'] | 1 | 2022-03-26 07:59:48+00:00 | 11 | 2 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-26 04:42:39+00:00 | 93055 | 2532 | | 308 | [] |
 | h4ck3r0/Metasploit-termux | Install Metasploit In Termux Without Error | https://github.com/h4ck3r0/Metasploit-termux | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-26 05:39:02+00:00 | 7936 | 3 | Shell | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-26 00:52:59+00:00 | 140 | 0 | | 0 | [] |
@@ -19,13 +19,15 @@
 | nonamecoder/CVE-2022-27254 | PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254) | https://github.com/nonamecoder/CVE-2022-27254 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-03-26 03:07:50+00:00 | 2 | 113 | | 10 | ['CVE-2022-27254'] |
 | Luk6785/protostar_exploit | None | https://github.com/Luk6785/protostar_exploit | ['exploit'] | 1 | 2022-03-26 07:10:24+00:00 | 8 | 0 | | 0 | [] |
 | EpicCatto/Bcc-Security-Vulnerability | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | ['exploit'] | 1 | 2022-03-26 04:24:31+00:00 | 22 | 0 | | 0 | [] |
-| hktalent/spring-spel-0day-poc | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP | https://github.com/hktalent/spring-spel-0day-poc | ['0day', 'rce', 'rce poc'] | 3 | 2022-03-26 02:07:09+00:00 | 0 | 3 | nan | 0 | [] |
+| hktalent/spring-spel-0day-poc | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP | https://github.com/hktalent/spring-spel-0day-poc | ['0day', 'rce', 'rce poc'] | 3 | 2022-03-26 02:07:09+00:00 | 0 | 3 | | 0 | [] |
 | YeYuDao/www_36tz_cn_5217446 | Windows平台高效Shellcode编程技术实战 | https://github.com/YeYuDao/www_36tz_cn_5217446 | ['shellcode'] | 1 | 2022-03-26 03:08:21+00:00 | 0 | 0 | | 0 | [] |
 | sysenter-eip/CVE-2022-26629 | None | https://github.com/sysenter-eip/CVE-2022-26629 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 06:09:50+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-26629'] |
+| 0DayResearcher/0DayResearcher | Config files for my GitHub profile. | https://github.com/0DayResearcher/0DayResearcher | ['0day'] | 1 | 2022-03-26 06:54:12+00:00 | 0 | 0 | nan | 0 | [] |
+| brookehorizon/HungryRAT | Remote access tool | https://github.com/brookehorizon/HungryRAT | ['metasploit module OR payload'] | 1 | 2022-03-26 07:51:56+00:00 | 12 | 1 | PowerShell | 0 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-26 04:13:19+00:00 | 350252 | 398 | PHP | 137 | [] |
 | sh3d0ww01f/nim_shellloader | nim,免杀,红队,shellcode,bypass | https://github.com/sh3d0ww01f/nim_shellloader | ['shellcode'] | 1 | 2022-03-26 05:01:41+00:00 | 2003 | 8 | Nim | 3 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-26 01:14:52+00:00 | 4334637 | 32 | Python | 4 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-26 07:01:09+00:00 | 5968 | 3168 | Python | 688 | [] |
-| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-26 00:49:39+00:00 | 34 | 2 | C++ | 1 | [] |
+| ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-26 00:19:09+00:00 | 337 | 0 | | 0 | [] |
+| raidersource/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | ['exploit'] | 1 | 2022-03-26 02:01:29+00:00 | 357 | 6 | Python | 0 | [] |
 | angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2022-03-26 02:41:46+00:00 | 2617 | 548 | Python | 112 | [] |
 | david942j/one_gadget | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | ['exploit', 'rce'] | 2 | 2022-03-26 02:38:22+00:00 | 14001 | 1541 | Ruby | 125 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-26 00:20:22+00:00 | 265063 | 295 | Ruby | 85 | [] |
@@ -33,12 +35,13 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-26 02:30:41+00:00 | 242584 | 140 | REXX | 12 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-03-26 02:43:28+00:00 | 1539134 | 4129 | PowerShell | 1442 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-26 00:47:09+00:00 | 54719 | 32 | | 19 | [] |
-| raidersource/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | ['exploit'] | 1 | 2022-03-26 02:01:29+00:00 | 357 | 6 | Python | 0 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-26 03:42:43+00:00 | 90911 | 706 | Go | 156 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-26 01:14:52+00:00 | 4334637 | 32 | Python | 4 | [] |
 | NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-03-26 05:52:50+00:00 | 3243 | 3 | C | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-26 00:04:21+00:00 | 477473 | 47 | | 20 | [] |
 | NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2022-03-26 07:31:54+00:00 | 71 | 11 | Lua | 6 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-26 04:00:50+00:00 | 126536 | 352 | Python | 101 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-26 01:28:56+00:00 | 49892 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-26 01:40:31+00:00 | 8108 | 80 | HTML | 21 | [] |
-| 0DayResearcher/0DayResearcher | Config files for my GitHub profile. | https://github.com/0DayResearcher/0DayResearcher | ['0day'] | 1 | 2022-03-26 06:54:12+00:00 | 0 | 0 | nan | 0 | [] |
+| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-26 00:49:39+00:00 | 34 | 2 | C++ | 1 | [] |
+| cckuailong/spring-cloud-function-SpEL-RCE | spring-cloud-function SpEL RCE, Vultarget & Poc | https://github.com/cckuailong/spring-cloud-function-SpEL-RCE | ['rce', 'rce poc'] | 2 | 2022-03-26 08:42:50+00:00 | 0 | 0 | Java | 0 | [] |
