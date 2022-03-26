@@ -1,14 +1,20 @@
 
 # Summary for results/2022/03/26
     
-7 records found after deduplication
+13 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-26 00:08:43+00:00 | 1534796 | 1598 | Python | 535 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-26 00:20:22+00:00 | 265063 | 295 | Ruby | 85 | [] |
+| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-03-26 01:47:18+00:00 | 324287 | 7 | Rust | 4 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-26 00:47:09+00:00 | 54719 | 32 | | 19 | [] |
+| raidersource/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | ['exploit'] | 1 | 2022-03-26 02:01:29+00:00 | 357 | 6 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-26 00:04:21+00:00 | 477473 | 47 | | 20 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-26 01:28:56+00:00 | 49892 | 2 | Python | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-26 01:40:31+00:00 | 8108 | 80 | HTML | 21 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-26 00:49:39+00:00 | 34 | 2 | C++ | 1 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-26 01:14:52+00:00 | 4334637 | 32 | Python | 4 | [] |
 | ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-26 00:19:09+00:00 | 337 | 0 | | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-26 00:52:59+00:00 | 140 | 0 | nan | 0 | [] |
+| hktalent/spring-spel-0day-poc | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP | https://github.com/hktalent/spring-spel-0day-poc | ['0day', 'rce', 'rce poc'] | 3 | 2022-03-26 02:07:09+00:00 | 0 | 3 | nan | 0 | [] |
