@@ -1,20 +1,25 @@
 
 # Summary for results/2022/03/26
     
-20 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-26 00:08:43+00:00 | 1534796 | 1598 | Python | 535 | [] |
-| angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2022-03-26 02:41:46+00:00 | 2617 | 548 | Python | 112 | [] |
-| hktalent/spring-spel-0day-poc | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP | https://github.com/hktalent/spring-spel-0day-poc | ['0day', 'rce', 'rce poc'] | 3 | 2022-03-26 02:07:09+00:00 | 0 | 3 | | 0 | [] |
-| nonamecoder/CVE-2022-27254 | PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254) | https://github.com/nonamecoder/CVE-2022-27254 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-03-26 03:07:50+00:00 | 2 | 113 | | 10 | ['CVE-2022-27254'] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-26 01:40:31+00:00 | 8108 | 80 | HTML | 21 | [] |
+| hktalent/spring-spel-0day-poc | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP | https://github.com/hktalent/spring-spel-0day-poc | ['0day', 'rce', 'rce poc'] | 3 | 2022-03-26 02:07:09+00:00 | 0 | 3 | nan | 0 | [] |
+| EpicCatto/Bcc-Security-Vulnerability | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | ['exploit'] | 1 | 2022-03-26 04:24:31+00:00 | 22 | 0 | | 0 | [] |
+| nonamecoder/CVE-2022-27254 | PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254) | https://github.com/nonamecoder/CVE-2022-27254 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-03-26 03:07:50+00:00 | 2 | 113 | nan | 10 | ['CVE-2022-27254'] |
+| Ryze-T/cdb-wds | 利用白名单文件 cdb.exe 执行 shellcode | https://github.com/Ryze-T/cdb-wds | ['shellcode'] | 1 | 2022-03-26 04:33:20+00:00 | 156 | 122 | Python | 20 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-26 00:52:59+00:00 | 140 | 0 | | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-26 04:42:39+00:00 | 93055 | 2532 | | 308 | [] |
+| cckuailong/reapoc | OpenSource Poc && Vulnerable-Target Storage Box. | https://github.com/cckuailong/reapoc | ['vulnerability poc'] | 1 | 2022-03-26 04:13:19+00:00 | 350252 | 398 | PHP | 137 | [] |
 | ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-26 00:19:09+00:00 | 337 | 0 | | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-26 01:14:52+00:00 | 4334637 | 32 | Python | 4 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-26 00:49:39+00:00 | 34 | 2 | C++ | 1 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-26 01:40:31+00:00 | 8108 | 80 | HTML | 21 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-26 01:28:56+00:00 | 49892 | 2 | Python | 0 | [] |
+| angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2022-03-26 02:41:46+00:00 | 2617 | 548 | Python | 112 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-26 04:00:50+00:00 | 126536 | 352 | Python | 101 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-26 00:04:21+00:00 | 477473 | 47 | | 20 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-26 03:42:43+00:00 | 90911 | 706 | Go | 156 | [] |
 | raidersource/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | ['exploit'] | 1 | 2022-03-26 02:01:29+00:00 | 357 | 6 | Python | 0 | [] |
