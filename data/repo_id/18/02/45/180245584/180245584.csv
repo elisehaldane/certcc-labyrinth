@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-180245584,YosiSF/EinsteinDB,einstein_db/einstein_db_ctl/target/debug/build/openssl-sys-3266a93121e016f9/out/openssl-build/install/include/openssl/ssl.h,518d79af2bb100a8661ebe3f0489babb54d081fb,CVE-2010-4180
+180245584,YosiSF/EinsteinDB,berolinasql/target/debug/deps/libobject-106239f2e227f393.rmeta,572888cf461353a7a0e8cd5aa418f685d57c5a51,VU#08
+180245584,YosiSF/EinsteinDB,berolinasql/target/debug/deps/libobject-106239f2e227f393.rmeta,572888cf461353a7a0e8cd5aa418f685d57c5a51,VU#34
+180245584,YosiSF/EinsteinDB,einstein_db/einstein_db_ctl/target/debug/build/openssl-sys-3266a93121e016f9/out/openssl-build/install/include/openssl/ssl.h,822b7474d1a214e65a189da693a44475534518a7,CVE-2010-4180
