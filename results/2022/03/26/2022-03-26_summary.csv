@@ -1,0 +1,8 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+offensive-security/exploitdb-bin-sploits,Exploit Database binary exploits located in the /sploits directory,https://github.com/offensive-security/exploitdb-bin-sploits,"['exploit', 'sploit']",2,2022-03-26T00:08:43+0000,1534796,1598,Python,535,[]
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-03-26T00:20:22+0000,265063,295,Ruby,85,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-03-26T00:47:09+0000,54719,32,,19,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-03-26T00:04:21+0000,477473,47,,20,[]
+ReversingID/Shellcode-Loader,Open repository for learning dynamic shellcode loading.,https://github.com/ReversingID/Shellcode-Loader,['shellcode'],1,2022-03-26T00:49:39+0000,34,2,C++,1,[]
+ConsumingChef/ConsumerHub,Roblox Exploit,https://github.com/ConsumingChef/ConsumerHub,['exploit'],1,2022-03-26T00:19:09+0000,337,0,,0,[]
+StevenRCE0/StevenRCE0,Hello meow!,https://github.com/StevenRCE0/StevenRCE0,['rce'],1,2022-03-26T00:52:59+0000,140,0,,0,[]
