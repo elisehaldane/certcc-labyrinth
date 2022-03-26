@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/25
     
-131 records found after deduplication
+132 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-25 15:36:11+00:00 | 706096 | 26721 | Ruby | 12086 | [] |
-| no0g/ROPEmporium | Collection of exploit as my solution for challenges in ropemporium.com | https://github.com/no0g/ROPEmporium | ['exploit'] | 1 | 2022-03-25 04:46:02+00:00 | 6 | 0 | Python | 0 | [] |
+| YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-03-25 03:17:24+00:00 | 29 | 0 | C | 0 | [] |
+| 0x34d/Exploit-dev | Full-fledged binary Exploit-dev | https://github.com/0x34d/Exploit-dev | ['exploit'] | 1 | 2022-03-25 12:30:25+00:00 | 1 | 0 | Python | 0 | [] |
 | DaxiaSec/DaxiaGeGe | 武装你的工具库，分享0day EXP和工具 | https://github.com/DaxiaSec/DaxiaGeGe | ['0day'] | 1 | 2022-03-25 03:43:52+00:00 | 4213 | 10 | Python | 7 | [] |
 | mirailovers/exploits | None | https://github.com/mirailovers/exploits | ['exploit'] | 1 | 2022-03-25 01:18:12+00:00 | 441 | 0 | Python | 0 | [] |
 | polygraphene/DirtyPipe-Android | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | ['exploit'] | 1 | 2022-03-25 11:03:26+00:00 | 1897 | 162 | C | 42 | [] |
@@ -20,15 +21,15 @@
 | NathanTheIceCube/ProSploit-Hub-Website | None | https://github.com/NathanTheIceCube/ProSploit-Hub-Website | ['sploit'] | 1 | 2022-03-25 14:06:17+00:00 | 0 | 0 | HTML | 0 | [] |
 | maxamin/-0day-Mari-Source | None | https://github.com/maxamin/-0day-Mari-Source | ['0day'] | 1 | 2022-03-25 18:01:42+00:00 | 0 | 0 | Python | 0 | [] |
 | nobelh/CVEs | CVEs PoC Repo | https://github.com/nobelh/CVEs | ['cve poc'] | 1 | 2022-03-25 00:52:56+00:00 | 3 | 0 | C | 0 | [] |
-| YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-03-25 03:17:24+00:00 | 29 | 0 | C | 0 | [] |
 | weewoo22/memflow-shellcode | Shellcode execution for memflow | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-03-25 00:29:06+00:00 | 27 | 7 | Zig | 1 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-03-25 15:03:55+00:00 | 60695 | 1209 | C | 572 | [] |
 | hustvl/AziNorm | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | ['exploit'] | 1 | 2022-03-25 03:34:25+00:00 | 2654 | 10 | | 0 | [] |
 | DataDog/dirtypipe-container-breakout-poc | Container Excape PoC for CVE-2022-0847 "DirtyPipe" | https://github.com/DataDog/dirtypipe-container-breakout-poc | ['cve poc'] | 1 | 2022-03-25 15:04:57+00:00 | 174 | 1 | C | 0 | ['CVE-2022-0847'] |
 | jacobbolger/SDR-Remote-Exploit | This project serves as a write-up to accompany my final project for a B.S. in Cybersecurity. This project incorporates knowledge of computer and radio hardware, various operating systems and software programs, data transmission, and more. | https://github.com/jacobbolger/SDR-Remote-Exploit | ['exploit'] | 1 | 2022-03-25 17:29:02+00:00 | 8 | 0 | | 0 | [] |
 | s9rA16Bf4/Pringles_can_code_generator | Code generator for the xbox series s event | https://github.com/s9rA16Bf4/Pringles_can_code_generator | ['exploit'] | 1 | 2022-03-25 15:33:18+00:00 | 755 | 0 | Python | 0 | [] |
 | JuyLang/Learn-Web-Exploitation | None | https://github.com/JuyLang/Learn-Web-Exploitation | ['exploit'] | 1 | 2022-03-25 07:10:32+00:00 | 18 | 0 | JavaScript | 0 | [] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-25 02:46:25+00:00 | 209 | 5 | | 0 | [] |
-| NathanTheIceCube/ProSploit-Hub | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits! | https://github.com/NathanTheIceCube/ProSploit-Hub | ['exploit', 'sploit'] | 2 | 2022-03-25 14:39:21+00:00 | 27165 | 0 | C# | 0 | [] |
+| NathanTheIceCube/ProSploit-Hub | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits! | https://github.com/NathanTheIceCube/ProSploit-Hub | ['exploit', 'sploit'] | 2 | 2022-03-25 14:43:00+00:00 | 27165 | 0 | C# | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-25 09:17:46+00:00 | 1587 | 5 | Go | 0 | [] |
 | h4ck3r0/Metasploit-termux | Install Metasploit In Termux Without Error | https://github.com/h4ck3r0/Metasploit-termux | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-25 06:26:17+00:00 | 7919 | 3 | Shell | 0 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-03-25 14:39:48+00:00 | 79092 | 1 | HTML | 0 | [] |
@@ -36,10 +37,11 @@
 | hotpotcookie/lol4j-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-03-25 06:44:34+00:00 | 188 | 1 | Java | 0 | ['CVE-2021-44228'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-25 04:56:47+00:00 | 90658 | 2531 | | 307 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-25 08:39:04+00:00 | 30234 | 6 | Python | 4 | [] |
-| 0x34d/Exploit-dev | Full-fledged binary Exploit-dev | https://github.com/0x34d/Exploit-dev | ['exploit'] | 1 | 2022-03-25 12:30:25+00:00 | 1 | 0 | Python | 0 | [] |
+| no0g/ROPEmporium | Collection of exploit as my solution for challenges in ropemporium.com | https://github.com/no0g/ROPEmporium | ['exploit'] | 1 | 2022-03-25 04:46:02+00:00 | 6 | 0 | Python | 0 | [] |
 | BENOSHITO/exploithosting.github.io | None | https://github.com/BENOSHITO/exploithosting.github.io | ['exploit'] | 1 | 2022-03-25 10:16:11+00:00 | 46 | 0 | HTML | 0 | [] |
-| Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-03-25 13:04:42+00:00 | 891 | 0 | JavaScript | 0 | [] |
 | PSO-Group/BrowserExploitationToolkit | None | https://github.com/PSO-Group/BrowserExploitationToolkit | ['exploit'] | 1 | 2022-03-25 04:02:06+00:00 | 14 | 0 | HTML | 0 | [] |
+| iBLISSLabs/Remote-Code-Execution--Authenticated--on-Wordpress-Filester-File-Manager-Pro | None | https://github.com/iBLISSLabs/Remote-Code-Execution--Authenticated--on-Wordpress-Filester-File-Manager-Pro | ['remote code execution'] | 1 | 2022-03-25 01:27:13+00:00 | 3 | 0 | | 0 | [] |
+| kishancodes/kail-metasploit | None | https://github.com/kishancodes/kail-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-25 22:28:40+00:00 | 0 | 0 | | 0 | [] |
 | YeYuDao/www_36tz_cn_5221068 | BT5&metasploit从入门到精通（完整版） | https://github.com/YeYuDao/www_36tz_cn_5221068 | ['metasploit module OR payload'] | 1 | 2022-03-25 22:00:12+00:00 | 0 | 0 | | 0 | [] |
 | EthanRcs/Fortnite-OrangeWare-Source-Full | Fortnite Internal OrangeWare Source Code leaked Working With Exploits | https://github.com/EthanRcs/Fortnite-OrangeWare-Source-Full | ['exploit'] | 1 | 2022-03-25 21:34:09+00:00 | 1637 | 0 | C++ | 0 | [] |
 | EthanRcs/Fortnite-Hack-Esp-Exploits-With-Menu | None | https://github.com/EthanRcs/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-03-25 21:30:19+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -68,10 +70,9 @@
 | ChinaRan0/ThinkPHP5.0.23RCE | RCE脚本 | https://github.com/ChinaRan0/ThinkPHP5.0.23RCE | ['rce'] | 1 | 2022-03-25 02:19:01+00:00 | 0 | 0 | Python | 0 | [] |
 | spasm5/CVE-2018-12326 | None | https://github.com/spasm5/CVE-2018-12326 | ['cve-2 OR cve_2'] | 1 | 2022-03-25 01:44:55+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-12326'] |
 | Mo-ku/AD-Exploitation-Cheatsheet | Not my work, cloned from https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet for easy reference. | https://github.com/Mo-ku/AD-Exploitation-Cheatsheet | ['exploit'] | 1 | 2022-03-25 01:27:43+00:00 | 0 | 0 | PowerShell | 0 | [] |
-| iBLISSLabs/Remote-Code-Execution--Authenticated--on-Wordpress-Filester-File-Manager-Pro | None | https://github.com/iBLISSLabs/Remote-Code-Execution--Authenticated--on-Wordpress-Filester-File-Manager-Pro | ['remote code execution'] | 1 | 2022-03-25 01:27:13+00:00 | 3 | 0 | | 0 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-25 22:32:10+00:00 | 2862 | 37 | | 2 | [] |
+| Existential-nonce/OwOsploit | (WIP) An autofarming exploit for OwO bot | https://github.com/Existential-nonce/OwOsploit | ['exploit'] | 1 | 2022-03-25 13:04:42+00:00 | 891 | 0 | JavaScript | 0 | [] |
 | applemasterz17/linux-kernel-exploit-kit | for linux kernel debugging with QEMU | https://github.com/applemasterz17/linux-kernel-exploit-kit | ['exploit'] | 1 | 2022-03-25 13:50:39+00:00 | 1973 | 0 | C | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-03-25 15:03:55+00:00 | 60695 | 1209 | C | 572 | [] |
 | NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-03-25 13:43:15+00:00 | 3237 | 3 | C | 1 | [] |
 | 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-03-25 02:08:05+00:00 | 1457 | 130 | Shell | 64 | [] |
 | IvanMarchesini/r.survey.py | Given a set of survey locations of an observer walking in the fleld or flying over a given areas, r.survey calculates best solid angle, 3D Distance, View Angle and Solid Angle for each pixel and for a given object size. It runs in GRASS GIS and exploits r. | https://github.com/IvanMarchesini/r.survey.py | ['exploit'] | 1 | 2022-03-25 16:00:29+00:00 | 3743 | 2 | Python | 0 | [] |
@@ -135,4 +136,4 @@
 | MythicAgents/merlin | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | ['exploit'] | 1 | 2022-03-25 11:47:19+00:00 | 418 | 13 | Python | 3 | [] |
 | Jaeik-Jeong/STCNN | Multi-Site Photovoltaic Forecasting Exploiting Space-Time Convolutional Neural Network | https://github.com/Jaeik-Jeong/STCNN | ['exploit'] | 1 | 2022-03-25 07:23:26+00:00 | 66942 | 0 | Jupyter Notebook | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-25 00:04:05+00:00 | 469828 | 47 | | 20 | [] |
-| kishancodes/kail-metasploit | None | https://github.com/kishancodes/kail-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-25 22:28:40+00:00 | 0 | 0 | | 0 | [] |
+| QUazyOT/BoomBoomExploit | None | https://github.com/QUazyOT/BoomBoomExploit | ['exploit'] | 1 | 2022-03-25 23:51:41+00:00 | 1 | 0 | | 0 | [] |
