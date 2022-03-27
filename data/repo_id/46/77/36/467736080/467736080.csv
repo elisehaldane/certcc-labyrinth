@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+467736080,LucasPDiniz/StudyRoom,README.md,922af9c5e8220cf851f226fd5e0611233abf9442,CVE-2021-44228
+467736080,LucasPDiniz/StudyRoom,CVE-2021-44228 - Exploiting LOG4J/README.md,af56f44d2533d75f1a60916d9a2c09d552b4ead1,CVE-2021-44228
