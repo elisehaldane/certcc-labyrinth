@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#421,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#421,0.00588235,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
-VU#421,0.00444444,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
+VU#421,0.00442478,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
 VU#421,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
 VU#421,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#421,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
