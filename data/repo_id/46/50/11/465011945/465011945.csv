@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+465011945,codeyso/CodeTest,EXP/WindowsSMBv3.py,2137afbf9b7b8d4c1c3cf65945620449f14f8f5e,CVE-2020-0796
+465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,7a5550a78bcbe70c077882dd46d0dd7d5f4aa0a5,CVE-2017-12615
+465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,7a5550a78bcbe70c077882dd46d0dd7d5f4aa0a5,CVE-2020-1938
+465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,7a5550a78bcbe70c077882dd46d0dd7d5f4aa0a5,CVE-2020-2019
+465011945,codeyso/CodeTest,EXP/ApacheShiro.py,91feb4fc26a5806797ffcbfdea0c44144a4b8e90,CVE-2016-4437
+465011945,codeyso/CodeTest,EXP/ApacheShiro.py,91feb4fc26a5806797ffcbfdea0c44144a4b8e90,VU#29
+465011945,codeyso/CodeTest,POC/IIS_MS15-034_Range_bytes.py,e29d67216054848361682687a37a2deb0f9b91cc,MS15-034
+465011945,codeyso/CodeTest,EXP/ApacheSolr.py,ea4467d9704f1c311469c29687b9ed1d4e01be5a,CVE-2017-12629
+465011945,codeyso/CodeTest,EXP/ApacheSolr.py,ea4467d9704f1c311469c29687b9ed1d4e01be5a,CVE-2019-0193
+465011945,codeyso/CodeTest,EXP/ApacheSolr.py,ea4467d9704f1c311469c29687b9ed1d4e01be5a,CVE-2019-17558
