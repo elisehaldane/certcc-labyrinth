@@ -1,13 +1,12 @@
 
 # Summary for results/2022/03/26
     
-105 records found after deduplication
+106 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-26 17:33:10+00:00 | 706096 | 26732 | Ruby | 12090 | [] |
-| nikasakandelidze/remote-code-execution-engine | REST API for executing code in remote containers like hackerrank or leetcode | https://github.com/nikasakandelidze/remote-code-execution-engine | ['remote code execution'] | 1 | 2022-03-26 13:04:15+00:00 | 487 | 0 | Python | 0 | [] |
-| EpicCatto/Bcc-Security-Vulnerability | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | ['exploit'] | 1 | 2022-03-26 04:24:31+00:00 | 22 | 0 | | 0 | [] |
+| raesene/CVE-2022-23648-POC | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-26 13:42:49+00:00 | 5 | 7 | Dockerfile | 3 | ['CVE-2022-23648'] |
 | PSO-Group/BrowserExploitationToolkit | 🧰 A toolkit to exploit the clients browser | https://github.com/PSO-Group/BrowserExploitationToolkit | ['exploit'] | 1 | 2022-03-26 12:15:14+00:00 | 19 | 0 | HTML | 1 | [] |
 | no0g/ROPEmporium | Collection of exploit as my solution for challenges in ropemporium.com | https://github.com/no0g/ROPEmporium | ['exploit'] | 1 | 2022-03-26 09:35:13+00:00 | 7 | 0 | Python | 0 | [] |
 | nxtexploit/CVE-2020-3580 | None | https://github.com/nxtexploit/CVE-2020-3580 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 14:39:56+00:00 | 5 | 0 | HTML | 0 | ['CVE-2020-3580'] |
@@ -30,10 +29,11 @@
 | Dir0x/Simple-Subscription-Website-Exploits | Exploits in Simple Subscription Company to dump users and hashes from database. | https://github.com/Dir0x/Simple-Subscription-Website-Exploits | ['exploit'] | 1 | 2022-03-26 23:17:08+00:00 | 2 | 0 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-03-26 00:52:59+00:00 | 140 | 0 | | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-26 15:38:07+00:00 | 1596 | 6 | Go | 0 | [] |
-| raesene/CVE-2022-23648-POC | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-26 13:42:49+00:00 | 5 | 7 | Dockerfile | 3 | ['CVE-2022-23648'] |
+| h4ck3r0/Metasploit-termux | Install Metasploit In Termux Without Error | https://github.com/h4ck3r0/Metasploit-termux | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-26 05:39:02+00:00 | 7936 | 3 | Shell | 0 | [] |
+| EpicCatto/Bcc-Security-Vulnerability | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | ['exploit'] | 1 | 2022-03-26 04:24:31+00:00 | 22 | 0 | | 0 | [] |
 | hktalent/spring-spel-0day-poc | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP | https://github.com/hktalent/spring-spel-0day-poc | ['0day', 'rce', 'rce poc'] | 3 | 2022-03-26 02:07:09+00:00 | 0 | 3 | nan | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-26 10:34:09+00:00 | 22430 | 6944 | JavaScript | 1611 | [] |
 | weto91/GitHub_Search_CVE | CVE exploit searcher from GitHub with some deploy options | https://github.com/weto91/GitHub_Search_CVE | ['exploit'] | 1 | 2022-03-26 11:55:55+00:00 | 26 | 0 | Shell | 0 | [] |
-| tzwlhack/CVE-2021-4034 | None | https://github.com/tzwlhack/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 14:30:19+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
 | sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability | None | https://github.com/sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-26 22:50:37+00:00 | 0 | 0 | | 0 | ['CVE-2022-21668'] |
 | netslutter/metasploit-framework | Install Metasploit in Termux | https://github.com/netslutter/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-26 21:12:56+00:00 | 0 | 0 | Shell | 0 | [] |
 | Deauth-Eater/Exploit-Analyses | Analysis of Exploits written in Python | https://github.com/Deauth-Eater/Exploit-Analyses | ['exploit'] | 1 | 2022-03-26 20:57:48+00:00 | 0 | 1 | Python | 0 | [] |
@@ -44,8 +44,8 @@
 | nzpz/Spring-cloud-function-Spel-rce | 复现demo | https://github.com/nzpz/Spring-cloud-function-Spel-rce | ['rce'] | 1 | 2022-03-26 18:25:25+00:00 | 0 | 0 | | 0 | [] |
 | MarchPy/Exploit-Kali-Linux | None | https://github.com/MarchPy/Exploit-Kali-Linux | ['exploit'] | 1 | 2022-03-26 17:23:15+00:00 | 0 | 0 | | 0 | [] |
 | Marcel46509/Exploit-Files | None | https://github.com/Marcel46509/Exploit-Files | ['exploit'] | 1 | 2022-03-26 16:45:01+00:00 | 0 | 0 | | 0 | [] |
+| tzwlhack/CVE-2021-4034 | None | https://github.com/tzwlhack/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 14:30:19+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-4034'] |
 | Eddi0x/Last-Silent-PDF-Exploit | None | https://github.com/Eddi0x/Last-Silent-PDF-Exploit | ['exploit'] | 1 | 2022-03-26 13:58:16+00:00 | 0 | 1 | | 0 | [] |
-| YeYuDao/www_36tz_cn_5217446 | Windows平台高效Shellcode编程技术实战 | https://github.com/YeYuDao/www_36tz_cn_5217446 | ['shellcode'] | 1 | 2022-03-26 03:08:21+00:00 | 0 | 0 | | 0 | [] |
 | banxian/EDUReviver | J-Link edu v10/v11 usb exploit utility | https://github.com/banxian/EDUReviver | ['exploit'] | 1 | 2022-03-26 13:55:45+00:00 | 0 | 0 | | 0 | [] |
 | h2oco2PU/BeEF | Testing of Web Exploitation | https://github.com/h2oco2PU/BeEF | ['exploit'] | 1 | 2022-03-26 12:26:39+00:00 | 0 | 0 | PHP | 0 | [] |
 | theLSA/sunlogin-exp-cmd | 命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool | https://github.com/theLSA/sunlogin-exp-cmd | ['exploit', 'rce'] | 2 | 2022-03-26 10:06:47+00:00 | 0 | 2 | C++ | 0 | [] |
@@ -56,16 +56,17 @@
 | brookehorizon/HungryRAT | Remote access tool | https://github.com/brookehorizon/HungryRAT | ['metasploit module OR payload'] | 1 | 2022-03-26 07:51:56+00:00 | 12 | 1 | PowerShell | 0 | [] |
 | 0DayResearcher/0DayResearcher | Config files for my GitHub profile. | https://github.com/0DayResearcher/0DayResearcher | ['0day'] | 1 | 2022-03-26 06:54:12+00:00 | 0 | 0 | nan | 0 | [] |
 | sysenter-eip/CVE-2022-26629 | None | https://github.com/sysenter-eip/CVE-2022-26629 | ['cve-2 OR cve_2'] | 1 | 2022-03-26 06:09:50+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-26629'] |
-| h4ck3r0/Metasploit-termux | Install Metasploit In Termux Without Error | https://github.com/h4ck3r0/Metasploit-termux | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-26 05:39:02+00:00 | 7936 | 3 | Shell | 0 | [] |
+| YeYuDao/www_36tz_cn_5217446 | Windows平台高效Shellcode编程技术实战 | https://github.com/YeYuDao/www_36tz_cn_5217446 | ['shellcode'] | 1 | 2022-03-26 03:08:21+00:00 | 0 | 0 | | 0 | [] |
+| nikasakandelidze/remote-code-execution-engine | REST API for executing code in remote containers like hackerrank or leetcode | https://github.com/nikasakandelidze/remote-code-execution-engine | ['remote code execution'] | 1 | 2022-03-26 13:04:15+00:00 | 487 | 0 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-26 04:42:39+00:00 | 93055 | 2532 | | 308 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-26 10:34:09+00:00 | 22430 | 6944 | JavaScript | 1611 | [] |
 | SVEFinders/KaplashTools | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | ['exploit'] | 1 | 2022-03-26 07:59:48+00:00 | 11 | 2 | Python | 0 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-03-26 13:33:33+00:00 | 6695 | 138 | Python | 44 | [] |
+| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-26 10:48:38+00:00 | 2865 | 37 | | 2 | [] |
 | NotDSF/HttpSpy | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | ['exploit'] | 1 | 2022-03-26 07:31:54+00:00 | 71 | 11 | Lua | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-26 00:04:21+00:00 | 477473 | 47 | | 20 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2022-03-26 13:18:05+00:00 | 9871 | 2152 | Go | 350 | [] |
 | NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-03-26 05:52:50+00:00 | 3243 | 3 | C | 1 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-03-26 16:08:15+00:00 | 4488356 | 4 | Lua | 0 | [] |
+| luisfontes19/xxexploiter | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | ['exploit'] | 1 | 2022-03-26 07:58:29+00:00 | 1217 | 382 | TypeScript | 62 | [] |
 | C0wnuts/webExploitPages | None | https://github.com/C0wnuts/webExploitPages | ['exploit'] | 1 | 2022-03-26 22:38:45+00:00 | 30 | 0 | PHP | 0 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-26 03:42:43+00:00 | 90911 | 706 | Go | 156 | [] |
 | raidersource/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | ['exploit'] | 1 | 2022-03-26 02:01:29+00:00 | 357 | 6 | Python | 0 | [] |
@@ -83,11 +84,10 @@
 | angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2022-03-26 02:41:46+00:00 | 2617 | 548 | Python | 112 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-26 07:01:09+00:00 | 5968 | 3168 | Python | 688 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-26 00:08:43+00:00 | 1534796 | 1598 | Python | 535 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-03-26 13:33:33+00:00 | 6695 | 138 | Python | 44 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-03-26 20:05:37+00:00 | 383 | 6 | Python | 1 | [] |
 | panchis7u7/Linux_Commands | Commands for linux related programs, theory and definitions that can be applied to information gathering, password cracking and system exploits. | https://github.com/panchis7u7/Linux_Commands | ['exploit'] | 1 | 2022-03-26 18:19:06+00:00 | 2717 | 0 | | 0 | [] |
-| Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-03-26 19:20:52+00:00 | 12189 | 2 | JavaScript | 3 | [] |
-| ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-26 00:19:09+00:00 | 337 | 0 | | 0 | [] |
-| upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-26 10:48:38+00:00 | 2865 | 37 | | 2 | [] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit', 'shellcode'] | 2 | 2022-03-26 23:52:16+00:00 | 4270 | 4 | Python | 1 | [] |
 | ars3n11/SLAE32 | x86 Assembly Language and Shellcoding on Linux Exam | https://github.com/ars3n11/SLAE32 | ['shellcode'] | 1 | 2022-03-26 19:34:46+00:00 | 5 | 0 | Assembly | 0 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | None | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2022-03-26 05:11:50+00:00 | 61163 | 0 | CSS | 1 | [] |
 | mandiant/heyserial | Programmatically create hunting rules for deserialization exploitation with multiple keywords, gadget chains, object types, encodings, and rule types | https://github.com/mandiant/heyserial | ['exploit'] | 1 | 2022-03-26 13:54:17+00:00 | 57833 | 79 | YARA | 13 | [] |
@@ -97,9 +97,9 @@
 | Youheng-Lue/art-exploit | Useful Notes for the Book "Art of Exploitation" | https://github.com/Youheng-Lue/art-exploit | ['exploit'] | 1 | 2022-03-26 20:23:23+00:00 | 354 | 0 | Assembly | 0 | [] |
 | YieldingExploiter/YieldingExploiter | None | https://github.com/YieldingExploiter/YieldingExploiter | ['exploit'] | 1 | 2022-03-26 18:37:45+00:00 | 61 | 0 | HTML | 0 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-03-26 18:16:58+00:00 | 24 | 1 | | 0 | [] |
-| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit', 'shellcode'] | 2 | 2022-03-26 23:52:16+00:00 | 4270 | 4 | Python | 1 | [] |
-| gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-03-26 12:42:05+00:00 | 5538 | 0 | R | 1 | [] |
+| ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-03-26 00:19:09+00:00 | 337 | 0 | | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-26 01:14:52+00:00 | 4334637 | 32 | Python | 4 | [] |
+| Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-03-26 19:20:52+00:00 | 12189 | 2 | JavaScript | 3 | [] |
 | K1llf0rce/K1llf0rce | My personal repository | https://github.com/K1llf0rce/K1llf0rce | ['rce'] | 1 | 2022-03-26 14:04:46+00:00 | 16 | 0 | | 0 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-26 00:49:39+00:00 | 34 | 2 | C++ | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-26 01:40:31+00:00 | 8108 | 80 | HTML | 21 | [] |
@@ -109,4 +109,5 @@
 | ContractAutomataProject/ContractAutomataApp | This is a GUI application of the Contract Automata Toolkit, exploiting the contract automata library to put contract automata at work | https://github.com/ContractAutomataProject/ContractAutomataApp | ['exploit'] | 1 | 2022-03-26 16:16:33+00:00 | 114090 | 0 | Java | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-26 04:00:50+00:00 | 126536 | 352 | Python | 101 | [] |
 | JosephFrankFir/Rxploit | Rxploit | https://github.com/JosephFrankFir/Rxploit | ['exploit'] | 1 | 2022-03-26 11:57:10+00:00 | 370 | 4 | Python | 0 | [] |
+| gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-03-26 12:42:05+00:00 | 5538 | 0 | R | 1 | [] |
 | rhytxm/MeteorX | An advanced robox exploit client with multi-api support! | https://github.com/rhytxm/MeteorX | ['exploit'] | 1 | 2022-03-26 23:11:17+00:00 | 0 | 0 | | 0 | [] |
