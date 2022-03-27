@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/27
     
-27 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-27 00:08:45+00:00 | 1534796 | 1599 | Python | 535 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-27 04:46:30+00:00 | 98326 | 2537 | nan | 311 | [] |
+| little-2pig/SpEL-rce-vu | Spring-Cloud-Function SpEL RCE复现环境 | https://github.com/little-2pig/SpEL-rce-vu | ['rce'] | 1 | 2022-03-27 04:35:11+00:00 | 0 | 0 | | 0 | [] |
 | f0ns1/Buffer_overflow_Sync_Breeze_enterprise | Custom Buffer overflow exploit with fuzzer in python | https://github.com/f0ns1/Buffer_overflow_Sync_Breeze_enterprise | ['exploit'] | 1 | 2022-03-27 03:37:13+00:00 | 0 | 0 | Python | 0 | [] |
 | sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability | None | https://github.com/sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-27 03:42:47+00:00 | 0 | 0 | | 0 | ['CVE-2022-21668'] |
 | cckuailong/spring-cloud-function-SpEL-RCE | spring-cloud-function SpEL RCE, Vultarget & Poc | https://github.com/cckuailong/spring-cloud-function-SpEL-RCE | ['rce', 'rce poc'] | 2 | 2022-03-27 01:46:47+00:00 | 674 | 8 | Java | 2 | [] |
@@ -29,6 +30,7 @@
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-03-27 01:10:14+00:00 | 13898 | 2 | JavaScript | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-27 00:04:02+00:00 | 459803 | 47 | | 20 | [] |
 | 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-03-27 04:42:50+00:00 | 863 | 131 | Shell | 64 | [] |
+| jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-27 04:55:44+00:00 | 90926 | 707 | Go | 156 | [] |
 | tilakthimmappa/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/tilakthimmappa/pyraider | ['exploit'] | 1 | 2022-03-27 00:27:45+00:00 | 410 | 6 | Python | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-27 02:30:38+00:00 | 251152 | 140 | REXX | 12 | [] |
-| little-2pig/SpEL-rce-vu | Spring-Cloud-Function SpEL RCE复现环境 | https://github.com/little-2pig/SpEL-rce-vu | ['rce'] | 1 | 2022-03-27 04:35:11+00:00 | 0 | 0 | | 0 | [] |
+| sinmcity/sinmode | da hood exploit | https://github.com/sinmcity/sinmode | ['exploit'] | 1 | 2022-03-27 05:00:23+00:00 | 0 | 0 | | 0 | [] |
