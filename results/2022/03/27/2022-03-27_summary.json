@@ -1310,7 +1310,7 @@
     "temp_clone_token":"",
     "network_count":1442,
     "subscribers_count":217,
-    "matched_at":"2022-03-27T10:44:50Z",
+    "matched_at":"2022-03-27T10:45:48Z",
     "organization":null,
     "owner_login":"Mr-xn",
     "owner_id":18260135,
@@ -1431,7 +1431,7 @@
     "temp_clone_token":"",
     "network_count":7,
     "subscribers_count":1,
-    "matched_at":"2022-03-27T13:45:48Z",
+    "matched_at":"2022-03-27T13:45:36Z",
     "organization":null,
     "owner_login":"butterflyhack",
     "owner_id":11525772,
@@ -2485,7 +2485,7 @@
     "temp_clone_token":"",
     "network_count":80,
     "subscribers_count":17,
-    "matched_at":"2022-03-27T10:45:48Z",
+    "matched_at":"2022-03-27T10:44:49Z",
     "organization":{
       "login":"gege-circle",
       "id":80689889,
@@ -6846,7 +6846,7 @@
     "temp_clone_token":"",
     "network_count":311,
     "subscribers_count":141,
-    "matched_at":"2022-03-27T04:48:25Z",
+    "matched_at":"2022-03-27T04:48:04Z",
     "organization":{
       "login":"trickest",
       "id":62057399,
@@ -11046,7 +11046,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-03-27T03:47:16Z",
+    "matched_at":"2022-03-27T03:47:05Z",
     "organization":null,
     "owner_login":"sreeram281997",
     "owner_id":53993620,
@@ -11838,7 +11838,7 @@
     "clone_url":"https:\/\/github.com\/MagicPiperSec\/WPS-CVE-2022-24934.git",
     "svn_url":"https:\/\/github.com\/MagicPiperSec\/WPS-CVE-2022-24934",
     "homepage":null,
-    "size":16,
+    "size":0,
     "stargazers_count":0,
     "watchers_count":0,
     "language":null,
@@ -11879,7 +11879,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-03-27T08:48:07Z",
+    "matched_at":"2022-03-27T08:45:33Z",
     "organization":{
       "login":"MagicPiperSec",
       "id":69208919,
@@ -14912,9 +14912,10 @@
     "owner_site_admin":false,
     "template_repository":null,
     "matched_list":[
-      "cve-2 OR cve_2"
+      "cve-2 OR cve_2",
+      "exploit"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2021-27928"
     ]
