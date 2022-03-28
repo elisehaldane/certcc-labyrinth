@@ -1,12 +1,13 @@
 
 # Summary for results/2022/03/28
     
-38 records found after deduplication
+44 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-28 03:48:03+00:00 | 706096 | 26744 | Ruby | 12094 | [] |
-| chattopadhyaykittu/CVE-2017-0037 | None | https://github.com/chattopadhyaykittu/CVE-2017-0037 | ['cve-2 OR cve_2'] | 1 | 2022-03-28 01:47:41+00:00 | 0 | 0 | | 0 | ['CVE-2017-0037'] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-28 00:21:58+00:00 | 265064 | 295 | Ruby | 85 | [] |
+| JGRJGIRJGO/exploiterHub | None | https://github.com/JGRJGIRJGO/exploiterHub | ['exploit'] | 1 | 2022-03-28 04:23:42+00:00 | 1 | 0 | Lua | 0 | [] |
 | TaylorTopp/Icecast-Header-Overflow_PenTest | Exploiting a machine running Icecast via a buffer overflow vulnerability | https://github.com/TaylorTopp/Icecast-Header-Overflow_PenTest | ['exploit'] | 1 | 2022-03-28 03:50:27+00:00 | 0 | 0 | | 0 | [] |
 | tmoneypenny/CVE-2022-0847 | Poc | https://github.com/tmoneypenny/CVE-2022-0847 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-28 04:30:01+00:00 | 9 | 0 | Rust | 0 | ['CVE-2022-0847'] |
 | sonnyyu/docker-metasploit | None | https://github.com/sonnyyu/docker-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-28 02:15:37+00:00 | 1 | 0 | Shell | 0 | [] |
@@ -14,8 +15,8 @@
 | Nico-Posada/Crossy-Road-Hack-Code-Cave | External Crossy Road trainer that uses code caves to instantly give you max score. | https://github.com/Nico-Posada/Crossy-Road-Hack-Code-Cave | ['exploit'] | 1 | 2022-03-28 02:13:52+00:00 | 136 | 1 | C# | 0 | [] |
 | g4br13I/stsc | string to shellcode converter | https://github.com/g4br13I/stsc | ['shellcode'] | 1 | 2022-03-28 01:43:33+00:00 | 1 | 0 | Perl | 0 | [] |
 | Mphatso27/Attacking-A-Vulnerability-Machine | In this project, I will discuss and demonstrate on how we can use Kali Linux to gain access to Metasploit-2 (A remote machine). The main goal of this project is to learn some basic techniques in penetration testing. | https://github.com/Mphatso27/Attacking-A-Vulnerability-Machine | ['metasploit module OR payload'] | 1 | 2022-03-28 01:16:13+00:00 | 20601 | 0 | | 0 | [] |
+| chattopadhyaykittu/CVE-2017-0037 | None | https://github.com/chattopadhyaykittu/CVE-2017-0037 | ['cve-2 OR cve_2'] | 1 | 2022-03-28 01:47:41+00:00 | 0 | 0 | | 0 | ['CVE-2017-0037'] |
 | MphatsoChintedza/Attacking-A-Vulnerability-Machine | In this project, I will discuss and demonstrate on how we can use Kali Linux to gain access to Metasploit-2 (A remote machine). The main goal of this project is to learn some basic techniques in penetration testing. | https://github.com/MphatsoChintedza/Attacking-A-Vulnerability-Machine | ['metasploit module OR payload'] | 1 | 2022-03-28 01:24:05+00:00 | 0 | 0 | | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-28 00:21:58+00:00 | 265064 | 295 | Ruby | 85 | [] |
 | KekDisk/kalimaa-exploit.py | Exploit que será feito em python ao decorrer do curso de cybersecurity | https://github.com/KekDisk/kalimaa-exploit.py | ['exploit'] | 1 | 2022-03-28 01:27:41+00:00 | 0 | 0 | | 0 | [] |
 | hua-qiqiz/ant4g0nistw | A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/hua-qiqiz/ant4g0nistw | ['exploit'] | 1 | 2022-03-28 01:44:25+00:00 | 0 | 0 | | 0 | [] |
 | sambacha/git-submodules-exploit | None | https://github.com/sambacha/git-submodules-exploit | ['exploit'] | 1 | 2022-03-28 02:42:06+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -23,17 +24,22 @@
 | gtdong-ustc/LiDARSceneFlow | [CVPR 2022] "Exploiting Rigidity Constraints for LiDAR Scene Flow Estimation" | https://github.com/gtdong-ustc/LiDARSceneFlow | ['exploit'] | 1 | 2022-03-28 03:43:44+00:00 | 0 | 0 | | 0 | [] |
 | mehrzad1994/CVE-2021-21193 | introduction to hacking second presentation | https://github.com/mehrzad1994/CVE-2021-21193 | ['cve-2 OR cve_2'] | 1 | 2022-03-28 04:46:57+00:00 | 0 | 0 | | 0 | ['CVE-2021-21193'] |
 | chaosec2021/Spring-cloud-function-SpEL-RCE | Spring-cloud-function-SpEL-RCE批量检测脚本，后续出反弹shellexp | https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE | ['rce'] | 1 | 2022-03-28 04:37:39+00:00 | 0 | 1 | Python | 0 | [] |
-| JGRJGIRJGO/exploiterHub | None | https://github.com/JGRJGIRJGO/exploiterHub | ['exploit'] | 1 | 2022-03-28 04:23:42+00:00 | 1 | 0 | Lua | 0 | [] |
+| rahulbhichher/POC | An attacker can excute malicious javascript (XSS) in Actatek ACTA3-1K-FLI model | https://github.com/rahulbhichher/POC | ['attack poc'] | 1 | 2022-03-28 04:44:24+00:00 | 0 | 0 | nan | 0 | [] |
+| vsai94/ECE9069_SMBGhost_Exploit_CVE-2020-0796- | Description of Exploit SMBGhost CVE-2020-0796 | https://github.com/vsai94/ECE9069_SMBGhost_Exploit_CVE-2020-0796- | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-28 05:03:03+00:00 | 0 | 0 | | 0 | ['CVE-2020-0796'] |
 | OreoByte/SwimmerSploit | SwimmerSploit is a collection of option fluid payloads that can perform mutiple different shell types without having to be recompiled. | https://github.com/OreoByte/SwimmerSploit | ['sploit'] | 1 | 2022-03-28 03:36:27+00:00 | 2 | 0 | Python | 0 | [] |
+| priii89/Metasploit | None | https://github.com/priii89/Metasploit | ['metasploit module OR payload'] | 1 | 2022-03-28 05:26:21+00:00 | 2181 | 0 | | 0 | [] |
 | SussySploitDev/SussySploit1 | None | https://github.com/SussySploitDev/SussySploit1 | ['sploit'] | 1 | 2022-03-28 02:21:32+00:00 | 5 | 0 | | 0 | [] |
-| redteaminterac/pe4shell | Generate backdoor and connect to metasploit | https://github.com/redteaminterac/pe4shell | ['metasploit module OR payload'] | 1 | 2022-03-28 04:14:48+00:00 | 0 | 0 | | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-28 01:48:40+00:00 | 16771 | 2 | Python | 0 | [] |
+| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-03-28 05:43:17+00:00 | 345661 | 7 | Rust | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-28 02:30:36+00:00 | 257010 | 140 | REXX | 12 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-28 03:09:38+00:00 | 90948 | 707 | Go | 156 | [] |
+| aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-03-28 04:57:03+00:00 | 553 | 12 | Python | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-28 00:03:48+00:00 | 461378 | 47 | | 20 | [] |
+| intrinsic-propensity/turing-machine | A Python program implementing and exploiting the Minsky Turing machine considered in the paper "Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine" as per CVE-2021-32471 (https://cve.mitre.org/cgi- | https://github.com/intrinsic-propensity/turing-machine | ['exploit'] | 1 | 2022-03-28 05:19:18+00:00 | 63 | 66 | Python | 5 | ['CVE-2021-32471'] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-28 01:20:19+00:00 | 123 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-28 01:00:13+00:00 | 132665 | 352 | Python | 101 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-28 01:48:40+00:00 | 16771 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-28 01:49:52+00:00 | 8168 | 80 | HTML | 21 | [] |
+| redteaminterac/pe4shell | Generate backdoor and connect to metasploit | https://github.com/redteaminterac/pe4shell | ['metasploit module OR payload'] | 1 | 2022-03-28 04:14:48+00:00 | 0 | 0 | | 0 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-03-28 04:45:16+00:00 | 95 | 2 | C++ | 1 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2022-03-28 01:27:48+00:00 | 140 | 0 | Lua | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-28 01:28:38+00:00 | 4219723 | 32 | Python | 4 | [] |
@@ -42,4 +48,4 @@
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-28 04:35:09+00:00 | 2867 | 37 | | 2 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-28 02:47:03+00:00 | 30237 | 6 | Python | 4 | [] |
 | redteaminterac/cobracloudc2 | A post exploitation C2 tool with serverless capabilities | https://github.com/redteaminterac/cobracloudc2 | ['exploit'] | 1 | 2022-03-28 03:07:35+00:00 | 0 | 0 | | 1 | [] |
-| rahulbhichher/POC | An attacker can excute malicious javascript (XSS) in Actatek ACTA3-1K-FLI model | https://github.com/rahulbhichher/POC | ['attack poc'] | 1 | 2022-03-28 04:44:24+00:00 | 0 | 0 | nan | 0 | [] |
+| Submine-1106/Exploit_Main | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | ['exploit'] | 1 | 2022-03-28 05:09:49+00:00 | 0 | 0 | HTML | 0 | [] |
