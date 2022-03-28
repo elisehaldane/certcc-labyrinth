@@ -1,12 +1,14 @@
 
 # Summary for results/2022/03/28
     
-22 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-28 03:48:03+00:00 | 706096 | 26744 | Ruby | 12094 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-28 00:21:58+00:00 | 265064 | 295 | Ruby | 85 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-28 02:30:36+00:00 | 257010 | 140 | REXX | 12 | [] |
+| NightHax-1106/Exploit_Testing | Exploit test with Python. | https://github.com/NightHax-1106/Exploit_Testing | ['exploit'] | 1 | 2022-03-28 03:50:56+00:00 | 0 | 0 | HTML | 0 | [] |
+| sambacha/git-submodules-exploit | None | https://github.com/sambacha/git-submodules-exploit | ['exploit'] | 1 | 2022-03-28 02:42:06+00:00 | 0 | 0 | Shell | 0 | [] |
 | hua-qiqiz/ant4g0nistw | A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/hua-qiqiz/ant4g0nistw | ['exploit'] | 1 | 2022-03-28 01:44:25+00:00 | 0 | 0 | | 0 | [] |
 | KekDisk/kalimaa-exploit.py | Exploit que será feito em python ao decorrer do curso de cybersecurity | https://github.com/KekDisk/kalimaa-exploit.py | ['exploit'] | 1 | 2022-03-28 01:27:41+00:00 | 0 | 0 | | 0 | [] |
 | MphatsoChintedza/Attacking-A-Vulnerability-Machine | In this project, I will discuss and demonstrate on how we can use Kali Linux to gain access to Metasploit-2 (A remote machine). The main goal of this project is to learn some basic techniques in penetration testing. | https://github.com/MphatsoChintedza/Attacking-A-Vulnerability-Machine | ['metasploit module OR payload'] | 1 | 2022-03-28 01:24:05+00:00 | 0 | 0 | | 0 | [] |
@@ -16,9 +18,13 @@
 | Nico-Posada/Crossy-Road-Hack-Code-Cave | External Crossy Road trainer that uses code caves to instantly give you max score. | https://github.com/Nico-Posada/Crossy-Road-Hack-Code-Cave | ['exploit'] | 1 | 2022-03-28 02:13:52+00:00 | 136 | 1 | C# | 0 | [] |
 | gogo2464/cryptatools | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | ['exploit'] | 1 | 2022-03-28 00:31:52+00:00 | 9 | 0 | Python | 0 | [] |
 | sonnyyu/docker-metasploit | None | https://github.com/sonnyyu/docker-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-28 02:15:37+00:00 | 1 | 0 | Shell | 0 | [] |
-| SussySploitDev/SussySploit1 | nan | https://github.com/SussySploitDev/SussySploit1 | ['sploit'] | 1 | 2022-03-28 02:21:32+00:00 | 5 | 0 | nan | 0 | [] |
+| TaylorTopp/Icecast-Header-Overflow_PenTest | Exploiting a machine running Icecast via a buffer overflow vulnerability | https://github.com/TaylorTopp/Icecast-Header-Overflow_PenTest | ['exploit'] | 1 | 2022-03-28 03:50:27+00:00 | 0 | 0 | | 0 | [] |
+| OreoByte/SwimmerSploit | SwimmerSploit is a collection of option fluid payloads that can perform mutiple different shell types without having to be recompiled. | https://github.com/OreoByte/SwimmerSploit | ['sploit'] | 1 | 2022-03-28 03:36:27+00:00 | 2 | 0 | Python | 0 | [] |
+| SussySploitDev/SussySploit1 | None | https://github.com/SussySploitDev/SussySploit1 | ['sploit'] | 1 | 2022-03-28 02:21:32+00:00 | 5 | 0 | | 0 | [] |
+| redteaminterac/cobracloudc2 | A post exploitation C2 tool with serverless capabilities | https://github.com/redteaminterac/cobracloudc2 | ['exploit'] | 1 | 2022-03-28 03:07:35+00:00 | 0 | 0 | | 1 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-28 02:47:03+00:00 | 30237 | 6 | Python | 4 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-28 02:15:16+00:00 | 52462 | 0 | Python | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-28 03:23:33+00:00 | 6176 | 1566 | TypeScript | 246 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-28 01:28:38+00:00 | 4219723 | 32 | Python | 4 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2022-03-28 01:27:48+00:00 | 140 | 0 | Lua | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-28 01:49:52+00:00 | 8168 | 80 | HTML | 21 | [] |
@@ -26,4 +32,6 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-28 01:00:13+00:00 | 132665 | 352 | Python | 101 | [] |
 | tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-03-28 01:20:19+00:00 | 123 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-28 00:03:48+00:00 | 461378 | 47 | | 20 | [] |
-| sambacha/git-submodules-exploit | None | https://github.com/sambacha/git-submodules-exploit | ['exploit'] | 1 | 2022-03-28 02:42:06+00:00 | 0 | 0 | Shell | 0 | [] |
+| jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-28 03:09:38+00:00 | 90948 | 707 | Go | 156 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-28 02:30:36+00:00 | 257010 | 140 | REXX | 12 | [] |
+| gtdong-ustc/LiDARSceneFlow | [CVPR 2022] "Exploiting Rigidity Constraints for LiDAR Scene Flow Estimation" | https://github.com/gtdong-ustc/LiDARSceneFlow | ['exploit'] | 1 | 2022-03-28 03:43:44+00:00 | 0 | 0 | | 0 | [] |
