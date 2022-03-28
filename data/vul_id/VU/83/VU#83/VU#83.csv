@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#83,1.00000000,https://github.com/crossminer/FOCUS,crossminer/FOCUS,161769303
+VU#83,0.33333333,https://github.com/ValdesChe/laravel-vulnerable-app_poc,ValdesChe/laravel-vulnerable-app_poc,474957366
 VU#83,0.33333333,https://github.com/puckiestyle/JNDI-Exploit-Kit,puckiestyle/JNDI-Exploit-Kit,446477383
 VU#83,0.33333333,https://github.com/Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,439312167
 VU#83,0.33333333,https://github.com/dbgee/log4j2_rce,dbgee/log4j2_rce,436839306
