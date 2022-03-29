@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-R6JX-9G48-2R5R,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,475290370
