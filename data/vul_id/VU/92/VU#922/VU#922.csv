@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#922,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#922,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#922,0.02173913,https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX,nanopathi/KERNEL_CVE-2020-29370_FIX,475723552
 VU#922,0.02173913,https://github.com/nanopathi/CVE-2020-029370_AFTPATCH,nanopathi/CVE-2020-029370_AFTPATCH,475458227
 VU#922,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch,artsking/linux-4.19.72_CVE-2020-14386_extrapatch,448747272
 VU#922,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007

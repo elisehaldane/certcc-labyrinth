@@ -8,6 +8,7 @@ MS59-000,0.05000000,https://github.com/jfustos/spectre_linux,jfustos/spectre_lin
 MS59-000,0.04761905,https://github.com/bbrezillon/linux-0day,bbrezillon/linux-0day,47608613
 MS59-000,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 MS59-000,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+MS59-000,0.02173913,https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX,nanopathi/KERNEL_CVE-2020-29370_FIX,475723552
 MS59-000,0.02173913,https://github.com/nanopathi/CVE-2020-029370_AFTPATCH,nanopathi/CVE-2020-029370_AFTPATCH,475458227
 MS59-000,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch,artsking/linux-4.19.72_CVE-2020-14386_extrapatch,448747272
 MS59-000,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
