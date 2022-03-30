@@ -1,7 +1,7 @@
 
 # Summary for results/2022/03/30
     
-121 records found after deduplication
+129 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -22,10 +22,12 @@
 | hAV9sad/CVE-2021-4034 | golang implementation of CVE-2021-4034 | https://github.com/hAV9sad/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 01:38:29+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
 | metapox/CVE-2020-25613 | None | https://github.com/metapox/CVE-2020-25613 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 00:51:50+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2020-25613'] |
 | CGray1234/Roblox-AntiExploit | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | ['exploit'] | 1 | 2022-03-30 00:32:34+00:00 | 6 | 0 | Lua | 0 | [] |
+| cynicamanee/ExploitScripts | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | ['exploit'] | 1 | 2022-03-30 16:43:31+00:00 | 1 | 0 | | 0 | [] |
 | MerlynXS/Payload-Archive | BOTNET Archive Releases Such As [ Scanners _ Botnets _ Exploits _ Methods ] | https://github.com/MerlynXS/Payload-Archive | ['exploit'] | 1 | 2022-03-30 00:29:01+00:00 | 8195 | 0 | Python | 0 | [] |
 | Vancomycin-g/CVE-2022-22947 | None | https://github.com/Vancomycin-g/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:43:21+00:00 | 8 | 0 | Python | 1 | ['CVE-2022-22947'] |
 | Amovane/java-eco-RCE-examples | RCE examples for java eco | https://github.com/Amovane/java-eco-RCE-examples | ['rce'] | 1 | 2022-03-30 08:38:35+00:00 | 228 | 0 | Kotlin | 0 | [] |
 | Satheesh575555/linux-4.19.72_CVE-2020-29368 | None | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 07:29:26+00:00 | 180420 | 0 | C | 0 | ['CVE-2020-29368'] |
+| jesuisroot123/Some_shellcode_asm_and_c | Some shellcode I created | https://github.com/jesuisroot123/Some_shellcode_asm_and_c | ['shellcode'] | 1 | 2022-03-30 16:20:44+00:00 | 4 | 0 | C | 0 | [] |
 | Submine-1106/Exploit_Main | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | ['exploit'] | 1 | 2022-03-30 00:26:25+00:00 | 60 | 0 | CSS | 0 | [] |
 | chaosec2021/Spring-cloud-function-SpEL-RCE | Spring-cloud-function-SpEL-RCE 批量检测脚本，反弹shell_EXP,欢迎师傅们试用 | https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE | ['rce'] | 1 | 2022-03-30 02:41:11+00:00 | 23 | 62 | Python | 25 | [] |
 | gogo2464/cryptatools | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | ['exploit'] | 1 | 2022-03-30 00:04:17+00:00 | 254 | 0 | Python | 0 | [] |
@@ -37,8 +39,10 @@
 | official-exploiterarmy/official-exploiterarmy | Config files for my GitHub profile. | https://github.com/official-exploiterarmy/official-exploiterarmy | ['exploit'] | 1 | 2022-03-30 06:21:44+00:00 | 0 | 0 | | 0 | [] |
 | LeoBreaker1411/CVE-2021-41652 | BatFlat CMS v1.3.6 - Database Dump | https://github.com/LeoBreaker1411/CVE-2021-41652 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 06:29:13+00:00 | 0 | 0 | | 0 | ['CVE-2021-41652'] |
 | AdiEcho/Spring-Cloud-Function-SpEL-RCE | 批量检测脚本 | https://github.com/AdiEcho/Spring-Cloud-Function-SpEL-RCE | ['rce'] | 1 | 2022-03-30 07:38:43+00:00 | 0 | 0 | | 0 | [] |
-| n1n1tom/spring-core-rce-v2 | spring-core-rce go | https://github.com/n1n1tom/spring-core-rce-v2 | ['rce'] | 1 | 2022-03-30 12:14:12+00:00 | 0 | 0 | | 0 | [] |
+| nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | None | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 12:48:49+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0391'] |
+| danimilkdev/Voltage | Crab Game C++ Skin Changer Exploit all Skins includes Danis only fresh Juicer Top Suit sheeeesh | https://github.com/danimilkdev/Voltage | ['exploit'] | 1 | 2022-03-30 15:40:13+00:00 | 0 | 0 | | 0 | [] |
 | dinosn/spring-core-rce | Spring core rce | https://github.com/dinosn/spring-core-rce | ['rce'] | 1 | 2022-03-30 15:40:22+00:00 | 0 | 0 | Python | 0 | [] |
+| mcdulltii/SpringShell_0-day | Spring Core RCE 0-day Vulnerability | https://github.com/mcdulltii/SpringShell_0-day | ['rce'] | 1 | 2022-03-30 15:42:05+00:00 | 2690 | 5 | Python | 2 | [] |
 | meniy/reentrancy-hack-solidity | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | ['exploit'] | 1 | 2022-03-30 15:32:03+00:00 | 0 | 0 | | 0 | [] |
 | spiderz0ne/CVE-2021-41773 | None | https://github.com/spiderz0ne/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:06:56+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | johnwchadwick/cve-2009-3555-test-server | A TLS server using a vendored fork of the Go TLS stack that has renegotation indication extension forcibly disabled. | https://github.com/johnwchadwick/cve-2009-3555-test-server | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:28:35+00:00 | 0 | 0 | Go | 0 | ['CVE-2009-3555'] |
@@ -49,9 +53,9 @@
 | curiosi-T/local-ethernauts-attacks | My solutions for exploiting ethernaut contracts | https://github.com/curiosi-T/local-ethernauts-attacks | ['exploit'] | 1 | 2022-03-30 14:26:13+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | DEVIX7/MoonSploit | None | https://github.com/DEVIX7/MoonSploit | ['sploit'] | 1 | 2022-03-30 13:38:15+00:00 | 0 | 0 | | 0 | [] |
 | ZeroDay0utplay/ZeroDay0utplay | Config files for my GitHub profile. | https://github.com/ZeroDay0utplay/ZeroDay0utplay | ['zeroday'] | 1 | 2022-03-30 13:11:44+00:00 | 0 | 0 | | 0 | [] |
-| nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | None | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 12:48:49+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0391'] |
-| zhengyo/msf_install_termux | Installing metasploit in termux | https://github.com/zhengyo/msf_install_termux | ['metasploit module OR payload'] | 1 | 2022-03-30 12:41:29+00:00 | 0 | 0 | Python | 0 | [] |
+| n1n1tom/spring-core-rce-v2 | spring-core-rce go | https://github.com/n1n1tom/spring-core-rce-v2 | ['rce'] | 1 | 2022-03-30 12:14:12+00:00 | 0 | 0 | | 0 | [] |
 | Satheesh575555/linux-4.19.72_CVE-2019-19252 | None | https://github.com/Satheesh575555/linux-4.19.72_CVE-2019-19252 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 07:55:40+00:00 | 0 | 0 | C | 0 | ['CVE-2019-19252'] |
+| zhengyo/msf_install_termux | Installing metasploit in termux | https://github.com/zhengyo/msf_install_termux | ['metasploit module OR payload'] | 1 | 2022-03-30 12:41:29+00:00 | 0 | 0 | Python | 0 | [] |
 | Offensive-Panda/C2_Elevated_Shell_DLL_Hijcking | DLL Hijacking and Mock directories technique to bypass Windows UAC security feature and getting high-level privileged reverse shell. Security researchers identified this technique which uses a simplified process of DLL hijacking and mock folders to bypass | https://github.com/Offensive-Panda/C2_Elevated_Shell_DLL_Hijcking | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-03-30 11:41:12+00:00 | 0 | 0 | | 0 | [] |
 | Offensive-Panda/Elevated_Reverse_Shell_DLL_Hijack | This repository contains the code to get elevated reverse shell on C2 Server. Attackers after getting initial access try to escalate privileges and perform credential dumping techniques in order to move laterally within the network. I created this exploit | https://github.com/Offensive-Panda/Elevated_Reverse_Shell_DLL_Hijack | ['exploit'] | 1 | 2022-03-30 11:37:33+00:00 | 0 | 0 | | 0 | [] |
 | RanDengShiFu/CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-03-30 11:42:46+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-22963'] |
@@ -73,11 +77,13 @@
 | satoki/tyranoscript_vulnerability | 👻 [PoC] TyranoScript 5.13b - Arbitrary Code Execution (0day) | https://github.com/satoki/tyranoscript_vulnerability | ['0day', 'exploit', 'vuln poc', 'vulnerability poc'] | 4 | 2022-03-30 07:41:55+00:00 | 3335 | 2 | Python | 0 | [] |
 | shantanu2307/Project-Agaricus | Since the mushroom sector is unregulated, there are large fluctuations in prices. Instability in consumption also leads to very high and very low prices of mushroom. Furthermore farmers also get exploited by the distributors who tell them that the market i | https://github.com/shantanu2307/Project-Agaricus | ['exploit'] | 1 | 2022-03-30 14:04:25+00:00 | 138004 | 1 | JavaScript | 0 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-03-30 05:19:45+00:00 | 81334 | 803 | Go | 136 | [] |
+| thepcn3rd/jwtToken-CVE-2016-10555 | Exploiting the CVE-2016-10555 | https://github.com/thepcn3rd/jwtToken-CVE-2016-10555 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-03-30 16:41:25+00:00 | 5 | 2 | Python | 0 | ['CVE-2016-10555'] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-03-30 10:56:12+00:00 | 41538 | 17 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-30 00:03:58+00:00 | 486548 | 47 | | 20 | [] |
 | nettitude/PoshC2_Shellcode | Supporting projects for PoshC2 | https://github.com/nettitude/PoshC2_Shellcode | ['shellcode'] | 1 | 2022-03-30 08:44:31+00:00 | 3065 | 3 | C++ | 0 | [] |
 | VictorSuraj/php-exploit | None | https://github.com/VictorSuraj/php-exploit | ['exploit'] | 1 | 2022-03-30 10:12:45+00:00 | 10075 | 1 | | 0 | [] |
 | Barriuso/SMBGhost_AutomateExploitation | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | ['exploit'] | 1 | 2022-03-30 14:02:04+00:00 | 73 | 174 | Python | 44 | ['CVE-2020-0796'] |
+| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-03-30 16:38:54+00:00 | 4502399 | 4 | Lua | 0 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-03-30 07:31:53+00:00 | 144364 | 364 | Go | 70 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-03-30 10:19:05+00:00 | 91007 | 708 | Go | 156 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-30 00:47:12+00:00 | 9712 | 32 | | 19 | [] |
@@ -106,13 +112,15 @@
 | glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-03-30 06:38:35+00:00 | 85 | 1 | | 1 | [] |
 | Sniperkaos/TraitorTownExploitModule-Private- | None | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | ['exploit'] | 1 | 2022-03-30 01:32:57+00:00 | 33 | 0 | Lua | 0 | [] |
 | c3c/CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:38:20+00:00 | 7 | 5 | C | 4 | ['CVE-2021-4034'] |
+| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-03-30 15:57:08+00:00 | 7351 | 3 | TypeScript | 0 | [] |
 | lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-30 02:53:17+00:00 | 30241 | 7 | Python | 5 | [] |
 | jangodev/CrownJS | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | ['exploit'] | 1 | 2022-03-30 00:12:38+00:00 | 162 | 11 | JavaScript | 15 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-03-30 14:15:23+00:00 | 52568 | 0 | Python | 0 | [] |
 | DANO-AMP/DDOS-project | Exploits _ MIRAI AND SCANNERS _ Layer4 Methods _ Layer7 Methods _ UDP METHODS _ TCP METHODS _ BRUTERS _ VULN _ LISTS | https://github.com/DANO-AMP/DDOS-project | ['exploit'] | 1 | 2022-03-30 11:58:14+00:00 | 2444 | 10 | C | 9 | [] |
 | LeoBreaker1411/CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/LeoBreaker1411/CVE-2021-35448 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 06:15:59+00:00 | 533 | 0 | | 0 | ['CVE-2021-35448'] |
-| dombg1337/Exploit_Templates | Just some useful exploit helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2022-03-30 06:13:22+00:00 | 9 | 0 | Python | 0 | [] |
+| skahwah/SQLRecon | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. | https://github.com/skahwah/SQLRecon | ['exploit'] | 1 | 2022-03-30 16:20:59+00:00 | 66 | 117 | C# | 21 | [] |
 | JosephFrankFir/Rxploit | Rxploit | https://github.com/JosephFrankFir/Rxploit | ['exploit'] | 1 | 2022-03-30 10:37:13+00:00 | 393 | 5 | Python | 0 | [] |
+| dombg1337/Exploit_Templates | Just some useful exploit helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2022-03-30 06:13:22+00:00 | 9 | 0 | Python | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-30 03:22:56+00:00 | 6254 | 1608 | TypeScript | 254 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-30 01:22:55+00:00 | 4381296 | 34 | Python | 4 | [] |
 | Y0ung-DST/CSGO_RCE_WRITEUP_AND_POC | CS:GO RCE Writeup | https://github.com/Y0ung-DST/CSGO_RCE_WRITEUP_AND_POC | ['rce', 'rce poc'] | 2 | 2022-03-30 14:51:48+00:00 | 40 | 2 | | 1 | [] |
@@ -125,4 +133,4 @@
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-03-30 02:00:50+00:00 | 205470 | 0 | JavaScript | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-30 04:00:52+00:00 | 140637 | 352 | Python | 101 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-30 04:37:56+00:00 | 47138 | 97 | | 17 | [] |
-| danimilkdev/Voltage | Crab Game C++ Skin Changer Exploit all Skins includes Danis only fresh Juicer Top Suit sheeeesh | https://github.com/danimilkdev/Voltage | ['exploit'] | 1 | 2022-03-30 15:40:13+00:00 | 0 | 0 | | 0 | [] |
+| darryk10/CVE-2022-22963 | None | https://github.com/darryk10/CVE-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 16:41:11+00:00 | 99 | 0 | Dockerfile | 1 | ['CVE-2022-22963'] |
