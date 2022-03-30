@@ -50,6 +50,7 @@ VU#32,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,
 VU#32,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#32,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#32,0.02222222,https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits,takeboy/https-github.com-abatchy17-WindowsExploits,456416342
+VU#32,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757,ShaikUsaf/linux-4.19.72_CVE-2020-10757,475845386
 VU#32,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428,Satheesh575555/linux-4.19.72_CVE-2020-8428,475835332
 VU#32,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705,nanopathi/linux-4.19.72_CVE-2020-25705,475802420
 VU#32,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2019-19252,Satheesh575555/linux-4.19.72_CVE-2019-19252,475775145
@@ -99,7 +100,7 @@ VU#32,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#32,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#32,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#32,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#32,0.00211416,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#32,0.00210526,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#32,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 VU#32,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
