@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/30
     
-46 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-30 01:20:17+00:00 | 22430 | 6956 | JavaScript | 1615 | [] |
-| hAV9sad/CVE-2021-4034 | golang implementation of CVE-2021-4034 | https://github.com/hAV9sad/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 01:38:29+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
+| lukejenkins/CVE-2022-24693 | None | https://github.com/lukejenkins/CVE-2022-24693 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 03:19:02+00:00 | 2 | 0 | | 2 | ['CVE-2022-24693'] |
 | TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-03-30 01:32:53+00:00 | 8 | 0 | Lua | 0 | [] |
 | codeyso/CodeTest | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | ['exploit', 'rce', 'rce poc'] | 3 | 2022-03-30 04:23:56+00:00 | 20128 | 147 | Python | 42 | [] |
 | ApprenticeofEnder/Selenium-Oxide | Boilerplate for Selenium-based exploit automation | https://github.com/ApprenticeofEnder/Selenium-Oxide | ['exploit'] | 1 | 2022-03-30 01:56:00+00:00 | 5 | 1 | Python | 0 | [] |
@@ -16,8 +16,8 @@
 | MerlynXS/Payload-Archive | BOTNET Archive Releases Such As [ Scanners _ Botnets _ Exploits _ Methods ] | https://github.com/MerlynXS/Payload-Archive | ['exploit'] | 1 | 2022-03-30 00:29:01+00:00 | 8195 | 0 | Python | 0 | [] |
 | CGray1234/Roblox-AntiExploit | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | ['exploit'] | 1 | 2022-03-30 00:32:34+00:00 | 6 | 0 | Lua | 0 | [] |
 | metapox/CVE-2020-25613 | None | https://github.com/metapox/CVE-2020-25613 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 00:51:50+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2020-25613'] |
+| hAV9sad/CVE-2021-4034 | golang implementation of CVE-2021-4034 | https://github.com/hAV9sad/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 01:38:29+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
 | bgibers/dice-game-exploit | A contract that exploits a simple dice game for profit | https://github.com/bgibers/dice-game-exploit | ['exploit'] | 1 | 2022-03-30 01:31:51+00:00 | 0 | 0 | CSS | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-30 00:08:51+00:00 | 1534796 | 1599 | Python | 535 | [] |
 | bigbigban1/SpringCloudFunctionRCE_EXP | None | https://github.com/bigbigban1/SpringCloudFunctionRCE_EXP | ['rce'] | 1 | 2022-03-30 01:40:43+00:00 | 0 | 0 | | 0 | [] |
 | Erlin610/Spring-cloud-function-rce | Spring-cloud-function的rce执行示例 | https://github.com/Erlin610/Spring-cloud-function-rce | ['rce'] | 1 | 2022-03-30 02:13:04+00:00 | 0 | 0 | | 0 | [] |
 | JeremyEngram/metasploit-install-suite | A shell script of a series of installers for the metasploit exploit framework. Requires configuration, please look at the script before choosing which version to execute | https://github.com/JeremyEngram/metasploit-install-suite | ['exploit', 'metasploit module OR payload'] | 2 | 2022-03-30 02:39:20+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -26,11 +26,14 @@
 | mtomassoli/expdev | Book about Exploit Development | https://github.com/mtomassoli/expdev | ['exploit'] | 1 | 2022-03-30 03:22:32+00:00 | 0 | 0 | HTML | 0 | [] |
 | Nounours14/Exploits | These are exploits I made | https://github.com/Nounours14/Exploits | ['exploit'] | 1 | 2022-03-30 03:36:19+00:00 | 0 | 0 | Lua | 0 | [] |
 | springssecurity/Springframework_RCE_Scanner | Scan to detect whether there are vulnerabilities in your spring environment. The principle is to detect your java version and configuration file | https://github.com/springssecurity/Springframework_RCE_Scanner | ['rce'] | 1 | 2022-03-30 04:26:11+00:00 | 0 | 0 | | 0 | [] |
+| LuckyDogDog/CVE-2022-23884 | Details,PoC and patches for CVE-2022-23884 | https://github.com/LuckyDogDog/CVE-2022-23884 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-30 06:30:03+00:00 | 0 | 1 | Python | 1 | ['CVE-2022-23884'] |
 | nanopathi/KERNEL_CVE-2020-29370_FIX | None | https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX | ['cve-2 OR cve_2'] | 1 | 2022-03-30 05:04:21+00:00 | 0 | 0 | C | 0 | ['CVE-2020-29370'] |
+| dinosn/CVE-2022-22963 | CVE-2022-22963 PoC | https://github.com/dinosn/CVE-2022-22963 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-30 05:14:01+00:00 | 0 | 1 | Python | 2 | ['CVE-2022-22963'] |
+| official-exploiterarmy/official-exploiterarmy | Config files for my GitHub profile. | https://github.com/official-exploiterarmy/official-exploiterarmy | ['exploit'] | 1 | 2022-03-30 06:21:44+00:00 | 0 | 0 | | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-03-30 01:39:15+00:00 | 1652 | 10 | Go | 1 | [] |
-| lukejenkins/CVE-2022-24693 | None | https://github.com/lukejenkins/CVE-2022-24693 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 03:19:02+00:00 | 2 | 0 | | 2 | ['CVE-2022-24693'] |
+| glyptho/myreconmethods | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | ['exploit'] | 1 | 2022-03-30 06:38:35+00:00 | 85 | 1 | | 1 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-03-30 00:08:51+00:00 | 1534796 | 1599 | Python | 535 | [] |
 | Sniperkaos/TraitorTownExploitModule-Private- | None | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | ['exploit'] | 1 | 2022-03-30 01:32:57+00:00 | 33 | 0 | Lua | 0 | [] |
-| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-30 02:53:17+00:00 | 30241 | 7 | Python | 5 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-30 04:32:49+00:00 | 6007 | 3173 | Python | 688 | [] |
 | OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2022-03-30 00:28:43+00:00 | 75391 | 451 | Java | 578 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-30 00:21:03+00:00 | 265065 | 296 | Ruby | 85 | [] |
@@ -49,5 +52,9 @@
 | rcerc/rcerc.github.io | rcerc’s site | https://github.com/rcerc/rcerc.github.io | ['rce'] | 1 | 2022-03-30 02:00:57+00:00 | 1586 | 0 | HTML | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-30 01:22:55+00:00 | 4381296 | 34 | Python | 4 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-30 03:22:56+00:00 | 6254 | 1608 | TypeScript | 254 | [] |
+| dombg1337/Exploit_Templates | Just some useful exploit helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2022-03-30 06:13:22+00:00 | 9 | 0 | Python | 0 | [] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-03-30 05:56:10+00:00 | 933 | 4 | C | 0 | [] |
+| LeoBreaker1411/CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/LeoBreaker1411/CVE-2021-35448 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 06:15:59+00:00 | 533 | 0 | | 0 | ['CVE-2021-35448'] |
 | jangodev/CrownJS | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | ['exploit'] | 1 | 2022-03-30 00:12:38+00:00 | 162 | 11 | JavaScript | 15 | [] |
-| dinosn/CVE-2022-22963 | CVE-2022-22963 PoC | https://github.com/dinosn/CVE-2022-22963 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-30 05:14:01+00:00 | 0 | 1 | Python | 2 | ['CVE-2022-22963'] |
+| lal0ne/CVE | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/CVE | ['cve poc'] | 1 | 2022-03-30 02:53:17+00:00 | 30241 | 7 | Python | 5 | [] |
+| LeoBreaker1411/CVE-2021-41652 | BatFlat CMS v1.3.6 - Database Dump | https://github.com/LeoBreaker1411/CVE-2021-41652 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 06:29:13+00:00 | 0 | 0 | | 0 | ['CVE-2021-41652'] |
