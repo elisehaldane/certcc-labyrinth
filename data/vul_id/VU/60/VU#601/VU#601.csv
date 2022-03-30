@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#601,0.25000000,https://github.com/pazhanivel07/frameworks_av-10-r33_CVE-2020-0242,pazhanivel07/frameworks_av-10-r33_CVE-2020-0242,462712169
+VU#601,0.20000000,https://github.com/pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,475811173
 VU#601,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#601,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#601,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
