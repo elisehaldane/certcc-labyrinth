@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2021-30167,1.00000000,https://github.com/mo-gu/CNVD-2021-30167,mo-gu/CNVD-2021-30167,475837530
 CNVD-2021-30167,1.00000000,https://github.com/parkourhe/yongYouNC-RCE,parkourhe/yongYouNC-RCE,442341803
 CNVD-2021-30167,1.00000000,https://github.com/HOLYshitIjustWANTaNAMEFFFFFFFuck/CNVD-2021-30167,HOLYshitIjustWANTaNAMEFFFFFFFuck/CNVD-2021-30167,435541341
 CNVD-2021-30167,1.00000000,https://github.com/chaosec2021/CNVD-2021-30167-NC-BeanShell-RCE,chaosec2021/CNVD-2021-30167-NC-BeanShell-RCE,430352609
