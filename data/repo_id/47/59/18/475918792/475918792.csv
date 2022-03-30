@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+475918792,Mr-xn/spring-core-rce,ROOT.war,a5c07060d5178101d2ee3a54a428c9a58fa028bc,VU#45
+475918792,Mr-xn/spring-core-rce,README.MD,d1ba51c22da8a8226358bc261f8346e8dede76a8,CVE-2010-1622
