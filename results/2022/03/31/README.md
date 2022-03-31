@@ -1,0 +1,37 @@
+
+# Summary for results/2022/03/31
+    
+30 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-31 00:21:17+00:00 | 265067 | 296 | Ruby | 85 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-31 00:47:12+00:00 | 10618 | 34 | | 19 | [] |
+| DoTuan1/Reserch-CVE-2021-41773 | nan | https://github.com/DoTuan1/Reserch-CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-31 01:54:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
+| zjx/spring-rce | None | https://github.com/zjx/spring-rce | ['rce'] | 1 | 2022-03-31 01:35:21+00:00 | 0 | 0 | | 0 | [] |
+| StevenYosif/Silent-Excel-Exploit-Builder | None | https://github.com/StevenYosif/Silent-Excel-Exploit-Builder | ['exploit'] | 1 | 2022-03-31 01:30:22+00:00 | 0 | 0 | | 0 | [] |
+| StevenYosif/SilentDocExploit-Builder | None | https://github.com/StevenYosif/SilentDocExploit-Builder | ['exploit'] | 1 | 2022-03-31 01:29:42+00:00 | 0 | 0 | | 0 | [] |
+| StevenYosif/SilentDocExploit | None | https://github.com/StevenYosif/SilentDocExploit | ['exploit'] | 1 | 2022-03-31 01:29:16+00:00 | 0 | 0 | | 0 | [] |
+| StevenYosif/Silent-Excel-Exploit-2022 | Best Silent Exploits, Generate .xll, .xls FUD Exploit | https://github.com/StevenYosif/Silent-Excel-Exploit-2022 | ['exploit'] | 1 | 2022-03-31 01:28:28+00:00 | 0 | 0 | | 0 | [] |
+| StevenYosif/Silent-Doc-Exploit-2022 | Best Silent Word/Doc Exploit 2022 | https://github.com/StevenYosif/Silent-Doc-Exploit-2022 | ['exploit'] | 1 | 2022-03-31 01:27:43+00:00 | 0 | 0 | | 0 | [] |
+| Maladra/Shellcode-Generator-Python | None | https://github.com/Maladra/Shellcode-Generator-Python | ['shellcode'] | 1 | 2022-03-31 00:44:22+00:00 | 3 | 0 | Python | 0 | [] |
+| ChinaRan0/SpringCoreRCE-EXP-getshell | None | https://github.com/ChinaRan0/SpringCoreRCE-EXP-getshell | ['rce'] | 1 | 2022-03-31 00:33:07+00:00 | 1 | 2 | Python | 2 | [] |
+| SealPaPaPa/SeeyonExploitNote | some research note for seeyon | https://github.com/SealPaPaPa/SeeyonExploitNote | ['exploit'] | 1 | 2022-03-31 00:05:47+00:00 | 0 | 0 | Java | 0 | [] |
+| mttaggart/rustyneedle | A Rust-based dropper for shellcode payloads. | https://github.com/mttaggart/rustyneedle | ['shellcode'] | 1 | 2022-03-31 01:37:48+00:00 | 1 | 2 | Rust | 0 | [] |
+| ckkok/spring4shell-poc | nan | https://github.com/ckkok/spring4shell-poc | ['rce', 'rce poc'] | 2 | 2022-03-31 00:58:56+00:00 | 256 | 0 | Python | 4 | [] |
+| DylanMarriott/PoC-Spring4Shell-RCE | nan | https://github.com/DylanMarriott/PoC-Spring4Shell-RCE | ['rce', 'rce poc'] | 2 | 2022-03-31 00:38:27+00:00 | 35572 | 1 | Java | 0 | [] |
+| tweedge/springcore-0day-en | Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | ['0day', 'exploit'] | 2 | 2022-03-31 02:08:32+00:00 | 2165 | 11 | Python | 4 | [] |
+| lumalav/CAP6135_FinalProject | Log4Shell Vulnerability - Exploitation and Mitigation | https://github.com/lumalav/CAP6135_FinalProject | ['exploit'] | 1 | 2022-03-31 02:11:04+00:00 | 9478 | 0 | Java | 0 | [] |
+| FrodoMenezes/picoCTF2022-web-exploitation | picoCTF 2022 web exploitation solutions | https://github.com/FrodoMenezes/picoCTF2022-web-exploitation | ['exploit'] | 1 | 2022-03-31 01:20:55+00:00 | 1005 | 0 | | 1 | [] |
+| k0zulzr/CVE-2022-24086-RCE | nan | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-31 01:16:54+00:00 | 1 | 2 | | 2 | ['CVE-2022-24086'] |
+| Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-03-31 00:38:05+00:00 | 17928 | 2 | C# | 0 | [] |
+| illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-03-31 01:44:19+00:00 | 1670 | 0 | Python | 0 | [] |
+| seal9055/cyber_attack_simulation | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | ['exploit', 'rce'] | 2 | 2022-03-31 01:16:20+00:00 | 22 | 0 | Batchfile | 0 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-03-31 00:23:21+00:00 | 4016 | 19 | C++ | 9 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-31 01:24:08+00:00 | 4424755 | 34 | Python | 4 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-31 01:44:10+00:00 | 8287 | 82 | HTML | 22 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-31 01:43:20+00:00 | 22834 | 2 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-31 00:57:58+00:00 | 144947 | 353 | Python | 101 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-03-31 01:40:57+00:00 | 294841 | 907 | C# | 216 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-31 00:04:23+00:00 | 494167 | 47 | | 20 | [] |
+| light-Life/spring-core-rce | 单个利用工具（只有文档） | https://github.com/light-Life/spring-core-rce | ['rce'] | 1 | 2022-03-31 02:13:44+00:00 | 0 | 0 | | 0 | [] |
