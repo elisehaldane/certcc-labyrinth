@@ -5,8 +5,6 @@ repo_id,repo_full_name,file,file_sha1,match
 465011945,codeyso/CodeTest,EXP/WindowsSMBv3.py,74b44ac7a4bbe18a71507797fac876b92b516b72,CVE-2020-0796
 465011945,codeyso/CodeTest,EXP/ApacheShiro.py,9a9198142733a3cbefed416a5575eed5fb81f52b,CVE-2016-4437
 465011945,codeyso/CodeTest,EXP/ApacheShiro.py,9a9198142733a3cbefed416a5575eed5fb81f52b,VU#29
-465011945,codeyso/CodeTest,EXP/CVE.py,d1dae8d29d0a7d76df3961391c41c15dfea7b3ee,CVE-2021-26084
-465011945,codeyso/CodeTest,EXP/CVE.py,d1dae8d29d0a7d76df3961391c41c15dfea7b3ee,CVE-2022-23131
 465011945,codeyso/CodeTest,EXP/ApacheSolr.py,d9df7962408376c7a2418a54e0a71270ce9a98fd,CVE-2017-12629
 465011945,codeyso/CodeTest,EXP/ApacheSolr.py,d9df7962408376c7a2418a54e0a71270ce9a98fd,CVE-2019-0193
 465011945,codeyso/CodeTest,EXP/ApacheSolr.py,d9df7962408376c7a2418a54e0a71270ce9a98fd,CVE-2019-17558
