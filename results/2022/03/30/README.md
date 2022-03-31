@@ -1,12 +1,12 @@
 
 # Summary for results/2022/03/30
     
-183 records found after deduplication
+184 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-03-30 10:37:45+00:00 | 707065 | 26768 | Ruby | 12102 | [] |
-| cynicamanee/ExploitScripts | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | ['exploit'] | 1 | 2022-03-30 16:43:31+00:00 | 1 | 0 | | 0 | [] |
+| Nounours14/Exploits | These are exploits I made | https://github.com/Nounours14/Exploits | ['exploit'] | 1 | 2022-03-30 03:36:19+00:00 | 0 | 0 | Lua | 0 | [] |
 | metapox/CVE-2020-25613 | None | https://github.com/metapox/CVE-2020-25613 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 00:51:50+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2020-25613'] |
 | hAV9sad/CVE-2021-4034 | golang implementation of CVE-2021-4034 | https://github.com/hAV9sad/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 01:38:29+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
 | bgibers/dice-game-exploit | A contract that exploits a simple dice game for profit | https://github.com/bgibers/dice-game-exploit | ['exploit'] | 1 | 2022-03-30 01:31:51+00:00 | 0 | 0 | CSS | 0 | [] |
@@ -16,8 +16,8 @@
 | FrodoMenezes/picoCTF2022-web-exploitation | picoCTF 2022 web exploitation solutions | https://github.com/FrodoMenezes/picoCTF2022-web-exploitation | ['exploit'] | 1 | 2022-03-30 02:59:54+00:00 | 0 | 0 | | 0 | [] |
 | bigbigban1/CVE-2022-22947-exp | None | https://github.com/bigbigban1/CVE-2022-22947-exp | ['cve-2 OR cve_2'] | 1 | 2022-03-30 03:15:09+00:00 | 0 | 0 | Python | 1 | ['CVE-2022-22947'] |
 | mtomassoli/expdev | Book about Exploit Development | https://github.com/mtomassoli/expdev | ['exploit'] | 1 | 2022-03-30 03:22:32+00:00 | 0 | 0 | HTML | 0 | [] |
-| Nounours14/Exploits | These are exploits I made | https://github.com/Nounours14/Exploits | ['exploit'] | 1 | 2022-03-30 03:36:19+00:00 | 0 | 0 | Lua | 0 | [] |
 | springssecurity/Springframework_RCE_Scanner | Scan to detect whether there are vulnerabilities in your spring environment. The principle is to detect your java version and configuration file | https://github.com/springssecurity/Springframework_RCE_Scanner | ['rce'] | 1 | 2022-03-30 04:26:11+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-30 01:20:17+00:00 | 22430 | 6956 | JavaScript | 1615 | [] |
 | LuckyDogDog/CVE-2022-23884 | Details,PoC and patches for CVE-2022-23884 | https://github.com/LuckyDogDog/CVE-2022-23884 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-30 06:30:03+00:00 | 0 | 1 | Python | 1 | ['CVE-2022-23884'] |
 | nanopathi/KERNEL_CVE-2020-29370_FIX | None | https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX | ['cve-2 OR cve_2'] | 1 | 2022-03-30 05:04:21+00:00 | 0 | 0 | C | 0 | ['CVE-2020-29370'] |
 | dinosn/CVE-2022-22963 | CVE-2022-22963 PoC | https://github.com/dinosn/CVE-2022-22963 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-30 05:14:01+00:00 | 0 | 1 | Python | 2 | ['CVE-2022-22963'] |
@@ -26,9 +26,10 @@
 | AdiEcho/Spring-Cloud-Function-SpEL-RCE | 批量检测脚本 | https://github.com/AdiEcho/Spring-Cloud-Function-SpEL-RCE | ['rce'] | 1 | 2022-03-30 07:38:43+00:00 | 0 | 0 | | 0 | [] |
 | Satheesh575555/linux-4.19.72_CVE-2019-19252 | None | https://github.com/Satheesh575555/linux-4.19.72_CVE-2019-19252 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 07:55:40+00:00 | 0 | 0 | C | 0 | ['CVE-2019-19252'] |
 | BobTheShoplifter/Spring4Shell-POC | Spring4Shell Proof Of Concept/Information | https://github.com/BobTheShoplifter/Spring4Shell-POC | ['rce', 'rce poc'] | 2 | 2022-03-30 21:41:45+00:00 | 48 | 14 | Python | 7 | [] |
+| Threonic/CVE-2021-28480 | None | https://github.com/Threonic/CVE-2021-28480 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 07:57:45+00:00 | 0 | 0 | | 0 | ['CVE-2021-28480'] |
 | CGray1234/Roblox-AntiExploit | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | ['exploit'] | 1 | 2022-03-30 00:32:34+00:00 | 6 | 0 | Lua | 0 | [] |
+| cynicamanee/ExploitScripts | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | ['exploit'] | 1 | 2022-03-30 16:43:31+00:00 | 1 | 0 | | 0 | [] |
 | MerlynXS/Payload-Archive | BOTNET Archive Releases Such As [ Scanners _ Botnets _ Exploits _ Methods ] | https://github.com/MerlynXS/Payload-Archive | ['exploit'] | 1 | 2022-03-30 00:29:01+00:00 | 8195 | 0 | Python | 0 | [] |
-| p1n93r/spring-rce-war | None | https://github.com/p1n93r/spring-rce-war | ['rce'] | 1 | 2022-03-30 08:31:29+00:00 | 0 | 0 | Java | 0 | [] |
 | Vancomycin-g/CVE-2022-22947 | None | https://github.com/Vancomycin-g/CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:43:21+00:00 | 8 | 0 | Python | 1 | ['CVE-2022-22947'] |
 | alecmaly/exploit-server | None | https://github.com/alecmaly/exploit-server | ['exploit'] | 1 | 2022-03-30 17:03:47+00:00 | 51 | 0 | Python | 0 | [] |
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-03-30 07:04:02+00:00 | 8118 | 5 | Python | 0 | [] |
@@ -49,11 +50,10 @@
 | Satheesh575555/linux-4.19.72_CVE-2020-29368 | None | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 07:29:26+00:00 | 180420 | 0 | C | 0 | ['CVE-2020-29368'] |
 | HubOSRcs/Fortnite-OrangeWare-Source-Full | Fortnite internal Orange Ware Source Code Esp Aimbot With Exploits | https://github.com/HubOSRcs/Fortnite-OrangeWare-Source-Full | ['exploit'] | 1 | 2022-03-30 21:06:07+00:00 | 1637 | 0 | C++ | 0 | [] |
 | Amovane/java-eco-RCE-examples | RCE examples for java eco | https://github.com/Amovane/java-eco-RCE-examples | ['rce'] | 1 | 2022-03-30 08:38:35+00:00 | 228 | 0 | Kotlin | 0 | [] |
-| Threonic/CVE-2021-28480 | None | https://github.com/Threonic/CVE-2021-28480 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 07:57:45+00:00 | 0 | 0 | | 0 | ['CVE-2021-28480'] |
+| p1n93r/spring-rce-war | None | https://github.com/p1n93r/spring-rce-war | ['rce'] | 1 | 2022-03-30 08:31:29+00:00 | 0 | 0 | Java | 0 | [] |
 | nanopathi/linux-4.19.72_CVE-2020-25705 | None | https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 09:38:22+00:00 | 0 | 0 | C | 0 | ['CVE-2020-25705'] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-03-30 22:25:00+00:00 | 10628 | 1 | Python | 0 | [] |
-| mcdulltii/SpringShell_0-day | Spring Core RCE 0-day Vulnerability | https://github.com/mcdulltii/SpringShell_0-day | ['rce'] | 1 | 2022-03-30 15:42:05+00:00 | 2690 | 5 | Python | 2 | [] |
-| danimilkdev/Voltage | Crab Game C++ Skin Changer Exploit all Skins includes Danis only fresh Juicer Top Suit sheeeesh | https://github.com/danimilkdev/Voltage | ['exploit'] | 1 | 2022-03-30 15:40:13+00:00 | 0 | 0 | | 0 | [] |
+| pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243 | None | https://github.com/pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 09:44:18+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0242', 'CVE-2020-0243'] |
+| dinosn/spring-core-rce | Spring core rce | https://github.com/dinosn/spring-core-rce | ['rce'] | 1 | 2022-03-30 15:40:22+00:00 | 0 | 0 | Python | 0 | [] |
 | darryk10/CVE-2022-22963 | None | https://github.com/darryk10/CVE-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 16:41:11+00:00 | 99 | 0 | Dockerfile | 1 | ['CVE-2022-22963'] |
 | TheGejr/SpringShell | Spring Core RCE CVE-2022-22963 | https://github.com/TheGejr/SpringShell | ['rce'] | 1 | 2022-03-30 17:08:51+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-22963'] |
 | Kirill89/CVE-2022-22963-PoC | None | https://github.com/Kirill89/CVE-2022-22963-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-03-30 17:40:21+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22963'] |
@@ -70,13 +70,13 @@
 | blindpirate/spring-rce-2022-03-hotfix | None | https://github.com/blindpirate/spring-rce-2022-03-hotfix | ['rce'] | 1 | 2022-03-30 22:15:18+00:00 | 0 | 0 | | 0 | [] |
 | DylanMarriott/PoC-Spring4Shell-RCE | None | https://github.com/DylanMarriott/PoC-Spring4Shell-RCE | ['rce', 'rce poc'] | 2 | 2022-03-30 22:41:05+00:00 | 0 | 1 | Java | 0 | [] |
 | a16zTT/0day | None | https://github.com/a16zTT/0day | ['0day'] | 1 | 2022-03-30 22:28:07+00:00 | 0 | 0 | | 0 | [] |
+| ckkok/spring4shell-poc | None | https://github.com/ckkok/spring4shell-poc | ['rce poc'] | 1 | 2022-03-30 23:36:44+00:00 | 256 | 0 | Python | 0 | [] |
 | sagaryadav8742/springcloudRCE | Spring Cloud Gateway RCE - CVE-2022-22947 | https://github.com/sagaryadav8742/springcloudRCE | ['rce'] | 1 | 2022-03-30 23:35:43+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
 | mttaggart/rustyneedle | A Rust-based dropper for shellcode payloads. | https://github.com/mttaggart/rustyneedle | ['shellcode'] | 1 | 2022-03-30 23:36:49+00:00 | 0 | 0 | | 0 | [] |
-| dinosn/spring-core-rce | Spring core rce | https://github.com/dinosn/spring-core-rce | ['rce'] | 1 | 2022-03-30 15:40:22+00:00 | 0 | 0 | Python | 0 | [] |
-| meniy/reentrancy-hack-solidity | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | ['exploit'] | 1 | 2022-03-30 15:32:03+00:00 | 0 | 0 | | 0 | [] |
-| pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243 | None | https://github.com/pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 09:44:18+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0242', 'CVE-2020-0243'] |
-| spiderz0ne/CVE-2021-41773 | None | https://github.com/spiderz0ne/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:06:56+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
+| danimilkdev/Voltage | Crab Game C++ Skin Changer Exploit all Skins includes Danis only fresh Juicer Top Suit sheeeesh | https://github.com/danimilkdev/Voltage | ['exploit'] | 1 | 2022-03-30 15:40:13+00:00 | 0 | 0 | | 0 | [] |
+| mcdulltii/SpringShell_0-day | Spring Core RCE 0-day Vulnerability (https://share.vx-underground.org/) | https://github.com/mcdulltii/SpringShell_0-day | ['0day', 'rce'] | 2 | 2022-03-30 15:42:05+00:00 | 2690 | 11 | Python | 7 | [] |
 | Satheesh575555/linux-4.19.72_CVE-2020-8428 | None | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 10:58:41+00:00 | 0 | 0 | C | 0 | ['CVE-2020-8428'] |
+| meniy/reentrancy-hack-solidity | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | ['exploit'] | 1 | 2022-03-30 15:32:03+00:00 | 0 | 0 | | 0 | [] |
 | mo-gu/CNVD-2021-30167 | CNVD-2021-30167验证poc | https://github.com/mo-gu/CNVD-2021-30167 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-03-30 11:02:59+00:00 | 0 | 0 | Python | 0 | ['CNVD-2021-30167'] |
 | fengguangbin/spring-rce-war | None | https://github.com/fengguangbin/spring-rce-war | ['rce'] | 1 | 2022-03-30 09:32:13+00:00 | 24629 | 1 | | 5 | [] |
 | ShaikUsaf/linux-4.19.72_CVE-2020-10757 | None | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 11:21:22+00:00 | 0 | 0 | | 0 | ['CVE-2020-10757'] |
@@ -95,9 +95,10 @@
 | Matthsh/SQLi-correction | Python3 correction for SQLi code CMS Made Simple < 2.2.10 CVE: 2019-9053 | https://github.com/Matthsh/SQLi-correction | ['cve-2 OR cve_2'] | 1 | 2022-03-30 14:37:16+00:00 | 0 | 0 | | 0 | [] |
 | io-poc/leap-poc | Vulnerable Insecure-Bank Java Maven App | https://github.com/io-poc/leap-poc | ['vulnerability poc'] | 1 | 2022-03-30 14:59:47+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | johnwchadwick/cve-2009-3555-test-server | A TLS server using a vendored fork of the Go TLS stack that has renegotation indication extension forcibly disabled. | https://github.com/johnwchadwick/cve-2009-3555-test-server | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:28:35+00:00 | 0 | 0 | Go | 0 | ['CVE-2009-3555'] |
+| spiderz0ne/CVE-2021-41773 | None | https://github.com/spiderz0ne/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-30 15:06:56+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | houdinicc/pocsuite3-exp | Write vulnerability exp through pocsuite3 | https://github.com/houdinicc/pocsuite3-exp | ['vulnerability poc'] | 1 | 2022-03-30 15:18:38+00:00 | 3 | 1 | Python | 1 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-03-30 22:25:00+00:00 | 10628 | 1 | Python | 0 | [] |
 | codeyso/CodeTest | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | ['exploit', 'rce', 'rce poc'] | 3 | 2022-03-30 04:23:56+00:00 | 20128 | 147 | Python | 42 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-03-30 01:20:17+00:00 | 22430 | 6956 | JavaScript | 1615 | [] |
 | guokai8/rcellmarker | Identify cell type based on cell markers for single cell squencing | https://github.com/guokai8/rcellmarker | ['rce'] | 1 | 2022-03-30 17:27:52+00:00 | 1968 | 4 | R | 2 | [] |
 | timoschick/pet | This repository contains the code for "Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference" | https://github.com/timoschick/pet | ['exploit'] | 1 | 2022-03-30 19:48:28+00:00 | 174 | 1278 | Python | 226 | [] |
 | chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2022-03-30 20:54:40+00:00 | 1046 | 8 | Shell | 1 | [] |
