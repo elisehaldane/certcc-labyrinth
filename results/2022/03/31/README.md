@@ -1,13 +1,12 @@
 
 # Summary for results/2022/03/31
     
-47 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-03-31 05:10:21+00:00 | 238375 | 7003 | C | 1895 | [] |
-| StevenYosif/SilentDocExploit | None | https://github.com/StevenYosif/SilentDocExploit | ['exploit'] | 1 | 2022-03-31 01:29:16+00:00 | 0 | 0 | | 0 | [] |
-| blindpirate/spring-rce-2022-03-hotfix | None | https://github.com/blindpirate/spring-rce-2022-03-hotfix | ['rce'] | 1 | 2022-03-31 03:22:35+00:00 | 0 | 0 | Kotlin | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-31 05:31:22+00:00 | 6015 | 3177 | Python | 689 | [] |
 | DylanMarriott/PoC-Spring4Shell-RCE | None | https://github.com/DylanMarriott/PoC-Spring4Shell-RCE | ['rce', 'rce poc'] | 2 | 2022-03-31 00:38:27+00:00 | 35574 | 1 | Java | 0 | [] |
 | ckkok/spring4shell-poc | None | https://github.com/ckkok/spring4shell-poc | ['rce', 'rce poc'] | 2 | 2022-03-31 00:58:56+00:00 | 256 | 0 | Python | 4 | [] |
 | mttaggart/rustyneedle | A Rust-based dropper for shellcode payloads. | https://github.com/mttaggart/rustyneedle | ['shellcode'] | 1 | 2022-03-31 01:37:48+00:00 | 1 | 2 | Rust | 0 | [] |
@@ -16,8 +15,8 @@
 | Maladra/Shellcode-Generator-Python | None | https://github.com/Maladra/Shellcode-Generator-Python | ['shellcode'] | 1 | 2022-03-31 00:44:22+00:00 | 3 | 0 | Python | 0 | [] |
 | StevenYosif/Silent-Doc-Exploit-2022 | Best Silent Word/Doc Exploit 2022 | https://github.com/StevenYosif/Silent-Doc-Exploit-2022 | ['exploit'] | 1 | 2022-03-31 01:27:43+00:00 | 0 | 0 | | 0 | [] |
 | StevenYosif/Silent-Excel-Exploit-2022 | Best Silent Exploits, Generate .xll, .xls FUD Exploit | https://github.com/StevenYosif/Silent-Excel-Exploit-2022 | ['exploit'] | 1 | 2022-03-31 01:28:28+00:00 | 0 | 0 | | 0 | [] |
+| StevenYosif/SilentDocExploit | None | https://github.com/StevenYosif/SilentDocExploit | ['exploit'] | 1 | 2022-03-31 01:29:16+00:00 | 0 | 0 | | 0 | [] |
 | StevenYosif/SilentDocExploit-Builder | None | https://github.com/StevenYosif/SilentDocExploit-Builder | ['exploit'] | 1 | 2022-03-31 01:29:42+00:00 | 0 | 0 | | 0 | [] |
-| lumalav/CAP6135_FinalProject | Log4Shell Vulnerability - Exploitation and Mitigation | https://github.com/lumalav/CAP6135_FinalProject | ['exploit'] | 1 | 2022-03-31 02:11:04+00:00 | 9478 | 0 | Java | 0 | [] |
 | StevenYosif/Silent-Excel-Exploit-Builder | None | https://github.com/StevenYosif/Silent-Excel-Exploit-Builder | ['exploit'] | 1 | 2022-03-31 01:30:22+00:00 | 0 | 0 | | 0 | [] |
 | zjx/spring-rce | None | https://github.com/zjx/spring-rce | ['rce'] | 1 | 2022-03-31 01:35:21+00:00 | 0 | 0 | | 0 | [] |
 | DoTuan1/Reserch-CVE-2021-41773 | nan | https://github.com/DoTuan1/Reserch-CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-03-31 01:54:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
@@ -27,21 +26,26 @@
 | Nefcore/CRLFsuite | Fast CRLF scanning and exploitation tool | https://github.com/Nefcore/CRLFsuite | ['exploit'] | 1 | 2022-03-31 02:48:02+00:00 | 0 | 0 | Python | 0 | [] |
 | 9xN/SpringCore-0day | None | https://github.com/9xN/SpringCore-0day | ['0day'] | 1 | 2022-03-31 02:57:15+00:00 | 0 | 1 | Python | 1 | [] |
 | WillanHurtadoDev-Pent/Spring4Shell | Java RCE 0-day latest vulnerabilities in spring | https://github.com/WillanHurtadoDev-Pent/Spring4Shell | ['rce'] | 1 | 2022-03-31 03:40:45+00:00 | 0 | 0 | | 0 | [] |
+| liudonghua123/spring-core-rce | None | https://github.com/liudonghua123/spring-core-rce | ['rce'] | 1 | 2022-03-31 03:41:44+00:00 | 0 | 0 | | 0 | [] |
+| JuiceWarfare/Exploit | None | https://github.com/JuiceWarfare/Exploit | ['exploit'] | 1 | 2022-03-31 05:55:49+00:00 | 0 | 0 | Lua | 0 | [] |
+| netwrkspider/PoC-Vault | This repo is mainly for Zero Day Vulnerablities. | https://github.com/netwrkspider/PoC-Vault | ['vulnerability poc'] | 1 | 2022-03-31 06:21:52+00:00 | 0 | 0 | YARA | 0 | [] |
+| Satheesh575555/System_bt_AOSP10-r33_CVE-2020-0449 | nan | https://github.com/Satheesh575555/System_bt_AOSP10-r33_CVE-2020-0449 | ['cve-2 OR cve_2'] | 1 | 2022-03-31 06:41:58+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0449'] |
+| blindpirate/spring-rce-2022-03-hotfix | None | https://github.com/blindpirate/spring-rce-2022-03-hotfix | ['rce'] | 1 | 2022-03-31 03:22:35+00:00 | 0 | 0 | Kotlin | 0 | [] |
 | tweedge/springcore-0day-en | Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | ['0day', 'exploit'] | 2 | 2022-03-31 02:08:32+00:00 | 2165 | 11 | Python | 4 | [] |
-| FrodoMenezes/picoCTF2022-web-exploitation | picoCTF 2022 web exploitation solutions | https://github.com/FrodoMenezes/picoCTF2022-web-exploitation | ['exploit'] | 1 | 2022-03-31 01:20:55+00:00 | 1005 | 0 | | 1 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-03-31 05:31:22+00:00 | 6015 | 3177 | Python | 689 | [] |
+| lumalav/CAP6135_FinalProject | Log4Shell Vulnerability - Exploitation and Mitigation | https://github.com/lumalav/CAP6135_FinalProject | ['exploit'] | 1 | 2022-03-31 02:11:04+00:00 | 9478 | 0 | Java | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-03-31 01:24:08+00:00 | 4424755 | 34 | Python | 4 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-03-31 00:21:17+00:00 | 265067 | 296 | Ruby | 85 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-03-31 02:30:37+00:00 | 282746 | 141 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-03-31 00:47:12+00:00 | 10618 | 34 | | 19 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-03-31 00:04:23+00:00 | 494167 | 47 | | 20 | [] |
+| shantanu2307/Project-Agaricus | Since the mushroom sector is unregulated, there are large fluctuations in prices. Instability in consumption also leads to very high and very low prices of mushroom. Furthermore farmers also get exploited by the distributors who tell them that the market i | https://github.com/shantanu2307/Project-Agaricus | ['exploit'] | 1 | 2022-03-31 06:38:39+00:00 | 139927 | 1 | JavaScript | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-03-31 01:40:57+00:00 | 294841 | 907 | C# | 216 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-03-31 04:36:50+00:00 | 75282 | 97 | | 17 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-03-31 00:57:58+00:00 | 144947 | 353 | Python | 101 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-03-31 01:43:20+00:00 | 22834 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-03-31 01:44:10+00:00 | 8287 | 82 | HTML | 22 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-03-31 02:58:07+00:00 | 6277 | 1617 | TypeScript | 255 | [] |
-| bgibers/dice-game-exploit | A contract that exploits a simple dice game for profit | https://github.com/bgibers/dice-game-exploit | ['exploit'] | 1 | 2022-03-31 02:42:02+00:00 | 25878 | 0 | CSS | 0 | [] |
+| FrodoMenezes/picoCTF2022-web-exploitation | picoCTF 2022 web exploitation solutions | https://github.com/FrodoMenezes/picoCTF2022-web-exploitation | ['exploit'] | 1 | 2022-03-31 01:20:55+00:00 | 1005 | 0 | | 1 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-03-31 03:25:16+00:00 | 2364 | 79 | JavaScript | 110 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-03-31 03:30:56+00:00 | 4714 | 37 | | 2 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-03-31 02:33:34+00:00 | 30432 | 7 | Python | 6 | [] |
@@ -51,4 +55,5 @@
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-03-31 02:35:07+00:00 | 235 | 6 | | 1 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-03-31 00:38:05+00:00 | 17928 | 2 | C# | 0 | [] |
 | k0zulzr/CVE-2022-24086-RCE | None | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-03-31 01:16:54+00:00 | 1 | 2 | | 2 | ['CVE-2022-24086'] |
-| liudonghua123/spring-core-rce | None | https://github.com/liudonghua123/spring-core-rce | ['rce'] | 1 | 2022-03-31 03:41:44+00:00 | 0 | 0 | | 0 | [] |
+| bgibers/dice-game-exploit | A contract that exploits a simple dice game for profit | https://github.com/bgibers/dice-game-exploit | ['exploit'] | 1 | 2022-03-31 02:42:02+00:00 | 25878 | 0 | CSS | 0 | [] |
+| Trinadh465/frameworks_native_CVE-2020-0226 | nan | https://github.com/Trinadh465/frameworks_native_CVE-2020-0226 | ['cve-2 OR cve_2'] | 1 | 2022-03-31 06:47:03+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0226'] |
