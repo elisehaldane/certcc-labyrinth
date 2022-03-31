@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+475918792,Mr-xn/spring-core-rce,README.MD,7ca421d7debcee3c015e48a277853dbf4c19ad2b,CVE-2022-22965
 475918792,Mr-xn/spring-core-rce,ROOT.war,a5c07060d5178101d2ee3a54a428c9a58fa028bc,VU#45
