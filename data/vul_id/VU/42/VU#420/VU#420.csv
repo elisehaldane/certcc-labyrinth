@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#420,0.50000000,https://github.com/Trinadh465/frameworks_native_CVE-2020-0226,Trinadh465/frameworks_native_CVE-2020-0226,476183073
 VU#420,0.50000000,https://github.com/ArthiDa/Exploit,ArthiDa/Exploit,433556835
+VU#420,0.33333333,https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0421,nanopathi/system_core_AOSP10_r33_CVE-2020-0421,476202327
 VU#420,0.25000000,https://github.com/pazhanivel07/frameworks_av-10-r33_CVE-2020-0242,pazhanivel07/frameworks_av-10-r33_CVE-2020-0242,462712169
 VU#420,0.20000000,https://github.com/pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243,475811173
 VU#420,0.16666667,https://github.com/kaled-alshmrany/FuSeBMC,kaled-alshmrany/FuSeBMC,257922621

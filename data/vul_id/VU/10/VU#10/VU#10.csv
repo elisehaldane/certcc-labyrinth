@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#10,0.50000000,https://github.com/qjh2333/CVE-2019-10999,qjh2333/CVE-2019-10999,467862315
 VU#10,0.50000000,https://github.com/F6JO/CVE-2020-0796-Batch-scanning,F6JO/CVE-2020-0796-Batch-scanning,422054053
 VU#10,0.50000000,https://github.com/MartinSohn/CVE-2020-8816,MartinSohn/CVE-2020-8816,272513732
+VU#10,0.33333333,https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0421,nanopathi/system_core_AOSP10_r33_CVE-2020-0421,476202327
 VU#10,0.20000000,https://github.com/HappyyCat/exploit,HappyyCat/exploit,445970103
 VU#10,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
 VU#10,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
@@ -75,7 +76,7 @@ VU#10,0.00558659,https://github.com/TheMirkin/CVE-List-Public-Exploits,TheMirkin
 VU#10,0.00438596,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
 VU#10,0.00389105,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#10,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
-VU#10,0.00306748,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#10,0.00299401,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#10,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#10,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
 VU#10,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
