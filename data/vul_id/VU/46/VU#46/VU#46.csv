@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#46,0.50000000,https://github.com/0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,476386220
 VU#46,0.33333333,https://github.com/solitarysp/Log4j-CVE-2021-44228,solitarysp/Log4j-CVE-2021-44228,447615580
 VU#46,0.33333333,https://github.com/DiCanio/CVE-2021-44228-docker-example,DiCanio/CVE-2021-44228-docker-example,437518939
 VU#46,0.25000000,https://github.com/daffychuy/Log4j-Exploit,daffychuy/Log4j-Exploit,454267599

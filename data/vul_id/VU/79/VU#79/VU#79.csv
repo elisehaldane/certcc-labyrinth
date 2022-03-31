@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#79,1.00000000,https://github.com/Rodney-O-C-Melby/red-alert,Rodney-O-C-Melby/red-alert,450186178
 VU#79,1.00000000,https://github.com/L0rdT33z/StakeExploit,L0rdT33z/StakeExploit,438571203
+VU#79,0.50000000,https://github.com/0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,476386220
 VU#79,0.50000000,https://github.com/RBXLModders/Zihsploit,RBXLModders/Zihsploit,443668737
 VU#79,0.33333333,https://github.com/AidenPearce369/Vulnserver-Walkthrough,AidenPearce369/Vulnserver-Walkthrough,457252612
 VU#79,0.33333333,https://github.com/WagleTanvi/UnlearnableExamplesAnalysis,WagleTanvi/UnlearnableExamplesAnalysis,449121363
