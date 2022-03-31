@@ -24,6 +24,7 @@ VU#97,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-scie
 VU#97,0.03225806,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#97,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#97,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#97,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,476366397
 VU#97,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391,nanopathi/framework_base_AOSP10_r33_CVE-2020-0391,475869585
 VU#97,0.02040816,https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595,pazhanivel07/frameworks_base-CVE-2021-0595,470546934
 VU#97,0.02040816,https://github.com/pazhanivel07/frameworks_base_CVE-2020-0209,pazhanivel07/frameworks_base_CVE-2020-0209,462691803
@@ -72,6 +73,6 @@ VU#97,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#97,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#97,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#97,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#97,0.00020268,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#97,0.00020263,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#97,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#97,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871

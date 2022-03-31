@@ -16,6 +16,7 @@ VU#87,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Ho
 VU#87,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
 VU#87,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#87,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
+VU#87,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,476366397
 VU#87,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391,nanopathi/framework_base_AOSP10_r33_CVE-2020-0391,475869585
 VU#87,0.02040816,https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595,pazhanivel07/frameworks_base-CVE-2021-0595,470546934
 VU#87,0.02040816,https://github.com/pazhanivel07/frameworks_base_CVE-2020-0209,pazhanivel07/frameworks_base_CVE-2020-0209,462691803
@@ -67,7 +68,7 @@ VU#87,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#87,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#87,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#87,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#87,0.00020268,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#87,0.00020263,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#87,0.00004643,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#87,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#87,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
