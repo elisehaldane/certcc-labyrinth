@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+476708454,Joe1sn/CVE-2022-22965,README.md,384158b14fe1297a89efa6ca8a1698eea727c424,CVE-2022-22965
+476708454,Joe1sn/CVE-2022-22965,out/artifacts/Spring4Shell_war_exploded/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar,950e6c72c39a5eeabe11f4c60c20f9d401c33b32,VU#11
+476708454,Joe1sn/CVE-2022-22965,_GITHUB_REPO_METADATA_,,CVE-2022-22965
