@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476604234,n11dc0la/PocSuite_POC,pocs/spring_cve_2022_22965_spring4shell.py,7d04052a7dc00cb8ec88ff976192d11ebe8a0f29,CVE-2022-22965
+476604234,n11dc0la/PocSuite_POC,README.md,a4f85bf20e689c7de7b83382682075699036795c,CVE-2022-22965
