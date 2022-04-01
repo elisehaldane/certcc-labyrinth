@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-475999799,tweedge/springcore-0day-en,README.md,a5a1bd090dd1f7fff28bbdcc8045980036914600,CVE-2010-1622
-475999799,tweedge/springcore-0day-en,README.md,a5a1bd090dd1f7fff28bbdcc8045980036914600,CVE-2022-22963
-475999799,tweedge/springcore-0day-en,README.md,a5a1bd090dd1f7fff28bbdcc8045980036914600,CVE-2022-22965
+475999799,tweedge/springcore-0day-en,README.md,4ef66c9713b67e3fe2b6beffd58e01f6ceb022ed,CVE-2010-1622
+475999799,tweedge/springcore-0day-en,README.md,4ef66c9713b67e3fe2b6beffd58e01f6ceb022ed,CVE-2022-22963
+475999799,tweedge/springcore-0day-en,README.md,4ef66c9713b67e3fe2b6beffd58e01f6ceb022ed,CVE-2022-22965
