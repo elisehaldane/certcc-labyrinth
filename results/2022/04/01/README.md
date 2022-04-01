@@ -1,21 +1,22 @@
 
 # Summary for results/2022/04/01
     
-41 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-04-01 00:38:09+00:00 | 60698 | 1216 | C | 574 | [] |
-| jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-04-01 00:15:52+00:00 | 29 | 1 | Jupyter Notebook | 1 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-01 00:58:37+00:00 | 43086 | 1 | Python | 0 | [] |
+| TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-04-01 05:24:26+00:00 | 15 | 0 | Lua | 0 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-04-01 00:40:36+00:00 | 48239 | 2 | C# | 0 | [] |
+| BENOSHITO/exploithosting.github.io | None | https://github.com/BENOSHITO/exploithosting.github.io | ['exploit'] | 1 | 2022-04-01 05:36:38+00:00 | 93 | 0 | Python | 0 | [] |
 | Submine-1106/Exploit_Main | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | ['exploit'] | 1 | 2022-04-01 03:32:34+00:00 | 91 | 0 | CSS | 0 | [] |
 | zhengyo/metasploit_install_termux | Installing metasploit in termux | https://github.com/zhengyo/metasploit_install_termux | ['metasploit module OR payload'] | 1 | 2022-04-01 01:39:06+00:00 | 5 | 0 | Python | 0 | [] |
 | TheGejr/SpringShell | Spring4Shell - Spring Core RCE - CVE-2022-22965 | https://github.com/TheGejr/SpringShell | ['rce'] | 1 | 2022-04-01 00:13:55+00:00 | 4812 | 33 | Python | 30 | ['CVE-2022-22965'] |
 | JuiceWarfare/Exploit | None | https://github.com/JuiceWarfare/Exploit | ['exploit'] | 1 | 2022-04-01 04:49:09+00:00 | 1 | 0 | Lua | 0 | [] |
 | WeiJiLab/Spring4Shell-POC | Spring4Shell reproduce | https://github.com/WeiJiLab/Spring4Shell-POC | ['rce', 'rce poc'] | 2 | 2022-04-01 01:54:21+00:00 | 400 | 0 | Java | 0 | [] |
 | liangyueliangyue/spring-core-rce | spring core rce 简单利用 | https://github.com/liangyueliangyue/spring-core-rce | ['rce'] | 1 | 2022-04-01 03:53:59+00:00 | 3 | 1 | Python | 0 | [] |
-| 0dayIg0r/0dayIg0r | nan | https://github.com/0dayIg0r/0dayIg0r | ['0day'] | 1 | 2022-04-01 01:21:17+00:00 | 32 | 0 | nan | 0 | [] |
+| alt3kx/CVE-2022-22965_PoC | Spring Framework RCE (Quick pentest notes) | https://github.com/alt3kx/CVE-2022-22965_PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-04-01 04:49:47+00:00 | 25 | 9 | | 5 | ['CVE-2022-22965'] |
+| 0dayIg0r/0dayIg0r | nan | https://github.com/0dayIg0r/0dayIg0r | ['0day'] | 1 | 2022-04-01 01:21:17+00:00 | 32 | 0 | | 0 | [] |
 | dagg0rath/thetruthless | theTruthless is an automated payload and listener setup written in Python using metasploit framework as it's core | https://github.com/dagg0rath/thetruthless | ['metasploit module OR payload'] | 1 | 2022-04-01 00:35:54+00:00 | 3 | 0 | Python | 0 | [] |
 | DDestinys/log4j2_rce-POC- | 命令执行 | https://github.com/DDestinys/log4j2_rce-POC- | ['rce', 'rce poc'] | 2 | 2022-04-01 01:57:56+00:00 | 0 | 0 | Python | 0 | [] |
 | DDestinys/CVE-2021-22986 | BIGIP F5 | https://github.com/DDestinys/CVE-2021-22986 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 02:03:18+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22986'] |
@@ -24,10 +25,14 @@
 | skisw/Spring-cloud-function-SpEL-RCE | None | https://github.com/skisw/Spring-cloud-function-SpEL-RCE | ['rce'] | 1 | 2022-04-01 02:29:27+00:00 | 0 | 0 | | 0 | [] |
 | l4fu/CVE-2022-3000 | CSDFASDFAESFAEAEF | https://github.com/l4fu/CVE-2022-3000 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 02:59:04+00:00 | 0 | 0 | | 0 | ['CVE-2022-3000'] |
 | Satheesh575555/System_bt_AOSP10-r33_CVE-2021-0397 | None | https://github.com/Satheesh575555/System_bt_AOSP10-r33_CVE-2021-0397 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 03:35:59+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0397'] |
+| gamingturis/Ez-Exploit | test | https://github.com/gamingturis/Ez-Exploit | ['exploit'] | 1 | 2022-04-01 04:48:00+00:00 | 0 | 0 | | 0 | [] |
+| Axx8/SpringFramework_CVE-2022-22965_RCE | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-01 05:28:47+00:00 | 0 | 3 | Python | 1 | ['CVE-2022-22965'] |
+| cl4ym0re/Spring-core-RCE-EXP | spring-core-rce-exp | https://github.com/cl4ym0re/Spring-core-RCE-EXP | ['exploit', 'rce'] | 2 | 2022-04-01 05:08:07+00:00 | 0 | 1 | | 0 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-01 00:58:37+00:00 | 43086 | 1 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-01 01:04:57+00:00 | 169 | 0 | | 0 | [] |
-| Sniperkaos/TraitorTownExploitModule-Private- | None | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | ['exploit'] | 1 | 2022-04-01 02:36:27+00:00 | 33 | 0 | Lua | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-01 05:19:08+00:00 | 6026 | 3179 | Python | 689 | [] |
+| jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-04-01 00:15:52+00:00 | 29 | 1 | Jupyter Notebook | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-01 00:23:48+00:00 | 265067 | 296 | Ruby | 85 | [] |
-| nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-01 01:57:36+00:00 | 261 | 0 | Go | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-01 02:30:39+00:00 | 291436 | 142 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-01 00:47:13+00:00 | 11545 | 34 | | 19 | [] |
 | mahdihosseini/RMSGD | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | ['exploit'] | 1 | 2022-04-01 01:41:52+00:00 | 20419 | 28 | Python | 10 | [] |
@@ -44,5 +49,8 @@
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-01 02:00:01+00:00 | 177 | 1 | | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-04-01 00:55:32+00:00 | 52647 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-01 00:28:53+00:00 | 54322 | 2 | Jupyter Notebook | 0 | [] |
+| EternalsDev/Growtopia-Proxy | Growtopia proxy made to exploit growtopia private server | https://github.com/EternalsDev/Growtopia-Proxy | ['exploit'] | 1 | 2022-04-01 05:40:40+00:00 | 2448 | 13 | C++ | 18 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-04-01 02:00:01+00:00 | 39856 | 8 | Python | 6 | [] |
-| gamingturis/Ez-Exploit | test | https://github.com/gamingturis/Ez-Exploit | ['exploit'] | 1 | 2022-04-01 04:48:00+00:00 | 0 | 0 | | 0 | [] |
+| nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-01 01:57:36+00:00 | 261 | 0 | Go | 0 | [] |
+| Sniperkaos/TraitorTownExploitModule-Private- | None | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | ['exploit'] | 1 | 2022-04-01 02:36:27+00:00 | 33 | 0 | Lua | 0 | [] |
+| takeboy/https-github.com-Lucifer1993-0day | nan | https://github.com/takeboy/https-github.com-Lucifer1993-0day | ['0day'] | 1 | 2022-04-01 05:40:11+00:00 | 0 | 0 | C | 0 | [] |
