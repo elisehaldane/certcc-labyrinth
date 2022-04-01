@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#420,0.50000000,https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392,Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392,476642012
 VU#420,0.50000000,https://github.com/Trinadh465/frameworks_native_CVE-2020-0226,Trinadh465/frameworks_native_CVE-2020-0226,476183073
 VU#420,0.50000000,https://github.com/ArthiDa/Exploit,ArthiDa/Exploit,433556835
 VU#420,0.33333333,https://github.com/Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330,Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330,476240143
