@@ -26,6 +26,7 @@ VU#12,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#12,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#12,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#12,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#12,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399,nanopathi/linux-4.19.72_CVE-2021-32399,476675393
 VU#12,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757,ShaikUsaf/linux-4.19.72_CVE-2020-10757,475845386
 VU#12,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428,Satheesh575555/linux-4.19.72_CVE-2020-8428,475835332
 VU#12,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705,nanopathi/linux-4.19.72_CVE-2020-25705,475802420
@@ -52,6 +53,7 @@ VU#12,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,12743620
 VU#12,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#12,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#12,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
+VU#12,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#12,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#12,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#12,0.01428571,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936

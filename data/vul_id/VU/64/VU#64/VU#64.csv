@@ -28,6 +28,7 @@ VU#64,0.03225806,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,17
 VU#64,0.02857143,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#64,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#64,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#64,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399,nanopathi/linux-4.19.72_CVE-2021-32399,476675393
 VU#64,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757,ShaikUsaf/linux-4.19.72_CVE-2020-10757,475845386
 VU#64,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428,Satheesh575555/linux-4.19.72_CVE-2020-8428,475835332
 VU#64,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705,nanopathi/linux-4.19.72_CVE-2020-25705,475802420
@@ -43,6 +44,7 @@ VU#64,0.02127660,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploi
 VU#64,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#64,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#64,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
+VU#64,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#64,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#64,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#64,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
