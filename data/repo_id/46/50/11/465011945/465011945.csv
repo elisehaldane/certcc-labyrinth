@@ -6,6 +6,6 @@ repo_id,repo_full_name,file,file_sha1,match
 465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,73ac6cccf726ceddf6b21183bf7918955e500e13,CVE-2020-1938
 465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,73ac6cccf726ceddf6b21183bf7918955e500e13,CVE-2020-2019
 465011945,codeyso/CodeTest,EXP/WindowsSMBv3.py,74b44ac7a4bbe18a71507797fac876b92b516b72,CVE-2020-0796
-465011945,codeyso/CodeTest,EXP/ApacheShiro.py,9a9198142733a3cbefed416a5575eed5fb81f52b,CVE-2016-4437
-465011945,codeyso/CodeTest,EXP/ApacheShiro.py,9a9198142733a3cbefed416a5575eed5fb81f52b,VU#29
+465011945,codeyso/CodeTest,EXP/ApacheShiro.py,a6ea4f9888295482062e14722241010626ecfd57,CVE-2016-4437
+465011945,codeyso/CodeTest,EXP/ApacheShiro.py,a6ea4f9888295482062e14722241010626ecfd57,VU#29
 465011945,codeyso/CodeTest,POC/IIS_MS15-034_Range_bytes.py,e29d67216054848361682687a37a2deb0f9b91cc,MS15-034
