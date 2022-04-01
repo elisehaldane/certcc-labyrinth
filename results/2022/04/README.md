@@ -1,12 +1,15 @@
 
 # Summary for results/2022/04
     
-105 records found after deduplication
+112 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-01 10:34:14+00:00 | 707018 | 26784 | Ruby | 12109 | [] |
-| tweedge/springcore-0day-en | Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | ['0day', 'exploit'] | 2 | 2022-04-01 06:51:06+00:00 | 2249 | 64 | Python | 25 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-04-01 00:38:09+00:00 | 60698 | 1216 | C | 574 | [] |
+| Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652 | None | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 06:15:42+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0652'] |
+| stfnw/Debugging_Dirty_Pipe_CVE-2022-0847 | Presentation slides and supplementary material | https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 05:53:46+00:00 | 0 | 0 | Makefile | 0 | ['CVE-2022-0847'] |
+| SIDHARTH-GHULE/metasploit | METASPLOIT INSTALL TERMUX WITHOUT ANY ALL ERROR FIXED | https://github.com/SIDHARTH-GHULE/metasploit | ['metasploit module OR payload'] | 1 | 2022-04-01 06:41:24+00:00 | 32 | 0 | Shell | 0 | [] |
 | takeboy/https-github.com-Lucifer1993-0day | None | https://github.com/takeboy/https-github.com-Lucifer1993-0day | ['0day'] | 1 | 2022-04-01 05:40:11+00:00 | 0 | 0 | C | 0 | [] |
 | cl4ym0re/Spring-core-RCE-EXP | spring-core-rce-exp | https://github.com/cl4ym0re/Spring-core-RCE-EXP | ['exploit', 'rce'] | 2 | 2022-04-01 05:08:07+00:00 | 0 | 1 | | 0 | [] |
 | Axx8/SpringFramework_CVE-2022-22965_RCE | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-01 05:28:47+00:00 | 0 | 3 | Python | 1 | ['CVE-2022-22965'] |
@@ -23,29 +26,33 @@
 | s9rA16Bf4/cve | Proof-of-concept for known security issues | https://github.com/s9rA16Bf4/cve | ['exploit'] | 1 | 2022-04-01 05:54:00+00:00 | 2 | 0 | Go | 0 | [] |
 | alt3kx/CVE-2022-22965_PoC | Spring Framework RCE (Quick pentest notes) | https://github.com/alt3kx/CVE-2022-22965_PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-04-01 04:49:47+00:00 | 25 | 9 | | 5 | ['CVE-2022-22965'] |
 | FourCoreLabs/spring4shell-exploit-poc | Exploit a vulnerable Spring application with the Spring4Shell Vulnerability. | https://github.com/FourCoreLabs/spring4shell-exploit-poc | ['exploit', 'vulnerability poc'] | 2 | 2022-04-01 06:02:48+00:00 | 7 | 1 | Shell | 0 | [] |
+| me2nuk/CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 12:51:25+00:00 | 2152 | 1 | Dockerfile | 0 | ['CVE-2022-22963'] |
 | No-satisfaction-1679/0day.github.io | This is offical website for the '0day' cybersecurity workshoop conducted in Jain University on 06th of April | https://github.com/No-satisfaction-1679/0day.github.io | ['0day'] | 1 | 2022-04-01 06:07:33+00:00 | 90 | 0 | HTML | 0 | [] |
 | justmumu/SpringShell | Reproducing spring rce vulnerability and nuclei template | https://github.com/justmumu/SpringShell | ['rce'] | 1 | 2022-04-01 09:17:17+00:00 | 4 | 0 | Java | 0 | [] |
 | Kirill89/CVE-2022-22965-PoC | None | https://github.com/Kirill89/CVE-2022-22965-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-01 10:00:07+00:00 | 118 | 11 | Java | 10 | ['CVE-2022-22965'] |
 | liangyueliangyue/spring-core-rce | spring core rce 简单利用 | https://github.com/liangyueliangyue/spring-core-rce | ['rce'] | 1 | 2022-04-01 03:53:59+00:00 | 3 | 1 | Python | 0 | [] |
 | WeiJiLab/Spring4Shell-POC | Spring4Shell reproduce | https://github.com/WeiJiLab/Spring4Shell-POC | ['rce', 'rce poc'] | 2 | 2022-04-01 01:54:21+00:00 | 400 | 0 | Java | 0 | [] |
-| JuiceWarfare/Exploit | None | https://github.com/JuiceWarfare/Exploit | ['exploit'] | 1 | 2022-04-01 04:49:09+00:00 | 1 | 0 | Lua | 0 | [] |
-| reznok/Spring4Shell-POC | Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit | https://github.com/reznok/Spring4Shell-POC | ['cve poc', 'exploit'] | 2 | 2022-04-01 08:18:16+00:00 | 31 | 77 | Python | 73 | ['CVE-2022-22965'] |
-| SIDHARTH-GHULE/metasploit | METASPLOIT INSTALL TERMUX WITHOUT ANY ALL ERROR FIXED | https://github.com/SIDHARTH-GHULE/metasploit | ['metasploit module OR payload'] | 1 | 2022-04-01 06:41:24+00:00 | 32 | 0 | Shell | 0 | [] |
-| stfnw/Debugging_Dirty_Pipe_CVE-2022-0847 | Presentation slides and supplementary material | https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 05:53:46+00:00 | 0 | 0 | Makefile | 0 | ['CVE-2022-0847'] |
-| Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652 | None | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 06:15:42+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0652'] |
-| XiaoliChan/Invoke-sAMSpoofing | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | ['exploit'] | 1 | 2022-04-01 09:43:40+00:00 | 0 | 2 | PowerShell | 0 | ['CVE-2021-42278', 'CVE-2021-42287'] |
+| mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester | None | https://github.com/mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester | ['exploit'] | 1 | 2022-04-01 06:10:54+00:00 | 0 | 0 | Python | 0 | [] |
+| snicoll-scratches/spring-boot-cve-2022-22965 | Showcase of overridding the Spring Framework version in older Spring Boot versions | https://github.com/snicoll-scratches/spring-boot-cve-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 06:44:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22965'] |
+| lengochoa7112000/lfi2rce | None | https://github.com/lengochoa7112000/lfi2rce | ['rce'] | 1 | 2022-04-01 06:32:55+00:00 | 0 | 0 | PHP | 0 | [] |
+| prati0100/linux-0day | None | https://github.com/prati0100/linux-0day | ['0day'] | 1 | 2022-04-01 10:30:32+00:00 | 0 | 0 | | 0 | [] |
+| yealvarez/Windows-Exploits | None | https://github.com/yealvarez/Windows-Exploits | ['exploit'] | 1 | 2022-04-01 12:26:59+00:00 | 0 | 0 | | 0 | [] |
+| MarkRGH/DeepwokenAutoGrind | NOT EXPLOITS | https://github.com/MarkRGH/DeepwokenAutoGrind | ['exploit'] | 1 | 2022-04-01 12:21:59+00:00 | 0 | 1 | | 0 | [] |
+| Joe1sn/CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 12:26:55+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22965'] |
+| kdiddi/dirtypipe | exploit payloads | https://github.com/kdiddi/dirtypipe | ['exploit'] | 1 | 2022-04-01 12:48:54+00:00 | 0 | 0 | | 0 | [] |
+| ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | None | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 11:28:22+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0334'] |
 | Satheesh575555/frameworks_av_AOSP10_r33_CVE-2020-0245 | None | https://github.com/Satheesh575555/frameworks_av_AOSP10_r33_CVE-2020-0245 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 11:09:04+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0245'] |
 | lcarea/CVE-2022-22965 | None | https://github.com/lcarea/CVE-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 11:19:48+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22965'] |
 | AayushmanThapaMagar/CVE-2022-22963 | POC for CVE-2022-22963 | https://github.com/AayushmanThapaMagar/CVE-2022-22963 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-01 10:48:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22963'] |
 | nanopathi/linux-4.19.72_CVE-2021-32399 | None | https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 10:34:39+00:00 | 0 | 0 | C | 0 | ['CVE-2021-32399'] |
 | talentsec/Spring-Cloud-Gateway-CVE-2022-22947 | Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/talentsec/Spring-Cloud-Gateway-CVE-2022-22947 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 10:24:44+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
 | helsecert/CVE-2022-22965 | None | https://github.com/helsecert/CVE-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 10:18:57+00:00 | 0 | 0 | | 0 | ['CVE-2022-22965'] |
-| prati0100/linux-0day | None | https://github.com/prati0100/linux-0day | ['0day'] | 1 | 2022-04-01 10:30:32+00:00 | 0 | 0 | | 0 | [] |
 | JDierberger1/CVE-2022-22965-JAR-SCA-POC | Proof-of-Concept for CVE-2022-22965 exploitation on a self-contained .JAR file built with Maven. Based off https://github.com/Kirill89/CVE-2022-22963-PoC and https://github.com/Pizz33/Spring-Cloud-Function-SpEL | https://github.com/JDierberger1/CVE-2022-22965-JAR-SCA-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-04-01 10:05:45+00:00 | 0 | 0 | | 0 | ['CVE-2022-22963', 'CVE-2022-22965'] |
+| n11dc0la/PocSuite_POC | collection poc use pocsuite framework | https://github.com/n11dc0la/PocSuite_POC | ['0day'] | 1 | 2022-04-01 07:29:52+00:00 | 4 | 0 | Python | 0 | [] |
 | yrutschle/gate | General Array Translation and Exploitation | https://github.com/yrutschle/gate | ['exploit'] | 1 | 2022-04-01 09:28:29+00:00 | 0 | 0 | Perl | 0 | [] |
 | nanopathi/external_aac_AOSP10_r33_CVE-2020-0451 | None | https://github.com/nanopathi/external_aac_AOSP10_r33_CVE-2020-0451 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 09:26:18+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0451'] |
+| XiaoliChan/Invoke-sAMSpoofing | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | ['exploit'] | 1 | 2022-04-01 09:43:40+00:00 | 0 | 2 | PowerShell | 0 | ['CVE-2021-42278', 'CVE-2021-42287'] |
 | Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392 | None | https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 08:46:37+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0392'] |
-| mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester | None | https://github.com/mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester | ['exploit'] | 1 | 2022-04-01 06:10:54+00:00 | 0 | 0 | Python | 0 | [] |
 | playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-01 08:43:15+00:00 | 0 | 0 | | 0 | [] |
 | chaosec2021/CVE-2022-22965-POC | CVE-2022-22965 spring-core批量检测脚本 | https://github.com/chaosec2021/CVE-2022-22965-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-01 08:42:26+00:00 | 0 | 0 | Python | 1 | ['CVE-2022-22965'] |
 | tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce | 批量无损检测 | https://github.com/tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-01 08:44:19+00:00 | 0 | 6 | Go | 1 | ['CVE-2022-22965'] |
@@ -53,13 +60,11 @@
 | organics2016/spring-framework-rce | None | https://github.com/organics2016/spring-framework-rce | ['rce'] | 1 | 2022-04-01 07:33:15+00:00 | 0 | 0 | Python | 0 | [] |
 | nu0l/CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-01 06:50:22+00:00 | 0 | 0 | | 0 | ['CVE-2022-22965'] |
 | nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0241 | None | https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0241 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 06:45:16+00:00 | 0 | 0 | | 0 | ['CVE-2020-0241'] |
-| n11dc0la/PocSuite_POC | collection poc use pocsuite framework | https://github.com/n11dc0la/PocSuite_POC | ['0day'] | 1 | 2022-04-01 07:29:52+00:00 | 4 | 0 | Python | 0 | [] |
-| lengochoa7112000/lfi2rce | None | https://github.com/lengochoa7112000/lfi2rce | ['rce'] | 1 | 2022-04-01 06:32:55+00:00 | 0 | 0 | PHP | 0 | [] |
-| snicoll-scratches/spring-boot-cve-2022-22965 | Showcase of overridding the Spring Framework version in older Spring Boot versions | https://github.com/snicoll-scratches/spring-boot-cve-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 06:44:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22965'] |
-| west-wind/Spring4Shell-Detection | Lazy SPL to detect Spring4Shell exploitation | https://github.com/west-wind/Spring4Shell-Detection | ['exploit'] | 1 | 2022-04-01 08:07:32+00:00 | 5 | 2 | | 0 | [] |
-| TheGejr/SpringShell | Spring4Shell - Spring Core RCE - CVE-2022-22965 | https://github.com/TheGejr/SpringShell | ['rce'] | 1 | 2022-04-01 00:13:55+00:00 | 4812 | 33 | Python | 30 | ['CVE-2022-22965'] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-04-01 00:38:09+00:00 | 60698 | 1216 | C | 574 | [] |
-| zhengyo/metasploit_install_termux | Installing metasploit in termux | https://github.com/zhengyo/metasploit_install_termux | ['metasploit module OR payload'] | 1 | 2022-04-01 01:39:06+00:00 | 5 | 0 | Python | 0 | [] |
+| JuiceWarfare/Exploit | None | https://github.com/JuiceWarfare/Exploit | ['exploit'] | 1 | 2022-04-01 04:49:09+00:00 | 1 | 0 | Lua | 0 | [] |
+| light-Life/CVE-2022-22965-GUItools | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | ['cve-2 OR cve_2'] | 1 | 2022-04-01 12:10:21+00:00 | 1805 | 12 | | 4 | ['CVE-2022-22965'] |
+| reznok/Spring4Shell-POC | Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit | https://github.com/reznok/Spring4Shell-POC | ['cve poc', 'exploit'] | 2 | 2022-04-01 08:18:16+00:00 | 31 | 77 | Python | 73 | ['CVE-2022-22965'] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-01 11:01:07+00:00 | 69241 | 17 | Python | 5 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-01 01:42:20+00:00 | 4349733 | 34 | Python | 4 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2022-04-01 00:13:55+00:00 | 54555 | 18 | Python | 5 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-01 01:57:46+00:00 | 8288 | 82 | HTML | 22 | [] |
 | b4keSn4ke/CVE-2014-6271 | Shellshock exploit aka CVE-2014-6271 | https://github.com/b4keSn4ke/CVE-2014-6271 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-01 03:17:09+00:00 | 1665 | 2 | Python | 0 | ['CVE-2014-6271'] |
@@ -70,8 +75,8 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-01 04:37:55+00:00 | 103418 | 97 | | 17 | [] |
 | JosephFrankFir/Rxploit | Rxploit | https://github.com/JosephFrankFir/Rxploit | ['exploit'] | 1 | 2022-04-01 07:37:58+00:00 | 937 | 5 | Python | 0 | [] |
 | securitysqs/Web_Poc | CVE-2020-14882 | https://github.com/securitysqs/Web_Poc | ['cve poc'] | 1 | 2022-04-01 06:34:58+00:00 | 154 | 1 | Python | 0 | ['CVE-2020-14882'] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-01 11:01:07+00:00 | 69241 | 17 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-01 00:05:10+00:00 | 500913 | 47 | | 20 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-01 07:13:00+00:00 | 6319 | 1643 | TypeScript | 257 | [] |
 | mahdihosseini/RMSGD | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | ['exploit'] | 1 | 2022-04-01 01:41:52+00:00 | 20419 | 28 | Python | 10 | [] |
 | fanglab/nanodisco | nanodisco: a toolbox for discovering and exploiting multiple types of DNA methylation from individual bacteria and microbiomes using nanopore sequencing. | https://github.com/fanglab/nanodisco | ['exploit'] | 1 | 2022-04-01 10:05:33+00:00 | 2700 | 36 | R | 4 | [] |
 | jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-04-01 10:46:36+00:00 | 91118 | 712 | Go | 156 | [] |
@@ -83,10 +88,13 @@
 | dobin/yookiterm-slides | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | ['exploit'] | 1 | 2022-04-01 10:01:33+00:00 | 135658 | 99 | HTML | 26 | [] |
 | mzet-/linux-exploit-suggester | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | ['exploit'] | 1 | 2022-04-01 10:06:47+00:00 | 594 | 3393 | Shell | 875 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-01 05:19:08+00:00 | 6026 | 3179 | Python | 689 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-01 01:42:20+00:00 | 4349733 | 34 | Python | 4 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-04-01 10:06:00+00:00 | 2205 | 7 | | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-01 07:13:00+00:00 | 6319 | 1643 | TypeScript | 257 | [] |
-| plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-04-01 06:19:57+00:00 | 95 | 1 | Java | 0 | [] |
+| SCXsunchenxi/RCE | None | https://github.com/SCXsunchenxi/RCE | ['rce'] | 1 | 2022-04-01 07:04:20+00:00 | 4112 | 0 | Jupyter Notebook | 0 | [] |
+| west-wind/Spring4Shell-Detection | Lazy SPL to detect Spring4Shell exploitation | https://github.com/west-wind/Spring4Shell-Detection | ['exploit'] | 1 | 2022-04-01 08:07:32+00:00 | 5 | 2 | | 0 | [] |
+| TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-04-01 05:24:26+00:00 | 15 | 0 | Lua | 0 | [] |
+| tweedge/springcore-0day-en | Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | ['0day', 'exploit'] | 2 | 2022-04-01 06:51:06+00:00 | 2249 | 64 | Python | 25 | [] |
+| TheGejr/SpringShell | Spring4Shell - Spring Core RCE - CVE-2022-22965 | https://github.com/TheGejr/SpringShell | ['rce'] | 1 | 2022-04-01 00:13:55+00:00 | 4812 | 33 | Python | 30 | ['CVE-2022-22965'] |
+| zhengyo/metasploit_install_termux | Installing metasploit in termux | https://github.com/zhengyo/metasploit_install_termux | ['metasploit module OR payload'] | 1 | 2022-04-01 01:39:06+00:00 | 5 | 0 | Python | 0 | [] |
 | BobTheShoplifter/Spring4Shell-POC | Spring4Shell Proof Of Concept/Information CVE-2022-22965 | https://github.com/BobTheShoplifter/Spring4Shell-POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-04-01 06:07:58+00:00 | 66 | 106 | Python | 49 | ['CVE-2022-22965'] |
 | ValdesChe/laravel-vulnerable-app_poc | None | https://github.com/ValdesChe/laravel-vulnerable-app_poc | ['vuln poc'] | 1 | 2022-04-01 09:23:52+00:00 | 24534 | 0 | PHP | 0 | [] |
 | Submine-1106/Exploit_Main | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | ['exploit'] | 1 | 2022-04-01 03:32:34+00:00 | 91 | 0 | CSS | 0 | [] |
@@ -95,10 +103,10 @@
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-04-01 00:40:36+00:00 | 48239 | 2 | C# | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-01 00:58:37+00:00 | 43086 | 1 | Python | 0 | [] |
 | codeyso/CodeTest | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | ['exploit', 'rce', 'rce poc'] | 3 | 2022-04-01 11:17:40+00:00 | 20254 | 159 | Python | 51 | [] |
-| TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-04-01 05:24:26+00:00 | 15 | 0 | Lua | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-01 01:04:57+00:00 | 169 | 0 | | 0 | [] |
+| Vegetebird/StridedTransformer-Pose3D | [TMM 2022] Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-04-01 02:59:43+00:00 | 29030 | 32 | Python | 6 | [] |
+| plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-04-01 06:19:57+00:00 | 95 | 1 | Java | 0 | [] |
 | Marcuccio/kevin | K[nown]E[exploited]V[ulnerabilietes]IN[sights] | https://github.com/Marcuccio/kevin | ['exploit'] | 1 | 2022-04-01 08:45:34+00:00 | 98 | 0 | | 0 | [] |
-| SCXsunchenxi/RCE | None | https://github.com/SCXsunchenxi/RCE | ['rce'] | 1 | 2022-04-01 07:04:20+00:00 | 4112 | 0 | Jupyter Notebook | 0 | [] |
 | jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-04-01 00:15:52+00:00 | 29 | 1 | Jupyter Notebook | 1 | [] |
 | Sniperkaos/TraitorTownExploitModule-Private- | None | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | ['exploit'] | 1 | 2022-04-01 02:36:27+00:00 | 33 | 0 | Lua | 0 | [] |
 | nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-01 01:57:36+00:00 | 261 | 0 | Go | 0 | [] |
@@ -108,5 +116,4 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-01 00:28:53+00:00 | 54322 | 2 | Jupyter Notebook | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-04-01 00:55:32+00:00 | 52647 | 0 | Python | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-01 02:00:01+00:00 | 177 | 1 | | 0 | [] |
-| Vegetebird/StridedTransformer-Pose3D | [TMM 2022] Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-04-01 02:59:43+00:00 | 29030 | 32 | Python | 6 | [] |
-| ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | None | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | ['cve-2 OR cve_2'] | 1 | 2022-04-01 11:28:22+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0334'] |
+| Neverwin1337/spingcloud-function-spel-rce | None | https://github.com/Neverwin1337/spingcloud-function-spel-rce | ['rce'] | 1 | 2022-04-01 12:40:03+00:00 | 0 | 0 | Python | 0 | [] |
