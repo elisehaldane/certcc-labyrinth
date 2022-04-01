@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS11-046,0.50000000,https://github.com/ROBSAUCE/Compiled-Exploits,ROBSAUCE/Compiled-Exploits,157931900
 MS11-046,0.25000000,https://github.com/Fajar-NS/ExploitDb,Fajar-NS/ExploitDb,472232983
 MS11-046,0.25000000,https://github.com/rad10/SearchSploit.py,rad10/SearchSploit.py,211869171
+MS11-046,0.16666667,https://github.com/yealvarez/Windows-Exploits,yealvarez/Windows-Exploits,476711147
 MS11-046,0.16666667,https://github.com/rcs-tringuyen/working-exploit-poc,rcs-tringuyen/working-exploit-poc,450261345
 MS11-046,0.16666667,https://github.com/3hydraking/CVE-2011-1249,3hydraking/CVE-2011-1249,384774726
 MS11-046,0.16666667,https://github.com/nullarmor/hackthebox-exploits,nullarmor/hackthebox-exploits,243875577
