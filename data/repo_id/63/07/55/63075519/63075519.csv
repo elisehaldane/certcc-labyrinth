@@ -1,9 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+63075519,htrgouvea/spellbook,README.md,048ca16d718cbf133182dbfd8cab9aaec45a1c81,CVE-2006-3392
+63075519,htrgouvea/spellbook,README.md,048ca16d718cbf133182dbfd8cab9aaec45a1c81,CVE-2017-5487
 63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2017_5487.pm,4e3e2e2002c9271b352314e69d36fb931ff41218,CVE-2006-3392
 63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2017_5487.pm,4e3e2e2002c9271b352314e69d36fb931ff41218,CVE-2017-5487
 63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2016_10045.pm,58afded1f85672db4a51c1b7da953150d7ab40b6,CVE-2016-10033
 63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2016_10045.pm,58afded1f85672db4a51c1b7da953150d7ab40b6,CVE-2016-10045
 63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2021_41773.pm,6ec6f4f182be0e6e42349015164881635f604d4d,CVE-2021-41773
 63075519,htrgouvea/spellbook,lib/Spellbook/Exploit/CVE_2006_3392.pm,a0e87977b1c47b227c2dae3d8a5ccfba47d5b7be,CVE-2006-3392
-63075519,htrgouvea/spellbook,README.md,a9b8b2bc523cc03c8dfd2ae58d31c2e060137b87,CVE-2006-3392
-63075519,htrgouvea/spellbook,README.md,a9b8b2bc523cc03c8dfd2ae58d31c2e060137b87,CVE-2017-5487
