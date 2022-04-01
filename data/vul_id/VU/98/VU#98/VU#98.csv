@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#98,0.50000000,https://github.com/Malware-S/Exploit-Win32.CVE-2017-0147.A,Malware-S/Exploit-Win32.CVE-2017-0147.A,444376167
 VU#98,0.50000000,https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021,ISFCR-CTF/Hacktoberfest-Workshop-2021,418028497
-VU#98,0.33333333,https://github.com/MerlynXS/Payload-Archive-,MerlynXS/Payload-Archive-,475646618
 VU#98,0.33333333,https://github.com/thushi99/scp-client-vulnerability-exploit,thushi99/scp-client-vulnerability-exploit,456885932
 VU#98,0.33333333,https://github.com/Shingirirai5/metasploit,Shingirirai5/metasploit,421145812
 VU#98,0.25000000,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432093732
@@ -22,6 +21,7 @@ VU#98,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,
 VU#98,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
 VU#98,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#98,0.03846154,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
+VU#98,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#98,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#98,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#98,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
