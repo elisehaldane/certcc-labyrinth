@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-476057992,west-wind/Spring4Shell-Detection,README.md,0976983e75b6bf0275ed4ef1e3fe2ebcd043602c,CVE-2022-22963
-476057992,west-wind/Spring4Shell-Detection,README.md,0976983e75b6bf0275ed4ef1e3fe2ebcd043602c,CVE-2022-22965
+476057992,west-wind/Spring4Shell-Detection,README.md,15a9104bc968b4f78c5740d2d0ab849fd2e0fedf,CVE-2022-22963
+476057992,west-wind/Spring4Shell-Detection,README.md,15a9104bc968b4f78c5740d2d0ab849fd2e0fedf,CVE-2022-22965
