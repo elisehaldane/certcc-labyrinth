@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+476996646,dotnes/spring4shell,CVE-2022-22965.yaml,87c69caacf06fba18459f0f80f30416bdd59a9e6,CVE-2022-22965
+476996646,dotnes/spring4shell,README.md,b37a0405a17df10fef946a58bd238326a1f8b0e0,CVE-2022-22965
