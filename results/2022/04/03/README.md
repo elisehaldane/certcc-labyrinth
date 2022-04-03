@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/03
     
-20 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-03 01:48:14+00:00 | 4431 | 2635 | PowerShell | 745 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-03 00:22:47+00:00 | 266609 | 297 | Ruby | 85 | [] |
+| F3XClientOfficial/F3XClient | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | ['exploit'] | 1 | 2022-04-03 00:10:23+00:00 | 0 | 0 | | 0 | [] |
 | pqlx/CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-03 01:36:45+00:00 | 11 | 45 | C | 10 | ['CVE-2022-1015'] |
 | 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-04-03 01:40:15+00:00 | 42 | 35 | | 1 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-03 00:54:48+00:00 | 46811 | 1 | Python | 0 | [] |
@@ -24,4 +25,5 @@
 | mahdihosseini/RMSGD | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | ['exploit'] | 1 | 2022-04-03 00:13:06+00:00 | 20424 | 31 | Python | 10 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-04-03 01:16:06+00:00 | 745 | 134 | Java | 27 | [] |
 | tobor88/Bash | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | ['exploit'] | 1 | 2022-04-03 01:52:26+00:00 | 957 | 19 | Shell | 8 | [] |
-| F3XClientOfficial/F3XClient | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | ['exploit'] | 1 | 2022-04-03 00:10:23+00:00 | 0 | 0 | | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-03 02:30:39+00:00 | 188010 | 142 | REXX | 12 | [] |
+| wideboris/vulnerable-software | A collection of vulnerable software to showcase different security bugs and how they can be exploited and fixed. | https://github.com/wideboris/vulnerable-software | ['exploit'] | 1 | 2022-04-03 02:46:21+00:00 | 0 | 0 | Python | 0 | [] |
