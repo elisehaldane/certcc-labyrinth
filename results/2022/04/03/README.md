@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/03
     
-43 records found after deduplication
+44 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-03 01:48:14+00:00 | 4431 | 2635 | PowerShell | 745 | [] |
-| abhi0X01/client-side-attacks | Client Side attacks to exploit weakness in client software | https://github.com/abhi0X01/client-side-attacks | ['exploit'] | 1 | 2022-04-03 05:49:07+00:00 | 1 | 0 | HTML | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-03 06:54:30+00:00 | 6049 | 3182 | Python | 689 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-03 05:23:24+00:00 | 114379 | 2569 | nan | 314 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-04-03 03:52:08+00:00 | 120833 | 1 | HTML | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-03 00:59:36+00:00 | 173 | 0 | | 0 | [] |
@@ -15,8 +15,8 @@
 | MrMcHir/FreeZX-Files | This Files For Working Loader Exploit | https://github.com/MrMcHir/FreeZX-Files | ['exploit'] | 1 | 2022-04-03 05:59:38+00:00 | 1 | 0 | Smalltalk | 0 | [] |
 | 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-04-03 01:40:15+00:00 | 42 | 35 | | 1 | [] |
 | pqlx/CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-03 01:36:45+00:00 | 11 | 45 | C | 10 | ['CVE-2022-1015'] |
+| abhi0X01/client-side-attacks | Client Side attacks to exploit weakness in client software | https://github.com/abhi0X01/client-side-attacks | ['exploit'] | 1 | 2022-04-03 05:49:07+00:00 | 1 | 0 | HTML | 0 | [] |
 | 73725f78/shellcode | Scripts tools | https://github.com/73725f78/shellcode | ['shellcode'] | 1 | 2022-04-03 06:27:36+00:00 | 1 | 0 | Vim script | 0 | [] |
-| Microjus/Micro-Locate | Captura informações como localização, provedora etc, de um ip. | https://github.com/Microjus/Micro-Locate | ['shellcode'] | 1 | 2022-04-03 01:19:23+00:00 | 18 | 1 | Shell | 0 | [] |
 | F3XClientOfficial/F3XClient | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | ['exploit'] | 1 | 2022-04-03 00:10:23+00:00 | 0 | 0 | | 0 | [] |
 | wideboris/vulnerable-software | A collection of vulnerable software to showcase different security bugs and how they can be exploited and fixed. | https://github.com/wideboris/vulnerable-software | ['exploit'] | 1 | 2022-04-03 02:46:21+00:00 | 0 | 0 | Python | 0 | [] |
 | webmaster-exit-1/Exploit_Mapper | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | ['exploit'] | 1 | 2022-04-03 03:40:11+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -25,9 +25,10 @@
 | codesport/programmable-nfts | We exploit NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of attendance (of events), for individuals in real life scenarios. | https://github.com/codesport/programmable-nfts | ['exploit'] | 1 | 2022-04-03 05:30:01+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | PYALtd/Gaia-Online-Exploits-n-Cheats | None | https://github.com/PYALtd/Gaia-Online-Exploits-n-Cheats | ['exploit'] | 1 | 2022-04-03 04:54:58+00:00 | 0 | 0 | | 0 | [] |
 | itsecurityco/CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-03 06:43:15+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22965'] |
+| twseptian/cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-04-03 06:48:02+00:00 | 0 | 0 | | 0 | ['CVE-2022-22963'] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-04-03 07:42:16+00:00 | 4726 | 37 | | 2 | [] |
+| Microjus/Micro-Locate | Captura informações como localização, provedora etc, de um ip. | https://github.com/Microjus/Micro-Locate | ['shellcode'] | 1 | 2022-04-03 01:19:23+00:00 | 18 | 1 | Shell | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-03 05:42:37+00:00 | 179 | 1 | | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-03 06:54:30+00:00 | 6049 | 3182 | Python | 689 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-03 00:04:01+00:00 | 475229 | 47 | | 20 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-03 00:22:47+00:00 | 266609 | 297 | Ruby | 85 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-03 02:30:39+00:00 | 188010 | 142 | REXX | 12 | [] |
@@ -47,4 +48,4 @@
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-04-03 01:57:00+00:00 | 37874 | 10 | Java | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-03 01:36:07+00:00 | 4482321 | 34 | Python | 4 | [] |
 | minhnq22/CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-04-03 03:22:58+00:00 | 57 | 0 | Python | 0 | ['CVE-2021-42171'] |
-| twseptian/cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-04-03 06:48:02+00:00 | 0 | 0 | | 0 | ['CVE-2022-22963'] |
+| zapstiko/Exploit | None | https://github.com/zapstiko/Exploit | ['exploit'] | 1 | 2022-04-03 08:02:13+00:00 | 0 | 0 | HTML | 0 | [] |
