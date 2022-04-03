@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-411900067,minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution,exploit.py,46b40a1f213f788f802c9402e4dc8ef7727246d4,VU#32
-411900067,minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution,README.md,bbf8a7cfff2cd127df3627d3551d7985f0cfa055,CVE-2021-42171
+411900067,minhnq22/CVE-2021-42171,exploit.py,46b40a1f213f788f802c9402e4dc8ef7727246d4,VU#32
+411900067,minhnq22/CVE-2021-42171,README.md,cef9bbb3964243aa73f50acc14b79fff7b0120ca,CVE-2021-42171
+411900067,minhnq22/CVE-2021-42171,_GITHUB_REPO_METADATA_,,CVE-2021-42171
