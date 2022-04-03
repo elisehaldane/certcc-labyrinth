@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#396,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#396,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
+VU#396,0.08333333,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#396,0.04000000,https://github.com/prodseanb/Xsearch,prodseanb/Xsearch,443673812
 VU#396,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#396,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
