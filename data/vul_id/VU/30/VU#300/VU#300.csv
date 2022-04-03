@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#300,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
 VU#300,0.25000000,https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,476590347
 VU#300,0.16666667,https://github.com/0neday/Exploit-HS8545M-ONT,0neday/Exploit-HS8545M-ONT,367586775
-VU#300,0.02564103,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
+VU#300,0.02500000,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#300,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#300,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#300,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399,nanopathi/linux-4.19.72_CVE-2021-32399,476675393
