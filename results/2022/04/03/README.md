@@ -1,12 +1,14 @@
 
 # Summary for results/2022/04/03
     
-22 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-03 01:48:14+00:00 | 4431 | 2635 | PowerShell | 745 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-03 00:22:47+00:00 | 266609 | 297 | Ruby | 85 | [] |
+| webmaster-exit-1/Exploit_Mapper | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | ['exploit'] | 1 | 2022-04-03 03:40:11+00:00 | 0 | 0 | Shell | 0 | [] |
+| wideboris/vulnerable-software | A collection of vulnerable software to showcase different security bugs and how they can be exploited and fixed. | https://github.com/wideboris/vulnerable-software | ['exploit'] | 1 | 2022-04-03 02:46:21+00:00 | 0 | 0 | Python | 0 | [] |
 | F3XClientOfficial/F3XClient | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | ['exploit'] | 1 | 2022-04-03 00:10:23+00:00 | 0 | 0 | | 0 | [] |
 | pqlx/CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-03 01:36:45+00:00 | 11 | 45 | C | 10 | ['CVE-2022-1015'] |
 | 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-04-03 01:40:15+00:00 | 42 | 35 | | 1 | [] |
@@ -15,6 +17,7 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-03 00:59:36+00:00 | 173 | 0 | | 0 | [] |
 | Microjus/Micro-Locate | Captura informações como localização, provedora etc, de um ip. | https://github.com/Microjus/Micro-Locate | ['shellcode'] | 1 | 2022-04-03 01:19:23+00:00 | 18 | 1 | Shell | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-04-03 00:29:21+00:00 | 977 | 4 | C | 1 | [] |
+| minhnq22/CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-04-03 03:22:58+00:00 | 57 | 0 | Python | 0 | ['CVE-2021-42171'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-03 01:36:07+00:00 | 4482321 | 34 | Python | 4 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-04-03 01:57:00+00:00 | 37874 | 10 | Java | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-03 01:48:59+00:00 | 8347 | 82 | HTML | 22 | [] |
@@ -24,6 +27,7 @@
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-04-03 01:49:43+00:00 | 219806 | 230 | C | 46 | [] |
 | mahdihosseini/RMSGD | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | ['exploit'] | 1 | 2022-04-03 00:13:06+00:00 | 20424 | 31 | Python | 10 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-04-03 01:16:06+00:00 | 745 | 134 | Java | 27 | [] |
+| nuzzl/CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-03 03:13:45+00:00 | 26 | 4 | HTML | 1 | ['CVE-2020-10558'] |
 | tobor88/Bash | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | ['exploit'] | 1 | 2022-04-03 01:52:26+00:00 | 957 | 19 | Shell | 8 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-03 02:30:39+00:00 | 188010 | 142 | REXX | 12 | [] |
-| wideboris/vulnerable-software | A collection of vulnerable software to showcase different security bugs and how they can be exploited and fixed. | https://github.com/wideboris/vulnerable-software | ['exploit'] | 1 | 2022-04-03 02:46:21+00:00 | 0 | 0 | Python | 0 | [] |
+| gudpickx/paolapesantez | biLouvain with algorithmic extensions: Multi-fuse, Murata+ exploiting intra-type information. | https://github.com/gudpickx/paolapesantez | ['exploit'] | 1 | 2022-04-03 03:43:52+00:00 | 0 | 0 | | 0 | [] |
