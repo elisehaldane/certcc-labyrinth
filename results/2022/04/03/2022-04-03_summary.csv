@@ -1,0 +1,7 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-04-03T00:22:47+0000,266609,297,Ruby,85,[]
+mahdihosseini/RMSGD,Exploiting Explainable Metrics for Augmented SGD [CVPR2022],https://github.com/mahdihosseini/RMSGD,['exploit'],1,2022-04-03T00:13:06+0000,20424,31,Python,10,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-04-03T00:04:01+0000,475229,47,,20,[]
+rcelyte/BeatUpRcelyte,A lightweight modded Beat Saber multiplayer server for self-hosting,https://github.com/rcelyte/BeatUpRcelyte,['rce'],1,2022-04-03T00:29:21+0000,977,4,C,1,[]
+hippolippo/RCE-Bingo,A project to generate bingo boards for filling out while watching Real Civil Engineer videos,https://github.com/hippolippo/RCE-Bingo,['rce'],1,2022-04-03T00:54:48+0000,46811,1,Python,0,[]
+F3XClientOfficial/F3XClient,F3X is a blatant client for exploiting in bedwars.,https://github.com/F3XClientOfficial/F3XClient,['exploit'],1,2022-04-03T00:10:23+0000,0,0,,0,[]
