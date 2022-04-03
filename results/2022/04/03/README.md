@@ -1,22 +1,23 @@
 
 # Summary for results/2022/04/03
     
-44 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-03 01:48:14+00:00 | 4431 | 2635 | PowerShell | 745 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-03 06:54:30+00:00 | 6049 | 3182 | Python | 689 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-03 05:23:24+00:00 | 114379 | 2569 | nan | 314 | [] |
+| abhi0X01/client-side-attacks | Client Side attacks to exploit weakness in client software | https://github.com/abhi0X01/client-side-attacks | ['exploit'] | 1 | 2022-04-03 05:49:07+00:00 | 1 | 0 | HTML | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-03 05:23:24+00:00 | 114379 | 2569 | | 314 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-04-03 03:52:08+00:00 | 120833 | 1 | HTML | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-03 00:59:36+00:00 | 173 | 0 | | 0 | [] |
 | Microjus/Micro-Apache | Gerenciador do serviço apache em shell script. | https://github.com/Microjus/Micro-Apache | ['shellcode'] | 1 | 2022-04-03 01:16:30+00:00 | 101 | 1 | Shell | 0 | [] |
+| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-04-03 09:32:26+00:00 | 16753 | 0 | | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-03 00:54:48+00:00 | 46811 | 1 | Python | 0 | [] |
 | MrMcHir/FreeZX-Files | This Files For Working Loader Exploit | https://github.com/MrMcHir/FreeZX-Files | ['exploit'] | 1 | 2022-04-03 05:59:38+00:00 | 1 | 0 | Smalltalk | 0 | [] |
 | 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-04-03 01:40:15+00:00 | 42 | 35 | | 1 | [] |
 | pqlx/CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-03 01:36:45+00:00 | 11 | 45 | C | 10 | ['CVE-2022-1015'] |
-| abhi0X01/client-side-attacks | Client Side attacks to exploit weakness in client software | https://github.com/abhi0X01/client-side-attacks | ['exploit'] | 1 | 2022-04-03 05:49:07+00:00 | 1 | 0 | HTML | 0 | [] |
 | 73725f78/shellcode | Scripts tools | https://github.com/73725f78/shellcode | ['shellcode'] | 1 | 2022-04-03 06:27:36+00:00 | 1 | 0 | Vim script | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-03 06:54:30+00:00 | 6049 | 3182 | Python | 689 | [] |
 | F3XClientOfficial/F3XClient | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | ['exploit'] | 1 | 2022-04-03 00:10:23+00:00 | 0 | 0 | | 0 | [] |
 | wideboris/vulnerable-software | A collection of vulnerable software to showcase different security bugs and how they can be exploited and fixed. | https://github.com/wideboris/vulnerable-software | ['exploit'] | 1 | 2022-04-03 02:46:21+00:00 | 0 | 0 | Python | 0 | [] |
 | webmaster-exit-1/Exploit_Mapper | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | ['exploit'] | 1 | 2022-04-03 03:40:11+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -29,7 +30,7 @@
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-04-03 07:42:16+00:00 | 4726 | 37 | | 2 | [] |
 | Microjus/Micro-Locate | Captura informações como localização, provedora etc, de um ip. | https://github.com/Microjus/Micro-Locate | ['shellcode'] | 1 | 2022-04-03 01:19:23+00:00 | 18 | 1 | Shell | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-03 05:42:37+00:00 | 179 | 1 | | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-03 00:04:01+00:00 | 475229 | 47 | | 20 | [] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-04-03 00:29:21+00:00 | 977 | 4 | C | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-03 00:22:47+00:00 | 266609 | 297 | Ruby | 85 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-03 02:30:39+00:00 | 188010 | 142 | REXX | 12 | [] |
 | tobor88/Bash | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | ['exploit'] | 1 | 2022-04-03 01:52:26+00:00 | 957 | 19 | Shell | 8 | [] |
@@ -38,9 +39,10 @@
 | mahdihosseini/RMSGD | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | ['exploit'] | 1 | 2022-04-03 00:13:06+00:00 | 20424 | 31 | Python | 10 | [] |
 | mariuszskon/autorop | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | ['exploit'] | 1 | 2022-04-03 06:33:53+00:00 | 229 | 16 | Python | 2 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-04-03 01:49:43+00:00 | 219806 | 230 | C | 46 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-03 00:04:01+00:00 | 475229 | 47 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-03 04:53:43+00:00 | 96957 | 17 | Python | 5 | [] |
-| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-04-03 00:29:21+00:00 | 977 | 4 | C | 1 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-04-03 06:10:41+00:00 | 294909 | 917 | C# | 218 | [] |
+| Claudjos/agave | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | ['exploit'] | 1 | 2022-04-03 09:33:54+00:00 | 46 | 0 | Python | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-03 04:25:06+00:00 | 145667 | 97 | | 17 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-03 01:03:17+00:00 | 156099 | 355 | Python | 103 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-03 01:47:27+00:00 | 28850 | 2 | Python | 0 | [] |
