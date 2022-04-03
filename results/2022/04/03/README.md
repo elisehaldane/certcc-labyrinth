@@ -1,13 +1,12 @@
 
 # Summary for results/2022/04/03
     
-97 records found after deduplication
+99 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-03 01:48:14+00:00 | 4431 | 2635 | PowerShell | 745 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-03 00:54:48+00:00 | 46811 | 1 | Python | 0 | [] |
-| shi10587s/Sauercloude | 0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119 | https://github.com/shi10587s/Sauercloude | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-03 09:46:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-2119'] |
+| Jasut1n/exploitation-scripts | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | ['exploit'] | 1 | 2022-04-03 11:32:52+00:00 | 0 | 0 | Python | 0 | [] |
 | zapstiko/Exploit | None | https://github.com/zapstiko/Exploit | ['exploit'] | 1 | 2022-04-03 08:02:13+00:00 | 0 | 0 | HTML | 0 | [] |
 | twseptian/cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-04-03 06:48:02+00:00 | 0 | 0 | | 0 | ['CVE-2022-22963'] |
 | itsecurityco/CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-03 06:43:15+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22965'] |
@@ -28,10 +27,11 @@
 | MrMcHir/FreeZX-Files | This Files For Working Loader Exploit | https://github.com/MrMcHir/FreeZX-Files | ['exploit'] | 1 | 2022-04-03 05:59:38+00:00 | 1 | 0 | Smalltalk | 0 | [] |
 | Setha77/projetSystemeExploitation | None | https://github.com/Setha77/projetSystemeExploitation | ['exploit'] | 1 | 2022-04-03 21:23:41+00:00 | 56 | 0 | Python | 0 | [] |
 | l1j9m4-0n1/Pwnable | Binary Exploitation exercises and scripts | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-03 14:37:01+00:00 | 23 | 0 | Python | 0 | [] |
-| Jasut1n/exploitation-scripts | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | ['exploit'] | 1 | 2022-04-03 11:32:52+00:00 | 0 | 0 | Python | 0 | [] |
+| FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-04-03 22:44:37+00:00 | 8266 | 11 | Python | 3 | [] |
+| shi10587s/Sauercloude | 0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119 | https://github.com/shi10587s/Sauercloude | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-03 09:46:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-2119'] |
 | Raphael-Rey/data_in_libraries | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | ['exploit'] | 1 | 2022-04-03 11:23:55+00:00 | 0 | 0 | | 0 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-03 00:54:48+00:00 | 46811 | 1 | Python | 0 | [] |
 | 1422756921/metasploit-omnibus | None | https://github.com/1422756921/metasploit-omnibus | ['metasploit module OR payload'] | 1 | 2022-04-03 12:13:37+00:00 | 0 | 0 | Ruby | 0 | [] |
-| Kashkovsky/CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | ['cve-2 OR cve_2'] | 1 | 2022-04-03 15:27:43+00:00 | 0 | 0 | | 0 | ['CVE-2021-40438'] |
 | NathaF974/TP1_POO_Inventaire_Fontaine | TP – Création et exploitation des classes | https://github.com/NathaF974/TP1_POO_Inventaire_Fontaine | ['exploit'] | 1 | 2022-04-03 20:39:04+00:00 | 0 | 0 | | 0 | [] |
 | netsentriesdev/spring4Shell-Safe-Exploit | Modified version of original exploit to check Spring4shell safely with out a reverse shell | https://github.com/netsentriesdev/spring4Shell-Safe-Exploit | ['exploit'] | 1 | 2022-04-03 18:42:52+00:00 | 0 | 0 | Python | 0 | [] |
 | h4ckti/Log4jRCE2 | None | https://github.com/h4ckti/Log4jRCE2 | ['rce'] | 1 | 2022-04-03 17:09:11+00:00 | 0 | 0 | | 0 | [] |
@@ -41,8 +41,8 @@
 | labsbots/CVE-2017-9506 | Atlassian Jira XSS attack via Server Side Request Forgery (SSRF). | https://github.com/labsbots/CVE-2017-9506 | ['cve-2 OR cve_2'] | 1 | 2022-04-03 16:26:01+00:00 | 0 | 0 | Python | 0 | ['CVE-2017-9506'] |
 | SathishKumarA2001/Exploits_OWASP | None | https://github.com/SathishKumarA2001/Exploits_OWASP | ['exploit'] | 1 | 2022-04-03 15:37:52+00:00 | 0 | 0 | Hack | 0 | [] |
 | exploit100/NN-Exploit | None | https://github.com/exploit100/NN-Exploit | ['exploit'] | 1 | 2022-04-03 15:35:33+00:00 | 0 | 0 | | 0 | [] |
+| Kashkovsky/CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | ['cve-2 OR cve_2'] | 1 | 2022-04-03 15:27:43+00:00 | 0 | 0 | | 0 | ['CVE-2021-40438'] |
 | mpaolino/sqlite-execute-module | Brain-dead simple sqlite execute module to aid in the RCE exploitation of SQLite instances that allow load_extension SQL function | https://github.com/mpaolino/sqlite-execute-module | ['exploit', 'rce'] | 2 | 2022-04-03 15:11:28+00:00 | 0 | 0 | | 0 | [] |
-| fdl66/openssl-1.0.2u-fix-cve | 本项目旨在解决openssl1.0.2u的漏洞问题。（1.0.2官方不在维护，所以，相关的漏洞修复代码都已经闭源，此处是从相近版本合入的代码， 源码来源：https://github.com/openssl/openssl/tree/OpenSSL_1_0_2u） | https://github.com/fdl66/openssl-1.0.2u-fix-cve | ['cve-2 OR cve_2'] | 1 | 2022-04-03 12:51:32+00:00 | 0 | 0 | | 0 | [] |
 | BERTEEE/Pegwin-Exploits | None | https://github.com/BERTEEE/Pegwin-Exploits | ['exploit'] | 1 | 2022-04-03 14:48:32+00:00 | 0 | 0 | | 0 | [] |
 | dodocrypto/0day.Thesis | [ 0day (xc) Our ] Thesis For PHD Que ... . | https://github.com/dodocrypto/0day.Thesis | ['0day'] | 1 | 2022-04-03 14:38:21+00:00 | 0 | 0 | nan | 0 | [] |
 | killmonday/isic.lk-RCE | isic.lk tour booking website multi vuln (sqli/ file upload / info leak) lead to RCE | https://github.com/killmonday/isic.lk-RCE | ['rce'] | 1 | 2022-04-03 14:40:01+00:00 | 0 | 0 | Python | 0 | [] |
@@ -52,10 +52,11 @@
 | password520/linux-kernel-exploits | None | https://github.com/password520/linux-kernel-exploits | ['exploit'] | 1 | 2022-04-03 13:47:28+00:00 | 0 | 0 | C | 0 | [] |
 | password520/windows-kernel-exploits | None | https://github.com/password520/windows-kernel-exploits | ['exploit'] | 1 | 2022-04-03 13:46:12+00:00 | 0 | 0 | | 0 | [] |
 | password520/EcShop_RCE_Scanner | None | https://github.com/password520/EcShop_RCE_Scanner | ['rce'] | 1 | 2022-04-03 13:42:55+00:00 | 0 | 0 | C# | 0 | [] |
+| fdl66/openssl-1.0.2u-fix-cve | 本项目旨在解决openssl1.0.2u的漏洞问题。（1.0.2官方不在维护，所以，相关的漏洞修复代码都已经闭源，此处是从相近版本合入的代码， 源码来源：https://github.com/openssl/openssl/tree/OpenSSL_1_0_2u） | https://github.com/fdl66/openssl-1.0.2u-fix-cve | ['cve-2 OR cve_2'] | 1 | 2022-04-03 12:51:32+00:00 | 0 | 0 | | 0 | [] |
 | riccardonicolaidis/FPGAtmos_pARTYcle_detector | Implementation of a particle detector using a cheap FPGA developement board. The FPGA exploits some ADCs and then if there are coincidences in the signals, the event is recorded. | https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector | ['exploit'] | 1 | 2022-04-03 16:33:35+00:00 | 21925 | 2 | VHDL | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-04-03 09:32:26+00:00 | 16753 | 0 | | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-03 06:54:30+00:00 | 6049 | 3182 | Python | 689 | [] |
-| Microjus/Micro-Apache | Gerenciador do serviço apache em shell script. | https://github.com/Microjus/Micro-Apache | ['shellcode'] | 1 | 2022-04-03 01:16:30+00:00 | 101 | 1 | Shell | 0 | [] |
+| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-04-03 14:34:54+00:00 | 2873578 | 29 | | 15 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-03 04:25:06+00:00 | 145667 | 97 | | 17 | [] |
 | Claudjos/agave | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | ['exploit'] | 1 | 2022-04-03 09:33:54+00:00 | 46 | 0 | Python | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-04-03 06:10:41+00:00 | 294909 | 917 | C# | 218 | [] |
@@ -78,11 +79,12 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-03 00:22:47+00:00 | 266609 | 297 | Ruby | 85 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-04-03 12:35:06+00:00 | 70536 | 10951 | Jupyter Notebook | 1913 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-03 01:03:17+00:00 | 156099 | 355 | Python | 103 | [] |
-| Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-04-03 14:34:54+00:00 | 2873578 | 29 | | 15 | [] |
 | abhijaiswal819/Car-Price-Predictor-ML | The prices of new cars in the industry is fixed by the manufacturer with some additional costs incurred by the Government in the form of taxes. So customers buying a new car can be assured of the money they invest to be worthy. But due to the increased p | https://github.com/abhijaiswal819/Car-Price-Predictor-ML | ['exploit'] | 1 | 2022-04-03 12:39:32+00:00 | 520 | 0 | Jupyter Notebook | 0 | [] |
-| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-03 05:42:37+00:00 | 179 | 1 | | 0 | [] |
+| Microjus/Micro-Apache | Gerenciador do serviço apache em shell script. | https://github.com/Microjus/Micro-Apache | ['shellcode'] | 1 | 2022-04-03 01:16:30+00:00 | 101 | 1 | Shell | 0 | [] |
+| firefart/hivenightmare | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/firefart/hivenightmare | ['exploit'] | 1 | 2022-04-03 18:04:14+00:00 | 4364 | 56 | Go | 8 | [] |
 | ksecurity45/exploitme.github.io | None | https://github.com/ksecurity45/exploitme.github.io | ['exploit'] | 1 | 2022-04-03 20:50:04+00:00 | 8162 | 0 | HTML | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-03 00:59:36+00:00 | 173 | 0 | | 0 | [] |
+| samiam2013/makitikosMars | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/makitikosMars | ['exploit'] | 1 | 2022-04-03 21:45:15+00:00 | 11 | 0 | Perl | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-03 11:19:16+00:00 | 1815 | 17 | Go | 3 | [] |
 | explabs/ad-ctf-paas-exploits | None | https://github.com/explabs/ad-ctf-paas-exploits | ['exploit'] | 1 | 2022-04-03 13:27:59+00:00 | 20 | 0 | Go | 0 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-04-03 03:52:08+00:00 | 120833 | 1 | HTML | 0 | [] |
@@ -90,8 +92,8 @@
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-04-03 07:42:16+00:00 | 4726 | 37 | | 2 | [] |
 | StaticSploit/StaticSploit.github.io | it is my site | https://github.com/StaticSploit/StaticSploit.github.io | ['sploit'] | 1 | 2022-04-03 10:12:58+00:00 | 1 | 0 | HTML | 0 | [] |
 | Microjus/Micro-Locate | Captura informações como localização, provedora etc, de um ip. | https://github.com/Microjus/Micro-Locate | ['shellcode'] | 1 | 2022-04-03 01:19:23+00:00 | 18 | 1 | Shell | 0 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-03 05:42:37+00:00 | 179 | 1 | | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-04-03 00:29:21+00:00 | 977 | 4 | C | 1 | [] |
-| firefart/hivenightmare | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/firefart/hivenightmare | ['exploit'] | 1 | 2022-04-03 18:04:14+00:00 | 4364 | 56 | Go | 8 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-04-03 18:10:23+00:00 | 711 | 8 | | 1 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-04-03 09:47:10+00:00 | 81 | 2 | Python | 0 | [] |
 | cupiditys/iReady-Overload | iReady is awful. It's the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | ['exploit'] | 1 | 2022-04-03 20:40:18+00:00 | 2473 | 81 | JavaScript | 115 | [] |
