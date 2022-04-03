@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/03
     
-26 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-03 01:48:14+00:00 | 4431 | 2635 | PowerShell | 745 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-03 00:22:47+00:00 | 266609 | 297 | Ruby | 85 | [] |
+| minhnq22/CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-04-03 03:22:58+00:00 | 57 | 0 | Python | 0 | ['CVE-2021-42171'] |
+| gudpickx/paolapesantez | biLouvain with algorithmic extensions: Multi-fuse, Murata+ exploiting intra-type information. | https://github.com/gudpickx/paolapesantez | ['exploit'] | 1 | 2022-04-03 03:43:52+00:00 | 0 | 0 | | 0 | [] |
 | webmaster-exit-1/Exploit_Mapper | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | ['exploit'] | 1 | 2022-04-03 03:40:11+00:00 | 0 | 0 | Shell | 0 | [] |
 | wideboris/vulnerable-software | A collection of vulnerable software to showcase different security bugs and how they can be exploited and fixed. | https://github.com/wideboris/vulnerable-software | ['exploit'] | 1 | 2022-04-03 02:46:21+00:00 | 0 | 0 | Python | 0 | [] |
 | F3XClientOfficial/F3XClient | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | ['exploit'] | 1 | 2022-04-03 00:10:23+00:00 | 0 | 0 | | 0 | [] |
@@ -15,14 +16,16 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-03 00:54:48+00:00 | 46811 | 1 | Python | 0 | [] |
 | Microjus/Micro-Apache | Gerenciador do serviço apache em shell script. | https://github.com/Microjus/Micro-Apache | ['shellcode'] | 1 | 2022-04-03 01:16:30+00:00 | 101 | 1 | Shell | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-03 00:59:36+00:00 | 173 | 0 | | 0 | [] |
+| Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-04-03 03:52:08+00:00 | 120833 | 1 | HTML | 0 | [] |
 | Microjus/Micro-Locate | Captura informações como localização, provedora etc, de um ip. | https://github.com/Microjus/Micro-Locate | ['shellcode'] | 1 | 2022-04-03 01:19:23+00:00 | 18 | 1 | Shell | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-04-03 00:29:21+00:00 | 977 | 4 | C | 1 | [] |
-| minhnq22/CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-04-03 03:22:58+00:00 | 57 | 0 | Python | 0 | ['CVE-2021-42171'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-03 01:36:07+00:00 | 4482321 | 34 | Python | 4 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-03 00:22:47+00:00 | 266609 | 297 | Ruby | 85 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-04-03 01:57:00+00:00 | 37874 | 10 | Java | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-03 01:48:59+00:00 | 8347 | 82 | HTML | 22 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-03 01:47:27+00:00 | 28850 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-03 01:03:17+00:00 | 156099 | 355 | Python | 103 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-03 04:25:06+00:00 | 145667 | 97 | | 17 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-03 00:04:01+00:00 | 475229 | 47 | | 20 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-04-03 01:49:43+00:00 | 219806 | 230 | C | 46 | [] |
 | mahdihosseini/RMSGD | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | ['exploit'] | 1 | 2022-04-03 00:13:06+00:00 | 20424 | 31 | Python | 10 | [] |
@@ -30,4 +33,4 @@
 | nuzzl/CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-03 03:13:45+00:00 | 26 | 4 | HTML | 1 | ['CVE-2020-10558'] |
 | tobor88/Bash | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | ['exploit'] | 1 | 2022-04-03 01:52:26+00:00 | 957 | 19 | Shell | 8 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-03 02:30:39+00:00 | 188010 | 142 | REXX | 12 | [] |
-| gudpickx/paolapesantez | biLouvain with algorithmic extensions: Multi-fuse, Murata+ exploiting intra-type information. | https://github.com/gudpickx/paolapesantez | ['exploit'] | 1 | 2022-04-03 03:43:52+00:00 | 0 | 0 | | 0 | [] |
+| chhajershrenik/exploits | None | https://github.com/chhajershrenik/exploits | ['exploit'] | 1 | 2022-04-03 04:40:47+00:00 | 0 | 0 | C | 0 | [] |
