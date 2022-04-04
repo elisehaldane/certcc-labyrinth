@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#49,1.00000000,https://github.com/Itz-Ayanokoji/Kage,Itz-Ayanokoji/Kage,433870651
+VU#49,1.00000000,https://github.com/mahalde/clipmyhorse-exploit,mahalde/clipmyhorse-exploit,284948566
 VU#49,0.50000000,https://github.com/averywit/CS4501FinalProject,averywit/CS4501FinalProject,449884485
 VU#49,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
 VU#49,0.25000000,https://github.com/dnr6419/CVE-2021-45416,dnr6419/CVE-2021-45416,459058671
