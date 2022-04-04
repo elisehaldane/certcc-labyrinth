@@ -1,12 +1,16 @@
 
 # Summary for results/2022/04/04
     
-29 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-04 01:25:50+00:00 | 4446 | 2634 | PowerShell | 745 | [] |
-| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-04 00:56:11+00:00 | 188 | 1 | | 0 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-04 03:46:21+00:00 | 1825 | 17 | Go | 3 | [] |
+| helloexp/0day | nan | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-04-04 04:41:44+00:00 | 0 | 0 | nan | 0 | [] |
+| athrainsky/metasploit | Metasploit | https://github.com/athrainsky/metasploit | ['metasploit module OR payload'] | 1 | 2022-04-04 03:30:37+00:00 | 0 | 0 | | 0 | [] |
+| webmaster-exit-1/Exploit_Mapper | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | ['exploit'] | 1 | 2022-04-04 04:41:46+00:00 | 38 | 0 | Shell | 0 | [] |
+| 73725f78/shellcode_examples | None | https://github.com/73725f78/shellcode_examples | ['shellcode'] | 1 | 2022-04-04 04:40:42+00:00 | 0 | 0 | C | 0 | [] |
 | saurabhborate/RcellDemo | None | https://github.com/saurabhborate/RcellDemo | ['rce'] | 1 | 2022-04-04 03:08:30+00:00 | 302 | 0 | Swift | 0 | [] |
 | me2nuk/CVE-2022-22965 | Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965 | https://github.com/me2nuk/CVE-2022-22965 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-04 01:16:41+00:00 | 1789 | 1 | Python | 0 | ['CVE-2022-22965'] |
 | colincowie/Safer_PoC_CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-04 02:49:17+00:00 | 5 | 33 | Python | 5 | ['CVE-2022-22965'] |
@@ -17,10 +21,10 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-04 00:52:32+00:00 | 50538 | 1 | Python | 0 | [] |
 | jacobbolger/SDR-Remote-Exploit | This project serves as a write-up to accompany my final project for a B.S. in Cybersecurity. This project incorporates knowledge of computer and radio hardware, various operating systems and software programs, data transmission, and more. | https://github.com/jacobbolger/SDR-Remote-Exploit | ['exploit'] | 1 | 2022-04-04 01:31:08+00:00 | 41 | 0 | | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-04 01:00:24+00:00 | 182 | 0 | | 0 | [] |
-| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-04 03:46:21+00:00 | 1825 | 17 | Go | 3 | [] |
 | natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-04-04 01:55:21+00:00 | 55 | 11 | Python | 5 | [] |
-| Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-04-04 03:07:25+00:00 | 816 | 5 | C++ | 1 | [] |
 | Bio3SS/Exploitation_models | None | https://github.com/Bio3SS/Exploitation_models | ['exploit'] | 1 | 2022-04-04 03:30:47+00:00 | 23 | 0 | R | 0 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of DeFi digital assets. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-04 00:56:11+00:00 | 188 | 1 | | 0 | [] |
+| Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-04-04 03:07:25+00:00 | 816 | 5 | C++ | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-04 01:26:19+00:00 | 4376280 | 34 | Python | 4 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-04-04 02:31:20+00:00 | 197 | 13 | Python | 6 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-04 01:52:34+00:00 | 8406 | 82 | HTML | 22 | [] |
@@ -33,4 +37,4 @@
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2022-04-04 01:54:49+00:00 | 1035 | 8 | C | 2 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-04 02:30:42+00:00 | 193920 | 143 | REXX | 12 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-04 00:21:47+00:00 | 266610 | 298 | Ruby | 86 | [] |
-| athrainsky/metasploit | Metasploit | https://github.com/athrainsky/metasploit | ['metasploit module OR payload'] | 1 | 2022-04-04 03:30:37+00:00 | 0 | 0 | | 0 | [] |
+| Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0413 | None | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0413 | ['cve-2 OR cve_2'] | 1 | 2022-04-04 04:48:10+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0413'] |
