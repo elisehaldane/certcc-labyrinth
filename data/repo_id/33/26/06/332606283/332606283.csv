@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+332606283,lcvvvv/kscan,lib/gosmb/gosmb.go,8ea176c832c899927bd87360899edc5e1bb81368,CVE-2020-0796
