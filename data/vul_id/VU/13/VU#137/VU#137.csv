@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#137,0.50000000,https://github.com/Nicomendia/smart-contracts-security,Nicomendia/smart-contracts-security,454040512
 VU#137,0.50000000,https://github.com/summit-defi/grim-users-shares,summit-defi/grim-users-shares,440293765
 VU#137,0.50000000,https://github.com/hihiben/exploit_simulation_template,hihiben/exploit_simulation_template,424849082
+VU#137,0.33333333,https://github.com/cxkoda/ERC721MintExploits,cxkoda/ERC721MintExploits,477625945
 VU#137,0.33333333,https://github.com/MASDXI/malicious-crowdsale-contract,MASDXI/malicious-crowdsale-contract,471998878
 VU#137,0.33333333,https://github.com/MASDXI/malicious-crowdsale-contract,MASDXI/malicious-crowdsale-contract,471043684
 VU#137,0.33333333,https://github.com/lukeyako/exploitalpha,lukeyako/exploitalpha,444223644
