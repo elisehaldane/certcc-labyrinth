@@ -9,7 +9,7 @@
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-04-03 22:44:37+00:00 | 8266 | 11 | Python | 3 | [] |
 | Raphael-Rey/data_in_libraries | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | ['exploit'] | 1 | 2022-04-03 11:23:55+00:00 | 0 | 0 | | 0 | [] |
 | Jasut1n/exploitation-scripts | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | ['exploit'] | 1 | 2022-04-03 11:32:52+00:00 | 0 | 0 | Python | 0 | [] |
-| shi10587s/Sauercloude | 0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119 | https://github.com/shi10587s/Sauercloude | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-03 09:46:03+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-2119'] |
+| shi10587s/Sauercloude | 0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119 | https://github.com/shi10587s/Sauercloude | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-03 09:46:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-2119'] |
 | zapstiko/Exploit | None | https://github.com/zapstiko/Exploit | ['exploit'] | 1 | 2022-04-03 08:02:13+00:00 | 0 | 0 | HTML | 0 | [] |
 | twseptian/cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-04-03 06:48:02+00:00 | 0 | 0 | | 0 | ['CVE-2022-22963'] |
 | itsecurityco/CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-03 06:43:15+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22965'] |
