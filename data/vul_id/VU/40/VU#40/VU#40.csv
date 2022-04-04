@@ -7,6 +7,7 @@ VU#40,0.33333333,https://github.com/nikaiw/CVE-2021-4034,nikaiw/CVE-2021-4034,45
 VU#40,0.33333333,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#40,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#40,0.10000000,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
+VU#40,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
 VU#40,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
 VU#40,0.08333333,https://github.com/D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,470636236
 VU#40,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,469606452
@@ -80,5 +81,5 @@ VU#40,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#40,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#40,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#40,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#40,0.00020263,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#40,0.00020259,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#40,0.00004643,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
