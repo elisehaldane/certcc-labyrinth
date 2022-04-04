@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/04
     
-59 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-04 01:25:50+00:00 | 4446 | 2634 | PowerShell | 745 | [] |
-| gpiechnik2/nmap-spring4shell | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965) | https://github.com/gpiechnik2/nmap-spring4shell | ['exploit', 'rce'] | 2 | 2022-04-04 05:31:35+00:00 | 4 | 0 | Lua | 0 | ['CVE-2022-22965'] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-04 05:37:49+00:00 | 6075 | 3184 | Python | 689 | [] |
+| jacobbolger/SDR-Remote-Exploit | This project serves as a write-up to accompany my final project for a B.S. in Cybersecurity. This project incorporates knowledge of computer and radio hardware, various operating systems and software programs, data transmission, and more. | https://github.com/jacobbolger/SDR-Remote-Exploit | ['exploit'] | 1 | 2022-04-04 01:31:08+00:00 | 41 | 0 | | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-04 00:52:32+00:00 | 50538 | 1 | Python | 0 | [] |
 | GatoGamer1155/CVE-2021-22204 | Script en python para crear imagenes maliciosas (reverse shell) | https://github.com/GatoGamer1155/CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-04 02:20:07+00:00 | 614 | 2 | Python | 1 | ['CVE-2021-22204'] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-04 08:32:52+00:00 | 437053 | 412 | nan | 74 | [] |
@@ -19,8 +20,8 @@
 | me2nuk/CVE-2022-22965 | Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965 | https://github.com/me2nuk/CVE-2022-22965 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-04 01:16:41+00:00 | 1789 | 1 | Python | 0 | ['CVE-2022-22965'] |
 | saurabhborate/RcellDemo | None | https://github.com/saurabhborate/RcellDemo | ['rce'] | 1 | 2022-04-04 03:08:30+00:00 | 302 | 0 | Swift | 0 | [] |
 | 73725f78/shellcode_examples | None | https://github.com/73725f78/shellcode_examples | ['shellcode'] | 1 | 2022-04-04 04:40:42+00:00 | 0 | 0 | C | 0 | [] |
+| gpiechnik2/nmap-spring4shell | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965) | https://github.com/gpiechnik2/nmap-spring4shell | ['exploit', 'rce'] | 2 | 2022-04-04 05:31:35+00:00 | 4 | 0 | Lua | 0 | ['CVE-2022-22965'] |
 | webmaster-exit-1/Exploit_Mapper | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | ['exploit'] | 1 | 2022-04-04 04:41:46+00:00 | 38 | 0 | Shell | 0 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-04 01:00:24+00:00 | 182 | 0 | | 0 | [] |
 | Jasut1n/exploitation-scripts | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | ['exploit'] | 1 | 2022-04-04 08:43:34+00:00 | 9 | 0 | Python | 0 | [] |
 | athrainsky/metasploit | Metasploit | https://github.com/athrainsky/metasploit | ['metasploit module OR payload'] | 1 | 2022-04-04 03:30:37+00:00 | 0 | 0 | | 0 | [] |
 | helloexp/0day | None | https://github.com/helloexp/0day | ['0day'] | 1 | 2022-04-04 04:41:44+00:00 | 0 | 0 | nan | 0 | [] |
@@ -33,9 +34,9 @@
 | Al1ex/0DayList | 0DayList | https://github.com/Al1ex/0DayList | ['0day'] | 1 | 2022-04-04 08:24:24+00:00 | 0 | 1 | nan | 0 | [] |
 | cxkoda/ERC721MintExploits | None | https://github.com/cxkoda/ERC721MintExploits | ['exploit'] | 1 | 2022-04-04 09:31:42+00:00 | 0 | 0 | Solidity | 0 | [] |
 | Coderx-Gamer/lectern-crash | A PaperMC crash exploit / hack (fabric mod) | https://github.com/Coderx-Gamer/lectern-crash | ['exploit'] | 1 | 2022-04-04 10:19:38+00:00 | 0 | 0 | Java | 0 | [] |
-| jacobbolger/SDR-Remote-Exploit | This project serves as a write-up to accompany my final project for a B.S. in Cybersecurity. This project incorporates knowledge of computer and radio hardware, various operating systems and software programs, data transmission, and more. | https://github.com/jacobbolger/SDR-Remote-Exploit | ['exploit'] | 1 | 2022-04-04 01:31:08+00:00 | 41 | 0 | | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-04 01:00:24+00:00 | 182 | 0 | | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-04 03:46:21+00:00 | 1825 | 17 | Go | 3 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-04 05:37:49+00:00 | 6075 | 3184 | Python | 689 | [] |
+| 1nj3ct10n/VulnServer-Buffer-Overflow | Python scripts to exploit 32-bit stack-based buffer overflow (example application: VulnServer) | https://github.com/1nj3ct10n/VulnServer-Buffer-Overflow | ['exploit'] | 1 | 2022-04-04 07:10:43+00:00 | 8 | 0 | Python | 0 | [] |
 | Wr0zen/wr0zen.github.io | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | ['exploit'] | 1 | 2022-04-04 02:09:33+00:00 | 14044 | 3 | JavaScript | 4 | [] |
 | Bio3SS/Exploitation_models | None | https://github.com/Bio3SS/Exploitation_models | ['exploit'] | 1 | 2022-04-04 03:30:47+00:00 | 23 | 0 | R | 0 | [] |
 | X-C3LL/PoC-CVEs | Proof of Concepts of vulnerabilities discovered by me | https://github.com/X-C3LL/PoC-CVEs | ['cve poc', 'vulnerability poc'] | 2 | 2022-04-04 08:35:17+00:00 | 24 | 8 | Python | 8 | [] |
@@ -50,11 +51,12 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-04 00:04:33+00:00 | 475332 | 47 | | 20 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-04-04 10:12:58+00:00 | 81372 | 822 | Go | 140 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-04 03:34:35+00:00 | 128166 | 97 | | 17 | [] |
-| 1nj3ct10n/VulnServer-Buffer-Overflow | Python scripts to exploit 32-bit stack-based buffer overflow (example application: VulnServer) | https://github.com/1nj3ct10n/VulnServer-Buffer-Overflow | ['exploit'] | 1 | 2022-04-04 07:10:43+00:00 | 8 | 0 | Python | 0 | [] |
+| hotpotcookie/lol4j-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-04-04 06:55:15+00:00 | 265 | 1 | Java | 0 | ['CVE-2021-44228'] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-04 01:03:43+00:00 | 159831 | 355 | Python | 103 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-04-04 05:43:43+00:00 | 2873578 | 28 | | 15 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-04 01:50:39+00:00 | 30858 | 2 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-04 01:52:34+00:00 | 8406 | 82 | HTML | 22 | [] |
+| Xcatolin/Personal-Exploits | Some exploits i developed for VulnHub machines and common vulnerabilities. | https://github.com/Xcatolin/Personal-Exploits | ['exploit'] | 1 | 2022-04-04 10:54:32+00:00 | 21 | 3 | Python | 1 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2022-04-04 02:31:20+00:00 | 197 | 13 | Python | 6 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-04 01:26:19+00:00 | 4376280 | 34 | Python | 4 | [] |
 | Tolaju/Laplace---Shellcode-launcher | Laplace es un launcher/Stub externo de shellcode runtime en desarrollo por un autodidacta, para el Spyware Medusa. | https://github.com/Tolaju/Laplace---Shellcode-launcher | ['shellcode'] | 1 | 2022-04-04 03:07:25+00:00 | 816 | 5 | C++ | 1 | [] |
@@ -62,5 +64,4 @@
 | natthawk/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-04-04 01:55:21+00:00 | 55 | 11 | Python | 5 | [] |
 | Captaincrogs/weak-database-exploiter- | None | https://github.com/Captaincrogs/weak-database-exploiter- | ['exploit'] | 1 | 2022-04-04 10:00:54+00:00 | 12 | 0 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-04 05:19:47+00:00 | 117760 | 2572 | | 314 | [] |
-| hotpotcookie/lol4j-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-04-04 06:55:15+00:00 | 265 | 1 | Java | 0 | ['CVE-2021-44228'] |
 | daniel0x00/Invoke-CVE-2022-22965-SafeCheck | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | ['cve-2 OR cve_2'] | 1 | 2022-04-04 10:43:00+00:00 | 0 | 0 | PowerShell | 0 | ['CVE-2022-22965'] |
