@@ -1,10 +1,10 @@
 
 # Summary for results/2022/04/05
     
-28 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-04-05 01:28:21+00:00 | 37274 | 1083 | Python | 395 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-05 04:33:01+00:00 | 6105 | 3184 | Python | 689 | [] |
 | Ref0rce/Ref0rce | Config files for my GitHub profile. | https://github.com/Ref0rce/Ref0rce | ['rce'] | 1 | 2022-04-05 01:01:39+00:00 | 0 | 0 | | 0 | [] |
@@ -14,6 +14,7 @@
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-04-05 00:01:29+00:00 | 2634 | 0 | Python | 0 | [] |
 | tweedge/springcore-0day-en | Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | ['0day', 'exploit'] | 2 | 2022-04-05 00:33:00+00:00 | 2268 | 90 | Python | 32 | [] |
 | Exploitables/EXP-401-Preparation | A bunch of resources to prepare for the OSEE certification, Offensive Security's hardest course. | https://github.com/Exploitables/EXP-401-Preparation | ['exploit'] | 1 | 2022-04-05 03:10:14+00:00 | 94 | 1 | C | 0 | [] |
+| jhftss/CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-05 05:11:29+00:00 | 15213 | 5 | Objective-C | 2 | ['CVE-2022-22639'] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-05 00:50:38+00:00 | 54130 | 1 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-05 00:55:47+00:00 | 182 | 0 | | 0 | [] |
 | samiam2013/makitikosMars | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/makitikosMars | ['exploit'] | 1 | 2022-04-05 03:48:50+00:00 | 11 | 0 | Perl | 0 | [] |
@@ -22,6 +23,7 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-05 00:32:21+00:00 | 58559 | 2 | Jupyter Notebook | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-05 01:21:30+00:00 | 4371603 | 34 | Python | 4 | [] |
 | lichen-lab/TLVar | Exploiting deep transfer learning for the prediction of functional noncoding variants using DNA sequence | https://github.com/lichen-lab/TLVar | ['exploit'] | 1 | 2022-04-05 02:41:22+00:00 | 3879 | 0 | Python | 0 | [] |
+| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-05 05:17:26+00:00 | 136 | 4 | C++ | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-05 01:43:58+00:00 | 8406 | 82 | HTML | 22 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-05 01:39:45+00:00 | 32950 | 2 | Python | 0 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2022-04-05 02:15:08+00:00 | 150 | 0 | | 0 | [] |
