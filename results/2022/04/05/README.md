@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/05
     
-59 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-04-05 01:28:21+00:00 | 37274 | 1083 | Python | 395 | [] |
-| myseq/kev-catalog | CISA Catalog of Known Exploited Vulnerabilities (KEV) | https://github.com/myseq/kev-catalog | ['exploit'] | 1 | 2022-04-05 03:46:56+00:00 | 0 | 0 | | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-05 11:07:45+00:00 | 709685 | 26814 | Ruby | 12119 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-05 00:55:47+00:00 | 182 | 0 | | 0 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-05 09:58:16+00:00 | 452094 | 421 | | 76 | [] |
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-04-05 08:06:35+00:00 | 8373 | 12 | Python | 3 | [] |
 | l1j9m4-0n1/Pwnable | Binary Exploitation exercises and scripts | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-05 07:28:05+00:00 | 359 | 0 | Python | 0 | [] |
 | jhftss/CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-05 05:11:29+00:00 | 15213 | 5 | Objective-C | 2 | ['CVE-2022-22639'] |
@@ -19,8 +20,8 @@
 | rcerrejon/rcerrejon | None | https://github.com/rcerrejon/rcerrejon | ['rce'] | 1 | 2022-04-05 06:07:33+00:00 | 0 | 0 | | 0 | [] |
 | ibojanova/BugsFramework | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BugsFramework | ['exploit'] | 1 | 2022-04-05 03:10:31+00:00 | 35 | 0 | C# | 0 | [] |
 | Ref0rce/Ref0rce | Config files for my GitHub profile. | https://github.com/Ref0rce/Ref0rce | ['rce'] | 1 | 2022-04-05 01:01:39+00:00 | 0 | 0 | | 0 | [] |
+| myseq/kev-catalog | CISA Catalog of Known Exploited Vulnerabilities (KEV) | https://github.com/myseq/kev-catalog | ['exploit'] | 1 | 2022-04-05 03:46:56+00:00 | 0 | 0 | | 0 | [] |
 | CorneliusCornbread/SDK2-Safety | Allows you to block SDK 2.0 avatars to avoid SDK 2.0 based exploits. | https://github.com/CorneliusCornbread/SDK2-Safety | ['exploit'] | 1 | 2022-04-05 06:08:04+00:00 | 0 | 1 | C# | 0 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-05 00:50:38+00:00 | 54130 | 1 | Python | 0 | [] |
 | UtermuxBlog/termux-metasploit | [WIP]Install Metasploit Framework on Termux | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-05 06:18:16+00:00 | 0 | 0 | | 0 | [] |
 | veritas501/CVE-2021-22555-PipeVersion | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-05 06:57:05+00:00 | 48 | 0 | C | 0 | ['CVE-2021-22555'] |
 | veritas501/CVE-2022-25636-PipeVersion | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-05 07:22:04+00:00 | 752 | 0 | C | 0 | ['CVE-2022-25636'] |
@@ -33,10 +34,12 @@
 | 1337-L3V1ATH0N/OSCP-Win-Exploits | None | https://github.com/1337-L3V1ATH0N/OSCP-Win-Exploits | ['exploit'] | 1 | 2022-04-05 09:20:12+00:00 | 0 | 0 | | 0 | [] |
 | glowbase/windows-exploit-search | Search through Microsoft Security Bulletins (MSSB's) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | ['exploit'] | 1 | 2022-04-05 09:36:13+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Snip3R69/spring-shell-vuln | Spring has Confirmed the RCE in Spring Framework. The team has just published the statement along with the mitigation guides for the issue. Now, this vulnerability can be tracked as CVE-2022-22965. | https://github.com/Snip3R69/spring-shell-vuln | ['rce'] | 1 | 2022-04-05 09:35:42+00:00 | 0 | 0 | | 0 | ['CVE-2022-22965'] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-05 09:58:16+00:00 | 452094 | 421 | | 76 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-05 00:55:47+00:00 | 182 | 0 | | 0 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-05 00:50:38+00:00 | 54130 | 1 | Python | 0 | [] |
+| samiam2013/makitikosMars | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/makitikosMars | ['exploit'] | 1 | 2022-04-05 03:48:50+00:00 | 11 | 0 | Perl | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-05 11:43:17+00:00 | 46870 | 865 | Python | 205 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-05 03:47:04+00:00 | 1849 | 17 | Go | 3 | [] |
+| v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-04-05 01:28:21+00:00 | 37274 | 1083 | Python | 395 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-05 04:33:01+00:00 | 6105 | 3184 | Python | 689 | [] |
-| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2022-04-05 10:44:11+00:00 | 2024 | 12 | Python | 3 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-05 00:21:44+00:00 | 266610 | 298 | Ruby | 86 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-05 02:30:42+00:00 | 208588 | 143 | REXX | 12 | [] |
 | Cesar-Hack-Gray/FotoSploit | nan | https://github.com/Cesar-Hack-Gray/FotoSploit | ['sploit'] | 1 | 2022-04-05 02:56:52+00:00 | 17613 | 534 | Hack | 105 | [] |
@@ -49,8 +52,8 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-05 08:45:51+00:00 | 128168 | 97 | | 17 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-05 01:04:23+00:00 | 162943 | 355 | Python | 103 | [] |
 | DontAltF4/RandomProjects | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | ['exploit'] | 1 | 2022-04-05 02:15:08+00:00 | 150 | 0 | | 0 | [] |
+| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2022-04-05 10:44:11+00:00 | 2024 | 12 | Python | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-05 01:39:45+00:00 | 32950 | 2 | Python | 0 | [] |
-| samiam2013/makitikosMars | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/makitikosMars | ['exploit'] | 1 | 2022-04-05 03:48:50+00:00 | 11 | 0 | Perl | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-05 01:43:58+00:00 | 8406 | 82 | HTML | 22 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-05 05:17:26+00:00 | 136 | 4 | C++ | 1 | [] |
 | lichen-lab/TLVar | Exploiting deep transfer learning for the prediction of functional noncoding variants using DNA sequence | https://github.com/lichen-lab/TLVar | ['exploit'] | 1 | 2022-04-05 02:41:22+00:00 | 3879 | 0 | Python | 0 | [] |
@@ -62,5 +65,4 @@
 | CnHack3r/Awesome-hacking-tools | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE仓库、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | ['exploit'] | 1 | 2022-04-05 08:41:50+00:00 | 103751 | 46 | PowerShell | 8 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-04-05 07:18:09+00:00 | 4739 | 38 | | 3 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-05 01:04:09+00:00 | 123092 | 2576 | | 315 | [] |
-| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-05 03:47:04+00:00 | 1849 | 17 | Go | 3 | [] |
 | aesm1p/CVE-2022-22947-POC-Reproduce | CVE-2022-22947 reproduce | https://github.com/aesm1p/CVE-2022-22947-POC-Reproduce | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-05 10:14:01+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
