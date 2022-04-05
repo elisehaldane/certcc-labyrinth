@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#62,1.00000000,https://github.com/ngherve/Application-of-Intelligent-Algorithms-for-Optimal-Exploration-and-Exploitation-of-Ad-Click-Through-R,ngherve/Application-of-Intelligent-Algorithms-for-Optimal-Exploration-and-Exploitation-of-Ad-Click-Through-R,455416390
 VU#62,1.00000000,https://github.com/Gotenks-J/rack-attack-turbo,Gotenks-J/rack-attack-turbo,421216415
 VU#62,1.00000000,https://github.com/headst1337/PoligonCTF_Tasklist,headst1337/PoligonCTF_Tasklist,420823039
+VU#62,0.50000000,https://github.com/richard-zevel/poc-accessibility-testing,richard-zevel/poc-accessibility-testing,478123886
 VU#62,0.50000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#62,0.50000000,https://github.com/zxzxz1/Exploit_Version-5.9.0,zxzxz1/Exploit_Version-5.9.0,474067812
 VU#62,0.33333333,https://github.com/cxkoda/ERC721MintExploits,cxkoda/ERC721MintExploits,477625945
@@ -63,6 +64,7 @@ VU#62,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,4718
 VU#62,0.01315789,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#62,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#62,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#62,0.01190476,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#62,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#62,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#62,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
