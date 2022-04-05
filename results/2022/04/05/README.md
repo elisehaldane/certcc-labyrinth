@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/05
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-05 11:07:45+00:00 | 709685 | 26814 | Ruby | 12119 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-05 00:55:47+00:00 | 182 | 0 | | 0 | [] |
+| samiam2013/makitikosMars | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/makitikosMars | ['exploit'] | 1 | 2022-04-05 03:48:50+00:00 | 11 | 0 | Perl | 0 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-05 00:50:38+00:00 | 54130 | 1 | Python | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-05 09:58:16+00:00 | 452094 | 421 | | 76 | [] |
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-04-05 08:06:35+00:00 | 8373 | 12 | Python | 3 | [] |
 | l1j9m4-0n1/Pwnable | Binary Exploitation exercises and scripts | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-05 07:28:05+00:00 | 359 | 0 | Python | 0 | [] |
@@ -34,13 +35,16 @@
 | 1337-L3V1ATH0N/OSCP-Win-Exploits | None | https://github.com/1337-L3V1ATH0N/OSCP-Win-Exploits | ['exploit'] | 1 | 2022-04-05 09:20:12+00:00 | 0 | 0 | | 0 | [] |
 | glowbase/windows-exploit-search | Search through Microsoft Security Bulletins (MSSB's) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | ['exploit'] | 1 | 2022-04-05 09:36:13+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Snip3R69/spring-shell-vuln | Spring has Confirmed the RCE in Spring Framework. The team has just published the statement along with the mitigation guides for the issue. Now, this vulnerability can be tracked as CVE-2022-22965. | https://github.com/Snip3R69/spring-shell-vuln | ['rce'] | 1 | 2022-04-05 09:35:42+00:00 | 0 | 0 | | 0 | ['CVE-2022-22965'] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-05 00:50:38+00:00 | 54130 | 1 | Python | 0 | [] |
-| samiam2013/makitikosMars | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/makitikosMars | ['exploit'] | 1 | 2022-04-05 03:48:50+00:00 | 11 | 0 | Perl | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-05 11:43:17+00:00 | 46870 | 865 | Python | 205 | [] |
+| aesm1p/CVE-2022-22947-POC-Reproduce | CVE-2022-22947 reproduce | https://github.com/aesm1p/CVE-2022-22947-POC-Reproduce | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-05 10:14:01+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-05 00:55:47+00:00 | 182 | 0 | | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-05 03:47:04+00:00 | 1849 | 17 | Go | 3 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-05 11:43:17+00:00 | 46870 | 865 | Python | 205 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-05 01:04:09+00:00 | 123092 | 2576 | | 315 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-04-05 01:28:21+00:00 | 37274 | 1083 | Python | 395 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-05 04:33:01+00:00 | 6105 | 3184 | Python | 689 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-04-05 12:35:03+00:00 | 70768 | 10963 | Jupyter Notebook | 1918 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-05 00:21:44+00:00 | 266610 | 298 | Ruby | 86 | [] |
+| mgeeky/Penetration-Testing-Tools | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2022-04-05 12:00:17+00:00 | 17808 | 1169 | PowerShell | 270 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-05 02:30:42+00:00 | 208588 | 143 | REXX | 12 | [] |
 | Cesar-Hack-Gray/FotoSploit | nan | https://github.com/Cesar-Hack-Gray/FotoSploit | ['sploit'] | 1 | 2022-04-05 02:56:52+00:00 | 17613 | 534 | Hack | 105 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-05 00:47:17+00:00 | 13806 | 34 | | 19 | [] |
@@ -57,6 +61,7 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-05 01:43:58+00:00 | 8406 | 82 | HTML | 22 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-05 05:17:26+00:00 | 136 | 4 | C++ | 1 | [] |
 | lichen-lab/TLVar | Exploiting deep transfer learning for the prediction of functional noncoding variants using DNA sequence | https://github.com/lichen-lab/TLVar | ['exploit'] | 1 | 2022-04-05 02:41:22+00:00 | 3879 | 0 | Python | 0 | [] |
+| nicolagatta/Binary-Exploitation | Some examples of binary exploitation tecniques tracking my studies for ECPPTv2 and OSCP on INE, TryHackMe and HackTheBox platforms | https://github.com/nicolagatta/Binary-Exploitation | ['exploit'] | 1 | 2022-04-05 12:27:39+00:00 | 126 | 1 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-05 01:21:30+00:00 | 4371603 | 34 | Python | 4 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-04-05 08:45:23+00:00 | 251 | 4 | Java | 0 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-04-05 09:40:09+00:00 | 196 | 1 | C | 0 | [] |
@@ -64,5 +69,4 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-05 00:32:21+00:00 | 58559 | 2 | Jupyter Notebook | 0 | [] |
 | CnHack3r/Awesome-hacking-tools | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE仓库、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | ['exploit'] | 1 | 2022-04-05 08:41:50+00:00 | 103751 | 46 | PowerShell | 8 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-04-05 07:18:09+00:00 | 4739 | 38 | | 3 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-05 01:04:09+00:00 | 123092 | 2576 | | 315 | [] |
-| aesm1p/CVE-2022-22947-POC-Reproduce | CVE-2022-22947 reproduce | https://github.com/aesm1p/CVE-2022-22947-POC-Reproduce | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-05 10:14:01+00:00 | 0 | 0 | | 0 | ['CVE-2022-22947'] |
+| richard-zevel/poc-accessibility-testing | POC solution of using Axe to scan a webpage for accessibility vulnerabilities and nice and shiny report generating. | https://github.com/richard-zevel/poc-accessibility-testing | ['vulnerability poc'] | 1 | 2022-04-05 12:43:33+00:00 | 0 | 0 | | 0 | [] |
