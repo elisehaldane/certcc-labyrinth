@@ -4,7 +4,6 @@ VU#37,0.50000000,https://github.com/one2blame/the-dark-arts,one2blame/the-dark-a
 VU#37,0.50000000,https://github.com/kvturk/exploit,kvturk/exploit,371477629
 VU#37,0.50000000,https://github.com/spvreddy/spvreddy.github.io,spvreddy/spvreddy.github.io,328169688
 VU#37,0.33333333,https://github.com/vlongle/Imperfecto,vlongle/Imperfecto,466267402
-VU#37,0.33333333,https://github.com/ksecurity45/exploitme.github.io,ksecurity45/exploitme.github.io,464013273
 VU#37,0.33333333,https://github.com/loicosquare/rce_project,loicosquare/rce_project,455168078
 VU#37,0.25000000,https://github.com/ASMRoyal/exploit-pack,ASMRoyal/exploit-pack,477766270
 VU#37,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/BruteSploit,469596250
@@ -32,6 +31,7 @@ VU#37,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Seque
 VU#37,0.03225806,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#37,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#37,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
+VU#37,0.02380952,https://github.com/ksecurity45/exploitme.github.io,ksecurity45/exploitme.github.io,464013273
 VU#37,0.02222222,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#37,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#37,0.01923077,https://github.com/tr0uble-mAker/POC-bomber,tr0uble-mAker/POC-bomber,432052287
@@ -44,7 +44,7 @@ VU#37,0.01724138,https://github.com/sairson/NetworkExpLibrary,sairson/NetworkExp
 VU#37,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#37,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#37,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
-VU#37,0.01408451,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
+VU#37,0.01388889,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 VU#37,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#37,0.01315789,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#37,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -55,7 +55,7 @@ VU#37,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/Malw
 VU#37,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#37,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#37,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#37,0.00961538,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
+VU#37,0.00952381,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#37,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#37,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#37,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -69,6 +69,7 @@ VU#37,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#37,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#37,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#37,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
+VU#37,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#37,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#37,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#37,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634

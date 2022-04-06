@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#28,1.00000000,https://github.com/dtreplin/ctf-writeups,dtreplin/ctf-writeups,476246138
 VU#28,1.00000000,https://github.com/NNNFFF/chromeOS_exploit,NNNFFF/chromeOS_exploit,258395295
 VU#28,0.50000000,https://github.com/Contrast-Security-OSS/log4shell_serverless,Contrast-Security-OSS/log4shell_serverless,438642032
+VU#28,0.33333333,https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,448937445
 VU#28,0.33333333,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#28,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#28,0.20000000,https://github.com/dpfaffenbauer/defichain-icx-exploit-review,dpfaffenbauer/defichain-icx-exploit-review,446335747
@@ -63,6 +64,7 @@ VU#28,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough
 VU#28,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#28,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#28,0.00588235,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
+VU#28,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#28,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#28,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#28,0.00476190,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081

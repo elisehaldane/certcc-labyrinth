@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#54,1.00000000,https://github.com/mahaelhn/SystemeExploitation-Programmation,mahaelhn/SystemeExploitation-Programmation,454890737
+VU#54,0.33333333,https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,448937445
 VU#54,0.33333333,https://github.com/corkami/collisions,corkami/collisions,167916892
 VU#54,0.25000000,https://github.com/Charline7/final-project-le-lasserre,Charline7/final-project-le-lasserre,475413214
 VU#54,0.20000000,https://github.com/duongletrieu/Apple-HTML-Exploiter,duongletrieu/Apple-HTML-Exploiter,419225438
@@ -44,6 +45,7 @@ VU#54,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hog
 VU#54,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#54,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#54,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
+VU#54,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#54,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#54,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#54,0.00476190,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
