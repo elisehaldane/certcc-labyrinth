@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
 476408566,cybersecurityworks553/spring4shell-exploit,README.md,4ee512ebdb66e442ce8bafc8d720522e3fe784ec,CVE-2022-22965
-476408566,cybersecurityworks553/spring4shell-exploit,CVE-2022-22965_exploit.py,600d757bacee768349ab8d040b8d898ec64862c7,CVE-2022-22965
+476408566,cybersecurityworks553/spring4shell-exploit,CVE-2022-22965_exploit.py,bbebee65700538826668deb01216cbdef637b05d,CVE-2022-22965
