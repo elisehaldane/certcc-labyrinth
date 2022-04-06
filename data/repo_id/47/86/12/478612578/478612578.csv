@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+478612578,wyunan/CVE-POC,rce/CVE-2022-22965_SpringCore.py,25c4aedee648b97694767b1bd1775656ffe41d25,CNVD-2022-23942
+478612578,wyunan/CVE-POC,rce/CVE-2022-22965_SpringCore.py,25c4aedee648b97694767b1bd1775656ffe41d25,CVE-2022-22965
