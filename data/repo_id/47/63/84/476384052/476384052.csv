@@ -1,4 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#26
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#33
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#51
+476384052,GuayoyoCyber/CVE-2022-22965,vulnerable-app/target/example.war,3b531d4df5a6445443806becefcc54d06ee389a7,VU#63
 476384052,GuayoyoCyber/CVE-2022-22965,README.md,cf1d5b3db2d72595568588b27d749b5799dcf5c8,CVE-2010-1622
 476384052,GuayoyoCyber/CVE-2022-22965,README.md,cf1d5b3db2d72595568588b27d749b5799dcf5c8,CVE-2022-22963
 476384052,GuayoyoCyber/CVE-2022-22965,README.md,cf1d5b3db2d72595568588b27d749b5799dcf5c8,CVE-2022-22965
