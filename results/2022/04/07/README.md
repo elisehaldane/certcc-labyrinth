@@ -1,13 +1,17 @@
 
 # Summary for results/2022/04/07
     
-20 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-07 00:24:46+00:00 | 266611 | 298 | Ruby | 86 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-07 00:47:18+00:00 | 15798 | 34 | | 19 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-07 02:30:36+00:00 | 229024 | 142 | REXX | 12 | [] |
+| wikiZ/springboot_CVE-2022-22965 | CVE-2022-22965 pocsuite3 POC | https://github.com/wikiZ/springboot_CVE-2022-22965 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-07 02:31:28+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22965'] |
+| forTheBest12138/Vulnhub | This repository is used to store vulnerabilities article or POCs. | https://github.com/forTheBest12138/Vulnhub | ['vuln poc', 'vulnerability poc'] | 2 | 2022-04-07 02:50:59+00:00 | 0 | 0 | nan | 0 | [] |
+| hoaan1995/CVE-2018-9995 | None | https://github.com/hoaan1995/CVE-2018-9995 | ['cve-2 OR cve_2'] | 1 | 2022-04-07 00:38:40+00:00 | 0 | 1 | Python | 0 | ['CVE-2018-9995'] |
 | alt3kx/CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-07 01:22:36+00:00 | 14 | 1 | Lua | 1 | ['CVE-2022-22965'] |
+| playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-07 02:55:58+00:00 | 299 | 0 | | 0 | [] |
 | mttaggart/rustyneedle | A Rust-based dropper for shellcode payloads. | https://github.com/mttaggart/rustyneedle | ['shellcode'] | 1 | 2022-04-07 00:35:44+00:00 | 10 | 6 | Rust | 0 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-07 00:53:09+00:00 | 136 | 436 | C | 38 | [] |
 | LandenSisk/AEL | Simple application that automates the use of exploits for penetration testing | https://github.com/LandenSisk/AEL | ['exploit'] | 1 | 2022-04-07 01:57:52+00:00 | 5 | 0 | C++ | 0 | [] |
@@ -20,8 +24,10 @@
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-07 01:49:29+00:00 | 146 | 4 | C++ | 1 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-04-07 00:50:14+00:00 | 656 | 0 | Lua | 0 | [] |
 | RoseSecurity/Anti-Virus-Evading-Payloads | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineer | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | ['exploit'] | 1 | 2022-04-07 00:49:53+00:00 | 22 | 89 | | 12 | [] |
+| 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-04-07 02:58:18+00:00 | 77656 | 10 | Java | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-07 01:43:02+00:00 | 8466 | 82 | HTML | 23 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-07 01:42:02+00:00 | 37406 | 2 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-04-07 01:06:55+00:00 | 125 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-07 00:04:49+00:00 | 494548 | 47 | | 20 | [] |
-| hoaan1995/CVE-2018-9995 | None | https://github.com/hoaan1995/CVE-2018-9995 | ['cve-2 OR cve_2'] | 1 | 2022-04-07 00:38:40+00:00 | 0 | 1 | Python | 0 | ['CVE-2018-9995'] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-07 00:47:18+00:00 | 15798 | 34 | | 19 | [] |
+| Eddi0x/Silent-JPEG-Exploit-2022 | None | https://github.com/Eddi0x/Silent-JPEG-Exploit-2022 | ['exploit'] | 1 | 2022-04-07 02:37:35+00:00 | 0 | 1 | | 0 | [] |
