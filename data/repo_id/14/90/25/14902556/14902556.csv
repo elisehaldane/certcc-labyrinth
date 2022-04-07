@@ -5998,7 +5998,7 @@ repo_id,repo_full_name,file,file_sha1,match
 14902556,offensive-security/exploitdb,exploits/freebsd/dos/28812.c,3b6f642972ae82b20a7d02c6b8b142aee2cbbadb,BID-20517
 14902556,offensive-security/exploitdb,exploits/windows/remote/31534.html,3b7530459d3d06b2d8a053728d6b864c75a065f1,BID-28442
 14902556,offensive-security/exploitdb,exploits/multiple/dos/20827.pl,3b765c77797aad95b8c5662ce059eb9feb64d959,BID-2700
-14902556,offensive-security/exploitdb,exploits/hardware/remote/36864.txt,3b76d6f63e04adfa0f557afa01ea564a785962be,BID-52098
+14902556,offensive-security/exploitdb,exploits/hardware/remote/36866.txt,3b76d6f63e04adfa0f557afa01ea564a785962be,BID-52098
 14902556,offensive-security/exploitdb,exploits/php/webapps/33638.txt,3b79d642fb973b70f52e9c19121b55d2a2a23260,BID-38204
 14902556,offensive-security/exploitdb,exploits/windows/remote/22784.txt,3b7a04d87e689e6be6e22e912d48d983ada80dbf,BID-7939
 14902556,offensive-security/exploitdb,exploits/php/webapps/26615.txt,3b7a41859575391a0520e74b42e83e19eac30f23,BID-15585
