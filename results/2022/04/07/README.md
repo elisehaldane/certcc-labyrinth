@@ -1,17 +1,18 @@
 
 # Summary for results/2022/04/07
     
-57 records found after deduplication
+64 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-07 06:06:19+00:00 | 6139 | 3190 | Python | 690 | [] |
-| mttaggart/rustyneedle | A Rust-based dropper for shellcode payloads. | https://github.com/mttaggart/rustyneedle | ['shellcode'] | 1 | 2022-04-07 00:35:44+00:00 | 10 | 6 | Rust | 0 | [] |
-| persian64/ExploitDevJourney | None | https://github.com/persian64/ExploitDevJourney | ['exploit'] | 1 | 2022-04-07 04:15:26+00:00 | 6 | 0 | | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-07 00:24:46+00:00 | 266611 | 298 | Ruby | 86 | [] |
+| liangyueliangyue/spring-core-rce | springFramework_CVE-2022-22965_RCE简单利用 | https://github.com/liangyueliangyue/spring-core-rce | ['rce'] | 1 | 2022-04-07 07:57:00+00:00 | 10 | 19 | Python | 4 | ['CVE-2022-22965'] |
 | playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-07 02:55:58+00:00 | 299 | 0 | | 0 | [] |
 | achuna33/BurpExtender2SpringCoreRce | None | https://github.com/achuna33/BurpExtender2SpringCoreRce | ['rce'] | 1 | 2022-04-07 03:11:04+00:00 | 36 | 4 | Java | 0 | [] |
 | persian64/CVE-2018-7600 | None | https://github.com/persian64/CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2022-04-07 04:02:13+00:00 | 19 | 0 | Python | 0 | ['CVE-2018-7600'] |
 | hyperdefined/LecternCrashFix | Fixes the lectern crash/exploit. | https://github.com/hyperdefined/LecternCrashFix | ['exploit'] | 1 | 2022-04-07 04:03:20+00:00 | 12 | 2 | Java | 2 | [] |
+| visualstudiocodeing/JunelightSploit | nan | https://github.com/visualstudiocodeing/JunelightSploit | ['sploit'] | 1 | 2022-04-07 08:40:11+00:00 | 2 | 0 | nan | 0 | [] |
 | glowbase/windows-exploit-search | Search through Microsoft Security Bulletins (MSSB's) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | ['exploit'] | 1 | 2022-04-07 05:25:03+00:00 | 442 | 0 | Python | 0 | [] |
 | datawiza-inc/spring-rec-demo | The demo code showing the recent Spring4Shell RCE (CVE-2022-22965) | https://github.com/datawiza-inc/spring-rec-demo | ['rce'] | 1 | 2022-04-07 06:52:39+00:00 | 4 | 1 | Java | 0 | ['CVE-2022-22965'] |
 | soezayzay/SoulExploit_V2 | None | https://github.com/soezayzay/SoulExploit_V2 | ['exploit'] | 1 | 2022-04-07 03:46:27+00:00 | 31 | 0 | PHP | 0 | [] |
@@ -32,10 +33,13 @@
 | Manmahi00/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Manmahi00/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-04-07 05:27:42+00:00 | 0 | 0 | | 0 | [] |
 | Arenid/SpringCloudRCE | 此仓库存储了本人编写的一些POC/EXP | https://github.com/Arenid/SpringCloudRCE | ['rce', 'rce poc'] | 2 | 2022-04-07 07:16:08+00:00 | 0 | 0 | Python | 0 | [] |
 | vietph34/Edge_GNN | Re-implementation of Exploiting Edge Features in Graph Neural Networks | https://github.com/vietph34/Edge_GNN | ['exploit'] | 1 | 2022-04-07 07:38:21+00:00 | 0 | 0 | Python | 0 | [] |
+| nanopathi/linux-4.19.72_CVE-2020-14381 | None | https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381 | ['cve-2 OR cve_2'] | 1 | 2022-04-07 07:38:59+00:00 | 0 | 0 | C | 0 | ['CVE-2020-14381'] |
+| Jhangju/offode | {{OFFODE}} {This is POC of how an attacker automate user's responce and bypass outlook} | https://github.com/Jhangju/offode | ['attack poc'] | 1 | 2022-04-07 07:58:56+00:00 | 115 | 0 | EJS | 0 | [] |
+| maddydevgits/demo-rcew-kurnool | None | https://github.com/maddydevgits/demo-rcew-kurnool | ['rce'] | 1 | 2022-04-07 07:52:12+00:00 | 0 | 0 | Python | 0 | [] |
+| persian64/ExploitDevJourney | None | https://github.com/persian64/ExploitDevJourney | ['exploit'] | 1 | 2022-04-07 04:15:26+00:00 | 6 | 0 | | 0 | [] |
 | persian64/CVE-2009-2265 | ColdFusion 8.0.1 - Arbitrary File Upload to RCE | https://github.com/persian64/CVE-2009-2265 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-07 04:03:02+00:00 | 45 | 1 | Python | 0 | ['CVE-2009-2265'] |
-| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-07 00:53:09+00:00 | 136 | 436 | C | 38 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-07 00:24:46+00:00 | 266611 | 298 | Ruby | 86 | [] |
-| zhengyo/metasploit_install_termux | Installing metasploit in termux | https://github.com/zhengyo/metasploit_install_termux | ['metasploit module OR payload'] | 1 | 2022-04-07 03:03:50+00:00 | 12 | 0 | Python | 0 | [] |
+| mttaggart/rustyneedle | A Rust-based dropper for shellcode payloads. | https://github.com/mttaggart/rustyneedle | ['shellcode'] | 1 | 2022-04-07 00:35:44+00:00 | 10 | 6 | Rust | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-07 01:23:16+00:00 | 4581136 | 35 | Python | 4 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-04-07 06:37:41+00:00 | 355780 | 7 | Rust | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-07 02:30:36+00:00 | 229024 | 142 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-07 00:47:18+00:00 | 15798 | 34 | | 19 | [] |
@@ -48,8 +52,9 @@
 | RoseSecurity/Anti-Virus-Evading-Payloads | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineer | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | ['exploit'] | 1 | 2022-04-07 00:49:53+00:00 | 22 | 89 | | 12 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-04-07 00:50:14+00:00 | 656 | 0 | Lua | 0 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-07 01:49:29+00:00 | 146 | 4 | C++ | 1 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-07 01:23:16+00:00 | 4581136 | 35 | Python | 4 | [] |
+| yuriisanin/cve-exploits | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | ['exploit'] | 1 | 2022-04-07 08:46:52+00:00 | 6 | 0 | Python | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-04-07 03:41:45+00:00 | 52651 | 0 | Python | 0 | [] |
+| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-07 00:53:09+00:00 | 136 | 436 | C | 38 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-07 00:30:19+00:00 | 64339 | 2 | Jupyter Notebook | 0 | [] |
 | 0xCuSO4/DHLYK | 大灰狼远控木马 V9.5 源码 | https://github.com/0xCuSO4/DHLYK | ['shellcode'] | 1 | 2022-04-07 06:00:48+00:00 | 25740 | 231 | C++ | 123 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-04-07 05:07:51+00:00 | 4774 | 38 | | 3 | [] |
@@ -59,6 +64,8 @@
 | ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | https://umbrellas22.000webhostapp.com/main.html , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | ['exploit'] | 1 | 2022-04-07 00:05:04+00:00 | 4 | 0 | | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-07 00:52:10+00:00 | 65511 | 1 | Python | 0 | [] |
 | phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | None | https://github.com/phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-07 04:36:03+00:00 | 25 | 0 | C | 0 | ['CVE-2022-0847'] |
+| xzadra03/Exploits | None | https://github.com/xzadra03/Exploits | ['exploit'] | 1 | 2022-04-07 07:51:26+00:00 | 14926 | 0 | Python | 0 | [] |
 | Enokiy/cve-2022-22947-spring-cloud-gateway | None | https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway | ['cve-2 OR cve_2'] | 1 | 2022-04-07 01:21:34+00:00 | 2054 | 4 | Java | 1 | ['CVE-2022-22947'] |
 | LandenSisk/AEL | Simple application that automates the use of exploits for penetration testing | https://github.com/LandenSisk/AEL | ['exploit'] | 1 | 2022-04-07 01:57:52+00:00 | 5 | 0 | C++ | 0 | [] |
-| nanopathi/linux-4.19.72_CVE-2020-14381 | None | https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381 | ['cve-2 OR cve_2'] | 1 | 2022-04-07 07:38:59+00:00 | 0 | 0 | C | 0 | ['CVE-2020-14381'] |
+| zhengyo/metasploit_install_termux | Installing metasploit in termux | https://github.com/zhengyo/metasploit_install_termux | ['metasploit module OR payload'] | 1 | 2022-04-07 03:03:50+00:00 | 12 | 0 | Python | 0 | [] |
+| zxzxz1/Exploit_nokey | None | https://github.com/zxzxz1/Exploit_nokey | ['exploit'] | 1 | 2022-04-07 08:49:29+00:00 | 0 | 0 | | 0 | [] |
