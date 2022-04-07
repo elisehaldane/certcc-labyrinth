@@ -113,6 +113,7 @@ MS17-010,1.00000000,https://github.com/JavierOlmedo/check-ms17-010,JavierOlmedo/
 MS17-010,1.00000000,https://github.com/adamleff/inspec-profile-wannacry-exploit,adamleff/inspec-profile-wannacry-exploit,91350955
 MS17-010,1.00000000,https://github.com/jflyup/goMS17-010,jflyup/goMS17-010,89549887
 MS17-010,1.00000000,https://github.com/sn0wfa11/HID-Attacks,sn0wfa11/HID-Attacks,56999867
+MS17-010,0.50000000,https://github.com/glowbase/windows-exploit-search,glowbase/windows-exploit-search,478060051
 MS17-010,0.50000000,https://github.com/vikasyadav190049/exploiting-eternal-blue,vikasyadav190049/exploiting-eternal-blue,458348408
 MS17-010,0.50000000,https://github.com/offensity/CVE-2019-0708,offensity/CVE-2019-0708,440208335
 MS17-010,0.50000000,https://github.com/isuruwa/MSF-EXPLOIT,isuruwa/MSF-EXPLOIT,406433010
@@ -373,6 +374,7 @@ MS17-010,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,2
 MS17-010,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/searchsploit_php,90531328
 MS17-010,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS17-010,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
+MS17-010,0.00274725,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS17-010,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 MS17-010,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 MS17-010,0.00265252,https://github.com/Mario-Kart-Felix/Build-exploits-packages,Mario-Kart-Felix/Build-exploits-packages,413187159
