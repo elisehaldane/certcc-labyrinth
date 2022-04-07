@@ -42,6 +42,7 @@ BID-1,0.04761905,https://github.com/bbrezillon/linux-0day,bbrezillon/linux-0day,
 BID-1,0.02857143,https://github.com/n4ll3ec/AggressorSploit,n4ll3ec/AggressorSploit,254540963
 BID-1,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 BID-1,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+BID-1,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381,nanopathi/linux-4.19.72_CVE-2020-14381,478873896
 BID-1,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399,nanopathi/linux-4.19.72_CVE-2021-32399,476675393
 BID-1,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757,ShaikUsaf/linux-4.19.72_CVE-2020-10757,475845386
 BID-1,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428,Satheesh575555/linux-4.19.72_CVE-2020-8428,475835332
@@ -93,6 +94,6 @@ BID-1,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploi
 BID-1,0.00004643,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-1,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-1,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
-BID-1,0.00001858,https://github.com/trickest/cve,trickest/cve,454015416
+BID-1,0.00001857,https://github.com/trickest/cve,trickest/cve,454015416
 BID-1,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 BID-1,0.00000476,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

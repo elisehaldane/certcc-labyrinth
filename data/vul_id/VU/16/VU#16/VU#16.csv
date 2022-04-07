@@ -25,6 +25,7 @@ VU#16,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-scie
 VU#16,0.02857143,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#16,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#16,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#16,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381,nanopathi/linux-4.19.72_CVE-2020-14381,478873896
 VU#16,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399,nanopathi/linux-4.19.72_CVE-2021-32399,476675393
 VU#16,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757,ShaikUsaf/linux-4.19.72_CVE-2020-10757,475845386
 VU#16,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428,Satheesh575555/linux-4.19.72_CVE-2020-8428,475835332
