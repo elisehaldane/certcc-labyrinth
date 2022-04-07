@@ -1,25 +1,32 @@
 
 # Summary for results/2022/04/07
     
-26 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-07 00:24:46+00:00 | 266611 | 298 | Ruby | 86 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-07 02:30:36+00:00 | 229024 | 142 | REXX | 12 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-07 00:52:10+00:00 | 65511 | 1 | Python | 0 | [] |
+| Mahiman00/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Mahiman00/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-04-07 03:34:43+00:00 | 0 | 0 | | 0 | [] |
+| Eddi0x/Silent-JPEG-Exploit-2022 | None | https://github.com/Eddi0x/Silent-JPEG-Exploit-2022 | ['exploit'] | 1 | 2022-04-07 02:37:35+00:00 | 0 | 1 | | 0 | [] |
 | wikiZ/springboot_CVE-2022-22965 | CVE-2022-22965 pocsuite3 POC | https://github.com/wikiZ/springboot_CVE-2022-22965 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-07 02:31:28+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22965'] |
 | forTheBest12138/Vulnhub | This repository is used to store vulnerabilities article or POCs. | https://github.com/forTheBest12138/Vulnhub | ['vuln poc', 'vulnerability poc'] | 2 | 2022-04-07 02:50:59+00:00 | 0 | 0 | nan | 0 | [] |
 | hoaan1995/CVE-2018-9995 | None | https://github.com/hoaan1995/CVE-2018-9995 | ['cve-2 OR cve_2'] | 1 | 2022-04-07 00:38:40+00:00 | 0 | 1 | Python | 0 | ['CVE-2018-9995'] |
 | alt3kx/CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-07 01:22:36+00:00 | 14 | 1 | Lua | 1 | ['CVE-2022-22965'] |
+| soezayzay/SoulExploit_V2 | None | https://github.com/soezayzay/SoulExploit_V2 | ['exploit'] | 1 | 2022-04-07 03:46:27+00:00 | 31 | 0 | PHP | 0 | [] |
+| achuna33/BurpExtender2SpringCoreRce | None | https://github.com/achuna33/BurpExtender2SpringCoreRce | ['rce'] | 1 | 2022-04-07 03:11:04+00:00 | 36 | 4 | Java | 0 | [] |
 | playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-07 02:55:58+00:00 | 299 | 0 | | 0 | [] |
 | mttaggart/rustyneedle | A Rust-based dropper for shellcode payloads. | https://github.com/mttaggart/rustyneedle | ['shellcode'] | 1 | 2022-04-07 00:35:44+00:00 | 10 | 6 | Rust | 0 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-07 00:53:09+00:00 | 136 | 436 | C | 38 | [] |
+| zhengyo/metasploit_install_termux | Installing metasploit in termux | https://github.com/zhengyo/metasploit_install_termux | ['metasploit module OR payload'] | 1 | 2022-04-07 03:03:50+00:00 | 12 | 0 | Python | 0 | [] |
 | LandenSisk/AEL | Simple application that automates the use of exploits for penetration testing | https://github.com/LandenSisk/AEL | ['exploit'] | 1 | 2022-04-07 01:57:52+00:00 | 5 | 0 | C++ | 0 | [] |
 | Enokiy/cve-2022-22947-spring-cloud-gateway | None | https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway | ['cve-2 OR cve_2'] | 1 | 2022-04-07 01:21:34+00:00 | 2054 | 4 | Java | 1 | ['CVE-2022-22947'] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-07 00:52:10+00:00 | 65511 | 1 | Python | 0 | [] |
 | ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | https://umbrellas22.000webhostapp.com/main.html , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | ['exploit'] | 1 | 2022-04-07 00:05:04+00:00 | 4 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-07 01:15:26+00:00 | 130387 | 2583 | nan | 316 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-07 02:30:36+00:00 | 229024 | 142 | REXX | 12 | [] |
+| nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-07 03:13:07+00:00 | 272 | 0 | Go | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-07 01:15:26+00:00 | 130387 | 2583 | | 316 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-07 00:30:19+00:00 | 64339 | 2 | Jupyter Notebook | 0 | [] |
+| flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-04-07 03:41:45+00:00 | 52651 | 0 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-07 01:23:16+00:00 | 4581136 | 35 | Python | 4 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-07 01:49:29+00:00 | 146 | 4 | C++ | 1 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-04-07 00:50:14+00:00 | 656 | 0 | Lua | 0 | [] |
@@ -30,4 +37,4 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-04-07 01:06:55+00:00 | 125 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-07 00:04:49+00:00 | 494548 | 47 | | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-07 00:47:18+00:00 | 15798 | 34 | | 19 | [] |
-| Eddi0x/Silent-JPEG-Exploit-2022 | None | https://github.com/Eddi0x/Silent-JPEG-Exploit-2022 | ['exploit'] | 1 | 2022-04-07 02:37:35+00:00 | 0 | 1 | | 0 | [] |
+| Mahiman00/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Mahiman00/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-04-07 03:39:59+00:00 | 0 | 0 | | 0 | [] |
