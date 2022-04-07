@@ -39,7 +39,7 @@
 | SeanWrightSec/spring-rce-poc | None | https://github.com/SeanWrightSec/spring-rce-poc | ['rce', 'rce poc'] | 2 | 2022-04-06 18:33:23+00:00 | 16643 | 4 | Python | 2 | [] |
 | k3rwin/spring-core-rce | spring框架RCE漏洞 CVE-2022-22965 | https://github.com/k3rwin/spring-core-rce | ['rce'] | 1 | 2022-04-06 07:51:34+00:00 | 299 | 15 | Python | 3 | ['CVE-2022-22965'] |
 | liangyueliangyue/spring-core-rce | spring core rce 简单利用 | https://github.com/liangyueliangyue/spring-core-rce | ['rce'] | 1 | 2022-04-06 14:10:30+00:00 | 5 | 19 | Python | 4 | [] |
-| satoki/the-thor_vulnerability | 👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day) | https://github.com/satoki/the-thor_vulnerability | ['0day', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-06 06:21:26+00:00 | 2 | 0 | nan | 0 | [] |
+| satoki/the-thor_vulnerability | 👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day) | https://github.com/satoki/the-thor_vulnerability | ['0day', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-06 06:21:26+00:00 | 2 | 0 | | 0 | [] |
 | soezayzay/SoulExploit_V2 | None | https://github.com/soezayzay/SoulExploit_V2 | ['exploit'] | 1 | 2022-04-06 05:44:20+00:00 | 0 | 0 | PHP | 0 | [] |
 | HJX-zhanS/RCE-Detection-Dataset | None | https://github.com/HJX-zhanS/RCE-Detection-Dataset | ['rce'] | 1 | 2022-04-06 06:21:51+00:00 | 0 | 0 | | 0 | [] |
 | asura02/metasploit | None | https://github.com/asura02/metasploit | ['metasploit module OR payload'] | 1 | 2022-04-06 17:34:05+00:00 | 0 | 0 | | 0 | [] |
@@ -130,7 +130,7 @@
 | FlyfishSec/rcX | A powerful reverse shell generator | https://github.com/FlyfishSec/rcX | ['rce'] | 1 | 2022-04-06 05:34:14+00:00 | 8373 | 12 | Python | 3 | [] |
 | upal212/pkg-store | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | ['exploit'] | 1 | 2022-04-06 13:54:50+00:00 | 4751 | 38 | | 3 | [] |
 | zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | The purpose of this project is to investigate the applicability of a tensor framework to global cross-asset-factor-country investing. Indeed, multiple assets (e.g., bonds, equities), across multiple factors (e.g., carry, momentum), across multiple countrie | https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | ['exploit'] | 1 | 2022-04-06 10:18:12+00:00 | 905 | 0 | Jupyter Notebook | 0 | [] |
-| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-04-06 10:46:43+00:00 | 109 | 288 | | 37 | [] |
+| binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-04-06 10:46:43+00:00 | 109 | 288 | nan | 37 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-06 00:28:34+00:00 | 62027 | 2 | Jupyter Notebook | 0 | [] |
 | LMS57/Bin_Exp | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | ['exploit'] | 1 | 2022-04-06 21:31:12+00:00 | 4468 | 1 | C | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-06 06:01:34+00:00 | 208 | 1 | | 0 | [] |
