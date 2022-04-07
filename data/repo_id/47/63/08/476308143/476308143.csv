@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+476308143,liangyueliangyue/spring-core-rce,_GITHUB_REPO_METADATA_,,CVE-2022-22965
