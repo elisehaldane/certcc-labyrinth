@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+479110196,Will-Beninger/CVE-2022-22965_SpringShell,scan.py,a9c9376149c9b9f4bef3ed66631255158cd176a9,CVE-2022-22965
+479110196,Will-Beninger/CVE-2022-22965_SpringShell,README.md,a9e9d13b33073a69a35efd6515c6a75aee373567,CVE-2022-22965
+479110196,Will-Beninger/CVE-2022-22965_SpringShell,_GITHUB_REPO_METADATA_,,CVE-2022-22965
