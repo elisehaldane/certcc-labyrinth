@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+479368939,sahad-mk/Exploits,jwt-payloads/readme.md,b2d1eec7657aa3e68d2483d699f6ca34ee3b6944,CVE-2017-17405
