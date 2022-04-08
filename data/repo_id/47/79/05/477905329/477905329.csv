@@ -1,3 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
 477905329,ibojanova/BugsFramework,CVE-2014-0160 - Heartbleed Buffer Overflow.bf,080ffae84df9370e0ce5ac83197ab5854bcd8921,CVE-2014-0160
-477905329,ibojanova/BugsFramework,BF.sln,2cdbeaaae57f9448247b4b9dacb85507d294d611,CVE-2014-0160
