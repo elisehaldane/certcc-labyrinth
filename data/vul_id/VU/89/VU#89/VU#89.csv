@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#89,1.00000000,https://github.com/ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,478938133
 VU#89,1.00000000,https://github.com/tolik518/simple_webshop,tolik518/simple_webshop,468687882
+VU#89,0.50000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,478494950
 VU#89,0.50000000,https://github.com/Nintendo-Homebrew/h-encore,Nintendo-Homebrew/h-encore,457115720
 VU#89,0.50000000,https://github.com/mmeza-developer/CVE-2019-5420-RCE,mmeza-developer/CVE-2019-5420-RCE,425154730
 VU#89,0.50000000,https://github.com/Panagiotis-Zachos/Ma_et_al_2017_code,Panagiotis-Zachos/Ma_et_al_2017_code,416763757
