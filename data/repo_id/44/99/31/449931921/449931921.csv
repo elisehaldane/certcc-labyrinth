@@ -29,8 +29,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/dry-run/pwnkit-dry-run.c,3725f1f35e322a9501cd6c3c9203ce13c001196d,CVE-2021-4034
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/CVE-2022-21907.py,4015ef17a59fafc082cb8efb64c268ddb0210a18,CVE-2022-21907
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/CVE-2022-21907.py,4015ef17a59fafc082cb8efb64c268ddb0210a18,CVE-2021-31166
-449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.zh-cn.md,40647f7cd7fa3806aa31bd5d66ad9ae3579fe446,CVE-2017-17562
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.zh-cn.md,40647f7cd7fa3806aa31bd5d66ad9ae3579fe446,CVE-2021-42342
+449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.zh-cn.md,40647f7cd7fa3806aa31bd5d66ad9ae3579fe446,CVE-2017-17562
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.md,4250016041cc31094035d8c119f9bdc7cdb73d89,CVE-2021-42342
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.md,4250016041cc31094035d8c119f9bdc7cdb73d89,CVE-2017-17562
 449931921,lal0ne/vulnerability,F5/CVE-2021-22986/CVE_2021_22986.py,44b2ef0a6df538405860e8778b70fa633edf77e0,CVE-2021-22986
@@ -38,14 +38,15 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/rce/web.go,4b0124694df26a26ac5d59e2f17bbbf103886558,CNVD-2022-10270
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/LICENSE.txt,4da4efe69a7e9eccd4c18944dd29b231b7d77106,CVE-2019-11043
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2022-0847/README.md,4de45fbf99e8c24f5b892857593cce5a440f2797,CVE-2022-0847
-449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#23
-449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,CNVD-2022-10270
+449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67
+449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/README.md,5f46a8f5f7fd880c5306694029f931e5809f2c4c,CNVD-2022-10270
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/requirements.txt,622401a53aa4fe4320b881ebc8e0aac7bd80d19a,CVE-2022-21907
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/cve-2021-4034.sh,636089fa2cace9cc33f482d348e9de8cb5cfc571,CVE-2021-4034
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/main.go,6a1de2e52f7a7ccf3ff2ca23d2d7dc62b130410f,CNVD-2022-10270
+449931921,lal0ne/vulnerability,Gitlab/CVE-2022-1162/Gitlab OAuth注册默认口令漏洞分析.pdf,6b283d791c855cceaffe52fa358f9651f44ddd99,CVE-2022-1162
 449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23134/CVE-2022-23134.yaml,6dcde0402dcd90abdf8ad66fe27a94a94abae377,CVE-2022-23134
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/find/port.go,6fdfb18be05c769c63b252fa773e0595c40a3ddb,CNVD-2022-10270
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/docker-compose.yml,71dc1df0f8827754eed2b2ba7e9b886d193c12a2,CVE-2021-42342
@@ -97,6 +98,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/go.sum,dd20272171e8bb6ee051a80bf9794c5ae1b010c9,CVE-2019-11043
 449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/README.md,dde5dcbbdad2a611025c68c8954dba53465e1f67,CVE-2021-44228
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/detect_methods.go,df9bc00e65fe91d102c5c8a165c1f81ea01a9203,CVE-2019-11043
+449931921,lal0ne/vulnerability,Gitlab/CVE-2022-1162/README.md,e59acd522c4c74c184f969852c524e6f5c8f9961,CVE-2022-1162
 449931921,lal0ne/vulnerability,Grafana/CVE-2021-43798/exp.py,e7a6c7019adc1130f212b2c77797b5b8741c7a5f,CVE-2021-43798
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/README.md,ec3ec3bcb17a12c39870b61a2348c2c5c49d4113,CVE-2021-4034
 449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23131/LICENSE,ece02a2340736f43707f7adc8a113ec6fed3aae0,CVE-2022-23131
