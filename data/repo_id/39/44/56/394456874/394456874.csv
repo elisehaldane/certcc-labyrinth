@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-394456874,yuriisanin/cve-exploits,CVE-2020-24618/exploit.py,015d77141914e0115594d374a30dcb8ea9413a5b,CVE-2020-24618
-394456874,yuriisanin/cve-exploits,CVE-2020-24618/examples/token.example,65782f6070c4f9c72c057a385badfe971f514b89,CVE-2020-24618
-394456874,yuriisanin/cve-exploits,CVE-2020-25209/exploit.py,83b37411636fbc10a9536e1fc82474a12b28d295,CVE-2020-25209
-394456874,yuriisanin/cve-exploits,CVE-2020-25209/examples/token.example,e46ae417b527319ad6cd29589be15d393c42db30,CVE-2020-25209
+394456874,yuriisanin/cve-exploits,CVE-2020-24618/exploit.py,2ef93ddb299829a8789c96559ca81ee01bb00ee9,CVE-2020-24618
+394456874,yuriisanin/cve-exploits,CVE-2022-24328/exploit.py,3e1173424ed83d3aad67143d8048f1ee1929885e,CVE-2022-24328
+394456874,yuriisanin/cve-exploits,CVE-2020-25209/exploit.py,d3f4128b1d10757857bfdb4c12c4ba962a059def,CVE-2020-25209
