@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+479288269,Jasut1n/c-exploits,Linux/prctl.c,e7d9e6f61645634759a232abd3cdbb45afb2cc98,CVE-2006-2451
