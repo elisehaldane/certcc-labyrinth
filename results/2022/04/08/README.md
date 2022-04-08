@@ -1,29 +1,31 @@
 
 # Summary for results/2022/04/08
     
-63 records found after deduplication
+68 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-08 00:57:59+00:00 | 722376 | 26848 | Ruby | 12126 | [] |
-| t3amj3ff/Spring4ShellPoC | Spring4Shell PoC (CVE-2022-22965) | https://github.com/t3amj3ff/Spring4ShellPoC | ['cve poc'] | 1 | 2022-04-08 09:21:16+00:00 | 5 | 0 | Python | 0 | ['CVE-2022-22965'] |
-| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-08 09:27:33+00:00 | 265 | 10 | | 3 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-08 00:54:13+00:00 | 69282 | 1 | Python | 0 | [] |
-| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-08 08:46:01+00:00 | 71 | 6 | Solidity | 1 | [] |
-| kanitmann/Metasploit_Exploit | The project aims to demonstrate an attack on a Windows 10 system using another machine running Linux. | https://github.com/kanitmann/Metasploit_Exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-04-08 05:40:32+00:00 | 0 | 0 | Ruby | 0 | [] |
-| nu0l/CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-08 04:24:30+00:00 | 12 | 4 | Python | 2 | ['CVE-2022-22965'] |
-| playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-08 03:42:05+00:00 | 1625 | 0 | | 0 | [] |
 | zekgt/lua | roblox lua scripts made for exploiting | https://github.com/zekgt/lua | ['exploit'] | 1 | 2022-04-08 02:23:58+00:00 | 1 | 0 | Lua | 0 | [] |
-| CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | CVE-2021-41773 _ CVE-2021-42013 Exploit Tool (Apache/2.4.49-2.4.50) | https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-04-08 09:24:35+00:00 | 20 | 1 | Python | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
-| ZaynSEanExploits/New-Exploit | None | https://github.com/ZaynSEanExploits/New-Exploit | ['exploit'] | 1 | 2022-04-08 08:23:21+00:00 | 4012 | 0 | | 1 | [] |
-| Ha0Liu/CVE-2022-22947 | Spring-Cloud-Spel-RCE | https://github.com/Ha0Liu/CVE-2022-22947 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-08 08:20:56+00:00 | 8 | 1 | Java | 0 | ['CVE-2022-22947'] |
-| maddydevgits/ML-Bootcamp-RCEW-Kurnool | Official Repo of ML Bootcamp for RCEW Kurnool | https://github.com/maddydevgits/ML-Bootcamp-RCEW-Kurnool | ['rce'] | 1 | 2022-04-08 06:28:58+00:00 | 3083 | 0 | Python | 0 | [] |
-| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-04-08 01:15:32+00:00 | 380067 | 9 | C | 7 | [] |
 | zxzxz1/Exploit_nokey | None | https://github.com/zxzxz1/Exploit_nokey | ['exploit'] | 1 | 2022-04-08 06:33:35+00:00 | 14775 | 0 | Lua | 0 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-04-08 01:15:32+00:00 | 380067 | 9 | C | 7 | [] |
+| maddydevgits/ML-Bootcamp-RCEW-Kurnool | Official Repo of ML Bootcamp for RCEW Kurnool | https://github.com/maddydevgits/ML-Bootcamp-RCEW-Kurnool | ['rce'] | 1 | 2022-04-08 06:28:58+00:00 | 3083 | 0 | Python | 0 | [] |
+| Ha0Liu/CVE-2022-22947 | Spring-Cloud-Spel-RCE | https://github.com/Ha0Liu/CVE-2022-22947 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-08 08:20:56+00:00 | 8 | 1 | Java | 0 | ['CVE-2022-22947'] |
+| ZaynSEanExploits/New-Exploit | None | https://github.com/ZaynSEanExploits/New-Exploit | ['exploit'] | 1 | 2022-04-08 08:23:21+00:00 | 4012 | 0 | | 1 | [] |
+| CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | CVE-2021-41773 _ CVE-2021-42013 Exploit Tool (Apache/2.4.49-2.4.50) | https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-04-08 09:24:35+00:00 | 20 | 1 | Python | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
+| playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-08 03:42:05+00:00 | 1625 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-08 05:01:46+00:00 | 240495 | 7027 | C | 1895 | [] |
+| nu0l/CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-08 04:24:30+00:00 | 12 | 4 | Python | 2 | ['CVE-2022-22965'] |
+| kanitmann/Metasploit_Exploit | The project aims to demonstrate an attack on a Windows 10 system using another machine running Linux. | https://github.com/kanitmann/Metasploit_Exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-04-08 05:40:32+00:00 | 0 | 0 | Ruby | 0 | [] |
+| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-08 08:46:01+00:00 | 71 | 6 | Solidity | 1 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-08 00:54:13+00:00 | 69282 | 1 | Python | 0 | [] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-08 09:27:33+00:00 | 265 | 10 | | 3 | [] |
+| j2ekim/sunlogin_rce | 向日葵RCE漏洞批量检测工具 | https://github.com/j2ekim/sunlogin_rce | ['rce'] | 1 | 2022-04-08 08:34:33+00:00 | 14236 | 7 | Python | 7 | [] |
+| t3amj3ff/Spring4ShellPoC | Spring4Shell PoC (CVE-2022-22965) | https://github.com/t3amj3ff/Spring4ShellPoC | ['cve poc'] | 1 | 2022-04-08 09:21:16+00:00 | 5 | 0 | Python | 0 | ['CVE-2022-22965'] |
 | Limitrious/exploit | fuck nigger | https://github.com/Limitrious/exploit | ['exploit'] | 1 | 2022-04-08 05:33:52+00:00 | 12 | 0 | HTML | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-08 01:35:28+00:00 | 134220 | 2586 | | 316 | [] |
 | big-davros/rce-demo | None | https://github.com/big-davros/rce-demo | ['rce'] | 1 | 2022-04-08 09:05:37+00:00 | 1 | 0 | Shell | 0 | [] |
 | Curt-Lucas/Vulnerable | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-08 01:37:13+00:00 | 76 | 0 | PHP | 0 | [] |
+| Manishsa1/exploitassignment.github.io | None | https://github.com/Manishsa1/exploitassignment.github.io | ['exploit'] | 1 | 2022-04-08 09:46:16+00:00 | 2 | 0 | HTML | 0 | [] |
 | rcervantes5/rcervantes5-inet_4031_flask_spring_borge326 | None | https://github.com/rcervantes5/rcervantes5-inet_4031_flask_spring_borge326 | ['rce'] | 1 | 2022-04-08 00:54:16+00:00 | 0 | 0 | Python | 0 | [] |
 | djhons/redis_rce | None | https://github.com/djhons/redis_rce | ['rce'] | 1 | 2022-04-08 02:39:07+00:00 | 0 | 1 | C | 0 | [] |
 | int-Lab/advisory | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/int-Lab/advisory | ['exploit'] | 1 | 2022-04-08 02:45:12+00:00 | 0 | 0 | | 0 | [] |
@@ -35,10 +37,11 @@
 | Jasut1n/py-exploits | Python Script Exploitations ~~ | https://github.com/Jasut1n/py-exploits | ['exploit'] | 1 | 2022-04-08 07:14:18+00:00 | 0 | 1 | Python | 0 | [] |
 | DitohartoPramudya/EternalBlue | Eternalblue in CSharp. Vulnerability scanner and exploit of MS17-010 | https://github.com/DitohartoPramudya/EternalBlue | ['exploit'] | 1 | 2022-04-08 07:09:30+00:00 | 0 | 0 | C# | 0 | ['MS17-010'] |
 | Jasut1n/c-exploits | Basic Combined Programming Language Script Exploitations | https://github.com/Jasut1n/c-exploits | ['exploit'] | 1 | 2022-04-08 07:38:30+00:00 | 0 | 1 | C | 0 | [] |
-| j2ekim/sunlogin_rce | 向日葵RCE漏洞批量检测工具 | https://github.com/j2ekim/sunlogin_rce | ['rce'] | 1 | 2022-04-08 08:34:33+00:00 | 14236 | 7 | Python | 7 | [] |
+| arlymigue2/LauraWartschinski | buffer overflow exploits for simple c programs (64 bit) | https://github.com/arlymigue2/LauraWartschinski | ['exploit'] | 1 | 2022-04-08 09:17:59+00:00 | 0 | 0 | | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-08 01:35:28+00:00 | 134220 | 2586 | | 316 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-08 01:14:41+00:00 | 4026 | 20 | C++ | 8 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-08 05:01:46+00:00 | 240495 | 7027 | C | 1895 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-08 09:16:57+00:00 | 194152 | 99 | | 17 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-04-08 01:42:51+00:00 | 42607 | 23 | Python | 11 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-04-08 06:00:13+00:00 | 295028 | 930 | C# | 218 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-08 04:52:51+00:00 | 6155 | 3190 | Python | 691 | [] |
 | lijiejie/GitHack | A `.git` folder disclosure exploit | https://github.com/lijiejie/GitHack | ['exploit'] | 1 | 2022-04-08 06:16:25+00:00 | 13 | 2128 | Python | 727 | [] |
 | dobin/yookiterm-slides | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | ['exploit'] | 1 | 2022-04-08 07:25:20+00:00 | 137903 | 100 | HTML | 26 | [] |
@@ -47,14 +50,17 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-08 02:30:33+00:00 | 237879 | 142 | REXX | 12 | [] |
 | connormcgarr/Exploit-Development | None | https://github.com/connormcgarr/Exploit-Development | ['exploit'] | 1 | 2022-04-08 08:57:59+00:00 | 347 | 220 | Python | 97 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-08 00:47:19+00:00 | 17132 | 34 | | 19 | [] |
+| jm33-m0/emp3r0r | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-04-08 10:21:33+00:00 | 91398 | 726 | Go | 157 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-04-08 08:39:56+00:00 | 146740 | 369 | Go | 70 | [] |
 | Ray-Adams/NitroType-Archive | Metarepo of scripts, API docs, and patched exploits for NitroType.com | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-04-08 01:32:24+00:00 | 277 | 7 | JavaScript | 10 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-08 02:03:49+00:00 | 499960 | 47 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-08 09:36:39+00:00 | 138555 | 28 | Python | 5 | [] |
-| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-04-08 06:00:13+00:00 | 295028 | 930 | C# | 218 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-04-08 10:37:10+00:00 | 81424 | 828 | Go | 141 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-08 09:16:57+00:00 | 194152 | 99 | | 17 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-08 06:18:25+00:00 | 66271 | 2 | Jupyter Notebook | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-08 01:48:54+00:00 | 172928 | 355 | Python | 103 | [] |
-| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-04-08 01:42:51+00:00 | 42607 | 23 | Python | 11 | [] |
 | gavynriebau/dirtycow-rust | Implementation of the dirtyc0w linux exploit in rust | https://github.com/gavynriebau/dirtycow-rust | ['exploit'] | 1 | 2022-04-08 04:39:32+00:00 | 2 | 0 | Rust | 0 | [] |
+| C4ssif3r/metasploit.sh | None | https://github.com/C4ssif3r/metasploit.sh | ['metasploit module OR payload'] | 1 | 2022-04-08 10:16:12+00:00 | 3 | 1 | Shell | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2022-04-08 03:47:17+00:00 | 16841 | 412 | Go | 74 | [] |
 | cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2022-04-08 06:44:29+00:00 | 2040 | 14 | C++ | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-08 01:47:30+00:00 | 39554 | 2 | Python | 0 | [] |
@@ -66,5 +72,4 @@
 | doudoudedi/D-LINK_Command_Injection1 | None | https://github.com/doudoudedi/D-LINK_Command_Injection1 | ['command injection'] | 1 | 2022-04-08 01:30:40+00:00 | 614 | 6 | | 2 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-08 00:48:05+00:00 | 221 | 1 | | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-04-08 01:39:54+00:00 | 52759 | 0 | Python | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-08 06:18:25+00:00 | 66271 | 2 | Jupyter Notebook | 0 | [] |
-| arlymigue2/LauraWartschinski | buffer overflow exploits for simple c programs (64 bit) | https://github.com/arlymigue2/LauraWartschinski | ['exploit'] | 1 | 2022-04-08 09:17:59+00:00 | 0 | 0 | | 0 | [] |
+| ChaseRcs/Fortnite-Hack-Esp-Exploits-With-Menu | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/ChaseRcs/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-04-08 10:45:20+00:00 | 0 | 0 | C++ | 0 | [] |
