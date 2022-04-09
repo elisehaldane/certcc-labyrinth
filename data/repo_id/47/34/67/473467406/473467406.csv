@@ -1,5 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 473467406,polygraphene/DirtyPipe-Android,TECHNICAL-DETAILS.md,47b1d6dccd6cbd30c5860cdf415c78cdb42c3026,CVE-2022-0847
-473467406,polygraphene/DirtyPipe-Android,README.md,56b4c545ce2756815eecc33cc8ef4721675fa22d,CVE-2022-0847
-473467406,polygraphene/DirtyPipe-Android,dirtypipe-android.c,958ba5e39472dcbb8cb27a3b7b81b2f2a221d8dc,CVE-2022-0847
-473467406,polygraphene/DirtyPipe-Android,stage2-c.c,dc69d06c2619adb2748c272d697646e182c756f7,CVE-2022-0847
+473467406,polygraphene/DirtyPipe-Android,magisk/Magisk-v24.3.apk,4b40f3359d3d85ca134ffaa8c323f5cd209642af,VU#61
+473467406,polygraphene/DirtyPipe-Android,magisk/Magisk-v24.3.apk,4b40f3359d3d85ca134ffaa8c323f5cd209642af,VU#92
+473467406,polygraphene/DirtyPipe-Android,README.md,51122c4c772fb179cfe472d46ea3fa2af243c0a2,CVE-2022-0847
+473467406,polygraphene/DirtyPipe-Android,dirtypipe-android.c,a9c8d5497df7a53b664c22b43cf9da53b87e1289,CVE-2022-0847
+473467406,polygraphene/DirtyPipe-Android,stage2-c.c,b2160c8876b987c7768a1fa563a01f19901ee932,CVE-2022-0847
+473467406,polygraphene/DirtyPipe-Android,startup-root,f17e39914944a638c06dfe793ddc5b2bb0d56344,CVE-2020-0041
