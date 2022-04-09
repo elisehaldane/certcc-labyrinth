@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/09
     
-19 records found after deduplication
+20 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-09 00:22:01+00:00 | 266613 | 299 | Ruby | 86 | [] |
-| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-04-09 03:43:54+00:00 | 89 | 2 | Python | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-09 02:30:33+00:00 | 246722 | 142 | REXX | 12 | [] |
 | lwahch2022/poc_git_vuln_ctf | nan | https://github.com/lwahch2022/poc_git_vuln_ctf | ['vuln poc'] | 1 | 2022-04-09 00:11:25+00:00 | 0 | 0 | nan | 0 | [] |
 | sophieboyle/Exploit-Development-for-HEVD | Exploit development code and PoCs for HackSysExtremeVulnerableDriver | https://github.com/sophieboyle/Exploit-Development-for-HEVD | ['exploit'] | 1 | 2022-04-09 02:19:17+00:00 | 5 | 0 | C++ | 0 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-09 00:01:24+00:00 | 379 | 628 | C | 54 | [] |
@@ -14,8 +14,9 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-09 00:51:48+00:00 | 77170 | 1 | Python | 0 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-09 00:24:57+00:00 | 4032 | 19 | C++ | 9 | [] |
 | pmalmsten/tension-wrench | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | ['exploit'] | 1 | 2022-04-09 02:07:09+00:00 | 4002 | 1 | TypeScript | 0 | [] |
+| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-04-09 03:43:54+00:00 | 89 | 2 | Python | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-09 03:55:03+00:00 | 6411 | 1861 | TypeScript | 279 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-09 01:19:45+00:00 | 4621185 | 35 | Python | 4 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-09 02:30:33+00:00 | 246722 | 142 | REXX | 12 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-04-09 03:07:18+00:00 | 667 | 0 | Lua | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-09 01:41:22+00:00 | 8526 | 82 | HTML | 23 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-09 01:38:45+00:00 | 41665 | 2 | Python | 0 | [] |
