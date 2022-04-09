@@ -1,0 +1,14 @@
+
+# Summary for results/2022/04/09
+    
+7 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-09 00:22:01+00:00 | 266613 | 299 | Ruby | 86 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-09 00:47:19+00:00 | 18161 | 34 | | 19 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-09 00:03:46+00:00 | 506929 | 47 | | 20 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-09 00:24:57+00:00 | 4032 | 19 | C++ | 9 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-09 00:51:48+00:00 | 77170 | 1 | Python | 0 | [] |
+| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-09 00:01:24+00:00 | 379 | 628 | C | 54 | [] |
+| lwahch2022/poc_git_vuln_ctf | nan | https://github.com/lwahch2022/poc_git_vuln_ctf | ['vuln poc'] | 1 | 2022-04-09 00:11:25+00:00 | 0 | 0 | nan | 0 | [] |
