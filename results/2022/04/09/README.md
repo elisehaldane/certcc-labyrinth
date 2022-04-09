@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/09
     
-30 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-09 05:36:37+00:00 | 6177 | 3193 | Python | 690 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-09 00:22:01+00:00 | 266613 | 299 | Ruby | 86 | [] |
+| pmalmsten/tension-wrench | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | ['exploit'] | 1 | 2022-04-09 02:07:09+00:00 | 4002 | 1 | TypeScript | 0 | [] |
 | mappl3/CVE-2019-0841 | nan | https://github.com/mappl3/CVE-2019-0841 | ['cve-2 OR cve_2'] | 1 | 2022-04-09 05:23:12+00:00 | 0 | 0 | nan | 0 | ['CVE-2019-0841'] |
 | julxploitrr/Exploits | Exploit scripts for Beginners. | https://github.com/julxploitrr/Exploits | ['exploit'] | 1 | 2022-04-09 05:27:44+00:00 | 0 | 0 | Lua | 0 | [] |
 | ti-bone/kav-privileges-escalation-exploit | This is an old privileges escalation exploit for KAV(Kaspersky AntiVirus) 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | ['exploit'] | 1 | 2022-04-09 01:48:20+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -20,8 +20,8 @@
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-09 01:56:47+00:00 | 81 | 10 | Solidity | 2 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-09 00:51:48+00:00 | 77170 | 1 | Python | 0 | [] |
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-09 00:24:57+00:00 | 4032 | 19 | C++ | 9 | [] |
-| pmalmsten/tension-wrench | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | ['exploit'] | 1 | 2022-04-09 02:07:09+00:00 | 4002 | 1 | TypeScript | 0 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-04-09 03:43:54+00:00 | 89 | 2 | Python | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-09 00:22:01+00:00 | 266613 | 299 | Ruby | 86 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-09 03:55:03+00:00 | 6411 | 1861 | TypeScript | 279 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-09 01:19:45+00:00 | 4621185 | 35 | Python | 4 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-09 05:08:55+00:00 | 161 | 13 | C++ | 1 | [] |
@@ -33,5 +33,6 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-09 00:03:46+00:00 | 506929 | 47 | | 20 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-09 00:47:19+00:00 | 18161 | 34 | | 19 | [] |
 | lyshark/Windows-exploits | 🎯 Windows 平台提权漏洞大合集 （长期收集） | https://github.com/lyshark/Windows-exploits | ['exploit'] | 1 | 2022-04-09 06:12:14+00:00 | 200919 | 485 | | 207 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-04-09 07:36:33+00:00 | 1539455 | 4188 | PowerShell | 1465 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-09 02:30:33+00:00 | 246722 | 142 | REXX | 12 | [] |
 | Ant-Ghost/NetworkExploitScript | None | https://github.com/Ant-Ghost/NetworkExploitScript | ['exploit'] | 1 | 2022-04-09 06:48:39+00:00 | 0 | 0 | | 0 | [] |
