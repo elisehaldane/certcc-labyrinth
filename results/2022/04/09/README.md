@@ -1,11 +1,12 @@
 
 # Summary for results/2022/04/09
     
-14 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-09 00:22:01+00:00 | 266613 | 299 | Ruby | 86 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-09 02:30:33+00:00 | 246722 | 142 | REXX | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-09 00:47:19+00:00 | 18161 | 34 | | 19 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-09 00:03:46+00:00 | 506929 | 47 | | 20 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-09 01:06:23+00:00 | 176679 | 357 | Python | 103 | [] |
@@ -17,5 +18,6 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-09 00:51:48+00:00 | 77170 | 1 | Python | 0 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-09 01:56:47+00:00 | 81 | 10 | Solidity | 2 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-09 00:01:24+00:00 | 379 | 628 | C | 54 | [] |
+| sophieboyle/Exploit-Development-for-HEVD | Exploit development code and PoCs for HackSysExtremeVulnerableDriver | https://github.com/sophieboyle/Exploit-Development-for-HEVD | ['exploit'] | 1 | 2022-04-09 02:19:17+00:00 | 5 | 0 | C++ | 0 | [] |
 | lwahch2022/poc_git_vuln_ctf | nan | https://github.com/lwahch2022/poc_git_vuln_ctf | ['vuln poc'] | 1 | 2022-04-09 00:11:25+00:00 | 0 | 0 | nan | 0 | [] |
 | ti-bone/kav-privileges-escalation-exploit | This is an old privileges escalation exploit for KAV(Kaspersky AntiVirus) 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | ['exploit'] | 1 | 2022-04-09 01:48:20+00:00 | 0 | 0 | C++ | 0 | [] |
