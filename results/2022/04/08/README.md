@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/08
     
-147 records found after deduplication
+148 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-08 00:57:59+00:00 | 722376 | 26848 | Ruby | 12126 | [] |
-| 0vercl0k/CVE-2022-28281 | None | https://github.com/0vercl0k/CVE-2022-28281 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-08 02:49:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-28281'] |
+| ZaynSEanExploits/New-Exploit | None | https://github.com/ZaynSEanExploits/New-Exploit | ['exploit'] | 1 | 2022-04-08 08:23:21+00:00 | 4012 | 0 | | 1 | [] |
 | SocolSRT/cloudflare-rules | My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | ['exploit'] | 1 | 2022-04-08 11:10:25+00:00 | 49 | 1 | | 0 | [] |
 | maddydevgits/ML-Bootcamp-RCEW-Kurnool | Official Repo of ML Bootcamp for RCEW Kurnool | https://github.com/maddydevgits/ML-Bootcamp-RCEW-Kurnool | ['rce'] | 1 | 2022-04-08 06:28:58+00:00 | 3083 | 0 | Python | 0 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-04-08 01:15:32+00:00 | 380067 | 9 | C | 7 | [] |
@@ -23,17 +23,18 @@
 | rcervantes5/rcervantes5-inet_4031_flask_spring_borge326 | None | https://github.com/rcervantes5/rcervantes5-inet_4031_flask_spring_borge326 | ['rce'] | 1 | 2022-04-08 00:54:16+00:00 | 0 | 0 | Python | 0 | [] |
 | djhons/redis_rce | None | https://github.com/djhons/redis_rce | ['rce'] | 1 | 2022-04-08 02:39:07+00:00 | 0 | 1 | C | 0 | [] |
 | Ha0Liu/CVE-2022-22947 | Spring-Cloud-Spel-RCE | https://github.com/Ha0Liu/CVE-2022-22947 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-08 08:20:56+00:00 | 8 | 1 | Java | 0 | ['CVE-2022-22947'] |
-| ZaynSEanExploits/New-Exploit | None | https://github.com/ZaynSEanExploits/New-Exploit | ['exploit'] | 1 | 2022-04-08 08:23:21+00:00 | 4012 | 0 | | 1 | [] |
 | CorneliusCornbread/SDK2-Safety | Allows you to block SDK 2.0 avatars to avoid SDK 2.0 based exploits. | https://github.com/CorneliusCornbread/SDK2-Safety | ['exploit'] | 1 | 2022-04-08 17:33:54+00:00 | 6 | 1 | C# | 0 | [] |
-| playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-08 03:42:05+00:00 | 1625 | 0 | | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-08 13:37:21+00:00 | 46880 | 865 | Python | 205 | [] |
+| ibojanova/BugsFramework | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BugsFramework | ['exploit'] | 1 | 2022-04-08 14:24:20+00:00 | 38 | 0 | C# | 0 | [] |
+| mirailovers/exploits | None | https://github.com/mirailovers/exploits | ['exploit'] | 1 | 2022-04-08 13:40:51+00:00 | 474 | 1 | Python | 0 | [] |
 | BENOSHITO/exploithosting.github.io | None | https://github.com/BENOSHITO/exploithosting.github.io | ['exploit'] | 1 | 2022-04-08 12:52:55+00:00 | 94 | 0 | Python | 0 | [] |
 | cynicamanee/ExploitScripts | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | ['exploit'] | 1 | 2022-04-08 20:46:36+00:00 | 3 | 0 | | 0 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-08 17:46:43+00:00 | 254 | 610 | C | 53 | [] |
 | TyeYeah/DIR-890L-1.20-RCE | cause and exploit for D-Link DIR-890L 1.20 RCE | https://github.com/TyeYeah/DIR-890L-1.20-RCE | ['exploit', 'rce'] | 2 | 2022-04-08 14:22:12+00:00 | 3005 | 0 | HTML | 0 | [] |
 | GuayoyoCyber/CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-08 12:47:58+00:00 | 8420 | 4 | Python | 4 | ['CVE-2022-22965'] |
 | nu0l/CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-04-08 04:24:30+00:00 | 12 | 4 | Python | 2 | ['CVE-2022-22965'] |
+| playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-04-08 03:42:05+00:00 | 1625 | 0 | | 0 | [] |
 | zekgt/lua | roblox lua scripts made for exploiting | https://github.com/zekgt/lua | ['exploit'] | 1 | 2022-04-08 02:23:58+00:00 | 1 | 0 | Lua | 0 | [] |
-| ibojanova/BugsFramework | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BugsFramework | ['exploit'] | 1 | 2022-04-08 14:24:20+00:00 | 38 | 0 | C# | 0 | [] |
 | RobloxScript2384/ZeroDay | Zero Day Minecraft Hacked Client For Roblox | https://github.com/RobloxScript2384/ZeroDay | ['zeroday'] | 1 | 2022-04-08 10:50:27+00:00 | 16 | 0 | | 0 | [] |
 | sc4rfurry/poSSh | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | ['exploit'] | 1 | 2022-04-08 17:47:00+00:00 | 8 | 1 | Python | 0 | [] |
 | gpiechnik2/nmap-spring4shell | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965) | https://github.com/gpiechnik2/nmap-spring4shell | ['exploit', 'rce'] | 2 | 2022-04-08 19:24:41+00:00 | 15 | 1 | Lua | 2 | ['CVE-2022-22965'] |
@@ -41,8 +42,8 @@
 | xjusthaxor/Responsive-filemanager | API & exploit | https://github.com/xjusthaxor/Responsive-filemanager | ['exploit'] | 1 | 2022-04-08 20:42:18+00:00 | 78 | 1 | PHP | 0 | [] |
 | CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | CVE-2021-41773 _ CVE-2021-42013 Exploit Tool (Apache/2.4.49-2.4.50) | https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-04-08 09:24:35+00:00 | 20 | 1 | Python | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | int-Lab/advisory | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/int-Lab/advisory | ['exploit'] | 1 | 2022-04-08 02:45:12+00:00 | 0 | 0 | | 0 | [] |
+| 0vercl0k/CVE-2022-28281 | None | https://github.com/0vercl0k/CVE-2022-28281 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-08 02:49:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-28281'] |
 | sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-04-08 03:38:26+00:00 | 0 | 0 | | 0 | [] |
-| luisfelipe146/ptools | Auxiliarys, exploits, scanner, tools etc | https://github.com/luisfelipe146/ptools | ['exploit'] | 1 | 2022-04-08 14:51:01+00:00 | 4145 | 0 | Shell | 0 | [] |
 | r00thunter/snipper | Mobile Exploitation Framework | https://github.com/r00thunter/snipper | ['exploit'] | 1 | 2022-04-08 04:46:36+00:00 | 0 | 0 | | 0 | [] |
 | Randy00123/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Randy00123/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-04-08 12:15:49+00:00 | 0 | 0 | | 0 | [] |
 | Randy00123/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Randy00123/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-04-08 12:13:11+00:00 | 0 | 0 | | 0 | [] |
@@ -77,9 +78,9 @@
 | Infinity0012/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Infinity0012/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-04-08 11:13:08+00:00 | 0 | 0 | | 0 | [] |
 | Infinity0012/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Infinity0012/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-04-08 11:16:06+00:00 | 0 | 0 | | 0 | [] |
 | Marcus0012/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Marcus0012/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-04-08 11:29:18+00:00 | 0 | 0 | | 0 | [] |
-| mirailovers/exploits | None | https://github.com/mirailovers/exploits | ['exploit'] | 1 | 2022-04-08 13:40:51+00:00 | 474 | 1 | Python | 0 | [] |
+| luisfelipe146/ptools | Auxiliarys, exploits, scanner, tools etc | https://github.com/luisfelipe146/ptools | ['exploit'] | 1 | 2022-04-08 14:51:01+00:00 | 4145 | 0 | Shell | 0 | [] |
 | kanitmann/Metasploit_Exploit | The project aims to demonstrate an attack on a Windows 10 system using another machine running Linux. | https://github.com/kanitmann/Metasploit_Exploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-04-08 05:40:32+00:00 | 0 | 0 | Ruby | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-08 13:37:21+00:00 | 46880 | 865 | Python | 205 | [] |
+| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-08 08:46:01+00:00 | 71 | 6 | Solidity | 1 | [] |
 | cimcs/poc-exploits-of-smashex | SmashEx Webpage | https://github.com/cimcs/poc-exploits-of-smashex | ['exploit'] | 1 | 2022-04-08 15:38:05+00:00 | 56 | 2 | | 0 | [] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2022-04-08 11:11:52+00:00 | 4310 | 4 | HTML | 0 | [] |
 | Ray-Adams/NitroType-Archive | Metarepo of scripts, API docs, and patched exploits for NitroType.com | https://github.com/Ray-Adams/NitroType-Archive | ['exploit'] | 1 | 2022-04-08 01:32:24+00:00 | 277 | 7 | JavaScript | 10 | [] |
@@ -116,7 +117,7 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-08 00:47:19+00:00 | 17132 | 34 | | 19 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2022-04-08 03:47:17+00:00 | 16841 | 412 | Go | 74 | [] |
 | m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2022-04-08 22:28:39+00:00 | 19714 | 0 | C# | 0 | [] |
-| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-08 08:46:01+00:00 | 71 | 6 | Solidity | 1 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-08 00:54:13+00:00 | 69282 | 1 | Python | 0 | [] |
 | cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2022-04-08 06:44:29+00:00 | 2040 | 14 | C++ | 3 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-08 06:18:25+00:00 | 66271 | 2 | Jupyter Notebook | 0 | [] |
 | volkandindar/agartha | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and mor | https://github.com/volkandindar/agartha | ['exploit', 'rce'] | 2 | 2022-04-08 13:56:00+00:00 | 1410 | 31 | Python | 4 | [] |
@@ -125,6 +126,7 @@
 | Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-08 01:14:41+00:00 | 4026 | 20 | C++ | 8 | [] |
 | CYB3RK1D/CVE-2021-4034-POC | pwnkit | https://github.com/CYB3RK1D/CVE-2021-4034-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-08 17:26:41+00:00 | 14 | 1 | C | 0 | ['CVE-2021-4034'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-08 01:35:28+00:00 | 134220 | 2586 | | 316 | [] |
+| nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-08 23:51:30+00:00 | 272 | 0 | Go | 0 | [] |
 | j2ekim/sunlogin_rce | 向日葵RCE漏洞批量检测工具 | https://github.com/j2ekim/sunlogin_rce | ['rce'] | 1 | 2022-04-08 08:34:33+00:00 | 14236 | 7 | Python | 7 | [] |
 | twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-04-08 15:42:37+00:00 | 467 | 1 | Python | 1 | [] |
 | ksecurity45/exploitme.github.io | None | https://github.com/ksecurity45/exploitme.github.io | ['exploit'] | 1 | 2022-04-08 12:21:55+00:00 | 41655 | 0 | HTML | 0 | [] |
@@ -132,7 +134,6 @@
 | codeyso/CodeTest | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | ['exploit', 'rce', 'rce poc'] | 3 | 2022-04-08 21:02:10+00:00 | 20306 | 186 | Python | 56 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-04-08 16:00:01+00:00 | 31 | 2 | PHP | 0 | [] |
 | CryptedVR/RX | Exploits | https://github.com/CryptedVR/RX | ['exploit'] | 1 | 2022-04-08 20:22:24+00:00 | 13 | 0 | Lua | 0 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-08 00:54:13+00:00 | 69282 | 1 | Python | 0 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-04-08 01:39:54+00:00 | 52759 | 0 | Python | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-08 00:48:05+00:00 | 221 | 1 | | 0 | [] |
 | doudoudedi/D-LINK_Command_Injection1 | None | https://github.com/doudoudedi/D-LINK_Command_Injection1 | ['command injection'] | 1 | 2022-04-08 01:30:40+00:00 | 614 | 6 | | 2 | [] |
