@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 309261526,sartlabs/0days,Modx/Exploit.txt,09552adbb9981648b23c8a2d06e3ffb33933d843,CVE-2022-26149
+309261526,sartlabs/0days,ImpressCMS1.4.3/Exploit.txt,4bb550b62e3f0b226d92e483dcd8352b047bd1a4,CVE-2022-26986
 309261526,sartlabs/0days,Composr-CMS/Exploit.py,4f0e355c19c53e2c0e71126e31eb986a2d436727,CVE-2021-46360
+309261526,sartlabs/0days,SimpleMachinesForum/Exploit.txt,e5fe88770f78b679192a1a0a1ba3fdb01bf56d8f,CVE-2022-26982
