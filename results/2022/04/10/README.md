@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/10
     
-24 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-10 00:22:02+00:00 | 268154 | 299 | Ruby | 86 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-10 00:03:47+00:00 | 476659 | 47 | | 20 | [] |
+| Siddharthsatyavolu/Advanced-Keylogger-for-Ethical-Hacking | This repo involves the keylogger file that contains the various features to exploit the victim's privacy. This can only be run locally as ethical hacking is important | https://github.com/Siddharthsatyavolu/Advanced-Keylogger-for-Ethical-Hacking | ['exploit'] | 1 | 2022-04-10 02:04:52+00:00 | 15553 | 0 | Python | 0 | [] |
+| f01965/CVE-2018-5146 | nan | https://github.com/f01965/CVE-2018-5146 | ['cve-2 OR cve_2'] | 1 | 2022-04-10 02:12:39+00:00 | 0 | 0 | nan | 0 | ['CVE-2018-5146'] |
 | Pradhu007/Commando-RAT | Windows . C++ client, Discord API(connections). C# Builder 1. Get instructions from user 2. Copies instruction to stub 3. The stub creates the final product! Features . Command Line execution . Admin Access . Obfuscation . S | https://github.com/Pradhu007/Commando-RAT | ['command injection'] | 1 | 2022-04-10 02:11:08+00:00 | 0 | 0 | nan | 0 | [] |
 | Eddi0x/Silent-Office-Exploit-FUD-Powerpoint | None | https://github.com/Eddi0x/Silent-Office-Exploit-FUD-Powerpoint | ['exploit'] | 1 | 2022-04-10 01:40:49+00:00 | 0 | 0 | | 0 | [] |
 | f01965/CVE-2019-8014 | nan | https://github.com/f01965/CVE-2019-8014 | ['cve-2 OR cve_2'] | 1 | 2022-04-10 00:53:46+00:00 | 0 | 0 | nan | 0 | ['CVE-2019-8014'] |
@@ -16,8 +17,9 @@
 | AguacateVelarde/exploit-nodejs | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | ['exploit'] | 1 | 2022-04-10 00:16:32+00:00 | 4 | 0 | JavaScript | 0 | [] |
 | yerodin/RCE-Exfiltration-Framwework | Ever found and RCE but just can't seem to get a shell? Well we do have RCE right?? Let's Exfiltrate!! | https://github.com/yerodin/RCE-Exfiltration-Framwework | ['rce'] | 1 | 2022-04-10 00:13:26+00:00 | 8 | 1 | Python | 0 | [] |
 | Dawood2201/SystemeExploitation-TP3 | TP3 SystemeExploitation Script PWSH | https://github.com/Dawood2201/SystemeExploitation-TP3 | ['exploit'] | 1 | 2022-04-10 00:01:11+00:00 | 3 | 0 | PowerShell | 0 | [] |
-| Siddharthsatyavolu/Advanced-Keylogger-for-Ethical-Hacking | This repo involves the keylogger file that contains the various features to exploit the victim's privacy. This can only be run locally as ethical hacking is important | https://github.com/Siddharthsatyavolu/Advanced-Keylogger-for-Ethical-Hacking | ['exploit'] | 1 | 2022-04-10 02:04:52+00:00 | 15553 | 0 | Python | 0 | [] |
+| sahad-mk/Exploits | Exploit scripts | https://github.com/sahad-mk/Exploits | ['exploit'] | 1 | 2022-04-10 02:43:27+00:00 | 27 | 2 | Python | 1 | [] |
 | int-Lab/advisory | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/int-Lab/advisory | ['exploit'] | 1 | 2022-04-10 01:06:08+00:00 | 22 | 0 | | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-10 02:30:36+00:00 | 252735 | 142 | REXX | 12 | [] |
 | Eddi0x/Silent-PDF-Exploit | FULL UNDETECTABLE Our product Silent Exploit PDF is FUD and it won’t be detected , the code is structed from a really good team and its detection ratio is quite astonishing, with anti-reverse techniques and random variables the code is running silently and | https://github.com/Eddi0x/Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-10 01:35:57+00:00 | 3 | 3 | | 2 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-10 00:53:56+00:00 | 80965 | 1 | Python | 0 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-04-10 02:18:13+00:00 | 120836 | 1 | HTML | 0 | [] |
@@ -28,4 +30,5 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-10 01:47:08+00:00 | 43759 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-10 00:12:59+00:00 | 179184 | 357 | Python | 103 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2022-04-10 00:32:53+00:00 | 6022 | 5 | Go | 2 | [] |
-| f01965/CVE-2018-5146 | nan | https://github.com/f01965/CVE-2018-5146 | ['cve-2 OR cve_2'] | 1 | 2022-04-10 02:12:39+00:00 | 0 | 0 | nan | 0 | ['CVE-2018-5146'] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-10 00:03:47+00:00 | 476659 | 47 | | 20 | [] |
+| raginireddy2308/command-injection | None | https://github.com/raginireddy2308/command-injection | ['command injection'] | 1 | 2022-04-10 03:00:14+00:00 | 0 | 0 | nan | 0 | [] |
