@@ -5,11 +5,11 @@ VU#47,1.00000000,https://github.com/handfields/go-rce-kubernetes,handfields/go-r
 VU#47,1.00000000,https://github.com/MarioCSilva/Vulnerabilities_Exploitation,MarioCSilva/Vulnerabilities_Exploitation,317612363
 VU#47,0.50000000,https://github.com/Handra1/Project-AdvQuery-ExploitTableRelation-python,Handra1/Project-AdvQuery-ExploitTableRelation-python,470608187
 VU#47,0.33333333,https://github.com/patrickhener/CVE-2020-15492,patrickhener/CVE-2020-15492,298218272
-VU#47,0.12500000,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#47,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,468544905
 VU#47,0.12500000,https://github.com/ails-lab/with,ails-lab/with,263122268
 VU#47,0.11111111,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#47,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
+VU#47,0.10000000,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#47,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,436316308
 VU#47,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
 VU#47,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
@@ -24,6 +24,7 @@ VU#47,0.05882353,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#47,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#47,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#47,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
+VU#47,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
 VU#47,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#47,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
 VU#47,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086

@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#746,0.10000000,https://github.com/wvu/metasploit-ctf-challenges,wvu/metasploit-ctf-challenges,181991992
+VU#746,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
 VU#746,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#746,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#746,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
