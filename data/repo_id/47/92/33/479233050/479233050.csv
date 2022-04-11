@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/.ipynb_checkpoints/demo-checkpoint.ipynb,91d0a5eda7a63ba94ca0401e6468d8a87518409b,VU#94
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/demo.ipynb,f10f5c73ed851c6011f9186ee3903b2fc92789d8,VU#25
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_CLINIC150.ipynb,1a3161edc24e1c8307743619fcd54cd919e01981,VU#25
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_BANKING77.ipynb,6129a0963b5b8cfa026164906d1f914544133df6,VU#899
