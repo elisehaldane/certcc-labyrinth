@@ -1,3 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_CLINIC150.ipynb,1a3161edc24e1c8307743619fcd54cd919e01981,VU#25
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_BANKING77.ipynb,6129a0963b5b8cfa026164906d1f914544133df6,VU#899
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_CLINIC150.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#03
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_CLINIC150.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#30
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_CLINIC150.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#37
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_CLINIC150.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#4003
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_CLINIC150.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#81
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/simcse_BANKING77.ipynb,570b7a11ccc203e7b363dc1c959f0a6164d7eed4,VU#899
