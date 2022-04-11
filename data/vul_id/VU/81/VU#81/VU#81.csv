@@ -3,6 +3,7 @@ VU#81,1.00000000,https://github.com/lys7aves/Metasploitable3,lys7aves/Metasploit
 VU#81,0.50000000,https://github.com/zxzxz1/fix_Exploit,zxzxz1/fix_Exploit,476756058
 VU#81,0.50000000,https://github.com/zxzxz1/Exploit_Version.1.2.0,zxzxz1/Exploit_Version.1.2.0,476262258
 VU#81,0.50000000,https://github.com/Anaswae/saydog-framework,Anaswae/saydog-framework,272322591
+VU#81,0.16666667,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#81,0.14285714,https://github.com/brandbir/JPEG-Restorer,brandbir/JPEG-Restorer,27171602
 VU#81,0.11111111,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#81,0.10000000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
@@ -16,6 +17,9 @@ VU#81,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#81,0.02857143,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#81,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#81,0.02272727,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
+VU#81,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0314,nanopathi/framework_base_AOSP10_r33_CVE-2021-0314,480331860
+VU#81,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439,480326849
+VU#81,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0391,nanopathi/framework_base_AOSP10_r33_CVE-2021-0391,480301366
 VU#81,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334,476687472
 VU#81,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652,476594576
 VU#81,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,476366397

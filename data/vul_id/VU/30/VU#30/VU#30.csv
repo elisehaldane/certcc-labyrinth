@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#30,0.50000000,https://github.com/averywit/CS4501FinalProject,averywit/CS4501FinalProject,449884485
 VU#30,0.33333333,https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,448937445
+VU#30,0.16666667,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#30,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468577202
 VU#30,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,468544905
 VU#30,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
@@ -19,6 +20,9 @@ VU#30,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,4752
 VU#30,0.02941176,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#30,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#30,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
+VU#30,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0314,nanopathi/framework_base_AOSP10_r33_CVE-2021-0314,480331860
+VU#30,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439,480326849
+VU#30,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0391,nanopathi/framework_base_AOSP10_r33_CVE-2021-0391,480301366
 VU#30,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334,476687472
 VU#30,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0652,476594576
 VU#30,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,nanopathi/framework_base_AOSP10_r33_CVE-2021-0472,476366397
