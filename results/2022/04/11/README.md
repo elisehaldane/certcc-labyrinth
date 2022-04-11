@@ -1,13 +1,12 @@
 
 # Summary for results/2022/04/11
     
-44 records found after deduplication
+47 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-11 05:10:18+00:00 | 6216 | 3198 | Python | 690 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-11 00:22:26+00:00 | 268155 | 299 | Ruby | 86 | [] |
-| weewoo22/memflow-shellcode | Shellcode execution for memflow | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-04-11 04:11:14+00:00 | 68 | 7 | Zig | 1 | [] |
+| mask-coder/Metasploit-in-termux | None | https://github.com/mask-coder/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-04-11 01:18:27+00:00 | 3 | 0 | Shell | 0 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-11 00:54:07+00:00 | 407 | 667 | C | 58 | [] |
 | zanezhub/CVE-2022-1015-1016 | None | https://github.com/zanezhub/CVE-2022-1015-1016 | ['cve-2 OR cve_2'] | 1 | 2022-04-11 05:25:34+00:00 | 14 | 0 | | 1 | ['CVE-2022-1015'] |
 | Raphael-Rey/data_in_libraries | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | ['exploit'] | 1 | 2022-04-11 05:43:31+00:00 | 54894 | 1 | Jupyter Notebook | 0 | [] |
@@ -17,8 +16,8 @@
 | jrgdiaz/Spring4Shell-CVE-2022-22965.py | Script to check for Spring4Shell vulnerability | https://github.com/jrgdiaz/Spring4Shell-CVE-2022-22965.py | ['cve-2 OR cve_2'] | 1 | 2022-04-11 03:37:06+00:00 | 7 | 1 | Python | 1 | ['CVE-2022-22965'] |
 | maddydevgits/AWS-RCEW-Bootcamp | Official Repo of a my work for 3-day AWS RCEW Bootcamp | https://github.com/maddydevgits/AWS-RCEW-Bootcamp | ['rce'] | 1 | 2022-04-11 05:26:12+00:00 | 0 | 0 | | 0 | [] |
 | CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc'] | 1 | 2022-04-11 01:33:37+00:00 | 1194 | 0 | Python | 0 | [] |
-| mask-coder/Metasploit-in-termux | None | https://github.com/mask-coder/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-04-11 01:18:27+00:00 | 3 | 0 | Shell | 0 | [] |
 | cwinfosec/FiberRunner | Shellcode Runner Via Fibers | https://github.com/cwinfosec/FiberRunner | ['shellcode'] | 1 | 2022-04-11 02:19:37+00:00 | 0 | 0 | | 0 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-11 00:53:24+00:00 | 84381 | 1 | Python | 0 | [] |
 | behiNdyk1/phpipam-1.4.5-sqli-to-rce | phpIPAM 1.4.5 SQL Injection to RCE | https://github.com/behiNdyk1/phpipam-1.4.5-sqli-to-rce | ['rce'] | 1 | 2022-04-11 02:32:46+00:00 | 0 | 0 | Python | 0 | [] |
 | it-ebooks-0/exploitdb-epub | None | https://github.com/it-ebooks-0/exploitdb-epub | ['exploit'] | 1 | 2022-04-11 02:53:38+00:00 | 0 | 0 | | 4 | [] |
 | huaigu/zeroday_nextjs | Created with CodeSandbox | https://github.com/huaigu/zeroday_nextjs | ['zeroday'] | 1 | 2022-04-11 03:25:23+00:00 | 0 | 0 | | 0 | [] |
@@ -26,10 +25,12 @@
 | midKingKingy/Dliv3t | Redis 4.x/5.x RCE | https://github.com/midKingKingy/Dliv3t | ['rce'] | 1 | 2022-04-11 04:36:00+00:00 | 0 | 0 | | 0 | [] |
 | 176614859282022/badd1e9 | Not necessarily related to software bugs and exploits; this repo contains snippets of code that demonstrate some inte… | https://github.com/176614859282022/badd1e9 | ['exploit'] | 1 | 2022-04-11 04:51:01+00:00 | 0 | 0 | | 0 | [] |
 | Lincolnbiancard/cheat-piano-tiles-2-python | cheat exploit test in piano-tiles-2 with python | https://github.com/Lincolnbiancard/cheat-piano-tiles-2-python | ['exploit'] | 1 | 2022-04-11 05:15:24+00:00 | 0 | 0 | Python | 0 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-11 00:53:24+00:00 | 84381 | 1 | Python | 0 | [] |
+| happyhacking-k/my_cve_and_bounty_poc | Disclose some POCs of my obtained CVE and bug bounty. | https://github.com/happyhacking-k/my_cve_and_bounty_poc | ['cve poc'] | 1 | 2022-04-11 05:41:34+00:00 | 0 | 0 | | 0 | [] |
+| Wizz1337/DiscordCollection | Discord Exploits & Bugs Collection | https://github.com/Wizz1337/DiscordCollection | ['exploit'] | 1 | 2022-04-11 05:42:30+00:00 | 6 | 0 | Python | 0 | [] |
+| weewoo22/memflow-shellcode | Shellcode execution for memflow | https://github.com/weewoo22/memflow-shellcode | ['shellcode'] | 1 | 2022-04-11 04:11:14+00:00 | 68 | 7 | Zig | 1 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-11 03:45:27+00:00 | 2088 | 53 | Go | 10 | [] |
-| Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-04-11 02:20:46+00:00 | 141390 | 1 | HTML | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-11 04:00:46+00:00 | 182316 | 357 | Python | 104 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-11 00:22:26+00:00 | 268155 | 299 | Ruby | 86 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-04-11 02:51:37+00:00 | 205478 | 0 | JavaScript | 0 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-04-11 02:11:50+00:00 | 56 | 141 | | 23 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-11 02:30:35+00:00 | 264490 | 144 | REXX | 13 | [] |
 | ppepos/inf600c | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | ['exploit'] | 1 | 2022-04-11 00:26:04+00:00 | 14515 | 5 | | 2 | [] |
@@ -38,14 +39,16 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-11 00:04:07+00:00 | 476683 | 47 | | 20 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-04-11 02:44:58+00:00 | 303322 | 9 | | 1 | [] |
 | Lesking72/ps4 | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | ['exploit'] | 1 | 2022-04-11 02:06:02+00:00 | 4600 | 0 | JavaScript | 0 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-04-11 02:51:37+00:00 | 205478 | 0 | JavaScript | 0 | [] |
-| Lakshaysh93/RCE_SK_Project | None | https://github.com/Lakshaysh93/RCE_SK_Project | ['rce'] | 1 | 2022-04-11 00:57:47+00:00 | 178736 | 0 | | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-11 04:00:46+00:00 | 182316 | 357 | Python | 104 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-11 01:49:02+00:00 | 45889 | 2 | Python | 0 | [] |
+| Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-04-11 02:20:46+00:00 | 141390 | 1 | HTML | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-11 01:53:00+00:00 | 8586 | 84 | HTML | 23 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-04-11 00:59:04+00:00 | 77686 | 10 | Java | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-11 01:25:30+00:00 | 4526199 | 37 | Python | 5 | [] |
 | senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2022-04-11 02:17:24+00:00 | 2903 | 0 | Python | 1 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-04-11 02:58:25+00:00 | 2365 | 216 | Ruby | 28 | [] |
 | flazarte/cyberex | Cyber eX’s main feature is Capture the King (CTK). The system provides complete and customized cybersecurity learning and has a unique feature gaming platform that have different cyber scenarios from beginners to experts. CTK has different categories namel | https://github.com/flazarte/cyberex | ['exploit'] | 1 | 2022-04-11 03:38:48+00:00 | 52900 | 0 | Python | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-11 06:21:09+00:00 | 68203 | 2 | Jupyter Notebook | 0 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-04-11 00:54:25+00:00 | 16306 | 0 | | 1 | [] |
-| happyhacking-k/my_cve_and_bounty_poc | Disclose some POCs of my obtained CVE and bug bounty. | https://github.com/happyhacking-k/my_cve_and_bounty_poc | ['cve poc'] | 1 | 2022-04-11 05:41:34+00:00 | 0 | 0 | | 0 | [] |
+| Lakshaysh93/RCE_SK_Project | None | https://github.com/Lakshaysh93/RCE_SK_Project | ['rce'] | 1 | 2022-04-11 00:57:47+00:00 | 178736 | 0 | | 0 | [] |
+| ythzaaa/SunloginRce | None | https://github.com/ythzaaa/SunloginRce | ['rce'] | 1 | 2022-04-11 06:43:28+00:00 | 0 | 0 | Python | 0 | [] |
