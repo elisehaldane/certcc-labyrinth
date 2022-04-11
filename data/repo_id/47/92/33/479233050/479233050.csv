@@ -4,9 +4,11 @@ repo_id,repo_full_name,file,file_sha1,match
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/.ipynb_checkpoints/bert_simcse_CLINIC150-checkpoint.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#37
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/.ipynb_checkpoints/bert_simcse_CLINIC150-checkpoint.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#4003
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/.ipynb_checkpoints/bert_simcse_CLINIC150-checkpoint.ipynb,45875659f1a767cf9a89f7850087706dcf227044,VU#81
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/bert_simcse_BANKING77.ipynb,570b7a11ccc203e7b363dc1c959f0a6164d7eed4,VU#899
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/.ipynb_checkpoints/roberta_simcse_un_150-Copy1-checkpoint.ipynb,767a25176bceb64f1cabbf56eca845716e021e4a,VU#19
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/roberta_simcse_un_150-Copy1.ipynb,767a25176bceb64f1cabbf56eca845716e021e4a,VU#47
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/.ipynb_checkpoints/bert_simcse_BANKING77-checkpoint.ipynb,570b7a11ccc203e7b363dc1c959f0a6164d7eed4,VU#899
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/sup_simcse_roberta_150.ipynb,5c893fc46a78e43da673910776bfe87a5e92eacb,VU#77
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/sup_simcse_roberta_150.ipynb,5c893fc46a78e43da673910776bfe87a5e92eacb,VU#89
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/unsup_simcse_roberta_150.ipynb,767a25176bceb64f1cabbf56eca845716e021e4a,VU#19
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/unsup_simcse_roberta_150.ipynb,767a25176bceb64f1cabbf56eca845716e021e4a,VU#47
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/bert_simcse_CLINIC150.ipynb,9373732be9c40502bf7bc7721f155a477609d043,VU#03
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/bert_simcse_CLINIC150.ipynb,9373732be9c40502bf7bc7721f155a477609d043,VU#30
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/bert_simcse_CLINIC150.ipynb,9373732be9c40502bf7bc7721f155a477609d043,VU#37
