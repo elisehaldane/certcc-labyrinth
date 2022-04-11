@@ -28,6 +28,8 @@ BID-0,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2020-15436_withPat
 BID-0,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch,artsking/linux-4.1.15_CVE-2020-36386_withPatch,407124106
 BID-0,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2021-33034_withPatch,artsking/linux-4.1.15_CVE-2021-33034_withPatch,407108363
 BID-0,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch,artsking/linux-4.1.15_CVE-2020-36386_withPatch,407012223
+BID-0,0.05882353,https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960,nanopathi/external_expat_AOSP10_r33_CVE-2021-45960,480355744
+BID-0,0.05263158,https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143,nanopathi/external_expat_AOSP10_r33_CVE-2021-46143,480370483
 BID-0,0.05263158,https://github.com/sctb512/exploitDB_spider_new,sctb512/exploitDB_spider_new,223102072
 BID-0,0.05000000,https://github.com/jfustos/spectre_linux,jfustos/spectre_linux,156473040
 BID-0,0.05000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987

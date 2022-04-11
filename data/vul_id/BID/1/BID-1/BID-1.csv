@@ -11,6 +11,7 @@ BID-1,0.50000000,https://github.com/PizzaWhisperer/HLLVuln,PizzaWhisperer/HLLVul
 BID-1,0.50000000,https://github.com/u2009cf/spark-radar,u2009cf/spark-radar,100241368
 BID-1,0.50000000,https://github.com/chenc10/Spark-PAF-INFOCOM18,chenc10/Spark-PAF-INFOCOM18,94409958
 BID-1,0.50000000,https://github.com/HTCTeam/HTCaaS,HTCTeam/HTCaaS,37580258
+BID-1,0.33333333,https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0333,Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0333,480365226
 BID-1,0.33333333,https://github.com/pazhanivel07/Settings_10-r33_CVE-CVE-2020-0219,pazhanivel07/Settings_10-r33_CVE-CVE-2020-0219,462680708
 BID-1,0.33333333,https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings,Nivaskumark/CVE-2021-0434_packages_apps_Settings,446686408
 BID-1,0.33333333,https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix,Nivaskumark/CVE-2021-0434_packages_apps_Settings_beforefix,446681581
@@ -35,6 +36,8 @@ BID-1,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2020-15436_withPat
 BID-1,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch,artsking/linux-4.1.15_CVE-2020-36386_withPatch,407124106
 BID-1,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2021-33034_withPatch,artsking/linux-4.1.15_CVE-2021-33034_withPatch,407108363
 BID-1,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch,artsking/linux-4.1.15_CVE-2020-36386_withPatch,407012223
+BID-1,0.05882353,https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960,nanopathi/external_expat_AOSP10_r33_CVE-2021-45960,480355744
+BID-1,0.05263158,https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143,nanopathi/external_expat_AOSP10_r33_CVE-2021-46143,480370483
 BID-1,0.05263158,https://github.com/sctb512/exploitDB_spider_new,sctb512/exploitDB_spider_new,223102072
 BID-1,0.05000000,https://github.com/jfustos/spectre_linux,jfustos/spectre_linux,156473040
 BID-1,0.05000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
