@@ -20,10 +20,10 @@ repo_id,repo_full_name,file,file_sha1,match
 172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/zehir-botnet-mirai.zip,858ec646b3d410c3be826f6ec470c3509bba8ab9,VU#98
 172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#92
 172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#26
-172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#71
 172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#130
-172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/HTTP Flood GoLang.7z,8b10960b98cbfd3181836946778463f28ba6b69b,VU#85
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#71
 172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/HTTP Flood GoLang.7z,8b10960b98cbfd3181836946778463f28ba6b69b,VU#37
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/HTTP Flood GoLang.7z,8b10960b98cbfd3181836946778463f28ba6b69b,VU#85
 172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/blade-backdoored.rar,a532f47c50dc93a72e8389cd5e3e77722d960bde,VU#21
 172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/blade-backdoored.rar,a532f47c50dc93a72e8389cd5e3e77722d960bde,VU#600
 172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/magicNEW.zip,a72e0f5f7616f14b43d0b685fbd4f8d635e2ef37,VU#76
@@ -35,12 +35,13 @@ repo_id,repo_full_name,file,file_sha1,match
 172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#00
 172108023,R00tS3c/DDOS-RootSec,Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#10
 172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/katana.zip,d2b4407249303cf2e6b7872dc44502985c3a3c5d,VU#97
-172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/Gucci_remastered.zip,d4432b0d9fc0deedcf6460aa058c85fe1c229c9c,VU#98
 172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/Gucci_remastered.zip,d4432b0d9fc0deedcf6460aa058c85fe1c229c9c,VU#28
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/Gucci_remastered.zip,d4432b0d9fc0deedcf6460aa058c85fe1c229c9c,VU#98
 172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#01
-172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#21
 172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#45
+172108023,R00tS3c/DDOS-RootSec,Botnets/Mirai/Sources/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#21
 172108023,R00tS3c/DDOS-RootSec,Website/nstress.com.zip,e5783809a92cfa7f749c950dbaa1bf3772d61154,VU#55
 172108023,R00tS3c/DDOS-RootSec,Website/nstress.com.zip,e5783809a92cfa7f749c950dbaa1bf3772d61154,VU#66
-172108023,R00tS3c/DDOS-RootSec,Website/Time Source v1.0.zip,fea953fc0fb76ec44f160310b4137dfd8cf7f915,VU#66
+172108023,R00tS3c/DDOS-RootSec,DDOS Scripts/L7/Browser JSBypass v1.zip,ef6471c345b798b11ca77afc4b846afd14221fa3,VU#36
 172108023,R00tS3c/DDOS-RootSec,Website/Time Source v1.0.zip,fea953fc0fb76ec44f160310b4137dfd8cf7f915,VU#55
+172108023,R00tS3c/DDOS-RootSec,Website/Time Source v1.0.zip,fea953fc0fb76ec44f160310b4137dfd8cf7f915,VU#66
