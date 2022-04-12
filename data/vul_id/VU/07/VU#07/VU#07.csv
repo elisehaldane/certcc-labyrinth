@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#07,1.00000000,https://github.com/Green-Avocado/EasyROP,Green-Avocado/EasyROP,416277144
+VU#07,0.50000000,https://github.com/vusec/bhi-spectre-bhb,vusec/bhi-spectre-bhb,465411926
 VU#07,0.50000000,https://github.com/tuhin81/CVE-2021-22204-exiftool,tuhin81/CVE-2021-22204-exiftool,461823605
 VU#07,0.33333333,https://github.com/thushi99/scp-client-vulnerability-exploit,thushi99/scp-client-vulnerability-exploit,456885932
 VU#07,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/generateJenkinsExploit,432525611
