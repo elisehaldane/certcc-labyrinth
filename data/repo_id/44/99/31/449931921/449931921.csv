@@ -2,6 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/README.md,010bb60456b0614b8f671ce3cf14f98dccb74130,CVE-2022-21907
 449931921,lal0ne/vulnerability,Weblogic/CVE-2020-14882/CVE-2020-14882_ALL.py,013915ea93bf0d9e23953d6326531fb2c86e7797,CVE-2020-14882
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2022-0847/Dirty-Pipe.sh,0216b809e82fdea39900d345d0aeba42989e6bc8,CVE-2022-0847
+449931921,lal0ne/vulnerability,VMware/Workspace ONE Access/CVE-2022-22954/README.md,0274fd9861eadbb4c62cf261b2fad63e312abd12,CVE-2022-22954
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/README-ZH.md,04b5b97eaa514e1fc30333f38680380825b9e7a1,CVE-2021-4034
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/index,0a17f675131391e81e0f7b59756a78e319f5625e,CVE-2021-42342
 449931921,lal0ne/vulnerability,Casdoor/CVE-2022-24124/exploit.go,0d695ac9cff4f5c1d6f0c7e176e56ce35ce283cf,GHSA-M358-G4RP-533R
@@ -38,9 +39,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/rce/web.go,4b0124694df26a26ac5d59e2f17bbbf103886558,CNVD-2022-10270
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/LICENSE.txt,4da4efe69a7e9eccd4c18944dd29b231b7d77106,CVE-2019-11043
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2022-0847/README.md,4de45fbf99e8c24f5b892857593cce5a440f2797,CVE-2022-0847
+449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#23
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,CNVD-2022-10270
-449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/README.md,5f46a8f5f7fd880c5306694029f931e5809f2c4c,CNVD-2022-10270
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/requirements.txt,622401a53aa4fe4320b881ebc8e0aac7bd80d19a,CVE-2022-21907
@@ -64,15 +65,17 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Weblogic/CVE-2020-14882/target.txt,8c8d8b42640cbde484c4c305c30d14bc85f3447f,CVE-2020-14882
 449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23131/go.mod,8d7d154e4cca07fe1ba7bd70eb3ec6436488b1e4,CVE-2022-23131
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/reproducer/Dockerfile,8dda6a9bfbcc75f89d7010dd1662d4069b54109a,CVE-2019-11043
+449931921,lal0ne/vulnerability,VMware/Workspace ONE Access/CVE-2022-22954/CVE-2022-22954.py,8ee9929b6c0cb61cb36a0212d8e59fcdb56557a1,CVE-2022-22954
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/requester.go,8fbf4675e95b04569224d0a467662e282a86c15c,CVE-2019-11043
 449931921,lal0ne/vulnerability,Spring/CVE-2022-22947/README.md,900e628307095602fe7002b5d40d1a09d1089ab0,CVE-2022-22947
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/Makefile,95664620797325debd2639bfa62a6b8d1f48709e,CVE-2021-4034
-449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23134/README.md,97090fd87d64866c780e503c1fb91e5f0b06e64d,CVE-2022-23131
 449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23134/README.md,97090fd87d64866c780e503c1fb91e5f0b06e64d,CVE-2022-23134
+449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23134/README.md,97090fd87d64866c780e503c1fb91e5f0b06e64d,CVE-2022-23131
 449931921,lal0ne/vulnerability,Atlassian/Atlassian Confluence/CVE-2021-26084/cve-2021-26084_confluence_rce.py,980a35d5f5655bc0f084445874faef3467c0e7b8,CVE-2021-26084
 449931921,lal0ne/vulnerability,Redis/CVE-2022-0543/README.md,9b0a3019023600541629d4fbe7d2e6f1621fe67e,CVE-2022-0543
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/go.mod,9fcb2567fd1be2d83b1a873dae92ca24efb5d485,CVE-2019-11043
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/go.mod,a05a820df58f9365151d1c173685f1509d694ad8,CNVD-2022-10270
+449931921,lal0ne/vulnerability,VMware/Workspace ONE Access/CVE-2022-22954/requirements.txt,a47ccecc2b515ab7346a848cc1906112c47e051c,CVE-2022-22954
 449931921,lal0ne/vulnerability,F5/CVE-2021-22986/newpoc.py,ac10ed8e3b7668d647fa3940e6613f521bc7a8df,CVE-2021-22986
 449931921,lal0ne/vulnerability,Spring/CVE-2022-22947/pocsuite/docker/docker-compose.yml,b57993d105b5e82845c6966aa400395f3c4167e4,CVE-2022-22947
 449931921,lal0ne/vulnerability,Redis/CVE-2022-0543/docker-compose.yml,b898301164e2c7d9d435d4f14934c421dce1e8bf,CVE-2022-0543
