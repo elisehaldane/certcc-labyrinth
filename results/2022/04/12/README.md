@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/12
     
-60 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-12 02:31:17+00:00 | 722293 | 26903 | Ruby | 12133 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-12 05:01:52+00:00 | 240515 | 7035 | C | 1896 | [] |
+| explo1t-tech/exploit-tech-2 | None | https://github.com/explo1t-tech/exploit-tech-2 | ['exploit'] | 1 | 2022-04-12 06:20:24+00:00 | 175138 | 0 | JavaScript | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-12 04:06:49+00:00 | 462610 | 452 | nan | 90 | [] |
 | ypl6/heaplens | CMPT733 Cybersecurity Lab II Project: GDB plugin for heap exploits inspired by CVE-2021-3156 | https://github.com/ypl6/heaplens | ['exploit'] | 1 | 2022-04-12 03:45:31+00:00 | 383 | 0 | Python | 0 | ['CVE-2021-3156'] |
 | riccardomajellaro/DeepQLearning | Deep Q Learning applied to the CartPole V1 environment by OpenAI. The problem is solved both in the naive and the vision scenarios, the latter by exploiting game frames and CNN. | https://github.com/riccardomajellaro/DeepQLearning | ['exploit'] | 1 | 2022-04-12 02:34:06+00:00 | 678284 | 1 | Python | 0 | [] |
@@ -20,13 +20,13 @@
 | brendanpy/SharpInjector | C# shellcode injector that utilizes functions exported from ntdll.dll. | https://github.com/brendanpy/SharpInjector | ['shellcode'] | 1 | 2022-04-12 02:52:37+00:00 | 15 | 0 | C# | 0 | [] |
 | CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc'] | 1 | 2022-04-12 02:48:51+00:00 | 1201 | 2 | Python | 1 | [] |
 | kwon99/how2pwn | A repository for learning various exploitation techniques. | https://github.com/kwon99/how2pwn | ['exploit'] | 1 | 2022-04-12 05:37:51+00:00 | 5 | 0 | Dockerfile | 0 | [] |
-| explo1t-tech/exploit-tech-2 | None | https://github.com/explo1t-tech/exploit-tech-2 | ['exploit'] | 1 | 2022-04-12 06:20:24+00:00 | 175138 | 0 | JavaScript | 0 | [] |
 | nevadex/exploits1 | break out of restraints | https://github.com/nevadex/exploits1 | ['exploit'] | 1 | 2022-04-12 00:31:39+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-12 05:01:52+00:00 | 240515 | 7035 | C | 1896 | [] |
 | aniqfakhrul/CVE-2022-22954 | None | https://github.com/aniqfakhrul/CVE-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-04-12 05:14:07+00:00 | 2 | 1 | Python | 1 | ['CVE-2022-22954'] |
 | selmer512/x86exploit | None | https://github.com/selmer512/x86exploit | ['exploit'] | 1 | 2022-04-12 00:36:21+00:00 | 0 | 0 | C++ | 0 | [] |
 | Adia12528/Metaploit-Framework_6 | This will help you install metasploit 6 in your termux without root && without any error in it. | https://github.com/Adia12528/Metaploit-Framework_6 | ['metasploit module OR payload'] | 1 | 2022-04-12 01:41:42+00:00 | 0 | 0 | Python | 0 | [] |
 | infinitywings/IoT-Phantom-Delay-Attack | Supplementary Materials of DSN 2022 paper "IoT Phantom-Delay Attacks: Demystifying and Exploiting IoT Timeout Behaviors" | https://github.com/infinitywings/IoT-Phantom-Delay-Attack | ['exploit'] | 1 | 2022-04-12 03:08:57+00:00 | 159 | 0 | Python | 0 | [] |
-| antx-code/CVE-2022-24990 | TerraMaster TOS Unauthenticated Attacker Vulnerability CVE-2022-24990 | https://github.com/antx-code/CVE-2022-24990 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-12 02:45:57+00:00 | 0 | 0 | | 0 | ['CVE-2022-24990'] |
+| antx-code/CVE-2022-24990 | TerraMaster TOS Unauthenticated Remote Command Execution(RCE) Vulnerability CVE-2022-24990 | https://github.com/antx-code/CVE-2022-24990 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-12 03:17:41+00:00 | 4 | 0 | Python | 0 | ['CVE-2022-24990'] |
 | huaigu/zeroday_vue | Created with CodeSandbox | https://github.com/huaigu/zeroday_vue | ['zeroday'] | 1 | 2022-04-12 03:26:43+00:00 | 0 | 0 | | 0 | [] |
 | jax7sec/CVE-2022-22954 | 提供批量扫描URL以及执行命令功能。Workspace ONE Access 模板注入漏洞，可执行任意代码 | https://github.com/jax7sec/CVE-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-04-12 04:23:49+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22954'] |
 | maddydevgits/rcew-aws-demo-git | official repo of my project | https://github.com/maddydevgits/rcew-aws-demo-git | ['rce'] | 1 | 2022-04-12 05:03:22+00:00 | 0 | 0 | Python | 0 | [] |
@@ -34,10 +34,12 @@
 | chaosec2021/CVE-2022-22954-VMware-RCE | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-04-12 05:53:39+00:00 | 3 | 3 | Python | 1 | ['CVE-2022-22954'] |
 | lucksec/VMware-CVE-2022-22954 | None | https://github.com/lucksec/VMware-CVE-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-04-12 06:46:33+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22954'] |
 | Sirisha-gorle/Hack-into-Ubuntu-Machine | proftpd_133c_backdoor exploit on ubuntu machine | https://github.com/Sirisha-gorle/Hack-into-Ubuntu-Machine | ['exploit'] | 1 | 2022-04-12 06:59:21+00:00 | 325 | 0 | | 0 | [] |
+| bankThanabat/remote-code-execution | build remote code execution using node.js | https://github.com/bankThanabat/remote-code-execution | ['remote code execution'] | 1 | 2022-04-12 07:10:55+00:00 | 0 | 0 | nan | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-12 00:52:34+00:00 | 87900 | 1 | Python | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-04-12 03:44:14+00:00 | 16759 | 0 | | 0 | [] |
 | codeyso/CodeTest | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | ['exploit', 'rce', 'rce poc'] | 3 | 2022-04-12 05:39:14+00:00 | 20306 | 191 | Python | 57 | [] |
-| panchis7u7/Linux_Commands | Commands for linux related programs, theory and definitions that can be applied to information gathering, password cracking and system exploits. | https://github.com/panchis7u7/Linux_Commands | ['exploit'] | 1 | 2022-04-12 00:44:48+00:00 | 2728 | 0 | | 0 | [] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-12 02:44:51+00:00 | 269 | 40 | | 6 | [] |
+| mattiasgeniar/php-exploit-scripts | A collection of PHP exploit scripts, found when investigating hacked servers. These are stored for educational purposes and to test fuzzers and vulnerability scanners. Feel free to contribute. | https://github.com/mattiasgeniar/php-exploit-scripts | ['exploit'] | 1 | 2022-04-12 08:03:02+00:00 | 1573 | 747 | PHP | 239 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-04-12 00:00:29+00:00 | 1534798 | 1603 | Python | 536 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-12 04:36:25+00:00 | 6238 | 3198 | Python | 690 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-12 00:21:39+00:00 | 268155 | 299 | Ruby | 86 | [] |
@@ -50,8 +52,8 @@
 | axingde/CVE-2022-22954-POC | 提供单个或批量URL扫描是否存在CVE-2022-22954功能 | https://github.com/axingde/CVE-2022-22954-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-12 06:39:22+00:00 | 1110 | 0 | Python | 0 | ['CVE-2022-22954'] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-12 00:04:28+00:00 | 479982 | 47 | | 20 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-12 00:21:06+00:00 | 27809 | 28 | Python | 5 | [] |
+| panchis7u7/Linux_Commands | Commands for linux related programs, theory and definitions that can be applied to information gathering, password cracking and system exploits. | https://github.com/panchis7u7/Linux_Commands | ['exploit'] | 1 | 2022-04-12 00:44:48+00:00 | 2728 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-12 02:42:31+00:00 | 185447 | 358 | Python | 104 | [] |
-| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-12 02:44:51+00:00 | 269 | 40 | | 6 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-04-12 07:08:50+00:00 | 205480 | 0 | JavaScript | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-12 01:45:22+00:00 | 47726 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-12 01:47:31+00:00 | 8646 | 84 | HTML | 23 | [] |
@@ -64,4 +66,4 @@
 | kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-04-12 00:26:38+00:00 | 72 | 0 | C | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-12 04:35:21+00:00 | 2101 | 54 | Go | 10 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-12 02:40:38+00:00 | 196 | 0 | | 0 | [] |
-| bankThanabat/remote-code-execution | build remote code execution using node.js | https://github.com/bankThanabat/remote-code-execution | ['remote code execution'] | 1 | 2022-04-12 07:10:55+00:00 | 0 | 0 | nan | 0 | [] |
+| mumu2020629/-CVE-2022-22954-scanner | None | https://github.com/mumu2020629/-CVE-2022-22954-scanner | ['cve-2 OR cve_2'] | 1 | 2022-04-12 08:41:10+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22954'] |
