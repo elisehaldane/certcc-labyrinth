@@ -2,6 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 465011945,codeyso/CodeTest,EXP/ApacheSolr.py,5fd36c3d60bb80172e62f11df4fad1efbc4a4139,CVE-2017-12629
 465011945,codeyso/CodeTest,EXP/ApacheSolr.py,5fd36c3d60bb80172e62f11df4fad1efbc4a4139,CVE-2019-0193
 465011945,codeyso/CodeTest,EXP/ApacheSolr.py,5fd36c3d60bb80172e62f11df4fad1efbc4a4139,CVE-2019-17558
+465011945,codeyso/CodeTest,core/yamlfile.py,699ddd451c5387f2c13b17628a592e027ebaba40,CVE-2019-5127
 465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,73ac6cccf726ceddf6b21183bf7918955e500e13,CVE-2017-12615
 465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,73ac6cccf726ceddf6b21183bf7918955e500e13,CVE-2020-1938
 465011945,codeyso/CodeTest,EXP/ApacheTomcat.py,73ac6cccf726ceddf6b21183bf7918955e500e13,CVE-2020-2019
