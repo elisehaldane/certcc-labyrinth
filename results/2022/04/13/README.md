@@ -1,20 +1,21 @@
 
 # Summary for results/2022/04/13
     
-44 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-13 02:20:12+00:00 | 722793 | 26915 | Ruby | 12136 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-04-13 00:00:31+00:00 | 1534798 | 1607 | Python | 537 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-13 00:56:25+00:00 | 91605 | 1 | Python | 0 | [] |
-| OreoByte/SwimmerSploit | SwimmerSploit is a collection of option fluid payloads that can perform mutiple different shell types without having to be recompiled. | https://github.com/OreoByte/SwimmerSploit | ['sploit'] | 1 | 2022-04-13 02:17:32+00:00 | 5 | 0 | Python | 0 | [] |
-| ypl6/heaplens | CMPT733 Cybersecurity Lab II Project: GDB plugin for heap exploits inspired by CVE-2021-3156 | https://github.com/ypl6/heaplens | ['exploit'] | 1 | 2022-04-13 01:16:07+00:00 | 398 | 1 | Python | 0 | ['CVE-2021-3156'] |
+| zanezhub/CVE-2022-1015-1016 | None | https://github.com/zanezhub/CVE-2022-1015-1016 | ['cve-2 OR cve_2'] | 1 | 2022-04-13 05:55:34+00:00 | 141 | 0 | | 1 | ['CVE-2022-1015'] |
+| polakow/CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-13 05:48:04+00:00 | 20 | 4 | Python | 4 | ['CVE-2022-21907'] |
 | TwMoonBear-Arsenal/Metasploitable2-Penetration | Metasploitable2滲透技術 | https://github.com/TwMoonBear-Arsenal/Metasploitable2-Penetration | ['metasploit module OR payload'] | 1 | 2022-04-13 05:41:04+00:00 | 5 | 0 | | 0 | [] |
 | brendanpy/SharpInjector | C# shellcode injector that utilizes functions exported from ntdll.dll. | https://github.com/brendanpy/SharpInjector | ['shellcode'] | 1 | 2022-04-13 02:20:33+00:00 | 22 | 0 | C# | 1 | [] |
 | S1M0YZ/exploit | None | https://github.com/S1M0YZ/exploit | ['exploit'] | 1 | 2022-04-13 00:28:24+00:00 | 23017 | 0 | | 0 | [] |
 | kwon99/how2pwn | A repository for learning various exploitation techniques. | https://github.com/kwon99/how2pwn | ['exploit'] | 1 | 2022-04-13 01:57:28+00:00 | 14 | 0 | C | 0 | [] |
+| sherlocksecurity/VMware-CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-13 06:15:11+00:00 | 11 | 132 | | 28 | ['CVE-2022-22954'] |
 | bankThanabat/remote-code-execution | build remote code execution using node.js | https://github.com/bankThanabat/remote-code-execution | ['remote code execution'] | 1 | 2022-04-13 02:58:58+00:00 | 33 | 0 | JavaScript | 0 | [] |
+| ZukoHD/Dori-s-Exploit-API | An Exploit API. | https://github.com/ZukoHD/Dori-s-Exploit-API | ['exploit'] | 1 | 2022-04-13 06:08:59+00:00 | 5 | 0 | Lua | 0 | [] |
 | agarwalsarthak121/spring-rce-poc | nan | https://github.com/agarwalsarthak121/spring-rce-poc | ['rce', 'rce poc'] | 2 | 2022-04-13 03:53:37+00:00 | 18 | 0 | Java | 0 | [] |
 | nehemiasmercauunc/exploits-siscom | None | https://github.com/nehemiasmercauunc/exploits-siscom | ['exploit'] | 1 | 2022-04-13 03:34:13+00:00 | 1 | 0 | C | 0 | [] |
 | Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | exploitation script tryhackme | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-13 00:19:58+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22965'] |
@@ -26,10 +27,13 @@
 | ExpLangcn/FuYao-Go | 自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用_通过使用被动在线资源来发现网站的有效子域｜通过强大且灵活的模板，模拟各种安全漏洞检查！Automate target asset detection and security vulnerability scanning _ Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage _ Discover valid subdomains o | https://github.com/ExpLangcn/FuYao-Go | ['vulnerability poc'] | 1 | 2022-04-13 04:17:51+00:00 | 0 | 2 | | 1 | [] |
 | UNICORDev/template-exploit | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | ['exploit'] | 1 | 2022-04-13 03:59:21+00:00 | 0 | 0 | | 0 | [] |
 | Jun-5heng/CVE-2022-22954 | VMware Workspace ONE Access远程代码执行漏洞 / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-04-13 04:42:08+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22954'] |
-| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-13 02:35:19+00:00 | 2108 | 54 | Go | 10 | [] |
-| nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-13 00:33:47+00:00 | 272 | 0 | Go | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-13 00:28:31+00:00 | 73770 | 2 | Jupyter Notebook | 0 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-13 00:06:34+00:00 | 41683 | 28 | Python | 5 | [] |
+| ShieldCommunity/NullExploitX-Wiki | None | https://github.com/ShieldCommunity/NullExploitX-Wiki | ['exploit'] | 1 | 2022-04-13 05:20:17+00:00 | 0 | 0 | | 0 | [] |
+| imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-04-13 06:10:17+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| imssm99/kernel-exploit | None | https://github.com/imssm99/kernel-exploit | ['exploit'] | 1 | 2022-04-13 06:14:57+00:00 | 0 | 0 | | 0 | [] |
+| ypl6/heaplens | CMPT733 Cybersecurity Lab II Project: GDB plugin for heap exploits inspired by CVE-2021-3156 | https://github.com/ypl6/heaplens | ['exploit'] | 1 | 2022-04-13 01:16:07+00:00 | 398 | 1 | Python | 0 | ['CVE-2021-3156'] |
+| OreoByte/SwimmerSploit | SwimmerSploit is a collection of option fluid payloads that can perform mutiple different shell types without having to be recompiled. | https://github.com/OreoByte/SwimmerSploit | ['sploit'] | 1 | 2022-04-13 02:17:32+00:00 | 5 | 0 | Python | 0 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-13 00:56:25+00:00 | 91605 | 1 | Python | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-04-13 00:25:10+00:00 | 126 | 0 | PHP | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-13 04:24:54+00:00 | 6260 | 3199 | Python | 690 | [] |
 | Ne0nd0g/merlin | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | https://github.com/Ne0nd0g/merlin | ['exploit'] | 1 | 2022-04-13 01:10:32+00:00 | 20879 | 3739 | Go | 636 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-13 00:23:39+00:00 | 268156 | 300 | Ruby | 86 | [] |
@@ -38,14 +42,18 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-13 00:47:23+00:00 | 19880 | 34 | | 19 | [] |
 | loneicewolf/Stuxnet-Source | stuxnet Source & Binaries. ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! Includes: Source files, Binaries, PLC Samples,Fanny Added in another repo. | https://github.com/loneicewolf/Stuxnet-Source | ['0day'] | 1 | 2022-04-13 03:17:26+00:00 | 12099 | 48 | C | 20 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-13 00:04:43+00:00 | 487240 | 47 | | 20 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-13 00:06:34+00:00 | 41683 | 28 | Python | 5 | [] |
 | MythicAgents/merlin | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | ['exploit'] | 1 | 2022-04-13 01:05:45+00:00 | 434 | 24 | Python | 5 | [] |
-| embe221ed/nightmare | All my exploits written when learning on Nightmare | https://github.com/embe221ed/nightmare | ['exploit'] | 1 | 2022-04-13 04:53:29+00:00 | 15524 | 0 | Python | 0 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-04-13 00:25:10+00:00 | 126 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-13 02:17:28+00:00 | 189839 | 358 | Python | 104 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-13 02:35:19+00:00 | 2108 | 54 | Go | 10 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2022-04-13 01:55:39+00:00 | 102 | 8 | Python | 3 | [] |
 | thelikes/LikesEvasion | Bin smith | https://github.com/thelikes/LikesEvasion | ['shellcode'] | 1 | 2022-04-13 01:57:55+00:00 | 329 | 7 | C# | 8 | [] |
 | L8X/exprodex | ExProDex is an edit of the popular Roblox exploit script known as Dex Explorer, and was edited by the Leader of ExPro Reborn and ExProHacks Reborn. | https://github.com/L8X/exprodex | ['exploit'] | 1 | 2022-04-13 02:40:46+00:00 | 10 | 0 | Lua | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-13 01:54:24+00:00 | 49823 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-13 01:56:17+00:00 | 8646 | 84 | HTML | 23 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-13 01:38:40+00:00 | 4596585 | 38 | Python | 5 | [] |
-| ShieldCommunity/NullExploitX-Wiki | None | https://github.com/ShieldCommunity/NullExploitX-Wiki | ['exploit'] | 1 | 2022-04-13 05:20:17+00:00 | 0 | 0 | | 0 | [] |
+| embe221ed/nightmare | All my exploits written when learning on Nightmare | https://github.com/embe221ed/nightmare | ['exploit'] | 1 | 2022-04-13 04:53:29+00:00 | 15524 | 0 | Python | 0 | [] |
+| hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-04-13 06:40:49+00:00 | 2377 | 216 | Ruby | 28 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-13 00:28:31+00:00 | 73770 | 2 | Jupyter Notebook | 0 | [] |
+| nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-13 00:33:47+00:00 | 272 | 0 | Go | 0 | [] |
+| RDXLR/Metasploit-Termux | None | https://github.com/RDXLR/Metasploit-Termux | ['metasploit module OR payload'] | 1 | 2022-04-13 06:36:55+00:00 | 0 | 0 | Shell | 0 | [] |
