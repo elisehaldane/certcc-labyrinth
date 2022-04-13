@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-36P3-WJMG-H94X,0.20000000,https://github.com/west-wind/Threat-Hunting-With-Splunk,west-wind/Threat-Hunting-With-Splunk,480727617
