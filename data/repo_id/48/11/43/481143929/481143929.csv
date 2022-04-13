@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+481143929,Acceis/exploit-CVE-2022-0482,README.md,d95e168fe2a86fac590a1ee371ee538b8258ae8e,CVE-2022-0482
+481143929,Acceis/exploit-CVE-2022-0482,exploit.rb,f309ed501d8f2520107c39b1293db8703d7f3dde,CVE-2022-0482
+481143929,Acceis/exploit-CVE-2022-0482,_GITHUB_REPO_METADATA_,,CVE-2022-0482
