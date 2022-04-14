@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-186966440,jassics/awesome-aws-security,README.md,39b387f6e94b6afcac2439b52740d007c20662f8,CVE-2018-15869
-186966440,jassics/awesome-aws-security,README.md,39b387f6e94b6afcac2439b52740d007c20662f8,CVE-2020-8558
-186966440,jassics/awesome-aws-security,README.md,39b387f6e94b6afcac2439b52740d007c20662f8,CVE-2020-8911
-186966440,jassics/awesome-aws-security,README.md,39b387f6e94b6afcac2439b52740d007c20662f8,CVE-2020-8912
-186966440,jassics/awesome-aws-security,README.md,39b387f6e94b6afcac2439b52740d007c20662f8,GHSA-76WF-9VGP-PJ7W
-186966440,jassics/awesome-aws-security,README.md,39b387f6e94b6afcac2439b52740d007c20662f8,GHSA-7F33-F4F5-XWGW
-186966440,jassics/awesome-aws-security,README.md,39b387f6e94b6afcac2439b52740d007c20662f8,GHSA-F5PG-7WFW-84Q9
+186966440,jassics/awesome-aws-security,README.md,26f56edbf1cf12b1e600c92a99b93c33c794a96b,CVE-2018-15869
+186966440,jassics/awesome-aws-security,README.md,26f56edbf1cf12b1e600c92a99b93c33c794a96b,CVE-2020-8558
+186966440,jassics/awesome-aws-security,README.md,26f56edbf1cf12b1e600c92a99b93c33c794a96b,CVE-2020-8911
+186966440,jassics/awesome-aws-security,README.md,26f56edbf1cf12b1e600c92a99b93c33c794a96b,CVE-2020-8912
+186966440,jassics/awesome-aws-security,README.md,26f56edbf1cf12b1e600c92a99b93c33c794a96b,GHSA-76WF-9VGP-PJ7W
+186966440,jassics/awesome-aws-security,README.md,26f56edbf1cf12b1e600c92a99b93c33c794a96b,GHSA-7F33-F4F5-XWGW
+186966440,jassics/awesome-aws-security,README.md,26f56edbf1cf12b1e600c92a99b93c33c794a96b,GHSA-F5PG-7WFW-84Q9
