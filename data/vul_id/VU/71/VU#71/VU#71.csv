@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#71,1.00000000,https://github.com/anukulpandey/sqlinjector,anukulpandey/sqlinjector,440110907
 VU#71,1.00000000,https://github.com/txominbornaetxea/r.survey.py,txominbornaetxea/r.survey.py,283162644
 VU#71,1.00000000,https://github.com/IvanMarchesini/r.survey.py,IvanMarchesini/r.survey.py,270557067
+VU#71,0.50000000,https://github.com/featherL/CVE-2022-0815-exploit,featherL/CVE-2022-0815-exploit,481566916
 VU#71,0.50000000,https://github.com/razordeveloper/XLL-Excel-Exploit,razordeveloper/XLL-Excel-Exploit,470355525
 VU#71,0.50000000,https://github.com/JackDotExee/Google-slides-crash,JackDotExee/Google-slides-crash,457863956
 VU#71,0.50000000,https://github.com/razordeveloper/Warzone-XLL-Excel-Exploit-Crack,razordeveloper/Warzone-XLL-Excel-Exploit-Crack,454591901
