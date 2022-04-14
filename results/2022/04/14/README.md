@@ -1,14 +1,14 @@
 
 # Summary for results/2022/04/14
     
-45 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|----------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-14 01:57:06+00:00 | 723289 | 26924 | Ruby | 12142 | [] |
-| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-14 00:51:07+00:00 | 489 | 732 | C | 68 | [] |
-| 0xkasra/ExploitDevJourney | Exploit Development Journey | https://github.com/0xkasra/ExploitDevJourney | ['exploit'] | 1 | 2022-04-14 02:55:31+00:00 | 9 | 0 | | 0 | [] |
+| 0xkasra/CVE-2019-11447 | None | https://github.com/0xkasra/CVE-2019-11447 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 01:56:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-11447'] |
 | 0xkasra/CVE-2018-7600 | None | https://github.com/0xkasra/CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 02:56:03+00:00 | 21 | 0 | Python | 0 | ['CVE-2018-7600'] |
+| sh-ubh/CVE-2018-1002105 | None | https://github.com/sh-ubh/CVE-2018-1002105 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 06:29:38+00:00 | 11 | 0 | Python | 0 | ['CVE-2018-1002105'] |
 | 0xkasra/CVE-2019-16113_ | None | https://github.com/0xkasra/CVE-2019-16113_ | ['cve-2 OR cve_2'] | 1 | 2022-04-14 02:56:20+00:00 | 11 | 0 | Python | 0 | ['CVE-2019-16113'] |
 | 0xkasra/CVE-2012-4869 | None | https://github.com/0xkasra/CVE-2012-4869 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 02:56:12+00:00 | 7 | 0 | Python | 0 | ['CVE-2012-4869'] |
 | 0xkasra/Gym-Management-1.0-unauthenticated-RCE | None | https://github.com/0xkasra/Gym-Management-1.0-unauthenticated-RCE | ['rce'] | 1 | 2022-04-14 02:56:31+00:00 | 5 | 0 | Python | 0 | [] |
@@ -16,8 +16,9 @@
 | 0xkasra/CVE-2014-6271 | None | https://github.com/0xkasra/CVE-2014-6271 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 02:56:49+00:00 | 4 | 0 | Python | 0 | ['CVE-2014-6271'] |
 | RDXLR/Metasploit-Termux | None | https://github.com/RDXLR/Metasploit-Termux | ['metasploit module OR payload'] | 1 | 2022-04-14 04:48:28+00:00 | 10 | 0 | Shell | 0 | [] |
 | killvxk/CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-04-14 05:30:13+00:00 | 3 | 1 | | 0 | ['CVE-2022-26809'] |
-| 0xkasra/CVE-2019-11447 | None | https://github.com/0xkasra/CVE-2019-11447 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 01:56:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-11447'] |
+| Adia12528/metasploit-framework-fixes | This includes latest version of metasploit 6 with all fixes in it. | https://github.com/Adia12528/metasploit-framework-fixes | ['metasploit module OR payload'] | 1 | 2022-04-14 06:02:09+00:00 | 11 | 0 | Python | 0 | [] |
 | 0xkasra/CVE-2015-6967 | None | https://github.com/0xkasra/CVE-2015-6967 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 01:57:39+00:00 | 0 | 0 | | 0 | ['CVE-2015-6967'] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-14 00:27:10+00:00 | 269697 | 300 | Ruby | 86 | [] |
 | JIAMING-LI/GymNetworkExploit | This is a demo for the exploit happened on Apr-09-2022 | https://github.com/JIAMING-LI/GymNetworkExploit | ['exploit'] | 1 | 2022-04-14 02:11:39+00:00 | 0 | 0 | | 0 | [] |
 | MarkusCarelli1/4B5F5F4Bp | PoC for CVE-2017-0075 | https://github.com/MarkusCarelli1/4B5F5F4Bp | ['cve poc'] | 1 | 2022-04-14 02:16:32+00:00 | 0 | 0 | | 0 | ['CVE-2017-0075'] |
 | PLOITSECURITYMXOFICIAL/WAGIFUCK | EXPLOIT ZERODAY | https://github.com/PLOITSECURITYMXOFICIAL/WAGIFUCK | ['exploit', 'zeroday'] | 2 | 2022-04-14 02:25:37+00:00 | 0 | 0 | | 0 | [] |
@@ -26,10 +27,12 @@
 | sherlocksecurity/Microsoft-CVE-2022-26809 | The poc for CVE-2022-26809 RCE via RPC will be updated here. | https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-04-14 03:44:40+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-14 04:08:00+00:00 | 0 | 0 | C | 0 | [] |
 | SilkRoadModerator/SSRF-CHEATSHEET | Below you will find my cheatsheet for exploiting Server Side Request Forgery (SSRF): | https://github.com/SilkRoadModerator/SSRF-CHEATSHEET | ['exploit'] | 1 | 2022-04-14 04:19:39+00:00 | 0 | 0 | | 0 | [] |
+| Swagger-Rangerr/Cn33lizw | HackSys Extreme Vulnerable Driver - Windows 10 x64 StackOverflow Exploit with SMEP Bypass | https://github.com/Swagger-Rangerr/Cn33lizw | ['exploit'] | 1 | 2022-04-14 04:52:29+00:00 | 0 | 0 | | 0 | [] |
+| VVeakee/CVE-2017-12149 | None | https://github.com/VVeakee/CVE-2017-12149 | ['cve-2 OR cve_2'] | 1 | 2022-04-14 06:17:19+00:00 | 0 | 0 | | 0 | ['CVE-2017-12149'] |
+| 0xkasra/ExploitDevJourney | Exploit Development Journey | https://github.com/0xkasra/ExploitDevJourney | ['exploit'] | 1 | 2022-04-14 02:55:31+00:00 | 9 | 0 | | 0 | [] |
 | 0xkasra/CVE-2009-2265 | ColdFusion 8.0.1 - Arbitrary File Upload to RCE | https://github.com/0xkasra/CVE-2009-2265 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-14 02:55:54+00:00 | 47 | 1 | Python | 0 | ['CVE-2009-2265'] |
+| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-14 00:51:07+00:00 | 489 | 732 | C | 68 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-14 01:00:01+00:00 | 99012 | 1 | Python | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-14 00:27:10+00:00 | 269697 | 300 | Ruby | 86 | [] |
-| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-14 03:09:47+00:00 | 2116 | 58 | Go | 10 | [] |
 | grantdadams/Rceattle | TMB based age-structured multi-species model. Estimation, simulation, management strategy evaluation. | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2022-04-14 02:56:23+00:00 | 434548 | 1 | C++ | 1 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-14 02:30:36+00:00 | 291226 | 146 | REXX | 13 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-14 00:47:24+00:00 | 21008 | 34 | | 19 | [] |
@@ -42,6 +45,7 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-14 01:57:34+00:00 | 8706 | 85 | HTML | 23 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-14 01:41:35+00:00 | 4804583 | 38 | Python | 5 | [] |
 | 0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model | Exploit social media data for road transport model | https://github.com/0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model | ['exploit'] | 1 | 2022-04-14 04:18:32+00:00 | 347026 | 2 | Python | 0 | [] |
+| Cipher-GF/Methods | Paused For Now _ Collection Of Discord Hacking Tools / Fun Stuff / Exploits That Is Completely Made Using Python. | https://github.com/Cipher-GF/Methods | ['exploit'] | 1 | 2022-04-14 06:44:38+00:00 | 205 | 11 | | 8 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-04-14 02:34:37+00:00 | 538 | 31 | Python | 7 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-14 03:04:55+00:00 | 221 | 1 | | 0 | [] |
 | b4keSn4ke/Badboy | Badboy.py is a fuzzing tool to exploit Buffer Overflows, it does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | ['exploit'] | 1 | 2022-04-14 01:35:15+00:00 | 222 | 2 | Python | 1 | [] |
@@ -49,4 +53,5 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-14 00:31:40+00:00 | 76226 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-14 01:45:41+00:00 | 138508 | 2614 | | 322 | [] |
 | Brandochili/ENSE-871-RCE-Team-Project-Enums | The goal of this project is to develop a proposed restructuring of a section of the RCE Saskatchewan website to create a 'one-stop-shop' network for projects and users to continue sustainable development and inspire users to get involved. | https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums | ['rce'] | 1 | 2022-04-14 00:16:11+00:00 | 46336 | 0 | | 1 | [] |
-| Swagger-Rangerr/Cn33lizw | HackSys Extreme Vulnerable Driver - Windows 10 x64 StackOverflow Exploit with SMEP Bypass | https://github.com/Swagger-Rangerr/Cn33lizw | ['exploit'] | 1 | 2022-04-14 04:52:29+00:00 | 0 | 0 | | 0 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-14 03:09:47+00:00 | 2116 | 58 | Go | 10 | [] |
+| feifei-cv/RCE | paper code | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-04-14 06:47:05+00:00 | 0 | 0 | | 0 | [] |
