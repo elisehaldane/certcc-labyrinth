@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#364,0.33333333,https://github.com/h0cksr/Fastjson--CVE-2017-18349-,h0cksr/Fastjson--CVE-2017-18349-,481674832
 VU#364,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
 VU#364,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#364,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
