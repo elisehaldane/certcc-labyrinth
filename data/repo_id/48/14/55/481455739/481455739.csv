@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+481455739,sherlocksecurity/Microsoft-CVE-2022-26809,README.md,720f5dca2808eb3ab8dbf8266ea41b4f12032e57,CVE-2022-26809
+481455739,sherlocksecurity/Microsoft-CVE-2022-26809,_GITHUB_REPO_METADATA_,,CVE-2022-26809
