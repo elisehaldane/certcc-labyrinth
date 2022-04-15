@@ -1,21 +1,20 @@
 
 # Summary for results/2022/04/15
     
-38 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-15 00:27:23+00:00 | 4485 | 2646 | PowerShell | 745 | [] |
-| feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-04-15 01:30:54+00:00 | 161 | 1 | Python | 0 | [] |
 | GatoGamer1155/CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-15 00:28:40+00:00 | 1021 | 5 | Python | 0 | ['CVE-2021-3560'] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-15 00:55:20+00:00 | 99012 | 1 | Python | 0 | [] |
 | GatoGamer1155/CVE-2021-3156 | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-15 01:47:03+00:00 | 1010 | 4 | Python | 0 | ['CVE-2021-3156'] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-15 00:17:09+00:00 | 1181 | 741 | C | 70 | [] |
+| mr-r3bot/ManageEngine-CVE-2020-28653 | None | https://github.com/mr-r3bot/ManageEngine-CVE-2020-28653 | ['cve-2 OR cve_2'] | 1 | 2022-04-15 04:15:32+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-28653'] |
 | behiNdyk1/phpipam-1.4.5-sqli-to-rce | phpIPAM 1.4.5 SQL Injection to RCE | https://github.com/behiNdyk1/phpipam-1.4.5-sqli-to-rce | ['rce'] | 1 | 2022-04-15 02:09:32+00:00 | 3 | 0 | Python | 0 | [] |
 | UNICORDev/template-exploit | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | ['exploit'] | 1 | 2022-04-15 00:49:02+00:00 | 0 | 0 | Python | 0 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-15 00:29:30+00:00 | 7 | 0 | C | 0 | [] |
+| feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-04-15 01:30:54+00:00 | 161 | 1 | Python | 0 | [] |
 | h0cksr/Fastjson--CVE-2017-18349- | None | https://github.com/h0cksr/Fastjson--CVE-2017-18349- | ['cve-2 OR cve_2'] | 1 | 2022-04-15 03:58:49+00:00 | 15133 | 0 | Java | 0 | ['CVE-2017-18349'] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-15 00:20:30+00:00 | 269698 | 301 | Ruby | 86 | [] |
 | gggggfdsd/dominik | skidded exploit that aims at simplicity | https://github.com/gggggfdsd/dominik | ['exploit'] | 1 | 2022-04-15 01:26:01+00:00 | 6273 | 0 | | 0 | [] |
 | tyleraharrison/VMware-CVE-2022-22954-Command-Injector | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-15 00:11:50+00:00 | 4 | 0 | Python | 0 | ['CVE-2022-22954'] |
 | rrente43/Week-9-Project-Pentesting-Live-Targets | Attempt to find and exploit the vulnerabilities of Globitek | https://github.com/rrente43/Week-9-Project-Pentesting-Live-Targets | ['exploit'] | 1 | 2022-04-15 00:56:22+00:00 | 0 | 0 | | 0 | [] |
@@ -23,13 +22,19 @@
 | 3SsFuck/CVE-2022-22954-POC | None | https://github.com/3SsFuck/CVE-2022-22954-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-15 02:33:01+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-22954'] |
 | SeptS9119/CVE-2022-26809-RCE | CVE-2022-26809-RCE-EXP | https://github.com/SeptS9119/CVE-2022-26809-RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-04-15 03:21:08+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | SeptS9119/Shellcode-Generator | Shellcode Generator | https://github.com/SeptS9119/Shellcode-Generator | ['shellcode'] | 1 | 2022-04-15 03:46:58+00:00 | 0 | 0 | | 0 | [] |
+| SeptS9119/Armv5_shellcode | Armv5_shellcode | https://github.com/SeptS9119/Armv5_shellcode | ['shellcode'] | 1 | 2022-04-15 03:50:33+00:00 | 0 | 0 | | 0 | [] |
+| genieyou/CVE-2022-26809-RCE | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-15 03:54:36+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
+| Wrin9/CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-15 04:50:08+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-31805'] |
+| gitcomit/scemer2 | CVE-2022-26809-RCE-EXP | https://github.com/gitcomit/scemer2 | ['rce'] | 1 | 2022-04-15 04:28:34+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-15 00:55:20+00:00 | 99012 | 1 | Python | 0 | [] |
 | GatoGamer1155/CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-15 00:25:53+00:00 | 1022 | 4 | Python | 1 | ['CVE-2021-4034'] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-15 04:48:18+00:00 | 6281 | 3204 | Python | 690 | [] |
 | plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-04-15 00:29:07+00:00 | 103 | 1 | Java | 0 | [] |
-| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-15 03:07:20+00:00 | 2121 | 58 | Go | 10 | [] |
-| MurryPuppins/Parasite | Linux Kernel Module Rootkit with module hiding, RCE/reverse shell, and persistence capabilities | https://github.com/MurryPuppins/Parasite | ['rce'] | 1 | 2022-04-15 01:02:50+00:00 | 17 | 5 | C | 2 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-15 00:20:30+00:00 | 269698 | 301 | Ruby | 86 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-15 02:30:37+00:00 | 300180 | 146 | REXX | 13 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-15 00:47:25+00:00 | 21978 | 34 | | 19 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-04-15 02:42:54+00:00 | 91500 | 733 | Go | 158 | [] |
+| sartlabs/0days | nan | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-04-15 04:30:37+00:00 | 1028 | 0 | PHP | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-15 00:04:15+00:00 | 498038 | 47 | | 19 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-15 00:05:19+00:00 | 83305 | 28 | Python | 5 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-04-15 02:31:06+00:00 | 295419 | 942 | C# | 225 | [] |
@@ -42,4 +47,6 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-15 01:28:13+00:00 | 4776691 | 39 | Python | 5 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-15 02:27:49+00:00 | 140547 | 2621 | | 322 | [] |
 | nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-15 01:34:07+00:00 | 274 | 0 | Go | 0 | [] |
-| SeptS9119/Armv5_shellcode | Armv5_shellcode | https://github.com/SeptS9119/Armv5_shellcode | ['shellcode'] | 1 | 2022-04-15 03:50:33+00:00 | 0 | 0 | | 0 | [] |
+| MurryPuppins/Parasite | Linux Kernel Module Rootkit with module hiding, RCE/reverse shell, and persistence capabilities | https://github.com/MurryPuppins/Parasite | ['rce'] | 1 | 2022-04-15 01:02:50+00:00 | 17 | 5 | C | 2 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-15 03:07:20+00:00 | 2121 | 58 | Go | 10 | [] |
+| SeptS9119/CVE-2022-26809 | CVE-2022-26809-RCE-EXP-POC | https://github.com/SeptS9119/CVE-2022-26809 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-04-15 04:38:11+00:00 | 0 | 0 | | 1 | ['CVE-2022-26809'] |
