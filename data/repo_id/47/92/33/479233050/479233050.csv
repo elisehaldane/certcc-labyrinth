@@ -15,4 +15,4 @@ repo_id,repo_full_name,file,file_sha1,match
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/bert_simcse_CLINIC150.ipynb,9373732be9c40502bf7bc7721f155a477609d043,VU#81
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/simcse/bert_simcse_CLINIC150.ipynb,9373732be9c40502bf7bc7721f155a477609d043,VU#37
 479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/cse_pretrain_fine_tuning/.ipynb_checkpoints/Supervised_Contrastive_loss-checkpoint.ipynb,ae58eee3536890df0e31fb216f8de42ccb5423af,VU#089
-479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/cse_pretrain_fine_tuning/Supervised_Contrastive_loss.ipynb,ae58eee3536890df0e31fb216f8de42ccb5423af,VU#045
+479233050,sitiporn/Few-shot-user-intent-detection,Few-shot-user-intent-detection/cse_pretrain_fine_tuning/.ipynb_checkpoints/sup_con_ver2-checkpoint.ipynb,ae58eee3536890df0e31fb216f8de42ccb5423af,VU#045
