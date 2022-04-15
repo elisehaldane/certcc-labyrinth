@@ -7,10 +7,10 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/index,0a17f675131391e81e0f7b59756a78e319f5625e,CVE-2021-42342
 449931921,lal0ne/vulnerability,Casdoor/CVE-2022-24124/exploit.go,0d695ac9cff4f5c1d6f0c7e176e56ce35ce283cf,GHSA-M358-G4RP-533R
 449931921,lal0ne/vulnerability,Casdoor/CVE-2022-24124/exploit.go,0d695ac9cff4f5c1d6f0c7e176e56ce35ce283cf,CVE-2022-24124
-449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
-449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,CVE-2021-44228
 449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#83
 449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#23
+449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
+449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,CVE-2021-44228
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/reproducer/entrypoint,0df300c3bba3d57bc2de015052b7f3151641d7f3,CVE-2019-11043
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/goahead_CVE-2021-42342.py,16ddd16a60049c59acdc15014bc2932b5fcf3d47,CVE-2021-42342
 449931921,lal0ne/vulnerability,Casdoor/CVE-2022-24124/README.md,1c5e01d68ce7a8c8d5cd4daafef4a6a5d01c45a5,CVE-2022-24124
@@ -25,13 +25,15 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Spring/CVE-2022-22947/Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947）.md,2f0e9973a024b29fd2d2eae9637219fe587cf25a,CVE-2022-22947
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/reproducer/nginx.server.conf,2f1a0b43e5083b91f014886dc9ac6d69ac4f88d7,CVE-2019-11043
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/go.sum,2f569cc5490fce0664e5f244db5ed492552fab4a,CNVD-2022-10270
+449931921,lal0ne/vulnerability,Watchguard/CVE-2022-26318/README.md,30913f4b077d647249368618d4f1f15ff1df8475,CVE-2022-26318
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/attack.go,30ba0390a0fe6df94242a35ba54dd3ce39ab16f0,CVE-2019-11043
 449931921,lal0ne/vulnerability,Atlassian/Atlassian Confluence/CVE-2021-26084/README.md,31fb497230855b7c19efb8945d07b99525a64b0a,CVE-2021-26084
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/dry-run/pwnkit-dry-run.c,3725f1f35e322a9501cd6c3c9203ce13c001196d,CVE-2021-4034
+449931921,lal0ne/vulnerability,Watchguard/CVE-2022-26318/CVE-2022-26318.py,38b024ad7907137aad139990521933bc2749d0b3,CVE-2022-26318
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/CVE-2022-21907.py,4015ef17a59fafc082cb8efb64c268ddb0210a18,CVE-2022-21907
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/CVE-2022-21907.py,4015ef17a59fafc082cb8efb64c268ddb0210a18,CVE-2021-31166
-449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.zh-cn.md,40647f7cd7fa3806aa31bd5d66ad9ae3579fe446,CVE-2021-42342
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.zh-cn.md,40647f7cd7fa3806aa31bd5d66ad9ae3579fe446,CVE-2017-17562
+449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.zh-cn.md,40647f7cd7fa3806aa31bd5d66ad9ae3579fe446,CVE-2021-42342
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.md,4250016041cc31094035d8c119f9bdc7cdb73d89,CVE-2021-42342
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.md,4250016041cc31094035d8c119f9bdc7cdb73d89,CVE-2017-17562
 449931921,lal0ne/vulnerability,F5/CVE-2021-22986/CVE_2021_22986.py,44b2ef0a6df538405860e8778b70fa633edf77e0,CVE-2021-22986
@@ -43,6 +45,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#23
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,CNVD-2022-10270
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
+449931921,lal0ne/vulnerability,Apache/Struts/CVE-2021-31805/s2-062.py,5a452189e9a90a9f533281a7264464f824f57613,CVE-2021-31805
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/README.md,5f46a8f5f7fd880c5306694029f931e5809f2c4c,CNVD-2022-10270
 449931921,lal0ne/vulnerability,Windows/HTTP.sys/CVE-2022-21907/requirements.txt,622401a53aa4fe4320b881ebc8e0aac7bd80d19a,CVE-2022-21907
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/cve-2021-4034.sh,636089fa2cace9cc33f482d348e9de8cb5cfc571,CVE-2021-4034
@@ -89,6 +92,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/dry-run/Makefile,c32ddde7ef0ee4286a619c7144ec53ea132f1e34,CVE-2021-4034
 449931921,lal0ne/vulnerability,F5/CVE-2021-22986/f5.rest.jar,c68615e66e44537ff2e9302c2c3c9ca872dedc8d,CVE-2021-22986
 449931921,lal0ne/vulnerability,Spring/CVE-2022-22965/Vulnerability Analysis [ENGLISH].pdf,c8491f5bf7dd03f43d77666f5dbe27d83d88e4bc,CVE-2022-22965
+449931921,lal0ne/vulnerability,Apache/Struts/CVE-2021-31805/README.md,cef2220ae7ce2afbd9abd27eaab8e5c37c2bf1b0,CVE-2021-31805
 449931921,lal0ne/vulnerability,F5/CVE-2021-22986/Technical Analysis_BIGIP_ATTKB.pdf,d1b58f3279db8a31ffa12a73448062b4e6b1738e,CVE-2021-22986
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/main.go,d203e14b57753d7bd69d6561a709ddf58a3108ec,CVE-2019-11043
 449931921,lal0ne/vulnerability,Spring/CVE-2022-22947/pocsuite/README.md,d2e0131c7d3ef01e4d3669cfff112e81419e3889,CVE-2022-22947
