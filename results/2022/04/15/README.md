@@ -1,0 +1,22 @@
+
+# Summary for results/2022/04/15
+    
+15 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-15 00:27:23+00:00 | 4485 | 2646 | PowerShell | 745 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-15 00:20:30+00:00 | 269698 | 301 | Ruby | 86 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-15 00:47:25+00:00 | 21978 | 34 | | 19 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-15 00:04:15+00:00 | 498038 | 47 | | 19 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-15 00:05:19+00:00 | 83305 | 28 | Python | 5 | [] |
+| Juliocj7/MsfCj7 | 🔥 Instala Metasploit 6 correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MsfCj7 | ['metasploit module OR payload'] | 1 | 2022-04-15 00:46:20+00:00 | 3 | 19 | | 14 | [] |
+| plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-04-15 00:29:07+00:00 | 103 | 1 | Java | 0 | [] |
+| GatoGamer1155/CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-15 00:25:53+00:00 | 1022 | 4 | Python | 1 | ['CVE-2021-4034'] |
+| GatoGamer1155/CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-15 00:28:40+00:00 | 1021 | 5 | Python | 0 | ['CVE-2021-3560'] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-15 00:55:20+00:00 | 99012 | 1 | Python | 0 | [] |
+| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-15 00:17:09+00:00 | 1181 | 741 | C | 70 | [] |
+| UNICORDev/template-exploit | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | ['exploit'] | 1 | 2022-04-15 00:49:02+00:00 | 0 | 0 | Python | 0 | [] |
+| Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-15 00:29:30+00:00 | 7 | 0 | C | 0 | [] |
+| tyleraharrison/VMware-CVE-2022-22954-Command-Injector | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-15 00:11:50+00:00 | 4 | 0 | Python | 0 | ['CVE-2022-22954'] |
+| rrente43/Week-9-Project-Pentesting-Live-Targets | Attempt to find and exploit the vulnerabilities of Globitek | https://github.com/rrente43/Week-9-Project-Pentesting-Live-Targets | ['exploit'] | 1 | 2022-04-15 00:56:22+00:00 | 0 | 0 | | 0 | [] |
