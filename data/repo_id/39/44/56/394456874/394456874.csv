@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 394456874,yuriisanin/cve-exploits,CVE-2020-24618/exploit.py,2ef93ddb299829a8789c96559ca81ee01bb00ee9,CVE-2020-24618
 394456874,yuriisanin/cve-exploits,CVE-2022-24328/exploit.py,3e1173424ed83d3aad67143d8048f1ee1929885e,CVE-2022-24328
+394456874,yuriisanin/cve-exploits,CVE-2022-24347/exploit.py,4b93aee38037706d2cbbc83b5ccb3299e6908bac,CVE-2022-24339
+394456874,yuriisanin/cve-exploits,CVE-2022-24347/exploit.py,4b93aee38037706d2cbbc83b5ccb3299e6908bac,CVE-2022-24347
 394456874,yuriisanin/cve-exploits,CVE-2020-15823/exploit.py,a0fb7451bc81a6341f641c9f9dc83487a977820d,CVE-2020-15823
 394456874,yuriisanin/cve-exploits,CVE-2020-25209/exploit.py,d3f4128b1d10757857bfdb4c12c4ba962a059def,CVE-2020-25209
-394456874,yuriisanin/cve-exploits,CVE-2022-24347/exploit.py,d7dcea4304900616dd8f8bdeaee219854d278d4f,CVE-2022-24339
-394456874,yuriisanin/cve-exploits,CVE-2022-24347/exploit.py,d7dcea4304900616dd8f8bdeaee219854d278d4f,CVE-2022-24347
 394456874,yuriisanin/cve-exploits,CVE-2020-15823/README.md,ddb7691ec321814377c1f73daee1d1790443c169,CVE-2020-15823
