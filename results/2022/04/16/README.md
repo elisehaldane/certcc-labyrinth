@@ -1,7 +1,7 @@
 
 # Summary for results/2022/04/16
     
-50 records found after deduplication
+54 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -16,6 +16,7 @@
 | explo1t-tech/exploit-tech-2 | None | https://github.com/explo1t-tech/exploit-tech-2 | ['exploit'] | 1 | 2022-04-16 05:51:43+00:00 | 175138 | 0 | JavaScript | 0 | [] |
 | Skotizo/CVE-2021-43129 | vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 04:26:17+00:00 | 52 | 1 | | 0 | ['CVE-2021-43129'] |
 | UNICORDev/template-exploit | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | ['exploit'] | 1 | 2022-04-16 03:16:13+00:00 | 8 | 0 | Python | 0 | [] |
+| VVeakee/CVE-2017-12149 | None | https://github.com/VVeakee/CVE-2017-12149 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 09:09:30+00:00 | 614 | 0 | Java | 0 | ['CVE-2017-12149'] |
 | YanMu2020/s2-062 | 远程代码执行S2-062 CVE-2021-31805验证POC | https://github.com/YanMu2020/s2-062 | ['cve poc'] | 1 | 2022-04-16 00:27:28+00:00 | 5 | 53 | Python | 29 | ['CVE-2021-31805'] |
 | JIAMING-LI/ElephantMoneyExploit | this is a demo to the Elephant money exploit happened on Apr-12-2022 | https://github.com/JIAMING-LI/ElephantMoneyExploit | ['exploit'] | 1 | 2022-04-16 04:10:00+00:00 | 0 | 0 | Solidity | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-16 06:31:39+00:00 | 6321 | 3206 | Python | 689 | [] |
@@ -29,12 +30,14 @@
 | cyxv/my-scripts | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/my-scripts | ['exploit'] | 1 | 2022-04-16 04:45:37+00:00 | 0 | 0 | Lua | 0 | [] |
 | actorshibin/Metasploit-Framework-Installation-Codings- | None | https://github.com/actorshibin/Metasploit-Framework-Installation-Codings- | ['metasploit module OR payload'] | 1 | 2022-04-16 04:35:12+00:00 | 0 | 1 | Shell | 0 | [] |
 | Japluas93/WordPress-Exploits-Project | None | https://github.com/Japluas93/WordPress-Exploits-Project | ['exploit'] | 1 | 2022-04-16 05:39:26+00:00 | 0 | 0 | | 0 | [] |
+| quxiaoyang0zero/RCER | None | https://github.com/quxiaoyang0zero/RCER | ['rce'] | 1 | 2022-04-16 05:39:27+00:00 | 0 | 0 | Python | 0 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-16 02:09:10+00:00 | 1268 | 748 | C | 70 | [] |
+| brookehorizon/HungryRAT | Remote access tool | https://github.com/brookehorizon/HungryRAT | ['metasploit module OR payload'] | 1 | 2022-04-16 09:26:57+00:00 | 24 | 1 | PHP | 0 | [] |
 | l1j9m4-0n1/Pwnable | Binary Exploitation exercises and scripts | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-16 07:01:39+00:00 | 414 | 0 | Python | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-16 05:36:23+00:00 | 480917 | 462 | nan | 98 | [] |
-| JustinApplegate/exploit-code | A collection of exploit code I created for various software or CVEs | https://github.com/JustinApplegate/exploit-code | ['exploit'] | 1 | 2022-04-16 07:57:36+00:00 | 869 | 0 | Python | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 00:22:23+00:00 | 269699 | 301 | Ruby | 86 | [] |
 | Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2022-04-16 03:24:58+00:00 | 506 | 1151 | Perl | 480 | [] |
+| jcubic/jsh.php | Terminal like php shell (PHP web terminal emulator) | https://github.com/jcubic/jsh.php | ['exploit'] | 1 | 2022-04-16 09:36:56+00:00 | 35 | 9 | PHP | 4 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-04-16 05:14:43+00:00 | 185 | 0 | Shell | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-16 02:30:35+00:00 | 194048 | 146 | REXX | 13 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-16 00:47:25+00:00 | 22692 | 34 | | 19 | [] |
@@ -54,4 +57,5 @@
 | RCEcom/RCEcom | None | https://github.com/RCEcom/RCEcom | ['rce'] | 1 | 2022-04-16 05:50:44+00:00 | 25 | 0 | | 0 | [] |
 | plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-04-16 06:44:13+00:00 | 125 | 1 | Java | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-16 00:52:55+00:00 | 102669 | 1 | Python | 0 | [] |
-| quxiaoyang0zero/RCER | None | https://github.com/quxiaoyang0zero/RCER | ['rce'] | 1 | 2022-04-16 05:39:27+00:00 | 0 | 0 | Python | 0 | [] |
+| JustinApplegate/exploit-code | A collection of exploit code I created for various software or CVEs | https://github.com/JustinApplegate/exploit-code | ['exploit'] | 1 | 2022-04-16 07:57:36+00:00 | 869 | 0 | Python | 0 | [] |
+| Toffy-dev/ICT-exploits | None | https://github.com/Toffy-dev/ICT-exploits | ['exploit'] | 1 | 2022-04-16 09:43:57+00:00 | 0 | 0 | | 0 | [] |
