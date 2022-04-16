@@ -1,0 +1,24 @@
+
+# Summary for results/2022/04/16
+    
+17 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 00:22:23+00:00 | 269699 | 301 | Ruby | 86 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-16 00:52:55+00:00 | 102669 | 1 | Python | 0 | [] |
+| MsorkyScripts/TheExploitIMade | None | https://github.com/MsorkyScripts/TheExploitIMade | ['exploit'] | 1 | 2022-04-16 00:09:22+00:00 | 1914 | 0 | | 0 | [] |
+| YanMu2020/s2-062 | 远程代码执行S2-062 CVE-2021-31805验证POC | https://github.com/YanMu2020/s2-062 | ['cve poc'] | 1 | 2022-04-16 00:27:28+00:00 | 5 | 53 | Python | 29 | ['CVE-2021-31805'] |
+| AguacateVelarde/exploit-nodejs | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | ['exploit'] | 1 | 2022-04-16 02:07:25+00:00 | 6 | 0 | JavaScript | 0 | [] |
+| Curt-Lucas/Vulnerable | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-16 00:45:51+00:00 | 143 | 1 | PHP | 0 | [] |
+| Jack7988/Silent-PDF-Exploit | None | https://github.com/Jack7988/Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-16 01:40:43+00:00 | 1 | 2 | | 0 | [] |
+| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-16 02:09:10+00:00 | 1268 | 748 | C | 70 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-16 00:28:03+00:00 | 81868 | 2 | Jupyter Notebook | 0 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-16 00:47:25+00:00 | 22692 | 34 | | 19 | [] |
+| hassan-turi/Pyhton-Agent-for-Linux | This is Python Agent for Linux to run exploits on linux and collect information from the linux | https://github.com/hassan-turi/Pyhton-Agent-for-Linux | ['exploit'] | 1 | 2022-04-16 00:01:39+00:00 | 48 | 1 | Python | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-16 01:23:40+00:00 | 4645497 | 39 | Python | 5 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-16 01:43:35+00:00 | 8766 | 85 | HTML | 23 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-16 01:41:56+00:00 | 56063 | 3 | Python | 0 | [] |
+| JonLH22/Web-Exploit-Resources | This is a collection of resources that are focused on Web Exploitation. | https://github.com/JonLH22/Web-Exploit-Resources | ['exploit'] | 1 | 2022-04-16 01:41:04+00:00 | 15 | 0 | | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-16 00:03:43+00:00 | 503362 | 47 | | 19 | [] |
+| kagancapar/CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 00:26:33+00:00 | 27 | 0 | HTML | 0 | ['CVE-2022-29072'] |
