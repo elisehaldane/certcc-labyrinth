@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/16
     
-46 records found after deduplication
+48 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-16 06:54:01+00:00 | 723841 | 26958 | Ruby | 12150 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-16 06:31:39+00:00 | 6321 | 3206 | Python | 689 | [] |
-| JIAMING-LI/ElephantMoneyExploit | this is a demo to the Elephant money exploit happened on Apr-12-2022 | https://github.com/JIAMING-LI/ElephantMoneyExploit | ['exploit'] | 1 | 2022-04-16 04:10:00+00:00 | 0 | 0 | Solidity | 0 | [] |
+| UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 06:17:55+00:00 | 20 | 3 | Shell | 0 | [] |
 | Jack7988/Silent-PDF-Exploit | None | https://github.com/Jack7988/Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-16 01:40:43+00:00 | 1 | 2 | | 0 | [] |
 | Curt-Lucas/Vulnerable | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-16 00:45:51+00:00 | 143 | 1 | PHP | 0 | [] |
 | AguacateVelarde/exploit-nodejs | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | ['exploit'] | 1 | 2022-04-16 02:07:25+00:00 | 6 | 0 | JavaScript | 0 | [] |
@@ -16,10 +17,10 @@
 | UNICORDev/template-exploit | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | ['exploit'] | 1 | 2022-04-16 03:16:13+00:00 | 8 | 0 | Python | 0 | [] |
 | YanMu2020/s2-062 | 远程代码执行S2-062 CVE-2021-31805验证POC | https://github.com/YanMu2020/s2-062 | ['cve poc'] | 1 | 2022-04-16 00:27:28+00:00 | 5 | 53 | Python | 29 | ['CVE-2021-31805'] |
 | GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-04-16 04:19:47+00:00 | 10901 | 1 | JavaScript | 0 | [] |
+| JIAMING-LI/ElephantMoneyExploit | this is a demo to the Elephant money exploit happened on Apr-12-2022 | https://github.com/JIAMING-LI/ElephantMoneyExploit | ['exploit'] | 1 | 2022-04-16 04:10:00+00:00 | 0 | 0 | Solidity | 0 | [] |
 | MsorkyScripts/TheExploitIMade | None | https://github.com/MsorkyScripts/TheExploitIMade | ['exploit'] | 1 | 2022-04-16 00:09:22+00:00 | 1914 | 0 | | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 00:22:23+00:00 | 269699 | 301 | Ruby | 86 | [] |
 | aeyesec/CVE-2021-31805 | PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-16 05:57:18+00:00 | 16813 | 0 | Dockerfile | 0 | ['CVE-2021-31805'] |
-| AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | None | https://github.com/AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | ['exploit', 'remote code execution'] | 2 | 2022-04-16 05:48:26+00:00 | 5 | 0 | Python | 0 | [] |
+| AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | nan | https://github.com/AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | ['exploit', 'remote code execution'] | 2 | 2022-04-16 05:48:26+00:00 | 5 | 0 | Python | 0 | [] |
 | kagancapar/CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 00:26:33+00:00 | 27 | 0 | HTML | 0 | ['CVE-2022-29072'] |
 | gerbsec/automating-some-exploits | None | https://github.com/gerbsec/automating-some-exploits | ['exploit'] | 1 | 2022-04-16 03:09:57+00:00 | 0 | 0 | Python | 0 | [] |
 | bephplover/Spring-core-Rce-test | no input file to find Spring rce | https://github.com/bephplover/Spring-core-Rce-test | ['rce'] | 1 | 2022-04-16 03:51:11+00:00 | 0 | 1 | Python | 0 | [] |
@@ -27,10 +28,11 @@
 | cyxv/my-scripts | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/my-scripts | ['exploit'] | 1 | 2022-04-16 04:45:37+00:00 | 0 | 0 | Lua | 0 | [] |
 | actorshibin/Metasploit-Framework-Installation-Codings- | None | https://github.com/actorshibin/Metasploit-Framework-Installation-Codings- | ['metasploit module OR payload'] | 1 | 2022-04-16 04:35:12+00:00 | 0 | 1 | Shell | 0 | [] |
 | Japluas93/WordPress-Exploits-Project | None | https://github.com/Japluas93/WordPress-Exploits-Project | ['exploit'] | 1 | 2022-04-16 05:39:26+00:00 | 0 | 0 | | 0 | [] |
-| UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 06:17:55+00:00 | 20 | 3 | Shell | 0 | [] |
 | ex0dus-0x/actions-rce-poc | PoC | https://github.com/ex0dus-0x/actions-rce-poc | ['rce', 'rce poc'] | 2 | 2022-04-16 03:28:31+00:00 | 18 | 0 | nan | 1 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-16 02:09:10+00:00 | 1268 | 748 | C | 70 | [] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-16 05:36:23+00:00 | 480917 | 462 | nan | 98 | [] |
+| l1j9m4-0n1/Pwnable | Binary Exploitation exercises and scripts | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-16 07:01:39+00:00 | 414 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-16 01:41:56+00:00 | 56063 | 3 | Python | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 00:22:23+00:00 | 269699 | 301 | Ruby | 86 | [] |
 | Moham3dRiahi/XAttacker | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | ['exploit'] | 1 | 2022-04-16 03:24:58+00:00 | 506 | 1151 | Perl | 480 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-04-16 05:14:43+00:00 | 185 | 0 | Shell | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-16 02:30:35+00:00 | 194048 | 146 | REXX | 13 | [] |
@@ -39,8 +41,8 @@
 | JosephFrankFir/Megaploit | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Megaploit | ['exploit'] | 1 | 2022-04-16 06:49:55+00:00 | 1196 | 6 | Python | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-16 04:00:45+00:00 | 202435 | 360 | Python | 104 | [] |
 | JonLH22/Web-Exploit-Resources | This is a collection of resources that are focused on Web Exploitation. | https://github.com/JonLH22/Web-Exploit-Resources | ['exploit'] | 1 | 2022-04-16 01:41:04+00:00 | 15 | 0 | | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-16 01:41:56+00:00 | 56063 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-16 01:43:35+00:00 | 8766 | 85 | HTML | 23 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-16 05:36:23+00:00 | 480917 | 462 | nan | 98 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-04-16 05:43:33+00:00 | 1031 | 45 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-16 01:23:40+00:00 | 4645497 | 39 | Python | 5 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-16 05:19:53+00:00 | 6546 | 2113 | TypeScript | 313 | [] |
