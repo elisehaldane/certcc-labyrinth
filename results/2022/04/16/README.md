@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/16
     
-99 records found after deduplication
+100 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-16 06:54:01+00:00 | 723841 | 26958 | Ruby | 12150 | [] |
-| dindibo/rop-code | An esoteric programming language written in python that uses ROP gadgets to exploit a given vulnerable program | https://github.com/dindibo/rop-code | ['exploit'] | 1 | 2022-04-16 11:32:11+00:00 | 1 | 0 | Python | 0 | [] |
+| Neimar47574/CVE-2022-24087 | None | https://github.com/Neimar47574/CVE-2022-24087 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 11:02:00+00:00 | 23 | 0 | | 0 | ['CVE-2022-24087'] |
+| xdx57/WebDav_Exploiter | None | https://github.com/xdx57/WebDav_Exploiter | ['exploit'] | 1 | 2022-04-16 11:44:28+00:00 | 0 | 0 | | 0 | [] |
 | AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | None | https://github.com/AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-04-16 05:48:26+00:00 | 5 | 0 | Python | 0 | [] |
 | MorenoSara/Summarizing-Long-Form-Document-with-Rich-Discourse-Information | Summarization of long-form documents exploiting heterogeneous graphs | https://github.com/MorenoSara/Summarizing-Long-Form-Document-with-Rich-Discourse-Information | ['exploit'] | 1 | 2022-04-16 10:33:11+00:00 | 58 | 0 | Jupyter Notebook | 1 | [] |
 | aeyesec/CVE-2021-31805 | PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-16 05:57:18+00:00 | 16813 | 0 | Dockerfile | 0 | ['CVE-2021-31805'] |
@@ -16,8 +17,8 @@
 | hab1b0x/Spring4Shell | Exploit For Spring4Shell In Ruby | https://github.com/hab1b0x/Spring4Shell | ['exploit'] | 1 | 2022-04-16 15:35:27+00:00 | 1 | 0 | Ruby | 0 | [] |
 | GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-04-16 04:19:47+00:00 | 10901 | 1 | JavaScript | 0 | [] |
 | YanMu2020/s2-062 | 远程代码执行S2-062 CVE-2021-31805验证POC | https://github.com/YanMu2020/s2-062 | ['cve poc'] | 1 | 2022-04-16 00:27:28+00:00 | 5 | 53 | Python | 29 | ['CVE-2021-31805'] |
-| Neimar47574/CVE-2022-24087 | None | https://github.com/Neimar47574/CVE-2022-24087 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 11:02:00+00:00 | 23 | 0 | | 0 | ['CVE-2022-24087'] |
 | VVeakee/CVE-2017-12149 | None | https://github.com/VVeakee/CVE-2017-12149 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 09:09:30+00:00 | 614 | 0 | Java | 0 | ['CVE-2017-12149'] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-16 06:31:39+00:00 | 6321 | 3206 | Python | 689 | [] |
 | k3rwin/spring-cloud-function-rce | Spring Cloud Function SPEL表达式注入漏洞（CVE-2022-22963） | https://github.com/k3rwin/spring-cloud-function-rce | ['rce'] | 1 | 2022-04-16 11:00:42+00:00 | 348 | 4 | Python | 1 | ['CVE-2022-22963'] |
 | feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-04-16 11:54:56+00:00 | 28940 | 3 | Python | 0 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-16 17:18:32+00:00 | 15 | 0 | C | 0 | [] |
@@ -28,10 +29,11 @@
 | 4sploit/4sploit-web-app | nan | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-04-16 13:31:01+00:00 | 1520 | 0 | TypeScript | 0 | [] |
 | AguacateVelarde/exploit-nodejs | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | ['exploit'] | 1 | 2022-04-16 02:07:25+00:00 | 6 | 0 | JavaScript | 0 | [] |
 | Curt-Lucas/Vulnerable | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-16 00:45:51+00:00 | 143 | 1 | PHP | 0 | [] |
-| xdx57/WebDav_Exploiter | None | https://github.com/xdx57/WebDav_Exploiter | ['exploit'] | 1 | 2022-04-16 11:44:28+00:00 | 0 | 0 | | 0 | [] |
+| dindibo/rop-code | An esoteric programming language written in python that uses ROP gadgets to exploit a given vulnerable program | https://github.com/dindibo/rop-code | ['exploit'] | 1 | 2022-04-16 11:32:11+00:00 | 1 | 0 | Python | 0 | [] |
 | kagancapar/CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | ['cve-2 OR cve_2'] | 1 | 2022-04-16 00:26:33+00:00 | 27 | 0 | HTML | 0 | ['CVE-2022-29072'] |
-| 1337-L3V1ATH0N/OSCP-Win-Exploits | None | https://github.com/1337-L3V1ATH0N/OSCP-Win-Exploits | ['exploit'] | 1 | 2022-04-16 11:58:04+00:00 | 4 | 0 | | 0 | [] |
 | gerbsec/automating-some-exploits | None | https://github.com/gerbsec/automating-some-exploits | ['exploit'] | 1 | 2022-04-16 03:09:57+00:00 | 0 | 0 | Python | 0 | [] |
+| bephplover/Spring-core-Rce-test | no input file to find Spring rce | https://github.com/bephplover/Spring-core-Rce-test | ['rce'] | 1 | 2022-04-16 03:51:11+00:00 | 0 | 1 | Python | 0 | [] |
+| gpiechnik2/nmap-CVE-2022-21907 | Repository containing nse script for vulnerability CVE-2022-21907. It is a component (IIS) vulnerability on Windows. It allows remote code execution. The vulnerability affects the kernel module http. sys, which handles most basic IIS operations. | https://github.com/gpiechnik2/nmap-CVE-2022-21907 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-04-16 20:31:51+00:00 | 0 | 0 | Lua | 0 | ['CVE-2022-21907'] |
 | xBasedCrypter/xBased-Silent-PDF-Exploit | None | https://github.com/xBasedCrypter/xBased-Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-16 17:30:26+00:00 | 0 | 1 | | 1 | [] |
 | joshuavanderpoll/CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-16 17:28:47+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-3129'] |
 | Ricky-Zhu/rce_pytorch | None | https://github.com/Ricky-Zhu/rce_pytorch | ['rce'] | 1 | 2022-04-16 17:37:26+00:00 | 0 | 0 | Python | 0 | [] |
@@ -52,10 +54,9 @@
 | actorshibin/Metasploit-Framework-Installation-Codings- | None | https://github.com/actorshibin/Metasploit-Framework-Installation-Codings- | ['metasploit module OR payload'] | 1 | 2022-04-16 04:35:12+00:00 | 0 | 1 | Shell | 0 | [] |
 | cyxv/my-scripts | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/my-scripts | ['exploit'] | 1 | 2022-04-16 04:45:37+00:00 | 0 | 0 | Lua | 0 | [] |
 | abc421376/pyt_foreach_rce | 批量命令执行 | https://github.com/abc421376/pyt_foreach_rce | ['rce'] | 1 | 2022-04-16 04:02:15+00:00 | 0 | 0 | | 0 | [] |
-| bephplover/Spring-core-Rce-test | no input file to find Spring rce | https://github.com/bephplover/Spring-core-Rce-test | ['rce'] | 1 | 2022-04-16 03:51:11+00:00 | 0 | 1 | Python | 0 | [] |
 | Jack7988/Silent-PDF-Exploit | None | https://github.com/Jack7988/Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-16 01:40:43+00:00 | 1 | 2 | | 0 | [] |
+| 1337-L3V1ATH0N/OSCP-Win-Exploits | None | https://github.com/1337-L3V1ATH0N/OSCP-Win-Exploits | ['exploit'] | 1 | 2022-04-16 11:58:04+00:00 | 4 | 0 | | 0 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 06:17:55+00:00 | 20 | 3 | Shell | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-16 06:31:39+00:00 | 6321 | 3206 | Python | 689 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-16 01:23:40+00:00 | 4645497 | 39 | Python | 5 | [] |
 | yuriisanin/cve-exploits | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | ['exploit'] | 1 | 2022-04-16 10:34:48+00:00 | 494 | 0 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-16 01:43:35+00:00 | 8766 | 85 | HTML | 23 | [] |
@@ -82,7 +83,7 @@
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-16 05:19:53+00:00 | 6546 | 2113 | TypeScript | 313 | [] |
 | Raphael-Rey/data_in_libraries | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | ['exploit'] | 1 | 2022-04-16 17:13:40+00:00 | 55068 | 1 | Jupyter Notebook | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily scraper (and mebbe more in the future) for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-04-16 10:46:32+00:00 | 1001 | 9 | | 2 | [] |
-| ex0dus-0x/actions-rce-poc | PoC | https://github.com/ex0dus-0x/actions-rce-poc | ['rce', 'rce poc'] | 2 | 2022-04-16 03:28:31+00:00 | 18 | 0 | nan | 1 | [] |
+| ex0dus-0x/actions-rce-poc | PoC | https://github.com/ex0dus-0x/actions-rce-poc | ['rce', 'rce poc'] | 2 | 2022-04-16 03:28:31+00:00 | 18 | 0 | | 1 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-16 02:09:10+00:00 | 1268 | 748 | C | 70 | [] |
 | zhengyo/termux_install_metasploit | Installing metasploit in termux | https://github.com/zhengyo/termux_install_metasploit | ['metasploit module OR payload'] | 1 | 2022-04-16 14:40:40+00:00 | 13 | 0 | Python | 0 | [] |
 | brookehorizon/HungryRAT | Remote access tool | https://github.com/brookehorizon/HungryRAT | ['metasploit module OR payload'] | 1 | 2022-04-16 09:26:57+00:00 | 24 | 1 | PHP | 0 | [] |
