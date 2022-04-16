@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+482065912,AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022,exploit.py,12c35bcdc3d55938e32d06220abc99770a2ba8ed,CVE-2022-1329
