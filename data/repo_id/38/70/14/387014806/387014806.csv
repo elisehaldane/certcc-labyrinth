@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
 387014806,m3rcer/m3rcer.github.io,_posts/redteaming/Constrained_Delegation/2022-03-15-Constrained_Delegation.md,56c58259fd9707e2603eb278a0fcd98b8e1d9532,CVE-2020-17049
-387014806,m3rcer/m3rcer.github.io,_posts/ctf/HackTheBox_Schooled_Writeup/2021-05-06-HTB_Schooled_Writeup.md,ccac198b63494bac9f17ef609bf9c1f4de2888a1,CVE-2020-14321
+387014806,m3rcer/m3rcer.github.io,_posts/ctf/HackTheBox_Schooled_Writeup/2021-05-06-HTB_Schooled_Writeup.md,aa305b078f38af9e87c3dd53cc0c0e693ac901c3,CVE-2020-14321
