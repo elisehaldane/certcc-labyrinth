@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+482426042,rexpository/Linux-privilege-escalation,README.md,520a4dcfff6a8ce1af55801b3885b95e6d599886,CVE-2022-0847
