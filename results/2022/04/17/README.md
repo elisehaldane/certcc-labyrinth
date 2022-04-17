@@ -1,12 +1,13 @@
 
 # Summary for results/2022/04/17
     
-21 records found after deduplication
+23 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-17 00:23:45+00:00 | 269700 | 301 | Ruby | 86 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-04-17 01:42:28+00:00 | 530 | 7 | Rust | 2 | [] |
+| mwittgen/atlas-rce-packages | None | https://github.com/mwittgen/atlas-rce-packages | ['rce'] | 1 | 2022-04-17 01:48:52+00:00 | 0 | 0 | | 0 | [] |
 | DecryptedCC/MadcatExploit | Project [Madcat] still on test version | https://github.com/DecryptedCC/MadcatExploit | ['exploit'] | 1 | 2022-04-17 01:46:41+00:00 | 0 | 0 | | 0 | [] |
 | DecryptedCC/Empty | Madcat Exploit Loader | https://github.com/DecryptedCC/Empty | ['exploit'] | 1 | 2022-04-17 01:18:16+00:00 | 0 | 0 | | 0 | [] |
 | gsmith257-cyber/EV1L_J3ST3R | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L_J3ST3R | ['exploit'] | 1 | 2022-04-17 00:04:57+00:00 | 0 | 1 | Python | 0 | [] |
@@ -24,5 +25,6 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-17 01:49:51+00:00 | 8765 | 86 | HTML | 23 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-17 01:48:25+00:00 | 18251 | 3 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-17 00:03:37+00:00 | 478157 | 49 | | 19 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-04-17 03:46:42+00:00 | 1544616 | 4207 | PowerShell | 1474 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-17 02:30:27+00:00 | 204332 | 146 | REXX | 13 | [] |
-| mwittgen/atlas-rce-packages | None | https://github.com/mwittgen/atlas-rce-packages | ['rce'] | 1 | 2022-04-17 01:48:52+00:00 | 0 | 0 | | 0 | [] |
+| Mahfuj-Mustafa/Discord-VC-Exploit | Discord Region Swapping Exploit (VC Overload) | https://github.com/Mahfuj-Mustafa/Discord-VC-Exploit | ['exploit'] | 1 | 2022-04-17 03:49:54+00:00 | 0 | 0 | | 0 | [] |
