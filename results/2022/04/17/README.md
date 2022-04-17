@@ -1,12 +1,16 @@
 
 # Summary for results/2022/04/17
     
-26 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-17 00:23:45+00:00 | 269700 | 301 | Ruby | 86 | [] |
 | grantdadams/Rceattle | TMB based age-structured multi-species model. Estimation, simulation, management strategy evaluation. | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2022-04-17 01:50:41+00:00 | 435335 | 2 | C++ | 1 | [] |
+| greyF0xx/connectedHive | Part of a bigger project, the main task was to create a bee farm data exploiting web platform. | https://github.com/greyF0xx/connectedHive | ['exploit'] | 1 | 2022-04-17 05:43:26+00:00 | 0 | 0 | | 0 | [] |
+| linux-ajie/Spring-rce | None | https://github.com/linux-ajie/Spring-rce | ['rce'] | 1 | 2022-04-17 05:20:29+00:00 | 0 | 0 | | 0 | [] |
+| Mahfuj-Mustafa/Roblox-Venti | Roblox ESP Exploit Script | https://github.com/Mahfuj-Mustafa/Roblox-Venti | ['exploit'] | 1 | 2022-04-17 04:57:02+00:00 | 0 | 0 | Lua | 0 | [] |
+| rexpository/Linux-privilege-escalation | Scripted Linux Privilege Escalation Checks + Exploit | https://github.com/rexpository/Linux-privilege-escalation | ['exploit'] | 1 | 2022-04-17 04:49:05+00:00 | 0 | 0 | Shell | 0 | [] |
 | Mahfuj-Mustafa/Discord-VC-Exploit | Discord Region Swapping Exploit (VC Overload) | https://github.com/Mahfuj-Mustafa/Discord-VC-Exploit | ['exploit'] | 1 | 2022-04-17 03:49:54+00:00 | 0 | 0 | | 0 | [] |
 | mwittgen/atlas-rce-packages | None | https://github.com/mwittgen/atlas-rce-packages | ['rce'] | 1 | 2022-04-17 01:48:52+00:00 | 0 | 0 | | 0 | [] |
 | DecryptedCC/MadcatExploit | Project [Madcat] still on test version | https://github.com/DecryptedCC/MadcatExploit | ['exploit'] | 1 | 2022-04-17 01:46:41+00:00 | 0 | 0 | | 0 | [] |
@@ -15,7 +19,9 @@
 | GSstarGamer/Roblox-Exploits | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | ['exploit'] | 1 | 2022-04-17 00:57:14+00:00 | 22 | 0 | Lua | 0 | [] |
 | datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-04-17 03:00:24+00:00 | 6072 | 0 | | 0 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-04-17 00:00:04+00:00 | 1209 | 0 | TypeScript | 0 | [] |
+| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-04-17 05:39:32+00:00 | 575 | 0 | Jupyter Notebook | 0 | [] |
 | Curt-Lucas/Vulnerable | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-17 01:45:59+00:00 | 24955 | 1 | PHP | 0 | [] |
+| hyperdefined/LecternCrashFix | Fixes the lectern crash/exploit. | https://github.com/hyperdefined/LecternCrashFix | ['exploit'] | 1 | 2022-04-17 05:32:30+00:00 | 17 | 4 | Java | 3 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-17 01:28:07+00:00 | 1301 | 753 | C | 72 | [] |
 | binganao/vulns-2022 | 本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用 | https://github.com/binganao/vulns-2022 | ['cve poc', 'vuln poc'] | 2 | 2022-04-17 04:01:19+00:00 | 113 | 301 | | 38 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-04-17 01:42:28+00:00 | 530 | 7 | Rust | 2 | [] |
@@ -30,4 +36,4 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-17 00:03:37+00:00 | 478157 | 49 | | 19 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-04-17 03:46:42+00:00 | 1544616 | 4207 | PowerShell | 1474 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-17 02:30:27+00:00 | 204332 | 146 | REXX | 13 | [] |
-| rexpository/Linux-privilege-escalation | Scripted Linux Privilege Escalation Checks + Exploit | https://github.com/rexpository/Linux-privilege-escalation | ['exploit'] | 1 | 2022-04-17 04:49:05+00:00 | 0 | 0 | Shell | 0 | [] |
+| mcdulltii/CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE | https://github.com/mcdulltii/CVE-2022-1329 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-17 05:44:45+00:00 | 0 | 0 | | 0 | ['CVE-2022-1329'] |
