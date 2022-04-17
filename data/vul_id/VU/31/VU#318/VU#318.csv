@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#318,0.25000000,https://github.com/XJMI/LuaU-Scripts,XJMI/LuaU-Scripts,294222684
+VU#318,0.33333333,https://github.com/XJMI/Lua-Scripts,XJMI/Lua-Scripts,294222684
 VU#318,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#318,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#318,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
