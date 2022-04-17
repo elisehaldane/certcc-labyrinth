@@ -5,6 +5,7 @@ MS15-034,1.00000000,https://github.com/davidjura/MS15-034-IIS-Active-DoS-Exploit
 MS15-034,1.00000000,https://github.com/osakaaa/ms15-034,osakaaa/ms15-034,52614638
 MS15-034,1.00000000,https://github.com/poshsecurity/ExploitingMS15-034InPowerShell,poshsecurity/ExploitingMS15-034InPowerShell,49999436
 MS15-034,1.00000000,https://github.com/upgoingstar/checkms15-034.py,upgoingstar/checkms15-034.py,34043336
+MS15-034,0.50000000,https://github.com/w01ke/CVE-2015-1635-POC,w01ke/CVE-2015-1635-POC,482580180
 MS15-034,0.50000000,https://github.com/nksf7/CVE-2015-1635,nksf7/CVE-2015-1635,424265185
 MS15-034,0.50000000,https://github.com/3hydraking/CVE-2015-1635,3hydraking/CVE-2015-1635,385082908
 MS15-034,0.50000000,https://github.com/3hydraking/CVE-2015-1635-POC,3hydraking/CVE-2015-1635-POC,385080605
@@ -83,7 +84,7 @@ MS15-034,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasplo
 MS15-034,0.00026413,https://github.com/webapproot/metasploit,webapproot/metasploit,61404840
 MS15-034,0.00026413,https://github.com/hamad313/https-github.com-hamad-metasploit-framework,hamad313/https-github.com-hamad-metasploit-framework,60901831
 MS15-034,0.00026378,https://github.com/dragrow/metasploit,dragrow/metasploit,62170440
-MS15-034,0.00026295,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS15-034,0.00026302,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS15-034,0.00026288,https://github.com/pk250/pentestbox_metasploit,pk250/pentestbox_metasploit,91141868
 MS15-034,0.00026288,https://github.com/profanado9907/metasploit-framework,profanado9907/metasploit-framework,67108851
 MS15-034,0.00026240,https://github.com/oferamrami/Metasploit,oferamrami/Metasploit,70105234
