@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#666,0.50000000,https://github.com/nipund513/Review-Paper---Exploiting-FTP-21-version-VSFTDP-2.3.4-in-Metasploitable-2-,nipund513/Review-Paper---Exploiting-FTP-21-version-VSFTDP-2.3.4-in-Metasploitable-2-,448491821
+VU#666,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#666,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#666,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#666,0.00387597,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
