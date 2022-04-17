@@ -5,7 +5,6 @@ VU#29,1.00000000,https://github.com/ps4md/ps4md.github.io,ps4md/ps4md.github.io,
 VU#29,1.00000000,https://github.com/massakre88/massakre88.github.io,massakre88/massakre88.github.io,441900304
 VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
-VU#29,1.00000000,https://github.com/0x727/SpringBootExploit,0x727/SpringBootExploit,419950117
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
 VU#29,1.00000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
 VU#29,0.50000000,https://github.com/bennytrt/roblox-carmel-exploit,bennytrt/roblox-carmel-exploit,481760559
@@ -15,6 +14,7 @@ VU#29,0.50000000,https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway,E
 VU#29,0.50000000,https://github.com/bad-skater/Notes-Application,bad-skater/Notes-Application,450706221
 VU#29,0.50000000,https://github.com/vishal501/Shellcode,vishal501/Shellcode,436954861
 VU#29,0.50000000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
+VU#29,0.50000000,https://github.com/0x727/SpringBootExploit,0x727/SpringBootExploit,419950117
 VU#29,0.50000000,https://github.com/skywalke34/struts-demo,skywalke34/struts-demo,419856806
 VU#29,0.50000000,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#29,0.50000000,https://github.com/m8r0wn/EAPrimer,m8r0wn/EAPrimer,298064170
@@ -163,6 +163,7 @@ VU#29,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,43258746
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#29,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#29,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+VU#29,0.00021137,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#29,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#29,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#29,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
