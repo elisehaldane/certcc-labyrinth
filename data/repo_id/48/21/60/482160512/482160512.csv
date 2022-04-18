@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+482160512,Japluas93/WordPress-Exploits-Project,README.md,2ef77f81a03428667bec625d0f63fc34c06b5a80,CVE-2016-7168
+482160512,Japluas93/WordPress-Exploits-Project,README.md,2ef77f81a03428667bec625d0f63fc34c06b5a80,CVE-2017-6817
+482160512,Japluas93/WordPress-Exploits-Project,README.md,2ef77f81a03428667bec625d0f63fc34c06b5a80,CVE-2020-7918
