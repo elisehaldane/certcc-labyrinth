@@ -56,6 +56,7 @@ VU#03,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgen
 VU#03,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#03,0.02325581,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#03,0.02222222,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
+VU#03,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,482818616
 VU#03,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0319,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0319,482789876
 VU#03,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0705,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0705,482745572
 VU#03,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688,480784663
@@ -84,7 +85,7 @@ VU#03,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#03,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#03,0.01492537,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#03,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
-VU#03,0.01315789,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#03,0.01298701,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#03,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#03,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#03,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981

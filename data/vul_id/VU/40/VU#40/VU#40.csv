@@ -29,6 +29,7 @@ VU#40,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,4752
 VU#40,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#40,0.02631579,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#40,0.02083333,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#40,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,482818616
 VU#40,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0319,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0319,482789876
 VU#40,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0705,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0705,482745572
 VU#40,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688,480784663
@@ -53,7 +54,7 @@ VU#40,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#40,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#40,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#40,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
-VU#40,0.01315789,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#40,0.01298701,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#40,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#40,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#40,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981

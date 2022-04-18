@@ -41,6 +41,7 @@ VU#12,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#12,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#12,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#12,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
+VU#12,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,482818616
 VU#12,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0319,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0319,482789876
 VU#12,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0705,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0705,482745572
 VU#12,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688,480784663
@@ -68,7 +69,7 @@ VU#12,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4710
 VU#12,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#12,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#12,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
-VU#12,0.01315789,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#12,0.01298701,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#12,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#12,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#12,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
