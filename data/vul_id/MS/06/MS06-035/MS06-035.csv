@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS06-035,0.16666667,https://github.com/patrick-usf/intro-shellcode,patrick-usf/intro-shellcode,82469672
 MS06-035,0.14285714,https://github.com/rapid7/rex,rapid7/rex,23768727
 MS06-035,0.04545455,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
+MS06-035,0.03333333,https://github.com/paulveillard/cybersecurity-exploit-development,paulveillard/cybersecurity-exploit-development,482655180
 MS06-035,0.03333333,https://github.com/cranelab/exploit-development,cranelab/exploit-development,294222251
 MS06-035,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS06-035,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
