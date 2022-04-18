@@ -1,19 +1,20 @@
 
 # Summary for results/2022/04/18
     
-37 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-18 00:18:33+00:00 | 724353 | 26980 | Ruby | 12153 | [] |
-| zyylhn/redis_rce | Redis primary/secondary replication RCE | https://github.com/zyylhn/redis_rce | ['rce'] | 1 | 2022-04-18 02:33:24+00:00 | 4693 | 7 | Go | 1 | [] |
-| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-18 02:18:01+00:00 | 1340 | 764 | C | 72 | [] |
+| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-04-18 01:50:03+00:00 | 0 | 0 | | 0 | [] |
 | selmer512/x86exploit | None | https://github.com/selmer512/x86exploit | ['exploit'] | 1 | 2022-04-18 00:12:55+00:00 | 1596 | 0 | | 0 | [] |
 | UNICORDev/exploit-template | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/exploit-template | ['exploit'] | 1 | 2022-04-18 00:04:28+00:00 | 16 | 0 | Python | 0 | [] |
+| sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy | The poc for CVE-2022-26809 RCE via RPC will be updated here. | https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-04-18 03:28:10+00:00 | 3 | 8 | | 1 | ['CVE-2022-26809'] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-18 00:12:56+00:00 | 435 | 0 | C | 0 | [] |
 | Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-04-18 01:35:15+00:00 | 241 | 1 | Java | 0 | [] |
 | MsorkyScripts/TheExploitIMade | None | https://github.com/MsorkyScripts/TheExploitIMade | ['exploit'] | 1 | 2022-04-18 00:05:34+00:00 | 2607 | 0 | | 0 | [] |
 | Japluas93/WordPress-Exploits-Project | None | https://github.com/Japluas93/WordPress-Exploits-Project | ['exploit'] | 1 | 2022-04-18 00:20:21+00:00 | 6767 | 0 | | 0 | [] |
+| XmasSnow/CVE-2022-26809-RCE | None | https://github.com/XmasSnow/CVE-2022-26809-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-18 03:41:05+00:00 | 9 | 12 | Python | 2 | ['CVE-2022-26809'] |
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-18 00:05:50+00:00 | 3 | 0 | Python | 0 | ['CVE-2021-22204'] |
 | gsmith257-cyber/EV1L-J3ST3R | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L-J3ST3R | ['exploit'] | 1 | 2022-04-18 01:30:09+00:00 | 24 | 1 | Python | 0 | [] |
 | zeroChen00/github_cve-rce_monitoring | github cve/rce资讯监测 | https://github.com/zeroChen00/github_cve-rce_monitoring | ['rce'] | 1 | 2022-04-18 02:07:20+00:00 | 5 | 0 | Python | 0 | [] |
@@ -22,10 +23,11 @@
 | hi-underworld/buffer_overflow_vulnerable_exploit | cybersecurity | https://github.com/hi-underworld/buffer_overflow_vulnerable_exploit | ['exploit'] | 1 | 2022-04-18 01:24:42+00:00 | 163 | 0 | C | 0 | [] |
 | OmniPhantom/Omni-Tool | The batch ethical hacking/exploitation software made almost entirely by Omni Phantom! | https://github.com/OmniPhantom/Omni-Tool | ['exploit'] | 1 | 2022-04-18 01:23:10+00:00 | 55 | 1 | Batchfile | 0 | [] |
 | qasj/CVE-2021-4034 | first public golang implementation of CVE-2021-4034 | https://github.com/qasj/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-04-18 01:22:26+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-4034'] |
-| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-04-18 01:50:03+00:00 | 0 | 0 | | 0 | [] |
-| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-18 02:29:47+00:00 | 284 | 49 | nan | 6 | [] |
+| supermenGMMt/k-fireu | shellcode 异或加密并生成dll | https://github.com/supermenGMMt/k-fireu | ['shellcode'] | 1 | 2022-04-18 01:45:53+00:00 | 0 | 0 | nan | 0 | [] |
+| kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-18 02:18:01+00:00 | 1340 | 764 | C | 72 | [] |
+| zyylhn/redis_rce | Redis primary/secondary replication RCE | https://github.com/zyylhn/redis_rce | ['rce'] | 1 | 2022-04-18 02:33:24+00:00 | 4693 | 7 | Go | 1 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-04-18 03:03:02+00:00 | 4497 | 2647 | PowerShell | 745 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-18 01:06:53+00:00 | 208 | 0 | | 0 | [] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-18 02:29:47+00:00 | 284 | 49 | nan | 6 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-18 00:27:46+00:00 | 269700 | 301 | Ruby | 86 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-18 02:30:42+00:00 | 209704 | 146 | REXX | 13 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-04-18 02:18:31+00:00 | 91505 | 734 | Go | 158 | [] |
@@ -38,7 +40,9 @@
 | anvbis/anvbis.github.io | Personal blog on binary exploitation and reverse engineering. | https://github.com/anvbis/anvbis.github.io | ['exploit'] | 1 | 2022-04-18 00:53:56+00:00 | 4614 | 0 | CSS | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-18 01:48:20+00:00 | 4669265 | 39 | Python | 5 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2022-04-18 03:01:49+00:00 | 878 | 1 | Python | 0 | [] |
+| Jun-5heng/CVE-2021-26084 | confluence远程代码执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-18 03:37:18+00:00 | 65 | 1 | Python | 0 | ['CVE-2021-26084'] |
 | ca3tie1/ExploitDepository | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | ['exploit'] | 1 | 2022-04-18 03:12:59+00:00 | 19189 | 23 | Python | 2 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-04-18 01:46:59+00:00 | 53689 | 503 | Python | 116 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-04-18 00:17:33+00:00 | 10630 | 225 | Ruby | 28 | [] |
-| supermenGMMt/k-fireu | shellcode 异或加密并生成dll | https://github.com/supermenGMMt/k-fireu | ['shellcode'] | 1 | 2022-04-18 01:45:53+00:00 | 0 | 0 | nan | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-18 01:06:53+00:00 | 208 | 0 | | 0 | [] |
+| F1uk369/CVE-2022-26809 | A proof of concept of the CVE-2022-26809-RCE vulnerability. | https://github.com/F1uk369/CVE-2022-26809 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-18 03:47:06+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-26809'] |
