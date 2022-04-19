@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-OSVDB-121681,0.33333333,https://github.com/shipcod3/IRC-Bot-Hunters,shipcod3/IRC-Bot-Hunters,33442483
 OSVDB-121681,0.25000000,https://github.com/r3p3r/misterch0c-malSploitBase,r3p3r/misterch0c-malSploitBase,115910165
 OSVDB-121681,0.25000000,https://github.com/misterch0c/malSploitBase,misterch0c/malSploitBase,48959326
+OSVDB-121681,0.25000000,https://github.com/shipcod3/IRC-Bot-Hunters,shipcod3/IRC-Bot-Hunters,33442483
 OSVDB-121681,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
 OSVDB-121681,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 OSVDB-121681,0.00026413,https://github.com/webapproot/metasploit,webapproot/metasploit,61404840
