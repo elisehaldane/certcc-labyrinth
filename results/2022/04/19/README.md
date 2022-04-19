@@ -1,23 +1,23 @@
 
 # Summary for results/2022/04/19
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-19 04:16:55+00:00 | 6420 | 3212 | Python | 689 | [] |
-| Eddi0x/Full-Silent-PDF-Exploit | None | https://github.com/Eddi0x/Full-Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-19 01:24:25+00:00 | 0 | 0 | | 0 | [] |
-| Jasut1n/py-exploits | Python Script Exploitations | https://github.com/Jasut1n/py-exploits | ['exploit'] | 1 | 2022-04-19 03:57:23+00:00 | 22 | 1 | Python | 0 | [] |
+| JuiceWarfare/Exploit | None | https://github.com/JuiceWarfare/Exploit | ['exploit'] | 1 | 2022-04-19 04:49:14+00:00 | 2 | 0 | Lua | 0 | [] |
 | Jun-5heng/CVE-2022-22954 | VMware Workspace ONE Access远程代码执行漏洞 / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 06:38:58+00:00 | 81 | 0 | Python | 0 | ['CVE-2022-22954'] |
 | XmasSnow/CVE-2022-26809-RCE | None | https://github.com/XmasSnow/CVE-2022-26809-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-19 02:24:34+00:00 | 17 | 28 | Python | 9 | ['CVE-2022-26809'] |
 | Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-04-19 00:24:07+00:00 | 251 | 0 | C | 1 | [] |
+| coditrust/Vulnerable_code | This is some examples of vulnerable codes so do NOT use them in production !! This is for EDUCATION ONLY to show how to exploit these codes. | https://github.com/coditrust/Vulnerable_code | ['exploit'] | 1 | 2022-04-19 07:16:55+00:00 | 21 | 0 | PHP | 0 | [] |
 | zeroChen00/github_cve-rce_monitoring | github cve/rce资讯监测 | https://github.com/zeroChen00/github_cve-rce_monitoring | ['rce'] | 1 | 2022-04-19 01:48:31+00:00 | 9 | 0 | Python | 0 | [] |
 | sentinelblue/CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/sentinelblue/CVE-2022-29072 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 00:04:22+00:00 | 75 | 2 | PowerShell | 0 | ['CVE-2022-29072'] |
 | H4cknetDump/EXPLOIT9.00 | None | https://github.com/H4cknetDump/EXPLOIT9.00 | ['exploit'] | 1 | 2022-04-19 01:37:06+00:00 | 356 | 0 | JavaScript | 0 | [] |
 | cxosmo/n-day_exploits | None | https://github.com/cxosmo/n-day_exploits | ['exploit'] | 1 | 2022-04-19 01:24:04+00:00 | 0 | 0 | Python | 0 | [] |
 | Eddi0x/Excel-Exploit-Silent-Macro | None | https://github.com/Eddi0x/Excel-Exploit-Silent-Macro | ['exploit'] | 1 | 2022-04-19 01:22:28+00:00 | 2 | 0 | | 0 | [] |
+| Eddi0x/Full-Silent-PDF-Exploit | None | https://github.com/Eddi0x/Full-Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-19 01:24:25+00:00 | 0 | 0 | | 0 | [] |
 | j4k0m/loader-CVE-2020-14343 | A web application vulnerable to CVE-2020-14343 insecure deserialization leading to command execution in PyYAML package. | https://github.com/j4k0m/loader-CVE-2020-14343 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 02:09:57+00:00 | 0 | 0 | HTML | 0 | ['CVE-2020-14343'] |
-| shipcod3/IRC-Bot-Hunters | a collection of Metasploit PoC exploits I wrote for IRC Botnets that allows RCE | https://github.com/shipcod3/IRC-Bot-Hunters | ['exploit', 'metasploit module OR payload', 'rce', 'rce poc'] | 4 | 2022-04-19 03:50:37+00:00 | 131 | 59 | C | 21 | [] |
 | jeremypelletier/zeroday-unlicensed | None | https://github.com/jeremypelletier/zeroday-unlicensed | ['zeroday'] | 1 | 2022-04-19 02:31:09+00:00 | 0 | 0 | | 0 | [] |
 | BeiboxxYT/NukeBeiboxExploit | None | https://github.com/BeiboxxYT/NukeBeiboxExploit | ['exploit'] | 1 | 2022-04-19 03:57:46+00:00 | 0 | 0 | | 0 | [] |
 | rootsmadi/CMS-Made-Simple-2.2.16-0-day | CMS Made Simple 2.2.16 editusertag.php - Remote Code Execution (Authenticated) Zero-Day! | https://github.com/rootsmadi/CMS-Made-Simple-2.2.16-0-day | ['remote code execution'] | 1 | 2022-04-19 04:47:27+00:00 | 0 | 0 | | 0 | [] |
@@ -27,12 +27,14 @@
 | Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332 | None | https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 06:12:01+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0332'] |
 | GieExe/GieExe | Exploit | https://github.com/GieExe/GieExe | ['exploit'] | 1 | 2022-04-19 06:24:20+00:00 | 0 | 0 | | 0 | [] |
 | bisiceteaSec/Metasploit-Response | None | https://github.com/bisiceteaSec/Metasploit-Response | ['metasploit module OR payload'] | 1 | 2022-04-19 06:48:34+00:00 | 0 | 0 | Shell | 0 | [] |
-| JuiceWarfare/Exploit | None | https://github.com/JuiceWarfare/Exploit | ['exploit'] | 1 | 2022-04-19 04:49:14+00:00 | 2 | 0 | Lua | 0 | [] |
+| Shakeel-Nordien/spring-vulnerability-test | Create a spring vulnerability test to see if it can withstand the new vulnerability called Remote Code Execution | https://github.com/Shakeel-Nordien/spring-vulnerability-test | ['remote code execution'] | 1 | 2022-04-19 06:47:20+00:00 | 0 | 0 | Java | 0 | [] |
+| Jasut1n/py-exploits | Python Script Exploitations | https://github.com/Jasut1n/py-exploits | ['exploit'] | 1 | 2022-04-19 03:57:23+00:00 | 22 | 1 | Python | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-19 01:13:00+00:00 | 2162 | 93 | Go | 19 | [] |
+| shipcod3/IRC-Bot-Hunters | a collection of Metasploit PoC exploits I wrote for IRC Botnets that allows RCE | https://github.com/shipcod3/IRC-Bot-Hunters | ['exploit', 'metasploit module OR payload', 'rce', 'rce poc'] | 4 | 2022-04-19 03:50:37+00:00 | 131 | 59 | C | 21 | [] |
 | illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-04-19 00:33:37+00:00 | 4357 | 0 | Python | 0 | [] |
-| rvizx/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/rvizx/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-04-19 03:58:01+00:00 | 29 | 0 | Python | 3 | ['CVE-2021-4034'] |
 | shipcod3/sploitchits | My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc. | https://github.com/shipcod3/sploitchits | ['exploit', 'remote code execution', 'sploit'] | 3 | 2022-04-19 04:24:39+00:00 | 59 | 12 | Classic ASP | 5 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-19 00:20:25+00:00 | 269701 | 301 | Ruby | 86 | [] |
+| jassics/awesome-aws-security | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | ['exploit'] | 1 | 2022-04-19 07:25:35+00:00 | 286 | 285 | | 90 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-19 02:30:31+00:00 | 218786 | 146 | REXX | 13 | [] |
 | 0xl3x1/zeek-EternalSafety | Zeek package for detecting the Eternal* exploits and a set of SMBv1 protocol violations. | https://github.com/0xl3x1/zeek-EternalSafety | ['exploit'] | 1 | 2022-04-19 05:18:21+00:00 | 2435 | 16 | Zeek | 2 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-19 00:47:28+00:00 | 23459 | 35 | | 19 | [] |
@@ -50,4 +52,5 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-19 00:26:11+00:00 | 85934 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-19 05:56:01+00:00 | 148892 | 2639 | | 326 | [] |
 | nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-19 01:02:12+00:00 | 283 | 0 | Go | 0 | [] |
-| Shakeel-Nordien/spring-vulnerability-test | Create a spring vulnerability test to see if it can withstand the new vulnerability called Remote Code Execution | https://github.com/Shakeel-Nordien/spring-vulnerability-test | ['remote code execution'] | 1 | 2022-04-19 06:47:20+00:00 | 0 | 0 | Java | 0 | [] |
+| rvizx/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/rvizx/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-04-19 03:58:01+00:00 | 29 | 0 | Python | 3 | ['CVE-2021-4034'] |
+| security211/exploit-malware_resources | None | https://github.com/security211/exploit-malware_resources | ['exploit'] | 1 | 2022-04-19 07:10:40+00:00 | 0 | 0 | | 0 | [] |
