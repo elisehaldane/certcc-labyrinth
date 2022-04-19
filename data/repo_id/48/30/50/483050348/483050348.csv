@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+483050348,cxosmo/n-day_exploits,CVE-2021-42697/scala-akka-http-server-example/LICENSE,345a650f0bb57ad0d04a4370af58e88ba960031b,CVE-2021-42697
+483050348,cxosmo/n-day_exploits,CVE-2021-42697/scala-akka-http-server-example/build.sbt,535591755b5f9df46d13cda81329157f897a4510,CVE-2021-42697
+483050348,cxosmo/n-day_exploits,CVE-2021-42697/scala-akka-http-server-example/src/main/scala/Main.scala,6616de5cc7ef77463d7045d33296089f01ab69a3,CVE-2021-42697
+483050348,cxosmo/n-day_exploits,CVE-2021-42697/requirements.txt,a454da21f3e669ab27ff1824e0371c111167b77b,CVE-2021-42697
+483050348,cxosmo/n-day_exploits,CVE-2021-42697/CVE-2021-42697.py,b92b364ccec1610b3f44f20458d493c4d1242a8f,CVE-2021-42697
+483050348,cxosmo/n-day_exploits,CVE-2021-42697/README.md,e3b4d06b68e13d04d19905eef8f6d29101cc383d,CVE-2021-42697
+483050348,cxosmo/n-day_exploits,CVE-2021-42697/scala-akka-http-server-example/src/main/resources/application.conf,ec8111ebeefd5f99d7f4217ecfdd24de6ea62dce,CVE-2021-42697

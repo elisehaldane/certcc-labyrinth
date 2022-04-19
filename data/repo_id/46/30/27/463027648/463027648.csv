@@ -199,5 +199,5 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,afrog-pocs/default-pwd/datang-ac-default-password-cnvd-2021-04128.yaml,f84e95ab347c806221cb982f3943305f9dadb9b2,CNVD-2021-04128
 463027648,zan8in/afrog,afrog-pocs/CVE/2019/CVE-2019-16996.yaml,fac3000568595f80ce59b1f64110b34db78ba206,CVE-2019-16996
 463027648,zan8in/afrog,afrog-pocs/CVE/2018/CVE-2018-10735.yaml,fdbfc8cb2384437651f7aafb0a75204219704988,CVE-2018-10735
-463027648,zan8in/afrog,afrog-pocs/CVE/2021/CVE-2021-44228.yaml,ffe9c6c1e6ce8af0cd68eb0c2563aa4951661b0e,CVE-2021-44228
-463027648,zan8in/afrog,afrog-pocs/CVE/2021/CVE-2021-44228.yaml,ffe9c6c1e6ce8af0cd68eb0c2563aa4951661b0e,GHSA-JFH8-C2JP-5V3Q
+463027648,zan8in/afrog,afrog-pocs/unreviewed/CVE-2021-44228.yaml,ffe9c6c1e6ce8af0cd68eb0c2563aa4951661b0e,CVE-2021-44228
+463027648,zan8in/afrog,afrog-pocs/unreviewed/CVE-2021-44228.yaml,ffe9c6c1e6ce8af0cd68eb0c2563aa4951661b0e,GHSA-JFH8-C2JP-5V3Q
