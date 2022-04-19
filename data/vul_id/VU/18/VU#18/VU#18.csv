@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#18,1.00000000,https://github.com/DangPhucTech/exploit-vul,DangPhucTech/exploit-vul,467037313
 VU#18,1.00000000,https://github.com/DangHoangPhuc123/exploit-vulnerabilities,DangHoangPhuc123/exploit-vulnerabilities,465691568
 VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-paas-exploits,462462832
+VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
 VU#18,0.50000000,https://github.com/bennytrt/roblox-carmel-exploit,bennytrt/roblox-carmel-exploit,481760559
 VU#18,0.50000000,https://github.com/Kuly14/Inverse_Finance_Exploit_Replay,Kuly14/Inverse_Finance_Exploit_Replay,480866256
