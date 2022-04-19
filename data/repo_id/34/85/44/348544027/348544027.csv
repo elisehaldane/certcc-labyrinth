@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+348544027,turbot/steampipe-plugin-shodan,go.sum,d4b752b0a3147daf31145019e78a28e25d92de4e,VU#18
