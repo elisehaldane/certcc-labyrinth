@@ -1,7 +1,7 @@
 
 # Summary for results/2022/04/19
     
-165 records found after deduplication
+166 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -24,9 +24,9 @@
 | jeremypelletier/zeroday-unlicensed | None | https://github.com/jeremypelletier/zeroday-unlicensed | ['zeroday'] | 1 | 2022-04-19 02:31:09+00:00 | 0 | 0 | | 0 | [] |
 | BeiboxxYT/NukeBeiboxExploit | None | https://github.com/BeiboxxYT/NukeBeiboxExploit | ['exploit'] | 1 | 2022-04-19 03:57:46+00:00 | 0 | 0 | | 0 | [] |
 | rootsmadi/CMS-Made-Simple-2.2.16-0-day | CMS Made Simple 2.2.16 editusertag.php - Remote Code Execution (Authenticated) Zero-Day! | https://github.com/rootsmadi/CMS-Made-Simple-2.2.16-0-day | ['remote code execution'] | 1 | 2022-04-19 04:47:27+00:00 | 0 | 0 | | 0 | [] |
-| XmasSnow/CVE-2022-26809-RCE | None | https://github.com/XmasSnow/CVE-2022-26809-RCE | ['0day', 'cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 5 | 2022-04-19 02:24:34+00:00 | 17 | 28 | Python | 9 | ['CVE-2022-26809'] |
+| XmasSnow/CVE-2022-26809-RCE | None | https://github.com/XmasSnow/CVE-2022-26809-RCE | ['0day', 'cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 5 | 2022-04-19 08:30:25+00:00 | 37 | 35 | Python | 13 | ['CVE-2022-26809'] |
 | aeyesec/CVE-2021-31805 | PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-19 13:34:45+00:00 | 16814 | 3 | Java | 0 | ['CVE-2021-31805'] |
-| BENOSHITO/exploithosting.github.io | None | https://github.com/BENOSHITO/exploithosting.github.io | ['exploit'] | 1 | 2022-04-19 21:17:29+00:00 | 2011 | 0 | Python | 0 | [] |
+| paulcalabro/proxy-bypass-pocs | This repo contains code used to bypass HTTP proxies by exploiting popular domains. | https://github.com/paulcalabro/proxy-bypass-pocs | ['exploit'] | 1 | 2022-04-19 04:52:21+00:00 | 0 | 0 | | 0 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2022-04-19 18:29:04+00:00 | 53 | 123 | Go | 13 | [] |
 | lumalav/CAP6135_FinalProject | Log4Shell Vulnerability - Exploitation and Mitigation | https://github.com/lumalav/CAP6135_FinalProject | ['exploit'] | 1 | 2022-04-19 21:27:29+00:00 | 9527 | 0 | Java | 0 | [] |
 | JuiceWarfare/Exploit | None | https://github.com/JuiceWarfare/Exploit | ['exploit'] | 1 | 2022-04-19 04:49:14+00:00 | 2 | 0 | Lua | 0 | [] |
@@ -46,9 +46,9 @@
 | datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-04-19 11:42:19+00:00 | 9121 | 0 | | 0 | [] |
 | websecnl/CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-04-19 09:42:52+00:00 | 2 | 5 | Python | 1 | ['CVE-2022-26809'] |
 | msam13/wyze-cam-firmware-analysis | The firmware for the Wyze Cam V3 is hosted on the website of its manufacturer for anyone to download. We plan to download the firmware and perform a variety of analysis techniques on it until we have a solid understanding of the device and/or have identif | https://github.com/msam13/wyze-cam-firmware-analysis | ['exploit'] | 1 | 2022-04-19 04:37:15+00:00 | 0 | 0 | | 0 | [] |
-| paulcalabro/proxy-bypass-pocs | This repo contains code used to bypass HTTP proxies by exploiting popular domains. | https://github.com/paulcalabro/proxy-bypass-pocs | ['exploit'] | 1 | 2022-04-19 04:52:21+00:00 | 0 | 0 | | 0 | [] |
 | rhin0cer0s/CVE-2021-4034 | A pkexec CVE-2021-4034 vulnerability exploit | https://github.com/rhin0cer0s/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-19 05:01:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
-| Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332 | None | https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 06:12:01+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0332'] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-19 09:02:57+00:00 | 46884 | 864 | Python | 205 | [] |
+| mathsslong/linux-exploit | None | https://github.com/mathsslong/linux-exploit | ['exploit'] | 1 | 2022-04-19 12:15:35+00:00 | 0 | 0 | Shell | 0 | [] |
 | Satheesh575555/packages_providers_MediaProvider_AOSP10_r33_CVE-2021-0340 | None | https://github.com/Satheesh575555/packages_providers_MediaProvider_AOSP10_r33_CVE-2021-0340 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 13:21:06+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0340'] |
 | IntelSys-iT/RouterSploit | None | https://github.com/IntelSys-iT/RouterSploit | ['sploit'] | 1 | 2022-04-19 13:19:25+00:00 | 0 | 0 | Python | 0 | [] |
 | danisins/web_tasks | CTF tasks for exploiting web vulnerabilities! | https://github.com/danisins/web_tasks | ['exploit'] | 1 | 2022-04-19 14:45:05+00:00 | 0 | 0 | CSS | 0 | [] |
@@ -67,9 +67,9 @@
 | TxrskyZ/EasySploit | EasySploit is a script that is compatible to one of the biggest games, Roblox. Supported on synapse,krnl,scriptware etc. | https://github.com/TxrskyZ/EasySploit | ['sploit'] | 1 | 2022-04-19 22:03:56+00:00 | 0 | 0 | | 0 | [] |
 | renaud90/EvenementAPIVuesJsApp | VueJs app that exploit an API | https://github.com/renaud90/EvenementAPIVuesJsApp | ['exploit'] | 1 | 2022-04-19 22:47:46+00:00 | 0 | 0 | SCSS | 0 | [] |
 | krishnaprasadh/Online-MSF-Backdoor | Online Metasploit Backdoor service using Bootstrap+NodeJS (ExpressJS) | https://github.com/krishnaprasadh/Online-MSF-Backdoor | ['metasploit module OR payload'] | 1 | 2022-04-19 13:44:33+00:00 | 0 | 0 | CSS | 0 | [] |
-| mathsslong/linux-exploit | None | https://github.com/mathsslong/linux-exploit | ['exploit'] | 1 | 2022-04-19 12:15:35+00:00 | 0 | 0 | Shell | 0 | [] |
 | Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | None | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 11:39:18+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0589'] |
-| paulcalabro/same-origin-policy-bypass-poc | This repo contains code used to identify bots by exploiting inconsistencies in the handling of PerformanceResourceTiming.nextHopProtocol. | https://github.com/paulcalabro/same-origin-policy-bypass-poc | ['exploit'] | 1 | 2022-04-19 10:36:09+00:00 | 3246 | 0 | HTML | 0 | [] |
+| Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332 | None | https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 06:12:01+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0332'] |
+| sunyuyangg555z/Dliv3t | Redis 4.x/5.x RCE | https://github.com/sunyuyangg555z/Dliv3t | ['rce'] | 1 | 2022-04-19 11:16:27+00:00 | 0 | 0 | | 0 | [] |
 | GieExe/GieExe | Exploit | https://github.com/GieExe/GieExe | ['exploit'] | 1 | 2022-04-19 06:24:20+00:00 | 0 | 0 | | 0 | [] |
 | bisiceteaSec/Metasploit-Response | None | https://github.com/bisiceteaSec/Metasploit-Response | ['metasploit module OR payload'] | 1 | 2022-04-19 06:48:34+00:00 | 0 | 0 | Shell | 0 | [] |
 | Shakeel-Nordien/spring-vulnerability-test | Create a spring vulnerability test to see if it can withstand the new vulnerability called Remote Code Execution | https://github.com/Shakeel-Nordien/spring-vulnerability-test | ['remote code execution'] | 1 | 2022-04-19 06:47:20+00:00 | 0 | 0 | Java | 0 | [] |
@@ -77,8 +77,9 @@
 | xen0vas/RNAXX-Decoder | RNAXX decoder used to decrypt XDNR encrypted / encoded shellcode | https://github.com/xen0vas/RNAXX-Decoder | ['shellcode'] | 1 | 2022-04-19 08:01:51+00:00 | 0 | 0 | C | 0 | [] |
 | minhangxiaohui/Somethingforshiro | for study shiro exploit | https://github.com/minhangxiaohui/Somethingforshiro | ['exploit'] | 1 | 2022-04-19 08:47:48+00:00 | 0 | 0 | Java | 0 | [] |
 | karaname/pkexec-exploit | None | https://github.com/karaname/pkexec-exploit | ['exploit'] | 1 | 2022-04-19 08:46:44+00:00 | 0 | 0 | | 0 | [] |
+| Ostorlab/known_exploited_vulnerbilities_detectors | None | https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors | ['exploit'] | 1 | 2022-04-19 11:45:35+00:00 | 9 | 0 | | 0 | [] |
+| paulcalabro/same-origin-policy-bypass-poc | This repo contains code used to identify bots by exploiting inconsistencies in the handling of PerformanceResourceTiming.nextHopProtocol. | https://github.com/paulcalabro/same-origin-policy-bypass-poc | ['exploit'] | 1 | 2022-04-19 10:36:09+00:00 | 3246 | 0 | HTML | 0 | [] |
 | BugHunter010/CVE-2022-26809 | CVE-2022-26809 exploit | https://github.com/BugHunter010/CVE-2022-26809 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-19 09:37:43+00:00 | 0 | 1 | | 0 | ['CVE-2022-26809'] |
-| sunyuyangg555z/Dliv3t | Redis 4.x/5.x RCE | https://github.com/sunyuyangg555z/Dliv3t | ['rce'] | 1 | 2022-04-19 11:16:27+00:00 | 0 | 0 | | 0 | [] |
 | ret2basic/GitLab-11.4.7-RCE | GitLab 11.4.7 RCE research | https://github.com/ret2basic/GitLab-11.4.7-RCE | ['rce'] | 1 | 2022-04-19 09:29:59+00:00 | 0 | 0 | | 0 | [] |
 | XmasSnow1/cve-2022-26809 | cve-2022-26809 Remote Code Execution Exploit in the RPC Library | https://github.com/XmasSnow1/cve-2022-26809 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-04-19 10:35:18+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0401 | None | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0401 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 10:30:53+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0401'] |
@@ -87,8 +88,8 @@
 | pazhanivel07/openjpeg-2.3.0_CVE-2020-27824 | None | https://github.com/pazhanivel07/openjpeg-2.3.0_CVE-2020-27824 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 10:56:26+00:00 | 0 | 0 | C | 0 | ['CVE-2020-27824'] |
 | ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394 | None | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394 | ['cve-2 OR cve_2'] | 1 | 2022-04-19 11:11:52+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0394'] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-04-19 15:47:42+00:00 | 1554 | 799 | C | 73 | [] |
+| BENOSHITO/exploithosting.github.io | None | https://github.com/BENOSHITO/exploithosting.github.io | ['exploit'] | 1 | 2022-04-19 21:17:29+00:00 | 2011 | 0 | Python | 0 | [] |
 | mirailovers/exploits | None | https://github.com/mirailovers/exploits | ['exploit'] | 1 | 2022-04-19 17:25:38+00:00 | 745 | 2 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-19 09:02:57+00:00 | 46884 | 864 | Python | 205 | [] |
 | n4ru/1vyrain | LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking. | https://github.com/n4ru/1vyrain | ['exploit'] | 1 | 2022-04-19 16:40:21+00:00 | 17155 | 740 | Shell | 52 | [] |
 | 0xb0bb/karkinos | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | ['exploit'] | 1 | 2022-04-19 00:49:45+00:00 | 544134 | 184 | Python | 15 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3, PS4 & PS5 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-04-19 14:32:32+00:00 | 320078 | 53 | JavaScript | 16 | [] |
