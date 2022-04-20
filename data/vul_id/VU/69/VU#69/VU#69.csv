@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#69,1.00000000,https://github.com/VisionsIntoRealityHolster/Shadow-Shifter,VisionsIntoRealityHolster/Shadow-Shifter,483433027
 VU#69,1.00000000,https://github.com/FLUORESCENTXX/Valance,FLUORESCENTXX/Valance,466366549
 VU#69,1.00000000,https://github.com/Kob123678/KoSploit-Beta-2.0,Kob123678/KoSploit-Beta-2.0,466084069
 VU#69,1.00000000,https://github.com/liock1/MeterSphere-RCE,liock1/MeterSphere-RCE,459228124
@@ -8,6 +7,7 @@ VU#69,1.00000000,https://github.com/void0yt/apollo,void0yt/apollo,444019527
 VU#69,1.00000000,https://github.com/idknoob91/Azure,idknoob91/Azure,443363704
 VU#69,1.00000000,https://github.com/void0yt/Ether_v1,void0yt/Ether_v1,437190971
 VU#69,1.00000000,https://github.com/R7flexx/R7flex-exploit,R7flexx/R7flex-exploit,419034777
+VU#69,0.50000000,https://github.com/VisionsIntoRealityHolster/Shadow-Shifter,VisionsIntoRealityHolster/Shadow-Shifter,483433027
 VU#69,0.50000000,https://github.com/Gamogd/Exploit,Gamogd/Exploit,468390431
 VU#69,0.50000000,https://github.com/AnonymousMonke1234/Slasher,AnonymousMonke1234/Slasher,466558945
 VU#69,0.50000000,https://github.com/bruhboy666/Bruhboy-Sploit,bruhboy666/Bruhboy-Sploit,466525126
@@ -114,7 +114,7 @@ VU#69,0.00021137,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/
 VU#69,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#69,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#69,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#69,0.00020247,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#69,0.00020243,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#69,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#69,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#69,0.00004639,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
