@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#87,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#87,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
 VU#87,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
+VU#87,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#87,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/generateJenkinsExploit,432525611
 VU#87,0.33333333,https://github.com/tmenochet/PowerDump,tmenochet/PowerDump,416900394
 VU#87,0.20000000,https://github.com/NovaSecurity/HackThebox-attached-files,NovaSecurity/HackThebox-attached-files,482258843
