@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#420,0.50000000,https://github.com/pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510,pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510,483645707
 VU#420,0.50000000,https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332,Satheesh575555/frameworks_native_AOSP10_r33_CVE-2021-0332,483117532
 VU#420,0.50000000,https://github.com/ShaikUsaf/frameworks_native_AOSP10_r33_ShaikUsaf-frameworks_native_AOSP10_r33_CVE-2020-0226,ShaikUsaf/frameworks_native_AOSP10_r33_ShaikUsaf-frameworks_native_AOSP10_r33_CVE-2020-0226,482896007
 VU#420,0.50000000,https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392,Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392,476642012
