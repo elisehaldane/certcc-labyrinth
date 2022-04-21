@@ -1,18 +1,18 @@
 
 # Summary for results/2022/04/21
     
-57 records found after deduplication
+63 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-21 00:53:31+00:00 | 726291 | 27008 | Ruby | 12168 | [] |
-| CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc', 'vulnerability poc'] | 2 | 2022-04-21 02:43:47+00:00 | 2097 | 2 | Python | 1 | [] |
-| GSstarGamer/Roblox-Exploits | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | ['exploit'] | 1 | 2022-04-21 03:21:05+00:00 | 29 | 0 | Lua | 0 | [] |
+| rhiood/shellcode_runner | None | https://github.com/rhiood/shellcode_runner | ['shellcode'] | 1 | 2022-04-21 03:47:24+00:00 | 0 | 0 | | 0 | [] |
 | cyxv/my-scripts | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/my-scripts | ['exploit'] | 1 | 2022-04-21 07:16:32+00:00 | 57 | 0 | Lua | 0 | [] |
 | Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-04-21 00:56:15+00:00 | 416 | 0 | C | 1 | [] |
 | jiwookhong/JBoss_Deserialization_RCE | Modified Exploit tool | https://github.com/jiwookhong/JBoss_Deserialization_RCE | ['exploit', 'rce'] | 2 | 2022-04-21 02:23:41+00:00 | 1554 | 0 | | 0 | [] |
 | rootsmadi/CMS-Made-Simple-2.2.16-0-day | CMS Made Simple 2.2.16 editusertag.php - Remote Code Execution (Authenticated) Zero-Day! | https://github.com/rootsmadi/CMS-Made-Simple-2.2.16-0-day | ['remote code execution'] | 1 | 2022-04-21 05:49:55+00:00 | 8 | 0 | | 0 | [] |
 | alvindimas05/roblox | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox | ['exploit'] | 1 | 2022-04-21 05:18:37+00:00 | 3 | 0 | Lua | 0 | [] |
+| jfrog/jfrog-CVE-2022-21449 | None | https://github.com/jfrog/jfrog-CVE-2022-21449 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 08:31:08+00:00 | 29 | 10 | Python | 5 | ['CVE-2022-21449'] |
 | pazhanivel07/system_bt_A10-r33_CVE-2021-0474 | None | https://github.com/pazhanivel07/system_bt_A10-r33_CVE-2021-0474 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 06:35:50+00:00 | 3018 | 0 | C++ | 0 | ['CVE-2021-0474'] |
 | khalednassar/CVE-2022-21449-TLS-PoC | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-04-21 06:58:19+00:00 | 23099 | 3 | Go | 0 | ['CVE-2022-21449'] |
 | DESC0N0C1D0/CVE-2022-26809-RCE | This repository contains a PoC for remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'remote code execution'] | 5 | 2022-04-21 06:03:16+00:00 | 3 | 0 | Python | 1 | ['CVE-2022-26809'] |
@@ -20,8 +20,8 @@
 | Wangsafz/Exploit-Karnel | None | https://github.com/Wangsafz/Exploit-Karnel | ['exploit'] | 1 | 2022-04-21 00:44:28+00:00 | 0 | 0 | Shell | 0 | [] |
 | E240-h/UI-Library | UI Library for Roblox Exploit Script Hubs | https://github.com/E240-h/UI-Library | ['exploit'] | 1 | 2022-04-21 01:37:58+00:00 | 0 | 0 | | 0 | [] |
 | amine-boutouil/PHP-exploits-lab | A basic XSS/SQL Injection vulnerable PHP website | https://github.com/amine-boutouil/PHP-exploits-lab | ['exploit'] | 1 | 2022-04-21 03:42:37+00:00 | 0 | 0 | PHP | 0 | [] |
-| rhiood/shellcode_runner | None | https://github.com/rhiood/shellcode_runner | ['shellcode'] | 1 | 2022-04-21 03:47:24+00:00 | 0 | 0 | | 0 | [] |
 | 0xUhaw/CVE-2022-0778 | None | https://github.com/0xUhaw/CVE-2022-0778 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 04:04:28+00:00 | 0 | 0 | | 0 | ['CVE-2022-0778'] |
+| Skotizo/CVE-2021-43129 | Vulnerability in D2L Brightspace's Learning Management System(LMS) | https://github.com/Skotizo/CVE-2021-43129 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-21 03:19:26+00:00 | 134 | 1 | | 0 | ['CVE-2021-43129'] |
 | hawjin/test_exploits | None | https://github.com/hawjin/test_exploits | ['exploit'] | 1 | 2022-04-21 04:51:00+00:00 | 0 | 0 | CSS | 0 | [] |
 | nanopathi/system_media_AOSP10_r33_CVE-2020-0458 | None | https://github.com/nanopathi/system_media_AOSP10_r33_CVE-2020-0458 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 05:28:59+00:00 | 0 | 0 | | 0 | ['CVE-2020-0458'] |
 | rootsmadi/VMware-Workspace-ONE-RCE | VMware Workspace ONE Access and Identity Manager - Remote Code Execution (RCE) (Unauthenticated) | https://github.com/rootsmadi/VMware-Workspace-ONE-RCE | ['rce', 'remote code execution'] | 2 | 2022-04-21 05:54:46+00:00 | 0 | 0 | Python | 0 | [] |
@@ -32,14 +32,18 @@
 | ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0435 | None | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0435 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 06:59:12+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0435'] |
 | ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0431 | None | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0431 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 07:09:32+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0431'] |
 | nanopathi/system_bt_AOSP10_r33_CVE-2021-0431 | None | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0431 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 07:29:09+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0431'] |
-| Skotizo/CVE-2021-43129 | Vulnerability in D2L Brightspace's Learning Management System(LMS) | https://github.com/Skotizo/CVE-2021-43129 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-21 03:19:26+00:00 | 134 | 1 | | 0 | ['CVE-2021-43129'] |
-| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-04-21 02:41:48+00:00 | 2 | 0 | | 0 | [] |
+| pazhanivel07/system_bt_A10_r33_CVE-2021-0474 | None | https://github.com/pazhanivel07/system_bt_A10_r33_CVE-2021-0474 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 07:27:10+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0474'] |
+| nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0508 | None | https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0508 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 08:28:49+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0508'] |
+| achuna33/CVE-2022-0265 | None | https://github.com/achuna33/CVE-2022-0265 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 08:29:05+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-0265'] |
+| GSstarGamer/Roblox-Exploits | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | ['exploit'] | 1 | 2022-04-21 03:21:05+00:00 | 29 | 0 | Lua | 0 | [] |
+| CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc', 'vulnerability poc'] | 2 | 2022-04-21 02:43:47+00:00 | 2097 | 2 | Python | 1 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-21 05:09:27+00:00 | 6484 | 3218 | Python | 689 | [] |
-| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-21 07:45:54+00:00 | 84 | 13 | Solidity | 3 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-21 01:56:32+00:00 | 8885 | 87 | HTML | 23 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-21 00:25:11+00:00 | 269702 | 301 | Ruby | 86 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-04-21 00:32:30+00:00 | 352134 | 7 | Rust | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-21 02:30:34+00:00 | 233038 | 148 | REXX | 14 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-21 00:47:29+00:00 | 25759 | 35 | | 20 | [] |
+| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-04-21 07:48:32+00:00 | 150076 | 382 | Go | 74 | [] |
 | bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2022-04-21 04:34:13+00:00 | 3260 | 391 | C | 108 | ['MS17-010'] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-21 00:03:59+00:00 | 480364 | 53 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-21 01:14:24+00:00 | 41756 | 28 | Python | 5 | [] |
@@ -48,8 +52,8 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-21 00:31:13+00:00 | 324525 | 101 | | 21 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-21 01:15:16+00:00 | 103341 | 362 | Python | 107 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-21 01:55:48+00:00 | 26494 | 3 | Python | 0 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-21 01:56:32+00:00 | 8885 | 87 | HTML | 23 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-04-21 02:07:20+00:00 | 77726 | 10 | Java | 3 | [] |
+| honypot/CVE-2022-0824 | Deployement of Webmin version 1.984 which is vulnerable to authenticated remote code execution exploit. | https://github.com/honypot/CVE-2022-0824 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-04-21 08:15:00+00:00 | 10 | 1 | Dockerfile | 0 | ['CVE-2022-0824'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-21 01:43:59+00:00 | 4743886 | 40 | Python | 5 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-21 03:12:13+00:00 | 7030 | 2313 | TypeScript | 342 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-21 00:31:07+00:00 | 90453 | 2 | Jupyter Notebook | 0 | [] |
@@ -61,4 +65,6 @@
 | illusion173/SE300_Metasploits | Our SE300 workspace! | https://github.com/illusion173/SE300_Metasploits | ['metasploit module OR payload'] | 1 | 2022-04-21 00:25:56+00:00 | 4481 | 0 | Python | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-21 02:43:42+00:00 | 2569 | 111 | Go | 24 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-04-21 01:06:34+00:00 | 222 | 0 | | 0 | [] |
-| pazhanivel07/system_bt_A10_r33_CVE-2021-0474 | None | https://github.com/pazhanivel07/system_bt_A10_r33_CVE-2021-0474 | ['cve-2 OR cve_2'] | 1 | 2022-04-21 07:27:10+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0474'] |
+| Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-04-21 07:45:54+00:00 | 84 | 13 | Solidity | 3 | [] |
+| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-04-21 02:41:48+00:00 | 2 | 0 | | 0 | [] |
+| c4mx/CVE-2022-22965_PoC | None | https://github.com/c4mx/CVE-2022-22965_PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-04-21 08:37:48+00:00 | 0 | 0 | | 0 | ['CVE-2022-22965'] |
