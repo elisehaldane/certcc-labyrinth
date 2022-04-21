@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#88,0.50000000,https://github.com/AnonymPlayer2/TL-Exploit,AnonymPlayer2/TL-Exploit,458954886
 VU#88,0.50000000,https://github.com/entropyQueen/log4shell_malwares,entropyQueen/log4shell_malwares,439839303
 VU#88,0.33333333,https://github.com/sakib570/CVE-2018-1263-Demo,sakib570/CVE-2018-1263-Demo,468735837
 VU#88,0.25000000,https://github.com/pxiangxiang/CNVD-2022-10270-LPE-go,pxiangxiang/CNVD-2022-10270-LPE-go,473859056
@@ -36,6 +37,7 @@ VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#88,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
+VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0640,Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0640,483976622
 VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433,Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433,483637216
 VU#88,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0401,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0401,483198115
 VU#88,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478,482818616
