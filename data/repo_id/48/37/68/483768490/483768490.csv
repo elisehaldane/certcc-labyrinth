@@ -1,8 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
-483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/bin/Debug/lAkPhLLkoN.dll,33b2d76face175756f73f8c1f1ab426ed777d0ed,VU#28
-483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/bin/Debug/lAkPhLLkoN.dll,33b2d76face175756f73f8c1f1ab426ed777d0ed,VU#803
+483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/bin/v3.6.1-alpha.exe/exploit-main.dll,33b2d76face175756f73f8c1f1ab426ed777d0ed,VU#28
+483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/bin/v3.6.1-alpha.exe/exploit-main.dll,33b2d76face175756f73f8c1f1ab426ed777d0ed,VU#803
+483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/ScriptHub.resx,414f6c4d857dd44ecd585fa4d54b10e6bcc58d6b,VU#64
+483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/ScriptHub.resx,414f6c4d857dd44ecd585fa4d54b10e6bcc58d6b,VU#80
+483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/Form1.resx,44f902081d264724531a4bd595e5e043b6dc0287,VU#64
+483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/Form1.resx,44f902081d264724531a4bd595e5e043b6dc0287,VU#80
 483768490,zv800/Vector-main-Repository,Vector v2/Core/FastColoredTextBox.dll,4b60b87fd696b02d7fce38325c7adfc9e806f650,VU#69
 483768490,zv800/Vector-main-Repository,4-20-2022.tar,910b6536bd13e9cfcbda89653a94976e21d1106b,VU#25
 483768490,zv800/Vector-main-Repository,4-20-2022.tar,910b6536bd13e9cfcbda89653a94976e21d1106b,VU#69
-483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/Form1.resx,eb964afc598408fb4213f6d8a053aa3a330071da,VU#64
-483768490,zv800/Vector-main-Repository,new/Vector v2/Vector v2/Form1.resx,eb964afc598408fb4213f6d8a053aa3a330071da,VU#80
