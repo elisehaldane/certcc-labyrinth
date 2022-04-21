@@ -3,7 +3,6 @@ VU#80,1.00000000,https://github.com/huangpan110/sunlogin_rce,huangpan110/sunlogi
 VU#80,1.00000000,https://github.com/triple3567/MetasploitCTF,triple3567/MetasploitCTF,435269786
 VU#80,0.50000000,https://github.com/yuno19/exploit,yuno19/exploit,440249410
 VU#80,0.50000000,https://github.com/Vyper-Dev/p0tion,Vyper-Dev/p0tion,337893211
-VU#80,0.25000000,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#80,0.20000000,https://github.com/HelloLyfing/log4j2-rce-202112-poc,HelloLyfing/log4j2-rce-202112-poc,442988778
 VU#80,0.20000000,https://github.com/prodigiousMind/log4j-exploit-RCE-by-ReverseShell,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,439824794
 VU#80,0.20000000,https://github.com/Eiriksgata/Apache-Log4j-Rce,Eiriksgata/Apache-Log4j-Rce,438146429
@@ -11,6 +10,7 @@ VU#80,0.20000000,https://github.com/PeTcHeNkA/log4j-exploit,PeTcHeNkA/log4j-expl
 VU#80,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,437070304
 VU#80,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#80,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
+VU#80,0.16666667,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#80,0.16666667,https://github.com/ishan-saha/LOG4SHELL,ishan-saha/LOG4SHELL,457413438
 VU#80,0.16666667,https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC,ColdFusionX/CVE-2021-44228-Log4Shell-POC,449417650
 VU#80,0.16666667,https://github.com/minhnq22/log4shell_exploit,minhnq22/log4shell_exploit,445372469
@@ -20,6 +20,7 @@ VU#80,0.16666667,https://github.com/jahidul-arafat/log4j-vulnerability-simulatio
 VU#80,0.16666667,https://github.com/zaneoblaneo/zLog4ShellExploit,zaneoblaneo/zLog4ShellExploit,441037114
 VU#80,0.16666667,https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce,Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce,439497466
 VU#80,0.16666667,https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP,nu11secur1ty/CVE-2021-44228-VULN-APP,439430099
+VU#80,0.16666667,https://github.com/Kr0ff/CVE-2021-44228,Kr0ff/CVE-2021-44228,439129728
 VU#80,0.16666667,https://github.com/111coding/log4j_temp_CVE-2021-44228,111coding/log4j_temp_CVE-2021-44228,438650245
 VU#80,0.16666667,https://github.com/sunnyvale-it/CVE-2021-44228-PoC,sunnyvale-it/CVE-2021-44228-PoC,437681598
 VU#80,0.16666667,https://github.com/cyberxml/log4j-poc,cyberxml/log4j-poc,437663314
@@ -100,5 +101,5 @@ VU#80,0.00021137,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/
 VU#80,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#80,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#80,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#80,0.00020243,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#80,0.00020239,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#80,0.00004639,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

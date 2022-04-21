@@ -20,12 +20,12 @@ VU#69,0.33333333,https://github.com/vicojump/Exploit,vicojump/Exploit,462016126
 VU#69,0.33333333,https://github.com/momenthubv3/Skid,momenthubv3/Skid,455209277
 VU#69,0.33333333,https://github.com/JakeHost/JakeSploit-Exec,JakeHost/JakeSploit-Exec,433368423
 VU#69,0.33333333,https://github.com/helviojunior/shellcodetester,helviojunior/shellcodetester,191294929
-VU#69,0.25000000,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#69,0.25000000,https://github.com/vicojump/Exploit6,vicojump/Exploit6,462207692
 VU#69,0.25000000,https://github.com/vicojump/Exploit4,vicojump/Exploit4,462025251
 VU#69,0.25000000,https://github.com/vicojump/Exploit2,vicojump/Exploit2,462023623
 VU#69,0.25000000,https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,439234639
 VU#69,0.20000000,https://github.com/HappyyCat/exploit,HappyyCat/exploit,445970103
+VU#69,0.16666667,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#69,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
 VU#69,0.14285714,https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675,mtthwstffrd/calebstewart-CVE-2021-1675,462124130
 VU#69,0.14285714,https://github.com/Amaranese/CVE-2021-34527,Amaranese/CVE-2021-34527,437822133
@@ -114,7 +114,7 @@ VU#69,0.00021137,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/
 VU#69,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#69,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#69,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#69,0.00020243,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#69,0.00020239,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#69,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#69,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#69,0.00004639,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

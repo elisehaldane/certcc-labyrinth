@@ -37,6 +37,7 @@ VU#23,0.16666667,https://github.com/jahidul-arafat/log4j-vulnerability-simulatio
 VU#23,0.16666667,https://github.com/zaneoblaneo/zLog4ShellExploit,zaneoblaneo/zLog4ShellExploit,441037114
 VU#23,0.16666667,https://github.com/Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce,Pengfei-Lu/CVE-2021-44228-Apache-Log4j-Rce,439497466
 VU#23,0.16666667,https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP,nu11secur1ty/CVE-2021-44228-VULN-APP,439430099
+VU#23,0.16666667,https://github.com/Kr0ff/CVE-2021-44228,Kr0ff/CVE-2021-44228,439129728
 VU#23,0.16666667,https://github.com/111coding/log4j_temp_CVE-2021-44228,111coding/log4j_temp_CVE-2021-44228,438650245
 VU#23,0.16666667,https://github.com/sunnyvale-it/CVE-2021-44228-PoC,sunnyvale-it/CVE-2021-44228-PoC,437681598
 VU#23,0.16666667,https://github.com/cyberxml/log4j-poc,cyberxml/log4j-poc,437663314
@@ -125,5 +126,5 @@ VU#23,0.00021137,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/
 VU#23,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#23,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#23,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#23,0.00020243,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00020239,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
