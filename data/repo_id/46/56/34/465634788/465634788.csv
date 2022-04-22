@@ -1,33 +1,33 @@
 repo_id,repo_full_name,file,file_sha1,match
 465634788,Threekiii/Vulhub-wiki,GitLab 远程命令执行漏洞 CVE-2021-22205.md,006c831c10ca6c2ef35de7fa851adc0f2fc3fec6,CVE-2021-22204
 465634788,Threekiii/Vulhub-wiki,GitLab 远程命令执行漏洞 CVE-2021-22205.md,006c831c10ca6c2ef35de7fa851adc0f2fc3fec6,CVE-2021-22205
-465634788,Threekiii/Vulhub-wiki,Apache Tomcat AJP 文件包含漏洞 CVE-2020-1938.md,0932289fb6d8bf6aab1b2612acdfc372a8882ded,CVE-2020-1938
 465634788,Threekiii/Vulhub-wiki,Apache Tomcat AJP 文件包含漏洞 CVE-2020-1938.md,0932289fb6d8bf6aab1b2612acdfc372a8882ded,CNVD-2020-10487
+465634788,Threekiii/Vulhub-wiki,Apache Tomcat AJP 文件包含漏洞 CVE-2020-1938.md,0932289fb6d8bf6aab1b2612acdfc372a8882ded,CVE-2020-1938
 465634788,Threekiii/Vulhub-wiki,Struts2 S2-061 远程代码执行漏洞 CVE-2020-17530.md,0bdb29a79085ad44bf290370d1454797a5157401,CVE-2020-17530
 465634788,Threekiii/Vulhub-wiki,Wordpress 4.6 任意命令执行漏洞 PwnScriptum.md,0c634b348d29f6580a928de659874f11debbc693,CVE-2016-10033
 465634788,Threekiii/Vulhub-wiki,Apache APISIX 默认密钥漏洞 CVE-2020-13945.md,0e6a17070c3a5a553604beeadc4c29ea5743e9cc,CVE-2020-13945
 465634788,Threekiii/Vulhub-wiki,Adobe ColdFusion 文件读取漏洞 CVE-2010-2861.md,1047a14b52d8a60a2708011ed97e019b940b7134,CVE-2010-2861
 465634788,Threekiii/Vulhub-wiki,Struts2 S2-045 远程代码执行漏洞 CVE-2017-5638.md,1076e0a44936d1a2b706f16ad63930326dc6d4d5,CVE-2017-5638
 465634788,Threekiii/Vulhub-wiki,Django GIS SQL注入漏洞 CVE-2020-9402.md,1098550e6822457c0b31949cfd9fe3a21059e183,CVE-2020-9402
-465634788,Threekiii/Vulhub-wiki,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-34429.md,135ce7e9ebdda9a237452dcfa27a58eebec16a6f,GHSA-VJV5-GP2W-65VM
 465634788,Threekiii/Vulhub-wiki,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-34429.md,135ce7e9ebdda9a237452dcfa27a58eebec16a6f,CVE-2021-34429
 465634788,Threekiii/Vulhub-wiki,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-34429.md,135ce7e9ebdda9a237452dcfa27a58eebec16a6f,CVE-2021-28164
+465634788,Threekiii/Vulhub-wiki,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-34429.md,135ce7e9ebdda9a237452dcfa27a58eebec16a6f,GHSA-VJV5-GP2W-65VM
 465634788,Threekiii/Vulhub-wiki,Apache ActiveMQ 反序列化漏洞 CVE-2015-5254.md,140e2e75c9ed44e40028a952d19b2ca1b540a9bf,CVE-2015-5254
 465634788,Threekiii/Vulhub-wiki,Node.js 目录穿越漏洞 CVE-2017-14849.md,153ca3833cd1f37c2f20088012d919423b4f9216,CVE-2017-14849
 465634788,Threekiii/Vulhub-wiki,Libssh 服务端权限认证绕过漏洞 CVE-2018-10933.md,1686cc43813bae10a9fce4d932d427caae9e9a20,CVE-2018-10933
 465634788,Threekiii/Vulhub-wiki,OpenSSL 心脏出血漏洞 CVE-2014-0160.md,16d3327530fca6df6fee0e59450ee5cc34e44035,CVE-2014-0160
 465634788,Threekiii/Vulhub-wiki,Mysql 身份认证绕过漏洞 CVE-2012-2122.md,1bf14818cdde8426d78ed86c7a6921ae96310abb,CVE-2012-2122
 465634788,Threekiii/Vulhub-wiki,Apache Solr XML 实体注入漏洞 CVE-2017-12629.md,1c282d58eeffabfe6f71b6f61e3fdfef74e03283,CVE-2017-12629
-465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-16509.md,1fe5ec2136d08276edb56b30a99b25f9abed6b0c,GPZ-1640
 465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-16509.md,1fe5ec2136d08276edb56b30a99b25f9abed6b0c,CVE-2018-16509
+465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-16509.md,1fe5ec2136d08276edb56b30a99b25f9abed6b0c,GPZ-1640
 465634788,Threekiii/Vulhub-wiki,Nginx 配置错误漏洞.md,215b879063e4f14af1f0cec3a510b52f4ed0d1e9,CVE-2016-9964
 465634788,Threekiii/Vulhub-wiki,Drupal  7.32 “Drupalgeddon” SQL注入漏洞 CVE-2014-3704.md,23a5e135ade769b93c2a865bf3bdb2dba2ad0e02,CVE-2014-3704
 465634788,Threekiii/Vulhub-wiki,JBoss JMXInvokerServlet 反序列化漏洞.md,25b77074f48189679a66b5d172e0985884da2343,CVE-2017-12149
 465634788,Threekiii/Vulhub-wiki,Struts2 S2-059 远程代码执行漏洞 CVE-2019-0230.md,2787fc64e4be666805639b10425d5106b7ace8a0,CVE-2018-11776
 465634788,Threekiii/Vulhub-wiki,Struts2 S2-059 远程代码执行漏洞 CVE-2019-0230.md,2787fc64e4be666805639b10425d5106b7ace8a0,CVE-2019-0230
 465634788,Threekiii/Vulhub-wiki,Ruby NetFTP 模块命令注入漏洞 CVE-2017-17405.md,2861056b3d5e29f9e4c8a01cd1d11ebb79d547f8,CVE-2017-17405
-465634788,Threekiii/Vulhub-wiki,Apache Flink 目录遍历漏洞 CVE-2020-17519.md,2b6e4074014def5818026beb96c4cc2b64bebb77,CVE-2020-17519
 465634788,Threekiii/Vulhub-wiki,Apache Flink 目录遍历漏洞 CVE-2020-17519.md,2b6e4074014def5818026beb96c4cc2b64bebb77,CVE-2020-17518
+465634788,Threekiii/Vulhub-wiki,Apache Flink 目录遍历漏洞 CVE-2020-17519.md,2b6e4074014def5818026beb96c4cc2b64bebb77,CVE-2020-17519
 465634788,Threekiii/Vulhub-wiki,Imagetragick 命令执行漏洞 CVE-2016–3714.md,2c1c0851714bc854f2fa0f8f84b262bff5d18fc1,CVE-2016-3714
 465634788,Threekiii/Vulhub-wiki,Apache Airflow 默认密钥导致的权限绕过 CVE-2020-17526.md,2fbeb1b6ae2d92b13f3cb18a565bb291a62096c9,CVE-2020-17526
 465634788,Threekiii/Vulhub-wiki,mini_httpd任意文件读取漏洞 CVE-2018-18778.md,30bd417f6d140d98fb4fc991ea1e6f39257ad41d,CVE-2018-18778
@@ -51,17 +51,17 @@ repo_id,repo_full_name,file,file_sha1,match
 465634788,Threekiii/Vulhub-wiki,Apache Solr 远程命令执行漏洞 CVE-2019-0193.md,5f6f169ed6e589e29d1f5665b49f5fdaf16fa55b,CVE-2019-0193
 465634788,Threekiii/Vulhub-wiki,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-28164.md,623c6304af5cfb2a78752f390f60cf1bad5cd9bf,GHSA-V7FF-8WCX-GMC5
 465634788,Threekiii/Vulhub-wiki,Jetty WEB-INF 敏感信息泄露漏洞 CVE-2021-28164.md,623c6304af5cfb2a78752f390f60cf1bad5cd9bf,CVE-2021-28164
-465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-19475.md,663ce98d7ecf0efb64aab2c25037e00180d78355,CVE-2018-19475
 465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-19475.md,663ce98d7ecf0efb64aab2c25037e00180d78355,CVE-2018-16509
+465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2018-19475.md,663ce98d7ecf0efb64aab2c25037e00180d78355,CVE-2018-19475
 465634788,Threekiii/Vulhub-wiki,Apache Log4j Server 反序列化命令执行漏洞 CVE-2017-5645.md,66f18bec2300a0c45ebf526a7215ef541c96082a,CVE-2017-5645
-465634788,Threekiii/Vulhub-wiki,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,67d2da52d6c119e9c05ff6e8939c497bfcbb51b0,CVE-2021-26119
-465634788,Threekiii/Vulhub-wiki,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,67d2da52d6c119e9c05ff6e8939c497bfcbb51b0,CVE-2021-26120
 465634788,Threekiii/Vulhub-wiki,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,67d2da52d6c119e9c05ff6e8939c497bfcbb51b0,CVE-2020-15906
+465634788,Threekiii/Vulhub-wiki,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,67d2da52d6c119e9c05ff6e8939c497bfcbb51b0,CVE-2021-26120
+465634788,Threekiii/Vulhub-wiki,Tiki Wiki CMS Groupware 认证绕过漏洞 CVE-2020-15906.md,67d2da52d6c119e9c05ff6e8939c497bfcbb51b0,CVE-2021-26119
 465634788,Threekiii/Vulhub-wiki,Apache Airflow Celery 消息中间件命令执行 CVE-2020-11981.md,6ad97969c48464c6e24a48a9f06dd2196a616602,CVE-2020-11981
-465634788,Threekiii/Vulhub-wiki,Jackson-databind 反序列化漏洞 CVE-2017-7525+CVE-2017-17485.md,6edee8b3b94d645fedef2e22617283a66a29db6f,CVE-2017-7525
 465634788,Threekiii/Vulhub-wiki,Jackson-databind 反序列化漏洞 CVE-2017-7525+CVE-2017-17485.md,6edee8b3b94d645fedef2e22617283a66a29db6f,CVE-2017-17485
-465634788,Threekiii/Vulhub-wiki,Drupal 远程代码执行漏洞 CVE-2018-7602.md,714e95b0db73137a335511f971fc09294a9b3691,CVE-2018-7600
+465634788,Threekiii/Vulhub-wiki,Jackson-databind 反序列化漏洞 CVE-2017-7525+CVE-2017-17485.md,6edee8b3b94d645fedef2e22617283a66a29db6f,CVE-2017-7525
 465634788,Threekiii/Vulhub-wiki,Drupal 远程代码执行漏洞 CVE-2018-7602.md,714e95b0db73137a335511f971fc09294a9b3691,CVE-2018-7602
+465634788,Threekiii/Vulhub-wiki,Drupal 远程代码执行漏洞 CVE-2018-7602.md,714e95b0db73137a335511f971fc09294a9b3691,CVE-2018-7600
 465634788,Threekiii/Vulhub-wiki,Jetty 通用 Servlets 组件 ConcatServlet 信息泄露漏洞 CVE-2021-28169.md,715816d8e8dc1fdcada075b09321f34fcdffa524,CVE-2021-28169
 465634788,Threekiii/Vulhub-wiki,Jetty 通用 Servlets 组件 ConcatServlet 信息泄露漏洞 CVE-2021-28169.md,715816d8e8dc1fdcada075b09321f34fcdffa524,GHSA-GWCR-J4WH-J3CQ
 465634788,Threekiii/Vulhub-wiki,Ruby On Rails 路径穿越漏洞 CVE-2018-3760.md,723ed61f8ca7255b696fbaf4dc13786fda75779e,CVE-2018-3760
@@ -78,18 +78,18 @@ repo_id,repo_full_name,file,file_sha1,match
 465634788,Threekiii/Vulhub-wiki,Weblogic  10.3.6 'wls-wsat' XMLDecoder 反序列化漏洞 CVE-2017-10271.md,8a8dd4482ba22a66a17f57e37258b3bc684d0bb9,CVE-2017-10271
 465634788,Threekiii/Vulhub-wiki,Couchdb 任意命令执行漏洞 CVE-2017-12636.md,8c7df046e8979731b7e381146f3f3c1e9ade530d,CVE-2017-12636
 465634788,Threekiii/Vulhub-wiki,Couchdb 任意命令执行漏洞 CVE-2017-12636.md,8c7df046e8979731b7e381146f3f3c1e9ade530d,CVE-2017-12635
-465634788,Threekiii/Vulhub-wiki,SaltStack 任意文件读写漏洞 CVE-2020-11652.md,90de8ecaeea5c2c61d3b9baff08485433451e5ea,CVE-2020-11652
 465634788,Threekiii/Vulhub-wiki,SaltStack 任意文件读写漏洞 CVE-2020-11652.md,90de8ecaeea5c2c61d3b9baff08485433451e5ea,CVE-2020-11651
-465634788,Threekiii/Vulhub-wiki,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,9141871f31aa6ee68622ee5612db32196f8100ed,CVE-2019-2725
+465634788,Threekiii/Vulhub-wiki,SaltStack 任意文件读写漏洞 CVE-2020-11652.md,90de8ecaeea5c2c61d3b9baff08485433451e5ea,CVE-2020-11652
 465634788,Threekiii/Vulhub-wiki,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,9141871f31aa6ee68622ee5612db32196f8100ed,CVE-2020-14882
 465634788,Threekiii/Vulhub-wiki,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,9141871f31aa6ee68622ee5612db32196f8100ed,CVE-2020-14750
 465634788,Threekiii/Vulhub-wiki,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,9141871f31aa6ee68622ee5612db32196f8100ed,CVE-2020-14883
+465634788,Threekiii/Vulhub-wiki,Weblogic 管理控制台未授权远程命令执行漏洞 CVE-2020-14882+CVE-2020-14883.md,9141871f31aa6ee68622ee5612db32196f8100ed,CVE-2019-2725
 465634788,Threekiii/Vulhub-wiki,Apache Shiro 1.2.4 反序列化漏洞 CVE-2016-4437.md,924f562e739b2fb0713b6958cbb37301a9227ba5,CVE-2016-4437
 465634788,Threekiii/Vulhub-wiki,OpenSMTPD 远程命令执行漏洞 CVE-2020-7247.md,946ddd4504b477ca1e05db88b1713f72b825fffd,CVE-2020-7247
 465634788,Threekiii/Vulhub-wiki,Joomla 3.7.0 SQL注入漏洞 CVE-2017-8917).md,96629b4a8e8a2928cc88ec393a247e383084aae5,CVE-2017-8917
 465634788,Threekiii/Vulhub-wiki,GIT-SHELL 沙盒绕过 CVE-2017-8386.md,96de19381498eb6ea4f083cb297774b8c4db3c2a,CVE-2017-8386
-465634788,Threekiii/Vulhub-wiki,FFmpeg 任意文件读取漏洞SSRF漏洞 CVE-2016-1897+CVE-2016-1898.md,9739d1bba20c407143b3f88d7a307725b8f3876e,CVE-2016-1897
 465634788,Threekiii/Vulhub-wiki,FFmpeg 任意文件读取漏洞SSRF漏洞 CVE-2016-1897+CVE-2016-1898.md,9739d1bba20c407143b3f88d7a307725b8f3876e,CVE-2016-1898
+465634788,Threekiii/Vulhub-wiki,FFmpeg 任意文件读取漏洞SSRF漏洞 CVE-2016-1897+CVE-2016-1898.md,9739d1bba20c407143b3f88d7a307725b8f3876e,CVE-2016-1897
 465634788,Threekiii/Vulhub-wiki,mongo-express 远程代码执行漏洞 CVE-2019-10758.md,98c131ec8e25231b36ad538ed642130d17667ad2,CVE-2019-10758
 465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2019-6116.md,98c6ce760e1ce486a50228b61ac4ce1cda95cadc,CVE-2019-6116
 465634788,Threekiii/Vulhub-wiki,GhostScript 沙箱绕过（命令执行）漏洞 CVE-2019-6116.md,98c6ce760e1ce486a50228b61ac4ce1cda95cadc,GPZ-1729
@@ -103,6 +103,7 @@ repo_id,repo_full_name,file,file_sha1,match
 465634788,Threekiii/Vulhub-wiki,Spring Security OAuth2 远程命令执行漏洞 CVE-2016-4977.md,a67c7d48c3878ceba83103f6b2e933fc60f5e9e2,CVE-2016-4977
 465634788,Threekiii/Vulhub-wiki,Spring Messaging 远程命令执行漏洞 CVE-2018-1270.md,aaab9f47f87e160fb15407046b23ef3b2d3b3b60,CVE-2018-1270
 465634788,Threekiii/Vulhub-wiki,Apache HTTP Server 2.4.48 mod_proxy SSRF漏洞 CVE-2021-40438.md,aaaf186e721bfdccc694551acf537ed50bf6fc12,CVE-2021-40438
+465634788,Threekiii/Vulhub-wiki,Apache Tomcat PUT方法任意写文件漏洞 CVE-2017-12615.md,ac0ee8a9c9a0f95a9645092d7a4725a69e0089ce,CVE-2017-12615
 465634788,Threekiii/Vulhub-wiki,Weblogic 任意文件上传漏洞 CVE-2018-2894.md,ac6cd2e51d9c6af667d025ff8f46e980ffaa1882,CVE-2018-2894
 465634788,Threekiii/Vulhub-wiki,Python PIL 远程命令执行漏洞 CVE-2017-8291.md,ad0ed3815868880a8c065c276f70d455406c7aed,CVE-2017-8291
 465634788,Threekiii/Vulhub-wiki,Spring Data Commons 远程命令执行漏洞 CVE-2018-1273.md,ae04f5f9c09a5bacc70c5b8c49e1008e9273be8f,CVE-2018-1273
@@ -116,8 +117,8 @@ repo_id,repo_full_name,file,file_sha1,match
 465634788,Threekiii/Vulhub-wiki,XStream 反序列化命令执行漏洞 CVE-2021-21351.md,bfc9e4bacea5f3f82478e86ec9e2046c0b4334e2,CVE-2021-21351
 465634788,Threekiii/Vulhub-wiki,Tomcat PUT方法任意写文件漏洞 CVE-2017-12615.md,c2b451010c19a316990dade4af86ff546982d039,CVE-2017-12615
 465634788,Threekiii/Vulhub-wiki,Nginx 文件名逻辑漏洞 CVE-2013-4547.md,c2c5fb4c77ae68e8a0209dd786e8390148932ad6,CVE-2013-4547
-465634788,Threekiii/Vulhub-wiki,Zabbix Server trapper命令注入漏洞 CVE-2020-11800.md,c59ef7d7d3031fa6302a951cadcbe5fdf8836c0c,CVE-2020-11800
 465634788,Threekiii/Vulhub-wiki,Zabbix Server trapper命令注入漏洞 CVE-2020-11800.md,c59ef7d7d3031fa6302a951cadcbe5fdf8836c0c,CVE-2017-2824
+465634788,Threekiii/Vulhub-wiki,Zabbix Server trapper命令注入漏洞 CVE-2020-11800.md,c59ef7d7d3031fa6302a951cadcbe5fdf8836c0c,CVE-2020-11800
 465634788,Threekiii/Vulhub-wiki,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10204.md,c6981059f03f82295c1097cd7dbed15da57dd16e,CVE-2018-16621
 465634788,Threekiii/Vulhub-wiki,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10204.md,c6981059f03f82295c1097cd7dbed15da57dd16e,CVE-2020-10199
 465634788,Threekiii/Vulhub-wiki,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10204.md,c6981059f03f82295c1097cd7dbed15da57dd16e,CVE-2020-10204
@@ -135,8 +136,8 @@ repo_id,repo_full_name,file,file_sha1,match
 465634788,Threekiii/Vulhub-wiki,Drupal Core 8 PECL YAML 反序列化任意代码执行漏洞 CVE-2017-6920.md,de7338f774984e8f618a8fb5e052f5113e2bfe08,CVE-2017-6920
 465634788,Threekiii/Vulhub-wiki,Python PIL 远程命令执行漏洞 CVE-2018-16509.md,df663779df7b21760d1227c1f5dbfb251b5d8c7c,CVE-2018-16509
 465634788,Threekiii/Vulhub-wiki,ntopng权限绕过漏洞 CVE-2021-28073.md,e0df65a02380f9c5bad918e2d867117035ae72ee,CVE-2021-28073
-465634788,Threekiii/Vulhub-wiki,Nacos 认证绕过漏洞 CVE-2021-29441.md,e43f5d749e48d27bde9cc9555db73b510acd2634,CVE-2021-29441
 465634788,Threekiii/Vulhub-wiki,Nacos 认证绕过漏洞 CVE-2021-29441.md,e43f5d749e48d27bde9cc9555db73b510acd2634,GHSA-36HP-JR8H-556F
+465634788,Threekiii/Vulhub-wiki,Nacos 认证绕过漏洞 CVE-2021-29441.md,e43f5d749e48d27bde9cc9555db73b510acd2634,CVE-2021-29441
 465634788,Threekiii/Vulhub-wiki,Imagemagick PDF密码位置命令注入漏洞 CVE-2020-29599.md,e504703bd5c7f28f5a34767bc8166134fd4f234d,CVE-2020-29599
 465634788,Threekiii/Vulhub-wiki,Apache HTTP Server 2.4.49 路径穿越漏洞 CVE-2021-41773.md,e6f91cd030251dfaffae92164733aeba89f622da,CVE-2021-41773
 465634788,Threekiii/Vulhub-wiki,Nexus Repository Manager 3 远程命令执行漏洞 CVE-2020-10199.md,e9217a733c4e99bc5199a34b7d31945cc2a39fde,CVE-2020-10199
