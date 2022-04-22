@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
 VU#51,0.50000000,https://github.com/RapidoBuzz/RhyteredExploitAPI,RapidoBuzz/RhyteredExploitAPI,459694007
+VU#51,0.33333333,https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481,ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481,484368544
 VU#51,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-0336,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-0336,484323372
 VU#51,0.33333333,https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416,ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416,483359018
 VU#51,0.33333333,https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394,ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394,483210419
@@ -91,7 +92,7 @@ VU#51,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#51,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#51,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#51,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
-VU#51,0.00288184,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#51,0.00286533,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#51,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#51,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#51,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
