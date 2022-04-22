@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
 VU#51,0.50000000,https://github.com/RapidoBuzz/RhyteredExploitAPI,RapidoBuzz/RhyteredExploitAPI,459694007
+VU#51,0.33333333,https://github.com/ShaikUsaf/ShaikUsaf-packages_apps_settings_AOSP10_r33_CVE-2020-0188,ShaikUsaf/ShaikUsaf-packages_apps_settings_AOSP10_r33_CVE-2020-0188,484390611
 VU#51,0.33333333,https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481,ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481,484368544
 VU#51,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-0336,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-0336,484323372
 VU#51,0.33333333,https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416,ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416,483359018
