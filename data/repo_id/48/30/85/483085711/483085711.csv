@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+483085711,SummerSec/SpringExploit,cmd/commons/poc/CVE-2022-22947.go,50ca160ff880997c7c393b056957c151176c0bf0,CVE-2020-222947
+483085711,SummerSec/SpringExploit,cmd/commons/poc/CVE-2022-22947.go,50ca160ff880997c7c393b056957c151176c0bf0,CVE-2022-22947
+483085711,SummerSec/SpringExploit,CHANGELOG.md,93b94c44b62243a67eb8394087adbfba50151480,CVE-2022-22947
+483085711,SummerSec/SpringExploit,README.md,a2869e771a8afd5d2cb594cfbcb7a2565852c7c9,CVE-2022-22947
+483085711,SummerSec/SpringExploit,README.md,a2869e771a8afd5d2cb594cfbcb7a2565852c7c9,CVE-2022-22963
