@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+484265150,Threekiii/Awesome-Exploit,GoAhead/CVE-2017-17562/CVE-2017-17562.c,0f407124b9fdd40cc180fdcc807b8143072ce5ee,CVE-2017-17562
+484265150,Threekiii/Awesome-Exploit,Fastjson/1.2.24/marshalsec-0.0.3-SNAPSHOT-all.jar,2f4917d0bff8ff38a90d5f76607392d9871d6637,VU#03
+484265150,Threekiii/Awesome-Exploit,Fastjson/1.2.24/marshalsec-0.0.3-SNAPSHOT-all.jar,2f4917d0bff8ff38a90d5f76607392d9871d6637,VU#23
+484265150,Threekiii/Awesome-Exploit,Fastjson/1.2.24/marshalsec-0.0.3-SNAPSHOT-all.jar,2f4917d0bff8ff38a90d5f76607392d9871d6637,VU#68
+484265150,Threekiii/Awesome-Exploit,Fastjson/1.2.24/marshalsec-0.0.3-SNAPSHOT-all.jar,2f4917d0bff8ff38a90d5f76607392d9871d6637,VU#80
+484265150,Threekiii/Awesome-Exploit,Fastjson/1.2.24/marshalsec-0.0.3-SNAPSHOT-all.jar,2f4917d0bff8ff38a90d5f76607392d9871d6637,VU#83
+484265150,Threekiii/Awesome-Exploit,CouchDB/CVE-2017-12636/poc.py,416ed1adfe1ab99829da4565a09e7893957960d9,CVE-2017-12636
+484265150,Threekiii/Awesome-Exploit,Nginx/CVE-2017-7529/CVE-2017-7529.py,4216950199e67f68efa366f382f7458b35903f5a,CVE-2017-7529
+484265150,Threekiii/Awesome-Exploit,Flink/CVE-2020-17519/CVE-2020-17519.py,431b197a39d62f502685f0c72df6a8bca7eba7b8,CVE-2020-17519
+484265150,Threekiii/Awesome-Exploit,Jackson/CVE-2017-17485/CVE-2017-17485.xml,551392c45ebb8e8e218f963015c8df991c395fc8,CVE-2017-17485
+484265150,Threekiii/Awesome-Exploit,Liferay/CVE-2020-7961/LifExp.java,ed24411f892adcd59769091cadd4d40384419980,CVE-2020-7961
+484265150,Threekiii/Awesome-Exploit,Nacos/CVE-2021-29441/CVE-2021-29441.py,f6c47e370977e26c22bd30d8b6b7ebb8614d81e7,CVE-2021-29441
