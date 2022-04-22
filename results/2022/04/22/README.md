@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/22
     
-55 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-22 03:06:45+00:00 | 727761 | 27020 | Ruby | 12173 | [] |
-| Threekiii/Awesome-Exploit | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | ['exploit'] | 1 | 2022-04-22 02:19:03+00:00 | 0 | 0 | Python | 0 | [] |
+| gudyrmik/CVE-2021-44142 | None | https://github.com/gudyrmik/CVE-2021-44142 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 04:46:55+00:00 | 0 | 0 | | 0 | ['CVE-2021-44142'] |
 | k3rwin/spring-core-rce | spring框架RCE漏洞 CVE-2022-22965 | https://github.com/k3rwin/spring-core-rce | ['rce'] | 1 | 2022-04-22 07:37:16+00:00 | 300 | 24 | Python | 7 | ['CVE-2022-22965'] |
 | k3rwin/spring-cloud-function-rce | Spring Cloud Function SPEL表达式注入漏洞（CVE-2022-22963） | https://github.com/k3rwin/spring-cloud-function-rce | ['rce'] | 1 | 2022-04-22 05:13:32+00:00 | 348 | 4 | Python | 1 | ['CVE-2022-22963'] |
 | GSstarGamer/Roblox-Exploits | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | ['exploit'] | 1 | 2022-04-22 03:17:17+00:00 | 30 | 0 | Lua | 0 | [] |
@@ -18,10 +18,10 @@
 | 0xUhaw/CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 format | https://github.com/0xUhaw/CVE-2022-0778 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 06:55:52+00:00 | 7 | 0 | | 2 | ['CVE-2022-0778'] |
 | Robing00/PID-via-LFI | If you have a LFI vulnerability you can use this script to scan PIDs and maybe find a vulnerable process to exploit further. | https://github.com/Robing00/PID-via-LFI | ['exploit'] | 1 | 2022-04-22 05:52:37+00:00 | 9 | 0 | Python | 0 | [] |
 | Lidong-io/cve-2022-29464 | cve-2022-29464 批量脚本 | https://github.com/Lidong-io/cve-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 02:09:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
+| Threekiii/Awesome-Exploit | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | ['exploit'] | 1 | 2022-04-22 02:19:03+00:00 | 0 | 0 | Python | 0 | [] |
 | bhagvatgiri/Exploiting-Stack-Based-Buffer-Overflow-on-FreeFloat-FTP-Server | None | https://github.com/bhagvatgiri/Exploiting-Stack-Based-Buffer-Overflow-on-FreeFloat-FTP-Server | ['exploit'] | 1 | 2022-04-22 04:08:36+00:00 | 0 | 0 | | 0 | [] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-22 02:42:39+00:00 | 494222 | 482 | nan | 103 | [] |
-| gudyrmik/CVE-2021-44142 | None | https://github.com/gudyrmik/CVE-2021-44142 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 04:46:55+00:00 | 0 | 0 | | 0 | ['CVE-2021-44142'] |
 | nanopathi/system_bt_AOSP10_r33_CVE-2021-0522 | None | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0522 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 05:06:10+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0522'] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-22 05:58:31+00:00 | 5312 | 3219 | Python | 689 | [] |
 | h3v0x/CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) | https://github.com/h3v0x/CVE-2022-29464 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-22 05:25:32+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
 | nanopathi/packages_apps_Bluetooth_AOSP10_r33_CVE-2020-0183 | None | https://github.com/nanopathi/packages_apps_Bluetooth_AOSP10_r33_CVE-2020-0183 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 05:34:48+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0183'] |
 | pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0595 | None | https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0595 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 06:26:46+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0595'] |
@@ -31,10 +31,14 @@
 | Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-0336 | None | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-0336 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 06:44:48+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0336'] |
 | Empire4946/EmpireAPI | An API for your Internal Exploit | https://github.com/Empire4946/EmpireAPI | ['exploit'] | 1 | 2022-04-22 07:05:26+00:00 | 0 | 0 | | 0 | [] |
 | Trinadh465/frameworks_base_AOSP10_r33_CVE-2020-0203 | None | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2020-0203 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 07:07:38+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0203'] |
+| Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166 | None | https://github.com/Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 07:45:46+00:00 | 0 | 0 | C | 0 | ['CVE-2019-15166'] |
+| webraybtl/CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 08:44:08+00:00 | 0 | 2 | C++ | 0 | ['CVE-2022-25943'] |
+| martinfrancois/CVE-2021-36460 | None | https://github.com/martinfrancois/CVE-2021-36460 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 08:34:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-36460'] |
+| ArceusXDEV/DahoodAIMLOCKS | This is an da hood aimlock Made by me This is for Exploiters It works on every Executor Expect jjsploit | https://github.com/ArceusXDEV/DahoodAIMLOCKS | ['exploit'] | 1 | 2022-04-22 08:34:57+00:00 | 0 | 0 | | 0 | [] |
 | honypot/CVE-2022-0824 | Deployement of Webmin version 1.984 which is vulnerable to authenticated remote code execution exploit. | https://github.com/honypot/CVE-2022-0824 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-04-22 07:43:16+00:00 | 10 | 1 | Dockerfile | 0 | ['CVE-2022-0824'] |
+| moeinheidari/Awesome-Transformer | A collection of papers exploiting the seminal transformer module in deep learning era. | https://github.com/moeinheidari/Awesome-Transformer | ['exploit'] | 1 | 2022-04-22 08:36:38+00:00 | 31 | 2 | | 0 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-22 02:42:39+00:00 | 494222 | 482 | nan | 103 | [] |
 | Threekiii/Vulhub-wiki | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-wiki | ['exploit'] | 1 | 2022-04-22 02:05:17+00:00 | 306 | 0 | | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-22 05:58:31+00:00 | 5312 | 3219 | Python | 689 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-22 01:14:56+00:00 | 106524 | 379 | Python | 111 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-04-22 04:15:05+00:00 | 72341 | 11030 | Jupyter Notebook | 1929 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-22 00:25:56+00:00 | 50425 | 302 | Ruby | 86 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-04-22 07:19:24+00:00 | 297899 | 98 | Python | 15 | [] |
@@ -45,11 +49,13 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-22 00:04:40+00:00 | 484364 | 53 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-22 01:08:02+00:00 | 55648 | 28 | Python | 5 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-04-22 00:21:57+00:00 | 61 | 0 | Ruby | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-22 00:28:36+00:00 | 322805 | 101 | | 21 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-22 00:28:36+00:00 | 322805 | 101 | nan | 21 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-22 01:14:56+00:00 | 106524 | 379 | Python | 111 | [] |
 | rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2022-04-22 04:14:43+00:00 | 640 | 0 | HTML | 0 | [] |
-| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-22 04:09:33+00:00 | 324 | 54 | nan | 7 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-22 02:02:16+00:00 | 28341 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-22 02:03:58+00:00 | 1054 | 87 | HTML | 23 | [] |
+| CberryAIRDROP/CVE-2022-26809-RCE | None | https://github.com/CberryAIRDROP/CVE-2022-26809-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-22 08:19:37+00:00 | 0 | 2 | | 0 | ['CVE-2022-26809'] |
+| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-04-22 08:33:55+00:00 | 1785 | 0 | TypeScript | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-22 01:49:11+00:00 | 4749312 | 41 | Python | 5 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-22 02:00:31+00:00 | 7050 | 2343 | TypeScript | 343 | [] |
 | ca3tie1/ExploitDepository | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | ['exploit'] | 1 | 2022-04-22 02:09:45+00:00 | 19237 | 28 | Python | 2 | [] |
@@ -59,4 +65,5 @@
 | aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | None | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | ['cve-2 OR cve_2'] | 1 | 2022-04-22 00:16:27+00:00 | 1311 | 89 | Shell | 16 | ['CVE-2021-44228'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-22 04:18:28+00:00 | 45898 | 2651 | | 325 | [] |
 | hotpotcookie/lol4j-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | ['exploit'] | 1 | 2022-04-22 07:05:21+00:00 | 2138 | 1 | Java | 0 | ['CVE-2021-44228'] |
-| Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166 | None | https://github.com/Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166 | ['cve-2 OR cve_2'] | 1 | 2022-04-22 07:45:46+00:00 | 0 | 0 | C | 0 | ['CVE-2019-15166'] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-22 04:09:33+00:00 | 324 | 54 | nan | 7 | [] |
+| Du4t/Python_ShellcodeLoader | 基于Python的shellcode加载器 | https://github.com/Du4t/Python_ShellcodeLoader | ['shellcode'] | 1 | 2022-04-22 08:44:58+00:00 | 0 | 0 | Python | 0 | [] |
