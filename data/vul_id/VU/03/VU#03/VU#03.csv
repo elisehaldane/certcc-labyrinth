@@ -35,7 +35,6 @@ VU#03,0.14285714,https://github.com/taise-hub/log4j-poc,taise-hub/log4j-poc,4474
 VU#03,0.14285714,https://github.com/brandbir/JPEG-Restorer,brandbir/JPEG-Restorer,27171602
 VU#03,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
 VU#03,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,436316308
-VU#03,0.08333333,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#03,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
 VU#03,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#03,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
@@ -53,6 +52,7 @@ VU#03,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellEx
 VU#03,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#03,0.04166667,https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama,alanlengkoan/SPK-Pestisida-Membahas-Hama,432389593
 VU#03,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
+VU#03,0.03703704,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#03,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#03,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#03,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
@@ -122,7 +122,7 @@ VU#03,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#03,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#03,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#03,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
-VU#03,0.00290698,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#03,0.00288184,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#03,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#03,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#03,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
