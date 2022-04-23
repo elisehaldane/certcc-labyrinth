@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS10-012,0.11111111,https://github.com/gsmith257-cyber/EV1L-J3ST3R,gsmith257-cyber/EV1L-J3ST3R,482387896
 MS10-012,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS10-012,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
 MS10-012,0.00609756,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
