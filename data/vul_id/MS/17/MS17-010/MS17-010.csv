@@ -231,7 +231,6 @@ MS17-010,0.09090909,https://github.com/nccgroup/exploit_mitigations,nccgroup/exp
 MS17-010,0.09090909,https://github.com/mojodojo101/exploitsnshells,mojodojo101/exploitsnshells,239681162
 MS17-010,0.09090909,https://github.com/ugur-ercan/exploit-collection,ugur-ercan/exploit-collection,223710260
 MS17-010,0.09090909,https://github.com/fishi0x01/exploits,fishi0x01/exploits,180454634
-MS17-010,0.09090909,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197
 MS17-010,0.09090909,https://github.com/uberJohnson/MS-Vulnerability-Library,uberJohnson/MS-Vulnerability-Library,92790146
 MS17-010,0.08333333,https://github.com/leecybersec/exploitation,leecybersec/exploitation,320358323
 MS17-010,0.08333333,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
@@ -257,6 +256,7 @@ MS17-010,0.04761905,https://github.com/ColdFusionX/ColdFusionX.github.io,ColdFus
 MS17-010,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 MS17-010,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
 MS17-010,0.04761905,https://github.com/RootUp/AutoSploit,RootUp/AutoSploit,94699487
+MS17-010,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197
 MS17-010,0.04545455,https://github.com/Fplyth0ner-Combie/Bug-Project-Framework,Fplyth0ner-Combie/Bug-Project-Framework,131603063
 MS17-010,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ray-tracer96024/metasploitable3-win2k8,449806826
 MS17-010,0.04347826,https://github.com/thelikes/ownlist,thelikes/ownlist,392439675
