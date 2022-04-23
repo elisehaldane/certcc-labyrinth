@@ -1,0 +1,9 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-04-23T00:22:07+0000,50426,302,Ruby,86,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-04-23T00:47:31+0000,9327,36,,20,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-04-23T00:04:36+0000,494775,53,,21,[]
+ARPSyndicate/cvemon,Monitoring exploits & references for CVEs,https://github.com/ARPSyndicate/cvemon,"['cve poc', 'exploit', 'vulnerability poc']",3,2022-04-23T00:34:51+0000,341450,101,,21,[]
+Curt-Lucas/Vulnerable,"Vulnerabilities, Exploits, POCs, Source Code, Disclosures",https://github.com/Curt-Lucas/Vulnerable,"['exploit', 'vuln poc', 'vulnerability poc']",3,2022-04-23T00:45:19+0000,35956,1,Pascal,0,[]
+4sploit/4sploit-web-app,My personal web application,https://github.com/4sploit/4sploit-web-app,['sploit'],1,2022-04-23T00:09:48+0000,1527,0,TypeScript,0,[]
+sadamshr3be/exploit-alsharabi,Create a payload and hack the phone,https://github.com/sadamshr3be/exploit-alsharabi,['exploit'],1,2022-04-23T00:52:54+0000,0,0,,0,[]
+SteelSploit/SteelSploit,SteelSploit is a roblox script executor that was created in C# using the EasyExploits API (credits to them),https://github.com/SteelSploit/SteelSploit,['sploit'],1,2022-04-23T00:39:49+0000,0,0,,0,[]
