@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/23
     
-81 records found after deduplication
+82 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-23 02:31:47+00:00 | 727776 | 27025 | Ruby | 12176 | [] |
-| Marcel46509/Exploit-Files | None | https://github.com/Marcel46509/Exploit-Files | ['exploit'] | 1 | 2022-04-23 11:19:06+00:00 | 19062 | 0 | | 0 | [] |
+| nanopathi/framework_base_AOSP10_r33_CVE-2021-0327 | nan | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0327 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 03:01:53+00:00 | 0 | 0 | | 0 | ['CVE-2021-0327'] |
 | Curt-Lucas/Mass-TomatoCart-Exploit | Uses a list of websites to perform RCE attack against TomatoCart. | https://github.com/Curt-Lucas/Mass-TomatoCart-Exploit | ['exploit', 'rce'] | 2 | 2022-04-23 02:15:39+00:00 | 0 | 0 | | 0 | [] |
 | jan-ambroz/hackEDU_RCE | None | https://github.com/jan-ambroz/hackEDU_RCE | ['rce'] | 1 | 2022-04-23 01:45:43+00:00 | 0 | 0 | Python | 0 | [] |
 | SteelSploit/SteelSploit | SteelSploit is a roblox script executor that was created in C# using the EasyExploits API (credits to them) | https://github.com/SteelSploit/SteelSploit | ['sploit'] | 1 | 2022-04-23 00:39:49+00:00 | 0 | 0 | | 0 | [] |
@@ -25,9 +25,10 @@
 | stoatsec/vulnerable-software | A collection of vulnerable software to showcase different security bugs and how they can be exploited and fixed. | https://github.com/stoatsec/vulnerable-software | ['exploit'] | 1 | 2022-04-23 09:12:26+00:00 | 22 | 0 | Python | 0 | [] |
 | timbw-xyz/PearlFix | Simple plugin made for TimBW HCF to fix pearling noclip exploit. (WIP) | https://github.com/timbw-xyz/PearlFix | ['exploit'] | 1 | 2022-04-23 10:33:22+00:00 | 9197 | 1 | Java | 0 | [] |
 | StyxWebsiteBuild/StyxExploits | None | https://github.com/StyxWebsiteBuild/StyxExploits | ['exploit'] | 1 | 2022-04-23 03:06:13+00:00 | 0 | 0 | | 0 | [] |
-| nanopathi/framework_base_AOSP10_r33_CVE-2021-0327 | nan | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0327 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 03:01:53+00:00 | 0 | 0 | | 0 | ['CVE-2021-0327'] |
 | ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0337 | nan | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0337 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 04:41:43+00:00 | 0 | 0 | | 0 | ['CVE-2021-0337'] |
-| abdulrahim-uj/Metasploit | Metasploit | https://github.com/abdulrahim-uj/Metasploit | ['metasploit module OR payload'] | 1 | 2022-04-23 08:44:53+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-23 05:02:37+00:00 | 241101 | 7062 | C | 1900 | [] |
+| Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0705 | nan | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0705 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 04:47:33+00:00 | 0 | 0 | | 0 | ['CVE-2021-0705'] |
+| nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | nan | https://github.com/nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 12:48:33+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0318'] |
 | rafaelchriss/CVE-2021-3279 | nan | https://github.com/rafaelchriss/CVE-2021-3279 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 12:31:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-3279'] |
 | LogSec/CVE-2010-2387 | nan | https://github.com/LogSec/CVE-2010-2387 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 12:50:06+00:00 | 0 | 0 | C | 0 | ['CVE-2010-2387'] |
 | General-Iroh-16/Exploitation_Challenges | None | https://github.com/General-Iroh-16/Exploitation_Challenges | ['exploit'] | 1 | 2022-04-23 12:02:19+00:00 | 0 | 0 | | 0 | [] |
@@ -35,8 +36,8 @@
 | NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-04-23 09:56:18+00:00 | 0 | 0 | | 0 | [] |
 | mariomamo/CVE-2022-22965 | nan | https://github.com/mariomamo/CVE-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 09:35:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22965'] |
 | hullcaid/CVE-2021-3156-poc | Extra Assignment for JYU course KYBS2001 | https://github.com/hullcaid/CVE-2021-3156-poc | ['cve poc'] | 1 | 2022-04-23 08:48:31+00:00 | 0 | 0 | | 0 | ['CVE-2021-3156'] |
+| abdulrahim-uj/Metasploit | Metasploit | https://github.com/abdulrahim-uj/Metasploit | ['metasploit module OR payload'] | 1 | 2022-04-23 08:44:53+00:00 | 0 | 0 | | 0 | [] |
 | nanopathi/framework_base_AOSP10_r33_CVE-2020-0401 | nan | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0401 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 09:42:31+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0401'] |
-| Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0705 | nan | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0705 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 04:47:33+00:00 | 0 | 0 | | 0 | ['CVE-2021-0705'] |
 | vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences | Abstract In the latest years, the prediction of gene expression levels has been crucial due to its potential applications in the clinics. In this context, Xpresso and others methods based on Convolutional Neural Networks and Transformers were firstly propo | https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences | ['exploit'] | 1 | 2022-04-23 08:26:22+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | ben-christian/automated-sql-injection | Exploit blind SQL injection to extract password hashes of users. Credit - TCM Academy Python 101 For Hackers | https://github.com/ben-christian/automated-sql-injection | ['exploit'] | 1 | 2022-04-23 07:44:47+00:00 | 0 | 0 | Python | 0 | [] |
 | HamzehBajbouj/RCEapm | RCE Asia-Pacific, Malaysia region (RCEapm) is the a mobile application system that provides a new way of organizing future RCE events in this region. The system was built using Kotlin, additionally design principles were used such as Architectural Styles ( | https://github.com/HamzehBajbouj/RCEapm | ['rce'] | 1 | 2022-04-23 07:44:06+00:00 | 0 | 0 | Kotlin | 0 | [] |
@@ -45,8 +46,8 @@
 | ShaikUsaf/linux-4.19.72_CVE-2020-14356 | nan | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-14356 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 06:45:45+00:00 | 0 | 0 | | 0 | ['CVE-2020-14356'] |
 | nanopathi/framework_base_AOSP10_r33_CVE-2021-0513 | nan | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0513 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 06:23:27+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0513'] |
 | CGray1234/Roblox-AntiExploit | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | ['exploit'] | 1 | 2022-04-23 05:14:42+00:00 | 6 | 0 | Lua | 0 | [] |
+| Marcel46509/Exploit-Files | None | https://github.com/Marcel46509/Exploit-Files | ['exploit'] | 1 | 2022-04-23 11:19:06+00:00 | 19062 | 0 | | 0 | [] |
 | D4RKH0R1Z0N/RDP-SPLOIT | None | https://github.com/D4RKH0R1Z0N/RDP-SPLOIT | ['sploit'] | 1 | 2022-04-23 07:38:03+00:00 | 40 | 1 | Python | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-23 05:02:37+00:00 | 241101 | 7062 | C | 1900 | [] |
 | l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-23 03:47:00+00:00 | 415 | 0 | Python | 0 | [] |
 | hakivvi/proxylogon | RCE exploit for Microsoft Exchange Server (CVE-2021-26855). | https://github.com/hakivvi/proxylogon | ['exploit', 'rce'] | 2 | 2022-04-23 03:21:44+00:00 | 116 | 7 | Python | 3 | ['CVE-2021-26855'] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-23 01:14:29+00:00 | 14024 | 28 | Python | 5 | [] |
@@ -85,4 +86,4 @@
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-04-23 04:49:56+00:00 | 587 | 339 | Go | 67 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-23 01:48:37+00:00 | 19896 | 3 | Python | 0 | [] |
 | Nikj-Fr/Process-Herpaderping | My own implementation of the process herpaderping evasion technique | https://github.com/Nikj-Fr/Process-Herpaderping | ['exploit'] | 1 | 2022-04-23 12:16:13+00:00 | 1134 | 3 | C++ | 1 | [] |
-| nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | nan | https://github.com/nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 12:48:33+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0318'] |
+| Tvdogebrain/CheemX | A roblox exploit executor. Currently in beta. | https://github.com/Tvdogebrain/CheemX | ['exploit'] | 1 | 2022-04-23 14:17:39+00:00 | 0 | 0 | | 0 | [] |
