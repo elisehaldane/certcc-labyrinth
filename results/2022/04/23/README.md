@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/23
     
-30 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-23 02:31:47+00:00 | 727776 | 27025 | Ruby | 12176 | [] |
-| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-04-23 02:13:14+00:00 | 1204 | 0 | Python | 11 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-23 02:27:05+00:00 | 49579 | 2652 | | 325 | [] |
 | StyxWebsiteBuild/StyxExploits | None | https://github.com/StyxWebsiteBuild/StyxExploits | ['exploit'] | 1 | 2022-04-23 03:06:13+00:00 | 0 | 0 | | 0 | [] |
 | Curt-Lucas/Mass-TomatoCart-Exploit | Uses a list of websites to perform RCE attack against TomatoCart. | https://github.com/Curt-Lucas/Mass-TomatoCart-Exploit | ['exploit', 'rce'] | 2 | 2022-04-23 02:15:39+00:00 | 0 | 0 | | 0 | [] |
 | jan-ambroz/hackEDU_RCE | None | https://github.com/jan-ambroz/hackEDU_RCE | ['rce'] | 1 | 2022-04-23 01:45:43+00:00 | 0 | 0 | Python | 0 | [] |
@@ -14,21 +14,24 @@
 | sadamshr3be/exploit-alsharabi | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | ['exploit'] | 1 | 2022-04-23 00:52:54+00:00 | 0 | 0 | | 0 | [] |
 | renaud90/EvenementAPIVuesJsApp | VueJs app that exploit an API | https://github.com/renaud90/EvenementAPIVuesJsApp | ['exploit'] | 1 | 2022-04-23 01:19:34+00:00 | 1132 | 0 | SCSS | 0 | [] |
 | gsmith257-cyber/EV1L-J3ST3R | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L-J3ST3R | ['exploit'] | 1 | 2022-04-23 02:39:56+00:00 | 28 | 1 | Python | 0 | [] |
+| Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-04-23 03:46:05+00:00 | 550 | 1 | C | 1 | [] |
 | GSstarGamer/Roblox-Exploits | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | ['exploit'] | 1 | 2022-04-23 02:45:17+00:00 | 43 | 0 | Lua | 0 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-04-23 00:09:48+00:00 | 1527 | 0 | TypeScript | 0 | [] |
 | Curt-Lucas/Vulnerable | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-23 00:45:19+00:00 | 35956 | 1 | Pascal | 0 | [] |
+| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-23 03:47:00+00:00 | 415 | 0 | Python | 0 | [] |
 | ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | https://umbrellas22.000webhostapp.com/Script-generator , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | ['exploit'] | 1 | 2022-04-23 01:37:46+00:00 | 4 | 0 | | 0 | [] |
 | nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-23 01:38:18+00:00 | 291 | 0 | Go | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-23 02:27:05+00:00 | 49579 | 2652 | | 325 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-04-23 02:19:27+00:00 | 735 | 3 | C | 1 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-04-23 02:13:14+00:00 | 1204 | 0 | Python | 11 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-23 03:00:03+00:00 | 6860 | 2387 | TypeScript | 351 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-23 01:27:44+00:00 | 4787055 | 41 | Python | 6 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-23 01:48:37+00:00 | 19896 | 3 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-23 01:13:45+00:00 | 90394 | 388 | Python | 114 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-23 00:34:51+00:00 | 341450 | 101 | | 21 | [] |
+| hakivvi/proxylogon | RCE exploit for Microsoft Exchange Server (CVE-2021-26855). | https://github.com/hakivvi/proxylogon | ['exploit', 'rce'] | 2 | 2022-04-23 03:21:44+00:00 | 116 | 7 | Python | 3 | ['CVE-2021-26855'] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-23 01:14:29+00:00 | 14024 | 28 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-23 00:04:36+00:00 | 494775 | 53 | | 21 | [] |
-| gege-circle/home | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other topics. You are welcome to share interest things here. | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2022-04-23 02:55:10+00:00 | 1732 | 234 | nan | 84 | [] |
+| gege-circle/home | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other topics. You are welcome to share interest things here. | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2022-04-23 02:55:10+00:00 | 1732 | 234 | | 84 | [] |
 | LCBlevins/ApollyonRoblox | Apollyon Roblox Exploit | https://github.com/LCBlevins/ApollyonRoblox | ['exploit'] | 1 | 2022-04-23 03:04:59+00:00 | 139772 | 0 | | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-23 00:47:31+00:00 | 9327 | 36 | | 20 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-23 02:30:36+00:00 | 238556 | 150 | REXX | 14 | [] |
