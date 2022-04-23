@@ -18,6 +18,7 @@ VU#41,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgen
 VU#41,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#41,0.02222222,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 VU#41,0.02083333,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#41,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0401,nanopathi/framework_base_AOSP10_r33_CVE-2020-0401,484687788
 VU#41,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0137,nanopathi/framework_base_AOSP10_r33_CVE-2020-0137,484673073
 VU#41,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0513,nanopathi/framework_base_AOSP10_r33_CVE-2021-0513,484659915
 VU#41,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0705,Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0705,484649034
@@ -79,8 +80,9 @@ VU#41,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hog
 VU#41,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#41,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#41,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#41,0.00609756,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
 VU#41,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
-VU#41,0.00588235,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
+VU#41,0.00555556,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#41,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#41,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#41,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570

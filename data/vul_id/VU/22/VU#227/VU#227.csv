@@ -2,4 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#227,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#227,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#227,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
+VU#227,0.00555556,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#227,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
