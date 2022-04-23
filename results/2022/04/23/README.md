@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/23
     
-80 records found after deduplication
+81 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-23 02:31:47+00:00 | 727776 | 27025 | Ruby | 12176 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-23 05:02:37+00:00 | 241101 | 7062 | C | 1900 | [] |
+| Marcel46509/Exploit-Files | None | https://github.com/Marcel46509/Exploit-Files | ['exploit'] | 1 | 2022-04-23 11:19:06+00:00 | 19062 | 0 | | 0 | [] |
 | Curt-Lucas/Mass-TomatoCart-Exploit | Uses a list of websites to perform RCE attack against TomatoCart. | https://github.com/Curt-Lucas/Mass-TomatoCart-Exploit | ['exploit', 'rce'] | 2 | 2022-04-23 02:15:39+00:00 | 0 | 0 | | 0 | [] |
 | jan-ambroz/hackEDU_RCE | None | https://github.com/jan-ambroz/hackEDU_RCE | ['rce'] | 1 | 2022-04-23 01:45:43+00:00 | 0 | 0 | Python | 0 | [] |
 | SteelSploit/SteelSploit | SteelSploit is a roblox script executor that was created in C# using the EasyExploits API (credits to them) | https://github.com/SteelSploit/SteelSploit | ['sploit'] | 1 | 2022-04-23 00:39:49+00:00 | 0 | 0 | | 0 | [] |
@@ -45,9 +45,10 @@
 | ShaikUsaf/linux-4.19.72_CVE-2020-14356 | nan | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-14356 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 06:45:45+00:00 | 0 | 0 | | 0 | ['CVE-2020-14356'] |
 | nanopathi/framework_base_AOSP10_r33_CVE-2021-0513 | nan | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0513 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 06:23:27+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-0513'] |
 | CGray1234/Roblox-AntiExploit | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | ['exploit'] | 1 | 2022-04-23 05:14:42+00:00 | 6 | 0 | Lua | 0 | [] |
-| Marcel46509/Exploit-Files | None | https://github.com/Marcel46509/Exploit-Files | ['exploit'] | 1 | 2022-04-23 11:19:06+00:00 | 19062 | 0 | | 0 | [] |
 | D4RKH0R1Z0N/RDP-SPLOIT | None | https://github.com/D4RKH0R1Z0N/RDP-SPLOIT | ['sploit'] | 1 | 2022-04-23 07:38:03+00:00 | 40 | 1 | Python | 0 | [] |
-| lyshark/Windows-exploits | 🎯 Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具。 | https://github.com/lyshark/Windows-exploits | ['exploit'] | 1 | 2022-04-23 09:46:55+00:00 | 201786 | 490 | | 208 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-04-23 05:02:37+00:00 | 241101 | 7062 | C | 1900 | [] |
+| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-23 03:47:00+00:00 | 415 | 0 | Python | 0 | [] |
+| hakivvi/proxylogon | RCE exploit for Microsoft Exchange Server (CVE-2021-26855). | https://github.com/hakivvi/proxylogon | ['exploit', 'rce'] | 2 | 2022-04-23 03:21:44+00:00 | 116 | 7 | Python | 3 | ['CVE-2021-26855'] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-23 01:14:29+00:00 | 14024 | 28 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-23 00:04:36+00:00 | 494775 | 53 | | 21 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-04-23 04:17:16+00:00 | 1866 | 1 | Python | 0 | [] |
@@ -55,8 +56,8 @@
 | leonov-av/vulristics | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | ['exploit'] | 1 | 2022-04-23 10:13:22+00:00 | 1769 | 44 | Python | 6 | [] |
 | LCBlevins/ApollyonRoblox | Apollyon Roblox Exploit | https://github.com/LCBlevins/ApollyonRoblox | ['exploit'] | 1 | 2022-04-23 03:04:59+00:00 | 139772 | 0 | | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-23 00:47:31+00:00 | 9327 | 36 | | 20 | [] |
+| lyshark/Windows-exploits | 🎯 Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具。 | https://github.com/lyshark/Windows-exploits | ['exploit'] | 1 | 2022-04-23 09:46:55+00:00 | 201786 | 490 | | 208 | [] |
 | jincon/PyShcode | 分享一些常用的运维等等Python/shell脚本 | https://github.com/jincon/PyShcode | ['shellcode'] | 1 | 2022-04-23 09:40:48+00:00 | 56 | 0 | Shell | 0 | [] |
-| zAbuQasem/PwnShell | Command Execution exploiter with an auto connection handling | https://github.com/zAbuQasem/PwnShell | ['exploit'] | 1 | 2022-04-23 05:45:08+00:00 | 22491 | 25 | Python | 2 | [] |
 | tobor88/Bash | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | ['exploit'] | 1 | 2022-04-23 04:44:30+00:00 | 1020 | 19 | Shell | 8 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-23 02:30:36+00:00 | 238556 | 150 | REXX | 14 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-04-23 02:00:49+00:00 | 351720 | 7 | Rust | 4 | [] |
@@ -64,10 +65,10 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-23 00:22:07+00:00 | 50426 | 302 | Ruby | 86 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-04-23 02:13:14+00:00 | 1204 | 0 | Python | 11 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-23 06:18:33+00:00 | 5327 | 3220 | Python | 689 | [] |
-| hakivvi/proxylogon | RCE exploit for Microsoft Exchange Server (CVE-2021-26855). | https://github.com/hakivvi/proxylogon | ['exploit', 'rce'] | 2 | 2022-04-23 03:21:44+00:00 | 116 | 7 | Python | 3 | ['CVE-2021-26855'] |
+| zAbuQasem/PwnShell | Command Execution exploiter with an auto connection handling | https://github.com/zAbuQasem/PwnShell | ['exploit'] | 1 | 2022-04-23 05:45:08+00:00 | 22491 | 25 | Python | 2 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-23 00:34:51+00:00 | 341450 | 101 | | 21 | [] |
-| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-04-23 03:47:00+00:00 | 415 | 0 | Python | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-23 03:00:03+00:00 | 6860 | 2387 | TypeScript | 351 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-23 01:13:45+00:00 | 90394 | 388 | Python | 114 | [] |
+| RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | A updated linora source with special exploits, always be updated to latest update | https://github.com/RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | ['exploit'] | 1 | 2022-04-23 13:49:12+00:00 | 729 | 24 | C++ | 7 | [] |
 | winterrdog/shellcode-myner | Extracts shellcode from any specified binary/object file. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-04-23 09:14:25+00:00 | 63 | 3 | Rust | 1 | [] |
 | ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | https://umbrellas22.000webhostapp.com/Script-generator , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | ['exploit'] | 1 | 2022-04-23 01:37:46+00:00 | 4 | 0 | | 0 | [] |
 | twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-04-23 04:48:53+00:00 | 553 | 1 | Python | 1 | [] |
@@ -75,13 +76,13 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-23 02:27:05+00:00 | 49579 | 2652 | | 325 | [] |
 | C0ldheim/NetworkExploitation | This repository stores tools for conducting network attacks. | https://github.com/C0ldheim/NetworkExploitation | ['exploit'] | 1 | 2022-04-23 10:41:33+00:00 | 106 | 3 | Python | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-04-23 02:19:27+00:00 | 735 | 3 | C | 1 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-23 03:00:03+00:00 | 6860 | 2387 | TypeScript | 351 | [] |
+| 0xhuesca/x86-x64-Windows-Shellcodes | None | https://github.com/0xhuesca/x86-x64-Windows-Shellcodes | ['shellcode'] | 1 | 2022-04-23 08:46:47+00:00 | 7 | 0 | Assembly | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-04-23 08:39:34+00:00 | 319 | 1 | Python | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-23 01:13:45+00:00 | 90394 | 388 | Python | 114 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2022-04-23 08:40:35+00:00 | 881 | 1 | Python | 0 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-04-23 08:19:19+00:00 | 2791 | 10 | | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-23 01:27:44+00:00 | 4787055 | 41 | Python | 6 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-04-23 04:49:56+00:00 | 587 | 339 | Go | 67 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-23 01:48:37+00:00 | 19896 | 3 | Python | 0 | [] |
 | Nikj-Fr/Process-Herpaderping | My own implementation of the process herpaderping evasion technique | https://github.com/Nikj-Fr/Process-Herpaderping | ['exploit'] | 1 | 2022-04-23 12:16:13+00:00 | 1134 | 3 | C++ | 1 | [] |
-| 0xhuesca/x86-x64-Windows-Shellcodes | None | https://github.com/0xhuesca/x86-x64-Windows-Shellcodes | ['shellcode'] | 1 | 2022-04-23 08:46:47+00:00 | 7 | 0 | Assembly | 0 | [] |
 | nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | nan | https://github.com/nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | ['cve-2 OR cve_2'] | 1 | 2022-04-23 12:48:33+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0318'] |
