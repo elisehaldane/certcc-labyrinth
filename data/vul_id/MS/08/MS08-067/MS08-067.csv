@@ -54,6 +54,7 @@ MS08-067,0.50000000,https://github.com/k4u5h41/MS08_067_CVE-2008-4250,k4u5h41/MS
 MS08-067,0.50000000,https://github.com/adithyan-ak/MS17-010-Manual-Exploit,adithyan-ak/MS17-010-Manual-Exploit,345982676
 MS08-067,0.50000000,https://github.com/loneicewolf/metasploit_fanny_check_module,loneicewolf/metasploit_fanny_check_module,323659765
 MS08-067,0.50000000,https://github.com/PizzaPablo666/Exploits-eternalblue-netapi-modified-for-python3,PizzaPablo666/Exploits-eternalblue-netapi-modified-for-python3,322112323
+MS08-067,0.50000000,https://github.com/7248510/Research,7248510/Research,271919156
 MS08-067,0.50000000,https://github.com/ntr0py-sec/OSCP_HTB_PoCs_and_Exploits,ntr0py-sec/OSCP_HTB_PoCs_and_Exploits,266208930
 MS08-067,0.50000000,https://github.com/Pentesting-Lab/Hacksploit,Pentesting-Lab/Hacksploit,249657017
 MS08-067,0.50000000,https://github.com/anhgsodan/SMB-Exploit,anhgsodan/SMB-Exploit,247626769
@@ -388,7 +389,7 @@ MS08-067,0.00026082,https://github.com/H0tcha/msfdev,H0tcha/msfdev,74054819
 MS08-067,0.00026069,https://github.com/Elinpf/Metasploit,Elinpf/Metasploit,77102966
 MS08-067,0.00026048,https://github.com/r3p3r/nixawk-metasploit-framework,r3p3r/nixawk-metasploit-framework,115908849
 MS08-067,0.00026042,https://github.com/bonsaiuser/https-github.com-rapid7-metasploit-framework,bonsaiuser/https-github.com-rapid7-metasploit-framework,79446331
-MS08-067,0.00025920,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS08-067,0.00025907,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00025733,https://github.com/syokake/metasploit-framework,syokake/metasploit-framework,91141820
 MS08-067,0.00025628,https://github.com/kongjiexi/metasploit,kongjiexi/metasploit,95047982
 MS08-067,0.00025628,https://github.com/CKmaenn/metasploit-framework,CKmaenn/metasploit-framework,94964125
