@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GPZ-1142,0.09090909,https://github.com/bcoles/local-exploits,bcoles/local-exploits,163594175
+GPZ-1142,0.08333333,https://github.com/bcoles/local-exploits,bcoles/local-exploits,163594175
 GPZ-1142,0.00448430,https://github.com/Awrrays/MetaSploit-Moudule,Awrrays/MetaSploit-Moudule,379840207
 GPZ-1142,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 GPZ-1142,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
