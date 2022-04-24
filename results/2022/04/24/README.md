@@ -1,7 +1,7 @@
 
 # Summary for results/2022/04/24
     
-54 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -10,6 +10,8 @@
 | paulveillard/cybersecurity-exploit-development | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development. | https://github.com/paulveillard/cybersecurity-exploit-development | ['exploit'] | 1 | 2022-04-24 02:24:43+00:00 | 3958 | 1 | | 0 | [] |
 | ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-04-24 01:29:59+00:00 | 2 | 1 | Python | 0 | ['CVE-2021-44228'] |
 | jfrog/jfrog-CVE-2022-21449 | None | https://github.com/jfrog/jfrog-CVE-2022-21449 | ['cve-2 OR cve_2'] | 1 | 2022-04-24 07:07:52+00:00 | 29 | 31 | Python | 7 | ['CVE-2022-21449'] |
+| FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-04-24 08:18:31+00:00 | 6886 | 1 | C++ | 0 | [] |
+| haithamaouati/apc | Android payload creator | https://github.com/haithamaouati/apc | ['metasploit module OR payload'] | 1 | 2022-04-24 08:33:54+00:00 | 203 | 0 | Shell | 0 | [] |
 | h3v0x/CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) | https://github.com/h3v0x/CVE-2022-29464 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-24 00:45:09+00:00 | 4 | 2 | Python | 0 | ['CVE-2022-29464'] |
 | NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-04-24 06:42:24+00:00 | 1 | 0 | | 0 | [] |
 | ex4722/kernel_exploitation | None | https://github.com/ex4722/kernel_exploitation | ['exploit'] | 1 | 2022-04-24 02:12:56+00:00 | 0 | 0 | | 0 | [] |
@@ -31,10 +33,12 @@
 | asdaf-0x/Roblox | Resources for some ROBLOX exploiting related things. | https://github.com/asdaf-0x/Roblox | ['exploit'] | 1 | 2022-04-24 06:26:05+00:00 | 0 | 0 | Lua | 0 | [] |
 | LogSec/CVE-2013-0212 | None | https://github.com/LogSec/CVE-2013-0212 | ['cve-2 OR cve_2'] | 1 | 2022-04-24 06:17:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2013-0212'] |
 | harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System | Cloud computing is currently considered the most cost-effective platform for offering business and consumer IT services over the Internet. However, it is prone to new vulnerabilities. A new type of attack, called an economic denial of sustainability (EDoS) | https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System | ['exploit'] | 1 | 2022-04-24 07:13:08+00:00 | 0 | 0 | Python | 0 | [] |
+| LogSec/CVE-2013-2006 | None | https://github.com/LogSec/CVE-2013-2006 | ['cve-2 OR cve_2'] | 1 | 2022-04-24 07:42:15+00:00 | 0 | 0 | | 0 | ['CVE-2013-2006'] |
+| mr-exploit/mr-exploit.github.io | ini merupakan blooger contoh latihan menggunakan react.js | https://github.com/mr-exploit/mr-exploit.github.io | ['exploit'] | 1 | 2022-04-24 08:23:26+00:00 | 0 | 0 | HTML | 0 | [] |
+| cyxv/robloxscripts | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/robloxscripts | ['exploit'] | 1 | 2022-04-24 08:19:32+00:00 | 87 | 0 | Lua | 0 | [] |
+| bankThanabat/remote-code-execution | build remote code execution using node.js | https://github.com/bankThanabat/remote-code-execution | ['remote code execution'] | 1 | 2022-04-24 08:46:48+00:00 | 49 | 0 | JavaScript | 0 | [] |
 | Curt-Lucas/Vulnerable | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-04-24 02:28:00+00:00 | 35965 | 1 | Pascal | 0 | [] |
 | ComuGamersES/sentey | Protect your server against IP forwarding exploits, as well as blocking unknown BungeeCord and/or Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-04-24 04:59:30+00:00 | 0 | 1 | Java | 0 | [] |
-| TyeYeah/DIR-890L-1.20-RCE | cause and exploit for D-Link DIR-890L 1.20 RCE | https://github.com/TyeYeah/DIR-890L-1.20-RCE | ['exploit', 'rce'] | 2 | 2022-04-24 02:35:22+00:00 | 3016 | 0 | HTML | 0 | [] |
-| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-24 03:24:43+00:00 | 93 | 57 | | 7 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-04-24 07:25:03+00:00 | 72236 | 11040 | Jupyter Notebook | 1928 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-24 00:22:45+00:00 | 50427 | 302 | Ruby | 86 | [] |
 | bcoles/local-exploits | Various local exploits | https://github.com/bcoles/local-exploits | ['exploit'] | 1 | 2022-04-24 02:42:59+00:00 | 56 | 117 | Shell | 53 | [] |
@@ -51,11 +55,15 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-24 01:46:45+00:00 | 21973 | 3 | Python | 0 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-04-24 03:41:23+00:00 | 589 | 341 | Go | 67 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-04-24 04:47:15+00:00 | 1762 | 45 | C++ | 3 | [] |
+| CberryAIRDROP/CVE-2022-26809-RCE | None | https://github.com/CberryAIRDROP/CVE-2022-26809-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-24 08:49:21+00:00 | 0 | 2 | | 0 | ['CVE-2022-26809'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-24 01:27:09+00:00 | 4787542 | 42 | Python | 6 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-24 07:31:20+00:00 | 6862 | 2414 | TypeScript | 356 | [] |
+| hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-04-24 08:06:19+00:00 | 9404 | 249 | Ruby | 30 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-04-24 01:40:40+00:00 | 46292 | 35 | Python | 15 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-24 01:28:59+00:00 | 48138 | 2653 | | 325 | [] |
 | twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-04-24 05:01:50+00:00 | 597 | 1 | Python | 1 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-24 03:29:41+00:00 | 1925 | 118 | Go | 25 | [] |
 | TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-04-24 07:40:37+00:00 | 26 | 0 | Lua | 0 | [] |
-| LogSec/CVE-2013-2006 | None | https://github.com/LogSec/CVE-2013-2006 | ['cve-2 OR cve_2'] | 1 | 2022-04-24 07:42:15+00:00 | 0 | 0 | | 0 | ['CVE-2013-2006'] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-24 03:24:43+00:00 | 93 | 57 | | 7 | [] |
+| TyeYeah/DIR-890L-1.20-RCE | cause and exploit for D-Link DIR-890L 1.20 RCE | https://github.com/TyeYeah/DIR-890L-1.20-RCE | ['exploit', 'rce'] | 2 | 2022-04-24 02:35:22+00:00 | 3016 | 0 | HTML | 0 | [] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-04-24 08:35:36+00:00 | 0 | 1 | | 0 | [] |
