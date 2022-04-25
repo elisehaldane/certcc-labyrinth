@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#588,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,485260390
 VU#588,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,485246433
 VU#588,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954,nanopathi/framework_base_AOSP10_r33_CVE-2021-0954,485231470
 VU#588,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0401,nanopathi/framework_base_AOSP10_r33_CVE-2020-0401,484687788
