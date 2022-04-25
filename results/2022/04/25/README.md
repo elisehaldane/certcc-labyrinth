@@ -1,10 +1,10 @@
 
 # Summary for results/2022/04/25
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
+|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-25 00:21:16+00:00 | 50427 | 302 | Ruby | 86 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-25 02:32:00+00:00 | 244609 | 150 | REXX | 14 | [] |
 | WynSon/CVE-2021-35042 | A basic analysis about CVE-2021-35942. SQL injection in Django. | https://github.com/WynSon/CVE-2021-35042 | ['cve-2 OR cve_2'] | 1 | 2022-04-25 02:50:01+00:00 | 0 | 0 | | 0 | ['CVE-2021-35042', 'CVE-2021-35942'] |
@@ -20,11 +20,13 @@
 | hktalent/go4Hacker | Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin | https://github.com/hktalent/go4Hacker | ['rce', 'rce poc'] | 2 | 2022-04-25 00:55:52+00:00 | 667 | 10 | Go | 4 | [] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-25 03:38:05+00:00 | 103 | 58 | nan | 7 | [] |
 | StringManolo/nbmxbsf | General Purpouse Telegram Bot. Can act as a RAT, a post exploitation tool, or just as a core to your custom bot. | https://github.com/StringManolo/nbmxbsf | ['exploit'] | 1 | 2022-04-25 01:30:49+00:00 | 41 | 1 | TypeScript | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-25 04:26:23+00:00 | 53070 | 2655 | | 325 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-04-25 03:30:46+00:00 | 6906 | 2438 | TypeScript | 357 | [] |
-| 0vercl0k/zenith | Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021. | https://github.com/0vercl0k/zenith | ['exploit', 'remote code execution'] | 2 | 2022-04-25 00:47:15+00:00 | 1331 | 87 | Python | 17 | [] |
+| 0vercl0k/zenith | Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021. | https://github.com/0vercl0k/zenith | ['exploit', 'remote code execution'] | 2 | 2022-04-25 00:57:56+00:00 | 1331 | 87 | Python | 17 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-25 03:15:53+00:00 | 4804952 | 43 | Python | 7 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-25 01:50:46+00:00 | 18825 | 3 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-25 01:17:07+00:00 | 177917 | 391 | Python | 114 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-25 04:21:01+00:00 | 349144 | 103 | | 21 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-25 00:04:14+00:00 | 497329 | 53 | | 21 | [] |
 | GabrasticYT/Roblox | exploit related scripts | https://github.com/GabrasticYT/Roblox | ['exploit'] | 1 | 2022-04-25 02:23:30+00:00 | 7401 | 0 | Lua | 0 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-04-25 02:36:14+00:00 | 36109 | 6733 | Vue | 1441 | [] |
