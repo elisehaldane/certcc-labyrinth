@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+485363024,testivy/springboot-actuator-routingExpression-rce,README.md,65aed6389d7499d361c1a973f75a9812fe9af8c9,CVE-2022-22947
