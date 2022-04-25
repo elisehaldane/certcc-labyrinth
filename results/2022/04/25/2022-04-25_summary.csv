@@ -1,15 +1,20 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
 hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-04-25T00:21:16+0000,50427,302,Ruby,86,[]
-hktalent/go4Hacker,"Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin",https://github.com/hktalent/go4Hacker,"['rce', 'rce poc']",2,2022-04-25T00:55:52+0000,667,10,Go,4,[]
+drb-ra/C2IntelFeeds,Automatically created C2 Feeds,https://github.com/drb-ra/C2IntelFeeds,['metasploit module OR payload'],1,2022-04-25T02:32:00+0000,244609,150,REXX,14,[]
+WynSon/CVE-2021-35042,A basic analysis about CVE-2021-35942. SQL injection in Django.,https://github.com/WynSon/CVE-2021-35042,['cve-2 OR cve_2'],1,2022-04-25T02:50:01+0000,0,0,,0,"['CVE-2021-35042', 'CVE-2021-35942']"
 SubaruSama/COGNOS,"Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits. ",https://github.com/SubaruSama/COGNOS,['exploit'],1,2022-04-25T02:07:37+0000,0,1,Python,0,[]
 umbriii/BatHub,A Roblox Exploit!,https://github.com/umbriii/BatHub,['exploit'],1,2022-04-25T00:32:41+0000,0,0,,0,[]
 comp426-2022-spring/e01-rceglie,e01-rceglie created by GitHub Classroom,https://github.com/comp426-2022-spring/e01-rceglie,['rce'],1,2022-04-25T00:00:49+0000,0,0,CSS,0,[]
+ex4722/kernel_exploitation,None,https://github.com/ex4722/kernel_exploitation,['exploit'],1,2022-04-25T02:24:42+0000,11,0,,0,[]
 DarkSourceGalaxy/Trillium-Security-MultiSploit-Tool-v6.5.21-Full,nan,https://github.com/DarkSourceGalaxy/Trillium-Security-MultiSploit-Tool-v6.5.21-Full,['sploit'],1,2022-04-25T01:18:27+0000,33,1,,0,[]
 gudyrmik/CVE-2021-44142,None,https://github.com/gudyrmik/CVE-2021-44142,['cve-2 OR cve_2'],1,2022-04-25T01:02:28+0000,621,0,Jupyter Notebook,0,['CVE-2021-44142']
+Exploitables/ExFreePool-Vulnerability,My research into taking advantage of ExFreePool primitives.,https://github.com/Exploitables/ExFreePool-Vulnerability,['exploit'],1,2022-04-25T03:47:08+0000,606,1,C,1,[]
 GamerHack/ps4main,All PS4 Exploits,https://github.com/GamerHack/ps4main,['exploit'],1,2022-04-25T02:47:27+0000,10902,3,JavaScript,1,[]
 datechies/Exploit,None,https://github.com/datechies/Exploit,['exploit'],1,2022-04-25T03:11:43+0000,13208,0,,0,[]
+hktalent/go4Hacker,"Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin",https://github.com/hktalent/go4Hacker,"['rce', 'rce poc']",2,2022-04-25T00:55:52+0000,667,10,Go,4,[]
+wwl012345/Vuln-List,(持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。,https://github.com/wwl012345/Vuln-List,['vuln poc'],1,2022-04-25T03:38:05+0000,103,58,,7,[]
 StringManolo/nbmxbsf,"General Purpouse Telegram Bot. Can act as a RAT, a post exploitation tool, or just as a core to your custom bot.",https://github.com/StringManolo/nbmxbsf,['exploit'],1,2022-04-25T01:30:49+0000,41,1,TypeScript,0,[]
-drb-ra/C2IntelFeeds,Automatically created C2 Feeds,https://github.com/drb-ra/C2IntelFeeds,['metasploit module OR payload'],1,2022-04-25T02:32:00+0000,244609,150,REXX,14,[]
+yaklang/yakit,Cyber Security ALL-IN-ONE Platform,https://github.com/yaklang/yakit,['exploit'],1,2022-04-25T03:30:46+0000,6906,2438,TypeScript,357,[]
 0vercl0k/zenith,Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.,https://github.com/0vercl0k/zenith,"['exploit', 'remote code execution']",2,2022-04-25T00:47:15+0000,1331,87,Python,17,[]
 gmatuz/inthewilddb,Hourly updated database of exploit and exploitation reports,https://github.com/gmatuz/inthewilddb,['exploit'],1,2022-04-25T03:15:53+0000,4804952,43,Python,7,[]
 HeiTang/Zrss,RSS feeds for HITCON ZeroDay’s vulnerability list,https://github.com/HeiTang/Zrss,['zeroday'],1,2022-04-25T01:50:46+0000,18825,3,Python,0,[]
@@ -17,4 +22,4 @@ ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-04-25T00:04:14+0000,497329,53,,21,[]
 GabrasticYT/Roblox,exploit related scripts,https://github.com/GabrasticYT/Roblox,['exploit'],1,2022-04-25T02:23:30+0000,7401,0,Lua,0,[]
 chaitin/xray,一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档,https://github.com/chaitin/xray,['vulnerability poc'],1,2022-04-25T02:36:14+0000,36109,6733,Vue,1441,[]
-WynSon/CVE-2021-35042,A basic analysis about CVE-2021-35942. SQL injection in Django.,https://github.com/WynSon/CVE-2021-35042,['cve-2 OR cve_2'],1,2022-04-25T02:50:01+0000,0,0,,0,"['CVE-2021-35042', 'CVE-2021-35942']"
+Itbiodev/kernel-exploitation-notes,My personal notes on kernel exploitation techniques,https://github.com/Itbiodev/kernel-exploitation-notes,['exploit'],1,2022-04-25T03:33:24+0000,0,0,,0,[]
