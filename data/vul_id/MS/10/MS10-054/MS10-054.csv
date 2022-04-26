@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS10-054,0.25000000,https://github.com/wannabemrrobot/hackthebox,wannabemrrobot/hackthebox,396079128
 MS10-054,0.20000000,https://github.com/am0nsec/valhalla,am0nsec/valhalla,103624543
+MS10-054,0.14285714,https://github.com/yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,485790247
 MS10-054,0.14285714,https://github.com/F0rbidden-Equation/PortExploit,F0rbidden-Equation/PortExploit,470109652
 MS10-054,0.14285714,https://github.com/Meat0Project/Pentesting-Exploitation,Meat0Project/Pentesting-Exploitation,327061975
 MS10-054,0.14285714,https://github.com/Eutectico/Steel-Mountain,Eutectico/Steel-Mountain,315336341
