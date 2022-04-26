@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS17-001,1.00000000,https://github.com/deezzhandzz/Blue,deezzhandzz/Blue,343290019
-MS17-001,0.08333333,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
+MS17-001,0.07692308,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 MS17-001,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793
 MS17-001,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 MS17-001,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
