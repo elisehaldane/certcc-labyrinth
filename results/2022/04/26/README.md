@@ -1,13 +1,13 @@
 
 # Summary for results/2022/04/26
     
-52 records found after deduplication
+55 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-26 04:21:06+00:00 | 5366 | 3227 | Python | 689 | [] |
-| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-04-26 04:25:08+00:00 | 286 | 84 | Python | 38 | [] |
-| skisw/Spring-cloud-function-SpEL-RCE | None | https://github.com/skisw/Spring-cloud-function-SpEL-RCE | ['rce'] | 1 | 2022-04-26 03:29:40+00:00 | 0 | 0 | Python | 0 | [] |
+| antoinenguyen-09/CVE-2021-4034 | My research about CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 00:45:19+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
+| imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-04-26 07:41:34+00:00 | 2 | 0 | JavaScript | 1 | [] |
 | bewhale/CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本、文件写入 | https://github.com/bewhale/CVE-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 04:26:00+00:00 | 868 | 35 | Python | 7 | ['CVE-2022-22954'] |
 | feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-04-26 02:20:57+00:00 | 28947 | 3 | Python | 0 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2022-04-26 04:18:06+00:00 | 75 | 265 | Go | 18 | [] |
@@ -18,8 +18,9 @@
 | NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-04-26 05:54:22+00:00 | 11671 | 0 | | 0 | [] |
 | ex4722/kernel_exploitation | None | https://github.com/ex4722/kernel_exploitation | ['exploit'] | 1 | 2022-04-26 03:05:22+00:00 | 11 | 0 | | 0 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-04-26 05:44:55+00:00 | 5 | 7 | nan | 1 | [] |
-| antoinenguyen-09/CVE-2021-4034 | My research about CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 00:45:19+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
 | anldori/Drupal-CVE-2018-7600 | None | https://github.com/anldori/Drupal-CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 02:38:41+00:00 | 1 | 0 | Python | 0 | ['CVE-2018-7600'] |
+| KurusuSenri/protostar_solutions | Solutions of Exploit.Education Protostar | https://github.com/KurusuSenri/protostar_solutions | ['exploit'] | 1 | 2022-04-26 03:06:39+00:00 | 46 | 0 | Ruby | 0 | [] |
+| p0josec/DeserializeTool | A tool for generating payloads that exploit unsafe Java object deserialization copying and modifying from ysoserial. | https://github.com/p0josec/DeserializeTool | ['exploit'] | 1 | 2022-04-26 07:32:17+00:00 | 5 | 0 | | 0 | [] |
 | TamjidHossain/CS791_DPFL_Project | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL mo | https://github.com/TamjidHossain/CS791_DPFL_Project | ['exploit'] | 1 | 2022-04-26 01:27:44+00:00 | 8136 | 0 | Jupyter Notebook | 0 | [] |
 | lowkey0808/CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 01:53:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43857'] |
 | dnr6419/CVE-2021-32157 | Make it possible to build a vulnerable webmin virtual environment as a container using docker | https://github.com/dnr6419/CVE-2021-32157 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 02:03:18+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-32157'] |
@@ -30,9 +31,9 @@
 | XmasSnowREAL/CVE-2021-20038-Mass-RCE | CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit | https://github.com/XmasSnowREAL/CVE-2021-20038-Mass-RCE | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-04-26 04:42:11+00:00 | 0 | 0 | | 0 | ['CVE-2021-20038'] |
 | lowkey0808/cve-2022-29464 | None | https://github.com/lowkey0808/cve-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 05:44:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
 | whwlsfb/cve-2022-22947-godzilla-memshell | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | ['cve-2 OR cve_2'] | 1 | 2022-04-26 05:55:58+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22947'] |
-| KurusuSenri/protostar_solutions | Solutions of Exploit.Education Protostar | https://github.com/KurusuSenri/protostar_solutions | ['exploit'] | 1 | 2022-04-26 03:06:39+00:00 | 46 | 0 | Ruby | 0 | [] |
+| skisw/Spring-cloud-function-SpEL-RCE | None | https://github.com/skisw/Spring-cloud-function-SpEL-RCE | ['rce'] | 1 | 2022-04-26 03:29:40+00:00 | 0 | 0 | Python | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-04-26 04:01:43+00:00 | 16822 | 0 | | 0 | [] |
-| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-26 03:27:42+00:00 | 105 | 64 | | 8 | [] |
+| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-04-26 04:25:08+00:00 | 286 | 84 | Python | 38 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-26 02:04:45+00:00 | 1115 | 90 | HTML | 24 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-26 00:25:20+00:00 | 50428 | 302 | Ruby | 86 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-26 02:31:36+00:00 | 244877 | 150 | REXX | 14 | [] |
@@ -42,10 +43,11 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-26 00:05:14+00:00 | 479669 | 53 | | 21 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-04-26 05:37:49+00:00 | 81406 | 881 | Go | 150 | [] |
 | Y4tacker/Laravel-exploit | None | https://github.com/Y4tacker/Laravel-exploit | ['exploit'] | 1 | 2022-04-26 06:33:29+00:00 | 149 | 4 | PHP | 1 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-04-26 07:11:12+00:00 | 91 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-26 01:17:28+00:00 | 181128 | 393 | Python | 114 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-26 02:01:40+00:00 | 20792 | 3 | Python | 0 | [] |
 | yuriisanin/cve-exploits | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | ['exploit'] | 1 | 2022-04-26 00:02:23+00:00 | 511 | 0 | Python | 0 | [] |
-| TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-04-26 05:54:43+00:00 | 110 | 0 | Lua | 0 | [] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-04-26 03:27:42+00:00 | 105 | 64 | | 8 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-04-26 02:52:53+00:00 | 2185 | 45 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-26 01:50:20+00:00 | 4840112 | 43 | Python | 7 | [] |
 | manhhabui/mDSDI | Exploiting Domain-Specific Features to Enhance Domain Generalization (NeurIPS 2021). | https://github.com/manhhabui/mDSDI | ['exploit'] | 1 | 2022-04-26 06:25:17+00:00 | 1763 | 6 | Python | 2 | [] |
@@ -56,4 +58,5 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-26 02:06:09+00:00 | 56704 | 2657 | | 325 | [] |
 | nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-26 00:15:57+00:00 | 196 | 0 | Go | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-26 03:49:21+00:00 | 2066 | 127 | Go | 25 | [] |
+| TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-04-26 05:54:43+00:00 | 110 | 0 | Lua | 0 | [] |
 | Alpha-Wordpress/wordpress-exploit-framework | None | https://github.com/Alpha-Wordpress/wordpress-exploit-framework | ['exploit'] | 1 | 2022-04-26 06:00:50+00:00 | 0 | 0 | Ruby | 0 | [] |
