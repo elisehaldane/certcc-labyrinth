@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#504,0.02040816,https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315,pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315,485782626
+VU#504,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704,nanopathi/framework_base_AOSP10_r33_CVE-2021-39704,485748968
 VU#504,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315,nanopathi/framework_base_AOSP10_r33_CVE-2021-0315,485741223
 VU#504,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,485260390
 VU#504,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,485246433

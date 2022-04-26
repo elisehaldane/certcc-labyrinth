@@ -40,6 +40,7 @@ BID-0,0.03125000,https://github.com/jaychowjingjie/CVE-2018-0202,jaychowjingjie/
 BID-0,0.02777778,https://github.com/fenchelfen/ncs-exploit-environments,fenchelfen/ncs-exploit-environments,256838421
 BID-0,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 BID-0,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+BID-0,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347,nanopathi/linux-4.19.72_CVE-2021-3347,485757844
 BID-0,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-14356,ShaikUsaf/linux-4.19.72_CVE-2020-14356,484669847
 BID-0,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381,nanopathi/linux-4.19.72_CVE-2020-14381,478873896
 BID-0,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399,nanopathi/linux-4.19.72_CVE-2021-32399,476675393
@@ -55,6 +56,8 @@ BID-0,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 BID-0,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 BID-0,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 BID-0,0.02173913,https://github.com/ucsb-seclab/boomerang,ucsb-seclab/boomerang,76598629
+BID-0,0.02040816,https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315,pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315,485782626
+BID-0,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704,nanopathi/framework_base_AOSP10_r33_CVE-2021-39704,485748968
 BID-0,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315,nanopathi/framework_base_AOSP10_r33_CVE-2021-0315,485741223
 BID-0,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,485260390
 BID-0,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,485246433

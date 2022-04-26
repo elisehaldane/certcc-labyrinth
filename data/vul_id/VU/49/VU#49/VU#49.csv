@@ -21,6 +21,7 @@ VU#49,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attak
 VU#49,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#49,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#49,0.08333333,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#49,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#49,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3d-g0d/apache-tomcat-log4j,441536293
 VU#49,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
 VU#49,0.05882353,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
@@ -39,6 +40,8 @@ VU#49,0.02857143,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#49,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#49,0.02173913,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#49,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#49,0.02040816,https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315,pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315,485782626
+VU#49,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704,nanopathi/framework_base_AOSP10_r33_CVE-2021-39704,485748968
 VU#49,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315,nanopathi/framework_base_AOSP10_r33_CVE-2021-0315,485741223
 VU#49,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,nanopathi/framework_base_AOSP10_r33_CVE-2021-0339,485260390
 VU#49,0.02040816,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,nanopathi/framework_base_AOSP10_r33_CVE-2020-0227,485246433
