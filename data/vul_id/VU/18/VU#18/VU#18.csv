@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#18,1.00000000,https://github.com/DangPhucTech/exploit-vul,DangPhucTech/exploit-vul,467037313
 VU#18,1.00000000,https://github.com/DangHoangPhuc123/exploit-vulnerabilities,DangHoangPhuc123/exploit-vulnerabilities,465691568
 VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-paas-exploits,462462832
+VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
 VU#18,0.50000000,https://github.com/bennytrt/roblox-carmel-exploit,bennytrt/roblox-carmel-exploit,481760559
@@ -11,7 +12,6 @@ VU#18,0.50000000,https://github.com/richard-zevel/poc-accessibility-testing,rich
 VU#18,0.50000000,https://github.com/Nicomendia/smart-contracts-security,Nicomendia/smart-contracts-security,454040512
 VU#18,0.50000000,https://github.com/summit-defi/grim-users-shares,summit-defi/grim-users-shares,440293765
 VU#18,0.50000000,https://github.com/hihiben/exploit_simulation_template,hihiben/exploit_simulation_template,424849082
-VU#18,0.50000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,0.50000000,https://github.com/anvbis/anvbis.github.io,anvbis/anvbis.github.io,393919085
 VU#18,0.50000000,https://github.com/AS400JPLPC/nim_termcurs,AS400JPLPC/nim_termcurs,258618257
 VU#18,0.33333333,https://github.com/cxkoda/ERC721MintExploits,cxkoda/ERC721MintExploits,477625945
@@ -101,6 +101,7 @@ VU#18,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,42
 VU#18,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#18,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#18,0.01149425,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#18,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#18,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#18,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#18,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
