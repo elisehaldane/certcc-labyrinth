@@ -1,15 +1,27 @@
 
 # Summary for results/2022/04/26
     
-8 records found after deduplication
+20 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|-------------------|
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-26 00:25:20+00:00 | 50428 | 302 | Ruby | 86 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-26 00:47:34+00:00 | 10769 | 36 | | 20 | [] |
-| rcedror/rcedror.github.io | Personal Page | https://github.com/rcedror/rcedror.github.io | ['rce'] | 1 | 2022-04-26 00:47:39+00:00 | 30 | 0 | HTML | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-26 00:05:14+00:00 | 479669 | 53 | | 21 | [] |
-| yuriisanin/cve-exploits | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | ['exploit'] | 1 | 2022-04-26 00:02:23+00:00 | 511 | 0 | Python | 0 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-26 00:32:30+00:00 | 96925 | 2 | Jupyter Notebook | 0 | [] |
+| lowkey0808/CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 01:53:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43857'] |
+| TamjidHossain/CS791_DPFL_Project | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL mo | https://github.com/TamjidHossain/CS791_DPFL_Project | ['exploit'] | 1 | 2022-04-26 01:27:44+00:00 | 8136 | 0 | Jupyter Notebook | 0 | [] |
+| antoinenguyen-09/CVE-2021-4034 | My research about CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 00:45:19+00:00 | 0 | 0 | | 0 | ['CVE-2021-4034'] |
+| glowbase/sploitus-wrapper | Website wrapper of Sploitus exploit search engine made in React. | https://github.com/glowbase/sploitus-wrapper | ['exploit', 'sploit'] | 2 | 2022-04-26 01:13:01+00:00 | 280 | 0 | HTML | 0 | [] |
+| feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-04-26 02:20:57+00:00 | 28947 | 3 | Python | 0 | [] |
 | nathants/aws-rce | adhoc execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-04-26 00:15:57+00:00 | 196 | 0 | Go | 0 | [] |
-| antoinenguyen-09/CVE-2021-4034 | My research about CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 00:45:19+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-4034'] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-26 02:06:09+00:00 | 56704 | 2657 | | 325 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-04-26 02:11:17+00:00 | 46299 | 37 | Go | 16 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-04-26 00:32:30+00:00 | 96925 | 2 | Jupyter Notebook | 0 | [] |
+| hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-04-26 02:19:29+00:00 | 12677 | 253 | Ruby | 31 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-26 01:50:20+00:00 | 4840112 | 43 | Python | 7 | [] |
+| yuriisanin/cve-exploits | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | ['exploit'] | 1 | 2022-04-26 00:02:23+00:00 | 511 | 0 | Python | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-26 02:04:45+00:00 | 1115 | 90 | HTML | 24 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-26 02:01:40+00:00 | 20792 | 3 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-26 01:17:28+00:00 | 181128 | 393 | Python | 114 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-26 00:05:14+00:00 | 479669 | 53 | | 21 | [] |
+| rcedror/rcedror.github.io | Personal Page | https://github.com/rcedror/rcedror.github.io | ['rce'] | 1 | 2022-04-26 00:47:39+00:00 | 30 | 0 | HTML | 0 | [] |
+| dnr6419/CVE-2021-32157 | Make it possible to build a vulnerable webmin virtual environment as a container using docker | https://github.com/dnr6419/CVE-2021-32157 | ['cve-2 OR cve_2'] | 1 | 2022-04-26 02:03:18+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-32157'] |
