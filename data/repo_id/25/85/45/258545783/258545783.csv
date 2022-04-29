@@ -23,8 +23,8 @@ repo_id,repo_full_name,file,file_sha1,match
 258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalblue.c,a35ab8d322005e6b182ae096ddb5c6b6154debef,VU#21
 258545783,bhassani/EternalBlueC,EternalBlue All in one/enc_res/eternalblue.c,a35ab8d322005e6b182ae096ddb5c6b6154debef,VU#86
 258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/Experimental/DoublePulsar_Ping_Exec_Struct.cpp,adee39aa9792bd63c0abd17779a47c3bc619e2b6,MS17-010
+258545783,bhassani/EternalBlueC,DoublePulsar_UploadShellcode.cpp,afeefb740045cbf37afa0e4574253426b9272ef7,MS17-010
 258545783,bhassani/EternalBlueC,eternalblue_replay/EternalBlue_C_Shellcode.txt,b31042acb8a152adfb4519f76f48c55ae70b88ad,VU#98
-258545783,bhassani/EternalBlueC,DoublePulsar_UploadShellcode.cpp,bca661e868ee5cf859a5ade4838deb27b41aa157,MS17-010
 258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0143
 258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0144
 258545783,bhassani/EternalBlueC,DoublePulsar Upload DLL/doublepulsar_dll_rce.rb,c2562cbd52c450fa32412aed123f740dd7c9c966,CVE-2017-0145
