@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/29
     
-147 records found after deduplication
+148 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-04-29 00:52:12+00:00 | 728059 | 27098 | Ruby | 12185 | [] |
-| Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181 | None | https://github.com/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181 | ['cve-2 OR cve_2'] | 1 | 2022-04-29 05:29:52+00:00 | 0 | 0 | C | 0 | ['CVE-2020-0181'] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-04-29 06:51:21+00:00 | 24 | 12 | | 2 | [] |
 | WMDA/ctf | A collection of exploits, documents and code I have used for CTFs | https://github.com/WMDA/ctf | ['exploit'] | 1 | 2022-04-29 09:05:50+00:00 | 0 | 0 | Python | 0 | [] |
 | clxyify/Catmoon | Open source ROBLOX exploit DLL that uses LuaU (WIP) | https://github.com/clxyify/Catmoon | ['exploit'] | 1 | 2022-04-29 01:00:46+00:00 | 13 | 1 | | 0 | [] |
 | FrameWorkRBLX/FrameWorkScriptHub | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | ['exploit'] | 1 | 2022-04-29 03:11:48+00:00 | 446 | 0 | | 0 | [] |
@@ -23,17 +23,18 @@
 | Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0516 | None | https://github.com/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0516 | ['cve-2 OR cve_2'] | 1 | 2022-04-29 04:39:05+00:00 | 0 | 0 | C | 0 | ['CVE-2021-0516'] |
 | paopaodogp/huoji120 | 40行代码检测到大部分CobaltStrike的shellcode | https://github.com/paopaodogp/huoji120 | ['shellcode'] | 1 | 2022-04-29 04:30:41+00:00 | 0 | 0 | | 0 | [] |
 | WynSon/CVE-2021-35042 | A basic analysis about CVE-2021-35942. SQL injection in Django. | https://github.com/WynSon/CVE-2021-35042 | ['cve-2 OR cve_2'] | 1 | 2022-04-29 02:16:22+00:00 | 9 | 0 | Python | 0 | ['CVE-2021-35042', 'CVE-2021-35942'] |
-| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-04-29 06:51:21+00:00 | 24 | 12 | | 2 | [] |
 | Wovvee/Exploit | None | https://github.com/Wovvee/Exploit | ['exploit'] | 1 | 2022-04-29 17:14:30+00:00 | 3 | 0 | | 0 | [] |
-| comp426-2022-spring/a04-rceglie | a04-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a04-rceglie | ['rce'] | 1 | 2022-04-29 00:59:49+00:00 | 50 | 0 | JavaScript | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-29 08:40:28+00:00 | 46075 | 864 | Python | 205 | [] |
+| Robing00/PID-via-LFI | If you have a LFI vulnerability you can use this script to scan PIDs and maybe find a vulnerable process to exploit further. | https://github.com/Robing00/PID-via-LFI | ['exploit'] | 1 | 2022-04-29 13:20:04+00:00 | 25 | 0 | Python | 0 | [] |
 | Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-04-29 18:21:54+00:00 | 3 | 1 | | 0 | [] |
 | skisw/Spring-cloud-function-SpEL-RCE | None | https://github.com/skisw/Spring-cloud-function-SpEL-RCE | ['rce'] | 1 | 2022-04-29 02:24:19+00:00 | 13 | 0 | Python | 0 | [] |
 | comp426-2022-spring/a05-rceglie | a05-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a05-rceglie | ['rce'] | 1 | 2022-04-29 00:51:37+00:00 | 2943 | 0 | JavaScript | 0 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-04-29 17:23:00+00:00 | 1045 | 0 | TypeScript | 0 | [] |
+| xvSync/xDSL-Router-0DAY | A simple xDSL router exploit, brutes into devices with a default-login array. | https://github.com/xvSync/xDSL-Router-0DAY | ['0day', 'exploit'] | 2 | 2022-04-29 22:42:48+00:00 | 3 | 1 | Python | 0 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-04-29 15:25:55+00:00 | 161 | 1 | Shell | 0 | [] |
 | bigdavros/rcedemo | None | https://github.com/bigdavros/rcedemo | ['rce'] | 1 | 2022-04-29 11:37:15+00:00 | 97 | 0 | PHP | 0 | [] |
+| comp426-2022-spring/a04-rceglie | a04-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a04-rceglie | ['rce'] | 1 | 2022-04-29 00:59:49+00:00 | 50 | 0 | JavaScript | 0 | [] |
 | Skotizo/CVE-2021-43129 | Vulnerability in D2L Brightspace's Learning Management System(LMS) | https://github.com/Skotizo/CVE-2021-43129 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-29 06:20:22+00:00 | 82 | 1 | | 0 | ['CVE-2021-43129'] |
-| Robing00/PID-via-LFI | If you have a LFI vulnerability you can use this script to scan PIDs and maybe find a vulnerable process to exploit further. | https://github.com/Robing00/PID-via-LFI | ['exploit'] | 1 | 2022-04-29 13:20:04+00:00 | 25 | 0 | Python | 0 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-29 19:22:06+00:00 | 438 | 1 | C | 0 | [] |
 | Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-04-29 08:56:44+00:00 | 309 | 1 | Java | 0 | [] |
 | GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-04-29 20:46:37+00:00 | 7273 | 3 | JavaScript | 1 | [] |
@@ -41,8 +42,8 @@
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-29 01:51:15+00:00 | 19 | 2 | Python | 0 | ['CVE-2021-22204'] |
 | DataDog/security-labs-pocs | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | ['exploit'] | 1 | 2022-04-29 17:53:58+00:00 | 892 | 187 | C | 18 | [] |
 | Rqnge/MinionItemDupe | A minion item dupe that can be exploited in hypixel skyblock to gain coins at a high rate. Via using the jar file attached, you can follow the instructions in the discord or run the file and an info page will popup with necessary instructions. Good luck, d | https://github.com/Rqnge/MinionItemDupe | ['exploit'] | 1 | 2022-04-29 04:43:04+00:00 | 0 | 0 | | 0 | [] |
+| Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181 | None | https://github.com/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181 | ['cve-2 OR cve_2'] | 1 | 2022-04-29 05:29:52+00:00 | 0 | 0 | C | 0 | ['CVE-2020-0181'] |
 | Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396 | None | https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396 | ['cve-2 OR cve_2'] | 1 | 2022-04-29 05:30:30+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-0396'] |
-| Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-04-29 00:58:11+00:00 | 46173 | 2 | C# | 0 | [] |
 | Exploitables/Open-Exploitation-1 | For those who want to get an idea of what EXP-301 is about. This is NOT the official course. | https://github.com/Exploitables/Open-Exploitation-1 | ['exploit'] | 1 | 2022-04-29 17:58:50+00:00 | 9 | 1 | | 0 | [] |
 | gtaharo/GTA-HAROS-RBLX-SCRIPT-HUB-EXPLOIT | a script hub with the BEST working scripts for roblox. | https://github.com/gtaharo/GTA-HAROS-RBLX-SCRIPT-HUB-EXPLOIT | ['exploit'] | 1 | 2022-04-29 15:08:39+00:00 | 0 | 0 | | 0 | [] |
 | fjalcaraz/rcengine | Forward Chaining Rules compiler engine. Fast implementation of the RETE algorithm | https://github.com/fjalcaraz/rcengine | ['rce'] | 1 | 2022-04-29 15:48:19+00:00 | 0 | 0 | | 0 | [] |
@@ -78,8 +79,8 @@
 | tzun4mi/android-hack-pack | FaceNiff latest Droidsheep APK zAnti APK DroidJack dSploit APK SpyMax v2 Spynote v6.4. dendroid Andro RAT Hackode SSHDroid DroidSheep Guard ZAnti APK Inspector WiFi Kill AhMyth cSploit dSploit DroidSQLi DroidBox SSLStrip Omnirat USBCleaver | https://github.com/tzun4mi/android-hack-pack | ['exploit'] | 1 | 2022-04-29 10:58:39+00:00 | 0 | 0 | | 0 | [] |
 | chrivand/action-kenna-cve-exploits-js | None | https://github.com/chrivand/action-kenna-cve-exploits-js | ['exploit'] | 1 | 2022-04-29 11:00:35+00:00 | 0 | 0 | | 0 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-04-29 07:49:53+00:00 | 318 | 5 | Python | 1 | [] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-29 03:02:11+00:00 | 524779 | 554 | nan | 116 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-29 08:40:28+00:00 | 46075 | 864 | Python | 205 | [] |
+| Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-04-29 00:58:11+00:00 | 46173 | 2 | C# | 0 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-29 03:02:11+00:00 | 524779 | 554 | | 116 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-29 02:07:00+00:00 | 1294 | 91 | HTML | 24 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-04-29 18:14:21+00:00 | 4740784 | 4 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-29 00:03:42+00:00 | 500860 | 55 | | 21 | [] |
