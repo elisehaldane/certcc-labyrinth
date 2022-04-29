@@ -19,6 +19,7 @@ VU#78,0.33333333,https://github.com/solitarysp/Log4j-CVE-2021-44228,solitarysp/L
 VU#78,0.33333333,https://github.com/gyaansastra/CVE-2021-44228,gyaansastra/CVE-2021-44228,439030654
 VU#78,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
 VU#78,0.20000000,https://github.com/ByteHackr/CVE-2022-0853,ByteHackr/CVE-2022-0853,468269355
+VU#78,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
 VU#78,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,486848599
 VU#78,0.16666667,https://github.com/agnath18K/eXploit,agnath18K/eXploit,345155702
 VU#78,0.11111111,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
@@ -129,6 +130,7 @@ VU#78,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#78,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#78,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#78,0.00207039,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#78,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#78,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#78,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#78,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
