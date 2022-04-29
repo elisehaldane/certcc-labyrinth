@@ -1,7 +1,7 @@
 
 # Summary for results/2022/04/28
     
-155 records found after deduplication
+156 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -15,7 +15,7 @@
 | aminesayagh/devoirSystemeExploitation | None | https://github.com/aminesayagh/devoirSystemeExploitation | ['exploit'] | 1 | 2022-04-28 05:25:48+00:00 | 7 | 0 | TypeScript | 0 | [] |
 | TKratter/ee048843 | This is the repo of the "Exploration and Exploitation in Learning Systems" course given at the Technion by Ron Meir. | https://github.com/TKratter/ee048843 | ['exploit'] | 1 | 2022-04-28 09:15:59+00:00 | 0 | 0 | Python | 0 | [] |
 | Donny2134/DonnySploit-Revamp | None | https://github.com/Donny2134/DonnySploit-Revamp | ['sploit'] | 1 | 2022-04-28 00:58:25+00:00 | 0 | 0 | | 0 | [] |
-| anlongda/rce | HW行动中可以直接rce目标服务器的漏洞集合 | https://github.com/anlongda/rce | ['rce'] | 1 | 2022-04-28 07:26:58+00:00 | 0 | 0 | | 0 | [] |
+| NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-04-28 12:11:57+00:00 | 11672 | 0 | | 0 | [] |
 | farsana-fr/LearnFR | This is my first GitHub repository, trying to exploit my capabilities. Insha Allah | https://github.com/farsana-fr/LearnFR | ['exploit'] | 1 | 2022-04-28 01:50:32+00:00 | 0 | 0 | Ruby | 0 | [] |
 | RedLeavesChilde/CVE-2021-40444 | None | https://github.com/RedLeavesChilde/CVE-2021-40444 | ['cve-2 OR cve_2'] | 1 | 2022-04-28 02:14:10+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
 | enceka/cve-2019-2215-3.18 | for kernel 3.18.x | https://github.com/enceka/cve-2019-2215-3.18 | ['cve-2 OR cve_2'] | 1 | 2022-04-28 04:05:40+00:00 | 0 | 0 | C | 0 | ['CVE-2019-2215'] |
@@ -24,17 +24,18 @@
 | phsk1d/exploits | None | https://github.com/phsk1d/exploits | ['exploit'] | 1 | 2022-04-28 06:59:44+00:00 | 3 | 0 | Python | 0 | [] |
 | Nariod/Laz-y-templates | Laz-y project compatible C# templates for shellcode injection. | https://github.com/Nariod/Laz-y-templates | ['shellcode'] | 1 | 2022-04-28 07:13:41+00:00 | 0 | 0 | C# | 0 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-04-28 07:07:04+00:00 | 22 | 12 | | 2 | [] |
-| NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-04-28 12:11:57+00:00 | 11672 | 0 | | 0 | [] |
 | mariomamo/CVE-2022-22965 | None | https://github.com/mariomamo/CVE-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-04-28 13:25:08+00:00 | 19679 | 3 | Python | 0 | ['CVE-2022-22965'] |
-| albert-garreta/Underhanded-Cairo-Contest-submission | This is a "proof-of-concept" Starknet project with a hidden bug/exploit within it | https://github.com/albert-garreta/Underhanded-Cairo-Contest-submission | ['exploit'] | 1 | 2022-04-28 13:50:30+00:00 | 119 | 0 | Cairo | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-28 07:07:56+00:00 | 46064 | 864 | Python | 205 | [] |
+| bankThanabat/remote-code-execution | build remote code execution using node.js | https://github.com/bankThanabat/remote-code-execution | ['remote code execution'] | 1 | 2022-04-28 07:47:17+00:00 | 56 | 0 | JavaScript | 0 | [] |
+| Raz0r/semgrep-smart-contracts | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | ['exploit'] | 1 | 2022-04-28 09:54:04+00:00 | 250 | 181 | Solidity | 14 | [] |
 | vbrunschot/Exploits | Frequently used and tested exploits | https://github.com/vbrunschot/Exploits | ['exploit'] | 1 | 2022-04-28 15:41:33+00:00 | 16144 | 0 | PowerShell | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server against IP forwarding exploits, as well as blocking unknown BungeeCord and/or Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-04-28 02:02:22+00:00 | 79 | 9 | Java | 0 | [] |
 | zxzxz1/Exploit_nokey | None | https://github.com/zxzxz1/Exploit_nokey | ['exploit'] | 1 | 2022-04-28 00:21:39+00:00 | 36048 | 0 | Lua | 0 | [] |
 | sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-04-28 14:34:52+00:00 | 2367 | 0 | Jupyter Notebook | 0 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-04-28 17:10:20+00:00 | 1042 | 0 | TypeScript | 0 | [] |
 | SamOBoy97/SamSploit | A professional ethical hacking tool. | https://github.com/SamOBoy97/SamSploit | ['sploit'] | 1 | 2022-04-28 09:07:19+00:00 | 18 | 3 | Python | 0 | [] |
-| bankThanabat/remote-code-execution | build remote code execution using node.js | https://github.com/bankThanabat/remote-code-execution | ['remote code execution'] | 1 | 2022-04-28 07:47:17+00:00 | 56 | 0 | JavaScript | 0 | [] |
 | bigdavros/rcedemo | None | https://github.com/bigdavros/rcedemo | ['rce'] | 1 | 2022-04-28 11:22:54+00:00 | 94 | 0 | PHP | 0 | [] |
+| albert-garreta/Underhanded-Cairo-Contest-submission | This is a "proof-of-concept" Starknet project with a hidden bug/exploit within it | https://github.com/albert-garreta/Underhanded-Cairo-Contest-submission | ['exploit'] | 1 | 2022-04-28 13:50:30+00:00 | 119 | 0 | Cairo | 0 | [] |
 | Skotizo/CVE-2021-43129 | Vulnerability in D2L Brightspace's Learning Management System(LMS) | https://github.com/Skotizo/CVE-2021-43129 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-28 02:24:22+00:00 | 140 | 1 | | 0 | ['CVE-2021-43129'] |
 | Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-04-28 07:26:42+00:00 | 272 | 1 | Java | 0 | [] |
 | CERTCC/cveClient | A client and library to cve-services 2.x to provide CVE management for CNA and CERTs | https://github.com/CERTCC/cveClient | ['cve-2 OR cve_2'] | 1 | 2022-04-28 19:57:29+00:00 | 46 | 0 | JavaScript | 0 | [] |
@@ -43,8 +44,8 @@
 | msam13/wyze-cam-firmware-analysis | The firmware for the Wyze Cam V3 is hosted on the website of its manufacturer for anyone to download. We plan to download the firmware and perform a variety of analysis techniques on it until we have a solid understanding of the device and/or have identif | https://github.com/msam13/wyze-cam-firmware-analysis | ['exploit'] | 1 | 2022-04-28 04:18:23+00:00 | 1 | 1 | Shell | 0 | [] |
 | h3v0x/CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) | https://github.com/h3v0x/CVE-2022-29464 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-28 05:18:56+00:00 | 6 | 2 | Python | 0 | ['CVE-2022-29464'] |
 | souravbaghz/ble-name-exploitor | Script that write/updates Device Local Name of BLE devices like smart watches & others. | https://github.com/souravbaghz/ble-name-exploitor | ['exploit'] | 1 | 2022-04-28 07:17:04+00:00 | 0 | 0 | Shell | 0 | [] |
+| anlongda/rce | HW行动中可以直接rce目标服务器的漏洞集合 | https://github.com/anlongda/rce | ['rce'] | 1 | 2022-04-28 07:26:58+00:00 | 0 | 0 | | 0 | [] |
 | Satheesh575555/linux-4.19.72_CVE-2021-45485 | None | https://github.com/Satheesh575555/linux-4.19.72_CVE-2021-45485 | ['cve-2 OR cve_2'] | 1 | 2022-04-28 07:40:58+00:00 | 0 | 0 | C | 0 | ['CVE-2021-45485'] |
-| D3Ext/Captcha-Bypassing-Lab | A local laboratory used for practicing captcha bypassing | https://github.com/D3Ext/Captcha-Bypassing-Lab | ['metasploit module OR payload'] | 1 | 2022-04-28 19:28:56+00:00 | 93 | 1 | PHP | 0 | [] |
 | Amihacker0/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Amihacker0/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-04-28 18:18:15+00:00 | 0 | 0 | | 0 | [] |
 | AmirhosseinBidokhti/csrf-exploits | Handy CSRF exploits based on the HTTP request. | https://github.com/AmirhosseinBidokhti/csrf-exploits | ['exploit'] | 1 | 2022-04-28 15:56:12+00:00 | 0 | 0 | | 0 | [] |
 | fxpgunz/gunz-1.0 | An attempt to fixes the programmers sin's in Gunz1.0 Spaghetti code. Fixing security horrors and numerous RCE | https://github.com/fxpgunz/gunz-1.0 | ['rce'] | 1 | 2022-04-28 17:44:50+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -81,9 +82,9 @@
 | Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453 | None | https://github.com/Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453 | ['cve-2 OR cve_2'] | 1 | 2022-04-28 13:17:43+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0453'] |
 | timekillerj/JNDI-Injection-Exploit | None | https://github.com/timekillerj/JNDI-Injection-Exploit | ['exploit'] | 1 | 2022-04-28 14:08:06+00:00 | 0 | 0 | Java | 0 | [] |
 | AmirhosseinBidokhti/cors-misconfig-exploits | None | https://github.com/AmirhosseinBidokhti/cors-misconfig-exploits | ['exploit'] | 1 | 2022-04-28 14:46:39+00:00 | 0 | 0 | HTML | 0 | [] |
-| Raz0r/semgrep-smart-contracts | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | ['exploit'] | 1 | 2022-04-28 09:54:04+00:00 | 250 | 181 | Solidity | 14 | [] |
+| D3Ext/Captcha-Bypassing-Lab | A local laboratory used for practicing captcha bypassing | https://github.com/D3Ext/Captcha-Bypassing-Lab | ['metasploit module OR payload'] | 1 | 2022-04-28 19:28:56+00:00 | 93 | 1 | PHP | 0 | [] |
 | Salmanndytar/JavaFxApp.exeWindowsScappatteck | Une application Scapatteck.exe en javaFx permettant a échapper a quelques attaques locaux telque " Metasploit", "middle attack (MITM)".L'inconvenant il y aura l'attende de connexion de 2 à 4 secondes après chaque x minutes selon votre configuration; par d | https://github.com/Salmanndytar/JavaFxApp.exeWindowsScappatteck | ['metasploit module OR payload'] | 1 | 2022-04-28 18:13:41+00:00 | 66 | 0 | | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-04-28 07:07:56+00:00 | 46064 | 864 | Python | 205 | [] |
+| k0zulzr/CVE-2022-24086-RCE | None | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-28 08:46:28+00:00 | 2 | 2 | | 2 | ['CVE-2022-24086'] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-28 00:04:08+00:00 | 490273 | 54 | | 21 | [] |
 | hugsy/pwn-- | A (toy) Windows & Linux pwn library to play with modern C++. | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-04-28 00:53:35+00:00 | 604 | 64 | C++ | 5 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-04-28 01:15:24+00:00 | 407 | 136 | Java | 31 | [] |
@@ -122,7 +123,7 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-28 02:32:12+00:00 | 250465 | 151 | REXX | 14 | [] |
 | manyasrinivas2021/AI-BASED-FACIAL-EMOTION-DETECTION-USING-DEEP-LEARNING | “AI Based Facial Emotion Detection”, developed using many machine learning algorithms including convolution neural networks (CNN) for a facial expression recognition task. The goal is to classify each facial image into one of the seven facial emotion cat | https://github.com/manyasrinivas2021/AI-BASED-FACIAL-EMOTION-DETECTION-USING-DEEP-LEARNING | ['exploit'] | 1 | 2022-04-28 06:21:50+00:00 | 13147 | 4 | Python | 2 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-28 01:16:56+00:00 | 174891 | 395 | Python | 115 | [] |
-| k0zulzr/CVE-2022-24086-RCE | None | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-04-28 08:46:28+00:00 | 2 | 2 | | 2 | ['CVE-2022-24086'] |
+| Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-04-28 23:34:03+00:00 | 45664 | 2 | C# | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-04-28 06:08:06+00:00 | 2097 | 153 | Go | 30 | [] |
 | jbaines-r7/staystaystay | Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE | https://github.com/jbaines-r7/staystaystay | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-04-28 19:21:11+00:00 | 31 | 6 | C++ | 0 | ['CVE-2021-1585'] |
 | kibotrel/42-Rainfall | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | ['exploit'] | 1 | 2022-04-28 01:05:07+00:00 | 85 | 0 | C | 0 | [] |
