@@ -1,12 +1,12 @@
 
 # Summary for results/2022/04/30
     
-27 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-30 00:28:04+00:00 | 51972 | 301 | Ruby | 86 | [] |
-| E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-04-30 00:35:28+00:00 | 9 | 1 | Python | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-30 02:32:25+00:00 | 246905 | 152 | REXX | 14 | [] |
 | Eddi0x/Silent-PDF-Exploit-Private | None | https://github.com/Eddi0x/Silent-PDF-Exploit-Private | ['exploit'] | 1 | 2022-04-30 02:58:24+00:00 | 0 | 0 | | 0 | [] |
 | Jack7988/SILENT-WORD-EXPLOIT-2022 | Silent Microsoft Office Word Exploit - DOC - DOCX | https://github.com/Jack7988/SILENT-WORD-EXPLOIT-2022 | ['exploit'] | 1 | 2022-04-30 02:21:18+00:00 | 0 | 0 | | 0 | [] |
 | IbrahimEkimIsik/CVE-2022-28099 | SQL injection for Poultry Farm Management System 1.0 | https://github.com/IbrahimEkimIsik/CVE-2022-28099 | ['cve-2 OR cve_2'] | 1 | 2022-04-30 02:02:16+00:00 | 0 | 0 | | 0 | ['CVE-2022-28099'] |
@@ -18,8 +18,8 @@
 | H0QLCoder/Discord-Image-logger-mutil-tool | Warning Although the hacking community in general are pretty chill nice people there are a lot of bad actors on discord who sell fake things to try and scam people interested in hacking. People will sell things like fake "One Click" exploits for 50 dollars | https://github.com/H0QLCoder/Discord-Image-logger-mutil-tool | ['exploit'] | 1 | 2022-04-30 01:30:48+00:00 | 34479 | 1 | | 0 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-30 00:01:59+00:00 | 446 | 1 | C | 0 | [] |
 | Eddi0x/Silent-PDF-Exploit | FULL UNDETECTABLE Our product Silent Exploit PDF is FUD and it won’t be detected , the code is structed from a really good team and its detection ratio is quite astonishing, with anti-reverse techniques and random variables the code is running silently and | https://github.com/Eddi0x/Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-30 02:59:34+00:00 | 4 | 4 | | 2 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-30 01:48:50+00:00 | 61713 | 2678 | | 326 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-30 02:32:25+00:00 | 246905 | 152 | REXX | 14 | [] |
+| E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-04-30 00:35:28+00:00 | 9 | 1 | Python | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-30 01:48:50+00:00 | 61713 | 2678 | nan | 326 | [] |
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-04-30 03:16:38+00:00 | 593 | 1 | Shell | 0 | [] |
 | ZeroM3m0ry/vcxproj-infecter | vcxproj-infecter is a malware that will infect all your visual studio projects (still under developing !) | https://github.com/ZeroM3m0ry/vcxproj-infecter | ['rce'] | 1 | 2022-04-30 00:33:01+00:00 | 23 | 12 | C++ | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-30 01:51:32+00:00 | 5007548 | 43 | Python | 7 | [] |
@@ -27,6 +27,7 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-30 02:04:41+00:00 | 1298 | 92 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-30 02:02:33+00:00 | 19693 | 3 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-30 01:17:22+00:00 | 181996 | 395 | Python | 115 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-04-30 04:01:08+00:00 | 81518 | 903 | Go | 158 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-04-30 00:25:10+00:00 | 27943 | 28 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-04-30 00:02:27+00:00 | 494506 | 55 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-30 00:47:36+00:00 | 13480 | 37 | | 21 | [] |
