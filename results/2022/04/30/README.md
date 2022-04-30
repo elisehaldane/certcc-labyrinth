@@ -1,15 +1,17 @@
 
 # Summary for results/2022/04/30
     
-53 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-30 06:38:22+00:00 | 5487 | 3230 | Python | 689 | [] |
-| E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-04-30 00:35:28+00:00 | 9 | 1 | Python | 0 | [] |
+| phsk1d/exploits | None | https://github.com/phsk1d/exploits | ['exploit'] | 1 | 2022-04-30 08:17:15+00:00 | 3 | 0 | PHP | 0 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-30 05:41:19+00:00 | 527339 | 559 | nan | 116 | [] |
 | Eddi0x/Silent-PDF-Exploit | FULL UNDETECTABLE Our product Silent Exploit PDF is FUD and it won’t be detected , the code is structed from a really good team and its detection ratio is quite astonishing, with anti-reverse techniques and random variables the code is running silently and | https://github.com/Eddi0x/Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-30 02:59:34+00:00 | 4 | 4 | | 2 | [] |
 | imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-04-30 07:11:06+00:00 | 3 | 0 | JavaScript | 1 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-04-30 00:01:59+00:00 | 446 | 1 | C | 0 | [] |
+| DataDog/security-labs-pocs | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | ['exploit'] | 1 | 2022-04-30 09:04:25+00:00 | 893 | 190 | C | 18 | [] |
 | H0QLCoder/Discord-Image-logger-mutil-tool | Warning Although the hacking community in general are pretty chill nice people there are a lot of bad actors on discord who sell fake things to try and scam people interested in hacking. People will sell things like fake "One Click" exploits for 50 dollars | https://github.com/H0QLCoder/Discord-Image-logger-mutil-tool | ['exploit'] | 1 | 2022-04-30 01:30:48+00:00 | 34479 | 1 | | 0 | [] |
 | TheFunnyMan120/PrecHub | Exploits for various roblox games | https://github.com/TheFunnyMan120/PrecHub | ['exploit'] | 1 | 2022-04-30 05:43:57+00:00 | 19 | 1 | Lua | 1 | [] |
 | clxyify/Catmoon | Open source ROBLOX exploit DLL that uses LuaU (WIP) | https://github.com/clxyify/Catmoon | ['exploit'] | 1 | 2022-04-30 01:37:51+00:00 | 15 | 1 | | 0 | [] |
@@ -17,8 +19,8 @@
 | CaspianRcs/Fortnite-Hack-Esp-Exploits-With-Menu | Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can | https://github.com/CaspianRcs/Fortnite-Hack-Esp-Exploits-With-Menu | ['exploit'] | 1 | 2022-04-30 08:11:59+00:00 | 6107 | 3 | C++ | 0 | [] |
 | CaspianRcs/Fortnite-OrangeWare-Source-Full | Fortnite Internal C++ Hack Esp aimbot Exploits | https://github.com/CaspianRcs/Fortnite-OrangeWare-Source-Full | ['exploit'] | 1 | 2022-04-30 08:11:45+00:00 | 900 | 3 | C++ | 0 | [] |
 | YavuzSahbaz/CVE-2022-28508 | CVE-2022-28508 | https://github.com/YavuzSahbaz/CVE-2022-28508 | ['cve-2 OR cve_2'] | 1 | 2022-04-30 03:15:25+00:00 | 0 | 0 | | 0 | ['CVE-2022-28508'] |
-| phsk1d/exploits | None | https://github.com/phsk1d/exploits | ['exploit'] | 1 | 2022-04-30 08:17:15+00:00 | 3 | 0 | PHP | 0 | [] |
 | 0xApt/evil-xmlrpc | evil-xmlrpc is a tool that I created to help me bruteforce Wordpress user accounts using xmlrpc.php while bypassing iThemes Security preventing lockouts | https://github.com/0xApt/evil-xmlrpc | ['exploit'] | 1 | 2022-04-30 01:07:56+00:00 | 22 | 0 | Python | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-30 00:28:04+00:00 | 51972 | 301 | Ruby | 86 | [] |
 | lokachop/random_gm_exploits | random exploits i found on gmod | https://github.com/lokachop/random_gm_exploits | ['exploit'] | 1 | 2022-04-30 00:44:56+00:00 | 0 | 0 | Lua | 0 | [] |
 | IbrahimEkimIsik/CVE-2022-28099 | SQL injection for Poultry Farm Management System 1.0 | https://github.com/IbrahimEkimIsik/CVE-2022-28099 | ['cve-2 OR cve_2'] | 1 | 2022-04-30 02:02:16+00:00 | 0 | 0 | | 0 | ['CVE-2022-28099'] |
 | Jack7988/SILENT-WORD-EXPLOIT-2022 | Silent Microsoft Office Word Exploit - DOC - DOCX | https://github.com/Jack7988/SILENT-WORD-EXPLOIT-2022 | ['exploit'] | 1 | 2022-04-30 02:21:18+00:00 | 0 | 0 | | 0 | [] |
@@ -30,10 +32,11 @@
 | Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418 | None | https://github.com/Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418 | ['cve-2 OR cve_2'] | 1 | 2022-04-30 06:19:01+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0418'] |
 | Trinadh465/external_sonivox_AOSP10_r33_CVE-2020-0381 | None | https://github.com/Trinadh465/external_sonivox_AOSP10_r33_CVE-2020-0381 | ['cve-2 OR cve_2'] | 1 | 2022-04-30 06:39:36+00:00 | 0 | 0 | C | 0 | ['CVE-2020-0381'] |
 | yzun6/chrysht | Collection of RISC-V exploits | https://github.com/yzun6/chrysht | ['exploit'] | 1 | 2022-04-30 07:36:16+00:00 | 0 | 0 | | 0 | [] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-30 05:41:19+00:00 | 527339 | 559 | nan | 116 | [] |
+| pr0cf5/cpu-exploits | None | https://github.com/pr0cf5/cpu-exploits | ['exploit'] | 1 | 2022-04-30 08:06:06+00:00 | 0 | 0 | | 0 | [] |
+| E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-04-30 00:35:28+00:00 | 9 | 1 | Python | 0 | [] |
 | rvizx/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/rvizx/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-04-30 08:45:34+00:00 | 32 | 0 | Python | 3 | ['CVE-2021-4034'] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-30 00:28:04+00:00 | 51972 | 301 | Ruby | 86 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-30 01:48:50+00:00 | 61713 | 2678 | | 326 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-30 06:44:17+00:00 | 4156 | 24 | C++ | 12 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-04-30 06:33:06+00:00 | 284855 | 99 | Python | 15 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-04-30 02:32:25+00:00 | 246905 | 152 | REXX | 14 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-04-30 06:00:36+00:00 | 35592 | 6757 | Vue | 1447 | [] |
@@ -48,13 +51,15 @@
 | lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-04-30 04:01:08+00:00 | 81518 | 903 | Go | 158 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-30 08:07:50+00:00 | 422859 | 103 | | 22 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-30 01:17:22+00:00 | 181996 | 395 | Python | 115 | [] |
+| 0xhuesca/x86-x64-Windows-Shellcodes | x86-x64 arch windows shellcodes. | https://github.com/0xhuesca/x86-x64-Windows-Shellcodes | ['exploit', 'shellcode'] | 2 | 2022-04-30 08:50:43+00:00 | 8 | 0 | Assembly | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-04-30 02:02:33+00:00 | 19693 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-04-30 02:04:41+00:00 | 1298 | 92 | HTML | 24 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-04-30 00:24:16+00:00 | 268 | 21 | C++ | 1 | [] |
+| SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-04-30 09:10:40+00:00 | 2576 | 45 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-30 01:51:32+00:00 | 5007548 | 43 | Python | 7 | [] |
 | ZeroM3m0ry/vcxproj-infecter | vcxproj-infecter is a malware that will infect all your visual studio projects (still under developing !) | https://github.com/ZeroM3m0ry/vcxproj-infecter | ['rce'] | 1 | 2022-04-30 00:33:01+00:00 | 23 | 12 | C++ | 0 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload'] | 1 | 2022-04-30 09:47:17+00:00 | 24971 | 64 | Rust | 10 | [] |
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-04-30 03:16:38+00:00 | 593 | 1 | Shell | 0 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2022-04-30 07:05:55+00:00 | 50 | 0 | C | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-30 07:47:20+00:00 | 99 | 1 | | 0 | [] |
-| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-30 06:44:17+00:00 | 4156 | 24 | C++ | 12 | [] |
-| pr0cf5/cpu-exploits | None | https://github.com/pr0cf5/cpu-exploits | ['exploit'] | 1 | 2022-04-30 08:06:06+00:00 | 0 | 0 | | 0 | [] |
+| idanwasserman/Final_Project | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | ['exploit'] | 1 | 2022-04-30 09:45:21+00:00 | 0 | 0 | Python | 0 | [] |
