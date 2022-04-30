@@ -1,6 +1,7 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
 hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-04-30T00:28:04+0000,51972,301,Ruby,86,[]
 E1P0TR0/CVE-Machines_htb,Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos,https://github.com/E1P0TR0/CVE-Machines_htb,['exploit'],1,2022-04-30T00:35:28+0000,9,1,Python,0,[]
+Eddi0x/Silent-PDF-Exploit-Private,None,https://github.com/Eddi0x/Silent-PDF-Exploit-Private,['exploit'],1,2022-04-30T02:58:24+0000,0,0,,0,[]
 Jack7988/SILENT-WORD-EXPLOIT-2022,Silent Microsoft Office Word Exploit - DOC - DOCX,https://github.com/Jack7988/SILENT-WORD-EXPLOIT-2022,['exploit'],1,2022-04-30T02:21:18+0000,0,0,,0,[]
 IbrahimEkimIsik/CVE-2022-28099,SQL injection for Poultry Farm Management System 1.0,https://github.com/IbrahimEkimIsik/CVE-2022-28099,['cve-2 OR cve_2'],1,2022-04-30T02:02:16+0000,0,0,,0,['CVE-2022-28099']
 lokachop/random_gm_exploits,random exploits i found on gmod,https://github.com/lokachop/random_gm_exploits,['exploit'],1,2022-04-30T00:44:56+0000,0,0,Lua,0,[]
@@ -13,6 +14,7 @@ Exploitables/HEVD-Exploits,A collection of HackSys Extreme Vulnerable Driver exp
 Eddi0x/Silent-PDF-Exploit,"FULL UNDETECTABLE Our product Silent Exploit PDF is FUD and it won’t be detected , the code is structed from a really good team and its detection ratio is quite astonishing, with anti-reverse techniques and random variables the code is running silently and",https://github.com/Eddi0x/Silent-PDF-Exploit,['exploit'],1,2022-04-30T02:59:34+0000,4,4,,2,[]
 trickest/cve,Gather and update all available and newest CVEs with their PoC.,https://github.com/trickest/cve,"['cve poc', 'exploit', 'vulnerability poc']",3,2022-04-30T01:48:50+0000,61713,2678,,326,[]
 drb-ra/C2IntelFeeds,Automatically created C2 Feeds,https://github.com/drb-ra/C2IntelFeeds,['metasploit module OR payload'],1,2022-04-30T02:32:25+0000,246905,152,REXX,14,[]
+AngelJuanMa/Pentesting,"Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities.",https://github.com/AngelJuanMa/Pentesting,['exploit'],1,2022-04-30T03:16:38+0000,593,1,Shell,0,[]
 ZeroM3m0ry/vcxproj-infecter,vcxproj-infecter is a malware that will infect all your visual studio projects (still under developing !),https://github.com/ZeroM3m0ry/vcxproj-infecter,['rce'],1,2022-04-30T00:33:01+0000,23,12,C++,0,[]
 gmatuz/inthewilddb,Hourly updated database of exploit and exploitation reports,https://github.com/gmatuz/inthewilddb,['exploit'],1,2022-04-30T01:51:32+0000,5007548,43,Python,7,[]
 ReversingID/Shellcode-Loader,Open repository for learning dynamic shellcode loading.,https://github.com/ReversingID/Shellcode-Loader,['shellcode'],1,2022-04-30T00:24:16+0000,268,21,C++,1,[]
@@ -23,4 +25,4 @@ ARPSyndicate/xlocate,the ultimate exploits/references finder,https://github.com/
 Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-04-30T00:02:27+0000,494506,55,,21,[]
 nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-04-30T00:47:36+0000,13480,37,,21,[]
 bsauce/kernel-security-learning,"Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug.",https://github.com/bsauce/kernel-security-learning,['exploit'],1,2022-04-30T02:12:18+0000,15842,312,C,47,[]
-Eddi0x/Silent-PDF-Exploit-Private,None,https://github.com/Eddi0x/Silent-PDF-Exploit-Private,['exploit'],1,2022-04-30T02:58:24+0000,0,0,,0,[]
+Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,None,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,['cve-2 OR cve_2'],1,2022-04-30T03:42:36+0000,0,0,C,0,['CVE-2021-22924']
