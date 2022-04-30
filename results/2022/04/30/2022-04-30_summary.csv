@@ -1,0 +1,10 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-04-30T00:28:04+0000,51972,301,Ruby,86,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-04-30T00:47:36+0000,13480,37,,21,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-04-30T00:02:27+0000,494506,55,,21,[]
+ARPSyndicate/xlocate,the ultimate exploits/references finder,https://github.com/ARPSyndicate/xlocate,['exploit'],1,2022-04-30T00:25:10+0000,27943,28,Python,5,[]
+ReversingID/Shellcode-Loader,Open repository for learning dynamic shellcode loading.,https://github.com/ReversingID/Shellcode-Loader,['shellcode'],1,2022-04-30T00:24:16+0000,268,21,C++,1,[]
+ZeroM3m0ry/vcxproj-infecter,vcxproj-infecter is a malware that will infect all your visual studio projects (still under developing !),https://github.com/ZeroM3m0ry/vcxproj-infecter,['rce'],1,2022-04-30T00:33:01+0000,23,12,C++,0,[]
+E1P0TR0/CVE-Machines_htb,Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos,https://github.com/E1P0TR0/CVE-Machines_htb,['exploit'],1,2022-04-30T00:35:28+0000,9,1,Python,0,[]
+Exploitables/HEVD-Exploits,A collection of HackSys Extreme Vulnerable Driver exploits.,https://github.com/Exploitables/HEVD-Exploits,['exploit'],1,2022-04-30T00:01:59+0000,446,1,C,0,[]
+lokachop/random_gm_exploits,random exploits i found on gmod,https://github.com/lokachop/random_gm_exploits,['exploit'],1,2022-04-30T00:44:56+0000,0,0,Lua,0,[]
