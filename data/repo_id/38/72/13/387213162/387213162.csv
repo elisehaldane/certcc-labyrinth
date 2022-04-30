@@ -1,9 +1,11 @@
 repo_id,repo_full_name,file,file_sha1,match
+387213162,Creamy-Chicken-Soup/Exploit,CVE-2009-1643.py,0596e1a50f423bdc840516fe6bd3ed90fa1bf5a9,CVE-2009-1643
 387213162,Creamy-Chicken-Soup/Exploit,CVE-2013-4730.py,325ddaad298757ec2b105221366b240d5ae1024b,CVE-2013-4730
-387213162,Creamy-Chicken-Soup/Exploit,README.md,740534af2f8d38a8e65d64a6c1f54a16aeae0c9b,CVE-2007-1567
-387213162,Creamy-Chicken-Soup/Exploit,README.md,740534af2f8d38a8e65d64a6c1f54a16aeae0c9b,CVE-2009-1330
-387213162,Creamy-Chicken-Soup/Exploit,README.md,740534af2f8d38a8e65d64a6c1f54a16aeae0c9b,CVE-2013-4730
-387213162,Creamy-Chicken-Soup/Exploit,README.md,740534af2f8d38a8e65d64a6c1f54a16aeae0c9b,CVE-2020-7995
+387213162,Creamy-Chicken-Soup/Exploit,README.md,a0c2cf11c741db4dc226a93128ccb06deef7a560,CVE-2007-1567
+387213162,Creamy-Chicken-Soup/Exploit,README.md,a0c2cf11c741db4dc226a93128ccb06deef7a560,CVE-2009-1330
+387213162,Creamy-Chicken-Soup/Exploit,README.md,a0c2cf11c741db4dc226a93128ccb06deef7a560,CVE-2009-1643
+387213162,Creamy-Chicken-Soup/Exploit,README.md,a0c2cf11c741db4dc226a93128ccb06deef7a560,CVE-2013-4730
+387213162,Creamy-Chicken-Soup/Exploit,README.md,a0c2cf11c741db4dc226a93128ccb06deef7a560,CVE-2020-7995
 387213162,Creamy-Chicken-Soup/Exploit,CVE-2007-1567.py,bfc54c7b7bb74931f100d6243546d4854369dea5,CVE-2007-1567
 387213162,Creamy-Chicken-Soup/Exploit,CVE-2009-1330.py,c3c4e8cca5b2cd90b1ba33c4b7cda3b26df41923,CVE-2009-1330
 387213162,Creamy-Chicken-Soup/Exploit,CVE-2020-7995.ps1,d5fcf30370eba37a7e141be054595809358baa0b,CVE-2020-7995
