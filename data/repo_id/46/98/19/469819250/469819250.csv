@@ -1,3 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-469819250,Plextora/neoblox,Setup/Neoblox Setup.msi,450cd154a5e133b56e7b8bdfbc04b73db5c87127,VU#73
-469819250,Plextora/neoblox,Setup/Neoblox Setup.msi,450cd154a5e133b56e7b8bdfbc04b73db5c87127,VU#77
+469819250,Plextora/neoblox,ScriptHub.resx,2bffcee5662138d20f6c54b4147641ddf7d31b13,VU#03
+469819250,Plextora/neoblox,ScriptHub.resx,2bffcee5662138d20f6c54b4147641ddf7d31b13,VU#34
+469819250,Plextora/neoblox,ScriptHub.resx,2bffcee5662138d20f6c54b4147641ddf7d31b13,VU#67
+469819250,Plextora/neoblox,Form1.resx,d468bf93b92de99607b0d273c03054f6ef07e61d,VU#03
+469819250,Plextora/neoblox,Form1.resx,d468bf93b92de99607b0d273c03054f6ef07e61d,VU#34
+469819250,Plextora/neoblox,Form1.resx,d468bf93b92de99607b0d273c03054f6ef07e61d,VU#67
+469819250,Plextora/neoblox,Form1.resx,d468bf93b92de99607b0d273c03054f6ef07e61d,VU#94
