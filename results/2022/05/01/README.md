@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/01
     
-27 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-01 00:32:59+00:00 | 3120 | 2664 | PowerShell | 747 | [] |
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-05-01 00:37:42+00:00 | 61971 | 0 | Lua | 0 | [] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | ['exploit'] | 1 | 2022-05-01 02:42:51+00:00 | 0 | 0 | | 0 | [] |
 | kleirceval/exploit_machine_ctf | EMC is going to help me develop an exploit for Windows 11; to leak all of Windows 11's MACHINE CODE. | https://github.com/kleirceval/exploit_machine_ctf | ['exploit'] | 1 | 2022-05-01 01:25:36+00:00 | 79 | 0 | Python | 0 | [] |
 | gtaharo/EXPLOITS_F | None | https://github.com/gtaharo/EXPLOITS_F | ['exploit'] | 1 | 2022-05-01 00:08:27+00:00 | 0 | 0 | | 0 | [] |
 | OsweRRR/exploit-ZTE-ZXHN-H108N | None | https://github.com/OsweRRR/exploit-ZTE-ZXHN-H108N | ['exploit'] | 1 | 2022-05-01 00:14:14+00:00 | 7 | 0 | HTML | 0 | [] |
@@ -27,8 +28,9 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-01 02:27:35+00:00 | 1355 | 93 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-01 02:23:17+00:00 | 21601 | 3 | Python | 0 | [] |
 | richie0866/exploit-types | Roblox-TS typings for popular Roblox "scripting engines" | https://github.com/richie0866/exploit-types | ['exploit'] | 1 | 2022-05-01 03:19:12+00:00 | 25 | 0 | | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-01 04:00:48+00:00 | 171843 | 395 | Python | 115 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-01 00:04:07+00:00 | 504955 | 55 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-01 02:32:07+00:00 | 256142 | 152 | REXX | 14 | [] |
 | hasherezade/pe_to_shellcode | Converts PE into a shellcode | https://github.com/hasherezade/pe_to_shellcode | ['shellcode'] | 1 | 2022-05-01 00:38:44+00:00 | 128 | 1247 | Assembly | 288 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-01 00:31:04+00:00 | 51973 | 301 | Ruby | 86 | [] |
-| codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | ['exploit'] | 1 | 2022-05-01 02:42:51+00:00 | 0 | 0 | | 0 | [] |
+| 0x80000000/uncover | ⚡A Linux post-exploitation utility that attempts to dump passwords from memory. | https://github.com/0x80000000/uncover | ['exploit'] | 1 | 2022-05-01 03:27:55+00:00 | 19 | 0 | C | 0 | [] |
