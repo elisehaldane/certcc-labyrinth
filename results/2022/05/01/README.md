@@ -1,28 +1,27 @@
 
 # Summary for results/2022/05/01
     
-66 records found after deduplication
+69 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-01 00:32:59+00:00 | 3120 | 2664 | PowerShell | 747 | [] |
-| idanwasserman/Final_Project | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | ['exploit'] | 1 | 2022-05-01 10:29:46+00:00 | 13 | 0 | Python | 0 | [] |
-| GatoGamer1155/CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-01 03:08:10+00:00 | 1024 | 4 | Python | 1 | ['CVE-2021-4034'] |
-| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-01 06:48:46+00:00 | 16893 | 0 | | 0 | [] |
-| Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-05-01 00:37:09+00:00 | 56958 | 2 | C# | 0 | [] |
-| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-05-01 02:44:40+00:00 | 4 | 1 | | 0 | [] |
-| hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-05-01 10:49:12+00:00 | 49 | 2 | Shell | 0 | [] |
-| NicPWNs/HackTheBox | Tools and exploits related to my experiences on Hack The Box. | https://github.com/NicPWNs/HackTheBox | ['exploit'] | 1 | 2022-05-01 01:26:25+00:00 | 1 | 0 | | 0 | [] |
-| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-01 06:46:11+00:00 | 15027 | 0 | Jupyter Notebook | 0 | [] |
-| 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-05-01 10:08:11+00:00 | 1067 | 0 | TypeScript | 0 | [] |
-| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-05-01 10:44:17+00:00 | 172 | 1 | Shell | 1 | [] |
 | imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-05-01 07:43:34+00:00 | 5 | 0 | JavaScript | 1 | [] |
-| GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-01 03:14:39+00:00 | 7437 | 3 | JavaScript | 1 | [] |
-| horshark/mitm-iomt-poc | POC scripts for the article "Preventing MitM in IoMT: How to provide confidentiality, integrity, and authentication in a vulnerable environment" | https://github.com/horshark/mitm-iomt-poc | ['vulnerability poc'] | 1 | 2022-05-01 09:03:27+00:00 | 1 | 0 | Python | 0 | [] |
-| NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-05-01 10:31:31+00:00 | 11684 | 0 | Lua | 0 | [] |
+| idanwasserman/Final_Project | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | ['exploit'] | 1 | 2022-05-01 10:29:46+00:00 | 13 | 0 | Python | 0 | [] |
 | pr0cf5/cpu-exploits | None | https://github.com/pr0cf5/cpu-exploits | ['exploit'] | 1 | 2022-05-01 06:01:40+00:00 | 0 | 0 | C | 0 | [] |
+| Nariod/Laz-y-templates | Laz-y project compatible C# templates for shellcode injection. | https://github.com/Nariod/Laz-y-templates | ['shellcode'] | 1 | 2022-05-01 13:47:03+00:00 | 19 | 0 | C# | 0 | [] |
+| NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-05-01 10:31:31+00:00 | 11684 | 0 | Lua | 0 | [] |
+| horshark/mitm-iomt-poc | POC scripts for the article "Preventing MitM in IoMT: How to provide confidentiality, integrity, and authentication in a vulnerable environment" | https://github.com/horshark/mitm-iomt-poc | ['vulnerability poc'] | 1 | 2022-05-01 09:03:27+00:00 | 1 | 0 | Python | 0 | [] |
+| GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-01 03:14:39+00:00 | 7437 | 3 | JavaScript | 1 | [] |
+| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-05-01 10:44:17+00:00 | 172 | 1 | Shell | 1 | [] |
+| GatoGamer1155/CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-01 03:08:10+00:00 | 1024 | 4 | Python | 1 | ['CVE-2021-4034'] |
+| 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-05-01 10:08:11+00:00 | 1067 | 0 | TypeScript | 0 | [] |
+| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-01 06:46:11+00:00 | 15027 | 0 | Jupyter Notebook | 0 | [] |
+| NicPWNs/HackTheBox | Tools and exploits related to my experiences on Hack The Box. | https://github.com/NicPWNs/HackTheBox | ['exploit'] | 1 | 2022-05-01 01:26:25+00:00 | 1 | 0 | | 0 | [] |
+| hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-05-01 10:49:12+00:00 | 49 | 2 | Shell | 0 | [] |
+| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-05-01 02:44:40+00:00 | 4 | 1 | | 0 | [] |
+| Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-05-01 00:37:09+00:00 | 56958 | 2 | C# | 0 | [] |
 | PleasantExploit/PleasantExploit.github.io | None | https://github.com/PleasantExploit/PleasantExploit.github.io | ['exploit'] | 1 | 2022-05-01 01:59:58+00:00 | 858 | 0 | CSS | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-01 06:16:38+00:00 | 5512 | 3231 | Python | 689 | [] |
 | OsweRRR/exploit-ZTE-ZXHN-H108N | None | https://github.com/OsweRRR/exploit-ZTE-ZXHN-H108N | ['exploit'] | 1 | 2022-05-01 00:14:14+00:00 | 7 | 0 | HTML | 0 | [] |
 | gtaharo/EXPLOITS_F | None | https://github.com/gtaharo/EXPLOITS_F | ['exploit'] | 1 | 2022-05-01 00:08:27+00:00 | 0 | 0 | | 0 | [] |
 | kleirceval/exploit_machine_ctf | EMC is going to help me develop an exploit for Windows 11; to leak all of Windows 11's MACHINE CODE. | https://github.com/kleirceval/exploit_machine_ctf | ['exploit'] | 1 | 2022-05-01 01:25:36+00:00 | 79 | 0 | Python | 0 | [] |
@@ -37,24 +36,26 @@
 | wh0Nsq/ExploitLeakedHandles | None | https://github.com/wh0Nsq/ExploitLeakedHandles | ['exploit'] | 1 | 2022-05-01 11:21:41+00:00 | 0 | 2 | C | 0 | [] |
 | pix3i/MScriptify | An exploiting module for spotify | https://github.com/pix3i/MScriptify | ['exploit'] | 1 | 2022-05-01 11:27:13+00:00 | 0 | 0 | Lua | 0 | [] |
 | amenadiane/template-exploits | to help with project | https://github.com/amenadiane/template-exploits | ['exploit'] | 1 | 2022-05-01 11:56:34+00:00 | 0 | 0 | | 0 | [] |
+| tr0yest/NigSploit | poop | https://github.com/tr0yest/NigSploit | ['sploit'] | 1 | 2022-05-01 12:26:35+00:00 | 0 | 0 | | 0 | [] |
+| yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-01 13:21:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-26809'] |
+| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-01 06:48:46+00:00 | 16893 | 0 | | 0 | [] |
 | Erlemorgaine/art-of-exploitation | None | https://github.com/Erlemorgaine/art-of-exploitation | ['exploit'] | 1 | 2022-05-01 08:02:30+00:00 | 5 | 0 | C | 0 | [] |
-| TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-05-01 07:55:37+00:00 | 98 | 0 | Lua | 0 | [] |
-| winterrdog/shellcode-myner | Extracts shellcode from any specified binary/object file. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-05-01 08:02:01+00:00 | 78 | 3 | Rust | 1 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-01 01:21:40+00:00 | 241 | 0 | nan | 0 | [] |
-| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-01 00:15:51+00:00 | 1013 | 0 | Python | 11 | [] |
-| ImVexed/AC_TK | Shellcode x86 FASM Assault Cube Telekill | https://github.com/ImVexed/AC_TK | ['shellcode'] | 1 | 2022-05-01 10:55:01+00:00 | 6 | 0 | Assembly | 0 | [] |
-| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-05-01 12:35:05+00:00 | 72311 | 11123 | Jupyter Notebook | 1941 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-01 00:31:04+00:00 | 51973 | 301 | Ruby | 86 | [] |
-| hasherezade/pe_to_shellcode | Converts PE into a shellcode | https://github.com/hasherezade/pe_to_shellcode | ['shellcode'] | 1 | 2022-05-01 00:38:44+00:00 | 128 | 1247 | Assembly | 288 | [] |
-| gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-05-01 07:51:49+00:00 | 200 | 0 | Shell | 0 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-01 02:32:07+00:00 | 256142 | 152 | REXX | 14 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-01 06:16:38+00:00 | 5512 | 3231 | Python | 689 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-01 06:47:38+00:00 | 13765 | 37 | | 21 | [] |
-| iaur/tde-wp | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | ['exploit'] | 1 | 2022-05-01 05:20:04+00:00 | 330 | 0 | PHP | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-01 00:04:07+00:00 | 504955 | 55 | | 21 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-01 08:50:15+00:00 | 41844 | 28 | Python | 5 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-01 08:10:45+00:00 | 426429 | 103 | | 22 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-01 04:00:48+00:00 | 171843 | 395 | Python | 115 | [] |
 | richie0866/exploit-types | Roblox-TS typings for popular Roblox "scripting engines" | https://github.com/richie0866/exploit-types | ['exploit'] | 1 | 2022-05-01 03:19:12+00:00 | 25 | 0 | | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-01 04:00:48+00:00 | 171843 | 395 | Python | 115 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-01 08:10:45+00:00 | 426429 | 103 | | 22 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-01 08:50:15+00:00 | 41844 | 28 | Python | 5 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-01 00:04:07+00:00 | 504955 | 55 | | 21 | [] |
+| iaur/tde-wp | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | ['exploit'] | 1 | 2022-05-01 05:20:04+00:00 | 330 | 0 | PHP | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-01 02:32:07+00:00 | 256142 | 152 | REXX | 14 | [] |
+| TohruMKDM/Tohru-Admin | A ROBLOX admin script designed with exploits in mind. | https://github.com/TohruMKDM/Tohru-Admin | ['exploit'] | 1 | 2022-05-01 07:55:37+00:00 | 98 | 0 | Lua | 0 | [] |
+| gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-05-01 07:51:49+00:00 | 200 | 0 | Shell | 0 | [] |
+| hasherezade/pe_to_shellcode | Converts PE into a shellcode | https://github.com/hasherezade/pe_to_shellcode | ['shellcode'] | 1 | 2022-05-01 00:38:44+00:00 | 128 | 1247 | Assembly | 288 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-01 00:31:04+00:00 | 51973 | 301 | Ruby | 86 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-05-01 12:35:05+00:00 | 72311 | 11123 | Jupyter Notebook | 1941 | [] |
+| ImVexed/AC_TK | Shellcode x86 FASM Assault Cube Telekill | https://github.com/ImVexed/AC_TK | ['shellcode'] | 1 | 2022-05-01 10:55:01+00:00 | 6 | 0 | Assembly | 0 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-01 00:15:51+00:00 | 1013 | 0 | Python | 11 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-01 02:23:17+00:00 | 21601 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-01 02:27:35+00:00 | 1355 | 93 | HTML | 24 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-05-01 09:06:39+00:00 | 219 | 21 | C++ | 1 | [] |
@@ -70,4 +71,6 @@
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-05-01 00:37:42+00:00 | 61971 | 0 | Lua | 0 | [] |
 | ren-u/notes | Hi! I am ad.zeroday or ren-u(renzd). I know the struggle of writing notes, So i created this website + I am a topper so all the notes are right. (Not a nerd) | https://github.com/ren-u/notes | ['zeroday'] | 1 | 2022-05-01 04:36:38+00:00 | 192 | 0 | HTML | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-01 01:30:10+00:00 | 2354 | 163 | Go | 33 | [] |
-| tr0yest/NigSploit | poop | https://github.com/tr0yest/NigSploit | ['sploit'] | 1 | 2022-05-01 12:26:35+00:00 | 0 | 0 | | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-01 01:21:40+00:00 | 241 | 0 | nan | 0 | [] |
+| winterrdog/shellcode-myner | Extracts shellcode from any specified binary/object file. | https://github.com/winterrdog/shellcode-myner | ['shellcode'] | 1 | 2022-05-01 08:02:01+00:00 | 78 | 3 | Rust | 1 | [] |
+| 69Stefan69/ShitSploitV3 | None | https://github.com/69Stefan69/ShitSploitV3 | ['sploit'] | 1 | 2022-05-01 13:48:17+00:00 | 0 | 0 | | 0 | [] |
