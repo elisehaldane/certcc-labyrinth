@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/01
     
-105 records found after deduplication
+111 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-01 00:32:59+00:00 | 3120 | 2664 | PowerShell | 747 | [] |
-| mrchi/poc-of-oauth-binding-attack | OAuth 2.0 账号绑定攻击。以 leetcode-cn.com 为例。 | https://github.com/mrchi/poc-of-oauth-binding-attack | ['attack poc'] | 1 | 2022-05-01 15:52:48+00:00 | 454 | 2 | Python | 1 | [] |
+| comp426-2022-spring/e02-rceglie | e02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/e02-rceglie | ['rce'] | 1 | 2022-05-01 17:11:46+00:00 | 316 | 0 | JavaScript | 0 | [] |
 | Tu3k/XorShellCode | Xor Encry ShellCode With x86 | https://github.com/Tu3k/XorShellCode | ['shellcode'] | 1 | 2022-05-01 06:08:37+00:00 | 0 | 1 | C++ | 0 | [] |
 | 0x80000000/uncover | ⚡A Linux post-exploitation utility that attempts to dump passwords from memory. | https://github.com/0x80000000/uncover | ['exploit'] | 1 | 2022-05-01 03:27:55+00:00 | 19 | 0 | C | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | ['exploit'] | 1 | 2022-05-01 02:42:51+00:00 | 0 | 0 | | 0 | [] |
@@ -18,22 +18,24 @@
 | pr0cf5/cpu-exploits | None | https://github.com/pr0cf5/cpu-exploits | ['exploit'] | 1 | 2022-05-01 06:01:40+00:00 | 0 | 0 | C | 0 | [] |
 | Nariod/Laz-y-templates | Laz-y project compatible C# templates for shellcode injection. | https://github.com/Nariod/Laz-y-templates | ['shellcode'] | 1 | 2022-05-01 13:47:03+00:00 | 19 | 0 | C# | 0 | [] |
 | Xeonrx/ExploitTime | Resource/guide list to aid you in vulnerability & exploit gathering | https://github.com/Xeonrx/ExploitTime | ['exploit'] | 1 | 2022-05-01 15:00:45+00:00 | 35 | 0 | | 0 | [] |
-| comp426-2022-spring/e02-rceglie | e02-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/e02-rceglie | ['rce'] | 1 | 2022-05-01 17:11:46+00:00 | 316 | 0 | JavaScript | 0 | [] |
+| SecLab-CH/IP-Finder | IP-Finder is an Open Source Intelligence (OSINT) tool that helps collect IPs of Companies, Servers, Operating Systems and much more. It also reports all CVEs (with the associated Metasploit module to run) for which different endpoints are affected. This to | https://github.com/SecLab-CH/IP-Finder | ['metasploit module OR payload'] | 1 | 2022-05-01 13:35:21+00:00 | 91 | 2 | Python | 1 | [] |
+| 69Stefan69/ShitSploit | Shitsploit V1 barely works | https://github.com/69Stefan69/ShitSploit | ['sploit'] | 1 | 2022-05-01 08:16:59+00:00 | 0 | 0 | | 0 | [] |
 | comp426-2022-spring/e01-rceglie | e01-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/e01-rceglie | ['rce'] | 1 | 2022-05-01 14:32:31+00:00 | 18 | 0 | CSS | 0 | [] |
 | thack1/CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-01 15:16:50+00:00 | 20 | 5 | Zeek | 1 | ['CVE-2022-21449'] |
 | anans3-gh/ExeCutioner | A C# based tool for RCE and lateral movement on Domain-joined computers | https://github.com/anans3-gh/ExeCutioner | ['rce'] | 1 | 2022-05-01 14:45:46+00:00 | 66 | 0 | C# | 0 | [] |
 | NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-05-01 10:31:31+00:00 | 11684 | 0 | Lua | 0 | [] |
 | horshark/mitm-iomt-poc | POC scripts for the article "Preventing MitM in IoMT: How to provide confidentiality, integrity, and authentication in a vulnerable environment" | https://github.com/horshark/mitm-iomt-poc | ['vulnerability poc'] | 1 | 2022-05-01 09:03:27+00:00 | 1 | 0 | Python | 0 | [] |
+| Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-05-01 19:40:26+00:00 | 579 | 2 | C | 1 | [] |
 | GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-01 03:14:39+00:00 | 7437 | 3 | JavaScript | 1 | [] |
 | imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-05-01 07:43:34+00:00 | 5 | 0 | JavaScript | 1 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-05-01 10:44:17+00:00 | 172 | 1 | Shell | 1 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-05-01 10:08:11+00:00 | 1067 | 0 | TypeScript | 0 | [] |
 | sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-01 06:46:11+00:00 | 15027 | 0 | Jupyter Notebook | 0 | [] |
-| comp426-2022-spring/a05-rceglie | a05-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a05-rceglie | ['rce'] | 1 | 2022-05-01 14:30:26+00:00 | 2950 | 0 | JavaScript | 0 | [] |
 | ItzWoozy/Krnl-Roblox-Exploit | Public Exploit For Roblox | https://github.com/ItzWoozy/Krnl-Roblox-Exploit | ['exploit'] | 1 | 2022-05-01 08:16:27+00:00 | 0 | 0 | | 0 | [] |
-| 69Stefan69/ShitSploit | Shitsploit V1 barely works | https://github.com/69Stefan69/ShitSploit | ['sploit'] | 1 | 2022-05-01 08:16:59+00:00 | 0 | 0 | | 0 | [] |
 | 69Stefan69/ShitSPloitV2 | None | https://github.com/69Stefan69/ShitSPloitV2 | ['sploit'] | 1 | 2022-05-01 08:23:15+00:00 | 0 | 0 | | 0 | [] |
+| NicPWNs/HackTheBox | Tools and exploits related to my experiences on Hack The Box. | https://github.com/NicPWNs/HackTheBox | ['exploit'] | 1 | 2022-05-01 01:26:25+00:00 | 1 | 0 | | 0 | [] |
 | jdopss/Future-Client-new-crack | an installer for an update for future client. | https://github.com/jdopss/Future-Client-new-crack | ['exploit'] | 1 | 2022-05-01 17:44:43+00:00 | 0 | 0 | | 0 | [] |
+| Simmiihack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Simmiihack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-01 18:38:18+00:00 | 0 | 0 | | 0 | [] |
 | Simmiihack/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Simmiihack/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-05-01 18:36:59+00:00 | 0 | 0 | | 0 | [] |
 | TDalton52/590J-Capstone | A log4j exploit that scans the target filesystem and steals files of interest | https://github.com/TDalton52/590J-Capstone | ['exploit'] | 1 | 2022-05-01 18:41:58+00:00 | 0 | 0 | Python | 0 | [] |
 | Maggihack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Maggihack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-01 18:21:10+00:00 | 0 | 0 | | 0 | [] |
@@ -47,6 +49,7 @@
 | Jack7988/Silent-Excel-Exploit-Dropper | None | https://github.com/Jack7988/Silent-Excel-Exploit-Dropper | ['exploit'] | 1 | 2022-05-01 17:21:57+00:00 | 0 | 0 | | 0 | [] |
 | JIAMING-LI/BeanstalkProtocolExploit | None | https://github.com/JIAMING-LI/BeanstalkProtocolExploit | ['exploit'] | 1 | 2022-05-01 10:14:15+00:00 | 0 | 0 | Solidity | 0 | [] |
 | jhq91/UserExistsErroro | Shellcode to load an appended Dll | https://github.com/jhq91/UserExistsErroro | ['shellcode'] | 1 | 2022-05-01 16:08:01+00:00 | 0 | 0 | | 0 | [] |
+| rhytxm/PynX-Exploit- | PynX Roblox Exploit | https://github.com/rhytxm/PynX-Exploit- | ['exploit'] | 1 | 2022-05-01 14:38:42+00:00 | 1 | 0 | | 0 | [] |
 | 182315544qqt/KTN1990v | joomla com_xcloner exploit [Mass Autoexploiting script coded with python] | https://github.com/182315544qqt/KTN1990v | ['exploit'] | 1 | 2022-05-01 14:35:10+00:00 | 0 | 0 | | 0 | [] |
 | JIAMING-LI/FeiProtocolFuseExploit | None | https://github.com/JIAMING-LI/FeiProtocolFuseExploit | ['exploit'] | 1 | 2022-05-01 14:00:30+00:00 | 0 | 0 | | 0 | [] |
 | 69Stefan69/ShitSploitV3 | None | https://github.com/69Stefan69/ShitSploitV3 | ['sploit'] | 1 | 2022-05-01 13:48:17+00:00 | 0 | 0 | | 0 | [] |
@@ -56,10 +59,10 @@
 | pix3i/MScriptify | An exploiting module for spotify | https://github.com/pix3i/MScriptify | ['exploit'] | 1 | 2022-05-01 11:27:13+00:00 | 0 | 0 | Lua | 0 | [] |
 | wh0Nsq/ExploitLeakedHandles | None | https://github.com/wh0Nsq/ExploitLeakedHandles | ['exploit'] | 1 | 2022-05-01 11:21:41+00:00 | 0 | 2 | C | 0 | [] |
 | pentestblogin/sql-validation-htb-exploit | None | https://github.com/pentestblogin/sql-validation-htb-exploit | ['exploit'] | 1 | 2022-05-01 10:20:41+00:00 | 0 | 0 | Python | 0 | [] |
-| NicPWNs/HackTheBox | Tools and exploits related to my experiences on Hack The Box. | https://github.com/NicPWNs/HackTheBox | ['exploit'] | 1 | 2022-05-01 01:26:25+00:00 | 1 | 0 | | 0 | [] |
-| ElliotAlderson51/Exploit-Writeups | Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | ['exploit'] | 1 | 2022-05-01 14:20:13+00:00 | 60 | 0 | C++ | 0 | [] |
+| comp426-2022-spring/a05-rceglie | a05-rceglie created by GitHub Classroom | https://github.com/comp426-2022-spring/a05-rceglie | ['rce'] | 1 | 2022-05-01 14:30:26+00:00 | 2950 | 0 | JavaScript | 0 | [] |
+| mrchi/poc-of-oauth-binding-attack | OAuth 2.0 账号绑定攻击。以 leetcode-cn.com 为例。 | https://github.com/mrchi/poc-of-oauth-binding-attack | ['attack poc'] | 1 | 2022-05-01 15:52:48+00:00 | 454 | 2 | Python | 1 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-01 06:16:38+00:00 | 5512 | 3231 | Python | 689 | [] |
-| hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-05-01 10:49:12+00:00 | 49 | 2 | Shell | 0 | [] |
+| Nintendo-Homebrew/str2hax | Exploit do Wii que se aproveita de uma brecha nos contratos de usuário final (EULA) do sistema | https://github.com/Nintendo-Homebrew/str2hax | ['exploit'] | 1 | 2022-05-01 19:10:16+00:00 | 25670 | 0 | Batchfile | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-01 02:27:35+00:00 | 1355 | 93 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-01 02:23:17+00:00 | 21601 | 3 | Python | 0 | [] |
 | haerin7427/CVE_2020_1938 | None | https://github.com/haerin7427/CVE_2020_1938 | ['cve-2 OR cve_2'] | 1 | 2022-05-01 15:52:38+00:00 | 73 | 0 | Java | 1 | ['CVE-2020-1938'] |
@@ -72,6 +75,7 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-01 08:50:15+00:00 | 41844 | 28 | Python | 5 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-01 00:04:07+00:00 | 504955 | 55 | | 21 | [] |
 | iaur/tde-wp | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | ['exploit'] | 1 | 2022-05-01 05:20:04+00:00 | 330 | 0 | PHP | 0 | [] |
+| chron1k/oxide_hive | Exploit for CVE-2021-36934 | https://github.com/chron1k/oxide_hive | ['exploit'] | 1 | 2022-05-01 09:47:54+00:00 | 10 | 3 | Rust | 0 | ['CVE-2021-36934'] |
 | tin-z/CVE-2018-14714-POC | POC CVE-2018-14714 | https://github.com/tin-z/CVE-2018-14714-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-01 15:12:03+00:00 | 2 | 6 | | 0 | ['CVE-2018-14714'] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-01 06:47:38+00:00 | 13765 | 37 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-01 02:32:07+00:00 | 256142 | 152 | REXX | 14 | [] |
@@ -84,9 +88,10 @@
 | opsxcq/docker-metasploit | Metasploit framework with steroids | https://github.com/opsxcq/docker-metasploit | ['exploit', 'metasploit module OR payload'] | 2 | 2022-05-01 15:12:30+00:00 | 224 | 43 | Dockerfile | 16 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-01 00:15:51+00:00 | 1013 | 0 | Python | 11 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-05-01 09:06:39+00:00 | 219 | 21 | C++ | 1 | [] |
-| chron1k/oxide_hive | Exploit for CVE-2021-36934 | https://github.com/chron1k/oxide_hive | ['exploit'] | 1 | 2022-05-01 09:47:54+00:00 | 10 | 3 | Rust | 0 | ['CVE-2021-36934'] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-01 05:01:09+00:00 | 2582 | 45 | C++ | 3 | [] |
+| ElliotAlderson51/Exploit-Writeups | Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | ['exploit'] | 1 | 2022-05-01 14:20:13+00:00 | 60 | 0 | C++ | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-01 01:30:10+00:00 | 2354 | 163 | Go | 33 | [] |
+| hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-05-01 10:49:12+00:00 | 49 | 2 | Shell | 0 | [] |
 | Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-05-01 02:44:40+00:00 | 4 | 1 | | 0 | [] |
 | luisjddk/apache2.4.49-exploit | None | https://github.com/luisjddk/apache2.4.49-exploit | ['exploit'] | 1 | 2022-05-01 18:34:08+00:00 | 1 | 2 | Python | 0 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-05-01 00:37:09+00:00 | 56958 | 2 | C# | 0 | [] |
@@ -109,4 +114,5 @@
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-05-01 00:53:40+00:00 | 597 | 1 | Shell | 0 | [] |
 | BinaryDex/DexHubWeb | None | https://github.com/BinaryDex/DexHubWeb | ['exploit'] | 1 | 2022-05-01 01:52:49+00:00 | 922 | 0 | SCSS | 1 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-01 05:09:17+00:00 | 6994 | 2557 | TypeScript | 373 | [] |
-| Simmiihack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Simmiihack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-01 18:38:18+00:00 | 0 | 0 | | 0 | [] |
+| 7cod3r/mssploit | This is an exploit analysis tool. | https://github.com/7cod3r/mssploit | ['exploit'] | 1 | 2022-05-01 19:09:50+00:00 | 91 | 0 | | 0 | [] |
+| Societal-Menace/RobloxExploits | None | https://github.com/Societal-Menace/RobloxExploits | ['exploit'] | 1 | 2022-05-01 19:28:18+00:00 | 0 | 0 | | 0 | [] |
