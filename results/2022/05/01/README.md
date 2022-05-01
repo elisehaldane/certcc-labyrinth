@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/01
     
-29 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-01 00:32:59+00:00 | 3120 | 2664 | PowerShell | 747 | [] |
-| RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-05-01 00:37:42+00:00 | 61971 | 0 | Lua | 0 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-01 00:15:51+00:00 | 1013 | 0 | Python | 11 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN. | ['exploit'] | 1 | 2022-05-01 02:42:51+00:00 | 0 | 0 | | 0 | [] |
 | kleirceval/exploit_machine_ctf | EMC is going to help me develop an exploit for Windows 11; to leak all of Windows 11's MACHINE CODE. | https://github.com/kleirceval/exploit_machine_ctf | ['exploit'] | 1 | 2022-05-01 01:25:36+00:00 | 79 | 0 | Python | 0 | [] |
 | gtaharo/EXPLOITS_F | None | https://github.com/gtaharo/EXPLOITS_F | ['exploit'] | 1 | 2022-05-01 00:08:27+00:00 | 0 | 0 | | 0 | [] |
@@ -19,8 +19,9 @@
 | GatoGamer1155/CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-01 03:08:10+00:00 | 1024 | 4 | Python | 1 | ['CVE-2021-4034'] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-01 01:21:40+00:00 | 241 | 0 | nan | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-01 01:30:10+00:00 | 2354 | 163 | Go | 33 | [] |
+| ren-u/notes | Hi! I am ad.zeroday or ren-u(renzd). I know the struggle of writing notes, So i created this website + I am a topper so all the notes are right. (Not a nerd) | https://github.com/ren-u/notes | ['zeroday'] | 1 | 2022-05-01 04:36:38+00:00 | 192 | 0 | HTML | 0 | [] |
+| RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-05-01 00:37:42+00:00 | 61971 | 0 | Lua | 0 | [] |
 | jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-05-01 00:18:00+00:00 | 29 | 1 | Jupyter Notebook | 1 | [] |
-| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-01 00:15:51+00:00 | 1013 | 0 | Python | 11 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-01 01:45:49+00:00 | 54622 | 2681 | | 327 | [] |
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-05-01 00:53:40+00:00 | 597 | 1 | Shell | 0 | [] |
 | BinaryDex/DexHubWeb | None | https://github.com/BinaryDex/DexHubWeb | ['exploit'] | 1 | 2022-05-01 01:52:49+00:00 | 922 | 0 | SCSS | 1 | [] |
