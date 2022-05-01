@@ -1,7 +1,7 @@
 
 # Summary for results/2022/04/30
     
-134 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -39,7 +39,7 @@
 | imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-04-30 07:11:06+00:00 | 3 | 0 | JavaScript | 1 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-FUD | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-FUD | ['exploit'] | 1 | 2022-04-30 05:17:30+00:00 | 0 | 0 | | 0 | [] |
 | Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418 | None | https://github.com/Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418 | ['cve-2 OR cve_2'] | 1 | 2022-04-30 06:19:01+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0418'] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-30 06:38:22+00:00 | 5487 | 3230 | Python | 689 | [] |
+| behiNdyk1/phpipam-1.4.5-sqli-to-rce | phpIPAM 1.4.5 SQL Injection to RCE | https://github.com/behiNdyk1/phpipam-1.4.5-sqli-to-rce | ['rce'] | 1 | 2022-04-30 14:36:09+00:00 | 6 | 0 | Python | 0 | [] |
 | dragonforceio/Wordpress-Mass-Exploiter | Wordpress Mass Exploiter: Gravitys Form (Uploader) _ Userprobypass _ Wordpress Config | https://github.com/dragonforceio/Wordpress-Mass-Exploiter | ['exploit'] | 1 | 2022-04-30 17:41:25+00:00 | 0 | 0 | Python | 0 | [] |
 | MrEmpy/CVE-2022-1077 | TEM FLEX-1080/FLEX-1085 1.6.0 log log.cgi Information Disclosure | https://github.com/MrEmpy/CVE-2022-1077 | ['cve-2 OR cve_2'] | 1 | 2022-04-30 22:08:24+00:00 | 0 | 2 | Python | 0 | ['CVE-2022-1077'] |
 | PleasantExploit/PleasantExploit.github.io | None | https://github.com/PleasantExploit/PleasantExploit.github.io | ['exploit'] | 1 | 2022-04-30 21:43:07+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -72,8 +72,8 @@
 | pr0cf5/cpu-exploits | None | https://github.com/pr0cf5/cpu-exploits | ['exploit'] | 1 | 2022-04-30 08:06:06+00:00 | 0 | 0 | | 0 | [] |
 | yzun6/chrysht | Collection of RISC-V exploits | https://github.com/yzun6/chrysht | ['exploit'] | 1 | 2022-04-30 07:36:16+00:00 | 0 | 0 | | 0 | [] |
 | KaustubhRai/CVEdB | Open Source vulnerability database site that provides info on CVEs, how to mitigate them and not make the design flaw when making software, extra threat intelligence like exploit prices, current risk levels with a user friendly chart and other stuff | https://github.com/KaustubhRai/CVEdB | ['exploit'] | 1 | 2022-04-30 15:57:06+00:00 | 177 | 0 | HTML | 0 | [] |
-| behiNdyk1/phpipam-1.4.5-sqli-to-rce | phpIPAM 1.4.5 SQL Injection to RCE | https://github.com/behiNdyk1/phpipam-1.4.5-sqli-to-rce | ['rce'] | 1 | 2022-04-30 14:36:09+00:00 | 6 | 0 | Python | 0 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-04-30 21:44:14+00:00 | 1056 | 0 | TypeScript | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-04-30 06:38:22+00:00 | 5487 | 3230 | Python | 689 | [] |
 | FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2022-04-30 16:08:12+00:00 | 385 | 14 | Java | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-04-30 01:17:22+00:00 | 181996 | 395 | Python | 115 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-30 08:07:50+00:00 | 422859 | 103 | | 22 | [] |
@@ -90,7 +90,7 @@
 | 0xKira/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | ['exploit'] | 1 | 2022-04-30 10:13:20+00:00 | 934 | 17 | Python | 5 | [] |
 | hasherezade/masm_shc | A helper utility for creating shellcodes. Cleans MASM file generated by MSVC, gives refactoring hints. | https://github.com/hasherezade/masm_shc | ['shellcode'] | 1 | 2022-04-30 17:39:15+00:00 | 59 | 102 | C++ | 21 | [] |
 | MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2022-04-30 19:56:55+00:00 | 164669 | 75 | Python | 22 | [] |
-| UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-30 12:00:09+00:00 | 16 | 4 | Shell | 0 | [] |
+| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2022-04-30 23:38:39+00:00 | 294 | 0 | HTML | 0 | [] |
 | pietermiske/ROSexploiter | Tool to exploit vulnerabilities in ROS1 based robotic systems. | https://github.com/pietermiske/ROSexploiter | ['exploit'] | 1 | 2022-04-30 13:44:07+00:00 | 50 | 0 | Python | 0 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-04-30 21:01:59+00:00 | 666 | 266 | C | 10 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-04-30 00:47:36+00:00 | 13480 | 37 | | 21 | [] |
@@ -106,13 +106,14 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-04-30 12:35:05+00:00 | 72303 | 11076 | Jupyter Notebook | 1939 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-04-30 16:17:44+00:00 | 1004 | 0 | Python | 11 | [] |
 | 0xhuesca/x86-x64-Windows-Shellcodes | x86-x64 arch windows shellcodes. | https://github.com/0xhuesca/x86-x64-Windows-Shellcodes | ['exploit', 'shellcode'] | 2 | 2022-04-30 08:50:43+00:00 | 8 | 0 | Assembly | 0 | [] |
-| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2022-04-30 23:38:39+00:00 | 294 | 0 | HTML | 0 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-04-30 19:09:09+00:00 | 2050 | 0 | | 0 | [] |
-| ReJimp/Kernel_Exploit | HEVD & CVE Exploit | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2022-04-30 10:45:07+00:00 | 659 | 6 | C | 1 | [] |
+| UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-04-30 12:00:09+00:00 | 16 | 4 | Shell | 0 | [] |
+| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-30 06:44:17+00:00 | 4156 | 24 | C++ | 12 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-04-30 18:40:51+00:00 | 45587 | 2 | C# | 0 | [] |
 | Eddi0x/Silent-PDF-Exploit | FULL UNDETECTABLE Our product Silent Exploit PDF is FUD and it won’t be detected , the code is structed from a really good team and its detection ratio is quite astonishing, with anti-reverse techniques and random variables the code is running silently and | https://github.com/Eddi0x/Silent-PDF-Exploit | ['exploit'] | 1 | 2022-04-30 02:59:34+00:00 | 4 | 4 | | 2 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-04-30 05:41:19+00:00 | 527339 | 559 | | 116 | [] |
 | Lallero98/quick-setup-for-exploitation-tools-on-Linux | Ansible playbook for automatic installation of useful tools for a reversing and exploitation environment | https://github.com/Lallero98/quick-setup-for-exploitation-tools-on-Linux | ['exploit'] | 1 | 2022-04-30 22:54:58+00:00 | 13 | 0 | | 0 | [] |
+| GatoGamer1155/CVE-2021-3156 | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-04-30 23:59:59+00:00 | 1012 | 4 | Python | 0 | ['CVE-2021-3156'] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-04-30 15:00:54+00:00 | 153106 | 1 | Python | 0 | [] |
 | artuyero/pivotool | pivotool in ethical hacking, as expected, is a simple tool written in bash that could help you in the post exploitation phase to pivot to other systems. | https://github.com/artuyero/pivotool | ['exploit'] | 1 | 2022-04-30 10:31:15+00:00 | 78 | 0 | Shell | 0 | [] |
 | ren-u/notes | Hi! I am ad.zeroday or ren-u(renzd). I know the struggle of writing notes, So i created this website + I am a topper so all the notes are right. (Not a nerd) | https://github.com/ren-u/notes | ['zeroday'] | 1 | 2022-04-30 12:47:17+00:00 | 186 | 0 | HTML | 0 | [] |
@@ -122,15 +123,15 @@
 | rvizx/CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/rvizx/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-04-30 08:45:34+00:00 | 32 | 0 | Python | 3 | ['CVE-2021-4034'] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-04-30 18:58:52+00:00 | 46 | 52 | Python | 33 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-04-30 01:48:50+00:00 | 61713 | 2678 | | 326 | [] |
-| Fish-Sticks/headhunter | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | ['exploit'] | 1 | 2022-04-30 06:44:17+00:00 | 4156 | 24 | C++ | 12 | [] |
 | cOpEtriNe/Underground-War-Point-Exploit | This is a very basic exploit. | https://github.com/cOpEtriNe/Underground-War-Point-Exploit | ['exploit'] | 1 | 2022-04-30 21:00:32+00:00 | 4 | 0 | Lua | 0 | [] |
+| ReJimp/Kernel_Exploit | HEVD & CVE Exploit | https://github.com/ReJimp/Kernel_Exploit | ['exploit'] | 1 | 2022-04-30 10:45:07+00:00 | 659 | 6 | C | 1 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks that occur on the blockchains of Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-04-30 07:47:20+00:00 | 99 | 1 | | 0 | [] |
 | p0dalirius/RemoteMouse-3.008-Exploit | This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine. | https://github.com/p0dalirius/RemoteMouse-3.008-Exploit | ['exploit'] | 1 | 2022-04-30 11:10:44+00:00 | 2063 | 8 | Python | 4 | [] |
 | viajeradelaluz/simple_shell | Build your own Bourne shell command-line interpreter. | https://github.com/viajeradelaluz/simple_shell | ['shellcode'] | 1 | 2022-04-30 07:05:55+00:00 | 50 | 0 | C | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-04-30 18:10:33+00:00 | 5999 | 13 | | 4 | [] |
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-04-30 03:16:38+00:00 | 593 | 1 | Shell | 0 | [] |
 | GRIPPERTV/Green-Server | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | ['exploit'] | 1 | 2022-04-30 15:35:47+00:00 | 91 | 0 | Lua | 0 | [] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-04-30 09:47:17+00:00 | 24972 | 64 | Rust | 10 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-04-30 09:47:17+00:00 | 24971 | 64 | Rust | 10 | [] |
 | ZeroM3m0ry/vcxproj-infecter | vcxproj-infecter is a malware that will infect all your visual studio projects (still under developing !) | https://github.com/ZeroM3m0ry/vcxproj-infecter | ['rce'] | 1 | 2022-04-30 00:33:01+00:00 | 23 | 12 | C++ | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-04-30 01:51:32+00:00 | 5007548 | 43 | Python | 7 | [] |
 | SQLab/CRAXplusplus | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-04-30 09:10:40+00:00 | 2576 | 45 | C++ | 3 | [] |
