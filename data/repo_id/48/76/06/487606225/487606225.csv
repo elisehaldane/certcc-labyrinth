@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+487606225,WhiteHacker-P/Evil-Termux,evil-termux,9900964de61e4969ab37cba5c461695d6b44384a,VU#42
+487606225,WhiteHacker-P/Evil-Termux,tools/apktool.jar,a0529b37a012956519b0d0ebda5e1c48b66e305c,VU#47
+487606225,WhiteHacker-P/Evil-Termux,tools/apktool.jar,a0529b37a012956519b0d0ebda5e1c48b66e305c,VU#54
