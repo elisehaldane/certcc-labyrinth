@@ -1,13 +1,12 @@
 
 # Summary for results/2022/05/02
     
-73 records found after deduplication
+74 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-02 07:35:25+00:00 | 46082 | 864 | Python | 205 | [] |
-| ibojanova/BF | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | ['exploit'] | 1 | 2022-05-02 12:35:25+00:00 | 84 | 0 | XSLT | 0 | [] |
-| JIAMING-LI/FeiProtocolFuseExploit | None | https://github.com/JIAMING-LI/FeiProtocolFuseExploit | ['exploit'] | 1 | 2022-05-02 06:46:47+00:00 | 0 | 0 | Solidity | 0 | [] |
+| WhiteHacker-P/Evil-Termux | Evil-Termux is Best Tools For Metasploit Payload Bind To Any Original APK | https://github.com/WhiteHacker-P/Evil-Termux | ['metasploit module OR payload'] | 1 | 2022-05-02 01:55:51+00:00 | 10255 | 0 | | 0 | [] |
 | wh0Nsq/ExploitLeakedHandles | None | https://github.com/wh0Nsq/ExploitLeakedHandles | ['exploit'] | 1 | 2022-05-02 02:53:29+00:00 | 16 | 2 | C | 0 | [] |
 | K3YOMI/FiveM-Cipher-Documentation | Cipher is a paid cheat client that attacks servers on fivem by sharing / injecting mallicious code into servers to provide a backdoor for cheaters to remote access servers. It accomplishes this by using exploits found in outdated scripts and also sometimes | https://github.com/K3YOMI/FiveM-Cipher-Documentation | ['exploit'] | 1 | 2022-05-02 00:57:13+00:00 | 29 | 2 | Python | 0 | [] |
 | TKratter/ee048843 | This is the repo of the "Exploration and Exploitation in Learning Systems" course given at the Technion by Ron Meir. | https://github.com/TKratter/ee048843 | ['exploit'] | 1 | 2022-05-02 08:35:41+00:00 | 3 | 0 | Python | 0 | [] |
@@ -22,27 +21,29 @@
 | Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-05-02 10:59:15+00:00 | 309 | 1 | Java | 0 | [] |
 | RDXLR/Metasploit-Termux | Install metasploit in termux with postgresql database setup | https://github.com/RDXLR/Metasploit-Termux | ['metasploit module OR payload'] | 1 | 2022-05-02 08:03:28+00:00 | 20 | 0 | Shell | 0 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-05-02 10:37:58+00:00 | 211 | 1 | Shell | 1 | [] |
-| WhiteHacker-P/Evil-Termux | Evil-Termux is Best Tools For Metasploit Payload Bind To Any Original APK | https://github.com/WhiteHacker-P/Evil-Termux | ['metasploit module OR payload'] | 1 | 2022-05-02 01:55:51+00:00 | 10255 | 0 | | 0 | [] |
+| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-02 05:36:19+00:00 | 15032 | 0 | Jupyter Notebook | 0 | [] |
+| JIAMING-LI/FeiProtocolFuseExploit | None | https://github.com/JIAMING-LI/FeiProtocolFuseExploit | ['exploit'] | 1 | 2022-05-02 06:46:47+00:00 | 0 | 0 | Solidity | 0 | [] |
 | TDalton52/590J-Capstone | A log4j exploit that scans the target filesystem and steals files of interest | https://github.com/TDalton52/590J-Capstone | ['exploit'] | 1 | 2022-05-02 01:48:46+00:00 | 6 | 0 | Python | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-02 05:59:14+00:00 | 5514 | 3234 | Python | 689 | [] |
 | CJMustard1452/CJ-Exploit | None | https://github.com/CJMustard1452/CJ-Exploit | ['exploit'] | 1 | 2022-05-02 02:24:11+00:00 | 5 | 0 | PHP | 0 | [] |
-| balazslaszlopeter/laszlosrepo | Linux/Exploit stuff | https://github.com/balazslaszlopeter/laszlosrepo | ['exploit'] | 1 | 2022-05-02 06:51:38+00:00 | 0 | 0 | | 0 | [] |
 | C0nneR/My_Windows_Exploits | None | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-02 13:55:38+00:00 | 0 | 0 | | 0 | [] |
 | zshorvath/edr_exploit_test | None | https://github.com/zshorvath/edr_exploit_test | ['exploit'] | 1 | 2022-05-02 12:55:12+00:00 | 0 | 0 | Python | 0 | [] |
 | FIRSTdotorg/epss | Exploit Prediction Scoring System (EPSS) | https://github.com/FIRSTdotorg/epss | ['exploit'] | 1 | 2022-05-02 12:48:15+00:00 | 0 | 0 | | 0 | [] |
 | anilrajagopal/rce.github.io | Rce host | https://github.com/anilrajagopal/rce.github.io | ['rce'] | 1 | 2022-05-02 12:46:03+00:00 | 0 | 0 | HTML | 0 | [] |
 | chrisssssssss1/K27 | Compiler exploits and exploitable non-obvious source code back doors. | https://github.com/chrisssssssss1/K27 | ['exploit'] | 1 | 2022-05-02 09:25:45+00:00 | 0 | 0 | | 0 | [] |
 | keanyuans/exploitagencyp | Proof of concept "block withholding attack" on a vanity address generation pay-per-share pool. No known vulnerable po… | https://github.com/keanyuans/exploitagencyp | ['exploit'] | 1 | 2022-05-02 08:48:19+00:00 | 0 | 0 | | 0 | [] |
+| balazslaszlopeter/laszlosrepo | Linux/Exploit stuff | https://github.com/balazslaszlopeter/laszlosrepo | ['exploit'] | 1 | 2022-05-02 06:51:38+00:00 | 0 | 0 | | 0 | [] |
 | ExploitPwner/TOTOLINK-CVE-2022-26210-Scanner | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/TOTOLINK-CVE-2022-26210-Scanner | ['command injection', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-02 06:47:01+00:00 | 0 | 0 | | 0 | ['CVE-2022-26210'] |
-| O72/Android-Post-Exploitation | None | https://github.com/O72/Android-Post-Exploitation | ['exploit'] | 1 | 2022-05-02 00:02:33+00:00 | 101 | 0 | Java | 0 | [] |
 | dar7c0d3/exploit | None | https://github.com/dar7c0d3/exploit | ['exploit'] | 1 | 2022-05-02 05:20:35+00:00 | 0 | 0 | | 0 | [] |
 | ky211/poc | Some documents on vulnerability detection | https://github.com/ky211/poc | ['vulnerability poc'] | 1 | 2022-05-02 05:10:15+00:00 | 0 | 0 | | 0 | [] |
 | ProjecteEndCipher/Cipher-Panel | Cipher is a paid Remote Execution/Administration Tool (RAT). Cipher's customers generate 4 lines of Lua code to inject into resources (many of them obfuscate the code) which will download remote code from the Cipher servers. We've found many leaked resourc | https://github.com/ProjecteEndCipher/Cipher-Panel | ['remote code execution'] | 1 | 2022-05-02 03:42:20+00:00 | 0 | 0 | nan | 0 | [] |
 | HatCS/metasploit-payloads | None | https://github.com/HatCS/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-02 03:34:52+00:00 | 0 | 0 | C | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN- | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2022-05-02 02:48:42+00:00 | 0 | 0 | | 0 | [] |
 | RobloxCanSuckMyNuts/EmergencyExploits | Fuck erlc lol | https://github.com/RobloxCanSuckMyNuts/EmergencyExploits | ['exploit'] | 1 | 2022-05-02 02:16:37+00:00 | 0 | 0 | | 0 | [] |
-| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-02 05:36:19+00:00 | 15032 | 0 | Jupyter Notebook | 0 | [] |
+| O72/Android-Post-Exploitation | None | https://github.com/O72/Android-Post-Exploitation | ['exploit'] | 1 | 2022-05-02 00:02:33+00:00 | 101 | 0 | Java | 0 | [] |
+| ibojanova/BF | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | ['exploit'] | 1 | 2022-05-02 12:35:25+00:00 | 84 | 0 | XSLT | 0 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-05-02 00:16:23+00:00 | 62099 | 3 | C# | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-02 05:59:14+00:00 | 5514 | 3234 | Python | 689 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-05-02 15:00:35+00:00 | 160428 | 1 | Python | 0 | [] |
 | LucasPDiniz/StudyRoom | Repository created for study and POC's on vulnerabilities. | https://github.com/LucasPDiniz/StudyRoom | ['vulnerability poc'] | 1 | 2022-05-02 02:15:09+00:00 | 2 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-02 02:03:57+00:00 | 18621 | 3 | Python | 0 | [] |
 | Creamy-Chicken-Soup/Exploit | My exploit for some cve | https://github.com/Creamy-Chicken-Soup/Exploit | ['exploit'] | 1 | 2022-05-02 13:41:10+00:00 | 15 | 0 | Python | 0 | [] |
