@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#87,1.00000000,https://github.com/dthibau/jbpm-exploit,dthibau/jbpm-exploit,488103618
 VU#87,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#87,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
 VU#87,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
