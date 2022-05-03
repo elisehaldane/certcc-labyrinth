@@ -1,18 +1,20 @@
 
 # Summary for results/2022/05/03
     
-21 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-03 01:44:16+00:00 | 728588 | 27129 | Ruby | 12189 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-03 01:50:15+00:00 | 62560 | 2683 | | 327 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-03 01:50:15+00:00 | 62560 | 2683 | nan | 327 | [] |
+| limsammy/flask-rce-ssti-poc-lesson | Lesson plan with demo application detailing exploitation of server-side template injection to achieve remote-code execution | https://github.com/limsammy/flask-rce-ssti-poc-lesson | ['exploit', 'rce', 'rce poc', 'remote code execution'] | 4 | 2022-05-03 02:06:59+00:00 | 0 | 0 | HTML | 0 | [] |
 | codingcore1/-SILENT-PDF-EXPLOIT-CLEAN- | None | https://github.com/codingcore1/-SILENT-PDF-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2022-05-03 01:51:36+00:00 | 0 | 0 | | 0 | [] |
 | Altelus1/CVE-2022-24707 | PoC of CVE-2022-24707 | https://github.com/Altelus1/CVE-2022-24707 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-03 01:12:15+00:00 | 192 | 0 | Python | 0 | ['CVE-2022-24707'] |
 | Exploited94/Exploited | Ahahaa | https://github.com/Exploited94/Exploited | ['exploit'] | 1 | 2022-05-03 00:49:17+00:00 | 0 | 0 | Java | 0 | [] |
 | C0nneR/My_Windows_Exploits | None | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-03 02:21:21+00:00 | 1 | 0 | C++ | 0 | [] |
 | Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-05-03 00:49:00+00:00 | 647 | 3 | C | 1 | [] |
 | ibojanova/BF | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | ['exploit'] | 1 | 2022-05-03 01:44:14+00:00 | 1524 | 0 | XSLT | 0 | [] |
+| codeyso/CodeTest | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | ['exploit', 'rce', 'rce poc'] | 3 | 2022-05-03 02:29:56+00:00 | 19935 | 219 | Python | 60 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-03 01:10:27+00:00 | 258 | 0 | | 0 | [] |
 | bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-05-03 00:37:21+00:00 | 208 | 2 | Lua | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-03 00:33:07+00:00 | 104153 | 2 | Jupyter Notebook | 0 | [] |
@@ -24,5 +26,7 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-03 01:16:50+00:00 | 178340 | 397 | Python | 115 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-03 00:05:04+00:00 | 489002 | 55 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-03 00:47:39+00:00 | 14072 | 37 | | 21 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-03 02:31:33+00:00 | 261730 | 152 | REXX | 14 | [] |
+| adithyan-ak/WAVE | Web Application Vulnerability Exploiter (WAVE) is basically a vulnerability scanner which scans for Secuirity Vulnerabilities in web applications. | https://github.com/adithyan-ak/WAVE | ['exploit'] | 1 | 2022-05-03 02:34:49+00:00 | 75 | 16 | Python | 6 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-03 00:26:01+00:00 | 51974 | 301 | Ruby | 86 | [] |
-| limsammy/flask-rce-ssti-poc-lesson | Lesson plan with demo application detailing exploitation of server-side template injection to achieve remote-code execution | https://github.com/limsammy/flask-rce-ssti-poc-lesson | ['exploit', 'rce', 'rce poc', 'remote code execution'] | 4 | 2022-05-03 02:06:59+00:00 | 0 | 0 | HTML | 0 | [] |
+| MidwintersTomb/CVE-2018-17553 | CVE-2018-17553 PoC | https://github.com/MidwintersTomb/CVE-2018-17553 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-03 02:56:42+00:00 | 0 | 0 | Shell | 0 | ['CVE-2018-17553'] |
