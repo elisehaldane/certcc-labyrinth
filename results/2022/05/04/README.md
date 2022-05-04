@@ -1,16 +1,18 @@
 
 # Summary for results/2022/05/04
     
-41 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-04 05:23:25+00:00 | 729112 | 27142 | Ruby | 12193 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-04 00:28:56+00:00 | 106215 | 2 | Jupyter Notebook | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-04 08:26:55+00:00 | 205 | 0 | Go | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-04 01:51:38+00:00 | 58321 | 2684 | | 327 | [] |
 | seal9055/cyber_attack_simulation | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | ['exploit', 'rce'] | 2 | 2022-05-04 00:28:33+00:00 | 126 | 0 | C | 0 | [] |
 | xjusthaxor/command-injection-payload | None | https://github.com/xjusthaxor/command-injection-payload | ['command injection'] | 1 | 2022-05-04 00:53:41+00:00 | 16 | 2 | HTML | 0 | [] |
 | ren-u/notes | Hi! I am ad.zeroday or ren-u(renzd). I know the struggle of writing notes, So i created this website + I am a topper so all the notes are right. (Not a nerd) | https://github.com/ren-u/notes | ['zeroday'] | 1 | 2022-05-04 07:34:54+00:00 | 93 | 0 | HTML | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-04 06:06:53+00:00 | 2364 | 166 | Go | 33 | [] |
+| SathishKumarA2001/Exploits_OWASP | None | https://github.com/SathishKumarA2001/Exploits_OWASP | ['exploit'] | 1 | 2022-05-04 08:03:46+00:00 | 6 | 0 | Hack | 0 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-04 04:01:59+00:00 | 21 | 5 | Shell | 0 | [] |
 | zxzxz1/Exploit_nokey | None | https://github.com/zxzxz1/Exploit_nokey | ['exploit'] | 1 | 2022-05-04 07:15:24+00:00 | 36048 | 0 | Lua | 0 | [] |
 | datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-05-04 04:25:59+00:00 | 14031 | 0 | | 0 | [] |
@@ -18,25 +20,31 @@
 | msam13/wyze-cam-firmware-analysis | The firmware for the Wyze Cam V3 is hosted on the website of its manufacturer for anyone to download. We plan to download the firmware and perform a variety of analysis techniques on it until we have a solid understanding of the device and/or have identif | https://github.com/msam13/wyze-cam-firmware-analysis | ['exploit'] | 1 | 2022-05-04 00:37:11+00:00 | 4660 | 1 | Shell | 0 | [] |
 | hoangng1996/improving-pet | NLU 2022 Group 10 final project. We try to improve Pattern-Exploiting Training through multi-tasks training and data augmentation | https://github.com/hoangng1996/improving-pet | ['exploit'] | 1 | 2022-05-04 07:29:19+00:00 | 891 | 1 | Python | 1 | [] |
 | Tokumura1995/KernelExploitLearning01 | None | https://github.com/Tokumura1995/KernelExploitLearning01 | ['exploit'] | 1 | 2022-05-04 03:28:06+00:00 | 828 | 0 | Batchfile | 0 | [] |
+| yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation | None | https://github.com/yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation | ['exploit'] | 1 | 2022-05-04 07:51:23+00:00 | 22 | 0 | Python | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-04 00:52:28+00:00 | 939 | 0 | Rust | 0 | [] |
 | yuanLink/CVE-2022-26809 | nan | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-04 01:57:17+00:00 | 260 | 2 | Python | 2 | ['CVE-2022-26809'] |
 | TDalton52/590J-Capstone | A log4j exploit that scans the target filesystem and steals files of interest | https://github.com/TDalton52/590J-Capstone | ['exploit'] | 1 | 2022-05-04 03:22:40+00:00 | 97 | 0 | Python | 0 | [] |
+| Off3nS3c/CVE-2022-29932 | nan | https://github.com/Off3nS3c/CVE-2022-29932 | ['cve-2 OR cve_2'] | 1 | 2022-05-04 08:20:49+00:00 | 438 | 0 | | 0 | ['CVE-2022-29932'] |
 | codingcore1/-SILENT-PDF-EXPLOIT-CLEAN | None | https://github.com/codingcore1/-SILENT-PDF-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-05-04 01:59:33+00:00 | 0 | 0 | | 0 | [] |
 | Rayzack/DVWA-Guide-Analysis | Exploitation and explanation of vulnerabilities in DVWA | https://github.com/Rayzack/DVWA-Guide-Analysis | ['exploit'] | 1 | 2022-05-04 03:00:11+00:00 | 0 | 0 | | 0 | [] |
 | investigatoooors/known_exploits | None | https://github.com/investigatoooors/known_exploits | ['exploit'] | 1 | 2022-05-04 03:27:05+00:00 | 0 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-04 01:51:38+00:00 | 58321 | 2684 | | 327 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-04 00:28:56+00:00 | 106215 | 2 | Jupyter Notebook | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-05-04 04:47:25+00:00 | 116 | 1 | | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-04 04:44:50+00:00 | 5553 | 3236 | Python | 690 | [] |
 | LegoHacker1337/AntiSkid | Protects from bad exploiters. | https://github.com/LegoHacker1337/AntiSkid | ['exploit'] | 1 | 2022-05-04 00:20:47+00:00 | 37 | 0 | Lua | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-04 00:24:58+00:00 | 51975 | 301 | Ruby | 86 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-05-04 08:00:10+00:00 | 70429 | 2882 | Python | 450 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-04 02:31:06+00:00 | 255902 | 152 | REXX | 14 | [] |
+| stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-05-04 08:03:05+00:00 | 21210 | 12 | PHP | 4 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-04 00:47:39+00:00 | 15065 | 37 | | 21 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2022-05-04 05:05:06+00:00 | 1095 | 1 | | 1 | [] |
 | zeroday0619/zeroday0619 | About Me | https://github.com/zeroday0619/zeroday0619 | ['zeroday'] | 1 | 2022-05-04 03:55:38+00:00 | 112 | 3 | | 2 | [] |
+| VulnTotal-Team/IoT-vulhub | IoT 固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | ['exploit'] | 1 | 2022-05-04 08:26:39+00:00 | 433069 | 709 | Python | 102 | [] |
 | mjwhitta/runsc | Simple shellcode injector. | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2022-05-04 00:00:35+00:00 | 38 | 5 | Go | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-04 00:03:33+00:00 | 500067 | 55 | | 21 | [] |
 | gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-05-04 07:05:40+00:00 | 5079 | 0 | R | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-04 01:18:33+00:00 | 182892 | 397 | Python | 116 | [] |
+| Creamy-Chicken-Soup/Exploit | My exploit for some cve | https://github.com/Creamy-Chicken-Soup/Exploit | ['exploit'] | 1 | 2022-05-04 08:02:20+00:00 | 18 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-04 02:02:37+00:00 | 22328 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-04 02:07:41+00:00 | 1420 | 93 | HTML | 24 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2022-05-04 05:22:05+00:00 | 21 | 0 | | 0 | [] |
