@@ -1,18 +1,20 @@
 
 # Summary for results/2022/05/04
     
-53 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-04 05:23:25+00:00 | 729112 | 27142 | Ruby | 12193 | [] |
-| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-05-04 04:47:25+00:00 | 116 | 1 | | 0 | [] |
+| LegoHacker1337/AntiSkid | Protects from bad exploiters. | https://github.com/LegoHacker1337/AntiSkid | ['exploit'] | 1 | 2022-05-04 00:20:47+00:00 | 37 | 0 | Lua | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-04 08:26:55+00:00 | 205 | 0 | Go | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-04 00:28:56+00:00 | 106215 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-04 01:51:38+00:00 | 58321 | 2684 | | 327 | [] |
 | seal9055/cyber_attack_simulation | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | ['exploit', 'rce'] | 2 | 2022-05-04 00:28:33+00:00 | 126 | 0 | C | 0 | [] |
 | xjusthaxor/command-injection-payload | None | https://github.com/xjusthaxor/command-injection-payload | ['command injection'] | 1 | 2022-05-04 00:53:41+00:00 | 16 | 2 | HTML | 0 | [] |
 | ren-u/notes | Hi! I am ad.zeroday or ren-u(renzd). I know the struggle of writing notes, So i created this website + I am a topper so all the notes are right. (Not a nerd) | https://github.com/ren-u/notes | ['zeroday'] | 1 | 2022-05-04 07:34:54+00:00 | 93 | 0 | HTML | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-04 06:06:53+00:00 | 2364 | 166 | Go | 33 | [] |
+| jhhua/Cs_X_Msf_inject | Auxiliary tool to inject dll,for metasploit or CobaltStrike DLL injectionn modules | https://github.com/jhhua/Cs_X_Msf_inject | ['metasploit module OR payload'] | 1 | 2022-05-04 10:20:45+00:00 | 80 | 0 | C | 0 | [] |
 | SathishKumarA2001/Exploits_OWASP | None | https://github.com/SathishKumarA2001/Exploits_OWASP | ['exploit'] | 1 | 2022-05-04 08:03:46+00:00 | 6 | 0 | Hack | 0 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-04 04:01:59+00:00 | 21 | 5 | Shell | 0 | [] |
 | zxzxz1/Exploit_nokey | None | https://github.com/zxzxz1/Exploit_nokey | ['exploit'] | 1 | 2022-05-04 07:15:24+00:00 | 36048 | 0 | Lua | 0 | [] |
@@ -30,22 +32,25 @@
 | Rayzack/DVWA-Guide-Analysis | Exploitation and explanation of vulnerabilities in DVWA | https://github.com/Rayzack/DVWA-Guide-Analysis | ['exploit'] | 1 | 2022-05-04 03:00:11+00:00 | 0 | 0 | | 0 | [] |
 | investigatoooors/known_exploits | None | https://github.com/investigatoooors/known_exploits | ['exploit'] | 1 | 2022-05-04 03:27:05+00:00 | 0 | 0 | | 0 | [] |
 | cmaillioux/SecurityResearch | This repository will receive exploits or papers from personal research. | https://github.com/cmaillioux/SecurityResearch | ['exploit'] | 1 | 2022-05-04 07:35:12+00:00 | 0 | 0 | | 0 | [] |
-| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-04 08:26:55+00:00 | 205 | 0 | Go | 0 | [] |
-| LegoHacker1337/AntiSkid | Protects from bad exploiters. | https://github.com/LegoHacker1337/AntiSkid | ['exploit'] | 1 | 2022-05-04 00:20:47+00:00 | 37 | 0 | Lua | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-04 09:27:50+00:00 | 60777 | 1243 | C | 580 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-05-04 04:47:25+00:00 | 116 | 1 | | 0 | [] |
 | DevDeclann/gadgets | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | ['exploit'] | 1 | 2022-05-04 01:46:32+00:00 | 17 | 0 | JavaScript | 0 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-04 09:27:50+00:00 | 60777 | 1243 | C | 580 | [] |
+| dapivei/tweetple | A wrapper to stream information from Twitter's Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2022-05-04 05:55:35+00:00 | 30 | 4 | Python | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-04 04:44:50+00:00 | 5553 | 3236 | Python | 690 | [] |
 | GamesRythmAnalysis/RnGameDataExploitation | Software for recording and analyzing inputs during game session (rhythmanalysis) | https://github.com/GamesRythmAnalysis/RnGameDataExploitation | ['exploit'] | 1 | 2022-05-04 09:16:17+00:00 | 25209 | 5 | R | 0 | [] |
+| tercen/teRcen | Tercen R client api | https://github.com/tercen/teRcen | ['rce'] | 1 | 2022-05-04 10:03:41+00:00 | 529 | 0 | R | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-04 00:24:58+00:00 | 51975 | 301 | Ruby | 86 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-05-04 08:00:10+00:00 | 70429 | 2882 | Python | 450 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-04 02:31:06+00:00 | 255902 | 152 | REXX | 14 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-05-04 08:03:05+00:00 | 21210 | 12 | PHP | 4 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-04 00:47:39+00:00 | 15065 | 37 | | 21 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2022-05-04 05:05:06+00:00 | 1095 | 1 | | 1 | [] |
+| LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2022-05-04 10:34:45+00:00 | 26611 | 3207 | TypeScript | 391 | [] |
 | zeroday0619/zeroday0619 | About Me | https://github.com/zeroday0619/zeroday0619 | ['zeroday'] | 1 | 2022-05-04 03:55:38+00:00 | 112 | 3 | | 2 | [] |
 | VulnTotal-Team/IoT-vulhub | IoT 固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | ['exploit'] | 1 | 2022-05-04 08:26:39+00:00 | 433069 | 709 | Python | 102 | [] |
 | mjwhitta/runsc | Simple shellcode injector. | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2022-05-04 00:00:35+00:00 | 38 | 5 | Go | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-04 00:03:33+00:00 | 500067 | 55 | | 21 | [] |
+| MythicAgents/merlin | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | ['exploit'] | 1 | 2022-05-04 10:36:05+00:00 | 434 | 29 | Python | 5 | [] |
 | gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-05-04 07:05:40+00:00 | 5079 | 0 | R | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-04 01:18:33+00:00 | 182892 | 397 | Python | 116 | [] |
 | Creamy-Chicken-Soup/Exploit | My exploit for some cve | https://github.com/Creamy-Chicken-Soup/Exploit | ['exploit'] | 1 | 2022-05-04 08:02:20+00:00 | 18 | 0 | Python | 0 | [] |
@@ -56,5 +61,4 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-04 01:48:32+00:00 | 5097326 | 43 | Python | 7 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-05-04 07:46:16+00:00 | 424 | 1 | Python | 0 | [] |
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-05-04 01:46:51+00:00 | 708 | 1 | Shell | 0 | [] |
-| dapivei/tweetple | A wrapper to stream information from Twitter's Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2022-05-04 05:55:35+00:00 | 30 | 4 | Python | 0 | [] |
 | xtafnull/CMS-made-simple-sqli-python3 | CMS Made Simple < 2.2.10 - SQL Injection (rewritten for python3), CVE-2019-905 | https://github.com/xtafnull/CMS-made-simple-sqli-python3 | ['cve-2 OR cve_2'] | 1 | 2022-05-04 09:32:58+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-0905'] |
