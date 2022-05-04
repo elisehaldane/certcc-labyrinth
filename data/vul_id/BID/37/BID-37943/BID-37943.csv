@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-37943,0.01136364,https://github.com/ksmaheshkumar/metasploit,ksmaheshkumar/metasploit,31601285
 BID-37943,0.00169492,https://github.com/audioscavenger/exploit,audioscavenger/exploit,123531727
 BID-37943,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
+BID-37943,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 BID-37943,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 BID-37943,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 BID-37943,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-44301,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
 BID-44301,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
+BID-44301,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 BID-44301,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 BID-44301,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-44301,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
