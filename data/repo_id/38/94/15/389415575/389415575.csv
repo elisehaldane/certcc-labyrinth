@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-389415575,HeiTang/Zrss,zeroday_.xml,a89955552b99f6408e9012e7eeb2d7c94ca5fec2,CVE-2020-9281
-389415575,HeiTang/Zrss,zeroday_disclosed.xml,fd41fe2a2b59f22b498ce2930eea042533279a1c,CVE-2020-9281
+389415575,HeiTang/Zrss,zeroday_disclosed.xml,57542c2cb4f24cfeddedb18806e2b89d4b36969b,CVE-2020-9281
+389415575,HeiTang/Zrss,zeroday_.xml,df1b2920a2e5a641c0df89e49688e1b8e4b0b002,CVE-2020-9281
