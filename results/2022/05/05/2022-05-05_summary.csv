@@ -1,0 +1,9 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-05-05T00:24:40+0000,51975,301,Ruby,86,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-05-05T00:47:40+0000,15409,37,,21,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-05-05T00:04:27+0000,499450,55,,21,[]
+ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.,https://github.com/ycdxsb/PocOrExp_in_Github,"['cve poc', 'exploit']",2,2022-05-05T00:01:35+0000,173291,397,Python,116,[]
+Plextora/neoblox,"A level 7 keyless Lua executor for Roblox. Free, forever!",https://github.com/Plextora/neoblox,['exploit'],1,2022-05-05T00:32:51+0000,62265,3,C#,0,[]
+budde25/switcheroo,"A cross platform, rust implementation for the Tegra X1 bootROM exploit ",https://github.com/budde25/switcheroo,['exploit'],1,2022-05-05T00:10:52+0000,1319,0,Rust,0,[]
+Sasytoremember/mediahaxx,A hack that uses an exploit in the RokuOS media library.,https://github.com/Sasytoremember/mediahaxx,['exploit'],1,2022-05-05T00:16:59+0000,0,0,,0,[]
+codingcore1/SILENT-PDF-EXPLOIT-CLEAN_,None,https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN_,['exploit'],1,2022-05-05T00:25:43+0000,0,0,,0,[]
