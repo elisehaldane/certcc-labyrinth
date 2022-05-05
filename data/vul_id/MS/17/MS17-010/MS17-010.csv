@@ -311,8 +311,8 @@ MS17-010,0.01666667,https://github.com/blackunixteam/exploits-exploitdb-bin-splo
 MS17-010,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS17-010,0.01470588,https://github.com/asr511/exploitdb-bin-sploits-offsec,asr511/exploitdb-bin-sploits-offsec,399769897
 MS17-010,0.01449275,https://github.com/paramint/offensive-security-exploitdb-bin-sploits,paramint/offensive-security-exploitdb-bin-sploits,402516412
-MS17-010,0.01428571,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 MS17-010,0.01388889,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
+MS17-010,0.01369863,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 MS17-010,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 MS17-010,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
 MS17-010,0.01219512,https://github.com/Sma-Das/TryHackMe,Sma-Das/TryHackMe,382572363
@@ -418,7 +418,7 @@ MS17-010,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7R
 MS17-010,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS17-010,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS17-010,0.00025733,https://github.com/syokake/metasploit-framework,syokake/metasploit-framework,91141820
-MS17-010,0.00025641,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00025648,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00025628,https://github.com/kongjiexi/metasploit,kongjiexi/metasploit,95047982
 MS17-010,0.00025628,https://github.com/CKmaenn/metasploit-framework,CKmaenn/metasploit-framework,94964125
 MS17-010,0.00025628,https://github.com/guard3rd/metasploit-framework,guard3rd/metasploit-framework,94722261
@@ -504,7 +504,7 @@ MS17-010,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/Exp
 MS17-010,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 MS17-010,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS17-010,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
-MS17-010,0.00001782,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001785,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
