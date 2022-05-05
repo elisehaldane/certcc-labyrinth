@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/05
     
-122 records found after deduplication
+130 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-05 09:27:50+00:00 | 732320 | 27152 | Ruby | 12194 | [] |
-| axin2019/CVE-2022-29464 | 1 | https://github.com/axin2019/CVE-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 06:06:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
+| Iyamroshan/Exploit-development-resources | None | https://github.com/Iyamroshan/Exploit-development-resources | ['exploit'] | 1 | 2022-05-05 06:25:48+00:00 | 0 | 0 | | 0 | [] |
+| sgonzalez-r7/go-msfmod | A Go pkg for working with Metasploit Module Cache | https://github.com/sgonzalez-r7/go-msfmod | ['metasploit module OR payload'] | 1 | 2022-05-05 05:26:18+00:00 | 0 | 0 | | 0 | [] |
 | mrdev007/TCP-off-path-exploit | None | https://github.com/mrdev007/TCP-off-path-exploit | ['exploit'] | 1 | 2022-05-05 03:39:59+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | heegong/CVE-2022-24924 | Improper privilege management vulnerability in Samsung Video Player prior to version 7.3.15.30 allows attackers to execute video files without permission. | https://github.com/heegong/CVE-2022-24924 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 03:17:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-24924'] |
 | kezyuilovesdick/ultra-ud-fortnite-exploits | None | https://github.com/kezyuilovesdick/ultra-ud-fortnite-exploits | ['exploit'] | 1 | 2022-05-05 03:02:19+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -20,6 +21,7 @@
 | yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 01:53:00+00:00 | 260 | 2 | Python | 4 | ['CVE-2022-26809'] |
 | Tu3k/XorShellCode | Xor Encry ShellCode With x86 | https://github.com/Tu3k/XorShellCode | ['shellcode'] | 1 | 2022-05-05 03:18:57+00:00 | 350 | 3 | C++ | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-05 00:10:52+00:00 | 1319 | 0 | Rust | 0 | [] |
+| jonatanSh/elf_to_shellcode | Python library to convert elf to shellcodes | https://github.com/jonatanSh/elf_to_shellcode | ['shellcode'] | 1 | 2022-05-05 16:26:10+00:00 | 304 | 0 | Python | 0 | [] |
 | idanwasserman/Final_Project | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | ['exploit'] | 1 | 2022-05-05 10:19:28+00:00 | 54 | 0 | Python | 0 | [] |
 | pr0cf5/cpu-exploits | None | https://github.com/pr0cf5/cpu-exploits | ['exploit'] | 1 | 2022-05-05 09:52:16+00:00 | 6 | 0 | C | 0 | [] |
 | iczc/Ethermint-CVE-2021-25837 | None | https://github.com/iczc/Ethermint-CVE-2021-25837 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 06:10:24+00:00 | 0 | 2 | Shell | 0 | ['CVE-2021-25837'] |
@@ -34,10 +36,13 @@
 | hoangng1996/improving-pet | NLU 2022 Group 10 final project. We try to improve Pattern-Exploiting Training through multi-tasks training and data augmentation | https://github.com/hoangng1996/improving-pet | ['exploit'] | 1 | 2022-05-05 01:13:26+00:00 | 17201 | 1 | Python | 1 | [] |
 | Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-05-05 05:54:42+00:00 | 521 | 3 | C | 1 | [] |
 | Creamy-Chicken-Soup/My-Writeup | My writeup for analysis some Exploit and CVE in windows platform | https://github.com/Creamy-Chicken-Soup/My-Writeup | ['exploit'] | 1 | 2022-05-05 13:54:54+00:00 | 15980 | 0 | PLSQL | 0 | [] |
-| sgonzalez-r7/go-msfmod | A Go pkg for working with Metasploit Module Cache | https://github.com/sgonzalez-r7/go-msfmod | ['metasploit module OR payload'] | 1 | 2022-05-05 05:26:18+00:00 | 0 | 0 | | 0 | [] |
-| Iyamroshan/Exploit-development-resources | None | https://github.com/Iyamroshan/Exploit-development-resources | ['exploit'] | 1 | 2022-05-05 06:25:48+00:00 | 0 | 0 | | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-05 09:39:11+00:00 | 60793 | 1243 | C | 580 | [] |
+| axin2019/CVE-2022-29464 | 1 | https://github.com/axin2019/CVE-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 06:06:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
 | nova142/exploit | Free exploit | https://github.com/nova142/exploit | ['exploit'] | 1 | 2022-05-05 06:32:44+00:00 | 0 | 0 | | 0 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-05 09:39:11+00:00 | 60793 | 1243 | C | 580 | [] |
+| nova142/exploit1 | free executor | https://github.com/nova142/exploit1 | ['exploit'] | 1 | 2022-05-05 06:33:24+00:00 | 0 | 0 | | 0 | [] |
+| Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-05-05 15:58:41+00:00 | 0 | 0 | | 0 | [] |
+| nicolasmf/pyxploit-db | A python package to help you fetch the exploit database from exploit-db.com | https://github.com/nicolasmf/pyxploit-db | ['exploit'] | 1 | 2022-05-05 15:52:34+00:00 | 0 | 0 | | 0 | [] |
+| matehashtag1337/roblox-exploit | A simple roblox exploit, with HWID check, connected with pastebin. In the future I'm going to connect the HWID check with MySQL Database. | https://github.com/matehashtag1337/roblox-exploit | ['exploit'] | 1 | 2022-05-05 15:49:07+00:00 | 0 | 0 | C# | 0 | [] |
 | Koboltz/exploits | Repository containing exploits that i have developed. | https://github.com/Koboltz/exploits | ['exploit'] | 1 | 2022-05-05 15:39:26+00:00 | 0 | 0 | C | 0 | [] |
 | jheeree/CVE-2022-1388-checker | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | ['cve-2 OR cve_2'] | 1 | 2022-05-05 15:28:05+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-1388'] |
 | CaraTortu/POCs | This is my repository for exploits I wrote for public CVEs | https://github.com/CaraTortu/POCs | ['cve poc', 'exploit'] | 2 | 2022-05-05 15:25:13+00:00 | 0 | 0 | Python | 0 | [] |
@@ -64,11 +69,11 @@
 | Spuckwaffel/ThunderMine-cracked | ThunderMine cracked: A "tool" that apparently exploits wallets and "drains" the bitcoins to your wallet, which is a complete scam | https://github.com/Spuckwaffel/ThunderMine-cracked | ['exploit'] | 1 | 2022-05-05 07:47:12+00:00 | 0 | 0 | C# | 0 | [] |
 | crypt0r00t/CVE-2022-26809 | final exploit! | https://github.com/crypt0r00t/CVE-2022-26809 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-05 07:16:29+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-26809'] |
 | 0x3van/usb | a usb exploit. | https://github.com/0x3van/usb | ['exploit'] | 1 | 2022-05-05 06:34:11+00:00 | 0 | 0 | | 0 | [] |
-| nova142/exploit1 | free executor | https://github.com/nova142/exploit1 | ['exploit'] | 1 | 2022-05-05 06:33:24+00:00 | 0 | 0 | | 0 | [] |
 | feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-05-05 09:21:25+00:00 | 28999 | 3 | Python | 0 | [] |
 | RDXLR/Metasploit-Termux | Install metasploit in termux with postgresql database setup | https://github.com/RDXLR/Metasploit-Termux | ['metasploit module OR payload'] | 1 | 2022-05-05 07:32:55+00:00 | 1031 | 1 | Shell | 0 | [] |
+| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-05-05 16:17:25+00:00 | 292 | 1 | Shell | 1 | [] |
 | zxzxz1/Exploit_nokey | None | https://github.com/zxzxz1/Exploit_nokey | ['exploit'] | 1 | 2022-05-05 15:39:52+00:00 | 44287 | 0 | Lua | 0 | [] |
-| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-05-05 06:06:40+00:00 | 380074 | 361 | C | 131 | [] |
+| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-05-05 10:59:25+00:00 | 2504 | 24 | Python | 3 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-05-05 08:23:55+00:00 | 77728 | 11 | Java | 2 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-05 01:56:29+00:00 | 1477 | 93 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-05 01:54:17+00:00 | 20004 | 3 | Python | 0 | [] |
@@ -78,6 +83,7 @@
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2022-05-05 12:51:31+00:00 | 151 | 40 | Python | 6 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-05 00:01:35+00:00 | 173291 | 397 | Python | 116 | [] |
 | gittina/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2022-05-05 08:22:33+00:00 | 5123 | 0 | R | 1 | [] |
+| panchis7u7/Linux_Commands | Commands for linux related programs, theory and definitions that can be applied to information gathering, password cracking and system exploits. | https://github.com/panchis7u7/Linux_Commands | ['exploit'] | 1 | 2022-05-05 16:15:36+00:00 | 2735 | 0 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-05 00:04:27+00:00 | 499450 | 55 | | 21 | [] |
 | zeroday0619/zeroday0619 | About Me | https://github.com/zeroday0619/zeroday0619 | ['zeroday'] | 1 | 2022-05-05 09:39:52+00:00 | 144 | 3 | | 2 | [] |
 | g-rubert/CVE-2020-12696 | Stored Cross Site Scripting - Iframe Plugin - WordPress | https://github.com/g-rubert/CVE-2020-12696 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 14:46:28+00:00 | 19 | 0 | | 0 | ['CVE-2020-12696'] |
@@ -96,12 +102,14 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-05 05:36:24+00:00 | 5197 | 3236 | Python | 690 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-05-05 06:15:02+00:00 | 12254 | 4544 | Python | 636 | [] |
 | clbustos/rcebn | Just some random methods I use on R. Mainly mplus interfaces and some utilities | https://github.com/clbustos/rcebn | ['rce'] | 1 | 2022-05-05 05:08:21+00:00 | 77 | 1 | R | 0 | [] |
-| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-05-05 10:59:25+00:00 | 2504 | 24 | Python | 3 | [] |
 | cirosantilli/china-dictatorhsip-2 | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosantilli/china-dictatorship 的备份backup. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorhsip-2 | ['attack poc', 'exploit'] | 2 | 2022-05-05 13:41:58+00:00 | 16707 | 32 | HTML | 19 | [] |
 | sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2022-05-05 13:17:16+00:00 | 2259 | 186 | Python | 29 | [] |
-| g-rubert/CVE-2021-46108 | Stored Cross-Site Scripting - D-Link | https://github.com/g-rubert/CVE-2021-46108 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 14:58:22+00:00 | 3 | 0 | | 0 | ['CVE-2021-46108'] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-05 01:44:12+00:00 | 5109893 | 43 | Python | 7 | [] |
+| coding-stuffs/china-dictatorshrip | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosantilli/china-dictatorship 的备份backup. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/coding-stuffs/china-dictatorshrip | ['attack poc', 'exploit'] | 2 | 2022-05-05 13:41:57+00:00 | 6674 | 13 | HTML | 8 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-05-05 06:06:40+00:00 | 380074 | 361 | C | 131 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-05 05:33:13+00:00 | 15 | 5 | Shell | 0 | [] |
 | polygraphene/DirtyPipe-Android | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | ['exploit'] | 1 | 2022-05-05 08:47:08+00:00 | 11347 | 401 | C | 71 | [] |
+| D3Ext/Captcha-Bypassing-Lab | A local laboratory used for practicing captcha bypassing | https://github.com/D3Ext/Captcha-Bypassing-Lab | ['metasploit module OR payload'] | 1 | 2022-05-05 16:10:54+00:00 | 98 | 1 | PHP | 0 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-05-05 00:32:51+00:00 | 62265 | 3 | C# | 0 | [] |
 | JustinApplegate/exploit-code | A collection of exploit code I created for various software or CVEs | https://github.com/JustinApplegate/exploit-code | ['exploit'] | 1 | 2022-05-05 03:27:34+00:00 | 873 | 0 | Python | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-05-05 15:00:28+00:00 | 171405 | 1 | Python | 0 | [] |
@@ -111,9 +119,9 @@
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-05 06:10:34+00:00 | 2376 | 169 | Go | 34 | [] |
 | jbaines-r7/staystaystay | Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE | https://github.com/jbaines-r7/staystaystay | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-05-05 14:49:16+00:00 | 39 | 6 | C++ | 0 | ['CVE-2021-1585'] |
 | Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-05-05 01:33:22+00:00 | 3060 | 188 | | 36 | [] |
-| coding-stuffs/china-dictatorshrip | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosantilli/china-dictatorship 的备份backup. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/coding-stuffs/china-dictatorshrip | ['attack poc', 'exploit'] | 2 | 2022-05-05 13:41:57+00:00 | 6674 | 13 | HTML | 8 | [] |
+| g-rubert/CVE-2021-46108 | Stored Cross-Site Scripting - D-Link | https://github.com/g-rubert/CVE-2021-46108 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 14:58:22+00:00 | 3 | 0 | | 0 | ['CVE-2021-46108'] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-05 14:23:29+00:00 | 7344 | 2632 | TypeScript | 383 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-05 01:47:58+00:00 | 64182 | 2687 | | 328 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-05 01:44:12+00:00 | 5109893 | 43 | Python | 7 | [] |
 | JrTechie/rcee-review | None | https://github.com/JrTechie/rcee-review | ['rce'] | 1 | 2022-05-05 12:54:57+00:00 | 2474 | 0 | | 0 | [] |
 | DS1NC-DesConnet/EvilMC | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | ['exploit'] | 1 | 2022-05-05 07:56:32+00:00 | 1305 | 7 | JavaScript | 3 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-05 06:16:54+00:00 | 110341 | 2 | Jupyter Notebook | 0 | [] |
@@ -125,5 +133,5 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-05-05 12:50:24+00:00 | 6047 | 13 | | 4 | [] |
 | snurilov/msfcure | Script for extracting MSFVenom alpha encoded shellcode | https://github.com/snurilov/msfcure | ['shellcode'] | 1 | 2022-05-05 03:28:47+00:00 | 17 | 0 | Python | 0 | [] |
 | lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2022-05-05 02:08:25+00:00 | 413 | 2 | C | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-05 14:23:29+00:00 | 7344 | 2632 | TypeScript | 383 | [] |
-| matehashtag1337/roblox-exploit | A simple roblox exploit, with HWID check, connected with pastebin. In the future I'm going to connect the HWID check with MySQL Database. | https://github.com/matehashtag1337/roblox-exploit | ['exploit'] | 1 | 2022-05-05 15:49:07+00:00 | 0 | 0 | C# | 0 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-05-05 16:24:33+00:00 | 25043 | 64 | Rust | 10 | [] |
+| Babailan/evon-exploit | None | https://github.com/Babailan/evon-exploit | ['exploit'] | 1 | 2022-05-05 16:25:28+00:00 | 0 | 0 | HTML | 0 | [] |
