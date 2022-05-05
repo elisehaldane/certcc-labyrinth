@@ -1,31 +1,38 @@
 
 # Summary for results/2022/05/05
     
-75 records found after deduplication
+84 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-05 09:27:50+00:00 | 732320 | 27152 | Ruby | 12194 | [] |
+| yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 01:53:00+00:00 | 260 | 2 | Python | 4 | ['CVE-2022-26809'] |
 | heegong/CVE-2022-24924 | Improper privilege management vulnerability in Samsung Video Player prior to version 7.3.15.30 allows attackers to execute video files without permission. | https://github.com/heegong/CVE-2022-24924 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 03:17:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-24924'] |
+| kezyuilovesdick/ultra-ud-fortnite-exploits | None | https://github.com/kezyuilovesdick/ultra-ud-fortnite-exploits | ['exploit'] | 1 | 2022-05-05 03:02:19+00:00 | 0 | 0 | C++ | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN_ | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN_ | ['exploit'] | 1 | 2022-05-05 00:25:43+00:00 | 0 | 0 | | 0 | [] |
 | Sasytoremember/mediahaxx | A hack that uses an exploit in the RokuOS media library. | https://github.com/Sasytoremember/mediahaxx | ['exploit'] | 1 | 2022-05-05 00:16:59+00:00 | 0 | 0 | | 0 | [] |
+| adbenoit-9/42_rainfall | 42 - an introduction to the exploitation of (elf-like) binary. | https://github.com/adbenoit-9/42_rainfall | ['exploit'] | 1 | 2022-05-05 10:43:55+00:00 | 4 | 0 | | 0 | [] |
+| cmaillioux/SecurityResearch | This repository will receive exploits or papers from personal research. | https://github.com/cmaillioux/SecurityResearch | ['exploit'] | 1 | 2022-05-05 10:16:23+00:00 | 15 | 0 | | 0 | [] |
 | ProjecteEndCipher/Cipher-Panel | Cipher is a paid Remote Execution/Administration Tool (RAT). Cipher's customers generate 4 lines of Lua code to inject into resources (many of them obfuscate the code) which will download remote code from the Cipher servers. We've found many leaked resourc | https://github.com/ProjecteEndCipher/Cipher-Panel | ['remote code execution'] | 1 | 2022-05-05 03:08:48+00:00 | 10 | 8 | Batchfile | 1 | [] |
 | slaclab/rce_build_env | Build and cross compilation environment for RCE SW | https://github.com/slaclab/rce_build_env | ['rce'] | 1 | 2022-05-05 05:21:46+00:00 | 4 | 0 | Shell | 0 | [] |
-| yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 01:53:00+00:00 | 260 | 2 | Python | 4 | ['CVE-2022-26809'] |
 | Tu3k/XorShellCode | Xor Encry ShellCode With x86 | https://github.com/Tu3k/XorShellCode | ['shellcode'] | 1 | 2022-05-05 03:18:57+00:00 | 350 | 3 | C++ | 0 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-05 09:39:11+00:00 | 60793 | 1243 | C | 580 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-05 00:10:52+00:00 | 1319 | 0 | Rust | 0 | [] |
+| idanwasserman/Final_Project | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | ['exploit'] | 1 | 2022-05-05 10:19:28+00:00 | 54 | 0 | Python | 0 | [] |
+| pr0cf5/cpu-exploits | None | https://github.com/pr0cf5/cpu-exploits | ['exploit'] | 1 | 2022-05-05 09:52:16+00:00 | 6 | 0 | C | 0 | [] |
 | iczc/Ethermint-CVE-2021-25837 | None | https://github.com/iczc/Ethermint-CVE-2021-25837 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 06:10:24+00:00 | 0 | 2 | Shell | 0 | ['CVE-2021-25837'] |
 | pawodyk/SV4PP | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | ['exploit'] | 1 | 2022-05-05 08:36:23+00:00 | 8 | 0 | Python | 0 | [] |
 | hiatus/scl | Shellcode loader to optimize testing workflow. | https://github.com/hiatus/scl | ['shellcode'] | 1 | 2022-05-05 03:30:49+00:00 | 1 | 0 | C | 0 | [] |
 | doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-05-05 03:50:39+00:00 | 2493 | 2 | Python | 0 | [] |
 | FrameWorkRBLX/FrameWorkScriptHub | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | ['exploit'] | 1 | 2022-05-05 03:38:32+00:00 | 446 | 0 | | 0 | [] |
-| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-05 03:13:23+00:00 | 25 | 12 | | 2 | [] |
-| Du4t/Python_ShellcodeLoader | 基于Python的shellcode加载器 | https://github.com/Du4t/Python_ShellcodeLoader | ['shellcode'] | 1 | 2022-05-05 09:41:25+00:00 | 3 | 26 | Python | 0 | [] |
-| hoangng1996/improving-pet | NLU 2022 Group 10 final project. We try to improve Pattern-Exploiting Training through multi-tasks training and data augmentation | https://github.com/hoangng1996/improving-pet | ['exploit'] | 1 | 2022-05-05 01:13:26+00:00 | 17201 | 1 | Python | 1 | [] |
-| kezyuilovesdick/ultra-ud-fortnite-exploits | None | https://github.com/kezyuilovesdick/ultra-ud-fortnite-exploits | ['exploit'] | 1 | 2022-05-05 03:02:19+00:00 | 0 | 0 | C++ | 0 | [] |
 | mrdev007/TCP-off-path-exploit | None | https://github.com/mrdev007/TCP-off-path-exploit | ['exploit'] | 1 | 2022-05-05 03:39:59+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-05-05 09:21:25+00:00 | 28999 | 3 | Python | 0 | [] |
 | sgonzalez-r7/go-msfmod | A Go pkg for working with Metasploit Module Cache | https://github.com/sgonzalez-r7/go-msfmod | ['metasploit module OR payload'] | 1 | 2022-05-05 05:26:18+00:00 | 0 | 0 | | 0 | [] |
+| axin2019/CVE-2022-29464 | 1 | https://github.com/axin2019/CVE-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 06:06:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
+| Iyamroshan/Exploit-development-resources | None | https://github.com/Iyamroshan/Exploit-development-resources | ['exploit'] | 1 | 2022-05-05 06:25:48+00:00 | 0 | 0 | | 0 | [] |
+| Du4t/ShellcodeDb | shellcode spider | https://github.com/Du4t/ShellcodeDb | ['shellcode'] | 1 | 2022-05-05 10:19:52+00:00 | 0 | 1 | Python | 0 | [] |
+| cve-hunter/CVE-2022-1040-sophos-rce | None | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-05 10:48:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1040'] |
+| nguyenv1nK/CVE-2022-22954 | CVE-2022-22954 analyst | https://github.com/nguyenv1nK/CVE-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 10:43:48+00:00 | 0 | 0 | | 0 | ['CVE-2022-22954'] |
+| Du4t/shellcode_spider | exploit-db spider | https://github.com/Du4t/shellcode_spider | ['exploit', 'shellcode'] | 2 | 2022-05-05 09:47:03+00:00 | 0 | 0 | Python | 0 | [] |
 | Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188 | None | https://github.com/Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 09:34:34+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0188'] |
 | amoldike/SHELLCODE-CRUD-SYSTEM | None | https://github.com/amoldike/SHELLCODE-CRUD-SYSTEM | ['shellcode'] | 1 | 2022-05-05 09:23:10+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | YuChenMVC/0day | None | https://github.com/YuChenMVC/0day | ['0day'] | 1 | 2022-05-05 09:42:17+00:00 | 0 | 0 | | 0 | [] |
@@ -35,16 +42,16 @@
 | pvs-hd/LapsTrans | Exploit LAPS to Translate Programming Languages | https://github.com/pvs-hd/LapsTrans | ['exploit'] | 1 | 2022-05-05 07:45:07+00:00 | 0 | 0 | | 0 | [] |
 | kirkewellsa/special-spork | Developed by a team of athletes and dieticians, our range "The fruit of the exploit" is regularly tested and approved by the cyclist team FORTUNEO OSCARO. The special interest that Lucien has for sport gave him the idea and the desire to launch a range for | https://github.com/kirkewellsa/special-spork | ['exploit'] | 1 | 2022-05-05 07:05:11+00:00 | 0 | 0 | | 0 | [] |
 | Spuckwaffel/ThunderMine-cracked | ThunderMine cracked: A "tool" that apparently exploits wallets and "drains" the bitcoins to your wallet, which is a complete scam | https://github.com/Spuckwaffel/ThunderMine-cracked | ['exploit'] | 1 | 2022-05-05 07:47:12+00:00 | 0 | 0 | C# | 0 | [] |
-| crypt0r00t/CVE-2022-26809 | None | https://github.com/crypt0r00t/CVE-2022-26809 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-05 06:51:05+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
+| crypt0r00t/CVE-2022-26809 | final exploit! | https://github.com/crypt0r00t/CVE-2022-26809 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-05 07:16:29+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-26809'] |
 | 0x3van/usb | a usb exploit. | https://github.com/0x3van/usb | ['exploit'] | 1 | 2022-05-05 06:34:11+00:00 | 0 | 0 | | 0 | [] |
 | nova142/exploit1 | free executor | https://github.com/nova142/exploit1 | ['exploit'] | 1 | 2022-05-05 06:33:24+00:00 | 0 | 0 | | 0 | [] |
 | nova142/exploit | Free exploit | https://github.com/nova142/exploit | ['exploit'] | 1 | 2022-05-05 06:32:44+00:00 | 0 | 0 | | 0 | [] |
-| Iyamroshan/Exploit-development-resources | None | https://github.com/Iyamroshan/Exploit-development-resources | ['exploit'] | 1 | 2022-05-05 06:25:48+00:00 | 0 | 0 | | 0 | [] |
-| axin2019/CVE-2022-29464 | 1 | https://github.com/axin2019/CVE-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 06:06:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
-| Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-05-05 05:54:42+00:00 | 521 | 3 | C | 1 | [] |
-| RDXLR/Metasploit-Termux | Install metasploit in termux with postgresql database setup | https://github.com/RDXLR/Metasploit-Termux | ['metasploit module OR payload'] | 1 | 2022-05-05 07:32:55+00:00 | 1031 | 1 | Shell | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-05 09:39:11+00:00 | 60793 | 1243 | C | 580 | [] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-05 03:13:23+00:00 | 25 | 12 | | 2 | [] |
+| Du4t/Python_ShellcodeLoader | 基于Python的shellcode加载器 | https://github.com/Du4t/Python_ShellcodeLoader | ['shellcode'] | 1 | 2022-05-05 09:41:25+00:00 | 3 | 26 | Python | 0 | [] |
+| hoangng1996/improving-pet | NLU 2022 Group 10 final project. We try to improve Pattern-Exploiting Training through multi-tasks training and data augmentation | https://github.com/hoangng1996/improving-pet | ['exploit'] | 1 | 2022-05-05 01:13:26+00:00 | 17201 | 1 | Python | 1 | [] |
+| lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2022-05-05 02:08:25+00:00 | 413 | 2 | C | 0 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-05-05 08:23:55+00:00 | 77728 | 11 | Java | 2 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-05 01:56:29+00:00 | 1477 | 93 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-05 01:54:17+00:00 | 20004 | 3 | Python | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-05-05 07:19:43+00:00 | 229408 | 0 | JavaScript | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-05 00:01:35+00:00 | 173291 | 397 | Python | 116 | [] |
@@ -60,10 +67,13 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-05 05:36:24+00:00 | 5197 | 3236 | Python | 690 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-05-05 06:15:02+00:00 | 12254 | 4544 | Python | 636 | [] |
 | clbustos/rcebn | Just some random methods I use on R. Mainly mplus interfaces and some utilities | https://github.com/clbustos/rcebn | ['rce'] | 1 | 2022-05-05 05:08:21+00:00 | 77 | 1 | R | 0 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-05 01:56:29+00:00 | 1477 | 93 | HTML | 24 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-05 01:44:12+00:00 | 5109893 | 43 | Python | 7 | [] |
+| snurilov/msfcure | Script for extracting MSFVenom alpha encoded shellcode | https://github.com/snurilov/msfcure | ['shellcode'] | 1 | 2022-05-05 03:28:47+00:00 | 17 | 0 | Python | 0 | [] |
+| Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-05-05 05:54:42+00:00 | 521 | 3 | C | 1 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-05-05 02:58:29+00:00 | 256 | 4 | Java | 0 | [] |
+| feifei-cv/RCE | Code for unsupervised domain adaptation via risk-consistent estimators | https://github.com/feifei-cv/RCE | ['rce'] | 1 | 2022-05-05 09:21:25+00:00 | 28999 | 3 | Python | 0 | [] |
+| RDXLR/Metasploit-Termux | Install metasploit in termux with postgresql database setup | https://github.com/RDXLR/Metasploit-Termux | ['metasploit module OR payload'] | 1 | 2022-05-05 07:32:55+00:00 | 1031 | 1 | Shell | 0 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-05-05 06:06:40+00:00 | 380074 | 361 | C | 131 | [] |
-| lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2022-05-05 02:08:25+00:00 | 413 | 2 | C | 0 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-05 05:33:13+00:00 | 15 | 5 | Shell | 0 | [] |
 | polygraphene/DirtyPipe-Android | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | ['exploit'] | 1 | 2022-05-05 08:47:08+00:00 | 11347 | 401 | C | 71 | [] |
 | Plextora/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | ['exploit'] | 1 | 2022-05-05 00:32:51+00:00 | 62265 | 3 | C# | 0 | [] |
@@ -74,9 +84,8 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-05 01:47:58+00:00 | 64182 | 2687 | | 328 | [] |
 | DS1NC-DesConnet/EvilMC | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | ['exploit'] | 1 | 2022-05-05 07:56:32+00:00 | 1305 | 7 | JavaScript | 3 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-05 06:16:54+00:00 | 110341 | 2 | Jupyter Notebook | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-05 10:09:32+00:00 | 233 | 0 | Go | 0 | [] |
 | wimpomp/tiffwrite | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | ['exploit'] | 1 | 2022-05-05 08:25:47+00:00 | 31 | 0 | Python | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-05-05 02:25:51+00:00 | 841 | 3 | C | 1 | [] |
 | dapivei/tweetple | A wrapper to stream information from Twitter's Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | ['exploit'] | 1 | 2022-05-05 02:18:25+00:00 | 36 | 4 | Python | 0 | [] |
-| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-05-05 02:58:29+00:00 | 256 | 4 | Java | 0 | [] |
-| snurilov/msfcure | Script for extracting MSFVenom alpha encoded shellcode | https://github.com/snurilov/msfcure | ['shellcode'] | 1 | 2022-05-05 03:28:47+00:00 | 17 | 0 | Python | 0 | [] |
-| Du4t/shellcode_spider | exploit-db spider | https://github.com/Du4t/shellcode_spider | ['exploit', 'shellcode'] | 2 | 2022-05-05 09:47:03+00:00 | 0 | 0 | Python | 0 | [] |
+| numanturle/CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-05 10:44:36+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
