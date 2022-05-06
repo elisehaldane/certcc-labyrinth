@@ -1,9 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-483085711,SummerSec/SpringExploit,cmd/commons/poc/CVE-2022-22947.go,0540c69d37c87defa8e27802e2de4e7b49ca2cb6,CVE-2020-222947
-483085711,SummerSec/SpringExploit,cmd/commons/poc/CVE-2022-22947.go,0540c69d37c87defa8e27802e2de4e7b49ca2cb6,CVE-2022-22947
-483085711,SummerSec/SpringExploit,cmd/commons/poc/CVE-2022-22947.go,0540c69d37c87defa8e27802e2de4e7b49ca2cb6,VU#29
-483085711,SummerSec/SpringExploit,cmd/commons/poc/CVE-2021-26084.go,a47a8453d3360dfced07e451e98eda551674375f,CVE-2021-26084
-483085711,SummerSec/SpringExploit,cmd/commons/poc/CVE-2022-22963.go,ae48fbcdc57a6fb97cfe7b986c04b693e7ec7ed6,CVE-2022-22963
+483085711,SummerSec/SpringExploit,cmd/commons/poc/2022/CVE-2022-22963.go,8873df6f827163eb4a614e139808911e4bfbcd15,CVE-2022-22963
+483085711,SummerSec/SpringExploit,cmd/commons/poc/2021/CVE-2021-26084.go,9f87e5a65dfc0147210b7c46c00ed5ae706c40a5,CVE-2021-26084
 483085711,SummerSec/SpringExploit,CHANGELOG.md,c5d8afad2f12c70db5805f2dee744dff31e2c5ed,CVE-2021-26084
 483085711,SummerSec/SpringExploit,CHANGELOG.md,c5d8afad2f12c70db5805f2dee744dff31e2c5ed,CVE-2022-22947
 483085711,SummerSec/SpringExploit,CHANGELOG.md,c5d8afad2f12c70db5805f2dee744dff31e2c5ed,CVE-2022-22963
@@ -11,3 +8,6 @@ repo_id,repo_full_name,file,file_sha1,match
 483085711,SummerSec/SpringExploit,README.md,dfe57db9223aba6ffc1f3d6e4c5f10d1c4ae31f5,CVE-2022-22947
 483085711,SummerSec/SpringExploit,README.md,dfe57db9223aba6ffc1f3d6e4c5f10d1c4ae31f5,CVE-2022-22963
 483085711,SummerSec/SpringExploit,README.md,dfe57db9223aba6ffc1f3d6e4c5f10d1c4ae31f5,CVE-2022-22965
+483085711,SummerSec/SpringExploit,cmd/commons/poc/2022/CVE-2022-22947.go,e94cffabf4471fa039c22457604f8a965e651b64,CVE-2020-222947
+483085711,SummerSec/SpringExploit,cmd/commons/poc/2022/CVE-2022-22947.go,e94cffabf4471fa039c22457604f8a965e651b64,CVE-2022-22947
+483085711,SummerSec/SpringExploit,cmd/commons/poc/2022/CVE-2022-22947.go,e94cffabf4471fa039c22457604f8a965e651b64,VU#29
