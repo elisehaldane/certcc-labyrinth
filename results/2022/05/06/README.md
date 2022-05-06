@@ -1,22 +1,23 @@
 
 # Summary for results/2022/05/06
     
-22 records found after deduplication
+23 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2022-05-06 03:24:41+00:00 | 75349 | 465 | Java | 592 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-06 00:23:54+00:00 | 51976 | 301 | Ruby | 87 | [] |
+| plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-05-06 03:37:55+00:00 | 125 | 1 | Java | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-- | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-- | ['exploit'] | 1 | 2022-05-06 01:04:56+00:00 | 1 | 0 | | 0 | [] |
 | Codeta12/test | Exploiting testing | https://github.com/Codeta12/test | ['exploit'] | 1 | 2022-05-06 00:44:34+00:00 | 8033 | 0 | | 0 | [] |
 | Moosfet/bouncer | A tool for people who don't trust services to be able to check a password without a buffer overflow exploit. | https://github.com/Moosfet/bouncer | ['exploit'] | 1 | 2022-05-06 03:27:27+00:00 | 11 | 1 | C | 0 | [] |
 | andrewbearsley/sample-aws-exploit | Simulates lateral movement in AWS | https://github.com/andrewbearsley/sample-aws-exploit | ['exploit'] | 1 | 2022-05-06 02:09:07+00:00 | 20 | 1 | Shell | 0 | [] |
 | strojacek/metasploit-modules | Some metasploit modules I wrote for various purposes | https://github.com/strojacek/metasploit-modules | ['metasploit module OR payload'] | 1 | 2022-05-06 00:30:25+00:00 | 6 | 0 | Ruby | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-06 03:43:03+00:00 | 1329 | 0 | Rust | 0 | [] |
+| YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-05-06 04:09:30+00:00 | 37 | 46 | C | 25 | [] |
 | Its-Vichy/Dunocoin-Exploit | Custom miner that Spoof packets to be considered an IoT device and earn more coins. | https://github.com/Its-Vichy/Dunocoin-Exploit | ['exploit'] | 1 | 2022-05-06 00:54:14+00:00 | 990 | 21 | Python | 3 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-06 02:32:09+00:00 | 534105 | 566 | nan | 119 | [] |
-| plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-05-06 03:37:55+00:00 | 125 | 1 | Java | 0 | [] |
 | Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-05-06 02:24:02+00:00 | 3092 | 195 | | 37 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-06 00:23:54+00:00 | 51976 | 301 | Ruby | 87 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-06 01:50:55+00:00 | 68630 | 2691 | | 328 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-06 01:37:19+00:00 | 70720 | 40 | Go | 16 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-06 01:25:09+00:00 | 5135892 | 43 | Python | 7 | [] |
