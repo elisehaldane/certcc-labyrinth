@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/06
     
-133 records found after deduplication
+134 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -22,7 +22,7 @@
 | CodiumTeamm/Codium-Algorithm---PDF-Exploit-Builder-Bypass-Windows-Defender---Chrome-AcrobatReader-FUD | Codium Algorithm - PDF Exploit Builder _ Bypass Windows Defender - Chrome/AcrobatReader FUD | https://github.com/CodiumTeamm/Codium-Algorithm---PDF-Exploit-Builder-Bypass-Windows-Defender---Chrome-AcrobatReader-FUD | ['exploit'] | 1 | 2022-05-06 14:09:50+00:00 | 2 | 1 | | 0 | [] |
 | idanwasserman/Final_Project | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | ['exploit'] | 1 | 2022-05-06 06:39:58+00:00 | 61 | 0 | HTML | 0 | [] |
 | clxyify/Catmoon | Open source ROBLOX exploit DLL that uses LuaU (WIP) | https://github.com/clxyify/Catmoon | ['exploit'] | 1 | 2022-05-06 13:46:03+00:00 | 16 | 1 | | 0 | [] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-06 02:32:09+00:00 | 534105 | 566 | | 119 | [] |
+| nicolasmf/pyxploit-db | An exploit-db.com python API using advanced search with all possible filters. | https://github.com/nicolasmf/pyxploit-db | ['exploit'] | 1 | 2022-05-06 15:35:46+00:00 | 0 | 0 | Python | 0 | [] |
 | TheFunnyMan120/PrecHub | Exploits for various roblox games | https://github.com/TheFunnyMan120/PrecHub | ['exploit'] | 1 | 2022-05-06 19:06:42+00:00 | 25 | 1 | Lua | 1 | [] |
 | alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-05-06 19:15:05+00:00 | 26 | 0 | Lua | 0 | [] |
 | SummerSec/SpringExploit | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-06 06:38:54+00:00 | 72 | 126 | Go | 11 | [] |
@@ -38,9 +38,10 @@
 | tin-z/Stuff_and_POCs | Containing vulnerabilities I've discovered and maybe CVE | https://github.com/tin-z/Stuff_and_POCs | ['cve poc', 'vulnerability poc'] | 2 | 2022-05-06 11:07:44+00:00 | 1 | 1 | C++ | 0 | [] |
 | YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-05-06 04:09:30+00:00 | 37 | 46 | C | 25 | [] |
 | CaraTortu/POCs | This is my repository for exploits I wrote for public CVEs | https://github.com/CaraTortu/POCs | ['cve poc', 'exploit'] | 2 | 2022-05-06 14:17:47+00:00 | 4 | 0 | Python | 0 | [] |
-| nicolasmf/pyxploit-db | An exploit-db.com python API using advanced search with all possible filters. | https://github.com/nicolasmf/pyxploit-db | ['exploit'] | 1 | 2022-05-06 15:35:46+00:00 | 0 | 0 | Python | 0 | [] |
 | dec3ptions/tetrys_exploits | None | https://github.com/dec3ptions/tetrys_exploits | ['exploit'] | 1 | 2022-05-06 09:01:15+00:00 | 40 | 0 | | 0 | [] |
-| Codeta12/test | Exploiting testing | https://github.com/Codeta12/test | ['exploit'] | 1 | 2022-05-06 00:44:34+00:00 | 8033 | 0 | | 0 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-06 10:44:30+00:00 | 60795 | 1243 | C | 580 | [] |
+| u201424348/CVE-2022-21984 | None | https://github.com/u201424348/CVE-2022-21984 | ['cve-2 OR cve_2'] | 1 | 2022-05-06 17:08:44+00:00 | 0 | 0 | | 0 | ['CVE-2022-21984'] |
+| MarukuSan/Systeme_Exploitation | TP Gestion de Mémoire | https://github.com/MarukuSan/Systeme_Exploitation | ['exploit'] | 1 | 2022-05-06 21:16:02+00:00 | 0 | 0 | C | 0 | [] |
 | PhasmaClient/Phasma-Exploit | None | https://github.com/PhasmaClient/Phasma-Exploit | ['exploit'] | 1 | 2022-05-06 19:38:12+00:00 | 0 | 0 | | 0 | [] |
 | Michele0303/NetwaveExploit | None | https://github.com/Michele0303/NetwaveExploit | ['exploit'] | 1 | 2022-05-06 19:15:37+00:00 | 0 | 0 | | 0 | [] |
 | Femalehack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Femalehack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-06 18:43:32+00:00 | 0 | 0 | | 0 | [] |
@@ -54,8 +55,8 @@
 | Gameehack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Gameehack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-06 18:11:58+00:00 | 0 | 0 | | 0 | [] |
 | Gameehack/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Gameehack/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-05-06 18:10:35+00:00 | 0 | 0 | | 0 | [] |
 | biulove0x/CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | ['cve-2 OR cve_2'] | 1 | 2022-05-06 17:40:56+00:00 | 0 | 0 | | 0 | ['CVE-2022-0441'] |
-| u201424348/CVE-2022-21984 | None | https://github.com/u201424348/CVE-2022-21984 | ['cve-2 OR cve_2'] | 1 | 2022-05-06 17:08:44+00:00 | 0 | 0 | | 0 | ['CVE-2022-21984'] |
 | san3ncrypt3d/Docker-Breakout---Exploits | None | https://github.com/san3ncrypt3d/Docker-Breakout---Exploits | ['exploit'] | 1 | 2022-05-06 15:30:56+00:00 | 0 | 0 | | 0 | [] |
+| Codeta12/test | Exploiting testing | https://github.com/Codeta12/test | ['exploit'] | 1 | 2022-05-06 00:44:34+00:00 | 8033 | 0 | | 0 | [] |
 | FireKing255/Better-WebShell | Upload pannel and system commands webshell coded with php | https://github.com/FireKing255/Better-WebShell | ['shellcode'] | 1 | 2022-05-06 14:57:08+00:00 | 0 | 1 | PHP | 0 | [] |
 | codiumprivatee/Codium-Crypter-Protector-Algorithm-Best-PROTECTOR | Bypass Windows Defender And ALL FUD _ Best Crypter In The Market _ Supports .NET/Native x86/x64 | https://github.com/codiumprivatee/Codium-Crypter-Protector-Algorithm-Best-PROTECTOR | ['exploit'] | 1 | 2022-05-06 14:03:38+00:00 | 0 | 2 | | 0 | [] |
 | Najplays/najplays | hello my name is Najplays I am new to GitHub. Exploits I have : Synaspe x, Script ware | https://github.com/Najplays/najplays | ['exploit'] | 1 | 2022-05-06 12:12:03+00:00 | 0 | 0 | | 0 | [] |
@@ -71,8 +72,8 @@
 | Th3Mind/Automation-Exploits | None | https://github.com/Th3Mind/Automation-Exploits | ['exploit'] | 1 | 2022-05-06 02:18:31+00:00 | 0 | 0 | Python | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-- | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-- | ['exploit'] | 1 | 2022-05-06 01:04:56+00:00 | 1 | 0 | | 0 | [] |
 | Its-Vichy/Dunocoin-Exploit | Custom miner that Spoof packets to be considered an IoT device and earn more coins. | https://github.com/Its-Vichy/Dunocoin-Exploit | ['exploit'] | 1 | 2022-05-06 00:54:14+00:00 | 990 | 21 | Python | 3 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-06 02:32:09+00:00 | 534105 | 566 | | 119 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-05-06 15:00:24+00:00 | 174914 | 1 | Python | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-06 10:44:30+00:00 | 60795 | 1243 | C | 580 | [] |
 | Qufity/qufity.github.io | TRX | https://github.com/Qufity/qufity.github.io | ['exploit'] | 1 | 2022-05-06 07:59:28+00:00 | 746 | 0 | HTML | 0 | [] |
 | Juliocj7/MsfCj7 | 🔥 Instala Metasploit 6 correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MsfCj7 | ['metasploit module OR payload'] | 1 | 2022-05-06 19:10:25+00:00 | 9 | 19 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-06 00:00:52+00:00 | 176542 | 398 | Python | 116 | [] |
@@ -137,4 +138,4 @@
 | cirosantilli/china-dictatorhsip-2 | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosantilli/china-dictatorship 的备份backup. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorhsip-2 | ['attack poc', 'exploit'] | 2 | 2022-05-06 11:30:38+00:00 | 16716 | 33 | HTML | 19 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-06 01:51:14+00:00 | 1481 | 93 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-06 01:46:47+00:00 | 21871 | 3 | Python | 0 | [] |
-| MarukuSan/Systeme_Exploitation | TP Gestion de Mémoire | https://github.com/MarukuSan/Systeme_Exploitation | ['exploit'] | 1 | 2022-05-06 21:16:02+00:00 | 0 | 0 | C | 0 | [] |
+| 834469228qqn/badd1e9 | Not necessarily related to software bugs and exploits; this repo contains snippets of code that demonstrate some inte… | https://github.com/834469228qqn/badd1e9 | ['exploit'] | 1 | 2022-05-06 23:04:21+00:00 | 0 | 0 | | 0 | [] |
