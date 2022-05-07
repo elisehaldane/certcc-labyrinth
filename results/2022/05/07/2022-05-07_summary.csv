@@ -1,0 +1,12 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-05-07T00:22:45+0000,51977,301,Ruby,87,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-05-07T00:47:42+0000,16150,37,,21,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-05-07T00:04:03+0000,519675,55,,21,[]
+ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.,https://github.com/ycdxsb/PocOrExp_in_Github,"['cve poc', 'exploit']",2,2022-05-07T00:00:46+0000,179795,399,Python,117,[]
+jgamblin/CISA_Enrichment,CISA Known Exploited Vulnerabilities Catalog Enrichment,https://github.com/jgamblin/CISA_Enrichment,['exploit'],1,2022-05-07T00:31:46+0000,112426,2,Jupyter Notebook,0,[]
+RapidoBuzz/RhyteredExploitAPI,L'api de RhyteredExploit,https://github.com/RapidoBuzz/RhyteredExploitAPI,['exploit'],1,2022-05-07T00:27:42+0000,38160,0,Lua,0,[]
+C0nneR/My_Windows_Exploits,My scripts organized according to MITRE ATT&CK Windows enterprise matrix.,https://github.com/C0nneR/My_Windows_Exploits,['exploit'],1,2022-05-07T00:46:43+0000,7,0,C++,0,[]
+adbenoit-9/42_rainfall,42 - an introduction to the exploitation of (elf-like) binary.,https://github.com/adbenoit-9/42_rainfall,['exploit'],1,2022-05-07T00:28:37+0000,31,0,C,0,[]
+Kob123678/KoSploit-VIP,nan,https://github.com/Kob123678/KoSploit-VIP,['sploit'],1,2022-05-07T00:47:24+0000,2259,0,,0,[]
+Kob123678/Edit-KoSploit-VIP,nan,https://github.com/Kob123678/Edit-KoSploit-VIP,['sploit'],1,2022-05-07T00:48:06+0000,13720,0,,0,[]
+isclayton/viewstalker,A tool for identifying and exploiting vulnerable Viewstate implementations in ASP.NET ,https://github.com/isclayton/viewstalker,['exploit'],1,2022-05-07T00:15:55+0000,0,0,Go,0,[]
