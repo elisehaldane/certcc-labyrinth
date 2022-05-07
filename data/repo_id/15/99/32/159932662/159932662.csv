@@ -17,4 +17,5 @@ repo_id,repo_full_name,file,file_sha1,match
 159932662,saucer-man/saucerframe,scripts/fw_oa_rce.py,c7170ebcda98e81e86b140636c325be72706ab06,CNVD-2019-32204
 159932662,saucer-man/saucerframe,scripts/CVE-2021-43798.py,ca8913fdcd3657aee009458843d9408a25fbe70c,CVE-2021-43798
 159932662,saucer-man/saucerframe,scripts/cve-2020-0796.py,e185bccb3f6d2871d332723ecc8ea5a8c705aef6,CVE-2020-0796
+159932662,saucer-man/saucerframe,scripts/CVE-2022-1388.py,eab4040ced15d631306a65c987ea4aa2f3613aa4,CVE-2022-1388
 159932662,saucer-man/saucerframe,scripts/weblogic_xmldecoder_exec.py,fe17c7df85ee839811ded0f14184f55af23a7f27,CVE-2017-10271
