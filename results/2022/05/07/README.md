@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/07
     
-50 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | samyk/pwnat | The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no | https://github.com/samyk/pwnat | ['exploit'] | 1 | 2022-05-07 03:13:58+00:00 | 69 | 2359 | C | 416 | [] |
-| LinJacck/CVE-2022-29464 | None | https://github.com/LinJacck/CVE-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-05-07 03:06:08+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-07 05:01:24+00:00 | 536167 | 575 | nan | 120 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-07 04:05:59+00:00 | 29 | 12 | | 2 | [] |
 | C0nneR/My_Windows_Exploits | My scripts organized according to MITRE ATT&CK Windows enterprise matrix. | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-07 00:46:43+00:00 | 7 | 0 | C++ | 0 | [] |
 | adbenoit-9/42_rainfall | 42 - an introduction to the exploitation of (elf-like) binary. | https://github.com/adbenoit-9/42_rainfall | ['exploit'] | 1 | 2022-05-07 00:28:37+00:00 | 31 | 0 | C | 0 | [] |
@@ -17,8 +17,8 @@
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-05-07 01:34:12+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-05-07 02:03:28+00:00 | 0 | 0 | | 0 | [] |
 | Wrin9/CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-07 02:57:45+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-43287'] |
+| LinJacck/CVE-2022-29464 | None | https://github.com/LinJacck/CVE-2022-29464 | ['cve-2 OR cve_2'] | 1 | 2022-05-07 03:06:08+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29464'] |
 | WTSTiNy/CVE-2014-3704 | I don't own this | https://github.com/WTSTiNy/CVE-2014-3704 | ['cve-2 OR cve_2'] | 1 | 2022-05-07 03:00:57+00:00 | 0 | 0 | Lua | 0 | ['CVE-2014-3704'] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-07 05:05:33+00:00 | 5243 | 3239 | Python | 690 | [] |
 | UUFR/CVE-2022-26352 | DotCMS Remote Code Execution（CVE-2022-26352） | https://github.com/UUFR/CVE-2022-26352 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-05-07 03:25:46+00:00 | 0 | 0 | nan | 0 | ['CVE-2022-26352'] |
 | Fintheend/dupe | dupe exploit website | https://github.com/Fintheend/dupe | ['exploit'] | 1 | 2022-05-07 04:20:30+00:00 | 0 | 0 | | 0 | [] |
 | kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-05-07 05:10:35+00:00 | 0 | 0 | Python | 0 | [] |
@@ -29,10 +29,11 @@
 | REN-U-zeroday/REN-U-zeroday.github.io | The Main Page | https://github.com/REN-U-zeroday/REN-U-zeroday.github.io | ['zeroday'] | 1 | 2022-05-07 08:27:01+00:00 | 0 | 0 | HTML | 0 | [] |
 | DarkRider568/VyrexSploit | nan | https://github.com/DarkRider568/VyrexSploit | ['sploit'] | 1 | 2022-05-07 08:30:56+00:00 | 0 | 0 | nan | 0 | [] |
 | Ruulian/exploit | None | https://github.com/Ruulian/exploit | ['exploit'] | 1 | 2022-05-07 09:34:09+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| iveresk/cve-2020-3452 | Just proof of concept for Cisco CVE-2020-3452. Using external or internal file base. | https://github.com/iveresk/cve-2020-3452 | ['cve-2 OR cve_2'] | 1 | 2022-05-07 09:45:26+00:00 | 0 | 0 | | 0 | ['CVE-2020-3452'] |
 | xjusthaxor/Responsive-filemanager | API & exploit | https://github.com/xjusthaxor/Responsive-filemanager | ['exploit'] | 1 | 2022-05-07 02:01:10+00:00 | 86 | 1 | PHP | 0 | [] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-07 05:01:24+00:00 | 536167 | 575 | nan | 120 | [] |
+| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-05-07 10:12:36+00:00 | 26 | 0 | Nix | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-07 05:05:33+00:00 | 5243 | 3239 | Python | 690 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-07 03:50:41+00:00 | 17388 | 0 | | 0 | [] |
-| Erlemorgaine/art-of-exploitation | None | https://github.com/Erlemorgaine/art-of-exploitation | ['exploit'] | 1 | 2022-05-07 08:33:06+00:00 | 19 | 0 | C | 0 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-07 02:06:54+00:00 | 1041 | 0 | Python | 11 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-07 00:22:45+00:00 | 51977 | 301 | Ruby | 87 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-07 02:34:49+00:00 | 258568 | 153 | REXX | 15 | [] |
@@ -54,4 +55,6 @@
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-05-07 00:27:42+00:00 | 38160 | 0 | Lua | 0 | [] |
 | ren-u/notes | Hi! We are ad.zeroday and renzd from REN-U. We know the struggle of writing notes, So we created this website + We are toppers so all the notes are right. (Not a nerd) | https://github.com/ren-u/notes | ['zeroday'] | 1 | 2022-05-07 07:44:25+00:00 | 105 | 0 | HTML | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-07 09:29:41+00:00 | 2507 | 199 | Go | 37 | [] |
-| iveresk/cve-2020-3452 | Just proof of concept for Cisco CVE-2020-3452. Using external or internal file base. | https://github.com/iveresk/cve-2020-3452 | ['cve-2 OR cve_2'] | 1 | 2022-05-07 09:45:26+00:00 | 0 | 0 | | 0 | ['CVE-2020-3452'] |
+| HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-07 10:12:44+00:00 | 3566 | 2 | CSS | 0 | [] |
+| Erlemorgaine/art-of-exploitation | None | https://github.com/Erlemorgaine/art-of-exploitation | ['exploit'] | 1 | 2022-05-07 08:33:06+00:00 | 19 | 0 | C | 0 | [] |
+| SeanJian09180/exploitagencyu | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/SeanJian09180/exploitagencyu | ['exploit'] | 1 | 2022-05-07 10:30:10+00:00 | 0 | 0 | | 0 | [] |
