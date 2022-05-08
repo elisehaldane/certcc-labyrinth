@@ -1,18 +1,20 @@
 
 # Summary for results/2022/05/08
     
-49 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-08 05:06:52+00:00 | 5254 | 3241 | Python | 690 | [] |
-| frkngksl/HintInject | A PoC project for embedding shellcode to Hint/Name Table | https://github.com/frkngksl/HintInject | ['shellcode'] | 1 | 2022-05-08 06:06:51+00:00 | 79 | 5 | C++ | 5 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-08 00:23:16+00:00 | 51978 | 301 | Ruby | 87 | [] |
+| NTDXYG/ExploitGen | None | https://github.com/NTDXYG/ExploitGen | ['exploit'] | 1 | 2022-05-08 05:29:54+00:00 | 5 | 0 | Python | 0 | [] |
 | pawodyk/SV4PP | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | ['exploit'] | 1 | 2022-05-08 09:45:17+00:00 | 24 | 0 | Python | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-08 05:47:04+00:00 | 1437 | 0 | Rust | 0 | [] |
 | biulove0x/CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | ['cve-2 OR cve_2'] | 1 | 2022-05-08 07:42:34+00:00 | 2 | 1 | Python | 0 | ['CVE-2022-0441'] |
 | Fintheend/dupe | dupe exploit website | https://github.com/Fintheend/dupe | ['exploit'] | 1 | 2022-05-08 03:13:33+00:00 | 3 | 0 | HTML | 0 | [] |
 | kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-05-08 08:17:25+00:00 | 16 | 4 | Python | 1 | [] |
 | eulercode/exploit-CVE-2017-7494 | SambaCry exploit (CVE-2017-7494) | https://github.com/eulercode/exploit-CVE-2017-7494 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-08 09:02:36+00:00 | 0 | 0 | Python | 0 | ['CVE-2017-7494'] |
+| Miche998/system_device_programming_Labs | • Knowledge of modern file system organizations and skill to manage file systems and file locking • Knowledge of system programming APIs (system calls) • Skill to understand and implement programs based on system calls • Skill to understand and implement p | https://github.com/Miche998/system_device_programming_Labs | ['exploit'] | 1 | 2022-05-08 10:26:24+00:00 | 217 | 0 | C | 0 | [] |
 | zerodaycode/zerodaycode.github.io | None | https://github.com/zerodaycode/zerodaycode.github.io | ['zeroday'] | 1 | 2022-05-08 09:38:39+00:00 | 4 | 0 | | 0 | [] |
 | mislavivanda/RF_DamnVulnerableDeFi | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | ['exploit'] | 1 | 2022-05-08 00:55:09+00:00 | 426 | 0 | Solidity | 0 | [] |
 | clxyify/Decompiled-Sources | Decompiled exploit DLL sources. | https://github.com/clxyify/Decompiled-Sources | ['exploit'] | 1 | 2022-05-08 00:39:21+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -28,10 +30,10 @@
 | ruchirasvmm/log4j-exploit-demo | None | https://github.com/ruchirasvmm/log4j-exploit-demo | ['exploit'] | 1 | 2022-05-08 07:43:47+00:00 | 0 | 0 | HTML | 0 | [] |
 | gtaharo/Roblox-UI-Template | exploit gui template for roblox. can be used for script hubs and much more, | https://github.com/gtaharo/Roblox-UI-Template | ['exploit'] | 1 | 2022-05-08 08:43:46+00:00 | 0 | 0 | Lua | 0 | [] |
 | HatCS/metasploitable3 | None | https://github.com/HatCS/metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-05-08 09:26:46+00:00 | 0 | 0 | HTML | 0 | [] |
-| NTDXYG/ExploitGen | None | https://github.com/NTDXYG/ExploitGen | ['exploit'] | 1 | 2022-05-08 05:29:54+00:00 | 5 | 0 | Python | 0 | [] |
+| frkngksl/HintInject | A PoC project for embedding shellcode to Hint/Name Table | https://github.com/frkngksl/HintInject | ['shellcode'] | 1 | 2022-05-08 06:06:51+00:00 | 79 | 5 | C++ | 5 | [] |
 | CERTCC/cveClient | A client and library to cve-services 2.x to provide CVE management for CNA and CERTs | https://github.com/CERTCC/cveClient | ['cve-2 OR cve_2'] | 1 | 2022-05-08 02:32:38+00:00 | 59 | 0 | JavaScript | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-08 00:23:16+00:00 | 51978 | 301 | Ruby | 87 | [] |
 | datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-05-08 03:13:52+00:00 | 14678 | 0 | | 0 | [] |
+| SQLab/CRAXplusplus | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-08 08:15:05+00:00 | 2848 | 48 | C++ | 3 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-08 02:31:59+00:00 | 253300 | 153 | REXX | 15 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-08 02:43:25+00:00 | 674 | 266 | C | 10 | [] |
 | flast101/flast101.github.io | My Infosec Blog - Stay curious ! | https://github.com/flast101/flast101.github.io | ['exploit', 'rce'] | 2 | 2022-05-08 05:38:36+00:00 | 2319 | 1 | | 0 | [] |
@@ -39,10 +41,12 @@
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-05-08 01:30:38+00:00 | 214366 | 258 | C | 49 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-08 00:04:08+00:00 | 511239 | 55 | | 21 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-08 01:22:09+00:00 | 183708 | 399 | Python | 118 | [] |
+| c0del1ar/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | ['exploit'] | 1 | 2022-05-08 10:44:08+00:00 | 277 | 6 | Python | 6 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-08 01:58:47+00:00 | 21169 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-08 02:03:02+00:00 | 1542 | 93 | HTML | 24 | [] |
-| SQLab/CRAXplusplus | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-08 08:15:05+00:00 | 2848 | 48 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-08 01:42:09+00:00 | 5206521 | 43 | Python | 7 | [] |
+| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-08 05:25:32+00:00 | 16371 | 0 | Jupyter Notebook | 0 | [] |
+| mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-05-08 10:40:46+00:00 | 1141 | 1 | Python | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-08 05:48:57+00:00 | 7403 | 2718 | TypeScript | 390 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-05-08 06:39:49+00:00 | 13653 | 268 | Ruby | 31 | [] |
 | NTDXYG/DualSC | Automatic Generation and Summarization of Shellcode via Transformer and Dual Learning | https://github.com/NTDXYG/DualSC | ['shellcode'] | 1 | 2022-05-08 07:53:09+00:00 | 1188 | 6 | Python | 1 | [] |
@@ -52,5 +56,4 @@
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-08 09:32:16+00:00 | 3571 | 2 | CSS | 0 | [] |
 | YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-05-08 09:38:39+00:00 | 63 | 46 | C | 25 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-08 00:37:10+00:00 | 2783 | 0 | Jupyter Notebook | 0 | [] |
-| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-08 05:25:32+00:00 | 16371 | 0 | Jupyter Notebook | 0 | [] |
 | blind-intruder/CVE-2022-1388-RCE-checker | None | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-08 09:29:32+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-1388'] |
