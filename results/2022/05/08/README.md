@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/08
     
-58 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-08 05:06:52+00:00 | 5254 | 3241 | Python | 690 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-08 12:49:39+00:00 | 730430 | 27174 | Ruby | 12213 | [] |
 | clxyify/Decompiled-Sources | Decompiled exploit DLL sources. | https://github.com/clxyify/Decompiled-Sources | ['exploit'] | 1 | 2022-05-08 00:39:21+00:00 | 0 | 0 | C++ | 0 | [] |
+| pawodyk/SV4PP | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | ['exploit'] | 1 | 2022-05-08 09:45:17+00:00 | 24 | 0 | Python | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-08 05:47:04+00:00 | 1437 | 0 | Rust | 0 | [] |
 | Kob123678/KoSploit-VIP | None | https://github.com/Kob123678/KoSploit-VIP | ['sploit'] | 1 | 2022-05-08 10:55:56+00:00 | 2310 | 0 | | 0 | [] |
 | Kob123678/Edit-KoSploit-VIP | None | https://github.com/Kob123678/Edit-KoSploit-VIP | ['sploit'] | 1 | 2022-05-08 10:56:58+00:00 | 27439 | 0 | | 0 | [] |
@@ -20,7 +21,7 @@
 | zerodaycode/zerodaycode.github.io | None | https://github.com/zerodaycode/zerodaycode.github.io | ['zeroday'] | 1 | 2022-05-08 09:38:39+00:00 | 4 | 0 | | 0 | [] |
 | mislavivanda/RF_DamnVulnerableDeFi | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | ['exploit'] | 1 | 2022-05-08 00:55:09+00:00 | 426 | 0 | Solidity | 0 | [] |
 | fuminshen1/phackt | Code from this article: https://blog.rapid7.com/2018/05/03/hiding-metasploit-shellcode-to-evade-windows-defender/ | https://github.com/fuminshen1/phackt | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-05-08 01:53:43+00:00 | 0 | 0 | | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-08 00:23:16+00:00 | 51978 | 301 | Ruby | 87 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-08 05:06:52+00:00 | 5254 | 3241 | Python | 690 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-2 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-2 | ['exploit'] | 1 | 2022-05-08 02:51:58+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-05-08 02:53:03+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-05-08 02:54:11+00:00 | 0 | 0 | | 0 | [] |
@@ -33,10 +34,13 @@
 | gtaharo/Roblox-UI-Template | exploit gui template for roblox. can be used for script hubs and much more, | https://github.com/gtaharo/Roblox-UI-Template | ['exploit'] | 1 | 2022-05-08 08:43:46+00:00 | 0 | 0 | Lua | 0 | [] |
 | HatCS/metasploitable3 | None | https://github.com/HatCS/metasploitable3 | ['metasploit module OR payload'] | 1 | 2022-05-08 09:26:46+00:00 | 0 | 0 | HTML | 0 | [] |
 | blind-intruder/CVE-2022-1388-RCE-checker | None | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-08 09:29:32+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-1388'] |
-| pawodyk/SV4PP | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | ['exploit'] | 1 | 2022-05-08 09:45:17+00:00 | 24 | 0 | Python | 0 | [] |
+| HiimAperson124/MatrixSploit-Hack | MatrixSploit, Welcome to the matrix, User. | https://github.com/HiimAperson124/MatrixSploit-Hack | ['sploit'] | 1 | 2022-05-08 11:18:19+00:00 | 0 | 0 | C# | 0 | [] |
 | NTDXYG/ExploitGen | None | https://github.com/NTDXYG/ExploitGen | ['exploit'] | 1 | 2022-05-08 05:29:54+00:00 | 5 | 0 | Python | 0 | [] |
 | frkngksl/HintInject | A PoC project for embedding shellcode to Hint/Name Table | https://github.com/frkngksl/HintInject | ['shellcode'] | 1 | 2022-05-08 06:06:51+00:00 | 79 | 5 | C++ | 5 | [] |
 | CERTCC/cveClient | A client and library to cve-services 2.x to provide CVE management for CNA and CERTs | https://github.com/CERTCC/cveClient | ['cve-2 OR cve_2'] | 1 | 2022-05-08 02:32:38+00:00 | 59 | 0 | JavaScript | 0 | [] |
+| datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-05-08 03:13:52+00:00 | 14678 | 0 | | 0 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-05-08 12:35:05+00:00 | 72707 | 11445 | Jupyter Notebook | 1957 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-08 00:23:16+00:00 | 51978 | 301 | Ruby | 87 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-08 02:31:59+00:00 | 253300 | 153 | REXX | 15 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-08 02:43:25+00:00 | 674 | 266 | C | 10 | [] |
 | flast101/flast101.github.io | My Infosec Blog - Stay curious ! | https://github.com/flast101/flast101.github.io | ['exploit', 'rce'] | 2 | 2022-05-08 05:38:36+00:00 | 2319 | 1 | | 0 | [] |
@@ -58,8 +62,8 @@
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-08 03:18:03+00:00 | 2612 | 205 | Go | 38 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-08 09:32:16+00:00 | 3571 | 2 | CSS | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-08 11:10:40+00:00 | 539183 | 578 | nan | 124 | [] |
+| EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-05-08 12:38:24+00:00 | 350 | 7 | Python | 1 | [] |
 | YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-05-08 09:38:39+00:00 | 63 | 46 | C | 25 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-08 00:37:10+00:00 | 2783 | 0 | Jupyter Notebook | 0 | [] |
 | sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-08 05:25:32+00:00 | 16371 | 0 | Jupyter Notebook | 0 | [] |
-| datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-05-08 03:13:52+00:00 | 14678 | 0 | | 0 | [] |
-| HiimAperson124/MatrixSploit-Hack | MatrixSploit, Welcome to the matrix, User. | https://github.com/HiimAperson124/MatrixSploit-Hack | ['sploit'] | 1 | 2022-05-08 11:18:19+00:00 | 0 | 0 | C# | 0 | [] |
+| huooosgg/ShellCodeFram | ShellCodeFram | https://github.com/huooosgg/ShellCodeFram | ['shellcode'] | 1 | 2022-05-08 12:12:06+00:00 | 0 | 0 | C++ | 0 | [] |
