@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/08
     
-21 records found after deduplication
+23 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-08 00:23:16+00:00 | 51978 | 301 | Ruby | 87 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-08 00:37:10+00:00 | 2783 | 0 | Jupyter Notebook | 0 | [] |
+| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-05-08 02:54:11+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-05-08 02:53:03+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-2 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-2 | ['exploit'] | 1 | 2022-05-08 02:51:58+00:00 | 0 | 0 | | 0 | [] |
 | fuminshen1/phackt | Code from this article: https://blog.rapid7.com/2018/05/03/hiding-metasploit-shellcode-to-evade-windows-defender/ | https://github.com/fuminshen1/phackt | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-05-08 01:53:43+00:00 | 0 | 0 | | 0 | [] |
@@ -15,8 +16,9 @@
 | Fintheend/dupe | dupe exploit website | https://github.com/Fintheend/dupe | ['exploit'] | 1 | 2022-05-08 03:13:33+00:00 | 3 | 0 | HTML | 0 | [] |
 | CERTCC/cveClient | A client and library to cve-services 2.x to provide CVE management for CNA and CERTs | https://github.com/CERTCC/cveClient | ['cve-2 OR cve_2'] | 1 | 2022-05-08 02:32:38+00:00 | 59 | 0 | JavaScript | 0 | [] |
 | datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-05-08 03:13:52+00:00 | 14678 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-08 01:43:38+00:00 | 58710 | 2699 | | 331 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-08 03:18:03+00:00 | 2612 | 205 | Go | 38 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-08 02:31:59+00:00 | 253300 | 153 | REXX | 15 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-08 01:43:38+00:00 | 58710 | 2699 | | 331 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-08 01:42:09+00:00 | 5206521 | 43 | Python | 7 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-08 02:03:02+00:00 | 1542 | 93 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-08 01:58:47+00:00 | 21169 | 3 | Python | 0 | [] |
@@ -25,4 +27,4 @@
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-05-08 01:30:38+00:00 | 214366 | 258 | C | 49 | [] |
 | itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2022-05-08 02:22:49+00:00 | 58333 | 11 | HTML | 1 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-08 02:43:25+00:00 | 674 | 266 | C | 10 | [] |
-| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-05-08 02:54:11+00:00 | 0 | 0 | | 0 | [] |
+| aRealLuaCoder/aRealLuaCoder.github.io | Help Lua Roblox Exploiter write script | https://github.com/aRealLuaCoder/aRealLuaCoder.github.io | ['exploit'] | 1 | 2022-05-08 03:56:18+00:00 | 0 | 0 | JavaScript | 0 | [] |
