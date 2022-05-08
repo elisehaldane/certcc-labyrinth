@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/07
     
-130 records found after deduplication
+131 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------|
@@ -38,7 +38,7 @@
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-07 22:28:00+00:00 | 1430 | 0 | Rust | 0 | [] |
 | SeanJian09180/exploitagencyu | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/SeanJian09180/exploitagencyu | ['exploit'] | 1 | 2022-05-07 10:30:10+00:00 | 0 | 0 | | 0 | [] |
 | kuznyJan1972/CVE-2022-25075-RCE | CVE-2022-25075 totolink command injection vulnerability | https://github.com/kuznyJan1972/CVE-2022-25075-RCE | ['command injection', 'cve-2 OR cve_2', 'rce'] | 3 | 2022-05-07 11:43:01+00:00 | 0 | 0 | | 0 | ['CVE-2022-25075'] |
-| samyk/pwnat | The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no | https://github.com/samyk/pwnat | ['exploit'] | 1 | 2022-05-07 03:13:58+00:00 | 69 | 2359 | C | 416 | [] |
+| pawodyk/SV4PP | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | ['exploit'] | 1 | 2022-05-07 23:44:44+00:00 | 20 | 0 | Python | 0 | [] |
 | TheAwesome98-Real/shove-exploit | stupid polytoria exploit i did because i am funny | https://github.com/TheAwesome98-Real/shove-exploit | ['exploit'] | 1 | 2022-05-07 12:15:25+00:00 | 0 | 0 | | 0 | [] |
 | LongWayHomie/CVE-2022-27434 | UNIT4 TETA Mobile Edition 29HF13 was discovered to contain a SQL injection vulnerability via the ProfileName parameter in the errorReporting page. | https://github.com/LongWayHomie/CVE-2022-27434 | ['cve-2 OR cve_2'] | 1 | 2022-05-07 22:09:56+00:00 | 0 | 0 | | 0 | ['CVE-2022-27434'] |
 | jr64/CVE-2015-0311 | None | https://github.com/jr64/CVE-2015-0311 | ['cve-2 OR cve_2'] | 1 | 2022-05-07 21:08:27+00:00 | 0 | 0 | ActionScript | 0 | ['CVE-2015-0311'] |
@@ -71,8 +71,8 @@
 | chhajershrenik/github-actions-pocs | GitHub Actions attacks Vulnerable by design. | https://github.com/chhajershrenik/github-actions-pocs | ['attack poc', 'vulnerability poc'] | 2 | 2022-05-07 12:50:19+00:00 | 0 | 0 | nan | 1 | [] |
 | jonatanSh/elf_to_shellcode | Python library to convert elf to shellcodes | https://github.com/jonatanSh/elf_to_shellcode | ['shellcode'] | 1 | 2022-05-07 15:25:20+00:00 | 307 | 0 | Python | 0 | [] |
 | Xeonrx/ExploitTime | Resource/guide list to aid you in vulnerability & exploit gathering | https://github.com/Xeonrx/ExploitTime | ['exploit'] | 1 | 2022-05-07 19:03:35+00:00 | 51 | 0 | | 0 | [] |
-| Smail0x/WebMin-1.920-Exploit-RCE | None | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | ['exploit', 'rce'] | 2 | 2022-05-07 22:34:50+00:00 | 8 | 3 | Python | 0 | [] |
-| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-07 04:05:59+00:00 | 29 | 12 | | 2 | [] |
+| samyk/pwnat | The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no | https://github.com/samyk/pwnat | ['exploit'] | 1 | 2022-05-07 03:13:58+00:00 | 69 | 2359 | C | 416 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-07 01:49:03+00:00 | 1538 | 93 | HTML | 24 | [] |
 | S3cur3Th1sSh1t/SharpImpersonation | A User Impersonation tool - via Token or Shellcode injection | https://github.com/S3cur3Th1sSh1t/SharpImpersonation | ['shellcode'] | 1 | 2022-05-07 15:41:31+00:00 | 416 | 205 | C# | 46 | [] |
 | BinaryDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | ['exploit'] | 1 | 2022-05-07 18:00:07+00:00 | 1660 | 5 | Lua | 3 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2022-05-07 11:19:27+00:00 | 155 | 40 | Python | 6 | [] |
@@ -103,9 +103,10 @@
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-07 02:06:54+00:00 | 1041 | 0 | Python | 11 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-07 05:05:33+00:00 | 5243 | 3239 | Python | 690 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-07 01:47:00+00:00 | 19313 | 3 | Python | 0 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-07 01:49:03+00:00 | 1538 | 93 | HTML | 24 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2022-05-07 07:36:23+00:00 | 432 | 91 | JavaScript | 54 | [] |
-| HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-07 10:12:44+00:00 | 3566 | 2 | CSS | 0 | [] |
+| Smail0x/WebMin-1.920-Exploit-RCE | None | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | ['exploit', 'rce'] | 2 | 2022-05-07 22:34:50+00:00 | 8 | 3 | Python | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-07 01:24:25+00:00 | 5172508 | 43 | Python | 7 | [] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-07 04:05:59+00:00 | 29 | 12 | | 2 | [] |
 | frkngksl/HintInject | A PoC project for embedding shellcode to Hint/Name Table | https://github.com/frkngksl/HintInject | ['shellcode'] | 1 | 2022-05-07 19:39:06+00:00 | 79 | 1 | C++ | 0 | [] |
 | alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-05-07 13:35:22+00:00 | 28 | 0 | Lua | 0 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-05-07 18:45:32+00:00 | 295 | 1 | Shell | 1 | [] |
@@ -119,8 +120,8 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-05-07 15:00:48+00:00 | 178707 | 1 | Python | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-07 03:50:41+00:00 | 17388 | 0 | | 0 | [] |
 | Erlemorgaine/art-of-exploitation | None | https://github.com/Erlemorgaine/art-of-exploitation | ['exploit'] | 1 | 2022-05-07 08:33:06+00:00 | 19 | 0 | C | 0 | [] |
+| HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-07 10:12:44+00:00 | 3566 | 2 | CSS | 0 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-07 09:29:41+00:00 | 2507 | 199 | Go | 37 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-07 01:24:25+00:00 | 5172508 | 43 | Python | 7 | [] |
 | ren-u/notes | Hi! We are ad.zeroday and renzd from REN-U. We know the struggle of writing notes, So we created this website + We are toppers so all the notes are right. (Not a nerd) | https://github.com/ren-u/notes | ['zeroday'] | 1 | 2022-05-07 07:44:25+00:00 | 105 | 0 | HTML | 0 | [] |
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-05-07 00:27:42+00:00 | 38160 | 0 | Lua | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-07 02:12:08+00:00 | 54829 | 2695 | | 329 | [] |
