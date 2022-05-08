@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#37,1.00000000,https://github.com/RapidoBuzz/RhyteredExploitAPI,RapidoBuzz/RhyteredExploitAPI,459694007
+VU#37,0.50000000,https://github.com/zerodaycode/zerodaycode.github.io,zerodaycode/zerodaycode.github.io,489750030
 VU#37,0.50000000,https://github.com/krishnaprasadh/Online-MSF-Backdoor,krishnaprasadh/Online-MSF-Backdoor,483250320
 VU#37,0.50000000,https://github.com/Neluve/Trainer,Neluve/Trainer,454550532
 VU#37,0.50000000,https://github.com/one2blame/the-dark-arts,one2blame/the-dark-arts,439673110
@@ -89,6 +90,7 @@ VU#37,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnee
 VU#37,0.00806452,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#37,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#37,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#37,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#37,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#37,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#37,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
