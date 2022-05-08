@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/08
     
-24 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-08 00:23:16+00:00 | 51978 | 301 | Ruby | 87 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-08 02:31:59+00:00 | 253300 | 153 | REXX | 15 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-08 05:06:52+00:00 | 5254 | 3241 | Python | 690 | [] |
+| sitiporn/Few-shot-user-intent-detection | This repo will exploit many state of art of few shot detection to classify user intent | https://github.com/sitiporn/Few-shot-user-intent-detection | ['exploit'] | 1 | 2022-05-08 05:25:32+00:00 | 16371 | 0 | Jupyter Notebook | 0 | [] |
 | aRealLuaCoder/aRealLuaCoder.github.io | Help Lua Roblox Exploiter write script | https://github.com/aRealLuaCoder/aRealLuaCoder.github.io | ['exploit'] | 1 | 2022-05-08 03:56:18+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-05-08 02:54:11+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-05-08 02:53:03+00:00 | 0 | 0 | | 0 | [] |
@@ -15,9 +15,12 @@
 | clxyify/Decompiled-Sources | Decompiled exploit DLL sources. | https://github.com/clxyify/Decompiled-Sources | ['exploit'] | 1 | 2022-05-08 00:39:21+00:00 | 0 | 0 | C++ | 0 | [] |
 | mislavivanda/RF_DamnVulnerableDeFi | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | ['exploit'] | 1 | 2022-05-08 00:55:09+00:00 | 426 | 0 | Solidity | 0 | [] |
 | Fintheend/dupe | dupe exploit website | https://github.com/Fintheend/dupe | ['exploit'] | 1 | 2022-05-08 03:13:33+00:00 | 3 | 0 | HTML | 0 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-08 05:47:04+00:00 | 1437 | 0 | Rust | 0 | [] |
+| NTDXYG/ExploitGen | None | https://github.com/NTDXYG/ExploitGen | ['exploit'] | 1 | 2022-05-08 05:29:54+00:00 | 5 | 0 | Python | 0 | [] |
 | CERTCC/cveClient | A client and library to cve-services 2.x to provide CVE management for CNA and CERTs | https://github.com/CERTCC/cveClient | ['cve-2 OR cve_2'] | 1 | 2022-05-08 02:32:38+00:00 | 59 | 0 | JavaScript | 0 | [] |
 | datechies/Exploit | None | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-05-08 03:13:52+00:00 | 14678 | 0 | | 0 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-08 00:37:10+00:00 | 2783 | 0 | Jupyter Notebook | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-08 00:23:16+00:00 | 51978 | 301 | Ruby | 87 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-08 03:18:03+00:00 | 2612 | 205 | Go | 38 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-08 01:43:38+00:00 | 58710 | 2699 | | 331 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-08 01:42:09+00:00 | 5206521 | 43 | Python | 7 | [] |
@@ -27,5 +30,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-08 00:04:08+00:00 | 511239 | 55 | | 21 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-05-08 01:30:38+00:00 | 214366 | 258 | C | 49 | [] |
 | itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2022-05-08 02:22:49+00:00 | 58333 | 11 | HTML | 1 | [] |
+| flast101/flast101.github.io | My Infosec Blog - Stay curious ! | https://github.com/flast101/flast101.github.io | ['exploit', 'rce'] | 2 | 2022-05-08 05:38:36+00:00 | 2319 | 1 | | 0 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-08 02:43:25+00:00 | 674 | 266 | C | 10 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-08 02:31:59+00:00 | 253300 | 153 | REXX | 15 | [] |
 | WordReaper/word-bomb | lego game exploit | https://github.com/WordReaper/word-bomb | ['exploit'] | 1 | 2022-05-08 04:10:31+00:00 | 0 | 0 | Lua | 0 | [] |
