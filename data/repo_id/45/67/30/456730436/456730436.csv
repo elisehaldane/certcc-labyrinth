@@ -68,7 +68,7 @@ repo_id,repo_full_name,file,file_sha1,match
 456730436,Threekiii/Awesome-Redteam,docs/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2019-8449
 456730436,Threekiii/Awesome-Redteam,docs/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2019-2615
 456730436,Threekiii/Awesome-Redteam,docs/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2019-2618
-456730436,Threekiii/Awesome-Redteam,README.md,92355405a617b56c3a4ea4769dbad52ac40d20d2,CVE-2021-44228
+456730436,Threekiii/Awesome-Redteam,README.md,89b38036492621c69c601ab9be445a4fbbb0fd09,CVE-2021-44228
 456730436,Threekiii/Awesome-Redteam,tips/常用命令速查.md,dacda83f39a2437cb1c1961bade12d3255815d77,MS08-067
 456730436,Threekiii/Awesome-Redteam,tips/常用命令速查.md,dacda83f39a2437cb1c1961bade12d3255815d77,CVE-2018-8440
 456730436,Threekiii/Awesome-Redteam,tips/常用命令速查.md,dacda83f39a2437cb1c1961bade12d3255815d77,CVE-2018-8120
