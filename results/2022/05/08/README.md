@@ -60,7 +60,7 @@
 | svrohith9/Penetration-testing | Simple hacks, exploits and more. | https://github.com/svrohith9/Penetration-testing | ['exploit'] | 1 | 2022-05-08 16:22:41+00:00 | 0 | 0 | | 0 | [] |
 | redhat-appstudio-appdata/blue-dolphin-pdave-accept-exploit | GitOps Repository | https://github.com/redhat-appstudio-appdata/blue-dolphin-pdave-accept-exploit | ['exploit'] | 1 | 2022-05-08 15:41:37+00:00 | 0 | 0 | | 0 | [] |
 | Diazole/ombi-poc-exploit | Ombi unauthenticated path traversal PoC exploit | https://github.com/Diazole/ombi-poc-exploit | ['exploit'] | 1 | 2022-05-08 15:31:28+00:00 | 0 | 0 | | 0 | [] |
-| Altelus1/CVE-2022-24734 | None | https://github.com/Altelus1/CVE-2022-24734 | ['cve-2 OR cve_2'] | 1 | 2022-05-08 15:23:46+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-24734'] |
+| Altelus1/CVE-2022-24734 | None | https://github.com/Altelus1/CVE-2022-24734 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-08 15:23:46+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-24734'] |
 | seciurdt/CVE-2022-26809-POC | CVE-2022-26809 _ is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows | https://github.com/seciurdt/CVE-2022-26809-POC | ['cve poc', 'cve-2 OR cve_2', 'remote code execution', 'vulnerability poc'] | 4 | 2022-05-08 15:40:54+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | Kob123678/KoSploit-VIP | None | https://github.com/Kob123678/KoSploit-VIP | ['sploit'] | 1 | 2022-05-08 10:55:56+00:00 | 2310 | 0 | | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-08 05:47:04+00:00 | 1437 | 0 | Rust | 0 | [] |

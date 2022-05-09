@@ -54,7 +54,7 @@ IMaWeeb300/My-Roblox-Exploits,self-explanatory,https://github.com/IMaWeeb300/My-
 svrohith9/Penetration-testing,"Simple hacks, exploits and more.",https://github.com/svrohith9/Penetration-testing,['exploit'],1,2022-05-08T16:22:41+0000,0,0,,0,[]
 redhat-appstudio-appdata/blue-dolphin-pdave-accept-exploit,GitOps Repository,https://github.com/redhat-appstudio-appdata/blue-dolphin-pdave-accept-exploit,['exploit'],1,2022-05-08T15:41:37+0000,0,0,,0,[]
 Diazole/ombi-poc-exploit,Ombi unauthenticated path traversal PoC exploit,https://github.com/Diazole/ombi-poc-exploit,['exploit'],1,2022-05-08T15:31:28+0000,0,0,,0,[]
-Altelus1/CVE-2022-24734,None,https://github.com/Altelus1/CVE-2022-24734,['cve-2 OR cve_2'],1,2022-05-08T15:23:46+0000,0,0,Python,0,['CVE-2022-24734']
+Altelus1/CVE-2022-24734,None,https://github.com/Altelus1/CVE-2022-24734,"['cve poc', 'cve-2 OR cve_2']",2,2022-05-08T15:23:46+0000,0,0,Python,0,['CVE-2022-24734']
 seciurdt/CVE-2022-26809-POC,CVE-2022-26809   _  is a  remote code execution vulnerablity in rpc runtime and affects a wide versions of windows ,https://github.com/seciurdt/CVE-2022-26809-POC,"['cve poc', 'cve-2 OR cve_2', 'remote code execution', 'vulnerability poc']",4,2022-05-08T15:40:54+0000,0,0,,0,['CVE-2022-26809']
 Kob123678/KoSploit-VIP,None,https://github.com/Kob123678/KoSploit-VIP,['sploit'],1,2022-05-08T10:55:56+0000,2310,0,,0,[]
 budde25/switcheroo,"A cross platform, rust implementation for the Tegra X1 bootROM exploit ",https://github.com/budde25/switcheroo,['exploit'],1,2022-05-08T05:47:04+0000,1437,0,Rust,0,[]
