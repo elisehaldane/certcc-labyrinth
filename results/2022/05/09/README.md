@@ -1,12 +1,11 @@
 
 # Summary for results/2022/05/09
     
-41 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-09 01:35:55+00:00 | 3147 | 2668 | PowerShell | 748 | [] |
-| Hephzibah56/Capstone | This repository will have my finla year capstone projects. Excellence and Divince grace to do exploits. | https://github.com/Hephzibah56/Capstone | ['exploit'] | 1 | 2022-05-09 02:01:04+00:00 | 285029 | 0 | Python | 0 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-09 00:29:24+00:00 | 304753 | 0 | Python | 0 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-05-09 01:25:28+00:00 | 446 | 1 | C | 0 | [] |
 | ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | ['0day', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 6 | 2022-05-09 02:07:11+00:00 | 3 | 1 | Python | 1 | ['CVE-2021-44228'] |
@@ -16,6 +15,7 @@
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-09 00:43:35+00:00 | 1576 | 0 | Rust | 0 | [] |
 | ExploitPwner/Totolink-CVE-2022-Exploits | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits | ['0day', 'command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 8 | 2022-05-09 02:27:47+00:00 | 1 | 1 | | 0 | [] |
 | OTAKKATO/ZeroDiscord | A collection of Discord hacks & exploits that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | ['exploit'] | 1 | 2022-05-09 02:45:25+00:00 | 35 | 6 | JavaScript | 3 | [] |
+| Axx8/Bypass_AV | Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&火绒&Windows Defender | https://github.com/Axx8/Bypass_AV | ['shellcode'] | 1 | 2022-05-09 05:45:55+00:00 | 9729 | 20 | Python | 3 | [] |
 | Exploitables/AMD-uProf-0day-LPE | I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it. | https://github.com/Exploitables/AMD-uProf-0day-LPE | ['0day', 'exploit'] | 2 | 2022-05-09 01:14:29+00:00 | 630 | 0 | C | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | ['exploit'] | 1 | 2022-05-09 00:14:14+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | ['exploit'] | 1 | 2022-05-09 00:15:57+00:00 | 0 | 0 | | 0 | [] |
@@ -24,10 +24,12 @@
 | HUST-NingKang-Lab/EXPERT-Disease-GGMP | Application of transfer learning to exceed the regional limitations and exploit the potential of microbial-based cross-regional diagnosis of diseases. Application of transfer learning to exceed the regional limitations and exploit the potential of microbi | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | ['exploit'] | 1 | 2022-05-09 02:25:42+00:00 | 0 | 0 | | 0 | [] |
 | Hudi233/CVE-2022-1388 | None | https://github.com/Hudi233/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-09 03:35:31+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-1388'] |
 | ljwwwiop/unsupervised_reid | This is the code repository for the paper "Exploiting Robust Memory Features for Unsupervised Reidentification". | https://github.com/ljwwwiop/unsupervised_reid | ['exploit'] | 1 | 2022-05-09 03:56:35+00:00 | 0 | 0 | | 0 | [] |
+| jamieahelmke/Vortrag-Exploits-Backdoors | Kurzer Vortrag für die Berufsschule | https://github.com/jamieahelmke/Vortrag-Exploits-Backdoors | ['exploit'] | 1 | 2022-05-09 04:50:43+00:00 | 0 | 0 | Shell | 0 | [] |
+| kh-elbrus/learn-exploit-cve | 💛 Learning how to exploit the popular CVE | https://github.com/kh-elbrus/learn-exploit-cve | ['exploit'] | 1 | 2022-05-09 05:01:36+00:00 | 0 | 0 | | 0 | [] |
+| CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc', 'vulnerability poc'] | 2 | 2022-05-09 05:48:51+00:00 | 2134 | 7 | Python | 1 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-09 01:04:47+00:00 | 265 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-09 01:51:20+00:00 | 62834 | 2701 | nan | 331 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-09 00:23:42+00:00 | 51978 | 301 | Ruby | 87 | [] |
-| 0zBug/HookingService | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | ['exploit'] | 1 | 2022-05-09 00:16:37+00:00 | 1 | 0 | Lua | 0 | [] |
+| Hephzibah56/Capstone | This repository will have my finla year capstone projects. Excellence and Divince grace to do exploits. | https://github.com/Hephzibah56/Capstone | ['exploit'] | 1 | 2022-05-09 02:01:04+00:00 | 285029 | 0 | Python | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-09 02:31:59+00:00 | 260257 | 154 | REXX | 15 | [] |
 | hugsy/pwn-- | A (toy) Windows & Linux pwn library to play with modern C++. | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-05-09 03:23:17+00:00 | 611 | 64 | C++ | 5 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2022-05-09 02:19:48+00:00 | 251281 | 1130 | Shell | 259 | [] |
@@ -45,4 +47,6 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-09 01:46:47+00:00 | 5246736 | 43 | Python | 7 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-09 03:54:46+00:00 | 7412 | 2745 | TypeScript | 392 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-05-09 00:34:45+00:00 | 11463 | 268 | Ruby | 32 | [] |
-| jamieahelmke/Vortrag-Exploits-Backdoors | Kurzer Vortrag für die Berufsschule | https://github.com/jamieahelmke/Vortrag-Exploits-Backdoors | ['exploit'] | 1 | 2022-05-09 04:50:43+00:00 | 0 | 0 | Shell | 0 | [] |
+| 0zBug/HookingService | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | ['exploit'] | 1 | 2022-05-09 00:16:37+00:00 | 1 | 0 | Lua | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-09 01:51:20+00:00 | 62834 | 2701 | | 331 | [] |
+| KurusuSenri/cruddy_fusion_solution | Solutions of Exploit.Education Fusion (script backup) | https://github.com/KurusuSenri/cruddy_fusion_solution | ['exploit'] | 1 | 2022-05-09 05:37:55+00:00 | 0 | 0 | Ruby | 0 | [] |
