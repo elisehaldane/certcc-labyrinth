@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/09
     
-58 records found after deduplication
+63 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-09 01:35:55+00:00 | 3147 | 2668 | PowerShell | 748 | [] |
-| OTAKKATO/ZeroDiscord | A collection of Discord hacks & exploits that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | ['exploit'] | 1 | 2022-05-09 02:45:25+00:00 | 35 | 6 | JavaScript | 3 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-09 08:41:17+00:00 | 46099 | 864 | Python | 205 | [] |
+| Kob123678/Edit-KoSploit-VIP | None | https://github.com/Kob123678/Edit-KoSploit-VIP | ['sploit'] | 1 | 2022-05-09 07:07:15+00:00 | 43300 | 0 | | 0 | [] |
+| almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-09 00:29:24+00:00 | 304753 | 0 | Python | 0 | [] |
 | CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc', 'vulnerability poc'] | 2 | 2022-05-09 05:48:51+00:00 | 2134 | 7 | Python | 1 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-05-09 01:25:28+00:00 | 446 | 1 | C | 0 | [] |
 | Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-05-09 07:15:16+00:00 | 319 | 1 | Java | 0 | [] |
@@ -17,10 +18,11 @@
 | DeEpinGh0st/CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | ['cve-2 OR cve_2'] | 1 | 2022-05-09 02:28:45+00:00 | 50 | 4 | Python | 1 | ['CVE-2022-28346'] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-09 00:43:35+00:00 | 1576 | 0 | Rust | 0 | [] |
 | ExploitPwner/Totolink-CVE-2022-Exploits | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits | ['0day', 'command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 8 | 2022-05-09 02:27:47+00:00 | 1 | 1 | | 0 | [] |
+| numanturle/CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-09 08:50:31+00:00 | 66 | 17 | | 7 | ['CVE-2022-1388'] |
 | Kob123678/KoSploit-VIP | None | https://github.com/Kob123678/KoSploit-VIP | ['sploit'] | 1 | 2022-05-09 07:00:22+00:00 | 2310 | 0 | | 0 | [] |
-| Kob123678/Edit-KoSploit-VIP | None | https://github.com/Kob123678/Edit-KoSploit-VIP | ['sploit'] | 1 | 2022-05-09 07:07:15+00:00 | 43300 | 0 | | 0 | [] |
+| OTAKKATO/ZeroDiscord | A collection of Discord hacks & exploits that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | ['exploit'] | 1 | 2022-05-09 02:45:25+00:00 | 35 | 6 | JavaScript | 3 | [] |
+| KurusuSenri/cruddy_protostar_solution | Solutions of Exploit.Education Protostar (script backup) | https://github.com/KurusuSenri/cruddy_protostar_solution | ['exploit'] | 1 | 2022-05-09 05:51:34+00:00 | 50 | 0 | Ruby | 0 | [] |
 | Axx8/Bypass_AV | Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&火绒&Windows Defender | https://github.com/Axx8/Bypass_AV | ['shellcode'] | 1 | 2022-05-09 05:45:55+00:00 | 9729 | 20 | Python | 3 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-09 06:00:36+00:00 | 5349 | 3243 | Python | 691 | [] |
 | Exploitables/AMD-uProf-0day-LPE | I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it. | https://github.com/Exploitables/AMD-uProf-0day-LPE | ['0day', 'exploit'] | 2 | 2022-05-09 01:14:29+00:00 | 630 | 0 | C | 0 | [] |
 | enty8080/HatSploit-API | HatSploit API examples of using HatSploit outside CLI. | https://github.com/enty8080/HatSploit-API | ['sploit'] | 1 | 2022-05-09 06:41:31+00:00 | 2 | 0 | Python | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | ['exploit'] | 1 | 2022-05-09 00:14:14+00:00 | 0 | 0 | | 0 | [] |
@@ -33,10 +35,11 @@
 | jamieahelmke/Vortrag-Exploits-Backdoors | Kurzer Vortrag für die Berufsschule | https://github.com/jamieahelmke/Vortrag-Exploits-Backdoors | ['exploit'] | 1 | 2022-05-09 04:50:43+00:00 | 0 | 0 | Shell | 0 | [] |
 | kh-elbrus/learn-exploit-cve | 💛 Learning how to exploit the popular CVE | https://github.com/kh-elbrus/learn-exploit-cve | ['exploit'] | 1 | 2022-05-09 05:01:36+00:00 | 0 | 0 | | 0 | [] |
 | KurusuSenri/cruddy_fusion_solution | Solutions of Exploit.Education Fusion (script backup) | https://github.com/KurusuSenri/cruddy_fusion_solution | ['exploit'] | 1 | 2022-05-09 05:37:55+00:00 | 0 | 0 | Ruby | 0 | [] |
-| almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-09 00:29:24+00:00 | 304753 | 0 | Python | 0 | [] |
-| KurusuSenri/cruddy_protostar_solution | Solutions of Exploit.Education Protostar (script backup) | https://github.com/KurusuSenri/cruddy_protostar_solution | ['exploit'] | 1 | 2022-05-09 05:51:34+00:00 | 50 | 0 | Ruby | 0 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-09 01:04:47+00:00 | 265 | 0 | | 0 | [] |
-| Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-05-09 07:29:27+00:00 | 3091 | 200 | | 38 | [] |
+| Zipen999/sae-2.04 | Exploitation Base de donnée | https://github.com/Zipen999/sae-2.04 | ['exploit'] | 1 | 2022-05-09 08:39:37+00:00 | 7977 | 2 | Python | 0 | [] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-05-09 07:51:03+00:00 | 171 | 81 | nan | 10 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-09 01:35:55+00:00 | 3147 | 2668 | PowerShell | 748 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-05-09 07:02:23+00:00 | 229191 | 0 | JavaScript | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-09 06:00:36+00:00 | 5313 | 3243 | Python | 691 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-09 06:20:18+00:00 | 1052 | 0 | Python | 11 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-09 00:23:42+00:00 | 51978 | 301 | Ruby | 87 | [] |
 | Qufity/qufity.github.io | TRX | https://github.com/Qufity/qufity.github.io | ['exploit'] | 1 | 2022-05-09 07:18:40+00:00 | 857 | 0 | HTML | 0 | [] |
@@ -49,17 +52,19 @@
 | lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-05-09 00:22:48+00:00 | 81530 | 997 | Go | 164 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-05-09 03:31:34+00:00 | 317495 | 9 | | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-09 00:02:34+00:00 | 174757 | 399 | Python | 118 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-05-09 07:02:23+00:00 | 229191 | 0 | JavaScript | 0 | [] |
 | edgarluck/Instalador-Metasploit | Script hecho en bash, Descarga Metasploit en Termux | https://github.com/edgarluck/Instalador-Metasploit | ['metasploit module OR payload'] | 1 | 2022-05-09 02:41:55+00:00 | 94 | 3 | | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-09 01:04:47+00:00 | 265 | 0 | | 0 | [] |
 | richie0866/rbxm-suite | Tool designed for exploiting with a Rojo-based workflow | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-05-09 01:49:50+00:00 | 189 | 8 | Lua | 2 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-09 02:01:02+00:00 | 22855 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-09 02:04:14+00:00 | 1600 | 93 | HTML | 24 | [] |
 | SQLab/CRAXplusplus | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-09 03:00:06+00:00 | 2886 | 48 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-09 01:46:47+00:00 | 5246736 | 43 | Python | 7 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-09 03:54:46+00:00 | 7412 | 2745 | TypeScript | 392 | [] |
+| ca3tie1/ExploitDepository | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | ['exploit'] | 1 | 2022-05-09 08:16:25+00:00 | 19329 | 50 | Python | 4 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-05-09 00:34:45+00:00 | 11463 | 268 | Ruby | 32 | [] |
 | 0zBug/HookingService | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | ['exploit'] | 1 | 2022-05-09 00:16:37+00:00 | 1 | 0 | Lua | 0 | [] |
 | DS1NC-DesConnet/EvilMC | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | ['exploit'] | 1 | 2022-05-09 06:22:29+00:00 | 1333 | 7 | JavaScript | 3 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-09 01:51:20+00:00 | 62834 | 2701 | | 331 | [] |
 | Hephzibah56/Capstone | This repository will have my finla year capstone projects. Excellence and Divince grace to do exploits. | https://github.com/Hephzibah56/Capstone | ['exploit'] | 1 | 2022-05-09 02:01:04+00:00 | 285029 | 0 | Python | 0 | [] |
-| sherlocksecurity/CVE-2022-1388_F5_BIG-IP | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-09 07:45:53+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
+| Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-05-09 07:29:27+00:00 | 3091 | 200 | | 38 | [] |
+| sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-05-09 08:21:00+00:00 | 6 | 2 | | 0 | ['CVE-2022-1388'] |
