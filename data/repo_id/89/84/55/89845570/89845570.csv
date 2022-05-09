@@ -14,8 +14,8 @@ repo_id,repo_full_name,file,file_sha1,match
 89845570,hacktoolspack/hack-tools,VulScritp/nagios/nagios_cmd_injection.py,3164a7b7da5b8645166d09b470d232da166e25f5,CVE-2016-9565
 89845570,hacktoolspack/hack-tools,CAT bêta.exe,3461670b44ee316d24aa42a2a331f17ac556b8bc,VU#92
 89845570,hacktoolspack/hack-tools,CAT bêta.exe,3461670b44ee316d24aa42a2a331f17ac556b8bc,VU#87
-89845570,hacktoolspack/hack-tools,pentestly-master/scripts/Invoke-Mimikatz.ps1,392f9df4713f38f27e398a482ca0dfdd9b284fb4,VU#66
-89845570,hacktoolspack/hack-tools,pentestly-master/scripts/about.html,392f9df4713f38f27e398a482ca0dfdd9b284fb4,VU#41
+89845570,hacktoolspack/hack-tools,pentestly-master/scripts/about.html,392f9df4713f38f27e398a482ca0dfdd9b284fb4,VU#66
+89845570,hacktoolspack/hack-tools,pentestly-master/scripts/Invoke-Mimikatz.ps1,392f9df4713f38f27e398a482ca0dfdd9b284fb4,VU#41
 89845570,hacktoolspack/hack-tools,nikto/program/plugins/nikto_strutshock.plugin,44709a1ddcbece1a2d836b01664158167cd692d9,CVE-2017-5638
 89845570,hacktoolspack/hack-tools,nikto/program/docs/manual.xml,44b853ceda29de13f3e016c6d4e8b1e82d1192c5,OSVDB-3092
 89845570,hacktoolspack/hack-tools,VulScritp/crack/mod_session_crypto_exploit.py,46a237c94be4dcf0c9fa6bef298e623ae9f49ff0,CVE-2016-0736
