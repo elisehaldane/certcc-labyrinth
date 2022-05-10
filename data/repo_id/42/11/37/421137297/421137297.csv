@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 421137297,TG-Coder101/Lumberjack,lumberjack.py,319c60236469f7ae858a23228d7a8586701d21c0,CVE-2020-1472
 421137297,TG-Coder101/Lumberjack,lumberjack.py,319c60236469f7ae858a23228d7a8586701d21c0,CVE-2021-42287
-421137297,TG-Coder101/Lumberjack,README.md,31e4592efccdcdedcb6060f4e1a309d2c3897b2b,CVE-2020-1472
+421137297,TG-Coder101/Lumberjack,README.md,a7a6e7c2f0fe7005c0fa3d253d5014ed0fd304cf,CVE-2020-1472
