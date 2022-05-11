@@ -31,7 +31,7 @@ repo_id,repo_full_name,file,file_sha1,match
 358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/wasdepend.jar,c10ba7d094887712e12fd83668732dcdaadcaa08,VU#04
 358441284,Bin4xin/bigger-than-bigger,CoVV/Inspur Cluster Engine v4/README.MD,cc0a546ffa7b30b6036b84eb1ddc6d5c8eb969d7,CNVD-2021-39845
 358441284,Bin4xin/bigger-than-bigger,CoVV/ApacheSolr/README.MD,d2d6bd0582dfc53045e5d3c1ae046ad704ff386f,CVE-2019-0193
-358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/cookie_generater.sh,da25c5aef7007914ef85e11ecbf61c67bacf6a09,CVE-2020-10977
+358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/cookie_generater.sh,d55a0f3bf2d73cf0f143c8a65dfe1ec87fef743d,CVE-2020-10977
+358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/color_print_fun.sh,d5ae4f2aab91b39aecd430638884201fd2b90ffc,CVE-2020-10977
 358441284,Bin4xin/bigger-than-bigger,CoVV/README.MD,da7a15d393b7588402b11be4c64b35c3d10fb9db,CVE-2021-3560
 358441284,Bin4xin/bigger-than-bigger,CoVV/README.MD,da7a15d393b7588402b11be4c64b35c3d10fb9db,CVE-2019-0193
-358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/color_print_fun.sh,f69ab12c0b8e8c2401412161fb07d65488fbd10e,CVE-2020-10977
