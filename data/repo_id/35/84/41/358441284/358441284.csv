@@ -6,6 +6,7 @@ repo_id,repo_full_name,file,file_sha1,match
 358441284,Bin4xin/bigger-than-bigger,WALL_LISTS/lists.txt,0afe9ecd4dfdea93f85d805ce8560a49b0336fbf,VU#29
 358441284,Bin4xin/bigger-than-bigger,WALL_LISTS/lists.txt,0afe9ecd4dfdea93f85d805ce8560a49b0336fbf,VU#24
 358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/ncdepend.jar,0cace1032273ca2dca64f8eadf665b860a9d9bee,VU#22
+358441284,Bin4xin/bigger-than-bigger,CoVV/Gitlab/CVE-2020-10977/README.MD,2339d14641ef3c0327471182d614e3d9824661d8,CVE-2020-10977
 358441284,Bin4xin/bigger-than-bigger,CoVV/polkit-CVE-2021-3560/README.MD,2ee873d4c7b1b1c0512b154a02165cd79be2860a,CVE-2021-3560
 358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/log.jar,381dcfe31e742a36e1496b99f01518fc419941dd,VU#40
 358441284,Bin4xin/bigger-than-bigger,yonyou-nc6.5-lib/libsigar-pa-hpux-11.sl,4015dbf8b7f210891d875ba1fa304e612ee36d3d,VU#15
