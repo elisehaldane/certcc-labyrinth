@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/10
     
-173 records found after deduplication
+174 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------------------------|
@@ -27,7 +27,7 @@
 | hou5/CVE-2022-1388 | None | https://github.com/hou5/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 07:37:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
 | superzerosec/CVE-2022-1388 | CVE-2022-1388 POC exploit | https://github.com/superzerosec/CVE-2022-1388 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-10 04:53:23+00:00 | 2 | 0 | Python | 0 | ['CVE-2022-1388'] |
 | Pear1y/CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 06:18:39+00:00 | 157 | 4 | Python | 3 | ['CVE-2022-26133'] |
-| C0nneR/My_Windows_Exploits | My scripts organized according to MITRE ATT&CK Windows enterprise matrix. | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-10 13:16:48+00:00 | 8 | 0 | C++ | 0 | [] |
+| LinJacck/CVE-2022-1388-EXP | CVE-2022-1388-EXP可批量实现攻击 | https://github.com/LinJacck/CVE-2022-1388-EXP | ['cve-2 OR cve_2'] | 1 | 2022-05-10 08:14:49+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-05-10 02:50:30+00:00 | 20 | 8 | Python | 3 | [] |
 | XutaxKamay/scgen | Shellcode generator using C++ with uninitialized/initialized data possible. | https://github.com/XutaxKamay/scgen | ['shellcode'] | 1 | 2022-05-10 03:24:26+00:00 | 33 | 3 | C++ | 1 | [] |
 | jtvsdeo/popular-exploit-demos | Hackthebox, Tryhackme and popular vulnerabilities' exploit demos | https://github.com/jtvsdeo/popular-exploit-demos | ['exploit'] | 1 | 2022-05-10 15:37:13+00:00 | 1740 | 0 | Python | 0 | [] |
@@ -48,10 +48,10 @@
 | alt3kx/CVE-2022-1388_PoC | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-05-10 15:50:03+00:00 | 19 | 37 | | 7 | ['CVE-2022-1388'] |
 | bluecrypt47/Command-Injection | None | https://github.com/bluecrypt47/Command-Injection | ['command injection'] | 1 | 2022-05-10 04:20:52+00:00 | 110 | 0 | PHP | 0 | [] |
 | volkandindar/exploit | None | https://github.com/volkandindar/exploit | ['exploit'] | 1 | 2022-05-10 07:42:28+00:00 | 0 | 0 | | 0 | [] |
-| LinJacck/CVE-2022-1388-EXP | CVE-2022-1388-EXP可批量实现攻击 | https://github.com/LinJacck/CVE-2022-1388-EXP | ['cve-2 OR cve_2'] | 1 | 2022-05-10 08:14:49+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | iveresk/cve-2022-1388-1veresk | Simple shell script for the exploit | https://github.com/iveresk/cve-2022-1388-1veresk | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-10 08:31:00+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-1388'] |
+| xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-05-10 14:50:53+00:00 | 3330 | 314 | HTML | 111 | [] |
 | gerr-re/cve-2022-28944 | None | https://github.com/gerr-re/cve-2022-28944 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 17:54:13+00:00 | 0 | 0 | | 0 | ['CVE-2022-28944'] |
-| aodsec/CVE-2022-1388-PocExp | CVE-2022-1388-PocExp,新增了多线程 | https://github.com/aodsec/CVE-2022-1388-PocExp | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-05-10 15:46:14+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-1388'] |
+| Pa4ok/SerializeExploitMod | None | https://github.com/Pa4ok/SerializeExploitMod | ['exploit'] | 1 | 2022-05-10 16:00:59+00:00 | 97882 | 0 | Java | 0 | [] |
 | cecinuga/ExploitedContracts | Exploit for Smart Contracts | https://github.com/cecinuga/ExploitedContracts | ['exploit'] | 1 | 2022-05-10 15:59:29+00:00 | 0 | 0 | | 0 | [] |
 | iveresk/cve-2021-43008-1vere-k | An unauthenticated attacker can send an HTTP request with an "Accept-Encoding" HTTP request header triggering a double free in the unknown coding-list inside the HTTP Protocol Stack (http.sys) to process packets, resulting in a kernel crash. | https://github.com/iveresk/cve-2021-43008-1vere-k | ['cve-2 OR cve_2'] | 1 | 2022-05-10 16:00:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-43008'] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-3 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-3 | ['exploit'] | 1 | 2022-05-10 16:12:35+00:00 | 0 | 0 | | 0 | [] |
@@ -60,7 +60,7 @@
 | sprushed/CVE-2022-30292 | None | https://github.com/sprushed/CVE-2022-30292 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 16:39:01+00:00 | 0 | 0 | | 0 | ['CVE-2022-30292'] |
 | san3ncrypt3d/crtcon | This is a wrapper script to enumerate subdomain from crts, and dump domain information into /Domain folder in a txt file which can be used for further exploitation | https://github.com/san3ncrypt3d/crtcon | ['exploit'] | 1 | 2022-05-10 17:42:26+00:00 | 0 | 0 | Shell | 0 | [] |
 | cryptdacat/burner | Burner is a irz router based exploit made in v. | https://github.com/cryptdacat/burner | ['exploit'] | 1 | 2022-05-10 18:16:52+00:00 | 0 | 0 | V | 0 | [] |
-| shamo0/CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/shamo0/CVE-2022-1388 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2022-05-10 08:49:33+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
+| HonbraDev/dupe | [malicious] dupe exploit website | https://github.com/HonbraDev/dupe | ['exploit'] | 1 | 2022-05-10 15:38:51+00:00 | 39 | 0 | | 0 | [] |
 | Diler-Linux/termux-metasploit | None | https://github.com/Diler-Linux/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-10 18:25:06+00:00 | 0 | 0 | Shell | 0 | [] |
 | Jack7988/SILENT-JPEG-EXPLOIT | None | https://github.com/Jack7988/SILENT-JPEG-EXPLOIT | ['exploit'] | 1 | 2022-05-10 18:36:21+00:00 | 0 | 0 | | 0 | [] |
 | 0xAgun/CVE-2022-1388 | None | https://github.com/0xAgun/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 20:49:59+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
@@ -69,10 +69,10 @@
 | jajajag/Safe-RCE | Safe-RCE | https://github.com/jajajag/Safe-RCE | ['rce'] | 1 | 2022-05-10 22:41:57+00:00 | 0 | 0 | Python | 0 | [] |
 | TreeBronch/GimSploit | None | https://github.com/TreeBronch/GimSploit | ['sploit'] | 1 | 2022-05-10 22:46:53+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | mknet/rcelko.ch-ansible | None | https://github.com/mknet/rcelko.ch-ansible | ['rce'] | 1 | 2022-05-10 23:02:38+00:00 | 0 | 0 | Shell | 0 | [] |
-| HonbraDev/dupe | [malicious] dupe exploit website | https://github.com/HonbraDev/dupe | ['exploit'] | 1 | 2022-05-10 15:38:51+00:00 | 39 | 0 | | 0 | [] |
+| aodsec/CVE-2022-1388-PocExp | CVE-2022-1388-PocExp,新增了多线程 | https://github.com/aodsec/CVE-2022-1388-PocExp | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-05-10 15:46:14+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | bandit92/CVE2022-1388_TestAPI | A Test API for testing the POC against CVE-2022-1388 | https://github.com/bandit92/CVE2022-1388_TestAPI | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-10 15:37:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
-| thatonesecguy/CVE-2022-1388-Exploit | Test and Exploit Scripts for CVE 2022-1388 (F5 Big-IP) | https://github.com/thatonesecguy/CVE-2022-1388-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-10 15:28:13+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
-| IIIDarkDevIII/Roblox-ExploitExecutor | None | https://github.com/IIIDarkDevIII/Roblox-ExploitExecutor | ['exploit'] | 1 | 2022-05-10 15:01:25+00:00 | 0 | 0 | C# | 0 | [] |
+| shamo0/CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/shamo0/CVE-2022-1388 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2022-05-10 08:49:33+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
+| NotMexs101/VengeanceExploit | None | https://github.com/NotMexs101/VengeanceExploit | ['exploit'] | 1 | 2022-05-10 13:00:19+00:00 | 0 | 0 | | 0 | [] |
 | handbye/Log4j2Fuzz | Log4j2 RCE scan tool | https://github.com/handbye/Log4j2Fuzz | ['rce'] | 1 | 2022-05-10 08:50:58+00:00 | 0 | 0 | | 0 | [] |
 | vesperp/CVE-2022-1388-F5-BIG-IP- | None | https://github.com/vesperp/CVE-2022-1388-F5-BIG-IP- | ['cve-2 OR cve_2'] | 1 | 2022-05-10 09:14:58+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
 | HUST-NingKang-Lab/EXPERT-Disease-GGMP | Exceeding the regional limitations: Application of transfer learning to exploit the potential of microbial-based cross-regional diagnosis of diseases | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | ['exploit'] | 1 | 2022-05-10 09:20:02+00:00 | 0 | 0 | | 0 | [] |
@@ -81,8 +81,8 @@
 | Kob123678/KoSploit-Setup | None | https://github.com/Kob123678/KoSploit-Setup | ['sploit'] | 1 | 2022-05-10 11:31:06+00:00 | 0 | 0 | | 0 | [] |
 | iveresk/cve-mikrotik-cisco-zoo | Zoo of exploits used in my practise | https://github.com/iveresk/cve-mikrotik-cisco-zoo | ['exploit'] | 1 | 2022-05-10 12:15:08+00:00 | 0 | 0 | Makefile | 0 | [] |
 | LiquiIo/Liquid-Token-Grabber | 🙄 Modern token grabber 🙄 | https://github.com/LiquiIo/Liquid-Token-Grabber | ['exploit'] | 1 | 2022-05-10 12:37:16+00:00 | 0 | 0 | | 0 | [] |
-| NotMexs101/VengeanceExploit | None | https://github.com/NotMexs101/VengeanceExploit | ['exploit'] | 1 | 2022-05-10 13:00:19+00:00 | 0 | 0 | | 0 | [] |
 | RooverPY/InvCheck | Bruteforce Discord server invites. | https://github.com/RooverPY/InvCheck | ['exploit'] | 1 | 2022-05-10 13:54:58+00:00 | 0 | 0 | Python | 0 | [] |
+| thatonesecguy/CVE-2022-1388-Exploit | Test and Exploit Scripts for CVE 2022-1388 (F5 Big-IP) | https://github.com/thatonesecguy/CVE-2022-1388-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-10 15:28:13+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
 | TomArni680/CVE-2022-24086-rce | CVE-2022-24086 and CVE-2022-24087 are an rce in adobe commerce and magento | https://github.com/TomArni680/CVE-2022-24086-rce | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-05-10 14:45:58+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-24086', 'CVE-2022-24087'] |
 | ComparedArray/printix-CVE-2022-29551 | [Reserved For CVE-2022-29551] | https://github.com/ComparedArray/printix-CVE-2022-29551 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 14:35:16+00:00 | 0 | 0 | | 0 | ['CVE-2022-29551'] |
 | ComparedArray/printix-CVE-2022-29552 | [Reserved for CVE-2022-29552] | https://github.com/ComparedArray/printix-CVE-2022-29552 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 14:35:58+00:00 | 0 | 0 | | 0 | ['CVE-2022-29552'] |
@@ -90,9 +90,10 @@
 | ComparedArray/printix-CVE-2022-29554 | [Reserved For CVE-2022-29554] | https://github.com/ComparedArray/printix-CVE-2022-29554 | ['cve-2 OR cve_2'] | 1 | 2022-05-10 14:37:19+00:00 | 0 | 0 | | 0 | ['CVE-2022-29554'] |
 | ssy02060/kali_vs_metasploitable2 | None | https://github.com/ssy02060/kali_vs_metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-05-10 14:38:39+00:00 | 0 | 0 | | 0 | [] |
 | wpressly/exploitations | Various documentation on known exploit methodologies | https://github.com/wpressly/exploitations | ['exploit'] | 1 | 2022-05-10 14:54:03+00:00 | 0 | 0 | | 0 | [] |
+| IIIDarkDevIII/Roblox-ExploitExecutor | None | https://github.com/IIIDarkDevIII/Roblox-ExploitExecutor | ['exploit'] | 1 | 2022-05-10 15:01:25+00:00 | 0 | 0 | C# | 0 | [] |
 | siek1/PortSwigger-Labs-Exploits | None | https://github.com/siek1/PortSwigger-Labs-Exploits | ['exploit'] | 1 | 2022-05-10 20:47:07+00:00 | 2 | 0 | Python | 0 | [] |
+| C0nneR/My_Windows_Exploits | My scripts organized according to MITRE ATT&CK Windows enterprise matrix. | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-10 13:16:48+00:00 | 8 | 0 | C++ | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-10 00:35:35+00:00 | 1579 | 6 | Rust | 0 | [] |
-| xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2022-05-10 14:50:53+00:00 | 3330 | 314 | HTML | 111 | [] |
 | MaherAzzouzi/BrowserExploitation | Browser exploitation v8 and sandbox escape challenges with solutions. | https://github.com/MaherAzzouzi/BrowserExploitation | ['exploit'] | 1 | 2022-05-10 22:15:36+00:00 | 100622 | 10 | JavaScript | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-05-10 22:53:41+00:00 | 93 | 0 | PHP | 0 | [] |
 | KOZ1OL/KOZ1OLMENU | Hi users ! I hope you will let much fun with this script ! | https://github.com/KOZ1OL/KOZ1OLMENU | ['metasploit module OR payload'] | 1 | 2022-05-10 18:47:44+00:00 | 58289 | 8 | HTML | 1 | [] |
