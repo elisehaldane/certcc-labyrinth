@@ -1,6 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/s2e-config.template.lua,0017403b5deb56eb18b03d3ddf890a6482be56d6,CVE-2004-2093
 401678100,SQLab/CRAXplusplus,examples/BID-8901-iwconfig/BID-8901-iwconfig,17152218272a4607bb09b362ac5f0e6709039641,BID-8901
+401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/README.md,29bf40d1a625ff1886b07f9ee76559b4484e80ed,CVE-2004-2093
 401678100,SQLab/CRAXplusplus,examples/CVE-2001-1413-ncompress/poc,2bde3f95abbeb03e80313e1784142b11ef03ae43,CVE-2001-1413
 401678100,SQLab/CRAXplusplus,examples/CVE-2001-1413-ncompress/exploit_0.py,434f861abc99f036483bde88ad5d11f840cc14af,CVE-2001-1413
 401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/poc,49060911f9e574d2a8a143a53ec0b49cb532f53a,CVE-2004-2093
@@ -11,7 +12,6 @@ repo_id,repo_full_name,file,file_sha1,match
 401678100,SQLab/CRAXplusplus,examples/BID-8901-iwconfig/exploit-7fffffffe8d0.bin,8c8e6ac61411c79c280244210dcad3b46cf24136,BID-8901
 401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/exploit-7fffffffe721.bin,996fe58377586eab66a8577d6bed12cdc5fd29af,CVE-2004-2093
 401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/bootstrap.sh,9a3f5501e4a464a2d9f54c2fca915d1583c96b98,CVE-2004-2093
-401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/README.md,9febff9acfba17cbbf8adee54d61831c18f95a13,CVE-2004-2093
 401678100,SQLab/CRAXplusplus,examples/CVE-2001-1413-ncompress/exploit-7fffffffe530.bin,a066ee83e87ff53b96aadfa5e8fcb9eed3af0a79,CVE-2001-1413
 401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/exploit-7fffffffe0a0.bin,a5330122ed59f7b4527fefff82d7cacb1631c1c7,CVE-2004-2093
 401678100,SQLab/CRAXplusplus,examples/CVE-2001-1413-ncompress/exploit-7fffffffebd0.bin,ab99e20f768546ea6792faeef67d54a9af4d5f0f,CVE-2001-1413
