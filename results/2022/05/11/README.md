@@ -1,20 +1,21 @@
 
 # Summary for results/2022/05/11
     
-36 records found after deduplication
+38 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-11 02:14:43+00:00 | 732710 | 27194 | Ruby | 12215 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-11 04:02:11+00:00 | 5405 | 3247 | Python | 692 | [] |
+| HUST-NingKang-Lab/EXPERT-Disease-GGMP | Exceeding the regional limitations: Application of transfer learning to exploit the potential of microbial-based cross-regional diagnosis of diseases | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | ['exploit'] | 1 | 2022-05-11 02:13:46+00:00 | 885 | 0 | R | 0 | [] |
 | ritikarana04/College-Enquiry-Chatbot- | The college enquiry chatbot project is developed exploitation algorithms that analyze user queries and understand user message | https://github.com/ritikarana04/College-Enquiry-Chatbot- | ['exploit'] | 1 | 2022-05-11 04:40:18+00:00 | 1924 | 1 | PHP | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-11 01:55:08+00:00 | 64659 | 2711 | | 333 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-11 01:05:48+00:00 | 3086 | 224 | Go | 41 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-11 01:13:37+00:00 | 288 | 0 | nan | 0 | [] |
 | k0zulzr/CVE-2022-24086-RCE | None | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-11 02:17:32+00:00 | 6 | 2 | nan | 2 | ['CVE-2022-24086'] |
+| jhhua/Cs_X_Msf_inject | Auxiliary tool to inject dll,for metasploit or CobaltStrike DLL injectionn modules | https://github.com/jhhua/Cs_X_Msf_inject | ['metasploit module OR payload'] | 1 | 2022-05-11 05:14:07+00:00 | 80 | 0 | C | 0 | [] |
 | Pear1y/CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | ['cve-2 OR cve_2'] | 1 | 2022-05-11 02:02:59+00:00 | 294 | 17 | Python | 5 | ['CVE-2022-26133'] |
-| HUST-NingKang-Lab/EXPERT-Disease-GGMP | Exceeding the regional limitations: Application of transfer learning to exploit the potential of microbial-based cross-regional diagnosis of diseases | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | ['exploit'] | 1 | 2022-05-11 02:13:46+00:00 | 885 | 0 | R | 0 | [] |
 | ssy02060/kali_vs_metasploitable2 | None | https://github.com/ssy02060/kali_vs_metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-05-11 04:18:10+00:00 | 0 | 0 | | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-11 04:02:11+00:00 | 5405 | 3247 | Python | 692 | [] |
 | ExploitPwner/CVE-2022-1388 | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated | https://github.com/ExploitPwner/CVE-2022-1388 | ['0day', 'cve-2 OR cve_2', 'exploit', 'zeroday'] | 4 | 2022-05-11 01:20:56+00:00 | 2 | 0 | | 0 | ['CVE-2022-1388'] |
 | Hack8228OFFICAL/exploit | None | https://github.com/Hack8228OFFICAL/exploit | ['exploit'] | 1 | 2022-05-11 00:42:49+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | ['exploit'] | 1 | 2022-05-11 01:16:53+00:00 | 1 | 0 | | 0 | [] |
@@ -25,15 +26,16 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-11 00:32:01+00:00 | 116604 | 2 | Jupyter Notebook | 0 | [] |
 | SleepTheGod/0days | 0day Exploits | https://github.com/SleepTheGod/0days | ['0day', 'exploit'] | 2 | 2022-05-11 03:48:52+00:00 | 116 | 1 | HTML | 1 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-11 01:35:26+00:00 | 7358 | 2752 | TypeScript | 397 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-11 00:05:15+00:00 | 524778 | 55 | | 21 | [] |
+| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-05-11 00:30:06+00:00 | 2696 | 427 | C# | 91 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-11 00:25:38+00:00 | 51980 | 302 | Ruby | 88 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-05-11 02:35:04+00:00 | 205 | 0 | Shell | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-11 02:32:49+00:00 | 265900 | 154 | REXX | 15 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-11 00:47:45+00:00 | 11294 | 39 | | 21 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-11 01:35:32+00:00 | 725 | 269 | C | 12 | [] |
 | itrummer/dbbert | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given work | https://github.com/itrummer/dbbert | ['exploit'] | 1 | 2022-05-11 03:03:14+00:00 | 58423 | 11 | HTML | 1 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-11 00:05:15+00:00 | 524778 | 55 | | 21 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-11 05:01:12+00:00 | 14086 | 29 | Python | 6 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-05-11 02:44:31+00:00 | 758 | 71 | Python | 11 | [] |
-| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-05-11 00:30:06+00:00 | 2696 | 427 | C# | 91 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-11 04:46:29+00:00 | 449755 | 106 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-11 00:43:19+00:00 | 182571 | 400 | Python | 118 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-11 02:01:30+00:00 | 22621 | 3 | Python | 0 | [] |
