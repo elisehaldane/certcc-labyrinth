@@ -40,7 +40,7 @@ repo_id,repo_full_name,file,file_sha1,match
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/.idea/runConfigurations.xml,bda4172e9906629e8819d26632190fcedc9b3ea2,CVE-2018-9143
 214463121,flankerhqd/vendor-android-cves,SMT-CVE-2019-16253/README.md,bf523b3114d312f89ad3bf42e7875e662f34b6b6,CVE-2019-16253
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/app/src/main/res/values/styles.xml,c1b2a55119a0122164ccd82b301b84b68b0a696a,CVE-2018-9143
-214463121,flankerhqd/vendor-android-cves,SMT-CVE-2019-16253/langpoc/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml,c77c0f1d8c3b72cd993c03f5436e2ccc57284146,CVE-2019-16253
+214463121,flankerhqd/vendor-android-cves,SMT-CVE-2019-16253/langpoc/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml,c77c0f1d8c3b72cd993c03f5436e2ccc57284146,CVE-2019-16253
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/app/src/main/java/com/leadroyal/vesion/MainActivity.java,c7b91a573f0539842a52c92b6ec06128b255eb7d,CVE-2018-9143
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/app/src/main/res/values/strings.xml,ccffd0601342ec17cd8d61a012bbc8ae564c6788,CVE-2018-9143
 214463121,flankerhqd/vendor-android-cves,visiond-CVE-2018-9143/poc/gradlew.bat,cf68b95a4029e352fe1ee002bb367ac1b686f9ad,CVE-2018-9143
