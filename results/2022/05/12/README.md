@@ -1,12 +1,14 @@
 
 # Summary for results/2022/05/12
     
-57 records found after deduplication
+60 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-12 01:09:59+00:00 | 21675 | 7144 | JavaScript | 1660 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-12 05:02:56+00:00 | 232316 | 7108 | C | 1906 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-12 01:54:21+00:00 | 17712 | 0 | | 0 | [] |
+| ExpLangcn/FuYao-Go | 自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用_通过使用被动在线资源来发现网站的有效子域｜通过强大且灵活的模板，模拟各种安全漏洞检查！Automate target asset detection and security vulnerability scanning _ Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage _ Discover valid subdomains o | https://github.com/ExpLangcn/FuYao-Go | ['vulnerability poc'] | 1 | 2022-05-12 06:54:21+00:00 | 99 | 55 | | 5 | [] |
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-12 05:29:26+00:00 | 121 | 173 | Go | 18 | [] |
 | NoftN/Asakura-Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | ['exploit'] | 1 | 2022-05-12 01:33:57+00:00 | 11705 | 0 | Lua | 0 | [] |
 | pawodyk/SV4PP | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | ['exploit'] | 1 | 2022-05-12 00:43:27+00:00 | 1493 | 0 | Python | 0 | [] |
@@ -32,13 +34,14 @@
 | 739156041qqx/nxenon7 | C2X-HTTP - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking [on HTTP(S)] | https://github.com/739156041qqx/nxenon7 | ['exploit'] | 1 | 2022-05-12 04:02:42+00:00 | 0 | 0 | | 0 | [] |
 | yuting956/ixtyi | Cross Architecture Shellcode in C | https://github.com/yuting956/ixtyi | ['shellcode'] | 1 | 2022-05-12 04:47:36+00:00 | 0 | 0 | | 0 | [] |
 | ARSecurityTeam/Android-Payload-Generat | Metasploit payload generating tool for android Termux Terminal. | https://github.com/ARSecurityTeam/Android-Payload-Generat | ['metasploit module OR payload'] | 1 | 2022-05-12 07:04:55+00:00 | 0 | 0 | | 1 | [] |
-| ExpLangcn/FuYao-Go | 自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用_通过使用被动在线资源来发现网站的有效子域｜通过强大且灵活的模板，模拟各种安全漏洞检查！Automate target asset detection and security vulnerability scanning _ Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage _ Discover valid subdomains o | https://github.com/ExpLangcn/FuYao-Go | ['vulnerability poc'] | 1 | 2022-05-12 06:54:21+00:00 | 99 | 55 | | 5 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-12 07:39:52+00:00 | 3598 | 2 | CSS | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-12 05:02:56+00:00 | 232316 | 7108 | C | 1906 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-12 07:00:02+00:00 | 3089 | 225 | Go | 41 | [] |
+| LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995 | None | https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-12 02:35:50+00:00 | 3 | 0 | Python | 0 | ['CVE-2018-9995'] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-12 00:04:48+00:00 | 520490 | 55 | | 21 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-12 05:17:03+00:00 | 5458 | 3247 | Python | 692 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-12 00:25:06+00:00 | 51980 | 302 | Ruby | 88 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2022-05-12 01:36:41+00:00 | 2790463 | 390 | JavaScript | 63 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-05-12 07:52:53+00:00 | 309326 | 100 | Python | 15 | [] |
 | soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-12 00:37:27+00:00 | 6165 | 502 | C++ | 100 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-05-12 06:49:30+00:00 | 72067 | 2889 | Python | 451 | [] |
 | aria-tools/ARIA-tools | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | ['exploit'] | 1 | 2022-05-12 07:37:12+00:00 | 1372 | 53 | Python | 26 | [] |
@@ -47,10 +50,12 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-12 00:47:46+00:00 | 12328 | 40 | | 21 | [] |
 | hugsy/pwn-- | A (toy) Windows & Linux pwn library to play with modern C++. | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-05-12 03:28:23+00:00 | 655 | 67 | C++ | 5 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-05-12 06:28:27+00:00 | 56 | 0 | | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-12 00:04:48+00:00 | 520490 | 55 | | 21 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-05-12 03:44:18+00:00 | 777 | 71 | Python | 11 | [] |
+| E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-05-12 06:32:42+00:00 | 12 | 1 | Python | 0 | [] |
+| exploitenomah/exploitenomah | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | ['exploit'] | 1 | 2022-05-12 08:49:27+00:00 | 72 | 0 | CSS | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-12 04:43:14+00:00 | 473127 | 108 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-12 00:53:21+00:00 | 172284 | 401 | Python | 118 | [] |
+| Fans0n-Fan/Awesome-IoT-exp | Share some archives about IoT exploits. | https://github.com/Fans0n-Fan/Awesome-IoT-exp | ['exploit'] | 1 | 2022-05-12 07:50:30+00:00 | 13 | 0 | C | 0 | [] |
 | KiritoLoveAsuna/Exploits | Collected && Written N day Vulns for study purpose only | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-05-12 03:27:44+00:00 | 89628 | 94 | Python | 15 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-12 02:01:48+00:00 | 20136 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-12 02:03:35+00:00 | 1664 | 94 | HTML | 24 | [] |
@@ -59,6 +64,4 @@
 | wimpomp/tiffwrite | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | ['exploit'] | 1 | 2022-05-12 07:22:37+00:00 | 31 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-12 00:37:29+00:00 | 120772 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-12 01:47:28+00:00 | 55205 | 2714 | | 333 | [] |
-| E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-05-12 06:32:42+00:00 | 12 | 1 | Python | 0 | [] |
-| LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995 | None | https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-12 02:35:50+00:00 | 3 | 0 | Python | 0 | ['CVE-2018-9995'] |
 | Calvitz/CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 07:15:11+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
