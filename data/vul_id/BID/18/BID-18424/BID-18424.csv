@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-18424,0.04545455,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
+BID-18424,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 BID-18424,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 BID-18424,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
 BID-18424,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
