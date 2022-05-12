@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/12
     
-74 records found after deduplication
+79 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-12 09:37:38+00:00 | 732562 | 27207 | Ruby | 12217 | [] |
-| trhacknon/proxylogon-exploit | None | https://github.com/trhacknon/proxylogon-exploit | ['exploit'] | 1 | 2022-05-12 00:54:52+00:00 | 0 | 0 | Python | 0 | [] |
+| heegong/CVE-2022-24924 | Improper privilege management vulnerability in Samsung Video Player prior to version 7.3.15.30 allows attackers to execute video files without permission. | https://github.com/heegong/CVE-2022-24924 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 00:16:37+00:00 | 4577 | 0 | Python | 0 | ['CVE-2022-24924'] |
 | brafii/RCEES-DBMS | RCEES Staff and Students Database System | https://github.com/brafii/RCEES-DBMS | ['rce'] | 1 | 2022-05-12 10:32:49+00:00 | 6034 | 0 | CSS | 0 | [] |
 | TreeBronch/GimSploit | nan | https://github.com/TreeBronch/GimSploit | ['sploit'] | 1 | 2022-05-12 00:19:40+00:00 | 13 | 0 | JavaScript | 0 | [] |
 | Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-12 00:43:03+00:00 | 15 | 0 | | 0 | [] |
@@ -14,9 +14,10 @@
 | Qwaz/cashio-exploit-workshop | Write your own exploit for $CASH | https://github.com/Qwaz/cashio-exploit-workshop | ['exploit'] | 1 | 2022-05-12 08:59:44+00:00 | 32 | 0 | Rust | 0 | [] |
 | 0xf4n9x/CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-12 05:56:13+00:00 | 498 | 52 | Python | 21 | ['CVE-2022-1388'] |
 | Eros-Capo/TrojanSourcePoCs | New PoC's in Trojan Source Attack Vector | https://github.com/Eros-Capo/TrojanSourcePoCs | ['attack poc'] | 1 | 2022-05-12 10:04:13+00:00 | 254 | 2 | Python | 0 | [] |
-| heegong/CVE-2022-24924 | Improper privilege management vulnerability in Samsung Video Player prior to version 7.3.15.30 allows attackers to execute video files without permission. | https://github.com/heegong/CVE-2022-24924 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 00:16:37+00:00 | 4577 | 0 | Python | 0 | ['CVE-2022-24924'] |
 | XutaxKamay/scgen | Shellcode generator using C++ with uninitialized/initialized data possible. | https://github.com/XutaxKamay/scgen | ['shellcode'] | 1 | 2022-05-12 00:40:49+00:00 | 36 | 3 | C++ | 1 | [] |
+| trhacknon/proxylogon-exploit | None | https://github.com/trhacknon/proxylogon-exploit | ['exploit'] | 1 | 2022-05-12 00:54:52+00:00 | 0 | 0 | Python | 0 | [] |
 | C0nneR/My_Windows_Exploits | My scripts organized according to MITRE ATT&CK Windows enterprise matrix. | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-12 06:23:57+00:00 | 12 | 0 | C++ | 0 | [] |
+| dar7c0d3/exploit | None | https://github.com/dar7c0d3/exploit | ['exploit'] | 1 | 2022-05-12 11:03:05+00:00 | 0 | 0 | HTML | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-12 02:20:08+00:00 | 1600 | 6 | Rust | 0 | [] |
 | pawodyk/SV4PP | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | ['exploit'] | 1 | 2022-05-12 00:43:27+00:00 | 1493 | 0 | Python | 0 | [] |
 | TitanVale/Titanium | SportPaper fork which aims to be fast, fix exploits and bugs, improve API, and provide better configuration for server administrators | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-05-12 09:31:57+00:00 | 283 | 1 | Shell | 0 | [] |
@@ -24,16 +25,17 @@
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-12 05:29:26+00:00 | 121 | 173 | Go | 18 | [] |
 | AmirHoseinTangsiriNET/CVE-2022-1388-Scanner | None | https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-05-12 10:28:44+00:00 | 138 | 3 | Python | 1 | ['CVE-2022-1388'] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-6 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-6 | ['exploit'] | 1 | 2022-05-12 02:07:46+00:00 | 0 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-12 01:09:59+00:00 | 21675 | 7144 | JavaScript | 1660 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | ['exploit'] | 1 | 2022-05-12 02:08:49+00:00 | 0 | 0 | | 0 | [] |
+| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-12 01:54:21+00:00 | 17712 | 0 | | 0 | [] |
+| 739156041qqx/nxenon7 | C2X-HTTP - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking [on HTTP(S)] | https://github.com/739156041qqx/nxenon7 | ['exploit'] | 1 | 2022-05-12 04:02:42+00:00 | 0 | 0 | | 0 | [] |
+| Zeroday10/Zeroday10.github.io | None | https://github.com/Zeroday10/Zeroday10.github.io | ['zeroday'] | 1 | 2022-05-12 10:40:28+00:00 | 0 | 0 | | 0 | [] |
 | Doran342545345/Exploit-key | None | https://github.com/Doran342545345/Exploit-key | ['exploit'] | 1 | 2022-05-12 10:36:40+00:00 | 0 | 0 | | 0 | [] |
 | zidansec/CloudPeler | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further pene | https://github.com/zidansec/CloudPeler | ['exploit'] | 1 | 2022-05-12 10:47:48+00:00 | 0 | 0 | PHP | 0 | [] |
 | fxrcha/writeups | 해킹 공부, writeups, exploits | https://github.com/fxrcha/writeups | ['exploit'] | 1 | 2022-05-12 09:08:18+00:00 | 0 | 0 | | 0 | [] |
 | Calvitz/CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 07:15:11+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | ARSecurityTeam/Android-Payload-Generat | Metasploit payload generating tool for android Termux Terminal. | https://github.com/ARSecurityTeam/Android-Payload-Generat | ['metasploit module OR payload'] | 1 | 2022-05-12 07:04:55+00:00 | 0 | 0 | | 1 | [] |
 | yuting956/ixtyi | Cross Architecture Shellcode in C | https://github.com/yuting956/ixtyi | ['shellcode'] | 1 | 2022-05-12 04:47:36+00:00 | 0 | 0 | | 0 | [] |
-| 739156041qqx/nxenon7 | C2X-HTTP - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking [on HTTP(S)] | https://github.com/739156041qqx/nxenon7 | ['exploit'] | 1 | 2022-05-12 04:02:42+00:00 | 0 | 0 | | 0 | [] |
 | anldori/CVE-2021-41773-Scanner | CVE-2021-41773 Shodan scanner | https://github.com/anldori/CVE-2021-41773-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-05-12 03:44:49+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | ['exploit'] | 1 | 2022-05-12 02:08:49+00:00 | 0 | 0 | | 0 | [] |
 | ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-05-12 03:23:04+00:00 | 0 | 0 | | 0 | [] |
 | Calvitz/CVE-2022-26809 | None | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 03:26:37+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | 7heKnight/CVE-2020-0688 | CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability | https://github.com/7heKnight/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 03:51:09+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-0688'] |
@@ -42,17 +44,18 @@
 | r1skkam/TryHackMe-CVE-2022-26923 | Walkthrough on the exploitation of CVE-2022-26923, a vulnerability in AD Certificate Services | https://github.com/r1skkam/TryHackMe-CVE-2022-26923 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-12 02:31:51+00:00 | 0 | 0 | | 0 | ['CVE-2022-26923'] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | ['exploit'] | 1 | 2022-05-12 02:09:48+00:00 | 0 | 0 | | 0 | [] |
 | ExpLangcn/FuYao-Go | 自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用_通过使用被动在线资源来发现网站的有效子域｜通过强大且灵活的模板，模拟各种安全漏洞检查！Automate target asset detection and security vulnerability scanning _ Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage _ Discover valid subdomains o | https://github.com/ExpLangcn/FuYao-Go | ['vulnerability poc'] | 1 | 2022-05-12 06:54:21+00:00 | 99 | 55 | | 5 | [] |
-| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-12 01:54:21+00:00 | 17712 | 0 | | 0 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-12 07:39:52+00:00 | 3598 | 2 | CSS | 0 | [] |
-| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-12 07:00:02+00:00 | 3089 | 225 | Go | 41 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-12 01:09:59+00:00 | 21675 | 7144 | JavaScript | 1660 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-12 02:31:44+00:00 | 266026 | 154 | REXX | 15 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-05-12 03:44:18+00:00 | 777 | 71 | Python | 11 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-12 10:55:59+00:00 | 28010 | 29 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-12 00:04:48+00:00 | 520490 | 55 | | 21 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2022-05-12 06:28:27+00:00 | 56 | 0 | | 0 | [] |
 | hugsy/pwn-- | A (toy) Windows & Linux pwn library to play with modern C++. | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-05-12 03:28:23+00:00 | 655 | 67 | C++ | 5 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-12 00:47:46+00:00 | 12328 | 40 | | 21 | [] |
 | flankerhqd/vendor-android-cves | Collections of my POCs for android vendor CVEs | https://github.com/flankerhqd/vendor-android-cves | ['cve poc'] | 1 | 2022-05-12 06:50:34+00:00 | 618 | 62 | Java | 14 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-12 02:31:44+00:00 | 266026 | 154 | REXX | 15 | [] |
 | aria-tools/ARIA-tools | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | ['exploit'] | 1 | 2022-05-12 07:37:12+00:00 | 1372 | 53 | Python | 26 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-12 04:43:14+00:00 | 473127 | 108 | | 24 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-05-12 06:49:30+00:00 | 72067 | 2889 | Python | 451 | [] |
 | soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-12 00:37:27+00:00 | 6165 | 502 | C++ | 100 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-05-12 07:52:53+00:00 | 309326 | 100 | Python | 15 | [] |
@@ -61,21 +64,23 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-12 05:17:03+00:00 | 5458 | 3247 | Python | 692 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-12 05:02:56+00:00 | 232316 | 7108 | C | 1906 | [] |
 | exploitenomah/exploitenomah | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | ['exploit'] | 1 | 2022-05-12 08:49:27+00:00 | 72 | 0 | CSS | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-12 04:43:14+00:00 | 473127 | 108 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-12 00:53:21+00:00 | 172284 | 401 | Python | 118 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-12 07:00:02+00:00 | 3089 | 225 | Go | 41 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-05-12 09:24:33+00:00 | 53559 | 652 | Python | 157 | [] |
 | LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995 | None | https://github.com/LeQuocKhanh2K/Tool_Exploit_Password_Camera_CVE-2018-9995 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-12 02:35:50+00:00 | 3 | 0 | Python | 0 | ['CVE-2018-9995'] |
 | E1P0TR0/CVE-Machines_htb | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | ['exploit'] | 1 | 2022-05-12 06:32:42+00:00 | 12 | 1 | Python | 0 | [] |
 | EJEgan/secureVaxBooking | A Spring Boot App to facilitate appointment booking, engineered to be secure against common exploits and infiltration techniques. | https://github.com/EJEgan/secureVaxBooking | ['exploit'] | 1 | 2022-05-12 10:22:30+00:00 | 1486 | 1 | Java | 2 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-12 01:47:28+00:00 | 55205 | 2714 | | 333 | [] |
+| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-05-12 11:39:22+00:00 | 3715 | 6 | TypeScript | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-12 00:37:29+00:00 | 120772 | 2 | Jupyter Notebook | 0 | [] |
 | wimpomp/tiffwrite | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | ['exploit'] | 1 | 2022-05-12 07:22:37+00:00 | 31 | 0 | Python | 0 | [] |
 | VestigeNet/VSEC-JAILBREAK-IOS-14.5.1 | Allows jailbreak on ios devices using the new Fugu14 Exploit | https://github.com/VestigeNet/VSEC-JAILBREAK-IOS-14.5.1 | ['exploit'] | 1 | 2022-05-12 09:51:17+00:00 | 0 | 0 | | 0 | [] |
 | Fans0n-Fan/Awesome-IoT-exp | Share some archives about IoT exploits. | https://github.com/Fans0n-Fan/Awesome-IoT-exp | ['exploit'] | 1 | 2022-05-12 07:50:30+00:00 | 13 | 0 | C | 0 | [] |
+| ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2022-05-12 11:31:07+00:00 | 57 | 1 | PowerShell | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-12 01:50:06+00:00 | 5310937 | 43 | Python | 7 | [] |
 | SQLab/CRAXplusplus | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-12 10:20:04+00:00 | 3202 | 48 | C++ | 3 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2022-05-12 00:01:43+00:00 | 283 | 5 | Python | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-12 02:03:35+00:00 | 1664 | 94 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-12 02:01:48+00:00 | 20136 | 3 | Python | 0 | [] |
 | KiritoLoveAsuna/Exploits | Collected && Written N day Vulns for study purpose only | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-05-12 03:27:44+00:00 | 89628 | 94 | Python | 15 | [] |
-| Zeroday10/Zeroday10.github.io | None | https://github.com/Zeroday10/Zeroday10.github.io | ['zeroday'] | 1 | 2022-05-12 10:40:28+00:00 | 0 | 0 | | 0 | [] |
+| Nivaskumark/external_expat_v2.1.0_CVE-2022-25315 | None | https://github.com/Nivaskumark/external_expat_v2.1.0_CVE-2022-25315 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 11:11:04+00:00 | 0 | 0 | C | 0 | ['CVE-2022-25315'] |
