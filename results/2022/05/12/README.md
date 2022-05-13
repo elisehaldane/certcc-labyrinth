@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/12
     
-149 records found after deduplication
+150 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -24,7 +24,7 @@
 | Andrea-Canale/Exploit-Ed-Civica | Collezione di exploit per il sito di Educazione Civica | https://github.com/Andrea-Canale/Exploit-Ed-Civica | ['exploit'] | 1 | 2022-05-12 14:29:39+00:00 | 8 | 0 | C | 0 | [] |
 | heegong/CVE-2022-24924 | Improper privilege management vulnerability in Samsung Video Player prior to version 7.3.15.30 allows attackers to execute video files without permission. | https://github.com/heegong/CVE-2022-24924 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 00:16:37+00:00 | 4577 | 0 | Python | 0 | ['CVE-2022-24924'] |
 | TermuxMitnick2022/METASPLOIT-V6.1.41-dev | metasploit v6.1.41-dev-9737d03 | https://github.com/TermuxMitnick2022/METASPLOIT-V6.1.41-dev | ['metasploit module OR payload'] | 1 | 2022-05-12 17:34:44+00:00 | 2 | 0 | | 0 | [] |
-| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-12 01:54:21+00:00 | 17712 | 0 | | 0 | [] |
+| trhacknon/proxylogon-exploit | None | https://github.com/trhacknon/proxylogon-exploit | ['exploit'] | 1 | 2022-05-12 00:54:52+00:00 | 0 | 0 | Python | 0 | [] |
 | XutaxKamay/scgen | Shellcode generator using C++ with uninitialized/initialized data possible. | https://github.com/XutaxKamay/scgen | ['shellcode'] | 1 | 2022-05-12 00:40:49+00:00 | 36 | 3 | C++ | 1 | [] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-05-12 21:38:14+00:00 | 28 | 0 | Nix | 0 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-12 17:18:26+00:00 | 1332596 | 0 | Jupyter Notebook | 0 | [] |
@@ -42,10 +42,9 @@
 | dar7c0d3/exploit | None | https://github.com/dar7c0d3/exploit | ['exploit'] | 1 | 2022-05-12 11:03:05+00:00 | 0 | 0 | HTML | 0 | [] |
 | C0nneR/My_Windows_Exploits | My scripts organized according to MITRE ATT&CK Windows enterprise matrix. | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-12 06:23:57+00:00 | 12 | 0 | C++ | 0 | [] |
 | AmirHoseinTangsiriNET/CVE-2022-1388-Scanner | None | https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-05-12 10:28:44+00:00 | 138 | 3 | Python | 1 | ['CVE-2022-1388'] |
-| trhacknon/proxylogon-exploit | None | https://github.com/trhacknon/proxylogon-exploit | ['exploit'] | 1 | 2022-05-12 00:54:52+00:00 | 0 | 0 | Python | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-6 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-6 | ['exploit'] | 1 | 2022-05-12 02:07:46+00:00 | 0 | 0 | | 0 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | ['exploit'] | 1 | 2022-05-12 02:08:49+00:00 | 0 | 0 | | 0 | [] |
-| sibercan/git-submodule-RCE | None | https://github.com/sibercan/git-submodule-RCE | ['rce'] | 1 | 2022-05-12 12:46:29+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-12 01:09:59+00:00 | 21675 | 7144 | JavaScript | 1660 | [] |
+| SecTheBit/CVE-2022-1388 | Nuclei Template for CVE-2022-1388 | https://github.com/SecTheBit/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 12:32:38+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
 | haxpunk1337/safari-exploit | None | https://github.com/haxpunk1337/safari-exploit | ['exploit'] | 1 | 2022-05-12 12:55:02+00:00 | 0 | 0 | | 0 | [] |
 | nettitude/CVE-2022-23253-PoC | CVE-2022-23253 PoC | https://github.com/nettitude/CVE-2022-23253-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-12 13:18:48+00:00 | 0 | 0 | | 0 | ['CVE-2022-23253'] |
 | G3NI3z/RobloxExploit | None | https://github.com/G3NI3z/RobloxExploit | ['exploit'] | 1 | 2022-05-12 13:23:37+00:00 | 0 | 0 | | 0 | [] |
@@ -60,27 +59,29 @@
 | MarcinGadz/spring-rce-poc | Testing CVE-2022-22968 | https://github.com/MarcinGadz/spring-rce-poc | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-05-12 18:37:00+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-22968'] |
 | kuznyJan1972/CVE-2022-23121-RCE | NETATALK-AFP-PROTO RCE :_ This CVE-2022-23121 allows remote malicious users to execute arbitrary code on affected installations of Netatalk. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parse_entries fun | https://github.com/kuznyJan1972/CVE-2022-23121-RCE | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-05-12 21:21:52+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-23121'] |
 | SpiralGaia/exploiter-database | A large list of known and confirmed exploiters! | https://github.com/SpiralGaia/exploiter-database | ['exploit'] | 1 | 2022-05-12 21:11:04+00:00 | 0 | 0 | | 0 | [] |
-| SecTheBit/CVE-2022-1388 | Nuclei Template for CVE-2022-1388 | https://github.com/SecTheBit/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 12:32:38+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
+| Xync/bankmarshall | A deliberately vulnerable Rails 6 app to exploit using unmarshalling payloads. | https://github.com/Xync/bankmarshall | ['exploit'] | 1 | 2022-05-12 22:19:16+00:00 | 0 | 0 | Ruby | 0 | [] |
+| sibercan/git-submodule-RCE | None | https://github.com/sibercan/git-submodule-RCE | ['rce'] | 1 | 2022-05-12 12:46:29+00:00 | 0 | 0 | | 0 | [] |
 | Nivaskumark/external_expat_v2.1.0_CVE-2022-25315 | None | https://github.com/Nivaskumark/external_expat_v2.1.0_CVE-2022-25315 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 11:11:04+00:00 | 0 | 0 | C | 0 | ['CVE-2022-25315'] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-5 | ['exploit'] | 1 | 2022-05-12 02:08:49+00:00 | 0 | 0 | | 0 | [] |
 | Zeroday10/Zeroday10.github.io | None | https://github.com/Zeroday10/Zeroday10.github.io | ['zeroday'] | 1 | 2022-05-12 10:40:28+00:00 | 0 | 0 | | 0 | [] |
-| ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-05-12 03:23:04+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | ['exploit'] | 1 | 2022-05-12 02:09:48+00:00 | 0 | 0 | | 0 | [] |
 | r1skkam/TryHackMe-CVE-2022-26923 | Walkthrough on the exploitation of CVE-2022-26923, a vulnerability in AD Certificate Services | https://github.com/r1skkam/TryHackMe-CVE-2022-26923 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-12 02:31:51+00:00 | 0 | 0 | | 0 | ['CVE-2022-26923'] |
 | rozo-hunter/PhoneSploit | None | https://github.com/rozo-hunter/PhoneSploit | ['sploit'] | 1 | 2022-05-12 02:57:02+00:00 | 0 | 0 | | 0 | [] |
 | anldori/CVE-2021-41773-Scan | CVE-2021-41773 Shodan Scanner | https://github.com/anldori/CVE-2021-41773-Scan | ['cve-2 OR cve_2'] | 1 | 2022-05-12 03:09:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | 7heKnight/CVE-2020-0688 | CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability | https://github.com/7heKnight/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 03:51:09+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-0688'] |
 | Calvitz/CVE-2022-26809 | None | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 03:26:37+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
+| ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-05-12 03:23:04+00:00 | 0 | 0 | | 0 | [] |
 | anldori/CVE-2021-41773-Scanner | CVE-2021-41773 Shodan scanner | https://github.com/anldori/CVE-2021-41773-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-05-12 03:44:49+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
-| Doran342545345/Exploit-key | None | https://github.com/Doran342545345/Exploit-key | ['exploit'] | 1 | 2022-05-12 10:36:40+00:00 | 0 | 0 | | 0 | [] |
 | 739156041qqx/nxenon7 | C2X-HTTP - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking [on HTTP(S)] | https://github.com/739156041qqx/nxenon7 | ['exploit'] | 1 | 2022-05-12 04:02:42+00:00 | 0 | 0 | | 0 | [] |
 | yuting956/ixtyi | Cross Architecture Shellcode in C | https://github.com/yuting956/ixtyi | ['shellcode'] | 1 | 2022-05-12 04:47:36+00:00 | 0 | 0 | | 0 | [] |
 | ARSecurityTeam/Android-Payload-Generat | Metasploit payload generating tool for android Termux Terminal. | https://github.com/ARSecurityTeam/Android-Payload-Generat | ['metasploit module OR payload'] | 1 | 2022-05-12 07:04:55+00:00 | 0 | 0 | | 1 | [] |
 | Calvitz/CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-12 07:15:11+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | fxrcha/writeups | 해킹 공부, writeups, exploits | https://github.com/fxrcha/writeups | ['exploit'] | 1 | 2022-05-12 09:08:18+00:00 | 0 | 0 | | 0 | [] |
 | zidansec/CloudPeler | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further pene | https://github.com/zidansec/CloudPeler | ['exploit'] | 1 | 2022-05-12 10:47:48+00:00 | 0 | 0 | PHP | 0 | [] |
+| Doran342545345/Exploit-key | None | https://github.com/Doran342545345/Exploit-key | ['exploit'] | 1 | 2022-05-12 10:36:40+00:00 | 0 | 0 | | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-05-12 15:00:27+00:00 | 197191 | 1 | Python | 0 | [] |
+| Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-12 01:54:21+00:00 | 17712 | 0 | | 0 | [] |
 | HawkstoNGriM/NeonEx | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | ['exploit'] | 1 | 2022-05-12 07:39:52+00:00 | 3598 | 2 | CSS | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-12 01:09:59+00:00 | 21675 | 7144 | JavaScript | 1660 | [] |
 | C0nw0nk/Nginx-Lua-Anti-DDoS | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigati | https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS | ['exploit'] | 1 | 2022-05-12 14:35:01+00:00 | 497 | 517 | Lua | 185 | [] |
 | flankerhqd/vendor-android-cves | Collections of my POCs for android vendor CVEs | https://github.com/flankerhqd/vendor-android-cves | ['cve poc'] | 1 | 2022-05-12 06:50:34+00:00 | 618 | 62 | Java | 14 | [] |
 | spiritofthegael/ExploitDB-Project | None | https://github.com/spiritofthegael/ExploitDB-Project | ['exploit'] | 1 | 2022-05-12 22:39:11+00:00 | 148 | 0 | Jupyter Notebook | 0 | [] |
@@ -153,4 +154,4 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-12 02:01:48+00:00 | 20136 | 3 | Python | 0 | [] |
 | draconas1/stellaris-space-exploitation | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | ['exploit'] | 1 | 2022-05-12 17:32:37+00:00 | 329 | 0 | AMPL | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-12 02:03:35+00:00 | 1664 | 94 | HTML | 24 | [] |
-| Xync/bankmarshall | A deliberately vulnerable Rails 6 app to exploit using unmarshalling payloads. | https://github.com/Xync/bankmarshall | ['exploit'] | 1 | 2022-05-12 22:19:16+00:00 | 0 | 0 | Ruby | 0 | [] |
+| dew1567/Roblox-ScriptExploit-Example | None | https://github.com/dew1567/Roblox-ScriptExploit-Example | ['exploit'] | 1 | 2022-05-12 23:52:57+00:00 | 0 | 0 | | 0 | [] |
