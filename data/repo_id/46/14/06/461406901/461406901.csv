@@ -3,10 +3,10 @@ repo_id,repo_full_name,file,file_sha1,match
 461406901,Threekiii/Awesome-POC,网络设备漏洞/Zyxel 硬编码后门账户漏洞 CVE-2020-29583.md,03d470c7c8a8b840524e95e6e650d0ea624c84ed,CVE-2020-29583
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Solr RCE 未授权上传漏洞 CVE-2020-13957.md,0c54bf735f9b9e4380e3c978f4c641bc412323db,CVE-2019-17558
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Solr RCE 未授权上传漏洞 CVE-2020-13957.md,0c54bf735f9b9e4380e3c978f4c641bc412323db,CVE-2020-13957
-461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md,0d8ceddf9b17471285aaabf8f07572bb7542b959,CVE-2021-26857
-461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md,0d8ceddf9b17471285aaabf8f07572bb7542b959,CVE-2021-26858
-461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md,0d8ceddf9b17471285aaabf8f07572bb7542b959,CVE-2021-26855
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md,0d8ceddf9b17471285aaabf8f07572bb7542b959,CVE-2021-27065
+461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md,0d8ceddf9b17471285aaabf8f07572bb7542b959,CVE-2021-26858
+461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md,0d8ceddf9b17471285aaabf8f07572bb7542b959,CVE-2021-26857
+461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange 远程命令执行 CVE-2021-27065 26857 26858 27065.md,0d8ceddf9b17471285aaabf8f07572bb7542b959,CVE-2021-26855
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache ZooKeeper 未授权访问漏洞 CVE-2014-085漏洞描述.md,1082f9d3f66902300f6ea845d156064913b8c8f0,CVE-2014-0085
 461406901,Threekiii/Awesome-POC,开发框架漏洞/Laravel .env 配置文件泄露 CVE-2017-16894.md,12ac8aed9344c52a3837d3291453731a5f5a4712,CVE-2017-16894
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/VoIPmonitor 远程命令执行漏洞 CVE-2021-30461.md,139ca3f1379072ee5c3a37a2094a2e3a54d274bd,CVE-2021-30461
@@ -17,18 +17,18 @@ repo_id,repo_full_name,file,file_sha1,match
 461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link Dir-645 getcfg.php 账号密码泄露漏洞 CVE-2019-17506.md,232e66ef54b4759f80945886f58f9474cbf66249,CVE-2019-17506
 461406901,Threekiii/Awesome-POC,网络设备漏洞/ZeroShell 3.9.0 远程命令执行漏洞 CVE-2019-12725.md,27ac88a387c82d1d525f2b80d2878a9448c39ef1,CVE-2019-12725
 461406901,Threekiii/Awesome-POC,OA产品漏洞/泛微OA E-Cology BshServlet 远程代码执行漏洞 CNVD-2019-32204.md,2999c871aa9d88b03c46c55dd6dfe471c6f895ca,CNVD-2019-32204
-461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link DSL-28881A 远程命令执行 CVE-2020-24581.md,32b1c19db183ae3996ac84f853a885abbda27732,CVE-2020-24581
 461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link DSL-28881A 远程命令执行 CVE-2020-24581.md,32b1c19db183ae3996ac84f853a885abbda27732,CVE-2020-24580
+461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link DSL-28881A 远程命令执行 CVE-2020-24581.md,32b1c19db183ae3996ac84f853a885abbda27732,CVE-2020-24581
 461406901,Threekiii/Awesome-POC,CMS漏洞/极致CMS alipay_return_pay SQL注入漏洞.md,3405d5a7399ff9f6751eebf13bb13f0b0fbe60b7,CNVD-2020-49710
 461406901,Threekiii/Awesome-POC,OA产品漏洞/帆软报表 V8 任意文件读取漏洞 CNVD-2018-04757.md,3765fdbc2e0653503914d8ae25171fbac324f559,CNVD-2018-04757
-461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link DSL-28881A FTP配置错误 CVE-2020-24578.md,39c33c49f56df812fd8035fa337360148df75dd7,CVE-2020-24577
 461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link DSL-28881A FTP配置错误 CVE-2020-24578.md,39c33c49f56df812fd8035fa337360148df75dd7,CVE-2020-24578
+461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link DSL-28881A FTP配置错误 CVE-2020-24578.md,39c33c49f56df812fd8035fa337360148df75dd7,CVE-2020-24577
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/JBoss 4.x JBossMQ JMS 反序列化漏洞 CVE-2017-7504.md,3a4bf7655aca81bef46c14db61f66654ae827884,CVE-2017-7504
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Nginx越界读取缓存漏洞 CVE-2017-7529.md,40a25c64ba9aa4cdd7615fe66f94767746fbf0bb,CVE-2017-7529
 461406901,Threekiii/Awesome-POC,操作系统漏洞/Windows Win32k 本地提权漏洞 CVE-2021-1732.md,4318c3ccf89775df878ec5434d20a036df7f10c3,CVE-2021-1723
 461406901,Threekiii/Awesome-POC,操作系统漏洞/Windows Win32k 本地提权漏洞 CVE-2021-1732.md,4318c3ccf89775df878ec5434d20a036df7f10c3,CVE-2021-1732
-461406901,Threekiii/Awesome-POC,CMS漏洞/禅道 12.4.2 CSRF漏洞 CNVD-2020-68552.md,4ae5c4d0b406d43aa8464c6fdfecd2f96a9265ee,CNVD-2020-121325
 461406901,Threekiii/Awesome-POC,CMS漏洞/禅道 12.4.2 CSRF漏洞 CNVD-2020-68552.md,4ae5c4d0b406d43aa8464c6fdfecd2f96a9265ee,CNVD-2020-68552
+461406901,Threekiii/Awesome-POC,CMS漏洞/禅道 12.4.2 CSRF漏洞 CNVD-2020-68552.md,4ae5c4d0b406d43aa8464c6fdfecd2f96a9265ee,CNVD-2020-121325
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/MinIO SSRF漏洞 CVE-2021-21287.md,5139146177a15186cbfce5897db0efd675bd67ea,CVE-2021-21287
 461406901,Threekiii/Awesome-POC,网络设备漏洞/Arcadyan固件 image 路径遍历漏洞 CVE-2021-20090.md,517722f58b19b3ee441a2826d66527f98f255066,CVE-2021-20090
 461406901,Threekiii/Awesome-POC,CMS漏洞/ShopXO download 任意文件读取漏洞 CNVD-2021-15822ShopXO download 任意文件读取漏洞 CNVD-2021-15822漏洞描述.md,52a4e2acef48505be7639846777799950123c35e,CNVD-2021-15822
@@ -41,8 +41,8 @@ repo_id,repo_full_name,file,file_sha1,match
 461406901,Threekiii/Awesome-POC,网络设备漏洞/DD-WRT UPNP缓冲区溢出漏洞 CVE-2021-27137.md,6c63fdee927e7488b3ed11aeba08f8de78d4dfad,CVE-2021-27137
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/Saltstack 远程命令执行漏洞 CVE-2020-11651 11652.md,6ec7e0e9122a0c07a69653a8ae059dcab2fa41eb,CVE-2020-11652
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/Saltstack 远程命令执行漏洞 CVE-2020-11651 11652.md,6ec7e0e9122a0c07a69653a8ae059dcab2fa41eb,CVE-2020-11651
-461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic 反序列化远程代码执行漏洞 CVE-2019-2725.md,6fef309e1229b8765ad66a58e4a2382ea1aa2e24,CVE-2017-10271
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic 反序列化远程代码执行漏洞 CVE-2019-2725.md,6fef309e1229b8765ad66a58e4a2382ea1aa2e24,CVE-2019-2725
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic 反序列化远程代码执行漏洞 CVE-2019-2725.md,6fef309e1229b8765ad66a58e4a2382ea1aa2e24,CVE-2017-10271
 461406901,Threekiii/Awesome-POC,网络设备漏洞/D-Link DCS系列监控 账号密码信息泄露漏洞 CVE-2020-25078.md,713c34cbdee362c5200cf46b9b0ea0fb248ba998,CVE-2020-25078
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Solr JMX服务 RCE CVE-2019-12409.md,71d705e153c7028d2662339d29dc6671d987530a,CVE-2019-12409
 461406901,Threekiii/Awesome-POC,网络设备漏洞/Arcadyan固件 cgi_i_filter.js 配置信息泄漏漏洞 CVE-2021-20092.md,7540b10e5a657371035849056628afc6578d4b1d,CVE-2021-20092
@@ -53,9 +53,11 @@ repo_id,repo_full_name,file,file_sha1,match
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Tomcat 远程代码执行漏洞 CVE-2017-12615.md,81b1284d5f9c131eba74f09654c1eaf2c0a2f38e,CVE-2017-12615
 461406901,Threekiii/Awesome-POC,网络设备漏洞/锐捷 RG-UAC 账号密码信息泄露 CNVD-2021-14536.md,859322deb4197df54d160649847e5f6fb4c638a1,CNVD-2021-14536
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Druid 远程代码执行漏洞 CVE-2021-25646.md,88be1c78f7dd56f260cc36f72306e27e9dddc860,CVE-2021-25646
-461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange SSRF漏洞 CVE-2021-26885.md,8943e102abba4da1dcbfe11809cd85dc1592d117,CVE-2021-26855
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange SSRF漏洞 CVE-2021-26885.md,8943e102abba4da1dcbfe11809cd85dc1592d117,CVE-2021-26885
+461406901,Threekiii/Awesome-POC,服务器应用漏洞/Microsoft Exchange SSRF漏洞 CVE-2021-26885.md,8943e102abba4da1dcbfe11809cd85dc1592d117,CVE-2021-26855
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/NVIDIA GPU显示驱动程序 信息泄露 CVE-2021-1056.md,89ba34c279ead426859c5cd455e576b683f52515,CVE-2021-1056
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Struts2 S2-062 远程代码执行漏洞 CVE-2021-31805.md,8b0d53826ac64fff7746fb23ab76a302c9c06984,CVE-2021-31805
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Struts2 S2-062 远程代码执行漏洞 CVE-2021-31805.md,8b0d53826ac64fff7746fb23ab76a302c9c06984,CVE-2020-17530
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Cocoon XML注入 CVE-2020-11991.md,8d0edf10b4bbc2700af8b11a8f402b1039738676,CVE-2020-11991
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Flink 小于1.9.1远程代码执行 CVE-2020-17518.md,8f014363c4c318be7157bfe2c3d57734e085ab42,CVE-2020-17518
 461406901,Threekiii/Awesome-POC,CMS漏洞/OKLite 1.2.25 后台模块导入 任意文件上传 CVE-2019-16131.md,8f7f92dd3c28cac4c44b8d5d9ed59761ffafd1c3,CVE-2019-16131
@@ -83,8 +85,8 @@ repo_id,repo_full_name,file,file_sha1,match
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/QEMU 虚拟机逃逸漏洞 CVE-2020-14364.md,c9ade9efca5931aa96ce4f7340706c1749cc4136,CVE-2020-14364
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Tomcat WebSocket 拒绝服务漏洞 CVE-2020-13935.md,ca8b497a8142d09aef5f60e2b382d79853e550ff,CVE-2020-1938
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Tomcat WebSocket 拒绝服务漏洞 CVE-2020-13935.md,ca8b497a8142d09aef5f60e2b382d79853e550ff,CVE-2020-13935
-461406901,Threekiii/Awesome-POC,服务器应用漏洞/SaltStack 未授权访问命令执行漏洞 CVE-2020-16846 25592.md,cab4981a4cfc95ca6f255e9c5bcd48fe1c2f69f1,CVE-2020-25592
 461406901,Threekiii/Awesome-POC,服务器应用漏洞/SaltStack 未授权访问命令执行漏洞 CVE-2020-16846 25592.md,cab4981a4cfc95ca6f255e9c5bcd48fe1c2f69f1,CVE-2020-16846
+461406901,Threekiii/Awesome-POC,服务器应用漏洞/SaltStack 未授权访问命令执行漏洞 CVE-2020-16846 25592.md,cab4981a4cfc95ca6f255e9c5bcd48fe1c2f69f1,CVE-2020-25592
 461406901,Threekiii/Awesome-POC,OA产品漏洞/蓝凌OA kmImeetingRes.do 后台SQL注入漏洞 CNVD-2021-01363.md,cdfe097adb733829dce6bba3c56689ef0a5b9cf2,CNVD-2021-01363
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Solr XXE 漏洞 CVE-2017-12629.md,d81d3b16a000e85efdb1a965e0d73f11d28bf599,CVE-2017-12629
 461406901,Threekiii/Awesome-POC,开发框架漏洞/jQuery XSS漏洞 CVE-2020-11022 11023.md,d982fa748b24c7b7dc698c49c61623bc9f39d539,CVE-2020-11022
@@ -94,15 +96,15 @@ repo_id,repo_full_name,file,file_sha1,match
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic XMLDecoder 远程代码执行漏洞 CVE-2017-10271.md,df8dde7c35ee87ab00ae35308739d970a88bfce8,CVE-2017-10271
 461406901,Threekiii/Awesome-POC,网络设备漏洞/中国移动 禹路由 ExportSettings.sh 敏感信息泄露漏洞 CNVD-2020-67110.md,e0e35a09ce4a8ed9277e7806db31b2b5b17b9ca5,CNVD-2020-67110
 461406901,Threekiii/Awesome-POC,操作系统漏洞/Windows SMB远程代码执行漏洞 CVE-2020-0796.md,e1547aa03772a7c3db5a337b61a7b94e4770dc8a,CVE-2020-0796
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2019-17195
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-1994
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2020-14756
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-2047
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-2109
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-2108
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-2075
-461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2020-14756
-461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-1994
-461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2020-14882
-461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2019-17195
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-2064
-461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-2109
-461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2021-2047
+461406901,Threekiii/Awesome-POC,Web服务器漏洞/Weblogic LDAP 远程代码执行漏洞 CVE-2021-2109.md,e2ac35ef4f7b382fd312ca2be25ed8fa7ea99eb8,CVE-2020-14882
 461406901,Threekiii/Awesome-POC,OA产品漏洞/用友 GRP-U8 Proxy SQL注入 CNNVD-201610-923.md,eb77d5be55f0b547d3f3884229f66d4a2b401f93,CNNVD-201610-923
 461406901,Threekiii/Awesome-POC,网络设备漏洞/中国移动 禹路由 simple-index.asp 越权访问漏洞 CNVD-2020-55983.md,ec3915ec4fd9a08d0f78cc67eb38d279421e025c,CNVD-2020-55983
 461406901,Threekiii/Awesome-POC,Web服务器漏洞/Apache Tomcat AJP 文件包含漏洞 CVE-2020-1938.md,ec81c15111d3ccaadda88ba91d46074a65193830,CVE-2020-1938
