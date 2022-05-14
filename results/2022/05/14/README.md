@@ -1,22 +1,25 @@
 
 # Summary for results/2022/05/14
     
-42 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-14 00:21:13+00:00 | 738892 | 27224 | Ruby | 12218 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-7 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-7 | ['exploit'] | 1 | 2022-05-14 00:24:06+00:00 | 0 | 0 | | 0 | [] |
+| GatoGamer1155/CVE-2021-3156 | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-14 03:08:44+00:00 | 1013 | 4 | Python | 0 | ['CVE-2021-3156'] |
 | H0QLCoder/Discord-Image-logger-mutil-tool | Warning Although the hacking community in general are pretty chill nice people there are a lot of bad actors on discord who sell fake things to try and scam people interested in hacking. People will sell things like fake "One Click" exploits for 50 dollars | https://github.com/H0QLCoder/Discord-Image-logger-mutil-tool | ['exploit'] | 1 | 2022-05-14 04:24:08+00:00 | 34525 | 4 | | 0 | [] |
 | XmasSnowREAL/CVE-2022-26809-RCE | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-05-14 06:01:19+00:00 | 12 | 29 | Python | 1 | ['CVE-2022-26809'] |
 | yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 03:56:44+00:00 | 262 | 10 | Python | 6 | ['CVE-2022-26809'] |
+| C0nneR/My_Windows_Exploits | My scripts organized according to MITRE ATT&CK Windows enterprise matrix. | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-14 06:51:12+00:00 | 13 | 0 | C++ | 0 | [] |
+| badboycxcc/XSS-CVE-2022-30489 | None | https://github.com/badboycxcc/XSS-CVE-2022-30489 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 06:20:12+00:00 | 6 | 0 | | 0 | ['CVE-2022-30489'] |
 | Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-14 00:17:18+00:00 | 91 | 0 | | 0 | [] |
 | pingme998/ar2rcen | None | https://github.com/pingme998/ar2rcen | ['rce'] | 1 | 2022-05-14 01:54:36+00:00 | 134 | 0 | Shell | 0 | [] |
+| Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenit | https://github.com/Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | ['exploit'] | 1 | 2022-05-14 07:21:13+00:00 | 7136 | 0 | C | 1 | [] |
 | savior-only/CVE-2022-30525 | Zyxel 防火墙未经身份验证的远程命令注入 | https://github.com/savior-only/CVE-2022-30525 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 04:45:38+00:00 | 7 | 1 | Python | 0 | ['CVE-2022-30525'] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | ['exploit'] | 1 | 2022-05-14 00:21:13+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-8 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-8 | ['exploit'] | 1 | 2022-05-14 00:22:31+00:00 | 0 | 0 | | 0 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-7 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-7 | ['exploit'] | 1 | 2022-05-14 00:24:06+00:00 | 0 | 0 | | 0 | [] |
 | Eddi0x/SILENT-WORD-EXPLOIT-FUD | None | https://github.com/Eddi0x/SILENT-WORD-EXPLOIT-FUD | ['exploit'] | 1 | 2022-05-14 01:36:35+00:00 | 0 | 0 | | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-14 05:58:56+00:00 | 5484 | 3248 | Python | 693 | [] |
 | Eddi0x/JPEG-Exploit-Last-Update | None | https://github.com/Eddi0x/JPEG-Exploit-Last-Update | ['exploit'] | 1 | 2022-05-14 01:37:25+00:00 | 0 | 0 | | 0 | [] |
 | Eddi0x/Office-Excel-Exploit-Fully-Silent | None | https://github.com/Eddi0x/Office-Excel-Exploit-Fully-Silent | ['exploit'] | 1 | 2022-05-14 01:39:31+00:00 | 0 | 0 | | 0 | [] |
 | Eddi0x/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | None | https://github.com/Eddi0x/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | ['exploit'] | 1 | 2022-05-14 01:40:22+00:00 | 0 | 0 | | 0 | [] |
@@ -25,10 +28,13 @@
 | NEED-Programming/Exploit-Development | None | https://github.com/NEED-Programming/Exploit-Development | ['exploit'] | 1 | 2022-05-14 03:23:56+00:00 | 1 | 0 | | 0 | [] |
 | Holyshitbruh/2022-2021-F5-BIG-IP-IQ-RCE | fuck idk | https://github.com/Holyshitbruh/2022-2021-F5-BIG-IP-IQ-RCE | ['rce'] | 1 | 2022-05-14 04:22:13+00:00 | 0 | 0 | Python | 0 | [] |
 | Exploitables/CVE-2022-26927 | A proof-of-concept font with a write-up attached. | https://github.com/Exploitables/CVE-2022-26927 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 04:12:57+00:00 | 0 | 0 | | 0 | ['CVE-2022-26927'] |
+| NEED-Programming/Exploit-Development | None | https://github.com/NEED-Programming/Exploit-Development | ['exploit'] | 1 | 2022-05-14 05:07:36+00:00 | 0 | 1 | C++ | 0 | [] |
+| Mr-TechX/Exploit-Collector | Exploit Collector | https://github.com/Mr-TechX/Exploit-Collector | ['exploit'] | 1 | 2022-05-14 06:45:09+00:00 | 21 | 0 | | 0 | [] |
 | hktalent/go4Hacker | Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin | https://github.com/hktalent/go4Hacker | ['rce', 'rce poc'] | 2 | 2022-05-14 01:54:31+00:00 | 684 | 11 | Go | 5 | [] |
-| GatoGamer1155/CVE-2021-3156 | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-14 03:08:44+00:00 | 1013 | 4 | Python | 0 | ['CVE-2021-3156'] |
 | GatoGamer1155/CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-14 03:13:22+00:00 | 1024 | 5 | Python | 0 | ['CVE-2021-3560'] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-14 05:58:56+00:00 | 5484 | 3248 | Python | 693 | [] |
 | benliew68/hungry-jacks-survey-exploit | POC of cracking the myhjexperience.com Validation Code ciphers | https://github.com/benliew68/hungry-jacks-survey-exploit | ['exploit'] | 1 | 2022-05-14 05:22:17+00:00 | 6186 | 1 | Python | 1 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-14 07:17:02+00:00 | 1061 | 0 | Python | 11 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-14 00:29:57+00:00 | 53525 | 302 | Ruby | 88 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-14 02:32:00+00:00 | 271717 | 155 | REXX | 15 | [] |
 | spiritofthegael/ExploitDB-Project | None | https://github.com/spiritofthegael/ExploitDB-Project | ['exploit'] | 1 | 2022-05-14 01:27:06+00:00 | 160 | 0 | Jupyter Notebook | 0 | [] |
@@ -36,6 +42,7 @@
 | CaledoniaProject/drivers-binaries | Exploitable drivers, you know what I mean | https://github.com/CaledoniaProject/drivers-binaries | ['exploit'] | 1 | 2022-05-14 01:59:39+00:00 | 527 | 6 | | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-14 00:04:43+00:00 | 538947 | 55 | | 21 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-14 05:01:47+00:00 | 28028 | 29 | Python | 6 | [] |
+| TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2022-05-14 07:33:30+00:00 | 117 | 1 | Lua | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-14 04:46:43+00:00 | 510087 | 108 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-14 04:00:57+00:00 | 180757 | 402 | Python | 118 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-14 02:10:18+00:00 | 19639 | 3 | Python | 0 | [] |
@@ -45,5 +52,9 @@
 | ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-05-14 00:52:57+00:00 | 372 | 0 | | 0 | [] |
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2022-05-14 02:21:05+00:00 | 288 | 2 | | 1 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-05-14 01:16:12+00:00 | 1012 | 3 | C | 1 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-14 01:46:41+00:00 | 65894 | 2732 | nan | 335 | [] |
-| NEED-Programming/Exploit-Development | None | https://github.com/NEED-Programming/Exploit-Development | ['exploit'] | 1 | 2022-05-14 05:07:36+00:00 | 0 | 1 | C++ | 0 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-05-14 07:13:05+00:00 | 735 | 1 | | 0 | [] |
+| badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | None | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 06:21:21+00:00 | 2183 | 0 | | 0 | ['CVE-2022-29383'] |
+| cxaqhq/netgear-to-CVE-2022-29383 | None | https://github.com/cxaqhq/netgear-to-CVE-2022-29383 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 06:30:56+00:00 | 2131 | 0 | | 0 | ['CVE-2022-29383'] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-14 06:28:56+00:00 | 124465 | 2 | Jupyter Notebook | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-14 01:46:41+00:00 | 65894 | 2732 | | 335 | [] |
+| SampatDhakal/Metasploit-Attack-Report | Technical Analysis of the SMB vulnerability (CVE-2017-0143) & its impact on the vulnerable system | https://github.com/SampatDhakal/Metasploit-Attack-Report | ['metasploit module OR payload'] | 1 | 2022-05-14 07:31:25+00:00 | 0 | 0 | | 0 | ['CVE-2017-0143'] |
