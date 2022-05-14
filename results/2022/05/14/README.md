@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/14
     
-53 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -30,6 +30,8 @@
 | Exploitables/CVE-2022-26927 | A proof-of-concept font with a write-up attached. | https://github.com/Exploitables/CVE-2022-26927 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 04:12:57+00:00 | 0 | 0 | | 0 | ['CVE-2022-26927'] |
 | NEED-Programming/Exploit-Development | None | https://github.com/NEED-Programming/Exploit-Development | ['exploit'] | 1 | 2022-05-14 05:07:36+00:00 | 0 | 1 | C++ | 0 | [] |
 | Mr-TechX/Exploit-Collector | Exploit Collector | https://github.com/Mr-TechX/Exploit-Collector | ['exploit'] | 1 | 2022-05-14 06:45:09+00:00 | 21 | 0 | | 0 | [] |
+| SampatDhakal/Metasploit-Attack-Report | Technical Analysis of the SMB vulnerability (CVE-2017-0143) & its impact on the vulnerable system | https://github.com/SampatDhakal/Metasploit-Attack-Report | ['metasploit module OR payload'] | 1 | 2022-05-14 07:31:25+00:00 | 0 | 0 | | 0 | ['CVE-2017-0143'] |
+| zerodays/dragonhack-2022-1 | Zerodays team 1 dragonhack 2022 submition. | https://github.com/zerodays/dragonhack-2022-1 | ['zeroday'] | 1 | 2022-05-14 08:13:07+00:00 | 0 | 0 | C++ | 0 | [] |
 | hktalent/go4Hacker | Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin | https://github.com/hktalent/go4Hacker | ['rce', 'rce poc'] | 2 | 2022-05-14 01:54:31+00:00 | 684 | 11 | Go | 5 | [] |
 | GatoGamer1155/CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-14 03:13:22+00:00 | 1024 | 5 | Python | 0 | ['CVE-2021-3560'] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-14 05:58:56+00:00 | 5484 | 3248 | Python | 693 | [] |
@@ -55,6 +57,8 @@
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-05-14 07:13:05+00:00 | 735 | 1 | | 0 | [] |
 | badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | None | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 06:21:21+00:00 | 2183 | 0 | | 0 | ['CVE-2022-29383'] |
 | cxaqhq/netgear-to-CVE-2022-29383 | None | https://github.com/cxaqhq/netgear-to-CVE-2022-29383 | ['cve-2 OR cve_2'] | 1 | 2022-05-14 06:30:56+00:00 | 2131 | 0 | | 0 | ['CVE-2022-29383'] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-14 08:15:07+00:00 | 273 | 0 | Go | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-14 06:28:56+00:00 | 124465 | 2 | Jupyter Notebook | 0 | [] |
+| Idov31/FunctionStomping | A new shellcode injection technique. Given as C++ header, standalone Rust program or library. | https://github.com/Idov31/FunctionStomping | ['shellcode'] | 1 | 2022-05-14 08:46:06+00:00 | 585 | 508 | Rust | 77 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-14 01:46:41+00:00 | 65894 | 2732 | | 335 | [] |
-| SampatDhakal/Metasploit-Attack-Report | Technical Analysis of the SMB vulnerability (CVE-2017-0143) & its impact on the vulnerable system | https://github.com/SampatDhakal/Metasploit-Attack-Report | ['metasploit module OR payload'] | 1 | 2022-05-14 07:31:25+00:00 | 0 | 0 | | 0 | ['CVE-2017-0143'] |
+| zerodays/dragonhack-2022-0 | Zerodays team 0 submission for DragonHack 2022. | https://github.com/zerodays/dragonhack-2022-0 | ['zeroday'] | 1 | 2022-05-14 08:33:04+00:00 | 0 | 0 | | 0 | [] |
