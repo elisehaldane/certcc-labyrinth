@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/15
     
-106 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-15 06:25:24+00:00 | 5485 | 3249 | Python | 693 | [] |
-| p0dalirius/Tomcat-application-webshell | A webshell application and interactive shell for pentesting Apache Tomcat servers. | https://github.com/p0dalirius/Tomcat-application-webshell | ['exploit', 'rce'] | 2 | 2022-05-15 19:16:12+00:00 | 0 | 0 | Java | 0 | [] |
+| marcindn/Cybersecurity | Jakieś projekty o tematyce hakowania | https://github.com/marcindn/Cybersecurity | ['metasploit module OR payload'] | 1 | 2022-05-15 10:52:59+00:00 | 6 | 0 | Python | 0 | [] |
+| PsychoSec2/CVE-2022-1388-POC | An improved Proof of Concept for CVE-2022-1388 w/ Interactive Shell. No reverse tcp required! | https://github.com/PsychoSec2/CVE-2022-1388-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-15 00:57:46+00:00 | 34 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | zerodays/dragonhack-2022-0 | Zerodays team 0 submission for DragonHack 2022. | https://github.com/zerodays/dragonhack-2022-0 | ['zeroday'] | 1 | 2022-05-15 00:44:07+00:00 | 10573 | 0 | Swift | 0 | [] |
 | zerodays/dragonhack-2022-1 | Zerodays team 1 dragonhack 2022 submition. | https://github.com/zerodays/dragonhack-2022-1 | ['zeroday'] | 1 | 2022-05-15 00:48:56+00:00 | 294 | 0 | Python | 0 | [] |
 | Holyshitbruh/2022-2021-RCE | fuck idk | https://github.com/Holyshitbruh/2022-2021-RCE | ['rce'] | 1 | 2022-05-15 04:25:48+00:00 | 2433 | 0 | Python | 1 | [] |
@@ -17,8 +18,8 @@
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is my brand new project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-05-15 18:48:51+00:00 | 96 | 1 | Python | 0 | [] |
 | ARSecurityTeam/Android-Payload-Generat | Metasploit payload generating tool for android Termux Terminal. | https://github.com/ARSecurityTeam/Android-Payload-Generat | ['metasploit module OR payload'] | 1 | 2022-05-15 09:09:56+00:00 | 1 | 0 | Shell | 1 | [] |
 | Unknown56406516401563456/Laugh-Exploit | An Roblox Executor Extremely Op Sploit I Would Say Its Level 7-6 Have Fun The Key Doesn't Change Everyday So Yeah Have Fun E. | https://github.com/Unknown56406516401563456/Laugh-Exploit | ['exploit', 'sploit'] | 2 | 2022-05-15 12:30:25+00:00 | 4 | 0 | | 0 | [] |
-| marcindn/Cybersecurity | Jakieś projekty o tematyce hakowania | https://github.com/marcindn/Cybersecurity | ['metasploit module OR payload'] | 1 | 2022-05-15 10:52:59+00:00 | 6 | 0 | Python | 0 | [] |
 | adbenoit-9/42_override | 42 - Exploitation of (elf-like) binary. | https://github.com/adbenoit-9/42_override | ['exploit'] | 1 | 2022-05-15 11:57:00+00:00 | 43 | 0 | C | 0 | [] |
+| C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2022-05-15 02:48:31+00:00 | 164 | 51 | Makefile | 3 | [] |
 | sherlocksecurity/CVE-2022-1388-Exploit-POC | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-15 02:30:40+00:00 | 10 | 48 | | 9 | ['CVE-2022-1388'] |
 | mislavivanda/RF_DamnVulnerableDeFi | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | ['exploit'] | 1 | 2022-05-15 20:04:52+00:00 | 461 | 0 | Solidity | 0 | [] |
 | kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-05-15 06:35:57+00:00 | 36 | 9 | Python | 4 | [] |
@@ -30,10 +31,11 @@
 | TartarusLabs/Coyote | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | ['exploit'] | 1 | 2022-05-15 14:04:11+00:00 | 68 | 11 | C# | 0 | [] |
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-15 12:02:33+00:00 | 188 | 193 | Go | 21 | [] |
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-15 01:42:18+00:00 | 63 | 3 | Python | 0 | ['CVE-2021-22204'] |
-| PsychoSec2/CVE-2022-1388-POC | An improved Proof of Concept for CVE-2022-1388 w/ Interactive Shell. No reverse tcp required! | https://github.com/PsychoSec2/CVE-2022-1388-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-15 00:57:46+00:00 | 34 | 1 | Python | 0 | ['CVE-2022-1388'] |
+| p0dalirius/Tomcat-application-webshell | A webshell application and interactive shell for pentesting Apache Tomcat servers. | https://github.com/p0dalirius/Tomcat-application-webshell | ['exploit', 'rce'] | 2 | 2022-05-15 19:16:12+00:00 | 0 | 0 | Java | 0 | [] |
 | ahsentekdemir/CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the p | https://github.com/ahsentekdemir/CVE-2022-28346 | ['cve-2 OR cve_2'] | 1 | 2022-05-15 00:53:22+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-28346'] |
-| C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2022-05-15 02:48:31+00:00 | 164 | 51 | Makefile | 3 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:13:03+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:13:52+00:00 | 1 | 0 | | 0 | [] |
+| cristhianmt/tryhackme | reportes de máquinas realizadas | https://github.com/cristhianmt/tryhackme | ['exploit'] | 1 | 2022-05-15 20:57:29+00:00 | 5148 | 0 | | 0 | [] |
 | lavclash75/mybb-CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-05-15 19:31:22+00:00 | 0 | 1 | | 0 | ['CVE-2022-24734'] |
 | DragonTechRoyale/CTF-Writeups | Writeups and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Writeups | ['exploit'] | 1 | 2022-05-15 19:40:10+00:00 | 0 | 0 | Python | 0 | [] |
 | NeobloxExecutor/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/NeobloxExecutor/neoblox | ['exploit'] | 1 | 2022-05-15 19:10:08+00:00 | 0 | 1 | C# | 0 | [] |
@@ -56,12 +58,10 @@
 | rumputliar/Active-Directory-Exploitation-Cheat-Sheet | None | https://github.com/rumputliar/Active-Directory-Exploitation-Cheat-Sheet | ['exploit'] | 1 | 2022-05-15 01:30:22+00:00 | 0 | 0 | | 0 | [] |
 | SkidderKix/Scrooge-Exploit- | None | https://github.com/SkidderKix/Scrooge-Exploit- | ['exploit'] | 1 | 2022-05-15 01:29:48+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:14:39+00:00 | 1 | 0 | | 0 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:13:52+00:00 | 1 | 0 | | 0 | [] |
 | GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-15 18:40:43+00:00 | 8423 | 4 | JavaScript | 1 | [] |
 | imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-05-15 13:29:49+00:00 | 6 | 0 | JavaScript | 1 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-05-15 20:01:41+00:00 | 1100 | 0 | TypeScript | 0 | [] |
-| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-15 09:01:00+00:00 | 2629 | 4 | Dockerfile | 1 | [] |
-| PanosAntoniadis/emotion-gcn | [IEEE FG 2021] Official implementation: Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition | https://github.com/PanosAntoniadis/emotion-gcn | ['exploit'] | 1 | 2022-05-15 10:43:19+00:00 | 5429 | 15 | Python | 0 | [] |
+| SQLab/CRAXplusplus | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-15 08:31:50+00:00 | 3597 | 48 | C++ | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-15 02:07:04+00:00 | 1783 | 96 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-15 02:06:30+00:00 | 21374 | 3 | Python | 0 | [] |
 | richie0866/rbxm-suite | Tool designed for exploiting with a Rojo-based workflow | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-05-15 09:27:54+00:00 | 132 | 12 | Lua | 2 | [] |
@@ -79,15 +79,16 @@
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-15 02:23:59+00:00 | 716 | 271 | C | 13 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-15 14:58:48+00:00 | 14484 | 40 | | 21 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-05-15 12:40:48+00:00 | 15652 | 330 | C | 51 | [] |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2022-05-15 21:46:36+00:00 | 519 | 144 | Java | 34 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2022-05-15 13:50:36+00:00 | 1109 | 9 | C | 2 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-15 02:32:28+00:00 | 266368 | 156 | REXX | 15 | [] |
 | hyunsukn/mobile_exploit | Mobile Exploitation using Frida | https://github.com/hyunsukn/mobile_exploit | ['exploit'] | 1 | 2022-05-15 12:26:22+00:00 | 6 | 0 | Python | 0 | [] |
 | opsxcq/blog | https://strm.sh website source code | https://github.com/opsxcq/blog | ['exploit'] | 1 | 2022-05-15 13:40:47+00:00 | 33309 | 5 | TeX | 4 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-15 00:33:38+00:00 | 55068 | 302 | Ruby | 88 | [] |
-| SQLab/CRAXplusplus | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-15 08:31:50+00:00 | 3597 | 48 | C++ | 3 | [] |
+| PanosAntoniadis/emotion-gcn | [IEEE FG 2021] Official implementation: Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition | https://github.com/PanosAntoniadis/emotion-gcn | ['exploit'] | 1 | 2022-05-15 10:43:19+00:00 | 5429 | 15 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-15 01:54:07+00:00 | 5410031 | 43 | Python | 7 | [] |
+| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-15 09:01:00+00:00 | 2629 | 4 | Dockerfile | 1 | [] |
 | SirAppSec/exploit-server | Static light nginx site to serve vulnerabilities | https://github.com/SirAppSec/exploit-server | ['exploit'] | 1 | 2022-05-15 11:47:23+00:00 | 64 | 1 | HTML | 0 | [] |
-| twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-05-15 04:23:15+00:00 | 609 | 1 | Python | 2 | [] |
 | xjusthaxor/Responsive-filemanager | API & exploit | https://github.com/xjusthaxor/Responsive-filemanager | ['exploit'] | 1 | 2022-05-15 12:31:02+00:00 | 89 | 1 | PHP | 0 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-05-15 13:43:53+00:00 | 892 | 937 | C | 98 | [] |
 | Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-05-15 17:08:26+00:00 | 19 | 1 | | 0 | [] |
@@ -98,8 +99,8 @@
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-15 03:00:08+00:00 | 548802 | 617 | | 129 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-05-15 15:00:26+00:00 | 208234 | 1 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-15 01:20:29+00:00 | 292 | 0 | | 0 | [] |
+| twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-05-15 04:23:15+00:00 | 609 | 1 | Python | 2 | [] |
 | MathieuLsr/SystemExploitProjet | Projet EL-3032 – ESIEE 2022 | https://github.com/MathieuLsr/SystemExploitProjet | ['exploit'] | 1 | 2022-05-15 17:25:09+00:00 | 0 | 0 | C | 0 | [] |
-| ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-05-15 00:25:51+00:00 | 387 | 0 | | 0 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-05-15 18:02:51+00:00 | 52 | 61 | Python | 39 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 01:42:09+00:00 | 59644 | 2734 | nan | 336 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-15 06:18:38+00:00 | 124465 | 2 | Jupyter Notebook | 0 | [] |
@@ -110,4 +111,5 @@
 | ghostapustaja/legionhub | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | ['exploit'] | 1 | 2022-05-15 08:51:19+00:00 | 108 | 0 | Lua | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-05-15 18:10:34+00:00 | 8033 | 13 | | 4 | [] |
 | dombg1337/Exploit_Templates | Just some useful exploit helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2022-05-15 07:41:17+00:00 | 38 | 0 | Python | 0 | [] |
+| ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-05-15 00:25:51+00:00 | 387 | 0 | | 0 | [] |
 | netflixfurimmer/PDF-DOC-WORD-EXPLOITE-2022 | Tags (Ignore) exploit,word exploit,0day word exploit,silent word exploit,doc exploit,silent exploit,2017 word exploit,word exploit 2018,word exploit 2016,stone word exploit,fud exploit,word,word exploit download,word macros exploit,microsoft word exploit, | https://github.com/netflixfurimmer/PDF-DOC-WORD-EXPLOITE-2022 | ['0day', 'exploit'] | 2 | 2022-05-15 20:47:29+00:00 | 0 | 0 | | 0 | [] |
