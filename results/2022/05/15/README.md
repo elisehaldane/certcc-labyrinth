@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/15
     
-43 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-15 06:25:24+00:00 | 5485 | 3249 | Python | 693 | [] |
-| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:14:39+00:00 | 1 | 0 | | 0 | [] |
+| Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-05-15 07:38:11+00:00 | 0 | 0 | VHDL | 0 | [] |
+| sherlocksecurity/CVE-2022-1388-Exploit-POC | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-15 02:30:40+00:00 | 10 | 48 | | 9 | ['CVE-2022-1388'] |
 | mmore21/b33f_exploits | Exploits created based on FuzzySecurity's Windows Exploit Development tutorials. | https://github.com/mmore21/b33f_exploits | ['exploit'] | 1 | 2022-05-15 02:13:53+00:00 | 2 | 0 | Python | 0 | [] |
 | Holyshitbruh/2022-2021-RCE | fuck idk | https://github.com/Holyshitbruh/2022-2021-RCE | ['rce'] | 1 | 2022-05-15 04:25:48+00:00 | 2433 | 0 | Python | 1 | [] |
 | zerodays/dragonhack-2022-1 | Zerodays team 1 dragonhack 2022 submition. | https://github.com/zerodays/dragonhack-2022-1 | ['zeroday'] | 1 | 2022-05-15 00:48:56+00:00 | 294 | 0 | Python | 0 | [] |
@@ -15,8 +16,8 @@
 | ahsentekdemir/CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the p | https://github.com/ahsentekdemir/CVE-2022-28346 | ['cve-2 OR cve_2'] | 1 | 2022-05-15 00:53:22+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-28346'] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:13:03+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:13:52+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:14:39+00:00 | 1 | 0 | | 0 | [] |
 | SkidderKix/Scrooge-Exploit- | None | https://github.com/SkidderKix/Scrooge-Exploit- | ['exploit'] | 1 | 2022-05-15 01:29:48+00:00 | 0 | 0 | | 0 | [] |
-| kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-05-15 06:35:57+00:00 | 36 | 9 | Python | 4 | [] |
 | rumputliar/Active-Directory-Exploitation-Cheat-Sheet | None | https://github.com/rumputliar/Active-Directory-Exploitation-Cheat-Sheet | ['exploit'] | 1 | 2022-05-15 01:30:22+00:00 | 0 | 0 | | 0 | [] |
 | akr3ch/WebCacheDeception | A simple bash script for Web Cache Deception exploitation. | https://github.com/akr3ch/WebCacheDeception | ['exploit'] | 1 | 2022-05-15 01:47:53+00:00 | 0 | 0 | Shell | 0 | [] |
 | twseptian/cve-2021-38314 | cve-2021-38314 - Unauthenticated Sensitive Information Disclosure | https://github.com/twseptian/cve-2021-38314 | ['cve-2 OR cve_2'] | 1 | 2022-05-15 02:19:06+00:00 | 0 | 0 | PHP | 0 | ['CVE-2021-38314'] |
@@ -25,10 +26,10 @@
 | PsychoSec2/CVE-2022-1388-POC | An Improved Proof of Concept for CVE-2022-1388 w/ Interactive an Shell | https://github.com/PsychoSec2/CVE-2022-1388-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-15 04:52:51+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | WLS-SD/MSF-Installer-Termux | Install Metasploit in Android (Termux) | https://github.com/WLS-SD/MSF-Installer-Termux | ['metasploit module OR payload'] | 1 | 2022-05-15 05:46:43+00:00 | 0 | 0 | | 0 | [] |
 | HerculesRD/objToShellcode | A Powershell script to get Shellcode from an objdump file | https://github.com/HerculesRD/objToShellcode | ['shellcode'] | 1 | 2022-05-15 06:17:22+00:00 | 0 | 0 | PowerShell | 0 | [] |
-| sherlocksecurity/CVE-2022-1388-Exploit-POC | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-15 02:30:40+00:00 | 10 | 48 | | 9 | ['CVE-2022-1388'] |
+| kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-05-15 06:35:57+00:00 | 36 | 9 | Python | 4 | [] |
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-15 01:42:18+00:00 | 63 | 3 | Python | 0 | ['CVE-2021-22204'] |
 | C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2022-05-15 02:48:31+00:00 | 164 | 51 | Makefile | 3 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-15 02:06:30+00:00 | 21374 | 3 | Python | 0 | [] |
+| EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-05-15 02:47:57+00:00 | 271 | 7 | Python | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-15 00:33:38+00:00 | 55068 | 302 | Ruby | 88 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-15 02:32:28+00:00 | 266368 | 156 | REXX | 15 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-15 02:23:59+00:00 | 716 | 271 | C | 13 | [] |
@@ -37,12 +38,13 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 04:45:20+00:00 | 528346 | 108 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-15 04:48:42+00:00 | 184675 | 402 | Python | 118 | [] |
 | BinaryDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | ['exploit'] | 1 | 2022-05-15 00:18:08+00:00 | 1803 | 5 | Lua | 3 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-15 02:06:30+00:00 | 21374 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-15 02:07:04+00:00 | 1783 | 96 | HTML | 24 | [] |
-| EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-05-15 02:47:57+00:00 | 271 | 7 | Python | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-15 01:54:07+00:00 | 5410031 | 43 | Python | 7 | [] |
 | ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-05-15 00:25:51+00:00 | 387 | 0 | | 0 | [] |
+| dombg1337/Exploit_Templates | Just some useful exploit helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2022-05-15 07:41:17+00:00 | 38 | 0 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-15 06:18:38+00:00 | 124465 | 2 | Jupyter Notebook | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 01:42:09+00:00 | 59644 | 2734 | nan | 336 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 01:42:09+00:00 | 59644 | 2734 | | 336 | [] |
 | twseptian/python-exploit-scripts | python scripts | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-05-15 04:23:15+00:00 | 609 | 1 | Python | 2 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-15 01:20:29+00:00 | 292 | 0 | | 0 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-15 03:00:08+00:00 | 548802 | 617 | | 129 | [] |
