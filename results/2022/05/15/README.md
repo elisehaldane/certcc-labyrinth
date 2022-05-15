@@ -1,21 +1,22 @@
 
 # Summary for results/2022/05/15
     
-79 records found after deduplication
+80 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-15 06:25:24+00:00 | 5485 | 3249 | Python | 693 | [] |
-| adbenoit-9/42_override | 42 - Exploitation of (elf-like) binary. | https://github.com/adbenoit-9/42_override | ['exploit'] | 1 | 2022-05-15 11:57:00+00:00 | 43 | 0 | C | 0 | [] |
+| C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2022-05-15 02:48:31+00:00 | 164 | 51 | Makefile | 3 | [] |
 | zerodays/dragonhack-2022-1 | Zerodays team 1 dragonhack 2022 submition. | https://github.com/zerodays/dragonhack-2022-1 | ['zeroday'] | 1 | 2022-05-15 00:48:56+00:00 | 294 | 0 | Python | 0 | [] |
 | Holyshitbruh/2022-2021-RCE | fuck idk | https://github.com/Holyshitbruh/2022-2021-RCE | ['rce'] | 1 | 2022-05-15 04:25:48+00:00 | 2433 | 0 | Python | 1 | [] |
 | mmore21/b33f_exploits | Exploits created based on FuzzySecurity's Windows Exploit Development tutorials. | https://github.com/mmore21/b33f_exploits | ['exploit'] | 1 | 2022-05-15 02:13:53+00:00 | 2 | 0 | Python | 0 | [] |
 | Andrew41112/DaExploits | None | https://github.com/Andrew41112/DaExploits | ['exploit'] | 1 | 2022-05-15 08:31:57+00:00 | 3 | 0 | | 0 | [] |
+| MagnaRoblox/MagnaUI | Our ROBLOX exploit UI. | https://github.com/MagnaRoblox/MagnaUI | ['exploit'] | 1 | 2022-05-15 16:32:49+00:00 | 11 | 0 | | 0 | [] |
 | ARSecurityTeam/Android-Payload-Generat | Metasploit payload generating tool for android Termux Terminal. | https://github.com/ARSecurityTeam/Android-Payload-Generat | ['metasploit module OR payload'] | 1 | 2022-05-15 09:09:56+00:00 | 1 | 0 | Shell | 1 | [] |
 | Unknown56406516401563456/Laugh-Exploit | An Roblox Executor Extremely Op Sploit I Would Say Its Level 7-6 Have Fun The Key Doesn't Change Everyday So Yeah Have Fun E. | https://github.com/Unknown56406516401563456/Laugh-Exploit | ['exploit', 'sploit'] | 2 | 2022-05-15 12:30:25+00:00 | 4 | 0 | | 0 | [] |
 | marcindn/Cybersecurity | Jakieś projekty o tematyce hakowania | https://github.com/marcindn/Cybersecurity | ['metasploit module OR payload'] | 1 | 2022-05-15 10:52:59+00:00 | 6 | 0 | Python | 0 | [] |
+| adbenoit-9/42_override | 42 - Exploitation of (elf-like) binary. | https://github.com/adbenoit-9/42_override | ['exploit'] | 1 | 2022-05-15 11:57:00+00:00 | 43 | 0 | C | 0 | [] |
 | sherlocksecurity/CVE-2022-1388-Exploit-POC | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-15 02:30:40+00:00 | 10 | 48 | | 9 | ['CVE-2022-1388'] |
-| PsychoSec2/CVE-2022-1388-POC | An improved Proof of Concept for CVE-2022-1388 w/ Interactive Shell. No reverse tcp required! | https://github.com/PsychoSec2/CVE-2022-1388-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-15 00:57:46+00:00 | 34 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-05-15 06:35:57+00:00 | 36 | 9 | Python | 4 | [] |
 | Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-05-15 07:38:11+00:00 | 0 | 0 | VHDL | 0 | [] |
 | nicolasmf/pyxploit-db | An exploit-db.com python API using advanced search with all possible filters. | https://github.com/nicolasmf/pyxploit-db | ['exploit'] | 1 | 2022-05-15 08:42:14+00:00 | 57 | 0 | Python | 0 | [] |
@@ -24,8 +25,8 @@
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-15 12:02:33+00:00 | 188 | 193 | Go | 21 | [] |
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-15 01:42:18+00:00 | 63 | 3 | Python | 0 | ['CVE-2021-22204'] |
 | zerodays/dragonhack-2022-0 | Zerodays team 0 submission for DragonHack 2022. | https://github.com/zerodays/dragonhack-2022-0 | ['zeroday'] | 1 | 2022-05-15 00:44:07+00:00 | 10573 | 0 | Swift | 0 | [] |
+| PsychoSec2/CVE-2022-1388-POC | An improved Proof of Concept for CVE-2022-1388 w/ Interactive Shell. No reverse tcp required! | https://github.com/PsychoSec2/CVE-2022-1388-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-15 00:57:46+00:00 | 34 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | ahsentekdemir/CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the p | https://github.com/ahsentekdemir/CVE-2022-28346 | ['cve-2 OR cve_2'] | 1 | 2022-05-15 00:53:22+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-28346'] |
-| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-15 09:01:00+00:00 | 2629 | 4 | Dockerfile | 1 | [] |
 | PsychoSec2/CVE-2022-1388-POC | An Improved Proof of Concept for CVE-2022-1388 w/ Interactive an Shell | https://github.com/PsychoSec2/CVE-2022-1388-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-15 04:52:51+00:00 | 0 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | Astro-IT/netw0rk_pwn3r | netw0rk_pwn3r pwn(network) bingo ;) i own the network u can link exploits and more Advanced ;) | https://github.com/Astro-IT/netw0rk_pwn3r | ['exploit'] | 1 | 2022-05-15 13:50:28+00:00 | 0 | 0 | | 0 | [] |
 | trhacknon/PhoneSploit | None | https://github.com/trhacknon/PhoneSploit | ['sploit'] | 1 | 2022-05-15 10:00:20+00:00 | 0 | 0 | Python | 0 | [] |
@@ -44,13 +45,13 @@
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:14:39+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | ['exploit'] | 1 | 2022-05-15 01:13:52+00:00 | 1 | 0 | | 0 | [] |
 | imssm99/browser-exploit | None | https://github.com/imssm99/browser-exploit | ['exploit'] | 1 | 2022-05-15 13:29:49+00:00 | 6 | 0 | JavaScript | 1 | [] |
+| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-15 09:01:00+00:00 | 2629 | 4 | Dockerfile | 1 | [] |
 | xjusthaxor/Responsive-filemanager | API & exploit | https://github.com/xjusthaxor/Responsive-filemanager | ['exploit'] | 1 | 2022-05-15 12:31:02+00:00 | 89 | 1 | PHP | 0 | [] |
-| C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2022-05-15 02:48:31+00:00 | 164 | 51 | Makefile | 3 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-05-15 09:00:07+00:00 | 4856003 | 4 | Lua | 0 | [] |
 | S3cur3Th1sSh1t/SharpImpersonation | A User Impersonation tool - via Token or Shellcode injection | https://github.com/S3cur3Th1sSh1t/SharpImpersonation | ['shellcode'] | 1 | 2022-05-15 10:54:48+00:00 | 419 | 238 | C# | 54 | [] |
 | BinaryDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | ['exploit'] | 1 | 2022-05-15 00:18:08+00:00 | 1803 | 5 | Lua | 3 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-15 04:48:42+00:00 | 184675 | 402 | Python | 118 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 04:45:20+00:00 | 528346 | 108 | nan | 24 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 04:45:20+00:00 | 528346 | 108 | | 24 | [] |
 | enkomio/AlanFramework | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | ['exploit'] | 1 | 2022-05-15 13:37:18+00:00 | 4475 | 173 | JavaScript | 37 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-15 04:59:27+00:00 | 41963 | 29 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-15 00:04:05+00:00 | 549646 | 55 | | 21 | [] |
@@ -66,7 +67,7 @@
 | richie0866/rbxm-suite | Tool designed for exploiting with a Rojo-based workflow | https://github.com/richie0866/rbxm-suite | ['exploit'] | 1 | 2022-05-15 09:27:54+00:00 | 132 | 12 | Lua | 2 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-15 02:07:04+00:00 | 1783 | 96 | HTML | 24 | [] |
 | kris-nova/boopkit | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | ['rce'] | 1 | 2022-05-15 13:43:53+00:00 | 892 | 937 | C | 98 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 01:42:09+00:00 | 59644 | 2734 | nan | 336 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 01:42:09+00:00 | 59644 | 2734 | | 336 | [] |
 | cokeBeer/pyyso | pyyso is a Python package that generate java serialized poc. Including CommonsCollections1-7, JDK7u21, JDK8u20, ldap for jndi, shiro-550, CommonsBeanutils1 no cc, JRMPClient, high version JDK Bypass | https://github.com/cokeBeer/pyyso | ['exploit'] | 1 | 2022-05-15 14:27:04+00:00 | 31 | 11 | Python | 0 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-05-15 02:47:57+00:00 | 271 | 7 | Python | 1 | [] |
 | spacebin-org/0Day | None | https://github.com/spacebin-org/0Day | ['0day'] | 1 | 2022-05-15 02:12:25+00:00 | 792 | 0 | PHP | 0 | [] |
