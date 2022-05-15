@@ -46,5 +46,5 @@ repo_id,repo_full_name,file,file_sha1,match
 461289600,twseptian/python-exploit-scripts,cve-2021-42013/path_traversal_vuln.py,e740259d3f009a37cdb940bce0de0a98eebf2a1e,CVE-2021-42013
 461289600,twseptian/python-exploit-scripts,cve-2022-24112/apisix-dockerfile/docs/en/latest/build.md,f1dab511ce1a433d3eb5809563297b31746cfcea,CVE-2022-24112
 461289600,twseptian/python-exploit-scripts,cve-2022-24112/apisix-dockerfile/example/mkcert/lvh.me+1-key.pem,f9301af68da51a88ed87f5bd3961cf33f130e53d,CVE-2022-24112
-461289600,twseptian/python-exploit-scripts,cve-2022-24112/apisix-dockerfile/centos/hooks/build,fc2c113770f0146e8c1e1d17ecfadd1dc0a271bd,CVE-2022-24112
+461289600,twseptian/python-exploit-scripts,cve-2022-24112/apisix-dockerfile/alpine/hooks/build,fc2c113770f0146e8c1e1d17ecfadd1dc0a271bd,CVE-2022-24112
 461289600,twseptian/python-exploit-scripts,cve-2022-24112/apisix-dockerfile/alpine-local/Dockerfile,feaf9f46740ca2848d2d533e1ae13d777d9b673c,CVE-2022-24112
