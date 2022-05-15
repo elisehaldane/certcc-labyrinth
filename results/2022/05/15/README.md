@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/15
     
-24 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2022-05-15 02:48:31+00:00 | 164 | 51 | Makefile | 3 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-15 00:33:38+00:00 | 55068 | 302 | Ruby | 88 | [] |
-| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-15 02:23:59+00:00 | 716 | 271 | C | 13 | [] |
+| twseptian/cve-2021-38314 | cve-2021-38314 - Unauthenticated Sensitive Information Disclosure | https://github.com/twseptian/cve-2021-38314 | ['cve-2 OR cve_2'] | 1 | 2022-05-15 02:19:06+00:00 | 0 | 0 | PHP | 0 | ['CVE-2021-38314'] |
 | akr3ch/WebCacheDeception | A simple bash script for Web Cache Deception exploitation. | https://github.com/akr3ch/WebCacheDeception | ['exploit'] | 1 | 2022-05-15 01:47:53+00:00 | 0 | 0 | Shell | 0 | [] |
 | rumputliar/Active-Directory-Exploitation-Cheat-Sheet | None | https://github.com/rumputliar/Active-Directory-Exploitation-Cheat-Sheet | ['exploit'] | 1 | 2022-05-15 01:30:22+00:00 | 0 | 0 | | 0 | [] |
 | SkidderKix/Scrooge-Exploit- | None | https://github.com/SkidderKix/Scrooge-Exploit- | ['exploit'] | 1 | 2022-05-15 01:29:48+00:00 | 0 | 0 | | 0 | [] |
@@ -18,8 +19,11 @@
 | zerodays/dragonhack-2022-0 | Zerodays team 0 submission for DragonHack 2022. | https://github.com/zerodays/dragonhack-2022-0 | ['zeroday'] | 1 | 2022-05-15 00:44:07+00:00 | 10573 | 0 | Swift | 0 | [] |
 | zerodays/dragonhack-2022-1 | Zerodays team 1 dragonhack 2022 submition. | https://github.com/zerodays/dragonhack-2022-1 | ['zeroday'] | 1 | 2022-05-15 00:48:56+00:00 | 294 | 0 | Python | 0 | [] |
 | mmore21/b33f_exploits | Exploits created based on FuzzySecurity's Windows Exploit Development tutorials. | https://github.com/mmore21/b33f_exploits | ['exploit'] | 1 | 2022-05-15 02:13:53+00:00 | 2 | 0 | Python | 0 | [] |
+| sherlocksecurity/CVE-2022-1388-Exploit-POC | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-15 02:30:40+00:00 | 10 | 48 | | 9 | ['CVE-2022-1388'] |
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-15 01:42:18+00:00 | 63 | 3 | Python | 0 | ['CVE-2021-22204'] |
-| spacebin-org/0Day | nan | https://github.com/spacebin-org/0Day | ['0day'] | 1 | 2022-05-15 02:12:25+00:00 | 792 | 0 | PHP | 0 | [] |
+| EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-05-15 02:47:57+00:00 | 271 | 7 | Python | 1 | [] |
+| spacebin-org/0Day | None | https://github.com/spacebin-org/0Day | ['0day'] | 1 | 2022-05-15 02:12:25+00:00 | 792 | 0 | PHP | 0 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-15 03:00:08+00:00 | 548802 | 617 | | 129 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-15 01:20:29+00:00 | 292 | 0 | nan | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-15 01:42:09+00:00 | 59644 | 2734 | nan | 336 | [] |
 | ConsumingChef/ConsumerHub | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | ['exploit'] | 1 | 2022-05-15 00:25:51+00:00 | 387 | 0 | | 0 | [] |
@@ -28,4 +32,6 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-15 02:06:30+00:00 | 21374 | 3 | Python | 0 | [] |
 | BinaryDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | ['exploit'] | 1 | 2022-05-15 00:18:08+00:00 | 1803 | 5 | Lua | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-15 00:04:05+00:00 | 549646 | 55 | | 21 | [] |
-| twseptian/cve-2021-38314 | cve-2021-38314 - Unauthenticated Sensitive Information Disclosure | https://github.com/twseptian/cve-2021-38314 | ['cve-2 OR cve_2'] | 1 | 2022-05-15 02:19:06+00:00 | 0 | 0 | PHP | 0 | ['CVE-2021-38314'] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-15 02:23:59+00:00 | 716 | 271 | C | 13 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-15 02:32:28+00:00 | 266368 | 156 | REXX | 15 | [] |
+| god12l/Sin-x | A new exploit that is still under development will be updated monthly | https://github.com/god12l/Sin-x | ['exploit'] | 1 | 2022-05-15 02:38:43+00:00 | 0 | 0 | | 0 | [] |
