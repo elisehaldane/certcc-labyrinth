@@ -12,4 +12,4 @@ repo_id,repo_full_name,file,file_sha1,match
 236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS12-020
 236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS17-001
 236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS17-010
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,e9f870647e4e2c0a8c1452032def5857b8e25257,CVE-2019-11510
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,b644ad0213ceb32d928a5a2361fe5a0c4cafaf20,CVE-2019-11510
