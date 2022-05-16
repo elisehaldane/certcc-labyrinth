@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-XXX5-8MVQ-3528,0.04347826,https://github.com/mcdulltii/CVE-2021,mcdulltii/CVE-2021,482440236
 GHSA-XXX5-8MVQ-3528,0.00429185,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
-GHSA-XXX5-8MVQ-3528,0.00000470,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+GHSA-XXX5-8MVQ-3528,0.00000469,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
