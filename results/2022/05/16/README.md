@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/16
     
-30 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-16 00:26:10+00:00 | 55068 | 302 | Ruby | 88 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-16 02:32:40+00:00 | 271949 | 156 | REXX | 15 | [] |
+| Wrin9/CVE-2022-1388 | None | https://github.com/Wrin9/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 01:52:19+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | ['exploit'] | 1 | 2022-05-16 01:10:24+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | ['exploit'] | 1 | 2022-05-16 01:07:58+00:00 | 2 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | ['exploit'] | 1 | 2022-05-16 01:06:36+00:00 | 1 | 0 | | 0 | [] |
@@ -32,6 +33,7 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-16 01:37:50+00:00 | 5450871 | 43 | Python | 7 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-16 01:52:18+00:00 | 1788 | 96 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-16 01:50:46+00:00 | 23271 | 3 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-16 04:48:25+00:00 | 175080 | 402 | Python | 118 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-16 00:04:19+00:00 | 559681 | 55 | | 21 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-05-16 03:36:56+00:00 | 154287 | 405 | Go | 80 | [] |
-| Wrin9/CVE-2022-1388 | None | https://github.com/Wrin9/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 01:52:19+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
+| YGoldking/CVE-2022-30525 | CVE-2022-30525（Zxyel 防火墙命令注入）的概念证明漏洞利用 | https://github.com/YGoldking/CVE-2022-30525 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 04:45:44+00:00 | 0 | 0 | | 0 | ['CVE-2022-30525'] |
