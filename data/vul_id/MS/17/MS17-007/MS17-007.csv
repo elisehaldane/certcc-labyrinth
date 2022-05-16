@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS17-007,0.33333333,https://github.com/Dankirk/cve-2017-0065,Dankirk/cve-2017-0065,85072866
 MS17-007,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
 MS17-007,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,223783259
+MS17-007,0.00320513,https://github.com/GamehunterKaan/AutoPWN-Suite,GamehunterKaan/AutoPWN-Suite,491539517
 MS17-007,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS17-007,0.00319489,https://github.com/tunz/js-vuln-db,tunz/js-vuln-db,65058285
 MS17-007,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
