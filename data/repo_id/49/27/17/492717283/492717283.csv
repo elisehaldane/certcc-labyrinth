@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+492717283,PTheyssen/dirtypipez-exploit-demo,src/dirtypipez.c,373d6b84023a8bc2f90c67c6d1e1f27fdb349307,CVE-2022-0847
