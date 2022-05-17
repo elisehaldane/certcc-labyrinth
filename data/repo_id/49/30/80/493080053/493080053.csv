@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+493080053,getdrive/F5-BIG-IP-exploit,CVE-2022-1388.py,7c0879ea655e495a61fdb4e642f8e30adec3375b,CVE-2022-1388
+493080053,getdrive/F5-BIG-IP-exploit,README.md,9314b71001dc652b0a4360cccbecc70bb7ae1e4d,CVE-2022-1388
+493080053,getdrive/F5-BIG-IP-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-1388
