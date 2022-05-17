@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/17
     
-132 records found after deduplication
+134 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,7 +22,7 @@
 | Qwaz/cashio-exploit-workshop | Write your own exploit for $CASH | https://github.com/Qwaz/cashio-exploit-workshop | ['exploit'] | 1 | 2022-05-17 02:16:21+00:00 | 388 | 0 | Rust | 1 | [] |
 | adbenoit-9/42_override | 42 - Exploitation of (elf-like) binary. | https://github.com/adbenoit-9/42_override | ['exploit'] | 1 | 2022-05-17 12:21:16+00:00 | 48 | 0 | C | 0 | [] |
 | Eros-Capo/TrojanSourcePoCs | New PoC's in Trojan Source Attack Vector | https://github.com/Eros-Capo/TrojanSourcePoCs | ['attack poc'] | 1 | 2022-05-17 21:38:04+00:00 | 262 | 2 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-17 08:43:10+00:00 | 46130 | 866 | Python | 205 | [] |
+| esp0xdeadbeef/rce_webmin | RCE and privilege escalation webmin version 1.991 | https://github.com/esp0xdeadbeef/rce_webmin | ['rce'] | 1 | 2022-05-17 07:20:57+00:00 | 12 | 1 | Python | 4 | [] |
 | mislavivanda/RF_DamnVulnerableDeFi | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | ['exploit'] | 1 | 2022-05-17 18:36:45+00:00 | 468 | 0 | Solidity | 0 | [] |
 | isclayton/viewstalker | A tool for identifying and exploiting vulnerable Viewstate implementations in ASP.NET | https://github.com/isclayton/viewstalker | ['exploit'] | 1 | 2022-05-17 15:46:30+00:00 | 358 | 0 | Go | 0 | [] |
 | UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-17 18:54:51+00:00 | 36 | 2 | Python | 0 | ['CVE-2021-3560'] |
@@ -38,9 +38,9 @@
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-17 06:59:05+00:00 | 216 | 196 | Go | 22 | [] |
 | ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | ['0day', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 6 | 2022-05-17 15:35:46+00:00 | 4 | 2 | Python | 1 | ['CVE-2021-44228'] |
 | Kamakshi-1234/rces-assignments | None | https://github.com/Kamakshi-1234/rces-assignments | ['rce'] | 1 | 2022-05-17 17:43:05+00:00 | 2 | 0 | HTML | 0 | [] |
-| esp0xdeadbeef/rce_webmin | RCE and privilege escalation webmin version 1.991 | https://github.com/esp0xdeadbeef/rce_webmin | ['rce'] | 1 | 2022-05-17 07:20:57+00:00 | 12 | 1 | Python | 4 | [] |
 | god12l/Sin-x | A new exploit that is still under development will be updated monthly | https://github.com/god12l/Sin-x | ['exploit'] | 1 | 2022-05-17 00:37:04+00:00 | 4 | 0 | | 0 | [] |
-| NeobloxExecutor/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/NeobloxExecutor/neoblox | ['exploit'] | 1 | 2022-05-17 10:43:33+00:00 | 61402 | 1 | C# | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-17 08:43:10+00:00 | 46130 | 866 | Python | 205 | [] |
+| aancw/CVE-2022-1388-rs | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-17 11:03:32+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
 | marik22354/Python-Payload-Crypter-V1 | Python-based AES256 + Base64 Encrypter with custom key | https://github.com/marik22354/Python-Payload-Crypter-V1 | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-05-17 21:27:01+00:00 | 0 | 0 | | 0 | [] |
 | dr-raypc/Exploits | None | https://github.com/dr-raypc/Exploits | ['exploit'] | 1 | 2022-05-17 20:29:41+00:00 | 0 | 0 | | 0 | [] |
 | VarunJindal283/rces-assignments | None | https://github.com/VarunJindal283/rces-assignments | ['rce'] | 1 | 2022-05-17 20:34:01+00:00 | 0 | 0 | | 0 | [] |
@@ -55,8 +55,8 @@
 | WhyGitHubb/FEService | FilteringEnable hax real | https://github.com/WhyGitHubb/FEService | ['exploit'] | 1 | 2022-05-17 13:57:42+00:00 | 18 | 0 | Lua | 0 | [] |
 | kevinzk2/jas502no | 0day安全_软件漏洞分析技术 | https://github.com/kevinzk2/jas502no | ['0day'] | 1 | 2022-05-17 13:52:03+00:00 | 0 | 0 | | 0 | [] |
 | ITSecLab-HSEL/CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | ['cve-2 OR cve_2'] | 1 | 2022-05-17 12:24:28+00:00 | 1434 | 0 | | 0 | ['CVE-2022-24611'] |
-| aancw/CVE-2022-1388-rs | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-17 11:03:32+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
 | ThaFWord/pentesterlab | CVE-2018-6574: go get RCE | https://github.com/ThaFWord/pentesterlab | ['rce'] | 1 | 2022-05-17 08:47:49+00:00 | 0 | 0 | Go | 0 | ['CVE-2018-6574'] |
+| NeobloxExecutor/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/NeobloxExecutor/neoblox | ['exploit'] | 1 | 2022-05-17 10:43:33+00:00 | 61402 | 1 | C# | 0 | [] |
 | quangdaik2362001/exploit_tool | None | https://github.com/quangdaik2362001/exploit_tool | ['exploit'] | 1 | 2022-05-17 07:42:29+00:00 | 0 | 0 | | 0 | [] |
 | m-kutnik/burgerking-exploit | None | https://github.com/m-kutnik/burgerking-exploit | ['exploit'] | 1 | 2022-05-17 07:36:49+00:00 | 0 | 0 | HTML | 0 | [] |
 | kr4dd/BOF_win32-OSCP | Collection of BoF exploits - OSCP style | https://github.com/kr4dd/BOF_win32-OSCP | ['exploit'] | 1 | 2022-05-17 07:24:11+00:00 | 0 | 0 | Python | 0 | [] |
@@ -70,10 +70,12 @@
 | maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | None | https://github.com/maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-17 02:16:29+00:00 | 3 | 0 | | 0 | [] |
 | akaAbdullahMateen/system-interals | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | ['exploit'] | 1 | 2022-05-17 00:37:38+00:00 | 6 | 0 | C | 0 | [] |
 | bogsiri/CVE | cve information. poc and rule(snort, yara, signature etc...) | https://github.com/bogsiri/CVE | ['cve poc'] | 1 | 2022-05-17 13:59:39+00:00 | 2 | 0 | | 0 | [] |
+| Loddy-02/msfdown | Metasploit Download | https://github.com/Loddy-02/msfdown | ['metasploit module OR payload'] | 1 | 2022-05-17 22:43:37+00:00 | 600 | 0 | Shell | 0 | [] |
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-17 17:34:14+00:00 | 70 | 3 | Python | 0 | ['CVE-2021-22204'] |
 | corelight/cve-2022-26809 | Detects attempts and successful exploitation of CVE-2022-26809 | https://github.com/corelight/cve-2022-26809 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-17 15:17:22+00:00 | 23 | 0 | Zeek | 0 | ['CVE-2022-26809'] |
 | sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-17 01:40:52+00:00 | 0 | 0 | | 0 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-17 01:59:24+00:00 | 1844 | 96 | HTML | 24 | [] |
+| jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-05-17 08:22:48+00:00 | 91532 | 758 | Go | 162 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-17 01:55:32+00:00 | 20929 | 3 | Python | 0 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2022-05-17 02:22:21+00:00 | 45 | 0 | Lua | 0 | [] |
 | contractautomataproject/ContractAutomataApp | This is a GUI application of the Contract Automata Toolkit, exploiting the contract automata library to put contract automata at work | https://github.com/contractautomataproject/ContractAutomataApp | ['exploit'] | 1 | 2022-05-17 16:04:04+00:00 | 71088 | 0 | Java | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-17 04:00:03+00:00 | 179664 | 402 | Python | 118 | [] |
@@ -87,8 +89,8 @@
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-05-17 06:36:12+00:00 | 3247 | 0 | JavaScript | 1 | [] |
 | MainDabRblx/MainDabUISource | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | ['exploit'] | 1 | 2022-05-17 08:02:40+00:00 | 376194 | 3 | C# | 0 | [] |
 | Zeczero/DiscordDataGrabber | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | ['exploit'] | 1 | 2022-05-17 12:17:05+00:00 | 4826 | 7 | C# | 1 | [] |
-| jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-05-17 08:22:48+00:00 | 91532 | 758 | Go | 162 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-17 00:47:50+00:00 | 14712 | 41 | | 21 | [] |
+| west-wind/Threat-Hunting-With-Splunk | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | ['exploit'] | 1 | 2022-05-17 12:34:36+00:00 | 8 | 1 | | 0 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-05-17 06:40:40+00:00 | 64286 | 1533 | Python | 305 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-05-17 12:32:00+00:00 | 23957 | 12 | PHP | 5 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-17 02:32:32+00:00 | 275131 | 156 | REXX | 15 | [] |
@@ -103,10 +105,10 @@
 | shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2022-05-17 07:33:20+00:00 | 284 | 5372 | C | 1015 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-17 04:32:16+00:00 | 5368 | 3259 | Python | 693 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-05-17 19:31:53+00:00 | 60869 | 1249 | C | 581 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-17 01:55:32+00:00 | 20929 | 3 | Python | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-17 01:59:24+00:00 | 1844 | 96 | HTML | 24 | [] |
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-05-17 02:12:50+00:00 | 50 | 21 | | 3 | [] |
-| west-wind/Threat-Hunting-With-Splunk | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | ['exploit'] | 1 | 2022-05-17 12:34:36+00:00 | 8 | 1 | | 0 | [] |
 | rodobre/pwn-docker | A Dockerfile for my binary exploitation environment (Ubuntu 20.04) | https://github.com/rodobre/pwn-docker | ['exploit'] | 1 | 2022-05-17 18:39:42+00:00 | 1 | 1 | Dockerfile | 0 | [] |
+| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-05-17 09:24:25+00:00 | 2505 | 25 | Python | 3 | [] |
 | zxzxz1/Exploit_nokey | None | https://github.com/zxzxz1/Exploit_nokey | ['exploit'] | 1 | 2022-05-17 21:20:50+00:00 | 44289 | 0 | Lua | 0 | [] |
 | 0dayIg0r/0dayIg0r | None | https://github.com/0dayIg0r/0dayIg0r | ['0day'] | 1 | 2022-05-17 01:23:51+00:00 | 26 | 0 | | 0 | [] |
 | hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-05-17 06:57:43+00:00 | 61 | 2 | Shell | 0 | [] |
@@ -115,6 +117,7 @@
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-05-17 02:26:47+00:00 | 96 | 23 | Solidity | 5 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-05-17 15:10:28+00:00 | 215468 | 1 | Python | 0 | [] |
 | Threekiii/Vulhub-Reproduce | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | ['exploit'] | 1 | 2022-05-17 07:46:46+00:00 | 318 | 5 | | 0 | [] |
+| ilijadivi/VisionExploit | None | https://github.com/ilijadivi/VisionExploit | ['exploit'] | 1 | 2022-05-17 22:35:59+00:00 | 10 | 0 | | 0 | [] |
 | plexusorg/Blackout | Blackout exploits on your Minecraft server. | https://github.com/plexusorg/Blackout | ['exploit'] | 1 | 2022-05-17 19:57:46+00:00 | 129 | 1 | Java | 0 | [] |
 | Threekiii/Awesome-POC | 一个各类漏洞POC知识库 | https://github.com/Threekiii/Awesome-POC | ['vulnerability poc'] | 1 | 2022-05-17 09:43:25+00:00 | 422 | 19 | | 4 | [] |
 | Drygster/Exploitation | None | https://github.com/Drygster/Exploitation | ['exploit'] | 1 | 2022-05-17 21:35:13+00:00 | 70212 | 0 | C# | 0 | [] |
@@ -135,5 +138,4 @@
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-05-17 07:51:45+00:00 | 635 | 0 | TypeScript | 0 | [] |
 | ForwarderFactory/wii | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | ['exploit'] | 1 | 2022-05-17 16:01:48+00:00 | 3951323 | 6 | | 1 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2022-05-17 09:21:19+00:00 | 6409 | 3 | Shell | 4 | [] |
-| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-05-17 09:24:25+00:00 | 2505 | 25 | Python | 3 | [] |
 | HadesW/mhy_exp | Mhy Exp (exploit signed driver) | https://github.com/HadesW/mhy_exp | ['exploit'] | 1 | 2022-05-17 21:31:03+00:00 | 0 | 0 | | 0 | [] |
