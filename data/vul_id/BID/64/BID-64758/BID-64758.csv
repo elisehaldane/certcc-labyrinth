@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-64758,0.00709220,https://github.com/samaujs/CVE-2011-1475,samaujs/CVE-2011-1475,156348204
 BID-64758,0.00169492,https://github.com/audioscavenger/exploit,audioscavenger/exploit,123531727
-BID-64758,0.00093633,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-64758,0.00093458,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
