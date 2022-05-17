@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2020-46552,0.01515152,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
 CNVD-2020-46552,0.01315789,https://github.com/securitysqs/Web_Poc,securitysqs/Web_Poc,329870299
+CNVD-2020-46552,0.00709220,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
