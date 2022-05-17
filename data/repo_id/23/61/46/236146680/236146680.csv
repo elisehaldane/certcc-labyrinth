@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 236146680,jm33-m0/emp3r0r,core/modules/Spring_Cloud_Gateway_RCE/CVE-2022-22947.py,0ee8b585ad391c81cddae3b882d0d6428ceef3f0,CVE-2022-22947
 236146680,jm33-m0/emp3r0r,FEATURES.md,199b8ae8385164584411ce6a44af5d70f02dd881,CVE-2018-14665
-236146680,jm33-m0/emp3r0r,core/modules/bettercap/bettercap,3c7ca7bdf9ed3b6c5cf56da147299864acdaf292,VU#28
+236146680,jm33-m0/emp3r0r,core/modules/vaccine/bettercap,3c7ca7bdf9ed3b6c5cf56da147299864acdaf292,VU#28
 236146680,jm33-m0/emp3r0r,core/modules/linux-exploit-suggester/les.sh,78b4560c2b344b627978134dfde8518b04ddf6ad,CVE-2004-0077
 236146680,jm33-m0/emp3r0r,core/modules/linux-exploit-suggester/les.sh,78b4560c2b344b627978134dfde8518b04ddf6ad,CVE-2017-1000371
 236146680,jm33-m0/emp3r0r,core/modules/linux-exploit-suggester/les.sh,78b4560c2b344b627978134dfde8518b04ddf6ad,CVE-2017-1000370
