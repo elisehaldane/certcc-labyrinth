@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+493209789,aancw/CVE-2022-1388-rs,README.md,af6d9ea595face766506f6a075d52fbfede3911b,CVE-2022-1388
+493209789,aancw/CVE-2022-1388-rs,_GITHUB_REPO_METADATA_,,CVE-2022-1388
