@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-480727617,west-wind/Threat-Hunting-With-Splunk,README.md,87be42f7d408f1da0ab2dffdbdb17aa864c9114b,CVE-2022-22954
-480727617,west-wind/Threat-Hunting-With-Splunk,README.md,87be42f7d408f1da0ab2dffdbdb17aa864c9114b,CVE-2022-22963
-480727617,west-wind/Threat-Hunting-With-Splunk,README.md,87be42f7d408f1da0ab2dffdbdb17aa864c9114b,CVE-2022-22965
-480727617,west-wind/Threat-Hunting-With-Splunk,README.md,87be42f7d408f1da0ab2dffdbdb17aa864c9114b,GHSA-36P3-WJMG-H94X
-480727617,west-wind/Threat-Hunting-With-Splunk,README.md,87be42f7d408f1da0ab2dffdbdb17aa864c9114b,GHSA-Q7XC-35G4-G566
-480727617,west-wind/Threat-Hunting-With-Splunk,CVE-2022-22954,a8fd3042ca1b8177fc244659da939cfcc94e1e41,CVE-2022-22954
+480727617,west-wind/Threat-Hunting-With-Splunk,README.md,51cedd0c77884f7dbb97eb1b0870694cfff8e954,CVE-2022-22954
+480727617,west-wind/Threat-Hunting-With-Splunk,README.md,51cedd0c77884f7dbb97eb1b0870694cfff8e954,CVE-2022-22963
+480727617,west-wind/Threat-Hunting-With-Splunk,README.md,51cedd0c77884f7dbb97eb1b0870694cfff8e954,CVE-2022-22965
+480727617,west-wind/Threat-Hunting-With-Splunk,README.md,51cedd0c77884f7dbb97eb1b0870694cfff8e954,GHSA-36P3-WJMG-H94X
+480727617,west-wind/Threat-Hunting-With-Splunk,README.md,51cedd0c77884f7dbb97eb1b0870694cfff8e954,GHSA-Q7XC-35G4-G566
+480727617,west-wind/Threat-Hunting-With-Splunk,CVE/CVE-2022-22954,a8fd3042ca1b8177fc244659da939cfcc94e1e41,CVE-2022-22954
