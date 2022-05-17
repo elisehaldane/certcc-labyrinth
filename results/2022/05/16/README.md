@@ -1,32 +1,32 @@
 
 # Summary for results/2022/05/16
     
-155 records found after deduplication
+156 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-16 17:31:58+00:00 | 738892 | 27239 | Ruby | 12228 | [] |
-| esp0xdeadbeef/rce_webmin | RCE and privilege escalation webmin version 1.991 | https://github.com/esp0xdeadbeef/rce_webmin | ['rce'] | 1 | 2022-05-16 15:53:46+00:00 | 12 | 1 | Python | 3 | [] |
-| jajajag/Safe-RCE | Safe-RCE | https://github.com/jajajag/Safe-RCE | ['rce'] | 1 | 2022-05-16 03:00:01+00:00 | 22 | 0 | Python | 0 | [] |
+| akr3ch/WebCacheDeception | A simple bash script for Web Cache Deception exploitation. | https://github.com/akr3ch/WebCacheDeception | ['exploit'] | 1 | 2022-05-16 03:47:38+00:00 | 2 | 0 | Shell | 0 | [] |
 | Unknown56406516401563456/Laugh-Exploit | An Roblox Executor Extremely Op Sploit I Would Say Its Level 7-6 Have Fun The Key Doesn't Change Everyday So Yeah Have Fun E. | https://github.com/Unknown56406516401563456/Laugh-Exploit | ['exploit', 'sploit'] | 2 | 2022-05-16 03:38:39+00:00 | 6 | 0 | | 0 | [] |
 | 7heKnight/CVE-2020-0688 | CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability | https://github.com/7heKnight/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 02:36:15+00:00 | 630 | 0 | Python | 1 | ['CVE-2020-0688'] |
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is my brand new project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-05-16 15:42:48+00:00 | 101 | 1 | Python | 0 | [] |
 | re7urn0/Linux-Exploit-Development-Learning | None | https://github.com/re7urn0/Linux-Exploit-Development-Learning | ['exploit'] | 1 | 2022-05-16 16:08:12+00:00 | 29 | 0 | | 0 | [] |
 | NEED-Programming/Exploit-Development | None | https://github.com/NEED-Programming/Exploit-Development | ['exploit'] | 1 | 2022-05-16 14:52:22+00:00 | 369 | 1 | C++ | 0 | [] |
 | Ghalbeyou/Crash-With-JS | A crasher with java script | https://github.com/Ghalbeyou/Crash-With-JS | ['exploit'] | 1 | 2022-05-16 12:45:53+00:00 | 9 | 0 | HTML | 0 | [] |
-| akr3ch/WebCacheDeception | A simple bash script for Web Cache Deception exploitation. | https://github.com/akr3ch/WebCacheDeception | ['exploit'] | 1 | 2022-05-16 03:47:38+00:00 | 2 | 0 | Shell | 0 | [] |
-| Loddy-02/msfdown | Metasploit Download | https://github.com/Loddy-02/msfdown | ['metasploit module OR payload'] | 1 | 2022-05-16 05:54:46+00:00 | 7 | 0 | Shell | 0 | [] |
+| esp0xdeadbeef/rce_webmin | RCE and privilege escalation webmin version 1.991 | https://github.com/esp0xdeadbeef/rce_webmin | ['rce'] | 1 | 2022-05-16 15:53:46+00:00 | 12 | 1 | Python | 3 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-05-16 07:21:42+00:00 | 1 | 0 | Python | 0 | [] |
+| cecinuga/ExploitedContracts | Exploit for Smart Contracts | https://github.com/cecinuga/ExploitedContracts | ['exploit'] | 1 | 2022-05-16 08:47:55+00:00 | 9592 | 0 | Solidity | 0 | [] |
 | Loddy-02/xploit | Metasploit Generator | https://github.com/Loddy-02/xploit | ['metasploit module OR payload'] | 1 | 2022-05-16 01:13:49+00:00 | 15 | 0 | Shell | 0 | [] |
 | afmepia/tunzs | A collection of JavaScript engine CVEs with PoCs | https://github.com/afmepia/tunzs | ['cve poc'] | 1 | 2022-05-16 00:51:34+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | ['exploit'] | 1 | 2022-05-16 01:06:36+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | ['exploit'] | 1 | 2022-05-16 01:07:58+00:00 | 2 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | ['exploit'] | 1 | 2022-05-16 01:10:24+00:00 | 1 | 0 | | 0 | [] |
 | Wrin9/CVE-2022-1388 | None | https://github.com/Wrin9/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 01:52:19+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
-| cecinuga/ExploitedContracts | Exploit for Smart Contracts | https://github.com/cecinuga/ExploitedContracts | ['exploit'] | 1 | 2022-05-16 08:47:55+00:00 | 9592 | 0 | Solidity | 0 | [] |
+| YGoldking/CVE-2022-30525 | CVE-2022-30525（Zxyel 防火墙命令注入）的概念证明漏洞利用 | https://github.com/YGoldking/CVE-2022-30525 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 04:45:44+00:00 | 0 | 0 | | 0 | ['CVE-2022-30525'] |
+| jajajag/Safe-RCE | Safe-RCE | https://github.com/jajajag/Safe-RCE | ['rce'] | 1 | 2022-05-16 03:00:01+00:00 | 22 | 0 | Python | 0 | [] |
 | aodsec/CVE-2022-1388-PocExp | CVE-2022-1388-PocExp,新增了多线程,F5 BIG-IP RCE exploitation | https://github.com/aodsec/CVE-2022-1388-PocExp | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-05-16 14:02:29+00:00 | 3 | 2 | Python | 1 | ['CVE-2022-1388'] |
-| hou5/CVE-2022-1388 | CVE-2022-1388_goby_pocsuite3 | https://github.com/hou5/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 01:04:35+00:00 | 5 | 1 | Python | 0 | ['CVE-2022-1388'] |
-| Qwaz/cashio-exploit-workshop | Write your own exploit for $CASH | https://github.com/Qwaz/cashio-exploit-workshop | ['exploit'] | 1 | 2022-05-16 21:56:22+00:00 | 388 | 0 | Rust | 1 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-16 10:10:16+00:00 | 46114 | 865 | Python | 205 | [] |
+| x3838203739203739203834203832/minesofdalarnia | Get Mines Of Dalarnia Hacks, Bots, Cheats and Exploits here | https://github.com/x3838203739203739203834203832/minesofdalarnia | ['exploit'] | 1 | 2022-05-16 15:47:41+00:00 | 34 | 0 | HTML | 0 | [] |
 | jkarns275/shellcode | None | https://github.com/jkarns275/shellcode | ['shellcode'] | 1 | 2022-05-16 23:32:49+00:00 | 5 | 0 | C | 0 | [] |
 | C0nneR/My_Windows_Exploits | My scripts organized according to MITRE ATT&CK Windows enterprise matrix. | https://github.com/C0nneR/My_Windows_Exploits | ['exploit'] | 1 | 2022-05-16 09:19:19+00:00 | 15 | 0 | C++ | 0 | [] |
 | UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-16 02:59:16+00:00 | 68 | 2 | Python | 0 | ['CVE-2021-3560'] |
@@ -34,17 +34,18 @@
 | Wrin9/CNVD-2021-09505_RCE | None | https://github.com/Wrin9/CNVD-2021-09505_RCE | ['cnvd-c OR cnvd-2 OR cnnvd-2', 'rce'] | 2 | 2022-05-16 01:45:44+00:00 | 1 | 4 | Python | 0 | ['CNVD-2021-09505'] |
 | ouldevloper/x64-Linux-Modern-Binary-Exploitation | None | https://github.com/ouldevloper/x64-Linux-Modern-Binary-Exploitation | ['exploit'] | 1 | 2022-05-16 16:56:53+00:00 | 28 | 0 | Python | 0 | [] |
 | isclayton/viewstalker | A tool for identifying and exploiting vulnerable Viewstate implementations in ASP.NET | https://github.com/isclayton/viewstalker | ['exploit'] | 1 | 2022-05-16 23:37:06+00:00 | 3 | 0 | Go | 0 | [] |
-| x3838203739203739203834203832/minesofdalarnia | Get Mines Of Dalarnia Hacks, Bots, Cheats and Exploits here | https://github.com/x3838203739203739203834203832/minesofdalarnia | ['exploit'] | 1 | 2022-05-16 15:47:41+00:00 | 34 | 0 | HTML | 0 | [] |
 | Wrin9/CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-16 01:44:12+00:00 | 5 | 3 | Python | 0 | ['CVE-2021-43287'] |
+| hou5/CVE-2022-1388 | CVE-2022-1388_goby_pocsuite3 | https://github.com/hou5/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 01:04:35+00:00 | 5 | 1 | Python | 0 | ['CVE-2022-1388'] |
 | mislavivanda/RF_DamnVulnerableDeFi | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | ['exploit'] | 1 | 2022-05-16 15:18:04+00:00 | 465 | 0 | Solidity | 0 | [] |
 | Eros-Capo/TrojanSourcePoCs | New PoC's in Trojan Source Attack Vector | https://github.com/Eros-Capo/TrojanSourcePoCs | ['attack poc'] | 1 | 2022-05-16 12:23:07+00:00 | 259 | 2 | Python | 0 | [] |
 | alt3kx/CVE-2022-1388_PoC | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-05-16 12:40:51+00:00 | 39 | 51 | | 10 | ['CVE-2022-1388'] |
 | ZephrFish/F5-CVE-2022-1388-Exploit | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-16 07:19:04+00:00 | 26 | 36 | Python | 20 | ['CVE-2022-1388'] |
 | asolbas/CNVdb | Statistical analysis, annotation and functional enrichment analsysis of the FJD CNV database of allele frequencies | https://github.com/asolbas/CNVdb | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-05-16 17:21:43+00:00 | 97 | 0 | R | 0 | [] |
 | adbenoit-9/42_override | 42 - Exploitation of (elf-like) binary. | https://github.com/adbenoit-9/42_override | ['exploit'] | 1 | 2022-05-16 11:56:36+00:00 | 48 | 0 | C | 0 | [] |
-| YGoldking/CVE-2022-30525 | CVE-2022-30525（Zxyel 防火墙命令注入）的概念证明漏洞利用 | https://github.com/YGoldking/CVE-2022-30525 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 04:45:44+00:00 | 0 | 0 | | 0 | ['CVE-2022-30525'] |
+| Qwaz/cashio-exploit-workshop | Write your own exploit for $CASH | https://github.com/Qwaz/cashio-exploit-workshop | ['exploit'] | 1 | 2022-05-16 21:56:22+00:00 | 388 | 0 | Rust | 1 | [] |
+| Loddy-02/msfdown | Metasploit Download | https://github.com/Loddy-02/msfdown | ['metasploit module OR payload'] | 1 | 2022-05-16 05:54:46+00:00 | 7 | 0 | Shell | 0 | [] |
 | lolthatseazy/BullSPloit | None | https://github.com/lolthatseazy/BullSPloit | ['sploit'] | 1 | 2022-05-16 06:55:49+00:00 | 0 | 0 | Lua | 0 | [] |
-| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-16 09:13:01+00:00 | 204 | 195 | Go | 21 | [] |
+| PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-16 06:57:02+00:00 | 0 | 0 | C | 0 | [] |
 | notSkyFrost/EnLineaExploits | Exploits de La plataforma escolar En Linea. | https://github.com/notSkyFrost/EnLineaExploits | ['exploit'] | 1 | 2022-05-16 19:55:01+00:00 | 0 | 0 | | 0 | [] |
 | Jhbhack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Jhbhack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-16 18:47:04+00:00 | 0 | 0 | | 0 | [] |
 | Kjhhack/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Kjhhack/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-05-16 18:55:07+00:00 | 0 | 0 | | 0 | [] |
@@ -54,7 +55,7 @@
 | Andyehack/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Andyehack/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-05-16 19:18:36+00:00 | 0 | 0 | | 0 | [] |
 | Andyehack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Andyehack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-16 19:20:03+00:00 | 0 | 0 | | 0 | [] |
 | M0NWY/PHP-Tools | Some simple php tools to use as I explore exploitation | https://github.com/M0NWY/PHP-Tools | ['exploit'] | 1 | 2022-05-16 21:45:12+00:00 | 0 | 0 | PHP | 0 | [] |
-| PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-16 06:57:02+00:00 | 0 | 0 | C | 0 | [] |
+| bogsiri/CVE | cve information. poc and rule(snort, yara, signature etc...) | https://github.com/bogsiri/CVE | ['cve poc'] | 1 | 2022-05-16 07:29:57+00:00 | 0 | 0 | | 0 | [] |
 | XeroX-Sploit/XeroX-Sploit | Config files for my GitHub profile. | https://github.com/XeroX-Sploit/XeroX-Sploit | ['sploit'] | 1 | 2022-05-16 21:42:01+00:00 | 0 | 0 | | 0 | [] |
 | babucarr32/EasyExploit | This tool is meant for cyber security | https://github.com/babucarr32/EasyExploit | ['exploit'] | 1 | 2022-05-16 22:18:07+00:00 | 0 | 0 | Python | 0 | [] |
 | netflixfurimmer/Multi_Panel | Loud DDOS Panel Slamming 20 gig dstat Tags ddos attack, ddos attack explained, ddos panel, ddos attack roblox, ddosing, ddos tool, ddos apex legends, ddos roblox, ddos attack live, ddos attack tutorial, ddos attack kali linux, ddos attack website fre | https://github.com/netflixfurimmer/Multi_Panel | ['exploit'] | 1 | 2022-05-16 22:38:49+00:00 | 0 | 1 | | 0 | [] |
@@ -66,8 +67,8 @@
 | iveresk/cve-2022-21907 | Multithread Golang application | https://github.com/iveresk/cve-2022-21907 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 17:42:46+00:00 | 0 | 0 | | 0 | ['CVE-2022-21907'] |
 | ComparedArray/printix-CVE-2022-30006 | [Reserved for CVE-2022-30006] | https://github.com/ComparedArray/printix-CVE-2022-30006 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 16:15:53+00:00 | 0 | 0 | | 0 | ['CVE-2022-30006'] |
 | V35HR4J/CVE-2022-1598 | The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1598 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 15:46:29+00:00 | 0 | 0 | | 0 | ['CVE-2022-1598'] |
-| bogsiri/CVE | cve information. poc and rule(snort, yara, signature etc...) | https://github.com/bogsiri/CVE | ['cve poc'] | 1 | 2022-05-16 07:29:57+00:00 | 0 | 0 | | 0 | [] |
 | H3rmesk1t/CVE-2021-21315-ENV | CVE-2021-21315-ENV | https://github.com/H3rmesk1t/CVE-2021-21315-ENV | ['cve-2 OR cve_2'] | 1 | 2022-05-16 08:31:40+00:00 | 0 | 0 | JavaScript | 0 | ['CVE-2021-21315'] |
+| hacxyk/hackxyk-lab | Hacxyk Lab -- A sandboxed playground to exploit Ethereum contracts on a mainnet fork | https://github.com/hacxyk/hackxyk-lab | ['exploit'] | 1 | 2022-05-16 09:32:33+00:00 | 144 | 0 | Solidity | 0 | [] |
 | superzerosec/CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-16 09:15:44+00:00 | 0 | 0 | | 0 | ['CVE-2022-30525'] |
 | Divyanshukaushik04/rces-assignments | None | https://github.com/Divyanshukaushik04/rces-assignments | ['rce'] | 1 | 2022-05-16 09:42:07+00:00 | 0 | 0 | | 0 | [] |
 | Crashim03/Exploiting_Adventures | None | https://github.com/Crashim03/Exploiting_Adventures | ['exploit'] | 1 | 2022-05-16 10:14:12+00:00 | 0 | 0 | | 0 | [] |
@@ -82,8 +83,8 @@
 | maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | None | https://github.com/maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-16 15:43:27+00:00 | 0 | 0 | | 0 | [] |
 | 0730Nophone/CVE-2022-22947- | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947） 注入哥斯拉内存马 | https://github.com/0730Nophone/CVE-2022-22947- | ['cve-2 OR cve_2'] | 1 | 2022-05-16 15:33:37+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22947'] |
 | frkngksl/HintInject | A PoC project for embedding shellcode to Hint/Name Table | https://github.com/frkngksl/HintInject | ['shellcode'] | 1 | 2022-05-16 11:03:35+00:00 | 87 | 73 | C++ | 14 | [] |
+| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-16 09:13:01+00:00 | 204 | 195 | Go | 21 | [] |
 | UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-16 02:18:50+00:00 | 65 | 3 | Python | 0 | ['CVE-2021-22204'] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-16 10:10:16+00:00 | 46114 | 865 | Python | 205 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-16 23:18:53+00:00 | 28039 | 29 | Python | 6 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-05-16 14:20:51+00:00 | 382266 | 1 | Jupyter Notebook | 0 | [] |
 | ratiros01/CVE-2004-1561 | None | https://github.com/ratiros01/CVE-2004-1561 | ['cve-2 OR cve_2'] | 1 | 2022-05-16 05:09:19+00:00 | 2 | 0 | Python | 0 | ['CVE-2004-1561'] |
