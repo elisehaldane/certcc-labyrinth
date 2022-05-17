@@ -1,13 +1,12 @@
 
 # Summary for results/2022/05/17
     
-64 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-17 09:40:38+00:00 | 739704 | 27244 | Ruby | 12227 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-17 08:43:10+00:00 | 46130 | 866 | Python | 205 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-17 02:08:09+00:00 | 67862 | 2745 | | 338 | [] |
+| hugohouri/ace1 | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | ['exploit'] | 1 | 2022-05-17 11:24:05+00:00 | 1839 | 0 | | 0 | [] |
 | Threekiii/Awesome-POC | 一个各类漏洞POC知识库 | https://github.com/Threekiii/Awesome-POC | ['vulnerability poc'] | 1 | 2022-05-17 09:43:25+00:00 | 422 | 19 | nan | 4 | [] |
 | Threekiii/Vulhub-Reproduce | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | ['exploit'] | 1 | 2022-05-17 07:46:46+00:00 | 318 | 5 | | 0 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-05-17 02:26:47+00:00 | 96 | 23 | Solidity | 5 | [] |
@@ -23,6 +22,7 @@
 | Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-17 01:21:13+00:00 | 96 | 0 | Python | 0 | [] |
 | KinakoExE/rce-hands-on | None | https://github.com/KinakoExE/rce-hands-on | ['rce'] | 1 | 2022-05-17 05:12:43+00:00 | 376 | 1 | EJS | 0 | [] |
 | esp0xdeadbeef/rce_webmin | RCE and privilege escalation webmin version 1.991 | https://github.com/esp0xdeadbeef/rce_webmin | ['rce'] | 1 | 2022-05-17 07:20:57+00:00 | 12 | 1 | Python | 4 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-17 08:43:10+00:00 | 46130 | 866 | Python | 205 | [] |
 | god12l/Sin-x | A new exploit that is still under development will be updated monthly | https://github.com/god12l/Sin-x | ['exploit'] | 1 | 2022-05-17 00:37:04+00:00 | 4 | 0 | | 0 | [] |
 | NeobloxExecutor/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/NeobloxExecutor/neoblox | ['exploit'] | 1 | 2022-05-17 10:43:33+00:00 | 61402 | 1 | C# | 0 | [] |
 | akaAbdullahMateen/system-interals | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | ['exploit'] | 1 | 2022-05-17 00:37:38+00:00 | 6 | 0 | C | 0 | [] |
@@ -36,10 +36,11 @@
 | kr4dd/BOF_win32-OSCP | Collection of BoF exploits - OSCP style | https://github.com/kr4dd/BOF_win32-OSCP | ['exploit'] | 1 | 2022-05-17 07:24:11+00:00 | 0 | 0 | Python | 0 | [] |
 | m-kutnik/burgerking-exploit | None | https://github.com/m-kutnik/burgerking-exploit | ['exploit'] | 1 | 2022-05-17 07:36:49+00:00 | 0 | 0 | HTML | 0 | [] |
 | quangdaik2362001/exploit_tool | None | https://github.com/quangdaik2362001/exploit_tool | ['exploit'] | 1 | 2022-05-17 07:42:29+00:00 | 0 | 0 | | 0 | [] |
+| ThaFWord/pentesterlab | CVE-2018-6574: go get RCE | https://github.com/ThaFWord/pentesterlab | ['rce'] | 1 | 2022-05-17 08:47:49+00:00 | 0 | 0 | Go | 0 | ['CVE-2018-6574'] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-17 02:08:09+00:00 | 67862 | 2745 | nan | 338 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-17 00:35:43+00:00 | 126561 | 2 | Jupyter Notebook | 0 | [] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-17 07:23:24+00:00 | 324 | 0 | Go | 0 | [] |
 | mutur4/Hacking-Scripts | This is a repo about some hacking scripts to make your hacks better and easier.This also includes a session on exploit development where we develop exploits for different vulnerabilities.Please do not use these for illegal purposes. | https://github.com/mutur4/Hacking-Scripts | ['exploit'] | 1 | 2022-05-17 09:28:45+00:00 | 419 | 1 | C | 0 | [] |
-| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-05-17 06:36:12+00:00 | 3247 | 0 | JavaScript | 1 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-17 04:32:16+00:00 | 5368 | 3259 | Python | 693 | [] |
 | shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2022-05-17 07:33:20+00:00 | 284 | 5372 | C | 1015 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-05-17 05:05:04+00:00 | 75062 | 11480 | Jupyter Notebook | 1967 | [] |
@@ -53,8 +54,8 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-17 00:47:50+00:00 | 14712 | 41 | | 21 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-05-17 08:22:48+00:00 | 91532 | 758 | Go | 162 | [] |
 | MainDabRblx/MainDabUISource | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | ['exploit'] | 1 | 2022-05-17 08:02:40+00:00 | 376194 | 3 | C# | 0 | [] |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-05-17 06:36:12+00:00 | 3247 | 0 | JavaScript | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-17 00:04:26+00:00 | 560820 | 55 | | 21 | [] |
-| acheong08/CVE-2022-26726-POC | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-17 00:09:28+00:00 | 20717 | 0 | Objective-C | 0 | ['CVE-2022-26726'] |
 | NS-unina/cve2docker | An automated platform for vulnerable scenario configuration | https://github.com/NS-unina/cve2docker | ['cve-2 OR cve_2'] | 1 | 2022-05-17 09:25:25+00:00 | 764 | 6 | Java | 2 | [] |
 | googleprojectzero/0days-in-the-wild | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | ['0day', 'exploit'] | 2 | 2022-05-17 00:11:35+00:00 | 235 | 463 | HTML | 49 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-17 05:42:35+00:00 | 532006 | 109 | nan | 24 | [] |
@@ -68,4 +69,5 @@
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-05-17 07:51:45+00:00 | 635 | 0 | TypeScript | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-17 01:41:40+00:00 | 5480263 | 43 | Python | 8 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-17 08:59:13+00:00 | 7512 | 2906 | TypeScript | 416 | [] |
-| ThaFWord/pentesterlab | CVE-2018-6574: go get RCE | https://github.com/ThaFWord/pentesterlab | ['rce'] | 1 | 2022-05-17 08:47:49+00:00 | 0 | 0 | Go | 0 | ['CVE-2018-6574'] |
+| acheong08/CVE-2022-26726-POC | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-17 00:09:28+00:00 | 20717 | 0 | Objective-C | 0 | ['CVE-2022-26726'] |
+| aancw/CVE-2022-1388-rs | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-17 11:03:32+00:00 | 0 | 0 | | 0 | ['CVE-2022-1388'] |
