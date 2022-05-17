@@ -1,42 +1,52 @@
 
 # Summary for results/2022/05/17
     
-35 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-17 04:32:16+00:00 | 5368 | 3259 | Python | 693 | [] |
-| Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-17 01:21:13+00:00 | 96 | 0 | Python | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-17 02:08:09+00:00 | 67862 | 2745 | | 338 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-17 02:08:09+00:00 | 67862 | 2745 | nan | 338 | [] |
 | Dig2/chain-exploit | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | ['exploit'] | 1 | 2022-05-17 02:26:47+00:00 | 96 | 23 | Solidity | 5 | [] |
+| hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-05-17 06:57:43+00:00 | 61 | 2 | Shell | 0 | [] |
 | 0dayIg0r/0dayIg0r | None | https://github.com/0dayIg0r/0dayIg0r | ['0day'] | 1 | 2022-05-17 01:23:51+00:00 | 26 | 0 | | 0 | [] |
 | sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-17 01:40:52+00:00 | 0 | 0 | | 0 | [] |
+| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-17 06:59:05+00:00 | 216 | 196 | Go | 22 | [] |
 | jkarns275/shellcode | nan | https://github.com/jkarns275/shellcode | ['shellcode'] | 1 | 2022-05-17 05:26:04+00:00 | 6 | 0 | C | 0 | [] |
 | Qwaz/cashio-exploit-workshop | Write your own exploit for $CASH | https://github.com/Qwaz/cashio-exploit-workshop | ['exploit'] | 1 | 2022-05-17 02:16:21+00:00 | 388 | 0 | Rust | 1 | [] |
+| Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-17 01:21:13+00:00 | 96 | 0 | Python | 0 | [] |
+| esp0xdeadbeef/rce_webmin | RCE and privilege escalation webmin version 1.991 | https://github.com/esp0xdeadbeef/rce_webmin | ['rce'] | 1 | 2022-05-17 07:20:57+00:00 | 12 | 1 | Python | 4 | [] |
 | god12l/Sin-x | A new exploit that is still under development will be updated monthly | https://github.com/god12l/Sin-x | ['exploit'] | 1 | 2022-05-17 00:37:04+00:00 | 4 | 0 | | 0 | [] |
-| acheong08/CVE-2022-26726-POC | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-17 00:09:28+00:00 | 20717 | 0 | Objective-C | 0 | ['CVE-2022-26726'] |
 | akaAbdullahMateen/system-interals | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | ['exploit'] | 1 | 2022-05-17 00:37:38+00:00 | 6 | 0 | C | 0 | [] |
 | maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | None | https://github.com/maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-17 02:16:29+00:00 | 3 | 0 | | 0 | [] |
 | NASAProtocolExploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASAProtocolExploits/handbook | ['exploit'] | 1 | 2022-05-17 00:57:57+00:00 | 10 | 0 | | 0 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-05-17 00:14:56+00:00 | 34386 | 3 | C++ | 1 | [] |
 | StudLabs/exploit_RST | Домашнее задание №2 по крусу эксплуатация РКТ | https://github.com/StudLabs/exploit_RST | ['exploit'] | 1 | 2022-05-17 00:24:13+00:00 | 0 | 0 | | 0 | [] |
 | getdrive/F5-BIG-IP-exploit | CVE-2022-1388 | https://github.com/getdrive/F5-BIG-IP-exploit | ['exploit'] | 1 | 2022-05-17 03:35:28+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
+| ZACSFR99/ForRCE | None | https://github.com/ZACSFR99/ForRCE | ['rce'] | 1 | 2022-05-17 04:21:26+00:00 | 0 | 0 | | 0 | [] |
+| kr4dd/BOF_win32-OSCP | Collection of BoF exploits - OSCP style | https://github.com/kr4dd/BOF_win32-OSCP | ['exploit'] | 1 | 2022-05-17 07:24:11+00:00 | 0 | 0 | Python | 0 | [] |
+| m-kutnik/burgerking-exploit | None | https://github.com/m-kutnik/burgerking-exploit | ['exploit'] | 1 | 2022-05-17 07:36:49+00:00 | 0 | 0 | HTML | 0 | [] |
+| Threekiii/Vulhub-Reproduce | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | ['exploit'] | 1 | 2022-05-17 07:46:46+00:00 | 318 | 5 | | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-17 00:35:43+00:00 | 126561 | 2 | Jupyter Notebook | 0 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-17 01:41:40+00:00 | 5480263 | 43 | Python | 8 | [] |
+| shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2022-05-17 07:33:20+00:00 | 284 | 5372 | C | 1015 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-17 07:23:24+00:00 | 324 | 0 | Go | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-05-17 05:05:04+00:00 | 75062 | 11480 | Jupyter Notebook | 1967 | [] |
-| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-05-17 06:36:12+00:00 | 3247 | 0 | JavaScript | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-17 00:25:56+00:00 | 51974 | 302 | Ruby | 88 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-05-17 07:43:52+00:00 | 309617 | 101 | Python | 15 | [] |
 | soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-17 04:42:06+00:00 | 6156 | 509 | C++ | 100 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-05-17 03:23:32+00:00 | 157 | 0 | Shell | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-17 02:32:32+00:00 | 275131 | 156 | REXX | 15 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-05-17 06:40:40+00:00 | 64286 | 1533 | Python | 305 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-17 00:47:50+00:00 | 14712 | 41 | | 21 | [] |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-05-17 06:36:12+00:00 | 3247 | 0 | JavaScript | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-17 00:04:26+00:00 | 560820 | 55 | | 21 | [] |
-| thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-05-17 02:12:50+00:00 | 50 | 21 | | 3 | [] |
 | googleprojectzero/0days-in-the-wild | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | ['0day', 'exploit'] | 2 | 2022-05-17 00:11:35+00:00 | 235 | 463 | HTML | 49 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-17 05:42:35+00:00 | 532006 | 109 | nan | 24 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-17 05:42:35+00:00 | 532006 | 109 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-17 04:00:03+00:00 | 179664 | 402 | Python | 118 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2022-05-17 02:22:21+00:00 | 45 | 0 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-17 01:55:32+00:00 | 20929 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-17 01:59:24+00:00 | 1844 | 96 | HTML | 24 | [] |
-| ZACSFR99/ForRCE | nan | https://github.com/ZACSFR99/ForRCE | ['rce'] | 1 | 2022-05-17 04:21:26+00:00 | 0 | 0 | nan | 0 | [] |
+| thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-05-17 02:12:50+00:00 | 50 | 21 | | 3 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-17 01:41:40+00:00 | 5480263 | 43 | Python | 8 | [] |
+| acheong08/CVE-2022-26726-POC | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-17 00:09:28+00:00 | 20717 | 0 | Objective-C | 0 | ['CVE-2022-26726'] |
+| quangdaik2362001/exploit_tool | None | https://github.com/quangdaik2362001/exploit_tool | ['exploit'] | 1 | 2022-05-17 07:42:29+00:00 | 0 | 0 | | 0 | [] |
