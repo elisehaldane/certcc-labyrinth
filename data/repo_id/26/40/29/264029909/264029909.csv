@@ -7,3 +7,4 @@ repo_id,repo_full_name,file,file_sha1,match
 264029909,rekter0/exploits,CVE-2020-12720/README.md,acae26db749efaa369bff4785e80d04792ed233b,CVE-2020-12720
 264029909,rekter0/exploits,CVE-2020-26134/README.md,c58824ea880d22829c18d619e0771e792def5b83,CVE-2020-26134
 264029909,rekter0/exploits,CVE-2020-26134/README.md,c58824ea880d22829c18d619e0771e792def5b83,CVE-2020-26135
+264029909,rekter0/exploits,VestaCP/videos/vestaATO.mp4,f603f3bdb7f6a44c0d4ca3ead6c46f7bcbf63cb5,VU#20
