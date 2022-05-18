@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/18
     
-26 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|------------------------------------|
@@ -10,12 +10,14 @@
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:20:49+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:19:43+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:18:50+00:00 | 0 | 0 | | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-05-18 03:32:25+00:00 | 34524 | 48 | C++ | 23 | [] |
 | NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-05-18 02:02:43+00:00 | 34 | 0 | | 0 | [] |
 | maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | nan | https://github.com/maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-18 02:27:06+00:00 | 59 | 0 | | 0 | [] |
 | ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-05-18 03:10:49+00:00 | 0 | 0 | C++ | 0 | [] |
 | FroxenProject/FroxenAntiHackingEngine | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | ['exploit'] | 1 | 2022-05-18 01:41:49+00:00 | 271 | 0 | C# | 0 | [] |
 | XutaxKamay/scgen | Shellcode generator using C++ with uninitialized/initialized data possible. | https://github.com/XutaxKamay/scgen | ['shellcode'] | 1 | 2022-05-18 00:26:18+00:00 | 37 | 3 | C++ | 1 | [] |
 | UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-18 00:09:02+00:00 | 45 | 2 | Python | 0 | ['CVE-2021-3560'] |
+| Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-05-18 03:57:45+00:00 | 328 | 1 | Java | 0 | [] |
 | veritas501/CVE-2021-22555-PipeVersion | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-18 03:10:10+00:00 | 49 | 16 | C | 4 | ['CVE-2021-22555'] |
 | k0zulzr/CVE-2022-24086-RCE | None | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-18 02:36:40+00:00 | 7 | 2 | | 2 | ['CVE-2022-24086'] |
 | c0brabaghdad1/DVPA | Damn Vulnerable PHP Application (DVPA) - It is Lab Written in The PHP lang, Which Contains PHP Type Juggling - RCE Challenges | https://github.com/c0brabaghdad1/DVPA | ['rce'] | 1 | 2022-05-18 01:25:00+00:00 | 270 | 9 | PHP | 1 | [] |
@@ -25,6 +27,8 @@
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-05-18 01:16:16+00:00 | 54 | 21 | | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-18 01:51:41+00:00 | 1848 | 96 | HTML | 24 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-18 01:47:56+00:00 | 22644 | 3 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-18 04:00:03+00:00 | 184256 | 403 | Python | 118 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-05-18 03:41:49+00:00 | 293336 | 994 | C# | 232 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-18 00:04:49+00:00 | 562997 | 55 | | 21 | [] |
 | tilakthimmappa/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/tilakthimmappa/pyraider | ['exploit'] | 1 | 2022-05-18 00:40:32+00:00 | 421 | 14 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-18 00:47:51+00:00 | 15761 | 41 | | 21 | [] |
