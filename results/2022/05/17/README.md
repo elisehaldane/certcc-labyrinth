@@ -48,7 +48,7 @@
 | phor3nsic/CVE-2021-40822 | None | https://github.com/phor3nsic/CVE-2021-40822 | ['cve-2 OR cve_2'] | 1 | 2022-05-17 13:59:03+00:00 | 0 | 0 | Scheme | 0 | ['CVE-2021-40822'] |
 | PatriotRossii/foxhustle-exploit | foxhustle.ru exploit | https://github.com/PatriotRossii/foxhustle-exploit | ['exploit'] | 1 | 2022-05-17 15:12:53+00:00 | 0 | 0 | Python | 0 | [] |
 | afaq1337/CVE-2021-41946 | None | https://github.com/afaq1337/CVE-2021-41946 | ['cve-2 OR cve_2'] | 1 | 2022-05-17 15:31:28+00:00 | 0 | 0 | | 0 | ['CVE-2021-41946'] |
-| Crypt00o/0x86-assembely-shellcodeing | exploitation with assembly shellcodeing and i write a tool to out shellcodeing | https://github.com/Crypt00o/0x86-assembely-shellcodeing | ['exploit', 'shellcode'] | 2 | 2022-05-17 18:01:27+00:00 | 0 | 3 | Shell | 0 | [] |
+| Crypt00o/0x86-assembely-shellcodeing | exploitation with assembly shellcodeing and i write a tool to out shellcodeing | https://github.com/Crypt00o/0x86-assembely-shellcodeing | ['exploit', 'shellcode'] | 2 | 2022-05-17 18:01:27+00:00 | 4 | 3 | Shell | 0 | [] |
 | NeobloxExecutor/neoblox | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/NeobloxExecutor/neoblox | ['exploit'] | 1 | 2022-05-17 10:43:33+00:00 | 61402 | 1 | C# | 0 | [] |
 | trollarproducts/roblox-exploiting | roblox exploiting monorepo | https://github.com/trollarproducts/roblox-exploiting | ['exploit'] | 1 | 2022-05-17 18:51:14+00:00 | 0 | 0 | Lua | 0 | [] |
 | w33iss/OffSec-CyberSploit1 | Offsec challange on priviledge escalation | https://github.com/w33iss/OffSec-CyberSploit1 | ['sploit'] | 1 | 2022-05-17 19:42:19+00:00 | 0 | 0 | nan | 0 | [] |
