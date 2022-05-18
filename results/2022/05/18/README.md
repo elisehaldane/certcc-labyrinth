@@ -1,19 +1,23 @@
 
 # Summary for results/2022/05/18
     
-20 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|------------------------------------|
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|------------------------------------|
 | angr/rex | Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | ['exploit'] | 1 | 2022-05-18 00:53:59+00:00 | 2579 | 555 | Python | 112 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-18 00:22:59+00:00 | 51975 | 302 | Ruby | 88 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:20:49+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:19:43+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:18:50+00:00 | 0 | 0 | | 0 | [] |
 | NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-05-18 02:02:43+00:00 | 34 | 0 | | 0 | [] |
+| maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | nan | https://github.com/maihoangyen/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-18 02:27:06+00:00 | 59 | 0 | | 0 | [] |
+| ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-05-18 03:10:49+00:00 | 0 | 0 | C++ | 0 | [] |
 | FroxenProject/FroxenAntiHackingEngine | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | ['exploit'] | 1 | 2022-05-18 01:41:49+00:00 | 271 | 0 | C# | 0 | [] |
 | XutaxKamay/scgen | Shellcode generator using C++ with uninitialized/initialized data possible. | https://github.com/XutaxKamay/scgen | ['shellcode'] | 1 | 2022-05-18 00:26:18+00:00 | 37 | 3 | C++ | 1 | [] |
 | UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-18 00:09:02+00:00 | 45 | 2 | Python | 0 | ['CVE-2021-3560'] |
+| veritas501/CVE-2021-22555-PipeVersion | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-18 03:10:10+00:00 | 49 | 16 | C | 4 | ['CVE-2021-22555'] |
+| k0zulzr/CVE-2022-24086-RCE | None | https://github.com/k0zulzr/CVE-2022-24086-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-18 02:36:40+00:00 | 7 | 2 | | 2 | ['CVE-2022-24086'] |
 | c0brabaghdad1/DVPA | Damn Vulnerable PHP Application (DVPA) - It is Lab Written in The PHP lang, Which Contains PHP Type Juggling - RCE Challenges | https://github.com/c0brabaghdad1/DVPA | ['rce'] | 1 | 2022-05-18 01:25:00+00:00 | 270 | 9 | PHP | 1 | [] |
 | xjusthaxor/command-injection-payload | nan | https://github.com/xjusthaxor/command-injection-payload | ['command injection'] | 1 | 2022-05-18 02:23:07+00:00 | 20 | 2 | HTML | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-18 01:59:46+00:00 | 59562 | 2749 | | 338 | [] |
@@ -24,4 +28,6 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-18 00:04:49+00:00 | 562997 | 55 | | 21 | [] |
 | tilakthimmappa/pyraider | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/tilakthimmappa/pyraider | ['exploit'] | 1 | 2022-05-18 00:40:32+00:00 | 421 | 14 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-18 00:47:51+00:00 | 15761 | 41 | | 21 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-18 02:31:14+00:00 | 271113 | 156 | REXX | 15 | [] |
+| SoftFeta/tempusespatium | 🌏🚩💥 Edutainment Android+iOS app for adult learners by exploiting the Semantic Web. (EN/FR/CA/ES/DE/JP/ZH/UK) | https://github.com/SoftFeta/tempusespatium | ['exploit'] | 1 | 2022-05-18 02:46:05+00:00 | 179420 | 3 | Java | 0 | [] |
 | yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | None | https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | ['cve-2 OR cve_2'] | 1 | 2022-05-18 02:02:52+00:00 | 0 | 0 | | 0 | ['CVE-2020-4450', 'CVE-2020-4464'] |
