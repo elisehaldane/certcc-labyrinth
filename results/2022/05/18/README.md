@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/18
     
-133 records found after deduplication
+134 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -22,7 +22,7 @@
 | uds-lsv/3ST | Repository for SocialNLP paper "Exploiting Social Media Content for Self-Supervised Style Transfer". | https://github.com/uds-lsv/3ST | ['exploit'] | 1 | 2022-05-18 08:20:32+00:00 | 14 | 0 | | 0 | [] |
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-05-18 16:09:08+00:00 | 1724 | 3 | Python | 0 | [] |
 | ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-05-18 03:10:49+00:00 | 0 | 0 | C++ | 0 | [] |
-| felixmielcarek/sae-2.04 | Exploitation d’une base de données | https://github.com/felixmielcarek/sae-2.04 | ['exploit'] | 1 | 2022-05-18 06:33:51+00:00 | 140 | 3 | Python | 0 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:18:50+00:00 | 0 | 0 | | 0 | [] |
 | 7heKnight/CVE-2020-0688 | CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability | https://github.com/7heKnight/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2022-05-18 10:58:20+00:00 | 631 | 0 | Python | 0 | ['CVE-2020-0688'] |
 | Ultimator14/pwn-docker | Setup for binary exploitation in docker using pwntools | https://github.com/Ultimator14/pwn-docker | ['exploit'] | 1 | 2022-05-18 11:06:18+00:00 | 3 | 0 | Python | 0 | [] |
 | Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-18 20:25:58+00:00 | 98 | 0 | Python | 0 | [] |
@@ -38,9 +38,10 @@
 | mislavivanda/RF_DamnVulnerableDeFi | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | ['exploit'] | 1 | 2022-05-18 12:53:03+00:00 | 586 | 0 | Solidity | 0 | [] |
 | XutaxKamay/scgen | Shellcode generator using C++ with uninitialized/initialized data possible. | https://github.com/XutaxKamay/scgen | ['shellcode'] | 1 | 2022-05-18 00:26:18+00:00 | 37 | 3 | C++ | 1 | [] |
 | Authentura/demos | A repository for demonstration purposes of the various vulnerabilities and exploits developed by Authentura | https://github.com/Authentura/demos | ['exploit'] | 1 | 2022-05-18 01:03:36+00:00 | 27 | 0 | Python | 0 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:18:50+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:19:43+00:00 | 0 | 0 | | 0 | [] |
-| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:20:49+00:00 | 0 | 0 | | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-05-18 14:00:28+00:00 | 27255 | 9035 | Python | 1504 | [] |
+| burpheart/ping2rce | None | https://github.com/burpheart/ping2rce | ['rce'] | 1 | 2022-05-18 13:00:48+00:00 | 0 | 0 | | 0 | [] |
+| dondrive/fortnitecheat | A Fortnite Exploit for the newest Version. Private Server INGAME working Skins | https://github.com/dondrive/fortnitecheat | ['exploit'] | 1 | 2022-05-18 21:50:49+00:00 | 0 | 0 | | 0 | [] |
 | pr0k3z/Wordpress-Tools | Tools To Scan and Exploit WordPress | https://github.com/pr0k3z/Wordpress-Tools | ['exploit'] | 1 | 2022-05-18 21:47:58+00:00 | 0 | 0 | Python | 0 | [] |
 | xct/windows-kernel-exploits | Some of my windows kernel exploits for learning purposes | https://github.com/xct/windows-kernel-exploits | ['exploit'] | 1 | 2022-05-18 19:35:31+00:00 | 0 | 0 | C++ | 1 | [] |
 | rahul-masal/exploits | None | https://github.com/rahul-masal/exploits | ['exploit'] | 1 | 2022-05-18 18:44:22+00:00 | 0 | 0 | C | 0 | [] |
@@ -54,8 +55,8 @@
 | BaselRcs/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | None | https://github.com/BaselRcs/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | ['exploit'] | 1 | 2022-05-18 15:50:13+00:00 | 0 | 0 | C++ | 0 | [] |
 | Chocapikk/CVE-2022-30525-Reverse-Shell | Simple python script to exploit CVE-2022-30525 (FIXED): Zyxel Firewall Unauthenticated Remote Command Injection | https://github.com/Chocapikk/CVE-2022-30525-Reverse-Shell | ['command injection', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-18 15:25:22+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-30525'] |
 | reccoon-dev/CVE-2021-1732 | Analysis, POC and Explanation of CVE-2021-1732 | https://github.com/reccoon-dev/CVE-2021-1732 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-18 13:34:07+00:00 | 0 | 0 | | 0 | ['CVE-2021-1732'] |
-| burpheart/ping2rce | None | https://github.com/burpheart/ping2rce | ['rce'] | 1 | 2022-05-18 13:00:48+00:00 | 0 | 0 | | 0 | [] |
 | kuznyJan1972/CVE-2021-44228-mass | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/kuznyJan1972/CVE-2021-44228-mass | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-05-18 12:42:05+00:00 | 0 | 0 | | 0 | ['CVE-2021-44228'] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | ['exploit'] | 1 | 2022-05-18 00:20:49+00:00 | 0 | 0 | | 0 | [] |
 | kuznyJan1972/CVE-2022-30525-mass | zyxel firewall unauthenticated rce mass multi threaded exploit | https://github.com/kuznyJan1972/CVE-2022-30525-mass | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-05-18 12:22:30+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-30525'] |
 | p0dalirius/CVE-2022-30780-lighttpd-denial-of-service | CVE-2022-30780 - lighttpd remote denial of service | https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-18 16:32:06+00:00 | 0 | 0 | Perl | 0 | ['CVE-2022-30780'] |
 | learn-exploits/learn-exploits | Config files for my GitHub profile. | https://github.com/learn-exploits/learn-exploits | ['exploit'] | 1 | 2022-05-18 11:24:02+00:00 | 0 | 1 | | 0 | [] |
@@ -71,8 +72,8 @@
 | r3s1l3n7/exploit | None | https://github.com/r3s1l3n7/exploit | ['exploit'] | 1 | 2022-05-18 06:13:30+00:00 | 0 | 0 | | 0 | [] |
 | yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | None | https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | ['cve-2 OR cve_2'] | 1 | 2022-05-18 02:02:52+00:00 | 0 | 0 | | 0 | ['CVE-2020-4450', 'CVE-2020-4464'] |
 | UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-18 00:09:02+00:00 | 45 | 2 | Python | 0 | ['CVE-2021-3560'] |
+| felixmielcarek/sae-2.04 | Exploitation d’une base de données | https://github.com/felixmielcarek/sae-2.04 | ['exploit'] | 1 | 2022-05-18 06:33:51+00:00 | 140 | 3 | Python | 0 | [] |
 | chrivand/action-kenna-cve-exploits-js | None | https://github.com/chrivand/action-kenna-cve-exploits-js | ['exploit'] | 1 | 2022-05-18 14:57:13+00:00 | 1457 | 0 | JavaScript | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-05-18 14:00:28+00:00 | 27255 | 9035 | Python | 1504 | [] |
 | jzhzhang/FusionAwareConv | [CVPR 2020] We propose a novel fusionaware 3D point convolution which operates directly on the geometric surface being reconstructed and exploits effectively the inter-frame correlation for high quality 3D feature learning. | https://github.com/jzhzhang/FusionAwareConv | ['exploit'] | 1 | 2022-05-18 06:36:41+00:00 | 6036 | 50 | Python | 5 | [] |
 | BinaryDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | ['exploit'] | 1 | 2022-05-18 20:27:48+00:00 | 1883 | 5 | Lua | 3 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-05-18 12:52:44+00:00 | 229215 | 0 | JavaScript | 0 | [] |
@@ -137,4 +138,4 @@
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-05-18 11:13:25+00:00 | 1064 | 1 | Python | 0 | [] |
 | dedsxc/bot_exploitdb | Exploitdb Twitter bot | https://github.com/dedsxc/bot_exploitdb | ['exploit'] | 1 | 2022-05-18 13:38:19+00:00 | 4 | 0 | Go | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-18 01:27:00+00:00 | 5523406 | 44 | Python | 8 | [] |
-| dondrive/fortnitecheat | A Fortnite Exploit for the newest Version. Private Server INGAME working Skins | https://github.com/dondrive/fortnitecheat | ['exploit'] | 1 | 2022-05-18 21:50:49+00:00 | 0 | 0 | | 0 | [] |
+| trhacknon/XSS-CVE-2022-30489 | None | https://github.com/trhacknon/XSS-CVE-2022-30489 | ['cve-2 OR cve_2'] | 1 | 2022-05-18 23:28:14+00:00 | 0 | 0 | | 0 | ['CVE-2022-30489'] |
