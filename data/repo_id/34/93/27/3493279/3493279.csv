@@ -81,5 +81,5 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/SymantecBackupExec.py,e7d961081f57d0abbb2e45f3aaa5bee12a4def2f,CVE-2007-6016
 3493279,buffer/thug,thug/ActiveX/modules/SymantecBackupExec.py,e7d961081f57d0abbb2e45f3aaa5bee12a4def2f,CVE-2007-6017
 3493279,buffer/thug,thug/ActiveX/modules/Domino.py,f2684134053e30e0c15fc5609fe91746c756fa9d,CVE-2007-4474
-3493279,buffer/thug,thug/Classifier/rules/urlclassifier/blackhole.yar,fd0692187bbb499de72fb926ecd54b7c349d5be8,CVE-2011-3402
+3493279,buffer/thug,conf/rules/urlclassifier/blackhole.yar,fd0692187bbb499de72fb926ecd54b7c349d5be8,CVE-2011-3402
 3493279,buffer/thug,thug/ActiveX/modules/OfficeOCX.py,fd5541bc45281ab4e3a9dfadf32da95fdd47d8dc,BID-33243
