@@ -1,27 +1,35 @@
 
 # Summary for results/2022/05/19
     
-20 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-19 00:00:40+00:00 | 738350 | 27267 | Ruby | 12233 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-19 00:37:20+00:00 | 3181 | 2673 | PowerShell | 752 | [] |
-| oK0mo/CVE-2022-24086-RCE-PoC | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-05-19 01:15:58+00:00 | 0 | 0 | nan | 0 | ['CVE-2022-24086'] |
+| oK0mo/CVE-2022-24086-RCE-PoC | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-05-19 01:15:58+00:00 | 0 | 0 | | 0 | ['CVE-2022-24086'] |
 | mohammadahdhhfdhhfhgf/BruteSploit-master | nan | https://github.com/mohammadahdhhfdhhfhgf/BruteSploit-master | ['sploit'] | 1 | 2022-05-19 01:14:33+00:00 | 0 | 0 | nan | 0 | [] |
 | mgula/x86-exploitation-projects | Collection of exercises in exploiting x86 code ft. pwntools | https://github.com/mgula/x86-exploitation-projects | ['exploit'] | 1 | 2022-05-19 01:55:48+00:00 | 381 | 0 | Python | 0 | [] |
 | mgula/x86-exploitation-projects | Collection of exercises in exploiting vulnerable x86 code feat pwntools | https://github.com/mgula/x86-exploitation-projects | ['exploit'] | 1 | 2022-05-19 00:47:48+00:00 | 0 | 0 | | 0 | [] |
+| trollarproducts/roblox-exploiting | roblox exploiting monorepo | https://github.com/trollarproducts/roblox-exploiting | ['exploit'] | 1 | 2022-05-19 02:58:34+00:00 | 27 | 0 | Lua | 0 | [] |
 | NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-05-19 00:21:19+00:00 | 1219 | 0 | | 0 | [] |
 | Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-19 00:49:42+00:00 | 5748 | 0 | Python | 0 | [] |
 | yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-19 01:23:00+00:00 | 264 | 12 | Python | 7 | ['CVE-2022-26809'] |
 | conefv/ROBLOX | Resources for ROBLOX exploiting related things. | https://github.com/conefv/ROBLOX | ['exploit'] | 1 | 2022-05-19 00:23:15+00:00 | 52 | 0 | Lua | 0 | [] |
+| datechies/Exploit | Android Exploit is an advanced version of rat/payload/botnet and can hack an android device in less than 1 minute and can control multiple devices at once. Can hack the latest security android os 12 api (31). minimum sdk (24). It can bypass most of the ant | https://github.com/datechies/Exploit | ['exploit'] | 1 | 2022-05-19 03:22:16+00:00 | 15511 | 2 | | 1 | [] |
+| YuriSizuku/MemoryModule | A tool to parse and load module in memory, as well as attach a DLL in EXE. Most of the functions are inline, so that it can also be used in shellcode. | https://github.com/YuriSizuku/MemoryModule | ['shellcode'] | 1 | 2022-05-19 02:53:38+00:00 | 123 | 49 | C | 25 | [] |
+| zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-19 03:05:27+00:00 | 3184 | 248 | Go | 47 | [] |
+| nathants/aws-rce | adhoc remote execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-05-19 02:27:34+00:00 | 200 | 2 | Go | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-19 01:50:32+00:00 | 64869 | 2756 | | 340 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-19 01:53:09+00:00 | 5527724 | 44 | Python | 8 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-19 02:08:11+00:00 | 1907 | 96 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-19 02:05:48+00:00 | 20337 | 3 | Python | 0 | [] |
+| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2022-05-19 03:10:27+00:00 | 331 | 0 | HTML | 0 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-05-19 03:17:56+00:00 | 81584 | 1192 | Go | 185 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-19 00:04:08+00:00 | 562598 | 55 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-19 00:47:51+00:00 | 15977 | 41 | | 21 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-05-19 02:12:11+00:00 | 64310 | 1536 | Python | 306 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-19 02:31:27+00:00 | 276726 | 156 | REXX | 15 | [] |
 | remo7777/Termux-Metasploit | metasploit-framework version 5.0.53-dev for termux specially for android version 5 and 6 | https://github.com/remo7777/Termux-Metasploit | ['metasploit module OR payload'] | 1 | 2022-05-19 00:55:42+00:00 | 55 | 87 | Shell | 23 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-19 00:28:50+00:00 | 51975 | 302 | Ruby | 88 | [] |
 | theori-io/CVE-2022-26717-Safari-WebGL-Exploit | None | https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-19 01:17:07+00:00 | 4470 | 3 | HTML | 3 | ['CVE-2022-26717'] |
