@@ -25,7 +25,7 @@ repo_id,repo_full_name,file,file_sha1,match
 456730436,Threekiii/Awesome-Redteam,tips/Apache项目及漏洞指纹速查.md,0fc0e5cd620a9a93c0ef4e19e2df87c260ded7a1,CVE-2021-42013
 456730436,Threekiii/Awesome-Redteam,tips/Apache项目及漏洞指纹速查.md,0fc0e5cd620a9a93c0ef4e19e2df87c260ded7a1,CVE-2015-5254
 456730436,Threekiii/Awesome-Redteam,tips/Apache项目及漏洞指纹速查.md,0fc0e5cd620a9a93c0ef4e19e2df87c260ded7a1,CVE-2021-44228
-456730436,Threekiii/Awesome-Redteam,README.md,6975492ea17d3decc3ca3d19594c8ce9b0de46f1,CVE-2021-44228
+456730436,Threekiii/Awesome-Redteam,README.md,16d030919035f693c4e07da7f801990560ea0e77,CVE-2021-44228
 456730436,Threekiii/Awesome-Redteam,docs/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2020-11989
 456730436,Threekiii/Awesome-Redteam,docs/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2020-14644
 456730436,Threekiii/Awesome-Redteam,docs/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2020-14756
