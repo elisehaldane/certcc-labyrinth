@@ -18,7 +18,7 @@ repo_id,repo_full_name,file,file_sha1,match
 2833881,beefproject/beef,modules/social_engineering/fake_notification_c/command.js,46311a43ce8174b139d14bc4a8cdf6daa986d0df,VU#44
 2833881,beefproject/beef,modules/social_engineering/fake_notification_c/command.js,46311a43ce8174b139d14bc4a8cdf6daa986d0df,VU#840
 2833881,beefproject/beef,modules/exploits/local_host/ie_ms12_004_midi/config.yaml,479e9b7274de4a731fec438b4a78a271c55c6ef4,MS12-004
-2833881,beefproject/beef,modules/social_engineering/firefox_extension_bindshell/command.js,548d4ee6844a1fcc3fc328567f4bc98c786d8229,VU#59
+2833881,beefproject/beef,modules/social_engineering/firefox_extension_reverse_shell/command.js,548d4ee6844a1fcc3fc328567f4bc98c786d8229,VU#59
 2833881,beefproject/beef,modules/exploits/coldfusion_dir_traversal_exploit/config.yaml,7856ed7a07842d3a7c87abdbfd3f403c549f78bd,CVE-2010-2861
 2833881,beefproject/beef,modules/exploits/local_host/ie_ms13_069_caret/config.yaml,7a288962c73832e61b98114515675b30df01ae33,MS13-069
 2833881,beefproject/beef,modules/exploits/local_host/ie_ms12_004_midi/command.js,7a40d1b33d5eadb524aeb992a5d9ea9c91950a28,MS12-004
