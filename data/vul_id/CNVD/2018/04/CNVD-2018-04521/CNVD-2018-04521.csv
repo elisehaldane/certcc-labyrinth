@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2018-04521,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
-CNVD-2018-04521,0.00001749,https://github.com/trickest/cve,trickest/cve,454015416
+CNVD-2018-04521,0.00001760,https://github.com/trickest/cve,trickest/cve,454015416
 CNVD-2018-04521,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 CNVD-2018-04521,0.00000469,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
