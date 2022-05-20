@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/20
     
-27 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-05-20 00:01:45+00:00 | 1534771 | 1625 | Python | 544 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-20 02:07:59+00:00 | 3185 | 258 | Go | 50 | [] |
+| NixyDev/Exploits-Online | None | https://github.com/NixyDev/Exploits-Online | ['exploit'] | 1 | 2022-05-20 01:49:24+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:09:05+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:08:00+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:06:52+00:00 | 0 | 0 | | 0 | [] |
@@ -31,4 +32,5 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-20 00:47:51+00:00 | 16805 | 41 | | 21 | [] |
 | dedsecurity/dedsecurity-framework | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | ['exploit'] | 1 | 2022-05-20 00:07:53+00:00 | 973 | 14 | Python | 10 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-20 02:31:51+00:00 | 276826 | 157 | REXX | 15 | [] |
-| NixyDev/Exploits-Online | None | https://github.com/NixyDev/Exploits-Online | ['exploit'] | 1 | 2022-05-20 01:49:24+00:00 | 0 | 0 | | 0 | [] |
+| soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-20 03:22:40+00:00 | 6158 | 511 | C++ | 102 | [] |
+| ste4lthy1337/fortnite-exploits | many of these are used in p2s so why not release them, all update them as much as i can join my discord:https://discord.gg/5z79kuRxPT | https://github.com/ste4lthy1337/fortnite-exploits | ['exploit'] | 1 | 2022-05-20 03:37:58+00:00 | 0 | 0 | | 0 | [] |
