@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/20
     
-62 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-05-20 00:01:45+00:00 | 1534771 | 1625 | Python | 544 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-20 09:16:36+00:00 | 738365 | 27280 | Ruby | 12239 | [] |
 | caiquebaracho/CVE-2021-44228 | This repository contains instructions for configuring a vulnerability study environment known as "Log4shell". | https://github.com/caiquebaracho/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-05-20 00:22:59+00:00 | 11790 | 0 | Shell | 0 | ['CVE-2021-44228'] |
+| SamOBoy97/SamSploit | A professional ethical hacking tool. | https://github.com/SamOBoy97/SamSploit | ['sploit'] | 1 | 2022-05-20 08:20:03+00:00 | 19 | 3 | HTML | 0 | [] |
 | corelight/cve-2022-22954 | None | https://github.com/corelight/cve-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-05-20 02:31:21+00:00 | 11 | 0 | Zeek | 0 | ['CVE-2022-22954'] |
 | sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-20 00:45:52+00:00 | 403 | 0 | | 0 | [] |
 | GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-20 05:57:57+00:00 | 10172 | 4 | JavaScript | 1 | [] |
@@ -21,7 +22,7 @@
 | jareer12/BloxSafe | 🚀 Roblox exploit scripts Dashboard. | https://github.com/jareer12/BloxSafe | ['exploit'] | 1 | 2022-05-20 05:53:25+00:00 | 508 | 5 | Vue | 1 | [] |
 | WhyGitHubb/FEService | FilteringEnabled hax real | https://github.com/WhyGitHubb/FEService | ['exploit'] | 1 | 2022-05-20 06:58:21+00:00 | 20 | 0 | Lua | 0 | [] |
 | cxzero/CVE-2022-22965-spring4shell | CVE-2022-22965 Spring4Shell research & PoC | https://github.com/cxzero/CVE-2022-22965-spring4shell | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-20 00:42:23+00:00 | 9481 | 0 | Python | 0 | ['CVE-2022-22965'] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-20 05:52:13+00:00 | 5467 | 3265 | Python | 693 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-05-20 00:01:45+00:00 | 1534771 | 1625 | Python | 544 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:06:52+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:08:00+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:09:05+00:00 | 0 | 0 | | 0 | [] |
@@ -35,10 +36,12 @@
 | reigenatk/vuln-driver | Exploiting the AsrDrv104 driver | https://github.com/reigenatk/vuln-driver | ['exploit'] | 1 | 2022-05-20 06:51:02+00:00 | 0 | 0 | | 0 | [] |
 | LF0RCE00000000000000000000/LF0RCE00000000000000000000 | Config files for my GitHub profile. | https://github.com/LF0RCE00000000000000000000/LF0RCE00000000000000000000 | ['rce'] | 1 | 2022-05-20 08:17:14+00:00 | 0 | 0 | | 0 | [] |
 | HflixDev/Flox-s-Admin-Hub-roblox-exploit | None | https://github.com/HflixDev/Flox-s-Admin-Hub-roblox-exploit | ['exploit'] | 1 | 2022-05-20 08:29:52+00:00 | 0 | 0 | | 0 | [] |
-| SamOBoy97/SamSploit | A professional ethical hacking tool. | https://github.com/SamOBoy97/SamSploit | ['sploit'] | 1 | 2022-05-20 08:20:03+00:00 | 19 | 3 | HTML | 0 | [] |
+| Anujbhatt26/Attendance-Using-Face-rcegnition | None | https://github.com/Anujbhatt26/Attendance-Using-Face-rcegnition | ['rce'] | 1 | 2022-05-20 08:34:13+00:00 | 0 | 0 | | 0 | [] |
 | Jhangju/offode | {{OFFODE}} {This is POC of how an attacker automate user's responce and bypass outlook} | https://github.com/Jhangju/offode | ['attack poc'] | 1 | 2022-05-20 06:30:44+00:00 | 115 | 2 | EJS | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and/or Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-05-20 04:12:30+00:00 | 115 | 10 | Java | 0 | [] |
 | EpicCatto/Bcc-Security-Vulnerability | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | ['exploit'] | 1 | 2022-05-20 06:28:13+00:00 | 2345 | 0 | | 0 | [] |
+| SoftwareSecurityLab/Heap-Overflow-Detection | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-05-20 04:51:56+00:00 | 3659 | 2 | C | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-20 05:52:13+00:00 | 5467 | 3265 | Python | 693 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-20 00:23:25+00:00 | 51977 | 302 | Ruby | 88 | [] |
 | bugbaba/cors-missconfig-Exploitation-Demo | Demo for Exploiting CORS Misconfiguration using XSS | https://github.com/bugbaba/cors-missconfig-Exploitation-Demo | ['exploit'] | 1 | 2022-05-20 07:34:20+00:00 | 6 | 12 | PHP | 4 | [] |
 | soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-20 03:22:40+00:00 | 6158 | 511 | C++ | 102 | [] |
@@ -48,6 +51,7 @@
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-20 02:20:57+00:00 | 830 | 273 | C | 14 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-05-20 04:23:10+00:00 | 154292 | 411 | Go | 83 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-20 00:04:41+00:00 | 573492 | 55 | | 21 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-05-20 09:39:04+00:00 | 293371 | 996 | C# | 234 | [] |
 | turbot/steampipe-plugin-shodan | Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. | https://github.com/turbot/steampipe-plugin-shodan | ['exploit'] | 1 | 2022-05-20 05:18:23+00:00 | 164 | 23 | Go | 4 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-20 06:32:53+00:00 | 582380 | 110 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-20 04:50:55+00:00 | 175858 | 403 | Python | 118 | [] |
@@ -61,9 +65,9 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-20 06:20:47+00:00 | 130760 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-20 02:29:13+00:00 | 71690 | 2763 | | 346 | [] |
 | nathants/aws-rce | adhoc remote execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-05-20 01:50:04+00:00 | 207 | 2 | Go | 0 | [] |
+| Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-05-20 09:23:20+00:00 | 3114 | 314 | | 64 | [] |
 | Threekiii/Awesome-POC | 一个各类漏洞POC知识库 | https://github.com/Threekiii/Awesome-POC | ['vulnerability poc'] | 1 | 2022-05-20 07:57:50+00:00 | 603 | 27 | | 7 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-20 02:07:59+00:00 | 3185 | 258 | Go | 50 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-05-20 04:53:54+00:00 | 814 | 189 | JavaScript | 722 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-20 01:08:36+00:00 | 299 | 0 | | 0 | [] |
-| SoftwareSecurityLab/Heap-Overflow-Detection | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-05-20 04:51:56+00:00 | 3659 | 2 | C | 0 | [] |
-| Anujbhatt26/Attendance-Using-Face-rcegnition | None | https://github.com/Anujbhatt26/Attendance-Using-Face-rcegnition | ['rce'] | 1 | 2022-05-20 08:34:13+00:00 | 0 | 0 | | 0 | [] |
+| TomArni680/CVE-2021-44228-RCE | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/TomArni680/CVE-2021-44228-RCE | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-05-20 09:48:25+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-44228'] |
