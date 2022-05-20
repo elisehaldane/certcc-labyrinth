@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/20
     
-52 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -14,10 +14,12 @@
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-20 04:50:23+00:00 | 127 | 204 | Go | 22 | [] |
 | alvin-tosh/Cybersec101 | This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Cybersec101 | ['exploit'] | 1 | 2022-05-20 06:45:57+00:00 | 84 | 1 | Python | 1 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-20 05:02:02+00:00 | 30 | 14 | nan | 2 | [] |
-| UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) - Local Privilege Escalation | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-20 00:59:24+00:00 | 60 | 2 | Python | 0 | ['CVE-2021-3560'] |
+| felixmielcarek/sae-2.04 | Exploitation d’une base de données | https://github.com/felixmielcarek/sae-2.04 | ['exploit'] | 1 | 2022-05-20 07:38:40+00:00 | 174 | 3 | Python | 0 | [] |
+| UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) - Local Privilege Escalation | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-20 00:30:20+00:00 | 60 | 2 | Python | 0 | ['CVE-2021-3560'] |
 | Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-20 02:39:52+00:00 | 5762 | 0 | Python | 0 | [] |
 | akaAbdullahMateen/system-interals | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | ['exploit'] | 1 | 2022-05-20 02:04:24+00:00 | 9 | 0 | C | 0 | [] |
 | jareer12/BloxSafe | 🚀 Roblox exploit scripts Dashboard. | https://github.com/jareer12/BloxSafe | ['exploit'] | 1 | 2022-05-20 05:53:25+00:00 | 508 | 5 | Vue | 1 | [] |
+| WhyGitHubb/FEService | FilteringEnabled hax real | https://github.com/WhyGitHubb/FEService | ['exploit'] | 1 | 2022-05-20 06:58:21+00:00 | 20 | 0 | Lua | 0 | [] |
 | caiquebaracho/CVE-2021-44228 | This repository contains instructions for configuring a vulnerability study environment known as "Log4shell". | https://github.com/caiquebaracho/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-05-20 00:22:59+00:00 | 11790 | 0 | Shell | 0 | ['CVE-2021-44228'] |
 | cxzero/CVE-2022-22965-spring4shell | CVE-2022-22965 Spring4Shell research & PoC | https://github.com/cxzero/CVE-2022-22965-spring4shell | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-20 00:42:23+00:00 | 9481 | 0 | Python | 0 | ['CVE-2022-22965'] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:06:52+00:00 | 0 | 0 | | 0 | [] |
@@ -35,6 +37,7 @@
 | SoftwareSecurityLab/Heap-Overflow-Detection | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-05-20 04:51:56+00:00 | 3659 | 2 | C | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-20 04:50:55+00:00 | 175858 | 403 | Python | 118 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-20 00:23:25+00:00 | 51977 | 302 | Ruby | 88 | [] |
+| bugbaba/cors-missconfig-Exploitation-Demo | Demo for Exploiting CORS Misconfiguration using XSS | https://github.com/bugbaba/cors-missconfig-Exploitation-Demo | ['exploit'] | 1 | 2022-05-20 07:34:20+00:00 | 6 | 12 | PHP | 4 | [] |
 | soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-20 03:22:40+00:00 | 6158 | 511 | C++ | 102 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-20 02:31:51+00:00 | 276826 | 157 | REXX | 15 | [] |
 | dedsecurity/dedsecurity-framework | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | ['exploit'] | 1 | 2022-05-20 00:07:53+00:00 | 973 | 14 | Python | 10 | [] |
@@ -51,6 +54,7 @@
 | SQLab/CRAXplusplus | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-20 04:48:26+00:00 | 3610 | 48 | C++ | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-20 01:43:42+00:00 | 5563769 | 44 | Python | 8 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-20 02:57:39+00:00 | 7548 | 2980 | TypeScript | 423 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-20 07:07:55+00:00 | 133 | 0 | Go | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-20 06:20:47+00:00 | 130760 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-20 02:29:13+00:00 | 71690 | 2763 | | 346 | [] |
 | nathants/aws-rce | adhoc remote execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-05-20 01:50:04+00:00 | 207 | 2 | Go | 0 | [] |
