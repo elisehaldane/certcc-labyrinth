@@ -1,21 +1,22 @@
 
 # Summary for results/2022/05/20
     
-38 records found after deduplication
+40 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-05-20 00:01:45+00:00 | 1534771 | 1625 | Python | 544 | [] |
-| akaAbdullahMateen/system-interals | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | ['exploit'] | 1 | 2022-05-20 02:04:24+00:00 | 9 | 0 | C | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-20 00:23:25+00:00 | 51977 | 302 | Ruby | 88 | [] |
 | SoftwareSecurityLab/Heap-Overflow-Detection | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | ['heap overflow'] | 1 | 2022-05-20 04:51:56+00:00 | 3659 | 2 | C | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and/or Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-05-20 04:12:30+00:00 | 115 | 10 | Java | 0 | [] |
 | corelight/cve-2022-22954 | None | https://github.com/corelight/cve-2022-22954 | ['cve-2 OR cve_2'] | 1 | 2022-05-20 02:31:21+00:00 | 11 | 0 | Zeek | 0 | ['CVE-2022-22954'] |
 | sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-20 00:45:52+00:00 | 403 | 0 | | 0 | [] |
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-05-20 04:50:23+00:00 | 127 | 204 | Go | 22 | [] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-20 05:02:02+00:00 | 30 | 14 | nan | 2 | [] |
 | UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) - Local Privilege Escalation | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-20 00:59:24+00:00 | 60 | 2 | Python | 0 | ['CVE-2021-3560'] |
 | Milo-D/ptmalloc2-research | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | ['exploit'] | 1 | 2022-05-20 02:39:52+00:00 | 5762 | 0 | Python | 0 | [] |
+| akaAbdullahMateen/system-interals | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | ['exploit'] | 1 | 2022-05-20 02:04:24+00:00 | 9 | 0 | C | 0 | [] |
 | caiquebaracho/CVE-2021-44228 | This repository contains instructions for configuring a vulnerability study environment known as "Log4shell". | https://github.com/caiquebaracho/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-05-20 00:22:59+00:00 | 11790 | 0 | Shell | 0 | ['CVE-2021-44228'] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-20 00:23:25+00:00 | 51977 | 302 | Ruby | 88 | [] |
 | cxzero/CVE-2022-22965-spring4shell | CVE-2022-22965 Spring4Shell research & PoC | https://github.com/cxzero/CVE-2022-22965-spring4shell | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-20 00:42:23+00:00 | 9481 | 0 | Python | 0 | ['CVE-2022-22965'] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:06:52+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | ['exploit'] | 1 | 2022-05-20 00:08:00+00:00 | 0 | 0 | | 0 | [] |
@@ -26,7 +27,7 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-20 01:08:36+00:00 | 299 | 0 | | 0 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-05-20 04:53:54+00:00 | 814 | 189 | JavaScript | 722 | [] |
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-20 02:07:59+00:00 | 3185 | 258 | Go | 50 | [] |
-| nathants/aws-rce | adhoc remote execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-05-20 01:50:04+00:00 | 207 | 2 | Go | 0 | [] |
+| turbot/steampipe-plugin-shodan | Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. | https://github.com/turbot/steampipe-plugin-shodan | ['exploit'] | 1 | 2022-05-20 05:18:23+00:00 | 164 | 23 | Go | 4 | [] |
 | soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-20 03:22:40+00:00 | 6158 | 511 | C++ | 102 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-20 02:31:51+00:00 | 276826 | 157 | REXX | 15 | [] |
 | dedsecurity/dedsecurity-framework | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | ['exploit'] | 1 | 2022-05-20 00:07:53+00:00 | 973 | 14 | Python | 10 | [] |
@@ -35,6 +36,7 @@
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-05-20 04:23:10+00:00 | 154292 | 411 | Go | 83 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-20 00:04:41+00:00 | 573492 | 55 | | 21 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-20 04:50:55+00:00 | 175858 | 403 | Python | 118 | [] |
+| nathants/aws-rce | adhoc remote execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-05-20 01:50:04+00:00 | 207 | 2 | Go | 0 | [] |
 | iammaguire/MeetC2 | Modular C2 framework aiming to ease post exploitation for red teamers. | https://github.com/iammaguire/MeetC2 | ['exploit'] | 1 | 2022-05-20 02:48:36+00:00 | 99969 | 144 | Go | 29 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-20 01:58:08+00:00 | 22096 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-20 01:59:21+00:00 | 1911 | 96 | HTML | 25 | [] |
