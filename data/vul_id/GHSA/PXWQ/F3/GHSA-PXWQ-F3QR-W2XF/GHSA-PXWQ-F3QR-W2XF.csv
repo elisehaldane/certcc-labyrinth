@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-PXWQ-F3QR-W2XF,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 GHSA-PXWQ-F3QR-W2XF,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 GHSA-PXWQ-F3QR-W2XF,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-GHSA-PXWQ-F3QR-W2XF,0.00020206,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-PXWQ-F3QR-W2XF,0.00020198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
