@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#44,1.00000000,https://github.com/KOZ1OL/exploits,KOZ1OL/exploits,456404139
 VU#44,1.00000000,https://github.com/WMCB-Tech/RickSploit,WMCB-Tech/RickSploit,346977279
 VU#44,0.50000000,https://github.com/VVeakee/CVE-2022-24990-POC,VVeakee/CVE-2022-24990-POC,468177153
-VU#44,0.33333333,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#44,0.33333333,https://github.com/jhftss/CVE-2022-22639,jhftss/CVE-2022-22639,470871002
 VU#44,0.25000000,https://github.com/neurosutras/optimize_cells,neurosutras/optimize_cells,115853066
 VU#44,0.20000000,https://github.com/v0x45/PassGen-by-Rayan-w-Backdoor,v0x45/PassGen-by-Rayan-w-Backdoor,486184135
