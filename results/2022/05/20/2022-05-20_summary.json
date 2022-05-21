@@ -10416,7 +10416,7 @@
     "temp_clone_token":"",
     "network_count":22,
     "subscribers_count":4,
-    "matched_at":"2022-05-20T04:55:13Z",
+    "matched_at":"2022-05-20T04:54:45Z",
     "organization":null,
     "template_repository":{
       "id":456136530,
@@ -14017,7 +14017,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-05-20T04:54:53Z",
+    "matched_at":"2022-05-20T04:55:13Z",
     "organization":null,
     "template_repository":null,
     "owner_login":"sadshade",
@@ -15824,9 +15824,11 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "cve-2 OR cve_2"
+      "cve-2 OR cve_2",
+      "exploit",
+      "rce"
     ],
-    "matched_count":1,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2022-26809"
     ]
