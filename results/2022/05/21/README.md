@@ -1,25 +1,25 @@
 
 # Summary for results/2022/05/21
     
-52 records found after deduplication
+55 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-21 00:24:20+00:00 | 51977 | 303 | Ruby | 88 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-21 02:34:42+00:00 | 273822 | 157 | REXX | 15 | [] |
-| sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-21 01:24:24+00:00 | 413 | 0 | Assembly | 0 | [] |
-| GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-21 01:52:53+00:00 | 10172 | 4 | JavaScript | 1 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-z | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-z | ['exploit'] | 1 | 2022-05-21 00:04:50+00:00 | 0 | 0 | | 0 | [] |
 | p0dalirius/LimeSurvey-plugin-webshell | A webshell plugin and interactive shell for pentesting a LimeSurvey application. | https://github.com/p0dalirius/LimeSurvey-plugin-webshell | ['rce'] | 1 | 2022-05-21 09:45:56+00:00 | 1273 | 3 | Python | 1 | [] |
 | Omega248/qb-banktruck | A Bank Truck script with difficulty levels for better payouts and unique items, there are a lot of checks within the script to ensure that the script can not be exploited/abused. The script is very customizable and the Ai is pretty intelligent for GTA stan | https://github.com/Omega248/qb-banktruck | ['exploit'] | 1 | 2022-05-21 10:38:00+00:00 | 19901 | 3 | Lua | 2 | [] |
+| zidansec/CloudPeler | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further pene | https://github.com/zidansec/CloudPeler | ['exploit'] | 1 | 2022-05-21 11:42:37+00:00 | 49 | 5 | PHP | 1 | [] |
 | Doran342545345/Exploit-key | None | https://github.com/Doran342545345/Exploit-key | ['exploit'] | 1 | 2022-05-21 08:00:25+00:00 | 0 | 0 | | 0 | [] |
 | BloxSafe/Backend | 🚀 BloxSafe backend code. | https://github.com/BloxSafe/Backend | ['exploit'] | 1 | 2022-05-21 08:30:55+00:00 | 709 | 5 | TypeScript | 2 | [] |
 | NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-05-21 00:50:42+00:00 | 1237 | 0 | | 2 | [] |
 | VinuKalana/DirtyPipe-CVE-2022-0847 | This repository is developed to analysis and understand DirtyPipe exploit CVE-2022-0847 | https://github.com/VinuKalana/DirtyPipe-CVE-2022-0847 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-21 05:43:17+00:00 | 13 | 0 | C | 0 | ['CVE-2022-0847'] |
+| aancw/CVE-2022-1388-rs | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-21 11:45:11+00:00 | 4 | 0 | Rust | 0 | ['CVE-2022-1388'] |
 | yorane007/NYEStore | Sample microservice project development for purpose of exploiting Spring,Boor,React and Microservices | https://github.com/yorane007/NYEStore | ['exploit'] | 1 | 2022-05-21 09:41:16+00:00 | 61 | 0 | Java | 0 | [] |
 | greek0x0/bufferoverflows | my cookie cutter buffer overflow exploits | https://github.com/greek0x0/bufferoverflows | ['exploit'] | 1 | 2022-05-21 04:20:23+00:00 | 1 | 0 | Python | 0 | [] |
 | grav3m1nd-byte/OSCP-Lab_Exploits | Repository contains modified/fixed exploits used while studying for the OSCP | https://github.com/grav3m1nd-byte/OSCP-Lab_Exploits | ['exploit'] | 1 | 2022-05-21 03:38:24+00:00 | 27 | 0 | Python | 0 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-z | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-z | ['exploit'] | 1 | 2022-05-21 00:04:50+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | ['exploit'] | 1 | 2022-05-21 00:05:49+00:00 | 0 | 0 | | 0 | [] |
+| sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-21 01:24:24+00:00 | 413 | 0 | Assembly | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-z | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-z | ['exploit'] | 1 | 2022-05-21 00:06:41+00:00 | 0 | 0 | | 0 | [] |
 | liumuqing/CVE-2021-3899_PoC | race condition in apport lead to Local Privilege Escalation on Ubuntu | https://github.com/liumuqing/CVE-2021-3899_PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-21 02:09:22+00:00 | 0 | 0 | C | 0 | ['CVE-2021-3899'] |
 | Tulea-Sanchez/Scrips-and-Exploits | all types scrips and exploits | https://github.com/Tulea-Sanchez/Scrips-and-Exploits | ['exploit'] | 1 | 2022-05-21 02:56:43+00:00 | 0 | 0 | Python | 0 | [] |
@@ -30,10 +30,11 @@
 | Keril2/Silent-Exploit---DOC---XLS | Silent exploit builder private. coded | https://github.com/Keril2/Silent-Exploit---DOC---XLS | ['exploit'] | 1 | 2022-05-21 08:02:47+00:00 | 0 | 0 | | 0 | [] |
 | dtcdn/rced_images | None | https://github.com/dtcdn/rced_images | ['rce'] | 1 | 2022-05-21 09:49:56+00:00 | 0 | 0 | | 0 | [] |
 | mrkarthick-cool/metasploit_tool | The Metasploit Framework is a Ruby-based, modular penetration testing platform that enables you to write, test, and execute exploit code. The Metasploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networ | https://github.com/mrkarthick-cool/metasploit_tool | ['exploit', 'metasploit module OR payload'] | 2 | 2022-05-21 10:39:35+00:00 | 0 | 0 | Shell | 0 | [] |
+| YoungsterDEV/circinuslayout-braincms-main | I know there are exploits in here, but because some people use this to scam others. I am releasing it. Yilmaz is the scammer. here the complete package. | https://github.com/YoungsterDEV/circinuslayout-braincms-main | ['exploit'] | 1 | 2022-05-21 10:41:11+00:00 | 0 | 1 | JavaScript | 0 | [] |
+| GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-21 01:52:53+00:00 | 10172 | 4 | JavaScript | 1 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-05-21 09:23:19+00:00 | 1464 | 0 | TypeScript | 0 | [] |
-| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-21 09:15:58+00:00 | 7220 | 396 | Dockerfile | 26 | [] |
-| playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-05-21 01:18:14+00:00 | 1822 | 0 | | 1 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-21 01:19:13+00:00 | 5599358 | 45 | Python | 8 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-21 02:34:42+00:00 | 273822 | 157 | REXX | 15 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-21 02:17:18+00:00 | 7790 | 3007 | TypeScript | 425 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-21 00:47:52+00:00 | 17563 | 41 | | 21 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-05-21 09:26:15+00:00 | 90088 | 759 | Go | 164 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-21 00:04:53+00:00 | 573671 | 55 | | 21 | [] |
@@ -44,9 +45,9 @@
 | REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2022-05-21 10:06:21+00:00 | 2307 | 115 | Python | 20 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-21 01:29:12+00:00 | 19983 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-21 01:36:18+00:00 | 1970 | 96 | HTML | 25 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-21 02:17:18+00:00 | 7790 | 3007 | TypeScript | 425 | [] |
-| almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-21 00:43:47+00:00 | 1938410 | 0 | Jupyter Notebook | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-21 01:19:13+00:00 | 5599358 | 45 | Python | 8 | [] |
 | YieldingExploiter/YieldingExploiter | None | https://github.com/YieldingExploiter/YieldingExploiter | ['exploit'] | 1 | 2022-05-21 07:46:28+00:00 | 69 | 0 | HTML | 0 | [] |
+| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-21 09:15:58+00:00 | 7220 | 396 | Dockerfile | 26 | [] |
 | acheong08/CVE-2022-26726-POC | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-21 06:56:58+00:00 | 20721 | 0 | Objective-C | 0 | ['CVE-2022-26726'] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-21 07:44:39+00:00 | 140 | 0 | Go | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-21 06:20:51+00:00 | 131606 | 2 | Jupyter Notebook | 0 | [] |
@@ -56,4 +57,6 @@
 | zan8in/afrog | 一个挖洞工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-21 07:26:07+00:00 | 3191 | 276 | Go | 54 | [] |
 | ascemama/ShellcodeStubTemplate | None | https://github.com/ascemama/ShellcodeStubTemplate | ['shellcode'] | 1 | 2022-05-21 10:33:11+00:00 | 2 | 0 | Python | 0 | [] |
 | Rainbow503/PicGo | Some Pictures By Exploited in the daily | https://github.com/Rainbow503/PicGo | ['exploit'] | 1 | 2022-05-21 02:46:22+00:00 | 18167 | 0 | | 0 | [] |
-| YoungsterDEV/circinuslayout-braincms-main | I know there are exploits in here, but because some people use this to scam others. I am releasing it. Yilmaz is the scammer. here the complete package. | https://github.com/YoungsterDEV/circinuslayout-braincms-main | ['exploit'] | 1 | 2022-05-21 10:41:11+00:00 | 0 | 1 | JavaScript | 0 | [] |
+| almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-21 00:43:47+00:00 | 1938410 | 0 | Jupyter Notebook | 0 | [] |
+| playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-05-21 01:18:14+00:00 | 1822 | 0 | | 1 | [] |
+| sudoninja-noob/-CVE-2022-29004 | None | https://github.com/sudoninja-noob/-CVE-2022-29004 | ['cve-2 OR cve_2'] | 1 | 2022-05-21 11:30:32+00:00 | 0 | 0 | | 0 | ['CVE-2022-29004'] |
