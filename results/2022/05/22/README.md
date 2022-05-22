@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/22
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-05-22 15:14:18+00:00 | 8198 | 4580 | Python | 593 | [] |
-| cve-hunter/CVE-2022-1040-RCE | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-RCE | ['cve-2 OR cve_2', 'rce', 'remote code execution'] | 3 | 2022-05-22 12:25:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1040'] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:15:04+00:00 | 0 | 0 | | 0 | [] |
 | aggarwalvarun626/rces-ssignemnts | None | https://github.com/aggarwalvarun626/rces-ssignemnts | ['rce'] | 1 | 2022-05-22 12:11:27+00:00 | 0 | 0 | | 0 | [] |
 | PCZ-G0D/Shellcode-injector-opensource | 基于异或+远线程的免杀 | https://github.com/PCZ-G0D/Shellcode-injector-opensource | ['shellcode'] | 1 | 2022-05-22 11:42:11+00:00 | 0 | 0 | C++ | 0 | [] |
 | perezEl/Android-Permission-Vulnerability-Exploiter | None | https://github.com/perezEl/Android-Permission-Vulnerability-Exploiter | ['exploit'] | 1 | 2022-05-22 11:17:19+00:00 | 0 | 0 | | 0 | [] |
@@ -18,8 +18,8 @@
 | ExploitIT6183/ExploitIT6183 | Config files for my GitHub profile. | https://github.com/ExploitIT6183/ExploitIT6183 | ['exploit'] | 1 | 2022-05-22 03:12:59+00:00 | 0 | 0 | | 0 | [] |
 | Panopticon-Project/panopticon-0dayTechnologies | nan | https://github.com/Panopticon-Project/panopticon-0dayTechnologies | ['0day'] | 1 | 2022-05-22 00:43:57+00:00 | 0 | 0 | nan | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:15:49+00:00 | 0 | 0 | | 0 | [] |
-| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:15:04+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:13:37+00:00 | 0 | 0 | | 0 | [] |
+| modernish/modernish | Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities. | https://github.com/modernish/modernish | ['shellcode'] | 1 | 2022-05-22 00:40:23+00:00 | 4605 | 655 | Shell | 15 | [] |
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-22 00:57:58+00:00 | 1163 | 1 | C | 0 | [] |
 | god12l/Universal | new exploit that will have it own custom dll. | https://github.com/god12l/Universal | ['exploit'] | 1 | 2022-05-22 00:57:36+00:00 | 1 | 0 | | 0 | [] |
 | mu-ramadan/screen-v4.5.0-local-root-exploit | None | https://github.com/mu-ramadan/screen-v4.5.0-local-root-exploit | ['exploit'] | 1 | 2022-05-22 15:35:20+00:00 | 11 | 0 | | 0 | [] |
@@ -30,9 +30,10 @@
 | JHKLing/Red-VS-Blue-Project | In this project, you will work on a Red Team vs. Blue Team scenario in which you will play the role of both pentester and SOC analyst. As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. | https://github.com/JHKLing/Red-VS-Blue-Project | ['exploit'] | 1 | 2022-05-22 05:23:04+00:00 | 52633 | 0 | | 0 | [] |
 | greek0x0/bufferoverflows | my cookie cutter buffer overflow exploits | https://github.com/greek0x0/bufferoverflows | ['exploit'] | 1 | 2022-05-22 19:04:10+00:00 | 33 | 0 | Python | 0 | [] |
 | prok3z/Wordpress-Exploits | Tools To Scan and Exploit's WordPress | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-05-22 14:37:30+00:00 | 2175 | 13 | Python | 2 | [] |
+| BloxSafe/Backend | 🚀 BloxSafe backend code. | https://github.com/BloxSafe/Backend | ['exploit'] | 1 | 2022-05-22 08:43:44+00:00 | 15843 | 6 | JavaScript | 2 | [] |
 | seciurdt/CVE-2022-1388-mass | Big-Ip auth bypass and rce | https://github.com/seciurdt/CVE-2022-1388-mass | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-22 12:13:06+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1388'] |
+| cve-hunter/CVE-2022-1040-RCE | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-RCE | ['cve-2 OR cve_2', 'rce', 'remote code execution'] | 3 | 2022-05-22 12:25:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1040'] |
 | kang8/CVE-2021-43503 | Case for CVE-2021-43503 | https://github.com/kang8/CVE-2021-43503 | ['cve-2 OR cve_2'] | 1 | 2022-05-22 12:55:00+00:00 | 0 | 0 | PHP | 0 | ['CVE-2021-43503'] |
-| archercreat/vdk | vdk is a set of utilities used to help with exploitation of a vulnerable driver. | https://github.com/archercreat/vdk | ['exploit'] | 1 | 2022-05-22 12:16:18+00:00 | 252 | 6 | C++ | 1 | [] |
 | XmasSnowISBACK/CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/XmasSnowISBACK/CVE-2022-21971 | ['cve poc', 'cve-2 OR cve_2', 'remote code execution', 'vulnerability poc'] | 4 | 2022-05-22 13:21:06+00:00 | 0 | 0 | Rich Text Format | 0 | ['CVE-2022-21971'] |
 | Chaahack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Chaahack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-22 18:20:05+00:00 | 0 | 0 | | 0 | [] |
 | Chaahack/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Chaahack/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-05-22 18:18:34+00:00 | 0 | 0 | | 0 | [] |
@@ -57,9 +58,9 @@
 | XmasSnowISBACK/CVE-2022-26726 | MSF screenshot module with privelage escalation/bypass on MacOS | https://github.com/XmasSnowISBACK/CVE-2022-26726 | ['cve-2 OR cve_2'] | 1 | 2022-05-22 13:32:09+00:00 | 0 | 0 | Objective-C | 0 | ['CVE-2022-26726'] |
 | XmasSnowISBACK/CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/XmasSnowISBACK/CVE-2022-1388 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-22 13:46:18+00:00 | 0 | 0 | Rust | 0 | ['CVE-2022-1388'] |
 | XmasSnowISBACK/CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/XmasSnowISBACK/CVE-2022-1040 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-05-22 13:25:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-1040'] |
-| BloxSafe/Backend | 🚀 BloxSafe backend code. | https://github.com/BloxSafe/Backend | ['exploit'] | 1 | 2022-05-22 08:43:44+00:00 | 15843 | 6 | JavaScript | 2 | [] |
+| archercreat/vdk | vdk is a set of utilities used to help with exploitation of a vulnerable driver. | https://github.com/archercreat/vdk | ['exploit'] | 1 | 2022-05-22 12:16:18+00:00 | 252 | 6 | C++ | 1 | [] |
 | re7urn0/Linux-Exploit-Development-Learning | None | https://github.com/re7urn0/Linux-Exploit-Development-Learning | ['exploit'] | 1 | 2022-05-22 10:02:41+00:00 | 40 | 0 | | 0 | [] |
-| modernish/modernish | Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities. | https://github.com/modernish/modernish | ['shellcode'] | 1 | 2022-05-22 00:40:23+00:00 | 4605 | 655 | Shell | 15 | [] |
+| xiccin/pwn_elations | random pwn writeups and exploits. | https://github.com/xiccin/pwn_elations | ['exploit'] | 1 | 2022-05-22 21:26:00+00:00 | 58 | 0 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-22 01:55:35+00:00 | 1972 | 96 | HTML | 25 | [] |
 | m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2022-05-22 19:22:38+00:00 | 24582 | 0 | C# | 0 | [] |
 | Vichingo455/MalwareDatabase | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | ['exploit'] | 1 | 2022-05-22 10:53:54+00:00 | 2894623 | 41 | | 17 | [] |
