@@ -1,31 +1,34 @@
 
 # Summary for results/2022/05/22
     
-37 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | modernish/modernish | Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities. | https://github.com/modernish/modernish | ['shellcode'] | 1 | 2022-05-22 00:40:23+00:00 | 4605 | 655 | Shell | 15 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-22 06:16:17+00:00 | 131607 | 2 | Jupyter Notebook | 0 | [] |
+| RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-22 00:57:58+00:00 | 1163 | 1 | C | 0 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-22 01:22:48+00:00 | 1938971 | 0 | Jupyter Notebook | 0 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-22 05:47:18+00:00 | 20 | 5 | Shell | 0 | [] |
 | TheFunnyMan120/ExaHub | Exploits for various roblox games | https://github.com/TheFunnyMan120/ExaHub | ['exploit'] | 1 | 2022-05-22 06:29:45+00:00 | 26 | 1 | | 1 | [] |
 | yuanLink/CVE-2022-26809 | nan | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-22 01:33:36+00:00 | 264 | 25 | Python | 14 | ['CVE-2022-26809'] |
 | Doran342545345/Exploit-key | None | https://github.com/Doran342545345/Exploit-key | ['exploit'] | 1 | 2022-05-22 04:41:26+00:00 | 1 | 0 | | 0 | [] |
+| BloxSafe/Backend | 🚀 BloxSafe backend code. | https://github.com/BloxSafe/Backend | ['exploit'] | 1 | 2022-05-22 08:43:44+00:00 | 15843 | 6 | JavaScript | 2 | [] |
 | JHKLing/Red-VS-Blue-Project | In this project, you will work on a Red Team vs. Blue Team scenario in which you will play the role of both pentester and SOC analyst. As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. | https://github.com/JHKLing/Red-VS-Blue-Project | ['exploit'] | 1 | 2022-05-22 05:23:04+00:00 | 52633 | 0 | | 0 | [] |
 | god12l/Universal | new exploit that will have it own custom dll. | https://github.com/god12l/Universal | ['exploit'] | 1 | 2022-05-22 00:57:36+00:00 | 1 | 0 | | 0 | [] |
-| RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-22 00:57:58+00:00 | 1163 | 1 | C | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:13:37+00:00 | 0 | 0 | | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-22 00:24:35+00:00 | 51978 | 303 | Ruby | 88 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:15:04+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:15:49+00:00 | 0 | 0 | | 0 | [] |
 | Panopticon-Project/panopticon-0dayTechnologies | nan | https://github.com/Panopticon-Project/panopticon-0dayTechnologies | ['0day'] | 1 | 2022-05-22 00:43:57+00:00 | 0 | 0 | nan | 0 | [] |
 | ExploitIT6183/ExploitIT6183 | Config files for my GitHub profile. | https://github.com/ExploitIT6183/ExploitIT6183 | ['exploit'] | 1 | 2022-05-22 03:12:59+00:00 | 0 | 0 | | 0 | [] |
 | shengshengli/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/shengshengli/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-05-22 05:36:36+00:00 | 0 | 0 | C# | 0 | [] |
 | flexusual/Bolts-Hub-v6 | Arsenal exploit | https://github.com/flexusual/Bolts-Hub-v6 | ['exploit'] | 1 | 2022-05-22 05:39:18+00:00 | 0 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 01:53:15+00:00 | 71857 | 2774 | nan | 348 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-22 03:12:15+00:00 | 7792 | 3016 | TypeScript | 427 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-22 00:24:35+00:00 | 51978 | 303 | Ruby | 88 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-22 01:37:53+00:00 | 5617573 | 45 | Python | 8 | [] |
+| flexusual/Celestial-Hub | Arsenal exploit | https://github.com/flexusual/Celestial-Hub | ['exploit'] | 1 | 2022-05-22 06:01:04+00:00 | 0 | 0 | | 0 | [] |
+| wshidamowang/Router | Router ZeroDay | https://github.com/wshidamowang/Router | ['zeroday'] | 1 | 2022-05-22 08:49:19+00:00 | 0 | 0 | | 0 | [] |
+| hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-05-22 08:07:57+00:00 | 5802 | 1 | Java | 0 | ['CVE-2021-44228'] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 01:53:15+00:00 | 71857 | 2774 | | 348 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-22 06:16:17+00:00 | 131607 | 2 | Jupyter Notebook | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-22 08:41:06+00:00 | 145 | 0 | Go | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-22 02:31:15+00:00 | 282584 | 157 | REXX | 15 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2022-05-22 02:04:25+00:00 | 1072 | 10 | C | 2 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-22 00:15:41+00:00 | 839 | 273 | C | 14 | [] |
@@ -41,4 +44,6 @@
 | iammaguire/MeetC2 | Modular C2 framework aiming to ease post exploitation for red teamers. | https://github.com/iammaguire/MeetC2 | ['exploit'] | 1 | 2022-05-22 03:28:05+00:00 | 210993 | 145 | Go | 29 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-22 01:52:10+00:00 | 21821 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-22 01:55:35+00:00 | 1972 | 96 | HTML | 25 | [] |
-| flexusual/Celestial-Hub | Arsenal exploit | https://github.com/flexusual/Celestial-Hub | ['exploit'] | 1 | 2022-05-22 06:01:04+00:00 | 0 | 0 | | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-22 01:37:53+00:00 | 5617573 | 45 | Python | 8 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-22 03:12:15+00:00 | 7792 | 3016 | TypeScript | 427 | [] |
+| pashayogi/CVE-2020-7961-Mass | nan | https://github.com/pashayogi/CVE-2020-7961-Mass | ['cve-2 OR cve_2'] | 1 | 2022-05-22 08:41:54+00:00 | 0 | 0 | | 0 | ['CVE-2020-7961'] |
