@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/21
     
-126 records found after deduplication
+127 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -37,7 +37,7 @@
 | prok3z/Wordpress-Exploits | Tools To Scan and Exploit's WordPress | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-05-21 15:18:55+00:00 | 2182 | 12 | Python | 1 | [] |
 | Jack7988/Silent-EXCEL-Exploit-DROPPER-2022 | None | https://github.com/Jack7988/Silent-EXCEL-Exploit-DROPPER-2022 | ['exploit'] | 1 | 2022-05-21 13:33:41+00:00 | 0 | 1 | | 0 | [] |
 | 0x414141414/XLS-EXCEL-EXPLOIT-CLEAN | None | https://github.com/0x414141414/XLS-EXCEL-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-05-21 13:48:54+00:00 | 0 | 0 | | 0 | [] |
-| shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2022-05-21 17:30:23+00:00 | 304 | 5382 | C | 1015 | [] |
+| aancw/CVE-2022-1388-rs | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-21 11:45:11+00:00 | 4 | 0 | Rust | 0 | ['CVE-2022-1388'] |
 | Rabbhack/GH-Hacking-Tool-Kit | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/Rabbhack/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-05-21 18:25:52+00:00 | 0 | 0 | | 0 | [] |
 | trhacknon/CVE-2022-22963 | None | https://github.com/trhacknon/CVE-2022-22963 | ['cve-2 OR cve_2'] | 1 | 2022-05-21 22:10:24+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22963'] |
 | nick-brady/bughunter | Inspect site for JS bundles and versions to scan for exploits | https://github.com/nick-brady/bughunter | ['exploit'] | 1 | 2022-05-21 21:15:03+00:00 | 0 | 0 | | 0 | [] |
@@ -68,8 +68,8 @@
 | Hexliath/Hands-On-Web-Exploitation | Project designed to teach students the basics of web exploitation | https://github.com/Hexliath/Hands-On-Web-Exploitation | ['exploit'] | 1 | 2022-05-21 14:36:37+00:00 | 0 | 0 | PHP | 0 | [] |
 | 0x414141414/XLL-Excel-Exploit-2022 | One click Excel Exploit This exploit works on patched and unpatched office. Supported office versions: 2003, 2007, 2010, 2013, 2016, 2019, 2021 office365. Bypass Windows Defender | https://github.com/0x414141414/XLL-Excel-Exploit-2022 | ['exploit'] | 1 | 2022-05-21 13:57:07+00:00 | 0 | 0 | | 0 | [] |
 | WhyGitHubb/FEService | FilteringEnabled hax real | https://github.com/WhyGitHubb/FEService | ['exploit'] | 1 | 2022-05-21 13:02:37+00:00 | 24 | 0 | Lua | 0 | [] |
-| aancw/CVE-2022-1388-rs | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-21 11:45:11+00:00 | 4 | 0 | Rust | 0 | ['CVE-2022-1388'] |
 | VinuKalana/DirtyPipe-CVE-2022-0847 | This repository is developed to analysis and understand DirtyPipe exploit CVE-2022-0847 | https://github.com/VinuKalana/DirtyPipe-CVE-2022-0847 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-21 05:43:17+00:00 | 13 | 0 | C | 0 | ['CVE-2022-0847'] |
+| shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2022-05-21 17:30:23+00:00 | 304 | 5382 | C | 1015 | [] |
 | R3LI4NT/road-to-hacking | ¿Quieres empezar en el mundo hacking? En esta revista te enseño a instalar Kali Linux desde cero y a manipular herramientas esenciales en el Hacking Ético. | https://github.com/R3LI4NT/road-to-hacking | ['exploit'] | 1 | 2022-05-21 05:38:30+00:00 | 14383 | 10 | | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-21 02:17:18+00:00 | 7790 | 3007 | TypeScript | 425 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-05-21 13:05:23+00:00 | 2731 | 435 | C# | 93 | [] |
@@ -85,7 +85,7 @@
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2022-05-21 06:39:24+00:00 | 194 | 7 | Shell | 1 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-05-21 12:00:29+00:00 | 7169 | 152 | Python | 46 | [] |
 | Hexliath/Hands-On-BufferOverflow-Exploitation | Project designed to teach students the basics of buffer overflow exploitation | https://github.com/Hexliath/Hands-On-BufferOverflow-Exploitation | ['exploit'] | 1 | 2022-05-21 13:54:56+00:00 | 1356 | 0 | Python | 0 | [] |
-| NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-05-21 00:50:42+00:00 | 1237 | 0 | | 2 | [] |
+| BinaryDex/DexHubWeb | None | https://github.com/BinaryDex/DexHubWeb | ['exploit'] | 1 | 2022-05-21 22:21:44+00:00 | 928 | 0 | SCSS | 1 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-21 17:53:42+00:00 | 14205 | 29 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-21 00:04:53+00:00 | 573671 | 55 | | 21 | [] |
 | Am0rphous/Malware | 😈 CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2022-05-21 16:06:30+00:00 | 17199 | 23 | PowerShell | 9 | [] |
@@ -100,11 +100,12 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-21 00:24:20+00:00 | 51977 | 303 | Ruby | 88 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-05-21 12:35:04+00:00 | 74606 | 11504 | Jupyter Notebook | 1968 | [] |
 | onuratakan/Haimgard | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | ['exploit'] | 1 | 2022-05-21 20:10:22+00:00 | 4525 | 3 | Python | 0 | [] |
-| BinaryDex/DexHubWeb | None | https://github.com/BinaryDex/DexHubWeb | ['exploit'] | 1 | 2022-05-21 22:21:44+00:00 | 928 | 0 | SCSS | 1 | [] |
 | YieldingExploiter/YieldingExploiter | None | https://github.com/YieldingExploiter/YieldingExploiter | ['exploit'] | 1 | 2022-05-21 07:46:28+00:00 | 69 | 0 | HTML | 0 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily archiver for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-05-21 18:10:28+00:00 | 8083 | 13 | | 4 | [] |
+| NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-05-21 00:50:42+00:00 | 1237 | 0 | | 2 | [] |
+| sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-21 01:24:24+00:00 | 413 | 0 | Assembly | 0 | [] |
 | BloxSafe/Backend | 🚀 BloxSafe backend code. | https://github.com/BloxSafe/Backend | ['exploit'] | 1 | 2022-05-21 08:30:55+00:00 | 709 | 5 | TypeScript | 2 | [] |
 | Quantumite/slidecode | XOR-based shellcode encoder | https://github.com/Quantumite/slidecode | ['shellcode'] | 1 | 2022-05-21 22:51:20+00:00 | 14 | 0 | Python | 0 | [] |
+| god12l/Sin-x | A new exploit that is still under development will be updated monthly | https://github.com/god12l/Sin-x | ['exploit'] | 1 | 2022-05-21 23:58:43+00:00 | 6 | 0 | | 0 | [] |
 | xiccin/pwn_elations | random pwn writeups and exploits. | https://github.com/xiccin/pwn_elations | ['exploit'] | 1 | 2022-05-21 16:39:19+00:00 | 52 | 0 | Python | 0 | [] |
 | Doran342545345/Exploit-key | None | https://github.com/Doran342545345/Exploit-key | ['exploit'] | 1 | 2022-05-21 08:00:25+00:00 | 0 | 0 | | 0 | [] |
 | zidansec/CloudPeler | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further pene | https://github.com/zidansec/CloudPeler | ['exploit'] | 1 | 2022-05-21 11:42:37+00:00 | 49 | 5 | PHP | 1 | [] |
@@ -115,8 +116,8 @@
 | doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-05-21 13:10:58+00:00 | 2512 | 2 | Python | 0 | [] |
 | p0dalirius/LimeSurvey-plugin-webshell | A webshell plugin and interactive shell for pentesting a LimeSurvey application. | https://github.com/p0dalirius/LimeSurvey-plugin-webshell | ['rce'] | 1 | 2022-05-21 09:45:56+00:00 | 1273 | 3 | Python | 1 | [] |
 | GamerHack/ps4main | All PS4 Exploits | https://github.com/GamerHack/ps4main | ['exploit'] | 1 | 2022-05-21 01:52:53+00:00 | 10172 | 4 | JavaScript | 1 | [] |
-| sivakodali/x86Exploitation | None | https://github.com/sivakodali/x86Exploitation | ['exploit'] | 1 | 2022-05-21 01:24:24+00:00 | 413 | 0 | Assembly | 0 | [] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-05-21 09:23:19+00:00 | 1464 | 0 | TypeScript | 0 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily archiver for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-05-21 18:10:28+00:00 | 8083 | 13 | | 4 | [] |
 | p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-21 09:15:58+00:00 | 7220 | 396 | Dockerfile | 26 | [] |
 | playZG/Exploit- | Exploit | https://github.com/playZG/Exploit- | ['exploit'] | 1 | 2022-05-21 01:18:14+00:00 | 1822 | 0 | | 1 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-21 00:43:47+00:00 | 1938410 | 0 | Jupyter Notebook | 0 | [] |
