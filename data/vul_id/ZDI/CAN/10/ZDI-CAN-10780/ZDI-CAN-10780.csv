@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-10780,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 ZDI-CAN-10780,0.00049044,https://github.com/0xT11/CVE-POC,0xT11/CVE-POC,300646632
-ZDI-CAN-10780,0.00025368,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-10780,0.00025323,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 ZDI-CAN-10780,0.00010325,https://github.com/f0ns1/CVE-2020,f0ns1/CVE-2020,353048821
 ZDI-CAN-10780,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 ZDI-CAN-10780,0.00001747,https://github.com/trickest/cve,trickest/cve,454015416
