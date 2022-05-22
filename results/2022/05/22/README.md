@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/22
     
-19 records found after deduplication
+23 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | modernish/modernish | Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities. | https://github.com/modernish/modernish | ['shellcode'] | 1 | 2022-05-22 00:40:23+00:00 | 4605 | 655 | Shell | 15 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 01:53:15+00:00 | 71857 | 2774 | | 348 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-22 03:12:15+00:00 | 7792 | 3016 | TypeScript | 427 | [] |
+| Panopticon-Project/panopticon-0dayTechnologies | nan | https://github.com/Panopticon-Project/panopticon-0dayTechnologies | ['0day'] | 1 | 2022-05-22 00:43:57+00:00 | 0 | 0 | nan | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:15:49+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:15:04+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-05-22 00:13:37+00:00 | 0 | 0 | | 0 | [] |
@@ -14,6 +15,7 @@
 | god12l/Universal | new exploit that will have it own custom dll. | https://github.com/god12l/Universal | ['exploit'] | 1 | 2022-05-22 00:57:36+00:00 | 1 | 0 | | 0 | [] |
 | yuanLink/CVE-2022-26809 | nan | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-22 01:33:36+00:00 | 264 | 25 | Python | 14 | ['CVE-2022-26809'] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-22 01:22:48+00:00 | 1938971 | 0 | Jupyter Notebook | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 01:53:15+00:00 | 71857 | 2774 | nan | 348 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-22 01:37:53+00:00 | 5617573 | 45 | Python | 8 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-22 00:24:35+00:00 | 51978 | 303 | Ruby | 88 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-22 01:55:35+00:00 | 1972 | 96 | HTML | 25 | [] |
@@ -21,6 +23,8 @@
 | R3LI4NT/road-to-hacking | ¿Quieres empezar en el mundo hacking? En esta revista te enseño a instalar Kali Linux desde cero y a manipular herramientas esenciales en el Hacking Ético. | https://github.com/R3LI4NT/road-to-hacking | ['exploit'] | 1 | 2022-05-22 02:00:19+00:00 | 14405 | 10 | | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-22 00:25:55+00:00 | 14207 | 29 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-22 00:04:50+00:00 | 560678 | 55 | | 21 | [] |
+| YaoYao1995/MEEE | Code to reproduce the experiments in Sample Efficient Reinforcement Learning via Model-Ensemble Exploration and Exploitation (MEEE). | https://github.com/YaoYao1995/MEEE | ['exploit'] | 1 | 2022-05-22 02:25:28+00:00 | 134 | 5 | Python | 3 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-22 00:15:41+00:00 | 839 | 273 | C | 14 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2022-05-22 02:04:25+00:00 | 1072 | 10 | C | 2 | [] |
-| Panopticon-Project/panopticon-0dayTechnologies | nan | https://github.com/Panopticon-Project/panopticon-0dayTechnologies | ['0day'] | 1 | 2022-05-22 00:43:57+00:00 | 0 | 0 | nan | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-22 02:31:15+00:00 | 282584 | 157 | REXX | 15 | [] |
+| ExploitIT6183/ExploitIT6183 | Config files for my GitHub profile. | https://github.com/ExploitIT6183/ExploitIT6183 | ['exploit'] | 1 | 2022-05-22 03:12:59+00:00 | 0 | 0 | | 0 | [] |
