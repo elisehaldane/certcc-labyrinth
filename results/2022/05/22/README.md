@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/22
     
-44 records found after deduplication
+48 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -10,9 +10,11 @@
 | JavaliMZ/Exploits-diversos | None | https://github.com/JavaliMZ/Exploits-diversos | ['exploit'] | 1 | 2022-05-22 09:11:23+00:00 | 62 | 0 | Python | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-05-22 08:59:04+00:00 | 117 | 10 | Java | 0 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-22 05:47:18+00:00 | 20 | 5 | Shell | 0 | [] |
+| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-22 10:44:46+00:00 | 7388 | 402 | Dockerfile | 27 | [] |
 | TheFunnyMan120/ExaHub | Exploits for various roblox games | https://github.com/TheFunnyMan120/ExaHub | ['exploit'] | 1 | 2022-05-22 06:29:45+00:00 | 26 | 1 | | 1 | [] |
 | yuanLink/CVE-2022-26809 | nan | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-22 01:33:36+00:00 | 264 | 25 | Python | 14 | ['CVE-2022-26809'] |
 | Doran342545345/Exploit-key | None | https://github.com/Doran342545345/Exploit-key | ['exploit'] | 1 | 2022-05-22 04:41:26+00:00 | 1 | 0 | | 0 | [] |
+| re7urn0/Linux-Exploit-Development-Learning | None | https://github.com/re7urn0/Linux-Exploit-Development-Learning | ['exploit'] | 1 | 2022-05-22 10:02:41+00:00 | 40 | 0 | | 0 | [] |
 | BloxSafe/Backend | 🚀 BloxSafe backend code. | https://github.com/BloxSafe/Backend | ['exploit'] | 1 | 2022-05-22 08:43:44+00:00 | 15843 | 6 | JavaScript | 2 | [] |
 | JHKLing/Red-VS-Blue-Project | In this project, you will work on a Red Team vs. Blue Team scenario in which you will play the role of both pentester and SOC analyst. As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. | https://github.com/JHKLing/Red-VS-Blue-Project | ['exploit'] | 1 | 2022-05-22 05:23:04+00:00 | 52633 | 0 | | 0 | [] |
 | god12l/Universal | new exploit that will have it own custom dll. | https://github.com/god12l/Universal | ['exploit'] | 1 | 2022-05-22 00:57:36+00:00 | 1 | 0 | | 0 | [] |
@@ -28,19 +30,21 @@
 | wshidamowang/Router | Router ZeroDay | https://github.com/wshidamowang/Router | ['zeroday'] | 1 | 2022-05-22 08:49:19+00:00 | 0 | 0 | | 0 | [] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-22 01:22:48+00:00 | 1938971 | 0 | Jupyter Notebook | 0 | [] |
 | hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-05-22 08:07:57+00:00 | 5802 | 1 | Java | 0 | ['CVE-2021-44228'] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 01:53:15+00:00 | 71857 | 2774 | nan | 348 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-22 00:25:55+00:00 | 14207 | 29 | Python | 6 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 01:53:15+00:00 | 71857 | 2774 | | 348 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-22 00:04:50+00:00 | 560678 | 55 | | 21 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-05-22 09:52:32+00:00 | 499 | 139 | Julia | 25 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-22 02:31:15+00:00 | 282584 | 157 | REXX | 15 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2022-05-22 02:04:25+00:00 | 1072 | 10 | C | 2 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-22 00:15:41+00:00 | 839 | 273 | C | 14 | [] |
 | TheWizWikii/TheWizWikii.github.io | Exploits PS3, PS4 & PS5 | https://github.com/TheWizWikii/TheWizWikii.github.io | ['exploit'] | 1 | 2022-05-22 06:21:16+00:00 | 319431 | 56 | JavaScript | 16 | [] |
 | demetrius-ford/dbd | Generate a post exploit script to download an arbitrary file using HTML5's Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd | ['exploit'] | 1 | 2022-05-22 04:34:31+00:00 | 114 | 2 | Python | 0 | [] |
+| pomo-mondreganto/neo | Exploit distribution system for A&D competitions | https://github.com/pomo-mondreganto/neo | ['exploit'] | 1 | 2022-05-22 10:06:03+00:00 | 340 | 9 | Go | 2 | [] |
 | YaoYao1995/MEEE | Code to reproduce the experiments in Sample Efficient Reinforcement Learning via Model-Ensemble Exploration and Exploitation (MEEE). | https://github.com/YaoYao1995/MEEE | ['exploit'] | 1 | 2022-05-22 02:25:28+00:00 | 134 | 5 | Python | 3 | [] |
 | demetrius-ford/mutation-fuzzer | Mutate a target to identify exploit candidates (https://developer.mozilla.org/en-US/docs/Mozilla/Security/Exploitable_crashes) | https://github.com/demetrius-ford/mutation-fuzzer | ['exploit'] | 1 | 2022-05-22 05:23:45+00:00 | 21 | 3 | C | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-22 00:04:50+00:00 | 560678 | 55 | | 21 | [] |
-| R3LI4NT/road-to-hacking | ¿Quieres empezar en el mundo hacking? En esta revista te enseño a instalar Kali Linux desde cero y a manipular herramientas esenciales en el Hacking Ético. | https://github.com/R3LI4NT/road-to-hacking | ['exploit'] | 1 | 2022-05-22 02:00:19+00:00 | 14405 | 10 | | 0 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-22 00:25:55+00:00 | 14207 | 29 | Python | 6 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-22 06:16:17+00:00 | 131607 | 2 | Jupyter Notebook | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 06:20:51+00:00 | 629155 | 110 | nan | 24 | [] |
+| R3LI4NT/road-to-hacking | ¿Quieres empezar en el mundo hacking? En esta revista te enseño a instalar Kali Linux desde cero y a manipular herramientas esenciales en el Hacking Ético. | https://github.com/R3LI4NT/road-to-hacking | ['exploit'] | 1 | 2022-05-22 02:00:19+00:00 | 14405 | 10 | | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-22 06:20:51+00:00 | 629155 | 110 | | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-22 04:51:17+00:00 | 182442 | 405 | Python | 118 | [] |
 | iammaguire/MeetC2 | Modular C2 framework aiming to ease post exploitation for red teamers. | https://github.com/iammaguire/MeetC2 | ['exploit'] | 1 | 2022-05-22 03:28:05+00:00 | 210993 | 145 | Go | 29 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-22 01:52:10+00:00 | 21821 | 3 | Python | 0 | [] |
