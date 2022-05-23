@@ -1,17 +1,21 @@
 
 # Summary for results/2022/05/23
     
-19 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-23 00:27:23+00:00 | 51979 | 303 | Ruby | 88 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-23 01:58:43+00:00 | 71261 | 44 | Go | 18 | [] |
+| mozakilmao/MozSploit | A fully undetectable lua code injector for roblox | https://github.com/mozakilmao/MozSploit | ['sploit'] | 1 | 2022-05-23 02:46:58+00:00 | 0 | 1 | Lua | 0 | [] |
+| tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | None | https://github.com/tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-23 02:12:31+00:00 | 0 | 0 | | 0 | [] |
 | DavUA0/capstone | Binary Exploitation in the presence of some mitigations | https://github.com/DavUA0/capstone | ['exploit'] | 1 | 2022-05-23 01:02:38+00:00 | 237 | 0 | TeX | 0 | [] |
-| Jack7988/Fully-Silent-PDF-EXPLOIT-0day | None | https://github.com/Jack7988/Fully-Silent-PDF-EXPLOIT-0day | ['0day', 'exploit'] | 2 | 2022-05-23 00:39:43+00:00 | 0 | 0 | | 0 | [] |
+| Jack7988/Fully-Silent-PDF-EXPLOIT-0day | nan | https://github.com/Jack7988/Fully-Silent-PDF-EXPLOIT-0day | ['0day', 'exploit'] | 2 | 2022-05-23 00:39:43+00:00 | 0 | 0 | nan | 0 | [] |
 | lolthatseazy/BullSPloitFIXEDDDDDDD | None | https://github.com/lolthatseazy/BullSPloitFIXEDDDDDDD | ['sploit'] | 1 | 2022-05-23 00:31:39+00:00 | 0 | 0 | | 0 | [] |
+| RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-23 02:28:06+00:00 | 1164 | 1 | C | 0 | [] |
 | Ayoub-2/RCE-webshell | Get a stable shell using the web port througth a command injection | https://github.com/Ayoub-2/RCE-webshell | ['command injection', 'rce'] | 2 | 2022-05-23 00:14:47+00:00 | 5 | 0 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-23 01:50:48+00:00 | 68477 | 2778 | | 348 | [] |
+| chenaotian/CVE-2021-3560 | CVE-2021-3560 analysis | https://github.com/chenaotian/CVE-2021-3560 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 02:23:38+00:00 | 302 | 3 | | 1 | ['CVE-2021-3560'] |
 | chenaotian/CVE-2021-3156 | CVE-2021-3156 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-3156 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-23 01:51:14+00:00 | 1256 | 2 | C | 1 | ['CVE-2021-3156'] |
 | chenaotian/CVE-2021-4034 | CVE-2021-4034 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-23 02:03:43+00:00 | 58 | 9 | C | 3 | ['CVE-2021-4034'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-23 01:42:33+00:00 | 5658013 | 45 | Python | 8 | [] |
@@ -19,8 +23,12 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-23 01:56:54+00:00 | 2031 | 96 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-23 01:57:04+00:00 | 19630 | 3 | Python | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-05-23 01:20:51+00:00 | 229222 | 0 | JavaScript | 0 | [] |
+| rsuppersahabatan/hacker | Files yang berhasil diupload ke folder server secara terbatas. Terima Kasih atas Informasi LOG anda. :) sampai Berjumpa. | https://github.com/rsuppersahabatan/hacker | ['exploit'] | 1 | 2022-05-23 03:14:11+00:00 | 26592 | 0 | HTML | 0 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-05-23 00:58:32+00:00 | 399 | 9 | Python | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-23 00:04:58+00:00 | 570098 | 55 | | 21 | [] |
+| zoogie/unSAFE_MODE | 3DS userland secondary exploit for SAFE_MODE system updater. It's actually a pretty safe hax ( ͡° ͜ʖ ͡°). | https://github.com/zoogie/unSAFE_MODE | ['exploit'] | 1 | 2022-05-23 03:17:35+00:00 | 975 | 75 | C | 3 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-05-23 03:05:35+00:00 | 1306 | 696 | Java | 93 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2022-05-23 02:15:38+00:00 | 1080 | 11 | Shell | 2 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-23 02:31:38+00:00 | 277168 | 158 | REXX | 15 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-05-23 01:38:42+00:00 | 499 | 139 | Julia | 25 | [] |
-| tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | None | https://github.com/tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-23 02:12:31+00:00 | 0 | 0 | | 0 | [] |
+| Krkn-Sec/Malware-Analysis-Challenges | A collection of binaries created by me to simulate common malware techniques. The binaries aren't truly malicious. Any shellcode or payloads they execute either spawn a message box or pops calc. I'm not here to spread malware, only analysis techniques. | https://github.com/Krkn-Sec/Malware-Analysis-Challenges | ['shellcode'] | 1 | 2022-05-23 03:14:26+00:00 | 0 | 0 | nan | 0 | [] |
