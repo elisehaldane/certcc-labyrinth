@@ -1,0 +1,13 @@
+
+# Summary for results/2022/05/23
+    
+6 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-23 00:27:23+00:00 | 51979 | 303 | Ruby | 88 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-23 00:04:58+00:00 | 570098 | 55 | | 21 | [] |
+| hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-05-23 00:58:32+00:00 | 399 | 9 | Python | 1 | [] |
+| Ayoub-2/RCE-webshell | Get a stable shell using the web port througth a command injection | https://github.com/Ayoub-2/RCE-webshell | ['command injection', 'rce'] | 2 | 2022-05-23 00:14:47+00:00 | 5 | 0 | Python | 0 | [] |
+| lolthatseazy/BullSPloitFIXEDDDDDDD | nan | https://github.com/lolthatseazy/BullSPloitFIXEDDDDDDD | ['sploit'] | 1 | 2022-05-23 00:31:39+00:00 | 0 | 0 | nan | 0 | [] |
+| Jack7988/Fully-Silent-PDF-EXPLOIT-0day | nan | https://github.com/Jack7988/Fully-Silent-PDF-EXPLOIT-0day | ['0day', 'exploit'] | 2 | 2022-05-23 00:39:43+00:00 | 0 | 0 | nan | 0 | [] |
