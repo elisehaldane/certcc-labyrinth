@@ -1,26 +1,28 @@
 
 # Summary for results/2022/05/23
     
-61 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-23 08:20:15+00:00 | 46149 | 866 | Python | 205 | [] |
-| chenaotian/CVE-2021-4034 | CVE-2021-4034 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-23 02:03:43+00:00 | 58 | 9 | C | 3 | ['CVE-2021-4034'] |
+| cloudjunky/attack-pocs | nan | https://github.com/cloudjunky/attack-pocs | ['attack poc'] | 1 | 2022-05-23 05:04:34+00:00 | 18 | 0 | Solidity | 0 | [] |
 | chenaotian/CVE-2021-3156 | CVE-2021-3156 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-3156 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-23 01:51:14+00:00 | 1256 | 2 | C | 1 | ['CVE-2021-3156'] |
 | chenaotian/CVE-2021-3560 | CVE-2021-3560 analysis | https://github.com/chenaotian/CVE-2021-3560 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 02:23:38+00:00 | 302 | 3 | | 1 | ['CVE-2021-3560'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-23 01:50:48+00:00 | 68477 | 2778 | | 348 | [] |
 | Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-05-23 04:11:00+00:00 | 3070 | 322 | | 68 | [] |
 | Ayoub-2/RCE-webshell | Get a stable shell using the web port througth a command injection | https://github.com/Ayoub-2/RCE-webshell | ['command injection', 'rce'] | 2 | 2022-05-23 00:14:47+00:00 | 5 | 0 | Python | 0 | [] |
+| eremus-dev/Dirty-Pipe-sudo-poc | A python implementation of the Dirty Pipe exploit that adds an unprivliged user to the sudoers group. | https://github.com/eremus-dev/Dirty-Pipe-sudo-poc | ['exploit'] | 1 | 2022-05-23 09:56:38+00:00 | 4 | 4 | Python | 1 | [] |
 | GatoGamer1155/CVE-2021-22204 | Script en python para crear imagenes maliciosas (reverse shell) | https://github.com/GatoGamer1155/CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-23 04:29:30+00:00 | 1137 | 4 | Python | 1 | ['CVE-2021-22204'] |
 | almehdiKrisni/Projet_RI | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | ['exploit'] | 1 | 2022-05-23 08:44:15+00:00 | 1941144 | 0 | Jupyter Notebook | 0 | [] |
 | icaros7/pwnable_py | 여러가지 Pwnable wargame exploit code | https://github.com/icaros7/pwnable_py | ['exploit'] | 1 | 2022-05-23 07:57:53+00:00 | 2 | 0 | Python | 0 | [] |
 | scottymcandrew/exploit-labs | Various nefarious labs | https://github.com/scottymcandrew/exploit-labs | ['exploit'] | 1 | 2022-05-23 09:42:07+00:00 | 38019 | 0 | Java | 0 | [] |
 | Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-05-23 08:45:58+00:00 | 338 | 1 | Java | 0 | [] |
 | Creamy-Chicken-Soup/writeups-about-analysis-CVEs-and-Exploits-on-the-Windows | I collect writeup about analysis CVEs and Exploits on the Windows in this repository. | https://github.com/Creamy-Chicken-Soup/writeups-about-analysis-CVEs-and-Exploits-on-the-Windows | ['exploit'] | 1 | 2022-05-23 08:33:26+00:00 | 11 | 0 | | 0 | [] |
+| borosilicate/study_exploit | Art of Exploitation files | https://github.com/borosilicate/study_exploit | ['exploit'] | 1 | 2022-05-23 10:02:10+00:00 | 3 | 0 | C | 0 | [] |
 | jajajag/Safe-RCE | Safe-RCE | https://github.com/jajajag/Safe-RCE | ['rce'] | 1 | 2022-05-23 05:21:50+00:00 | 26 | 0 | Python | 0 | [] |
-| cloudjunky/attack-pocs | nan | https://github.com/cloudjunky/attack-pocs | ['attack poc'] | 1 | 2022-05-23 05:04:34+00:00 | 18 | 0 | Solidity | 0 | [] |
 | grav3m1nd-byte/OSCP-Lab_Exploits | Repository contains modified/fixed exploits used while studying for the OSCP | https://github.com/grav3m1nd-byte/OSCP-Lab_Exploits | ['exploit'] | 1 | 2022-05-23 04:37:48+00:00 | 37 | 0 | Python | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-23 05:06:12+00:00 | 5467 | 3268 | Python | 694 | [] |
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-23 02:28:06+00:00 | 1164 | 1 | C | 0 | [] |
 | touhidulShawan/exploitation_doc | This file is used to document various type of exploitation with msfconsole [practice purpose only] | https://github.com/touhidulShawan/exploitation_doc | ['exploit'] | 1 | 2022-05-23 03:30:43+00:00 | 8 | 0 | | 0 | [] |
 | lolthatseazy/BullSPloitFIXEDDDDDDD | None | https://github.com/lolthatseazy/BullSPloitFIXEDDDDDDD | ['sploit'] | 1 | 2022-05-23 00:31:39+00:00 | 0 | 0 | | 0 | [] |
@@ -34,11 +36,14 @@
 | java-benchmark/RCE-server | None | https://github.com/java-benchmark/RCE-server | ['rce'] | 1 | 2022-05-23 05:50:37+00:00 | 29 | 0 | Java | 0 | [] |
 | kang8/CVE-2022-30778 | Case for CVE-2022-30778 | https://github.com/kang8/CVE-2022-30778 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 07:05:12+00:00 | 0 | 0 | PHP | 2 | ['CVE-2022-30778'] |
 | capstone-mics-22/Picasso | Tools for generating custom images, tools and exploits as well as hosting binaries. | https://github.com/capstone-mics-22/Picasso | ['exploit'] | 1 | 2022-05-23 07:47:55+00:00 | 0 | 0 | | 0 | [] |
+| sebastian93921/OSED-Code-Snippets | Tools/scripts For OSED / Reverse engineering / Binary exploitation | https://github.com/sebastian93921/OSED-Code-Snippets | ['exploit'] | 1 | 2022-05-23 09:39:52+00:00 | 0 | 0 | | 0 | [] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-05-23 08:28:17+00:00 | 3762 | 6 | TypeScript | 0 | [] |
+| chenaotian/CVE-2021-4034 | CVE-2021-4034 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-4034 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-23 02:03:43+00:00 | 58 | 9 | C | 3 | ['CVE-2021-4034'] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-23 01:58:43+00:00 | 71261 | 44 | Go | 18 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-23 05:06:12+00:00 | 5467 | 3268 | Python | 694 | [] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-23 06:25:51+00:00 | 162 | 0 | Go | 0 | [] |
+| RUB-NDS/PRET | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | ['exploit'] | 1 | 2022-05-23 10:49:25+00:00 | 1839 | 3058 | Python | 558 | [] |
 | ChrIstoph3r/BlockConnect | An efficient game, exploiting algorithm knowledge (Y) | https://github.com/ChrIstoph3r/BlockConnect | ['exploit'] | 1 | 2022-05-23 07:22:55+00:00 | 132 | 1 | Java | 0 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-05-23 10:17:13+00:00 | 1057 | 0 | Python | 11 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-23 00:27:23+00:00 | 51979 | 303 | Ruby | 88 | [] |
 | SoftFeta/tempusespatium | 🌏🚩💥 Edutainment Android+iOS app for adult learners by exploiting the Semantic Web. (EN/FR/CA/ES/DE/JP/ZH/UK) | https://github.com/SoftFeta/tempusespatium | ['exploit'] | 1 | 2022-05-23 01:27:57+00:00 | 180822 | 3 | Java | 0 | [] |
 | hidevopsio/hiboot | hiboot is a high performance web and cli application framework with dependency injection support | https://github.com/hidevopsio/hiboot | ['command injection'] | 1 | 2022-05-23 04:24:52+00:00 | 26842 | 169 | Go | 28 | [] |
@@ -65,4 +70,4 @@
 | peterjson31337/CVE-2021-2456 | CVE-2021-2456 | https://github.com/peterjson31337/CVE-2021-2456 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 04:45:03+00:00 | 4 | 8 | Python | 4 | ['CVE-2021-2456'] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2022-05-23 09:20:09+00:00 | 1143 | 1 | Python | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-23 04:07:41+00:00 | 7800 | 3017 | TypeScript | 429 | [] |
-| sebastian93921/OSED-Code-Snippets | Tools/scripts For OSED / Reverse engineering / Binary exploitation | https://github.com/sebastian93921/OSED-Code-Snippets | ['exploit'] | 1 | 2022-05-23 09:39:52+00:00 | 0 | 0 | | 0 | [] |
+| flyonskncn/aeverja | 使用nim编写的shellcode加载器 | https://github.com/flyonskncn/aeverja | ['shellcode'] | 1 | 2022-05-23 10:47:38+00:00 | 0 | 0 | | 0 | [] |
