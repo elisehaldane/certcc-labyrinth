@@ -11,7 +11,6 @@ VU#29,1.00000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-c
 VU#29,0.50000000,https://github.com/0730Nophone/CVE-2022-22947-,0730Nophone/CVE-2022-22947-,492894023
 VU#29,0.50000000,https://github.com/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511,Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511,487194778
 VU#29,0.50000000,https://github.com/bennytrt/roblox-carmel-exploit,bennytrt/roblox-carmel-exploit,481760559
-VU#29,0.50000000,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
 VU#29,0.50000000,https://github.com/Aakash-Bhati/reactjs-project,Aakash-Bhati/reactjs-project,473235184
 VU#29,0.50000000,https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway,Enokiy/cve-2022-22947-spring-cloud-gateway,472548304
 VU#29,0.50000000,https://github.com/bad-skater/Notes-Application,bad-skater/Notes-Application,450706221
@@ -135,6 +134,7 @@ VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#29,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#29,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#29,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#29,0.01851852,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
 VU#29,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#29,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#29,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
@@ -206,7 +206,7 @@ VU#29,0.00206186,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#29,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#29,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
-VU#29,0.00120482,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00117647,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#29,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463

@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#35,0.50000000,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
 VU#35,0.50000000,https://github.com/Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,468115159
 VU#35,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2Hub,420501078
 VU#35,0.20000000,https://github.com/Ch0pin/AVIator,Ch0pin/AVIator,129488616
@@ -35,6 +34,7 @@ VU#35,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,
 VU#35,0.02222222,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#35,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 VU#35,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#35,0.01851852,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
 VU#35,0.01851852,https://github.com/tr0uble-mAker/POC-bomber,tr0uble-mAker/POC-bomber,432052287
 VU#35,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#35,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
@@ -88,7 +88,7 @@ VU#35,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#35,0.00206186,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#35,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#35,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#35,0.00120482,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#35,0.00117647,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#35,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#35,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#35,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
