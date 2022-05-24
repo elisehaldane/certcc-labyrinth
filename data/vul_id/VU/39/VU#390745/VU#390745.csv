@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#390745,0.03333333,https://github.com/0xdea/exploits,0xdea/exploits,97018750
-VU#390745,0.00091324,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#390745,0.00087951,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#390745,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 VU#390745,0.00010325,https://github.com/f0ns1/CVE-2020,f0ns1/CVE-2020,353048821
 VU#390745,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

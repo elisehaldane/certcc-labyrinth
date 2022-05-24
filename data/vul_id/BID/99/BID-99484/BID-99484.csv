@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-99484,0.50000000,https://github.com/xfer0/CVE-2017-9791,xfer0/CVE-2017-9791,104592299
 BID-99484,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 BID-99484,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
-BID-99484,0.00091324,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-99484,0.00087951,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-99484,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 BID-99484,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-99484,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
