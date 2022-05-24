@@ -99,7 +99,7 @@ repo_id,repo_full_name,file,file_sha1,match
 479040189,Curt-Lucas/Vulnerable,Account Lists/50K_Emails[1].UK_2_1_.txt,881d6e541e99264e3c42806f5da1b5829f4bdbf2,VU#85
 479040189,Curt-Lucas/Vulnerable,Account Lists/@detroit.com.txt,8ffb3805a732f85489f565135140ad117a2564cf,MS64-1445
 479040189,Curt-Lucas/Vulnerable,Account Lists/100k newzealand.txt,936eb2312fe2ddca14584f17dc4d0beb5cb7167e,VU#002
-479040189,Curt-Lucas/Vulnerable,Source Code/Bots/banditz OSCO & E107 scanner/byroe.txt,9ff05ec1e38c371ab0cde6d73ae5e35b971ebcdc,VU#25
+479040189,Curt-Lucas/Vulnerable,Source Code/Bots/nob0dy priv8/byroe.txt,9ff05ec1e38c371ab0cde6d73ae5e35b971ebcdc,VU#25
 479040189,Curt-Lucas/Vulnerable,Account Lists/Canada Leads.txt,b267a83a155d0a9a85e50efeb9df189cd4603cdd,VU#88
 479040189,Curt-Lucas/Vulnerable,Account Lists/Canada Leads.txt,b267a83a155d0a9a85e50efeb9df189cd4603cdd,VU#99
 479040189,Curt-Lucas/Vulnerable,Account Lists/Canada Leads.txt,b267a83a155d0a9a85e50efeb9df189cd4603cdd,VU#43
