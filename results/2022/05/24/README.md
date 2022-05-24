@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/24
     
-25 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-24 04:28:14+00:00 | 5481 | 3268 | Python | 694 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-24 00:27:55+00:00 | 51979 | 303 | Ruby | 88 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-24 01:13:27+00:00 | 314 | 0 | nan | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | ['exploit'] | 1 | 2022-05-24 01:24:10+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-u | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-u | ['exploit'] | 1 | 2022-05-24 01:23:20+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-u | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-u | ['exploit'] | 1 | 2022-05-24 01:21:55+00:00 | 1 | 0 | | 0 | [] |
@@ -14,11 +14,12 @@
 | Argonx21/cors-exploit | None | https://github.com/Argonx21/cors-exploit | ['exploit'] | 1 | 2022-05-24 00:56:55+00:00 | 0 | 0 | HTML | 0 | [] |
 | kang8/CVE-2022-30778 | Case for CVE-2022-30778 | https://github.com/kang8/CVE-2022-30778 | ['cve-2 OR cve_2'] | 1 | 2022-05-24 00:56:57+00:00 | 1352 | 3 | PHP | 4 | ['CVE-2022-30778'] |
 | Krkn-Sec/Malware-Analysis-Challenges | A collection of binaries created by me to simulate common malware techniques. The binaries aren't truly malicious. Any shellcode or payloads they execute either spawn a message box or pops calc. I'm not here to spread malware, only analysis techniques. | https://github.com/Krkn-Sec/Malware-Analysis-Challenges | ['shellcode'] | 1 | 2022-05-24 02:16:34+00:00 | 1730 | 0 | | 0 | [] |
+| tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | None | https://github.com/tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-24 04:21:17+00:00 | 598 | 0 | PHP | 0 | [] |
 | wshidamowang/Router | Router ZeroDay | https://github.com/wshidamowang/Router | ['zeroday'] | 1 | 2022-05-24 03:51:06+00:00 | 638 | 0 | | 0 | [] |
 | anonymoussteez/PortSploit | scans open ports and provides options to attack these ports | https://github.com/anonymoussteez/PortSploit | ['sploit'] | 1 | 2022-05-24 00:08:43+00:00 | 1 | 0 | nan | 0 | [] |
 | mookyfun/funLoader | shellcode loader for evasion | https://github.com/mookyfun/funLoader | ['shellcode'] | 1 | 2022-05-24 02:11:08+00:00 | 25 | 0 | C | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-24 01:13:27+00:00 | 314 | 0 | nan | 0 | [] |
 | RapidoBuzz/RhyteredExploitAPI | L'api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | ['exploit'] | 1 | 2022-05-24 00:49:17+00:00 | 54379 | 0 | Lua | 0 | [] |
-| soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-24 03:39:21+00:00 | 6160 | 515 | C++ | 103 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-24 00:34:55+00:00 | 131616 | 2 | Jupyter Notebook | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-05-24 02:58:40+00:00 | 395 | 32 | Python | 7 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-24 01:48:51+00:00 | 5672352 | 48 | Python | 8 | [] |
@@ -26,7 +27,9 @@
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-05-24 00:39:32+00:00 | 54 | 22 | | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-24 02:04:45+00:00 | 2033 | 96 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-24 02:00:56+00:00 | 21499 | 3 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-24 04:52:23+00:00 | 177358 | 408 | Python | 118 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-24 00:04:15+00:00 | 582925 | 55 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-24 00:47:55+00:00 | 11181 | 41 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-24 02:31:31+00:00 | 282742 | 158 | REXX | 15 | [] |
+| soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-05-24 03:39:21+00:00 | 6160 | 515 | C++ | 103 | [] |
 | Carlos144Green/Sidewalk-Q-Learning | In this repo the program uses Q-learning to get itself to the end of the sidewalk picking up as much litter as possible while avoiding polluters. Q-Learning is a model-free reinforcement learning algorithm that learns the value of an action in a particular | https://github.com/Carlos144Green/Sidewalk-Q-Learning | ['exploit'] | 1 | 2022-05-24 02:24:16+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
