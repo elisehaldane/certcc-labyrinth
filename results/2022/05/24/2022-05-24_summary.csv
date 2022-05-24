@@ -1,0 +1,11 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+hahwul/mad-metasploit,"Metasploit custom modules, plugins, resource script and.. awesome metasploit collection",https://github.com/hahwul/mad-metasploit,['metasploit module OR payload'],1,2022-05-24T00:27:55+0000,51979,303,Ruby,88,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2022-05-24T00:47:55+0000,11181,41,,21,[]
+Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds",https://github.com/Patrowl/PatrowlHearsData,['exploit'],1,2022-05-24T00:04:15+0000,582925,55,,21,[]
+thelikes/ownlist,Weekly compilation of offensive security tools and write-ups,https://github.com/thelikes/ownlist,['exploit'],1,2022-05-24T00:39:32+0000,54,22,,3,[]
+MichaelSodeke/eng-cmp-prj--network-security,"Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications.",https://github.com/MichaelSodeke/eng-cmp-prj--network-security,['exploit'],1,2022-05-24T00:39:14+0000,30,0,,0,[]
+jgamblin/CISA_Enrichment,CISA Known Exploited Vulnerabilities Catalog Enrichment,https://github.com/jgamblin/CISA_Enrichment,['exploit'],1,2022-05-24T00:34:55+0000,131616,2,Jupyter Notebook,0,[]
+RapidoBuzz/RhyteredExploitAPI,L'api de RhyteredExploit,https://github.com/RapidoBuzz/RhyteredExploitAPI,['exploit'],1,2022-05-24T00:49:17+0000,54379,0,Lua,0,[]
+anonymoussteez/PortSploit,scans open ports and provides options to attack these ports,https://github.com/anonymoussteez/PortSploit,['sploit'],1,2022-05-24T00:08:43+0000,1,0,,0,[]
+kang8/CVE-2022-30778,Case for CVE-2022-30778,https://github.com/kang8/CVE-2022-30778,['cve-2 OR cve_2'],1,2022-05-24T00:56:57+0000,1352,3,PHP,4,['CVE-2022-30778']
+Argonx21/cors-exploit,None,https://github.com/Argonx21/cors-exploit,['exploit'],1,2022-05-24T00:56:55+0000,0,0,HTML,0,[]
