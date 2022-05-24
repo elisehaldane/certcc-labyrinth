@@ -1,58 +1,64 @@
 repo_id,repo_full_name,file,file_sha1,match
 411307412,vuldb/cyber_threat_intelligence,actors/REvil/README.md,022b7cce7cf00597df76c2fc051e878827894bb4,CVE-2019-2725
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2015-5119/README.md,0b17162da9358994dd5963d1236f194104726be7,CVE-2015-5119
-411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,16467213deea8677b9199fa9999c8426e8518b42,CVE-2018-9866
-411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,16467213deea8677b9199fa9999c8426e8518b42,CVE-2017-5638
-411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,16467213deea8677b9199fa9999c8426e8518b42,CVE-2017-18368
-411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,16467213deea8677b9199fa9999c8426e8518b42,CVE-2017-17215
-411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,16467213deea8677b9199fa9999c8426e8518b42,CVE-2014-8361
+411307412,vuldb/cyber_threat_intelligence,actors/Charming Kitten/README.md,0fc463e967d4e10fd1afe43bbb6f871123fbca08,CVE-2021-31207
+411307412,vuldb/cyber_threat_intelligence,actors/Charming Kitten/README.md,0fc463e967d4e10fd1afe43bbb6f871123fbca08,CVE-2021-34523
+411307412,vuldb/cyber_threat_intelligence,actors/Charming Kitten/README.md,0fc463e967d4e10fd1afe43bbb6f871123fbca08,CVE-2021-34473
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-44207/README.md,1e1b8a3ea54b9f1b48918b7f7acffd46d73e50cf,CVE-2021-44207
 411307412,vuldb/cyber_threat_intelligence,actors/JenkinsMiner/README.md,1f9e8557aeaf1dcabb59a759fa0ad794005cb95e,CVE-2017-1000353
-411307412,vuldb/cyber_threat_intelligence,actors/APT41/README.md,208e150cd696f889fe01f18c77ad75044982146f,CVE-2021-44207
-411307412,vuldb/cyber_threat_intelligence,actors/APT41/README.md,208e150cd696f889fe01f18c77ad75044982146f,CVE-2019-19781
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2019-19781/README.md,2394090df9eee2da030fa8af8666527b1c23b811,CVE-2019-19781
-411307412,vuldb/cyber_threat_intelligence,actors/Cobalt Group/README.md,2b41a4fa935ae002a67536fb6087525fcde75a0e,CVE-2017-8759
-411307412,vuldb/cyber_threat_intelligence,actors/Cobalt Group/README.md,2b41a4fa935ae002a67536fb6087525fcde75a0e,CVE-2017-0199
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-35211/README.md,2eb5a5622123d1f8b93c5c66837191967ec5720b,CVE-2021-35211
 411307412,vuldb/cyber_threat_intelligence,actors/Satori/README.md,2f0a112ae02db9c7c2fb8d6e62e47d528027721d,CVE-2014-8361
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2017-1000353/README.md,30c2c98c5ee39554b981ee95fe3e426813a658f6,CVE-2017-1000353
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2017-17215/README.md,3565f5aeea95af20fb3d7274001ff4c349e42464,CVE-2017-17215
-411307412,vuldb/cyber_threat_intelligence,actors/APT3/README.md,3aa120d338b76779cee3f838fd730c90b0678eb2,CVE-2015-5122
-411307412,vuldb/cyber_threat_intelligence,actors/APT3/README.md,3aa120d338b76779cee3f838fd730c90b0678eb2,CVE-2015-5119
-411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,3e0a49a453e761c2f93b4aa9ae990e474dff14fc,CVE-2021-44228
-411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,3e0a49a453e761c2f93b4aa9ae990e474dff14fc,CVE-2021-40539
-411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,3e0a49a453e761c2f93b4aa9ae990e474dff14fc,CVE-2021-26855
-411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,3e0a49a453e761c2f93b4aa9ae990e474dff14fc,CVE-2021-41773
-411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,3e0a49a453e761c2f93b4aa9ae990e474dff14fc,CVE-2021-42237
-411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,3e0a49a453e761c2f93b4aa9ae990e474dff14fc,CVE-2017-11882
 411307412,vuldb/cyber_threat_intelligence,actors/Poison Needles/README.md,40ffb7808e5b38c759de1677087e13696da45fe3,CVE-2018-15982
-411307412,vuldb/cyber_threat_intelligence,actors/Charming Kitten/README.md,446b214567cfe58fdcee55052fb337ebb59c9049,CVE-2021-31207
-411307412,vuldb/cyber_threat_intelligence,actors/Charming Kitten/README.md,446b214567cfe58fdcee55052fb337ebb59c9049,CVE-2021-34523
-411307412,vuldb/cyber_threat_intelligence,actors/Charming Kitten/README.md,446b214567cfe58fdcee55052fb337ebb59c9049,CVE-2021-34473
-411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-42237/README.md,48ec952f2b7ac0eef06a298c79ed8c82e15cb31f,CVE-2021-42237
+411307412,vuldb/cyber_threat_intelligence,actors/Cobalt Group/README.md,522c0823cb8a859e7964cb3131363d0b2e1c2c37,CVE-2017-8759
+411307412,vuldb/cyber_threat_intelligence,actors/Cobalt Group/README.md,522c0823cb8a859e7964cb3131363d0b2e1c2c37,CVE-2017-0199
+411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2020-14882/README.md,5a8dd41b222370c29bd6711e2815c178fb36536c,CVE-2020-14882
+411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,684d1a6e0183c218281bc55f2659906be4c21fb9,CVE-2018-9866
+411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,684d1a6e0183c218281bc55f2659906be4c21fb9,CVE-2014-8361
+411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,684d1a6e0183c218281bc55f2659906be4c21fb9,CVE-2017-17215
+411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,684d1a6e0183c218281bc55f2659906be4c21fb9,CVE-2017-5638
+411307412,vuldb/cyber_threat_intelligence,actors/Gafgyt/README.md,684d1a6e0183c218281bc55f2659906be4c21fb9,CVE-2017-18368
 411307412,vuldb/cyber_threat_intelligence,actors/Bigviktor/README.md,6f0f4ea6070b2388307c6a6c5c352c99c00fa6e9,CVE-2020-8515
 411307412,vuldb/cyber_threat_intelligence,campaigns/Royal Road/README.md,7609f7bc950896c5bc0f74cc1c217d24feae8d8c,CVE-2018-0798
 411307412,vuldb/cyber_threat_intelligence,actors/Russia Unknown/README.md,79a5a7addcafab0d4f87cba6cc8386c4e3270fdf,CVE-2021-34527
+411307412,vuldb/cyber_threat_intelligence,campaigns/Scan CVE-2021-41773/README.md,82b3da773403c7e3c863d75df3b82892c6241f58,CVE-2021-41773
 411307412,vuldb/cyber_threat_intelligence,actors/Royal Road/README.md,87c21100f08b5e532cd9b3d14974ce1aa902b335,CVE-2018-0798
 411307412,vuldb/cyber_threat_intelligence,actors/DEV-0322/README.md,8bbd93fe487a7b34c8c96b5285d69557c8797c77,CVE-2021-35211
+411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-44228/README.md,8d365d1205c7448239599ea3f6a9434a461e609e,CVE-2021-44228
 411307412,vuldb/cyber_threat_intelligence,actors/Luoxk/README.md,914f7d7f5c76440db69bbfabd4417a5b78d4ea50,CVE-2018-2893
-411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-44228/README.md,941f87a8cee829c33390fb0ab5ebf2677ca6c483,CVE-2021-44228
+411307412,vuldb/cyber_threat_intelligence,campaigns/Cryptomining/README.md,94653f78332136f6eecbaefa170ca163f5469def,CVE-2020-14882
 411307412,vuldb/cyber_threat_intelligence,campaigns/Poison Needles/README.md,95dd6adcad1e521e7d35e9f671b14273852f5bdd,CVE-2018-15982
-411307412,vuldb/cyber_threat_intelligence,actors/Mirai/README.md,9de2666ae9f5e29a50d766bc69ae5c455d4b9e42,CVE-2020-9054
+411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2022-22954 and CVE-2022-22960/README.md,9e56f2015d1ad4082f23d639a7be64b92e7b3e75,CVE-2022-22954
+411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2022-22954 and CVE-2022-22960/README.md,9e56f2015d1ad4082f23d639a7be64b92e7b3e75,CVE-2022-22960
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2020-9054/README.md,a377091df31431734028a51efe5aabdebb06e5f5,CVE-2020-9054
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2017-11882/README.md,a8eba08ebbb26cd79620f9bc0c7b84f59a4097ed,CVE-2017-11882
 411307412,vuldb/cyber_threat_intelligence,actors/Nexus Zeta/README.md,b2f8e1c8b561f696060eabf474241288fd20e4c7,CVE-2017-17215
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2019-2725/README.md,b659b907a01ab523c304746d5f77ed55829a3a48,CVE-2019-2725
 411307412,vuldb/cyber_threat_intelligence,actors/Shellbot/README.md,ba1a1bc9605a3aacabed61a747d15128f7da603e,CVE-2020-17496
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2020-17496/README.md,c1e74b623915db2f7302ade0316403420bd3a3ee,CVE-2020-17496
-411307412,vuldb/cyber_threat_intelligence,campaigns/Scan CVE-2021-41773/README.md,ccb50dccd8502d05c61d28be9712102aeb5ab97e,CVE-2021-41773
-411307412,vuldb/cyber_threat_intelligence,campaigns/Cryptomining/README.md,d44af2f2e594d17610ca6f47d19177ecd8463f4d,CVE-2020-14882
+411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,c3709bd59c4ddf52e01b0b4798bdc15a2d68a06a,CVE-2018-7600
+411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,c3709bd59c4ddf52e01b0b4798bdc15a2d68a06a,CVE-2017-10271
+411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,c3709bd59c4ddf52e01b0b4798bdc15a2d68a06a,CVE-2019-2725
+411307412,vuldb/cyber_threat_intelligence,actors/APT3/README.md,ccbe3336afc191afca770830c730fc68885675d4,CVE-2015-5119
+411307412,vuldb/cyber_threat_intelligence,actors/APT3/README.md,ccbe3336afc191afca770830c730fc68885675d4,CVE-2015-5122
+411307412,vuldb/cyber_threat_intelligence,actors/APT41/README.md,ccd1e8c937e1292359b4e0963d1ced50d94f8d21,CVE-2021-44207
+411307412,vuldb/cyber_threat_intelligence,actors/APT41/README.md,ccd1e8c937e1292359b4e0963d1ced50d94f8d21,CVE-2019-19781
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2018-2893/README.md,db0a424647623d6a360088f9ea4902c98ede3333,CVE-2018-2893
-411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,e06652574c243b865679f4ecd0897165812f6877,CVE-2018-7600
-411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,e06652574c243b865679f4ecd0897165812f6877,CVE-2017-10271
-411307412,vuldb/cyber_threat_intelligence,actors/Muhstik/README.md,e06652574c243b865679f4ecd0897165812f6877,CVE-2019-2725
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2020-8515/README.md,e4578a857a0d8932de35d55851d4f940e43999f0,CVE-2020-8515
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-34527/README.md,e5911152e55218c5cb60c25ec3272370ef447ec9,CVE-2021-34527
 411307412,vuldb/cyber_threat_intelligence,actors/IsSpace/README.md,eb533f06fc2d18a4151ddca5660207695a7af004,CVE-2015-5122
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-40539/README.md,ec7c1c1de7decb3f651c5c3345c8932fbdf2ddb3,CVE-2021-40539
+411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-42237/README.md,f17d0e59dd03587f93739e04d26f65394d5e639c,CVE-2021-42237
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2022-22954
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2021-44228
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2021-40539
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2021-41773
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2017-11882
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2022-22960
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2021-26855
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2021-42237
+411307412,vuldb/cyber_threat_intelligence,actors/Unknown/README.md,f2bc7ca0938b6f21216aeb132c5d6fc24be0f082,CVE-2020-14882
 411307412,vuldb/cyber_threat_intelligence,campaigns/CVE-2021-26855/README.md,fa3c2464f6239c48da277cdcdc0865474b2190aa,CVE-2021-26855
+411307412,vuldb/cyber_threat_intelligence,actors/Mirai/README.md,fcb441196d6b3e6014d64bc6609c1899b43ca63f,CVE-2020-9054
