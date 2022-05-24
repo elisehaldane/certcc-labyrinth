@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/23
     
-157 records found after deduplication
+158 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -25,7 +25,7 @@
 | cloudjunky/attack-pocs | None | https://github.com/cloudjunky/attack-pocs | ['attack poc'] | 1 | 2022-05-23 05:04:34+00:00 | 18 | 0 | Solidity | 0 | [] |
 | TitanVale/Titanium | SportPaper fork which aims to be fast, fix exploits and bugs, improve API, and provide better configuration for server administrators | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-05-23 18:12:11+00:00 | 483 | 1 | Shell | 0 | [] |
 | Creamy-Chicken-Soup/writeups-about-analysis-CVEs-and-Exploits-on-the-Windows | I collect writeup about analysis CVEs and Exploits on the Windows in this repository. | https://github.com/Creamy-Chicken-Soup/writeups-about-analysis-CVEs-and-Exploits-on-the-Windows | ['exploit'] | 1 | 2022-05-23 08:33:26+00:00 | 11 | 0 | | 0 | [] |
-| Ayoub-2/RCE-webshell | Get a stable shell using the web port througth a command injection | https://github.com/Ayoub-2/RCE-webshell | ['command injection', 'rce'] | 2 | 2022-05-23 00:14:47+00:00 | 5 | 0 | Python | 0 | [] |
+| grav3m1nd-byte/OSCP-Lab_Exploits | Repository contains modified/fixed exploits used while studying for the OSCP | https://github.com/grav3m1nd-byte/OSCP-Lab_Exploits | ['exploit'] | 1 | 2022-05-23 04:37:48+00:00 | 37 | 0 | Python | 0 | [] |
 | p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-05-23 13:54:36+00:00 | 7390 | 408 | Dockerfile | 30 | [] |
 | eremus-dev/Dirty-Pipe-sudo-poc | A python implementation of the Dirty Pipe exploit that adds an unprivliged user to the sudoers group. | https://github.com/eremus-dev/Dirty-Pipe-sudo-poc | ['exploit'] | 1 | 2022-05-23 09:56:38+00:00 | 4 | 4 | Python | 1 | [] |
 | GatoGamer1155/CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-23 15:47:35+00:00 | 1029 | 5 | Python | 1 | ['CVE-2021-4034'] |
@@ -43,9 +43,9 @@
 | Acceis/exploit-CVE-2022-0482 | Easy!Appointments < 1.4.3 - Unauthenticated PII (events) disclosure | https://github.com/Acceis/exploit-CVE-2022-0482 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-23 13:42:37+00:00 | 8 | 2 | Ruby | 1 | ['CVE-2022-0482'] |
 | Mengnali-Dou/100-Days-Learn-Android-Exploit | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | ['exploit'] | 1 | 2022-05-23 08:45:58+00:00 | 338 | 1 | Java | 0 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2022-05-23 21:50:12+00:00 | 93 | 472 | Go | 22 | [] |
-| grav3m1nd-byte/OSCP-Lab_Exploits | Repository contains modified/fixed exploits used while studying for the OSCP | https://github.com/grav3m1nd-byte/OSCP-Lab_Exploits | ['exploit'] | 1 | 2022-05-23 04:37:48+00:00 | 37 | 0 | Python | 0 | [] |
+| SECFORCE/SharpASM | SharpASM is a C# project that aims to automate ASM (i.e. shellcode) execution in .NET programs by exploiting code caves in RWX sections allocated by the CLR. | https://github.com/SECFORCE/SharpASM | ['exploit', 'shellcode'] | 2 | 2022-05-23 14:03:13+00:00 | 281 | 0 | C# | 0 | [] |
 | improsec/SharpEventPersist | Persistence by writing/reading shellcode from Event Log | https://github.com/improsec/SharpEventPersist | ['shellcode'] | 1 | 2022-05-23 18:49:15+00:00 | 144 | 12 | C# | 2 | [] |
-| RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-23 02:28:06+00:00 | 1164 | 1 | C | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-23 15:05:00+00:00 | 3256 | 2673 | PowerShell | 753 | [] |
 | AlexandrMilko/telegram-mail-public | Send messages world-wide, exploiting People Nearby function. | https://github.com/AlexandrMilko/telegram-mail-public | ['exploit'] | 1 | 2022-05-23 16:21:11+00:00 | 0 | 0 | Python | 0 | [] |
 | korestreet/https-nj.gov---CVE-2020-11022 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2020-11022 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 11:06:15+00:00 | 6 | 0 | | 0 | ['CVE-2020-11022'] |
 | flyonskncn/aeverja | 使用nim编写的shellcode加载器 | https://github.com/flyonskncn/aeverja | ['shellcode'] | 1 | 2022-05-23 10:47:38+00:00 | 0 | 0 | | 0 | [] |
@@ -55,7 +55,7 @@
 | bendanwwww/SpringRCE | None | https://github.com/bendanwwww/SpringRCE | ['rce'] | 1 | 2022-05-23 14:55:33+00:00 | 0 | 0 | | 0 | [] |
 | niftic/stencil | Binary exploitation templates with xonsh autocompletion | https://github.com/niftic/stencil | ['exploit'] | 1 | 2022-05-23 15:27:06+00:00 | 0 | 0 | | 0 | [] |
 | gylany123/metasploit.sh | None | https://github.com/gylany123/metasploit.sh | ['metasploit module OR payload'] | 1 | 2022-05-23 16:31:21+00:00 | 0 | 0 | Shell | 0 | [] |
-| p0dalirius/Joomla-webshell-plugin | A webshell plugin and interactive shell for pentesting a Joomla website. | https://github.com/p0dalirius/Joomla-webshell-plugin | ['rce'] | 1 | 2022-05-23 12:53:15+00:00 | 3288 | 0 | Python | 0 | [] |
+| korestreet/https-nj.gov---CVE-2019-11358 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2019-11358 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 09:07:49+00:00 | 4 | 0 | | 0 | ['CVE-2019-11358'] |
 | TheRealCodingGuy/TikTok-ViewBot | A new tiktok viewbot able to send like 100k views in 30 minutes. it uses a new tiktok exploit that this is possible | https://github.com/TheRealCodingGuy/TikTok-ViewBot | ['exploit'] | 1 | 2022-05-23 16:46:59+00:00 | 0 | 0 | | 0 | [] |
 | iveresk/cve-2022-30525 | Initial POC for the CVE-2022-30525 | https://github.com/iveresk/cve-2022-30525 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-23 16:51:43+00:00 | 0 | 0 | | 0 | ['CVE-2022-30525'] |
 | rogxo/MiniXorAV | 基于异或加密的迷你shellcode加载器 | https://github.com/rogxo/MiniXorAV | ['shellcode'] | 1 | 2022-05-23 18:30:05+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -64,17 +64,18 @@
 | esubalew-D/Zeroday | None | https://github.com/esubalew-D/Zeroday | ['zeroday'] | 1 | 2022-05-23 20:39:19+00:00 | 0 | 0 | | 0 | [] |
 | bernauers/CVE-2022-23046 | Tinker Script for CVE-2022-23046 | https://github.com/bernauers/CVE-2022-23046 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 20:44:16+00:00 | 0 | 0 | | 0 | ['CVE-2022-23046'] |
 | sebastian93921/OSED-Code-Snippets | Tools/scripts For OSED / Reverse engineering / Binary exploitation | https://github.com/sebastian93921/OSED-Code-Snippets | ['exploit'] | 1 | 2022-05-23 09:39:52+00:00 | 0 | 0 | | 0 | [] |
-| korestreet/https-nj.gov---CVE-2019-11358 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2019-11358 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 09:07:49+00:00 | 4 | 0 | | 0 | ['CVE-2019-11358'] |
 | korestreet/https-nj.gov---CVE-2018-14042 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2018-14042 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 08:29:48+00:00 | 2 | 0 | | 0 | ['CVE-2018-14042'] |
-| korestreet/https-nj.gov---CVE-2018-14040 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2018-14040 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 08:25:02+00:00 | 7 | 0 | | 0 | ['CVE-2018-14040'] |
+| RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-23 02:28:06+00:00 | 1164 | 1 | C | 0 | [] |
+| mozakilmao/MozSploit | A fully undetectable lua code injector for roblox | https://github.com/mozakilmao/MozSploit | ['sploit'] | 1 | 2022-05-23 02:46:58+00:00 | 0 | 1 | Lua | 0 | [] |
+| p0dalirius/Joomla-webshell-plugin | A webshell plugin and interactive shell for pentesting a Joomla website. | https://github.com/p0dalirius/Joomla-webshell-plugin | ['rce'] | 1 | 2022-05-23 12:53:15+00:00 | 3288 | 0 | Python | 0 | [] |
 | JustYose/exploit | None | https://github.com/JustYose/exploit | ['exploit'] | 1 | 2022-05-23 19:28:37+00:00 | 1 | 0 | | 0 | [] |
 | touhidulShawan/exploitation_doc | This file is used to document various type of exploitation with msfconsole [practice purpose only] | https://github.com/touhidulShawan/exploitation_doc | ['exploit'] | 1 | 2022-05-23 03:30:43+00:00 | 8 | 0 | | 0 | [] |
 | lolthatseazy/BullSPloitFIXEDDDDDDD | None | https://github.com/lolthatseazy/BullSPloitFIXEDDDDDDD | ['sploit'] | 1 | 2022-05-23 00:31:39+00:00 | 0 | 0 | | 0 | [] |
 | Jack7988/Fully-Silent-PDF-EXPLOIT-0day | nan | https://github.com/Jack7988/Fully-Silent-PDF-EXPLOIT-0day | ['0day', 'exploit'] | 2 | 2022-05-23 00:39:43+00:00 | 0 | 0 | nan | 0 | [] |
 | DavUA0/capstone | Binary Exploitation in the presence of some mitigations | https://github.com/DavUA0/capstone | ['exploit'] | 1 | 2022-05-23 01:02:38+00:00 | 237 | 0 | TeX | 0 | [] |
 | tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | None | https://github.com/tsukiazuma/Command-Injection-Directory-Traversal-Vuln-XML-external-entity-injection | ['command injection'] | 1 | 2022-05-23 02:12:31+00:00 | 0 | 0 | | 0 | [] |
-| mozakilmao/MozSploit | A fully undetectable lua code injector for roblox | https://github.com/mozakilmao/MozSploit | ['sploit'] | 1 | 2022-05-23 02:46:58+00:00 | 0 | 1 | Lua | 0 | [] |
 | Krkn-Sec/Malware-Analysis-Challenges | A collection of binaries created by me to simulate common malware techniques. The binaries aren't truly malicious. Any shellcode or payloads they execute either spawn a message box or pops calc. I'm not here to spread malware, only analysis techniques. | https://github.com/Krkn-Sec/Malware-Analysis-Challenges | ['shellcode'] | 1 | 2022-05-23 03:14:26+00:00 | 0 | 0 | | 0 | [] |
+| korestreet/https-nj.gov---CVE-2018-14040 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2018-14040 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 08:25:02+00:00 | 7 | 0 | | 0 | ['CVE-2018-14040'] |
 | arnav-kr/be | Browser Exploitation | https://github.com/arnav-kr/be | ['exploit'] | 1 | 2022-05-23 03:50:06+00:00 | 0 | 0 | | 0 | [] |
 | java-benchmark/RCE | None | https://github.com/java-benchmark/RCE | ['rce'] | 1 | 2022-05-23 05:24:59+00:00 | 0 | 0 | Java | 0 | [] |
 | java-benchmark/RCE-server | None | https://github.com/java-benchmark/RCE-server | ['rce'] | 1 | 2022-05-23 05:50:37+00:00 | 29 | 0 | Java | 0 | [] |
@@ -83,8 +84,8 @@
 | korestreet/https-nj.gov---CVE-2019-8331 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2019-8331 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 08:13:55+00:00 | 6 | 0 | | 0 | ['CVE-2019-8331'] |
 | korestreet/https-nj.gov---CVE-2018-14041 | Vulnearability Report of the New Jersey official site | https://github.com/korestreet/https-nj.gov---CVE-2018-14041 | ['cve-2 OR cve_2'] | 1 | 2022-05-23 08:24:30+00:00 | 7 | 0 | | 0 | ['CVE-2018-14041'] |
 | ilijadivi/VisionExploit | None | https://github.com/ilijadivi/VisionExploit | ['exploit'] | 1 | 2022-05-23 21:23:12+00:00 | 16 | 0 | | 0 | [] |
+| Ayoub-2/RCE-webshell | Get a stable shell using the web port througth a command injection | https://github.com/Ayoub-2/RCE-webshell | ['command injection', 'rce'] | 2 | 2022-05-23 00:14:47+00:00 | 5 | 0 | Python | 0 | [] |
 | bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-05-23 16:22:37+00:00 | 214 | 2 | Lua | 2 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-23 15:05:00+00:00 | 3256 | 2673 | PowerShell | 753 | [] |
 | CaledoniaProject/drivers-binaries | Exploitable drivers, you know what I mean | https://github.com/CaledoniaProject/drivers-binaries | ['exploit'] | 1 | 2022-05-23 14:08:33+00:00 | 640 | 6 | | 3 | [] |
 | boudarbiss/RAT-STA | RAT-STA is a cross-platform, multi function (without using Threads) Remote Administration Tool and post-exploitation tool completely written in python 3.7.5 . RAT-STA is based on Client–Server communication using TCP sockets. | https://github.com/boudarbiss/RAT-STA | ['exploit'] | 1 | 2022-05-23 04:05:07+00:00 | 8 | 3 | Python | 1 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2022-05-23 03:05:35+00:00 | 1306 | 696 | Java | 93 | [] |
