@@ -62,6 +62,7 @@ VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#64,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#64,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#64,0.02083333,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#64,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#64,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#64,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#64,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
