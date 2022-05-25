@@ -1,27 +1,27 @@
 
 # Summary for results/2022/05/25
     
-58 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-25 05:22:13+00:00 | 751918 | 27319 | Ruby | 12263 | [] |
-| trhacknon/CVE-2021-27330 | Triconsole 3.75 - Reflected XSS | https://github.com/trhacknon/CVE-2021-27330 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 00:13:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-27330'] |
-| bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-05-25 04:52:33+00:00 | 219 | 2 | Lua | 2 | [] |
+| magicono43/DFU-Mod_Classic-Exploits | Adds Back Various Exploits From Classic Daggerfall That Were Fixed In Unity. | https://github.com/magicono43/DFU-Mod_Classic-Exploits | ['exploit'] | 1 | 2022-05-25 00:27:51+00:00 | 0 | 0 | C# | 0 | [] |
 | DarlezSec/Monitorr-Version-1.7.6m | Exploit Monitorr-Version-1.7.6m WriteUp Year Of The Jellifysh | https://github.com/DarlezSec/Monitorr-Version-1.7.6m | ['exploit'] | 1 | 2022-05-25 04:10:04+00:00 | 4 | 0 | Python | 0 | [] |
 | TitanVale/Titanium | Paper fork which aims to be fast, fix exploits and bugs, improve API, and provide better configuration for server administrators | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-05-25 07:57:41+00:00 | 415 | 1 | Shell | 0 | [] |
 | yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 00:57:52+00:00 | 329 | 37 | Python | 18 | ['CVE-2022-26809'] |
 | cokeBeer/go-cves | 收录go语言编写的项目、框架和组件出现的cve，或者一些相关的利用方式的文章 | https://github.com/cokeBeer/go-cves | ['cve poc', 'exploit'] | 2 | 2022-05-25 07:11:40+00:00 | 7449 | 7 | | 0 | [] |
 | WLS-SD/MSF-Installer-Termux | Install Metasploit in Android (Termux) | https://github.com/WLS-SD/MSF-Installer-Termux | ['metasploit module OR payload'] | 1 | 2022-05-25 03:53:02+00:00 | 16 | 0 | Shell | 0 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-05-25 06:24:13+00:00 | 21 | 0 | Python | 0 | [] |
+| PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-25 09:02:05+00:00 | 18 | 0 | C | 0 | [] |
 | Crypt00o/0x86-assembely-shellcodeing | exploitation with assembly shellcodeing and i write a tool to out shellcodeing | https://github.com/Crypt00o/0x86-assembely-shellcodeing | ['exploit', 'shellcode'] | 2 | 2022-05-25 08:24:29+00:00 | 4 | 4 | Shell | 0 | [] |
 | prok3z/Wordpress-Exploits | Tools To Scan and Exploit's WordPress | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-05-25 01:13:00+00:00 | 2209 | 14 | Python | 2 | [] |
 | Elkamika/BleedingToothResearchs | My own exploit of the BleedingTooth vulnerability | https://github.com/Elkamika/BleedingToothResearchs | ['exploit'] | 1 | 2022-05-25 07:27:50+00:00 | 0 | 0 | C | 0 | [] |
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-25 01:29:18+00:00 | 1190 | 2 | C | 0 | [] |
 | wshidamowang/Router | Router ZeroDay | https://github.com/wshidamowang/Router | ['zeroday'] | 1 | 2022-05-25 06:53:57+00:00 | 643 | 0 | | 0 | [] |
-| magicono43/DFU-Mod_Classic-Exploits | Adds Back Various Exploits From Classic Daggerfall That Were Fixed In Unity. | https://github.com/magicono43/DFU-Mod_Classic-Exploits | ['exploit'] | 1 | 2022-05-25 00:27:51+00:00 | 0 | 0 | C# | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-25 02:25:55+00:00 | 21678 | 7220 | JavaScript | 1672 | [] |
+| trhacknon/CVE-2021-27330 | Triconsole 3.75 - Reflected XSS | https://github.com/trhacknon/CVE-2021-27330 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 00:13:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-27330'] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v | ['exploit'] | 1 | 2022-05-25 01:05:54+00:00 | 1 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-25 02:25:55+00:00 | 21678 | 7220 | JavaScript | 1672 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-v | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-v | ['exploit'] | 1 | 2022-05-25 01:06:43+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-v | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-v | ['exploit'] | 1 | 2022-05-25 01:07:29+00:00 | 1 | 0 | | 0 | [] |
 | trhacknon/CVE-2020-29597 | Csrf file upload insecure | https://github.com/trhacknon/CVE-2020-29597 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 01:33:06+00:00 | 7 | 0 | Hack | 0 | ['CVE-2020-29597'] |
@@ -33,10 +33,12 @@
 | th1l1n4/SNP-Project | Microsoft MSHTML remote code execution vulnerability | https://github.com/th1l1n4/SNP-Project | ['remote code execution'] | 1 | 2022-05-25 06:18:10+00:00 | 0 | 0 | | 0 | [] |
 | karandarjishack/CORS-Exploit | None | https://github.com/karandarjishack/CORS-Exploit | ['exploit'] | 1 | 2022-05-25 06:32:23+00:00 | 0 | 0 | HTML | 0 | [] |
 | Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308 | None | https://github.com/Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 06:50:31+00:00 | 0 | 0 | | 0 | ['CVE-2021-0308'] |
+| trhacknon/CVE-2022-1292 | None | https://github.com/trhacknon/CVE-2022-1292 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 07:08:12+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-1292'] |
+| Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143- | None | https://github.com/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143- | ['cve-2 OR cve_2'] | 1 | 2022-05-25 09:09:45+00:00 | 0 | 0 | C | 0 | ['CVE-2021-45960', 'CVE-2021-46143'] |
+| bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-05-25 04:52:33+00:00 | 219 | 2 | Lua | 2 | [] |
 | Threekiii/Awesome-POC | 一个各类漏洞POC知识库 | https://github.com/Threekiii/Awesome-POC | ['vulnerability poc'] | 1 | 2022-05-25 07:32:56+00:00 | 715 | 44 | | 8 | [] |
+| Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-05-25 09:48:14+00:00 | 3071 | 333 | | 70 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-25 01:55:18+00:00 | 72424 | 2788 | | 350 | [] |
-| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-25 08:02:42+00:00 | 71986 | 45 | Go | 18 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-25 00:33:43+00:00 | 134895 | 2 | Jupyter Notebook | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-25 04:32:00+00:00 | 5517 | 3269 | Python | 694 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-25 00:28:03+00:00 | 51980 | 303 | Ruby | 88 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-05-25 05:25:48+00:00 | 3640 | 2482 | Python | 672 | [] |
@@ -62,4 +64,6 @@
 | Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2022-05-25 00:58:22+00:00 | 22 | 2 | Lua | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-05-25 02:25:39+00:00 | 397 | 32 | Python | 7 | [] |
 | FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-05-25 07:31:53+00:00 | 167 | 0 | Go | 0 | [] |
-| trhacknon/CVE-2022-1292 | None | https://github.com/trhacknon/CVE-2022-1292 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 07:08:12+00:00 | 0 | 0 | Shell | 0 | ['CVE-2022-1292'] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-25 00:33:43+00:00 | 134895 | 2 | Jupyter Notebook | 0 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-25 08:02:42+00:00 | 71986 | 45 | Go | 18 | [] |
+| Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188 | None | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 09:39:53+00:00 | 0 | 0 | Java | 0 | ['CVE-2020-0188', 'CVE-2020-0219'] |
