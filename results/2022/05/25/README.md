@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/25
     
-24 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-05-25 02:25:55+00:00 | 21678 | 7220 | JavaScript | 1672 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-25 00:28:03+00:00 | 51980 | 303 | Ruby | 88 | [] |
-| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-05-25 00:01:18+00:00 | 15677 | 330 | C | 51 | [] |
+| yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-25 02:17:57+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | ElusiveSquad/Backdoor-RCE | 404 Backdoor, allows you to execute commands remotely. | https://github.com/ElusiveSquad/Backdoor-RCE | ['rce'] | 1 | 2022-05-25 02:09:37+00:00 | 0 | 1 | PHP | 0 | [] |
 | trhacknon/CVE-2020-29597 | Csrf file upload insecure | https://github.com/trhacknon/CVE-2020-29597 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 01:33:06+00:00 | 7 | 0 | Hack | 0 | ['CVE-2020-29597'] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-v | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-v | ['exploit'] | 1 | 2022-05-25 01:07:29+00:00 | 1 | 0 | | 0 | [] |
@@ -17,10 +18,11 @@
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-25 01:29:18+00:00 | 1190 | 2 | C | 0 | [] |
 | prok3z/Wordpress-Exploits | Tools To Scan and Exploit's WordPress | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-05-25 01:13:00+00:00 | 2209 | 14 | Python | 2 | [] |
 | yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 00:57:52+00:00 | 329 | 37 | Python | 18 | ['CVE-2022-26809'] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-25 01:55:18+00:00 | 72424 | 2788 | | 350 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-25 01:55:18+00:00 | 72424 | 2788 | nan | 350 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-25 00:33:43+00:00 | 134895 | 2 | Jupyter Notebook | 0 | [] |
 | Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2022-05-25 02:25:39+00:00 | 397 | 32 | Python | 7 | [] |
 | Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2022-05-25 00:58:22+00:00 | 22 | 2 | Lua | 0 | [] |
+| pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2022-05-25 02:45:22+00:00 | 834 | 1 | Lua | 2 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2022-05-25 00:04:24+00:00 | 90 | 4 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-25 01:48:30+00:00 | 5701821 | 49 | Python | 8 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-25 02:03:16+00:00 | 2092 | 96 | HTML | 25 | [] |
@@ -28,4 +30,6 @@
 | dbudwin/react-secure-link | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | ['exploit'] | 1 | 2022-05-25 01:29:07+00:00 | 353 | 3 | TypeScript | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-25 00:04:24+00:00 | 584027 | 55 | | 21 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-25 00:47:55+00:00 | 11715 | 41 | | 21 | [] |
-| yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-25 02:17:57+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-05-25 00:01:18+00:00 | 15677 | 330 | C | 51 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-25 02:31:34+00:00 | 274194 | 159 | REXX | 16 | [] |
+| sanafathima418/Remote-Code-Execution-Engine | nan | https://github.com/sanafathima418/Remote-Code-Execution-Engine | ['remote code execution'] | 1 | 2022-05-25 02:40:04+00:00 | 0 | 0 | nan | 0 | [] |
