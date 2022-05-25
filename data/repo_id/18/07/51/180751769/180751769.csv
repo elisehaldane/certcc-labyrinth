@@ -6,7 +6,6 @@ repo_id,repo_full_name,file,file_sha1,match
 180751769,VoidSec/Exploit-Development,windows/x86/local/Bandwidth_Monitor_v.3.9/bandwidth-monitor.exe,2e93d1adab780e68b6f5e1d0fe7f051c5233538b,VU#69
 180751769,VoidSec/Exploit-Development,windows/x86/local/Bandwidth_Monitor_v.3.9/bandwidth-monitor.exe,2e93d1adab780e68b6f5e1d0fe7f051c5233538b,VU#39
 180751769,VoidSec/Exploit-Development,windows/x86/local/Bandwidth_Monitor_v.3.9/bandwidth-monitor.exe,2e93d1adab780e68b6f5e1d0fe7f051c5233538b,VU#21
-180751769,VoidSec/Exploit-Development,windows/x64/kernel/crucial_Ballistix_MOD_Utility_v.2.0.2.5/crucial_Ballistix_MOD_Utility_v.2.0.2.5_memory_dump_PoC.cpp,3fa145a278f2614381fb9f9b68bec1f691c01c19,CVE-2021-41285
 180751769,VoidSec/Exploit-Development,windows/x86/local/blaze_DVD_6.1.1.6/BlazeDVDProSetup.exe,40ec88a4d8ed9cc302f6e2a039b796d8eeee2647,VU#32
 180751769,VoidSec/Exploit-Development,windows/x86/local/blaze_DVD_6.1.1.6/BlazeDVDProSetup.exe,40ec88a4d8ed9cc302f6e2a039b796d8eeee2647,VU#62
 180751769,VoidSec/Exploit-Development,windows/x86/local/IBM_ITSM_Administrator_Client_v.5.2.0.1/IBM_TSM_v.5.2.0.1_exploit.py,438a09af5d16fcc976fb8bdb1e614387f65574ec,CVE-2020-28198
@@ -25,5 +24,6 @@ repo_id,repo_full_name,file,file_sha1,match
 180751769,VoidSec/Exploit-Development,windows/x86/local/Easy_File_Management_Web_Server_v.5.3/efmsetup.exe,a482462fdf9ef043d7ba7a34de13caee0a95e2fe,VU#60
 180751769,VoidSec/Exploit-Development,windows/x64/kernel/iolo_System_Mechanic_Pro_v.15.5.0.61/iolo_System_Mechanic_Pro_v.15.5.0.61.cpp,aabe3695efee840605b0fd238cbfa2a2b440c470,CVE-2018-5701
 180751769,VoidSec/Exploit-Development,windows/x86/local/Reaper_v.5.78/reaper578-install.exe,acea693d8630bf973528b54fe50d0abe065a2b97,VU#61
+180751769,VoidSec/Exploit-Development,windows/x64/kernel/crucial_Ballistix_MOD_Utility_v.2.0.2.5/crucial_Ballistix_MOD_Utility_v.2.0.2.5_memory_dump_PoC.cpp,b9b0fb80a84e18d6066fb32cb02015f9baf5df4e,CVE-2021-41285
 180751769,VoidSec/Exploit-Development,windows/x64/kernel/dell_dbutil_v.2.3/dell_dbutil_v.2.3.cpp,bdea167c200fb561a759fd9b86caaf590d7f03c7,CVE-2021-21551
 180751769,VoidSec/Exploit-Development,windows/x86/local/DeviceViewer_v.3.10.12.0/DeviceViewer_v.3.10.12.0_Win10.py,d5c8dd1d1e3e9872e779a2ae7cc122213bf316cc,CVE-2019-11563
