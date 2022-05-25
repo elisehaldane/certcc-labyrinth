@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-634X-PC3Q-CF4C,0.50000000,https://github.com/sbani/CVE-2022-29221-PoC,sbani/CVE-2022-29221-PoC,496102260
