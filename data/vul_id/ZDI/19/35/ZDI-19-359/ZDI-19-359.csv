@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-19-359,0.02777778,https://github.com/thezdi/PoC,thezdi/PoC,136392889
-ZDI-19-359,0.00087951,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+ZDI-19-359,0.00082713,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 ZDI-19-359,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZDI-19-359,0.00007487,https://github.com/enaqx/sploitware,enaqx/sploitware,22348337
 ZDI-19-359,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245

@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#166,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
-VU#166,0.00117647,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#166,0.00113122,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
