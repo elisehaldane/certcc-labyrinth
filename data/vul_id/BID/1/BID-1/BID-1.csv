@@ -11,6 +11,7 @@ BID-1,0.50000000,https://github.com/PizzaWhisperer/HLLVuln,PizzaWhisperer/HLLVul
 BID-1,0.50000000,https://github.com/u2009cf/spark-radar,u2009cf/spark-radar,100241368
 BID-1,0.50000000,https://github.com/chenc10/Spark-PAF-INFOCOM18,chenc10/Spark-PAF-INFOCOM18,94409958
 BID-1,0.50000000,https://github.com/HTCTeam/HTCaaS,HTCTeam/HTCaaS,37580258
+BID-1,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,496175736
 BID-1,0.33333333,https://github.com/Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188,Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188,488906861
 BID-1,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706,486566485
 BID-1,0.33333333,https://github.com/pazhanivel07/Settings_10-r33_CVE-2020-0394_02,pazhanivel07/Settings_10-r33_CVE-2020-0394_02,486051433
@@ -39,6 +40,7 @@ BID-1,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Sett
 BID-1,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch,Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch,431877684
 BID-1,0.33333333,https://github.com/thuan2172001/Analyst_Induce_Benmark,thuan2172001/Analyst_Induce_Benmark,409302721
 BID-1,0.33333333,https://github.com/tagatac/linux-CVE-2006-4814,tagatac/linux-CVE-2006-4814,24196278
+BID-1,0.25000000,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188_old-one,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188_old-one,496173492
 BID-1,0.25000000,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188,496165946
 BID-1,0.25000000,https://github.com/ossf-cve-benchmark/CVE-2018-8035,ossf-cve-benchmark/CVE-2018-8035,309492570
 BID-1,0.25000000,https://github.com/cgi-eoss/fstep,cgi-eoss/fstep,92035476
