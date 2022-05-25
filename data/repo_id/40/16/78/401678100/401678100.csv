@@ -21,6 +21,7 @@ repo_id,repo_full_name,file,file_sha1,match
 401678100,SQLab/CRAXplusplus,examples/CVE-2017-14493-dnsmasq-aslr-nx/libnss_files.so.2,9e5a75d15df46d76a3d7653f2a24d7af48ba946f,CVE-2017-14493
 401678100,SQLab/CRAXplusplus,examples/CVE-2001-1413-ncompress/exploit-7fffffffe530.bin,a066ee83e87ff53b96aadfa5e8fcb9eed3af0a79,CVE-2001-1413
 401678100,SQLab/CRAXplusplus,examples/CVE-2004-2093-rsync/exploit-7fffffffe0a0.bin,a5330122ed59f7b4527fefff82d7cacb1631c1c7,CVE-2004-2093
+401678100,SQLab/CRAXplusplus,examples/CVE-2017-14493-dnsmasq-aslr-nx/README.md,a85ae088b885acaf025732028a331ddc20e27bbe,CVE-2017-14493
 401678100,SQLab/CRAXplusplus,examples/CVE-2001-1413-ncompress/exploit-7fffffffebd0.bin,ab99e20f768546ea6792faeef67d54a9af4d5f0f,CVE-2001-1413
 401678100,SQLab/CRAXplusplus,examples/BID-8901-iwconfig/exploit_0.py,acbd9fc3a46887b09f969ad910c8c04b8915b6a5,BID-8901
 401678100,SQLab/CRAXplusplus,examples/CVE-2017-14493-dnsmasq/poc,af7f4e9553256f692927286e6851751c8e3c5d4b,CVE-2017-14493
