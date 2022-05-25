@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/25
     
-28 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -17,6 +17,7 @@
 | trhacknon/CVE-2021-27330 | Triconsole 3.75 - Reflected XSS | https://github.com/trhacknon/CVE-2021-27330 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 00:13:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-27330'] |
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-25 01:29:18+00:00 | 1190 | 2 | C | 0 | [] |
 | prok3z/Wordpress-Exploits | Tools To Scan and Exploit's WordPress | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-05-25 01:13:00+00:00 | 2209 | 14 | Python | 2 | [] |
+| WLS-SD/MSF-Installer-Termux | Install Metasploit in Android (Termux) | https://github.com/WLS-SD/MSF-Installer-Termux | ['metasploit module OR payload'] | 1 | 2022-05-25 03:53:02+00:00 | 16 | 0 | Shell | 0 | [] |
 | yuanLink/CVE-2022-26809 | None | https://github.com/yuanLink/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-05-25 00:57:52+00:00 | 329 | 37 | Python | 18 | ['CVE-2022-26809'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-25 01:55:18+00:00 | 72424 | 2788 | nan | 350 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-25 00:33:43+00:00 | 134895 | 2 | Jupyter Notebook | 0 | [] |
@@ -25,6 +26,7 @@
 | pedro-andrade-inpe/forestExploitation | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | ['exploit'] | 1 | 2022-05-25 02:45:22+00:00 | 834 | 1 | Lua | 2 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2022-05-25 00:04:24+00:00 | 90 | 4 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-25 01:48:30+00:00 | 5701821 | 49 | Python | 8 | [] |
+| SQLab/CRAXplusplus | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-05-25 03:40:12+00:00 | 4218 | 48 | C++ | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-25 02:03:16+00:00 | 2092 | 96 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-25 02:00:23+00:00 | 23362 | 3 | Python | 0 | [] |
 | dbudwin/react-secure-link | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | ['exploit'] | 1 | 2022-05-25 01:29:07+00:00 | 353 | 3 | TypeScript | 1 | [] |
