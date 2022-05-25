@@ -32,7 +32,7 @@ repo_id,repo_full_name,file,file_sha1,match
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24762/README.md,3f704d734fcd345c7cc919b56c1aa9a9f0be83df,CVE-2021-24762
 493832027,prok3z/Wordpress-Exploits,CVE-2014-9473/README.md,429df0ce56dd752b2946c057d9b1847083aef0d0,CVE-2014-9473
 493832027,prok3z/Wordpress-Exploits,wp-file-manager-CVE-2020-25213/wp-file-manager-exploit.sh,46a05be76959b89e62b536ca12aa3f662b869036,CVE-2020-25213
-493832027,prok3z/Wordpress-Exploits,CVE-2014-7969/README.md,5d0556393d9b6807eefc068d1328cc631a5ea31e,CVE-2014-7969
+493832027,prok3z/Wordpress-Exploits,CVE-2014-7969/README.md,4e3ed40e7d0cad1031f1972ff709cd196d46c46c,CVE-2014-7969
 493832027,prok3z/Wordpress-Exploits,CVE-2016-10033/rce.sh,5d0f7e5b9166c500607bcdcbc47b24920790c6a6,CVE-2016-10033
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/exploit.py,6e082723f171eabf468b546f4ab6c4cc3f541e52,CVE-2020-12800
 493832027,prok3z/Wordpress-Exploits,CVE-2021-25094-tatsu-preauth-rce/exploit-rce.py,734a0048213504c4f1cd8a505d99fbd651e44792,CVE-2021-25094
