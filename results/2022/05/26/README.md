@@ -1,22 +1,23 @@
 
 # Summary for results/2022/05/26
     
-42 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-26 01:47:22+00:00 | 3268 | 2677 | PowerShell | 753 | [] |
-| webcindy/metasploit | None | https://github.com/webcindy/metasploit | ['metasploit module OR payload'] | 1 | 2022-05-26 02:41:13+00:00 | 0 | 0 | Ruby | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 01:43:20+00:00 | 70488 | 2788 | | 351 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-26 03:42:50+00:00 | 32 | 15 | nan | 4 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-26 01:42:29+00:00 | 1607 | 6 | Rust | 0 | [] |
+| PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-26 06:37:07+00:00 | 22 | 0 | C | 0 | [] |
 | burpheart/ping2rce | nan | https://github.com/burpheart/ping2rce | ['rce'] | 1 | 2022-05-26 04:45:54+00:00 | 0 | 0 | Dockerfile | 0 | [] |
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-26 00:32:02+00:00 | 1292 | 2 | C | 1 | [] |
 | TheRealCodingGuy/TikTok-ViewBot | A new tiktok viewbot able to send like 100k views in 30 minutes. it uses a new tiktok exploit that this is possible | https://github.com/TheRealCodingGuy/TikTok-ViewBot | ['exploit'] | 1 | 2022-05-26 04:20:35+00:00 | 112 | 2 | | 0 | [] |
-| yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | nan | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-26 04:41:14+00:00 | 37732 | 0 | Java | 0 | ['CVE-2021-44228'] |
+| yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-26 04:41:14+00:00 | 37732 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | th1l1n4/SNP-Project | Microsoft MSHTML remote code execution vulnerability | https://github.com/th1l1n4/SNP-Project | ['remote code execution'] | 1 | 2022-05-26 03:45:54+00:00 | 0 | 0 | nan | 0 | [] |
 | jusonalien/DefiAttackPocBox | nan | https://github.com/jusonalien/DefiAttackPocBox | ['attack poc'] | 1 | 2022-05-26 04:33:50+00:00 | 850 | 0 | Solidity | 0 | [] |
+| webcindy/metasploit | None | https://github.com/webcindy/metasploit | ['metasploit module OR payload'] | 1 | 2022-05-26 02:41:13+00:00 | 0 | 0 | Ruby | 0 | [] |
 | IxvIIxvI/Exploit | N9 | https://github.com/IxvIIxvI/Exploit | ['exploit'] | 1 | 2022-05-26 00:10:53+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-26 05:03:22+00:00 | 235034 | 7144 | C | 1906 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-y | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-y | ['exploit'] | 1 | 2022-05-26 00:26:34+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-y | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-y | ['exploit'] | 1 | 2022-05-26 00:27:23+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | ['exploit'] | 1 | 2022-05-26 00:28:18+00:00 | 0 | 0 | | 0 | [] |
@@ -26,8 +27,8 @@
 | AndresFDev/PS4Exploit900 | None | https://github.com/AndresFDev/PS4Exploit900 | ['exploit'] | 1 | 2022-05-26 03:35:58+00:00 | 7922 | 0 | JavaScript | 0 | [] |
 | trhacknon/CVE-2019-15642 | None | https://github.com/trhacknon/CVE-2019-15642 | ['cve-2 OR cve_2'] | 1 | 2022-05-26 04:30:23+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-15642'] |
 | qikizh/EE-GAN | Explore and then Exploit: A Fine-grained Hierarchical Network for Text-to-Image Synthesis | https://github.com/qikizh/EE-GAN | ['exploit'] | 1 | 2022-05-26 03:18:22+00:00 | 159 | 0 | Python | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 01:43:20+00:00 | 70488 | 2788 | | 351 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-26 00:31:49+00:00 | 138265 | 2 | Jupyter Notebook | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-26 05:03:22+00:00 | 235034 | 7144 | C | 1906 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-05-26 05:45:00+00:00 | 23439 | 0 | CSS | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-26 04:39:41+00:00 | 5519 | 3272 | Python | 694 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-26 00:25:29+00:00 | 53524 | 304 | Ruby | 88 | [] |
@@ -36,7 +37,9 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-26 02:31:11+00:00 | 280945 | 159 | REXX | 16 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-26 00:47:56+00:00 | 12555 | 41 | | 21 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-26 00:04:35+00:00 | 575437 | 55 | | 21 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-26 06:18:27+00:00 | 42102 | 29 | Python | 6 | [] |
 | dbudwin/react-secure-link | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | ['exploit'] | 1 | 2022-05-26 01:57:47+00:00 | 353 | 3 | TypeScript | 1 | [] |
+| amirzand2002/Semantic-Based-K-Means | Try to implement Semantic-Based K-Means Clustering for Microblogs Exploiting Folksonomy paper by Jee-Uk Heu | https://github.com/amirzand2002/Semantic-Based-K-Means | ['exploit'] | 1 | 2022-05-26 06:46:44+00:00 | 44 | 2 | Python | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 05:46:51+00:00 | 692489 | 114 | | 27 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-26 04:53:07+00:00 | 185285 | 409 | Python | 118 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 01:29:57+00:00 | 6793 | 335 | Python | 72 | [] |
