@@ -1,20 +1,22 @@
 
 # Summary for results/2022/05/26
     
-45 records found after deduplication
+48 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-26 01:47:22+00:00 | 3268 | 2677 | PowerShell | 753 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 01:43:20+00:00 | 70488 | 2788 | | 351 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-26 05:03:22+00:00 | 235034 | 7144 | C | 1906 | [] |
+| qikizh/EE-GAN | Explore and then Exploit: A Fine-grained Hierarchical Network for Text-to-Image Synthesis | https://github.com/qikizh/EE-GAN | ['exploit'] | 1 | 2022-05-26 03:18:22+00:00 | 159 | 0 | Python | 0 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-26 03:42:50+00:00 | 32 | 15 | nan | 4 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-26 01:42:29+00:00 | 1607 | 6 | Rust | 0 | [] |
 | PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-26 06:37:07+00:00 | 22 | 0 | C | 0 | [] |
-| burpheart/ping2rce | nan | https://github.com/burpheart/ping2rce | ['rce'] | 1 | 2022-05-26 04:45:54+00:00 | 0 | 0 | Dockerfile | 0 | [] |
+| burpheart/ping2rce | None | https://github.com/burpheart/ping2rce | ['rce'] | 1 | 2022-05-26 04:45:54+00:00 | 0 | 0 | Dockerfile | 0 | [] |
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-26 00:32:02+00:00 | 1292 | 2 | C | 1 | [] |
 | TheRealCodingGuy/TikTok-ViewBot | A new tiktok viewbot able to send like 100k views in 30 minutes. it uses a new tiktok exploit that this is possible | https://github.com/TheRealCodingGuy/TikTok-ViewBot | ['exploit'] | 1 | 2022-05-26 04:20:35+00:00 | 112 | 2 | | 0 | [] |
 | yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-26 04:41:14+00:00 | 37732 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | th1l1n4/SNP-Project | Microsoft MSHTML remote code execution vulnerability | https://github.com/th1l1n4/SNP-Project | ['remote code execution'] | 1 | 2022-05-26 03:45:54+00:00 | 0 | 0 | nan | 0 | [] |
+| lucadibello/WeaponizedPing | 🔫 A weaponized ping implementation that includes concealed data in the packet payload. | https://github.com/lucadibello/WeaponizedPing | ['exploit'] | 1 | 2022-05-26 07:20:54+00:00 | 21 | 0 | Python | 0 | [] |
 | jusonalien/DefiAttackPocBox | nan | https://github.com/jusonalien/DefiAttackPocBox | ['attack poc'] | 1 | 2022-05-26 04:33:50+00:00 | 850 | 0 | Solidity | 0 | [] |
 | webcindy/metasploit | None | https://github.com/webcindy/metasploit | ['metasploit module OR payload'] | 1 | 2022-05-26 02:41:13+00:00 | 0 | 0 | Ruby | 0 | [] |
 | IxvIIxvI/Exploit | N9 | https://github.com/IxvIIxvI/Exploit | ['exploit'] | 1 | 2022-05-26 00:10:53+00:00 | 0 | 0 | | 0 | [] |
@@ -26,10 +28,10 @@
 | q77190858/CVE-2021-3156 | sudo提权漏洞CVE-2021-3156复现代码 | https://github.com/q77190858/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2022-05-26 02:49:56+00:00 | 0 | 0 | C | 0 | ['CVE-2021-3156'] |
 | AndresFDev/PS4Exploit900 | None | https://github.com/AndresFDev/PS4Exploit900 | ['exploit'] | 1 | 2022-05-26 03:35:58+00:00 | 7922 | 0 | JavaScript | 0 | [] |
 | trhacknon/CVE-2019-15642 | None | https://github.com/trhacknon/CVE-2019-15642 | ['cve-2 OR cve_2'] | 1 | 2022-05-26 04:30:23+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-15642'] |
-| qikizh/EE-GAN | Explore and then Exploit: A Fine-grained Hierarchical Network for Text-to-Image Synthesis | https://github.com/qikizh/EE-GAN | ['exploit'] | 1 | 2022-05-26 03:18:22+00:00 | 159 | 0 | Python | 0 | [] |
+| 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-05-26 07:37:08+00:00 | 82 | 149 | | 10 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 01:43:20+00:00 | 70488 | 2788 | | 351 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-26 00:31:49+00:00 | 138265 | 2 | Jupyter Notebook | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-26 05:03:22+00:00 | 235034 | 7144 | C | 1906 | [] |
-| alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-05-26 05:45:00+00:00 | 23439 | 0 | CSS | 0 | [] |
+| raidcraft/rcelevator | Complex elevator plugin to move players across multiple Floors in huge buildings like normal elevators | https://github.com/raidcraft/rcelevator | ['rce'] | 1 | 2022-05-26 07:06:55+00:00 | 227 | 0 | Java | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-26 04:39:41+00:00 | 5519 | 3272 | Python | 694 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-26 00:25:29+00:00 | 53524 | 304 | Ruby | 88 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-05-26 05:27:53+00:00 | 3672 | 2486 | Python | 672 | [] |
@@ -40,6 +42,7 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-05-26 06:18:27+00:00 | 42102 | 29 | Python | 6 | [] |
 | dbudwin/react-secure-link | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | ['exploit'] | 1 | 2022-05-26 01:57:47+00:00 | 353 | 3 | TypeScript | 1 | [] |
 | amirzand2002/Semantic-Based-K-Means | Try to implement Semantic-Based K-Means Clustering for Microblogs Exploiting Folksonomy paper by Jee-Uk Heu | https://github.com/amirzand2002/Semantic-Based-K-Means | ['exploit'] | 1 | 2022-05-26 06:46:44+00:00 | 44 | 2 | Python | 0 | [] |
+| alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-05-26 05:45:00+00:00 | 23439 | 0 | CSS | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 05:46:51+00:00 | 692489 | 114 | | 27 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-26 04:53:07+00:00 | 185285 | 409 | Python | 118 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 01:29:57+00:00 | 6793 | 335 | Python | 72 | [] |
