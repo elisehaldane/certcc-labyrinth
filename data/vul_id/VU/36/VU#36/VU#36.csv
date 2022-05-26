@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#36,1.00000000,https://github.com/HongPeize/CMU-24678-CVE,HongPeize/CMU-24678-CVE,455390839
 VU#36,1.00000000,https://github.com/alb-i986/documents-versioner,alb-i986/documents-versioner,15240867
+VU#36,0.50000000,https://github.com/burpheart/ping2rce,burpheart/ping2rce,493664890
 VU#36,0.50000000,https://github.com/dora2-iOS/p0insettia,dora2-iOS/p0insettia,427806749
 VU#36,0.33333333,https://github.com/XzreyaX/NefesSploit,XzreyaX/NefesSploit,486716137
 VU#36,0.25000000,https://github.com/APresellingservices/hervus-exploit,APresellingservices/hervus-exploit,441324209
