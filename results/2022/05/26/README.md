@@ -1,25 +1,25 @@
 
 # Summary for results/2022/05/26
     
-54 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-05-26 01:47:22+00:00 | 3268 | 2677 | PowerShell | 753 | [] |
-| lucadibello/WeaponizedPing | 🔫 A weaponized ping implementation that includes concealed data in the packet payload. | https://github.com/lucadibello/WeaponizedPing | ['exploit'] | 1 | 2022-05-26 07:20:54+00:00 | 21 | 0 | Python | 0 | [] |
-| qikizh/EE-GAN | Explore and then Exploit: A Fine-grained Hierarchical Network for Text-to-Image Synthesis | https://github.com/qikizh/EE-GAN | ['exploit'] | 1 | 2022-05-26 03:18:22+00:00 | 159 | 0 | Python | 0 | [] |
+| 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-05-26 07:37:08+00:00 | 82 | 149 | | 10 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-26 03:42:50+00:00 | 32 | 15 | | 4 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-05-26 01:42:29+00:00 | 1607 | 6 | Rust | 0 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-05-26 08:34:28+00:00 | 25 | 0 | Python | 0 | [] |
 | PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-26 06:37:07+00:00 | 22 | 0 | C | 0 | [] |
 | Crypt00o/0x86-assembely-shellcodeing | exploitation with assembly shellcodeing and i write a tool to out shellcodeing | https://github.com/Crypt00o/0x86-assembely-shellcodeing | ['exploit', 'shellcode'] | 2 | 2022-05-26 08:49:28+00:00 | 15 | 4 | Shell | 0 | [] |
 | burpheart/ping2rce | None | https://github.com/burpheart/ping2rce | ['rce'] | 1 | 2022-05-26 04:45:54+00:00 | 0 | 0 | Dockerfile | 0 | [] |
+| r1skkam/TryHackMe-Network-Services-2 | Enumerating and Exploiting More Common Network Services & Misconfigurations | https://github.com/r1skkam/TryHackMe-Network-Services-2 | ['exploit'] | 1 | 2022-05-26 09:50:15+00:00 | 1 | 0 | | 0 | [] |
 | RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-26 00:32:02+00:00 | 1292 | 2 | C | 1 | [] |
 | TheRealCodingGuy/TikTok-ViewBot | A new tiktok viewbot able to send like 100k views in 30 minutes. it uses a new tiktok exploit that this is possible | https://github.com/TheRealCodingGuy/TikTok-ViewBot | ['exploit'] | 1 | 2022-05-26 04:20:35+00:00 | 112 | 2 | | 0 | [] |
 | yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | None | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-26 04:41:14+00:00 | 37732 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | th1l1n4/SNP-Project | Microsoft MSHTML remote code execution vulnerability | https://github.com/th1l1n4/SNP-Project | ['remote code execution'] | 1 | 2022-05-26 03:45:54+00:00 | 0 | 0 | | 0 | [] |
+| lucadibello/WeaponizedPing | 🔫 A weaponized ping implementation that includes concealed data in the packet payload. | https://github.com/lucadibello/WeaponizedPing | ['exploit'] | 1 | 2022-05-26 07:20:54+00:00 | 21 | 0 | Python | 0 | [] |
 | jusonalien/DefiAttackPocBox | nan | https://github.com/jusonalien/DefiAttackPocBox | ['attack poc'] | 1 | 2022-05-26 04:33:50+00:00 | 850 | 0 | Solidity | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-26 05:03:22+00:00 | 235034 | 7144 | C | 1906 | [] |
 | maddydevgits/rcew-hackathon-2022 | Official Repo of Hackathon on ML, AWS, Blockchain | https://github.com/maddydevgits/rcew-hackathon-2022 | ['rce'] | 1 | 2022-05-26 08:49:18+00:00 | 0 | 0 | | 0 | [] |
 | webcindy/metasploit | None | https://github.com/webcindy/metasploit | ['metasploit module OR payload'] | 1 | 2022-05-26 02:41:13+00:00 | 0 | 0 | Ruby | 0 | [] |
 | IxvIIxvI/Exploit | N9 | https://github.com/IxvIIxvI/Exploit | ['exploit'] | 1 | 2022-05-26 00:10:53+00:00 | 0 | 0 | | 0 | [] |
@@ -31,10 +31,11 @@
 | q77190858/CVE-2021-3156 | sudo提权漏洞CVE-2021-3156复现代码 | https://github.com/q77190858/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2022-05-26 02:49:56+00:00 | 0 | 0 | C | 0 | ['CVE-2021-3156'] |
 | AndresFDev/PS4Exploit900 | None | https://github.com/AndresFDev/PS4Exploit900 | ['exploit'] | 1 | 2022-05-26 03:35:58+00:00 | 7922 | 0 | JavaScript | 0 | [] |
 | trhacknon/CVE-2019-15642 | None | https://github.com/trhacknon/CVE-2019-15642 | ['cve-2 OR cve_2'] | 1 | 2022-05-26 04:30:23+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-15642'] |
-| 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-05-26 07:37:08+00:00 | 82 | 149 | | 10 | [] |
+| trhacknon/CVE-2019-15107 | None | https://github.com/trhacknon/CVE-2019-15107 | ['cve-2 OR cve_2'] | 1 | 2022-05-26 04:57:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-15107'] |
+| qikizh/EE-GAN | Explore and then Exploit: A Fine-grained Hierarchical Network for Text-to-Image Synthesis | https://github.com/qikizh/EE-GAN | ['exploit'] | 1 | 2022-05-26 03:18:22+00:00 | 159 | 0 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-26 01:43:20+00:00 | 70488 | 2788 | | 351 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-05-26 05:03:22+00:00 | 235034 | 7144 | C | 1906 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-26 00:31:49+00:00 | 138265 | 2 | Jupyter Notebook | 0 | [] |
-| lanhaifeng/jndi-exploit | None | https://github.com/lanhaifeng/jndi-exploit | ['exploit'] | 1 | 2022-05-26 08:41:35+00:00 | 6 | 0 | Java | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-26 04:39:41+00:00 | 5519 | 3272 | Python | 694 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-26 00:25:29+00:00 | 53524 | 304 | Ruby | 88 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-05-26 05:27:53+00:00 | 3672 | 2486 | Python | 672 | [] |
@@ -56,6 +57,8 @@
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-05-26 00:11:50+00:00 | 409 | 0 | Lua | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-26 01:51:16+00:00 | 5747707 | 49 | Python | 8 | [] |
 | walnutsecurity/cve-2021-41773 | cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-05-26 08:34:39+00:00 | 35 | 0 | Python | 1 | ['CVE-2021-41773'] |
+| walnutsecurity/cve-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/cve-2021-42013 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-05-26 09:37:00+00:00 | 27 | 4 | Python | 6 | ['CVE-2021-42013'] |
 | ca3tie1/ExploitDepository | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | ['exploit'] | 1 | 2022-05-26 02:39:48+00:00 | 19330 | 50 | Python | 4 | [] |
 | alanlengkoan/SPK-Pestisida-Membahas-Hama | Sistem Pendukung Keputusan Penentuan Pestisida Membasmi Hama Pada Tanaman Kelapa Sawit Dengan Menggunakan Metode SMARTER (Simple Multi Attribute Rating Technique Exploiting Ranks) | https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama | ['exploit'] | 1 | 2022-05-26 05:45:00+00:00 | 23439 | 0 | CSS | 0 | [] |
-| trhacknon/CVE-2019-15107 | None | https://github.com/trhacknon/CVE-2019-15107 | ['cve-2 OR cve_2'] | 1 | 2022-05-26 04:57:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-15107'] |
+| lanhaifeng/jndi-exploit | None | https://github.com/lanhaifeng/jndi-exploit | ['exploit'] | 1 | 2022-05-26 08:41:35+00:00 | 6 | 0 | Java | 0 | [] |
+| oncrack/FiveM-Exploitation-Library | Open source OSINT library/tool. | https://github.com/oncrack/FiveM-Exploitation-Library | ['exploit'] | 1 | 2022-05-26 09:45:49+00:00 | 0 | 0 | Python | 0 | [] |
