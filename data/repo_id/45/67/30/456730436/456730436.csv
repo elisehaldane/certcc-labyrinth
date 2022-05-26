@@ -73,6 +73,6 @@ repo_id,repo_full_name,file,file_sha1,match
 456730436,Threekiii/Awesome-Redteam,cheatsheets/攻防渗透常用命令速查.md,dacda83f39a2437cb1c1961bade12d3255815d77,CVE-2018-8120
 456730436,Threekiii/Awesome-Redteam,cheatsheets/攻防渗透常用命令速查.md,dacda83f39a2437cb1c1961bade12d3255815d77,CVE-2019-0803
 456730436,Threekiii/Awesome-Redteam,cheatsheets/攻防渗透常用命令速查.md,dacda83f39a2437cb1c1961bade12d3255815d77,MS17-010
+456730436,Threekiii/Awesome-Redteam,README.md,e2423f8a4a8a247af3b6bdf7459915570ddea6ea,CVE-2021-44228
 456730436,Threekiii/Awesome-Redteam,cheatsheets/重要端口及服务速查.md,e827b9aa6a78df316813d3db0df8029b1f1da821,MS08-067
 456730436,Threekiii/Awesome-Redteam,cheatsheets/重要端口及服务速查.md,e827b9aa6a78df316813d3db0df8029b1f1da821,MS17-010
-456730436,Threekiii/Awesome-Redteam,README.md,f2d91a2d9d57ae72bcc7998a82194c8009a9efec,CVE-2021-44228
