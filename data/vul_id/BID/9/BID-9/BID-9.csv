@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-9,1.00000000,https://github.com/c4b3rw0lf/WebSploit2018,c4b3rw0lf/WebSploit2018,138879580
 BID-9,0.50000000,https://github.com/stevefan1999-personal/svencoop_fastdl,stevefan1999-personal/svencoop_fastdl,208606339
 BID-9,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
-BID-9,0.00001743,https://github.com/trickest/cve,trickest/cve,454015416
+BID-9,0.00001742,https://github.com/trickest/cve,trickest/cve,454015416
 BID-9,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 BID-9,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 BID-9,0.00000629,https://github.com/Vasileios-Mavroeidis/semantic-stix-vulnerability,Vasileios-Mavroeidis/semantic-stix-vulnerability,392265661
