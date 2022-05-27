@@ -1,24 +1,30 @@
 
 # Summary for results/2022/05/27
     
-28 records found after deduplication
+34 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-05-27 05:16:45+00:00 | 5557 | 3272 | Python | 695 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-27 00:26:41+00:00 | 55069 | 304 | Ruby | 88 | [] |
-| zeroday7/zeroday7.github.io | None | https://github.com/zeroday7/zeroday7.github.io | ['zeroday'] | 1 | 2022-05-27 01:38:32+00:00 | 0 | 0 | HTML | 0 | [] |
-| scaery/gen-beacon | Windows Shellcode Loader written in Golang to bypass AV/EDR | https://github.com/scaery/gen-beacon | ['shellcode'] | 1 | 2022-05-27 01:08:48+00:00 | 6 | 0 | Go | 0 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-m | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-m | ['exploit'] | 1 | 2022-05-27 00:44:34+00:00 | 1 | 0 | | 0 | [] |
-| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-m | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-m | ['exploit'] | 1 | 2022-05-27 00:43:49+00:00 | 1 | 0 | | 0 | [] |
-| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | ['exploit'] | 1 | 2022-05-27 00:42:31+00:00 | 1 | 0 | | 0 | [] |
-| prok3z/Wordpress-Exploits | Tools To Scan and Exploit's WordPress | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-05-27 01:50:58+00:00 | 2211 | 14 | Python | 2 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-05-27 04:53:07+00:00 | 34472 | 116 | C++ | 39 | [] |
-| alvin-tosh/Cybersec101 | This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Cybersec101 | ['exploit'] | 1 | 2022-05-27 05:48:07+00:00 | 93 | 1 | Python | 1 | [] |
-| alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-05-27 03:34:13+00:00 | 19 | 0 | Lua | 0 | [] |
+| 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-05-27 06:12:05+00:00 | 96 | 150 | | 10 | [] |
 | ROOT44x/R4-V2-Roblox-Exploit | Roblox Exploit Multi Api wearedevs,easyexploit | https://github.com/ROOT44x/R4-V2-Roblox-Exploit | ['exploit'] | 1 | 2022-05-27 01:35:22+00:00 | 9792 | 0 | | 0 | [] |
+| alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-05-27 03:34:13+00:00 | 19 | 0 | Lua | 0 | [] |
+| alvin-tosh/Cybersec101 | This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Cybersec101 | ['exploit'] | 1 | 2022-05-27 05:48:07+00:00 | 93 | 1 | Python | 1 | [] |
+| Loddy-02/xploit | Metasploit Generator | https://github.com/Loddy-02/xploit | ['metasploit module OR payload'] | 1 | 2022-05-27 06:36:15+00:00 | 3618 | 0 | Shell | 0 | [] |
+| user16-et/cve-2021-21972_PoC | None | https://github.com/user16-et/cve-2021-21972_PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-27 06:52:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-21972'] |
+| prok3z/Wordpress-Exploits | Tools To Scan and Exploit's WordPress | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-05-27 01:50:58+00:00 | 2211 | 14 | Python | 2 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-27 00:26:41+00:00 | 55069 | 304 | Ruby | 88 | [] |
+| RGLoader/FakeAnim | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | ['exploit'] | 1 | 2022-05-27 06:05:23+00:00 | 1404 | 2 | C | 1 | [] |
+| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | ['exploit'] | 1 | 2022-05-27 00:42:31+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-m | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-m | ['exploit'] | 1 | 2022-05-27 00:43:49+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-m | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-m | ['exploit'] | 1 | 2022-05-27 00:44:34+00:00 | 1 | 0 | | 0 | [] |
+| scaery/gen-beacon | Windows Shellcode Loader written in Golang to bypass AV/EDR | https://github.com/scaery/gen-beacon | ['shellcode'] | 1 | 2022-05-27 01:08:48+00:00 | 6 | 0 | Go | 0 | [] |
+| zeroday7/zeroday7.github.io | None | https://github.com/zeroday7/zeroday7.github.io | ['zeroday'] | 1 | 2022-05-27 01:38:32+00:00 | 0 | 0 | HTML | 0 | [] |
 | ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | None | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | ['exploit'] | 1 | 2022-05-27 01:34:19+00:00 | 37 | 0 | | 0 | [] |
+| twseptian/python-exploit-scripts | This is a repository made by the author to improve his skill in python exploitation | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-05-27 06:16:40+00:00 | 1389 | 1 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-27 01:43:02+00:00 | 74859 | 2795 | | 352 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-27 06:54:40+00:00 | 71988 | 45 | Go | 18 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-05-27 00:35:37+00:00 | 140490 | 2 | Jupyter Notebook | 0 | [] |
 | Nwqda/Sashimi-Evil-OctoBot-Tentacle | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | ['exploit', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 5 | 2022-05-27 00:52:45+00:00 | 10 | 0 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-27 01:46:01+00:00 | 5771490 | 49 | Python | 8 | [] |
