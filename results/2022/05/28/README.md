@@ -1,12 +1,13 @@
 
 # Summary for results/2022/05/28
     
-30 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|---------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-28 00:26:21+00:00 | 55070 | 305 | Ruby | 88 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-28 02:31:29+00:00 | 286728 | 159 | REXX | 16 | [] |
+| trhacknon/AnonStress-Stored-XSS-Exploit | None | https://github.com/trhacknon/AnonStress-Stored-XSS-Exploit | ['exploit'] | 1 | 2022-05-28 03:58:37+00:00 | 0 | 0 | Python | 0 | [] |
 | Pac0D/SA-MP-Exploit-1900---2022 | Attack tool to test the security of your server, or your Anti Cheat | https://github.com/Pac0D/SA-MP-Exploit-1900---2022 | ['exploit'] | 1 | 2022-05-28 03:31:23+00:00 | 0 | 1 | Python | 0 | [] |
 | MFernstrom/Offensive-Pascal-CVE-2010-2075 | FreePascal implementation of the UnrealIRCD CVE-2010-2075 | https://github.com/MFernstrom/Offensive-Pascal-CVE-2010-2075 | ['cve-2 OR cve_2'] | 1 | 2022-05-28 03:41:56+00:00 | 6 | 0 | Pascal | 0 | ['CVE-2010-2075'] |
 | MzzdToT/CNVD-2020-67113 | 零视技术(上海)有限公司H5S CONSOLE未授权访问漏洞批量扫描poc | https://github.com/MzzdToT/CNVD-2020-67113 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-05-28 03:05:57+00:00 | 373 | 0 | Python | 0 | ['CNVD-2020-67113'] |
@@ -30,8 +31,9 @@
 | Shenlong616/RadiXX11-RCE | None | https://github.com/Shenlong616/RadiXX11-RCE | ['rce'] | 1 | 2022-05-28 01:51:10+00:00 | 51320 | 0 | | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-28 01:55:51+00:00 | 2341 | 101 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-28 01:52:32+00:00 | 20470 | 3 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-28 04:53:32+00:00 | 199932 | 410 | Python | 119 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-05-28 01:21:03+00:00 | 81588 | 1239 | Go | 195 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-28 02:03:53+00:00 | 565940 | 55 | | 21 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-28 02:17:45+00:00 | 739 | 285 | C | 15 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-28 00:47:59+00:00 | 13716 | 41 | | 21 | [] |
-| trhacknon/AnonStress-Stored-XSS-Exploit | None | https://github.com/trhacknon/AnonStress-Stored-XSS-Exploit | ['exploit'] | 1 | 2022-05-28 03:58:37+00:00 | 0 | 0 | Python | 0 | [] |
+| kuznyJan1972/CVE-2022-23121-MASS-RCE | None | https://github.com/kuznyJan1972/CVE-2022-23121-MASS-RCE | ['cve-2 OR cve_2'] | 1 | 2022-05-28 05:48:36+00:00 | 0 | 0 | | 0 | ['CVE-2022-23121'] |
