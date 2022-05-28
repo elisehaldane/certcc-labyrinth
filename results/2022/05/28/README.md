@@ -1,0 +1,28 @@
+
+# Summary for results/2022/05/28
+    
+21 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-28 00:26:21+00:00 | 55070 | 305 | Ruby | 88 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-28 01:39:48+00:00 | 78911 | 2806 | | 353 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-l | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-l | ['exploit'] | 1 | 2022-05-28 00:40:46+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-l | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-l | ['exploit'] | 1 | 2022-05-28 00:40:08+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | ['exploit'] | 1 | 2022-05-28 00:39:11+00:00 | 1 | 0 | | 0 | [] |
+| MFernstrom/OffensivePascal-CVE-2011-2523 | FreePascal implementation of CVE-2011-2523 | https://github.com/MFernstrom/OffensivePascal-CVE-2011-2523 | ['cve-2 OR cve_2'] | 1 | 2022-05-28 00:24:53+00:00 | 7 | 0 | Pascal | 0 | ['CVE-2011-2523'] |
+| sonersec/Exploiting-On-chip-Voltage-Regulators-for-Leakage-Reduction-in-Hardware-Masking | To improve the reproductivity | https://github.com/sonersec/Exploiting-On-chip-Voltage-Regulators-for-Leakage-Reduction-in-Hardware-Masking | ['exploit'] | 1 | 2022-05-28 00:21:51+00:00 | 67 | 0 | HTML | 0 | [] |
+| ccreater222/slime | Slime是一个组合众多优秀安全工具的漏扫软件，它将目光集中在安全工具的组合上，而不是自己实现漏扫的某一流程。 | https://github.com/ccreater222/slime | ['vulnerability poc'] | 1 | 2022-05-28 00:11:49+00:00 | 587 | 5 | Python | 1 | [] |
+| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-05-28 01:45:02+00:00 | 34 | 0 | Nix | 0 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-05-28 02:07:37+00:00 | 3213 | 343 | Go | 64 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-28 00:50:52+00:00 | 72041 | 45 | Go | 18 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-28 00:47:59+00:00 | 13716 | 41 | | 21 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-28 01:42:07+00:00 | 5837420 | 49 | Python | 8 | [] |
+| MichaelSodeke/eng-cmp-prj--network-security | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | ['exploit'] | 1 | 2022-05-28 00:01:19+00:00 | 69 | 0 | | 0 | [] |
+| Shenlong616/RadiXX11-RCE | None | https://github.com/Shenlong616/RadiXX11-RCE | ['rce'] | 1 | 2022-05-28 01:51:10+00:00 | 51320 | 0 | | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-28 01:55:51+00:00 | 2341 | 101 | HTML | 25 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-28 01:52:32+00:00 | 20470 | 3 | Python | 0 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-05-28 01:21:03+00:00 | 81588 | 1239 | Go | 195 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-28 02:03:53+00:00 | 565940 | 55 | | 21 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-28 02:17:45+00:00 | 739 | 285 | C | 15 | [] |
+| RobloxArchiver/G.E.C.K | Library for Roblox Exploiting meant to make Instance Creation easier! | https://github.com/RobloxArchiver/G.E.C.K | ['exploit'] | 1 | 2022-05-28 02:16:27+00:00 | 10 | 0 | Lua | 0 | [] |
