@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2017-5442,0.00117233,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2017-5442,0.00117096,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2017-5442,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZSL-2017-5442,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410
 ZSL-2017-5442,0.00005249,https://github.com/Buzzkillhardball667/exploit-database,Buzzkillhardball667/exploit-database,120898188
