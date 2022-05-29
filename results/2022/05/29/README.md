@@ -1,7 +1,7 @@
 
 # Summary for results/2022/05/29
     
-22 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -16,14 +16,18 @@
 | ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-05-29 01:04:59+00:00 | 151 | 10 | Java | 0 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-05-29 00:54:55+00:00 | 317 | 7 | Python | 1 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-29 01:09:35+00:00 | 317 | 0 | | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-29 01:40:28+00:00 | 70598 | 2816 | nan | 355 | [] |
+| Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-05-29 03:25:16+00:00 | 134619 | 1 | HTML | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-29 01:40:28+00:00 | 70598 | 2816 | | 355 | [] |
+| Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2022-05-29 03:10:45+00:00 | 24 | 2 | Lua | 0 | [] |
 | BinaryDex/DexHubWeb | None | https://github.com/BinaryDex/DexHubWeb | ['exploit'] | 1 | 2022-05-29 01:43:55+00:00 | 970 | 0 | CSS | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-29 01:53:17+00:00 | 5825149 | 49 | Python | 8 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-29 02:18:22+00:00 | 2343 | 101 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-29 02:17:24+00:00 | 22164 | 3 | Python | 0 | [] |
 | BinaryDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | ['exploit'] | 1 | 2022-05-29 01:48:52+00:00 | 2845 | 5 | Lua | 3 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-29 04:00:03+00:00 | 203915 | 412 | Python | 119 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-29 02:03:57+00:00 | 576063 | 55 | | 21 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-29 00:06:19+00:00 | 769 | 286 | C | 16 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-29 00:47:59+00:00 | 14109 | 42 | | 21 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-29 02:31:10+00:00 | 286845 | 159 | REXX | 16 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2022-05-29 00:31:39+00:00 | 191745 | 27 | C++ | 60 | [] |
 | Wrong-pixel/SpringCloudFunctionRCE_EXP | None | https://github.com/Wrong-pixel/SpringCloudFunctionRCE_EXP | ['rce'] | 1 | 2022-05-29 01:09:09+00:00 | 17689 | 0 | Python | 0 | [] |
