@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/29
     
-26 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | hugsy/cemu | Cheap EMUlator: lightweight multi-architecture assembly playground | https://github.com/hugsy/cemu | ['shellcode'] | 1 | 2022-05-29 01:26:01+00:00 | 524 | 780 | Python | 102 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-29 00:24:56+00:00 | 55071 | 305 | Ruby | 88 | [] |
+| Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2022-05-29 03:10:45+00:00 | 24 | 2 | Lua | 0 | [] |
 | Wrong-pixel/CVE-2022-22947-exp | nan | https://github.com/Wrong-pixel/CVE-2022-22947-exp | ['cve-2 OR cve_2'] | 1 | 2022-05-29 01:08:10+00:00 | 7 | 0 | Python | 0 | ['CVE-2022-22947'] |
 | M4RCELO/M4RCELO | Meu repositório pessoal | https://github.com/M4RCELO/M4RCELO | ['rce'] | 1 | 2022-05-29 00:47:49+00:00 | 4 | 0 | | 0 | [] |
 | trhacknon/CVE-2022-29464-mass | nan | https://github.com/trhacknon/CVE-2022-29464-mass | ['cve-2 OR cve_2'] | 1 | 2022-05-29 00:53:48+00:00 | 16 | 0 | Python | 0 | ['CVE-2022-29464'] |
@@ -18,13 +18,14 @@
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-05-29 01:09:35+00:00 | 317 | 0 | | 0 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-05-29 03:25:16+00:00 | 134619 | 1 | HTML | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-29 01:40:28+00:00 | 70598 | 2816 | | 355 | [] |
-| Who-Is-E/Adeva-Global-AcBypass | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | ['exploit'] | 1 | 2022-05-29 03:10:45+00:00 | 24 | 2 | Lua | 0 | [] |
 | BinaryDex/DexHubWeb | None | https://github.com/BinaryDex/DexHubWeb | ['exploit'] | 1 | 2022-05-29 01:43:55+00:00 | 970 | 0 | CSS | 1 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-29 00:24:56+00:00 | 55071 | 305 | Ruby | 88 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-29 01:53:17+00:00 | 5825149 | 49 | Python | 8 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-29 02:18:22+00:00 | 2343 | 101 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-05-29 02:17:24+00:00 | 22164 | 3 | Python | 0 | [] |
 | BinaryDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | ['exploit'] | 1 | 2022-05-29 01:48:52+00:00 | 2845 | 5 | Lua | 3 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-29 04:00:03+00:00 | 203915 | 412 | Python | 119 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-05-29 04:51:20+00:00 | 81588 | 1240 | Go | 195 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-29 02:03:57+00:00 | 576063 | 55 | | 21 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-05-29 00:06:19+00:00 | 769 | 286 | C | 16 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-05-29 00:47:59+00:00 | 14109 | 42 | | 21 | [] |
