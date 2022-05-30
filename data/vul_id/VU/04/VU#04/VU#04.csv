@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#04,1.00000000,https://github.com/minhaj981/Metasploit,minhaj981/Metasploit,381076409
 VU#04,1.00000000,https://github.com/Pen-Test3rs/binary_exploits_frontend,Pen-Test3rs/binary_exploits_frontend,350311805
+VU#04,0.50000000,https://github.com/rama291041610/CVE-2022-1292,rama291041610/CVE-2022-1292,498028990
 VU#04,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
 VU#04,0.11111111,https://github.com/cn-panda/JavaCodeAudit,cn-panda/JavaCodeAudit,224329304
 VU#04,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
