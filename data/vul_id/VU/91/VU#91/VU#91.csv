@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#91,0.50000000,https://github.com/yywing/cve-2022-0778,yywing/cve-2022-0778,477818601
 VU#91,0.50000000,https://github.com/dannyallover/Exploit-C,dannyallover/Exploit-C,432559107
 VU#91,0.50000000,https://github.com/nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,363437561
+VU#91,0.33333333,https://github.com/by-black6/Black-Sploit,by-black6/Black-Sploit,497718781
 VU#91,0.25000000,https://github.com/dnr6419/CVE-2021-32157,dnr6419/CVE-2021-32157,485596660
 VU#91,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
 VU#91,0.20000000,https://github.com/clstauffer/rcemip,clstauffer/rcemip,432827338
