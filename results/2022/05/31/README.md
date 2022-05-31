@@ -1,12 +1,17 @@
 
 # Summary for results/2022/05/31
     
-45 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-31 00:25:33+00:00 | 55072 | 306 | Ruby | 89 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-31 08:49:25+00:00 | 46212 | 866 | Python | 205 | [] |
+| DeEpinGh0st/CVE-2022-22978 | CVE-2022-22978 Spring-Security bypass Demo | https://github.com/DeEpinGh0st/CVE-2022-22978 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:23:46+00:00 | 0 | 2 | Java | 0 | ['CVE-2022-22978'] |
+| iveresk/rapid-hnews-crawler | Simple POC for the news crawler. It will be developed further as a product. It made to be in touch with the last CVEs that are reported shortly. | https://github.com/iveresk/rapid-hnews-crawler | ['cve poc'] | 1 | 2022-05-31 08:07:12+00:00 | 12 | 0 | Go | 0 | [] |
+| kleiton0x00/Shelltropy | A technique of hiding malicious shellcode via Shannon encoding. | https://github.com/kleiton0x00/Shelltropy | ['shellcode'] | 1 | 2022-05-31 09:06:00+00:00 | 2237 | 0 | Assembly | 0 | [] |
+| Tris0n/exploit-insert-or-embed-plugin-rce | None | https://github.com/Tris0n/exploit-insert-or-embed-plugin-rce | ['exploit', 'rce'] | 2 | 2022-05-31 01:37:41+00:00 | 49 | 1 | Python | 0 | [] |
 | TCATools/codedog_0Day_checker | None | https://github.com/TCATools/codedog_0Day_checker | ['0day'] | 1 | 2022-05-31 07:01:25+00:00 | 19223 | 0 | | 0 | [] |
+| JMousqueton/PoC-CVE-2022-30190 | None | https://github.com/JMousqueton/PoC-CVE-2022-30190 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-05-31 06:51:12+00:00 | 11 | 6 | | 2 | ['CVE-2022-30190'] |
 | zxzxz1/Exploit-auto-update | None | https://github.com/zxzxz1/Exploit-auto-update | ['exploit'] | 1 | 2022-05-31 05:30:54+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-o | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-o | ['exploit'] | 1 | 2022-05-31 00:30:23+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-o | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-o | ['exploit'] | 1 | 2022-05-31 00:31:21+00:00 | 1 | 0 | | 0 | [] |
@@ -15,8 +20,8 @@
 | zkl21hoang/msdt-follina-office-rce | None | https://github.com/zkl21hoang/msdt-follina-office-rce | ['rce'] | 1 | 2022-05-31 02:17:35+00:00 | 0 | 0 | HTML | 0 | [] |
 | clod81/shellcode_runner_copy_in_chunk | C# loader that copies a chunk at the time of the shellcode in memory, rather that all at once | https://github.com/clod81/shellcode_runner_copy_in_chunk | ['shellcode'] | 1 | 2022-05-31 02:23:02+00:00 | 0 | 0 | C# | 0 | [] |
 | tuannq2299/CVE-2021-43408 | None | https://github.com/tuannq2299/CVE-2021-43408 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:48:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-43408'] |
-| DeEpinGh0st/CVE-2022-22978 | CVE-2022-22978 Spring-Security bypass Demo | https://github.com/DeEpinGh0st/CVE-2022-22978 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:23:46+00:00 | 0 | 2 | Java | 0 | ['CVE-2022-22978'] |
 | viliuspovilaika/cve-2021-42013 | Exploit for Apache 2.4.50 (CVE-2021-42013) | https://github.com/viliuspovilaika/cve-2021-42013 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-31 03:29:20+00:00 | 0 | 0 | C | 0 | ['CVE-2021-42013'] |
+| shipcod3/mazda_getInfo | A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made | https://github.com/shipcod3/mazda_getInfo | ['attack poc'] | 1 | 2022-05-31 09:07:24+00:00 | 814 | 138 | Shell | 39 | [] |
 | tuannq2299/CVE-2019-8942 | None | https://github.com/tuannq2299/CVE-2019-8942 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:35:14+00:00 | 0 | 0 | | 0 | ['CVE-2019-8942'] |
 | Kyrncion/CommitExploit-ProofOfConcept | None | https://github.com/Kyrncion/CommitExploit-ProofOfConcept | ['exploit'] | 1 | 2022-05-31 03:55:54+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | clod81/shellcode_runner_copy_encoded_decode_after | C# loader that copies an encoded shellcode in memory and decodes after the initial memory write | https://github.com/clod81/shellcode_runner_copy_encoded_decode_after | ['shellcode'] | 1 | 2022-05-31 04:19:26+00:00 | 486 | 0 | C# | 0 | [] |
@@ -26,12 +31,19 @@
 | NagisaYumaa/Log4j_Exploit | None | https://github.com/NagisaYumaa/Log4j_Exploit | ['exploit'] | 1 | 2022-05-31 07:19:24+00:00 | 0 | 0 | Python | 0 | [] |
 | urshilaravindran/exploits | None | https://github.com/urshilaravindran/exploits | ['exploit'] | 1 | 2022-05-31 06:58:53+00:00 | 0 | 0 | | 0 | [] |
 | Captaincrogs/website-exploiter | None | https://github.com/Captaincrogs/website-exploiter | ['exploit'] | 1 | 2022-05-31 07:31:16+00:00 | 0 | 0 | Python | 0 | [] |
-| JMousqueton/PoC-CVE-2022-30190 | None | https://github.com/JMousqueton/PoC-CVE-2022-30190 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-05-31 06:51:12+00:00 | 11 | 6 | | 2 | ['CVE-2022-30190'] |
-| Tris0n/exploit-insert-or-embed-plugin-rce | None | https://github.com/Tris0n/exploit-insert-or-embed-plugin-rce | ['exploit', 'rce'] | 2 | 2022-05-31 01:37:41+00:00 | 49 | 1 | Python | 0 | [] |
-| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-05-31 03:45:06+00:00 | 13387 | 2499 | Python | 673 | [] |
+| W01fh4cker/Serein | 【真正的懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday的检测。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。 | https://github.com/W01fh4cker/Serein | ['0day'] | 1 | 2022-05-31 07:44:02+00:00 | 0 | 0 | | 0 | [] |
+| Kek5chen/ExternalShellcodeStreaming | An implementation by myself on the topic of injecting and running shellcode in a target process. | https://github.com/Kek5chen/ExternalShellcodeStreaming | ['shellcode'] | 1 | 2022-05-31 08:00:28+00:00 | 10 | 1 | C++ | 1 | [] |
+| 0xdanial/capturetheether-exploit-codes | Some of the Solidity exploits I wrote about the Capturetheether. | https://github.com/0xdanial/capturetheether-exploit-codes | ['exploit'] | 1 | 2022-05-31 09:20:37+00:00 | 0 | 0 | Solidity | 0 | [] |
+| jjsploit-exploit/jjsploit-exploit.github.io | JJSploit Exploit | https://github.com/jjsploit-exploit/jjsploit-exploit.github.io | ['exploit'] | 1 | 2022-05-31 09:30:43+00:00 | 0 | 0 | | 0 | [] |
+| maddydevgits/rcew-hackathon-2022 | Official Repo of Hackathon on ML, AWS, Blockchain | https://github.com/maddydevgits/rcew-hackathon-2022 | ['rce'] | 1 | 2022-05-31 08:49:20+00:00 | 15 | 0 | | 0 | [] |
 | f1ammable/discerpo | Discord bot which helps with binary exploitation, written in discord.py | https://github.com/f1ammable/discerpo | ['exploit'] | 1 | 2022-05-31 02:51:23+00:00 | 89 | 0 | Python | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-05-31 00:58:46+00:00 | 34921 | 144 | C++ | 44 | [] |
+| PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-31 05:20:24+00:00 | 38 | 0 | C | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-05-31 00:25:33+00:00 | 55072 | 306 | Ruby | 89 | [] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-05-31 03:45:06+00:00 | 13387 | 2499 | Python | 673 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-05-31 02:31:44+00:00 | 290157 | 160 | REXX | 16 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-05-31 02:25:24+00:00 | 1543900 | 4328 | PowerShell | 1525 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-05-31 09:25:12+00:00 | 64391 | 1546 | Python | 306 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-05-31 02:03:54+00:00 | 577991 | 55 | | 21 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-05-31 07:45:33+00:00 | 81590 | 1255 | Go | 196 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-05-31 04:53:36+00:00 | 196804 | 413 | Python | 119 | [] |
@@ -40,13 +52,18 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-05-31 02:05:59+00:00 | 2407 | 105 | HTML | 25 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-05-31 07:45:35+00:00 | 460 | 0 | Lua | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-05-31 01:49:19+00:00 | 5868294 | 49 | Python | 8 | [] |
+| klezVirus/CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | ['0day', 'cve-2 OR cve_2', 'exploit', 'rce'] | 4 | 2022-05-31 08:53:53+00:00 | 1069 | 594 | HTML | 138 | ['CVE-2021-40444'] |
 | BinaryDex/DexHubWeb | None | https://github.com/BinaryDex/DexHubWeb | ['exploit'] | 1 | 2022-05-31 01:48:52+00:00 | 970 | 0 | CSS | 1 | [] |
+| ca3tie1/ExploitDepository | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | ['exploit'] | 1 | 2022-05-31 08:28:35+00:00 | 19558 | 50 | Python | 4 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-05-31 07:40:20+00:00 | 12149 | 306 | Ruby | 33 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-05-31 08:10:57+00:00 | 74137 | 99 | Go | 23 | [] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-05-31 07:39:07+00:00 | 3962 | 6 | TypeScript | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-05-31 08:02:52+00:00 | 71504 | 2870 | | 359 | [] |
 | nathants/aws-rce | adhoc remote execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-05-31 03:31:43+00:00 | 215 | 2 | Go | 0 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-05-31 09:24:14+00:00 | 557597 | 671 | | 137 | [] |
+| helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-05-31 09:47:52+00:00 | 380503 | 440 | C | 167 | [] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-05-31 07:59:54+00:00 | 38 | 15 | | 5 | [] |
 | Silence-Talk/BinaryExploitation | My repo to the ctfs i attempted with a script.py solution | https://github.com/Silence-Talk/BinaryExploitation | ['exploit'] | 1 | 2022-05-31 05:06:16+00:00 | 39569 | 0 | C | 0 | [] |
 | doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-05-31 01:38:07+00:00 | 2515 | 3 | Python | 0 | [] |
 | DeEpinGh0st/CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:28:34+00:00 | 51 | 21 | Python | 3 | ['CVE-2022-28346'] |
-| PTheyssen/dirtypipez-exploit-demo | None | https://github.com/PTheyssen/dirtypipez-exploit-demo | ['exploit'] | 1 | 2022-05-31 05:20:24+00:00 | 38 | 0 | C | 0 | [] |
-| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-05-31 00:58:46+00:00 | 34921 | 144 | C++ | 44 | [] |
-| W01fh4cker/Serein | 【真正的懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday的检测。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。 | https://github.com/W01fh4cker/Serein | ['0day'] | 1 | 2022-05-31 07:44:02+00:00 | 0 | 0 | | 0 | [] |
+| risan-raja/tps_may | Tabular Playground Series - May 2022: The May edition of the 2022 Tabular Playground series binary classification problem that includes a number of different feature interactions. This competition is an opportunity to explore various methods for identifyin | https://github.com/risan-raja/tps_may | ['exploit'] | 1 | 2022-05-31 09:40:48+00:00 | 0 | 0 | | 0 | [] |
