@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS12-034,0.02857143,https://github.com/slimsevernake/The-Browser-Exploitation-Framework-Project-,slimsevernake/The-Browser-Exploitation-Framework-Project-,300380905
 MS12-034,0.02857143,https://github.com/TeChNiShU27/beef-master,TeChNiShU27/beef-master,266960264
 MS12-034,0.02857143,https://github.com/Quietiger/BEEF-Exploitation,Quietiger/BEEF-Exploitation,71604562
+MS12-034,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
 MS12-034,0.02173913,https://github.com/beefproject/beef,beefproject/beef,2833881
 MS12-034,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS12-034,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
