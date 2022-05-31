@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+498346412,yuriisanin/svg2raster-cheatsheet,README.md,630cb838db4a5acfe25603d58b32fed8b0f4c70c,CVE-2005-0508
+498346412,yuriisanin/svg2raster-cheatsheet,README.md,630cb838db4a5acfe25603d58b32fed8b0f4c70c,CVE-2015-0250
+498346412,yuriisanin/svg2raster-cheatsheet,README.md,630cb838db4a5acfe25603d58b32fed8b0f4c70c,CVE-2017-5662
+498346412,yuriisanin/svg2raster-cheatsheet,README.md,630cb838db4a5acfe25603d58b32fed8b0f4c70c,CVE-2019-17566
