@@ -1,2 +1,2 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-J6JC-JQQC-P6CX,0.03571429,https://github.com/cokeBeer/go-cves,cokeBeer/go-cves,488562350
+GHSA-J6JC-JQQC-P6CX,0.03448276,https://github.com/cokeBeer/go-cves,cokeBeer/go-cves,488562350
