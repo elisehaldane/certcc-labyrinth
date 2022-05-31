@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+498443788,sentinelblue/CVE-2022-30190,README.md,3a42d1a2c786ea2a98d0b88dd3e9d05487da9c4b,CVE-2022-30190
+498443788,sentinelblue/CVE-2022-30190,sentinel/sentinel_alert.yml,3e756e37667a3f3e669d1fe72eaaf80885ad150a,CVE-2022-30190
+498443788,sentinelblue/CVE-2022-30190,sentinel/readme.md,b21b3f89d10484dfa465c06ca04725d53176b1e7,CVE-2022-30190
+498443788,sentinelblue/CVE-2022-30190,_GITHUB_REPO_METADATA_,,CVE-2022-30190
