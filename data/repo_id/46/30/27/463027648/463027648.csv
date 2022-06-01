@@ -8,7 +8,6 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-36749.yaml,05f645934748018e9fffafc7c8e9c5ac5967082f,CVE-2021-36749
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-5284.yaml,07bbfb1bcd74d296046f49778619631794e2a99e,CVE-2020-5284
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-7314.yaml,0eeb5da8514754185eba5d80ff3f0d88c0942c41,CVE-2018-7314
-463027648,zan8in/afrog,afrog-pocs/CVE/2021/CVE-2021-36260.yaml,11a6645267277a5ecb9c933ba8f9190594a7d901,CVE-2021-36260
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2019/CVE-2019-0193.yaml,1304a87353a371bb2f8d2c53581b8f5d48d0fd7e,CVE-2019-0193
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-40438.yaml,169361282a2fccd6f4e431d23f9b5513a0d844a2,CVE-2021-40438
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2019/CVE-2019-8449.yaml,171cc05f891eb6c5a6d81a8755f93cc9fcae2fc6,CVE-2019-8449
@@ -23,6 +22,7 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2017/CVE-2017-1000028.yaml,1b5985e55695409c981be9b50df0ade703baa687,CVE-2017-1000028
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-19127.yaml,1cdf6da039715dd436ead34fc66654199d4e84c2,CVE-2018-19127
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2010/CVE-2010-2861.yaml,1e9fe922420720cff6c75ff770a3ffaabe92a29c,CVE-2010-2861
+463027648,zan8in/afrog,afrog-pocs/CVE/2021/CVE-2021-36260.yaml,22bd9fe2fc911c8e0c180b389cb56ae9dc7e7491,CVE-2021-36260
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2019/CVE-2019-16278.yaml,2329ebbdbddc3b66ca969c56c618c7ffd3891562,CVE-2019-16278
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-28187.yaml,23a38ec5f4709c5f187a206240949894f858bc9a,CVE-2020-28187
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2014/CVE-2014-3120.yaml,23db2fbfd56ccf24826254e0c535bb7ac5176ca0,CVE-2014-3120
