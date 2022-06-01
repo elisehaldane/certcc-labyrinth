@@ -1,12 +1,12 @@
 
 # Summary for results/2022/05/31
     
-163 records found after deduplication
+164 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-05-31 10:23:39+00:00 | 753226 | 27389 | Ruby | 12279 | [] |
-| yuriisanin/svg2raster-cheatsheet | A cheatsheet for exploiting server-side SVG rasterization. | https://github.com/yuriisanin/svg2raster-cheatsheet | ['exploit', 'rce'] | 2 | 2022-05-31 13:42:59+00:00 | 0 | 1 | | 0 | [] |
+| clod81/shellcode_runner_copy_encoded_decode_after | C# loader that copies an encoded shellcode in memory and decodes after the initial memory write | https://github.com/clod81/shellcode_runner_copy_encoded_decode_after | ['shellcode'] | 1 | 2022-05-31 04:19:26+00:00 | 486 | 0 | C# | 0 | [] |
 | lightqa/MMEPD | Explore, Perceive and Describe: Exploiting the Multi-Modal Features for Radiology Report Generation | https://github.com/lightqa/MMEPD | ['exploit'] | 1 | 2022-05-31 06:18:33+00:00 | 14 | 0 | | 0 | [] |
 | onecloudemoji/CVE-2022-30190 | CVE-2022-30190 Follina POC | https://github.com/onecloudemoji/CVE-2022-30190 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-05-31 07:02:44+00:00 | 2139 | 1 | HTML | 0 | ['CVE-2022-30190'] |
 | NagisaYumaa/Log4j_Exploit | None | https://github.com/NagisaYumaa/Log4j_Exploit | ['exploit'] | 1 | 2022-05-31 07:19:24+00:00 | 0 | 0 | Python | 0 | [] |
@@ -25,9 +25,9 @@
 | bytecaps/CVE-2022-30190 | Microsoft Office Word Rce 复现(CVE-2022-30190) | https://github.com/bytecaps/CVE-2022-30190 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-05-31 12:27:50+00:00 | 22 | 5 | Rich Text Format | 1 | ['CVE-2022-30190'] |
 | anniehelkekpl92/CVE-2022 | None | https://github.com/anniehelkekpl92/CVE-2022 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 13:42:17+00:00 | 0 | 0 | | 0 | [] |
 | Fnnnr/ROPEmporium-writeups | My exploit code for all challenges in https://ropemporium.com/ | https://github.com/Fnnnr/ROPEmporium-writeups | ['exploit'] | 1 | 2022-05-31 04:27:03+00:00 | 0 | 0 | Python | 0 | [] |
-| clod81/shellcode_runner_copy_encoded_decode_after | C# loader that copies an encoded shellcode in memory and decodes after the initial memory write | https://github.com/clod81/shellcode_runner_copy_encoded_decode_after | ['shellcode'] | 1 | 2022-05-31 04:19:26+00:00 | 486 | 0 | C# | 0 | [] |
 | Kyrncion/CommitExploit-ProofOfConcept | None | https://github.com/Kyrncion/CommitExploit-ProofOfConcept | ['exploit'] | 1 | 2022-05-31 03:55:54+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-o | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-o | ['exploit'] | 1 | 2022-05-31 00:30:23+00:00 | 1 | 0 | | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-31 08:49:25+00:00 | 46212 | 866 | Python | 205 | [] |
+| tuannq2299/CVE-2019-8942 | None | https://github.com/tuannq2299/CVE-2019-8942 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:35:14+00:00 | 0 | 0 | | 0 | ['CVE-2019-8942'] |
 | dhanjani/MoonbirdsSploit | None | https://github.com/dhanjani/MoonbirdsSploit | ['sploit'] | 1 | 2022-05-31 22:35:43+00:00 | 30 | 2 | Solidity | 0 | [] |
 | grotespelerrr/Prynt-Stealer-Source | Prynt Stealer Reborn Is A Advanced Malware The Silently Steals All Information From A Victims Computer After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Prynt Stealer Has A Microsoft Excel Ex | https://github.com/grotespelerrr/Prynt-Stealer-Source | ['exploit'] | 1 | 2022-05-31 14:57:15+00:00 | 4967 | 0 | | 0 | [] |
 | TCATools/codedog_0Day_checker | None | https://github.com/TCATools/codedog_0Day_checker | ['0day'] | 1 | 2022-05-31 07:01:25+00:00 | 19223 | 0 | | 0 | [] |
@@ -35,8 +35,9 @@
 | djigzy/Exploits | Repository with my projects related to hacking, exploiting and similar stuff. For educational purposes only. | https://github.com/djigzy/Exploits | ['exploit'] | 1 | 2022-05-31 14:39:42+00:00 | 19 | 0 | Python | 0 | [] |
 | JMousqueton/PoC-CVE-2022-30190 | None | https://github.com/JMousqueton/PoC-CVE-2022-30190 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-05-31 06:51:12+00:00 | 11 | 6 | | 2 | ['CVE-2022-30190'] |
 | zxzxz1/Exploit-auto-update | None | https://github.com/zxzxz1/Exploit-auto-update | ['exploit'] | 1 | 2022-05-31 05:30:54+00:00 | 0 | 0 | | 0 | [] |
+| whokilleddb/Follina | Follina PoC exploit | https://github.com/whokilleddb/Follina | ['exploit'] | 1 | 2022-05-31 06:00:23+00:00 | 24 | 1 | Python | 1 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-o | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-o | ['exploit'] | 1 | 2022-05-31 00:30:23+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-o | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-o | ['exploit'] | 1 | 2022-05-31 00:31:21+00:00 | 1 | 0 | | 0 | [] |
-| tuannq2299/CVE-2019-8942 | None | https://github.com/tuannq2299/CVE-2019-8942 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:35:14+00:00 | 0 | 0 | | 0 | ['CVE-2019-8942'] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | ['exploit'] | 1 | 2022-05-31 00:32:06+00:00 | 1 | 0 | | 0 | [] |
 | TaylorHassall/MS-MSDT-0-day-Office-RCE-Follina | Pre-Created document xml files for creating the Documents required for PoC MSDT Follina | https://github.com/TaylorHassall/MS-MSDT-0-day-Office-RCE-Follina | ['rce', 'rce poc'] | 2 | 2022-05-31 02:16:39+00:00 | 0 | 0 | | 0 | [] |
 | zkl21hoang/msdt-follina-office-rce | None | https://github.com/zkl21hoang/msdt-follina-office-rce | ['rce'] | 1 | 2022-05-31 02:17:35+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -45,8 +46,8 @@
 | DeEpinGh0st/CVE-2022-22978 | CVE-2022-22978 Spring-Security bypass Demo | https://github.com/DeEpinGh0st/CVE-2022-22978 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 03:23:46+00:00 | 0 | 2 | Java | 0 | ['CVE-2022-22978'] |
 | viliuspovilaika/cve-2021-42013 | Exploit for Apache 2.4.50 (CVE-2021-42013) | https://github.com/viliuspovilaika/cve-2021-42013 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-05-31 03:29:20+00:00 | 0 | 0 | C | 0 | ['CVE-2021-42013'] |
 | Glatsh9020/Meta-sploit | pkg install wget wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh by chmod +x metasploit.sh ./metasploit.sh تثبيت سريع source <(curl -fsSL https://kutt.it/msf) | https://github.com/Glatsh9020/Meta-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2022-05-31 13:14:08+00:00 | 0 | 1 | | 0 | [] |
+| yuriisanin/svg2raster-cheatsheet | A cheatsheet for exploiting server-side SVG rasterization. | https://github.com/yuriisanin/svg2raster-cheatsheet | ['exploit', 'rce'] | 2 | 2022-05-31 13:42:59+00:00 | 0 | 1 | | 0 | [] |
 | OpenSauceRepositories/robloxts-exploitingmodules | None | https://github.com/OpenSauceRepositories/robloxts-exploitingmodules | ['exploit'] | 1 | 2022-05-31 13:51:24+00:00 | 0 | 0 | | 0 | [] |
-| by-black6/Black-Sploit | None | https://github.com/by-black6/Black-Sploit | ['sploit'] | 1 | 2022-05-31 13:35:49+00:00 | 10253 | 0 | PHP | 0 | [] |
 | archanchoudhury/MSDT_CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | ['cve-2 OR cve_2'] | 1 | 2022-05-31 15:30:17+00:00 | 3 | 0 | YARA | 0 | ['CVE-2022-30190'] |
 | aymankhder/MSDT_CVE-2022-30190-follina- | None | https://github.com/aymankhder/MSDT_CVE-2022-30190-follina- | ['cve-2 OR cve_2'] | 1 | 2022-05-31 18:51:30+00:00 | 5 | 0 | | 0 | ['CVE-2022-30190'] |
 | Annshack/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Annshack/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-05-31 18:58:42+00:00 | 0 | 0 | | 0 | [] |
@@ -86,8 +87,8 @@
 | sarahsimionescu/simple-model-inversion | My attempt to recreate the attack described in "Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures" by Fredrikson et al. in 2015 using Tensorflow 2.9.1 | https://github.com/sarahsimionescu/simple-model-inversion | ['exploit'] | 1 | 2022-05-31 19:03:05+00:00 | 6492 | 0 | Jupyter Notebook | 0 | [] |
 | Ookhack/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/Ookhack/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-05-31 18:31:16+00:00 | 9 | 0 | | 0 | [] |
 | Tris0n/exploit-insert-or-embed-plugin-rce | None | https://github.com/Tris0n/exploit-insert-or-embed-plugin-rce | ['exploit', 'rce'] | 2 | 2022-05-31 01:37:41+00:00 | 49 | 1 | Python | 0 | [] |
+| by-black6/Black-Sploit | None | https://github.com/by-black6/Black-Sploit | ['sploit'] | 1 | 2022-05-31 13:35:49+00:00 | 10253 | 0 | PHP | 0 | [] |
 | kleiton0x00/Shelltropy | A technique of hiding malicious shellcode via Shannon encoding. | https://github.com/kleiton0x00/Shelltropy | ['shellcode'] | 1 | 2022-05-31 09:06:00+00:00 | 2237 | 0 | Assembly | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-05-31 08:49:25+00:00 | 46212 | 866 | Python | 205 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-05-31 15:11:48+00:00 | 7560 | 3064 | TypeScript | 448 | [] |
 | lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-05-31 07:45:33+00:00 | 81590 | 1255 | Go | 196 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-05-31 11:48:36+00:00 | 7218 | 155 | Python | 46 | [] |
