@@ -1,12 +1,13 @@
 
 # Summary for results/2022/06/01
     
-44 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-01 05:21:54+00:00 | 753259 | 27395 | Ruby | 12281 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-01 04:29:52+00:00 | 5579 | 3282 | Python | 696 | [] |
+| ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | ['0day', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 6 | 2022-06-01 04:27:44+00:00 | 6 | 3 | Python | 1 | ['CVE-2021-44228'] |
 | Silence-Talk/BinaryExploitation | My repo to the ctfs i attempted with a script.py solution | https://github.com/Silence-Talk/BinaryExploitation | ['exploit'] | 1 | 2022-06-01 02:04:01+00:00 | 41475 | 0 | C | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-01 03:22:19+00:00 | 1659 | 6 | Rust | 0 | [] |
 | p3rce/p3rce | None | https://github.com/p3rce/p3rce | ['rce'] | 1 | 2022-06-01 00:47:31+00:00 | 3 | 0 | | 0 | [] |
@@ -26,17 +27,22 @@
 | clod81/loader_process_hollow_decode_after_initial_write | C# loader that copies an encoded shellcode in memory in a suspended process and decodes it byte by byte afterwards | https://github.com/clod81/loader_process_hollow_decode_after_initial_write | ['shellcode'] | 1 | 2022-06-01 03:56:30+00:00 | 0 | 0 | C# | 0 | [] |
 | ExploitPwner/CVE-2022-30190 | MSDT 0-Day Mass Exploitation Tool | https://github.com/ExploitPwner/CVE-2022-30190 | ['0day', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-06-01 04:25:17+00:00 | 0 | 0 | | 0 | ['CVE-2022-30190'] |
 | fuckiraq/fireforce | Exploit for improperly configured firebase db | https://github.com/fuckiraq/fireforce | ['exploit'] | 1 | 2022-06-01 05:32:47+00:00 | 0 | 0 | Python | 0 | [] |
-| ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | ['0day', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 6 | 2022-06-01 04:27:44+00:00 | 6 | 3 | Python | 1 | ['CVE-2021-44228'] |
+| Ran-Xing/cve-2022-193372 | None | https://github.com/Ran-Xing/cve-2022-193372 | ['cve-2 OR cve_2'] | 1 | 2022-06-01 05:32:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-193372'] |
+| rfresh2/shadow-exploits-showcase | None | https://github.com/rfresh2/shadow-exploits-showcase | ['exploit'] | 1 | 2022-06-01 06:35:57+00:00 | 31 | 0 | Java | 0 | [] |
+| fordsham/CVE-2021-30956 | Phone number notification bug | https://github.com/fordsham/CVE-2021-30956 | ['cve-2 OR cve_2'] | 1 | 2022-06-01 07:09:19+00:00 | 0 | 0 | | 0 | ['CVE-2021-30956'] |
 | cyxv/robloxscripts | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/robloxscripts | ['exploit'] | 1 | 2022-06-01 02:17:18+00:00 | 88 | 0 | Lua | 0 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-06-01 03:44:02+00:00 | 380674 | 441 | C | 169 | [] |
+| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-06-01 06:47:49+00:00 | 9185 | 505 | Dockerfile | 50 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-01 02:20:03+00:00 | 23239 | 3 | Python | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-01 00:28:09+00:00 | 55073 | 306 | Ruby | 89 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-01 02:31:36+00:00 | 292716 | 160 | REXX | 16 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-06-01 07:40:28+00:00 | 64443 | 1548 | Python | 306 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-01 00:48:02+00:00 | 14655 | 42 | | 21 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-01 02:03:30+00:00 | 579345 | 55 | | 21 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-01 04:00:52+00:00 | 200131 | 414 | Python | 120 | [] |
 | NickSanzotta/scanman | ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE). | https://github.com/NickSanzotta/scanman | ['metasploit module OR payload'] | 1 | 2022-06-01 01:52:09+00:00 | 82 | 35 | Python | 3 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2022-06-01 05:25:01+00:00 | 16775 | 499 | Go | 98 | [] |
+| KiritoLoveAsuna/Exploits | Collected && Written N day Vulns for study purpose only | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-06-01 06:17:15+00:00 | 89799 | 95 | Python | 15 | [] |
 | thienlongtran/booga-booga-hub | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | ['exploit'] | 1 | 2022-06-01 05:01:17+00:00 | 50 | 0 | Lua | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-01 02:25:12+00:00 | 2469 | 105 | HTML | 25 | [] |
 | 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-06-01 01:44:23+00:00 | 96 | 154 | | 11 | [] |
@@ -44,8 +50,10 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-01 02:01:41+00:00 | 5935416 | 49 | Python | 8 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-06-01 02:18:04+00:00 | 7565 | 3065 | TypeScript | 450 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-06-01 00:07:16+00:00 | 204 | 1 | C | 0 | [] |
+| FlorianWoelki/kira | A remote docker based sandbox code execution engine written in Go. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-06-01 06:48:46+00:00 | 179 | 0 | Go | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-01 01:51:11+00:00 | 71632 | 2923 | | 361 | [] |
 | jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-06-01 00:17:28+00:00 | 31 | 2 | Jupyter Notebook | 1 | [] |
 | Korozin/korozin.github.io | Homebrew exploit site and modding hub. | https://github.com/Korozin/korozin.github.io | ['exploit'] | 1 | 2022-06-01 00:50:16+00:00 | 135976 | 2 | HTML | 0 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-06-01 06:52:33+00:00 | 3346 | 353 | Go | 65 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-01 01:17:41+00:00 | 328 | 0 | | 0 | [] |
-| Ran-Xing/cve-2022-193372 | None | https://github.com/Ran-Xing/cve-2022-193372 | ['cve-2 OR cve_2'] | 1 | 2022-06-01 05:32:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-193372'] |
+| purple0exploiter/purple0exploiter | Config files for my GitHub profile. | https://github.com/purple0exploiter/purple0exploiter | ['exploit'] | 1 | 2022-06-01 07:42:30+00:00 | 0 | 0 | | 0 | [] |
