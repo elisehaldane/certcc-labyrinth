@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-3GVQ-H42F-V3C7,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 GHSA-3GVQ-H42F-V3C7,0.00000560,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
-GHSA-3GVQ-H42F-V3C7,0.00000468,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+GHSA-3GVQ-H42F-V3C7,0.00000467,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
