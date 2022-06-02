@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNNVD-202012-1548,0.00555556,https://github.com/chaitin/xray,chaitin/xray,191117123
-CNNVD-202012-1548,0.00500000,https://github.com/veo/vscan,veo/vscan,377697824
+CNNVD-202012-1548,0.00497512,https://github.com/veo/vscan,veo/vscan,377697824
 CNNVD-202012-1548,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
