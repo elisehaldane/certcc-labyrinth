@@ -34,6 +34,7 @@ repo_id,repo_full_name,file,file_sha1,match
 136392889,thezdi/PoC,CVE-2016-0856/bwconn.dll.sources/export.def,7cd8bb48aa519f2e6158751b8f7467ce05222a14,CVE-2016-0856
 136392889,thezdi/PoC,CVE-2019-17147/poc.py,84a4a9257c038cf90dfbb38e2d35ebc7216182c8,CVE-2019-17147
 136392889,thezdi/PoC,ZDI-18-1075/group1,84dd3a05552f4fdec0b0ca6720dfba63084f7c9e,ZDI-18-1075
+136392889,thezdi/PoC,CVE-2021-4198/lowpriv_user_lpe_hunting.pmf,86020b9935b9a211991c69a51384e22f9a09dc6c,CVE-2021-4198
 136392889,thezdi/PoC,CVE-2016-0856/bwconn.dll.sources/RpcDcClient.h,88eaf137a2d5172c7857ac707ce22b560135307e,CVE-2016-0856
 136392889,thezdi/PoC,CVE-2016-0856/bwconn.dll.sources/rpcstub.cpp,8b2abc33a9237fa0161f06fcdf434b1c63ea12e4,CVE-2016-0856
 136392889,thezdi/PoC,ZDI-18-1075/poc.js,8d22e056665d3893bfa54dbb3ed5471a963d6640,ZDI-18-1075
