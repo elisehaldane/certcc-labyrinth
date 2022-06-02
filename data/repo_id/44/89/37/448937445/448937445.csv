@@ -1,4 +1,11 @@
 repo_id,repo_full_name,file,file_sha1,match
-448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Financial Analysis/tensors_in_finance.ipynb,bcd5df47cdf3e53a3c5f9935990692ac78c208ec,VU#28
-448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Financial Analysis/tensors_in_finance.ipynb,bcd5df47cdf3e53a3c5f9935990692ac78c208ec,VU#30
-448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Financial Analysis/tensors_in_finance.ipynb,bcd5df47cdf3e53a3c5f9935990692ac78c208ec,VU#54
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Finance_V2/FINANCIAL_RATIOS.xlsx,49d2831bf1ec06a72dd30e5f5ec0b12de09a05c6,VU#01
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Finance_V2/FINANCIAL_RATIOS.xlsx,49d2831bf1ec06a72dd30e5f5ec0b12de09a05c6,VU#65
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Finance_V2/TECHNICAL_INDICATORS_f.xlsx,68ce88b3fddb1e6d64a3b684c22fe7a746eb9a99,VU#12
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Finance_V2/TECHNICAL_INDICATORS_f.xlsx,68ce88b3fddb1e6d64a3b684c22fe7a746eb9a99,VU#91
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Financial Analysis/tensors_in_finance.ipynb,7bab2ec03c3b936618422ad62d839d881e39471c,VU#28
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Financial Analysis/tensors_in_finance.ipynb,7bab2ec03c3b936618422ad62d839d881e39471c,VU#30
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Financial Analysis/tensors_in_finance.ipynb,7bab2ec03c3b936618422ad62d839d881e39471c,VU#54
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Finance_V2/TECHNICAL_INDICATORS.xlsx,bd485a5a73a432d5d355b1fbbd2ed35d9378d328,VU#59
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Finance_V2/TECHNICAL_INDICATORS.xlsx,bd485a5a73a432d5d355b1fbbd2ed35d9378d328,VU#65
+448937445,zxt18/Tensor-Decomposition-Applications-in-Factor-Investing,Finance_V2/PRICE_DATA.xlsx,e0e8c31082005a11d271dffbc67940ce88e8839a,VU#63
