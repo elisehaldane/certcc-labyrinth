@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#500,1.00000000,https://github.com/GHa123/Dirty-COW-attack-Lab,GHa123/Dirty-COW-attack-Lab,445333110
 VU#500,1.00000000,https://github.com/Rjuhl/flipcup,Rjuhl/flipcup,437665707
+VU#500,0.14285714,https://github.com/e4r23fd/Hta-Exploit-Downloader-Malware-Builder,e4r23fd/Hta-Exploit-Downloader-Malware-Builder,499532412
 VU#500,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonRoblox,267731387
 VU#500,0.01298701,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#500,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
