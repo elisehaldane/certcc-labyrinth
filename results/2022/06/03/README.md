@@ -1,12 +1,13 @@
 
 # Summary for results/2022/06/03
     
-22 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-06-03 02:17:41+00:00 | 1534829 | 1634 | Python | 543 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-03 00:21:27+00:00 | 55074 | 306 | Ruby | 89 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-03 01:47:44+00:00 | 70989 | 2972 | | 361 | [] |
+| codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | None | https://github.com/codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | ['exploit'] | 1 | 2022-06-03 00:47:59+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-h | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-h | ['exploit'] | 1 | 2022-06-03 00:46:49+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | ['exploit'] | 1 | 2022-06-03 00:46:05+00:00 | 1 | 0 | | 0 | [] |
 | Noxtal/follina | All about CVE-2022-30190, aka follina, that is a RCE vulnerability that affects Microsoft Support Diagnostic Tools (MSDT) on Office apps such as Word. This is a very simple POC, feel free to check the sources below for more threat intelligence. | https://github.com/Noxtal/follina | ['cve poc', 'rce', 'rce poc', 'vulnerability poc'] | 4 | 2022-06-03 00:25:38+00:00 | 11 | 0 | Python | 0 | ['CVE-2022-30190'] |
@@ -16,8 +17,9 @@
 | trhacknon/CVE-2022-30190 | None | https://github.com/trhacknon/CVE-2022-30190 | ['cve-2 OR cve_2'] | 1 | 2022-06-03 00:23:24+00:00 | 2101 | 2 | HTML | 1 | ['CVE-2022-30190'] |
 | KobaWare/Deepsploit | Tool to create backdoors | https://github.com/KobaWare/Deepsploit | ['metasploit module OR payload'] | 1 | 2022-06-03 02:17:04+00:00 | 13 | 1 | Shell | 0 | [] |
 | 42cursus-youkim/scarftoolbox | because exploiting goinfre is never enough | https://github.com/42cursus-youkim/scarftoolbox | ['exploit'] | 1 | 2022-06-03 00:52:25+00:00 | 7 | 0 | Python | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-03 01:47:44+00:00 | 70989 | 2972 | | 361 | [] |
+| GamerHack/GamerHack.github.io | All PS4 Exploits | https://github.com/GamerHack/GamerHack.github.io | ['exploit'] | 1 | 2022-06-03 03:53:30+00:00 | 11593 | 7 | JavaScript | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-06-03 00:33:04+00:00 | 139613 | 2 | Jupyter Notebook | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-03 00:21:27+00:00 | 55074 | 306 | Ruby | 89 | [] |
 | edupazzz/Hacking-The-Art-of-Exploitation-Book | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | ['exploit'] | 1 | 2022-06-03 01:10:01+00:00 | 205 | 1 | C | 0 | [] |
 | Hallicyne/exploits | exploits | https://github.com/Hallicyne/exploits | ['exploit'] | 1 | 2022-06-03 02:13:21+00:00 | 9 | 0 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-03 01:28:59+00:00 | 6002392 | 49 | Python | 8 | [] |
@@ -25,5 +27,8 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-03 01:49:56+00:00 | 22403 | 3 | Python | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-06-03 00:30:31+00:00 | 42133 | 29 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-03 02:03:22+00:00 | 581032 | 55 | | 22 | [] |
+| tobor88/PayloadSiteForPenTesters | This is a site I made for easily hosting tools and payload over apache2 on Kali Linux so they are always ready to go. These are a collection of tools that can be downloaded with a site that is browsable for GUI situations. | https://github.com/tobor88/PayloadSiteForPenTesters | ['exploit'] | 1 | 2022-06-03 02:43:49+00:00 | 13123 | 5 | PowerShell | 3 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-03 00:48:03+00:00 | 15600 | 42 | | 21 | [] |
-| codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | None | https://github.com/codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | ['exploit'] | 1 | 2022-06-03 00:47:59+00:00 | 1 | 0 | | 0 | [] |
+| rcedwards/rcedwards.github.io | None | https://github.com/rcedwards/rcedwards.github.io | ['rce'] | 1 | 2022-06-03 02:30:59+00:00 | 3088 | 0 | CSS | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-03 02:32:26+00:00 | 293616 | 160 | REXX | 16 | [] |
+| NullBrunk/CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-03 03:20:00+00:00 | 2 | 0 | Shell | 0 | ['CVE-2022-1609'] |
