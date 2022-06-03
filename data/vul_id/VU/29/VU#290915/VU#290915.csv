@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#290915,0.05000000,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
 VU#290915,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
-VU#290915,0.00082713,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#290915,0.00082645,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#290915,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#290915,0.00010325,https://github.com/f0ns1/CVE-2020,f0ns1/CVE-2020,353048821
