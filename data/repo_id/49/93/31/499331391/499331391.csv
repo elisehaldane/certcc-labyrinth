@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+499331391,Noxtal/follina,follina.py,6abe2d83aa4f98043bf28d1b7a600f0152f7cf1a,CVE-2022-30190
+499331391,Noxtal/follina,README.md,bf140e73fa9f6c6d21025c5243eab522ed197dac,CVE-2022-30190
+499331391,Noxtal/follina,_GITHUB_REPO_METADATA_,,CVE-2022-30190
