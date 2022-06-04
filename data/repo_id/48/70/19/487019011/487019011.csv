@@ -1,5 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 487019011,hktalent/goSqlite_gorm,go.sum,0333d48e769075dce082ff5135ae32616b7b600e,VU#32
+487019011,hktalent/goSqlite_gorm,pkg/db/db.go,158e96d7958d3de275514ac220b386d964407e22,CVE-2020-26134
 487019011,hktalent/goSqlite_gorm,tools/CVE-2018-15473.py,1d34085a20387a6c3f7f19752ce53c0e3938e350,CVE-2018-15473
 487019011,hktalent/goSqlite_gorm,pkg/secdb/secDb.go,77bb985febd941deb0b9032f12b0c0e638f02846,CVE-2020-14882
+487019011,hktalent/goSqlite_gorm,tools/Check_CVE_2020_26134.go,9e07ca9549aff937d19b419dc1634870c98769b0,CVE-2020-26134
+487019011,hktalent/goSqlite_gorm,tools/Check_CVE_2020_26134.go,9e07ca9549aff937d19b419dc1634870c98769b0,CVE-2022-26134
 487019011,hktalent/goSqlite_gorm,tools/ssh-username-enum.py,d57c4a224ef698ca2be00105086ab0571710b36b,CVE-2018-15473
