@@ -108,6 +108,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -250,6 +251,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -353,7 +355,7 @@
     "temp_clone_token":"",
     "network_count":543,
     "subscribers_count":206,
-    "matched_at":"2022-06-03T02:22:25Z",
+    "matched_at":"2022-06-03T02:22:04Z",
     "owner_login":"offensive-security",
     "owner_id":2352090,
     "owner_node_id":"MDQ6VXNlcjIzNTIwOTA=",
@@ -373,6 +375,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -485,7 +488,7 @@
     "temp_clone_token":"",
     "network_count":697,
     "subscribers_count":149,
-    "matched_at":"2022-06-03T07:46:33Z",
+    "matched_at":"2022-06-03T07:47:30Z",
     "owner_login":"commixproject",
     "owner_id":22997896,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjIyOTk3ODk2",
@@ -524,6 +527,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "command injection",
       "exploit"
@@ -650,6 +654,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -800,6 +805,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "command injection"
     ],
@@ -931,6 +937,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "rce"
@@ -1093,6 +1100,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1222,6 +1230,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1364,6 +1373,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1500,6 +1510,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1632,6 +1643,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1755,6 +1767,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -1916,6 +1929,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2052,6 +2066,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2179,6 +2194,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2296,6 +2312,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2439,6 +2456,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2590,6 +2608,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2707,6 +2726,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2849,6 +2869,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2997,6 +3018,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3136,6 +3158,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3286,6 +3309,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3406,6 +3430,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -3524,6 +3549,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3629,7 +3655,7 @@
     "temp_clone_token":"",
     "network_count":28,
     "subscribers_count":12,
-    "matched_at":"2022-06-03T07:47:24Z",
+    "matched_at":"2022-06-03T07:47:19Z",
     "owner_login":"ARPSyndicate",
     "owner_id":71436716,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjcxNDM2NzE2",
@@ -3668,6 +3694,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -3796,6 +3823,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -3905,7 +3933,7 @@
     "temp_clone_token":"",
     "network_count":20,
     "subscribers_count":6,
-    "matched_at":"2022-06-03T21:45:54Z",
+    "matched_at":"2022-06-03T21:45:52Z",
     "owner_login":"REW-sploit",
     "owner_id":85948899,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjg1OTQ4ODk5",
@@ -3944,6 +3972,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload",
       "sploit"
@@ -4095,6 +4124,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4212,6 +4242,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4339,6 +4370,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -4470,6 +4502,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -4612,6 +4645,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4729,6 +4763,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -4862,6 +4897,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4987,6 +5023,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -5110,6 +5147,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5227,6 +5265,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -5350,6 +5389,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5478,6 +5518,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5595,6 +5636,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5718,6 +5760,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -5860,6 +5903,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6000,6 +6044,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6120,6 +6165,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6247,6 +6293,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "remote code execution"
     ],
@@ -6373,6 +6420,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6490,6 +6538,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "shellcode"
@@ -6622,6 +6671,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -6741,7 +6791,7 @@
     "temp_clone_token":"",
     "network_count":361,
     "subscribers_count":171,
-    "matched_at":"2022-06-03T02:21:59Z",
+    "matched_at":"2022-06-03T02:22:24Z",
     "owner_login":"trickest",
     "owner_id":62057399,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjYyMDU3Mzk5",
@@ -6780,6 +6830,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -6905,6 +6956,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -7022,6 +7074,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -7125,7 +7178,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T17:48:06Z",
+    "matched_at":"2022-06-03T17:47:55Z",
     "owner_login":"0z09e",
     "owner_id":62566206,
     "owner_node_id":"MDQ6VXNlcjYyNTY2MjA2",
@@ -7145,6 +7198,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "remote code execution"
@@ -7269,6 +7323,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -7392,6 +7447,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7512,6 +7568,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7635,6 +7692,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -7752,6 +7810,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7894,6 +7953,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8011,6 +8071,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8128,6 +8189,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -8245,6 +8307,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8362,6 +8425,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8479,6 +8543,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -8596,6 +8661,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -8713,6 +8779,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8816,7 +8883,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T09:48:11Z",
+    "matched_at":"2022-06-03T09:48:25Z",
     "owner_login":"hktalent",
     "owner_id":18223385,
     "owner_node_id":"MDQ6VXNlcjE4MjIzMzg1",
@@ -8836,6 +8903,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "0day",
       "rce"
@@ -8966,6 +9034,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9089,6 +9158,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9206,6 +9276,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -9339,6 +9410,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9456,6 +9528,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9573,6 +9646,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9690,6 +9764,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9807,6 +9882,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9924,6 +10000,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10066,6 +10143,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10183,6 +10261,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10300,6 +10379,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10423,6 +10503,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -10546,6 +10627,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -10669,6 +10751,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -10786,6 +10869,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -10909,6 +10993,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11034,6 +11119,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "0day",
       "exploit"
@@ -11152,6 +11238,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -11275,6 +11362,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -11372,7 +11460,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T07:47:19Z",
+    "matched_at":"2022-06-03T07:47:30Z",
     "owner_login":"WesyHub",
     "owner_id":35263085,
     "owner_node_id":"MDQ6VXNlcjM1MjYzMDg1",
@@ -11392,6 +11480,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -11511,6 +11600,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11628,6 +11718,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11745,6 +11836,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -11868,6 +11960,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "remote code execution"
     ],
@@ -11985,6 +12078,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "vulnerability poc"
@@ -12086,7 +12180,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T02:22:24Z",
+    "matched_at":"2022-06-03T02:21:59Z",
     "owner_login":"NullBrunk",
     "owner_id":106782577,
     "owner_node_id":"U_kgDOBl1fcQ",
@@ -12106,6 +12200,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit"
@@ -12224,6 +12319,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "rce",
@@ -12344,6 +12440,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12461,6 +12558,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12578,6 +12676,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12633,13 +12732,13 @@
     "releases_url":"https:\/\/api.github.com\/repos\/NullBrunk\/CVE-2022-1609\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/NullBrunk\/CVE-2022-1609\/deployments",
     "created_at":"2022-06-03T02:49:49Z",
-    "updated_at":"2022-06-03T03:16:56Z",
+    "updated_at":"2022-06-03T15:44:34Z",
     "pushed_at":"2022-06-03T03:20:00Z",
     "git_url":"git:\/\/github.com\/NullBrunk\/CVE-2022-1609.git",
     "ssh_url":"git@github.com:NullBrunk\/CVE-2022-1609.git",
     "clone_url":"https:\/\/github.com\/NullBrunk\/CVE-2022-1609.git",
     "svn_url":"https:\/\/github.com\/NullBrunk\/CVE-2022-1609",
-    "homepage":null,
+    "homepage":"",
     "size":2,
     "stargazers_count":0,
     "watchers_count":0,
@@ -12658,7 +12757,11 @@
     "allow_forking":true,
     "is_template":false,
     "topics":[
-
+      "backdoor",
+      "hacking",
+      "nday",
+      "rce",
+      "wordpress"
     ],
     "visibility":"public",
     "forks":0,
@@ -12675,7 +12778,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T03:58:38Z",
+    "matched_at":"2022-06-03T15:49:28Z",
     "owner_login":"NullBrunk",
     "owner_id":106782577,
     "owner_node_id":"U_kgDOBl1fcQ",
@@ -12695,6 +12798,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -12815,6 +12919,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12932,6 +13037,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "shellcode"
@@ -13050,6 +13156,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13167,6 +13274,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13284,6 +13392,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13401,6 +13510,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13518,6 +13628,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13635,6 +13746,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2"
@@ -13753,6 +13865,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13870,6 +13983,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13967,7 +14081,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T09:48:18Z",
+    "matched_at":"2022-06-03T09:48:19Z",
     "owner_login":"badboy-sft",
     "owner_id":83988282,
     "owner_node_id":"MDQ6VXNlcjgzOTg4Mjgy",
@@ -13987,6 +14101,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -14088,7 +14203,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T09:48:19Z",
+    "matched_at":"2022-06-03T09:48:17Z",
     "owner_login":"CyberDonkyx0",
     "owner_id":59737831,
     "owner_node_id":"MDQ6VXNlcjU5NzM3ODMx",
@@ -14108,6 +14223,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "remote code execution"
@@ -14226,6 +14342,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14343,6 +14460,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -14460,6 +14578,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -14577,6 +14696,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14694,6 +14814,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -14825,6 +14946,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14942,6 +15064,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -15059,6 +15182,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit"
@@ -15162,7 +15286,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T13:53:23Z",
+    "matched_at":"2022-06-03T13:53:37Z",
     "owner_login":"Expl0desploit",
     "owner_id":106817899,
     "owner_node_id":"U_kgDOBl3paw",
@@ -15182,6 +15306,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit",
@@ -15301,6 +15426,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "remote code execution"
@@ -15405,7 +15531,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T13:53:04Z",
+    "matched_at":"2022-06-03T13:53:38Z",
     "owner_login":"th3b3ginn3r",
     "owner_id":32792786,
     "owner_node_id":"MDQ6VXNlcjMyNzkyNzg2",
@@ -15425,6 +15551,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit"
@@ -15531,7 +15658,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T19:45:39Z",
+    "matched_at":"2022-06-03T19:45:10Z",
     "owner_login":"jbaines-r7",
     "owner_id":91965877,
     "owner_node_id":"U_kgDOBXtJtQ",
@@ -15551,6 +15678,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -15669,6 +15797,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15790,6 +15919,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -15887,7 +16017,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T15:50:11Z",
+    "matched_at":"2022-06-03T15:49:41Z",
     "owner_login":"e4r23fd",
     "owner_id":106811566,
     "owner_node_id":"U_kgDOBl3Qrg",
@@ -15907,6 +16037,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit"
@@ -16025,6 +16156,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "remote code execution"
@@ -16143,6 +16275,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16260,6 +16393,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16402,6 +16536,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16538,6 +16673,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16655,6 +16791,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16787,6 +16924,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16904,6 +17042,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -17028,6 +17167,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17145,6 +17285,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17262,6 +17403,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -17379,6 +17521,125 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":499611181,
+    "node_id":"R_kgDOHcd2LQ",
+    "name":"Auto-Exploiter",
+    "full_name":"CYBERKINGSQUAD\/Auto-Exploiter",
+    "private":false,
+    "html_url":"https:\/\/github.com\/CYBERKINGSQUAD\/Auto-Exploiter",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter",
+    "forks_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/CYBERKINGSQUAD\/Auto-Exploiter\/deployments",
+    "created_at":"2022-06-03T18:22:49Z",
+    "updated_at":"2022-06-04T13:44:38Z",
+    "pushed_at":"2022-06-03T18:22:50Z",
+    "git_url":"git:\/\/github.com\/CYBERKINGSQUAD\/Auto-Exploiter.git",
+    "ssh_url":"git@github.com:CYBERKINGSQUAD\/Auto-Exploiter.git",
+    "clone_url":"https:\/\/github.com\/CYBERKINGSQUAD\/Auto-Exploiter.git",
+    "svn_url":"https:\/\/github.com\/CYBERKINGSQUAD\/Auto-Exploiter",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-06-04T13:49:22Z",
+    "owner_login":"CYBERKINGSQUAD",
+    "owner_id":105499497,
+    "owner_node_id":"U_kgDOBknLaQ",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/105499497?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD",
+    "owner_html_url":"https:\/\/github.com\/CYBERKINGSQUAD",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/CYBERKINGSQUAD\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17476,7 +17737,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T19:45:27Z",
+    "matched_at":"2022-06-03T19:45:10Z",
     "owner_login":"oturu",
     "owner_id":106835379,
     "owner_node_id":"U_kgDOBl4tsw",
@@ -17496,6 +17757,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -17616,6 +17878,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -17733,6 +17996,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17850,6 +18114,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -17967,6 +18232,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18064,7 +18330,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2022-06-03T19:45:22Z",
+    "matched_at":"2022-06-03T19:45:27Z",
     "owner_login":"crowsec-edtech",
     "owner_id":97851186,
     "owner_node_id":"O_kgDOBdUXMg",
@@ -18103,6 +18369,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "rce"
@@ -18221,6 +18488,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -18351,6 +18619,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18448,7 +18717,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-03T21:45:55Z",
+    "matched_at":"2022-06-03T21:45:50Z",
     "owner_login":"Nwqda",
     "owner_id":89986678,
     "owner_node_id":"MDQ6VXNlcjg5OTg2Njc4",
@@ -18468,6 +18737,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -18590,6 +18860,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -18707,6 +18978,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18824,6 +19096,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18941,6 +19214,7 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
