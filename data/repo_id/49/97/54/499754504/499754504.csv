@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+499754504,nathanealm/PrintNightmare-Exploit,CVE-2021-1675.py,9e94cfd5a239e81a2fd6becdaaac31d171ee6bd4,CVE-2021-1675
+499754504,nathanealm/PrintNightmare-Exploit,CVE-2021-1675.py,9e94cfd5a239e81a2fd6becdaaac31d171ee6bd4,CVE-2021-34527
+499754504,nathanealm/PrintNightmare-Exploit,README.md,e328d512c46c7cfd4b9ce87e71b9f37968351ca6,CVE-2021-1675
+499754504,nathanealm/PrintNightmare-Exploit,README.md,e328d512c46c7cfd4b9ce87e71b9f37968351ca6,CVE-2021-34527
