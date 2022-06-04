@@ -6,7 +6,8 @@ repo_id,repo_full_name,file,file_sha1,match
 483783009,DataDog/security-labs-pocs,proof-of-concept-exploits/confluence-cve-2022-26134/getshell.sh,74b05f142f6daca59343448566bc6581f7b6d57b,CVE-2022-26134
 483783009,DataDog/security-labs-pocs,proof-of-concept-exploits/jwt-null-signature-vulnerable-app/README.md,779f96e417a896d270ecb17a802fae8e120d5379,CVE-2022-21449
 483783009,DataDog/security-labs-pocs,proof-of-concept-exploits/spring4shell/README.md,9541d8966121189b7960a42a799cb528b8531285,CVE-2022-22965
-483783009,DataDog/security-labs-pocs,README.md,97117ae8e7350af8deffb1ba4598e0f741823236,CVE-2022-21449
-483783009,DataDog/security-labs-pocs,README.md,97117ae8e7350af8deffb1ba4598e0f741823236,CVE-2022-22965
 483783009,DataDog/security-labs-pocs,proof-of-concept-exploits/confluence-cve-2022-26134/README.md,a127691f4fa25afa6a1dea70599f12c38fed1e45,CVE-2022-26134
 483783009,DataDog/security-labs-pocs,proof-of-concept-exploits/confluence-cve-2022-26134/docker-compose.yml,e8f2c40a98a068d0edbbe251855b57a9f9b7c116,CVE-2022-26134
+483783009,DataDog/security-labs-pocs,README.md,f0250246eab38365c8c251aee86dd41574402a7e,CVE-2022-21449
+483783009,DataDog/security-labs-pocs,README.md,f0250246eab38365c8c251aee86dd41574402a7e,CVE-2022-22965
+483783009,DataDog/security-labs-pocs,README.md,f0250246eab38365c8c251aee86dd41574402a7e,CVE-2022-26134
