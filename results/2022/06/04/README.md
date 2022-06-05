@@ -1,7 +1,7 @@
 
 # Summary for results/2022/06/04
     
-106 records found after deduplication
+107 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,7 +22,7 @@
 | zedxpace/hacking-and-security-with-python-and-c-code- | This page will contain all the links to the script and exploits built from scratch in python as well as c code. | https://github.com/zedxpace/hacking-and-security-with-python-and-c-code- | ['exploit'] | 1 | 2022-06-04 06:41:00+00:00 | 10 | 1 | | 1 | [] |
 | OpenSauceRepositories/robloxts-exploitingmodules | None | https://github.com/OpenSauceRepositories/robloxts-exploitingmodules | ['exploit'] | 1 | 2022-06-04 09:34:48+00:00 | 48 | 1 | TypeScript | 0 | [] |
 | 0x910/-sploit | Enjoy | https://github.com/0x910/-sploit | ['sploit'] | 1 | 2022-06-04 13:48:08+00:00 | 104 | 0 | Lua | 0 | [] |
-| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-04 12:04:21+00:00 | 503 | 11 | Python | 3 | ['CVE-2022-26134'] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-04 07:48:56+00:00 | 492 | 9 | Python | 1 | [] |
 | markekraus/DiscordSlashCommandBot | This project demonstrates how to configure an extensible Discord slash command bot in C# that uses Configuration and Dependency Injection. | https://github.com/markekraus/DiscordSlashCommandBot | ['command injection'] | 1 | 2022-06-04 17:20:45+00:00 | 25 | 2 | C# | 0 | [] |
 | KobaWare/Deepsploit | Tool to create backdoors | https://github.com/KobaWare/Deepsploit | ['metasploit module OR payload'] | 1 | 2022-06-04 02:59:05+00:00 | 31 | 2 | Shell | 0 | [] |
 | Z4rkos/Web_Vulnerabilities_School_Project | A repository containing websites I'm making for my school project "Examining, exploiting and explaining common web appliaction vulnerabilities" | https://github.com/Z4rkos/Web_Vulnerabilities_School_Project | ['exploit'] | 1 | 2022-06-04 12:56:34+00:00 | 43 | 0 | HTML | 0 | [] |
@@ -32,7 +32,7 @@
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-06-04 09:40:17+00:00 | 3650 | 27 | Python | 1 | [] |
 | nathanealm/PrintNightmare-Exploit | None | https://github.com/nathanealm/PrintNightmare-Exploit | ['exploit'] | 1 | 2022-06-04 07:31:50+00:00 | 0 | 0 | | 0 | [] |
 | wholeleaf74/wholeleaf74 | CBD is clearing the market on purpose. Also, this item is no special case. Most CBD recipes contain just around 100mg of CBD. In any case, this one has 10x that sum! Along these lines, when you use WholeLeaf CBD Oil, you'll get alleviation from your distre | https://github.com/wholeleaf74/wholeleaf74 | ['exploit'] | 1 | 2022-06-04 10:01:51+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-04 05:03:38+00:00 | 234750 | 7170 | C | 1910 | [] |
+| kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-06-04 05:55:13+00:00 | 73 | 17 | Python | 7 | [] |
 | Brucetg/CVE-2022-26134 | （CVE-2022-26134）an unauthenticated and remote OGNL injection vulnerability resulting in code execution in the context of the Confluence server | https://github.com/Brucetg/CVE-2022-26134 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-06-04 11:02:14+00:00 | 452 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | IVORYexec/The-W-Exploit | None | https://github.com/IVORYexec/The-W-Exploit | ['exploit'] | 1 | 2022-06-04 22:50:39+00:00 | 0 | 0 | | 0 | [] |
 | 0xAbbarhSF/CVE-2021-25076 | Wordpress Plugin WP User Frontend < 3.5.26 - SQL-Injection (Authenticated) | https://github.com/0xAbbarhSF/CVE-2021-25076 | ['cve-2 OR cve_2'] | 1 | 2022-06-04 21:24:22+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-25076'] |
@@ -42,7 +42,7 @@
 | dsneddon00/Win32BufferOverflowExploitationTools | This repo contains various python scripts I wrote while exploiting 32 bit Windows systems using stack based buffer overflow techniques. | https://github.com/dsneddon00/Win32BufferOverflowExploitationTools | ['exploit'] | 1 | 2022-06-04 18:21:59+00:00 | 4 | 0 | Python | 0 | [] |
 | ducluongtran9121/CVE-2022-22978-PoC | PoC of CVE-2022-22978 vulnerability in Spring Security framework | https://github.com/ducluongtran9121/CVE-2022-22978-PoC | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-06-04 17:14:05+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-22978'] |
 | AmoloHT/TTWAF | 「🧱」Test a list of payloads and see if you can bypass it | https://github.com/AmoloHT/TTWAF | ['rce'] | 1 | 2022-06-04 17:35:08+00:00 | 0 | 1 | Rust | 0 | [] |
-| jimidk/Better-CVE-2022-29464 | CVE-2022-29464 PoC for WSO2 products | https://github.com/jimidk/Better-CVE-2022-29464 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-04 17:41:16+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-29464'] |
+| jimidk/Better-CVE-2022-29464 | CVE-2022-29464 PoC for WSO2 products | https://github.com/jimidk/Better-CVE-2022-29464 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-04 17:41:16+00:00 | 0 | 1 | Java | 0 | ['CVE-2022-29464'] |
 | JetBerri/Rust-RvTCP-Shellcode | Reverse TCP using shellcode in Rust. | https://github.com/JetBerri/Rust-RvTCP-Shellcode | ['shellcode'] | 1 | 2022-06-04 15:29:48+00:00 | 0 | 0 | Rust | 0 | [] |
 | drtha/dirtyPipe | go program to exploit dirty pipe vulnerability | https://github.com/drtha/dirtyPipe | ['exploit'] | 1 | 2022-06-04 14:41:22+00:00 | 0 | 0 | | 0 | [] |
 | dbd4/debugMyShellcode | None | https://github.com/dbd4/debugMyShellcode | ['shellcode'] | 1 | 2022-06-04 13:46:16+00:00 | 0 | 0 | | 0 | [] |
@@ -58,9 +58,9 @@
 | 914525753/Laravel-CVE-2021-3129 | CVE-2021-3129 | https://github.com/914525753/Laravel-CVE-2021-3129 | ['cve-2 OR cve_2'] | 1 | 2022-06-04 11:35:48+00:00 | 0 | 0 | PHP | 0 | ['CVE-2021-3129'] |
 | shamo0/CVE-2022-26134 | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 7 | 2022-06-04 12:53:58+00:00 | 7 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | UnknownRO/exploits | Exploits made by UnknownRO community aka CheluAkaGrasu | https://github.com/UnknownRO/exploits | ['exploit'] | 1 | 2022-06-04 21:31:12+00:00 | 2259 | 0 | | 0 | [] |
-| kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-06-04 05:55:13+00:00 | 73 | 17 | Python | 7 | [] |
 | jonatanSh/elf_to_shellcode | Python library to convert elf to shellcodes | https://github.com/jonatanSh/elf_to_shellcode | ['shellcode'] | 1 | 2022-06-04 21:16:40+00:00 | 410 | 0 | Python | 0 | [] |
-| hktalent/goSqlite_gorm | golang hacker tools | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-04 15:39:10+00:00 | 185 | 1 | Go | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-04 05:03:38+00:00 | 234750 | 7170 | C | 1910 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-06-04 07:41:37+00:00 | 750 | 1 | | 0 | [] |
 | REL4X7447/REL4XWARE_SourceCode | Source Code of the REL4XWARE Roblox Exploit | https://github.com/REL4X7447/REL4XWARE_SourceCode | ['exploit'] | 1 | 2022-06-04 08:36:50+00:00 | 25 | 0 | C# | 1 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-06-04 09:32:44+00:00 | 7714 | 13 | HTML | 5 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-06-04 15:24:37+00:00 | 127 | 3 | Python | 0 | [] |
@@ -85,9 +85,9 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-06-04 12:35:03+00:00 | 75627 | 11576 | Jupyter Notebook | 1980 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-06-04 00:02:34+00:00 | 1534830 | 1634 | Python | 543 | [] |
 | R00tendo/CVE-2012-2982 | None | https://github.com/R00tendo/CVE-2012-2982 | ['cve-2 OR cve_2'] | 1 | 2022-06-04 18:05:35+00:00 | 3 | 0 | Python | 0 | ['CVE-2012-2982'] |
-| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-06-04 07:41:37+00:00 | 750 | 1 | | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-06-04 00:31:22+00:00 | 139616 | 2 | Jupyter Notebook | 0 | [] |
-| ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-04 23:27:38+00:00 | 151 | 10 | Java | 0 | [] |
+| hktalent/goSqlite_gorm | golang hacker tools | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-04 15:39:10+00:00 | 185 | 1 | Go | 0 | [] |
+| Elioby/minecraft-server-exploits | A compiled list of current Minecraft server and Minecraft server plugin exploits. Feel free to open issues / pull requests with new exploits. | https://github.com/Elioby/minecraft-server-exploits | ['exploit'] | 1 | 2022-06-04 11:43:58+00:00 | 14 | 0 | | 0 | [] |
 | fumerem/shellcode_loader | shellcode_runner | https://github.com/fumerem/shellcode_loader | ['shellcode'] | 1 | 2022-06-04 13:47:43+00:00 | 6 | 0 | Rust | 0 | [] |
 | TitanVale/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-06-04 11:17:56+00:00 | 2560 | 4 | Shell | 0 | [] |
 | WMDA/ctf | A collection of exploits and scripts used in CTFs/tryhackme/hackthebox | https://github.com/WMDA/ctf | ['exploit'] | 1 | 2022-06-04 19:33:41+00:00 | 581 | 1 | Python | 0 | [] |
@@ -96,10 +96,11 @@
 | DataDog/security-labs-pocs | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | ['exploit'] | 1 | 2022-06-04 13:09:29+00:00 | 893 | 231 | C | 26 | [] |
 | SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-06-04 09:00:14+00:00 | 149 | 223 | Go | 27 | [] |
 | cc3305/CVEAllTheThings | A collection of CVE exploit scripts written in Python | https://github.com/cc3305/CVEAllTheThings | ['exploit'] | 1 | 2022-06-04 15:40:20+00:00 | 10 | 0 | Python | 0 | [] |
+| UNICORDev/exploit-CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution | https://github.com/UNICORDev/exploit-CVE-2021-22204 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-04 23:50:39+00:00 | 99 | 5 | Python | 0 | ['CVE-2021-22204'] |
 | 4sploit/4sploit-web-app | My personal web application | https://github.com/4sploit/4sploit-web-app | ['sploit'] | 1 | 2022-06-04 20:16:42+00:00 | 2198 | 0 | TypeScript | 0 | [] |
 | hyperdefined/LecternCrashFix | Fixes the lectern crash/exploit. | https://github.com/hyperdefined/LecternCrashFix | ['exploit'] | 1 | 2022-06-04 00:07:02+00:00 | 30 | 6 | Java | 4 | [] |
+| ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-04 23:27:38+00:00 | 151 | 10 | Java | 0 | [] |
 | vportal/HEVD | HackSysExtremeVulnerableDriver exploits for latest Windows 10 version | https://github.com/vportal/HEVD | ['exploit'] | 1 | 2022-06-04 10:15:56+00:00 | 1422 | 0 | C++ | 0 | [] |
-| Elioby/minecraft-server-exploits | A compiled list of current Minecraft server and Minecraft server plugin exploits. Feel free to open issues / pull requests with new exploits. | https://github.com/Elioby/minecraft-server-exploits | ['exploit'] | 1 | 2022-06-04 11:43:58+00:00 | 14 | 0 | | 0 | [] |
 | ElliotAlderson51/Exploit-Writeups | Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | ['exploit'] | 1 | 2022-06-04 10:32:29+00:00 | 46 | 0 | C++ | 0 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-06-04 17:47:17+00:00 | 375 | 7 | Python | 1 | [] |
 | PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-06-04 01:42:10+00:00 | 561008 | 680 | | 137 | [] |
