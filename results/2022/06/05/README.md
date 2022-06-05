@@ -1,12 +1,13 @@
 
 # Summary for results/2022/06/05
     
-40 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-05 00:29:33+00:00 | 56620 | 306 | Ruby | 89 | [] |
-| DrSlowpokePhd/drslowpokephd.github.io | Public website/blog for my web development/game development exploits. | https://github.com/DrSlowpokePhd/drslowpokephd.github.io | ['exploit'] | 1 | 2022-06-05 02:00:11+00:00 | 43794 | 0 | HTML | 0 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-9 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-9 | ['exploit'] | 1 | 2022-06-05 00:09:33+00:00 | 1 | 0 | | 0 | [] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-05 02:45:10+00:00 | 506 | 12 | Python | 5 | ['CVE-2022-26134'] |
 | klen-list/sprayplus | A small server-side glua script that trying prevent spray crash exploits from using, without replacing a default spraying system | https://github.com/klen-list/sprayplus | ['exploit'] | 1 | 2022-06-05 05:04:28+00:00 | 4 | 0 | Lua | 0 | [] |
 | Noxtal/follina | All about CVE-2022-30190, aka follina, that is a RCE vulnerability that affects Microsoft Support Diagnostic Tools (MSDT) on Office apps such as Word. This is a very simple POC, feel free to check the sources below for more threat intelligence. | https://github.com/Noxtal/follina | ['cve poc', 'rce', 'rce poc', 'vulnerability poc'] | 4 | 2022-06-05 04:31:59+00:00 | 12 | 0 | Python | 0 | ['CVE-2022-30190'] |
 | Sakura-nee/CVE-2022-26134 | None | https://github.com/Sakura-nee/CVE-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-06-05 01:07:46+00:00 | 9 | 0 | Python | 0 | ['CVE-2022-26134'] |
@@ -15,8 +16,8 @@
 | DuxV2/Roblox-Exploits | Public Exploits For Roblox | https://github.com/DuxV2/Roblox-Exploits | ['exploit'] | 1 | 2022-06-05 01:52:55+00:00 | 30 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | ['exploit'] | 1 | 2022-06-05 00:07:48+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-9 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-9 | ['exploit'] | 1 | 2022-06-05 00:08:45+00:00 | 1 | 0 | | 0 | [] |
-| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-9 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-9 | ['exploit'] | 1 | 2022-06-05 00:09:33+00:00 | 1 | 0 | | 0 | [] |
 | huadema/Bypass_AV | 通过映射注入来躲避杀毒软件对系统常用关键API的挂钩查杀 | https://github.com/huadema/Bypass_AV | ['shellcode'] | 1 | 2022-06-05 03:54:32+00:00 | 0 | 1 | C++ | 0 | [] |
+| DrSlowpokePhd/drslowpokephd.github.io | Public website/blog for my web development/game development exploits. | https://github.com/DrSlowpokePhd/drslowpokephd.github.io | ['exploit'] | 1 | 2022-06-05 02:00:11+00:00 | 43794 | 0 | HTML | 0 | [] |
 | 0x14dli/cve2022-26134exp | cve2022-26134 | https://github.com/0x14dli/cve2022-26134exp | ['cve-2 OR cve_2'] | 1 | 2022-06-05 03:31:49+00:00 | 0 | 2 | Python | 0 | [] |
 | deen666/Auto-Raptor | Auto Raptor with Python (Raptor See also: http://www.0xdeadbeef.info/exploits/raptor_udf.c ) | https://github.com/deen666/Auto-Raptor | ['exploit'] | 1 | 2022-06-05 03:52:09+00:00 | 0 | 0 | C | 0 | [] |
 | ramanmg001/CVE-POC | None | https://github.com/ramanmg001/CVE-POC | ['cve poc'] | 1 | 2022-06-05 04:08:27+00:00 | 0 | 0 | | 0 | [] |
@@ -24,10 +25,12 @@
 | MaxMady/PokeShame | An advanced Pokétwo based exploit used for farming credits. | https://github.com/MaxMady/PokeShame | ['exploit'] | 1 | 2022-06-05 07:23:36+00:00 | 0 | 0 | | 0 | [] |
 | 0xvpr/vpr-extract | A command line tool for the extraction of the .text section of an executable | https://github.com/0xvpr/vpr-extract | ['shellcode'] | 1 | 2022-06-05 08:28:07+00:00 | 106 | 1 | C | 0 | [] |
 | tej7gandhi/CVE-2022-30190-Zero-Click-Zero-Day-in-msdt | None | https://github.com/tej7gandhi/CVE-2022-30190-Zero-Click-Zero-Day-in-msdt | ['cve-2 OR cve_2'] | 1 | 2022-06-05 08:54:27+00:00 | 0 | 0 | Batchfile | 0 | ['CVE-2022-30190'] |
-| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-05 02:45:10+00:00 | 506 | 12 | Python | 5 | ['CVE-2022-26134'] |
+| CosminSch/Cosm1n-Exploit | None | https://github.com/CosminSch/Cosm1n-Exploit | ['exploit'] | 1 | 2022-06-05 09:38:24+00:00 | 0 | 0 | | 0 | [] |
+| SecurityWeapons/EvilEx | Explotation tool to sending files to target server example I send a big file to the server or you can send it and with metasploit with a meterpreter reverse_tcp you can execute this file on the target server | https://github.com/SecurityWeapons/EvilEx | ['metasploit module OR payload'] | 1 | 2022-06-05 10:16:18+00:00 | 2 | 0 | Python | 0 | [] |
+| AntonioCoppe/InformationSecurityProject | Exploiting Vulnerabilities from an unsecure web application and transforming it in a "secure" web application. | https://github.com/AntonioCoppe/InformationSecurityProject | ['exploit'] | 1 | 2022-06-05 10:20:35+00:00 | 3703 | 0 | Java | 0 | [] |
+| GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-06-05 11:39:50+00:00 | 3603 | 30 | Python | 1 | [] |
 | UnknownRO/exploits | Exploits made by UnknownRO community aka CheluAkaGrasu | https://github.com/UnknownRO/exploits | ['exploit'] | 1 | 2022-06-05 08:19:34+00:00 | 2582 | 0 | | 0 | [] |
-| hktalent/goSqlite_gorm | golang hacker tools | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-05 02:29:02+00:00 | 190 | 2 | Go | 0 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-05 02:04:50+00:00 | 1259 | 106 | HTML | 24 | [] |
+| jonatanSh/elf_to_shellcode | Python library to convert elf to shellcodes | https://github.com/jonatanSh/elf_to_shellcode | ['shellcode'] | 1 | 2022-06-05 11:44:52+00:00 | 424 | 0 | Python | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-05 02:31:41+00:00 | 295962 | 161 | REXX | 16 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-05 06:48:05+00:00 | 16900 | 42 | | 21 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-05 02:03:49+00:00 | 586318 | 56 | | 22 | [] |
@@ -35,13 +38,16 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-05 04:55:44+00:00 | 201644 | 433 | Python | 124 | [] |
 | Juliocj7/MsfCj7 | 🔥 Instala Metasploit 6 correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MsfCj7 | ['metasploit module OR payload'] | 1 | 2022-06-05 00:29:19+00:00 | 22 | 19 | | 14 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-05 02:01:50+00:00 | 22112 | 3 | Python | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-05 02:04:50+00:00 | 1259 | 106 | HTML | 24 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-05 01:48:39+00:00 | 6038019 | 49 | Python | 8 | [] |
-| TitanVale/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-06-05 01:03:27+00:00 | 2664 | 4 | Shell | 0 | [] |
 | Vegetebird/StridedTransformer-Pose3D | [TMM 2022] Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation | https://github.com/Vegetebird/StridedTransformer-Pose3D | ['exploit'] | 1 | 2022-06-05 03:11:45+00:00 | 29039 | 61 | Python | 11 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-06-05 05:43:45+00:00 | 53592 | 762 | Python | 183 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-06-05 00:34:08+00:00 | 141910 | 2 | Jupyter Notebook | 0 | [] |
+| nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2022-06-05 10:12:59+00:00 | 55515 | 1 | C++ | 1 | [] |
 | Idov31/FunctionStomping | A new shellcode injection technique. Given as C++ header, standalone Rust program or library. | https://github.com/Idov31/FunctionStomping | ['shellcode'] | 1 | 2022-06-05 07:29:56+00:00 | 588 | 517 | Rust | 78 | [] |
 | nathants/aws-rce | adhoc remote execution in aws lambda | https://github.com/nathants/aws-rce | ['rce'] | 1 | 2022-06-05 09:28:10+00:00 | 3307 | 16 | Go | 0 | [] |
 | hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-06-05 07:23:31+00:00 | 17741 | 1 | Java | 0 | ['CVE-2021-44228'] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-05 01:10:19+00:00 | 343 | 0 | | 0 | [] |
-| CosminSch/Cosm1n-Exploit | None | https://github.com/CosminSch/Cosm1n-Exploit | ['exploit'] | 1 | 2022-06-05 09:38:24+00:00 | 0 | 0 | | 0 | [] |
+| TitanVale/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-06-05 01:03:27+00:00 | 2664 | 4 | Shell | 0 | [] |
+| hktalent/goSqlite_gorm | golang hacker tools | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-05 02:29:02+00:00 | 190 | 2 | Go | 0 | [] |
+| ARGF0RCE/ARGF0RCE | None | https://github.com/ARGF0RCE/ARGF0RCE | ['rce'] | 1 | 2022-06-05 10:15:25+00:00 | 0 | 0 | | 0 | [] |
