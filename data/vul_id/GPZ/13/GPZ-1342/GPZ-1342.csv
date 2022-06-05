@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1342,0.01123596,https://github.com/0xbitx/android-exploit-,0xbitx/android-exploit-,330139508
 GPZ-1342,0.01041667,https://github.com/sundaysec/Android-Exploits,sundaysec/Android-Exploits,145540149
+GPZ-1342,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 GPZ-1342,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1342,0.00005316,https://github.com/Capa-cc/Exploit,Capa-cc/Exploit,114506475
 GPZ-1342,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410

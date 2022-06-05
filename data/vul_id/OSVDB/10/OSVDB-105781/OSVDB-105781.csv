@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-105781,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 OSVDB-105781,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 OSVDB-105781,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
 OSVDB-105781,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-55151,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
 OSVDB-55151,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
+OSVDB-55151,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 OSVDB-55151,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-55151,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 OSVDB-55151,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
