@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-489036057,nicolasmf/pyxploit-db,pyxploitdb/pyxploitdb.py,17436fefe44ae5e016be94d4ca06d0204b1752ef,CVE-1234-1234
-489036057,nicolasmf/pyxploit-db,README.md,21335da5b1fa69b628338a9b28985ba2ce82de42,CVE-2006-1234
+489036057,nicolasmf/pyxploit-db,pyxploitdb/pyxploitdb.py,2ca618cd80f51e5f34e847b5f1dbdedac3df5a7a,CVE-1234-1234
+489036057,nicolasmf/pyxploit-db,README.md,38d57ea34708c78b5050595d51cc7be2f9ae69bb,CVE-2006-1234
