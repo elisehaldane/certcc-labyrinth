@@ -152,8 +152,8 @@ repo_id,repo_full_name,file,file_sha1,match
 377697824,veo/vscan,pocs_yml/ymlFiles/phpcms-cve-2018-19127.yml,7c29edf3657d9f88aa1fa571695c4434e43faaae,CVE-2018-19127
 377697824,veo/vscan,pocs_yml/ymlFiles/phpunit-cve-2017-9841-rce.yml,7e518d182712b44bb5f1047db77edc6c584cb91b,CVE-2017-9841
 377697824,veo/vscan,pocs_yml/ymlFiles/apache-druid-cve-2021-36749.yml,800cf84e6778b4635c3bfef82a3fd7fd0eb103b7,CVE-2021-36749
-377697824,veo/vscan,pocs_go/jenkins/CVE_2019_1003000.go,81f8070d166d43c89ede9f8dd921d90e4d731973,CVE-2019-1003000
 377697824,veo/vscan,pocs_go/jenkins/CVE_2019_1003000.go,81f8070d166d43c89ede9f8dd921d90e4d731973,CVE-2019-10003000
+377697824,veo/vscan,pocs_go/jenkins/CVE_2019_1003000.go,81f8070d166d43c89ede9f8dd921d90e4d731973,CVE-2019-1003000
 377697824,veo/vscan,pocs_yml/ymlFiles/apache-httpd-cve-2021-40438-ssrf.yml,857f6b2e6847382724e836df78da469c26e0805c,CVE-2021-40438
 377697824,veo/vscan,pocs_go/weblogic/CVE_2020_14883.go,858f46e38daa8dc017986a8d9130ad64991ea0cc,CVE-2020-14883
 377697824,veo/vscan,pocs_yml/ymlFiles/metinfo-lfi-cnvd-2018-13393.yml,86cf21329e302d1267548e3e86716a5476d4f914,CNVD-2018-13393
@@ -164,7 +164,6 @@ repo_id,repo_full_name,file,file_sha1,match
 377697824,veo/vscan,pocs_yml/ymlFiles/gitlab-graphql-info-leak-cve-2020-26413.yml,8b55c930a63726e1ae88bf93cde09b946bd778f8,CNVD-2021-14193
 377697824,veo/vscan,pocs_yml/ymlFiles/gitlab-graphql-info-leak-cve-2020-26413.yml,8b55c930a63726e1ae88bf93cde09b946bd778f8,CVE-2020-26413
 377697824,veo/vscan,pocs_yml/ymlFiles/spring-cve-2016-4977.yml,8da062a5815918f585dfb61a899d7a2621b2f0b6,CVE-2016-4977
-377697824,veo/vscan,go.sum,8de8ad575b6ec70d021cec8eb68bd780c2fe00c9,VU#73
 377697824,veo/vscan,pocs_yml/ymlFiles/nagio-cve-2018-10737.yml,8e6dea092633c2c73ad96e800ccda892d46a8802,CVE-2018-10737
 377697824,veo/vscan,pocs_yml/ymlFiles/zeit-nodejs-cve-2020-5284-directory-traversal.yml,8eebf204ec930a731e0455c6984e4429f1870acb,CNNVD-202003-1728
 377697824,veo/vscan,pocs_yml/ymlFiles/zeit-nodejs-cve-2020-5284-directory-traversal.yml,8eebf204ec930a731e0455c6984e4429f1870acb,CVE-2020-5284
@@ -194,6 +193,7 @@ repo_id,repo_full_name,file,file_sha1,match
 377697824,veo/vscan,pocs_yml/ymlFiles/fortigate-cve-2018-13379-readfile.yml,adf9e4d1519411f1ea6206ae17da55512b359673,CVE-2018-13379
 377697824,veo/vscan,pocs_yml/ymlFiles/vbulletin-cve-2019-16759-bypass.yml,afbb8b06706340e0f186217263bf5229b6694796,CVE-2019-16759
 377697824,veo/vscan,pocs_yml/ymlFiles/youphptube-encoder-cve-2019-5127.yml,b0c6dd07b64285c21a1577be3d5092ed1ebb9e10,CVE-2019-5127
+377697824,veo/vscan,go.sum,b178298164865ed2a5c98ea4124ed6c1bbd10cb0,VU#73
 377697824,veo/vscan,pocs_yml/ymlFiles/apache-ofbiz-cve-2020-9496-xml-deserialization.yml,b1944db8182935d0e0f1298e832a5684f260a1f3,CVE-2020-9496
 377697824,veo/vscan,pocs_yml/ymlFiles/hikvision-intercom-service-default-password.yml,b3b44975403613d137975579d42af1f6dfebcb7c,CNVD-2021-34568
 377697824,veo/vscan,pocs_yml/ymlFiles/youphptube-encoder-cve-2019-5128.yml,b41c78d96b5f6288d8f36a82fd6e968642ddba40,CVE-2019-5128
