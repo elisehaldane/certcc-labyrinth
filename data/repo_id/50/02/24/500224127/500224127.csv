@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 500224127,keymandll/CVE-2022-29622,README.md,a647ae3fa1cf59bf7d283785db3ba283b4c964fe,CVE-2022-29622
+500224127,keymandll/CVE-2022-29622,illusion_due_to_ignoring_context.js,ed1af59176f47b9c5399c3eaa7e71da3b07ea060,CVE-2022-29622
 500224127,keymandll/CVE-2022-29622,_GITHUB_REPO_METADATA_,,CVE-2022-29622
