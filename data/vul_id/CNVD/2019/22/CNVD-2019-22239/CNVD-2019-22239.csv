@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2019-22239,0.00555556,https://github.com/chaitin/xray,chaitin/xray,191117123
 CNVD-2019-22239,0.00497512,https://github.com/veo/vscan,veo/vscan,377697824
-CNVD-2019-22239,0.00480769,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2019-22239,0.00478469,https://github.com/zan8in/afrog,zan8in/afrog,463027648
