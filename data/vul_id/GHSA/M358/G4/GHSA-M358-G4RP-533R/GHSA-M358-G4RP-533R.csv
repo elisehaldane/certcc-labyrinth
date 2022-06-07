@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-M358-G4RP-533R,0.50000000,https://github.com/0xAbbarhSF/CVE-2022-24124,0xAbbarhSF/CVE-2022-24124,499935826
 GHSA-M358-G4RP-533R,0.50000000,https://github.com/ColdFusionX/CVE-2022-24124,ColdFusionX/CVE-2022-24124,463446054
-GHSA-M358-G4RP-533R,0.01315789,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+GHSA-M358-G4RP-533R,0.01298701,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 GHSA-M358-G4RP-533R,0.00004629,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
