@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+500808226,whokilleddb/CVE-2022-26134-Confluence-RCE,start_confluence.sh,45440389e6bea9ff46f4aa007880b4d942d9e264,CVE-2022-26134
+500808226,whokilleddb/CVE-2022-26134-Confluence-RCE,README.md,51ce6ab95fd6b5ec60c65aee1f1093e191cba857,CVE-2022-26134
+500808226,whokilleddb/CVE-2022-26134-Confluence-RCE,_GITHUB_REPO_METADATA_,,CVE-2022-26134
