@@ -1,12 +1,12 @@
 
 # Summary for results/2022/06/06
     
-121 records found after deduplication
+122 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-06 12:03:36+00:00 | 754302 | 27430 | Ruby | 12289 | [] |
-| ExpLangcn/FuYao-Go | 自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用_通过使用被动在线资源来发现网站的有效子域｜通过强大且灵活的模板，模拟各种安全漏洞检查！Automate target asset detection and security vulnerability scanning _ Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage _ Discover valid subdomains o | https://github.com/ExpLangcn/FuYao-Go | ['vulnerability poc'] | 1 | 2022-06-06 07:01:22+00:00 | 137 | 85 | | 9 | [] |
+| Trhackno/CVE-2021-35064 | None | https://github.com/Trhackno/CVE-2021-35064 | ['cve-2 OR cve_2'] | 1 | 2022-06-06 00:50:06+00:00 | 14 | 0 | Python | 0 | ['CVE-2021-35064'] |
 | 0xAgun/CVE-2022-26134 | None | https://github.com/0xAgun/CVE-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-06-06 08:19:24+00:00 | 3 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | rodnt/CVE_2022_26134-detect | None | https://github.com/rodnt/CVE_2022_26134-detect | ['cve-2 OR cve_2'] | 1 | 2022-06-06 00:52:16+00:00 | 363 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | k4sth4/Juicy-Potato | Windows Privilege Escalation Exploit | https://github.com/k4sth4/Juicy-Potato | ['exploit'] | 1 | 2022-06-06 12:44:14+00:00 | 335 | 0 | | 0 | [] |
@@ -35,9 +35,9 @@
 | hktalent/go_hacker_power_service | golang hacker tools | https://github.com/hktalent/go_hacker_power_service | ['0day', 'rce'] | 2 | 2022-06-06 03:37:38+00:00 | 190 | 2 | Go | 0 | [] |
 | TitanVale/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-06-06 17:45:55+00:00 | 2696 | 4 | Shell | 0 | [] |
 | keymandll/CVE-2022-29622 | Challenge for you all to prove that CVE-2022–29622 is not false | https://github.com/keymandll/CVE-2022-29622 | ['cve-2 OR cve_2'] | 1 | 2022-06-06 12:58:09+00:00 | 8 | 1 | JavaScript | 0 | ['CVE-2022-29622'] |
-| Trhackno/CVE-2021-35064 | None | https://github.com/Trhackno/CVE-2021-35064 | ['cve-2 OR cve_2'] | 1 | 2022-06-06 00:50:06+00:00 | 14 | 0 | Python | 0 | ['CVE-2021-35064'] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-- | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-- | ['exploit'] | 1 | 2022-06-06 00:53:22+00:00 | 1 | 0 | | 0 | [] |
-| devinSchminke/Follina-workaround-automation | This is a workaround that should secure machines from the Follina zero-day exploit. (According to Microsoft's documentation) | https://github.com/devinSchminke/Follina-workaround-automation | ['exploit'] | 1 | 2022-06-06 13:46:13+00:00 | 0 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-06-06 13:31:02+00:00 | 21704 | 7295 | JavaScript | 1696 | [] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN--- | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-06 00:55:01+00:00 | 1 | 0 | | 0 | [] |
 | TheREBLEX/version-exploit | None | https://github.com/TheREBLEX/version-exploit | ['exploit'] | 1 | 2022-06-06 22:01:49+00:00 | 1 | 0 | | 0 | [] |
 | FuryM3m0ry/Shellcode-Injector | Simple Code Injection Technique That Inject A Shellcode in Discord | https://github.com/FuryM3m0ry/Shellcode-Injector | ['shellcode'] | 1 | 2022-06-06 21:23:02+00:00 | 0 | 1 | C++ | 0 | [] |
 | KentonMcDaniel/TriageExample3 | Triage the content of this pcap and find the exploits. | https://github.com/KentonMcDaniel/TriageExample3 | ['exploit'] | 1 | 2022-06-06 19:36:48+00:00 | 0 | 0 | | 0 | [] |
@@ -50,8 +50,9 @@
 | ismaildevelops/Data-extraction-tool-for-windows | The python script must not be used for any exploitative purposes. The purpose of this program is for testing purposes only. The script allows you to extract information from any target windows operating system. Innfomration like serial number, Wi-Fi passwo | https://github.com/ismaildevelops/Data-extraction-tool-for-windows | ['exploit'] | 1 | 2022-06-06 15:11:35+00:00 | 0 | 0 | Python | 0 | [] |
 | GaryOderNichts/udpih | Exploit for the Wii U's USB Host Stack | https://github.com/GaryOderNichts/udpih | ['exploit'] | 1 | 2022-06-06 15:12:02+00:00 | 0 | 1 | C | 0 | [] |
 | Overcast-Gaming/AlyBot | A totally non-buggy and exploit free bridge between your Hypixel Guild chat and a Discord server | https://github.com/Overcast-Gaming/AlyBot | ['exploit'] | 1 | 2022-06-06 14:05:07+00:00 | 4 | 0 | | 0 | [] |
+| devinSchminke/Follina-workaround-automation | This is a workaround that should secure machines from the Follina zero-day exploit. (According to Microsoft's documentation) | https://github.com/devinSchminke/Follina-workaround-automation | ['exploit'] | 1 | 2022-06-06 13:46:13+00:00 | 0 | 0 | Python | 0 | [] |
+| xct/vulnbins | vulnerable windows binaries for exploitation practice | https://github.com/xct/vulnbins | ['exploit'] | 1 | 2022-06-06 16:13:21+00:00 | 316 | 0 | | 0 | [] |
 | HZzz2/python-shellcode-loader | python免杀shellcode | https://github.com/HZzz2/python-shellcode-loader | ['shellcode'] | 1 | 2022-06-06 13:16:44+00:00 | 0 | 0 | Python | 0 | [] |
-| codingcore1/SILENT-PDF-EXPLOIT-CLEAN--- | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-06 00:55:01+00:00 | 1 | 0 | | 0 | [] |
 | Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | None | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | ['cve-2 OR cve_2'] | 1 | 2022-06-06 12:15:48+00:00 | 3021 | 0 | C++ | 0 | ['CVE-2021-0589'] |
 | PenTestical/CVE-2019-5420 | Exploit in Rails Development Mode. With some knowledge of a target application it is possible for an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to es | https://github.com/PenTestical/CVE-2019-5420 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-06-06 10:16:34+00:00 | 11 | 0 | Ruby | 0 | ['CVE-2019-5420'] |
 | Mjollnirs/UsbMITMAttack | A paper and demo(POC) about USB MITM attack using Raspberry Pi(4B). | https://github.com/Mjollnirs/UsbMITMAttack | ['attack poc'] | 1 | 2022-06-06 09:20:25+00:00 | 0 | 0 | nan | 0 | [] |
@@ -65,8 +66,8 @@
 | TjayK/Exploit | None | https://github.com/TjayK/Exploit | ['exploit'] | 1 | 2022-06-06 01:53:47+00:00 | 0 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | ['exploit'] | 1 | 2022-06-06 00:56:04+00:00 | 1 | 0 | | 0 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-06-06 07:22:40+00:00 | 38 | 16 | | 5 | [] |
+| ExpLangcn/FuYao-Go | 自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用_通过使用被动在线资源来发现网站的有效子域｜通过强大且灵活的模板，模拟各种安全漏洞检查！Automate target asset detection and security vulnerability scanning _ Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage _ Discover valid subdomains o | https://github.com/ExpLangcn/FuYao-Go | ['vulnerability poc'] | 1 | 2022-06-06 07:01:22+00:00 | 137 | 85 | | 9 | [] |
 | Adia12528/Metasploit-Framework_6 | This will help you install metasploit 6 in your termux without root && without any error in it. | https://github.com/Adia12528/Metasploit-Framework_6 | ['metasploit module OR payload'] | 1 | 2022-06-06 04:40:44+00:00 | 40 | 1 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-06-06 13:31:02+00:00 | 21704 | 7295 | JavaScript | 1696 | [] |
 | DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-06-06 09:10:39+00:00 | 40 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-06 04:56:07+00:00 | 204994 | 434 | Python | 124 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-06 00:04:47+00:00 | 830579 | 120 | | 28 | [] |
