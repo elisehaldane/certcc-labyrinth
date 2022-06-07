@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#08,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
 VU#08,0.50000000,https://github.com/dora2-iOS/p0insettia,dora2-iOS/p0insettia,427806749
 VU#08,0.50000000,https://github.com/epony4c/Exploit-Dictionary,epony4c/Exploit-Dictionary,184997903
+VU#08,0.33333333,https://github.com/danderfer/Comp_Sci_Sem_2,danderfer/Comp_Sci_Sem_2,500990573
 VU#08,0.33333333,https://github.com/ziyue0230/Sunlogin_RCE,ziyue0230/Sunlogin_RCE,462623934
 VU#08,0.33333333,https://github.com/ce-automne/SunloginRCE,ce-automne/SunloginRCE,460518610
 VU#08,0.33333333,https://github.com/Mr-xn/sunlogin_rce,Mr-xn/sunlogin_rce,460035686
@@ -90,6 +91,6 @@ VU#08,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-action
 VU#08,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#08,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#08,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
-VU#08,0.00020178,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#08,0.00020173,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#08,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#08,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
