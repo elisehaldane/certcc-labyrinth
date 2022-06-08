@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+501054329,jaehnri/CVE-2021-44228,README.md,ad56592c2194df98097d80e171d5661fa4146bee,CVE-2021-44228
+501054329,jaehnri/CVE-2021-44228,vulnerable-service/settings.gradle,b90ba344c1d49de54cfdd491c6167a243dd0bb07,CVE-2021-44228
+501054329,jaehnri/CVE-2021-44228,vulnerable-service/infra/Dockerfile,ce78716cbf9a083823a2def7ce62b8e6fee50356,CVE-2021-44228
+501054329,jaehnri/CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
