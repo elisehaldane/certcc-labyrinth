@@ -1,29 +1,35 @@
 
 # Summary for results/2022/06/08
     
-22 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-08 02:25:57+00:00 | 756623 | 27443 | Ruby | 12291 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-08 00:24:13+00:00 | 56622 | 306 | Ruby | 89 | [] |
-| novysodope/Springboot-devtools-rce | 检测及利用 | https://github.com/novysodope/Springboot-devtools-rce | ['rce'] | 1 | 2022-06-08 02:04:49+00:00 | 0 | 0 | nan | 0 | [] |
+| abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-08 02:23:18+00:00 | 0 | 0 | Python | 0 | [] |
+| novysodope/Springboot-devtools-rce | 检测及利用 | https://github.com/novysodope/Springboot-devtools-rce | ['rce'] | 1 | 2022-06-08 02:04:49+00:00 | 0 | 0 | | 0 | [] |
 | TrG-1999/DetectPacket-CVE-2017-8464 | Exploit vulnerabilities and vulnerability prevention implementation | https://github.com/TrG-1999/DetectPacket-CVE-2017-8464 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-08 01:45:43+00:00 | 0 | 0 | Python | 0 | ['CVE-2017-8464'] |
 | jaehnri/CVE-2021-44228 | Proof of concept of the Log4Shell vulnerability (CVE-2021-44228) | https://github.com/jaehnri/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2022-06-08 02:21:32+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | OTAKKATO/ZeroRevolt | A collection of Revolt hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroRevolt | ['exploit'] | 1 | 2022-06-08 01:42:47+00:00 | 3 | 0 | JavaScript | 0 | [] |
 | GaryOderNichts/udpih | Exploit for the Wii U's USB Host Stack | https://github.com/GaryOderNichts/udpih | ['exploit'] | 1 | 2022-06-08 00:09:58+00:00 | 53 | 36 | C | 1 | [] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-08 02:11:50+00:00 | 107 | 1 | | 0 | [] |
 | W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-08 00:00:45+00:00 | 67552 | 30 | Python | 8 | ['CVE-2022-23337', 'CVE-2022-26134'] |
+| darkseid-security/LFI | Exploit and Mitigate LFI/RFI Attacks | https://github.com/darkseid-security/LFI | ['exploit'] | 1 | 2022-06-08 03:38:22+00:00 | 13169 | 0 | PHP | 0 | [] |
+| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-06-08 03:41:49+00:00 | 163 | 234 | Go | 29 | [] |
 | trickest/containers | Automated privilege escalation of the world's most popular Docker images. | https://github.com/trickest/containers | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-08 02:21:54+00:00 | 11186 | 8 | Shell | 0 | [] |
 | LucasPDiniz/StudyRoom | Repository created for study and POC's on vulnerabilities. | https://github.com/LucasPDiniz/StudyRoom | ['vulnerability poc'] | 1 | 2022-06-08 00:32:18+00:00 | 21 | 0 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-08 01:44:27+00:00 | 73007 | 3005 | | 364 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-06-08 00:33:36+00:00 | 146498 | 2 | Jupyter Notebook | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-08 01:44:07+00:00 | 6091949 | 52 | Python | 8 | [] |
+| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-06-08 03:24:45+00:00 | 237 | 24 | C++ | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-08 01:57:46+00:00 | 1324 | 108 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-08 01:54:14+00:00 | 23260 | 3 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-08 04:00:03+00:00 | 197801 | 437 | Python | 125 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-08 00:04:04+00:00 | 862286 | 120 | | 28 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-08 02:03:34+00:00 | 587640 | 57 | | 22 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-08 00:48:07+00:00 | 8994 | 42 | | 21 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-06-08 02:25:50+00:00 | 64710 | 1549 | Python | 306 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-08 02:32:10+00:00 | 305129 | 162 | REXX | 16 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-06-08 02:23:40+00:00 | 13481 | 2511 | Python | 674 | [] |
-| abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-08 02:23:18+00:00 | 0 | 0 | Python | 0 | [] |
+| n1ke33/exploit1 | None | https://github.com/n1ke33/exploit1 | ['exploit'] | 1 | 2022-06-08 03:20:39+00:00 | 0 | 0 | Python | 0 | [] |
