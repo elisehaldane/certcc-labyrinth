@@ -1,7 +1,7 @@
 
 # Summary for results/2022/06/08
     
-134 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -39,7 +39,7 @@
 | darkseid-security/LFI | Exploit and Mitigate LFI/RFI Attacks | https://github.com/darkseid-security/LFI | ['exploit'] | 1 | 2022-06-08 03:38:22+00:00 | 13169 | 0 | PHP | 0 | [] |
 | abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-08 02:23:18+00:00 | 0 | 0 | Python | 0 | [] |
 | PuranamRevanthKumar/DL-for-COVID-detection | The main contribution of this work is to exploit the pre-trained deep learning models to detect COVID-19 confirmed patients by classifying them into 3 classes (COVID, Pneumonia and Normal), combination of two CNN architectures named Xception and ResNet50V2 | https://github.com/PuranamRevanthKumar/DL-for-COVID-detection | ['exploit'] | 1 | 2022-06-08 04:08:07+00:00 | 2 | 0 | MATLAB | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-06-08 07:50:21+00:00 | 46222 | 867 | Python | 206 | [] |
+| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-06-08 03:41:49+00:00 | 163 | 234 | Go | 29 | [] |
 | NafaaHub/Soon-Games | Soon Exploit Games ! | https://github.com/NafaaHub/Soon-Games | ['exploit'] | 1 | 2022-06-08 15:16:17+00:00 | 0 | 0 | | 0 | [] |
 | ErenRip/EXPLOIT-Arama | None | https://github.com/ErenRip/EXPLOIT-Arama | ['exploit'] | 1 | 2022-06-08 19:40:38+00:00 | 0 | 0 | Python | 0 | [] |
 | ShaFrmFTO/Sha-Hub | Sha Hub Exploit | https://github.com/ShaFrmFTO/Sha-Hub | ['exploit'] | 1 | 2022-06-08 18:58:23+00:00 | 0 | 0 | | 0 | [] |
@@ -72,8 +72,8 @@
 | motherfucker12138/CVE-2020-0796_SMBGhost | None | https://github.com/motherfucker12138/CVE-2020-0796_SMBGhost | ['cve-2 OR cve_2'] | 1 | 2022-06-08 09:15:12+00:00 | 536 | 0 | Assembly | 0 | ['CVE-2020-0796'] |
 | bacth0san96/Zkteco-Exploit | None | https://github.com/bacth0san96/Zkteco-Exploit | ['exploit'] | 1 | 2022-06-08 06:46:24+00:00 | 5 | 1 | Python | 1 | [] |
 | AeX03/eLys | 👾- An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | ['exploit'] | 1 | 2022-06-08 10:38:15+00:00 | 6919 | 4 | Python | 1 | [] |
-| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-06-08 03:41:49+00:00 | 163 | 234 | Go | 29 | [] |
 | Creamy-Chicken-Soup/writeups-about-analysis-CVEs-and-Exploits-on-the-Windows | I collect writeup about analysis CVEs and Exploits on the Windows in this repository. | https://github.com/Creamy-Chicken-Soup/writeups-about-analysis-CVEs-and-Exploits-on-the-Windows | ['exploit'] | 1 | 2022-06-08 16:37:31+00:00 | 16 | 1 | | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-06-08 07:50:21+00:00 | 46222 | 867 | Python | 206 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-06-08 02:25:50+00:00 | 64710 | 1549 | Python | 306 | [] |
 | cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2022-06-08 05:30:57+00:00 | 4573 | 54 | C++ | 12 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-08 04:00:03+00:00 | 197801 | 437 | Python | 125 | [] |
@@ -90,7 +90,7 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-08 00:48:07+00:00 | 8994 | 42 | | 21 | [] |
 | EntySec/Ghost | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | ['exploit'] | 1 | 2022-06-08 16:36:35+00:00 | 301 | 1628 | Python | 727 | [] |
 | richteague/gofish | 🎣 Fish for line detections by exploiting the known velocity structure of the disk. | https://github.com/richteague/gofish | ['exploit'] | 1 | 2022-06-08 12:50:35+00:00 | 5158 | 11 | Python | 6 | [] |
-| raj3shp/python-logging.config-exploit | Proof of concept exploit for Python Security Consideration "logging: Logging configuration uses eval()" | https://github.com/raj3shp/python-logging.config-exploit | ['exploit'] | 1 | 2022-06-08 12:52:52+00:00 | 12 | 10 | Python | 1 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-08 01:54:14+00:00 | 23260 | 3 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-06-08 12:33:01+00:00 | 1546459 | 4358 | PowerShell | 1533 | [] |
 | goncalor/SLAE64 | x86_64 Assembly Language and Shellcoding on Linux | https://github.com/goncalor/SLAE64 | ['shellcode'] | 1 | 2022-06-08 23:40:51+00:00 | 91 | 0 | Assembly | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-08 02:32:10+00:00 | 305129 | 162 | REXX | 16 | [] |
@@ -106,9 +106,9 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-06-08 14:51:11+00:00 | 3284 | 2698 | PowerShell | 757 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-06-08 20:45:15+00:00 | 27339 | 9115 | Python | 1512 | [] |
 | jaypatel131/web-app-exploitation | Different payload, automated tools and some tips for web app testing. This involves only a few commands and tips but not a complete description about vulnerability | https://github.com/jaypatel131/web-app-exploitation | ['exploit'] | 1 | 2022-06-08 06:21:02+00:00 | 1780 | 2 | | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-08 01:54:14+00:00 | 23260 | 3 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-08 01:57:46+00:00 | 1324 | 108 | HTML | 25 | [] |
-| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-06-08 03:24:45+00:00 | 237 | 24 | C++ | 3 | [] |
+| raj3shp/python-logging.config-exploit | Proof of concept exploit for Python Security Consideration "logging: Logging configuration uses eval()" | https://github.com/raj3shp/python-logging.config-exploit | ['exploit'] | 1 | 2022-06-08 12:52:52+00:00 | 12 | 10 | Python | 1 | [] |
+| maisou/Fishing-Town-Exploit-Fishing | None | https://github.com/maisou/Fishing-Town-Exploit-Fishing | ['exploit'] | 1 | 2022-06-08 13:28:17+00:00 | 3 | 0 | JavaScript | 0 | [] |
 | zxzxz1/New_Exploit | None | https://github.com/zxzxz1/New_Exploit | ['exploit'] | 1 | 2022-06-08 07:57:20+00:00 | 18211 | 0 | Lua | 0 | [] |
 | armscyber/exploits | None | https://github.com/armscyber/exploits | ['exploit'] | 1 | 2022-06-08 18:35:59+00:00 | 5248 | 0 | Python | 0 | [] |
 | gogo2464/cryptatools | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | ['exploit'] | 1 | 2022-06-08 23:36:56+00:00 | 397 | 1 | Python | 0 | [] |
@@ -123,8 +123,8 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-08 01:44:27+00:00 | 73007 | 3005 | | 364 | [] |
 | B4rC0d/Exploit_Finder | This is a Script for Exploit Search | https://github.com/B4rC0d/Exploit_Finder | ['exploit'] | 1 | 2022-06-08 19:19:41+00:00 | 38 | 6 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-06-08 00:33:36+00:00 | 146498 | 2 | Jupyter Notebook | 0 | [] |
-| maisou/Fishing-Town-Exploit-Fishing | None | https://github.com/maisou/Fishing-Town-Exploit-Fishing | ['exploit'] | 1 | 2022-06-08 13:28:17+00:00 | 3 | 0 | JavaScript | 0 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-06-08 04:43:51+00:00 | 1058 | 6 | C | 1 | [] |
+| RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2022-06-08 23:51:09+00:00 | 499 | 0 | Lua | 2 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver for CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-06-08 17:34:45+00:00 | 7965 | 13 | HTML | 5 | [] |
 | Diicorp95/polyexemplar.py | A Python 3 exploit. | https://github.com/Diicorp95/polyexemplar.py | ['exploit'] | 1 | 2022-06-08 11:42:41+00:00 | 3 | 2 | Python | 0 | [] |
 | edavgaun/RCEL_506 | None | https://github.com/edavgaun/RCEL_506 | ['rce'] | 1 | 2022-06-08 19:51:38+00:00 | 565 | 0 | | 0 | [] |
@@ -138,4 +138,5 @@
 | MichaelSodeke/eng-cmp-prj--network-security | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | ['exploit'] | 1 | 2022-06-08 16:41:35+00:00 | 71 | 0 | | 0 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2022-06-08 11:43:22+00:00 | 10414 | 4 | Shell | 4 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-06-08 11:43:23+00:00 | 3747 | 25 | Python | 3 | [] |
+| ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-06-08 03:24:45+00:00 | 237 | 24 | C++ | 3 | [] |
 | CronoX1/CVE-2021-4034 | Exploit modificado para el tito Eu | https://github.com/CronoX1/CVE-2021-4034 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-08 20:01:23+00:00 | 1 | 0 | Shell | 0 | ['CVE-2021-4034'] |
