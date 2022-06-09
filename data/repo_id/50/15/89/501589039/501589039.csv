@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+501589039,Hrishikesh7665/Follina_Exploiter_CLI,README.md,ebb8df3a33c7746ec3f869d689928942b4425fa2,CVE-2022-30190
+501589039,Hrishikesh7665/Follina_Exploiter_CLI,follinaExploiter.py,f2fd4778b4af6fe8c2e191fa00049886a3c4cc1c,CVE-2022-30190
+501589039,Hrishikesh7665/Follina_Exploiter_CLI,_GITHUB_REPO_METADATA_,,CVE-2022-30190
