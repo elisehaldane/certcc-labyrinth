@@ -133,6 +133,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/rapid7\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -256,6 +257,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/offensive-security\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -379,6 +381,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/offensive-security\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -532,6 +535,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/polyverse\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -693,6 +697,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/The-Art-of-Hacking\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -829,6 +834,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/polyverse\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -973,6 +979,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/polyverse\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1102,6 +1109,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hahwul\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1244,6 +1252,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/JuliaDiff\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1376,6 +1385,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/drb-ra\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1497,7 +1507,7 @@
     "temp_clone_token":"",
     "network_count":1538,
     "subscribers_count":225,
-    "matched_at":"2022-06-11T03:57:29Z",
+    "matched_at":"2022-06-11T03:57:34Z",
     "organization":null,
     "owner_login":"Mr-xn",
     "owner_id":18260135,
@@ -1517,6 +1527,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Mr-xn\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -1643,6 +1654,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AmitNiz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1785,6 +1797,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/polyverse\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1902,6 +1915,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/gut5\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2038,6 +2052,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/polyverse\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2174,6 +2189,137 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nomi-sec\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":231855067,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMzE4NTUwNjc=",
+    "name":"isoalloc",
+    "full_name":"struct\/isoalloc",
+    "private":false,
+    "html_url":"https:\/\/github.com\/struct\/isoalloc",
+    "description":"A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/struct\/isoalloc",
+    "forks_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/struct\/isoalloc\/deployments",
+    "created_at":"2020-01-05T02:03:56Z",
+    "updated_at":"2022-06-10T16:38:08Z",
+    "pushed_at":"2022-06-11T21:23:05Z",
+    "git_url":"git:\/\/github.com\/struct\/isoalloc.git",
+    "ssh_url":"git@github.com:struct\/isoalloc.git",
+    "clone_url":"https:\/\/github.com\/struct\/isoalloc.git",
+    "svn_url":"https:\/\/github.com\/struct\/isoalloc",
+    "homepage":"https:\/\/secure.dev",
+    "size":798,
+    "stargazers_count":289,
+    "watchers_count":289,
+    "language":"C",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":16,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":5,
+    "license":{
+      "key":"apache-2.0",
+      "name":"Apache License 2.0",
+      "spdx_id":"Apache-2.0",
+      "url":"https:\/\/api.github.com\/licenses\/apache-2.0",
+      "node_id":"MDc6TGljZW5zZTI="
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+      "exploit",
+      "exploitation",
+      "heap",
+      "memory-allocator",
+      "memory-management",
+      "secure",
+      "security"
+    ],
+    "visibility":"public",
+    "forks":16,
+    "open_issues":5,
+    "watchers":289,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":16,
+    "subscribers_count":9,
+    "matched_at":"2022-06-11T21:45:58Z",
+    "organization":null,
+    "owner_login":"struct",
+    "owner_id":36181,
+    "owner_node_id":"MDQ6VXNlcjM2MTgx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/36181?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/struct",
+    "owner_html_url":"https:\/\/github.com\/struct",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/struct\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/struct\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/struct\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/struct\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/struct\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/struct\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/struct\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/struct\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/struct\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2305,6 +2451,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hugsy\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2464,6 +2611,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/DamnVulnerableCryptoApp\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2592,6 +2740,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/th3ken-dev\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2709,6 +2858,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/mustgundogdu\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2857,6 +3007,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Patrowl\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2996,6 +3147,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ARPSyndicate\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3156,6 +3308,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/EntySec\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "sploit"
@@ -3274,6 +3427,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/xxycfhb\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3418,6 +3572,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ARPSyndicate\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -3546,6 +3701,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ycdxsb\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -3670,6 +3826,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/phixion\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3779,7 +3936,7 @@
     "temp_clone_token":"",
     "network_count":75,
     "subscribers_count":10,
-    "matched_at":"2022-06-11T17:45:59Z",
+    "matched_at":"2022-06-11T17:46:11Z",
     "organization":null,
     "owner_login":"bigblackhat",
     "owner_id":36789699,
@@ -3799,6 +3956,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bigblackhat\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -3924,8 +4082,136 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/xxycfhb\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":387018992,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzODcwMTg5OTI=",
+    "name":"edgedressing",
+    "full_name":"stryngs\/edgedressing",
+    "private":false,
+    "html_url":"https:\/\/github.com\/stryngs\/edgedressing",
+    "description":"edgedressing leverages a Windows \"feature\" in order to force a target's Edge browser to open.  This browser is then directed to a URL of choice.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing",
+    "forks_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/stryngs\/edgedressing\/deployments",
+    "created_at":"2021-07-17T19:07:42Z",
+    "updated_at":"2022-06-11T20:17:08Z",
+    "pushed_at":"2022-06-11T20:17:05Z",
+    "git_url":"git:\/\/github.com\/stryngs\/edgedressing.git",
+    "ssh_url":"git@github.com:stryngs\/edgedressing.git",
+    "clone_url":"https:\/\/github.com\/stryngs\/edgedressing.git",
+    "svn_url":"https:\/\/github.com\/stryngs\/edgedressing",
+    "homepage":"",
+    "size":10964,
+    "stargazers_count":42,
+    "watchers_count":42,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":2,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"gpl-3.0",
+      "name":"GNU General Public License v3.0",
+      "spdx_id":"GPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/gpl-3.0",
+      "node_id":"MDc6TGljZW5zZTk="
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+      "packet-injection",
+      "rce",
+      "vector",
+      "windows"
+    ],
+    "visibility":"public",
+    "forks":2,
+    "open_issues":0,
+    "watchers":42,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":2,
+    "subscribers_count":2,
+    "matched_at":"2022-06-11T21:45:58Z",
+    "organization":null,
+    "owner_login":"stryngs",
+    "owner_id":12008469,
+    "owner_node_id":"MDQ6VXNlcjEyMDA4NDY5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/12008469?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/stryngs",
+    "owner_html_url":"https:\/\/github.com\/stryngs",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/stryngs\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/stryngs\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/stryngs\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/stryngs\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/stryngs\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/stryngs\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/stryngs\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/stryngs\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/stryngs\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "rce"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -4051,6 +4337,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/HeiTang\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -4193,6 +4480,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Cobalt-Strike\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4315,7 +4603,7 @@
     "temp_clone_token":"",
     "network_count":3,
     "subscribers_count":1,
-    "matched_at":"2022-06-11T13:49:53Z",
+    "matched_at":"2022-06-11T13:49:29Z",
     "organization":null,
     "owner_login":"scmanjarrez",
     "owner_id":9284124,
@@ -4335,6 +4623,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/scmanjarrez\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit",
@@ -4460,6 +4749,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/scmanjarrez\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -4593,6 +4883,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/gmatuz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4716,6 +5007,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AthisSN\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4841,6 +5133,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/snovvcrash\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -4958,6 +5251,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ranggaggngntt\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -5086,6 +5380,125 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hrbrmstr\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":429960183,
+    "node_id":"R_kgDOGaCr9w",
+    "name":"Hacking-The-Art-of-Exploitation-Book",
+    "full_name":"edupazzz\/Hacking-The-Art-of-Exploitation-Book",
+    "private":false,
+    "html_url":"https:\/\/github.com\/edupazzz\/Hacking-The-Art-of-Exploitation-Book",
+    "description":"Codes from Hacking: The Art of Exploitation book. By Jon Erickson.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book",
+    "forks_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/edupazzz\/Hacking-The-Art-of-Exploitation-Book\/deployments",
+    "created_at":"2021-11-19T23:21:08Z",
+    "updated_at":"2022-05-24T08:40:51Z",
+    "pushed_at":"2022-06-11T20:46:33Z",
+    "git_url":"git:\/\/github.com\/edupazzz\/Hacking-The-Art-of-Exploitation-Book.git",
+    "ssh_url":"git@github.com:edupazzz\/Hacking-The-Art-of-Exploitation-Book.git",
+    "clone_url":"https:\/\/github.com\/edupazzz\/Hacking-The-Art-of-Exploitation-Book.git",
+    "svn_url":"https:\/\/github.com\/edupazzz\/Hacking-The-Art-of-Exploitation-Book",
+    "homepage":null,
+    "size":213,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"C",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-06-11T21:45:58Z",
+    "organization":null,
+    "owner_login":"edupazzz",
+    "owner_id":61809719,
+    "owner_node_id":"MDQ6VXNlcjYxODA5NzE5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/61809719?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/edupazzz",
+    "owner_html_url":"https:\/\/github.com\/edupazzz",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/edupazzz\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/edupazzz\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/edupazzz\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/edupazzz\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/edupazzz\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/edupazzz\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/edupazzz\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/edupazzz\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/edupazzz\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5209,6 +5622,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/rcelyte\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -5326,6 +5740,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/alanlengkoan\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5452,6 +5867,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/jgamblin\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5569,6 +5985,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/zxt18\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5727,6 +6144,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/trickest\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -5848,6 +6266,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/kema-dev\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5994,6 +6413,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hotpotcookie\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6123,6 +6543,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/h4ck3r0\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "metasploit module OR payload"
@@ -6247,6 +6668,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/icyguider\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -6370,6 +6792,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Captain-S0L0\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6493,6 +6916,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hippolippo\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -6601,7 +7025,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":3,
-    "matched_at":"2022-06-11T02:26:19Z",
+    "matched_at":"2022-06-11T02:25:41Z",
     "organization":{
       "login":"trickest",
       "id":62057399,
@@ -6640,6 +7064,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/trickest\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -6784,6 +7209,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/EntySec\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6908,6 +7334,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hktalent\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -7039,6 +7466,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Exploitables\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7156,6 +7584,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/alvindimas05\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7273,6 +7702,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/CompanionCubeGD\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7376,7 +7806,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-11T05:45:57Z",
+    "matched_at":"2022-06-11T05:45:45Z",
     "organization":null,
     "owner_login":"hktalent",
     "owner_id":18223385,
@@ -7396,6 +7826,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hktalent\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "0day",
       "rce"
@@ -7534,6 +7965,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/jonatanSh\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -7683,8 +8115,132 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/OTAKKATO\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":490738203,
+    "node_id":"R_kgDOHUASGw",
+    "name":"Cybersecurity",
+    "full_name":"marcindn\/Cybersecurity",
+    "private":false,
+    "html_url":"https:\/\/github.com\/marcindn\/Cybersecurity",
+    "description":"Jakie\u015b projekty o tematyce hakowania ",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity",
+    "forks_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/marcindn\/Cybersecurity\/deployments",
+    "created_at":"2022-05-10T14:40:56Z",
+    "updated_at":"2022-05-17T17:44:21Z",
+    "pushed_at":"2022-06-11T21:15:31Z",
+    "git_url":"git:\/\/github.com\/marcindn\/Cybersecurity.git",
+    "ssh_url":"git@github.com:marcindn\/Cybersecurity.git",
+    "clone_url":"https:\/\/github.com\/marcindn\/Cybersecurity.git",
+    "svn_url":"https:\/\/github.com\/marcindn\/Cybersecurity",
+    "homepage":"",
+    "size":489,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+      "hacking",
+      "metasploit",
+      "nmap",
+      "python",
+      "shell",
+      "wireshark"
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-06-11T21:46:11Z",
+    "organization":null,
+    "owner_login":"marcindn",
+    "owner_id":95021206,
+    "owner_node_id":"U_kgDOBanolg",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/95021206?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/marcindn",
+    "owner_html_url":"https:\/\/github.com\/marcindn",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/marcindn\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/marcindn\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/marcindn\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/marcindn\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/marcindn\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/marcindn\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/marcindn\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/marcindn\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/marcindn\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "metasploit module OR payload"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -7816,6 +8372,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/GamehunterKaan\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7913,7 +8470,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-11T02:25:17Z",
+    "matched_at":"2022-06-11T02:26:20Z",
     "organization":null,
     "owner_login":"oK0mo",
     "owner_id":104176829,
@@ -7933,6 +8490,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/oK0mo\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -8053,6 +8611,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/th3spis\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -8170,6 +8729,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ElusiveSquad\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -8287,6 +8847,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Z4rkos\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8408,6 +8969,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/W01fh4cker\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "0day",
       "exploit"
@@ -8533,6 +9095,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Ezeqielle\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -8659,6 +9222,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/DevXternal\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8781,6 +9345,246 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/rf-peixoto\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":499293395,
+    "node_id":"R_kgDOHcKc0w",
+    "name":"template-pwn",
+    "full_name":"hugsy\/template-pwn",
+    "private":false,
+    "html_url":"https:\/\/github.com\/hugsy\/template-pwn",
+    "description":"Quick start your  C++ exploits",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn",
+    "forks_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/hugsy\/template-pwn\/deployments",
+    "created_at":"2022-06-02T21:16:47Z",
+    "updated_at":"2022-06-11T20:39:00Z",
+    "pushed_at":"2022-06-11T20:56:48Z",
+    "git_url":"git:\/\/github.com\/hugsy\/template-pwn.git",
+    "ssh_url":"git@github.com:hugsy\/template-pwn.git",
+    "clone_url":"https:\/\/github.com\/hugsy\/template-pwn.git",
+    "svn_url":"https:\/\/github.com\/hugsy\/template-pwn",
+    "homepage":"",
+    "size":7,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"CMake",
+    "has_issues":false,
+    "has_projects":false,
+    "has_downloads":true,
+    "has_wiki":false,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "allow_forking":true,
+    "is_template":true,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-06-11T21:45:58Z",
+    "organization":null,
+    "owner_login":"hugsy",
+    "owner_id":590234,
+    "owner_node_id":"MDQ6VXNlcjU5MDIzNA==",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/590234?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/hugsy",
+    "owner_html_url":"https:\/\/github.com\/hugsy",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/hugsy\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/hugsy\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/hugsy\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/hugsy\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/hugsy\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/hugsy\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/hugsy\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/hugsy\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/hugsy\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":{
+      "id":476903904,
+      "node_id":"R_kgDOHGz54A",
+      "name":"template-cpp",
+      "full_name":"hugsy\/template-cpp",
+      "private":false,
+      "owner":{
+        "login":"hugsy",
+        "id":590234,
+        "node_id":"MDQ6VXNlcjU5MDIzNA==",
+        "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/590234?v=4",
+        "gravatar_id":"",
+        "url":"https:\/\/api.github.com\/users\/hugsy",
+        "html_url":"https:\/\/github.com\/hugsy",
+        "followers_url":"https:\/\/api.github.com\/users\/hugsy\/followers",
+        "following_url":"https:\/\/api.github.com\/users\/hugsy\/following{\/other_user}",
+        "gists_url":"https:\/\/api.github.com\/users\/hugsy\/gists{\/gist_id}",
+        "starred_url":"https:\/\/api.github.com\/users\/hugsy\/starred{\/owner}{\/repo}",
+        "subscriptions_url":"https:\/\/api.github.com\/users\/hugsy\/subscriptions",
+        "organizations_url":"https:\/\/api.github.com\/users\/hugsy\/orgs",
+        "repos_url":"https:\/\/api.github.com\/users\/hugsy\/repos",
+        "events_url":"https:\/\/api.github.com\/users\/hugsy\/events{\/privacy}",
+        "received_events_url":"https:\/\/api.github.com\/users\/hugsy\/received_events",
+        "type":"User",
+        "site_admin":false
+      },
+      "html_url":"https:\/\/github.com\/hugsy\/template-cpp",
+      "description":"A template repository for my C++ projects, with docs and CI",
+      "fork":false,
+      "url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp",
+      "forks_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/forks",
+      "keys_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/keys{\/key_id}",
+      "collaborators_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/collaborators{\/collaborator}",
+      "teams_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/teams",
+      "hooks_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/hooks",
+      "issue_events_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/issues\/events{\/number}",
+      "events_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/events",
+      "assignees_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/assignees{\/user}",
+      "branches_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/branches{\/branch}",
+      "tags_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/tags",
+      "blobs_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/git\/blobs{\/sha}",
+      "git_tags_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/git\/tags{\/sha}",
+      "git_refs_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/git\/refs{\/sha}",
+      "trees_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/git\/trees{\/sha}",
+      "statuses_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/statuses\/{sha}",
+      "languages_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/languages",
+      "stargazers_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/stargazers",
+      "contributors_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/contributors",
+      "subscribers_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/subscribers",
+      "subscription_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/subscription",
+      "commits_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/commits{\/sha}",
+      "git_commits_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/git\/commits{\/sha}",
+      "comments_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/comments{\/number}",
+      "issue_comment_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/issues\/comments{\/number}",
+      "contents_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/contents\/{+path}",
+      "compare_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/compare\/{base}...{head}",
+      "merges_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/merges",
+      "archive_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/{archive_format}{\/ref}",
+      "downloads_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/downloads",
+      "issues_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/issues{\/number}",
+      "pulls_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/pulls{\/number}",
+      "milestones_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/milestones{\/number}",
+      "notifications_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/notifications{?since,all,participating}",
+      "labels_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/labels{\/name}",
+      "releases_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/releases{\/id}",
+      "deployments_url":"https:\/\/api.github.com\/repos\/hugsy\/template-cpp\/deployments",
+      "created_at":"2022-04-02T00:20:09Z",
+      "updated_at":"2022-06-11T20:32:53Z",
+      "pushed_at":"2022-04-24T21:35:02Z",
+      "git_url":"git:\/\/github.com\/hugsy\/template-cpp.git",
+      "ssh_url":"git@github.com:hugsy\/template-cpp.git",
+      "clone_url":"https:\/\/github.com\/hugsy\/template-cpp.git",
+      "svn_url":"https:\/\/github.com\/hugsy\/template-cpp",
+      "homepage":"",
+      "size":30,
+      "stargazers_count":0,
+      "watchers_count":0,
+      "language":"CMake",
+      "has_issues":true,
+      "has_projects":false,
+      "has_downloads":true,
+      "has_wiki":false,
+      "has_pages":true,
+      "forks_count":0,
+      "mirror_url":null,
+      "archived":false,
+      "disabled":false,
+      "open_issues_count":0,
+      "license":{
+        "key":"mit",
+        "name":"MIT License",
+        "spdx_id":"MIT",
+        "url":"https:\/\/api.github.com\/licenses\/mit",
+        "node_id":"MDc6TGljZW5zZTEz"
+      },
+      "allow_forking":true,
+      "is_template":true,
+      "topics":[
+        "cmake",
+        "cplusplus",
+        "cplusplus-20"
+      ],
+      "visibility":"public",
+      "forks":0,
+      "open_issues":0,
+      "watchers":0,
+      "default_branch":"main",
+      "permissions":{
+        "admin":false,
+        "maintain":false,
+        "push":false,
+        "triage":false,
+        "pull":false
+      },
+      "temp_clone_token":""
+    },
     "matched_list":[
       "exploit"
     ],
@@ -8898,6 +9702,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/MateuszChmiest\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9015,6 +9820,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/tklieber\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -9135,6 +9941,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/abdeljalil-salhi\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -9252,6 +10059,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nomokazu\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "attack poc"
     ],
@@ -9307,16 +10115,16 @@
     "releases_url":"https:\/\/api.github.com\/repos\/Hrishikesh7665\/Follina_Exploiter_CLI\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/Hrishikesh7665\/Follina_Exploiter_CLI\/deployments",
     "created_at":"2022-06-09T09:32:10Z",
-    "updated_at":"2022-06-10T10:49:38Z",
-    "pushed_at":"2022-06-11T05:43:56Z",
+    "updated_at":"2022-06-11T06:49:50Z",
+    "pushed_at":"2022-06-11T05:58:38Z",
     "git_url":"git:\/\/github.com\/Hrishikesh7665\/Follina_Exploiter_CLI.git",
     "ssh_url":"git@github.com:Hrishikesh7665\/Follina_Exploiter_CLI.git",
     "clone_url":"https:\/\/github.com\/Hrishikesh7665\/Follina_Exploiter_CLI.git",
     "svn_url":"https:\/\/github.com\/Hrishikesh7665\/Follina_Exploiter_CLI",
-    "homepage":null,
-    "size":42,
-    "stargazers_count":2,
-    "watchers_count":2,
+    "homepage":"",
+    "size":19432,
+    "stargazers_count":3,
+    "watchers_count":3,
     "language":"Python",
     "has_issues":true,
     "has_projects":true,
@@ -9338,12 +10146,20 @@
     "allow_forking":true,
     "is_template":false,
     "topics":[
-
+      "cve-2022-30190",
+      "exploit",
+      "follina",
+      "micorsoft-office",
+      "microsoft",
+      "msdt",
+      "rce",
+      "remote-code-execution",
+      "word"
     ],
     "visibility":"public",
     "forks":1,
     "open_issues":0,
-    "watchers":2,
+    "watchers":3,
     "default_branch":"main",
     "permissions":{
       "admin":false,
@@ -9355,7 +10171,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2022-06-11T05:46:10Z",
+    "matched_at":"2022-06-11T07:46:05Z",
     "organization":null,
     "owner_login":"Hrishikesh7665",
     "owner_id":57979686,
@@ -9375,6 +10191,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Hrishikesh7665\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "rce"
@@ -9512,6 +10329,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ChainZoom-Security\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9629,6 +10447,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/domyxko\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9752,6 +10571,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AmitNiz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -9875,6 +10695,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Rumirad64\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9992,6 +10813,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/kkpsiren\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10109,6 +10931,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/TheWorkingDeveloper\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -10245,6 +11068,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/HNT8\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10362,6 +11186,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore1\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10479,6 +11304,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore1\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10596,6 +11422,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore1\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10719,6 +11546,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/yogwoggf\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10836,6 +11664,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/trhacknon\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -10953,6 +11782,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/F6JO\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -11076,6 +11906,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/D4nk0St0rM\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11193,6 +12024,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Straxeu\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11310,6 +12142,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Sreetx\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -11407,7 +12240,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-11T11:44:59Z",
+    "matched_at":"2022-06-11T11:45:16Z",
     "organization":null,
     "owner_login":"whokilleddb",
     "owner_id":56482137,
@@ -11427,6 +12260,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/whokilleddb\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "exploit",
@@ -11546,6 +12380,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/mohamedabdelhady933\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11663,6 +12498,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/warning111\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11761,7 +12597,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-11T13:50:12Z",
+    "matched_at":"2022-06-11T13:49:09Z",
     "organization":null,
     "owner_login":"scoobydoobi",
     "owner_id":107139039,
@@ -11781,6 +12617,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/scoobydoobi\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -11901,6 +12738,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Advanced-use\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "0day"
     ],
@@ -12024,6 +12862,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/mshhlvxk\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12141,6 +12980,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/sebliot\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -12258,6 +13098,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ADHFMZ7\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12375,6 +13216,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/jeffssh\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -12492,6 +13334,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/emad-almousa\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12609,6 +13452,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Filarius\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "attack poc"
     ],
@@ -12726,6 +13570,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ry4wzbe\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12823,7 +13668,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-06-11T19:44:45Z",
+    "matched_at":"2022-06-11T19:44:22Z",
     "organization":null,
     "owner_login":"oturu",
     "owner_id":106835379,
@@ -12843,6 +13688,7 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/oturu\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "rce"
@@ -12962,6 +13808,125 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/trixx4rrr\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "template_repository":null,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":502452570,
+    "node_id":"R_kgDOHfLRWg",
+    "name":"Silent-Exploit-Source",
+    "full_name":"Keril2\/Silent-Exploit-Source",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Keril2\/Silent-Exploit-Source",
+    "description":"Exploit ",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source",
+    "forks_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Keril2\/Silent-Exploit-Source\/deployments",
+    "created_at":"2022-06-11T20:44:57Z",
+    "updated_at":"2022-06-11T21:02:08Z",
+    "pushed_at":"2022-06-11T21:31:42Z",
+    "git_url":"git:\/\/github.com\/Keril2\/Silent-Exploit-Source.git",
+    "ssh_url":"git@github.com:Keril2\/Silent-Exploit-Source.git",
+    "clone_url":"https:\/\/github.com\/Keril2\/Silent-Exploit-Source.git",
+    "svn_url":"https:\/\/github.com\/Keril2\/Silent-Exploit-Source",
+    "homepage":"",
+    "size":710,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Visual Basic .NET",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-06-11T21:45:58Z",
+    "organization":null,
+    "owner_login":"Keril2",
+    "owner_id":105967203,
+    "owner_node_id":"U_kgDOBlDuYw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/105967203?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Keril2",
+    "owner_html_url":"https:\/\/github.com\/Keril2",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Keril2\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Keril2\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Keril2\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Keril2\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Keril2\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Keril2\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Keril2\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Keril2\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Keril2\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
