@@ -7,5 +7,5 @@ repo_id,repo_full_name,file,file_sha1,match
 487019011,hktalent/tnb,tools/Check_CVE_2020_26134.go,589cd70357c51e3e50443254efa8647b924d651d,CVE-2020-26134
 487019011,hktalent/tnb,tools/Check_CVE_2020_26134.go,589cd70357c51e3e50443254efa8647b924d651d,CVE-2022-26134
 487019011,hktalent/tnb,pkg/secdb/secDb.go,77bb985febd941deb0b9032f12b0c0e638f02846,CVE-2020-14882
+487019011,hktalent/tnb,pkg/db/db.go,90cd884bf210c713c6e104a5b553f3313c9dbfd5,CVE-2020-26134
 487019011,hktalent/tnb,tools/ssh-username-enum.py,d57c4a224ef698ca2be00105086ab0571710b36b,CVE-2018-15473
-487019011,hktalent/tnb,pkg/db/db.go,f21fc0798790c564e23e52b0c49f84afc583b9f3,CVE-2020-26134
