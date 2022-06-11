@@ -1,0 +1,26 @@
+
+# Summary for results/2022/06/11
+    
+19 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-11 01:45:25+00:00 | 757647 | 27464 | Ruby | 12302 | [] |
+| Captain-S0L0/serverutilities | a collection of exploit fixes, commands, and other things for fabric mc | https://github.com/Captain-S0L0/serverutilities | ['exploit'] | 1 | 2022-06-11 01:00:00+00:00 | 80 | 0 | Java | 0 | [] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0 | ['exploit'] | 1 | 2022-06-11 01:22:19+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0 | ['exploit'] | 1 | 2022-06-11 01:20:35+00:00 | 1 | 0 | | 0 | [] |
+| HNT8/WeAreDevs-Exploit | A complex Roblox script executor that includes a script list, API loaded script hub, console debugging, Lua & LuaC injection. | https://github.com/HNT8/WeAreDevs-Exploit | ['exploit'] | 1 | 2022-06-11 00:25:08+00:00 | 1378 | 0 | C# | 0 | [] |
+| nomokazu/linking-attack-poc | nan | https://github.com/nomokazu/linking-attack-poc | ['attack poc'] | 1 | 2022-06-11 01:01:58+00:00 | 86523 | 1 | Python | 0 | [] |
+| oK0mo/CVE-2022-24086-RCE-PoC | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-06-11 02:09:22+00:00 | 2 | 2 | | 0 | ['CVE-2022-24086'] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-11 02:03:34+00:00 | 27 | 12 | Shell | 3 | [] |
+| trickest/containers | Automated privilege escalation of the world's most popular Docker images. | https://github.com/trickest/containers | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 01:59:57+00:00 | 16085 | 22 | Shell | 1 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 01:44:31+00:00 | 71299 | 3022 | | 368 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-06-11 00:02:37+00:00 | 1534831 | 1635 | Python | 543 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-11 01:42:44+00:00 | 6208768 | 57 | Python | 8 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-11 02:00:03+00:00 | 1449 | 108 | HTML | 25 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-11 01:57:22+00:00 | 20875 | 3 | Python | 1 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-11 02:03:46+00:00 | 596370 | 57 | | 22 | [] |
+| hugsy/pwn-- | pwn++ : a (toy) Windows & Linux pwn library to play with modern C++ (it's not pwn--, it's pwn++) | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-06-11 00:59:12+00:00 | 715 | 71 | C++ | 5 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-11 00:48:10+00:00 | 11727 | 42 | | 21 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-11 00:26:23+00:00 | 51981 | 306 | Ruby | 89 | [] |
+| codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.0 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.0 | ['exploit'] | 1 | 2022-06-11 01:23:27+00:00 | 1 | 0 | | 0 | [] |
