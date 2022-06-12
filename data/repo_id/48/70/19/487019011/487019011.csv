@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-487019011,hktalent/tnb,tools/Check_CVE_2020_26134.go,05a476769719ba3d64ac1eddd28b664963980ed6,CVE-2020-26134
-487019011,hktalent/tnb,tools/Check_CVE_2020_26134.go,05a476769719ba3d64ac1eddd28b664963980ed6,CVE-2022-26134
 487019011,hktalent/tnb,test,16fef1a268dd0c25321eecbe61109e196c2b8cac,VU#14
+487019011,hktalent/tnb,tools/Check_CVE_2020_26134.go,1cf6a2fca2fb49eeb6853a83d31dfd78f885a87c,CVE-2020-26134
+487019011,hktalent/tnb,tools/Check_CVE_2020_26134.go,1cf6a2fca2fb49eeb6853a83d31dfd78f885a87c,CVE-2022-26134
 487019011,hktalent/tnb,tools/CVE-2018-15473.py,1d34085a20387a6c3f7f19752ce53c0e3938e350,CVE-2018-15473
 487019011,hktalent/tnb,pkg/secdb/secDb.go,77bb985febd941deb0b9032f12b0c0e638f02846,CVE-2020-14882
 487019011,hktalent/tnb,go.sum,881e5852d188f4a6a94791e3d29d137c7567b058,VU#32
