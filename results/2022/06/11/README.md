@@ -1,13 +1,13 @@
 
 # Summary for results/2022/06/11
     
-109 records found after deduplication
+110 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-11 01:45:25+00:00 | 757647 | 27464 | Ruby | 12302 | [] |
 | Ezeqielle/shellcode_v2 | None | https://github.com/Ezeqielle/shellcode_v2 | ['shellcode'] | 1 | 2022-06-11 10:15:31+00:00 | 13 | 0 | Assembly | 0 | [] |
-| AmitNiz/follina_cve_2022-30190 | proof of concept to CVE-2022-30190 (follina) | https://github.com/AmitNiz/follina_cve_2022-30190 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-06-11 19:12:53+00:00 | 49 | 0 | Python | 0 | ['CVE-2022-30190'] |
+| AmitNiz/follina_cve_2022-30190 | proof of concept to CVE-2022-30190 (follina) | https://github.com/AmitNiz/follina_cve_2022-30190 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-06-11 16:46:58+00:00 | 46 | 0 | Python | 0 | ['CVE-2022-30190'] |
 | domyxko/Exploits | None | https://github.com/domyxko/Exploits | ['exploit'] | 1 | 2022-06-11 13:45:30+00:00 | 16 | 0 | | 0 | [] |
 | ChainZoom-Security/optimistic-chain-exploit | None | https://github.com/ChainZoom-Security/optimistic-chain-exploit | ['exploit'] | 1 | 2022-06-11 08:57:45+00:00 | 19 | 1 | Solidity | 0 | [] |
 | Hrishikesh7665/Follina_Exploiter_CLI | Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190) | https://github.com/Hrishikesh7665/Follina_Exploiter_CLI | ['exploit', 'rce'] | 2 | 2022-06-11 05:43:56+00:00 | 42 | 2 | Python | 1 | ['CVE-2022-30190'] |
@@ -19,7 +19,7 @@
 | rf-peixoto/black_veil | A simple crypter for python code. | https://github.com/rf-peixoto/black_veil | ['exploit'] | 1 | 2022-06-11 14:04:29+00:00 | 28 | 0 | Python | 1 | [] |
 | DevXternal/CryT | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | ['exploit'] | 1 | 2022-06-11 02:59:38+00:00 | 246 | 0 | C# | 0 | [] |
 | W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-11 03:18:37+00:00 | 67580 | 37 | Python | 10 | ['CVE-2022-23337', 'CVE-2022-26134'] |
-| ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-11 23:46:25+00:00 | 141 | 10 | Java | 0 | [] |
+| kkpsiren/Bug_Exploiters | None | https://github.com/kkpsiren/Bug_Exploiters | ['exploit'] | 1 | 2022-06-11 08:18:07+00:00 | 15 | 0 | Python | 0 | [] |
 | Z4rkos/Web_Vulnerabilities_School_Project | A repository containing websites I'm making for my school project "Examining, exploiting and explaining common web appliaction vulnerabilities" | https://github.com/Z4rkos/Web_Vulnerabilities_School_Project | ['exploit'] | 1 | 2022-06-11 13:54:58+00:00 | 55 | 0 | Python | 0 | [] |
 | ElusiveSquad/Backdoor-RCE | 404 Backdoor, allows you to execute commands remotely. | https://github.com/ElusiveSquad/Backdoor-RCE | ['rce'] | 1 | 2022-06-11 14:38:07+00:00 | 12 | 1 | PHP | 0 | [] |
 | th3spis/basic_shellcode_injector | None | https://github.com/th3spis/basic_shellcode_injector | ['shellcode'] | 1 | 2022-06-11 15:44:52+00:00 | 2 | 0 | C++ | 0 | [] |
@@ -32,9 +32,9 @@
 | CompanionCubeGD/schoolsucks | exploits n stuff | https://github.com/CompanionCubeGD/schoolsucks | ['exploit'] | 1 | 2022-06-11 03:38:14+00:00 | 8 | 1 | | 0 | [] |
 | alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-06-11 10:33:47+00:00 | 30 | 0 | Lua | 0 | [] |
 | Rumirad64/strandhogg-exploit | None | https://github.com/Rumirad64/strandhogg-exploit | ['exploit'] | 1 | 2022-06-11 06:59:28+00:00 | 227 | 0 | Kotlin | 0 | [] |
-| kkpsiren/Bug_Exploiters | None | https://github.com/kkpsiren/Bug_Exploiters | ['exploit'] | 1 | 2022-06-11 08:18:07+00:00 | 15 | 0 | Python | 0 | [] |
 | TheWorkingDeveloper/OSEP-CyberChef-Recipes | Some handy recipes for OSEP exercises to generate encoded shellcodes with | https://github.com/TheWorkingDeveloper/OSEP-CyberChef-Recipes | ['shellcode'] | 1 | 2022-06-11 11:41:13+00:00 | 18 | 0 | C | 0 | [] |
-| HNT8/WeAreDevs-Exploit | A complex Roblox script executor that includes a script list, API loaded script hub, console debugging, Lua & LuaC injection. | https://github.com/HNT8/WeAreDevs-Exploit | ['exploit'] | 1 | 2022-06-11 00:25:08+00:00 | 1378 | 0 | C# | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-11 05:04:15+00:00 | 234759 | 7182 | C | 1912 | [] |
+| scoobydoobi/CVE-2022-26809-RCE | writeup and poc for [CVE-2022-26809] | https://github.com/scoobydoobi/CVE-2022-26809-RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-06-11 13:24:27+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | trixx4rrr/Exploit-Dexus-key | None | https://github.com/trixx4rrr/Exploit-Dexus-key | ['exploit'] | 1 | 2022-06-11 19:07:46+00:00 | 0 | 0 | | 0 | [] |
 | oturu/CVE-2022-24806-MASS-RCE | CVE-2022-24806 and CVE-2022-24807 are an unauthenticated RCE vulnerability in magento and adobe commerce | https://github.com/oturu/CVE-2022-24806-MASS-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-06-11 19:03:40+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-24806', 'CVE-2022-24807'] |
 | ry4wzbe/script.github.io | script exploit web | https://github.com/ry4wzbe/script.github.io | ['exploit'] | 1 | 2022-06-11 18:59:49+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -43,12 +43,13 @@
 | jeffssh/SHYFISH | Pre-Auth RCE as root on ???? chaining multiple vulnerabilities | https://github.com/jeffssh/SHYFISH | ['rce'] | 1 | 2022-06-11 15:56:59+00:00 | 1 | 0 | | 0 | [] |
 | ADHFMZ7/VulnerableWebsite | A vulnerable website to experiment with common web exploits | https://github.com/ADHFMZ7/VulnerableWebsite | ['exploit'] | 1 | 2022-06-11 15:47:49+00:00 | 0 | 0 | HTML | 0 | [] |
 | sebliot/metasploit-framework | pentest | https://github.com/sebliot/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-11 15:15:30+00:00 | 0 | 0 | | 0 | [] |
+| arzuozkan/CVE-2022-22954 | Practicing technical writing with researching CVE-2022-22954 VMware Workspace ONE Access RCE vulnerability. | https://github.com/arzuozkan/CVE-2022-22954 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-06-11 14:42:18+00:00 | 215 | 0 | | 0 | ['CVE-2022-22954'] |
 | mshhlvxk/basic-easy-exploits-executor | An executor i made using the EasyExploits Exploit API. | https://github.com/mshhlvxk/basic-easy-exploits-executor | ['exploit'] | 1 | 2022-06-11 15:24:26+00:00 | 246 | 0 | C# | 0 | [] |
 | Advanced-use/Vulnerability-0day- | The greatest wish hole in the world. | https://github.com/Advanced-use/Vulnerability-0day- | ['0day'] | 1 | 2022-06-11 13:37:27+00:00 | 0 | 0 | | 0 | [] |
-| scoobydoobi/CVE-2022-26809-RCE | writeup and poc for [CVE-2022-26809] | https://github.com/scoobydoobi/CVE-2022-26809-RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-06-11 13:24:27+00:00 | 0 | 0 | | 0 | ['CVE-2022-26809'] |
 | warning111/dhood | local d=(function(e,...)return e(...);end)local e=(function(e,n)return(e<=n);end)local P=(function(n,e)return(n+e);end)local _=(function(e,n)return(e==n);end)local T=(function(e,n)return(e%n);end)local oe=(function(e,n)return(e>n);end)local v=(function(n,e | https://github.com/warning111/dhood | ['exploit'] | 1 | 2022-06-11 12:59:39+00:00 | 0 | 0 | | 0 | ['VU#29', 'VU#35'] |
+| HNT8/WeAreDevs-Exploit | A complex Roblox script executor that includes a script list, API loaded script hub, console debugging, Lua & LuaC injection. | https://github.com/HNT8/WeAreDevs-Exploit | ['exploit'] | 1 | 2022-06-11 00:25:08+00:00 | 1378 | 0 | C# | 0 | [] |
 | mohamedabdelhady933/RCE-test | RCE test | https://github.com/mohamedabdelhady933/RCE-test | ['rce'] | 1 | 2022-06-11 12:26:19+00:00 | 0 | 0 | PHP | 0 | [] |
-| whokilleddb/CVE-2017-12561-Exploit | Exploit for CVE-2017-12561: dbman Opcode 10012 Use-After-Free Remote Code Execution | https://github.com/whokilleddb/CVE-2017-12561-Exploit | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-06-11 11:31:26+00:00 | 0 | 0 | nan | 0 | ['CVE-2017-12561'] |
+| whokilleddb/CVE-2017-12561-Exploit | Exploit for CVE-2017-12561: dbman Opcode 10012 Use-After-Free Remote Code Execution | https://github.com/whokilleddb/CVE-2017-12561-Exploit | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-06-11 11:31:26+00:00 | 0 | 0 | | 0 | ['CVE-2017-12561'] |
 | Sreetx/Moci | moci adalah pengundh script dari berbagai pihak. moci juga dapat digunakan untuk menginstall metasploit di termux | https://github.com/Sreetx/Moci | ['metasploit module OR payload'] | 1 | 2022-06-11 10:08:54+00:00 | 22 | 1 | Python | 0 | [] |
 | Straxeu/Rules-Verners.team | (Unofficial) Discord server rules suggestions list Author's Note I'll start off with letting you know this is a fork from someone else. However, for some bizarre reason, this is the one everyone finds, so I better get round to updating this. Credit to Cris | https://github.com/Straxeu/Rules-Verners.team | ['exploit'] | 1 | 2022-06-11 09:39:45+00:00 | 0 | 0 | | 0 | [] |
 | D4nk0St0rM/ethical_hacking | Ethical Hacking & PenTesting Repo method, approach, resources, tools, code, exploits, reporting, wordlists, attacks, scanning | https://github.com/D4nk0St0rM/ethical_hacking | ['exploit'] | 1 | 2022-06-11 09:39:15+00:00 | 0 | 0 | | 0 | [] |
@@ -59,8 +60,8 @@
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0 | ['exploit'] | 1 | 2022-06-11 01:22:19+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0 | ['exploit'] | 1 | 2022-06-11 01:20:35+00:00 | 1 | 0 | | 0 | [] |
 | Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-06-11 04:16:15+00:00 | 529 | 3 | C | 1 | [] |
+| ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-11 23:46:25+00:00 | 141 | 10 | Java | 0 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-11 02:03:34+00:00 | 27 | 12 | Shell | 3 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-11 05:04:15+00:00 | 234759 | 7182 | C | 1912 | [] |
 | polyverse/exp-nginx-1.4.0-brop | Exploit for vuln-nginx-1.4.0 using (modified) brop.rb | https://github.com/polyverse/exp-nginx-1.4.0-brop | ['exploit'] | 1 | 2022-06-11 03:24:24+00:00 | 172 | 1 | Ruby | 1 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 06:22:25+00:00 | 926816 | 120 | | 28 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-06-11 09:24:05+00:00 | 320281 | 9 | | 1 | [] |
