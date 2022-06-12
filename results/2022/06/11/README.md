@@ -1,7 +1,7 @@
 
 # Summary for results/2022/06/11
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------------------------|
@@ -19,7 +19,7 @@
 | rf-peixoto/black_veil | A simple crypter for python code. | https://github.com/rf-peixoto/black_veil | ['exploit'] | 1 | 2022-06-11 14:04:29+00:00 | 28 | 0 | Python | 1 | [] |
 | DevXternal/CryT | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | ['exploit'] | 1 | 2022-06-11 02:59:38+00:00 | 246 | 0 | C# | 0 | [] |
 | W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-11 03:18:37+00:00 | 67580 | 37 | Python | 10 | ['CVE-2022-23337', 'CVE-2022-26134'] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-11 05:04:15+00:00 | 234759 | 7182 | C | 1912 | [] |
+| ComuGamersES/sentey | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-11 23:46:25+00:00 | 141 | 10 | Java | 0 | [] |
 | Z4rkos/Web_Vulnerabilities_School_Project | A repository containing websites I'm making for my school project "Examining, exploiting and explaining common web appliaction vulnerabilities" | https://github.com/Z4rkos/Web_Vulnerabilities_School_Project | ['exploit'] | 1 | 2022-06-11 13:54:58+00:00 | 55 | 0 | Python | 0 | [] |
 | ElusiveSquad/Backdoor-RCE | 404 Backdoor, allows you to execute commands remotely. | https://github.com/ElusiveSquad/Backdoor-RCE | ['rce'] | 1 | 2022-06-11 14:38:07+00:00 | 12 | 1 | PHP | 0 | [] |
 | th3spis/basic_shellcode_injector | None | https://github.com/th3spis/basic_shellcode_injector | ['shellcode'] | 1 | 2022-06-11 15:44:52+00:00 | 2 | 0 | C++ | 0 | [] |
@@ -60,8 +60,9 @@
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0 | ['exploit'] | 1 | 2022-06-11 01:20:35+00:00 | 1 | 0 | | 0 | [] |
 | Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-06-11 04:16:15+00:00 | 529 | 3 | C | 1 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-11 02:03:34+00:00 | 27 | 12 | Shell | 3 | [] |
-| EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-06-11 16:56:35+00:00 | 453 | 9 | Python | 1 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-11 04:59:09+00:00 | 209917 | 438 | Python | 126 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-11 05:04:15+00:00 | 234759 | 7182 | C | 1912 | [] |
+| polyverse/exp-nginx-1.4.0-brop | Exploit for vuln-nginx-1.4.0 using (modified) brop.rb | https://github.com/polyverse/exp-nginx-1.4.0-brop | ['exploit'] | 1 | 2022-06-11 03:24:24+00:00 | 172 | 1 | Ruby | 1 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 06:22:25+00:00 | 926816 | 120 | | 28 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2022-06-11 09:24:05+00:00 | 320281 | 9 | | 1 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-06-11 16:26:17+00:00 | 7443 | 156 | Python | 47 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-06-11 07:01:46+00:00 | 28330 | 29 | Python | 6 | [] |
@@ -72,8 +73,8 @@
 | hugsy/pwn-- | pwn++ : a (toy) Windows & Linux pwn library to play with modern C++ (it's not pwn--, it's pwn++) | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-06-11 00:59:12+00:00 | 715 | 71 | C++ | 5 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-06-11 21:23:05+00:00 | 798 | 289 | C | 16 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-11 00:48:10+00:00 | 11727 | 42 | | 21 | [] |
-| polyverse/exp-nginx-1.4.0-brop | Exploit for vuln-nginx-1.4.0 using (modified) brop.rb | https://github.com/polyverse/exp-nginx-1.4.0-brop | ['exploit'] | 1 | 2022-06-11 03:24:24+00:00 | 172 | 1 | Ruby | 1 | [] |
 | gut5/cfw-writeups | Console exploit writeups for learning and research purposes | https://github.com/gut5/cfw-writeups | ['exploit'] | 1 | 2022-06-11 09:18:22+00:00 | 5 | 4 | | 0 | [] |
+| EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-06-11 16:56:35+00:00 | 453 | 9 | Python | 1 | [] |
 | polyverse/zerotect | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | ['exploit'] | 1 | 2022-06-11 03:19:10+00:00 | 5383 | 24 | Rust | 4 | [] |
 | AmitNiz/exploits | Exploits scripts | https://github.com/AmitNiz/exploits | ['exploit'] | 1 | 2022-06-11 16:01:59+00:00 | 15 | 0 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-06-11 03:09:39+00:00 | 1546551 | 4366 | PowerShell | 1538 | [] |
@@ -85,10 +86,11 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-06-11 12:35:03+00:00 | 75888 | 11603 | Jupyter Notebook | 1988 | [] |
 | polyverse/ropoly | ROP-Tool HTTP Server | https://github.com/polyverse/ropoly | ['exploit'] | 1 | 2022-06-11 03:29:57+00:00 | 187671 | 4 | Go | 3 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-06-11 00:02:37+00:00 | 1534831 | 1635 | Python | 543 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 06:22:25+00:00 | 926816 | 120 | | 28 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-11 04:59:09+00:00 | 209917 | 438 | Python | 126 | [] |
 | phixion/psx-docker | dockerized version of https://github.com/Al-Azif/ps4-exploit-host/releases | https://github.com/phixion/psx-docker | ['exploit'] | 1 | 2022-06-11 19:31:03+00:00 | 20 | 0 | Dockerfile | 0 | [] |
-| trickest/containers | Automated privilege escalation of the world's most popular Docker images. | https://github.com/trickest/containers | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 01:59:57+00:00 | 16085 | 22 | Shell | 1 | [] |
 | bigblackhat/oFx | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 16:13:19+00:00 | 9118 | 339 | Python | 75 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-06-11 09:43:47+00:00 | 229222 | 0 | JavaScript | 0 | [] |
+| trickest/containers | Automated privilege escalation of the world's most popular Docker images. | https://github.com/trickest/containers | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-11 01:59:57+00:00 | 16085 | 22 | Shell | 1 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-06-11 15:00:50+00:00 | 305689 | 1 | Python | 0 | [] |
 | Captain-S0L0/serverutilities | a collection of exploit fixes, commands, and other things for fabric mc | https://github.com/Captain-S0L0/serverutilities | ['exploit'] | 1 | 2022-06-11 01:00:00+00:00 | 80 | 0 | Java | 0 | [] |
 | icyguider/Nimcrypt2 | .NET, PE, & Raw Shellcode Packer/Loader Written in Nim | https://github.com/icyguider/Nimcrypt2 | ['shellcode'] | 1 | 2022-06-11 03:18:54+00:00 | 37 | 349 | Nim | 70 | [] |
@@ -111,5 +113,4 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-11 02:00:03+00:00 | 1449 | 108 | HTML | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-11 01:57:22+00:00 | 20875 | 3 | Python | 1 | [] |
 | stryngs/edgedressing | edgedressing leverages a Windows "feature" in order to force a target's Edge browser to open. This browser is then directed to a URL of choice. | https://github.com/stryngs/edgedressing | ['rce'] | 1 | 2022-06-11 20:17:05+00:00 | 10964 | 42 | Python | 2 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-06-11 09:43:47+00:00 | 229222 | 0 | JavaScript | 0 | [] |
 | Keril2/Silent-Exploit-Source | Exploit | https://github.com/Keril2/Silent-Exploit-Source | ['exploit'] | 1 | 2022-06-11 21:31:42+00:00 | 710 | 1 | Visual Basic .NET | 0 | [] |
