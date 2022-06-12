@@ -1,24 +1,27 @@
 
 # Summary for results/2022/06/12
     
-46 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-12 00:26:15+00:00 | 51982 | 306 | Ruby | 89 | [] |
-| allandiegoasilva/exploit-late-htb | None | https://github.com/allandiegoasilva/exploit-late-htb | ['exploit'] | 1 | 2022-06-12 01:59:00+00:00 | 0 | 0 | Python | 0 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-06-12 12:35:03+00:00 | 76012 | 11604 | Jupyter Notebook | 1988 | [] |
+| meshack-ai/exploiter.sh | Bash tool | https://github.com/meshack-ai/exploiter.sh | ['exploit'] | 1 | 2022-06-12 02:37:52+00:00 | 1 | 0 | Shell | 0 | [] |
+| sebastian93921/OSED-Code-Snippets | Tools/scripts For OSED / Reverse engineering / Binary exploitation | https://github.com/sebastian93921/OSED-Code-Snippets | ['exploit'] | 1 | 2022-06-12 13:37:51+00:00 | 28 | 0 | Python | 0 | [] |
+| Neetx/exploitation_docker | Docker container with exploitation technique examples, used in my master thesis | https://github.com/Neetx/exploitation_docker | ['exploit'] | 1 | 2022-06-12 12:49:23+00:00 | 16 | 0 | Python | 0 | [] |
 | abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-12 01:41:52+00:00 | 50 | 0 | Python | 0 | [] |
 | nomokazu/linking-attack-poc | nan | https://github.com/nomokazu/linking-attack-poc | ['attack poc'] | 1 | 2022-06-12 11:15:55+00:00 | 86523 | 1 | Python | 0 | [] |
 | iprisj/RobloxExploitScripts | Scripts for Roblox Exploits I made | https://github.com/iprisj/RobloxExploitScripts | ['exploit'] | 1 | 2022-06-12 01:37:21+00:00 | 3 | 0 | Lua | 0 | [] |
 | F6JO/Reflex_BypassAV | 用go写的一个shellcode免杀加载器，可过360火绒 | https://github.com/F6JO/Reflex_BypassAV | ['shellcode'] | 1 | 2022-06-12 02:29:39+00:00 | 264 | 5 | Go | 0 | [] |
 | mshhlvxk/basic-easy-exploits-executor | An executor i made using the EasyExploits Exploit API. | https://github.com/mshhlvxk/basic-easy-exploits-executor | ['exploit'] | 1 | 2022-06-12 05:09:10+00:00 | 216 | 0 | C# | 0 | [] |
 | ADHFMZ7/ADHFMZ7.github.io | A vulnerable website to experiment with common web exploits | https://github.com/ADHFMZ7/ADHFMZ7.github.io | ['exploit'] | 1 | 2022-06-12 09:47:27+00:00 | 0 | 0 | Python | 0 | [] |
+| oturu/CVE-2022-24806-MASS-RCE | CVE-2022-24806 and CVE-2022-24807 are an unauthenticated RCE vulnerability in magento and adobe commerce | https://github.com/oturu/CVE-2022-24806-MASS-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-06-12 12:40:05+00:00 | 4 | 0 | Python | 0 | ['CVE-2022-24806', 'CVE-2022-24807'] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN-..0 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-..0 | ['exploit'] | 1 | 2022-06-12 00:29:23+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-PDF-EXPLOIT-CLEAN-..0 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-..0 | ['exploit'] | 1 | 2022-06-12 00:30:14+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..0 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..0 | ['exploit'] | 1 | 2022-06-12 00:30:52+00:00 | 1 | 0 | | 0 | [] |
-| meshack-ai/exploiter.sh | Bash tool | https://github.com/meshack-ai/exploiter.sh | ['exploit'] | 1 | 2022-06-12 02:37:52+00:00 | 1 | 0 | Shell | 0 | [] |
-| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-06-12 01:50:11+00:00 | 504 | 144 | Julia | 24 | [] |
+| allandiegoasilva/exploit-late-htb | None | https://github.com/allandiegoasilva/exploit-late-htb | ['exploit'] | 1 | 2022-06-12 01:59:00+00:00 | 0 | 0 | Python | 0 | [] |
 | ItsFrezzy/GhostNight-v4. | GhostNight was made by Itsfreezy And for bedwars exploiting | https://github.com/ItsFrezzy/GhostNight-v4. | ['exploit'] | 1 | 2022-06-12 02:51:15+00:00 | 9 | 0 | | 1 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-12 00:26:15+00:00 | 51982 | 306 | Ruby | 89 | [] |
 | funny-kill/dvwa-rce | None | https://github.com/funny-kill/dvwa-rce | ['rce'] | 1 | 2022-06-12 03:49:08+00:00 | 0 | 0 | Python | 0 | [] |
 | mmnhack0/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, | https://github.com/mmnhack0/Hacking-Tools-Pack | ['exploit'] | 1 | 2022-06-12 06:11:36+00:00 | 18 | 0 | | 0 | [] |
 | mmnhack0/GH-Hacking-Tool-Kit | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many M | https://github.com/mmnhack0/GH-Hacking-Tool-Kit | ['exploit'] | 1 | 2022-06-12 06:06:23+00:00 | 23 | 0 | | 0 | [] |
@@ -27,15 +30,23 @@
 | t-rekttt/yoosee-exploit | None | https://github.com/t-rekttt/yoosee-exploit | ['exploit'] | 1 | 2022-06-12 09:25:59+00:00 | 0 | 0 | Shell | 0 | [] |
 | ra890927/Log4Shell-CVE-2121-44228-Demo | Log4Shell CVE-2021-44228 Demo | https://github.com/ra890927/Log4Shell-CVE-2121-44228-Demo | ['cve-2 OR cve_2'] | 1 | 2022-06-12 11:16:47+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-44228', 'CVE-2121-44228'] |
 | MatthiasKi/drone_structures | Exploiting Structures in Weight Matrices for Efficient Real-Time Drone Control with Neural Networks | https://github.com/MatthiasKi/drone_structures | ['exploit'] | 1 | 2022-06-12 11:01:33+00:00 | 0 | 0 | Python | 0 | [] |
+| WIZARD00007/PasswordGenerator | use exploit | https://github.com/WIZARD00007/PasswordGenerator | ['exploit'] | 1 | 2022-06-12 11:27:43+00:00 | 0 | 0 | Python | 0 | [] |
+| DKMtomy/exploit | None | https://github.com/DKMtomy/exploit | ['exploit'] | 1 | 2022-06-12 11:59:44+00:00 | 1 | 0 | | 0 | [] |
+| weszek/weszek-hub | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | ['exploit'] | 1 | 2022-06-12 12:51:33+00:00 | 59 | 0 | | 0 | [] |
+| PranavSatav/Exploit-Injector | A Simple PHP Script to Inject a custom made exploit into a server | https://github.com/PranavSatav/Exploit-Injector | ['exploit'] | 1 | 2022-06-12 13:30:57+00:00 | 6 | 0 | PHP | 0 | [] |
+| heavenswill/CVE-2022-32013 | None | https://github.com/heavenswill/CVE-2022-32013 | ['cve-2 OR cve_2'] | 1 | 2022-06-12 13:31:48+00:00 | 0 | 0 | | 0 | ['CVE-2022-32013'] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-12 13:32:21+00:00 | 35096 | 408 | C++ | 73 | [] |
 | LinxzSec/kernel-exploits | A collection of kernel exploits written by me. | https://github.com/LinxzSec/kernel-exploits | ['exploit'] | 1 | 2022-06-12 11:43:30+00:00 | 19 | 2 | C | 0 | [] |
-| hktalent/goSqlite_gorm | golang,Penetration, Attack, Auxiliary Tool, tnb = tree new bee | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-12 05:41:20+00:00 | 64516 | 2 | Go | 0 | [] |
-| stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-12 03:12:05+00:00 | 1919 | 0 | CSS | 0 | [] |
-| Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-06-12 00:48:20+00:00 | 542 | 3 | C | 1 | [] |
+| GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-06-12 13:38:47+00:00 | 3703 | 94 | Python | 10 | [] |
+| mknet/rcelko.ch-ansible | None | https://github.com/mknet/rcelko.ch-ansible | ['rce'] | 1 | 2022-06-12 12:13:04+00:00 | 18 | 0 | Elixir | 0 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-06-12 01:50:11+00:00 | 504 | 144 | Julia | 24 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-12 02:31:17+00:00 | 296362 | 168 | REXX | 16 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-12 06:48:14+00:00 | 11956 | 42 | | 21 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-06-12 02:49:04+00:00 | 838 | 289 | C | 16 | [] |
+| pedro-javierf/NTRGhidra | A Nintendo DS binary loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | ['exploit'] | 1 | 2022-06-12 11:57:21+00:00 | 545 | 98 | Java | 7 | [] |
 | iaur/tde-wp | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | ['exploit'] | 1 | 2022-06-12 06:39:16+00:00 | 248 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-12 02:03:48+00:00 | 595446 | 57 | | 22 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-06-12 13:10:11+00:00 | 42292 | 29 | Python | 6 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-12 06:14:13+00:00 | 950196 | 120 | | 28 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-12 04:58:54+00:00 | 199361 | 438 | Python | 126 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-06-12 09:57:57+00:00 | 229199 | 0 | JavaScript | 0 | [] |
@@ -48,6 +59,11 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-06-12 06:19:02+00:00 | 160307 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-12 02:01:55+00:00 | 74308 | 3026 | | 369 | [] |
 | twseptian/python-exploit-scripts | This is a repository made by the author to improve his skill in python exploitation | https://github.com/twseptian/python-exploit-scripts | ['exploit'] | 1 | 2022-06-12 06:05:23+00:00 | 1398 | 2 | Python | 0 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-06-12 12:52:52+00:00 | 3427 | 379 | Go | 68 | [] |
 | trickest/containers | Automated privilege escalation of the world's most popular Docker images. | https://github.com/trickest/containers | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-12 09:44:40+00:00 | 16108 | 23 | Shell | 1 | [] |
 | ComuGamersES/sentey | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-12 02:21:53+00:00 | 160 | 10 | Java | 0 | [] |
-| WIZARD00007/PasswordGenerator | use exploit | https://github.com/WIZARD00007/PasswordGenerator | ['exploit'] | 1 | 2022-06-12 11:27:43+00:00 | 0 | 0 | Python | 0 | [] |
+| Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-06-12 00:48:20+00:00 | 542 | 3 | C | 1 | [] |
+| conefv/ROBLOX | Resources for ROBLOX exploiting related things. | https://github.com/conefv/ROBLOX | ['exploit'] | 1 | 2022-06-12 12:00:19+00:00 | 79 | 1 | Lua | 0 | [] |
+| stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-12 03:12:05+00:00 | 1919 | 0 | CSS | 0 | [] |
+| hktalent/goSqlite_gorm | golang,Penetration, Attack, Auxiliary Tool, tnb = tree new bee | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-12 05:41:20+00:00 | 64516 | 2 | Go | 0 | [] |
+| galvinlol/stumble-exploit | a simple exploit that can give you unlimited trophies | https://github.com/galvinlol/stumble-exploit | ['exploit'] | 1 | 2022-06-12 13:48:55+00:00 | 0 | 0 | | 0 | [] |
