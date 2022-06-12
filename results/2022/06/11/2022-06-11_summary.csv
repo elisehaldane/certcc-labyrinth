@@ -1,10 +1,10 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
 rapid7/metasploit-framework,Metasploit Framework,https://github.com/rapid7/metasploit-framework,['metasploit module OR payload'],1,2022-06-11T01:45:25+0000,757647,27464,Ruby,12302,[]
 Ezeqielle/shellcode_v2,None,https://github.com/Ezeqielle/shellcode_v2,['shellcode'],1,2022-06-11T10:15:31+0000,13,0,Assembly,0,[]
-AmitNiz/follina_cve_2022-30190,proof of concept to CVE-2022-30190 (follina),https://github.com/AmitNiz/follina_cve_2022-30190,['cve-2 OR cve_2'],1,2022-06-11T16:46:58+0000,46,0,Python,0,['CVE-2022-30190']
+AmitNiz/follina_cve_2022-30190,proof of concept to CVE-2022-30190 (follina),https://github.com/AmitNiz/follina_cve_2022-30190,"['cve poc', 'cve-2 OR cve_2', 'exploit']",3,2022-06-11T19:12:53+0000,49,0,Python,0,['CVE-2022-30190']
 domyxko/Exploits,None,https://github.com/domyxko/Exploits,['exploit'],1,2022-06-11T13:45:30+0000,16,0,,0,[]
 ChainZoom-Security/optimistic-chain-exploit,None,https://github.com/ChainZoom-Security/optimistic-chain-exploit,['exploit'],1,2022-06-11T08:57:45+0000,19,1,Solidity,0,[]
-Hrishikesh7665/Follina_Exploiter_CLI,Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190),https://github.com/Hrishikesh7665/Follina_Exploiter_CLI,"['exploit', 'rce']",2,2022-06-11T05:58:38+0000,19432,3,Python,1,['CVE-2022-30190']
+Hrishikesh7665/Follina_Exploiter_CLI,Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190),https://github.com/Hrishikesh7665/Follina_Exploiter_CLI,"['exploit', 'rce']",2,2022-06-11T05:43:56+0000,42,2,Python,1,['CVE-2022-30190']
 nomokazu/linking-attack-poc,None,https://github.com/nomokazu/linking-attack-poc,['attack poc'],1,2022-06-11T01:01:58+0000,86523,1,Python,0,[]
 abdeljalil-salhi/AbdelSploit,Your new favorite hacking tool.,https://github.com/abdeljalil-salhi/AbdelSploit,['sploit'],1,2022-06-11T13:15:50+0000,49,0,Python,0,[]
 tklieber/XOR_Reverse_Shellcode,XOR_Reverse_Shellcode with client (victime) and server (attacker) in python,https://github.com/tklieber/XOR_Reverse_Shellcode,['shellcode'],1,2022-06-11T12:52:42+0000,33,0,Assembly,0,[]
