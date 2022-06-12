@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+502654937,NullBrunk/WebminExploit,README.md,76d642d99f47c2088d8a83fc29c0b3c4e170fb1b,CVE-2019-15107
+502654937,NullBrunk/WebminExploit,README.md,76d642d99f47c2088d8a83fc29c0b3c4e170fb1b,CVE-2019-15231
+502654937,NullBrunk/WebminExploit,_GITHUB_REPO_METADATA_,,CVE-2019-15107
+502654937,NullBrunk/WebminExploit,_GITHUB_REPO_METADATA_,,CVE-2019-15231
