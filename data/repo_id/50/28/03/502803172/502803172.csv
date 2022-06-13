@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+502803172,SonicWave21/Follina-CVE-2022-30190-Unofficial-patch,README.md,326d86d183dde9bbacb120f23c9d39b2cba931ba,CVE-2022-30190
+502803172,SonicWave21/Follina-CVE-2022-30190-Unofficial-patch,RougfPatch.bat,cfe549c22fa4ccaa9255ff7124b333103a0ac9da,CVE-2022-30190
+502803172,SonicWave21/Follina-CVE-2022-30190-Unofficial-patch,_GITHUB_REPO_METADATA_,,CVE-2022-30190
