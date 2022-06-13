@@ -1,25 +1,27 @@
 
 # Summary for results/2022/06/13
     
-55 records found after deduplication
+63 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-13 05:42:19+00:00 | 5677 | 3300 | Python | 700 | [] |
-| ra890927/Log4Shell-CVE-2121-44228-Demo | Log4Shell CVE-2021-44228 Demo | https://github.com/ra890927/Log4Shell-CVE-2121-44228-Demo | ['cve-2 OR cve_2'] | 1 | 2022-06-13 02:37:18+00:00 | 12 | 0 | HTML | 0 | ['CVE-2021-44228', 'CVE-2121-44228'] |
-| ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-06-13 03:40:23+00:00 | 5 | 0 | C++ | 0 | [] |
+| Mi9iNT/InitiationBabyloneJS | Repository d'une page web servant à exploiter le monteur de rendu WebGL pour afficher des éléments 3D par le biais de BabylonJS | https://github.com/Mi9iNT/InitiationBabyloneJS | ['exploit'] | 1 | 2022-06-13 11:44:14+00:00 | 31563 | 0 | JavaScript | 0 | [] |
 | NEED-Programming/Exploit-Development | None | https://github.com/NEED-Programming/Exploit-Development | ['exploit'] | 1 | 2022-06-13 01:50:27+00:00 | 404 | 1 | C++ | 0 | [] |
+| Neetx/exploitation_docker | Docker container with exploitation technique examples, used in my master thesis | https://github.com/Neetx/exploitation_docker | ['exploit'] | 1 | 2022-06-13 11:35:56+00:00 | 16 | 2 | Python | 0 | [] |
 | rxzyx/PopCat-Hack | The best hack for popcat.click | https://github.com/rxzyx/PopCat-Hack | ['exploit'] | 1 | 2022-06-13 07:20:29+00:00 | 68 | 3 | JavaScript | 0 | [] |
 | rxzyx/wordle-answer-hack | Get the answer in both wordle and wordleunlimited.org | https://github.com/rxzyx/wordle-answer-hack | ['exploit'] | 1 | 2022-06-13 07:20:47+00:00 | 19 | 3 | JavaScript | 1 | [] |
 | tklieber/XOR_Reverse_Shellcode | XOR_Reverse_Shellcode with client (victime) and server (attacker) in python | https://github.com/tklieber/XOR_Reverse_Shellcode | ['shellcode'] | 1 | 2022-06-13 09:41:55+00:00 | 38 | 0 | Assembly | 0 | [] |
 | OTAKKATO/ZeroRevolt | A collection of Revolt hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroRevolt | ['exploit'] | 1 | 2022-06-13 04:28:18+00:00 | 12 | 2 | JavaScript | 0 | [] |
+| 4ra1n/tomcat-jmxproxy-rce-exp | Apache Tomcat JMXProxy RCE | https://github.com/4ra1n/tomcat-jmxproxy-rce-exp | ['rce'] | 1 | 2022-06-13 11:20:28+00:00 | 105 | 4 | Go | 1 | [] |
 | abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-13 02:02:58+00:00 | 55 | 0 | Python | 0 | [] |
 | Hrishikesh7665/Follina_Exploiter_CLI | Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190) | https://github.com/Hrishikesh7665/Follina_Exploiter_CLI | ['exploit', 'rce'] | 2 | 2022-06-13 05:10:51+00:00 | 19432 | 5 | Python | 1 | ['CVE-2022-30190'] |
 | pratraut/exploit-practice | POC for some of the famous hacks | https://github.com/pratraut/exploit-practice | ['exploit'] | 1 | 2022-06-13 08:14:17+00:00 | 1688 | 0 | Solidity | 0 | [] |
 | yichunhuang/Web-Security-Academy-Lab | Python script to automate and exploit | https://github.com/yichunhuang/Web-Security-Academy-Lab | ['exploit'] | 1 | 2022-06-13 08:27:58+00:00 | 3 | 0 | Python | 0 | [] |
 | yogwoggf/gmfoolery | Compilation of funny bugs in GMod. | https://github.com/yogwoggf/gmfoolery | ['exploit'] | 1 | 2022-06-13 03:29:37+00:00 | 22 | 1 | | 0 | [] |
+| ra890927/Log4Shell-CVE-2121-44228-Demo | Log4Shell CVE-2021-44228 Demo | https://github.com/ra890927/Log4Shell-CVE-2121-44228-Demo | ['cve-2 OR cve_2'] | 1 | 2022-06-13 02:37:18+00:00 | 12 | 0 | HTML | 0 | ['CVE-2021-44228', 'CVE-2121-44228'] |
 | vidrez/log4j-deserialization-rce-POC | None | https://github.com/vidrez/log4j-deserialization-rce-POC | ['rce', 'rce poc'] | 2 | 2022-06-13 08:51:18+00:00 | 9 | 0 | Java | 0 | [] |
-| khalednassar/CVE-2020-27301-hostapd | None | https://github.com/khalednassar/CVE-2020-27301-hostapd | ['cve-2 OR cve_2'] | 1 | 2022-06-13 09:46:13+00:00 | 23363 | 0 | C | 1 | ['CVE-2020-27301'] |
+| RozmazanyHovnoNaZdi/Reverse-Cypher-Encoder-RCE-test | Encoder | https://github.com/RozmazanyHovnoNaZdi/Reverse-Cypher-Encoder-RCE-test | ['rce'] | 1 | 2022-06-13 10:03:56+00:00 | 7 | 0 | C# | 0 | [] |
 | trhacknon/CVE-2022-26134 | None | https://github.com/trhacknon/CVE-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-06-13 03:16:15+00:00 | 14 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | Chocapikk/CVE-2022-26134 | CVE-2022-26134 - Confluence Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-06-13 00:56:37+00:00 | 6 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0. | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0. | ['exploit'] | 1 | 2022-06-13 00:02:24+00:00 | 1 | 0 | | 0 | [] |
@@ -31,10 +33,12 @@
 | Thirukrishnan/binexp | Writeups and Code for binary exploitation | https://github.com/Thirukrishnan/binexp | ['exploit'] | 1 | 2022-06-13 06:42:07+00:00 | 3 | 0 | Python | 0 | [] |
 | kiks7/CVE-2020-27786-Kernel-Exploit | 4.9 Kernel Exploit for CVE-2020-27786 | https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-13 08:08:21+00:00 | 5 | 0 | C | 0 | ['CVE-2020-27786'] |
 | Tozman99/android-testing-kernel- | An android image kernel used for testing/running exploit | https://github.com/Tozman99/android-testing-kernel- | ['exploit'] | 1 | 2022-06-13 08:16:49+00:00 | 14 | 0 | | 0 | [] |
+| mindtastic/stagefright | Prevents yourself from feeling exploited | https://github.com/mindtastic/stagefright | ['exploit'] | 1 | 2022-06-13 09:34:43+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| redhat-appstudio-qe/e2e-demo-application-albarbaro-exploit-benefit | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-demo-application-albarbaro-exploit-benefit | ['exploit'] | 1 | 2022-06-13 11:40:57+00:00 | 0 | 0 | | 0 | [] |
+| ascemama/RunShellcode | None | https://github.com/ascemama/RunShellcode | ['shellcode'] | 1 | 2022-06-13 03:40:23+00:00 | 5 | 0 | C++ | 0 | [] |
 | hktalent/goSqlite_gorm | golang,Penetration, Attack, Auxiliary Tool, tnb = tree new bee | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-13 02:31:08+00:00 | 94868 | 2 | Go | 0 | [] |
-| Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-06-13 01:09:03+00:00 | 465 | 1 | C | 0 | [] |
 | dradis/dradis-metasploit | Metasploit Framework plugin for the Dradis Framework | https://github.com/dradis/dradis-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-13 06:50:05+00:00 | 66 | 5 | Ruby | 3 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-13 04:00:53+00:00 | 202061 | 439 | Python | 126 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-13 02:09:03+00:00 | 20577 | 3 | Python | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-13 00:29:18+00:00 | 51983 | 306 | Ruby | 89 | [] |
 | mogwailabs/CVE-2017-1000486 | Proof of Concept Exploit for PrimeFaces 5.x EL Injection (CVE-2017-1000486) | https://github.com/mogwailabs/CVE-2017-1000486 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-13 09:39:57+00:00 | 5 | 6 | Python | 1 | ['CVE-2017-1000486'] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-13 02:32:21+00:00 | 298963 | 169 | REXX | 16 | [] |
@@ -46,11 +50,13 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-13 02:03:47+00:00 | 605790 | 57 | | 22 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-06-13 01:21:48+00:00 | 7460 | 157 | Python | 47 | [] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2022-06-13 01:34:13+00:00 | 4237 | 186 | HTML | 83 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-13 04:00:53+00:00 | 202061 | 439 | Python | 126 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-06-13 09:47:17+00:00 | 1946 | 0 | | 0 | [] |
-| risyam/Web-App-Security-Issues | Web Application Security Issues in a nutshell- what it is, ways to exploit and remediation | https://github.com/risyam/Web-App-Security-Issues | ['exploit'] | 1 | 2022-06-13 03:42:57+00:00 | 7 | 0 | | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-13 02:09:03+00:00 | 20577 | 3 | Python | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-13 02:11:44+00:00 | 1512 | 108 | HTML | 25 | [] |
+| khalednassar/CVE-2020-27301-hostapd | None | https://github.com/khalednassar/CVE-2020-27301-hostapd | ['cve-2 OR cve_2'] | 1 | 2022-06-13 09:46:13+00:00 | 23363 | 0 | C | 1 | ['CVE-2020-27301'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-13 01:55:44+00:00 | 6214671 | 58 | Python | 9 | [] |
+| PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-06-13 11:13:41+00:00 | 27 | 1 | | 0 | [] |
+| Jun-5heng/CVE-2021-22005 | VMware vCenter Server任意文件上传漏洞 / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2022-06-13 11:11:16+00:00 | 61 | 1 | Python | 1 | ['CVE-2021-22005'] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-06-13 04:54:17+00:00 | 1121 | 6 | C | 2 | [] |
 | listenquiet/cve-2017-2824-reverse-shell | None | https://github.com/listenquiet/cve-2017-2824-reverse-shell | ['cve-2 OR cve_2'] | 1 | 2022-06-13 09:23:47+00:00 | 582 | 3 | Python | 0 | ['CVE-2017-2824'] |
 | AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2022-06-13 00:38:44+00:00 | 570 | 0 | Lua | 0 | [] |
@@ -59,4 +65,6 @@
 | bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-06-13 02:21:50+00:00 | 248 | 2 | Lua | 2 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-13 00:23:35+00:00 | 39 | 14 | Shell | 3 | [] |
 | Hi-Mad/exploits | None | https://github.com/Hi-Mad/exploits | ['exploit'] | 1 | 2022-06-13 08:56:46+00:00 | 55 | 0 | PHP | 0 | [] |
-| mindtastic/stagefright | Prevents yourself from feeling exploited | https://github.com/mindtastic/stagefright | ['exploit'] | 1 | 2022-06-13 09:34:43+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| risyam/Web-App-Security-Issues | Web Application Security Issues in a nutshell- what it is, ways to exploit and remediation | https://github.com/risyam/Web-App-Security-Issues | ['exploit'] | 1 | 2022-06-13 03:42:57+00:00 | 7 | 0 | | 0 | [] |
+| Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-06-13 01:09:03+00:00 | 465 | 1 | C | 0 | [] |
+| Captain-v-hook/CVE-2021-38540 | Missing Authentication on Critical component CVE-2021-38540 | https://github.com/Captain-v-hook/CVE-2021-38540 | ['cve-2 OR cve_2'] | 1 | 2022-06-13 11:43:26+00:00 | 0 | 0 | | 0 | ['CVE-2021-38540'] |
