@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 487019011,hktalent/goSqlite_gorm,test,16fef1a268dd0c25321eecbe61109e196c2b8cac,VU#14
 487019011,hktalent/goSqlite_gorm,tools/CVE-2018-15473.py,1d34085a20387a6c3f7f19752ce53c0e3938e350,CVE-2018-15473
-487019011,hktalent/goSqlite_gorm,tools/Check_CVE_2020_26134.go,35a72d467b16c6bd8b735bb9fe6a95a772b18c33,CVE-2020-26134
-487019011,hktalent/goSqlite_gorm,tools/Check_CVE_2020_26134.go,35a72d467b16c6bd8b735bb9fe6a95a772b18c33,CVE-2022-26134
+487019011,hktalent/goSqlite_gorm,tools/Check_CVE_2020_26134.go,576077d658409629396ce7d176eac962a28421b0,CVE-2020-26134
+487019011,hktalent/goSqlite_gorm,tools/Check_CVE_2020_26134.go,576077d658409629396ce7d176eac962a28421b0,CVE-2022-26134
 487019011,hktalent/goSqlite_gorm,main,6f63af6f944acfeba14a201fcaceb0001edab18b,VU#32
 487019011,hktalent/goSqlite_gorm,main,6f63af6f944acfeba14a201fcaceb0001edab18b,VU#83
 487019011,hktalent/goSqlite_gorm,pkg/secdb/secDb.go,77bb985febd941deb0b9032f12b0c0e638f02846,CVE-2020-14882
