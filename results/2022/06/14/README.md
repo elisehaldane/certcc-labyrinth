@@ -1,12 +1,12 @@
 
 # Summary for results/2022/06/14
     
-123 records found after deduplication
+124 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-14 08:41:53+00:00 | 757670 | 27495 | Ruby | 12311 | [] |
-| codingcore1/SILENT-PDF-EXPLOIT-CLEAN.0 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN.0 | ['exploit'] | 1 | 2022-06-14 00:00:53+00:00 | 1 | 0 | | 0 | [] |
+| dsibilio/follina-spring | Server to host/activate Follina payloads & generator of malicious Word documents exploiting the MS-MSDT protocol. (CVE-2022-30190) | https://github.com/dsibilio/follina-spring | ['exploit'] | 1 | 2022-06-14 20:30:12+00:00 | 76 | 2 | Java | 0 | ['CVE-2022-30190'] |
 | Chocapikk/CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-06-14 23:45:16+00:00 | 3 | 2 | Python | 0 | ['CVE-2022-26134'] |
 | Karmaz95/crimson_lisp | Post-exploitation tools wrapper | https://github.com/Karmaz95/crimson_lisp | ['exploit'] | 1 | 2022-06-14 01:27:21+00:00 | 41065 | 1 | Shell | 0 | [] |
 | gokceuludogan/PLMs_for_drug_design | Code for the paper "Exploiting Pretrained Biochemical Language Models for Targeted Drug Design", to appear in ECCB2022 Proceedings. | https://github.com/gokceuludogan/PLMs_for_drug_design | ['exploit'] | 1 | 2022-06-14 19:26:32+00:00 | 40654 | 0 | Jupyter Notebook | 0 | [] |
@@ -20,8 +20,8 @@
 | 3r3n-J43g3r/roblox-exploits | I will put the exploits that i find for game zombie uprising here | https://github.com/3r3n-J43g3r/roblox-exploits | ['exploit'] | 1 | 2022-06-14 03:30:17+00:00 | 43 | 0 | Lua | 0 | [] |
 | Executor-tech/ETechHub | ETech's Roblox hub fit for all types of exploiting purposes. | https://github.com/Executor-tech/ETechHub | ['exploit'] | 1 | 2022-06-14 07:15:23+00:00 | 2 | 0 | | 0 | [] |
 | abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-14 02:02:15+00:00 | 63 | 0 | Python | 0 | [] |
-| dsibilio/follina-spring | Server to host/activate Follina payloads & generator of malicious Word documents exploiting the MS-MSDT protocol. (CVE-2022-30190) | https://github.com/dsibilio/follina-spring | ['exploit'] | 1 | 2022-06-14 20:30:12+00:00 | 76 | 2 | Java | 0 | ['CVE-2022-30190'] |
 | greenhandatsjtu/CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-06-14 09:21:38+00:00 | 875 | 1 | C | 0 | ['CVE-2022-0847'] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-06-14 05:02:35+00:00 | 7 | 1 | Python | 0 | [] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-14 02:23:35+00:00 | 172 | 1 | | 0 | [] |
 | W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-14 07:01:40+00:00 | 67593 | 42 | Python | 11 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | chvancooten/follina.py | POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes | https://github.com/chvancooten/follina.py | ['rce', 'rce poc', 'vulnerability poc'] | 3 | 2022-06-14 17:14:19+00:00 | 48 | 936 | Smarty | 216 | [] |
@@ -29,14 +29,15 @@
 | wshidamowang/Router | Router ZeroDay | https://github.com/wshidamowang/Router | ['zeroday'] | 1 | 2022-06-14 07:23:46+00:00 | 644 | 0 | | 0 | [] |
 | striketm98/Cyber-Security | A penetration test, also known as a pen test, is a simulated cyber attack against your computer system to check for exploitable vulnerabilities. In the context of web application security, penetration testing is commonly used to augment a web application f | https://github.com/striketm98/Cyber-Security | ['exploit'] | 1 | 2022-06-14 08:06:28+00:00 | 32 | 0 | | 0 | [] |
 | UNICORDev/exploit-CVE-2020-5844 | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2022-06-14 18:18:59+00:00 | 57 | 2 | Python | 0 | ['CVE-2020-5844'] |
+| alvinjz2/Cassandra | Bot that exploits arbitrage opportunities within the TF2 economy | https://github.com/alvinjz2/Cassandra | ['exploit'] | 1 | 2022-06-14 23:51:22+00:00 | 8446 | 0 | Python | 0 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-14 08:58:18+00:00 | 35098 | 420 | C++ | 76 | [] |
 | Lexsolena/uwu | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenit | https://github.com/Lexsolena/uwu | ['exploit'] | 1 | 2022-06-14 11:40:10+00:00 | 9573 | 0 | C | 1 | [] |
 | t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-06-14 05:59:43+00:00 | 69 | 3 | Python | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-14 00:41:08+00:00 | 1662 | 6 | Rust | 0 | [] |
 | hktalent/goSqlite_gorm | golang,Penetration, Attack, Auxiliary Tool, tnb = tree new bee | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-14 05:46:32+00:00 | 94878 | 2 | Go | 0 | [] |
 | codingcore1/SILENT-DOC-EXPLOIT-CLEAN.0 | None | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN.0 | ['exploit'] | 1 | 2022-06-14 00:00:04+00:00 | 1 | 0 | | 0 | [] |
+| codingcore1/SILENT-PDF-EXPLOIT-CLEAN.0 | None | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN.0 | ['exploit'] | 1 | 2022-06-14 00:00:53+00:00 | 1 | 0 | | 0 | [] |
 | codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | None | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | ['exploit'] | 1 | 2022-06-14 00:01:46+00:00 | 1 | 0 | | 0 | [] |
-| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-06-14 12:28:15+00:00 | 191 | 252 | Go | 31 | [] |
 | saintxploit/laravel-rce | None | https://github.com/saintxploit/laravel-rce | ['rce'] | 1 | 2022-06-14 01:17:02+00:00 | 11 | 0 | Python | 0 | [] |
 | kmeps4/CVE-2022-22620 | CVE-2022-22620: Use-after-free in Safari | https://github.com/kmeps4/CVE-2022-22620 | ['cve-2 OR cve_2'] | 1 | 2022-06-14 22:25:57+00:00 | 16 | 0 | HTML | 0 | ['CVE-2022-22620'] |
 | V4yX/dataStore4Exploits | A simple data saver for exploit. | https://github.com/V4yX/dataStore4Exploits | ['exploit'] | 1 | 2022-06-14 21:38:15+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -66,8 +67,8 @@
 | ChainZoom-Security/gym-network-exploit | None | https://github.com/ChainZoom-Security/gym-network-exploit | ['exploit'] | 1 | 2022-06-14 03:37:47+00:00 | 0 | 0 | Solidity | 0 | [] |
 | ReIevancy/EvSploit | Official EvSploit Release. | https://github.com/ReIevancy/EvSploit | ['sploit'] | 1 | 2022-06-14 02:15:14+00:00 | 0 | 0 | | 0 | [] |
 | TitanVale/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-06-14 11:49:08+00:00 | 2769 | 6 | Shell | 0 | [] |
+| SummerSec/SpringExploit | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | ['exploit', 'rce'] | 2 | 2022-06-14 12:28:15+00:00 | 191 | 252 | Go | 31 | [] |
 | CERTCC/cveClient | A client and library to cve-services 2.x to provide CVE management for CNA and CERTs | https://github.com/CERTCC/cveClient | ['cve-2 OR cve_2'] | 1 | 2022-06-14 21:54:29+00:00 | 99 | 0 | JavaScript | 0 | [] |
-| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-06-14 05:02:35+00:00 | 7 | 1 | Python | 0 | [] |
 | Crypto-Cat/REdiREKT | Code-base to go with academic paper "REdiREKT: Extracting Malicious Redirections from Exploit Kit Traffic" available @ https://pure.qub.ac.uk/en/publications/redirekt-extracting-malicious-redirections-from-exploit-kit-traff and short video presentation and | https://github.com/Crypto-Cat/REdiREKT | ['exploit'] | 1 | 2022-06-14 13:12:39+00:00 | 11956 | 6 | Jupyter Notebook | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-14 02:03:48+00:00 | 595691 | 57 | | 22 | [] |
 | GabrasticYT/Roblox | exploit related scripts | https://github.com/GabrasticYT/Roblox | ['exploit'] | 1 | 2022-06-14 22:44:42+00:00 | 7335 | 0 | Lua | 0 | [] |
