@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+503577371,mynameisORIG/exploits-used,python2/34681.py,77e4df1ce79d43b7a0a6a2246ca78e6cf2285e3a,CVE-2014-5460
+503577371,mynameisORIG/exploits-used,python3/34681.py,c0975fbf75fe9783c45c07c78e3be7dd9886516c,CVE-2014-5460
