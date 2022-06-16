@@ -1,7 +1,7 @@
 
 # Summary for results/2022/06/16
     
-28 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -17,19 +17,23 @@
 | iSholvedNV/StumbleExploitGo | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | ['exploit'] | 1 | 2022-06-16 01:49:50+00:00 | 9 | 4 | Go | 1 | [] |
 | sari3l/Poc-Monitor | Github CVE POC 信息监控推送 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-16 02:20:31+00:00 | 11127 | 0 | Go | 0 | [] |
 | danielunderwood/exploited-vulns-feed | Turning CISA's exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | ['exploit'] | 1 | 2022-06-16 01:14:31+00:00 | 11 | 0 | Rust | 0 | [] |
+| abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-16 02:45:09+00:00 | 70 | 0 | Python | 0 | [] |
 | 4ra1n/tomcat-jmxproxy-rce-exp | Apache Tomcat JMXProxy RCE | https://github.com/4ra1n/tomcat-jmxproxy-rce-exp | ['rce'] | 1 | 2022-06-16 02:15:56+00:00 | 107 | 174 | Go | 30 | [] |
 | Exploitables/HEVD-Exploits | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | ['exploit'] | 1 | 2022-06-16 02:25:24+00:00 | 478 | 10 | C | 2 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-16 01:08:36+00:00 | 372 | 0 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-16 01:45:44+00:00 | 72995 | 3049 | | 369 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-06-16 01:28:11+00:00 | 74591 | 127 | Go | 30 | [] |
+| 0xCuSO4/DHLYK | 大灰狼远控木马 V9.5 源码 | https://github.com/0xCuSO4/DHLYK | ['shellcode'] | 1 | 2022-06-16 02:45:35+00:00 | 303 | 277 | C++ | 152 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-16 01:46:23+00:00 | 6333283 | 58 | Python | 9 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading. | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-06-16 02:20:24+00:00 | 257 | 25 | C++ | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-16 02:03:42+00:00 | 1644 | 108 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-16 01:59:50+00:00 | 21108 | 3 | Python | 1 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2022-06-16 02:16:21+00:00 | 16987 | 530 | Go | 108 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-16 04:00:54+00:00 | 199616 | 440 | Python | 126 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-16 02:03:47+00:00 | 607044 | 57 | | 22 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-16 00:48:13+00:00 | 14973 | 42 | | 21 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-06-16 01:53:29+00:00 | 64538 | 1565 | Python | 310 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-16 02:34:02+00:00 | 302507 | 168 | REXX | 16 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-16 00:25:38+00:00 | 53530 | 307 | Ruby | 89 | [] |
 | lijiejie/ds_store_exp | A .DS_Store file disclosure exploit. It parses .DS_Store file and downloads files recursively. | https://github.com/lijiejie/ds_store_exp | ['exploit'] | 1 | 2022-06-16 02:22:05+00:00 | 10 | 989 | Python | 248 | [] |
 | Gl1xzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/Gl1xzzy/blooket-hack | ['exploit'] | 1 | 2022-06-16 02:24:13+00:00 | 0 | 0 | | 0 | [] |
