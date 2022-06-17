@@ -1,12 +1,14 @@
 
 # Summary for results/2022/06/17
     
-24 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| hugsy/cemu | Cheap EMUlator: lightweight multi-architecture assembly playground | https://github.com/hugsy/cemu | ['shellcode'] | 1 | 2022-06-17 01:20:15+00:00 | 534 | 783 | Python | 102 | [] |
-| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-06-17 01:23:00+00:00 | 760 | 89 | Python | 40 | [] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-06-17 05:41:52+00:00 | 139 | 1 | Python | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-17 04:57:30+00:00 | 6037 | 4635 | Python | 595 | [] |
+| AchocolatechipPancake/FUD_x64_Loader | Utilizing Alternative Shellcode Execution Via Callbacks | https://github.com/AchocolatechipPancake/FUD_x64_Loader | ['shellcode'] | 1 | 2022-06-17 04:47:34+00:00 | 174 | 0 | C++ | 0 | [] |
+| Chevozz/exploit | stumble crown exploit | https://github.com/Chevozz/exploit | ['exploit'] | 1 | 2022-06-17 03:58:51+00:00 | 0 | 0 | | 0 | [] |
 | Tulea-Sanchez/hack | exploit/script/program | https://github.com/Tulea-Sanchez/hack | ['exploit'] | 1 | 2022-06-17 03:58:10+00:00 | 0 | 0 | | 0 | [] |
 | Exploitables/CVE-2010-4502 | Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow. | https://github.com/Exploitables/CVE-2010-4502 | ['cve-2 OR cve_2'] | 1 | 2022-06-17 02:41:19+00:00 | 7 | 0 | C | 0 | ['CVE-2010-4502'] |
 | omair2084/CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-17 01:50:26+00:00 | 0 | 0 | Python | 1 | ['CVE-2022-26937'] |
@@ -15,6 +17,7 @@
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-17 02:01:08+00:00 | 8205 | 0 | Go | 0 | [] |
 | danielunderwood/exploited-vulns-feed | Turning CISA's exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | ['exploit'] | 1 | 2022-06-17 01:02:53+00:00 | 13 | 0 | Rust | 0 | [] |
 | handbye/Log4j2Fuzz | Log4j2 RCE scan tool | https://github.com/handbye/Log4j2Fuzz | ['rce'] | 1 | 2022-06-17 02:38:03+00:00 | 7381 | 4 | Go | 1 | [] |
+| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-17 05:31:43+00:00 | 5102 | 2 | Hack | 1 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-17 01:03:19+00:00 | 383 | 0 | | 0 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-17 02:35:19+00:00 | 1137 | 224 | JavaScript | 940 | [] |
 | plvhx/solaris-shellcode | SunOS Solaris (x86 / x86-64 / SPARC) shellcode | https://github.com/plvhx/solaris-shellcode | ['shellcode'] | 1 | 2022-06-17 03:42:29+00:00 | 29 | 0 | C | 0 | [] |
@@ -22,10 +25,13 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-17 02:03:25+00:00 | 1706 | 108 | HTML | 26 | [] |
 | iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | ['exploit', 'rce'] | 2 | 2022-06-17 01:36:00+00:00 | 14 | 1 | Python | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-17 02:06:31+00:00 | 22114 | 3 | Python | 1 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-17 04:00:02+00:00 | 203016 | 440 | Python | 126 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-17 04:00:52+00:00 | 203016 | 440 | Python | 126 | [] |
 | jeffssh/exploits | Mega repo for exploit development. Contains individual exploits and libraries to assist during exploitation | https://github.com/jeffssh/exploits | ['exploit'] | 1 | 2022-06-17 00:13:31+00:00 | 26 | 18 | Python | 5 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools-5.0 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. | https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0 | ['rce'] | 1 | 2022-06-17 05:42:12+00:00 | 293566 | 1074 | C# | 246 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-17 02:03:31+00:00 | 593531 | 57 | | 22 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-17 00:48:14+00:00 | 15831 | 42 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-17 02:34:15+00:00 | 299413 | 168 | REXX | 16 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-17 00:26:14+00:00 | 55074 | 307 | Ruby | 89 | [] |
-| Chevozz/exploit | stumble crown exploit | https://github.com/Chevozz/exploit | ['exploit'] | 1 | 2022-06-17 03:58:51+00:00 | 0 | 0 | | 0 | [] |
+| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-06-17 01:23:00+00:00 | 760 | 89 | Python | 40 | [] |
+| hugsy/cemu | Cheap EMUlator: lightweight multi-architecture assembly playground | https://github.com/hugsy/cemu | ['shellcode'] | 1 | 2022-06-17 01:20:15+00:00 | 534 | 783 | Python | 102 | [] |
+| mp622/stumble-exploit | Recode resource ishovel | https://github.com/mp622/stumble-exploit | ['exploit'] | 1 | 2022-06-17 05:29:48+00:00 | 0 | 0 | Go | 0 | [] |
