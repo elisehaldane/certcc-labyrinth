@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-480,0.01785714,https://github.com/manjunath5496/Linux-Kernel-Exploitation-Papers,manjunath5496/Linux-Kernel-Exploitation-Papers,397068452
 GPZ-480,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 GPZ-480,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
+GPZ-480,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 GPZ-480,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 GPZ-480,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
 GPZ-480,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
