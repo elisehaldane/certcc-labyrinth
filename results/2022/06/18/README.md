@@ -1,12 +1,12 @@
 
 # Summary for results/2022/06/18
     
-28 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-18 03:16:50+00:00 | 758997 | 27523 | Ruby | 12322 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-18 00:53:51+00:00 | 6045 | 4634 | Python | 595 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-18 06:58:28+00:00 | 5823 | 3310 | Python | 700 | [] |
 | pohihihisocks/ESP | Exploit Deployment | https://github.com/pohihihisocks/ESP | ['exploit'] | 1 | 2022-06-18 03:46:19+00:00 | 0 | 0 | | 0 | [] |
 | Micr067/0day | None | https://github.com/Micr067/0day | ['0day'] | 1 | 2022-06-18 02:53:20+00:00 | 379886 | 0 | C | 0 | [] |
 | xCodeBossS/CodeBoss-CVE-2022 | None | https://github.com/xCodeBossS/CodeBoss-CVE-2022 | ['cve-2 OR cve_2'] | 1 | 2022-06-18 01:54:38+00:00 | 0 | 0 | | 0 | [] |
@@ -32,4 +32,6 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-18 02:39:35+00:00 | 305253 | 168 | REXX | 17 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-18 00:27:18+00:00 | 55075 | 307 | Ruby | 89 | [] |
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-06-18 01:22:34+00:00 | 781 | 89 | Python | 41 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-06-18 06:58:16+00:00 | 1065 | 0 | Python | 11 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-18 00:53:51+00:00 | 6045 | 4634 | Python | 595 | [] |
 | podsdev/ratExploiter | - Dangerous Rat Exploiter Open Source | https://github.com/podsdev/ratExploiter | ['exploit'] | 1 | 2022-06-18 04:36:15+00:00 | 34513 | 0 | Python | 0 | [] |
