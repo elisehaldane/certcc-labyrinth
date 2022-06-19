@@ -1,12 +1,13 @@
 
 # Summary for results/2022/06/19
     
-37 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-19 05:59:24+00:00 | 5648 | 3312 | Python | 700 | [] |
-| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-19 09:33:51+00:00 | 5174 | 63 | Hack | 6 | [] |
+| RandomUser-101/55xhax | Wii U browser exploits made for Firmware 5.5.1 | https://github.com/RandomUser-101/55xhax | ['exploit'] | 1 | 2022-06-19 04:09:33+00:00 | 87 | 0 | HTML | 0 | [] |
+| t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-06-19 04:29:41+00:00 | 596 | 20 | Python | 4 | [] |
 | StaticSploit/StaticSploit.github.io | nan | https://github.com/StaticSploit/StaticSploit.github.io | ['sploit'] | 1 | 2022-06-19 08:49:12+00:00 | 2 | 0 | nan | 0 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-19 01:41:46+00:00 | 34946 | 444 | C++ | 86 | [] |
 | Krkn-Sec/Malware-Analysis-Challenges | A collection of binaries created by me to simulate common malware techniques. The binaries aren't truly malicious. Any shellcode or payloads they execute either spawn a message box or pops calc. I'm not here to spread malware, only analysis techniques. | https://github.com/Krkn-Sec/Malware-Analysis-Challenges | ['shellcode'] | 1 | 2022-06-19 03:22:35+00:00 | 1861 | 0 | PowerShell | 0 | [] |
@@ -14,7 +15,8 @@
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-19 00:37:34+00:00 | 251 | 1 | | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-19 00:44:02+00:00 | 8322 | 1 | Go | 0 | [] |
 | GlizxxzyBlooket/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/GlizxxzyBlooket/blooket-hack | ['exploit'] | 1 | 2022-06-19 01:04:31+00:00 | 408 | 3 | JavaScript | 0 | [] |
-| RandomUser-101/55xhax | Wii U browser exploits made for Firmware 5.5.1 | https://github.com/RandomUser-101/55xhax | ['exploit'] | 1 | 2022-06-19 04:09:33+00:00 | 87 | 0 | HTML | 0 | [] |
+| ciamac-da/exploit-xss-penetration-script-patterns | None | https://github.com/ciamac-da/exploit-xss-penetration-script-patterns | ['exploit'] | 1 | 2022-06-19 11:01:22+00:00 | 7 | 0 | HTML | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-19 10:25:08+00:00 | 5908 | 4635 | Python | 595 | [] |
 | AmitNiz/shellcode_generator | shellcode generator for x86 | https://github.com/AmitNiz/shellcode_generator | ['shellcode'] | 1 | 2022-06-19 07:44:43+00:00 | 8 | 0 | Python | 0 | [] |
 | LucidOfficial/Linux-exploit-suggestor | None | https://github.com/LucidOfficial/Linux-exploit-suggestor | ['exploit'] | 1 | 2022-06-19 00:21:58+00:00 | 195 | 0 | Shell | 0 | [] |
 | rcegan/rcegan.github.io | None | https://github.com/rcegan/rcegan.github.io | ['rce'] | 1 | 2022-06-19 01:05:14+00:00 | 299 | 1 | HTML | 0 | [] |
@@ -22,11 +24,15 @@
 | PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588 | nan | https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588 | ['0day', 'cve-2 OR cve_2'] | 2 | 2022-06-19 04:30:01+00:00 | 537 | 1 | Swift | 0 | ['CVE-2022-22588'] |
 | helpme-reverse/Shellcode | None | https://github.com/helpme-reverse/Shellcode | ['shellcode'] | 1 | 2022-06-19 05:59:45+00:00 | 0 | 0 | | 0 | [] |
 | vulnz/CVE-2021-40903 | CVE-2021-40903 | https://github.com/vulnz/CVE-2021-40903 | ['cve-2 OR cve_2'] | 1 | 2022-06-19 09:04:34+00:00 | 0 | 0 | | 0 | ['CVE-2021-40903'] |
-| t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-06-19 04:29:41+00:00 | 596 | 20 | Python | 4 | [] |
+| codeReleaser/cmd-based-Exploit | Command Based Handler. | https://github.com/codeReleaser/cmd-based-Exploit | ['exploit'] | 1 | 2022-06-19 09:23:09+00:00 | 0 | 0 | C++ | 0 | [] |
+| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-19 09:33:51+00:00 | 5174 | 63 | Hack | 6 | [] |
 | Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-06-19 06:13:00+00:00 | 28 | 1 | | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-19 00:25:34+00:00 | 55075 | 307 | Ruby | 89 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-19 09:24:50+00:00 | 126 | 14 | Shell | 4 | [] |
+| daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-06-19 03:11:54+00:00 | 42 | 0 | JavaScript | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-19 00:25:34+00:00 | 55075 | 307 | Ruby | 89 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-19 02:36:14+00:00 | 299601 | 168 | REXX | 17 | [] |
+| noob-hackers/m-wiz | Install Metasploit And Repair Metasploit In Termux With Easy Steps | https://github.com/noob-hackers/m-wiz | ['metasploit module OR payload'] | 1 | 2022-06-19 11:25:07+00:00 | 7893 | 404 | Shell | 77 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-06-19 10:08:11+00:00 | 1570656 | 4391 | PowerShell | 1549 | [] |
 | GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara | Proof of Concept (PoC) for CVE: 2017-16744 and 2017-16748 | https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-19 07:28:04+00:00 | 15 | 2 | Python | 0 | ['CVE-2017-16744', 'CVE-2017-16748'] |
 | NimishMishra/exploit-dev | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | ['exploit'] | 1 | 2022-06-19 05:02:39+00:00 | 3096 | 3 | C | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-19 02:04:05+00:00 | 616036 | 57 | | 22 | [] |
@@ -40,5 +46,4 @@
 | zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-06-19 06:49:14+00:00 | 3458 | 405 | Go | 73 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-19 05:40:58+00:00 | 1142 | 223 | JavaScript | 951 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-19 01:09:28+00:00 | 321 | 0 | | 0 | [] |
-| daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-06-19 03:11:54+00:00 | 42 | 0 | JavaScript | 0 | [] |
-| codeReleaser/cmd-based-Exploit | Command Based Handler. | https://github.com/codeReleaser/cmd-based-Exploit | ['exploit'] | 1 | 2022-06-19 09:23:09+00:00 | 0 | 0 | C++ | 0 | [] |
+| zeddee-spam/JNDI-Injection-Exploit | JNDI-Injection-Exploit | https://github.com/zeddee-spam/JNDI-Injection-Exploit | ['exploit'] | 1 | 2022-06-19 11:01:42+00:00 | 0 | 0 | Java | 0 | [] |
