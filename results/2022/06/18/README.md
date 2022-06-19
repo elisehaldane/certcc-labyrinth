@@ -1,7 +1,7 @@
 
 # Summary for results/2022/06/18
     
-102 records found after deduplication
+103 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -31,7 +31,7 @@
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-06-18 19:07:09+00:00 | 3785 | 311 | Python | 30 | [] |
 | ciamac-da/exploit-xss-penetration-script-patterns | None | https://github.com/ciamac-da/exploit-xss-penetration-script-patterns | ['exploit'] | 1 | 2022-06-18 08:44:30+00:00 | 7 | 0 | HTML | 0 | [] |
 | AchocolatechipPancake/FUD_x64_Loader | Utilizing Alternative Shellcode Execution Via Callbacks | https://github.com/AchocolatechipPancake/FUD_x64_Loader | ['shellcode'] | 1 | 2022-06-18 17:03:37+00:00 | 162 | 7 | C++ | 3 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-18 06:58:28+00:00 | 5823 | 3310 | Python | 700 | [] |
+| TheAwesome98-Real/shove-exploit | stupid polytoria exploit i did because i am funny | https://github.com/TheAwesome98-Real/shove-exploit | ['exploit'] | 1 | 2022-06-18 11:45:03+00:00 | 2 | 0 | | 0 | [] |
 | I2rys/ZeroPLDT | A collection of PLDT hacks, exploits & tools that is completely made using NodeJS. | https://github.com/I2rys/ZeroPLDT | ['exploit'] | 1 | 2022-06-18 12:43:39+00:00 | 2 | 0 | JavaScript | 0 | [] |
 | Cat-Man123/fucksploit | Some exploits of vulnerabilities I have exploited during my CTF. | https://github.com/Cat-Man123/fucksploit | ['exploit'] | 1 | 2022-06-18 20:04:53+00:00 | 1 | 0 | Python | 0 | [] |
 | javanulled/terrainexploit | not my terrain exploit(idk owner). nothing complicated. enter seed and biome ID. all findable via google. | https://github.com/javanulled/terrainexploit | ['exploit'] | 1 | 2022-06-18 19:02:32+00:00 | 0 | 0 | Batchfile | 0 | [] |
@@ -56,8 +56,8 @@
 | Micr067/0day | None | https://github.com/Micr067/0day | ['0day'] | 1 | 2022-06-18 02:53:20+00:00 | 379886 | 0 | C | 0 | [] |
 | xCodeBossS/CodeBoss-CVE-2022 | None | https://github.com/xCodeBossS/CodeBoss-CVE-2022 | ['cve-2 OR cve_2'] | 1 | 2022-06-18 01:54:38+00:00 | 0 | 0 | | 0 | [] |
 | t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-06-18 09:42:06+00:00 | 587 | 9 | Python | 1 | [] |
-| TheAwesome98-Real/shove-exploit | stupid polytoria exploit i did because i am funny | https://github.com/TheAwesome98-Real/shove-exploit | ['exploit'] | 1 | 2022-06-18 11:45:03+00:00 | 2 | 0 | | 0 | [] |
 | UNICORDev/exploit-CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) - Local Privilege Escalation | https://github.com/UNICORDev/exploit-CVE-2021-3560 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-18 16:40:59+00:00 | 73 | 2 | Python | 0 | ['CVE-2021-3560'] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-18 06:58:28+00:00 | 5823 | 3310 | Python | 700 | [] |
 | DimitriNL/CTX-CVE-2020-7473 | Citrix Sharefile vulnerability check and fast research details | https://github.com/DimitriNL/CTX-CVE-2020-7473 | ['cve-2 OR cve_2'] | 1 | 2022-06-18 15:13:30+00:00 | 158 | 5 | ASP.NET | 5 | ['CVE-2020-7473'] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-18 02:05:20+00:00 | 1709 | 108 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-18 02:02:04+00:00 | 20791 | 3 | Python | 1 | [] |
@@ -70,7 +70,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-18 02:04:08+00:00 | 606482 | 57 | | 22 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-06-18 16:33:25+00:00 | 355 | 16 | Python | 4 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-06-18 21:10:57+00:00 | 788 | 290 | C | 16 | [] |
-| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-18 17:39:30+00:00 | 1669 | 8 | Rust | 1 | [] |
+| Unknown3958/Discontuned1 | Roblox exploit under development | https://github.com/Unknown3958/Discontuned1 | ['exploit'] | 1 | 2022-06-18 11:39:26+00:00 | 28 | 0 | | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-18 00:48:16+00:00 | 9714 | 42 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-18 02:39:35+00:00 | 305253 | 168 | REXX | 17 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-18 00:27:18+00:00 | 55075 | 307 | Ruby | 89 | [] |
@@ -82,10 +82,11 @@
 | cirosantilli/china-dictatorship | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police m | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2022-06-18 18:13:40+00:00 | 60637 | 890 | HTML | 177 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-18 00:53:51+00:00 | 6045 | 4634 | Python | 595 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-18 01:48:11+00:00 | 6415681 | 59 | Python | 9 | [] |
-| Unknown3958/Discontuned1 | Roblox exploit under development | https://github.com/Unknown3958/Discontuned1 | ['exploit'] | 1 | 2022-06-18 11:39:26+00:00 | 28 | 0 | | 0 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-06-18 19:24:11+00:00 | 2784 | 497 | C# | 103 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-06-18 07:55:38+00:00 | 8178 | 3172 | TypeScript | 483 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-18 17:39:30+00:00 | 1669 | 8 | Rust | 1 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-18 02:01:58+00:00 | 97 | 14 | Shell | 3 | [] |
 | hktalent/goSqlite_gorm | golang,Penetration, Attack, Auxiliary Tool, tnb = tree new bee | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-06-18 05:22:34+00:00 | 94879 | 2 | Go | 0 | [] |
+| stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-18 23:51:05+00:00 | 1933 | 0 | CSS | 0 | [] |
 | TitanVale/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-06-18 09:40:42+00:00 | 2770 | 6 | Shell | 0 | [] |
 | StyxWebsiteBuild/Jupiter-Exploits-Backup | None | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-Backup | ['exploit'] | 1 | 2022-06-18 18:07:24+00:00 | 15 | 0 | | 0 | [] |
 | Exist-Ed/remote-execution-project | Execute your program code in a Docker container on a running remote server using a user-friendly interface. | https://github.com/Exist-Ed/remote-execution-project | ['remote code execution'] | 1 | 2022-06-18 15:33:47+00:00 | 13597 | 0 | Python | 0 | [] |
@@ -94,8 +95,8 @@
 | DEVIX7/SperialSploit | None | https://github.com/DEVIX7/SperialSploit | ['sploit'] | 1 | 2022-06-18 19:06:07+00:00 | 7154 | 0 | | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-18 02:39:42+00:00 | 180 | 10 | Java | 0 | [] |
 | Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-06-18 22:09:50+00:00 | 27 | 1 | | 0 | [] |
-| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-18 02:01:58+00:00 | 97 | 14 | Shell | 3 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit'] | 1 | 2022-06-18 13:21:25+00:00 | 453 | 9 | Python | 1 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-06-18 07:55:38+00:00 | 8178 | 3172 | TypeScript | 483 | [] |
 | riccardonicolaidis/FPGAtmos_pARTYcle_detector | Implementation of a particle detector using a cheap FPGA developement board. The FPGA exploits some ADCs and then if there are coincidences in the signals, the event is recorded. | https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector | ['exploit'] | 1 | 2022-06-18 08:33:55+00:00 | 63430 | 2 | VHDL | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-06-18 15:00:52+00:00 | 331708 | 1 | Python | 0 | [] |
 | azharcq/azharcq.github.io | PS4 Exploit Host. For firmware 6.72, more coming soon! | https://github.com/azharcq/azharcq.github.io | ['exploit'] | 1 | 2022-06-18 13:44:07+00:00 | 4306 | 0 | JavaScript | 0 | [] |
