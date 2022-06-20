@@ -1,12 +1,12 @@
 
 # Summary for results/2022/06/19
     
-83 records found after deduplication
+84 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-19 22:46:42+00:00 | 759009 | 27538 | Ruby | 12326 | [] |
-| RandomUser-101/55xhax | Wii U browser exploits made for Firmware 5.5.1 | https://github.com/RandomUser-101/55xhax | ['exploit'] | 1 | 2022-06-19 04:09:33+00:00 | 87 | 0 | HTML | 0 | [] |
+| kausar3033/Metasploitable | None | https://github.com/kausar3033/Metasploitable | ['metasploit module OR payload'] | 1 | 2022-06-19 09:47:14+00:00 | 14 | 0 | | 0 | [] |
 | Karmaz95/crimson_wisp | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | ['exploit'] | 1 | 2022-06-19 13:35:21+00:00 | 39374 | 1 | | 0 | [] |
 | F-r-o-i-d/GoExF | A Golang Post-Exploitation Framework | https://github.com/F-r-o-i-d/GoExF | ['exploit'] | 1 | 2022-06-19 21:08:12+00:00 | 64 | 2 | Go | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-19 00:44:02+00:00 | 8322 | 1 | Go | 0 | [] |
@@ -15,8 +15,8 @@
 | abdeljalil-salhi/AbdelSploit | Your new favorite hacking tool. | https://github.com/abdeljalil-salhi/AbdelSploit | ['sploit'] | 1 | 2022-06-19 17:25:23+00:00 | 77 | 1 | Python | 0 | [] |
 | tklieber/XOR_Reverse_Shellcode | XOR_Reverse_Shellcode with client (victime) and server (attacker) in python | https://github.com/tklieber/XOR_Reverse_Shellcode | ['shellcode'] | 1 | 2022-06-19 21:11:24+00:00 | 75 | 0 | Assembly | 1 | [] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-19 00:37:34+00:00 | 251 | 1 | | 0 | [] |
-| kausar3033/Metasploitable | None | https://github.com/kausar3033/Metasploitable | ['metasploit module OR payload'] | 1 | 2022-06-19 09:47:14+00:00 | 14 | 0 | | 0 | [] |
 | Krkn-Sec/Malware-Analysis-Challenges | A collection of binaries created by me to simulate common malware techniques. The binaries aren't truly malicious. Any shellcode or payloads they execute either spawn a message box or pops calc. I'm not here to spread malware, only analysis techniques. | https://github.com/Krkn-Sec/Malware-Analysis-Challenges | ['shellcode'] | 1 | 2022-06-19 03:22:35+00:00 | 1861 | 0 | PowerShell | 0 | [] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-06-19 12:15:51+00:00 | 155 | 1 | Python | 0 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-19 01:41:46+00:00 | 34946 | 444 | C++ | 86 | [] |
 | MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs | dvb-2022-MaksimsCvetkovs created by GitHub Classroom | https://github.com/MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs | ['cve-2 OR cve_2'] | 1 | 2022-06-19 15:02:21+00:00 | 250 | 0 | | 0 | [] |
 | zidansec/CloudPeler | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further pene | https://github.com/zidansec/CloudPeler | ['exploit'] | 1 | 2022-06-19 17:14:03+00:00 | 62 | 103 | PHP | 18 | [] |
@@ -24,9 +24,10 @@
 | t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-06-19 04:29:41+00:00 | 596 | 20 | Python | 4 | [] |
 | Manu254rce/Manu254rce | Config files for my GitHub profile. | https://github.com/Manu254rce/Manu254rce | ['rce'] | 1 | 2022-06-19 22:38:17+00:00 | 13 | 0 | | 0 | [] |
 | stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-19 23:17:09+00:00 | 1933 | 0 | CSS | 0 | [] |
+| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-19 09:33:51+00:00 | 5174 | 63 | Hack | 6 | [] |
 | GlizxxzyBlooket/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/GlizxxzyBlooket/blooket-hack | ['exploit'] | 1 | 2022-06-19 01:04:31+00:00 | 408 | 3 | JavaScript | 0 | [] |
+| RandomUser-101/55xhax | Wii U browser exploits made for Firmware 5.5.1 | https://github.com/RandomUser-101/55xhax | ['exploit'] | 1 | 2022-06-19 04:09:33+00:00 | 87 | 0 | HTML | 0 | [] |
 | ciamac-da/exploit-xss-penetration-script-patterns | None | https://github.com/ciamac-da/exploit-xss-penetration-script-patterns | ['exploit'] | 1 | 2022-06-19 11:01:22+00:00 | 7 | 0 | HTML | 0 | [] |
-| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-06-19 06:13:00+00:00 | 28 | 1 | | 0 | [] |
 | musheebat/Compiled-capcom-exploit | Compiled Capcom driver exploit works on Windows system with SeLoadDriverPrivilege enabled. | https://github.com/musheebat/Compiled-capcom-exploit | ['exploit'] | 1 | 2022-06-19 17:10:29+00:00 | 162 | 0 | PowerShell | 0 | [] |
 | CL3U/surge-genesis | Windows 0day for disabling Buffer Overflow attack prevention, changing ease of access program, and more! | https://github.com/CL3U/surge-genesis | ['0day'] | 1 | 2022-06-19 17:34:45+00:00 | 0 | 0 | | 0 | [] |
 | mr-sami-x/exploit-ye | Fast Windows Server Hacking Tool | https://github.com/mr-sami-x/exploit-ye | ['exploit'] | 1 | 2022-06-19 15:48:14+00:00 | 0 | 0 | | 0 | [] |
@@ -45,9 +46,9 @@
 | LucidOfficial/Linux-exploit-suggestor | None | https://github.com/LucidOfficial/Linux-exploit-suggestor | ['exploit'] | 1 | 2022-06-19 00:21:58+00:00 | 195 | 0 | Shell | 0 | [] |
 | AmitNiz/shellcode_generator | shellcode generator for x86 | https://github.com/AmitNiz/shellcode_generator | ['shellcode'] | 1 | 2022-06-19 07:44:43+00:00 | 8 | 0 | Python | 0 | [] |
 | AchocolatechipPancake/FUD_x64_Loader | Utilizing Alternative Shellcode Execution Via Callbacks | https://github.com/AchocolatechipPancake/FUD_x64_Loader | ['shellcode'] | 1 | 2022-06-19 23:46:46+00:00 | 164 | 7 | C++ | 4 | [] |
-| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-19 09:33:51+00:00 | 5174 | 63 | Hack | 6 | [] |
+| Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-06-19 06:13:00+00:00 | 28 | 1 | | 0 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-19 09:24:50+00:00 | 126 | 14 | Shell | 4 | [] |
-| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-06-19 12:15:51+00:00 | 155 | 1 | Python | 0 | [] |
+| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-06-19 15:00:44+00:00 | 335379 | 1 | Python | 0 | [] |
 | NickSanzotta/scanman | ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE). | https://github.com/NickSanzotta/scanman | ['metasploit module OR payload'] | 1 | 2022-06-19 14:29:34+00:00 | 102 | 37 | Python | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-06-19 23:40:20+00:00 | 105 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-19 02:04:05+00:00 | 616036 | 57 | | 22 | [] |
@@ -68,9 +69,8 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-19 05:59:24+00:00 | 5648 | 3312 | Python | 700 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-19 04:01:04+00:00 | 210494 | 440 | Python | 126 | [] |
 | Inplex-sys/cookies-sniffer | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src="grabber_url"> | https://github.com/Inplex-sys/cookies-sniffer | ['exploit'] | 1 | 2022-06-19 22:14:23+00:00 | 4124 | 14 | JavaScript | 1 | [] |
-| hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-06-19 15:00:44+00:00 | 335379 | 1 | Python | 0 | [] |
-| Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-06-19 18:26:20+00:00 | 1970 | 0 | | 0 | [] |
 | daedalus1215/cb-gnarly-exploit | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | ['exploit'] | 1 | 2022-06-19 03:11:54+00:00 | 42 | 0 | JavaScript | 0 | [] |
+| Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-06-19 18:26:20+00:00 | 1970 | 0 | | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-19 01:09:28+00:00 | 321 | 0 | | 0 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-19 05:40:58+00:00 | 1142 | 223 | JavaScript | 951 | [] |
 | zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-06-19 06:49:14+00:00 | 3458 | 405 | Go | 73 | [] |
@@ -85,6 +85,7 @@
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-06-19 01:37:41+00:00 | 2798 | 497 | C# | 103 | [] |
 | 41Team/metasploit_termux | download metasploit in termux without error | https://github.com/41Team/metasploit_termux | ['metasploit module OR payload'] | 1 | 2022-06-19 09:31:27+00:00 | 159 | 2 | Shell | 1 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-19 01:52:41+00:00 | 6392927 | 59 | Python | 9 | [] |
+| MichaelSodeke/eng-cmp-prj--network-security | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | ['exploit'] | 1 | 2022-06-19 23:55:00+00:00 | 74 | 0 | | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-19 02:18:02+00:00 | 1770 | 108 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-19 02:11:03+00:00 | 21616 | 3 | Python | 1 | [] |
 | MohamedAEzzat/brainpan | Brainpan exploit | https://github.com/MohamedAEzzat/brainpan | ['exploit'] | 1 | 2022-06-19 22:47:05+00:00 | 0 | 0 | Python | 0 | [] |
