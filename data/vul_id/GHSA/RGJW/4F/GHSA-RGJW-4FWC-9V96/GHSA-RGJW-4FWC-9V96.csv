@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-RGJW-4FWC-9V96,0.00552486,https://github.com/chaitin/xray,chaitin/xray,191117123
 GHSA-RGJW-4FWC-9V96,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
