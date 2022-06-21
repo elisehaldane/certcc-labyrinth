@@ -1,0 +1,24 @@
+
+# Summary for results/2022/06/21
+    
+17 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-06-21 00:06:53+00:00 | 161 | 2 | Python | 0 | [] |
+| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-21 00:30:36+00:00 | 1174 | 224 | JavaScript | 957 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-21 00:44:40+00:00 | 8441 | 1 | Go | 0 | [] |
+| SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | These are the source codes of the Python scripts to apply the temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | ['cve-2 OR cve_2'] | 1 | 2022-06-21 00:00:39+00:00 | 16 | 0 | Python | 1 | ['CVE-2022-30190'] |
+| SrCroqueta/CVE-2022-30190_Temporary_Fix | These are two Python scripts compiled to easily and quickly apply temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix | ['cve-2 OR cve_2'] | 1 | 2022-06-21 00:00:36+00:00 | 20923 | 0 | | 0 | ['CVE-2022-30190'] |
+| 3r3n-J43g3r/roblox-exploits | I will put the exploits that i find for game zombie uprising here | https://github.com/3r3n-J43g3r/roblox-exploits | ['exploit'] | 1 | 2022-06-21 01:25:48+00:00 | 85 | 0 | Lua | 0 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-21 00:18:34+00:00 | 171 | 14 | Shell | 4 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-21 01:11:37+00:00 | 342 | 0 | | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-21 01:52:43+00:00 | 6457617 | 60 | Python | 9 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-21 00:25:33+00:00 | 55077 | 308 | Ruby | 89 | [] |
+| MichaelSodeke/tmp--education-repo | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | ['exploit'] | 1 | 2022-06-21 00:48:39+00:00 | 121 | 0 | | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-21 02:07:18+00:00 | 1835 | 108 | HTML | 26 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-21 02:03:12+00:00 | 21611 | 3 | Python | 1 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-21 02:03:52+00:00 | 620039 | 57 | | 22 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-06-21 02:19:29+00:00 | 64565 | 1571 | Python | 310 | [] |
+| soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-06-21 02:04:54+00:00 | 6163 | 526 | C++ | 104 | [] |
+| i6c/CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/i6c/CVE-2022-26937 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-21 00:13:22+00:00 | 6 | 0 | Python | 0 | ['CVE-2022-26937'] |
