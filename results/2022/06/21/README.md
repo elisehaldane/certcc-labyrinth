@@ -1,24 +1,29 @@
 
 # Summary for results/2022/06/21
     
-25 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-06-21 00:06:53+00:00 | 161 | 2 | Python | 0 | [] |
-| MichaelSodeke/tmp--education-repo | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | ['exploit'] | 1 | 2022-06-21 00:48:39+00:00 | 121 | 0 | | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-21 03:53:30+00:00 | 5664 | 3313 | Python | 700 | [] |
+| i6c/CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/i6c/CVE-2022-26937 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-21 00:13:22+00:00 | 6 | 0 | Python | 0 | ['CVE-2022-26937'] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-21 00:44:40+00:00 | 8441 | 1 | Go | 0 | [] |
+| trhacknon/CVE-2022-26134 | None | https://github.com/trhacknon/CVE-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-06-21 04:50:52+00:00 | 16 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | These are the source codes of the Python scripts to apply the temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | ['cve-2 OR cve_2'] | 1 | 2022-06-21 00:00:39+00:00 | 16 | 0 | Python | 1 | ['CVE-2022-30190'] |
 | SrCroqueta/CVE-2022-30190_Temporary_Fix | These are two Python scripts compiled to easily and quickly apply temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix | ['cve-2 OR cve_2'] | 1 | 2022-06-21 00:00:36+00:00 | 20923 | 0 | | 0 | ['CVE-2022-30190'] |
 | 3r3n-J43g3r/roblox-exploits | I will put the exploits that i find for game zombie uprising here | https://github.com/3r3n-J43g3r/roblox-exploits | ['exploit'] | 1 | 2022-06-21 01:25:48+00:00 | 85 | 0 | Lua | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-21 05:19:02+00:00 | 35096 | 449 | C++ | 93 | [] |
 | jtvsdeo/popular-exploit-demos | Hackthebox, Tryhackme and popular vulnerabilities' exploit demos | https://github.com/jtvsdeo/popular-exploit-demos | ['exploit'] | 1 | 2022-06-21 03:30:46+00:00 | 1763 | 0 | | 0 | [] |
 | stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-21 03:05:37+00:00 | 1937 | 0 | CSS | 0 | [] |
+| firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2022-06-21 04:14:49+00:00 | 62 | 501 | Go | 29 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-21 00:18:34+00:00 | 171 | 14 | Shell | 4 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-21 01:11:37+00:00 | 342 | 0 | | 0 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-21 00:30:36+00:00 | 1174 | 224 | JavaScript | 957 | [] |
+| plvhx/solaris-shellcode | SunOS Solaris (x86 / x86-64 / SPARC) shellcode | https://github.com/plvhx/solaris-shellcode | ['shellcode'] | 1 | 2022-06-21 04:29:52+00:00 | 80 | 0 | C | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-21 01:52:43+00:00 | 6457617 | 60 | Python | 9 | [] |
+| MichaelSodeke/tmp--education-repo | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | ['exploit'] | 1 | 2022-06-21 00:48:39+00:00 | 121 | 0 | | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-21 02:07:18+00:00 | 1835 | 108 | HTML | 26 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-21 03:53:30+00:00 | 5664 | 3313 | Python | 700 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-21 02:03:12+00:00 | 21611 | 3 | Python | 1 | [] |
 | jweny/pocassist | 全新的开源漏洞测试框架，实现poc在线编辑、运行、批量测试。使用文档： | https://github.com/jweny/pocassist | ['cve poc', 'vulnerability poc'] | 2 | 2022-06-21 03:43:47+00:00 | 56696 | 1070 | Go | 201 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-21 04:00:58+00:00 | 203867 | 440 | Python | 126 | [] |
@@ -29,4 +34,4 @@
 | soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2022-06-21 02:04:54+00:00 | 6163 | 526 | C++ | 104 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-21 00:25:33+00:00 | 55077 | 308 | Ruby | 89 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-21 02:41:05+00:00 | 6366 | 4637 | Python | 596 | [] |
-| i6c/CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/i6c/CVE-2022-26937 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-21 00:13:22+00:00 | 6 | 0 | Python | 0 | ['CVE-2022-26937'] |
+| kamalinux/pwnable.tw | My solution and exploits for pwnable.tw challenges | https://github.com/kamalinux/pwnable.tw | ['exploit'] | 1 | 2022-06-21 05:04:15+00:00 | 0 | 0 | | 0 | [] |
