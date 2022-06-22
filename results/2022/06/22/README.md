@@ -1,7 +1,7 @@
 
 # Summary for results/2022/06/22
     
-53 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
@@ -10,6 +10,7 @@
 | CompanionCubeGD/schoolsucks | exploits n stuff | https://github.com/CompanionCubeGD/schoolsucks | ['exploit'] | 1 | 2022-06-22 01:29:54+00:00 | 19 | 1 | | 0 | [] |
 | Manu254rce/Manu254rce | Config files for my GitHub profile. | https://github.com/Manu254rce/Manu254rce | ['rce'] | 1 | 2022-06-22 07:32:45+00:00 | 13 | 0 | | 0 | [] |
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-06-22 09:29:16+00:00 | 3803 | 337 | Python | 37 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-22 10:41:54+00:00 | 35405 | 454 | C++ | 97 | [] |
 | W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-22 01:27:39+00:00 | 67643 | 74 | Python | 14 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-22 02:25:37+00:00 | 251 | 1 | | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-22 00:51:14+00:00 | 8423 | 1 | Go | 0 | [] |
@@ -30,20 +31,26 @@
 | trevormalesike/wyze-cam-exploit | None | https://github.com/trevormalesike/wyze-cam-exploit | ['exploit'] | 1 | 2022-06-22 07:49:44+00:00 | 35169 | 0 | Shell | 0 | [] |
 | jweny/cve-2022-22980-exp | CVE-2022-22980 exp demp可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | ['cve-2 OR cve_2'] | 1 | 2022-06-22 08:20:35+00:00 | 797 | 0 | Java | 0 | ['CVE-2022-22980'] |
 | OMG-Escape/Application-Over-Buffer-Flow | This OverBufferFlow Exploit Crashes Telegram and Discord Apps. | https://github.com/OMG-Escape/Application-Over-Buffer-Flow | ['exploit'] | 1 | 2022-06-22 08:11:18+00:00 | 6554 | 0 | | 0 | [] |
+| Fheidt12/XRK-RCE | 向日葵远程命令执行漏洞 | https://github.com/Fheidt12/XRK-RCE | ['rce'] | 1 | 2022-06-22 08:29:31+00:00 | 7643 | 0 | Python | 0 | [] |
+| Precioussoul/abs-drive | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering submitted to department of c | https://github.com/Precioussoul/abs-drive | ['exploit'] | 1 | 2022-06-22 09:58:54+00:00 | 0 | 0 | | 0 | [] |
+| CVE-2099-2222/CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | ['cve-2 OR cve_2'] | 1 | 2022-06-22 10:15:32+00:00 | 4406 | 1 | | 0 | ['CVE-2022-9673', 'CVE-2099-2222'] |
 | rowedahelicon/Loadout-Respawn-Fix | A quick attempt at fixing an exploit(?) with the load_itempreset command | https://github.com/rowedahelicon/Loadout-Respawn-Fix | ['exploit'] | 1 | 2022-06-22 01:56:37+00:00 | 28 | 0 | SourcePawn | 0 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-22 01:15:46+00:00 | 353 | 0 | | 0 | [] |
+| Dumb-Utility/UnnamedHub | Official GitHub repository of UnnamedHub ! | https://github.com/Dumb-Utility/UnnamedHub | ['exploit'] | 1 | 2022-06-22 10:31:12+00:00 | 161 | 0 | Lua | 0 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-06-22 08:32:28+00:00 | 46246 | 869 | Python | 205 | [] |
-| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-22 00:30:46+00:00 | 1294 | 226 | JavaScript | 961 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-22 01:15:46+00:00 | 353 | 0 | | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-22 04:41:14+00:00 | 5685 | 3314 | Python | 700 | [] |
+| techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2022-06-22 11:13:46+00:00 | 8562 | 69 | PHP | 14 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-22 00:29:54+00:00 | 55078 | 308 | Ruby | 89 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-06-22 00:09:32+00:00 | 13484 | 2550 | Python | 684 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-22 02:32:00+00:00 | 312241 | 170 | REXX | 18 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-22 00:48:18+00:00 | 10615 | 41 | | 21 | [] |
 | cylaris/awesomekql | Azure Sentinel intrusion detection rules, recent exploits and lolbas :) | https://github.com/cylaris/awesomekql | ['exploit'] | 1 | 2022-06-22 08:55:57+00:00 | 61 | 20 | | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-22 02:03:45+00:00 | 608554 | 57 | | 22 | [] |
+| BroadbentT/BINARY-MASTER | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | ['exploit'] | 1 | 2022-06-22 09:55:50+00:00 | 12474 | 7 | Python | 2 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-06-22 05:26:35+00:00 | 909 | 85 | Python | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-22 04:00:58+00:00 | 207273 | 440 | Python | 126 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2022-06-22 07:17:58+00:00 | 17001 | 537 | Go | 112 | [] |
+| m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2022-06-22 10:32:20+00:00 | 24653 | 1 | C# | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-22 03:59:38+00:00 | 22765 | 3 | Python | 1 | [] |
 | ReversingID/Shellcode-Loader | Open repository for learning dynamic shellcode loading (sample in many programming languages) | https://github.com/ReversingID/Shellcode-Loader | ['shellcode'] | 1 | 2022-06-22 09:34:05+00:00 | 263 | 25 | C++ | 3 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2022-06-22 02:05:41+00:00 | 11013 | 254 | Python | 56 | [] |
@@ -57,4 +64,5 @@
 | zxg3017/Saliency-CCE | This code implements the proposed method: Saliency-CCE: Exploiting Colour Contextual Extractor and Saliency-based Skin Lesion Segmentation | https://github.com/zxg3017/Saliency-CCE | ['exploit'] | 1 | 2022-06-22 02:24:17+00:00 | 2713 | 0 | MATLAB | 0 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-06-22 02:18:33+00:00 | 74608 | 128 | Go | 30 | [] |
 | cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-06-22 02:56:44+00:00 | 21 | 0 | Rust | 0 | [] |
-| Fheidt12/XRK-RCE | 向日葵远程命令执行漏洞 | https://github.com/Fheidt12/XRK-RCE | ['rce'] | 1 | 2022-06-22 08:29:31+00:00 | 7643 | 0 | Python | 0 | [] |
+| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-22 00:30:46+00:00 | 1294 | 226 | JavaScript | 961 | [] |
+| EclipsesDev/EclipseWare | Lightweight lua level 7 executor made by Eclipse!#6582 | https://github.com/EclipsesDev/EclipseWare | ['exploit'] | 1 | 2022-06-22 11:08:09+00:00 | 0 | 1 | | 0 | [] |
