@@ -1,12 +1,14 @@
 
 # Summary for results/2022/06/22
     
-23 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-22 01:19:09+00:00 | 759058 | 27559 | Ruby | 12335 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-22 01:15:46+00:00 | 353 | 0 | | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-22 00:29:54+00:00 | 55078 | 308 | Ruby | 89 | [] |
+| DL25555/Project-Pokemon-Scripts | exploit scripts | https://github.com/DL25555/Project-Pokemon-Scripts | ['exploit'] | 1 | 2022-06-22 03:34:59+00:00 | 0 | 0 | | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-06-22 00:42:30+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-06-22 00:41:42+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-06-22 00:39:57+00:00 | 1 | 0 | | 0 | [] |
 | ByPassAVTeam/ShellcodeLoader | 该项目为Shellocde加载器，详细介绍了我们如何绕过防病毒软件，以及该工具如何使用 | https://github.com/ByPassAVTeam/ShellcodeLoader | ['shellcode'] | 1 | 2022-06-22 01:31:34+00:00 | 962 | 0 | C++ | 0 | [] |
@@ -16,15 +18,20 @@
 | CompanionCubeGD/schoolsucks | exploits n stuff | https://github.com/CompanionCubeGD/schoolsucks | ['exploit'] | 1 | 2022-06-22 01:29:54+00:00 | 19 | 1 | | 0 | [] |
 | rowedahelicon/Loadout-Respawn-Fix | A quick attempt at fixing an exploit(?) with the load_itempreset command | https://github.com/rowedahelicon/Loadout-Respawn-Fix | ['exploit'] | 1 | 2022-06-22 01:56:37+00:00 | 28 | 0 | SourcePawn | 0 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-22 00:16:24+00:00 | 199 | 15 | Shell | 4 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-22 01:15:46+00:00 | 353 | 0 | | 0 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-22 00:30:46+00:00 | 1294 | 226 | JavaScript | 961 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-22 00:29:54+00:00 | 55078 | 308 | Ruby | 89 | [] |
+| cehteh/rcell | None | https://github.com/cehteh/rcell | ['rce'] | 1 | 2022-06-22 02:56:44+00:00 | 21 | 0 | Rust | 0 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-06-22 02:18:33+00:00 | 74608 | 128 | Go | 30 | [] |
 | zxg3017/Saliency-CCE | This code implements the proposed method: Saliency-CCE: Exploiting Colour Contextual Extractor and Saliency-based Skin Lesion Segmentation | https://github.com/zxg3017/Saliency-CCE | ['exploit'] | 1 | 2022-06-22 02:24:17+00:00 | 2713 | 0 | MATLAB | 0 | [] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-06-22 02:36:39+00:00 | 775 | 1 | | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-06-22 01:37:00+00:00 | 8390 | 3184 | TypeScript | 492 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-22 01:57:46+00:00 | 6482019 | 60 | Python | 9 | [] |
 | MichaelSodeke/tmp--education-repo | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | ['exploit'] | 1 | 2022-06-22 00:04:46+00:00 | 34 | 0 | | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2022-06-22 02:05:41+00:00 | 11013 | 254 | Python | 56 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-22 03:59:38+00:00 | 22765 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-22 04:00:58+00:00 | 207273 | 440 | Python | 126 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-22 02:03:45+00:00 | 608554 | 57 | | 22 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-22 00:48:18+00:00 | 10615 | 41 | | 21 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-22 02:32:00+00:00 | 312241 | 170 | REXX | 18 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-06-22 00:09:32+00:00 | 13484 | 2550 | Python | 684 | [] |
-| codingcore2/SILENT-PDF-EXPLOIT-CLEAN | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-06-22 00:42:30+00:00 | 1 | 0 | | 0 | [] |
+| trhacknon/CVE-2020-17519 | nan | https://github.com/trhacknon/CVE-2020-17519 | ['cve-2 OR cve_2'] | 1 | 2022-06-22 03:54:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-17519'] |
