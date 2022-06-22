@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
 VU#25,0.50000000,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
+VU#25,0.33333333,https://github.com/asivery/netmd-exploits,asivery/netmd-exploits,506032174
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#25,0.25000000,https://github.com/hktalent/go4Hacker,hktalent/go4Hacker,471863114
