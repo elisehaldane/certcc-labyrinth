@@ -8,7 +8,6 @@ VU#09,0.50000000,https://github.com/0x3SC4L4T3/Babykernel-ctf-ret2usr,0x3SC4L4T3
 VU#09,0.50000000,https://github.com/momo1239/buffshark-shellcode-runner,momo1239/buffshark-shellcode-runner,430599967
 VU#09,0.50000000,https://github.com/x6t/vc-exploit,x6t/vc-exploit,419883426
 VU#09,0.50000000,https://github.com/vlourn/vc-exploit,vlourn/vc-exploit,418013307
-VU#09,0.50000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#09,0.33333333,https://github.com/podsdev/ratExploiter,podsdev/ratExploiter,504743780
 VU#09,0.33333333,https://github.com/cremigame/cremigame.github.io,cremigame/cremigame.github.io,462043572
 VU#09,0.33333333,https://github.com/go-bi/CVE-2019-0708-EXP-Windows,go-bi/CVE-2019-0708-EXP-Windows,330872202
@@ -154,8 +153,8 @@ VU#09,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/m
 VU#09,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#09,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 VU#09,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
-VU#09,0.00020268,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#09,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
+VU#09,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#09,0.00020173,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#09,0.00004627,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
