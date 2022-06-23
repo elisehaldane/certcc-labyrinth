@@ -29,7 +29,7 @@ MS12-020,0.08333333,https://github.com/pierlon/metasploit-framework-wiki,pierlon
 MS12-020,0.08333333,https://github.com/nawfling/metasploitframework-wiki,nawfling/metasploitframework-wiki,128749834
 MS12-020,0.07692308,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 MS12-020,0.07692308,https://github.com/rapid7/metasploit_data_models,rapid7/metasploit_data_models,3072132
-MS12-020,0.06250000,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
+MS12-020,0.05555556,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
 MS12-020,0.05555556,https://github.com/craft-w/Exploits,craft-w/Exploits,398458161
 MS12-020,0.05555556,https://github.com/1ookup/exploit,1ookup/exploit,13582736
 MS12-020,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
@@ -65,7 +65,7 @@ MS12-020,0.00534759,https://github.com/asrocha/exploitdb-API,asrocha/exploitdb-A
 MS12-020,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS12-020,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
 MS12-020,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
-MS12-020,0.00490196,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
+MS12-020,0.00483092,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
 MS12-020,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
 MS12-020,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
 MS12-020,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
@@ -159,7 +159,7 @@ MS12-020,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS12-020,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS12-020,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS12-020,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
-MS12-020,0.00024631,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS12-020,0.00024649,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 MS12-020,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS12-020,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
@@ -243,7 +243,7 @@ MS12-020,0.00004627,https://github.com/offensive-security/exploitdb,offensive-se
 MS12-020,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS12-020,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS12-020,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
-MS12-020,0.00001721,https://github.com/trickest/cve,trickest/cve,454015416
+MS12-020,0.00001704,https://github.com/trickest/cve,trickest/cve,454015416
 MS12-020,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS12-020,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS12-020,0.00000563,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
