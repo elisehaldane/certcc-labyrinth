@@ -1,24 +1,26 @@
 
 # Summary for results/2022/06/24
     
-30 records found after deduplication
+34 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-24 00:26:14+00:00 | 55079 | 308 | Ruby | 89 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-24 02:31:47+00:00 | 312495 | 172 | REXX | 18 | [] |
-| cruxN3T/CVE-2020-3580 | Cisco ASA XSS CVE-2020-3580 | https://github.com/cruxN3T/CVE-2020-3580 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 02:22:20+00:00 | 0 | 0 | HTML | 0 | ['CVE-2020-3580'] |
-| thosfvb/ShellCodeFrame- | ShellCodeFrame- | https://github.com/thosfvb/ShellCodeFrame- | ['shellcode'] | 1 | 2022-06-24 01:47:42+00:00 | 0 | 0 | C++ | 0 | [] |
-| electr0lulz/Mass-CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-24 01:30:40+00:00 | 29 | 1 | Python | 0 | ['CVE-2022-1388'] |
-| zhouzq-thu/z3ncoder | Alphanumeric shellcode | https://github.com/zhouzq-thu/z3ncoder | ['shellcode'] | 1 | 2022-06-24 00:35:16+00:00 | 9 | 0 | Python | 0 | [] |
-| bfmcneill/rce | reddit/pushshift api comment extraction CLI | https://github.com/bfmcneill/rce | ['rce'] | 1 | 2022-06-24 03:36:08+00:00 | 10 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-06-24 05:39:51+00:00 | 21710 | 7362 | JavaScript | 1714 | [] |
 | etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-06-24 02:49:33+00:00 | 35583 | 0 | C++ | 0 | [] |
-| lele8/CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-24 01:56:14+00:00 | 78 | 1 | Python | 0 | ['CVE-2020-1472'] |
-| r1skkam/TryHackMe-SSRF | SSRF Learn how to exploit Server-Side Request Forgery (SSRF) vulnerabilities, allowing you to access internal server resources. | https://github.com/r1skkam/TryHackMe-SSRF | ['exploit'] | 1 | 2022-06-24 00:32:51+00:00 | 2 | 0 | | 0 | [] |
-| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-24 02:53:29+00:00 | 8471 | 1 | Go | 0 | [] |
-| Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-24 03:40:42+00:00 | 133 | 0 | Python | 0 | [] |
-| stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-24 02:24:37+00:00 | 1960 | 0 | CSS | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-24 02:21:05+00:00 | 173 | 11 | Java | 1 | [] |
+| stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-24 02:24:37+00:00 | 1960 | 0 | CSS | 0 | [] |
+| Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-24 03:40:42+00:00 | 133 | 0 | Python | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-24 02:53:29+00:00 | 8471 | 1 | Go | 0 | [] |
+| r1skkam/TryHackMe-SSRF | SSRF Learn how to exploit Server-Side Request Forgery (SSRF) vulnerabilities, allowing you to access internal server resources. | https://github.com/r1skkam/TryHackMe-SSRF | ['exploit'] | 1 | 2022-06-24 00:32:51+00:00 | 2 | 0 | | 0 | [] |
+| lele8/CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-24 01:56:14+00:00 | 78 | 1 | Python | 0 | ['CVE-2020-1472'] |
+| bfmcneill/rce | reddit/pushshift api comment extraction CLI | https://github.com/bfmcneill/rce | ['rce'] | 1 | 2022-06-24 03:36:08+00:00 | 10 | 0 | Python | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-24 04:27:04+00:00 | 6346 | 4645 | Python | 595 | [] |
+| zhouzq-thu/z3ncoder | Alphanumeric shellcode | https://github.com/zhouzq-thu/z3ncoder | ['shellcode'] | 1 | 2022-06-24 00:35:16+00:00 | 9 | 0 | Python | 0 | [] |
+| electr0lulz/Mass-CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-24 01:30:40+00:00 | 29 | 1 | Python | 0 | ['CVE-2022-1388'] |
+| thosfvb/ShellCodeFrame- | ShellCodeFrame- | https://github.com/thosfvb/ShellCodeFrame- | ['shellcode'] | 1 | 2022-06-24 01:47:42+00:00 | 0 | 0 | C++ | 0 | [] |
+| cruxN3T/CVE-2020-3580 | Cisco ASA XSS CVE-2020-3580 | https://github.com/cruxN3T/CVE-2020-3580 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 02:22:20+00:00 | 0 | 0 | HTML | 0 | ['CVE-2020-3580'] |
+| Deep-Co-Training/GraphCoReg | Graphs are widely in use to model related instances of data attributed with properties providing rich spatial information. While a lot of classical graph-related problems have been solved with the advent of Graph Neural Networks (GNN), Spatio-Temporal data | https://github.com/Deep-Co-Training/GraphCoReg | ['exploit'] | 1 | 2022-06-24 03:06:47+00:00 | 1009 | 1 | Jupyter Notebook | 0 | [] |
+| runeeex/metasploit | None | https://github.com/runeeex/metasploit | ['metasploit module OR payload'] | 1 | 2022-06-24 04:24:13+00:00 | 0 | 0 | | 0 | [] |
 | hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-06-24 03:58:40+00:00 | 67 | 1 | Shell | 0 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-24 00:10:28+00:00 | 242 | 18 | Shell | 6 | [] |
 | Tsinghua-MARS-Lab/M2I | M2I is a simple but effective joint motion prediction framework through marginal and conditional predictions by exploiting the factorized relations between interacting agents. | https://github.com/Tsinghua-MARS-Lab/M2I | ['exploit'] | 1 | 2022-06-24 01:20:37+00:00 | 55237 | 59 | Python | 5 | [] |
@@ -34,4 +36,6 @@
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-06-24 04:02:43+00:00 | 158337 | 426 | Go | 84 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-24 00:48:20+00:00 | 12347 | 41 | | 21 | [] |
 | rafaelh/exploits | Study Materials and Tools | https://github.com/rafaelh/exploits | ['exploit'] | 1 | 2022-06-24 01:42:11+00:00 | 74842 | 0 | Python | 1 | [] |
-| Deep-Co-Training/GraphCoReg | Graphs are widely in use to model related instances of data attributed with properties providing rich spatial information. While a lot of classical graph-related problems have been solved with the advent of Graph Neural Networks (GNN), Spatio-Temporal data | https://github.com/Deep-Co-Training/GraphCoReg | ['exploit'] | 1 | 2022-06-24 03:06:47+00:00 | 1009 | 1 | Jupyter Notebook | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-24 02:31:47+00:00 | 312495 | 172 | REXX | 18 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-24 00:26:14+00:00 | 55079 | 308 | Ruby | 89 | [] |
+| marklindsey11/exploitpoc | None | https://github.com/marklindsey11/exploitpoc | ['exploit'] | 1 | 2022-06-24 04:52:36+00:00 | 0 | 0 | Python | 0 | [] |
