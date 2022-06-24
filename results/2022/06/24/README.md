@@ -1,13 +1,12 @@
 
 # Summary for results/2022/06/24
     
-116 records found after deduplication
+119 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|----------------------|
 | JonathanSalwan/ROPgadget | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures. | https://github.com/JonathanSalwan/ROPgadget | ['exploit'] | 1 | 2022-06-24 12:32:35+00:00 | 31205 | 3063 | Python | 530 | [] |
-| memN0ps/srdi-rs | Rusty Shellcode Reflective DLL Injection (Rusty sRDI) | https://github.com/memN0ps/srdi-rs | ['shellcode'] | 1 | 2022-06-24 08:38:03+00:00 | 49 | 2 | Rust | 0 | [] |
-| Deep-Co-Training/GraphCoReg | Graphs are widely in use to model related instances of data attributed with properties providing rich spatial information. While a lot of classical graph-related problems have been solved with the advent of Graph Neural Networks (GNN), Spatio-Temporal data | https://github.com/Deep-Co-Training/GraphCoReg | ['exploit'] | 1 | 2022-06-24 03:06:47+00:00 | 1009 | 1 | Jupyter Notebook | 0 | [] |
+| hungnguyennaz/what-do-the-kids-use | What and how does kids in Minecraft Community use their "exploits" to griefing our shits | https://github.com/hungnguyennaz/what-do-the-kids-use | ['exploit'] | 1 | 2022-06-24 13:53:55+00:00 | 19664 | 1 | | 0 | [] |
 | cruxN3T/CVE-2020-3580 | Cisco ASA XSS CVE-2020-3580 | https://github.com/cruxN3T/CVE-2020-3580 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 02:22:20+00:00 | 0 | 0 | HTML | 0 | ['CVE-2020-3580'] |
 | thosfvb/ShellCodeFrame- | ShellCodeFrame- | https://github.com/thosfvb/ShellCodeFrame- | ['shellcode'] | 1 | 2022-06-24 01:47:42+00:00 | 0 | 0 | C++ | 0 | [] |
 | electr0lulz/Mass-CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-24 01:30:40+00:00 | 29 | 1 | Python | 0 | ['CVE-2022-1388'] |
@@ -19,9 +18,9 @@
 | r1skkam/TryHackMe-SSRF | SSRF Learn how to exploit Server-Side Request Forgery (SSRF) vulnerabilities, allowing you to access internal server resources. | https://github.com/r1skkam/TryHackMe-SSRF | ['exploit'] | 1 | 2022-06-24 00:32:51+00:00 | 2 | 0 | | 0 | [] |
 | Exploitables/CVE-2015-2291 | (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) | https://github.com/Exploitables/CVE-2015-2291 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 18:08:37+00:00 | 48 | 0 | C | 0 | ['CVE-2015-2291'] |
 | asivery/netmd-exploits | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | ['exploit'] | 1 | 2022-06-24 10:52:09+00:00 | 1508 | 1 | TypeScript | 1 | [] |
-| hungnguyennaz/what-do-the-kids-use | What and how does kids in Minecraft Community use their "exploits" to griefing our shits | https://github.com/hungnguyennaz/what-do-the-kids-use | ['exploit'] | 1 | 2022-06-24 13:53:55+00:00 | 19664 | 1 | | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-24 15:29:31+00:00 | 760478 | 27592 | Ruby | 12342 | [] |
+| memN0ps/srdi-rs | Rusty Shellcode Reflective DLL Injection (Rusty sRDI) | https://github.com/memN0ps/srdi-rs | ['shellcode'] | 1 | 2022-06-24 08:38:03+00:00 | 49 | 2 | Rust | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-24 02:53:29+00:00 | 8471 | 1 | Go | 0 | [] |
+| runeeex/metasploit | None | https://github.com/runeeex/metasploit | ['metasploit module OR payload'] | 1 | 2022-06-24 04:24:13+00:00 | 0 | 0 | | 0 | [] |
 | ahaShiyu/CVE-2018-15856 | None | https://github.com/ahaShiyu/CVE-2018-15856 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 19:40:07+00:00 | 245 | 0 | C | 0 | ['CVE-2018-15856'] |
 | ahaShiyu/CVE-2018-18839 | None | https://github.com/ahaShiyu/CVE-2018-18839 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 19:11:53+00:00 | 143 | 0 | C | 0 | ['CVE-2018-18839'] |
 | ahaShiyu/CVE-2018-19854 | None | https://github.com/ahaShiyu/CVE-2018-19854 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 19:10:36+00:00 | 1269 | 0 | C | 0 | ['CVE-2018-19854'] |
@@ -30,13 +29,14 @@
 | ahaShiyu/CVE-2019-1010319 | None | https://github.com/ahaShiyu/CVE-2019-1010319 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 19:09:34+00:00 | 239 | 0 | C | 0 | ['CVE-2019-1010319'] |
 | mindtastic/stagefright | Prevents yourself from feeling exploited | https://github.com/mindtastic/stagefright | ['exploit'] | 1 | 2022-06-24 15:32:49+00:00 | 95 | 0 | JavaScript | 0 | [] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-24 03:40:42+00:00 | 133 | 0 | Python | 0 | [] |
+| tj-oconnor/undergraduate-re | Repo containing course materials from our paper, "Toward an Automatic Exploit Generation Competition for an Undergraduate Binary Reverse Engineering Course" | https://github.com/tj-oconnor/undergraduate-re | ['exploit'] | 1 | 2022-06-24 20:37:22+00:00 | 5145 | 1 | Python | 0 | [] |
 | f1ammable/discerpo | Discord bot which helps with binary exploitation, written in discord.py | https://github.com/f1ammable/discerpo | ['exploit'] | 1 | 2022-06-24 10:06:38+00:00 | 165 | 0 | Python | 1 | [] |
 | Loddy-02/xploit | Metasploit Generator | https://github.com/Loddy-02/xploit | ['metasploit module OR payload'] | 1 | 2022-06-24 16:09:24+00:00 | 4954 | 0 | Python | 0 | [] |
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-06-24 06:23:32+00:00 | 10340 | 386 | Python | 43 | [] |
-| runeeex/metasploit | None | https://github.com/runeeex/metasploit | ['metasploit module OR payload'] | 1 | 2022-06-24 04:24:13+00:00 | 0 | 0 | | 0 | [] |
+| Deep-Co-Training/GraphCoReg | Graphs are widely in use to model related instances of data attributed with properties providing rich spatial information. While a lot of classical graph-related problems have been solved with the advent of Graph Neural Networks (GNN), Spatio-Temporal data | https://github.com/Deep-Co-Training/GraphCoReg | ['exploit'] | 1 | 2022-06-24 03:06:47+00:00 | 1009 | 1 | Jupyter Notebook | 0 | [] |
 | marklindsey11/exploitpoc | None | https://github.com/marklindsey11/exploitpoc | ['exploit'] | 1 | 2022-06-24 04:52:36+00:00 | 0 | 0 | Python | 0 | [] |
-| runeeex/Metasploit | Android Attack | https://github.com/runeeex/Metasploit | ['metasploit module OR payload'] | 1 | 2022-06-24 06:45:25+00:00 | 8 | 0 | | 0 | [] |
-| zall-4RT/kumpulan-code-termuxs-lenkap | termux KUMPULAN CODE TERMUX LENGKAP _ SPAM CHAT WHATSAPP __ nggk usah nyepam gw -_* atau hp lu gw ledakin!!#@vms $ pkg update && pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg | https://github.com/zall-4RT/kumpulan-code-termuxs-lenkap | ['exploit', 'vulnerability poc'] | 2 | 2022-06-24 06:27:57+00:00 | 1 | 1 | | 0 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-24 19:34:18+00:00 | 1675 | 8 | Rust | 1 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN- | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2022-06-24 12:14:02+00:00 | 1 | 0 | | 0 | [] |
 | zakwanabid/BoF_Exploits | In this repository Exploitable codes of BoF while i was practice on THM BoF | https://github.com/zakwanabid/BoF_Exploits | ['exploit'] | 1 | 2022-06-24 18:20:21+00:00 | 1 | 0 | Python | 0 | [] |
 | Iceyze/NW-animal-esp | stand alone animal esp that supports more exploit clients such as krnl and fluxus. | https://github.com/Iceyze/NW-animal-esp | ['exploit'] | 1 | 2022-06-24 18:05:19+00:00 | 1 | 0 | Lua | 0 | [] |
 | TheDudeD6/AutoSploit | AutoSploit | https://github.com/TheDudeD6/AutoSploit | ['sploit'] | 1 | 2022-06-24 17:41:32+00:00 | 0 | 0 | Python | 0 | [] |
@@ -49,8 +49,8 @@
 | DMRNunes/csmv-gpu-stm | Software Transactional Memory that uses a Multi-versioned scheme, while exploiting some of the unique features of the architecure of GPUs | https://github.com/DMRNunes/csmv-gpu-stm | ['exploit'] | 1 | 2022-06-24 13:34:27+00:00 | 981 | 0 | Cuda | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2022-06-24 12:15:38+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN- | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2022-06-24 12:14:55+00:00 | 1 | 0 | | 0 | [] |
-| codingcore2/SILENT-DOC-EXPLOIT-CLEAN- | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2022-06-24 12:14:02+00:00 | 1 | 0 | | 0 | [] |
 | arvindshima/CVE-2021-3156 | CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | https://github.com/arvindshima/CVE-2021-3156 | ['cve-2 OR cve_2', 'heap overflow'] | 2 | 2022-06-24 11:55:52+00:00 | 107 | 0 | C | 0 | ['CVE-2021-3156'] |
+| runeeex/Metasploit | Android Attack | https://github.com/runeeex/Metasploit | ['metasploit module OR payload'] | 1 | 2022-06-24 06:45:25+00:00 | 8 | 0 | | 0 | [] |
 | trewisscotch/HTA-EXPLOIT | None | https://github.com/trewisscotch/HTA-EXPLOIT | ['exploit'] | 1 | 2022-06-24 11:30:39+00:00 | 0 | 1 | | 0 | [] |
 | trewisscotch/SLIENT-DOC | None | https://github.com/trewisscotch/SLIENT-DOC | ['exploit'] | 1 | 2022-06-24 11:04:47+00:00 | 0 | 1 | | 0 | [] |
 | trewisscotch/JPG-PNG-EXPLOIT | None | https://github.com/trewisscotch/JPG-PNG-EXPLOIT | ['exploit'] | 1 | 2022-06-24 10:45:34+00:00 | 1171 | 1 | | 0 | [] |
@@ -62,10 +62,12 @@
 | StarClientDev/Star-Client | Star Client is a free to use utility client available to all. The client does not contain any cheats or exploits and can be used freely. | https://github.com/StarClientDev/Star-Client | ['exploit'] | 1 | 2022-06-24 09:25:08+00:00 | 5 | 0 | | 0 | [] |
 | Piplureez/Exploits | None | https://github.com/Piplureez/Exploits | ['exploit'] | 1 | 2022-06-24 08:04:56+00:00 | 6 | 0 | | 0 | [] |
 | jontay999/binary-exploitation | None | https://github.com/jontay999/binary-exploitation | ['exploit'] | 1 | 2022-06-24 06:28:49+00:00 | 868 | 0 | Python | 0 | [] |
+| zall-4RT/kumpulan-code-termuxs-lenkap | termux KUMPULAN CODE TERMUX LENGKAP _ SPAM CHAT WHATSAPP __ nggk usah nyepam gw -_* atau hp lu gw ledakin!!#@vms $ pkg update && pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg | https://github.com/zall-4RT/kumpulan-code-termuxs-lenkap | ['exploit', 'vulnerability poc'] | 2 | 2022-06-24 06:27:57+00:00 | 1 | 1 | | 0 | [] |
 | Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-06-24 17:49:09+00:00 | 20453 | 0 | VHDL | 0 | [] |
-| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-24 19:34:18+00:00 | 1675 | 8 | Rust | 1 | [] |
 | stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-24 02:24:37+00:00 | 1960 | 0 | CSS | 0 | [] |
-| m3n0sd0n4ld/m3n0sd0n4ld.github.io | Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences. | https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io | ['exploit'] | 1 | 2022-06-24 17:45:02+00:00 | 52097 | 2 | | 1 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-24 15:29:31+00:00 | 760478 | 27592 | Ruby | 12342 | [] |
+| keshiba/cve-2019-16278 | Exploit for the CVE-2019-16278 vulnerability | https://github.com/keshiba/cve-2019-16278 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-24 16:41:07+00:00 | 6 | 0 | Rust | 1 | ['CVE-2019-16278'] |
+| ZombieRage/public | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | ['exploit'] | 1 | 2022-06-24 20:04:18+00:00 | 48 | 0 | | 0 | [] |
 | m4rcexe/m4rcexe | Config files for my GitHub profile. | https://github.com/m4rcexe/m4rcexe | ['rce'] | 1 | 2022-06-24 12:31:36+00:00 | 3 | 0 | | 0 | [] |
 | nnmp020395/OPAR_tools | Des scripts pour lire, traiter et exploiter graphiquement des données OPAR issues de deux instruments LI1200, LIO3T | https://github.com/nnmp020395/OPAR_tools | ['exploit'] | 1 | 2022-06-24 15:14:01+00:00 | 27308 | 0 | Jupyter Notebook | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-24 02:02:35+00:00 | 625247 | 57 | | 22 | [] |
@@ -77,8 +79,8 @@
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-06-24 02:26:34+00:00 | 458 | 154 | Java | 31 | [] |
 | star-sg/CVE | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | ['exploit'] | 1 | 2022-06-24 07:47:51+00:00 | 3687 | 62 | JavaScript | 15 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2022-06-24 04:02:43+00:00 | 158337 | 426 | Go | 84 | [] |
-| keshiba/cve-2019-16278 | Exploit for the CVE-2019-16278 vulnerability | https://github.com/keshiba/cve-2019-16278 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-24 16:41:07+00:00 | 6 | 0 | Rust | 1 | ['CVE-2019-16278'] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-24 00:48:20+00:00 | 12347 | 41 | | 21 | [] |
+| m3n0sd0n4ld/m3n0sd0n4ld.github.io | Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences. | https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io | ['exploit'] | 1 | 2022-06-24 17:45:02+00:00 | 52097 | 2 | | 1 | [] |
 | rafaelh/exploits | Study Materials and Tools | https://github.com/rafaelh/exploits | ['exploit'] | 1 | 2022-06-24 01:42:11+00:00 | 74842 | 0 | Python | 1 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-06-24 15:05:15+00:00 | 1574918 | 4419 | PowerShell | 1563 | [] |
 | Feliz-SZK/Linux-Decoded | Fixing Linux issues that can make you give up. | https://github.com/Feliz-SZK/Linux-Decoded | ['shellcode'] | 1 | 2022-06-24 06:35:41+00:00 | 85 | 28 | | 9 | [] |
@@ -93,8 +95,9 @@
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-06-24 05:39:51+00:00 | 21710 | 7362 | JavaScript | 1714 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-24 04:00:55+00:00 | 200694 | 442 | Python | 126 | [] |
 | rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2022-06-24 17:30:33+00:00 | 307 | 0 | HTML | 0 | [] |
+| Exploitables/ExFreePool-Vulnerability | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | ['exploit'] | 1 | 2022-06-24 20:14:38+00:00 | 550 | 3 | C | 1 | [] |
+| exploit6ix9ine/exploit6ix9ine | Config files for my GitHub profile. | https://github.com/exploit6ix9ine/exploit6ix9ine | ['exploit'] | 1 | 2022-06-24 16:18:42+00:00 | 1 | 0 | | 0 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-24 17:41:26+00:00 | 5259 | 176 | Hack | 22 | [] |
-| Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-06-24 14:18:35+00:00 | 1973 | 0 | | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-06-24 02:21:05+00:00 | 173 | 11 | Java | 1 | [] |
 | hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-06-24 03:58:40+00:00 | 67 | 1 | Shell | 0 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-06-24 00:10:28+00:00 | 242 | 18 | Shell | 6 | [] |
@@ -106,8 +109,8 @@
 | Pigman168/csc-rce | None | https://github.com/Pigman168/csc-rce | ['rce'] | 1 | 2022-06-24 10:50:29+00:00 | 246 | 0 | | 0 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-24 00:09:44+00:00 | 1651 | 228 | JavaScript | 972 | [] |
 | freemyipod/wInd3x | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | ['exploit'] | 1 | 2022-06-24 18:40:07+00:00 | 570 | 17 | Go | 1 | [] |
-| exploit6ix9ine/exploit6ix9ine | Config files for my GitHub profile. | https://github.com/exploit6ix9ine/exploit6ix9ine | ['exploit'] | 1 | 2022-06-24 16:18:42+00:00 | 1 | 0 | | 0 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-06-24 14:56:40+00:00 | 777 | 1 | | 0 | [] |
+| Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-06-24 14:18:35+00:00 | 1973 | 0 | | 0 | [] |
 | intel-xeon/CVE-2021-44228---detection-with-PowerShell | None | https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell | ['cve-2 OR cve_2'] | 1 | 2022-06-24 08:00:16+00:00 | 11 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
 | robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2022-06-24 07:28:47+00:00 | 47 | 9 | | 0 | ['CVE-2021-44228'] |
 | vulsio/go-kev | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying. | https://github.com/vulsio/go-kev | ['exploit'] | 1 | 2022-06-24 09:55:30+00:00 | 258 | 11 | Go | 4 | [] |
