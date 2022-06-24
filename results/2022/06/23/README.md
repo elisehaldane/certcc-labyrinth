@@ -1,12 +1,12 @@
 
 # Summary for results/2022/06/23
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-23 06:55:56+00:00 | 759248 | 27577 | Ruby | 12338 | [] |
-| asivery/netmd-exploits | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | ['exploit'] | 1 | 2022-06-23 00:22:19+00:00 | 1508 | 1 | TypeScript | 1 | [] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-23 03:20:35+00:00 | 67662 | 104 | Python | 23 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | trganda/CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-23 06:31:45+00:00 | 51 | 14 | Java | 2 | ['CVE-2022-22980'] |
 | memN0ps/shellcode_reflective_dll_injection-rs | Rusty Shellcode Reflective DLL Injection (Rusty sRDI) | https://github.com/memN0ps/shellcode_reflective_dll_injection-rs | ['shellcode'] | 1 | 2022-06-23 08:15:45+00:00 | 46 | 1 | Rust | 0 | [] |
 | Karmaz95/crimson_wisp | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | ['exploit'] | 1 | 2022-06-23 01:36:04+00:00 | 41028 | 2 | PowerShell | 1 | [] |
@@ -18,8 +18,8 @@
 | yassine-chihi/CTF-Writeups | Writeups for Binary Exploitation challenges | https://github.com/yassine-chihi/CTF-Writeups | ['exploit'] | 1 | 2022-06-23 22:13:59+00:00 | 2027 | 0 | Python | 0 | [] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-23 01:19:11+00:00 | 280 | 1 | | 0 | [] |
 | rf-peixoto/black_veil | A simple crypter for python code. | https://github.com/rf-peixoto/black_veil | ['exploit'] | 1 | 2022-06-23 22:43:31+00:00 | 29 | 0 | Python | 1 | [] |
-| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-23 03:20:35+00:00 | 67662 | 104 | Python | 23 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | waawaa/Exploiting-TIPS | None | https://github.com/waawaa/Exploiting-TIPS | ['exploit'] | 1 | 2022-06-23 09:23:28+00:00 | 15 | 0 | C | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-06-23 05:49:50+00:00 | 21691 | 7356 | JavaScript | 1714 | [] |
 | f1ammable/discerpo | Discord bot which helps with binary exploitation, written in discord.py | https://github.com/f1ammable/discerpo | ['exploit'] | 1 | 2022-06-23 10:12:41+00:00 | 117 | 0 | Python | 0 | [] |
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-06-23 05:09:26+00:00 | 10472 | 364 | Python | 41 | [] |
 | t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-06-23 11:02:42+00:00 | 680 | 108 | Python | 10 | [] |
@@ -30,9 +30,10 @@
 | stickman-dev/exploit-hub | None | https://github.com/stickman-dev/exploit-hub | ['exploit'] | 1 | 2022-06-23 21:53:11+00:00 | 1960 | 0 | CSS | 0 | [] |
 | prodzpod/ZeroDayToolKit | hacknet pathfinder mod | https://github.com/prodzpod/ZeroDayToolKit | ['zeroday'] | 1 | 2022-06-23 17:35:51+00:00 | 6981 | 0 | C# | 0 | [] |
 | AeX03/eLys | 👾- An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | ['exploit'] | 1 | 2022-06-23 15:50:49+00:00 | 6971 | 6 | Python | 1 | [] |
+| alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-06-23 04:05:17+00:00 | 30 | 0 | Lua | 0 | [] |
 | TeemSploit-Executor/TeemSploit-Executor.github.io | nan | https://github.com/TeemSploit-Executor/TeemSploit-Executor.github.io | ['sploit'] | 1 | 2022-06-23 14:35:45+00:00 | 211 | 0 | HTML | 0 | [] |
+| asivery/netmd-exploits | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | ['exploit'] | 1 | 2022-06-23 00:22:19+00:00 | 1508 | 1 | TypeScript | 1 | [] |
 | Exploitables/CVE-2015-2291 | (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) | https://github.com/Exploitables/CVE-2015-2291 | ['cve-2 OR cve_2'] | 1 | 2022-06-23 02:11:17+00:00 | 14 | 0 | C | 0 | ['CVE-2015-2291'] |
-| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-23 10:32:58+00:00 | 5237 | 119 | Hack | 19 | [] |
 | EclipsesDev/EclipseWare | Lightweight lua level 7 executor made by Eclipse!#6582 | https://github.com/EclipsesDev/EclipseWare | ['exploit'] | 1 | 2022-06-23 10:44:43+00:00 | 159 | 1 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN1 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN1 | ['exploit'] | 1 | 2022-06-23 23:50:05+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1 | ['exploit'] | 1 | 2022-06-23 23:49:15+00:00 | 1 | 0 | | 0 | [] |
@@ -57,9 +58,9 @@
 | unresolvedsymbol/corruption-bedrock-oss | Corruption: Bedrock Edition without private exploits included | https://github.com/unresolvedsymbol/corruption-bedrock-oss | ['exploit'] | 1 | 2022-06-23 00:20:54+00:00 | 1 | 0 | | 0 | [] |
 | ariary/friendly-windows-malware | 💻🎨 Simple executables to prove remote code execution in a nice and harmless way in your demos | https://github.com/ariary/friendly-windows-malware | ['remote code execution'] | 1 | 2022-06-23 07:43:06+00:00 | 7 | 0 | Go | 0 | [] |
 | PenteraIO/CVE-2022-23222-POC | None | https://github.com/PenteraIO/CVE-2022-23222-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-23 15:06:56+00:00 | 17 | 0 | C | 0 | ['CVE-2022-23222'] |
-| alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-06-23 04:05:17+00:00 | 30 | 0 | Lua | 0 | [] |
+| D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-23 10:32:58+00:00 | 5237 | 119 | Hack | 19 | [] |
+| p0dalirius/Awesome-RCE-techniques | Awesome list of techniques to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-06-23 15:15:50+00:00 | 9992 | 699 | Dockerfile | 78 | [] |
 | mirailovers/exploits | None | https://github.com/mirailovers/exploits | ['exploit'] | 1 | 2022-06-23 15:48:33+00:00 | 791 | 2 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-06-23 05:49:50+00:00 | 21691 | 7356 | JavaScript | 1714 | [] |
 | m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2022-06-23 09:49:11+00:00 | 24653 | 1 | C# | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-23 04:00:54+00:00 | 210684 | 441 | Python | 126 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-23 10:38:27+00:00 | 963864 | 121 | | 28 | [] |
