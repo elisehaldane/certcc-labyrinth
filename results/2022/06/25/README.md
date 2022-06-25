@@ -1,0 +1,22 @@
+
+# Summary for results/2022/06/25
+    
+15 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-25 00:26:33+00:00 | 55080 | 308 | Ruby | 89 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-25 00:48:20+00:00 | 13153 | 42 | | 21 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-25 02:03:38+00:00 | 627478 | 57 | | 22 | [] |
+| hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-06-25 00:32:24+00:00 | 132 | 10 | Python | 1 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-25 02:10:27+00:00 | 23505 | 3 | Python | 1 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-25 02:14:54+00:00 | 1903 | 107 | HTML | 26 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-25 01:54:01+00:00 | 6558321 | 60 | Python | 9 | [] |
+| hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-06-25 00:50:03+00:00 | 23971 | 1 | Java | 0 | ['CVE-2021-44228'] |
+| TheREBLEX/version-exploit | None | https://github.com/TheREBLEX/version-exploit | ['exploit'] | 1 | 2022-06-25 00:02:26+00:00 | 1 | 0 | | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-25 00:44:52+00:00 | 8422 | 1 | Go | 0 | [] |
+| asivery/netmd-exploits | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | ['exploit'] | 1 | 2022-06-25 00:25:07+00:00 | 1549 | 1 | TypeScript | 1 | [] |
+| Exploitables/CVE-2015-2291 | (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) | https://github.com/Exploitables/CVE-2015-2291 | ['cve-2 OR cve_2'] | 1 | 2022-06-25 02:11:19+00:00 | 158 | 0 | C | 0 | ['CVE-2015-2291'] |
+| Slackaduts/Atlas-Wizard101 | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | ['exploit'] | 1 | 2022-06-25 01:11:57+00:00 | 15 | 0 | | 0 | [] |
+| xts-sec/leviathan | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | ['exploit'] | 1 | 2022-06-25 02:18:24+00:00 | 0 | 0 | Python | 0 | [] |
+| adamcysec/SentinelOne-PowerSploit-Indicators | nan | https://github.com/adamcysec/SentinelOne-PowerSploit-Indicators | ['sploit'] | 1 | 2022-06-25 01:47:43+00:00 | 0 | 0 | PowerShell | 0 | [] |
