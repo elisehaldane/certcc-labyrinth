@@ -1,12 +1,13 @@
 
 # Summary for results/2022/06/25
     
-20 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-25 00:26:33+00:00 | 55080 | 308 | Ruby | 89 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-25 02:32:22+00:00 | 312638 | 172 | REXX | 18 | [] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-25 04:20:35+00:00 | 67695 | 134 | Python | 27 | ['CVE-2022-23337', 'CVE-2022-26134'] |
+| RianReid/Metasploitable2 | Findings while working practicing penetration testing with metasploitable2 | https://github.com/RianReid/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-06-25 03:57:30+00:00 | 0 | 0 | | 0 | [] |
 | adamcysec/SentinelOne-PowerSploit-Indicators | nan | https://github.com/adamcysec/SentinelOne-PowerSploit-Indicators | ['sploit'] | 1 | 2022-06-25 01:47:43+00:00 | 0 | 0 | PowerShell | 0 | [] |
 | xts-sec/leviathan | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | ['exploit'] | 1 | 2022-06-25 02:18:24+00:00 | 0 | 0 | Python | 0 | [] |
 | Slackaduts/Atlas-Wizard101 | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | ['exploit'] | 1 | 2022-06-25 01:11:57+00:00 | 15 | 0 | | 0 | [] |
@@ -14,9 +15,13 @@
 | asivery/netmd-exploits | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | ['exploit'] | 1 | 2022-06-25 00:25:07+00:00 | 1549 | 1 | TypeScript | 1 | [] |
 | memN0ps/srdi-rs | Rusty Shellcode Reflective DLL Injection (Rusty sRDI) | https://github.com/memN0ps/srdi-rs | ['shellcode'] | 1 | 2022-06-25 02:50:13+00:00 | 51 | 5 | Rust | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-25 00:44:52+00:00 | 8422 | 1 | Go | 0 | [] |
+| Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-25 04:36:57+00:00 | 136 | 0 | Python | 0 | [] |
 | TheREBLEX/version-exploit | None | https://github.com/TheREBLEX/version-exploit | ['exploit'] | 1 | 2022-06-25 00:02:26+00:00 | 1 | 0 | | 0 | [] |
 | zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-06-25 03:59:52+00:00 | 75 | 0 | Python | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-25 02:32:22+00:00 | 312638 | 172 | REXX | 18 | [] |
+| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-25 05:39:07+00:00 | 1651 | 228 | JavaScript | 978 | [] |
 | hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-06-25 00:50:03+00:00 | 23971 | 1 | Java | 0 | ['CVE-2021-44228'] |
+| SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-06-25 04:47:48+00:00 | 711 | 1 | | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-25 01:54:01+00:00 | 6558321 | 60 | Python | 9 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-25 02:14:54+00:00 | 1903 | 107 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-25 02:10:27+00:00 | 23505 | 3 | Python | 1 | [] |
@@ -24,4 +29,4 @@
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-06-25 00:32:24+00:00 | 132 | 10 | Python | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-25 02:03:38+00:00 | 627478 | 57 | | 22 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-25 00:48:20+00:00 | 13153 | 42 | | 21 | [] |
-| RianReid/Metasploitable2 | Findings while working practicing penetration testing with metasploitable2 | https://github.com/RianReid/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-06-25 03:57:30+00:00 | 0 | 0 | | 0 | [] |
+| 0xDeadcell/exploit-development-roadmap | None | https://github.com/0xDeadcell/exploit-development-roadmap | ['exploit'] | 1 | 2022-06-25 05:43:23+00:00 | 0 | 0 | | 0 | [] |
