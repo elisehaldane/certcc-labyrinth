@@ -1,14 +1,16 @@
 
 # Summary for results/2022/06/25
     
-42 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-25 09:13:21+00:00 | 5729 | 3316 | Python | 701 | [] |
 | zakwanabid/BoF_Exploits | In this repository Exploitable codes of BoF while i was practice on THM BoF | https://github.com/zakwanabid/BoF_Exploits | ['exploit'] | 1 | 2022-06-25 09:46:23+00:00 | 1 | 0 | Python | 0 | [] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-25 04:36:57+00:00 | 136 | 0 | Python | 0 | [] |
+| OTAKKATO/ZeroRevolt | A collection of Revolt hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroRevolt | ['exploit'] | 1 | 2022-06-25 10:39:46+00:00 | 14 | 2 | JavaScript | 0 | [] |
 | D4nk0St0rM/ethical_hacking | Ethical Hacking & PenTesting Repo method, approach, resources, tools, code, exploits, reporting, wordlists, attacks, scanning | https://github.com/D4nk0St0rM/ethical_hacking | ['exploit'] | 1 | 2022-06-25 08:54:19+00:00 | 36064 | 1 | Python | 1 | [] |
+| mindtastic/stagefright | Prevents yourself from feeling exploited | https://github.com/mindtastic/stagefright | ['exploit'] | 1 | 2022-06-25 10:40:56+00:00 | 100 | 0 | JavaScript | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-25 00:44:52+00:00 | 8422 | 1 | Go | 0 | [] |
 | memN0ps/srdi-rs | Rusty Shellcode Reflective DLL Injection (Rusty sRDI) | https://github.com/memN0ps/srdi-rs | ['shellcode'] | 1 | 2022-06-25 02:50:13+00:00 | 51 | 5 | Rust | 0 | [] |
 | edoardottt/awesome-hacker-search-engines | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2022-06-25 07:13:02+00:00 | 61 | 0 | | 0 | [] |
@@ -25,18 +27,23 @@
 | Yu-20001/note-binary-exploitation | None | https://github.com/Yu-20001/note-binary-exploitation | ['exploit'] | 1 | 2022-06-25 06:27:03+00:00 | 9 | 0 | | 0 | [] |
 | PhoenixWhitefire/rbx_fe_humanoid | ServerHumanoid is a project aimed to mitigate character exploits in Roblox. | https://github.com/PhoenixWhitefire/rbx_fe_humanoid | ['exploit'] | 1 | 2022-06-25 06:36:09+00:00 | 14 | 0 | | 0 | [] |
 | oturu/Cve-2022-30136-RCE | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/oturu/Cve-2022-30136-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-06-25 07:28:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-30136'] |
+| Sagar075/picoCTF_bufferoverflow1 | picoCTF 2022 Buffer Overflow 1 Binary Exploitation | https://github.com/Sagar075/picoCTF_bufferoverflow1 | ['exploit'] | 1 | 2022-06-25 08:46:39+00:00 | 3 | 0 | Python | 0 | [] |
+| LorenzoVaccher01/cybersecurity | Appunti dedicati allo studio della Sicurezza Informatica | https://github.com/LorenzoVaccher01/cybersecurity | ['exploit'] | 1 | 2022-06-25 09:52:57+00:00 | 5 | 0 | | 0 | [] |
 | TheREBLEX/version-exploit | None | https://github.com/TheREBLEX/version-exploit | ['exploit'] | 1 | 2022-06-25 00:02:26+00:00 | 1 | 0 | | 0 | [] |
 | DevXternal/CryT | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | ['exploit'] | 1 | 2022-06-25 09:31:19+00:00 | 248 | 0 | C# | 0 | [] |
 | W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-25 04:20:35+00:00 | 67695 | 134 | Python | 27 | ['CVE-2022-23337', 'CVE-2022-26134'] |
-| Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-06-25 07:47:26+00:00 | 20954 | 0 | VHDL | 0 | [] |
+| Holyshitbruh/2022-2021-RCE | fuck idk | https://github.com/Holyshitbruh/2022-2021-RCE | ['rce'] | 1 | 2022-06-25 09:53:28+00:00 | 2439 | 0 | Python | 1 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-06-25 08:25:53+00:00 | 88 | 160 | | 23 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-25 02:32:22+00:00 | 312638 | 172 | REXX | 18 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-25 00:48:20+00:00 | 13153 | 42 | | 21 | [] |
+| ezluci/Roblox-scripts | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | ['exploit'] | 1 | 2022-06-25 10:22:55+00:00 | 420 | 1 | Lua | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-25 02:03:38+00:00 | 627478 | 57 | | 22 | [] |
 | SurpriseMTFK/Mass-Exploit3r | None | https://github.com/SurpriseMTFK/Mass-Exploit3r | ['exploit'] | 1 | 2022-06-25 07:33:02+00:00 | 33 | 0 | PHP | 1 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-06-25 00:32:24+00:00 | 132 | 10 | Python | 1 | [] |
 | BroadbentT/BINARY-MASTER | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | ['exploit'] | 1 | 2022-06-25 09:41:05+00:00 | 12474 | 7 | Python | 2 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-06-25 10:59:29+00:00 | 747 | 85 | Python | 13 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-25 04:00:54+00:00 | 204106 | 442 | Python | 126 | [] |
+| m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2022-06-25 10:53:33+00:00 | 24739 | 1 | C# | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-25 02:10:27+00:00 | 23505 | 3 | Python | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-25 02:14:54+00:00 | 1903 | 107 | HTML | 26 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-25 01:54:01+00:00 | 6558321 | 60 | Python | 9 | [] |
@@ -46,4 +53,5 @@
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-25 05:39:07+00:00 | 1651 | 228 | JavaScript | 978 | [] |
 | zhangdapeng520/zdppy_metasploit | 使用Python操作metasploit | https://github.com/zhangdapeng520/zdppy_metasploit | ['metasploit module OR payload'] | 1 | 2022-06-25 03:59:52+00:00 | 75 | 0 | Python | 0 | [] |
 | TitanVale/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/Titanium | ['exploit'] | 1 | 2022-06-25 07:13:41+00:00 | 2852 | 7 | Shell | 0 | [] |
-| Sagar075/picoCTF_bufferoverflow1 | picoCTF 2022 Buffer Overflow 1 Binary Exploitation | https://github.com/Sagar075/picoCTF_bufferoverflow1 | ['exploit'] | 1 | 2022-06-25 08:46:39+00:00 | 3 | 0 | Python | 0 | [] |
+| Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-06-25 07:47:26+00:00 | 20954 | 0 | VHDL | 0 | [] |
+| tijme/kernel-mii | Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551. | https://github.com/tijme/kernel-mii | ['exploit'] | 1 | 2022-06-25 11:43:44+00:00 | 0 | 0 | C | 1 | ['CVE-2021-21551'] |
