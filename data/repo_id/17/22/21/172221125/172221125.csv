@@ -1,23 +1,23 @@
 repo_id,repo_full_name,file,file_sha1,match
-172221125,k8gege/K8tools,CVE-2020-17114-EXP.rar,0ad153000335a125ac4835f40af16722164b7a78,VU#50
 172221125,k8gege/K8tools,CVE-2020-17114-EXP.rar,0ad153000335a125ac4835f40af16722164b7a78,CVE-2020-17144
+172221125,k8gege/K8tools,CVE-2020-17114-EXP.rar,0ad153000335a125ac4835f40af16722164b7a78,VU#50
 172221125,k8gege/K8tools,CVE-2020-17114-EXP.rar,0ad153000335a125ac4835f40af16722164b7a78,CVE-2020-17114
 172221125,k8gege/K8tools,MS15-051提权 CVE-2015-1701_20150525[K8].rar,1bb8150bdfc43ca720f2851adbe17730145bcb67,CVE-2015-1701
 172221125,k8gege/K8tools,MS15-051提权 CVE-2015-1701_20150525[K8].rar,1bb8150bdfc43ca720f2851adbe17730145bcb67,MS15-051
 172221125,k8gege/K8tools,ms14-002提权工具[K8].rar,1d85bdfa8bd88197b990a376b30096b592834d53,MS14-002
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#01
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#12
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#81
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#25
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#29
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#65
 172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#78
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#33
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#76
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#01
 172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#918
 172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#75
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#94
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#81
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#76
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#25
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#29
 172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#74
-172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#65
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#12
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#33
+172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#94
 172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#41
 172221125,k8gege/K8tools,Invoke-Mimikatz.ps1,1e0bd161e97e3daad6e7c2ab77f82cd39cf21513,VU#98
 172221125,k8gege/K8tools,CVE-2019-0803.exe,2021bc26bd27fc489b8748f0fed6a08c72d6cdb5,CVE-2019-0803
@@ -30,10 +30,11 @@ repo_id,repo_full_name,file,file_sha1,match
 172221125,k8gege/K8tools,MS14068 EXP域内提权神器.rar,58db6cb343fd8b8a524feaec5684ae1157ca0fcc,MS14-068
 172221125,k8gege/K8tools,CVE-2018-2894_Poc.exe,5adabe08710b9f09dada4ce66fd4ba9e6aa7434d,CVE-2018-2894
 172221125,k8gege/K8tools,ms11-046.exe,5af48e304664306120cb465fd0b193c03b680452,MS11-046
+172221125,k8gege/K8tools,ProxifierSetup4.07.rar,5c0478f505bf9cbdbf866c1f8986651411de7f93,VU#60
 172221125,k8gege/K8tools,K8飞刀 Not Found_20160414[K.8].rar,5c99eb93b3b9f338eb34f57ed57b86a8dab7193a,VU#88
-172221125,k8gege/K8tools,K8飞刀 Not Found_20160414[K.8].rar,5c99eb93b3b9f338eb34f57ed57b86a8dab7193a,VU#99
-172221125,k8gege/K8tools,K8飞刀 Not Found_20160414[K.8].rar,5c99eb93b3b9f338eb34f57ed57b86a8dab7193a,VU#12
 172221125,k8gege/K8tools,K8飞刀 Not Found_20160414[K.8].rar,5c99eb93b3b9f338eb34f57ed57b86a8dab7193a,VU#45
+172221125,k8gege/K8tools,K8飞刀 Not Found_20160414[K.8].rar,5c99eb93b3b9f338eb34f57ed57b86a8dab7193a,VU#12
+172221125,k8gege/K8tools,K8飞刀 Not Found_20160414[K.8].rar,5c99eb93b3b9f338eb34f57ed57b86a8dab7193a,VU#99
 172221125,k8gege/K8tools,Ecshop 360支付宝插件漏洞+ Flow.php注入漏洞 利用动画教程[K8team].7z,5f6582188d4f182c9e0b07522784e94a82ca27ee,VU#505
 172221125,k8gege/K8tools,Ladon.py,6037699943ada018aa2c59b453c2bc3838b6c8b1,MS17-010
 172221125,k8gege/K8tools,Ladon911.rar,605b05718da20367340b845410f52c43580d559d,VU#24
@@ -42,31 +43,31 @@ repo_id,repo_full_name,file,file_sha1,match
 172221125,k8gege/K8tools,k8zzz.rar,70d09fe35464a0b17673150ada4ebdd015693b7a,VU#68
 172221125,k8gege/K8tools,ChromePwd_20220313.rar,749c5132e899210909503c84b327ba395d754414,VU#93
 172221125,k8gege/K8tools,K8Cscan.py,79f7b2d92d52c4060a76fc0341faaf7255c0b3f0,MS17-010
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#07
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#331
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#69
 172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#99
 172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#67
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#38
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#69
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#93
 172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#75
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#331
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#13
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#04
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#129
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#83
-172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#79
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#38
 172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#49
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#79
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#83
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#13
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#129
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#07
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#93
 172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#77
-172221125,k8gege/K8tools,ms15022 office漏洞演示动画_20150731[K8].rar,8d57a78c806a4450e9f717206a351499071072ef,VU#06
+172221125,k8gege/K8tools,Ladon.ps1,7a339bd0a4bdf52e49ef88419092330e6c185fa3,VU#04
 172221125,k8gege/K8tools,ms15022 office漏洞演示动画_20150731[K8].rar,8d57a78c806a4450e9f717206a351499071072ef,VU#59
+172221125,k8gege/K8tools,ms15022 office漏洞演示动画_20150731[K8].rar,8d57a78c806a4450e9f717206a351499071072ef,VU#06
 172221125,k8gege/K8tools,K8飞刀Final.rar,8f8afed52cc41c8d5fc4b945aa0320d14908daad,MS15-022
 172221125,k8gege/K8tools,CVE-2018-2628 Weblogic GetShell.py,9865aba15305eb93ca1c5ae454f9605b8d11fd99,CVE-2018-2628
 172221125,k8gege/K8tools,CVE-2019-13272.c,a0fac5fc710e7dc79fc94b81986a38343ad1d1e1,GPZ-1903
 172221125,k8gege/K8tools,CVE-2019-13272.c,a0fac5fc710e7dc79fc94b81986a38343ad1d1e1,CVE-2019-13272
 172221125,k8gege/K8tools,Ladon5.7.rar,a83035c680dbd6975d60c0517248914836ebea68,CVE-2019-11043
 172221125,k8gege/K8tools,K8PortScan_Kali_x86,a89d739f924fd987a4ec4295bbfb67400897f705,VU#70
-172221125,k8gege/K8tools,ms11-080.exe,a91cd3fceb0569253ba95afe6e17d06ce6eea63c,MS11-080
 172221125,k8gege/K8tools,ms11-080.exe,a91cd3fceb0569253ba95afe6e17d06ce6eea63c,MS11-008
+172221125,k8gege/K8tools,ms11-080.exe,a91cd3fceb0569253ba95afe6e17d06ce6eea63c,MS11-080
 172221125,k8gege/K8tools,[视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar,c3304fdb85c55c13d1c81752b699ad133b762333,VU#63
 172221125,k8gege/K8tools,[视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar,c3304fdb85c55c13d1c81752b699ad133b762333,CVE-2013-0422
 172221125,k8gege/K8tools,Drupal 7.31 SQL注入漏洞  修改管理员用户名和密码_1017[K8].rar,cfb4e0cba7c3892fe6b1b771e20fb34c069d24de,VU#76
@@ -75,7 +76,7 @@ repo_id,repo_full_name,file,file_sha1,match
 172221125,k8gege/K8tools,Ladon-cve-2020-1472-exp.rar,d9a26920cd15a734cced2c48b7b5e5603b63ebcc,CVE-2020-1472
 172221125,k8gege/K8tools,Comahawk.rar,eeb168ef7c0aea825d500a0cd320475ece4a8bd7,CVE-2019-1322
 172221125,k8gege/K8tools,Comahawk.rar,eeb168ef7c0aea825d500a0cd320475ece4a8bd7,CVE-2019-1405
-172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#53
+172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#56
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#777
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#194
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#79
@@ -85,7 +86,7 @@ repo_id,repo_full_name,file,file_sha1,match
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#83
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#85
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#087
-172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#51
+172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#53
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#89
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#91
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#05
@@ -100,8 +101,8 @@ repo_id,repo_full_name,file,file_sha1,match
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#31
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#77
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#33
-172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#56
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#59
+172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#51
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#49
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#63
 172221125,k8gege/K8tools,Ladon6.6_all.ps1,efe740dcf2289d5b0941bde3ddc65379e77eb360,VU#42
