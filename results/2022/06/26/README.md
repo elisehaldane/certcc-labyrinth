@@ -1,22 +1,22 @@
 
 # Summary for results/2022/06/26
     
-41 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-26 07:44:00+00:00 | 5767 | 3316 | Python | 701 | [] |
-| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-06-26 03:42:00+00:00 | 247 | 0 | Python | 0 | [] |
-| Calvitz/CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 03:22:39+00:00 | 3 | 3 | Python | 1 | ['CVE-2022-26809'] |
+| cxosmo/CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API M | https://github.com/cxosmo/CVE-2022-29548 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-26 08:15:21+00:00 | 3 | 6 | Python | 2 | ['CVE-2022-29548'] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-26 04:43:31+00:00 | 35781 | 467 | C++ | 106 | [] |
 | prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-06-26 03:43:22+00:00 | 2230 | 13 | Python | 4 | [] |
 | grav3m1nd-byte/OSCP-Lab_Exploits | Repository contains modified/fixed exploits used while studying for the OSCP | https://github.com/grav3m1nd-byte/OSCP-Lab_Exploits | ['exploit'] | 1 | 2022-06-26 06:24:34+00:00 | 39 | 1 | Python | 0 | [] |
+| Serenalyw/PixelBot | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | ['exploit'] | 1 | 2022-06-26 09:47:34+00:00 | 954 | 0 | Lua | 2 | [] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-26 05:54:09+00:00 | 141 | 0 | Python | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-26 04:00:42+00:00 | 8457 | 2 | Go | 0 | [] |
 | edoardottt/awesome-hacker-search-engines | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2022-06-26 07:10:42+00:00 | 64 | 16 | | 2 | [] |
 | Exploitables/CVE-2015-2291 | (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) | https://github.com/Exploitables/CVE-2015-2291 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 04:08:12+00:00 | 292 | 3 | C | 0 | ['CVE-2015-2291'] |
 | RianReid/Metasploitable2 | Process and findings while practicing penetration testing with metasploitable2. | https://github.com/RianReid/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-06-26 05:21:59+00:00 | 369 | 0 | | 0 | [] |
-| officialtubers93/sploitx-backdoor | nan | https://github.com/officialtubers93/sploitx-backdoor | ['sploit'] | 1 | 2022-06-26 02:09:19+00:00 | 4 | 0 | nan | 0 | [] |
+| officialtubers93/sploitx-backdoor | None | https://github.com/officialtubers93/sploitx-backdoor | ['sploit'] | 1 | 2022-06-26 02:09:19+00:00 | 4 | 0 | | 0 | [] |
 | r3naissance/eatt | Exploit all the things | https://github.com/r3naissance/eatt | ['exploit'] | 1 | 2022-06-26 00:21:59+00:00 | 17059 | 0 | Python | 0 | [] |
 | EdisonMielke/School-2022 | Code that I had created during my schooling in 2018, this is all Data Security exploits and SciVis stuff | https://github.com/EdisonMielke/School-2022 | ['exploit'] | 1 | 2022-06-26 00:55:43+00:00 | 0 | 0 | | 0 | [] |
 | Viniciuspxf/CVE-2019-10742 | None | https://github.com/Viniciuspxf/CVE-2019-10742 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 02:23:25+00:00 | 768 | 0 | JavaScript | 0 | ['CVE-2019-10742'] |
@@ -24,10 +24,12 @@
 | Kynotx/RBLXWild-Case-Battles-Exploit | Lets you always win case battles | https://github.com/Kynotx/RBLXWild-Case-Battles-Exploit | ['exploit'] | 1 | 2022-06-26 04:37:45+00:00 | 1335 | 0 | | 0 | [] |
 | Kynotx/RBLXWild-Crash-Exploit | Lets you join crash at any time and withdraw works | https://github.com/Kynotx/RBLXWild-Crash-Exploit | ['exploit'] | 1 | 2022-06-26 04:48:57+00:00 | 0 | 0 | | 0 | [] |
 | Kynotx/Bloxflip-Crash-Exploit | Lets you join crash at any time | https://github.com/Kynotx/Bloxflip-Crash-Exploit | ['exploit'] | 1 | 2022-06-26 04:50:40+00:00 | 0 | 0 | | 0 | [] |
+| flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-06-26 07:45:18+00:00 | 0 | 1 | nan | 0 | [] |
+| Itsisspritzyyy/SpritzSploit | go away >:( | https://github.com/Itsisspritzyyy/SpritzSploit | ['sploit'] | 1 | 2022-06-26 07:59:40+00:00 | 1 | 0 | Lua | 0 | [] |
+| Calvitz/CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 03:22:39+00:00 | 3 | 3 | Python | 1 | ['CVE-2022-26809'] |
 | tuhinmallick/Stochastic-methods-Project | Multivariate time series forecasting(MLTS) has been a mainstream tool for forecasting in economics, traffic modelling, economics, future shipments, temperature forecasts(temperature forecast solely on previous year data(as shown in "Lugano temperature for | https://github.com/tuhinmallick/Stochastic-methods-Project | ['exploit'] | 1 | 2022-06-26 05:32:39+00:00 | 109066 | 0 | Python | 0 | [] |
-| Captain-S0L0/serverutilities | a collection of exploit fixes, commands, and other things for fabric mc | https://github.com/Captain-S0L0/serverutilities | ['exploit'] | 1 | 2022-06-26 07:06:10+00:00 | 131 | 0 | Java | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-26 00:31:07+00:00 | 55080 | 308 | Ruby | 89 | [] |
-| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-26 01:15:20+00:00 | 364 | 0 | nan | 0 | [] |
+| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-06-26 03:42:00+00:00 | 247 | 0 | Python | 0 | [] |
 | EXtremeExploit/EXtremeExploit.github.io | None | https://github.com/EXtremeExploit/EXtremeExploit.github.io | ['exploit'] | 1 | 2022-06-26 01:16:01+00:00 | 5837 | 0 | HTML | 0 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-06-26 04:28:37+00:00 | 70993 | 2938 | Python | 457 | [] |
 | wuseman/Inteno_FG500-NetAtOnce | My personal and unique wiki for hacking the router firmware used by (Many Swedish ISPS)FG500 delivered from Inteno Group | https://github.com/wuseman/Inteno_FG500-NetAtOnce | ['exploit'] | 1 | 2022-06-26 05:26:04+00:00 | 1330 | 2 | | 0 | [] |
@@ -45,4 +47,6 @@
 | efxtv/Metasploit-in-termux | Install metasploit without any error 2022 script by EFX Tv | https://github.com/efxtv/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-06-26 06:26:03+00:00 | 5183 | 54 | Shell | 3 | [] |
 | zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-06-26 04:44:30+00:00 | 3521 | 429 | Go | 76 | [] |
 | glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-26 00:36:04+00:00 | 1660 | 228 | JavaScript | 980 | [] |
-| flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-06-26 07:45:18+00:00 | 0 | 1 | | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-26 01:15:20+00:00 | 364 | 0 | | 0 | [] |
+| Captain-S0L0/serverutilities | a collection of exploit fixes, commands, and other things for fabric mc | https://github.com/Captain-S0L0/serverutilities | ['exploit'] | 1 | 2022-06-26 07:06:10+00:00 | 131 | 0 | Java | 0 | [] |
+| lousix/Log4j2-RCE-Scanner | log4j2 rce漏洞扫描器 | https://github.com/lousix/Log4j2-RCE-Scanner | ['rce'] | 1 | 2022-06-26 09:35:47+00:00 | 0 | 0 | Vue | 0 | [] |
