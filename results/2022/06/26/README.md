@@ -1,23 +1,31 @@
 
 # Summary for results/2022/06/26
     
-23 records found after deduplication
+34 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-26 00:31:07+00:00 | 55080 | 308 | Ruby | 89 | [] |
-| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-26 00:36:04+00:00 | 1660 | 228 | JavaScript | 980 | [] |
-| Viniciuspxf/CVE-2019-10742 | None | https://github.com/Viniciuspxf/CVE-2019-10742 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 02:23:25+00:00 | 768 | 0 | JavaScript | 0 | ['CVE-2019-10742'] |
-| EdisonMielke/School-2022 | Code that I had created during my schooling in 2018, this is all Data Security exploits and SciVis stuff | https://github.com/EdisonMielke/School-2022 | ['exploit'] | 1 | 2022-06-26 00:55:43+00:00 | 0 | 0 | | 0 | [] |
-| r3naissance/eatt | Exploit all the things | https://github.com/r3naissance/eatt | ['exploit'] | 1 | 2022-06-26 00:21:59+00:00 | 17059 | 0 | Python | 0 | [] |
-| officialtubers93/sploitx-backdoor | nan | https://github.com/officialtubers93/sploitx-backdoor | ['sploit'] | 1 | 2022-06-26 02:09:19+00:00 | 4 | 0 | nan | 0 | [] |
-| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-26 04:00:42+00:00 | 8457 | 2 | Go | 0 | [] |
-| prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-06-26 03:43:22+00:00 | 2230 | 13 | Python | 4 | [] |
+| RianReid/Metasploitable2 | Process and findings while practicing penetration testing with metasploitable2. | https://github.com/RianReid/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2022-06-26 05:21:59+00:00 | 369 | 0 | | 0 | [] |
+| tuhinmallick/Stochastic-methods-Project | Multivariate time series forecasting(MLTS) has been a mainstream tool for forecasting in economics, traffic modelling, economics, future shipments, temperature forecasts(temperature forecast solely on previous year data(as shown in "Lugano temperature for | https://github.com/tuhinmallick/Stochastic-methods-Project | ['exploit'] | 1 | 2022-06-26 05:32:39+00:00 | 109066 | 0 | Python | 0 | [] |
 | Calvitz/CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 03:22:39+00:00 | 3 | 3 | Python | 1 | ['CVE-2022-26809'] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-26 04:43:31+00:00 | 35781 | 467 | C++ | 106 | [] |
+| prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-06-26 03:43:22+00:00 | 2230 | 13 | Python | 4 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-26 04:00:42+00:00 | 8457 | 2 | Go | 0 | [] |
+| Exploitables/CVE-2015-2291 | (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) | https://github.com/Exploitables/CVE-2015-2291 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 04:08:12+00:00 | 292 | 3 | C | 0 | ['CVE-2015-2291'] |
+| officialtubers93/sploitx-backdoor | nan | https://github.com/officialtubers93/sploitx-backdoor | ['sploit'] | 1 | 2022-06-26 02:09:19+00:00 | 4 | 0 | nan | 0 | [] |
+| EXtremeExploit/EXtremeExploit.github.io | None | https://github.com/EXtremeExploit/EXtremeExploit.github.io | ['exploit'] | 1 | 2022-06-26 01:16:01+00:00 | 5837 | 0 | HTML | 0 | [] |
+| r3naissance/eatt | Exploit all the things | https://github.com/r3naissance/eatt | ['exploit'] | 1 | 2022-06-26 00:21:59+00:00 | 17059 | 0 | Python | 0 | [] |
+| EdisonMielke/School-2022 | Code that I had created during my schooling in 2018, this is all Data Security exploits and SciVis stuff | https://github.com/EdisonMielke/School-2022 | ['exploit'] | 1 | 2022-06-26 00:55:43+00:00 | 0 | 0 | | 0 | [] |
+| Viniciuspxf/CVE-2019-10742 | None | https://github.com/Viniciuspxf/CVE-2019-10742 | ['cve-2 OR cve_2'] | 1 | 2022-06-26 02:23:25+00:00 | 768 | 0 | JavaScript | 0 | ['CVE-2019-10742'] |
+| waylaa/tiktokexploit | tiktok has a exploit idk much about it but i believe it reveals a token/app id of a user | https://github.com/waylaa/tiktokexploit | ['exploit'] | 1 | 2022-06-26 02:45:02+00:00 | 2 | 0 | | 0 | [] |
+| Kynotx/RBLXWild-Case-Battles-Exploit | Lets you always win case battles | https://github.com/Kynotx/RBLXWild-Case-Battles-Exploit | ['exploit'] | 1 | 2022-06-26 04:37:45+00:00 | 1335 | 0 | | 0 | [] |
+| Kynotx/RBLXWild-Crash-Exploit | Lets you join crash at any time and withdraw works | https://github.com/Kynotx/RBLXWild-Crash-Exploit | ['exploit'] | 1 | 2022-06-26 04:48:57+00:00 | 0 | 0 | | 0 | [] |
 | l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-06-26 03:42:00+00:00 | 247 | 0 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-26 01:15:20+00:00 | 364 | 0 | nan | 0 | [] |
+| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-26 00:36:04+00:00 | 1660 | 228 | JavaScript | 980 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-06-26 04:44:30+00:00 | 3521 | 429 | Go | 76 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-26 01:58:27+00:00 | 6552716 | 60 | Python | 9 | [] |
-| EXtremeExploit/EXtremeExploit.github.io | None | https://github.com/EXtremeExploit/EXtremeExploit.github.io | ['exploit'] | 1 | 2022-06-26 01:16:01+00:00 | 5837 | 0 | HTML | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-26 02:23:04+00:00 | 1966 | 107 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-26 02:15:30+00:00 | 21939 | 3 | Python | 1 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-06-26 01:04:47+00:00 | 1981 | 0 | | 0 | [] |
@@ -25,6 +33,9 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-26 03:13:43+00:00 | 973577 | 122 | | 28 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-06-26 03:32:29+00:00 | 42314 | 28 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-26 02:03:36+00:00 | 638165 | 57 | | 22 | [] |
+| aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-06-26 04:45:04+00:00 | 363 | 16 | Python | 4 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-26 02:32:34+00:00 | 318542 | 172 | REXX | 18 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-06-26 01:52:19+00:00 | 352307 | 15 | Rust | 5 | [] |
-| waylaa/tiktokexploit | tiktok has a exploit idk much about it but i believe it reveals a token/app id of a user | https://github.com/waylaa/tiktokexploit | ['exploit'] | 1 | 2022-06-26 02:45:02+00:00 | 2 | 0 | | 0 | [] |
+| wuseman/Inteno_FG500-NetAtOnce | My personal and unique wiki for hacking the router firmware used by (Many Swedish ISPS)FG500 delivered from Inteno Group | https://github.com/wuseman/Inteno_FG500-NetAtOnce | ['exploit'] | 1 | 2022-06-26 05:26:04+00:00 | 1330 | 2 | | 0 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2022-06-26 04:28:37+00:00 | 70993 | 2938 | Python | 457 | [] |
+| Kynotx/Bloxflip-Crash-Exploit | Lets you join crash at any time | https://github.com/Kynotx/Bloxflip-Crash-Exploit | ['exploit'] | 1 | 2022-06-26 04:50:40+00:00 | 0 | 0 | | 0 | [] |
