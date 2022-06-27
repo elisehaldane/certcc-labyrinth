@@ -13854,6 +13854,6 @@ repo_id,repo_full_name,file,file_sha1,match
 151353348,vulsio/go-exploitdb,README.md,4a0dbfda71084ed02c547111ee993394a380b81b,CVE-2006-2896
 151353348,vulsio/go-exploitdb,README.md,4a0dbfda71084ed02c547111ee993394a380b81b,CVE-2009-4093
 151353348,vulsio/go-exploitdb,README.md,4a0dbfda71084ed02c547111ee993394a380b81b,CVE-2009-4092
-151353348,vulsio/go-exploitdb,go.sum,570e5f1471961511d210636c0d52d90fd3526322,VU#44
-151353348,vulsio/go-exploitdb,util/util_test.go,75b5b2bc8a4259d4ff5e119d15ae86881a75b4fd,CVE-2016-2107
-151353348,vulsio/go-exploitdb,util/util_test.go,75b5b2bc8a4259d4ff5e119d15ae86881a75b4fd,CVE-2019-15511
+151353348,vulsio/go-exploitdb,util/util_test.go,818a1377bf5f500c1ee29329db73fb3064a1a056,CVE-2016-2107
+151353348,vulsio/go-exploitdb,util/util_test.go,818a1377bf5f500c1ee29329db73fb3064a1a056,CVE-2019-15511
+151353348,vulsio/go-exploitdb,go.sum,bc0f6382ad83b4b470d528e5b54c6274e1fad151,VU#44
