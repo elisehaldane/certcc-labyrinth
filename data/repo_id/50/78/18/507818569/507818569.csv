@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+507818569,kh4sh3i/ProxyLogon,README.md,ca8e06b41eb01ecefa9479f0fe0b253def18a6cd,CVE-2021-26855
+507818569,kh4sh3i/ProxyLogon,README.md,ca8e06b41eb01ecefa9479f0fe0b253def18a6cd,CVE-2021-27065
+507818569,kh4sh3i/ProxyLogon,_GITHUB_REPO_METADATA_,,CVE-2021-26855
+507818569,kh4sh3i/ProxyLogon,_GITHUB_REPO_METADATA_,,CVE-2021-27065
