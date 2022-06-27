@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+425305515,Calvindd2f/exploits,Shellcode/ace.mht,7497e8831c11b6c6bd90d16b052fdd6ebbd05d02,CVE-2020-15994
+425305515,Calvindd2f/exploits,Shellcode/ace.mht,7497e8831c11b6c6bd90d16b052fdd6ebbd05d02,CVE-2020-6465
+425305515,Calvindd2f/exploits,Shellcode/Arse.js,e6a22834e06bcf134ff9df942938e3513d3dec90,CVE-2020-6465
