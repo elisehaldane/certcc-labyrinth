@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,README.md,80714275ab6c4b94e4cb37ff577918303e1e0ed0,CVE-2022-30190
-507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,Files/JS.txt,d719b9254e5dce852d6e9b1fc7874bb8b446cb33,VU#29
+507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,README.md,1833c62379363576aacf7724bbaef7d56f54d18d,CVE-2022-30190
+507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,bin/Release/net6.0-windows/Follina_PoC.dll,e8a3eecd4731388f5105b50f1723b0ef343e2932,CVE-2022-30190
 507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,MainWindow.xaml,f44f283c316f44e3a8b033b374cb6921e37c7343,CVE-2022-30190
 507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,_GITHUB_REPO_METADATA_,,CVE-2022-30190
