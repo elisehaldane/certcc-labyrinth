@@ -1,24 +1,25 @@
 
 # Summary for results/2022/06/28
     
-51 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-28 05:04:47+00:00 | 238399 | 7236 | C | 1917 | [] |
-| MrGhostOfficial/iMetasploit-in-Termux | This Script is help you to install metasploit6 without root access and any errors enjoy.🥀👻 | https://github.com/MrGhostOfficial/iMetasploit-in-Termux | ['metasploit module OR payload'] | 1 | 2022-06-28 00:21:56+00:00 | 11 | 0 | Shell | 0 | [] |
-| MikeM64/Exploit-Writeups | Exploit writeups I've authored | https://github.com/MikeM64/Exploit-Writeups | ['exploit'] | 1 | 2022-06-28 02:07:44+00:00 | 2110 | 13 | | 2 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-28 07:04:54+00:00 | 760485 | 27606 | Ruby | 12348 | [] |
+| li8u99/CVE-2022-26134 | Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134） | https://github.com/li8u99/CVE-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 07:46:58+00:00 | 3 | 3 | Python | 1 | ['CVE-2022-26134'] |
 | mynameisORIG/exploits-used | the exploit-db exploits I used and may have converted | https://github.com/mynameisORIG/exploits-used | ['exploit'] | 1 | 2022-06-28 00:11:40+00:00 | 8 | 0 | Python | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-28 02:05:49+00:00 | 8463 | 2 | Go | 0 | [] |
 | ByPassAVTeam/ShellcodeLoader | 该项目为Shellocde加载器，详细介绍了我们如何绕过防病毒软件，以及该工具如何使用 | https://github.com/ByPassAVTeam/ShellcodeLoader | ['shellcode'] | 1 | 2022-06-28 01:56:32+00:00 | 962 | 221 | C++ | 38 | [] |
 | nslinco/BJ-DJ | A Python auto-clicker for exploiting blackjack bots on Discord | https://github.com/nslinco/BJ-DJ | ['exploit'] | 1 | 2022-06-28 04:04:18+00:00 | 1 | 0 | | 0 | [] |
 | Exploitables/CVE-2015-2291 | (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) | https://github.com/Exploitables/CVE-2015-2291 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 03:51:52+00:00 | 292 | 3 | C | 0 | ['CVE-2015-2291'] |
+| etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-06-28 07:12:28+00:00 | 35649 | 0 | C++ | 0 | [] |
 | Milo-D/house-of-gods | House of Gods Heap Exploitation Technique - Second Revision | https://github.com/Milo-D/house-of-gods | ['exploit'] | 1 | 2022-06-28 01:26:35+00:00 | 5666 | 0 | Python | 0 | [] |
+| flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-06-28 06:45:40+00:00 | 2106 | 2 | Python | 0 | [] |
 | any2sec/Exploit | 4_share_vuln_exploit_tools | https://github.com/any2sec/Exploit | ['exploit'] | 1 | 2022-06-28 02:49:12+00:00 | 1 | 0 | Python | 0 | [] |
 | R4ph4e1-0x01/Tools-for-Shiro-Exploit | Something tools for Shiro exploit | https://github.com/R4ph4e1-0x01/Tools-for-Shiro-Exploit | ['exploit'] | 1 | 2022-06-28 03:16:52+00:00 | 2 | 1 | Python | 0 | [] |
 | TobyG74/StumbleGuys-Exploit | None | https://github.com/TobyG74/StumbleGuys-Exploit | ['exploit'] | 1 | 2022-06-28 03:41:16+00:00 | 43 | 1 | JavaScript | 0 | [] |
+| MrGhostOfficial/iMetasploit-in-Termux | This Script is help you to install metasploit6 without root access and any errors enjoy.🥀👻 | https://github.com/MrGhostOfficial/iMetasploit-in-Termux | ['metasploit module OR payload'] | 1 | 2022-06-28 00:21:56+00:00 | 11 | 0 | Shell | 0 | [] |
 | AviansAlt/terror-leak | Leaked by Avian, shitty exploit. | https://github.com/AviansAlt/terror-leak | ['exploit'] | 1 | 2022-06-28 03:34:11+00:00 | 8 | 0 | C# | 0 | [] |
-| DuxV2/Arsenal | Public Exploits For Roblox | https://github.com/DuxV2/Arsenal | ['exploit'] | 1 | 2022-06-28 00:50:56+00:00 | 147 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-28 00:28:59+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-28 00:29:54+00:00 | 1 | 1 | | 0 | [] |
 | MrGhostOfficial/Metasploit-PLD | This Script help you to create easily payload | https://github.com/MrGhostOfficial/Metasploit-PLD | ['metasploit module OR payload'] | 1 | 2022-06-28 00:30:14+00:00 | 0 | 0 | | 0 | [] |
@@ -29,22 +30,29 @@
 | Isotop41/Raindrop-Synapse-X-UI | Synapse X UI based off of the old raindrop exploit. | https://github.com/Isotop41/Raindrop-Synapse-X-UI | ['exploit'] | 1 | 2022-06-28 04:48:11+00:00 | 0 | 0 | | 0 | [] |
 | ShizukuTeam/CSLoader | A cobaltstrike shellcode loader bypassed av | https://github.com/ShizukuTeam/CSLoader | ['shellcode'] | 1 | 2022-06-28 05:05:28+00:00 | 0 | 1 | C++ | 0 | [] |
 | tanaka-gftd/os-command-injection | None | https://github.com/tanaka-gftd/os-command-injection | ['command injection'] | 1 | 2022-06-28 05:41:37+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| saket590/Android_Hacking_Metasploit | None | https://github.com/saket590/Android_Hacking_Metasploit | ['metasploit module OR payload'] | 1 | 2022-06-28 05:48:22+00:00 | 0 | 0 | | 0 | [] |
+| RobertoLFRA/exploit-tools | My personal exploit tools | https://github.com/RobertoLFRA/exploit-tools | ['exploit'] | 1 | 2022-06-28 07:26:00+00:00 | 0 | 0 | Python | 0 | [] |
+| huihuo123/CVE-2022-5555 | 攻击，免杀 | https://github.com/huihuo123/CVE-2022-5555 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 07:42:17+00:00 | 0 | 0 | | 0 | ['CVE-2022-5555'] |
+| FabianOnSecurity/XML-RPC-Exploiting | Exploiting XML-RPC.php in common Wordpress Applications. | https://github.com/FabianOnSecurity/XML-RPC-Exploiting | ['exploit'] | 1 | 2022-06-28 07:48:03+00:00 | 0 | 0 | | 0 | [] |
+| MikeM64/Exploit-Writeups | Exploit writeups I've authored | https://github.com/MikeM64/Exploit-Writeups | ['exploit'] | 1 | 2022-06-28 02:07:44+00:00 | 2110 | 13 | | 2 | [] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-28 03:11:22+00:00 | 141 | 0 | Python | 0 | [] |
-| R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-28 04:00:11+00:00 | 297 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-28 05:04:47+00:00 | 238399 | 7236 | C | 1917 | [] |
+| DuxV2/Arsenal | Public Exploits For Roblox | https://github.com/DuxV2/Arsenal | ['exploit'] | 1 | 2022-06-28 00:50:56+00:00 | 147 | 0 | | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-28 04:10:03+00:00 | 5786 | 3320 | Python | 700 | [] |
-| sogonsec/Violent-Fungus-C2 | Violent Fungus C2 is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/Violent-Fungus-C2 | ['exploit'] | 1 | 2022-06-28 02:06:25+00:00 | 73 | 31 | C++ | 5 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-28 02:21:44+00:00 | 6122 | 4660 | Python | 595 | [] |
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-06-28 01:50:42+00:00 | 766 | 88 | Python | 43 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-28 00:27:53+00:00 | 55082 | 308 | Ruby | 89 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-28 02:31:30+00:00 | 318796 | 172 | REXX | 18 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-28 00:48:23+00:00 | 14543 | 42 | | 21 | [] |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-06-28 06:39:05+00:00 | 3369 | 0 | JavaScript | 1 | [] |
 | fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2022-06-28 03:10:06+00:00 | 22621 | 4 | C | 7 | [] |
+| edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2022-06-28 06:46:24+00:00 | 33670 | 73 | Shell | 21 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-28 02:03:44+00:00 | 629805 | 58 | | 22 | [] |
 | raheel0x01/CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | https://github.com/raheel0x01/CVE-2021-26855 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 02:06:10+00:00 | 20 | 12 | Python | 8 | ['CVE-2021-26855'] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-28 04:00:55+00:00 | 201536 | 442 | Python | 126 | [] |
 | TurnipGuy30/Celebi | An exploit for @arturio's profile view counters. | https://github.com/TurnipGuy30/Celebi | ['exploit'] | 1 | 2022-06-28 04:23:09+00:00 | 80 | 4 | HTML | 0 | [] |
+| sogonsec/Violent-Fungus-C2 | Violent Fungus C2 is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/Violent-Fungus-C2 | ['exploit'] | 1 | 2022-06-28 02:06:25+00:00 | 73 | 31 | C++ | 5 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-28 02:08:42+00:00 | 2030 | 108 | HTML | 26 | [] |
-| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-28 02:39:47+00:00 | 67699 | 146 | Python | 28 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-28 01:54:04+00:00 | 6615370 | 60 | Python | 9 | [] |
 | o7-Fire/Log4Shell | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | ['exploit', 'rce'] | 2 | 2022-06-28 01:20:20+00:00 | 87 | 18 | Java | 8 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-06-28 05:40:59+00:00 | 713 | 1 | | 0 | [] |
@@ -55,4 +63,6 @@
 | 0xsanny/solsec | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | ['exploit'] | 1 | 2022-06-28 04:57:05+00:00 | 111 | 168 | | 12 | [] |
 | hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-06-28 05:10:13+00:00 | 79 | 3 | Shell | 0 | [] |
 | hyperdefined/LecternCrashFix | Fixes the lectern crash/exploit. | https://github.com/hyperdefined/LecternCrashFix | ['exploit'] | 1 | 2022-06-28 00:30:05+00:00 | 31 | 7 | Java | 4 | [] |
-| saket590/Android_Hacking_Metasploit | None | https://github.com/saket590/Android_Hacking_Metasploit | ['metasploit module OR payload'] | 1 | 2022-06-28 05:48:22+00:00 | 0 | 0 | | 0 | [] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-28 02:39:47+00:00 | 67699 | 146 | Python | 28 | ['CVE-2022-23337', 'CVE-2022-26134'] |
+| R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-28 04:00:11+00:00 | 297 | 0 | | 0 | [] |
+| Kvi74/CVE-2044-2038 | 红队，蓝队 | https://github.com/Kvi74/CVE-2044-2038 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 07:44:14+00:00 | 0 | 0 | | 0 | ['CVE-2044-2038'] |
