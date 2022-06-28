@@ -1,14 +1,12 @@
 
 # Summary for results/2022/06/28
     
-121 records found after deduplication
+127 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-28 07:04:54+00:00 | 760485 | 27606 | Ruby | 12348 | [] |
-| DuxV2/Arsenal | Public Exploits For Roblox | https://github.com/DuxV2/Arsenal | ['exploit'] | 1 | 2022-06-28 00:50:56+00:00 | 147 | 0 | | 0 | [] |
-| codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-28 00:30:52+00:00 | 1 | 0 | | 0 | [] |
-| MrGhostOfficial/Metasploit-PLD | This Script help you to create easily payload | https://github.com/MrGhostOfficial/Metasploit-PLD | ['metasploit module OR payload'] | 1 | 2022-06-28 00:30:14+00:00 | 0 | 0 | | 0 | [] |
+| jontay999/binary-exploitation | None | https://github.com/jontay999/binary-exploitation | ['exploit'] | 1 | 2022-06-28 15:48:50+00:00 | 1081 | 0 | Python | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-28 00:29:54+00:00 | 1 | 1 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-28 00:28:59+00:00 | 1 | 0 | | 0 | [] |
 | AviansAlt/terror-leak | Leaked by Avian, shitty exploit. | https://github.com/AviansAlt/terror-leak | ['exploit'] | 1 | 2022-06-28 03:34:11+00:00 | 8 | 0 | C# | 0 | [] |
@@ -22,8 +20,8 @@
 | Milo-D/house-of-gods | House of Gods Heap Exploitation Technique - Second Revision | https://github.com/Milo-D/house-of-gods | ['exploit'] | 1 | 2022-06-28 01:26:35+00:00 | 5666 | 0 | Python | 0 | [] |
 | ethicalblue/Follina-CVE-2022-30190-PoC-sample | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-28 13:44:54+00:00 | 828 | 1 | C# | 0 | ['CVE-2022-30190'] |
 | LorenzoVaccher01/cybersecurity | Appunti dedicati allo studio della Sicurezza Informatica | https://github.com/LorenzoVaccher01/cybersecurity | ['exploit'] | 1 | 2022-06-28 11:33:26+00:00 | 5 | 0 | | 0 | [] |
-| jontay999/binary-exploitation | None | https://github.com/jontay999/binary-exploitation | ['exploit'] | 1 | 2022-06-28 15:48:50+00:00 | 1081 | 0 | Python | 0 | [] |
 | etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-06-28 07:12:28+00:00 | 35649 | 0 | C++ | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | ['exploit'] | 1 | 2022-06-28 00:30:52+00:00 | 1 | 0 | | 0 | [] |
 | Exploitables/CVE-2015-2291 | (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) | https://github.com/Exploitables/CVE-2015-2291 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 03:51:52+00:00 | 292 | 3 | C | 0 | ['CVE-2015-2291'] |
 | asivery/netmd-exploits | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | ['exploit'] | 1 | 2022-06-28 08:24:52+00:00 | 1610 | 2 | TypeScript | 2 | [] |
 | nslinco/BJ-DJ | A Python auto-clicker for exploiting blackjack bots on Discord | https://github.com/nslinco/BJ-DJ | ['exploit'] | 1 | 2022-06-28 04:04:18+00:00 | 1 | 0 | | 0 | [] |
@@ -33,11 +31,14 @@
 | mynameisORIG/exploits-used | the exploit-db exploits I used and may have converted | https://github.com/mynameisORIG/exploits-used | ['exploit'] | 1 | 2022-06-28 00:11:40+00:00 | 8 | 0 | Python | 0 | [] |
 | raheeltariq/shellcode | None | https://github.com/raheeltariq/shellcode | ['shellcode'] | 1 | 2022-06-28 12:08:47+00:00 | 6 | 0 | | 0 | [] |
 | MikeM64/Exploit-Writeups | Exploit writeups I've authored | https://github.com/MikeM64/Exploit-Writeups | ['exploit'] | 1 | 2022-06-28 02:07:44+00:00 | 2110 | 13 | | 2 | [] |
+| Byronliang8/HubnessGANSampling | Exploring and Exploiting Hubness Priors for High-Quality GAN Latent Sampling (ICML 2022) - Official PyTorch Implementation https://arxiv.org/abs/2206.06014 | https://github.com/Byronliang8/HubnessGANSampling | ['exploit'] | 1 | 2022-06-28 19:16:48+00:00 | 16321 | 3 | Jupyter Notebook | 0 | [] |
 | li8u99/CVE-2022-26134 | Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134） | https://github.com/li8u99/CVE-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 07:46:58+00:00 | 3 | 3 | Python | 1 | ['CVE-2022-26134'] |
+| Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-28 03:11:22+00:00 | 141 | 0 | Python | 0 | [] |
+| FedericoHeichou/CVE-2022-32988 | None | https://github.com/FedericoHeichou/CVE-2022-32988 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 18:33:38+00:00 | 35 | 0 | | 0 | ['CVE-2022-32988'] |
+| MrGhostOfficial/Metasploit-PLD | This Script help you to create easily payload | https://github.com/MrGhostOfficial/Metasploit-PLD | ['metasploit module OR payload'] | 1 | 2022-06-28 00:30:14+00:00 | 0 | 0 | | 0 | [] |
 | tedgrubbs/Detect_Exploit_Project_Notes | Project notes for exploit detection project. | https://github.com/tedgrubbs/Detect_Exploit_Project_Notes | ['exploit'] | 1 | 2022-06-28 03:35:04+00:00 | 0 | 0 | | 0 | [] |
-| Exploitables/CVE-2018-3990-TALOS-2018-0658 | An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, | https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-28 03:53:11+00:00 | 0 | 0 | C | 0 | ['CVE-2018-3990'] |
-| nslinco/BJ-DJ | A Python auto-clicker for exploiting blackjack bots on Discord | https://github.com/nslinco/BJ-DJ | ['exploit'] | 1 | 2022-06-28 04:20:10+00:00 | 1 | 0 | | 0 | [] |
-| Xyzilx/UNXLIZED-HUB | Roblox Exploit works for any game | https://github.com/Xyzilx/UNXLIZED-HUB | ['exploit'] | 1 | 2022-06-28 12:38:37+00:00 | 3 | 0 | | 0 | [] |
+| R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-28 04:00:11+00:00 | 297 | 0 | | 0 | [] |
+| yaguine/0day | THM Medium Machine | https://github.com/yaguine/0day | ['0day'] | 1 | 2022-06-28 11:45:07+00:00 | 0 | 0 | C | 0 | [] |
 | kiks7/CVE-2020-6468-Chrome-Exploit | Old exploit for Issue 1076708 | https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-28 16:59:35+00:00 | 0 | 0 | JavaScript | 0 | ['CVE-2020-6468'] |
 | NBAquicknut/CVE-2018-6574 | None | https://github.com/NBAquicknut/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 16:36:06+00:00 | 0 | 0 | | 0 | ['CVE-2018-6574'] |
 | Sint0-xyz/Fake-Mute-Exploit | hear the others even though you are mute. | https://github.com/Sint0-xyz/Fake-Mute-Exploit | ['exploit'] | 1 | 2022-06-28 16:07:43+00:00 | 7 | 0 | | 0 | [] |
@@ -50,9 +51,9 @@
 | merlinepedra25/metasploit-payloads-pull-118 | None | https://github.com/merlinepedra25/metasploit-payloads-pull-118 | ['metasploit module OR payload'] | 1 | 2022-06-28 13:23:27+00:00 | 0 | 0 | | 0 | [] |
 | merlinepedra25/metasploit-framework-pull-5608 | None | https://github.com/merlinepedra25/metasploit-framework-pull-5608 | ['metasploit module OR payload'] | 1 | 2022-06-28 13:22:25+00:00 | 0 | 0 | | 0 | [] |
 | zxzxz1/YUB-Exploit | None | https://github.com/zxzxz1/YUB-Exploit | ['exploit'] | 1 | 2022-06-28 13:52:54+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| yaguine/0day | THM Medium Machine | https://github.com/yaguine/0day | ['0day'] | 1 | 2022-06-28 11:45:07+00:00 | 0 | 0 | C | 0 | [] |
-| Isotop41/Raindrop-Synapse-X-UI | Synapse X UI based off of the old raindrop exploit. | https://github.com/Isotop41/Raindrop-Synapse-X-UI | ['exploit'] | 1 | 2022-06-28 04:48:11+00:00 | 0 | 0 | | 0 | [] |
+| Xyzilx/UNXLIZED-HUB | Roblox Exploit works for any game | https://github.com/Xyzilx/UNXLIZED-HUB | ['exploit'] | 1 | 2022-06-28 12:38:37+00:00 | 3 | 0 | | 0 | [] |
 | akincibor/SSRFfuzz | Extract metadata with SSRF (Server-Side Request Forgery) AWS Cloud EC2 Google Alibaba Azure RCE | https://github.com/akincibor/SSRFfuzz | ['rce'] | 1 | 2022-06-28 11:27:30+00:00 | 9 | 0 | | 0 | [] |
+| Exploitables/CVE-2018-3990-TALOS-2018-0658 | An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, | https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-28 03:53:11+00:00 | 0 | 0 | C | 0 | ['CVE-2018-3990'] |
 | flux10n/dirtycow | Dirty Cow exploit - CVE-2016-5195 | https://github.com/flux10n/dirtycow | ['exploit'] | 1 | 2022-06-28 10:10:08+00:00 | 3 | 1 | C | 0 | ['CVE-2016-5195'] |
 | Kvi74/CVE-2022-8475 | 工控安全，溯源 | https://github.com/Kvi74/CVE-2022-8475 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 09:00:56+00:00 | 0 | 0 | | 0 | ['CVE-2022-8475'] |
 | Kvi74/CVE-2022-5561 | 红队，蓝队，免杀 | https://github.com/Kvi74/CVE-2022-5561 | ['cve-2 OR cve_2'] | 1 | 2022-06-28 09:00:26+00:00 | 0 | 0 | | 0 | ['CVE-2022-5561'] |
@@ -64,10 +65,12 @@
 | saket590/Android_Hacking_Metasploit | None | https://github.com/saket590/Android_Hacking_Metasploit | ['metasploit module OR payload'] | 1 | 2022-06-28 05:48:22+00:00 | 0 | 0 | | 0 | [] |
 | tanaka-gftd/os-command-injection | None | https://github.com/tanaka-gftd/os-command-injection | ['command injection'] | 1 | 2022-06-28 05:41:37+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | ShizukuTeam/CSLoader | A cobaltstrike shellcode loader bypassed av | https://github.com/ShizukuTeam/CSLoader | ['shellcode'] | 1 | 2022-06-28 05:05:28+00:00 | 0 | 1 | C++ | 0 | [] |
-| Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-06-28 03:11:22+00:00 | 141 | 0 | Python | 0 | [] |
-| R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-06-28 04:00:11+00:00 | 297 | 0 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-28 05:04:47+00:00 | 238399 | 7236 | C | 1917 | [] |
+| Isotop41/Raindrop-Synapse-X-UI | Synapse X UI based off of the old raindrop exploit. | https://github.com/Isotop41/Raindrop-Synapse-X-UI | ['exploit'] | 1 | 2022-06-28 04:48:11+00:00 | 0 | 0 | | 0 | [] |
+| nslinco/BJ-DJ | A Python auto-clicker for exploiting blackjack bots on Discord | https://github.com/nslinco/BJ-DJ | ['exploit'] | 1 | 2022-06-28 04:20:10+00:00 | 1 | 0 | | 0 | [] |
+| DuxV2/Arsenal | Public Exploits For Roblox | https://github.com/DuxV2/Arsenal | ['exploit'] | 1 | 2022-06-28 00:50:56+00:00 | 147 | 0 | | 0 | [] |
 | DevXternal/CryT | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | ['exploit'] | 1 | 2022-06-28 17:21:05+00:00 | 259 | 0 | C# | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-28 05:04:47+00:00 | 238399 | 7236 | C | 1917 | [] |
+| juliengossa/parcoursup | Une exploitation des données Parcoursup | https://github.com/juliengossa/parcoursup | ['exploit'] | 1 | 2022-06-28 15:29:23+00:00 | 1814 | 0 | | 0 | [] |
 | kensh1ro/dart-shellcode | A PoC executing shellcode in Dart | https://github.com/kensh1ro/dart-shellcode | ['shellcode'] | 1 | 2022-06-28 08:41:09+00:00 | 8 | 3 | Dart | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-28 02:08:42+00:00 | 2030 | 108 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-28 09:24:24+00:00 | 21645 | 3 | Python | 1 | [] |
@@ -80,8 +83,9 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-06-28 11:43:04+00:00 | 42321 | 28 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-28 02:03:44+00:00 | 629805 | 58 | | 22 | [] |
 | edoardottt/tryhackme-ctf | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | ['exploit'] | 1 | 2022-06-28 06:46:24+00:00 | 33670 | 73 | Shell | 21 | [] |
-| juliengossa/parcoursup | Une exploitation des données Parcoursup | https://github.com/juliengossa/parcoursup | ['exploit'] | 1 | 2022-06-28 15:29:23+00:00 | 1814 | 0 | | 0 | [] |
+| shankara-n/bo_bad_char_finder | Script to find and verify bad chars whilst creating exploits for buffer overflows | https://github.com/shankara-n/bo_bad_char_finder | ['exploit'] | 1 | 2022-06-28 18:53:31+00:00 | 74 | 0 | Python | 0 | [] |
 | fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2022-06-28 03:10:06+00:00 | 22621 | 4 | C | 7 | [] |
+| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-06-28 19:29:49+00:00 | 798 | 0 | TypeScript | 0 | [] |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2022-06-28 06:39:05+00:00 | 3369 | 0 | JavaScript | 1 | [] |
 | 0xricksanchez/paper_collection | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | ['exploit'] | 1 | 2022-06-28 14:33:11+00:00 | 77 | 901 | | 97 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-28 00:48:23+00:00 | 14543 | 42 | | 21 | [] |
@@ -94,12 +98,11 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-06-28 12:35:03+00:00 | 75912 | 11648 | Jupyter Notebook | 2005 | [] |
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-06-28 01:50:42+00:00 | 766 | 88 | Python | 43 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-06-28 02:21:44+00:00 | 6122 | 4660 | Python | 595 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-28 04:10:03+00:00 | 5793 | 3320 | Python | 700 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-06-28 04:10:03+00:00 | 5786 | 3320 | Python | 700 | [] |
 | Balasys/dheater | D(HE)ater is a proof of concept implementation of the D(HE)at attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | ['attack poc', 'cve poc', 'exploit', 'vulnerability poc'] | 4 | 2022-06-28 12:02:55+00:00 | 79 | 101 | Python | 8 | ['CVE-2002-20001'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-28 01:54:04+00:00 | 6615370 | 60 | Python | 9 | [] |
-| gvinciguerra/BlockEpsilonTree | 🌳 A compressed rank/select dictionary exploiting approximate linearity and repetitiveness. | https://github.com/gvinciguerra/BlockEpsilonTree | ['exploit'] | 1 | 2022-06-28 13:05:44+00:00 | 43 | 10 | C++ | 1 | [] |
-| kmeps4/stooged900 | Stooged PS4 9.00FW Exploit Host | https://github.com/kmeps4/stooged900 | ['exploit'] | 1 | 2022-06-28 15:21:57+00:00 | 1096 | 0 | HTML | 0 | [] |
 | W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-06-28 02:39:47+00:00 | 67699 | 146 | Python | 28 | ['CVE-2022-23337', 'CVE-2022-26134'] |
+| kmeps4/900manual | Kameleon PS4 9.00FW Manual Exploit Host | https://github.com/kmeps4/900manual | ['exploit'] | 1 | 2022-06-28 15:20:40+00:00 | 2660 | 0 | HTML | 0 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-28 12:49:29+00:00 | 35135 | 477 | C++ | 107 | [] |
 | Crown4King/ROBLOX | Resources for ROBLOX exploiting related things. | https://github.com/Crown4King/ROBLOX | ['exploit'] | 1 | 2022-06-28 08:52:10+00:00 | 82 | 1 | Lua | 0 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-28 11:43:41+00:00 | 5081 | 421 | Hack | 46 | [] |
@@ -111,18 +114,21 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-06-28 15:01:03+00:00 | 368747 | 1 | Python | 0 | [] |
 | Threekiii/Awesome-POC | 一个各类漏洞POC知识库 | https://github.com/Threekiii/Awesome-POC | ['vulnerability poc'] | 1 | 2022-06-28 04:00:25+00:00 | 703 | 187 | | 46 | [] |
 | Trust-Ayeni/Hacking-and-Patching | Hacking and patching, it is a short course title, but it says it all. This repository explains how to hack web application with command injection vulnerability. | https://github.com/Trust-Ayeni/Hacking-and-Patching | ['command injection'] | 1 | 2022-06-28 09:08:45+00:00 | 494 | 1 | Python | 0 | [] |
+| kmeps4/stooged900 | Stooged PS4 9.00FW Exploit Host | https://github.com/kmeps4/stooged900 | ['exploit'] | 1 | 2022-06-28 15:21:57+00:00 | 1096 | 0 | HTML | 0 | [] |
 | hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-06-28 15:45:08+00:00 | 23971 | 1 | Java | 0 | ['CVE-2021-44228'] |
-| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-06-28 08:28:10+00:00 | 4332 | 14 | | 2 | [] |
-| kmeps4/900manual | Kameleon PS4 9.00FW Manual Exploit Host | https://github.com/kmeps4/900manual | ['exploit'] | 1 | 2022-06-28 15:20:40+00:00 | 2660 | 0 | HTML | 0 | [] |
 | kmeps4/900auto | Kameleon PS4 9.00 FW Exploit Host Lite Auto Method | https://github.com/kmeps4/900auto | ['exploit'] | 1 | 2022-06-28 15:30:42+00:00 | 2839 | 3 | JavaScript | 1 | [] |
+| gvinciguerra/BlockEpsilonTree | 🌳 A compressed rank/select dictionary exploiting approximate linearity and repetitiveness. | https://github.com/gvinciguerra/BlockEpsilonTree | ['exploit'] | 1 | 2022-06-28 13:05:44+00:00 | 43 | 10 | C++ | 1 | [] |
 | Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-06-28 02:54:17+00:00 | 3196 | 1065 | Python | 178 | [] |
 | kema-dev/snow-crash | 42 _ Privilege escalation exercices on a system image | https://github.com/kema-dev/snow-crash | ['exploit'] | 1 | 2022-06-28 08:56:42+00:00 | 5017 | 0 | C | 0 | [] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-06-28 11:07:37+00:00 | 4090 | 6 | TypeScript | 3 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-06-28 18:23:49+00:00 | 173326 | 2 | Jupyter Notebook | 0 | [] |
 | laobaobao/shellcode- | shellcode免杀 | https://github.com/laobaobao/shellcode- | ['shellcode'] | 1 | 2022-06-28 01:34:19+00:00 | 7 | 9 | Python | 3 | [] |
 | TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-06-28 13:48:58+00:00 | 218 | 7 | Rust | 2 | [] |
 | SenaLabs/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/SenaLabs/attack-playbook | ['exploit'] | 1 | 2022-06-28 05:40:59+00:00 | 713 | 1 | | 0 | [] |
 | kmeps4/leeful900 | PS4 9.00FW Exploit Host By Leeful | https://github.com/kmeps4/leeful900 | ['exploit'] | 1 | 2022-06-28 15:23:41+00:00 | 6871 | 15 | HTML | 14 | [] |
 | o7-Fire/Log4Shell | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | ['exploit', 'rce'] | 2 | 2022-06-28 01:20:20+00:00 | 87 | 18 | Java | 8 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-06-28 18:11:11+00:00 | 8416 | 13 | HTML | 5 | [] |
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-06-28 17:15:03+00:00 | 1539 | 2 | Shell | 0 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2022-06-28 14:57:18+00:00 | 956 | 0 | Lua | 0 | [] |
+| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-06-28 08:28:10+00:00 | 4332 | 14 | | 2 | [] |
 | sudohub7/Exploit_Dev | None | https://github.com/sudohub7/Exploit_Dev | ['exploit'] | 1 | 2022-06-28 17:33:14+00:00 | 0 | 0 | SCSS | 0 | [] |
