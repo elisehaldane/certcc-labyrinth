@@ -1,6 +1,12 @@
 repo_id,repo_full_name,file,file_sha1,match
 451168050,ameetsaahu/Kernel-exploitation,ips/client/initramfs.cpio.gz,09885c8aafdf1f15d199146a4701b261d5ae0617,VU#30
 451168050,ameetsaahu/Kernel-exploitation,ips/client/initramfs.cpio.gz,09885c8aafdf1f15d199146a4701b261d5ae0617,VU#77
+451168050,ameetsaahu/Kernel-exploitation,zer0pts2020-meowmeow/bzImage,1c0dc5cab8d564a26bcd4c4a5aac306b56bc91e9,VU#10
+451168050,ameetsaahu/Kernel-exploitation,midnightsunCTF2018-flitbip/initramfs.cpio.gz,3c3531d059d8e0e9fa89f62b98f14ee5de117249,VU#23
+451168050,ameetsaahu/Kernel-exploitation,midnightsunCTF2018-flitbip/initramfs.cpio.gz,3c3531d059d8e0e9fa89f62b98f14ee5de117249,VU#31
+451168050,ameetsaahu/Kernel-exploitation,midnightsunCTF2018-flitbip/initramfs.cpio.gz,3c3531d059d8e0e9fa89f62b98f14ee5de117249,VU#55
+451168050,ameetsaahu/Kernel-exploitation,seccon2020-kstack/bzImage,605c417f72473729a2874cd9fdf5feafc15833eb,VU#40
+451168050,ameetsaahu/Kernel-exploitation,seccon2020-kstack/bzImage,605c417f72473729a2874cd9fdf5feafc15833eb,VU#57
 451168050,ameetsaahu/Kernel-exploitation,easy-kernel/bzImage,86a6577fd702fd1c26af20ec832bc496c444d37b,VU#07
 451168050,ameetsaahu/Kernel-exploitation,easy-kernel/bzImage,86a6577fd702fd1c26af20ec832bc496c444d37b,VU#69
 451168050,ameetsaahu/Kernel-exploitation,0ctf2018-babykernel/vmlinuz-4.15.0-22-generic,944f860a5fdf5edd3b1d2b363d578f22bf8e42d1,VU#47
