@@ -1,26 +1,39 @@
 
 # Summary for results/2022/06/29
     
-19 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | frohoff/ysoserial | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | ['exploit', 'vulnerability poc'] | 2 | 2022-06-29 01:52:19+00:00 | 477 | 5409 | Java | 1506 | [] |
-| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-29 01:00:24+00:00 | 1646 | 230 | JavaScript | 987 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-06-29 03:17:14+00:00 | 1223 | 0 | Python | 11 | [] |
+| Kynotx/Bloxflip-Case-Exploit | None | https://github.com/Kynotx/Bloxflip-Case-Exploit | ['exploit'] | 1 | 2022-06-29 02:51:57+00:00 | 39 | 0 | | 0 | [] |
+| Kynotx/RBLXWild-Crash-Exploit-WORKING | None | https://github.com/Kynotx/RBLXWild-Crash-Exploit-WORKING | ['exploit'] | 1 | 2022-06-29 02:50:44+00:00 | 39 | 0 | | 0 | [] |
+| Meeow103/Silent-Excel-Exploit-2022-DROPPER | None | https://github.com/Meeow103/Silent-Excel-Exploit-2022-DROPPER | ['exploit'] | 1 | 2022-06-29 01:49:54+00:00 | 0 | 0 | | 0 | [] |
 | Meeow103/Latest-Silent-PDF-Exploit-2022 | None | https://github.com/Meeow103/Latest-Silent-PDF-Exploit-2022 | ['exploit'] | 1 | 2022-06-29 01:46:26+00:00 | 0 | 1 | | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-n | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-n | ['exploit'] | 1 | 2022-06-29 00:00:04+00:00 | 1 | 1 | | 0 | [] |
 | Itsisspritzyyy/SpritzSploit | go away >:( | https://github.com/Itsisspritzyyy/SpritzSploit | ['sploit'] | 1 | 2022-06-29 02:17:31+00:00 | 17 | 0 | Lua | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-29 02:14:18+00:00 | 8620 | 3 | Go | 0 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-29 00:08:27+00:00 | 35135 | 478 | C++ | 108 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-29 00:44:41+00:00 | 1623 | 8 | Rust | 1 | [] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-06-29 03:39:53+00:00 | 40 | 17 | | 5 | [] |
+| AeX03/eLys | 👾- An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | ['exploit'] | 1 | 2022-06-29 03:31:28+00:00 | 7413 | 6 | Python | 1 | [] |
+| wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-06-29 03:59:16+00:00 | 258 | 98 | nan | 17 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-06-29 01:09:08+00:00 | 391 | 0 | nan | 0 | [] |
+| glixxzzy/blooket-hack | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | ['exploit'] | 1 | 2022-06-29 01:00:24+00:00 | 1646 | 230 | JavaScript | 987 | [] |
+| hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-06-29 03:46:42+00:00 | 24035 | 1 | Java | 0 | ['CVE-2021-44228'] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-06-29 02:57:31+00:00 | 8778 | 3236 | TypeScript | 510 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-29 01:56:27+00:00 | 6636464 | 62 | Python | 9 | [] |
-| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-06-29 00:46:04+00:00 | 776 | 88 | Python | 43 | [] |
+| Wra7h/Single-Dose | Generate .NET Process Injection Binaries/Shellcode Loaders | https://github.com/Wra7h/Single-Dose | ['shellcode'] | 1 | 2022-06-29 03:43:07+00:00 | 143 | 39 | C# | 12 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-29 02:17:30+00:00 | 2032 | 108 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-29 02:12:50+00:00 | 22066 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-29 04:00:56+00:00 | 206319 | 443 | Python | 126 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-29 02:03:44+00:00 | 634585 | 58 | | 22 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-29 00:48:24+00:00 | 15685 | 42 | | 21 | [] |
+| wyzxxz/jndi_tool | JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell，高版本JDK场景下利用等，fastjson rce命令执行，log4j rce命令执行 漏洞检测辅助工具 | https://github.com/wyzxxz/jndi_tool | ['rce'] | 1 | 2022-06-29 03:37:42+00:00 | 225890 | 1220 | nan | 291 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-29 02:31:24+00:00 | 318928 | 172 | REXX | 18 | [] |
 | EXtremeExploit/EXtremeExploit.github.io | None | https://github.com/EXtremeExploit/EXtremeExploit.github.io | ['exploit'] | 1 | 2022-06-29 00:55:30+00:00 | 5841 | 0 | HTML | 0 | [] |
 | mfthomps/CGC-Analysis | Cyber Grand Challenge Final Event analysis of exploited vulnerabilities and team defenses | https://github.com/mfthomps/CGC-Analysis | ['exploit'] | 1 | 2022-06-29 00:19:40+00:00 | 1091 | 5 | | 2 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-06-29 00:25:32+00:00 | 56627 | 308 | Ruby | 89 | [] |
-| Meeow103/Silent-Excel-Exploit-2022-DROPPER | None | https://github.com/Meeow103/Silent-Excel-Exploit-2022-DROPPER | ['exploit'] | 1 | 2022-06-29 01:49:54+00:00 | 0 | 0 | | 0 | [] |
+| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-06-29 00:46:04+00:00 | 776 | 88 | Python | 43 | [] |
+| Itsisspritzyyy/SpritzSploit | SpritzSploit | https://github.com/Itsisspritzyyy/SpritzSploit | ['sploit'] | 1 | 2022-06-29 03:16:21+00:00 | 7 | 0 | Lua | 0 | [] |
