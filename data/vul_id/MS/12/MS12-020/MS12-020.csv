@@ -29,7 +29,6 @@ MS12-020,0.08333333,https://github.com/pierlon/metasploit-framework-wiki,pierlon
 MS12-020,0.08333333,https://github.com/nawfling/metasploitframework-wiki,nawfling/metasploitframework-wiki,128749834
 MS12-020,0.07692308,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 MS12-020,0.07692308,https://github.com/rapid7/metasploit_data_models,rapid7/metasploit_data_models,3072132
-MS12-020,0.05555556,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
 MS12-020,0.05555556,https://github.com/craft-w/Exploits,craft-w/Exploits,398458161
 MS12-020,0.05555556,https://github.com/1ookup/exploit,1ookup/exploit,13582736
 MS12-020,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
@@ -39,6 +38,7 @@ MS12-020,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155
 MS12-020,0.04545455,https://github.com/Fplyth0ner-Combie/Bug-Project-Framework,Fplyth0ner-Combie/Bug-Project-Framework,131603063
 MS12-020,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ray-tracer96024/metasploitable3-win2k8,449806826
 MS12-020,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng/windows_exploit,147472650
+MS12-020,0.03571429,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
 MS12-020,0.02941176,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 MS12-020,0.02702703,https://github.com/telnet22/Kn0ck,telnet22/Kn0ck,200534665
 MS12-020,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
