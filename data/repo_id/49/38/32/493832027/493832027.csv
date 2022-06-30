@@ -41,7 +41,9 @@ repo_id,repo_full_name,file,file_sha1,match
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24563/readme.md,54880dfa69403fc3592f86592b0696db32e5c035,CVE-2021-24563
 493832027,prok3z/Wordpress-Exploits,CVE-2016-10033/rce.sh,5d0f7e5b9166c500607bcdcbc47b24920790c6a6,CVE-2016-10033
 493832027,prok3z/Wordpress-Exploits,CVE-2022-1167/README.md,5d3bc45417ce829f9820279876cfe50e2ec5eb4d,CVE-2022-1167
+493832027,prok3z/Wordpress-Exploits,CVE-2022-0248/README.md,6d6e73c940539df99c5e406660727e90c8d2d6ee,CVE-2022-0248
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/exploit.py,6e082723f171eabf468b546f4ab6c4cc3f541e52,CVE-2020-12800
+493832027,prok3z/Wordpress-Exploits,CVE-2021-24304/README.md,6f8134b8c4d00a3e9a2e107a3902312a99bf3ce0,CVE-2021-24304
 493832027,prok3z/Wordpress-Exploits,CVE-2021-25094-tatsu-preauth-rce/exploit-rce.py,734a0048213504c4f1cd8a505d99fbd651e44792,CVE-2021-25094
 493832027,prok3z/Wordpress-Exploits,CVE-2016-10033/CVE-2016-10033.py,772c4572b6897aa2accc38887288efdce7f8ea94,CVE-2016-10033
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24762/README.md,7e9b36638b3a239277c83e1863adfa9ce20960fa,CVE-2021-24762
@@ -49,8 +51,8 @@ repo_id,repo_full_name,file,file_sha1,match
 493832027,prok3z/Wordpress-Exploits,CVE-2019-8942-RCE/2019-8942-RCE.py,90147d9dead9a58c0bd18e6582db76a6e48b87fb,CVE-2019-8942
 493832027,prok3z/Wordpress-Exploits,CVE-2020-11738/exploit.py,961781a6422c377d953d0ca0ac688004c85e815b,CVE-2020-11738
 493832027,prok3z/Wordpress-Exploits,CVE-2022-23988/README.md,b44035f05577397339902bb50e407a814d2a86f4,CVE-2022-23988
-493832027,prok3z/Wordpress-Exploits,WordPress_4.9.8_RCE_POC/README.md,b57a6243e532561b47a1376aab0c75a82b15330f,CVE-2019-8943
 493832027,prok3z/Wordpress-Exploits,WordPress_4.9.8_RCE_POC/README.md,b57a6243e532561b47a1376aab0c75a82b15330f,CVE-2019-8942
+493832027,prok3z/Wordpress-Exploits,WordPress_4.9.8_RCE_POC/README.md,b57a6243e532561b47a1376aab0c75a82b15330f,CVE-2019-8943
 493832027,prok3z/Wordpress-Exploits,Wordpress-scanner/base/data/list-themes.txt,b68b39d50a14691ab7943ce50967106966b94746,VU#01
 493832027,prok3z/Wordpress-Exploits,Wordpress-scanner/base/data/list-themes.txt,b68b39d50a14691ab7943ce50967106966b94746,VU#03
 493832027,prok3z/Wordpress-Exploits,CVE-2021-25094-tatsu-preauth-rce/exploit-race.py,bbd6cb52e7bb3467af0ca707fd9de946180f7ec3,CVE-2021-25094
