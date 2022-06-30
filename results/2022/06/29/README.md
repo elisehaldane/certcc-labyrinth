@@ -1,12 +1,13 @@
 
 # Summary for results/2022/06/29
     
-130 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-06-29 05:21:43+00:00 | 761719 | 27613 | Ruby | 12349 | [] |
-| trhacknon/CVE-2021-25003 | None | https://github.com/trhacknon/CVE-2021-25003 | ['cve-2 OR cve_2'] | 1 | 2022-06-29 06:52:23+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-25003'] |
+| marcospaulo28/Shodancommands | A brief summary of how to exploit Shodan's OSINT technology. | https://github.com/marcospaulo28/Shodancommands | ['exploit'] | 1 | 2022-06-29 22:45:46+00:00 | 4 | 0 | | 0 | [] |
+| soezayzay/SoulExploit | None | https://github.com/soezayzay/SoulExploit | ['exploit'] | 1 | 2022-06-29 06:50:33+00:00 | 0 | 0 | PHP | 0 | [] |
 | Itsisspritzyyy/SpritzSploit | SpritzSploit | https://github.com/Itsisspritzyyy/SpritzSploit | ['sploit'] | 1 | 2022-06-29 03:16:21+00:00 | 7 | 0 | Lua | 0 | [] |
 | Kynotx/Bloxflip-Case-Exploit | None | https://github.com/Kynotx/Bloxflip-Case-Exploit | ['exploit'] | 1 | 2022-06-29 02:51:57+00:00 | 39 | 0 | | 0 | [] |
 | Kynotx/RBLXWild-Crash-Exploit-WORKING | None | https://github.com/Kynotx/RBLXWild-Crash-Exploit-WORKING | ['exploit'] | 1 | 2022-06-29 02:50:44+00:00 | 39 | 0 | | 0 | [] |
@@ -21,6 +22,7 @@
 | TobyG74/StumbleGuys-Exploit | None | https://github.com/TobyG74/StumbleGuys-Exploit | ['exploit'] | 1 | 2022-06-29 05:46:28+00:00 | 52 | 2 | JavaScript | 0 | [] |
 | TheSadError/Solo | Solo Vuln Scanner | https://github.com/TheSadError/Solo | ['metasploit module OR payload'] | 1 | 2022-06-29 07:31:09+00:00 | 23 | 3 | Python | 2 | [] |
 | vaarg/AutoKali | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali Linux that aren't included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | ['exploit'] | 1 | 2022-06-29 05:49:53+00:00 | 49 | 1 | Shell | 0 | [] |
+| msm14800/metasploit | None | https://github.com/msm14800/metasploit | ['metasploit module OR payload'] | 1 | 2022-06-29 08:05:58+00:00 | 8 | 1 | Shell | 0 | [] |
 | Itsisspritzyyy/SpritzSploit | go away >:( | https://github.com/Itsisspritzyyy/SpritzSploit | ['sploit'] | 1 | 2022-06-29 02:17:31+00:00 | 17 | 0 | Lua | 0 | [] |
 | Yu-20001/note-binary-exploitation | None | https://github.com/Yu-20001/note-binary-exploitation | ['exploit'] | 1 | 2022-06-29 09:58:46+00:00 | 20 | 0 | | 0 | [] |
 | lele8/CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-06-29 05:07:31+00:00 | 88 | 2 | Python | 0 | ['CVE-2020-1472'] |
@@ -35,11 +37,12 @@
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-06-29 00:08:27+00:00 | 35135 | 478 | C++ | 108 | [] |
 | re7urn0/Linux-Exploit-Development-Learning | None | https://github.com/re7urn0/Linux-Exploit-Development-Learning | ['exploit'] | 1 | 2022-06-29 14:36:45+00:00 | 57 | 0 | | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-06-29 00:44:41+00:00 | 1623 | 8 | Rust | 1 | [] |
-| AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning | Inasive ductal carcinoma (IDC) is - with ~ 80 % of cases - one of the most common types of breast cancer. It's malicious and able to form metastases which makes it especially dangerous. Often a biopsy is done to remove small tissue samples. Then a patholog | https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning | ['exploit'] | 1 | 2022-06-29 15:56:35+00:00 | 4296 | 0 | Jupyter Notebook | 0 | [] |
-| soezayzay/SoulExploit | None | https://github.com/soezayzay/SoulExploit | ['exploit'] | 1 | 2022-06-29 06:50:33+00:00 | 0 | 0 | PHP | 0 | [] |
-| msm14800/metasploit | None | https://github.com/msm14800/metasploit | ['metasploit module OR payload'] | 1 | 2022-06-29 08:05:58+00:00 | 8 | 1 | Shell | 0 | [] |
-| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-06-29 14:39:04+00:00 | 19701 | 620 | Ruby | 151 | [] |
+| trhacknon/CVE-2021-25003 | None | https://github.com/trhacknon/CVE-2021-25003 | ['cve-2 OR cve_2'] | 1 | 2022-06-29 06:52:23+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-25003'] |
 | zombieaattak2009/Prison-Life-GUI | My first exploit script, hope u enjoy and use it. | https://github.com/zombieaattak2009/Prison-Life-GUI | ['exploit'] | 1 | 2022-06-29 08:52:45+00:00 | 134 | 0 | Lua | 0 | [] |
+| EnderLuca41/discordia-exploiter | Discordia is program created for pentesters to exploit Discord Bot Tokens. | https://github.com/EnderLuca41/discordia-exploiter | ['exploit'] | 1 | 2022-06-29 08:55:48+00:00 | 5 | 0 | C# | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-06-29 14:01:40+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | ['exploit'] | 1 | 2022-06-29 23:47:36+00:00 | 0 | 0 | | 0 | [] |
+| trhacknon/Shellcodes2 | None | https://github.com/trhacknon/Shellcodes2 | ['shellcode'] | 1 | 2022-06-29 21:22:07+00:00 | 0 | 0 | | 0 | [] |
 | trhacknon/shellcodes | None | https://github.com/trhacknon/shellcodes | ['shellcode'] | 1 | 2022-06-29 21:17:21+00:00 | 0 | 0 | | 0 | [] |
 | trhacknon/Shellcode-Loader | None | https://github.com/trhacknon/Shellcode-Loader | ['shellcode'] | 1 | 2022-06-29 21:35:51+00:00 | 0 | 0 | C++ | 0 | [] |
 | Taiwing/rainfall | 42 project: rainfall ctf about binary exploitation | https://github.com/Taiwing/rainfall | ['exploit'] | 1 | 2022-06-29 20:55:07+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -52,8 +55,8 @@
 | blueudp/backvenom | multi-purpose Red Team Assessment access and exploitation framework for exploitation C2, backdooring and defense mechanism evasion purposes on restricted enviroments | https://github.com/blueudp/backvenom | ['exploit'] | 1 | 2022-06-29 18:25:31+00:00 | 66 | 0 | Python | 0 | [] |
 | anubhavde/metasploit_framework_notes | These are a collection of some materials I found on the internet from various websites that can be helpful for learning Metasploit Framework for my own need. | https://github.com/anubhavde/metasploit_framework_notes | ['metasploit module OR payload'] | 1 | 2022-06-29 15:47:14+00:00 | 0 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-06-29 14:02:31+00:00 | 1 | 0 | | 0 | [] |
-| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-06-29 14:01:40+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-1 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-1 | ['exploit'] | 1 | 2022-06-29 14:00:48+00:00 | 1 | 0 | | 0 | [] |
+| 1xR1FAT/Exploitaion-Scripts | Exploitaion Scripts | https://github.com/1xR1FAT/Exploitaion-Scripts | ['exploit'] | 1 | 2022-06-29 08:05:42+00:00 | 0 | 0 | | 0 | [] |
 | WanShannn/Exploit-SSH | None | https://github.com/WanShannn/Exploit-SSH | ['exploit'] | 1 | 2022-06-29 13:53:10+00:00 | 0 | 0 | | 0 | [] |
 | DevDotStudio/Phone-Book-HTB-C-Sharp | A solution to HTB Challenge phone book using brute force. | https://github.com/DevDotStudio/Phone-Book-HTB-C-Sharp | ['exploit'] | 1 | 2022-06-29 13:38:13+00:00 | 0 | 0 | C# | 0 | [] |
 | Gurguii/Kubelet-unauthenticated-RCE-exploit | The script allows enumerating vulnerable containers(url's) or executing remote code(unauth). | https://github.com/Gurguii/Kubelet-unauthenticated-RCE-exploit | ['exploit', 'rce'] | 2 | 2022-06-29 13:22:34+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -68,11 +71,10 @@
 | Gammaeater/exploit-hosting | exploit hosting | https://github.com/Gammaeater/exploit-hosting | ['exploit'] | 1 | 2022-06-29 08:34:24+00:00 | 1 | 0 | | 0 | [] |
 | Vbedtt54e5/interesting-release-of-CVE-2022-63432 | $$$$$$$$$$$$$$$ | https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432 | ['cve-2 OR cve_2'] | 1 | 2022-06-29 08:31:20+00:00 | 25251 | 0 | | 0 | ['CVE-2022-63432'] |
 | shellcoder123/shellcoder123 | Config files for my GitHub profile. | https://github.com/shellcoder123/shellcoder123 | ['shellcode'] | 1 | 2022-06-29 08:26:58+00:00 | 0 | 0 | | 0 | [] |
-| 1xR1FAT/Exploitaion-Scripts | Exploitaion Scripts | https://github.com/1xR1FAT/Exploitaion-Scripts | ['exploit'] | 1 | 2022-06-29 08:05:42+00:00 | 0 | 0 | | 0 | [] |
-| EnderLuca41/discordia-exploiter | Discordia is program created for pentesters to exploit Discord Bot Tokens. | https://github.com/EnderLuca41/discordia-exploiter | ['exploit'] | 1 | 2022-06-29 08:55:48+00:00 | 5 | 0 | C# | 0 | [] |
+| AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning | Inasive ductal carcinoma (IDC) is - with ~ 80 % of cases - one of the most common types of breast cancer. It's malicious and able to form metastases which makes it especially dangerous. Often a biopsy is done to remove small tissue samples. Then a patholog | https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning | ['exploit'] | 1 | 2022-06-29 15:56:35+00:00 | 4296 | 0 | Jupyter Notebook | 0 | [] |
 | harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System | Cloud computing is currently considered the most cost-effective platform for offering business and consumer IT services over the Internet. However, it is prone to new vulnerabilities. A new type of attack, called an economic denial of sustainability (EDoS) | https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System | ['exploit'] | 1 | 2022-06-29 10:19:04+00:00 | 2272 | 0 | Jupyter Notebook | 0 | [] |
-| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-06-29 03:39:53+00:00 | 40 | 17 | | 5 | [] |
-| AeX03/eLys | 👾- An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | ['exploit'] | 1 | 2022-06-29 03:31:28+00:00 | 7413 | 6 | Python | 1 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2022-06-29 14:39:04+00:00 | 19701 | 620 | Ruby | 151 | [] |
+| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-06-29 23:40:10+00:00 | 352333 | 15 | Rust | 5 | [] |
 | dejvokep/safe-net | A lightweight protection from IP-forward bypass exploit for your network. | https://github.com/dejvokep/safe-net | ['exploit'] | 1 | 2022-06-29 19:41:53+00:00 | 299 | 2 | Java | 2 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-06-29 11:43:49+00:00 | 56301 | 28 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-29 02:03:44+00:00 | 634585 | 58 | | 22 | [] |
@@ -88,6 +90,7 @@
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-06-29 15:06:08+00:00 | 1574835 | 4429 | PowerShell | 1567 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-29 02:31:24+00:00 | 318928 | 172 | REXX | 18 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-06-29 14:32:31+00:00 | 167 | 0 | Shell | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-29 04:00:56+00:00 | 206319 | 443 | Python | 126 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-06-29 14:53:44+00:00 | 310837 | 103 | Python | 16 | [] |
 | EXtremeExploit/EXtremeExploit.github.io | None | https://github.com/EXtremeExploit/EXtremeExploit.github.io | ['exploit'] | 1 | 2022-06-29 00:55:30+00:00 | 5841 | 0 | HTML | 0 | [] |
 | mfthomps/CGC-Analysis | Cyber Grand Challenge Final Event analysis of exploited vulnerabilities and team defenses | https://github.com/mfthomps/CGC-Analysis | ['exploit'] | 1 | 2022-06-29 00:19:40+00:00 | 1091 | 5 | | 2 | [] |
@@ -103,9 +106,10 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-06-29 12:55:20+00:00 | 237099 | 7241 | C | 1918 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-06-29 14:48:39+00:00 | 3365 | 2711 | PowerShell | 762 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-29 11:24:58+00:00 | 991234 | 123 | | 28 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-29 04:00:56+00:00 | 206319 | 443 | Python | 126 | [] |
 | Juliocj7/MetasploitCj7 | 🔥 Instala Metasploit 6 correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MetasploitCj7 | ['metasploit module OR payload'] | 1 | 2022-06-29 18:48:57+00:00 | 37 | 19 | | 14 | [] |
+| killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-06-29 03:39:53+00:00 | 40 | 17 | | 5 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-06-29 15:41:46+00:00 | 76483 | 3099 | | 377 | [] |
+| AeX03/eLys | 👾- An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | ['exploit'] | 1 | 2022-06-29 03:31:28+00:00 | 7413 | 6 | Python | 1 | [] |
 | rexpository/reverseshell-powercat-v2 | Bypass antivirus and gain a reverse shell on Windows with Powercat v2 | https://github.com/rexpository/reverseshell-powercat-v2 | ['exploit'] | 1 | 2022-06-29 09:46:31+00:00 | 38 | 15 | PowerShell | 2 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-29 14:52:08+00:00 | 5157 | 557 | Hack | 58 | [] |
 | helloexp/0day | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | ['0day', 'exploit'] | 2 | 2022-06-29 07:42:01+00:00 | 381467 | 534 | C | 212 | [] |
@@ -134,4 +138,5 @@
 | SubhadipNag/My_Vulnerability_Exploits | None | https://github.com/SubhadipNag/My_Vulnerability_Exploits | ['exploit'] | 1 | 2022-06-29 13:51:55+00:00 | 12 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-29 02:12:50+00:00 | 22066 | 3 | Python | 1 | [] |
 | Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2022-06-29 08:57:52+00:00 | 1392 | 3 | Lua | 0 | [] |
-| trhacknon/Shellcodes2 | None | https://github.com/trhacknon/Shellcodes2 | ['shellcode'] | 1 | 2022-06-29 21:22:07+00:00 | 0 | 0 | | 0 | [] |
+| ikeohachidi/ikeoha | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | ['exploit'] | 1 | 2022-06-29 22:20:17+00:00 | 273 | 0 | Vue | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN.0 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.0 | ['exploit'] | 1 | 2022-06-29 23:48:25+00:00 | 0 | 0 | | 0 | [] |
