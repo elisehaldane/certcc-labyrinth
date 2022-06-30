@@ -1,7 +1,7 @@
 
 # Summary for results/2022/06/30
     
-24 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -14,17 +14,21 @@
 | Humilton/CVE202X | PoC for Android Projects | https://github.com/Humilton/CVE202X | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-06-30 02:01:20+00:00 | 4 | 0 | Makefile | 0 | [] |
 | tedgrubbs/Detect_Exploit_Project_Notes | Project notes for exploit detection project. | https://github.com/tedgrubbs/Detect_Exploit_Project_Notes | ['exploit'] | 1 | 2022-06-30 03:58:58+00:00 | 17 | 0 | | 0 | [] |
 | etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-06-30 03:05:39+00:00 | 35654 | 0 | C++ | 0 | [] |
+| RNPG/CVEs | A collection of proof-of-concept exploit scripts written by the team at RNPG for various CVEs. | https://github.com/RNPG/CVEs | ['exploit'] | 1 | 2022-06-30 05:07:26+00:00 | 5 | 0 | | 0 | [] |
 | edoardottt/awesome-hacker-search-engines | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2022-06-30 00:09:45+00:00 | 106 | 1609 | | 95 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-06-30 00:42:27+00:00 | 8706 | 3 | Go | 0 | [] |
 | li8u99/CVE-2022-26134 | Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134） | https://github.com/li8u99/CVE-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-06-30 01:07:17+00:00 | 6 | 3 | Python | 1 | ['CVE-2022-26134'] |
+| Serenalyw/PixelBot | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | ['exploit'] | 1 | 2022-06-30 05:43:04+00:00 | 993 | 1 | Lua | 2 | [] |
 | f1ammable/discerpo | Discord bot which helps with binary exploitation, written in discord.py | https://github.com/f1ammable/discerpo | ['exploit'] | 1 | 2022-06-30 00:10:09+00:00 | 185 | 0 | Python | 1 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-06-30 00:06:45+00:00 | 5179 | 655 | Hack | 67 | [] |
+| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-06-30 05:50:58+00:00 | 1910 | 0 | C | 0 | [] |
 | EvolvingSysadmin/Shellshock | This repository describes how to exploit the Bash Shellshock vulnerability. | https://github.com/EvolvingSysadmin/Shellshock | ['exploit', 'metasploit module OR payload'] | 2 | 2022-06-30 00:53:46+00:00 | 5 | 0 | | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-06-30 01:54:09+00:00 | 6692267 | 62 | Python | 9 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-06-30 02:14:02+00:00 | 2095 | 109 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-06-30 02:11:25+00:00 | 23603 | 3 | Python | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-06-30 04:00:56+00:00 | 210419 | 443 | Python | 126 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-06-30 02:04:17+00:00 | 645836 | 58 | | 22 | [] |
+| aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-06-30 04:56:18+00:00 | 388 | 16 | Python | 5 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-06-30 00:48:25+00:00 | 17980 | 42 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-06-30 02:31:27+00:00 | 318053 | 173 | REXX | 18 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-06-30 00:47:32+00:00 | 359974 | 15 | Rust | 5 | [] |
