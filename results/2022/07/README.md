@@ -1,14 +1,14 @@
 
 # Summary for results/2022/07
     
-130 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-01 04:36:46+00:00 | 762662 | 27630 | Ruby | 12354 | [] |
-| hatedpw/Exploitation | Red team scripts :D | https://github.com/hatedpw/Exploitation | ['exploit'] | 1 | 2022-07-01 10:46:44+00:00 | 1 | 0 | Python | 0 | [] |
+| OmadaDevel/microsoft-auth-exploit | None | https://github.com/OmadaDevel/microsoft-auth-exploit | ['exploit'] | 1 | 2022-07-01 15:07:31+00:00 | 11 | 2 | Python | 1 | [] |
 | iveresk/CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-07-01 09:02:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-29885'] |
-| Thickasa/roblox-exploit | skid fr fr | https://github.com/Thickasa/roblox-exploit | ['exploit'] | 1 | 2022-07-01 08:31:49+00:00 | 211 | 1 | | 0 | [] |
+| Thickasa/roblox-exploit | skid fr fr | https://github.com/Thickasa/roblox-exploit | ['exploit'] | 1 | 2022-07-02 01:10:58+00:00 | 1215 | 1 | | 0 | [] |
 | arealadmin/A47-HUB | A Roblox exploit hub currently in development. | https://github.com/arealadmin/A47-HUB | ['exploit'] | 1 | 2022-07-01 07:23:51+00:00 | 0 | 1 | Lua | 0 | [] |
 | iveresk/voip-caller | Simple 5060 port exploit that calls to a receiver device with pre-setuped phrase | https://github.com/iveresk/voip-caller | ['exploit'] | 1 | 2022-07-01 07:39:14+00:00 | 0 | 0 | | 0 | [] |
 | teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-01 07:29:18+00:00 | 1184 | 10 | Go | 2 | [] |
@@ -17,12 +17,12 @@
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..0 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..0 | ['exploit'] | 1 | 2022-07-01 00:14:53+00:00 | 1 | 0 | | 0 | [] |
 | whokilleddb/a-noobs-implant | A simple implant to run your Windows shellcode payloads | https://github.com/whokilleddb/a-noobs-implant | ['shellcode'] | 1 | 2022-07-01 10:39:25+00:00 | 386 | 0 | C++ | 0 | [] |
 | M507/CVE-2021-23017-PoC | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | https://github.com/M507/CVE-2021-23017-PoC | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2022-07-01 00:33:57+00:00 | 793 | 2 | Python | 0 | ['CVE-2021-23017'] |
-| zxc7528064/RCE- | RCE 利用工具整理 | https://github.com/zxc7528064/RCE- | ['rce'] | 1 | 2022-07-02 04:04:33+00:00 | 12 | 0 | nan | 0 | [] |
+| zxc7528064/RCE- | RCE 利用工具整理 | https://github.com/zxc7528064/RCE- | ['rce'] | 1 | 2022-07-01 01:57:48+00:00 | 2 | 0 | | 0 | [] |
 | Luchoane/CVE-2022-26134_conFLU | PoC for exploiting CVE-2022-26134 on Confluence | https://github.com/Luchoane/CVE-2022-26134_conFLU | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2022-07-01 18:41:15+00:00 | 9 | 0 | Python | 0 | ['CVE-2022-26134'] |
-| akincibor/SSRFexploit | Extract metadata with SSRF (Server-Side Request Forgery) | https://github.com/akincibor/SSRFexploit | ['rce'] | 1 | 2022-07-02 01:48:57+00:00 | 26 | 1 | nan | 0 | [] |
+| akincibor/SSRFexploit | Extract metadata with SSRF (Server-Side Request Forgery) | https://github.com/akincibor/SSRFexploit | ['rce'] | 1 | 2022-07-02 01:48:57+00:00 | 26 | 1 | | 0 | [] |
 | DrFluffery/ms-auth-exploit | trolling multi billion dollar corperations | https://github.com/DrFluffery/ms-auth-exploit | ['exploit'] | 1 | 2022-07-01 15:06:11+00:00 | 4 | 5 | Python | 1 | [] |
-| OmadaDevel/microsoft-auth-exploit | None | https://github.com/OmadaDevel/microsoft-auth-exploit | ['exploit'] | 1 | 2022-07-01 15:07:31+00:00 | 11 | 2 | Python | 1 | [] |
 | MastMind/PE-infector | Tool for inject shellcode into .exe binaries (x86 and x64) | https://github.com/MastMind/PE-infector | ['shellcode'] | 1 | 2022-07-01 08:08:54+00:00 | 8 | 16 | C | 5 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-01 08:32:49+00:00 | 35175 | 488 | C++ | 111 | [] |
 | mistakenchicken/gt7-extramenus | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | ['exploit'] | 1 | 2022-07-01 20:12:54+00:00 | 110 | 10 | Python | 5 | [] |
 | flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-07-01 10:09:49+00:00 | 2200 | 4 | Python | 0 | [] |
 | tijme/kernel-mii | Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551. | https://github.com/tijme/kernel-mii | ['exploit'] | 1 | 2022-07-01 19:02:25+00:00 | 475 | 52 | C | 16 | ['CVE-2021-21551'] |
@@ -36,9 +36,10 @@
 | NafaaHub/Soon-Games | Soon Exploit Games ! | https://github.com/NafaaHub/Soon-Games | ['exploit'] | 1 | 2022-07-01 21:42:51+00:00 | 0 | 0 | | 0 | [] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-07-02 00:54:24+00:00 | 148 | 1 | Python | 0 | [] |
 | DevXternal/CryT | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | ['exploit'] | 1 | 2022-07-01 20:28:06+00:00 | 265 | 0 | C# | 0 | [] |
+| rchars/RandSploit | Framework for python ad-hoc tools | https://github.com/rchars/RandSploit | ['sploit'] | 1 | 2022-07-01 00:51:23+00:00 | 58 | 0 | Python | 0 | [] |
 | yaswanth-sai39/SQL_INJECTION_VULNERABILITY_01 | Cyber security project , includes the SQL injection vulnerability process and command with proofs and reporting to the site or team about the vulnerability and prevention of vulnerability. | https://github.com/yaswanth-sai39/SQL_INJECTION_VULNERABILITY_01 | ['command injection'] | 1 | 2022-07-01 10:18:08+00:00 | 6124 | 0 | | 0 | [] |
+| hatedpw/Exploitation | Red team scripts :D | https://github.com/hatedpw/Exploitation | ['exploit'] | 1 | 2022-07-01 10:46:44+00:00 | 1 | 0 | Python | 0 | [] |
 | Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | None | https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | ['cve-2 OR cve_2'] | 1 | 2022-07-01 13:25:24+00:00 | 0 | 0 | C++ | 0 | ['CVE-2022-20130'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-07-01 13:21:01+00:00 | 21778 | 7398 | JavaScript | 1727 | [] |
 | FishnetProject/HatSploit-plugin | HatSploit vulnerability scanner plugin. | https://github.com/FishnetProject/HatSploit-plugin | ['sploit'] | 1 | 2022-07-01 13:30:20+00:00 | 0 | 0 | | 0 | [] |
 | iampbot/WindowsExploitsToRunAShareOn | Repo of C# and PowerShell Scripts for windows priv esc exploitation and enumeration | https://github.com/iampbot/WindowsExploitsToRunAShareOn | ['exploit'] | 1 | 2022-07-02 01:30:31+00:00 | 0 | 0 | | 0 | [] |
 | Apex-Incarna/the-learning-project | A central webpage for trying out code and tracking all of my learning exploits | https://github.com/Apex-Incarna/the-learning-project | ['exploit'] | 1 | 2022-07-02 01:18:22+00:00 | 364 | 0 | CSS | 0 | [] |
@@ -69,11 +70,12 @@
 | Expl0desploit/CVE-2021-44158 | ASUS router exploit | https://github.com/Expl0desploit/CVE-2021-44158 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-07-01 14:56:33+00:00 | 0 | 1 | | 0 | ['CVE-2021-44158'] |
 | Logan-Elliott/CVE-2018-6574-go-get-RCE | CVE-2018-6574: go get RCE PentesterLab | https://github.com/Logan-Elliott/CVE-2018-6574-go-get-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-07-01 14:58:19+00:00 | 0 | 0 | Go | 0 | ['CVE-2018-6574'] |
 | Amangupta1234/Apache-Struct-RCE-to-Test-bug-in-any-website-using-java-as-backend- | Apache-Struts-RCE for any web-application use apache struts or in backend Java Any web-application use apache struts or in backend Java. You can checkout there Vulnerability APACHE STRUTS RCE : You can check this vulnerability | https://github.com/Amangupta1234/Apache-Struct-RCE-to-Test-bug-in-any-website-using-java-as-backend- | ['rce'] | 1 | 2022-07-01 14:22:33+00:00 | 0 | 0 | | 0 | [] |
-| rchars/RandSploit | Framework for python ad-hoc tools | https://github.com/rchars/RandSploit | ['sploit'] | 1 | 2022-07-01 00:51:23+00:00 | 58 | 0 | Python | 0 | [] |
-| prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-01 11:25:36+00:00 | 2231 | 19 | Python | 5 | [] |
-| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-01 08:32:49+00:00 | 35175 | 488 | C++ | 111 | [] |
+| prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-02 02:02:21+00:00 | 2353 | 21 | Python | 6 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-07-01 19:34:59+00:00 | 63 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-07-02 07:38:29+00:00 | 21785 | 7401 | JavaScript | 1727 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-07-01 08:06:25+00:00 | 65095 | 1586 | Python | 311 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-01 11:25:53+00:00 | 1004389 | 123 | | 28 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-07-02 07:26:45+00:00 | 762 | 87 | Python | 13 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-07-01 05:23:40+00:00 | 109 | 0 | PHP | 0 | [] |
 | aeverj/NimShellCodeLoader | 使用nim编写的shellcode加载器 | https://github.com/aeverj/NimShellCodeLoader | ['shellcode'] | 1 | 2022-07-02 03:55:03+00:00 | 349 | 399 | C | 77 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-07-01 11:44:50+00:00 | 42359 | 28 | Python | 6 | [] |
@@ -86,10 +88,10 @@
 | bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2022-07-01 19:25:55+00:00 | 2258 | 401 | C | 112 | ['MS17-010'] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-07-01 15:16:58+00:00 | 881 | 292 | C | 17 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-01 00:48:26+00:00 | 19260 | 42 | | 21 | [] |
-| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2022-07-01 08:06:25+00:00 | 65095 | 1586 | Python | 311 | [] |
 | zoogie/Bannerbomb3 | 3DS Userland Exploit for System Settings | https://github.com/zoogie/Bannerbomb3 | ['exploit'] | 1 | 2022-07-01 12:04:08+00:00 | 101 | 86 | C | 6 | [] |
+| KernelPan1k/shellcoder | None | https://github.com/KernelPan1k/shellcoder | ['shellcode'] | 1 | 2022-07-01 19:22:09+00:00 | 957 | 0 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-07-01 14:06:53+00:00 | 1574929 | 4441 | PowerShell | 1572 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-02 02:35:22+00:00 | 324144 | 173 | REXX | 18 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-01 02:31:30+00:00 | 324031 | 173 | REXX | 18 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-07-02 02:04:50+00:00 | 362947 | 15 | Rust | 5 | [] |
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2022-07-01 17:04:44+00:00 | 654 | 14 | JavaScript | 33 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2022-07-01 07:32:37+00:00 | 310841 | 104 | Python | 16 | [] |
@@ -105,8 +107,7 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-01 04:01:43+00:00 | 224278 | 444 | Python | 126 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-07-01 13:54:48+00:00 | 23391 | 26 | Python | 10 | [] |
 | Juliocj7/MetasploitCj7 | 🔥 Instala Metasploit 6 correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MetasploitCj7 | ['metasploit module OR payload'] | 1 | 2022-07-02 01:46:24+00:00 | 37 | 19 | | 14 | [] |
-| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-01 05:59:46+00:00 | 76119 | 139 | Go | 31 | [] |
-| KernelPan1k/shellcoder | None | https://github.com/KernelPan1k/shellcoder | ['shellcode'] | 1 | 2022-07-01 19:22:09+00:00 | 957 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-02 02:07:01+00:00 | 22819 | 3 | Python | 1 | [] |
 | doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-07-01 09:09:22+00:00 | 2492 | 3 | Python | 0 | [] |
 | alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-07-01 12:57:48+00:00 | 39 | 0 | Lua | 0 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-07-01 13:12:36+00:00 | 5179 | 895 | Hack | 75 | [] |
@@ -115,13 +116,15 @@
 | Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-07-01 11:16:59+00:00 | 30 | 1 | | 0 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-01 00:08:32+00:00 | 360 | 22 | Shell | 7 | [] |
 | l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-07-01 03:26:40+00:00 | 2511 | 0 | C | 0 | [] |
+| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-07-02 07:30:55+00:00 | 37 | 0 | Nix | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-07-01 15:00:52+00:00 | 379803 | 1 | Python | 0 | [] |
 | Tsinghua-MARS-Lab/M2I | M2I is a simple but effective joint motion prediction framework through marginal and conditional predictions by exploiting the factorized relations between interacting agents. | https://github.com/Tsinghua-MARS-Lab/M2I | ['exploit'] | 1 | 2022-07-01 07:38:54+00:00 | 55237 | 70 | Python | 8 | [] |
+| savi-1311/bank-security | A Web Application to identify critical security misconfigurations, resulting in data breaches or high severity exploits such as remote code execution. It will be specifically designed to keep the Indian Banking sector in mind to follow the RBI and PCI comp | https://github.com/savi-1311/bank-security | ['exploit', 'remote code execution'] | 2 | 2022-07-02 07:42:48+00:00 | 5011 | 1 | JavaScript | 0 | [] |
 | jgamblin/EPSSNVD | Exploit Prediction Scoring System (EPSS) Data Enrichment | https://github.com/jgamblin/EPSSNVD | ['exploit'] | 1 | 2022-07-01 00:17:28+00:00 | 32 | 3 | Jupyter Notebook | 1 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-01 11:46:07+00:00 | 77974 | 3106 | | 378 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-01 05:59:46+00:00 | 76119 | 139 | Go | 31 | [] |
 | B4rC0d/Exploit_Finder | This is a Script for Exploit Search | https://github.com/B4rC0d/Exploit_Finder | ['exploit'] | 1 | 2022-07-01 11:51:49+00:00 | 51 | 6 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-02 02:07:01+00:00 | 22819 | 3 | Python | 1 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-02 00:36:33+00:00 | 178648 | 2 | Jupyter Notebook | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-01 00:35:42+00:00 | 175983 | 2 | Jupyter Notebook | 0 | [] |
 | AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2022-07-01 21:25:14+00:00 | 8255 | 0 | Lua | 0 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-07-01 02:03:43+00:00 | 68168 | 2 | Python | 7 | [] |
 | wimpomp/tiffwrite | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | ['exploit'] | 1 | 2022-07-01 08:32:30+00:00 | 34 | 0 | Python | 0 | [] |
