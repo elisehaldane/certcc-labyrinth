@@ -1,7 +1,7 @@
 
 # Summary for results/2022/07/02
     
-22 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
@@ -14,16 +14,22 @@
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | ['exploit'] | 1 | 2022-07-02 00:42:21+00:00 | 1 | 0 | | 0 | [] |
 | Thickasa/roblox-exploit | skid fr fr | https://github.com/Thickasa/roblox-exploit | ['exploit'] | 1 | 2022-07-02 01:10:58+00:00 | 1215 | 1 | | 0 | [] |
 | teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-02 01:11:54+00:00 | 1220 | 81 | Go | 5 | [] |
+| zxc7528064/RCE- | RCE 利用工具整理 | https://github.com/zxc7528064/RCE- | ['rce'] | 1 | 2022-07-02 04:04:33+00:00 | 12 | 0 | nan | 0 | [] |
 | akincibor/SSRFexploit | Extract metadata with SSRF (Server-Side Request Forgery) | https://github.com/akincibor/SSRFexploit | ['rce'] | 1 | 2022-07-02 01:48:57+00:00 | 26 | 1 | nan | 0 | [] |
 | mistakenchicken/gt7-extramenus | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | ['exploit'] | 1 | 2022-07-02 01:13:12+00:00 | 113 | 10 | Python | 5 | [] |
 | RandomUser-101/55xhax | Wii U browser exploits made for Firmware 5.5.1 | https://github.com/RandomUser-101/55xhax | ['exploit'] | 1 | 2022-07-02 00:55:30+00:00 | 88 | 0 | HTML | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-02 03:07:00+00:00 | 9008 | 8 | Go | 3 | [] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-07-02 00:54:24+00:00 | 148 | 1 | Python | 0 | [] |
 | prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-02 02:02:21+00:00 | 2353 | 21 | Python | 6 | [] |
+| DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-07-02 03:27:57+00:00 | 52 | 0 | | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-02 00:36:33+00:00 | 178648 | 2 | Jupyter Notebook | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-02 01:52:32+00:00 | 6728755 | 65 | Python | 9 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-02 02:09:23+00:00 | 2159 | 109 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-02 02:07:01+00:00 | 22819 | 3 | Python | 1 | [] |
 | Juliocj7/MetasploitCj7 | 🔥 Instala Metasploit 6 correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MetasploitCj7 | ['metasploit module OR payload'] | 1 | 2022-07-02 01:46:24+00:00 | 37 | 19 | | 14 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-02 04:00:57+00:00 | 224971 | 445 | Python | 127 | [] |
+| aeverj/NimShellCodeLoader | 使用nim编写的shellcode加载器 | https://github.com/aeverj/NimShellCodeLoader | ['shellcode'] | 1 | 2022-07-02 03:55:03+00:00 | 349 | 399 | C | 77 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-02 00:48:26+00:00 | 20306 | 42 | | 21 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-02 02:35:22+00:00 | 324144 | 173 | REXX | 18 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-07-02 02:04:50+00:00 | 362947 | 15 | Rust | 5 | [] |
 | DragonOFFC/JJSploit | Is a exploit for "Roblox" | https://github.com/DragonOFFC/JJSploit | ['exploit'] | 1 | 2022-07-02 01:45:07+00:00 | 0 | 0 | | 0 | [] |
