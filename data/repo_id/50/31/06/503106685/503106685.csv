@@ -117,8 +117,8 @@ repo_id,repo_full_name,file,file_sha1,match
 503106685,Karmaz95/crimson_lisp,tools/traitor-386,eaa87132fa0d5b1fd94670baa1d9ec73a4979bca,CVE-2021-3560
 503106685,Karmaz95/crimson_lisp,tools/traitor-386,eaa87132fa0d5b1fd94670baa1d9ec73a4979bca,CVE-2022-0847
 503106685,Karmaz95/crimson_lisp,tools/traitor-386,eaa87132fa0d5b1fd94670baa1d9ec73a4979bca,CVE-2021-4034
-503106685,Karmaz95/crimson_lisp,tools/lazagne,ec696daefc98f167983ac102f7fc417f021de1c8,VU#98
-503106685,Karmaz95/crimson_lisp,tools/lazagne,ec696daefc98f167983ac102f7fc417f021de1c8,VU#45
+503106685,Karmaz95/crimson_lisp,tools/lazagne64,ec696daefc98f167983ac102f7fc417f021de1c8,VU#98
+503106685,Karmaz95/crimson_lisp,tools/lazagne64,ec696daefc98f167983ac102f7fc417f021de1c8,VU#45
 503106685,Karmaz95/crimson_lisp,tools/nmap.tar,f45427131faf88bbcaf9137a5a4afb96433077ac,MS11-049
 503106685,Karmaz95/crimson_lisp,tools/nmap.tar,f45427131faf88bbcaf9137a5a4afb96433077ac,MS12-020
 503106685,Karmaz95/crimson_lisp,tools/nmap.tar,f45427131faf88bbcaf9137a5a4afb96433077ac,MS12-070
