@@ -1,12 +1,13 @@
 
 # Summary for results/2022/07
     
-114 records found after deduplication
+115 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-01 04:36:46+00:00 | 762662 | 27630 | Ruby | 12354 | [] |
-| Thickasa/roblox-exploit | skid fr fr | https://github.com/Thickasa/roblox-exploit | ['exploit'] | 1 | 2022-07-01 08:31:49+00:00 | 211 | 1 | | 0 | [] |
+| iveresk/CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-07-01 09:02:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-29885'] |
+| arealadmin/A47-HUB | A Roblox exploit hub currently in development. | https://github.com/arealadmin/A47-HUB | ['exploit'] | 1 | 2022-07-01 07:23:51+00:00 | 0 | 1 | Lua | 0 | [] |
 | iveresk/voip-caller | Simple 5060 port exploit that calls to a receiver device with pre-setuped phrase | https://github.com/iveresk/voip-caller | ['exploit'] | 1 | 2022-07-01 07:39:14+00:00 | 0 | 0 | | 0 | [] |
 | teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-01 07:29:18+00:00 | 1184 | 10 | Go | 2 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN..0 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..0 | ['exploit'] | 1 | 2022-07-01 00:16:22+00:00 | 1 | 1 | | 0 | [] |
@@ -31,11 +32,11 @@
 | DevXternal/CryT | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | ['exploit'] | 1 | 2022-07-01 20:28:06+00:00 | 265 | 0 | C# | 0 | [] |
 | rchars/RandSploit | Framework for python ad-hoc tools | https://github.com/rchars/RandSploit | ['sploit'] | 1 | 2022-07-01 00:51:23+00:00 | 58 | 0 | Python | 0 | [] |
 | prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-01 11:25:36+00:00 | 2231 | 19 | Python | 5 | [] |
-| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-01 08:32:49+00:00 | 35175 | 488 | C++ | 111 | [] |
-| arealadmin/A47-HUB | A Roblox exploit hub currently in development. | https://github.com/arealadmin/A47-HUB | ['exploit'] | 1 | 2022-07-01 07:23:51+00:00 | 0 | 1 | Lua | 0 | [] |
-| iveresk/CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-07-01 09:02:10+00:00 | 0 | 0 | | 0 | ['CVE-2022-29885'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-07-01 13:21:01+00:00 | 21778 | 7398 | JavaScript | 1727 | [] |
+| Thickasa/roblox-exploit | skid fr fr | https://github.com/Thickasa/roblox-exploit | ['exploit'] | 1 | 2022-07-01 08:31:49+00:00 | 211 | 1 | | 0 | [] |
 | yaswanth-sai39/SQL_INJECTION_VULNERABILITY_01 | Cyber security project , includes the SQL injection vulnerability process and command with proofs and reporting to the site or team about the vulnerability and prevention of vulnerability. | https://github.com/yaswanth-sai39/SQL_INJECTION_VULNERABILITY_01 | ['command injection'] | 1 | 2022-07-01 10:18:08+00:00 | 6124 | 0 | | 0 | [] |
+| DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-07-01 19:34:59+00:00 | 63 | 0 | Python | 0 | [] |
+| hatedpw/Exploitation | Red team scripts :D | https://github.com/hatedpw/Exploitation | ['exploit'] | 1 | 2022-07-01 10:46:44+00:00 | 1 | 0 | Python | 0 | [] |
+| Aymen1001/Ethernaut-solutions-brownie | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | ['exploit'] | 1 | 2022-07-01 21:44:54+00:00 | 0 | 0 | Solidity | 0 | [] |
 | kmeps4/900b | Exploit Host For 900 FW to Host GoldHEN Beta Releases | https://github.com/kmeps4/900b | ['exploit'] | 1 | 2022-07-01 21:28:43+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | sukaneka/PowerSploit | None | https://github.com/sukaneka/PowerSploit | ['sploit'] | 1 | 2022-07-01 20:52:54+00:00 | 0 | 0 | PowerShell | 0 | [] |
 | geekonamotorcycle/Test-SessionManager | Test to see if your Exchange server has been exploited using the session manager vulnerability | https://github.com/geekonamotorcycle/Test-SessionManager | ['exploit'] | 1 | 2022-07-01 20:40:58+00:00 | 2 | 0 | PowerShell | 0 | [] |
@@ -60,11 +61,10 @@
 | Amangupta1234/Apache-Struct-RCE-to-Test-bug-in-any-website-using-java-as-backend- | Apache-Struts-RCE for any web-application use apache struts or in backend Java Any web-application use apache struts or in backend Java. You can checkout there Vulnerability APACHE STRUTS RCE : You can check this vulnerability | https://github.com/Amangupta1234/Apache-Struct-RCE-to-Test-bug-in-any-website-using-java-as-backend- | ['rce'] | 1 | 2022-07-01 14:22:33+00:00 | 0 | 0 | | 0 | [] |
 | FishnetProject/HatSploit-plugin | HatSploit vulnerability scanner plugin. | https://github.com/FishnetProject/HatSploit-plugin | ['sploit'] | 1 | 2022-07-01 13:30:20+00:00 | 0 | 0 | | 0 | [] |
 | Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | None | https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | ['cve-2 OR cve_2'] | 1 | 2022-07-01 13:25:24+00:00 | 0 | 0 | C++ | 0 | ['CVE-2022-20130'] |
-| hatedpw/Exploitation | Red team scripts :D | https://github.com/hatedpw/Exploitation | ['exploit'] | 1 | 2022-07-01 10:46:44+00:00 | 1 | 0 | Python | 0 | [] |
-| DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-07-01 19:34:59+00:00 | 63 | 0 | Python | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-01 08:32:49+00:00 | 35175 | 488 | C++ | 111 | [] |
 | KernelPan1k/shellcoder | None | https://github.com/KernelPan1k/shellcoder | ['shellcode'] | 1 | 2022-07-01 19:22:09+00:00 | 957 | 0 | Python | 0 | [] |
-| doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-07-01 09:09:22+00:00 | 2492 | 3 | Python | 0 | [] |
-| alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-07-01 12:57:48+00:00 | 39 | 0 | Lua | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-07-01 13:21:01+00:00 | 21778 | 7398 | JavaScript | 1727 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-01 04:01:43+00:00 | 224278 | 444 | Python | 126 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-07-01 05:23:40+00:00 | 109 | 0 | PHP | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-07-01 11:44:50+00:00 | 42359 | 28 | Python | 6 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-07-01 02:03:42+00:00 | 627711 | 58 | | 22 | [] |
@@ -91,9 +91,10 @@
 | epsylon/xsser | Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. | https://github.com/epsylon/xsser | ['exploit'] | 1 | 2022-07-01 07:27:12+00:00 | 17716 | 753 | Python | 202 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-07-01 07:12:24+00:00 | 46246 | 871 | Python | 205 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-01 11:25:53+00:00 | 1004389 | 123 | | 28 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-01 04:01:43+00:00 | 224278 | 444 | Python | 126 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2022-07-01 13:54:48+00:00 | 23391 | 26 | Python | 10 | [] |
-| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-01 00:35:42+00:00 | 175983 | 2 | Jupyter Notebook | 0 | [] |
+| doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-07-01 09:09:22+00:00 | 2492 | 3 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-01 02:25:40+00:00 | 21523 | 3 | Python | 1 | [] |
+| alvindimas05/roblox-script | All of my roblox exploit scripts | https://github.com/alvindimas05/roblox-script | ['exploit'] | 1 | 2022-07-01 12:57:48+00:00 | 39 | 0 | Lua | 0 | [] |
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-07-01 13:12:36+00:00 | 5179 | 895 | Hack | 75 | [] |
 | luleoli/sand_exploit | Provide a initial test, in order to increase and scale information explorting activities | https://github.com/luleoli/sand_exploit | ['exploit'] | 1 | 2022-07-01 03:45:51+00:00 | 12 | 0 | HTML | 0 | [] |
 | Exploitables/Exploitables | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | ['exploit'] | 1 | 2022-07-01 11:16:59+00:00 | 30 | 1 | | 0 | [] |
@@ -105,8 +106,8 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-01 11:46:07+00:00 | 77974 | 3106 | | 378 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-01 05:59:46+00:00 | 76119 | 139 | Go | 31 | [] |
 | B4rC0d/Exploit_Finder | This is a Script for Exploit Search | https://github.com/B4rC0d/Exploit_Finder | ['exploit'] | 1 | 2022-07-01 11:51:49+00:00 | 51 | 6 | Python | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-01 00:35:42+00:00 | 175983 | 2 | Jupyter Notebook | 0 | [] |
 | AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2022-07-01 21:25:14+00:00 | 8255 | 0 | Lua | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-01 02:25:40+00:00 | 21523 | 3 | Python | 1 | [] |
 | accuknox/samples | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment | https://github.com/accuknox/samples | ['exploit'] | 1 | 2022-07-01 02:03:43+00:00 | 68168 | 2 | Python | 7 | [] |
 | wimpomp/tiffwrite | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | ['exploit'] | 1 | 2022-07-01 08:32:30+00:00 | 34 | 0 | Python | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-07-01 18:10:49+00:00 | 8469 | 13 | HTML | 5 | [] |
@@ -118,4 +119,4 @@
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2022-07-01 05:49:43+00:00 | 4772 | 34 | Python | 4 | [] |
 | gister9000/python-exploit-skeletons | Cloud backup of exploitation scripts for recycling. | https://github.com/gister9000/python-exploit-skeletons | ['exploit'] | 1 | 2022-07-01 12:46:00+00:00 | 45 | 0 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-01 02:30:11+00:00 | 2159 | 109 | HTML | 26 | [] |
-| Aymen1001/Ethernaut-solutions-brownie | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | ['exploit'] | 1 | 2022-07-01 21:44:54+00:00 | 0 | 0 | Solidity | 0 | [] |
+| leontvs/rshall | Source code for the rshall remote execution utility | https://github.com/leontvs/rshall | ['remote code execution'] | 1 | 2022-07-01 22:42:26+00:00 | 17 | 0 | Perl | 0 | [] |
