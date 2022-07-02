@@ -1,13 +1,13 @@
 
 # Summary for results/2022/07/02
     
-54 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-07-02 07:38:29+00:00 | 21785 | 7401 | JavaScript | 1727 | [] |
-| teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-02 01:11:54+00:00 | 1220 | 81 | Go | 5 | [] |
-| Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-07-02 00:54:24+00:00 | 148 | 1 | Python | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | ['exploit'] | 1 | 2022-07-02 00:42:21+00:00 | 1 | 0 | | 0 | [] |
+| D4nk0St0rM/ethical_hacking | Ethical Hacking & PenTesting Repo method, approach, resources, tools, code, exploits, reporting, wordlists, attacks, scanning | https://github.com/D4nk0St0rM/ethical_hacking | ['exploit'] | 1 | 2022-07-02 13:29:15+00:00 | 36144 | 1 | Python | 1 | [] |
 | Karmaz95/crimson_lisp | Linux Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_lisp | ['exploit'] | 1 | 2022-07-02 08:47:37+00:00 | 70764 | 8 | Shell | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-02 03:07:00+00:00 | 9008 | 8 | Go | 3 | [] |
 | Karmaz95/crimson_wisp | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | ['exploit'] | 1 | 2022-07-02 05:05:45+00:00 | 41089 | 2 | PowerShell | 1 | [] |
@@ -18,10 +18,10 @@
 | TobyG74/StumbleGuys-Exploit | None | https://github.com/TobyG74/StumbleGuys-Exploit | ['exploit'] | 1 | 2022-07-02 11:34:52+00:00 | 63 | 6 | JavaScript | 3 | [] |
 | akincibor/SSRFexploit | Extract metadata with SSRF (Server-Side Request Forgery) | https://github.com/akincibor/SSRFexploit | ['rce'] | 1 | 2022-07-02 01:48:57+00:00 | 26 | 1 | | 0 | [] |
 | zxc7528064/RCE- | RCE 利用工具整理 | https://github.com/zxc7528064/RCE- | ['rce'] | 1 | 2022-07-02 04:04:33+00:00 | 12 | 0 | | 0 | [] |
+| teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-02 01:11:54+00:00 | 1220 | 81 | Go | 5 | [] |
 | Thickasa/roblox-exploit | skid fr fr | https://github.com/Thickasa/roblox-exploit | ['exploit'] | 1 | 2022-07-02 01:10:58+00:00 | 1215 | 1 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-07-02 05:04:58+00:00 | 237099 | 7242 | C | 1919 | [] |
-| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | ['exploit'] | 1 | 2022-07-02 00:42:21+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN..1 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..1 | ['exploit'] | 1 | 2022-07-02 00:43:21+00:00 | 1 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-07-02 05:04:58+00:00 | 237099 | 7242 | C | 1919 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN..1 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..1 | ['exploit'] | 1 | 2022-07-02 00:44:11+00:00 | 1 | 0 | | 0 | [] |
 | Apex-Incarna/the-learning-project | A central webpage for trying out code and tracking all of my learning exploits | https://github.com/Apex-Incarna/the-learning-project | ['exploit'] | 1 | 2022-07-02 01:18:22+00:00 | 364 | 0 | CSS | 0 | [] |
 | iampbot/WindowsExploitsToRunAShareOn | Repo of C# and PowerShell Scripts for windows priv esc exploitation and enumeration | https://github.com/iampbot/WindowsExploitsToRunAShareOn | ['exploit'] | 1 | 2022-07-02 01:30:31+00:00 | 0 | 0 | | 0 | [] |
@@ -31,10 +31,14 @@
 | zzzuhaibmohd/defiHacks_via_Hardhat | In this repository, I try to perform a mainnet fork and then simulate popular smart contract exploits on various DEFI Protocols using Hardhat Framework. | https://github.com/zzzuhaibmohd/defiHacks_via_Hardhat | ['exploit'] | 1 | 2022-07-02 09:31:33+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | pankajkcodes/gurukul_app_main | SHELLCODE GURUKUL REMINDER APP | https://github.com/pankajkcodes/gurukul_app_main | ['shellcode'] | 1 | 2022-07-02 09:49:51+00:00 | 1643 | 0 | Dart | 0 | [] |
 | HeySkidee/Discord-Text-Exploit | None | https://github.com/HeySkidee/Discord-Text-Exploit | ['exploit'] | 1 | 2022-07-02 10:50:43+00:00 | 0 | 0 | | 0 | [] |
+| hack-parthsharma/Ofbiz-Exploit | None | https://github.com/hack-parthsharma/Ofbiz-Exploit | ['exploit'] | 1 | 2022-07-02 11:26:13+00:00 | 0 | 0 | Shell | 0 | [] |
+| macilin/CVE-2021-21300 | None | https://github.com/macilin/CVE-2021-21300 | ['cve-2 OR cve_2'] | 1 | 2022-07-02 12:19:22+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-21300'] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN..2 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..2 | ['exploit'] | 1 | 2022-07-02 13:28:09+00:00 | 0 | 0 | | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN..2 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..2 | ['exploit'] | 1 | 2022-07-02 13:28:56+00:00 | 0 | 0 | | 0 | [] |
+| Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-07-02 00:54:24+00:00 | 148 | 1 | Python | 0 | [] |
 | prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-02 02:02:21+00:00 | 2353 | 21 | Python | 6 | [] |
+| DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-07-02 11:48:52+00:00 | 64 | 0 | Python | 0 | [] |
 | DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-07-02 03:27:57+00:00 | 52 | 0 | | 0 | [] |
-| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-07-02 06:20:38+00:00 | 2591 | 0 | C | 0 | [] |
-| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-07-02 07:30:55+00:00 | 37 | 0 | Nix | 0 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-07-02 07:46:48+00:00 | 5860 | 3334 | Python | 702 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-07-02 10:52:41+00:00 | 1406 | 0 | Python | 11 | [] |
 | StarTux/Exploits | Detect common exploits | https://github.com/StarTux/Exploits | ['exploit'] | 1 | 2022-07-02 09:16:18+00:00 | 51 | 1 | Java | 0 | [] |
@@ -53,9 +57,13 @@
 | m3n0sd0n4ld/m3n0sd0n4ld.github.io | Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences. | https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io | ['exploit'] | 1 | 2022-07-02 11:14:42+00:00 | 55084 | 2 | | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-02 02:07:01+00:00 | 22819 | 3 | Python | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-02 02:09:23+00:00 | 2159 | 109 | HTML | 26 | [] |
+| cheezcharmer/chinese-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cheezcharmer/chinese-dictatorship | ['attack poc', 'exploit'] | 2 | 2022-07-02 13:01:54+00:00 | 924 | 31 | HTML | 8 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-02 01:52:32+00:00 | 6728755 | 65 | Python | 9 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-02 06:37:36+00:00 | 8701 | 3256 | TypeScript | 519 | [] |
+| PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2022-07-02 13:22:34+00:00 | 30 | 1 | | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-02 00:36:33+00:00 | 178648 | 2 | Jupyter Notebook | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-02 11:31:47+00:00 | 78679 | 3109 | | 378 | [] |
 | savi-1311/bank-security | A Web Application to identify critical security misconfigurations, resulting in data breaches or high severity exploits such as remote code execution. It will be specifically designed to keep the Indian Banking sector in mind to follow the RBI and PCI comp | https://github.com/savi-1311/bank-security | ['exploit', 'remote code execution'] | 2 | 2022-07-02 07:42:48+00:00 | 5011 | 1 | JavaScript | 0 | [] |
-| hack-parthsharma/Ofbiz-Exploit | None | https://github.com/hack-parthsharma/Ofbiz-Exploit | ['exploit'] | 1 | 2022-07-02 11:26:13+00:00 | 0 | 0 | Shell | 0 | [] |
+| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-07-02 07:30:55+00:00 | 37 | 0 | Nix | 0 | [] |
+| l1j9m4-0n1/Pwnable | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | ['exploit'] | 1 | 2022-07-02 06:20:38+00:00 | 2591 | 0 | C | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..2 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..2 | ['exploit'] | 1 | 2022-07-02 13:29:43+00:00 | 0 | 0 | | 0 | [] |
