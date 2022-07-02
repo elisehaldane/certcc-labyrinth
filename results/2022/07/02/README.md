@@ -1,12 +1,12 @@
 
 # Summary for results/2022/07/02
     
-28 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-07-02 05:04:58+00:00 | 237099 | 7242 | C | 1919 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-07-02 00:55:03+00:00 | 76422 | 11668 | Jupyter Notebook | 2009 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-02 00:28:22+00:00 | 56629 | 308 | Ruby | 89 | [] |
 | iampbot/WindowsExploitsToRunAShareOn | Repo of C# and PowerShell Scripts for windows priv esc exploitation and enumeration | https://github.com/iampbot/WindowsExploitsToRunAShareOn | ['exploit'] | 1 | 2022-07-02 01:30:31+00:00 | 0 | 0 | | 0 | [] |
 | Apex-Incarna/the-learning-project | A central webpage for trying out code and tracking all of my learning exploits | https://github.com/Apex-Incarna/the-learning-project | ['exploit'] | 1 | 2022-07-02 01:18:22+00:00 | 364 | 0 | CSS | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN..1 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..1 | ['exploit'] | 1 | 2022-07-02 00:44:11+00:00 | 1 | 0 | | 0 | [] |
@@ -18,6 +18,7 @@
 | akincibor/SSRFexploit | Extract metadata with SSRF (Server-Side Request Forgery) | https://github.com/akincibor/SSRFexploit | ['rce'] | 1 | 2022-07-02 01:48:57+00:00 | 26 | 1 | nan | 0 | [] |
 | mistakenchicken/gt7-extramenus | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | ['exploit'] | 1 | 2022-07-02 01:13:12+00:00 | 113 | 10 | Python | 5 | [] |
 | RandomUser-101/55xhax | Wii U browser exploits made for Firmware 5.5.1 | https://github.com/RandomUser-101/55xhax | ['exploit'] | 1 | 2022-07-02 00:55:30+00:00 | 88 | 0 | HTML | 0 | [] |
+| Karmaz95/crimson_wisp | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | ['exploit'] | 1 | 2022-07-02 05:05:45+00:00 | 41089 | 2 | PowerShell | 1 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-02 03:07:00+00:00 | 9008 | 8 | Go | 3 | [] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-07-02 00:54:24+00:00 | 148 | 1 | Python | 0 | [] |
 | prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-02 02:02:21+00:00 | 2353 | 21 | Python | 6 | [] |
@@ -32,4 +33,5 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-02 00:48:26+00:00 | 20306 | 42 | | 21 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-02 02:35:22+00:00 | 324144 | 173 | REXX | 18 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-07-02 02:04:50+00:00 | 362947 | 15 | Rust | 5 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-02 00:28:22+00:00 | 56629 | 308 | Ruby | 89 | [] |
 | DragonOFFC/JJSploit | Is a exploit for "Roblox" | https://github.com/DragonOFFC/JJSploit | ['exploit'] | 1 | 2022-07-02 01:45:07+00:00 | 0 | 0 | | 0 | [] |
