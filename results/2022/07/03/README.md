@@ -1,26 +1,29 @@
 
 # Summary for results/2022/07/03
     
-28 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-07-03 01:41:41+00:00 | 6243 | 4671 | Python | 596 | [] |
-| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-07-03 01:31:07+00:00 | 827 | 89 | Python | 43 | [] |
+| CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc', 'vulnerability poc'] | 2 | 2022-07-03 03:43:17+00:00 | 2183 | 16 | Python | 1 | [] |
 | Meeow103/SILENT-PDF-Exploit-EXE-TO-PDF | None | https://github.com/Meeow103/SILENT-PDF-Exploit-EXE-TO-PDF | ['exploit'] | 1 | 2022-07-03 01:12:38+00:00 | 1 | 1 | | 0 | [] |
 | Meeow103/XLL-Excel-Exploit | None | https://github.com/Meeow103/XLL-Excel-Exploit | ['exploit'] | 1 | 2022-07-03 01:11:14+00:00 | 1 | 1 | | 0 | [] |
 | paulomartinsdesena/BackDev | Labs, exploits, gambiarras e experiência | https://github.com/paulomartinsdesena/BackDev | ['exploit'] | 1 | 2022-07-03 01:28:50+00:00 | 2 | 0 | HTML | 0 | [] |
 | Meeow103/Silent-DOCX-Exploit-2022 | None | https://github.com/Meeow103/Silent-DOCX-Exploit-2022 | ['exploit'] | 1 | 2022-07-03 01:09:44+00:00 | 1 | 1 | | 0 | [] |
 | Pocm0n/Web-Coldfusion-Vulnerability-POC | nan | https://github.com/Pocm0n/Web-Coldfusion-Vulnerability-POC | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-03 00:32:45+00:00 | 11 | 1 | Python | 0 | [] |
 | Kob123678/KoSploit-v2 | nan | https://github.com/Kob123678/KoSploit-v2 | ['sploit'] | 1 | 2022-07-03 01:42:59+00:00 | 9186 | 0 | nan | 0 | [] |
+| andem20/web_exploits | None | https://github.com/andem20/web_exploits | ['exploit'] | 1 | 2022-07-03 04:56:56+00:00 | 42 | 0 | HTML | 0 | [] |
 | teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-03 03:47:05+00:00 | 1242 | 118 | Go | 7 | [] |
 | zxc7528064/RCE- | RCE 利用工具整理 | https://github.com/zxc7528064/RCE- | ['rce'] | 1 | 2022-07-03 03:12:59+00:00 | 25 | 1 | nan | 0 | [] |
 | flux10n/dirtycow | Dirty Cow exploit - CVE-2016-5195 | https://github.com/flux10n/dirtycow | ['exploit'] | 1 | 2022-07-03 00:45:37+00:00 | 4 | 1 | C | 0 | ['CVE-2016-5195'] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-03 03:03:12+00:00 | 8870 | 8 | Go | 3 | [] |
+| CYBERKINGSQUAD/Auto-Exploiter | None | https://github.com/CYBERKINGSQUAD/Auto-Exploiter | ['exploit'] | 1 | 2022-07-03 05:24:12+00:00 | 0 | 0 | Python | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-03 01:18:09+00:00 | 1623 | 8 | Rust | 1 | [] |
-| CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示对漏洞进行手工验证 | https://github.com/CLincat/vulcat | ['cve poc', 'vulnerability poc'] | 2 | 2022-07-03 03:43:17+00:00 | 2183 | 16 | Python | 1 | [] |
 | DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-07-03 02:17:23+00:00 | 55 | 0 | | 0 | [] |
+| hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-07-03 01:31:07+00:00 | 827 | 89 | Python | 43 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-03 01:13:16+00:00 | 406 | 0 | nan | 0 | [] |
+| bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-07-03 04:38:32+00:00 | 236 | 2 | Lua | 2 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-03 00:40:13+00:00 | 181298 | 2 | Jupyter Notebook | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-03 01:59:13+00:00 | 6733384 | 65 | Python | 9 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-03 02:19:01+00:00 | 2161 | 109 | HTML | 26 | [] |
