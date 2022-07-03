@@ -52,7 +52,6 @@ VU#78,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferover
 VU#78,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#78,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#78,0.02325581,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
-VU#78,0.02083333,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#78,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,503718685
 VU#78,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,502025687
 VU#78,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,501898439
@@ -98,6 +97,7 @@ VU#78,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#78,0.01923077,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#78,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#78,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
+VU#78,0.01754386,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#78,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#78,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#78,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
@@ -111,7 +111,7 @@ VU#78,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVInce
 VU#78,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#78,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#78,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#78,0.01041667,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#78,0.01010101,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#78,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#78,0.00943396,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#78,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
