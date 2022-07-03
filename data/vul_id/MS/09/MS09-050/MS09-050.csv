@@ -1,8 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS09-050,1.00000000,https://github.com/piotrbania/smb2_exploit_release_MS09-050,piotrbania/smb2_exploit_release_MS09-050,191332938
 MS09-050,1.00000000,https://github.com/opsxcq/exploit-MS09-050,opsxcq/exploit-MS09-050,85430889
-MS09-050,0.50000000,https://github.com/kashif-23/modified-public-exploits,kashif-23/modified-public-exploits,398943641
 MS09-050,0.50000000,https://github.com/ohnozzy/Exploit,ohnozzy/Exploit,50414017
+MS09-050,0.33333333,https://github.com/kashif-23/modified-public-exploits,kashif-23/modified-public-exploits,398943641
 MS09-050,0.25000000,https://github.com/Re4son/exploitdb-ng,Re4son/exploitdb-ng,401612600
 MS09-050,0.25000000,https://github.com/Re4son/exploitdb-ng,Re4son/exploitdb-ng,401549024
 MS09-050,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
@@ -164,6 +164,7 @@ MS09-050,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day
 MS09-050,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 MS09-050,0.00273973,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS09-050,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS09-050,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 MS09-050,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS09-050,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 MS09-050,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140

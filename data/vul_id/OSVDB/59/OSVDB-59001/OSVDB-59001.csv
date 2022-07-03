@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-59001,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+OSVDB-59001,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 OSVDB-59001,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-59001,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 OSVDB-59001,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
