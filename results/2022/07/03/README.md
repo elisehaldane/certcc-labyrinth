@@ -1,12 +1,12 @@
 
 # Summary for results/2022/07/03
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-07-03 07:23:27+00:00 | 5860 | 3335 | Python | 702 | [] |
-| Kob123678/KoSploit-v2 | nan | https://github.com/Kob123678/KoSploit-v2 | ['sploit'] | 1 | 2022-07-03 01:42:59+00:00 | 9186 | 0 | nan | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-03 12:32:09+00:00 | 763917 | 27647 | Ruby | 12354 | [] |
+| deathnote-framework/deathnote | Open source penetration framework | https://github.com/deathnote-framework/deathnote | ['shellcode'] | 1 | 2022-07-03 01:38:26+00:00 | 1 | 0 | | 0 | [] |
 | iampbot/WindowsExploitsToRunAShareOn | Repo of C# and PowerShell Scripts for windows priv esc exploitation and enumeration | https://github.com/iampbot/WindowsExploitsToRunAShareOn | ['exploit'] | 1 | 2022-07-03 18:38:46+00:00 | 329018 | 0 | PowerShell | 0 | [] |
 | andem20/web_exploits | None | https://github.com/andem20/web_exploits | ['exploit'] | 1 | 2022-07-03 04:56:56+00:00 | 42 | 0 | HTML | 0 | [] |
 | teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-03 03:47:05+00:00 | 1242 | 118 | Go | 7 | [] |
@@ -18,8 +18,8 @@
 | TobyG74/StumbleGuys-Exploit | None | https://github.com/TobyG74/StumbleGuys-Exploit | ['exploit'] | 1 | 2022-07-03 13:58:02+00:00 | 67 | 6 | JavaScript | 4 | [] |
 | MastMind/PE-infector | Crossplatform tool for inject shellcode into .exe binaries (x86 and x64) | https://github.com/MastMind/PE-infector | ['shellcode'] | 1 | 2022-07-03 14:12:38+00:00 | 13 | 16 | C | 5 | [] |
 | mistakenchicken/gt7-extramenus | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | ['exploit'] | 1 | 2022-07-03 17:17:10+00:00 | 113 | 10 | Python | 5 | [] |
-| deathnote-framework/deathnote | Open source penetration framework | https://github.com/deathnote-framework/deathnote | ['shellcode'] | 1 | 2022-07-03 01:38:26+00:00 | 1 | 0 | | 0 | [] |
 | flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-07-03 12:38:37+00:00 | 2201 | 4 | Python | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-07-03 07:23:27+00:00 | 5860 | 3335 | Python | 702 | [] |
 | bfmcneill/rce | reddit/pushshift api comment extraction CLI | https://github.com/bfmcneill/rce | ['rce'] | 1 | 2022-07-03 17:32:24+00:00 | 13 | 0 | Python | 0 | [] |
 | etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-07-03 16:59:37+00:00 | 35654 | 0 | C++ | 0 | [] |
 | alirazamumtaz/assembly-programming | This is the repo for some assembly programms that I have written to learn reverse engineering and binary exploitation. | https://github.com/alirazamumtaz/assembly-programming | ['exploit'] | 1 | 2022-07-03 20:34:57+00:00 | 1 | 0 | | 0 | [] |
@@ -30,10 +30,11 @@
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-07-03 09:11:23+00:00 | 150 | 1 | Python | 0 | [] |
 | CYBERKINGSQUAD/Auto-Exploiter | None | https://github.com/CYBERKINGSQUAD/Auto-Exploiter | ['exploit'] | 1 | 2022-07-03 05:24:12+00:00 | 0 | 0 | Python | 0 | [] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-07-03 23:40:28+00:00 | 286 | 0 | | 0 | [] |
+| u21h2/nacs | 事件驱动的渗透测试扫描器 Event-driven pentest scanner | https://github.com/u21h2/nacs | ['exploit'] | 1 | 2022-07-03 15:19:30+00:00 | 17896 | 63 | Go | 11 | [] |
 | WanShannn/Exploit-vsftpd | None | https://github.com/WanShannn/Exploit-vsftpd | ['exploit'] | 1 | 2022-07-03 10:45:36+00:00 | 1708 | 0 | | 0 | [] |
+| Kob123678/KoSploit-v2 | nan | https://github.com/Kob123678/KoSploit-v2 | ['sploit'] | 1 | 2022-07-03 01:42:59+00:00 | 9186 | 0 | nan | 0 | [] |
 | yuriisanin/CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2022-07-03 08:53:04+00:00 | 336 | 4 | Python | 1 | ['CVE-2022-24342'] |
-| prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-03 18:58:03+00:00 | 2358 | 21 | Python | 8 | [] |
-| Pocm0n/Web-Coldfusion-Vulnerability-POC | nan | https://github.com/Pocm0n/Web-Coldfusion-Vulnerability-POC | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-03 00:32:45+00:00 | 11 | 1 | Python | 0 | [] |
+| Pocm0n/Web-Coldfusion-Vulnerability-POC | None | https://github.com/Pocm0n/Web-Coldfusion-Vulnerability-POC | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-03 00:32:45+00:00 | 11 | 1 | Python | 0 | [] |
 | porousspore3484/RobloxExploit | None | https://github.com/porousspore3484/RobloxExploit | ['exploit'] | 1 | 2022-07-03 22:34:37+00:00 | 1 | 0 | | 0 | [] |
 | qxerey/Robux-Farm-v2 | ROBUX FARM V2 IS FINALLY OUT. Please make sure you have your antivirus turned off temporarily. (Real time scanning) Since this is a Roblox exploit, it gets falsely flagged as a virus due to the fact that it is an exploit. There are no real viruses in my ex | https://github.com/qxerey/Robux-Farm-v2 | ['exploit'] | 1 | 2022-07-03 23:33:19+00:00 | 39 | 0 | | 0 | [] |
 | antoinechauvn/antipublic-myrz-bypass | Exploit for Antipublic.one | https://github.com/antoinechauvn/antipublic-myrz-bypass | ['exploit'] | 1 | 2022-07-03 19:04:14+00:00 | 2 | 0 | | 0 | [] |
@@ -57,11 +58,10 @@
 | Meeow103/XLL-Excel-Exploit | None | https://github.com/Meeow103/XLL-Excel-Exploit | ['exploit'] | 1 | 2022-07-03 01:11:14+00:00 | 1 | 1 | | 0 | [] |
 | paulomartinsdesena/BackDev | Labs, exploits, gambiarras e experiência | https://github.com/paulomartinsdesena/BackDev | ['exploit'] | 1 | 2022-07-03 01:28:50+00:00 | 2 | 0 | HTML | 0 | [] |
 | Meeow103/Silent-DOCX-Exploit-2022 | None | https://github.com/Meeow103/Silent-DOCX-Exploit-2022 | ['exploit'] | 1 | 2022-07-03 01:09:44+00:00 | 1 | 1 | | 0 | [] |
-| u21h2/nacs | 事件驱动的渗透测试扫描器 Event-driven pentest scanner | https://github.com/u21h2/nacs | ['exploit'] | 1 | 2022-07-03 15:19:30+00:00 | 17896 | 63 | Go | 11 | [] |
+| prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-03 18:58:03+00:00 | 2358 | 21 | Python | 8 | [] |
 | Ghalbeyou/Http-Dos-Attack-Tool | A Http Easy Dos Attack Tool | https://github.com/Ghalbeyou/Http-Dos-Attack-Tool | ['exploit'] | 1 | 2022-07-03 08:32:05+00:00 | 7 | 1 | Python | 0 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-07-03 01:41:41+00:00 | 6243 | 4671 | Python | 596 | [] |
-| sogonsec/Clutching-Pearls-C2 | Clutching Pearls C2 is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/Clutching-Pearls-C2 | ['exploit'] | 1 | 2022-07-03 14:48:54+00:00 | 81 | 33 | C++ | 6 | [] |
-| reksar/cinject | Shellcode injection into Windows x64 process. | https://github.com/reksar/cinject | ['shellcode'] | 1 | 2022-07-03 17:08:39+00:00 | 34 | 0 | C++ | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-03 07:20:33+00:00 | 35196 | 493 | C++ | 114 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-07-03 12:53:46+00:00 | 229199 | 0 | JavaScript | 0 | [] |
 | m3n0sd0n4ld/m3n0sd0n4ld.github.io | Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences. | https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io | ['exploit'] | 1 | 2022-07-03 07:00:00+00:00 | 58446 | 2 | | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-03 04:00:58+00:00 | 229085 | 445 | Python | 127 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-07-03 09:10:16+00:00 | 762 | 87 | Python | 14 | [] |
@@ -84,11 +84,11 @@
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2022-07-03 01:31:07+00:00 | 827 | 89 | Python | 43 | [] |
 | StarTux/Exploits | Detect common exploits | https://github.com/StarTux/Exploits | ['exploit'] | 1 | 2022-07-03 15:48:00+00:00 | 52 | 1 | Java | 1 | [] |
 | unix-ninja/shellfire | Exploitation shell for exploiting LFI, RFI, and command injection vulnerabilities | https://github.com/unix-ninja/shellfire | ['command injection', 'exploit'] | 2 | 2022-07-03 20:57:04+00:00 | 19 | 108 | Python | 33 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-07-03 12:53:46+00:00 | 229199 | 0 | JavaScript | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-03 02:12:45+00:00 | 24311 | 3 | Python | 1 | [] |
-| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-03 07:20:33+00:00 | 35196 | 493 | C++ | 114 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-03 02:19:01+00:00 | 2161 | 109 | HTML | 26 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-07-03 01:41:41+00:00 | 6243 | 4671 | Python | 596 | [] |
+| reksar/cinject | Shellcode injection into Windows x64 process. | https://github.com/reksar/cinject | ['shellcode'] | 1 | 2022-07-03 17:08:39+00:00 | 34 | 0 | C++ | 0 | [] |
+| sogonsec/Clutching-Pearls-C2 | Clutching Pearls C2 is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/Clutching-Pearls-C2 | ['exploit'] | 1 | 2022-07-03 14:48:54+00:00 | 81 | 33 | C++ | 6 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-07-03 11:28:39+00:00 | 58 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-03 02:12:45+00:00 | 24311 | 3 | Python | 1 | [] |
 | ComparedArray/printix-CVE-2022-29552 | A "Incorrect Use of Privileged APIs" vulnerability in PrintixService.exe, in Kofax Printix's "Printix Secure Cloud Print Management", Version 1.3.1156.0 and below allows a Local Or Remote attacker the ability change any values within the LocalMachine\Softw | https://github.com/ComparedArray/printix-CVE-2022-29552 | ['cve-2 OR cve_2'] | 1 | 2022-07-03 14:26:52+00:00 | 2 | 0 | | 0 | ['CVE-2022-25089', 'CVE-2022-29552'] |
 | ComparedArray/printix-CVE-2022-29551 | [Reserved For CVE-2022-29551] | https://github.com/ComparedArray/printix-CVE-2022-29551 | ['cve-2 OR cve_2'] | 1 | 2022-07-03 13:52:51+00:00 | 1 | 0 | | 0 | ['CVE-2022-29551'] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-03 01:18:09+00:00 | 1623 | 8 | Rust | 1 | [] |
@@ -111,4 +111,5 @@
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-03 09:04:25+00:00 | 8701 | 3258 | TypeScript | 522 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-03 01:59:13+00:00 | 6733384 | 65 | Python | 9 | [] |
 | kashif-23/modified-public-exploits | contains exploits that are found publicly and then updated for specific systems or scenarios | https://github.com/kashif-23/modified-public-exploits | ['exploit'] | 1 | 2022-07-03 10:54:35+00:00 | 6 | 0 | Python | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-03 02:19:01+00:00 | 2161 | 109 | HTML | 26 | [] |
 | ExploitedWebsite/ExploitedWebsite.github.io | ReceptionDirections | https://github.com/ExploitedWebsite/ExploitedWebsite.github.io | ['exploit'] | 1 | 2022-07-03 23:24:09+00:00 | 0 | 0 | HTML | 0 | [] |
