@@ -1,0 +1,25 @@
+
+# Summary for results/2022/07/05
+    
+18 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-05 01:16:37+00:00 | 762740 | 27651 | Ruby | 12357 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-07-05 00:03:30+00:00 | 1534835 | 1648 | Python | 545 | [] |
+| arealadmin/A47HUB | Roblox Exploit Hub created by ADMlN47 | https://github.com/arealadmin/A47HUB | ['exploit'] | 1 | 2022-07-05 02:12:19+00:00 | 0 | 0 | | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN.0. | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.0. | ['exploit'] | 1 | 2022-07-05 00:03:05+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0. | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0. | ['exploit'] | 1 | 2022-07-05 00:01:23+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN.0. | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.0. | ['exploit'] | 1 | 2022-07-05 00:00:27+00:00 | 1 | 0 | | 0 | [] |
+| flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-07-05 00:19:47+00:00 | 2203 | 4 | Python | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-05 00:45:02+00:00 | 9388 | 8 | Go | 4 | [] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-07-05 01:29:14+00:00 | 85470 | 180 | Python | 33 | ['CVE-2022-23337', 'CVE-2022-26134'] |
+| prok3z/Wordpress-Exploits | Collection of Exploit, CVES(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-05 02:09:39+00:00 | 2389 | 25 | Python | 9 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-05 00:02:25+00:00 | 392 | 23 | Shell | 8 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-05 01:25:15+00:00 | 76202 | 144 | Go | 34 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-05 01:54:03+00:00 | 6809891 | 66 | Python | 9 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-05 02:13:45+00:00 | 2225 | 110 | HTML | 26 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-05 02:11:42+00:00 | 23728 | 3 | Python | 1 | [] |
+| victorwoo/extract-0day | Extract packages from 0daydown | https://github.com/victorwoo/extract-0day | ['0day'] | 1 | 2022-07-05 01:12:24+00:00 | 875 | 0 | PowerShell | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-05 00:24:59+00:00 | 58176 | 309 | Ruby | 89 | [] |
+| TheL1ghtVn/CVE-2022-30333-PoC | nan | https://github.com/TheL1ghtVn/CVE-2022-30333-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-07-05 02:23:41+00:00 | 0 | 0 | nan | 0 | ['CVE-2022-30333'] |
