@@ -1,12 +1,12 @@
 
 # Summary for results/2022/07/04
     
-128 records found after deduplication
+129 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-04 10:47:06+00:00 | 763917 | 27648 | Ruby | 12354 | [] |
-| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-04 08:15:31+00:00 | 166 | 2 | Python | 0 | [] |
+| NullBrunk/OSVDB-69562 | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/OSVDB-69562 | ['exploit'] | 1 | 2022-07-04 15:24:13+00:00 | 14 | 0 | Python | 0 | ['OSVDB-69562'] |
 | jbharucha05/CVE-2022-1388 | CVE-2022-1388, bypassing iControl REST authentication | https://github.com/jbharucha05/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-07-04 07:17:01+00:00 | 22 | 0 | Shell | 0 | ['CVE-2022-1388'] |
 | AgainstTheLight/CVE-2022-30929 | CVE-2022-30929 POC | https://github.com/AgainstTheLight/CVE-2022-30929 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-07-04 05:36:18+00:00 | 0 | 0 | | 0 | ['CVE-2022-30929'] |
 | TonightRanger/cve-2018-9995 | None | https://github.com/TonightRanger/cve-2018-9995 | ['cve-2 OR cve_2'] | 1 | 2022-07-04 05:10:43+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-9995'] |
@@ -69,9 +69,10 @@
 | MaxMady/Drunk-Farmer | A dank memer exploit | https://github.com/MaxMady/Drunk-Farmer | ['exploit'] | 1 | 2022-07-04 09:37:57+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Ziggy78/CVE-2022-26809-RCE | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE | ['cve-2 OR cve_2', 'metasploit module OR payload', 'rce'] | 3 | 2022-07-04 09:22:21+00:00 | 0 | 1 | Ruby | 1 | ['CVE-2022-26809'] |
 | ItsNee/Follina-CVE-2022-30190-POC | None | https://github.com/ItsNee/Follina-CVE-2022-30190-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-07-04 13:27:13+00:00 | 681 | 4 | HTML | 0 | ['CVE-2022-30190'] |
-| NullBrunk/OSVDB-69562 | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/OSVDB-69562 | ['exploit'] | 1 | 2022-07-04 15:24:13+00:00 | 14 | 0 | Python | 0 | ['OSVDB-69562'] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-07-04 00:06:12+00:00 | 294 | 0 | | 0 | [] |
-| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-07-04 05:35:07+00:00 | 360637 | 15 | Rust | 5 | [] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-04 08:15:31+00:00 | 166 | 2 | Python | 0 | [] |
+| rf-peixoto/black_veil | A simple crypter for python code. | https://github.com/rf-peixoto/black_veil | ['exploit'] | 1 | 2022-07-04 14:13:58+00:00 | 32 | 0 | Python | 0 | [] |
+| raheel0x01/CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | https://github.com/raheel0x01/CVE-2021-26855 | ['cve-2 OR cve_2'] | 1 | 2022-07-04 17:14:38+00:00 | 21 | 12 | Python | 8 | ['CVE-2021-26855'] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-07-04 23:33:48+00:00 | 109 | 0 | PHP | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2022-07-04 21:33:19+00:00 | 6992 | 1 | Java | 0 | [] |
 | enkomio/AlanFramework | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | ['exploit'] | 1 | 2022-07-04 07:51:29+00:00 | 3781 | 4 | JavaScript | 0 | [] |
@@ -85,8 +86,8 @@
 | gtworek/Priv2Admin | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | ['exploit'] | 1 | 2022-07-04 09:45:15+00:00 | 72 | 926 | | 156 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-07-04 15:37:34+00:00 | 1575021 | 4455 | PowerShell | 1576 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-04 02:31:37+00:00 | 324376 | 174 | REXX | 18 | [] |
+| YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-07-04 05:35:07+00:00 | 360637 | 15 | Rust | 5 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-07-04 09:08:52+00:00 | 88 | 160 | | 23 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-04 11:24:31+00:00 | 1008689 | 123 | | 27 | [] |
 | HackerOnTwoWheels/Exploits | Some exploits that i've built | https://github.com/HackerOnTwoWheels/Exploits | ['exploit'] | 1 | 2022-07-04 00:36:22+00:00 | 7 | 0 | Python | 0 | [] |
 | robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2022-07-04 11:31:23+00:00 | 158 | 3 | | 1 | ['CVE-2018-19788'] |
 | compilepeace/SHELLCODING_INTEL_x86-64 | Repository contains shellcodes made from scratch for intel x86-64 bit Architecture | https://github.com/compilepeace/SHELLCODING_INTEL_x86-64 | ['shellcode'] | 1 | 2022-07-04 01:05:48+00:00 | 59 | 5 | Assembly | 4 | [] |
@@ -100,9 +101,9 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-07-04 00:03:29+00:00 | 1534834 | 1647 | Python | 545 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2022-07-04 07:36:14+00:00 | 674387 | 11 | Python | 28 | [] |
 | Clutchisback1/GIT_THEM | Just a quick and dirty little script import all the github goodies I like to play with. | https://github.com/Clutchisback1/GIT_THEM | ['exploit'] | 1 | 2022-07-04 03:42:00+00:00 | 47 | 2 | Shell | 1 | [] |
-| raheel0x01/CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | https://github.com/raheel0x01/CVE-2021-26855 | ['cve-2 OR cve_2'] | 1 | 2022-07-04 17:14:38+00:00 | 21 | 12 | Python | 8 | ['CVE-2021-26855'] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-04 11:24:31+00:00 | 1008689 | 123 | | 27 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-04 04:00:58+00:00 | 233204 | 445 | Python | 128 | [] |
-| rf-peixoto/black_veil | A simple crypter for python code. | https://github.com/rf-peixoto/black_veil | ['exploit'] | 1 | 2022-07-04 14:13:58+00:00 | 32 | 0 | Python | 0 | [] |
+| reksar/cinject | Shellcode injection into Windows x64 process. | https://github.com/reksar/cinject | ['shellcode'] | 1 | 2022-07-04 20:00:34+00:00 | 40 | 0 | C++ | 0 | [] |
 | bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-07-04 02:56:54+00:00 | 250 | 2 | Lua | 2 | [] |
 | KIRILLUSHKA123/kihub_exploitscript | None | https://github.com/KIRILLUSHKA123/kihub_exploitscript | ['exploit'] | 1 | 2022-07-04 09:36:12+00:00 | 90 | 0 | Lua | 0 | [] |
 | prok3z/Wordpress-Exploits | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-04 12:37:12+00:00 | 2379 | 23 | Python | 8 | [] |
@@ -118,7 +119,7 @@
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-04 00:22:20+00:00 | 365 | 23 | Shell | 7 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-07-04 15:00:37+00:00 | 388879 | 1 | Python | 0 | [] |
 | TheonlyIcebear/Discord-Image-Logger | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | ['exploit'] | 1 | 2022-07-04 07:32:37+00:00 | 59 | 77 | Python | 49 | [] |
-| reksar/cinject | Shellcode injection into Windows x64 process. | https://github.com/reksar/cinject | ['shellcode'] | 1 | 2022-07-04 20:00:34+00:00 | 40 | 0 | C++ | 0 | [] |
+| Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2022-07-04 23:55:40+00:00 | 1974 | 0 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-04 11:41:19+00:00 | 80359 | 3115 | | 380 | [] |
 | apexmaniac/RECONeX | A Begineer ToolKit for Information Gathering , Man In The Middle & Exploitation | https://github.com/apexmaniac/RECONeX | ['exploit'] | 1 | 2022-07-04 08:58:11+00:00 | 48 | 0 | Python | 0 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-04 01:46:30+00:00 | 76119 | 143 | Go | 33 | [] |
