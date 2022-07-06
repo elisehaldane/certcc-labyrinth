@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-69239,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+BID-69239,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 BID-69239,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-69239,0.00005379,https://github.com/1oid/exploitsearch,1oid/exploitsearch,111814394
 BID-69239,0.00005357,https://github.com/R3K1NG/exploit-database,R3K1NG/exploit-database,107473902

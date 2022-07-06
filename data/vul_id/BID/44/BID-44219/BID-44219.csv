@@ -2,6 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-44219,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
 BID-44219,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 BID-44219,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
+BID-44219,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+BID-44219,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 BID-44219,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-44219,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
 BID-44219,0.00023759,https://github.com/iagox86/metasploit-framework-webexec,iagox86/metasploit-framework-webexec,153523335

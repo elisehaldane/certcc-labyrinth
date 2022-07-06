@@ -2,6 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#524332,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/darkweb_classification,488567745
 VU#524332,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
 VU#524332,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
+VU#524332,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+VU#524332,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#524332,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 VU#524332,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 VU#524332,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030

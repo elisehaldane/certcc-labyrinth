@@ -2,6 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-22883,0.00369004,https://github.com/metasploit/framework2,metasploit/framework2,23290150
 OSVDB-22883,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
 OSVDB-22883,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
+OSVDB-22883,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+OSVDB-22883,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 OSVDB-22883,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 OSVDB-22883,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 OSVDB-22883,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072

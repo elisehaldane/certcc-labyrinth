@@ -1,6 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-38111,0.00075988,https://github.com/pasanchamikara/metasploitable2_var,pasanchamikara/metasploitable2_var,91070442
 BID-38111,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
+BID-38111,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
+BID-38111,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 BID-38111,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-38111,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-38111,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
