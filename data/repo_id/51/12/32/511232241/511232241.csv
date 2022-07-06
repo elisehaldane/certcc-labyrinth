@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+511232241,infobyte/cve-2022-27255,README.md,885b95bef53015e7d28e969848ec7e8e4011afdc,CVE-2022-27255
+511232241,infobyte/cve-2022-27255,_GITHUB_REPO_METADATA_,,CVE-2022-27255
