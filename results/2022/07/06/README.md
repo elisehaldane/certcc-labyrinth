@@ -1,13 +1,15 @@
 
 # Summary for results/2022/07/06
     
-37 records found after deduplication
+44 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-06 01:11:43+00:00 | 762766 | 27657 | Ruby | 12359 | [] |
-| Threekiii/Awesome-Exploit | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | ['exploit', 'rce'] | 2 | 2022-07-06 01:59:33+00:00 | 148531 | 125 | C | 31 | [] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-06 02:38:57+00:00 | 167 | 2 | Python | 0 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-06 00:38:52+00:00 | 1627 | 8 | Rust | 1 | [] |
 | EvilLizard666/CVE-2022-1388 | CVE-2022-1388 Scanner | https://github.com/EvilLizard666/CVE-2022-1388 | ['cve-2 OR cve_2'] | 1 | 2022-07-06 00:56:28+00:00 | 10 | 0 | Python | 0 | ['CVE-2022-1388'] |
+| ErrorNoInternet/FollinaScanner | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/ErrorNoInternet/FollinaScanner | ['exploit'] | 1 | 2022-07-06 04:44:27+00:00 | 308 | 10 | Go | 4 | ['CVE-2022-30190'] |
 | Legoclones/pentesting-osTicket | Code, exploits, and tips for pentesting osTicket | https://github.com/Legoclones/pentesting-osTicket | ['exploit'] | 1 | 2022-07-06 02:20:40+00:00 | 158 | 1 | Python | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-06 00:51:11+00:00 | 9406 | 9 | Go | 4 | [] |
 | tgreer812/ProcessInjection | A collection of files for different process injection techniques as well as test DLL files and shellcode | https://github.com/tgreer812/ProcessInjection | ['shellcode'] | 1 | 2022-07-06 03:14:16+00:00 | 98381 | 1 | C++ | 0 | [] |
@@ -22,23 +24,28 @@
 | f4yd4-s3c/cve-2022-26134 | None | https://github.com/f4yd4-s3c/cve-2022-26134 | ['cve-2 OR cve_2'] | 1 | 2022-07-06 02:02:14+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | NitroA/PasteExploit | None | https://github.com/NitroA/PasteExploit | ['exploit'] | 1 | 2022-07-06 02:04:36+00:00 | 9 | 0 | Python | 0 | [] |
 | ongunt/Uncertainty-Aware-Portfolio-Management-using-Risk-Aware-Deep-Distributional-RL | Deploying a product that generates a portfolio fitting the user's risk appetite in investments without retraining by exploiting the estimated information from the risk sensitive agents using AWS | https://github.com/ongunt/Uncertainty-Aware-Portfolio-Management-using-Risk-Aware-Deep-Distributional-RL | ['exploit'] | 1 | 2022-07-06 03:06:40+00:00 | 0 | 0 | | 0 | [] |
-| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-06 00:38:52+00:00 | 1627 | 8 | Rust | 1 | [] |
-| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-06 00:12:26+00:00 | 448 | 23 | Shell | 8 | [] |
-| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-06 02:38:57+00:00 | 167 | 2 | Python | 0 | [] |
-| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-07-06 02:59:56+00:00 | 577465 | 813 | nan | 157 | [] |
+| hack-parthsharma/AutoMapSploit | nan | https://github.com/hack-parthsharma/AutoMapSploit | ['sploit'] | 1 | 2022-07-06 03:24:12+00:00 | 0 | 0 | Python | 0 | [] |
+| H1d3r/GPU_ShellCode | None | https://github.com/H1d3r/GPU_ShellCode | ['shellcode'] | 1 | 2022-07-06 04:15:29+00:00 | 268 | 0 | C | 0 | [] |
+| Threekiii/Awesome-Exploit | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | ['exploit', 'rce'] | 2 | 2022-07-06 01:59:33+00:00 | 148531 | 125 | C | 31 | [] |
+| GamerHack/GamerHack.github.io | All PS4 Exploits | https://github.com/GamerHack/GamerHack.github.io | ['exploit'] | 1 | 2022-07-06 05:15:46+00:00 | 13555 | 7 | JavaScript | 3 | [] |
+| DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-07-06 04:37:25+00:00 | 62 | 0 | | 0 | [] |
+| yqcs/ZheTian | ::ZheTian Powerful Anti Anti-Virus Trojan horse generator / 强大的免杀木马生成器。静态Bypass All. | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-07-06 03:37:57+00:00 | 16214 | 416 | Go | 87 | [] |
 | Clutchisback1/GIT_THEM | Just a quick and dirty little script import all the github goodies I like to play with. | https://github.com/Clutchisback1/GIT_THEM | ['exploit'] | 1 | 2022-07-06 00:27:51+00:00 | 58 | 2 | Shell | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-06 00:31:13+00:00 | 51988 | 309 | Ruby | 88 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-06 02:31:41+00:00 | 337162 | 175 | REXX | 18 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-06 00:48:30+00:00 | 10745 | 43 | | 21 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-06 04:00:57+00:00 | 226564 | 447 | Python | 128 | [] |
+| bigblackhat/oFx | 漏洞批量验证框架 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-06 05:45:04+00:00 | 9135 | 393 | Python | 88 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-06 02:23:35+00:00 | 21833 | 3 | Python | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-06 02:26:39+00:00 | 1256 | 112 | HTML | 26 | [] |
-| yqcs/ZheTian | ::ZheTian Powerful Anti Anti-Virus Trojan horse generator / 强大的免杀木马生成器。静态Bypass All. | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-07-06 03:37:57+00:00 | 16214 | 416 | Go | 87 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-06 04:06:56+00:00 | 6820156 | 67 | Python | 10 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-06 00:12:26+00:00 | 448 | 23 | Shell | 8 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-06 03:33:42+00:00 | 8702 | 3282 | TypeScript | 526 | [] |
 | hansmach1ne/MyExploits | Repo for discovered vulnerabilities/exploits | https://github.com/hansmach1ne/MyExploits | ['exploit'] | 1 | 2022-07-06 01:11:22+00:00 | 38 | 3 | Python | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-07-06 03:50:11+00:00 | 53617 | 888 | Python | 207 | [] |
 | thecyberneh/Log4j-RCE-Exploiter | Scanner for Log4j RCE CVE-2021-44228 | https://github.com/thecyberneh/Log4j-RCE-Exploiter | ['exploit', 'rce'] | 2 | 2022-07-06 00:37:55+00:00 | 51 | 7 | Shell | 4 | ['CVE-2021-44228'] |
 | Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-07-06 01:58:37+00:00 | 3197 | 1085 | Python | 183 | [] |
 | hotpotcookie/log4shell-white-box | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/log4shell-white-box | ['exploit'] | 1 | 2022-07-06 03:44:19+00:00 | 27841 | 1 | Java | 0 | ['CVE-2021-44228'] |
-| hack-parthsharma/AutoMapSploit | nan | https://github.com/hack-parthsharma/AutoMapSploit | ['sploit'] | 1 | 2022-07-06 03:24:12+00:00 | 0 | 0 | Python | 0 | [] |
+| Threekiii/Awesome-POC | 一个各类漏洞POC知识库 | https://github.com/Threekiii/Awesome-POC | ['vulnerability poc'] | 1 | 2022-07-06 05:45:13+00:00 | 708 | 196 | | 54 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-07-06 02:59:56+00:00 | 577465 | 813 | nan | 157 | [] |
+| z92g/CVE-2022-0543 | None | https://github.com/z92g/CVE-2022-0543 | ['cve-2 OR cve_2'] | 1 | 2022-07-06 05:30:07+00:00 | 9 | 0 | Go | 0 | ['CVE-2022-0543'] |
