@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-501054329,jaehnri/CVE-2021-44228,vulnerable-service/infra/Dockerfile,a15bcccf25c28e4f9ec6d0141aa877eca7d00dcb,CVE-2021-44228
 501054329,jaehnri/CVE-2021-44228,README.md,ad56592c2194df98097d80e171d5661fa4146bee,CVE-2021-44228
-501054329,jaehnri/CVE-2021-44228,vulnerable-service/settings.gradle,b90ba344c1d49de54cfdd491c6167a243dd0bb07,CVE-2021-44228
+501054329,jaehnri/CVE-2021-44228,MAC0352 _ EP4.pptx,ce3aa97e8451f60f3fec7e1fd478fb5311424da5,VU#26
 501054329,jaehnri/CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
