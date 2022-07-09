@@ -28,7 +28,7 @@ R3LI4NT/ctf-retos,Retos de Captura la bandera (CTF) resueltos.,https://github.co
 prok3z/Wordpress-Exploits,"Collection of Exploit, CVES(Unauthenticated) and Wordpress Scanners",https://github.com/prok3z/Wordpress-Exploits,['exploit'],1,2022-07-08T13:51:05+0000,2351,28,Python,9,[]
 Akebi-Group/Akebi-GC,The great software for some game that exploiting anime girls (and boys).,https://github.com/Akebi-Group/Akebi-GC,['exploit'],1,2022-07-08T12:05:51+0000,35771,523,C++,123,[]
 TitanVale/Titanium,"Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators.",https://github.com/TitanVale/Titanium,['exploit'],1,2022-07-08T14:41:32+0000,2883,7,Shell,1,[]
-aeyesec/CVE-2022-34265,None,https://github.com/aeyesec/CVE-2022-34265,['cve-2 OR cve_2'],1,2022-07-08T02:23:10+0000,29,17,Python,1,['CVE-2022-34265']
+aeyesec/CVE-2022-34265,None,https://github.com/aeyesec/CVE-2022-34265,"['cve poc', 'cve-2 OR cve_2']",2,2022-07-08T02:23:10+0000,29,17,Python,1,['CVE-2022-34265']
 brayancapet/pokedex,Exploitation de l'api https://pokeapi.co/ afin de trouver vos pokémon préférés ainsi que des informations sur eux.,https://github.com/brayancapet/pokedex,['exploit'],1,2022-07-08T15:05:17+0000,370,0,TypeScript,0,[]
 C4ssif3r/CSRF-exploit,CSRF exploit for exploiting sites with cross site request forgery [CSRF] </🪲>,https://github.com/C4ssif3r/CSRF-exploit,['exploit'],1,2022-07-08T04:58:40+0000,17,1,HTML,0,[]
 coskper-papa/CVE-2022-26134,confluence rce,https://github.com/coskper-papa/CVE-2022-26134,"['cve-2 OR cve_2', 'rce']",2,2022-07-08T12:31:07+0000,4,0,Python,0,['CVE-2022-26134']

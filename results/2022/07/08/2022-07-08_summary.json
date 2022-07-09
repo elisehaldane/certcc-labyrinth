@@ -12046,9 +12046,10 @@
     "owner_type":"Organization",
     "owner_site_admin":false,
     "matched_list":[
+      "cve poc",
       "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2022-34265"
     ]
@@ -14073,7 +14074,7 @@
     "organization":null,
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-07-08T13:57:43Z",
+    "matched_at":"2022-07-08T13:57:52Z",
     "template_repository":null,
     "owner_login":"coskper-papa",
     "owner_id":90187053,
@@ -14431,7 +14432,7 @@
     "organization":null,
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-07-08T13:57:43Z",
+    "matched_at":"2022-07-08T13:57:47Z",
     "template_repository":null,
     "owner_login":"Meowmycks",
     "owner_id":45502375,
