@@ -1,22 +1,23 @@
 
 # Summary for results/2022/07/09
     
-42 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-09 00:21:45+00:00 | 51991 | 311 | Ruby | 88 | [] |
-| NlukrcR2qI/dark-life-exploits | None | https://github.com/NlukrcR2qI/dark-life-exploits | ['exploit'] | 1 | 2022-07-09 03:54:56+00:00 | 5 | 0 | Lua | 0 | [] |
-| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-09 00:40:13+00:00 | 9237 | 10 | Go | 4 | [] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-09 09:38:12+00:00 | 170 | 2 | Python | 0 | [] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-07-09 07:35:51+00:00 | 85321 | 203 | Python | 37 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | shahnitav/HomeLab-Setup | HomeLab Setup with a Firewall, SIEM Solution, Exploitable machines and Attacker. | https://github.com/shahnitav/HomeLab-Setup | ['exploit'] | 1 | 2022-07-09 03:47:30+00:00 | 90 | 0 | | 0 | [] |
 | edoardottt/awesome-hacker-search-engines | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2022-07-09 06:44:31+00:00 | 305 | 2538 | | 151 | [] |
 | asivery/netmd-exploits | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | ['exploit'] | 1 | 2022-07-09 02:02:26+00:00 | 1647 | 2 | TypeScript | 2 | [] |
+| jontay999/binary-exploitation | None | https://github.com/jontay999/binary-exploitation | ['exploit'] | 1 | 2022-07-09 08:07:46+00:00 | 4924 | 0 | Python | 0 | [] |
 | Itsisspritzyyy/SpritzSploit | SpritzSploit | https://github.com/Itsisspritzyyy/SpritzSploit | ['sploit'] | 1 | 2022-07-09 02:34:21+00:00 | 15 | 0 | Lua | 0 | [] |
 | teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-09 03:22:27+00:00 | 1253 | 395 | Go | 27 | [] |
 | flux10n/Exploits-Magento | Magento Exploits | https://github.com/flux10n/Exploits-Magento | ['exploit'] | 1 | 2022-07-09 01:20:53+00:00 | 11 | 1 | PHP | 0 | [] |
 | AnonGreyHat/DarkExploit- | None | https://github.com/AnonGreyHat/DarkExploit- | ['exploit'] | 1 | 2022-07-09 05:29:53+00:00 | 47 | 1 | HTML | 0 | [] |
+| NlukrcR2qI/dark-life-exploits | None | https://github.com/NlukrcR2qI/dark-life-exploits | ['exploit'] | 1 | 2022-07-09 03:54:56+00:00 | 5 | 0 | Lua | 0 | [] |
 | aeyesec/CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-07-09 06:45:06+00:00 | 36 | 56 | Python | 4 | ['CVE-2022-34265'] |
-| Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-07-09 07:45:53+00:00 | 104 | 164 | | 25 | [] |
+| CopernicusPY/wget-root | This is a python script that exploits wget when being set with a SUID bit, and overwrites the root password. | https://github.com/CopernicusPY/wget-root | ['exploit'] | 1 | 2022-07-09 08:50:04+00:00 | 25 | 0 | Python | 0 | [] |
 | 0bfxgh0st/lfi2rce | Local File Inclusion To Remote Command Execution (PoC) | https://github.com/0bfxgh0st/lfi2rce | ['rce', 'rce poc'] | 2 | 2022-07-09 00:18:05+00:00 | 2 | 0 | Python | 0 | [] |
 | ChocoCrypt/Back2Bin | Back to binary exploitation | https://github.com/ChocoCrypt/Back2Bin | ['exploit'] | 1 | 2022-07-09 00:59:17+00:00 | 3 | 0 | Python | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN..2. | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..2. | ['exploit'] | 1 | 2022-07-09 00:49:37+00:00 | 1 | 0 | | 0 | [] |
@@ -25,10 +26,13 @@
 | ihategithub1234/exploitxhub | scripthub | https://github.com/ihategithub1234/exploitxhub | ['exploit'] | 1 | 2022-07-09 01:15:29+00:00 | 4 | 0 | | 0 | [] |
 | BartenderWinery/Discord-report | Report of all bugs, exploits, and hacks with dates, patch dates, and late updated. | https://github.com/BartenderWinery/Discord-report | ['exploit'] | 1 | 2022-07-09 02:11:34+00:00 | 0 | 0 | | 0 | [] |
 | appsecengineer/gh-actions-command-injection | nan | https://github.com/appsecengineer/gh-actions-command-injection | ['command injection'] | 1 | 2022-07-09 04:17:55+00:00 | 1 | 0 | JavaScript | 0 | [] |
-| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-07-09 07:35:51+00:00 | 85321 | 203 | Python | 37 | ['CVE-2022-23337', 'CVE-2022-26134'] |
+| iFreeDomain/CVE-2022-GE54JN-YH34E | None | https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E | ['cve-2 OR cve_2'] | 1 | 2022-07-09 05:47:50+00:00 | 0 | 0 | HTML | 0 | [] |
+| loneicewolf/ReverseEngineering | A repo I make for some of my friends who requested a beginner friendly repo that has examples; links and different methods to create; compile and execute shellcode in various languages. | https://github.com/loneicewolf/ReverseEngineering | ['shellcode'] | 1 | 2022-07-09 09:27:45+00:00 | 0 | 0 | nan | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-09 00:40:13+00:00 | 9237 | 10 | Go | 4 | [] |
+| DecryptedCC/MadcatExploit | Project [Madcat] still on test version | https://github.com/DecryptedCC/MadcatExploit | ['exploit'] | 1 | 2022-07-09 08:39:41+00:00 | 21448 | 0 | | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-09 00:21:45+00:00 | 51991 | 311 | Ruby | 88 | [] |
 | rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | IOT Forensics Thesis regarding Automation of Android apps exploiting UI Testing tools in order to collect huge data sets to analyze Wi-Fi traffic between android apps and IOT devices associated to them. Finally ML techniques are applied to estimate human b | https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | ['exploit'] | 1 | 2022-07-09 07:38:07+00:00 | 32 | 0 | Kotlin | 0 | [] |
-| hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-07-09 02:35:03+00:00 | 245 | 7 | Shell | 1 | [] |
-| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-09 07:27:30+00:00 | 478 | 23 | Shell | 9 | [] |
+| Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-07-09 07:45:53+00:00 | 104 | 164 | | 25 | [] |
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-07-09 03:53:32+00:00 | 361122 | 15 | Rust | 5 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-09 02:32:51+00:00 | 337484 | 176 | REXX | 19 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-09 00:48:31+00:00 | 14288 | 43 | | 21 | [] |
@@ -46,4 +50,7 @@
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-09 01:59:27+00:00 | 76202 | 164 | Go | 35 | [] |
 | zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-07-09 03:50:01+00:00 | 3577 | 544 | Go | 88 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-09 01:02:43+00:00 | 416 | 0 | | 0 | [] |
-| iFreeDomain/CVE-2022-GE54JN-YH34E | None | https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E | ['cve-2 OR cve_2'] | 1 | 2022-07-09 05:47:50+00:00 | 0 | 0 | HTML | 0 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-09 07:27:30+00:00 | 478 | 23 | Shell | 9 | [] |
+| hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-07-09 02:35:03+00:00 | 245 | 7 | Shell | 1 | [] |
+| Raz0r/semgrep-smart-contracts | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | ['exploit'] | 1 | 2022-07-09 09:17:02+00:00 | 278 | 281 | Solidity | 29 | [] |
+| 0kuto0fficial/Freecam_RBLX | A script for freecam on ROBLOX exploits | https://github.com/0kuto0fficial/Freecam_RBLX | ['exploit'] | 1 | 2022-07-09 09:31:25+00:00 | 0 | 0 | | 0 | [] |
