@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS15-015,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS15-015,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
-MS15-015,0.01408451,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
+MS15-015,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 MS15-015,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
 MS15-015,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
 MS15-015,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
