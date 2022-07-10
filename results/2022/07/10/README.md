@@ -1,12 +1,13 @@
 
 # Summary for results/2022/07/10
     
-49 records found after deduplication
+57 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-10 07:50:53+00:00 | 172 | 2 | Python | 0 | [] |
-| kovart/forta-attack-simulation | 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | ['exploit'] | 1 | 2022-07-10 08:57:45+00:00 | 529 | 0 | TypeScript | 0 | [] |
+| teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-10 11:17:01+00:00 | 1254 | 409 | Go | 31 | [] |
+| FrancescoMarchiori/CVE-2021-3156 | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-07-10 08:52:44+00:00 | 3680 | 3 | C | 0 | ['CVE-2021-3156'] |
 | steamsg02/Exploit_Reports | None | https://github.com/steamsg02/Exploit_Reports | ['exploit'] | 1 | 2022-07-10 06:36:12+00:00 | 3 | 0 | | 0 | [] |
 | appsecengineer/gh-actions-command-injection | None | https://github.com/appsecengineer/gh-actions-command-injection | ['command injection'] | 1 | 2022-07-10 01:41:09+00:00 | 2 | 0 | JavaScript | 0 | [] |
 | razzor-codes/Web3-Graveyard | Graveyard of past Web3 exploits | https://github.com/razzor-codes/Web3-Graveyard | ['exploit'] | 1 | 2022-07-10 08:03:57+00:00 | 185 | 0 | Solidity | 0 | [] |
@@ -28,7 +29,10 @@
 | Exploitables/Fortknox-Firewall-DoS | Information disclosure exploit in Fortknox Firewall 9.0.305. This appears to be a zero day? | https://github.com/Exploitables/Fortknox-Firewall-DoS | ['exploit'] | 1 | 2022-07-10 04:35:02+00:00 | 7 | 0 | C | 0 | [] |
 | FlamePlusScript/PrisonLifeExploits | Exploits for the Roblox game prison life | https://github.com/FlamePlusScript/PrisonLifeExploits | ['exploit'] | 1 | 2022-07-10 04:43:20+00:00 | 247 | 0 | | 0 | [] |
 | bero684/exploit | None | https://github.com/bero684/exploit | ['exploit'] | 1 | 2022-07-10 07:22:12+00:00 | 0 | 0 | Python | 0 | [] |
-| FrancescoMarchiori/CVE-2021-3156 | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-07-10 08:52:44+00:00 | 3680 | 3 | C | 0 | ['CVE-2021-3156'] |
+| gepthecoder/game-hacking | Documentation on how to exploit android, unity games 🐱‍💻 | https://github.com/gepthecoder/game-hacking | ['exploit'] | 1 | 2022-07-10 09:22:22+00:00 | 0 | 0 | | 0 | [] |
+| 0x414141414/XLL-Excel-Exploit | None | https://github.com/0x414141414/XLL-Excel-Exploit | ['exploit'] | 1 | 2022-07-10 11:24:14+00:00 | 0 | 0 | | 0 | [] |
+| 0x414141414/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | None | https://github.com/0x414141414/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | ['exploit'] | 1 | 2022-07-10 11:26:47+00:00 | 0 | 0 | | 0 | [] |
+| kovart/forta-attack-simulation | 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | ['exploit'] | 1 | 2022-07-10 08:57:45+00:00 | 529 | 0 | TypeScript | 0 | [] |
 | Taiwing/rainfall | 42 project: rainfall ctf about binary exploitation | https://github.com/Taiwing/rainfall | ['exploit'] | 1 | 2022-07-10 09:36:35+00:00 | 1469 | 0 | C | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-07-10 03:20:25+00:00 | 6077 | 4687 | Python | 595 | [] |
 | Itsisspritzyyy/SpritzSploit | SpritzSploit | https://github.com/Itsisspritzyyy/SpritzSploit | ['sploit'] | 1 | 2022-07-10 07:43:01+00:00 | 15 | 0 | Lua | 0 | [] |
@@ -37,6 +41,7 @@
 | YosiSF/EinsteinDB | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performan | https://github.com/YosiSF/EinsteinDB | ['exploit'] | 1 | 2022-07-10 03:32:12+00:00 | 361234 | 15 | Rust | 5 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-10 02:36:44+00:00 | 351116 | 176 | REXX | 19 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-07-10 04:11:17+00:00 | 547 | 16 | Python | 5 | [] |
+| godspeedcurry/ExploitTools | 渗透工具搜集 | https://github.com/godspeedcurry/ExploitTools | ['exploit'] | 1 | 2022-07-10 10:49:35+00:00 | 49820 | 3 | PowerShell | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-10 04:01:01+00:00 | 228774 | 450 | Python | 127 | [] |
 | m3n0sd0n4ld/m3n0sd0n4ld.github.io | Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences. | https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io | ['exploit'] | 1 | 2022-07-10 08:29:06+00:00 | 59921 | 2 | | 1 | [] |
 | KiritoLoveAsuna/Exploits | Collected && Written N day Vulns for study purpose only | https://github.com/KiritoLoveAsuna/Exploits | ['exploit'] | 1 | 2022-07-10 07:55:39+00:00 | 89799 | 95 | Python | 15 | [] |
@@ -46,11 +51,14 @@
 | SleepTheGod/0days | 0day Exploits | https://github.com/SleepTheGod/0days | ['0day', 'exploit'] | 2 | 2022-07-10 03:59:22+00:00 | 126 | 2 | HTML | 1 | [] |
 | yaza-putu/laravel-repository-with-service | With repository and service you can separate business logic and query logic, slim controller and DRY. Simple generate repository and service with artisan command, automatically bind interface to class implement with IOC container and dependecy injection | https://github.com/yaza-putu/laravel-repository-with-service | ['command injection'] | 1 | 2022-07-10 05:41:57+00:00 | 111 | 3 | PHP | 1 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-07-10 06:59:57+00:00 | 12175 | 336 | Ruby | 36 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-10 11:28:37+00:00 | 83900 | 3134 | | 383 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-10 01:20:39+00:00 | 423 | 0 | | 0 | [] |
 | ComuGamersES/sentey | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | ['exploit'] | 1 | 2022-07-10 08:11:53+00:00 | 193 | 12 | Java | 1 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-10 05:44:05+00:00 | 20 | 5 | Shell | 0 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-10 05:35:59+00:00 | 35802 | 530 | C++ | 123 | [] |
 | R3LI4NT/ctf-retos | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | ['exploit'] | 1 | 2022-07-10 02:25:25+00:00 | 318 | 0 | | 0 | [] |
+| teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-07-10 10:13:36+00:00 | 988 | 1 | TypeScript | 0 | [] |
+| vidrez/log4j-rce-poc | None | https://github.com/vidrez/log4j-rce-poc | ['rce', 'rce poc'] | 2 | 2022-07-10 10:20:57+00:00 | 37705 | 0 | Python | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-10 00:54:11+00:00 | 9450 | 10 | Go | 4 | [] |
 | MastMind/PE-infector | Crossplatform tool for inject shellcode into .exe binaries (x86 and x64) | https://github.com/MastMind/PE-infector | ['shellcode'] | 1 | 2022-07-10 08:35:14+00:00 | 33 | 16 | C | 5 | [] |
-| gepthecoder/game-hacking | Documentation on how to exploit android, unity games 🐱‍💻 | https://github.com/gepthecoder/game-hacking | ['exploit'] | 1 | 2022-07-10 09:22:22+00:00 | 0 | 0 | | 0 | [] |
+| want3dhack3r/port_scanner | A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit | https://github.com/want3dhack3r/port_scanner | ['exploit'] | 1 | 2022-07-10 11:44:15+00:00 | 0 | 0 | | 0 | [] |
