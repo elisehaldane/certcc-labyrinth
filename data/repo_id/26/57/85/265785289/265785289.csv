@@ -1,11 +1,12 @@
 repo_id,repo_full_name,file,file_sha1,match
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2014-4113_x64.exe,0354ae3ee32f7daff31d15e5e23e0837de93ddfb,CVE-2014-4113
 265785289,godspeedcurry/ExploitTools,privilege/win/cve-2020-0796-local.exe,04b3b3f2373eb8f086b573fcdada68a3c864fcf7,CVE-2020-0796
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-0099_x64.exe,06583169384a9b26075e3310bb598868cf41528f,CVE-2016-0099
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-0099_x64.exe,06583169384a9b26075e3310bb598868cf41528f,MS16-032
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-0099_x86.exe,0873047009869c2ab96d3057763a39fa6256b0d0,CVE-2016-0099
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-0099_x64.exe,06583169384a9b26075e3310bb598868cf41528f,CVE-2016-0099
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-0099_x86.exe,0873047009869c2ab96d3057763a39fa6256b0d0,MS16-032
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-0099_x86.exe,0873047009869c2ab96d3057763a39fa6256b0d0,CVE-2016-0099
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2013-1332_x86.exe,08ad366366574eaf465ef82f71e5f3c21b4a6af7,CVE-2013-1332
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2021-1675-LPE.exe,0bd64d9e392970c57ce7aa8ba051fd636fba8dca,CVE-2021-1675
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2019-0623.exe,0cef8053da0fff1bcc6945e0b512e721f904104e,CVE-2019-0623
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2018-8120.exe,159fafd3f9227687d7f081ea481f6d5865a95f76,CVE-2018-8120
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2014-1767_x86.exe,1718fec0e7375c74da1dd212fd5377c4b6e51352,MS14-040
@@ -17,28 +18,28 @@ repo_id,repo_full_name,file,file_sha1,match
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0057_x64.exe,24703e7bba128f4a687a4db8a7e649b9328a08a9,MS15-010
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0057_x64.exe,24703e7bba128f4a687a4db8a7e649b9328a08a9,CVE-2015-0057
 265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#91
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#535
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#70
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#66
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#45
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#44
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#74
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#297
 265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#43
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#74
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#44
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#70
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#45
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#535
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#66
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/ChilkatDotNet4.dll,252ff3c15268d7fb72714f739dd68484946579ca,VU#297
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2021-1732.exe,2beb74dc36e4e43425ce4f75857e1f2a39854e49,CVE-2021-1732
 265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715/vcredist_x86(ssh报错装这个).exe,372d9c1670343d3fb252209ba210d4dc4d67d358,VU#32
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0003_x64.exe,37a95f2174468d625d22b9be5175d5814cbf65ec,MS17-017
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0003_x64.exe,37a95f2174468d625d22b9be5175d5814cbf65ec,CVE-2015-0003
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0003_x64.exe,37a95f2174468d625d22b9be5175d5814cbf65ec,MS17-017
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-2387_x86.exe,3900a60a263048a2225af7cae2b9c3e6e71ec863,CVE-2015-2387
 265785289,godspeedcurry/ExploitTools,pocs/cve-2019-0193.py,3a9e2252efc839981a0dc4c0bb93b52bc384d250,CVE-2019-0193
 265785289,godspeedcurry/ExploitTools,privilege/win/Chimichurri.exe,3b529c9b24cdd7882fdd2c5d60760ae804ea2d4b,MS09-012
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2019-0808_x64.exe,3f324a89433d2b311cc853f61e4a070f66227f46,CVE-2019-0808
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2011-1249.exe,40cfdca34c5c046ba7f35ab43fb9befbf8fa5425,CVE-2011-1249
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2011-1249.exe,40cfdca34c5c046ba7f35ab43fb9befbf8fa5425,MS11-046
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2011-1249.exe,40cfdca34c5c046ba7f35ab43fb9befbf8fa5425,CVE-2011-1249
 265785289,godspeedcurry/ExploitTools,privilege/win/exp.exe,41293ec0cf4c9a42bdd7a054b333aa1d987cdcbc,CVE-2018-8639
 265785289,godspeedcurry/ExploitTools,privilege/win/sysret.exe,417baeadccf61db5a45621d25daa05a1602457d7,MS12-042
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2010-1897_x64.exe,418bec3493c85e3490e400ecaff5a7760c17a0d0,MS10-048
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2010-1897_x64.exe,418bec3493c85e3490e400ecaff5a7760c17a0d0,CVE-2010-1897
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2010-1897_x64.exe,418bec3493c85e3490e400ecaff5a7760c17a0d0,MS10-048
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2013-1345_x86.exe,45137688deb4c9f4df21bb30fed33db3dbd43236,CVE-2013-1345
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-0095_win7_x86.exe,45516f413d3b6e5de09a1cb57d4f290e3fdfb641,CVE-2016-0095
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2014-4076.exe,4a41d388648ec4e8176942efa521de39bd3484d0,MS14-070
@@ -47,7 +48,6 @@ repo_id,repo_full_name,file,file_sha1,match
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2005-1983.exe,4a463175deda9875fe798bfc0c91a3e0456b3748,CVE-2005-1983
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2013-1332_x64.exe,4be0a02938e991dae47bc4d29c90ec5922be2cfa,CVE-2013-1332
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-1701_x64.exe,5582116537ccf9bc064000fd7011e5159f8c9970,CVE-2015-1701
-265785289,godspeedcurry/ExploitTools,privilege/win/BitsArbitraryFileMoveExploit.exe,582775940a2615d09d2a8052559c0bec047cba5e,CVE-2020-0787
 265785289,godspeedcurry/ExploitTools,privilege/win/windows_7_8_10_2008_x64.exe,617d0f13d51ec506caa64e5128aebd9cc6340b16,CVE-2016-7255
 265785289,godspeedcurry/ExploitTools,privilege/win/poc_test.exe,643ce2a7e85b243a6596f9f663649c830eb7f378,CVE-2019-0803
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2018-8120_X86.exe,657a6854ce6ccafb306d6faa469f3a064a4e487f,CVE-2018-8120
@@ -55,23 +55,26 @@ repo_id,repo_full_name,file,file_sha1,match
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2018-8120_x64.exe,6f2fdb1a27af0cb3609e251fae0a271f4ed7ee92,CVE-2018-8120
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-1701_x32.exe,6f5f372ccc80d0c9d363f3bd882a3c34f96aa77c,CVE-2015-1701
 265785289,godspeedcurry/ExploitTools,privilege/win/ms16-014.exe,767303308d9b642e0171cb0200dfe89e0606d291,MS16-014
+265785289,godspeedcurry/ExploitTools,gocmd/gossh/main,7a116569d98691eb2eb03cf638741ecee5ae09c3,VU#85
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-2546_x86.exe,7ce1ef5b1325784fe05fd23589535cf06c15d617,CVE-2015-2546
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2008-1084.exe,8072d696e906fb8339350870ba7778aa96e8abaf,CVE-2008-1084
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-3309.exe,853e1b42d206d4319537290549c45b6671be4874,CVE-2016-3309
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-3309.exe,853e1b42d206d4319537290549c45b6671be4874,MS16-098
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-3309.exe,853e1b42d206d4319537290549c45b6671be4874,CVE-2016-3309
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0003_x86.exe,8552f368bde44aa5cc436376e11790171b8852a1,CVE-2015-0003
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2020-0668.exe,88c03e8be1426e12383959ccf252be84e60c1e3e,CVE-2020-0668
 265785289,godspeedcurry/ExploitTools,privilege/win/cve-2019-1458.exe,8996a33efa683aa756a2c786494db25a081e6a44,CVE-2019-1458
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-2387_x64.exe,8bf73bfcd406cf023621010fd0db0f319c2802e1,CVE-2015-2387
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2019-0803.exe,904eb0d95609c20face3abb7ff2dc78737285416,CVE-2019-0008
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2019-0803.exe,904eb0d95609c20face3abb7ff2dc78737285416,CVE-2019-0803
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2019-0808_x32.exe,96d2d49a836a3913f32824a487b98f43c2eb90e5,CVE-2019-0808
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2008-3464.exe,9bc40077e46a245aec86216185e98ab063360a48,CVE-2008-3464
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2008-3464.exe,9bc40077e46a245aec86216185e98ab063360a48,MS08-000
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2011-1974.exe,a21670dd9f12ad7fd6840c68675dcd07233444b6,MS11-062
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2011-1974.exe,a21670dd9f12ad7fd6840c68675dcd07233444b6,CVE-2011-1974
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715.zip,a965473ce6bb45546abea94acfe9bba3f2186abc,VU#63
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2011-1974.exe,a21670dd9f12ad7fd6840c68675dcd07233444b6,MS11-062
 265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715.zip,a965473ce6bb45546abea94acfe9bba3f2186abc,VU#32
-265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715.zip,a965473ce6bb45546abea94acfe9bba3f2186abc,VU#16
 265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715.zip,a965473ce6bb45546abea94acfe9bba3f2186abc,VU#27
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715.zip,a965473ce6bb45546abea94acfe9bba3f2186abc,VU#63
+265785289,godspeedcurry/ExploitTools,weakpass/checkweak/超级弱口令检查工具V1.0 Beta28 20190715.zip,a965473ce6bb45546abea94acfe9bba3f2186abc,VU#16
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2017-0213_x86.exe,b3423b5d096cf915019cd8d7c994cf9919523901,CVE-2017-0213
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0057_x86.exe,bb21bfaf17b8324a49d6f08aedbe2c3d7bec54b1,MS15-010
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2015-0057_x86.exe,bb21bfaf17b8324a49d6f08aedbe2c3d7bec54b1,CVE-2015-0057
@@ -85,8 +88,9 @@ repo_id,repo_full_name,file,file_sha1,match
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2010-1897_x86.exe,e57b453966e4827e2effa4e153f2923e7d058702,CVE-2010-1897
 265785289,godspeedcurry/ExploitTools,proxy/OmegaOptions.bak,e59353b642cc000f223372fbe4dcaadf9e54a7ff,VU#29
 265785289,godspeedcurry/ExploitTools,proxy/OmegaOptions.bak,e59353b642cc000f223372fbe4dcaadf9e54a7ff,VU#25
-265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2017-0101_x86.exe,ef44ba0ba346ffe4309a660c512ce9be0dbf6704,CVE-2017-0101
+265785289,godspeedcurry/ExploitTools,privilege/win/ms15-051.exe,e92f8a455d689137be8c05f3e2f3979fcc285725,MS15-051
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2017-0101_x86.exe,ef44ba0ba346ffe4309a660c512ce9be0dbf6704,MS17-017
+265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2017-0101_x86.exe,ef44ba0ba346ffe4309a660c512ce9be0dbf6704,CVE-2017-0101
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2016-7255.exe,ef575da9770042b572207f05208166ce1ed75066,CVE-2016-7255
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2020-1054_USE_FOR_PRE _KB_PATCH.exe,f662639363f7be8ec5d84b68bb305f2303f9171a,CVE-2020-1054
 265785289,godspeedcurry/ExploitTools,privilege/win/CVE-2013-5065.exe,fc93c3b1cd2d25cf651cd5544fc6611e6e9e179b,CVE-2013-5065
