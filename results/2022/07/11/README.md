@@ -1,12 +1,12 @@
 
 # Summary for results/2022/07/11
     
-40 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-11 04:01:05+00:00 | 764107 | 27692 | Ruby | 12365 | [] |
-| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-11 05:34:35+00:00 | 173 | 2 | Python | 0 | [] |
+| teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-11 03:21:07+00:00 | 1257 | 416 | Go | 31 | [] |
 | hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-07-11 00:56:38+00:00 | 277 | 8 | Shell | 2 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-11 02:11:31+00:00 | 22 | 5 | Shell | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-11 00:44:09+00:00 | 3393 | 8 | Rust | 1 | [] |
@@ -16,32 +16,38 @@
 | yogwoggf/gmfoolery | Compilation of funny bugs in GMod. | https://github.com/yogwoggf/gmfoolery | ['exploit'] | 1 | 2022-07-11 04:05:01+00:00 | 23 | 1 | | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-11 00:44:38+00:00 | 9486 | 11 | Go | 4 | [] |
 | Taiwing/rainfall | 42 project: rainfall ctf about binary exploitation | https://github.com/Taiwing/rainfall | ['exploit'] | 1 | 2022-07-11 05:35:35+00:00 | 1480 | 0 | C | 0 | [] |
-| teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-11 03:21:07+00:00 | 1257 | 416 | Go | 31 | [] |
 | FrancescoMarchiori/CVE-2021-3156 | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-07-11 05:07:27+00:00 | 3860 | 3 | C | 0 | ['CVE-2021-3156'] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-11 05:34:35+00:00 | 173 | 2 | Python | 0 | [] |
+| CopernicusPY/wget-root | This is a python script that exploits wget when being set with a SUID bit, and overwrites the root password. | https://github.com/CopernicusPY/wget-root | ['exploit'] | 1 | 2022-07-11 07:13:19+00:00 | 31 | 0 | Python | 0 | [] |
 | RafaelOrtizRC/CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | ['cve-2 OR cve_2'] | 1 | 2022-07-11 02:06:26+00:00 | 3 | 1 | C | 0 | ['CVE-2022-23222'] |
 | savior-only/Sunlogin_RCE-GUI- | 向日葵漏洞图形化利用工具 | https://github.com/savior-only/Sunlogin_RCE-GUI- | ['rce'] | 1 | 2022-07-11 05:43:02+00:00 | 226 | 2 | | 0 | [] |
 | RobloxArchiver/exploitenviorment | Crappy fake enviorment for testing. NOT FOR ROBLOX. | https://github.com/RobloxArchiver/exploitenviorment | ['exploit'] | 1 | 2022-07-11 00:45:18+00:00 | 7 | 1 | | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1 | ['exploit'] | 1 | 2022-07-11 01:31:59+00:00 | 0 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | ['exploit'] | 1 | 2022-07-11 01:32:50+00:00 | 0 | 0 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.1 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.1 | ['exploit'] | 1 | 2022-07-11 01:33:49+00:00 | 0 | 0 | | 0 | [] |
+| TheSadError/CVE-ExploitArchive | Hello, This is not mine codes. Because this is CVE Archive. Use them for fun. | https://github.com/TheSadError/CVE-ExploitArchive | ['exploit'] | 1 | 2022-07-11 05:15:13+00:00 | 0 | 0 | | 0 | [] |
+| ly1g3/Mailcow-CVE-2022-31138 | Mailcow CVE-2022-31138 | https://github.com/ly1g3/Mailcow-CVE-2022-31138 | ['cve-2 OR cve_2'] | 1 | 2022-07-11 06:55:59+00:00 | 0 | 0 | | 0 | ['CVE-2022-31138'] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-11 00:58:45+00:00 | 509 | 24 | Shell | 9 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-11 01:14:30+00:00 | 429 | 0 | | 0 | [] |
 | zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-07-11 04:01:40+00:00 | 3641 | 564 | Go | 92 | [] |
-| bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-07-11 03:03:58+00:00 | 218681 | 284 | C | 57 | [] |
+| JrTechie/rcee-review | None | https://github.com/JrTechie/rcee-review | ['rce'] | 1 | 2022-07-11 04:54:21+00:00 | 4418 | 0 | | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-07-11 03:08:37+00:00 | 6551 | 4689 | Python | 595 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-11 00:26:03+00:00 | 51993 | 311 | Ruby | 88 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-07-11 04:32:04+00:00 | 176 | 0 | Shell | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-11 02:32:39+00:00 | 353755 | 176 | REXX | 19 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-07-11 03:07:01+00:00 | 15689 | 338 | C | 52 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-11 06:48:34+00:00 | 14614 | 43 | | 22 | [] |
 | 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-07-11 01:14:43+00:00 | 969 | 155 | Shell | 77 | [] |
 | pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2022-07-11 02:29:53+00:00 | 32583 | 139 | Python | 20 | [] |
+| bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-07-11 03:03:58+00:00 | 218681 | 284 | C | 57 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-11 04:01:05+00:00 | 232919 | 451 | Python | 127 | [] |
-| JrTechie/rcee-review | None | https://github.com/JrTechie/rcee-review | ['rce'] | 1 | 2022-07-11 04:54:21+00:00 | 4418 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-11 02:09:35+00:00 | 22393 | 3 | Python | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-11 02:13:06+00:00 | 1385 | 114 | HTML | 26 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-11 01:54:29+00:00 | 6919357 | 67 | Python | 10 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-11 07:31:15+00:00 | 8733 | 3364 | TypeScript | 538 | [] |
 | ColdFusionX/Keycloak-12.0.1-CVE-2020-10770 | Keycloak 12.0.1 - 'request_uri ' Blind Server-Side Request Forgery (SSRF) (Unauthenticated) | https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770 | ['cve-2 OR cve_2'] | 1 | 2022-07-11 05:31:21+00:00 | 5 | 4 | Python | 5 | ['CVE-2020-10770'] |
 | SleepTheGod/0days | 0day Exploits | https://github.com/SleepTheGod/0days | ['0day', 'exploit'] | 2 | 2022-07-11 05:50:38+00:00 | 127 | 2 | HTML | 1 | [] |
 | c0rnf13ld/ipmiPwner | Exploit to dump ipmi hashes | https://github.com/c0rnf13ld/ipmiPwner | ['exploit'] | 1 | 2022-07-11 03:17:31+00:00 | 21 | 11 | Python | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-11 00:38:18+00:00 | 191926 | 2 | Jupyter Notebook | 0 | [] |
-| TheSadError/CVE-ExploitArchive | Hello, This is not mine codes. Because this is CVE Archive. Use them for fun. | https://github.com/TheSadError/CVE-ExploitArchive | ['exploit'] | 1 | 2022-07-11 05:15:13+00:00 | 0 | 0 | | 0 | [] |
+| SIB-BYTE/Binary-exploitation | Binary exploitation. (I'll do some more work when I get motivated again) | https://github.com/SIB-BYTE/Binary-exploitation | ['exploit'] | 1 | 2022-07-11 06:32:47+00:00 | 253 | 3 | Python | 1 | [] |
+| l1k3beef/JmxExploit | None | https://github.com/l1k3beef/JmxExploit | ['exploit'] | 1 | 2022-07-11 07:47:26+00:00 | 0 | 0 | | 0 | [] |
