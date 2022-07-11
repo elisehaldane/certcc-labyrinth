@@ -1,26 +1,37 @@
 
 # Summary for results/2022/07/11
     
-19 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-11 00:26:03+00:00 | 51993 | 311 | Ruby | 88 | [] |
-| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-11 00:44:09+00:00 | 3393 | 8 | Rust | 1 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-11 04:01:05+00:00 | 764107 | 27692 | Ruby | 12365 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-07-11 03:08:37+00:00 | 6551 | 4689 | Python | 595 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | ['exploit'] | 1 | 2022-07-11 01:32:50+00:00 | 0 | 0 | | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1 | ['exploit'] | 1 | 2022-07-11 01:31:59+00:00 | 0 | 0 | | 0 | [] |
 | RobloxArchiver/exploitenviorment | Crappy fake enviorment for testing. NOT FOR ROBLOX. | https://github.com/RobloxArchiver/exploitenviorment | ['exploit'] | 1 | 2022-07-11 00:45:18+00:00 | 7 | 1 | | 0 | [] |
 | RafaelOrtizRC/CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | ['cve-2 OR cve_2'] | 1 | 2022-07-11 02:06:26+00:00 | 3 | 1 | C | 0 | ['CVE-2022-23222'] |
+| teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-11 03:21:07+00:00 | 1257 | 416 | Go | 31 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-11 00:44:38+00:00 | 9486 | 11 | Go | 4 | [] |
+| yogwoggf/gmfoolery | Compilation of funny bugs in GMod. | https://github.com/yogwoggf/gmfoolery | ['exploit'] | 1 | 2022-07-11 04:05:01+00:00 | 23 | 1 | | 0 | [] |
 | teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-07-11 02:00:16+00:00 | 1277 | 4 | TypeScript | 0 | [] |
 | AndresFDev/PS4Exploit900 | None | https://github.com/AndresFDev/PS4Exploit900 | ['exploit'] | 1 | 2022-07-11 00:23:40+00:00 | 9435 | 0 | JavaScript | 0 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-11 00:44:09+00:00 | 3393 | 8 | Rust | 1 | [] |
 | UtermuxBlog/termux-metasploit | 在Termux上安装Metasploit Framework(Only China) | https://github.com/UtermuxBlog/termux-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-11 02:11:31+00:00 | 22 | 5 | Shell | 0 | [] |
-| 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-07-11 01:14:43+00:00 | 969 | 155 | Shell | 77 | [] |
 | hungnguyennaz/NeonPaper | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | ['exploit'] | 1 | 2022-07-11 00:56:38+00:00 | 277 | 8 | Shell | 2 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-11 00:58:45+00:00 | 509 | 24 | Shell | 9 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-11 01:14:30+00:00 | 429 | 0 | | 0 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-07-11 04:01:40+00:00 | 3641 | 564 | Go | 92 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-11 00:38:18+00:00 | 191926 | 2 | Jupyter Notebook | 0 | [] |
+| c0rnf13ld/ipmiPwner | Exploit to dump ipmi hashes | https://github.com/c0rnf13ld/ipmiPwner | ['exploit'] | 1 | 2022-07-11 03:17:31+00:00 | 21 | 11 | Python | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-11 01:54:29+00:00 | 6919357 | 67 | Python | 10 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-11 02:13:06+00:00 | 1385 | 114 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-11 02:09:35+00:00 | 22393 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-11 04:01:05+00:00 | 232919 | 451 | Python | 127 | [] |
+| bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-07-11 03:03:58+00:00 | 218681 | 284 | C | 57 | [] |
+| pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2022-07-11 02:29:53+00:00 | 32583 | 139 | Python | 20 | [] |
+| 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-07-11 01:14:43+00:00 | 969 | 155 | Shell | 77 | [] |
+| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-07-11 03:07:01+00:00 | 15689 | 338 | C | 52 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-11 02:32:39+00:00 | 353755 | 176 | REXX | 19 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-11 00:26:03+00:00 | 51993 | 311 | Ruby | 88 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.1 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.1 | ['exploit'] | 1 | 2022-07-11 01:33:49+00:00 | 0 | 0 | | 0 | [] |
