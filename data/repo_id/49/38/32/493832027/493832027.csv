@@ -50,6 +50,7 @@ repo_id,repo_full_name,file,file_sha1,match
 493832027,prok3z/Wordpress-Exploits,CVE-2016-10033/rce.sh,5d0f7e5b9166c500607bcdcbc47b24920790c6a6,CVE-2016-10033
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24498/README.md,5fb45b089c9cc5be3966d680c56ce66d95f0d1c8,CVE-2021-24498
 493832027,prok3z/Wordpress-Exploits,CVE-2021-25080/README.md,6417a302ca933f6f61efd3356427c66c9a4789ba,CVE-2021-25080
+493832027,prok3z/Wordpress-Exploits,CVE-2022-1170/README.md,6931023d142a8baef709d7ae3fff727fa84a7c6b,CVE-2022-1170
 493832027,prok3z/Wordpress-Exploits,CVE-2022-0248/README.md,6d6e73c940539df99c5e406660727e90c8d2d6ee,CVE-2022-0248
 493832027,prok3z/Wordpress-Exploits,CVE-2022-0220/README.md,6d70ae8b8126752b969e9ead817f7b4325b481b6,CVE-2022-0220
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/exploit.py,6e082723f171eabf468b546f4ab6c4cc3f541e52,CVE-2020-12800
@@ -71,8 +72,8 @@ repo_id,repo_full_name,file,file_sha1,match
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24797/README.md,aa246f9f2124c4114d0edb68492cf41f6326e71a,CVE-2021-24797
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24320/README.md,ae5809c0e29a4630c546d9e9ec6383d4b637e623,CVE-2021-24320
 493832027,prok3z/Wordpress-Exploits,CVE-2022-23988/README.md,b44035f05577397339902bb50e407a814d2a86f4,CVE-2022-23988
-493832027,prok3z/Wordpress-Exploits,WordPress_4.9.8_RCE_POC/README.md,b57a6243e532561b47a1376aab0c75a82b15330f,CVE-2019-8943
 493832027,prok3z/Wordpress-Exploits,WordPress_4.9.8_RCE_POC/README.md,b57a6243e532561b47a1376aab0c75a82b15330f,CVE-2019-8942
+493832027,prok3z/Wordpress-Exploits,WordPress_4.9.8_RCE_POC/README.md,b57a6243e532561b47a1376aab0c75a82b15330f,CVE-2019-8943
 493832027,prok3z/Wordpress-Exploits,Wordpress-scanner/base/data/list-themes.txt,b68b39d50a14691ab7943ce50967106966b94746,VU#01
 493832027,prok3z/Wordpress-Exploits,Wordpress-scanner/base/data/list-themes.txt,b68b39d50a14691ab7943ce50967106966b94746,VU#03
 493832027,prok3z/Wordpress-Exploits,CVE-2021-25094-tatsu-preauth-rce/exploit-race.py,bbd6cb52e7bb3467af0ca707fd9de946180f7ec3,CVE-2021-25094
