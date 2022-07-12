@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+317065900,loneicewolf/fanny.bmp,README.md,0a25c3252aeef1fe5e9011c7775cd9f85e221b07,MS08-067
 317065900,loneicewolf/fanny.bmp,2004.06195.pdf,0aa5d167306098ebe170a8f25892cbf44dbb461b,VU#556
 317065900,loneicewolf/fanny.bmp,OldReadme.md,1d592e0385f159ee0493e3c1ddb3f252ede67850,MS08-067
 317065900,loneicewolf/fanny.bmp,us-18-Guri-AirGap.pdf,25c8d806b681535282f452168f82bcee8df1a1f0,VU#89
@@ -10,6 +11,5 @@ repo_id,repo_full_name,file,file_sha1,match
 317065900,loneicewolf/fanny.bmp,ReNewed(Fannybmp Winxp Poc) (With Rootkit Demo + Bug Crash) .mp4.7z,bb97f110962b177d29bc504c390f169c30ef1efc,VU#22
 317065900,loneicewolf/fanny.bmp,ReNewed(Fannybmp Winxp Poc) (With Rootkit Demo + Bug Crash) .mp4.7z,bb97f110962b177d29bc504c390f169c30ef1efc,VU#65
 317065900,loneicewolf/fanny.bmp,ReNewed(Fannybmp Winxp Poc) (With Rootkit Demo + Bug Crash) .mp4.7z,bb97f110962b177d29bc504c390f169c30ef1efc,VU#74
-317065900,loneicewolf/fanny.bmp,README.md,e36f7c880efa323dba672b764a420e4beffb9859,MS08-067
 317065900,loneicewolf/fanny.bmp,Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf,f5090f40e8f41b9677d2e8f5f6435976a8abe1db,CVE-2010-2568
 317065900,loneicewolf/fanny.bmp,Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf,f5090f40e8f41b9677d2e8f5f6435976a8abe1db,MS09-025
