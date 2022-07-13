@@ -362,7 +362,7 @@ MS17-010,0.00448430,https://github.com/Awrrays/MetaSploit-Moudule,Awrrays/MetaSp
 MS17-010,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS17-010,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
 MS17-010,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
-MS17-010,0.00393701,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+MS17-010,0.00392157,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 MS17-010,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 MS17-010,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
 MS17-010,0.00381679,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
@@ -450,7 +450,7 @@ MS17-010,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS17-010,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS17-010,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS17-010,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
-MS17-010,0.00024337,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00024331,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS17-010,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 MS17-010,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
@@ -502,7 +502,7 @@ MS17-010,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-act
 MS17-010,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS17-010,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 MS17-010,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS17-010,0.00020173,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS17-010,0.00020165,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072

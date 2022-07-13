@@ -68,6 +68,7 @@ VU#29,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j
 VU#29,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#29,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#29,0.07142857,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,487173629
+VU#29,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#29,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
 VU#29,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#29,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
@@ -261,7 +262,7 @@ VU#29,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-action
 VU#29,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#29,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#29,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00020173,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00020165,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#29,0.00004627,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222

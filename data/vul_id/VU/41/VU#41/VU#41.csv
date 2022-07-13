@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#41,0.50000000,https://github.com/epsylon/xsser,epsylon/xsser,7184441
+VU#41,0.33333333,https://github.com/1406429350/CUnet-main,1406429350/CUnet-main,513395754
 VU#41,0.33333333,https://github.com/Silence-Talk/BinaryExploitation,Silence-Talk/BinaryExploitation,485233669
 VU#41,0.33333333,https://github.com/readloud/XSS-HTTP-Inject0r,readloud/XSS-HTTP-Inject0r,467438550
 VU#41,0.33333333,https://github.com/JakeHost/JakeSploit-Exec,JakeHost/JakeSploit-Exec,433368423
@@ -13,6 +14,7 @@ VU#41,0.11111111,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWiki
 VU#41,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#41,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#41,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
+VU#41,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#41,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
 VU#41,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#41,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
@@ -152,4 +154,4 @@ VU#41,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-action
 VU#41,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#41,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#41,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#41,0.00020173,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#41,0.00020165,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
