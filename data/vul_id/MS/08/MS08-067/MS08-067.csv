@@ -260,7 +260,6 @@ MS08-067,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,1419879
 MS08-067,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 MS08-067,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS08-067,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
-MS08-067,0.00709220,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 MS08-067,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS08-067,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
 MS08-067,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042
@@ -268,6 +267,7 @@ MS08-067,0.00684932,https://github.com/TheRipperJhon/Msploitego,TheRipperJhon/Ms
 MS08-067,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
 MS08-067,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
 MS08-067,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
+MS08-067,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 MS08-067,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS08-067,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
 MS08-067,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
@@ -416,7 +416,7 @@ MS08-067,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS08-067,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS08-067,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS08-067,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
-MS08-067,0.00024343,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS08-067,0.00024337,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 MS08-067,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS08-067,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
@@ -505,4 +505,4 @@ MS08-067,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/hol
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000559,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS08-067,0.00000461,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS08-067,0.00000460,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

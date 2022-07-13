@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-52161,0.07692308,https://github.com/rapid7/metasploit_data_models,rapid7/metasploit_data_models,3072132
-BID-52161,0.00077160,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-52161,0.00077101,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-52161,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 BID-52161,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 BID-52161,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
@@ -117,4 +117,4 @@ BID-52161,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/ex
 BID-52161,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 BID-52161,0.00004627,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-52161,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
-BID-52161,0.00000461,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-52161,0.00000460,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
