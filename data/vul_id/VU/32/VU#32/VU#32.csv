@@ -79,7 +79,6 @@ VU#32,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyz
 VU#32,0.03333333,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#32,0.03333333,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#32,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
-VU#32,0.02941176,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#32,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#32,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
 VU#32,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -92,6 +91,7 @@ VU#32,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#32,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#32,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#32,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
+VU#32,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#32,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#32,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#32,0.02222222,https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits,takeboy/https-github.com-abatchy17-WindowsExploits,456416342
@@ -197,7 +197,7 @@ VU#32,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository
 VU#32,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#32,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#32,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#32,0.00058207,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#32,0.00058005,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#32,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#32,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

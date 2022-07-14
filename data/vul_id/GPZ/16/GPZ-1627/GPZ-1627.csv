@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1627,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GPZ-1627,0.00064977,https://github.com/veo/vscan,veo/vscan,377697824
-GPZ-1627,0.00058207,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+GPZ-1627,0.00058005,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 GPZ-1627,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 GPZ-1627,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 GPZ-1627,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
