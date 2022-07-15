@@ -1,14 +1,14 @@
 repo_id,repo_full_name,file,file_sha1,match
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/AppxExploit.sln,0e1632ede527d621b08750689ca96a740e3a7684,CVE-2019-1385
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/EdgeExploit.cs,15d4104d0a73608f0a87f656c59570993b53dd82,CVE-2019-1385
+476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#71
+476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#66
+476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#63
+476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#596
+476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#240
 476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#69
 476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,CVE-2021-1675
-476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#240
-476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#596
-476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#71
-476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#63
-476902301,vbrunschot/Exploits,privesc/CVE-2021-1675-PrintNightmare/CVE-2021-1675-PrintNightmare.ps1,2645cc7aa381d5d4a6386f84fb2be23c586cb46a,VU#66
-476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/bin/Debug/AppxExploit.pdb,2d46e104e4f471b2180366b9ecbbf07b3c9ec709,CVE-2019-1385
+476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/obj/Debug/AppxExploit.pdb,2d46e104e4f471b2180366b9ecbbf07b3c9ec709,CVE-2019-1385
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/obj/Debug/AppxExploit.csprojAssemblyReference.cache,31920724e62e00dbd87069d1c4e9b169fcc607b9,CVE-2019-1385
 476902301,vbrunschot/Exploits,rce/CVE-2021-21972-vCenter/CVE-2021-21972-vCenter.py,3a754cf1f89be1a8f13fd496d7519504a8e77219,CVE-2021-21972
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/NtHardLink.cs,3cc4b1a22a71aa4c150865d54871303ebbd4f5eb,CVE-2019-1385
@@ -32,18 +32,19 @@ repo_id,repo_full_name,file,file_sha1,match
 476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/exploit-deface.sh,a9623db8c28f799dd84cc3fb515d87ff96e69df6,CVE-2014-6271
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/obj/Debug/AppxExploit.csproj.CoreCompileInputs.cache,aab9b6936f4582ab12e405be5255bc4bbfd36727,CVE-2019-1385
 476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/index.html,b139c7a07617b4304cb21a42cfb85c5132a97078,CVE-2014-6271
-476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/poc video.mp4,bb10bd4eb25022eb2ab64e0ecfb786ff1ebc4655,CVE-2019-1385
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/poc video.mp4,bb10bd4eb25022eb2ab64e0ecfb786ff1ebc4655,VU#49
+476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/poc video.mp4,bb10bd4eb25022eb2ab64e0ecfb786ff1ebc4655,CVE-2019-1385
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/AppxExploit.csproj,c172bb87f781311173786e3609e9396210f7b23f,CVE-2019-1385
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/HardLink.cs,c213087a0e5a66aa09027c8dbe89dd7b48b896dc,CVE-2019-1385
 476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/packages/bash_4.2%2Bdfsg-0.1_amd64.deb,c35e9db278f11850229ca354a669e2e7ab8c3b66,CVE-2014-6271
 476902301,vbrunschot/Exploits,rce/CVE-2021-34473-ProxyShell/wsman.py,cba64fcaebbf116545e8d12960d829d1d8a032a7,CVE-2021-34473
-476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/App.config,cd3739449be8e139d78e76812212dbca2878f526,CVE-2019-1385
+476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/bin/Debug/AppxExploit.exe.config,cd3739449be8e139d78e76812212dbca2878f526,CVE-2019-1385
 476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/Dockerfile,cdda3bd45a326d9b3d120a466bdd22c134b85b20,CVE-2014-6271
+476902301,vbrunschot/Exploits,rce/CVE-2014-0160-Heartbleed/heartbleed.py,d36837a085f4c7fc866d36a2b89f2641be7d80c9,CVE-2014-0160
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1405-UPnP/COMahawk/COMahawk.vcxproj,d992bf51438e9fab1c49838bb87471750c67fa5c,CVE-2019-1405
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1405-UPnP/COMahawk.sln,dec6b9782e4c51dd18f0f45644f6561c5f4de2b9,CVE-2019-1405
-476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/README.md,f10870b8bec22c2bf814bad5b7615254a3b56981,CVE-2014-7186
 476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/README.md,f10870b8bec22c2bf814bad5b7615254a3b56981,CVE-2014-7169
+476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/README.md,f10870b8bec22c2bf814bad5b7615254a3b56981,CVE-2014-7186
 476902301,vbrunschot/Exploits,rce/CVE-2014-6271-ShellShock/README.md,f10870b8bec22c2bf814bad5b7615254a3b56981,CVE-2014-6271
 476902301,vbrunschot/Exploits,rce/CVE-2021-34473-ProxyShell/exploit.py,f62e8d3fd654774b7944c6af2c54894b5ec17c37,CVE-2021-34473
 476902301,vbrunschot/Exploits,privesc/CVE-2019-1385-AppXsvc/AppxExploit_Edge/JunctionPoint.cs,fb86af205924d8d61073db6d77032fb1e6a2dd2c,CVE-2019-1385
