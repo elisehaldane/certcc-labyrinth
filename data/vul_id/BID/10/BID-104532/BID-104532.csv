@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-104532,0.33333333,https://github.com/reddevil-j/metasploit_modules,reddevil-j/metasploit_modules,145339203
 BID-104532,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 BID-104532,0.00064977,https://github.com/veo/vscan,veo/vscan,377697824
-BID-104532,0.00057971,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+BID-104532,0.00057937,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-104532,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 BID-104532,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 BID-104532,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
@@ -52,6 +52,7 @@ BID-104532,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-a
 BID-104532,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 BID-104532,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 BID-104532,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+BID-104532,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 BID-104532,0.00020165,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-104532,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 BID-104532,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

@@ -54,8 +54,8 @@ MS15-034,0.00534759,https://github.com/asrocha/exploitdb-API,asrocha/exploitdb-A
 MS15-034,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228/exploit-tools,116704087
 MS15-034,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS15-034,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
-MS15-034,0.00483092,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
 MS15-034,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
+MS15-034,0.00469484,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
 MS15-034,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
 MS15-034,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
 MS15-034,0.00323625,https://github.com/4thel00z/ExploitDB-Downloader,4thel00z/ExploitDB-Downloader,97280758
@@ -111,7 +111,7 @@ MS15-034,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS15-034,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS15-034,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS15-034,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
-MS15-034,0.00024313,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS15-034,0.00024307,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS15-034,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS15-034,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 MS15-034,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
@@ -163,6 +163,7 @@ MS15-034,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-act
 MS15-034,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS15-034,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 MS15-034,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS15-034,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS15-034,0.00020165,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS15-034,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS15-034,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -196,5 +197,5 @@ MS15-034,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_data
 MS15-034,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS15-034,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS15-034,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
-MS15-034,0.00000559,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS15-034,0.00000556,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS15-034,0.00000460,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
