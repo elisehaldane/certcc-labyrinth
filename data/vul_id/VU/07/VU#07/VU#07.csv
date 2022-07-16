@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#07,1.00000000,https://github.com/Green-Avocado/EasyROP,Green-Avocado/EasyROP,416277144
 VU#07,0.50000000,https://github.com/vusec/bhi-spectre-bhb,vusec/bhi-spectre-bhb,465411926
 VU#07,0.50000000,https://github.com/tuhin81/CVE-2021-22204-exiftool,tuhin81/CVE-2021-22204-exiftool,461823605
+VU#07,0.50000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#07,0.33333333,https://github.com/thushi99/scp-client-vulnerability-exploit,thushi99/scp-client-vulnerability-exploit,456885932
 VU#07,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/generateJenkinsExploit,432525611
 VU#07,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
@@ -53,6 +54,7 @@ VU#07,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnee
 VU#07,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#07,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#07,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#07,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#07,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#07,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#07,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
