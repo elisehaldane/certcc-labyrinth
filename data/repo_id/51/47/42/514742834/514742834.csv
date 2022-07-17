@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+514742834,rootsecdev/CTF_Exploits,CMS2.2.10.py,2dc0a76bcf1b66bfc684af1b82c5fceee3f21e29,CVE-2019-9053
