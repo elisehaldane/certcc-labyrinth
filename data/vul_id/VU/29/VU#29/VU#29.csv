@@ -56,7 +56,6 @@ VU#29,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/Invisibi
 VU#29,0.11111111,https://github.com/jweny/pocassist,jweny/pocassist,366671705
 VU#29,0.09090909,https://github.com/codeyso/CodeTest,codeyso/CodeTest,465011945
 VU#29,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
-VU#29,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#29,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#29,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
 VU#29,0.09090909,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
@@ -68,6 +67,7 @@ VU#29,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j
 VU#29,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#29,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#29,0.07142857,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,487173629
+VU#29,0.07142857,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#29,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#29,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
 VU#29,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
@@ -157,6 +157,7 @@ VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#29,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#29,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
