@@ -1,0 +1,40 @@
+
+# Summary for results/2022/07/17
+    
+33 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-07-17 00:06:01+00:00 | 1499 | 0 | Python | 11 | [] |
+| nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-07-17 04:29:27+00:00 | 40 | 0 | Nix | 0 | [] |
+| iamtryingtofindname/Helios | Private Exploit | https://github.com/iamtryingtofindname/Helios | ['exploit'] | 1 | 2022-07-17 03:33:34+00:00 | 2 | 0 | Lua | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.. | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.. | ['exploit'] | 1 | 2022-07-17 00:45:15+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | ['exploit'] | 1 | 2022-07-17 00:44:29+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | ['exploit'] | 1 | 2022-07-17 00:43:38+00:00 | 1 | 0 | | 0 | [] |
+| aress31/raadef | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | ['exploit'] | 1 | 2022-07-17 01:21:50+00:00 | 12 | 0 | Rust | 0 | [] |
+| danielxreis/picoctf_2022 | Repository to store all my solutions for the PicoCTF 2022 challenges. | https://github.com/danielxreis/picoctf_2022 | ['exploit'] | 1 | 2022-07-17 03:03:24+00:00 | 11 | 0 | C | 0 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-07-17 02:33:19+00:00 | 63 | 0 | | 0 | [] |
+| HoangATran/BABIES | A black-box adversarial attack that exploits the local parabolic landscapes of adversarial losses | https://github.com/HoangATran/BABIES | ['exploit'] | 1 | 2022-07-17 02:35:17+00:00 | 255140 | 0 | Python | 0 | [] |
+| P-DennyGamingYT/Synapse-Beta | The most sought after application in roblox exploiting history, Synapse v3. | https://github.com/P-DennyGamingYT/Synapse-Beta | ['exploit'] | 1 | 2022-07-17 00:48:01+00:00 | 1358 | 0 | HTML | 0 | [] |
+| OopsZero234/XeraX-Exploit | None | https://github.com/OopsZero234/XeraX-Exploit | ['exploit'] | 1 | 2022-07-17 01:26:03+00:00 | 2929 | 0 | | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-17 04:47:43+00:00 | 9776 | 14 | Go | 5 | [] |
+| Travis-Dominguez/Monitor_and_Exploit_a_Server | Results of fulfilling both red team and blue team roles. | https://github.com/Travis-Dominguez/Monitor_and_Exploit_a_Server | ['exploit'] | 1 | 2022-07-17 01:56:41+00:00 | 4515 | 0 | | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-17 01:40:00+00:00 | 35908 | 672 | C++ | 170 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-07-17 01:31:53+00:00 | 3412 | 8 | Rust | 1 | [] |
+| willfindlay/houdini | Houdini is a container escape artist. Test your container security frameworks against known exploits. | https://github.com/willfindlay/houdini | ['exploit'] | 1 | 2022-07-17 04:16:06+00:00 | 109 | 0 | Rust | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-17 00:28:51+00:00 | 51997 | 311 | Ruby | 87 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-17 01:19:30+00:00 | 468 | 0 | | 0 | [] |
+| EXtremeExploit/EXtremeExploit | None | https://github.com/EXtremeExploit/EXtremeExploit | ['exploit'] | 1 | 2022-07-17 04:08:26+00:00 | 3 | 1 | | 0 | [] |
+| ReconDeveloper/ExploitDevelopment | Repository with PoCs for binary overflow exploitation | https://github.com/ReconDeveloper/ExploitDevelopment | ['exploit'] | 1 | 2022-07-17 03:24:50+00:00 | 1917 | 0 | Python | 0 | [] |
+| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-07-17 02:22:21+00:00 | 108 | 3 | Python | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-17 04:41:57+00:00 | 7080156 | 67 | Python | 10 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-17 02:22:17+00:00 | 1776 | 115 | HTML | 26 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-17 04:45:04+00:00 | 23732 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-17 04:00:59+00:00 | 233163 | 459 | Python | 129 | [] |
+| bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-07-17 02:17:07+00:00 | 228977 | 285 | C | 56 | [] |
+| Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2022-07-17 04:08:54+00:00 | 262225 | 878 | Java | 262 | [] |
+| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2022-07-17 02:21:38+00:00 | 15714 | 343 | C | 52 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-07-17 04:09:04+00:00 | 1575122 | 4500 | PowerShell | 1584 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-17 04:31:21+00:00 | 353751 | 177 | REXX | 19 | [] |
+| EXtremeExploit/EXtremeExploit.github.io | None | https://github.com/EXtremeExploit/EXtremeExploit.github.io | ['exploit'] | 1 | 2022-07-17 00:19:00+00:00 | 5843 | 0 | HTML | 0 | [] |
+| rootsecdev/CTF_Exploits | Various Custom Scripts for CTF's | https://github.com/rootsecdev/CTF_Exploits | ['exploit'] | 1 | 2022-07-17 04:08:27+00:00 | 0 | 1 | Python | 0 | [] |
