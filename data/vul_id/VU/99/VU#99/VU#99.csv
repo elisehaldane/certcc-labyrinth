@@ -63,8 +63,8 @@ VU#99,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,42
 VU#99,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#99,0.01176471,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
-VU#99,0.01136364,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#99,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
+VU#99,0.01123596,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#99,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#99,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#99,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -94,7 +94,6 @@ VU#99,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#99,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#99,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#99,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
-VU#99,0.00591716,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#99,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#99,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#99,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
@@ -104,6 +103,7 @@ VU#99,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#99,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#99,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#99,0.00423729,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
+VU#99,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#99,0.00381679,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#99,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#99,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
@@ -122,7 +122,7 @@ VU#99,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository
 VU#99,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#99,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#99,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#99,0.00057770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#99,0.00057571,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#99,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#99,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#99,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

@@ -217,7 +217,6 @@ VU#29,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough
 VU#29,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
 VU#29,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#29,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
-VU#29,0.00591716,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#29,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#29,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#29,0.00558659,https://github.com/TheMirkin/CVE-List-Public-Exploits,TheMirkin/CVE-List-Public-Exploits,441476203
@@ -226,6 +225,7 @@ VU#29,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#29,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#29,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#29,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#29,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#29,0.00381679,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#29,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#29,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -252,7 +252,7 @@ VU#29,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064977,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00057770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#29,0.00057571,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#29,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
