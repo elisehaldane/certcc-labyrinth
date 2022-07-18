@@ -1,12 +1,12 @@
 
 # Summary for results/2022/07/17
     
-115 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-17 08:07:00+00:00 | 183 | 2 | Python | 0 | [] |
-| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | ['exploit'] | 1 | 2022-07-17 00:43:38+00:00 | 1 | 0 | | 0 | [] |
+| appsecengineer/gh-actions-command-injection | None | https://github.com/appsecengineer/gh-actions-command-injection | ['command injection'] | 1 | 2022-07-17 09:32:55+00:00 | 17179 | 0 | JavaScript | 0 | [] |
 | danielxreis/picoctf_2022 | Repository to store all my solutions for the PicoCTF 2022 challenges. | https://github.com/danielxreis/picoctf_2022 | ['exploit'] | 1 | 2022-07-17 03:03:24+00:00 | 11 | 0 | C | 0 | [] |
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-07-17 02:33:19+00:00 | 63 | 0 | | 0 | [] |
 | HoangATran/BABIES | A black-box adversarial attack that exploits the local parabolic landscapes of adversarial losses | https://github.com/HoangATran/BABIES | ['exploit'] | 1 | 2022-07-17 02:35:17+00:00 | 255140 | 0 | Python | 0 | [] |
@@ -19,13 +19,14 @@
 | StrokeThePea/GelatekReanimate | Reanimation that's way better than Catware Reanimate. | https://github.com/StrokeThePea/GelatekReanimate | ['exploit'] | 1 | 2022-07-17 16:36:50+00:00 | 103 | 2 | Lua | 0 | [] |
 | Silva97/exploit-me | Please, exploit me! | https://github.com/Silva97/exploit-me | ['exploit'] | 1 | 2022-07-17 19:57:06+00:00 | 23 | 5 | C | 0 | [] |
 | loneicewolf/ReverseEngineering | A repo I make for some of my friends who requested a beginner friendly repo that has examples; links and different methods to create; compile and execute shellcode in various languages. | https://github.com/loneicewolf/ReverseEngineering | ['shellcode'] | 1 | 2022-07-17 11:45:07+00:00 | 51 | 1 | | 0 | [] |
-| appsecengineer/gh-actions-command-injection | None | https://github.com/appsecengineer/gh-actions-command-injection | ['command injection'] | 1 | 2022-07-17 09:32:55+00:00 | 17179 | 0 | JavaScript | 0 | [] |
 | Mar10Josh/Explyt | Explyt is, yes, another Roblox exploit. | https://github.com/Mar10Josh/Explyt | ['exploit'] | 1 | 2022-07-17 22:47:46+00:00 | 2457 | 0 | C# | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and creating malicious payloads using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-07-17 23:37:54+00:00 | 3349 | 2725 | PowerShell | 763 | [] |
 | teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-17 16:50:49+00:00 | 2600 | 622 | Go | 50 | [] |
 | Daniil547/js-executor-rest | Remote code execution service, exposes a REST API. Uses Spring(Boot, MVC) and GraalVM/GraalJS | https://github.com/Daniil547/js-executor-rest | ['remote code execution'] | 1 | 2022-07-17 16:28:15+00:00 | 38 | 0 | Java | 0 | [] |
 | MastMind/PE-infector | Crossplatform tool for inject shellcode into .exe binaries (x86 and x64) | https://github.com/MastMind/PE-infector | ['shellcode'] | 1 | 2022-07-17 14:52:12+00:00 | 37 | 20 | C | 6 | [] |
 | flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-07-17 05:19:16+00:00 | 2205 | 4 | Python | 0 | [] |
 | Slackaduts/Deimos-Wizard101 | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Deimos-Wizard101 | ['exploit'] | 1 | 2022-07-17 23:59:07+00:00 | 17480 | 1 | Python | 0 | [] |
+| Daparod/3dapp | To build a X3D based Coca Cola Branded (3D App) exploiting HTML5, CSS3, X3D (X3DOM), JavaScript | https://github.com/Daparod/3dapp | ['exploit'] | 1 | 2022-07-17 04:58:49+00:00 | 71399 | 0 | JavaScript | 0 | [] |
 | etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-07-17 13:00:45+00:00 | 43849 | 0 | C++ | 0 | [] |
 | hktalent/scan4all | Vulnerabilities scan；15000+POC漏洞扫描；18种应用密码爆破；7000+web指纹；146种协议90000+规则port扫描；fuzz、打点、bugbounty神器... | https://github.com/hktalent/scan4all | ['0day', 'attack poc', 'vulnerability poc'] | 3 | 2022-07-17 14:34:23+00:00 | 33789 | 219 | Go | 42 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-17 04:47:43+00:00 | 9776 | 14 | Go | 5 | [] |
@@ -33,8 +34,8 @@
 | Thirukrishnan/binexp | Writeups and Code for binary exploitation | https://github.com/Thirukrishnan/binexp | ['exploit'] | 1 | 2022-07-17 06:36:32+00:00 | 11 | 0 | Python | 0 | [] |
 | teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-07-17 12:18:05+00:00 | 1382 | 5 | TypeScript | 0 | [] |
 | aress31/raadef | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | ['exploit'] | 1 | 2022-07-17 01:21:50+00:00 | 12 | 0 | Rust | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | ['exploit'] | 1 | 2022-07-17 00:43:38+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | ['exploit'] | 1 | 2022-07-17 00:44:29+00:00 | 1 | 0 | | 0 | [] |
-| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-07-17 10:46:45+00:00 | 85412 | 261 | Python | 53 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.. | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.. | ['exploit'] | 1 | 2022-07-17 00:45:15+00:00 | 1 | 0 | | 0 | [] |
 | ThingsNStuffYouKnow/BBCF-Fix | Quick fix to prevent remote code execution exploit in BlazBlue: Central Fiction | https://github.com/ThingsNStuffYouKnow/BBCF-Fix | ['exploit', 'remote code execution'] | 2 | 2022-07-17 23:58:38+00:00 | 430 | 0 | C++ | 0 | [] |
 | monke-lol/gui-api | a gui api for roblox / roblox exploits | https://github.com/monke-lol/gui-api | ['exploit'] | 1 | 2022-07-17 19:45:01+00:00 | 16 | 0 | Lua | 0 | [] |
@@ -62,8 +63,8 @@
 | iamtryingtofindname/Helios | Private Exploit | https://github.com/iamtryingtofindname/Helios | ['exploit'] | 1 | 2022-07-17 03:33:34+00:00 | 2 | 0 | Lua | 0 | [] |
 | ravi518/OWASP-Top-10 | It contains the Resources for learning OWASP top 10 vulnerabilities. | https://github.com/ravi518/OWASP-Top-10 | ['exploit'] | 1 | 2022-07-17 14:00:34+00:00 | 5 | 0 | | 0 | [] |
 | Neetx/exploitation_docker | Docker container with exploitation technique examples, used in my master thesis | https://github.com/Neetx/exploitation_docker | ['exploit'] | 1 | 2022-07-17 09:12:41+00:00 | 32 | 8 | Python | 0 | [] |
+| W01fh4cker/Serein | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | ['0day', 'exploit'] | 2 | 2022-07-17 10:46:45+00:00 | 85412 | 261 | Python | 53 | ['CVE-2022-23337', 'CVE-2022-26134'] |
 | rchars/RandSploit | Framework for python ad-hoc tools | https://github.com/rchars/RandSploit | ['sploit'] | 1 | 2022-07-17 15:10:07+00:00 | 68 | 0 | Python | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and creating malicious payloads using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-07-17 23:37:54+00:00 | 3349 | 2725 | PowerShell | 763 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-07-17 02:22:21+00:00 | 108 | 3 | Python | 0 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2022-07-17 23:28:32+00:00 | 309 | 2 | Lua | 5 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-17 04:41:57+00:00 | 7080156 | 67 | Python | 10 | [] |
