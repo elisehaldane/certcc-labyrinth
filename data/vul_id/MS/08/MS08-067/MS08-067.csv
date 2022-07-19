@@ -201,7 +201,6 @@ MS08-067,0.03703704,https://github.com/cybervaca/Empire-test-mod,cybervaca/Empir
 MS08-067,0.03703704,https://github.com/Hackplayers/Empire-mod-Hackplayers,Hackplayers/Empire-mod-Hackplayers,87175308
 MS08-067,0.03571429,https://github.com/sailay1996/expl-bin,sailay1996/expl-bin,183272791
 MS08-067,0.03448276,https://github.com/demilson/WindowsExploit,demilson/WindowsExploit,381191322
-MS08-067,0.03333333,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
 MS08-067,0.03333333,https://github.com/paulveillard/cybersecurity-exploit-development,paulveillard/cybersecurity-exploit-development,482655180
 MS08-067,0.03333333,https://github.com/cranelab/exploit-development,cranelab/exploit-development,294222251
 MS08-067,0.03333333,https://github.com/darksh3llgr/autoscan,darksh3llgr/autoscan,150855506
@@ -240,6 +239,7 @@ MS08-067,0.01785714,https://github.com/cocomelonc/vulnexipy,cocomelonc/vulnexipy
 MS08-067,0.01666667,https://github.com/3xploit-db/Pentest-Tools-Framework,3xploit-db/Pentest-Tools-Framework,238840128
 MS08-067,0.01666667,https://github.com/pikpikcu/Pentest-Tools-Framework,pikpikcu/Pentest-Tools-Framework,235234345
 MS08-067,0.01666667,https://github.com/blackunixteam/exploits-exploitdb-bin-sploits-,blackunixteam/exploits-exploitdb-bin-sploits-,223551179
+MS08-067,0.01639344,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
 MS08-067,0.01639344,https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology,jas502n/0day-security-software-vulnerability-analysis-technology,124250221
 MS08-067,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS08-067,0.01470588,https://github.com/asr511/exploitdb-bin-sploits-offsec,asr511/exploitdb-bin-sploits-offsec,399769897
@@ -416,7 +416,7 @@ MS08-067,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS08-067,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS08-067,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS08-067,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
-MS08-067,0.00024248,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS08-067,0.00024213,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 MS08-067,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS08-067,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
