@@ -4,25 +4,27 @@ repo_id,repo_full_name,file,file_sha1,match
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2020-25287 pligg 2.0.3 RCE/README.md,152147e16f28559be98d131868db04923c3d0ac6,CVE-2020-25287
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Struts2/Poc_Script/Apache Struts 2 CVE-2018-11776.py,162082b50f34a3da283bec02fb94a8869481c1ca,CVE-2018-11776
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2020-27578 EasyVista Xss_vul/CVE-2020-27578.md,1862397c7ba07844a173ba92bc63b862fc1b8770,CVE-2020-27578
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-33891 Apache Spark RCE/README.md,372c89d515a2b35c4636c97317483294589072e0,CVE-2022-33891
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/ShiroExploit-v2.3/ShiroExploit-v2.3.jar,3ae3528404977922ccc5af63ffdb7e206f36a386,VU#45
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/ShiroExploit-v2.3/ShiroExploit-v2.3.jar,3ae3528404977922ccc5af63ffdb7e206f36a386,VU#39
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/ShiroExploit-v2.3/ShiroExploit-v2.3.jar,3ae3528404977922ccc5af63ffdb7e206f36a386,VU#26
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/ShiroExploit-v2.3/ShiroExploit-v2.3.jar,3ae3528404977922ccc5af63ffdb7e206f36a386,VU#39
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/ShiroExploit-v2.3/ShiroExploit-v2.3.jar,3ae3528404977922ccc5af63ffdb7e206f36a386,VU#83
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#03
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#77
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#59
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#56
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#46
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#10
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#95
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/grav-admin-v1.7.33.zip,4321363faf18c09009059fd8fab71da68652aabf,CVE-2022-2073
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/grav-admin-v1.7.33.zip,4321363faf18c09009059fd8fab71da68652aabf,VU#10
-511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/grav-admin-v1.7.33.zip,4321363faf18c09009059fd8fab71da68652aabf,VU#55
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#46
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#59
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#77
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#56
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,Apache Shiro/Tools/shiro_attack-4.5.3-SNAPSHOT-all/shiro_attack-4.5.3-SNAPSHOT-all.jar,3d69a8787d09954b68893155c5f10df4f9b2b077,VU#03
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/grav-admin-v1.7.33.zip,4321363faf18c09009059fd8fab71da68652aabf,VU#42
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/grav-admin-v1.7.33.zip,4321363faf18c09009059fd8fab71da68652aabf,VU#10
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/grav-admin-v1.7.33.zip,4321363faf18c09009059fd8fab71da68652aabf,CVE-2022-2073
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/grav-admin-v1.7.33.zip,4321363faf18c09009059fd8fab71da68652aabf,VU#55
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2020-11712 OpenUpload 0.4.3 XSS/README.md,4e4a0b7b5efe542e5627f11b12f081603e97ff17,CVE-2020-11712
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,README.md,634c4b37c50c000e7799843be1dc2474d74aebba,CVE-2022-0540
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2020-14421_14950 aapanel 6.6.6 RCE/README.md,66040060806dfe785f4de3ce8515e25d1e16e98d,CVE-2020-14950
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2020-14421_14950 aapanel 6.6.6 RCE/README.md,66040060806dfe785f4de3ce8515e25d1e16e98d,CVE-2020-14421
+511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-33891 Apache Spark RCE/CVE-2022-33891 Apache Spark RCE_poc.py,8e68fa0b52aa3d2f1464b28b536eb05c1126df35,CVE-2022-33891
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2020-14146 KumbiaPHP XSS/README.md,ae3d72104ac520f73f2fd3b13f8e99a69d28a033,CVE-2020-14146
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,CVE-2022-2073 gravCMS/README.md,b029b2947e46ad1987985db09b6c70019d4d4bbe,CVE-2022-2073
 511974178,Wang-yuyang/Vulnerabilit-Exploit-Library,nuclei_local_Template/CVE-2022-0540-Preauth-RCE exploit.yaml,be1c106f796f5086cf1fad987ec1eb2dfcb141a1,CVE-2022-0540
