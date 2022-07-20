@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#35,0.50000000,https://github.com/warning111/dhood,warning111/dhood,502349442
 VU#35,0.50000000,https://github.com/Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,468115159
 VU#35,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2Hub,420501078
+VU#35,0.20000000,https://github.com/RapidoBuzz/WrathSploitAPI,RapidoBuzz/WrathSploitAPI,515803951
 VU#35,0.20000000,https://github.com/Ch0pin/AVIator,Ch0pin/AVIator,129488616
 VU#35,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942458
 VU#35,0.14285714,https://github.com/Qufity/qufity.github.io,Qufity/qufity.github.io,166701107
