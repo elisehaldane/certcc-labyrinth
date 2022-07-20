@@ -18,8 +18,8 @@ VU#75,0.05000000,https://github.com/io-poc/vulnado-poc-1,io-poc/vulnado-poc-1,47
 VU#75,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#75,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#75,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
-VU#75,0.03846154,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#75,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
+VU#75,0.03703704,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#75,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#75,0.02857143,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#75,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -87,7 +87,7 @@ VU#75,0.01219512,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#75,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#75,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#75,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#75,0.01098901,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
+VU#75,0.01086957,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#75,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#75,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#75,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -100,6 +100,7 @@ VU#75,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#75,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#75,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#75,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
+VU#75,0.00757576,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#75,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#75,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#75,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694

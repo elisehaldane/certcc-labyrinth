@@ -5,6 +5,7 @@ VU#55,1.00000000,https://github.com/Zipen999/sae-2.04,Zipen999/sae-2.04,47486991
 VU#55,1.00000000,https://github.com/skyMateus/skyExploit,skyMateus/skyExploit,460245320
 VU#55,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#55,0.33333333,https://github.com/thiagofigcosta/V-REx,thiagofigcosta/V-REx,306664684
+VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
 VU#55,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#55,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
 VU#55,0.20000000,https://github.com/AhmedMinegames/AntiHackingEngine,AhmedMinegames/AntiHackingEngine,475605588
@@ -120,7 +121,7 @@ VU#55,0.01219512,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#55,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#55,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#55,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#55,0.01098901,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
+VU#55,0.01086957,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#55,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#55,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#55,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874

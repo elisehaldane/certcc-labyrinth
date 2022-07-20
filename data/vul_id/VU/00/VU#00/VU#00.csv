@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#00,0.50000000,https://github.com/cmurai/exp2estimation,cmurai/exp2estimation,380392795
 VU#00,0.33333333,https://github.com/TyeYeah/DIR-890L-1.20-RCE,TyeYeah/DIR-890L-1.20-RCE,476281239
 VU#00,0.33333333,https://github.com/readloud/XSS-HTTP-Inject0r,readloud/XSS-HTTP-Inject0r,467438550
+VU#00,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
 VU#00,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,427952437
 VU#00,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
 VU#00,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
@@ -26,8 +27,8 @@ VU#00,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
 VU#00,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197
 VU#00,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#00,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
-VU#00,0.03846154,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#00,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
+VU#00,0.03703704,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#00,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#00,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#00,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
@@ -55,7 +56,7 @@ VU#00,0.01333333,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hac
 VU#00,0.01298701,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#00,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#00,0.01176471,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
-VU#00,0.01098901,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
+VU#00,0.01086957,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#00,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#00,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#00,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
