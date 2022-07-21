@@ -76,6 +76,7 @@ VU#74,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarah
 VU#74,0.02631579,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#74,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#74,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#74,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#74,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#74,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
 VU#74,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,510346412
@@ -138,6 +139,7 @@ VU#74,0.01176471,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,3370
 VU#74,0.01149425,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#74,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#74,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#74,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#74,0.01010101,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#74,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#74,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
@@ -190,7 +192,7 @@ VU#74,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#74,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#74,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#74,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#74,0.00056721,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#74,0.00056593,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#74,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#74,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#74,0.00004627,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

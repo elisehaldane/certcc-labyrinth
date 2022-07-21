@@ -24,6 +24,7 @@ VU#52,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Ho
 VU#52,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#52,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
 VU#52,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
+VU#52,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#52,0.02857143,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#52,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#52,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
@@ -34,7 +35,7 @@ VU#52,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4709
 VU#52,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#52,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#52,0.01333333,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
-VU#52,0.01298701,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#52,0.01250000,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#52,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#52,0.01176471,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#52,0.01149425,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
@@ -45,6 +46,7 @@ VU#52,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/Malw
 VU#52,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#52,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#52,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
+VU#52,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#52,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#52,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#52,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093

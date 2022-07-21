@@ -30,11 +30,11 @@ VU#98,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,976708
 VU#98,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#98,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
 VU#98,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
-VU#98,0.03703704,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#98,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#98,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#98,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#98,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
+VU#98,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#98,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#98,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#98,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
@@ -46,6 +46,7 @@ VU#98,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github
 VU#98,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#98,0.02631579,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#98,0.02222222,https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits,takeboy/https-github.com-abatchy17-WindowsExploits,456416342
+VU#98,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#98,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#98,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
 VU#98,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,510346412
@@ -109,6 +110,7 @@ VU#98,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#98,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#98,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#98,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
+VU#98,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#98,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#98,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#98,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
@@ -168,7 +170,7 @@ VU#98,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#98,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#98,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#98,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#98,0.00056721,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#98,0.00056593,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#98,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#98,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#98,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
