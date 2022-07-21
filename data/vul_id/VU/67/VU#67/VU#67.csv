@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#67,1.00000000,https://github.com/nototter/kamakiri-be,nototter/kamakiri-be,516222251
 VU#67,1.00000000,https://github.com/Anaas0/exim_4_4_6_9_string_format_function_heap_buffer_overflow,Anaas0/exim_4_4_6_9_string_format_function_heap_buffer_overflow,467243424
 VU#67,1.00000000,https://github.com/Desm0ndChan/AWS-LambdaRCE,Desm0ndChan/AWS-LambdaRCE,442646894
 VU#67,1.00000000,https://github.com/RETIREglitch/Pokemon-Research,RETIREglitch/Pokemon-Research,307504052
@@ -117,7 +118,7 @@ VU#67,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#67,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#67,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#67,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
-VU#67,0.00056818,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#67,0.00056721,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#67,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#67,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#67,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

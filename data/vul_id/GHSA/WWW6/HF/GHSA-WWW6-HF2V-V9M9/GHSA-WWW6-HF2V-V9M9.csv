@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-WWW6-HF2V-V9M9,0.00064977,https://github.com/veo/vscan,veo/vscan,377697824
-GHSA-WWW6-HF2V-V9M9,0.00056818,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+GHSA-WWW6-HF2V-V9M9,0.00056721,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
