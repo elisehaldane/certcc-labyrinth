@@ -1,0 +1,43 @@
+
+# Summary for results/2022/07/22
+    
+36 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-22 01:31:05+00:00 | 771134 | 27777 | Ruby | 12375 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-07-22 00:05:54+00:00 | 21804 | 7460 | JavaScript | 1738 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-22 04:15:46+00:00 | 10578 | 14 | Go | 5 | [] |
+| hktalent/scan4all | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | ['0day', 'attack poc', 'vulnerability poc'] | 3 | 2022-07-22 03:47:37+00:00 | 40481 | 630 | Go | 112 | [] |
+| teamssix/cf | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-22 04:44:50+00:00 | 2584 | 676 | Go | 56 | [] |
+| tormux-project/tormux-project | Tormux project | https://github.com/tormux-project/tormux-project | ['exploit'] | 1 | 2022-07-22 02:21:30+00:00 | 306 | 1 | Shell | 0 | [] |
+| summiner/ServerPatches | A global patch for multiple ways to crash servers including exploits and other methods. Adding more features soon! | https://github.com/summiner/ServerPatches | ['exploit'] | 1 | 2022-07-22 00:39:52+00:00 | 24 | 0 | Java | 0 | [] |
+| HuskyHacks/cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | ['command injection', 'cve-2 OR cve_2'] | 2 | 2022-07-22 00:25:26+00:00 | 33 | 49 | Python | 7 | ['CVE-2022-33891'] |
+| MingWilliams/chrome_exploit_knowledge | chrome利用知识整理 | https://github.com/MingWilliams/chrome_exploit_knowledge | ['exploit'] | 1 | 2022-07-22 02:39:09+00:00 | 1 | 0 | | 0 | [] |
+| DharmaDoll/Search-Poc-from-CVE | None | https://github.com/DharmaDoll/Search-Poc-from-CVE | ['cve poc'] | 1 | 2022-07-22 01:33:29+00:00 | 10 | 0 | Shell | 0 | [] |
+| yudikubota/exemplo_ataque_reentrada | Demonstração de um ataque de reentrada em solidity. | https://github.com/yudikubota/exemplo_ataque_reentrada | ['exploit'] | 1 | 2022-07-22 01:36:58+00:00 | 121 | 0 | TypeScript | 0 | [] |
+| DevXternal/Exploit | some shit stuff that i make for boblox. | https://github.com/DevXternal/Exploit | ['exploit'] | 1 | 2022-07-22 00:07:39+00:00 | 11 | 0 | | 0 | [] |
+| TheOnlyLordVirus/Mw2-RCE-Exploit-Builder | This is a known method for preforming Remote Code Execution for MW2 on the latest update (Patch 1.4.647.0) | https://github.com/TheOnlyLordVirus/Mw2-RCE-Exploit-Builder | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-07-22 00:39:12+00:00 | 5 | 0 | C# | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN---.. | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN---.. | ['exploit'] | 1 | 2022-07-22 01:03:50+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN---.. | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN---.. | ['exploit'] | 1 | 2022-07-22 01:05:23+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN---.. | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN---.. | ['exploit'] | 1 | 2022-07-22 01:06:21+00:00 | 1 | 0 | | 0 | [] |
+| J0hnbX/CVE-2022-30333 | None | https://github.com/J0hnbX/CVE-2022-30333 | ['cve-2 OR cve_2'] | 1 | 2022-07-22 01:14:36+00:00 | 1 | 0 | Ruby | 0 | ['CVE-2022-30333'] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-22 01:22:51+00:00 | 38575 | 733 | C++ | 188 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-07-22 00:18:54+00:00 | 745 | 32 | Shell | 13 | [] |
+| willfindlay/houdini | Houdini is a container escape artist. Test your container security frameworks against known exploits. | https://github.com/willfindlay/houdini | ['exploit'] | 1 | 2022-07-22 02:36:15+00:00 | 136 | 0 | Rust | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-22 04:12:06+00:00 | 24000 | 3 | Python | 1 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-22 00:31:48+00:00 | 52001 | 310 | Ruby | 87 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-22 04:33:35+00:00 | 359703 | 179 | REXX | 19 | [] |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2022-07-22 02:55:25+00:00 | 540 | 157 | Java | 36 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-22 00:48:43+00:00 | 14004 | 43 | | 22 | [] |
+| victorwoo/extract-0day | Extract packages from 0daydown | https://github.com/victorwoo/extract-0day | ['0day'] | 1 | 2022-07-22 02:45:29+00:00 | 890 | 0 | PowerShell | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-22 04:00:59+00:00 | 226496 | 463 | Python | 131 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-22 02:20:21+00:00 | 1911 | 117 | HTML | 26 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-22 01:17:31+00:00 | 495 | 0 | | 0 | [] |
+| SQLab/CRAXplusplus | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | ['exploit'] | 1 | 2022-07-22 04:51:53+00:00 | 4374 | 57 | C++ | 7 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-22 04:48:56+00:00 | 7236977 | 69 | Python | 10 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-22 04:03:22+00:00 | 9742 | 3463 | TypeScript | 541 | [] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-07-22 01:23:12+00:00 | 1226 | 7 | C | 2 | [] |
+| AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2022-07-22 04:07:06+00:00 | 8253 | 0 | Lua | 0 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-07-22 02:07:35+00:00 | 76434 | 171 | Go | 36 | [] |
+| zanefry/Evil-Twin | Evil twin attack exploiting mobile devices to get hashes of WPA2-Personal PSKs. | https://github.com/zanefry/Evil-Twin | ['exploit'] | 1 | 2022-07-22 03:27:53+00:00 | 4500 | 0 | Shell | 0 | [] |
