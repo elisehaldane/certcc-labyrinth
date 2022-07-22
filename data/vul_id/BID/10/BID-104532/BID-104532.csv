@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-104532,0.33333333,https://github.com/reddevil-j/metasploit_modules,reddevil-j/metasploit_modules,145339203
 BID-104532,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 BID-104532,0.00064977,https://github.com/veo/vscan,veo/vscan,377697824
-BID-104532,0.00056561,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+BID-104532,0.00056529,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-104532,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 BID-104532,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 BID-104532,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
@@ -64,5 +64,5 @@ BID-104532,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackun
 BID-104532,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 BID-104532,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
 BID-104532,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
-BID-104532,0.00004627,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+BID-104532,0.00004626,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-104532,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
