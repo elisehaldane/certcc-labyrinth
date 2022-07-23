@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS17-010,1.00000000,https://github.com/ahmet-ceng/Computer_Networks_and_Security_Reports,ahmet-ceng/Computer_Networks_and_Security_Reports,505605183
 MS17-010,1.00000000,https://github.com/kaomunghui/Metasploit_RPC_Bridge,kaomunghui/Metasploit_RPC_Bridge,504041881
+MS17-010,1.00000000,https://github.com/touhidulshawan/exploitation_doc,touhidulshawan/exploitation_doc,495136879
 MS17-010,1.00000000,https://github.com/Cr4zyD14m0nd/IntroMetasploit,Cr4zyD14m0nd/IntroMetasploit,485544696
 MS17-010,1.00000000,https://github.com/ClockW-TheROOT/exploits,ClockW-TheROOT/exploits,482570376
 MS17-010,1.00000000,https://github.com/DitohartoPramudya/EternalBlue,DitohartoPramudya/EternalBlue,479283328
@@ -323,8 +324,8 @@ MS17-010,0.01538462,https://github.com/r3naissance/eatt,r3naissance/eatt,5074424
 MS17-010,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS17-010,0.01470588,https://github.com/asr511/exploitdb-bin-sploits-offsec,asr511/exploitdb-bin-sploits-offsec,399769897
 MS17-010,0.01449275,https://github.com/paramint/offensive-security-exploitdb-bin-sploits,paramint/offensive-security-exploitdb-bin-sploits,402516412
-MS17-010,0.01388889,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS17-010,0.01369863,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
+MS17-010,0.01369863,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS17-010,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 MS17-010,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
 MS17-010,0.01219512,https://github.com/Sma-Das/TryHackMe,Sma-Das/TryHackMe,382572363

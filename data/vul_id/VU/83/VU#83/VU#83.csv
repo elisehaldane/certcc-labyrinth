@@ -24,6 +24,7 @@ VU#83,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,43
 VU#83,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#83,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
 VU#83,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
+VU#83,0.20000000,https://github.com/xiaomiwujiecao/cleverShell,xiaomiwujiecao/cleverShell,180967944
 VU#83,0.16666667,https://github.com/vidrez/log4j-rce-poc,vidrez/log4j-rce-poc,503471159
 VU#83,0.16666667,https://github.com/NagisaYumaa/Log4j_Exploit,NagisaYumaa/Log4j_Exploit,498220300
 VU#83,0.16666667,https://github.com/Phineas09/CVE-2021-44228,Phineas09/CVE-2021-44228,491872919
@@ -100,8 +101,8 @@ VU#83,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#83,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#83,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 VU#83,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
-VU#83,0.01754386,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#83,0.01724138,https://github.com/sairson/NetworkExpLibrary,sairson/NetworkExpLibrary,402940830
+VU#83,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#83,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#83,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#83,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
@@ -115,8 +116,8 @@ VU#83,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,11791108
 VU#83,0.01136364,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#83,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#83,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#83,0.01075269,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#83,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#83,0.01063830,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#83,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#83,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#83,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -134,6 +135,7 @@ VU#83,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnee
 VU#83,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#83,0.00787402,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#83,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
+VU#83,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#83,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#83,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#83,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
