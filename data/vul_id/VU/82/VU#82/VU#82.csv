@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#82,1.00000000,https://github.com/D3Ext/DFShell,D3Ext/DFShell,516154036
 VU#82,1.00000000,https://github.com/MuseMamba/Exploit-Format-String-Vulnerabilities,MuseMamba/Exploit-Format-String-Vulnerabilities,207324279
 VU#82,0.50000000,https://github.com/Dolgardur/MasterThesis,Dolgardur/MasterThesis,502965701
 VU#82,0.50000000,https://github.com/Shreyas-Penkar/MITM-SDR,Shreyas-Penkar/MITM-SDR,442740464

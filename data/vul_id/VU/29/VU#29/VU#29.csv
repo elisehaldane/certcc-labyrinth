@@ -10,6 +10,7 @@ VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,put
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
 VU#29,1.00000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
+VU#29,0.50000000,https://github.com/AkbarTrilaksana/CVE-2022-32832,AkbarTrilaksana/CVE-2022-32832,516837211
 VU#29,0.50000000,https://github.com/Muirey03/CVE-2022-32832,Muirey03/CVE-2022-32832,516376265
 VU#29,0.50000000,https://github.com/rbowes-r7/manageengine-auditad-cve-2022-28219,rbowes-r7/manageengine-auditad-cve-2022-28219,509605278
 VU#29,0.50000000,https://github.com/warning111/dhood,warning111/dhood,502349442
@@ -103,7 +104,6 @@ VU#29,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/L
 VU#29,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#29,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#29,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
-VU#29,0.03333333,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#29,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#29,0.03333333,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#29,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
@@ -259,6 +259,7 @@ VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#29,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064977,https://github.com/veo/vscan,veo/vscan,377697824
+VU#29,0.00063091,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#29,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#29,0.00056529,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
