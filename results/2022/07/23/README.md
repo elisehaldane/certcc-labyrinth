@@ -1,13 +1,12 @@
 
 # Summary for results/2022/07/23
     
-113 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-07-23 00:44:29+00:00 | 771134 | 27787 | Ruby | 12383 | [] |
-| prok3z/Wordpress-Exploits | Collection of Exploit, CVES(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-23 15:06:41+00:00 | 2436 | 34 | Python | 9 | [] |
-| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--.0 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--.0 | ['exploit'] | 1 | 2022-07-23 00:14:48+00:00 | 0 | 0 | | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN--.0 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--.0 | ['exploit'] | 1 | 2022-07-23 00:15:36+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-0 | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-0 | ['exploit'] | 1 | 2022-07-23 00:13:49+00:00 | 1 | 0 | | 0 | [] |
 | cawfree/opensea-submarine | Ping. Ping. Ping. | https://github.com/cawfree/opensea-submarine | ['exploit'] | 1 | 2022-07-23 22:54:04+00:00 | 67 | 4 | TypeScript | 0 | [] |
 | MDev123/Pls-Donate-Exploit | None | https://github.com/MDev123/Pls-Donate-Exploit | ['exploit'] | 1 | 2022-07-23 13:51:03+00:00 | 22 | 0 | Lua | 0 | [] |
@@ -32,10 +31,11 @@
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-23 03:59:28+00:00 | 10772 | 14 | Go | 5 | [] |
 | x8g/Discord-GC-VC-Exploit | None | https://github.com/x8g/Discord-GC-VC-Exploit | ['exploit'] | 1 | 2022-07-23 14:56:29+00:00 | 4 | 2 | Python | 1 | [] |
 | touhidulshawan/exploitation_doc | This file is used to document various type of exploitation with msfconsole [practice purpose only] | https://github.com/touhidulshawan/exploitation_doc | ['exploit', 'metasploit module OR payload'] | 2 | 2022-07-23 12:12:02+00:00 | 960 | 0 | | 0 | [] |
-| codingcore2/SILENT-DOC-EXPLOIT-CLEAN--.0 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--.0 | ['exploit'] | 1 | 2022-07-23 00:15:36+00:00 | 1 | 0 | | 0 | [] |
+| Armandukx/ArmanX | A roblox executor/exploit multi API save's settings, etc | https://github.com/Armandukx/ArmanX | ['exploit'] | 1 | 2022-07-23 15:56:28+00:00 | 583 | 0 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--.0 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--.0 | ['exploit'] | 1 | 2022-07-23 00:14:48+00:00 | 0 | 0 | | 0 | [] |
 | Meeow103/Extremely-Silent-JPG-Exploit-v2.1 | None | https://github.com/Meeow103/Extremely-Silent-JPG-Exploit-v2.1 | ['exploit'] | 1 | 2022-07-23 00:39:41+00:00 | 2 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-07-23 23:29:28+00:00 | 21804 | 7470 | JavaScript | 1745 | [] |
 | Meeow103/SILENT-PDF-Exploit-EXE-TO-PDF-2022 | None | https://github.com/Meeow103/SILENT-PDF-Exploit-EXE-TO-PDF-2022 | ['exploit'] | 1 | 2022-07-23 00:45:52+00:00 | 2 | 0 | | 0 | [] |
-| ShadowWusky/InfinityX | Stuff for InfinityX Exploit | https://github.com/ShadowWusky/InfinityX | ['exploit'] | 1 | 2022-07-23 13:03:42+00:00 | 0 | 0 | | 0 | [] |
 | iluvpy/hax | hacking? i have no idea how to do that, just me trying to find exploits using whatever i can | https://github.com/iluvpy/hax | ['exploit'] | 1 | 2022-07-23 23:19:25+00:00 | 2 | 0 | | 0 | [] |
 | ssssssssad/SkySploit | my exploit | https://github.com/ssssssssad/SkySploit | ['exploit', 'sploit'] | 2 | 2022-07-23 22:19:44+00:00 | 1 | 0 | | 0 | [] |
 | D4rkByt3s/H4ck_Th3_Pl4n3t | A repository for the organisation and storage of shellcode, exploits, and tools I have created. | https://github.com/D4rkByt3s/H4ck_Th3_Pl4n3t | ['exploit', 'shellcode'] | 2 | 2022-07-23 21:02:35+00:00 | 1 | 0 | | 0 | [] |
@@ -47,8 +47,8 @@
 | keven1z/CVE-2022-26134 | 远程攻击者在Confluence未经身份验证的情况下，可构造OGNL表达式进行注入，实现在Confluence Server或Data Center上执行任意代码,在现有脚本上修改了poc，方便getshell。 | https://github.com/keven1z/CVE-2022-26134 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-07-23 14:45:45+00:00 | 8 | 0 | Python | 0 | ['CVE-2022-26134'] |
 | Beshoy1234/Beshoy_Sploit | None | https://github.com/Beshoy1234/Beshoy_Sploit | ['sploit'] | 1 | 2022-07-23 14:03:15+00:00 | 0 | 0 | | 0 | [] |
 | 2MDJR/Liversedge | First exploit I have officially created not as a joke, but a totally redistributable Roblox exploit. | https://github.com/2MDJR/Liversedge | ['exploit'] | 1 | 2022-07-23 14:17:10+00:00 | 34448 | 0 | C# | 0 | [] |
+| ShadowWusky/InfinityX | Stuff for InfinityX Exploit | https://github.com/ShadowWusky/InfinityX | ['exploit'] | 1 | 2022-07-23 13:03:42+00:00 | 0 | 0 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-.- | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-.- | ['exploit'] | 1 | 2022-07-23 12:33:42+00:00 | 1 | 0 | | 0 | [] |
-| Meeow103/Silent-Excel-Exploit---EXE-to-XLS-Builder | None | https://github.com/Meeow103/Silent-Excel-Exploit---EXE-to-XLS-Builder | ['exploit'] | 1 | 2022-07-23 00:48:10+00:00 | 2 | 0 | | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-.- | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-.- | ['exploit'] | 1 | 2022-07-23 12:32:46+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-.- | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-.- | ['exploit'] | 1 | 2022-07-23 12:31:43+00:00 | 1 | 0 | | 0 | [] |
 | sconconstruction/-Architural-Companines-in-Marathahalli---Sconconstructions | Architural Companines in Marathahalli. In this phase, after having analyzed all the issues in the THINK THE IDEAL phase , we refine the parameters of your tertiary space-planning project, and develop the organization and the interior architectural concept | https://github.com/sconconstruction/-Architural-Companines-in-Marathahalli---Sconconstructions | ['exploit'] | 1 | 2022-07-23 10:20:08+00:00 | 0 | 0 | | 0 | [] |
@@ -60,11 +60,11 @@
 | 0x414141414/Word-Exploit-2022-0day | None | https://github.com/0x414141414/Word-Exploit-2022-0day | ['0day', 'exploit'] | 2 | 2022-07-23 00:51:40+00:00 | 2 | 0 | | 0 | [] |
 | 0x414141414/Silent-XLL-DROPPER-EXPLOIT | None | https://github.com/0x414141414/Silent-XLL-DROPPER-EXPLOIT | ['exploit'] | 1 | 2022-07-23 00:50:02+00:00 | 1 | 0 | | 0 | [] |
 | 0x414141414/SILENT-JPG-EXPLOIT-CLEAN | None | https://github.com/0x414141414/SILENT-JPG-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-07-23 00:49:11+00:00 | 1 | 0 | | 0 | [] |
-| Armandukx/ArmanX | A roblox executor/exploit multi API save's settings, etc | https://github.com/Armandukx/ArmanX | ['exploit'] | 1 | 2022-07-23 15:56:28+00:00 | 583 | 0 | | 0 | [] |
+| Meeow103/Silent-Excel-Exploit---EXE-to-XLS-Builder | None | https://github.com/Meeow103/Silent-Excel-Exploit---EXE-to-XLS-Builder | ['exploit'] | 1 | 2022-07-23 00:48:10+00:00 | 2 | 0 | | 0 | [] |
+| prok3z/Wordpress-Exploits | Collection of Exploit, CVES(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | ['exploit'] | 1 | 2022-07-23 15:06:41+00:00 | 2436 | 34 | Python | 9 | [] |
 | f1ammable/discerpo | Discord bot which helps with binary exploitation, written in discord.py | https://github.com/f1ammable/discerpo | ['exploit'] | 1 | 2022-07-23 03:41:51+00:00 | 81 | 0 | Python | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-07-23 00:04:10+00:00 | 1534833 | 1656 | Python | 545 | [] |
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-23 02:44:34+00:00 | 38575 | 749 | C++ | 192 | [] |
-| 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-07-23 06:42:12+00:00 | 77700 | 10 | Java | 4 | [] |
+| NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-07-23 11:36:19+00:00 | 8424 | 0 | | 2 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-23 02:19:14+00:00 | 1976 | 117 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-23 04:40:06+00:00 | 22637 | 3 | Python | 1 | [] |
 | robertguetzkow/ets5-password-recovery | ETS5 Password Recovery Tool is a PoC for CVE-2021-36799 | https://github.com/robertguetzkow/ets5-password-recovery | ['cve poc'] | 1 | 2022-07-23 14:08:41+00:00 | 142 | 16 | C# | 3 | ['CVE-2021-36799'] |
@@ -89,11 +89,11 @@
 | 0xRisqi/kcfinder-exploiter | Kcfinder Mass Exploiter | https://github.com/0xRisqi/kcfinder-exploiter | ['exploit'] | 1 | 2022-07-23 15:03:02+00:00 | 11 | 3 | PHP | 7 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-23 00:27:02+00:00 | 53547 | 310 | Ruby | 88 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-07-23 14:55:04+00:00 | 76185 | 11752 | Jupyter Notebook | 2023 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-07-23 00:04:10+00:00 | 1534833 | 1656 | Python | 545 | [] |
+| 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-07-23 06:42:12+00:00 | 77700 | 10 | Java | 4 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2022-07-23 15:47:48+00:00 | 114 | 5 | Python | 4 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine that is fully expandable with plugins, using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2022-07-23 12:32:47+00:00 | 897 | 0 | TypeScript | 0 | [] |
-| K1llf0rce/K1llf0rce | My personal repository | https://github.com/K1llf0rce/K1llf0rce | ['rce'] | 1 | 2022-07-23 22:37:41+00:00 | 19 | 0 | | 0 | [] |
-| bkojusner/CVE-2021-25461 | None | https://github.com/bkojusner/CVE-2021-25461 | ['cve-2 OR cve_2'] | 1 | 2022-07-23 16:16:42+00:00 | 1028 | 4 | Shell | 1 | ['CVE-2021-25461'] |
-| NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-07-23 11:36:19+00:00 | 8424 | 0 | | 2 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-07-23 08:42:43+00:00 | 3621 | 695 | Go | 106 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-07-23 13:27:48+00:00 | 2476 | 0 | Python | 0 | [] |
 | GamehunterKaan/AutoPWN-Suite | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | ['exploit'] | 1 | 2022-07-23 09:20:26+00:00 | 10629 | 510 | Python | 61 | [] |
 | yu1hpa/blog | I mainly write blogs related to pwn / Binary exploitation and what I learned stuff. | https://github.com/yu1hpa/blog | ['exploit'] | 1 | 2022-07-23 05:21:30+00:00 | 1294 | 0 | | 0 | [] |
@@ -104,9 +104,9 @@
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-07-23 20:56:24+00:00 | 43 | 0 | Nix | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-07-23 15:00:53+00:00 | 461699 | 1 | Python | 0 | [] |
 | willfindlay/houdini | Houdini is a container escape artist. Test your container security frameworks against known exploits. | https://github.com/willfindlay/houdini | ['exploit'] | 1 | 2022-07-23 01:41:39+00:00 | 144 | 0 | Rust | 0 | [] |
-| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-07-23 08:42:43+00:00 | 3621 | 695 | Go | 106 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-23 04:34:41+00:00 | 7290640 | 69 | Python | 10 | [] |
+| bkojusner/CVE-2021-25461 | None | https://github.com/bkojusner/CVE-2021-25461 | ['cve-2 OR cve_2'] | 1 | 2022-07-23 16:16:42+00:00 | 1028 | 4 | Shell | 1 | ['CVE-2021-25461'] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-23 00:39:13+00:00 | 212059 | 3 | Jupyter Notebook | 0 | [] |
+| K1llf0rce/K1llf0rce | My personal repository | https://github.com/K1llf0rce/K1llf0rce | ['rce'] | 1 | 2022-07-23 22:37:41+00:00 | 19 | 0 | | 0 | [] |
 | AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2022-07-23 01:36:43+00:00 | 8258 | 0 | Lua | 0 | [] |
 | RektifyAI/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/RektifyAI/attack-playbook | ['exploit'] | 1 | 2022-07-23 06:54:42+00:00 | 850 | 1 | | 0 | [] |
 | tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-07-23 15:45:25+00:00 | 53648 | 940 | Python | 217 | [] |
@@ -117,4 +117,5 @@
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-23 12:07:58+00:00 | 9857 | 3470 | TypeScript | 542 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2022-07-23 10:18:33+00:00 | 125223 | 0 | Jupyter Notebook | 0 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-07-23 06:40:23+00:00 | 5098 | 16 | | 3 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-23 04:34:41+00:00 | 7290640 | 69 | Python | 10 | [] |
 | nltt-br/PoC-CVEs | None | https://github.com/nltt-br/PoC-CVEs | ['cve poc'] | 1 | 2022-07-23 23:41:02+00:00 | 0 | 0 | | 0 | [] |
