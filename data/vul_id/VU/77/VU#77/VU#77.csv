@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#77,1.00000000,https://github.com/Z3r02infini7y/metasploitable3,Z3r02infini7y/metasploitable3,413168480
 VU#77,0.50000000,https://github.com/counoxe/Counoxe,counoxe/Counoxe,487935711
-VU#77,0.50000000,https://github.com/TitanVale/Titanium,TitanVale/Titanium,485712403
+VU#77,0.50000000,https://github.com/TitanVale/TitaniumMC,TitanVale/TitaniumMC,485712403
 VU#77,0.50000000,https://github.com/xFelienDev/ExploitPack,xFelienDev/ExploitPack,482935784
 VU#77,0.50000000,https://github.com/dusty99/dusty,dusty99/dusty,473135347
 VU#77,0.50000000,https://github.com/daccakareem/roblox-exploit,daccakareem/roblox-exploit,439028367
@@ -26,10 +26,10 @@ VU#77,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JN
 VU#77,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#77,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
 VU#77,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
-VU#77,0.05882353,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#77,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#77,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
 VU#77,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
+VU#77,0.05555556,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#77,0.05555556,https://github.com/DilpreetSinghBajwa/Resources-public,DilpreetSinghBajwa/Resources-public,409501850
 VU#77,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
 VU#77,0.05000000,https://github.com/io-poc/vulnado-poc-1,io-poc/vulnado-poc-1,474069190
@@ -182,7 +182,7 @@ VU#77,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#77,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#77,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#77,0.00063091,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#77,0.00056497,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#77,0.00056338,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#77,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#77,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#77,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
