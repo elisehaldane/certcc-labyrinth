@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+517960755,TheAlpha19/MiniExploit,README.md,4eb7484aa0bf59da97fa4b58ba4b5500a4051e13,CVE-2019-15107
+517960755,TheAlpha19/MiniExploit,_GITHUB_REPO_METADATA_,,CVE-2019-15107
