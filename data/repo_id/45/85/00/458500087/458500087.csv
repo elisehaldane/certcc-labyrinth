@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+458500087,hotpotcookie/log4shell-white-box,red/pwnd.tar.gz,513a4e279b3b94f0ad55989397d4d484f2db3e72,VU#90
 458500087,hotpotcookie/log4shell-white-box,README.md,54d83aba15e85f85b86c8f9e0ee1c7e9ee05700a,CVE-2021-44228
 458500087,hotpotcookie/log4shell-white-box,_GITHUB_REPO_METADATA_,,CVE-2021-44228
