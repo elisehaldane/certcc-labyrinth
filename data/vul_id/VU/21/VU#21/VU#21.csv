@@ -65,8 +65,8 @@ VU#21,0.02631579,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,17
 VU#21,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#21,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#21,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
-VU#21,0.02222222,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#21,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
+VU#21,0.02173913,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#21,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#21,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#21,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
@@ -167,6 +167,7 @@ VU#21,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough
 VU#21,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#21,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
 VU#21,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
+VU#21,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
 VU#21,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#21,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#21,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271

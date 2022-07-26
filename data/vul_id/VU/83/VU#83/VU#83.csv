@@ -119,8 +119,8 @@ VU#83,0.01123596,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,44
 VU#83,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#83,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#83,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
-VU#83,0.01052632,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#83,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
+VU#83,0.01041667,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#83,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#83,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#83,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
@@ -150,6 +150,7 @@ VU#83,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough
 VU#83,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#83,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
 VU#83,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
+VU#83,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
 VU#83,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#83,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#83,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
