@@ -4,7 +4,6 @@ VU#04,1.00000000,https://github.com/Pen-Test3rs/binary_exploits_frontend,Pen-Tes
 VU#04,0.50000000,https://github.com/YieldingExploiter/StepfordExploitableRailway,YieldingExploiter/StepfordExploitableRailway,515967705
 VU#04,0.50000000,https://github.com/YieldingExploiter/RobloxTS-Base,YieldingExploiter/RobloxTS-Base,510853663
 VU#04,0.50000000,https://github.com/rama291041610/CVE-2022-1292,rama291041610/CVE-2022-1292,498028990
-VU#04,0.50000000,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#04,0.25000000,https://github.com/gotr00t0day/Gsec,gotr00t0day/Gsec,514873078
 VU#04,0.16666667,https://github.com/Joaogabs1346/Customer-Segmentation-in-Ecomme-olist-rce,Joaogabs1346/Customer-Segmentation-in-Ecomme-olist-rce,511268150
 VU#04,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
@@ -138,7 +137,7 @@ VU#04,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#04,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#04,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#04,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#04,0.00056338,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#04,0.00056306,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#04,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#04,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#04,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -148,7 +147,7 @@ VU#04,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/m
 VU#04,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#04,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#04,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
-VU#04,0.00020165,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#04,0.00020153,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#04,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#04,0.00004626,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#04,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

@@ -4,6 +4,7 @@ VU#74,1.00000000,https://github.com/JosephFrankFir/Megaploit,JosephFrankFir/Mega
 VU#74,1.00000000,https://github.com/sguazt/ccpe2014,sguazt/ccpe2014,20526964
 VU#74,0.50000000,https://github.com/p0dalirius/JoGet-plugin-webshell,p0dalirius/JoGet-plugin-webshell,469814889
 VU#74,0.50000000,https://github.com/AnonymPlayer2/TL-Exploit,AnonymPlayer2/TL-Exploit,458954886
+VU#74,0.33333333,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
 VU#74,0.33333333,https://github.com/jakabakos/CVE-2017-9096,jakabakos/CVE-2017-9096,493607609
 VU#74,0.33333333,https://github.com/timekillerj/JNDI-Injection-Exploit,timekillerj/JNDI-Injection-Exploit,486619300
 VU#74,0.33333333,https://github.com/AidenPearce369/Vulnserver-Walkthrough,AidenPearce369/Vulnserver-Walkthrough,457252612
@@ -13,9 +14,9 @@ VU#74,0.33333333,https://github.com/dbgee/log4j2_rce,dbgee/log4j2_rce,436839306
 VU#74,0.33333333,https://github.com/x1official/TestSploit-X,x1official/TestSploit-X,426752533
 VU#74,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/RobloxExploitSample,426473019
 VU#74,0.33333333,https://github.com/nsandholtz/hotspot_paper,nsandholtz/hotspot_paper,384251587
-VU#74,0.25000000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
 VU#74,0.25000000,https://github.com/Kob123678/Edit-KoSploit-VIP,Kob123678/Edit-KoSploit-VIP,489266496
 VU#74,0.25000000,https://github.com/Grazee/CVE-2022-1329-WordPress-Elementor-RCE,Grazee/CVE-2022-1329-WordPress-Elementor-RCE,483460698
+VU#74,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#74,0.25000000,https://github.com/lumalav/CAP6135_FinalProject,lumalav/CAP6135_FinalProject,475988297
 VU#74,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
 VU#74,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
@@ -141,7 +142,7 @@ VU#74,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,11791108
 VU#74,0.01123596,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#74,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#74,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#74,0.00970874,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#74,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#74,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#74,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#74,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
@@ -194,7 +195,7 @@ VU#74,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#74,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#74,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#74,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#74,0.00056338,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#74,0.00056306,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#74,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#74,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#74,0.00004626,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

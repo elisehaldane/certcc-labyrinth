@@ -9,7 +9,6 @@ VU#62,1.00000000,https://github.com/Gotenks-J/rack-attack-turbo,Gotenks-J/rack-a
 VU#62,1.00000000,https://github.com/headst1337/PoligonCTF_Tasklist,headst1337/PoligonCTF_Tasklist,420823039
 VU#62,0.50000000,https://github.com/Kuly14/Inverse_Finance_Exploit_Replay,Kuly14/Inverse_Finance_Exploit_Replay,480866256
 VU#62,0.50000000,https://github.com/richard-zevel/poc-accessibility-testing,richard-zevel/poc-accessibility-testing,478123886
-VU#62,0.50000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#62,0.50000000,https://github.com/zxzxz1/Exploit_Version-5.9.0,zxzxz1/Exploit_Version-5.9.0,474067812
 VU#62,0.33333333,https://github.com/cxkoda/ERC721MintExploits,cxkoda/ERC721MintExploits,477625945
 VU#62,0.33333333,https://github.com/MASDXI/malicious-crowdsale-contract,MASDXI/malicious-crowdsale-contract,471998878
@@ -19,6 +18,7 @@ VU#62,0.33333333,https://github.com/IMAGINARY/sumory,IMAGINARY/sumory,254935952
 VU#62,0.25000000,https://github.com/yudikubota/exemplo_ataque_reentrada,yudikubota/exemplo_ataque_reentrada,516548886
 VU#62,0.25000000,https://github.com/yufanphombolimbu/exploitdevelopment,yufanphombolimbu/exploitdevelopment,512971684
 VU#62,0.25000000,https://github.com/aeyesec/CVE-2021-31805,aeyesec/CVE-2021-31805,482013810
+VU#62,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#62,0.25000000,https://github.com/tingzeng1208/demo-rce-frontend,tingzeng1208/demo-rce-frontend,440029650
 VU#62,0.25000000,https://github.com/PaulNicolasHunter/That_Vulnerable_React_App,PaulNicolasHunter/That_Vulnerable_React_App,385317545
 VU#62,0.25000000,https://github.com/raidcraft/rcelevator,raidcraft/rcelevator,325974150
@@ -139,8 +139,8 @@ VU#62,0.01250000,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#62,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#62,0.01176471,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#62,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#62,0.01063830,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#62,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
+VU#62,0.01052632,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#62,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#62,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#62,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -192,5 +192,5 @@ VU#62,0.00120482,https://github.com/ksw7564/node2vec_CVE,ksw7564/node2vec_CVE,30
 VU#62,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#62,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#62,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#62,0.00056338,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#62,0.00056306,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#62,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511

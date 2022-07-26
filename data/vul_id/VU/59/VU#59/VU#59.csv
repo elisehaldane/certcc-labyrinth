@@ -4,7 +4,6 @@ VU#59,1.00000000,https://github.com/NathanTheIceCube/ProSploit-Hub,NathanTheIceC
 VU#59,0.50000000,https://github.com/Gamogd/Exploit,Gamogd/Exploit,468390431
 VU#59,0.50000000,https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums,Brandochili/ENSE-871-RCE-Team-Project-Enums,455780450
 VU#59,0.33333333,https://github.com/twseptian/cve-2022-22947,twseptian/cve-2022-22947,482005646
-VU#59,0.25000000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
 VU#59,0.25000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,478494950
 VU#59,0.25000000,https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,466011549
 VU#59,0.20000000,https://github.com/appollosputnik/aerodynamicCodeBase,appollosputnik/aerodynamicCodeBase,511043742
@@ -66,7 +65,7 @@ VU#59,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/Malw
 VU#59,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#59,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#59,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
-VU#59,0.00970874,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#59,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#59,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#59,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#59,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
@@ -118,7 +117,7 @@ VU#59,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#59,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#59,0.00063091,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#59,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#59,0.00056338,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#59,0.00056306,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#59,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#59,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#59,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -128,6 +127,6 @@ VU#59,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/m
 VU#59,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#59,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#59,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
-VU#59,0.00020165,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#59,0.00020153,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#59,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#59,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
