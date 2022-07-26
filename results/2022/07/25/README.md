@@ -1,7 +1,7 @@
 
 # Summary for results/2022/07/25
     
-149 records found after deduplication
+150 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -24,7 +24,7 @@
 | DoDi2806/OS-Command-Injection | nan | https://github.com/DoDi2806/OS-Command-Injection | ['command injection'] | 1 | 2022-07-25 02:54:58+00:00 | 1209 | 0 | nan | 0 | [] |
 | ShadowWusky/InfinityX | Stuff for InfinityX Exploit | https://github.com/ShadowWusky/InfinityX | ['exploit'] | 1 | 2022-07-25 12:31:31+00:00 | 2 | 0 | | 0 | [] |
 | DL25555/Exploit-Libraries | None | https://github.com/DL25555/Exploit-Libraries | ['exploit'] | 1 | 2022-07-25 23:29:54+00:00 | 14 | 0 | | 0 | [] |
-| hktalent/scan4all | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | ['0day', 'attack poc', 'vulnerability poc'] | 3 | 2022-07-25 00:36:07+00:00 | 40746 | 907 | Go | 136 | [] |
+| passer-W/shc_bypass | 内存加载shellcode绕过waf | https://github.com/passer-W/shc_bypass | ['shellcode'] | 1 | 2022-07-25 04:02:10+00:00 | 6762 | 1 | Go | 0 | [] |
 | bmoes-coderoom/rcendactgen | None | https://github.com/bmoes-coderoom/rcendactgen | ['rce'] | 1 | 2022-07-25 03:23:53+00:00 | 30 | 0 | C# | 0 | [] |
 | zxzxz1/YUB-Exploit | None | https://github.com/zxzxz1/YUB-Exploit | ['exploit'] | 1 | 2022-07-25 22:04:13+00:00 | 63609 | 0 | JavaScript | 0 | [] |
 | scriptalad/Defaced-Web-Pages | EH Assignment Post Exploitation | https://github.com/scriptalad/Defaced-Web-Pages | ['exploit'] | 1 | 2022-07-25 08:28:58+00:00 | 178 | 0 | Java | 0 | [] |
@@ -42,12 +42,12 @@
 | ommadawn46/win-x86-shellcoder | A tool to assist in the development of shellcode that does not contain bad characters to bypass DEP with WriteProcessMemory | https://github.com/ommadawn46/win-x86-shellcoder | ['shellcode'] | 1 | 2022-07-25 12:52:43+00:00 | 24 | 3 | Python | 0 | [] |
 | RoseGoldIsntGay/Rosemoc | Exploiter get data wiped | https://github.com/RoseGoldIsntGay/Rosemoc | ['exploit'] | 1 | 2022-07-25 18:26:01+00:00 | 140 | 0 | Lua | 0 | [] |
 | deepakkumar392/techteam-exploit | Exploit-Slient-Doc-Pdf | https://github.com/deepakkumar392/techteam-exploit | ['exploit'] | 1 | 2022-07-25 03:22:19+00:00 | 1374 | 0 | C++ | 0 | [] |
-| passer-W/shc_bypass | 内存加载shellcode绕过waf | https://github.com/passer-W/shc_bypass | ['shellcode'] | 1 | 2022-07-25 04:02:10+00:00 | 6762 | 1 | Go | 0 | [] |
 | JxcExploit/Auto-Piano-gui-v4-Made-by-JxcExploitss | None | https://github.com/JxcExploit/Auto-Piano-gui-v4-Made-by-JxcExploitss | ['exploit'] | 1 | 2022-07-25 04:19:49+00:00 | 0 | 0 | | 0 | [] |
-| linulinu/CVE-2022-34918 | None | https://github.com/linulinu/CVE-2022-34918 | ['cve-2 OR cve_2'] | 1 | 2022-07-25 06:20:50+00:00 | 360 | 0 | C | 0 | ['CVE-2022-34918'] |
-| dbappsecur/SeeyonOA_RCE | SeeyonOA_RCE | https://github.com/dbappsecur/SeeyonOA_RCE | ['rce'] | 1 | 2022-07-25 13:52:25+00:00 | 0 | 0 | | 1 | [] |
+| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-25 02:17:49+00:00 | 188 | 2 | Python | 0 | [] |
+| G00Dway/BlestSploit | BlestSploit Framework With Verified And Published Modules, Exploits, Payloads, By Blest Boyz Team! | https://github.com/G00Dway/BlestSploit | ['exploit', 'sploit'] | 2 | 2022-07-25 13:41:30+00:00 | 15 | 0 | | 0 | [] |
 | FrakkiGotBruhMoment/404Sploit | None | https://github.com/FrakkiGotBruhMoment/404Sploit | ['sploit'] | 1 | 2022-07-25 13:59:48+00:00 | 0 | 0 | nan | 0 | [] |
 | krdsploit/RCE | RCE SRV RUBY | https://github.com/krdsploit/RCE | ['rce'] | 1 | 2022-07-25 14:16:45+00:00 | 1 | 0 | Ruby | 0 | [] |
+| Ice-001/SeeyonOA_RCE | SeeyonOA_RCE——钓鱼 | https://github.com/Ice-001/SeeyonOA_RCE | ['rce'] | 1 | 2022-07-25 13:52:25+00:00 | 0 | 0 | | 0 | [] |
 | krdsploit/RCE-CLIENT | THE RCE SRV AS CLIENT | https://github.com/krdsploit/RCE-CLIENT | ['rce'] | 1 | 2022-07-25 14:20:50+00:00 | 1 | 0 | Ruby | 0 | [] |
 | Fr4kki/404Sploit | None | https://github.com/Fr4kki/404Sploit | ['sploit'] | 1 | 2022-07-25 15:09:53+00:00 | 1 | 0 | nan | 0 | [] |
 | FL03/conduit | A complete security toolkit for testing exploits, wtirren in Rust. | https://github.com/FL03/conduit | ['exploit'] | 1 | 2022-07-25 15:41:01+00:00 | 7 | 0 | Dockerfile | 0 | [] |
@@ -60,27 +60,28 @@
 | Skattermuffin/hey-game-pepople-i-know-you-r-ment-to-like-make-these-long-but-come-on-its-fun-but-arrow-game-lol | According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, black | https://github.com/Skattermuffin/hey-game-pepople-i-know-you-r-ment-to-like-make-these-long-but-come-on-its-fun-but-arrow-game-lol | ['exploit'] | 1 | 2022-07-25 20:57:20+00:00 | 0 | 0 | | 0 | [] |
 | Skattermuffin/this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol | According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because beAccording to all known laws of aviation, there is no way a b | https://github.com/Skattermuffin/this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol | ['exploit'] | 1 | 2022-07-25 21:00:01+00:00 | 5978 | 0 | CSS | 0 | [] |
 | ehtec/camp-exploit | Authentication Bypass for https://github.com/patrickfuller/camp | https://github.com/ehtec/camp-exploit | ['exploit'] | 1 | 2022-07-25 21:19:28+00:00 | 3 | 0 | | 0 | [] |
-| G00Dway/BlestSploit | BlestSploit Framework With Verified And Published Modules, Exploits, Payloads, By Blest Boyz Team! | https://github.com/G00Dway/BlestSploit | ['exploit', 'sploit'] | 2 | 2022-07-25 13:41:30+00:00 | 15 | 0 | nan | 0 | [] |
+| dbappsecur/SeeyonOA_RCE | SeeyonOA_RCE | https://github.com/dbappsecur/SeeyonOA_RCE | ['rce'] | 1 | 2022-07-25 13:52:25+00:00 | 0 | 0 | | 1 | [] |
 | achelabov/exploitDB | None | https://github.com/achelabov/exploitDB | ['exploit'] | 1 | 2022-07-25 12:54:20+00:00 | 5 | 0 | Go | 0 | [] |
+| linulinu/CVE-2022-34918 | None | https://github.com/linulinu/CVE-2022-34918 | ['cve-2 OR cve_2'] | 1 | 2022-07-25 06:20:50+00:00 | 360 | 0 | C | 0 | ['CVE-2022-34918'] |
 | ShibaNekoL/RCEC_summer_2022 | None | https://github.com/ShibaNekoL/RCEC_summer_2022 | ['rce'] | 1 | 2022-07-25 12:40:48+00:00 | 0 | 0 | | 0 | [] |
-| ExploitHackers/torsploit | A roblox exploit. | https://github.com/ExploitHackers/torsploit | ['exploit'] | 1 | 2022-07-25 11:06:40+00:00 | 17067 | 0 | Batchfile | 0 | [] |
 | ly1g3/Joplin-CVE-2022-35131 | Joplin CVE-2022-35131, RCE | https://github.com/ly1g3/Joplin-CVE-2022-35131 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-07-25 06:31:59+00:00 | 1 | 2 | | 1 | ['CVE-2022-35131'] |
 | sobinge/360tianqingRCE_- | None | https://github.com/sobinge/360tianqingRCE_- | ['rce'] | 1 | 2022-07-25 06:51:17+00:00 | 43 | 0 | Python | 0 | [] |
 | Yoeals/shellcode | backdoor | https://github.com/Yoeals/shellcode | ['shellcode'] | 1 | 2022-07-25 07:56:39+00:00 | 0 | 0 | | 0 | [] |
 | Ziggy78/CVE-2022-26809-RCE-POC | None | https://github.com/Ziggy78/CVE-2022-26809-RCE-POC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-07-25 08:58:54+00:00 | 2 | 1 | Ruby | 1 | ['CVE-2022-26809'] |
 | Daro1967/CVE-2022-26138-RCE | Unauthenticated RCE via CVE-2022-26138 confluence | https://github.com/Daro1967/CVE-2022-26138-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-07-25 09:46:48+00:00 | 3 | 0 | | 0 | ['CVE-2022-26138'] |
 | AliPunisher3/ioscrashhill_v1 | a webkit exploit that allows to crash safari | https://github.com/AliPunisher3/ioscrashhill_v1 | ['exploit'] | 1 | 2022-07-25 09:53:54+00:00 | 375 | 0 | HTML | 0 | [] |
+| ExploitHackers/torsploit | A roblox exploit. | https://github.com/ExploitHackers/torsploit | ['exploit'] | 1 | 2022-07-25 11:06:40+00:00 | 17067 | 0 | Batchfile | 0 | [] |
 | UndyingPhoenix/RobloxExploits | RobloxExploits | https://github.com/UndyingPhoenix/RobloxExploits | ['exploit'] | 1 | 2022-07-25 16:40:11+00:00 | 1 | 0 | Lua | 0 | [] |
-| nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | None | https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | ['cve-2 OR cve_2'] | 1 | 2022-07-25 12:38:27+00:00 | 23323 | 0 | C++ | 0 | ['CVE-2021-0520'] |
 | THE0FFICIALP0WER/P0WER-Sploit-2.0 | Create By THE 0FFICIAL P0WER On Youtube ;) | https://github.com/THE0FFICIALP0WER/P0WER-Sploit-2.0 | ['sploit'] | 1 | 2022-07-25 10:20:14+00:00 | 5600 | 0 | nan | 0 | [] |
 | myexploit/Public_Exploits | None | https://github.com/myexploit/Public_Exploits | ['exploit'] | 1 | 2022-07-25 10:53:21+00:00 | 12 | 0 | | 0 | [] |
 | Exploitables/CapRoot | I wanted to write up an exploit, so I wrote up my own for Capcom. | https://github.com/Exploitables/CapRoot | ['exploit'] | 1 | 2022-07-25 10:39:04+00:00 | 15 | 1 | C | 0 | [] |
 | sazolborman/Fake_News_Detection | Bangladesh is a country of youths. These youth are so involved with their virtual life. They share all their emotions of love and hate, aggression and violence over these social media platforms. These youngsters regularly find themselves in a violent virt | https://github.com/sazolborman/Fake_News_Detection | ['exploit'] | 1 | 2022-07-25 10:59:25+00:00 | 15416 | 1 | CSS | 0 | [] |
 | Jadhav0427/rceditor | Realtime-code-editor | https://github.com/Jadhav0427/rceditor | ['rce'] | 1 | 2022-07-25 11:28:39+00:00 | 432 | 0 | JavaScript | 0 | [] |
 | ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520 | None | https://github.com/ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520 | ['cve-2 OR cve_2'] | 1 | 2022-07-25 11:54:18+00:00 | 23327 | 0 | C++ | 0 | ['CVE-2021-0520'] |
+| nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | None | https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | ['cve-2 OR cve_2'] | 1 | 2022-07-25 12:38:27+00:00 | 23323 | 0 | C++ | 0 | ['CVE-2021-0520'] |
 | edoardottt/awesome-hacker-search-engines | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2022-07-25 07:17:31+00:00 | 193 | 2783 | | 173 | [] |
+| hktalent/scan4all | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | ['0day', 'attack poc', 'vulnerability poc'] | 3 | 2022-07-25 00:36:07+00:00 | 40746 | 907 | Go | 136 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-25 04:13:57+00:00 | 10399 | 14 | Go | 5 | [] |
-| rkdavies/ExploitCentral | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | ['exploit'] | 1 | 2022-07-25 02:17:49+00:00 | 188 | 2 | Python | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-07-25 23:32:59+00:00 | 42765 | 28 | Python | 6 | [] |
 | ihebski/DefaultCreds-cheat-sheet | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | ['exploit'] | 1 | 2022-07-25 21:03:16+00:00 | 362 | 2559 | Jupyter Notebook | 402 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-07-25 23:06:20+00:00 | 111 | 0 | PHP | 0 | [] |
