@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#861,0.50000000,https://github.com/HNT8/WeAreDevs-Exploit,HNT8/WeAreDevs-Exploit,502211738
 VU#861,0.50000000,https://github.com/entropyQueen/log4shell_malwares,entropyQueen/log4shell_malwares,439839303
+VU#861,0.33333333,https://github.com/bobbyjameswilliams/Secret-Agent-PWA,bobbyjameswilliams/Secret-Agent-PWA,518398932
 VU#861,0.33333333,https://github.com/T-Dynamos/Distruct-X,T-Dynamos/Distruct-X,437483256
 VU#861,0.33333333,https://github.com/MlgmXyysd/k61v1injector,MlgmXyysd/k61v1injector,417690686
 VU#861,0.33333333,https://github.com/karma9874/AndroRAT,karma9874/AndroRAT,249151155
@@ -66,4 +67,4 @@ VU#861,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#861,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#861,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#861,0.00273973,https://github.com/helloexp/0day,helloexp/0day,478826386
-VU#861,0.00056275,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#861,0.00056085,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
