@@ -21,4 +21,5 @@ repo_id,repo_full_name,file,file_sha1,match
 517444842,mu71l473d/linux-exploits,linpeas.sh,1d6dcabb6971ad05bb1b2e35562fea00f93607c5,CVE-2011-1485
 517444842,mu71l473d/linux-exploits,linpeas.sh,1d6dcabb6971ad05bb1b2e35562fea00f93607c5,CVE-2019-19726
 517444842,mu71l473d/linux-exploits,linpeas.sh,1d6dcabb6971ad05bb1b2e35562fea00f93607c5,VU#25
+517444842,mu71l473d/linux-exploits,exploit_nss.py,2022bffd22f1cddbe3a786b3dddeb1b4578ab014,CVE-2021-3156
 517444842,mu71l473d/linux-exploits,cve-2021-4034,9adeca4a7119fabbe27a0e49c31aae80ed3ed891,CVE-2021-4034
