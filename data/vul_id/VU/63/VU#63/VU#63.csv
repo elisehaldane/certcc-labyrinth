@@ -42,6 +42,7 @@ VU#63,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,49
 VU#63,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#63,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
 VU#63,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
+VU#63,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#63,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#63,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#63,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
@@ -139,15 +140,16 @@ VU#63,0.01639344,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethica
 VU#63,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#63,0.01538462,https://github.com/r3naissance/eatt,r3naissance/eatt,507442402
 VU#63,0.01538462,https://github.com/rhpco/CVE-2018-16509,rhpco/CVE-2018-16509,200477390
+VU#63,0.01428571,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#63,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 VU#63,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#63,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#63,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#63,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
-VU#63,0.01250000,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#63,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#63,0.01176471,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#63,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
+VU#63,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#63,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#63,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#63,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
@@ -209,5 +211,5 @@ VU#63,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#63,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#63,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#63,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-VU#63,0.00056054,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#63,0.00055991,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#63,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
