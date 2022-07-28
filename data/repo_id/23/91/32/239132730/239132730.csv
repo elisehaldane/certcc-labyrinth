@@ -5,4 +5,5 @@ repo_id,repo_full_name,file,file_sha1,match
 239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML2.java,2b86c8785a3806d3398f00ea504ce23ac7036e69,CVE-2019-2725
 239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,36b6436304c057fac614cafc62fbc6d92065f98d,CVE-2017-10271
 239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/payloads/xmldecoder/WeblogicXML1.java,36b6436304c057fac614cafc62fbc6d92065f98d,CVE-2019-2725
+239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/exploits/richfaces/RichFacesExploit.java,afa563947aaee0c83b20d0ebadbd03d1988a6f12,CVE-2013-2165
 239132730,wh1t3p1g/ysomap,core/src/main/java/ysomap/bullets/weblogic/xml/WeblogicXMLJndiBullet.java,fdfd5436f0b13ca50959ea0171cf0101f0b05373,CVE-2019-2725
