@@ -1,7 +1,7 @@
 
 # Summary for results/2022/07/27
     
-114 records found after deduplication
+115 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -34,7 +34,7 @@
 | Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-27 16:23:53+00:00 | 41697 | 814 | C++ | 215 | [] |
 | ndeepak/TheMetasploitFrameworkBootcamp | This is the Metasploit Framework Bootcamp by INE notes made by Deepak Nagarkoti. | https://github.com/ndeepak/TheMetasploitFrameworkBootcamp | ['metasploit module OR payload'] | 1 | 2022-07-27 12:51:03+00:00 | 130 | 0 | HTML | 0 | [] |
 | taipansec/post-exploit | None | https://github.com/taipansec/post-exploit | ['exploit'] | 1 | 2022-07-27 04:41:34+00:00 | 14 | 0 | | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-07-27 00:40:50+00:00 | 3360 | 2737 | PowerShell | 762 | [] |
+| t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-07-27 15:38:37+00:00 | 714 | 278 | Python | 32 | [] |
 | redpack-kr/fei-protocol-flashloan-vuln | Fei Protocol Flashloan Vulnerability Exploit Exercise | https://github.com/redpack-kr/fei-protocol-flashloan-vuln | ['exploit'] | 1 | 2022-07-27 13:41:44+00:00 | 246 | 0 | Solidity | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..1 | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..1 | ['exploit'] | 1 | 2022-07-27 23:49:57+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..1 | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..1 | ['exploit'] | 1 | 2022-07-27 23:48:31+00:00 | 1 | 0 | | 0 | [] |
@@ -62,9 +62,9 @@
 | b8ff/Exploits | Exploits | https://github.com/b8ff/Exploits | ['exploit'] | 1 | 2022-07-27 13:41:06+00:00 | 25 | 0 | Python | 0 | [] |
 | 2waysz/ShodanSploit | Tired of Using Zmap To Scan For Devices Use ShodanSploit Instead! | https://github.com/2waysz/ShodanSploit | ['sploit'] | 1 | 2022-07-27 16:47:38+00:00 | 22 | 0 | | 0 | [] |
 | OctoPvP/Commander | Yet another Java annotation-based command parsing library, with Dependency Injection inspired by Guice | https://github.com/OctoPvP/Commander | ['command injection'] | 1 | 2022-07-27 01:55:23+00:00 | 255 | 4 | Java | 1 | [] |
-| t3l3machus/toxssin | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | ['exploit'] | 1 | 2022-07-27 15:38:37+00:00 | 714 | 278 | Python | 32 | [] |
-| TheFunnyMan120/ExaHub | Exploits for various roblox games | https://github.com/TheFunnyMan120/ExaHub | ['exploit'] | 1 | 2022-07-27 01:32:37+00:00 | 897 | 1 | | 0 | [] |
-| oppsec/WSOB | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | https://github.com/oppsec/WSOB | ['exploit'] | 1 | 2022-07-27 23:14:13+00:00 | 496 | 25 | Python | 8 | ['CVE-2022-29464'] |
+| TitanVale/TitaniumMC | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/TitaniumMC | ['exploit'] | 1 | 2022-07-27 16:09:25+00:00 | 2908 | 9 | Shell | 1 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-07-27 00:40:50+00:00 | 3360 | 2737 | PowerShell | 762 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-07-27 12:32:13+00:00 | 7511 | 172 | Python | 51 | [] |
 | Shaosifan/HSENet | Hybrid-Scale Self-Similarity Exploitation for Remote Sensing Image Super-Resolution (accepted by TGRS) | https://github.com/Shaosifan/HSENet | ['exploit'] | 1 | 2022-07-27 12:44:24+00:00 | 48 | 13 | Python | 2 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2022-07-27 06:03:51+00:00 | 239081 | 289 | C | 55 | [] |
 | dunderhay/CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902 | https://github.com/dunderhay/CVE-2020-5902 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-07-27 01:19:26+00:00 | 9 | 37 | Python | 8 | ['CVE-2020-5902'] |
@@ -91,9 +91,10 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-07-27 00:04:17+00:00 | 1534833 | 1658 | Python | 545 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-07-27 05:05:49+00:00 | 242822 | 7298 | C | 1928 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-07-27 20:58:30+00:00 | 28775 | 28 | Python | 6 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2022-07-27 12:32:13+00:00 | 7511 | 172 | Python | 51 | [] |
 | LabTranslationalArchitectomics/expressyouRcell | expressyouRcell generates animations of pictographic representations of cells, or pictograms, providing a convenient and intuitive method for visualizing and understanding time course variations in cellular compartments. | https://github.com/LabTranslationalArchitectomics/expressyouRcell | ['rce'] | 1 | 2022-07-27 10:31:10+00:00 | 7468 | 0 | R | 1 | [] |
-| tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-07-27 03:57:42+00:00 | 53669 | 953 | Python | 218 | [] |
+| TheFunnyMan120/ExaHub | Exploits for various roblox games | https://github.com/TheFunnyMan120/ExaHub | ['exploit'] | 1 | 2022-07-27 01:32:37+00:00 | 897 | 1 | | 0 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-27 20:41:55+00:00 | 1114926 | 123 | | 28 | [] |
+| oppsec/WSOB | 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464. | https://github.com/oppsec/WSOB | ['exploit'] | 1 | 2022-07-27 23:14:13+00:00 | 496 | 25 | Python | 8 | ['CVE-2022-29464'] |
 | qcpolimi/SIGIR22_QuantumFeatureSelection | This repository contains the source code for the article "Towards Feature Selection for Ranking and Classification Exploiting Quantum Annealers" published at SIGIR 2022. | https://github.com/qcpolimi/SIGIR22_QuantumFeatureSelection | ['exploit'] | 1 | 2022-07-27 17:03:45+00:00 | 100 | 2 | Python | 0 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2022-07-27 12:13:40+00:00 | 79 | 514 | Go | 30 | [] |
 | Decurity/semgrep-smart-contracts | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | ['exploit'] | 1 | 2022-07-27 10:17:07+00:00 | 299 | 296 | Solidity | 34 | [] |
@@ -105,8 +106,8 @@
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-27 11:36:27+00:00 | 84935 | 3214 | | 391 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-27 00:46:04+00:00 | 220041 | 3 | Jupyter Notebook | 0 | [] |
 | AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2022-07-27 21:07:02+00:00 | 8280 | 0 | Lua | 0 | [] |
+| tr0uble-mAker/POC-bomber | 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 | https://github.com/tr0uble-mAker/POC-bomber | ['cve poc', 'rce', 'rce poc'] | 3 | 2022-07-27 03:57:42+00:00 | 53669 | 953 | Python | 218 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server for self-hosting | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-07-27 06:20:48+00:00 | 1271 | 7 | C | 2 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-07-27 20:41:55+00:00 | 1114926 | 123 | | 28 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-07-27 18:10:37+00:00 | 9601 | 13 | | 5 | [] |
 | AngelJuanMa/Pentesting | Pentesting student guide including: Linux, Web Pentesting, Active Directory and Cryptography. with the bases and guides or directly the exploitation of different vulnerabilities. | https://github.com/AngelJuanMa/Pentesting | ['exploit'] | 1 | 2022-07-27 16:55:10+00:00 | 1494 | 2 | Python | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-27 03:29:13+00:00 | 8986 | 3491 | TypeScript | 544 | [] |
