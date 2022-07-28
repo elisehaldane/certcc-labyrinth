@@ -3,7 +3,6 @@ VU#72,1.00000000,https://github.com/god12l/Exploits-executor,god12l/Exploits-exe
 VU#72,1.00000000,https://github.com/zxzxz1/Exploit,zxzxz1/Exploit,473701778
 VU#72,0.50000000,https://github.com/darkseid-security/LFI,darkseid-security/LFI,485269737
 VU#72,0.50000000,https://github.com/Panagiotis-Zachos/Ma_et_al_2017_code,Panagiotis-Zachos/Ma_et_al_2017_code,416763757
-VU#72,0.33333333,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
 VU#72,0.33333333,https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,506948665
 VU#72,0.33333333,https://github.com/dyeoell/Ethical-Hacking,dyeoell/Ethical-Hacking,442617990
 VU#72,0.33333333,https://github.com/dragonlost/nafabox_rce_2021,dragonlost/nafabox_rce_2021,428990979
@@ -11,6 +10,7 @@ VU#72,0.33333333,https://github.com/x1official/TestSploit-X,x1official/TestSploi
 VU#72,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/RobloxExploitSample,426473019
 VU#72,0.33333333,https://github.com/Noizeeee/Exploits,Noizeeee/Exploits,364812702
 VU#72,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
+VU#72,0.25000000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
 VU#72,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#72,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
 VU#72,0.20000000,https://github.com/EMSeek/log4poc,EMSeek/log4poc,438532480
@@ -83,14 +83,14 @@ VU#72,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,22274027
 VU#72,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#72,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#72,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
-VU#72,0.00436681,https://github.com/b8ff/Roblox-Exploits,b8ff/Roblox-Exploits,518102296
+VU#72,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#72,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#72,0.00381679,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#72,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#72,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#72,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#72,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#72,0.00267380,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#72,0.00266667,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#72,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#72,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#72,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859

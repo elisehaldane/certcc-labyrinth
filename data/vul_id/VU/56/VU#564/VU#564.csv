@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#564,0.25000000,https://github.com/yufanphombolimbu/exploitdevelopment,yufanphombolimbu/exploitdevelopment,512971684
 VU#564,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
-VU#564,0.00436681,https://github.com/b8ff/Roblox-Exploits,b8ff/Roblox-Exploits,518102296
+VU#564,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#564,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#564,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#564,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
