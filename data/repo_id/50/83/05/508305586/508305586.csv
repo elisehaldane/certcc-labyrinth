@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 508305586,zxzxz1/YUB-Exploit,ace/theme-ambiance.js,4a687afcd82873c38b00061c3ac8d93d8ed293fe,VU#72
 508305586,zxzxz1/YUB-Exploit,ace/theme-ambiance.js,4a687afcd82873c38b00061c3ac8d93d8ed293fe,VU#74
-508305586,zxzxz1/YUB-Exploit,YUB-Exploit.exe,f83c3cb211db6f9986e3a1f37af9fd585b95b1e4,VU#65
+508305586,zxzxz1/YUB-Exploit,exploit-main.dll,504cef192dde7010f4d5e3f4b5cd52ee29ac0ec6,VU#33
+508305586,zxzxz1/YUB-Exploit,YUB-Exploit.exe,886c0b25c9d8c2b651a1561cabaea82f957921b0,VU#65
