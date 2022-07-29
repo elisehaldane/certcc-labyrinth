@@ -18,5 +18,5 @@ repo_id,repo_full_name,file,file_sha1,match
 451168050,ameetsaahu/Kernel-exploitation,ips/ips.tar.gz,94db48b8acbb320af7a6bf7b536e2a0dddc32c6d,VU#69
 451168050,ameetsaahu/Kernel-exploitation,ips/ips.tar.gz,94db48b8acbb320af7a6bf7b536e2a0dddc32c6d,VU#43
 451168050,ameetsaahu/Kernel-exploitation,ips/ips.tar.gz,94db48b8acbb320af7a6bf7b536e2a0dddc32c6d,VU#58
-451168050,ameetsaahu/Kernel-exploitation,corctf2021-fire_of_salvation/bzImage,ee7779c3104907a6eb174d3fe5d3c007fb89be41,VU#23
-451168050,ameetsaahu/Kernel-exploitation,corctf2021-fire_of_salvation/bzImage,ee7779c3104907a6eb174d3fe5d3c007fb89be41,VU#02
+451168050,ameetsaahu/Kernel-exploitation,corctf2021-wall_of_perdition/bzImage,ee7779c3104907a6eb174d3fe5d3c007fb89be41,VU#23
+451168050,ameetsaahu/Kernel-exploitation,corctf2021-wall_of_perdition/bzImage,ee7779c3104907a6eb174d3fe5d3c007fb89be41,VU#02
