@@ -1,7 +1,7 @@
 
 # Summary for results/2022/07/29
     
-110 records found after deduplication
+111 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -33,7 +33,7 @@
 | 0x414141414/Silent-Office-Word-Doc-Exploit-2022 | Convert any Exe to DOC. All DOC versions are compatible and the maximum support of our team is at your service to help you on every issue you might come across. | https://github.com/0x414141414/Silent-Office-Word-Doc-Exploit-2022 | ['exploit'] | 1 | 2022-07-29 00:06:09+00:00 | 4 | 1 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | ['exploit'] | 1 | 2022-07-29 00:20:11+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN-l | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-l | ['exploit'] | 1 | 2022-07-29 00:21:50+00:00 | 1 | 1 | | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-07-29 16:59:43+00:00 | 3362 | 2739 | PowerShell | 763 | [] |
+| SecuriTrust/CVEsLab | 💀 A collection of proof-of-concept exploit scripts on docker lab environments has been discovered by Securi Trust Team. Vulnerabilities has been written by SecuriTrust team for various CVEs. | https://github.com/SecuriTrust/CVEsLab | ['exploit'] | 1 | 2022-07-29 09:04:18+00:00 | 1754 | 0 | | 0 | [] |
 | payload1337/PizzaClient-Supporter | Pizza Client Supporter is a Hypixel Skyblock Mod for Macros, Exploits & More | https://github.com/payload1337/PizzaClient-Supporter | ['exploit'] | 1 | 2022-07-29 11:54:57+00:00 | 405 | 1 | | 0 | [] |
 | B-D-I/ML_Exploit_Image_App | Flask app to demonstrate methods of exploiting h5 ML models (using scenery models) | https://github.com/B-D-I/ML_Exploit_Image_App | ['exploit'] | 1 | 2022-07-29 19:31:53+00:00 | 9 | 0 | Python | 0 | [] |
 | fg-netzwerksicherheit/esp32-exploitation | None | https://github.com/fg-netzwerksicherheit/esp32-exploitation | ['exploit'] | 1 | 2022-07-29 18:26:23+00:00 | 0 | 0 | | 0 | [] |
@@ -60,12 +60,11 @@
 | blackhathackersgroup/hacking-rat | hack android device remotly | https://github.com/blackhathackersgroup/hacking-rat | ['exploit'] | 1 | 2022-07-29 01:17:03+00:00 | 1 | 0 | | 0 | [] |
 | androidhackingrats/android-hvnc | hack android by sending a pdf file | https://github.com/androidhackingrats/android-hvnc | ['exploit'] | 1 | 2022-07-29 00:58:53+00:00 | 1 | 0 | | 0 | [] |
 | Wang-yuyang/Vulnerabilit-Exploit-Library | Scenes and use loads of vulnerabilities | https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library | ['exploit'] | 1 | 2022-07-29 02:23:47+00:00 | 80554 | 2 | Python | 0 | [] |
-| SecuriTrust/CVEsLab | 💀 A collection of proof-of-concept exploit scripts on docker lab environments has been discovered by Securi Trust Team. Vulnerabilities has been written by SecuriTrust team for various CVEs. | https://github.com/SecuriTrust/CVEsLab | ['exploit'] | 1 | 2022-07-29 09:04:18+00:00 | 1754 | 0 | | 0 | [] |
 | Amourousity/Conversio | Improves the compatibility of your scripts between exploits | https://github.com/Amourousity/Conversio | ['exploit'] | 1 | 2022-07-29 22:27:30+00:00 | 11 | 0 | Lua | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-29 00:48:49+00:00 | 10492 | 44 | | 23 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-29 03:42:16+00:00 | 9089 | 3507 | TypeScript | 546 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-07-29 16:59:43+00:00 | 3362 | 2739 | PowerShell | 763 | [] |
+| reztdev/pyRAT | Python Remote Administrations Tools for Windows | https://github.com/reztdev/pyRAT | ['exploit'] | 1 | 2022-07-29 17:47:37+00:00 | 11061 | 1 | Python | 3 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-29 04:07:15+00:00 | 7415027 | 70 | Python | 10 | [] |
-| Vulnmachines/Confluence_CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-07-29 08:01:19+00:00 | 11 | 10 | | 8 | ['CVE-2021-26084'] |
+| Vulnmachines/Confluence_CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-07-29 08:01:19+00:00 | 11 | 10 | nan | 8 | ['CVE-2021-26084'] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-29 02:27:44+00:00 | 1422 | 118 | HTML | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-29 04:11:09+00:00 | 24220 | 3 | Python | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-29 04:01:01+00:00 | 239869 | 470 | Python | 134 | [] |
@@ -74,9 +73,9 @@
 | ecriminal/Exploit-Discord-Cache-System-PoC | 🗄️ Exploit Discord's cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims) | https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC | ['exploit'] | 1 | 2022-07-29 13:45:22+00:00 | 1190 | 170 | Python | 20 | [] |
 | star-sg/CVE | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | ['exploit'] | 1 | 2022-07-29 05:42:41+00:00 | 3524 | 81 | JavaScript | 17 | [] |
 | ttonys/Scrapy-CVE-CNVD | 漏洞监控，基于scrapy，scrapy-redis，获取每日最新的CVE和CNVD漏洞，邮件通知 | https://github.com/ttonys/Scrapy-CVE-CNVD | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-07-29 22:27:52+00:00 | 266 | 127 | Python | 28 | [] |
-| reztdev/pyRAT | Python Remote Administrations Tools for Windows | https://github.com/reztdev/pyRAT | ['exploit'] | 1 | 2022-07-29 17:47:37+00:00 | 11061 | 1 | Python | 3 | [] |
-| D3Ext/XDEBUG-Exploit | An automated xdebug 2.5.5 vulnerability exploit | https://github.com/D3Ext/XDEBUG-Exploit | ['exploit', 'rce'] | 2 | 2022-07-29 15:51:51+00:00 | 49 | 6 | Python | 1 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-07-29 00:48:49+00:00 | 10492 | 44 | | 23 | [] |
 | tobor88/Bash | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | ['exploit'] | 1 | 2022-07-29 03:38:49+00:00 | 810 | 20 | Shell | 9 | [] |
+| JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2022-07-29 14:48:22+00:00 | 723 | 2 | | 1 | [] |
 | adm1nPanda/GenericLoader | C# bins to execute b64 encoded shellcode | https://github.com/adm1nPanda/GenericLoader | ['shellcode'] | 1 | 2022-07-29 22:46:12+00:00 | 42 | 2 | C# | 1 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-29 04:31:25+00:00 | 397503 | 186 | REXX | 21 | [] |
 | ChrisTheCoolHut/Zeratool | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | ['exploit', 'shellcode'] | 2 | 2022-07-29 16:39:46+00:00 | 2830 | 875 | Python | 120 | [] |
@@ -87,10 +86,11 @@
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2022-07-29 01:13:23+00:00 | 1502 | 0 | Python | 11 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-07-29 14:16:12+00:00 | 12318 | 4750 | Python | 655 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2022-07-29 12:06:43+00:00 | 695081 | 12 | Python | 29 | [] |
-| JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2022-07-29 14:48:22+00:00 | 723 | 2 | | 1 | [] |
+| torque59/Nosql-Exploitation-Framework | A Python Framework For NoSQL Scanning and Exploitation | https://github.com/torque59/Nosql-Exploitation-Framework | ['exploit'] | 1 | 2022-07-29 09:02:34+00:00 | 2932 | 584 | Python | 157 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-07-29 03:42:16+00:00 | 9089 | 3507 | TypeScript | 546 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-07-29 18:10:45+00:00 | 9652 | 13 | | 5 | [] |
-| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-07-29 17:32:04+00:00 | 1314 | 7 | C | 2 | [] |
-| YTEntity303/PS4-Exploit | Test | https://github.com/YTEntity303/PS4-Exploit | ['exploit'] | 1 | 2022-07-29 14:20:34+00:00 | 480 | 0 | JavaScript | 0 | [] |
+| D3Ext/XDEBUG-Exploit | An automated xdebug 2.5.5 vulnerability exploit | https://github.com/D3Ext/XDEBUG-Exploit | ['exploit', 'rce'] | 2 | 2022-07-29 15:51:51+00:00 | 49 | 6 | Python | 1 | [] |
+| EnderLuca41/discordia-exploiter | Discordia is program created for pentesters to exploit Discord Bot Tokens. | https://github.com/EnderLuca41/discordia-exploiter | ['exploit'] | 1 | 2022-07-29 15:57:29+00:00 | 28 | 0 | C# | 0 | [] |
 | teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-07-29 02:51:48+00:00 | 2679 | 712 | Go | 62 | [] |
 | flux10n/0day | 0day Exploit | https://github.com/flux10n/0day | ['0day', 'exploit'] | 2 | 2022-07-29 05:48:37+00:00 | 2211 | 5 | Python | 0 | [] |
 | etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-07-29 09:21:27+00:00 | 48698 | 0 | C++ | 0 | [] |
@@ -102,8 +102,8 @@
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-07-29 14:57:19+00:00 | 2528 | 0 | C | 0 | [] |
 | marcindn/Cybersecurity | Jakieś projekty o tematyce hakowania | https://github.com/marcindn/Cybersecurity | ['metasploit module OR payload'] | 1 | 2022-07-29 17:49:07+00:00 | 531 | 1 | Batchfile | 0 | [] |
 | jonatanSh/elf_to_shellcode | Python library to convert elf to shellcodes | https://github.com/jonatanSh/elf_to_shellcode | ['shellcode'] | 1 | 2022-07-29 16:34:32+00:00 | 517 | 3 | Python | 1 | [] |
-| EnderLuca41/discordia-exploiter | Discordia is program created for pentesters to exploit Discord Bot Tokens. | https://github.com/EnderLuca41/discordia-exploiter | ['exploit'] | 1 | 2022-07-29 15:57:29+00:00 | 28 | 0 | C# | 0 | [] |
 | anldori/CVE-2018-7600 | None | https://github.com/anldori/CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2022-07-29 07:32:36+00:00 | 3 | 0 | Python | 0 | ['CVE-2018-7600'] |
+| rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2022-07-29 17:32:04+00:00 | 1314 | 7 | C | 2 | [] |
 | jackperlo/bachelor-thesis | This repo contains my Bachelor Degree project. It consists in a AI which exploits A* Algorithm to generate AleaGame levels and RBFS to solve them. | https://github.com/jackperlo/bachelor-thesis | ['exploit'] | 1 | 2022-07-29 13:43:24+00:00 | 27135 | 0 | C++ | 1 | [] |
 | D3Ext/Captcha-Bypassing | A captcha bypassing lab in PHP | https://github.com/D3Ext/Captcha-Bypassing | ['metasploit module OR payload'] | 1 | 2022-07-29 15:58:36+00:00 | 81 | 14 | PHP | 2 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-07-29 15:00:55+00:00 | 483207 | 1 | Python | 0 | [] |
@@ -114,4 +114,5 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-07-29 06:25:30+00:00 | 226747 | 3 | Jupyter Notebook | 0 | [] |
 | AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2022-07-29 02:35:05+00:00 | 8282 | 0 | Lua | 0 | [] |
 | RektifyAI/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/RektifyAI/attack-playbook | ['exploit'] | 1 | 2022-07-29 04:15:21+00:00 | 861 | 1 | | 0 | [] |
+| YTEntity303/PS4-Exploit | Test | https://github.com/YTEntity303/PS4-Exploit | ['exploit'] | 1 | 2022-07-29 14:20:34+00:00 | 480 | 0 | JavaScript | 0 | [] |
 | west9b/Landray-OA-RCE | 蓝凌OA未授权RCE-POC | https://github.com/west9b/Landray-OA-RCE | ['rce', 'rce poc'] | 2 | 2022-07-29 22:58:13+00:00 | 3637 | 0 | Go | 0 | [] |
