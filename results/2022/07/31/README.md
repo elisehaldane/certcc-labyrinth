@@ -1,0 +1,36 @@
+
+# Summary for results/2022/07/31
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-07-31 00:04:26+00:00 | 1534834 | 1659 | Python | 545 | [] |
+| hktalent/scan4all | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | ['0day', 'attack poc', 'vulnerability poc'] | 3 | 2022-07-31 04:13:54+00:00 | 62651 | 1294 | Go | 178 | [] |
+| Avienma/Log4jScaner | Log4j扫描工具 | https://github.com/Avienma/Log4jScaner | ['exploit'] | 1 | 2022-07-31 04:01:09+00:00 | 7 | 0 | Python | 0 | [] |
+| codingcore2/-SILENT-DOC-EXPLOIT-CLEAN | None | https://github.com/codingcore2/-SILENT-DOC-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-07-31 01:00:46+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/-SILENT-PDF-EXPLOIT-CLEAN | None | https://github.com/codingcore2/-SILENT-PDF-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-07-31 00:59:41+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | None | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | ['exploit'] | 1 | 2022-07-31 00:58:25+00:00 | 1 | 0 | | 0 | [] |
+| kube-tarian/kubetak | KubeTaK - Kube Attack. Exploit your K8s cluster and workloads running in it. PenTest K8s. Inspired by the concept of kubesploit by CyberArk and StackHawk. | https://github.com/kube-tarian/kubetak | ['exploit'] | 1 | 2022-07-31 01:49:39+00:00 | 7 | 0 | | 0 | [] |
+| aress31/vulcan | A PowerShell script that simplifies life and therefore... phishing. | https://github.com/aress31/vulcan | ['metasploit module OR payload'] | 1 | 2022-07-31 04:12:42+00:00 | 4675 | 1 | PowerShell | 0 | [] |
+| RoseGoldIsntGay/Rosemoc | Exploiter get data wiped | https://github.com/RoseGoldIsntGay/Rosemoc | ['exploit'] | 1 | 2022-07-31 00:17:17+00:00 | 327 | 0 | Lua | 0 | [] |
+| Jxred-Z/Key-Logger | Self Dedicated Cybersecurity Project to explore topics within Cybersecurity such as: Ethical Hacking, Social Engineering, and writing exploits. For educational and research purposes only | https://github.com/Jxred-Z/Key-Logger | ['exploit'] | 1 | 2022-07-31 03:12:58+00:00 | 56 | 0 | | 0 | [] |
+| danielxreis/picoctf_2022 | Repository to store all my solutions for the PicoCTF 2022 challenges. | https://github.com/danielxreis/picoctf_2022 | ['exploit'] | 1 | 2022-07-31 01:36:45+00:00 | 104 | 0 | C | 0 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-07-31 01:20:10+00:00 | 607 | 0 | | 0 | [] |
+| HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task | Using the Airbnb Sydney Dataset, this project exploits Machine Learning Algorithms to derive insights of best host practices and build a predictive model for prices of Sydney Airbnb. | https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task | ['exploit'] | 1 | 2022-07-31 03:08:03+00:00 | 6943 | 1 | Jupyter Notebook | 0 | [] |
+| etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-07-31 04:54:58+00:00 | 48779 | 0 | C++ | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-07-31 04:47:44+00:00 | 11006 | 17 | Go | 6 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-07-31 00:27:23+00:00 | 53572 | 310 | Ruby | 89 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-07-31 00:08:21+00:00 | 41684 | 847 | C++ | 222 | [] |
+| Kerillian/ElvenRCE | None | https://github.com/Kerillian/ElvenRCE | ['rce'] | 1 | 2022-07-31 00:51:14+00:00 | 256 | 0 | Lua | 0 | [] |
+| willfindlay/houdini | Houdini is a container escape artist. Test your container security frameworks against known exploits. | https://github.com/willfindlay/houdini | ['exploit'] | 1 | 2022-07-31 00:28:03+00:00 | 205 | 0 | Rust | 1 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-07-31 01:21:57+00:00 | 521 | 0 | | 0 | [] |
+| bloxain/Roblox | A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games! | https://github.com/bloxain/Roblox | ['exploit'] | 1 | 2022-07-31 04:45:20+00:00 | 439 | 2 | Lua | 2 | [] |
+| RektifyAI/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/RektifyAI/attack-playbook | ['exploit'] | 1 | 2022-07-31 02:50:37+00:00 | 867 | 1 | | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-07-31 04:40:04+00:00 | 7466416 | 72 | Python | 10 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-07-31 02:30:43+00:00 | 1488 | 119 | HTML | 27 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-07-31 04:45:47+00:00 | 23534 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-07-31 04:01:04+00:00 | 234451 | 471 | Python | 134 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-07-31 04:31:50+00:00 | 390879 | 188 | REXX | 21 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-07-31 00:33:25+00:00 | 534 | 149 | Julia | 25 | [] |
+| Hermonicv/metasploit-installer | None | https://github.com/Hermonicv/metasploit-installer | ['metasploit module OR payload'] | 1 | 2022-07-31 04:40:45+00:00 | 0 | 0 | Shell | 0 | [] |
