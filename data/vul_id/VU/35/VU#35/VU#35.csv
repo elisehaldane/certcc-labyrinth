@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#35,0.50000000,https://github.com/warning111/dhood,warning111/dhood,502349442
 VU#35,0.50000000,https://github.com/Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,468115159
+VU#35,0.33333333,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
 VU#35,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2Hub,420501078
 VU#35,0.20000000,https://github.com/RapidoBuzz/WrathSploitAPI,RapidoBuzz/WrathSploitAPI,515803951
 VU#35,0.20000000,https://github.com/Ch0pin/AVIator,Ch0pin/AVIator,129488616
@@ -67,7 +68,7 @@ VU#35,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/Malw
 VU#35,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#35,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#35,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#35,0.01010101,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
+VU#35,0.01000000,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#35,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#35,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#35,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
