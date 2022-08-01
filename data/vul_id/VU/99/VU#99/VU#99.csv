@@ -4,6 +4,7 @@ VU#99,1.00000000,https://github.com/feifei-cv/RCE,feifei-cv/RCE,481510588
 VU#99,1.00000000,https://github.com/feifei-cv/RCE,feifei-cv/RCE,481491446
 VU#99,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
 VU#99,0.50000000,https://github.com/bmedicke/REED,bmedicke/REED,300668178
+VU#99,0.33333333,https://github.com/Sitaras/eClass-Penetration-Testing,Sitaras/eClass-Penetration-Testing,520041322
 VU#99,0.33333333,https://github.com/John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,511662006
 VU#99,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
 VU#99,0.33333333,https://github.com/9lyph/CVE-2022-29593,9lyph/CVE-2022-29593,466107181
@@ -67,7 +68,7 @@ VU#99,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,42
 VU#99,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#99,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#99,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#99,0.01123596,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#99,0.01111111,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#99,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#99,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
