@@ -56,7 +56,6 @@ VU#65,0.02857143,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#65,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#65,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#65,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
-VU#65,0.02173913,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#65,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#65,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#65,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
@@ -112,6 +111,7 @@ VU#65,0.01754386,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-So
 VU#65,0.01754386,https://github.com/HaoyeTianCoder/Quatrain,HaoyeTianCoder/Quatrain,392095984
 VU#65,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#65,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
+VU#65,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#65,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
 VU#65,0.01428571,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#65,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
@@ -178,7 +178,7 @@ VU#65,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#65,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#65,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#65,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#65,0.00055741,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#65,0.00055710,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#65,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#65,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#65,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

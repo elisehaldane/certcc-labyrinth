@@ -16,6 +16,7 @@ MS14-068,0.09090909,https://github.com/uberJohnson/MS-Vulnerability-Library,uber
 MS14-068,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
 MS14-068,0.06250000,https://github.com/dark-vex/CVE-PoC-collection,dark-vex/CVE-PoC-collection,199694627
 MS14-068,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploits,482204403
+MS14-068,0.05263158,https://github.com/nadeemali79/AD-Attack-Defense,nadeemali79/AD-Attack-Defense,520199471
 MS14-068,0.05263158,https://github.com/infosecn1nja/AD-Attack-Defense,infosecn1nja/AD-Attack-Defense,158092993
 MS14-068,0.03448276,https://github.com/demilson/WindowsExploit,demilson/WindowsExploit,381191322
 MS14-068,0.03333333,https://github.com/darksh3llgr/autoscan,darksh3llgr/autoscan,150855506
@@ -255,7 +256,7 @@ MS14-068,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunix
 MS14-068,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS14-068,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
 MS14-068,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
-MS14-068,0.00004625,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS14-068,0.00004623,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 MS14-068,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS14-068,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS14-068,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

@@ -36,7 +36,6 @@ VU#30,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#30,0.02631579,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#30,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#30,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
-VU#30,0.02173913,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#30,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#30,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#30,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
@@ -99,6 +98,7 @@ VU#30,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4710
 VU#30,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#30,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#30,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
+VU#30,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#30,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#30,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#30,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -160,7 +160,7 @@ VU#30,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#30,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#30,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#30,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#30,0.00055741,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#30,0.00055710,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#30,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#30,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#30,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
