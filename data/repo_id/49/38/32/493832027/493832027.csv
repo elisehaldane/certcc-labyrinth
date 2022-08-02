@@ -14,15 +14,15 @@ repo_id,repo_full_name,file,file_sha1,match
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#39
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#45
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#19
+493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#821
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#83
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#55
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#58
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#62
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#50
-493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#75
-493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#821
-493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#77
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#81
+493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#75
+493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#77
 493832027,prok3z/Wordpress-Exploits,CVE-2016-10033/README.md,0eee38b3a4585fb7eb3ffda74f947bf8b0066dc3,CVE-2016-10033
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24233/README.md,0f39a65900a66828d6772cb7223e9359b6d34cf8,CVE-2021-24233
 493832027,prok3z/Wordpress-Exploits,CVE-2021-25094-tatsu-preauth-rce/README.md,11a4745630468f265127c6d72c92b5e32b996438,CVE-2021-25094
@@ -58,6 +58,7 @@ repo_id,repo_full_name,file,file_sha1,match
 493832027,prok3z/Wordpress-Exploits,CVE-2021-24237/README.md,60a6ed50d2f2366d5b65dac387deba7a504ee027,CVE-2021-24237
 493832027,prok3z/Wordpress-Exploits,CVE-2021-25080/README.md,6417a302ca933f6f61efd3356427c66c9a4789ba,CVE-2021-25080
 493832027,prok3z/Wordpress-Exploits,CVE-2022-1170/README.md,6931023d142a8baef709d7ae3fff727fa84a7c6b,CVE-2022-1170
+493832027,prok3z/Wordpress-Exploits,CVE-2019-16332/README.md,6d0177ee5502a87e3ff77eec9e1d21e5c359ebbd,CVE-2019-16332
 493832027,prok3z/Wordpress-Exploits,CVE-2022-0248/README.md,6d6e73c940539df99c5e406660727e90c8d2d6ee,CVE-2022-0248
 493832027,prok3z/Wordpress-Exploits,CVE-2022-0220/README.md,6d70ae8b8126752b969e9ead817f7b4325b481b6,CVE-2022-0220
 493832027,prok3z/Wordpress-Exploits,CVE-2020-12800/exploit.py,6e082723f171eabf468b546f4ab6c4cc3f541e52,CVE-2020-12800
