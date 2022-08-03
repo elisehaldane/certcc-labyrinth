@@ -103,7 +103,7 @@ VU#25,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#25,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#25,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#25,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#25,0.00990099,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
+VU#25,0.00980392,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#25,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#25,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#25,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
@@ -183,6 +183,6 @@ VU#25,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/m
 VU#25,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#25,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#25,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
-VU#25,0.00020153,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00020149,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

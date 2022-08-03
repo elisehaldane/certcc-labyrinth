@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#61,1.00000000,https://github.com/emanuelandrei/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link,emanuelandrei/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link,520630924
 VU#61,1.00000000,https://github.com/ChubbyPanda61/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link,ChubbyPanda61/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link,513134322
 VU#61,1.00000000,https://github.com/savior-only/Sunlogin_RCE-GUI-,savior-only/Sunlogin_RCE-GUI-,512488798
 VU#61,1.00000000,https://github.com/AZMagic/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link,AZMagic/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link,509216544
@@ -163,5 +164,5 @@ VU#61,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/m
 VU#61,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#61,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#61,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
-VU#61,0.00020153,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#61,0.00020149,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
