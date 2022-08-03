@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#75,1.00000000,https://github.com/Noxiuam/Ascension,Noxiuam/Ascension,503197290
 VU#75,1.00000000,https://github.com/dummersoul/Android-webview-inject-shell,dummersoul/Android-webview-inject-shell,496830058
+VU#75,1.00000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#75,1.00000000,https://github.com/coolp972/maintripexdl,coolp972/maintripexdl,430021184
 VU#75,1.00000000,https://github.com/coolp972/tripex,coolp972/tripex,424054761
 VU#75,0.50000000,https://github.com/Brandochili/ENSE-871-RCE-Team-Project-Enums,Brandochili/ENSE-871-RCE-Team-Project-Enums,455780450
@@ -79,7 +80,6 @@ VU#75,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarni
 VU#75,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#75,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#75,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
-VU#75,0.01754386,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
 VU#75,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#75,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#75,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
@@ -169,6 +169,7 @@ VU#75,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/m
 VU#75,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#75,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#75,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
+VU#75,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#75,0.00020149,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#75,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#75,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871

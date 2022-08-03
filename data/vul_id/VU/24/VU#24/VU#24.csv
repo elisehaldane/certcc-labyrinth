@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#24,1.00000000,https://github.com/tin-z/windbg-exploit-helper-scripts,tin-z/windbg-exploit-helper-scripts,490464190
 VU#24,1.00000000,https://github.com/IAIK/meltdown,IAIK/meltdown,116119704
 VU#24,0.50000000,https://github.com/hamza07-w/Exploit-Development,hamza07-w/Exploit-Development,425994460
+VU#24,0.33333333,https://github.com/jiro-too/ShellCodeInjector,jiro-too/ShellCodeInjector,520900269
 VU#24,0.33333333,https://github.com/danderfer/Comp_Sci_Sem_2,danderfer/Comp_Sci_Sem_2,500990573
 VU#24,0.33333333,https://github.com/vinqo/scripthub,vinqo/scripthub,421183647
 VU#24,0.33333333,https://github.com/LorenzoSciandra/Branch-and-BoundTSP,LorenzoSciandra/Branch-and-BoundTSP,384899122
@@ -181,6 +182,7 @@ VU#24,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/m
 VU#24,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#24,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#24,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
+VU#24,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#24,0.00020149,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#24,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#24,0.00004623,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
