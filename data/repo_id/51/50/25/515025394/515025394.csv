@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/Wicket1.java,768fd1b4789a0e2ba43c303a6e83e84b1985b527,CVE-2013-2186
