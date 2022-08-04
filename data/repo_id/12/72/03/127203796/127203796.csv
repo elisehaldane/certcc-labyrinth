@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-127203796,tmenochet/WinUtils,New-RogueAccount.ps1,fe8b678adb1e6c3e39f23fc7f4a280029f30d207,CVE-2021-34470
+127203796,tmenochet/WinUtils,New-RogueAccount.ps1,02a7ee37eec6b26e1f4259f2c89272eb0b960df2,CVE-2021-34470
