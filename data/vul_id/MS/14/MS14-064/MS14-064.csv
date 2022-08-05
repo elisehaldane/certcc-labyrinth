@@ -188,7 +188,7 @@ MS14-064,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4
 MS14-064,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS14-064,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS14-064,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-MS14-064,0.00020141,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-064,0.00020137,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-064,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS14-064,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS14-064,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -218,6 +218,6 @@ MS14-064,0.00004623,https://github.com/offensive-security/exploitdb,offensive-se
 MS14-064,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS14-064,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS14-064,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
-MS14-064,0.00001694,https://github.com/trickest/cve,trickest/cve,454015416
+MS14-064,0.00001645,https://github.com/trickest/cve,trickest/cve,454015416
 MS14-064,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS14-064,0.00000457,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

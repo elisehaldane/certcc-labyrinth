@@ -32,6 +32,7 @@ VU#86,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prot
 VU#86,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
 VU#86,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 VU#86,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
+VU#86,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#86,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
 VU#86,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#86,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
@@ -99,6 +100,7 @@ VU#86,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#86,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#86,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#86,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#86,0.00653595,https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841,Satheesh575555/Openssl_1_1_0_CVE-2021-23841,521602618
 VU#86,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,486927382
 VU#86,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#86,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
@@ -141,4 +143,4 @@ VU#86,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#86,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#86,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#86,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-VU#86,0.00020141,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#86,0.00020137,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

@@ -4,6 +4,7 @@ VU#72,1.00000000,https://github.com/zxzxz1/Exploit,zxzxz1/Exploit,473701778
 VU#72,0.50000000,https://github.com/darkseid-security/LFI,darkseid-security/LFI,485269737
 VU#72,0.50000000,https://github.com/Panagiotis-Zachos/Ma_et_al_2017_code,Panagiotis-Zachos/Ma_et_al_2017_code,416763757
 VU#72,0.33333333,https://github.com/shatternox/Forest-Fire-For-Dewaweb,shatternox/Forest-Fire-For-Dewaweb,520567378
+VU#72,0.33333333,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
 VU#72,0.33333333,https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,emredavut/Chrome-Android-and-Windows-0day-RCE-SBX,506948665
 VU#72,0.33333333,https://github.com/dyeoell/Ethical-Hacking,dyeoell/Ethical-Hacking,442617990
 VU#72,0.33333333,https://github.com/dragonlost/nafabox_rce_2021,dragonlost/nafabox_rce_2021,428990979
@@ -11,7 +12,6 @@ VU#72,0.33333333,https://github.com/x1official/TestSploit-X,x1official/TestSploi
 VU#72,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/RobloxExploitSample,426473019
 VU#72,0.33333333,https://github.com/Noizeeee/Exploits,Noizeeee/Exploits,364812702
 VU#72,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
-VU#72,0.25000000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
 VU#72,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#72,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
 VU#72,0.20000000,https://github.com/EMSeek/log4poc,EMSeek/log4poc,438532480
@@ -114,5 +114,5 @@ VU#72,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#72,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#72,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#72,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-VU#72,0.00020141,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#72,0.00020137,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#72,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
