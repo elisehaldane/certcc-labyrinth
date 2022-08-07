@@ -1,5 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
 518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/exploit.c,1282934ac33de81d4cbf689e58b48f9ef7c7942c,CVE-2022-0847
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/Builder.exe,ff719be874e6360c62f0c6e7bbf44f467c1c7d49,VU#33
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/Builder.exe,ff719be874e6360c62f0c6e7bbf44f467c1c7d49,VU#80
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/Builder.exe,ff719be874e6360c62f0c6e7bbf44f467c1c7d49,VU#87
