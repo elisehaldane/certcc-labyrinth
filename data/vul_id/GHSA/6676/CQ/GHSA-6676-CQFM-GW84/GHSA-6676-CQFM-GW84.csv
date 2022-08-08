@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6676-CQFM-GW84,0.33333333,https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,504869018
 GHSA-6676-CQFM-GW84,0.00462963,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
-GHSA-6676-CQFM-GW84,0.00423729,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
+GHSA-6676-CQFM-GW84,0.00421941,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
