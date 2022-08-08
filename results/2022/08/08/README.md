@@ -1,0 +1,37 @@
+
+# Summary for results/2022/08/08
+    
+30 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-08-08 03:47:38+00:00 | 774804 | 27904 | Ruby | 12421 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-08-08 02:39:27+00:00 | 21812 | 7530 | JavaScript | 1752 | [] |
+| vesperp/CVE-2021-20038-SonicWall-RCE | None | https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-08-08 03:41:56+00:00 | 6 | 1 | Python | 0 | ['CVE-2021-20038'] |
+| iSploit/iSploit | Config files for my GitHub profile. | https://github.com/iSploit/iSploit | ['sploit'] | 1 | 2022-08-08 02:25:49+00:00 | 0 | 1 | nan | 0 | [] |
+| kfatehi/go_ruby_rce | None | https://github.com/kfatehi/go_ruby_rce | ['rce'] | 1 | 2022-08-08 04:15:55+00:00 | 25 | 1 | Go | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g | ['exploit'] | 1 | 2022-08-08 00:51:39+00:00 | 1 | 1 | | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g | ['exploit'] | 1 | 2022-08-08 00:50:38+00:00 | 1 | 1 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | ['exploit'] | 1 | 2022-08-08 00:49:31+00:00 | 1 | 1 | | 0 | [] |
+| ML-YanGu/AL-SNN-ELM | The AL-SNN-ELM considers the exploration and exploitation simultaneously in the framework of active learning, which has a significant performance improvement in comparison with the traditional AL-ELM algorithm | https://github.com/ML-YanGu/AL-SNN-ELM | ['exploit'] | 1 | 2022-08-08 01:04:35+00:00 | 18 | 0 | MATLAB | 0 | [] |
+| Ruia-ruia/CVE-2022-29582-Exploit | Exploit for CVE-2022-29582 targeting Google's Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-08-08 04:13:33+00:00 | 843 | 21 | C | 4 | ['CVE-2022-29582'] |
+| MrRafter/HispanarkyCore | A Core Used In Hispanarky.es, This plugin is designed to patch the different exploits that exist and make the process of creating anarchic servers easier, I hope you like it | https://github.com/MrRafter/HispanarkyCore | ['exploit'] | 1 | 2022-08-08 01:40:46+00:00 | 52 | 2 | | 1 | [] |
+| Trumpiter-max/Tricks-in-web-exploit | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploit | ['exploit'] | 1 | 2022-08-08 02:26:13+00:00 | 44 | 2 | JavaScript | 0 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-08-08 04:49:36+00:00 | 2830 | 39 | | 2 | [] |
+| StrokeThePea/GelatekReanimate | Reanimation that's way better than Catware Reanimate. | https://github.com/StrokeThePea/GelatekReanimate | ['exploit'] | 1 | 2022-08-08 00:11:20+00:00 | 127 | 2 | Lua | 0 | [] |
+| YieldingExploiter/RobloxTS-Base | Roblox-TS Base for exploits; mostly just extracted from Orca | https://github.com/YieldingExploiter/RobloxTS-Base | ['exploit'] | 1 | 2022-08-08 02:05:58+00:00 | 10665 | 0 | Lua | 0 | [] |
+| bemxio/remote-command-execution | A C program for attacking a victim's computer, allowing to enter commands | https://github.com/bemxio/remote-command-execution | ['rce'] | 1 | 2022-08-08 00:53:10+00:00 | 3 | 0 | C | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-08-08 04:27:25+00:00 | 11494 | 17 | Go | 6 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-08-08 01:10:55+00:00 | 578 | 0 | | 0 | [] |
+| YieldingExploiter/YieldingExploiter | about me or smth | https://github.com/YieldingExploiter/YieldingExploiter | ['exploit'] | 1 | 2022-08-08 01:08:58+00:00 | 76 | 0 | HTML | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-08-08 01:32:05+00:00 | 9181 | 3681 | TypeScript | 554 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-08-08 04:37:30+00:00 | 7629719 | 76 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-08-08 02:07:34+00:00 | 1752 | 124 | HTML | 27 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-08-08 04:46:30+00:00 | 24790 | 3 | Python | 1 | [] |
+| saitamang/POC-DUMP | Writeup for any interesting bugs/vulnerability | https://github.com/saitamang/POC-DUMP | ['vulnerability poc'] | 1 | 2022-08-08 00:03:39+00:00 | 2668 | 0 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-08-08 04:01:02+00:00 | 244217 | 475 | Python | 137 | [] |
+| debug420/rbx-script-analyzer | Analyze roblox exploiting scripts and reverse engineer them. | https://github.com/debug420/rbx-script-analyzer | ['exploit'] | 1 | 2022-08-08 03:52:45+00:00 | 161 | 7 | Lua | 10 | [] |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2022-08-08 00:39:25+00:00 | 544 | 161 | Java | 36 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-08-08 04:37:05+00:00 | 404815 | 191 | REXX | 21 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-08-08 00:24:36+00:00 | 56668 | 311 | Ruby | 89 | [] |
+| d4ddyd4rth/BasicShellCodeRunner | This is a basic Windows shellcode runner written in C# using P/Invoke. | https://github.com/d4ddyd4rth/BasicShellCodeRunner | ['shellcode'] | 1 | 2022-08-08 04:52:04+00:00 | 0 | 0 | nan | 0 | [] |
