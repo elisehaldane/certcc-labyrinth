@@ -151,6 +151,7 @@ MS17-010,0.50000000,https://github.com/johnchakauya/wesng,johnchakauya/wesng,196
 MS17-010,0.50000000,https://github.com/eaneatfruit/ExploitDev,eaneatfruit/ExploitDev,191613765
 MS17-010,0.50000000,https://github.com/zerosum0x0/CVE-2019-0708,zerosum0x0/CVE-2019-0708,187931596
 MS17-010,0.50000000,https://github.com/fourtwizzy/CVE-2019-0708-Check-Device-Patch-Status,fourtwizzy/CVE-2019-0708-Check-Device-Patch-Status,187057686
+MS17-010,0.50000000,https://github.com/bitsadmin/wesng,bitsadmin/wesng,173464070
 MS17-010,0.50000000,https://github.com/azams/exploits,azams/exploits,152153471
 MS17-010,0.50000000,https://github.com/mojo0243/BigBlue,mojo0243/BigBlue,141375509
 MS17-010,0.50000000,https://github.com/tatanus/apt2,tatanus/apt2,139530805
@@ -170,7 +171,6 @@ MS17-010,0.33333333,https://github.com/Worldotank1287/sneaky_thing,Worldotank128
 MS17-010,0.33333333,https://github.com/manununu/exploits,manununu/exploits,303731702
 MS17-010,0.33333333,https://github.com/mukthy/oscp-survival-guide,mukthy/oscp-survival-guide,247701686
 MS17-010,0.33333333,https://github.com/Wtcheesecakes/exploit,Wtcheesecakes/exploit,177600065
-MS17-010,0.33333333,https://github.com/bitsadmin/wesng,bitsadmin/wesng,173464070
 MS17-010,0.33333333,https://github.com/Tengrom/Python_nmap,Tengrom/Python_nmap,131190757
 MS17-010,0.33333333,https://github.com/peterpt/eternal_scanner,peterpt/eternal_scanner,97406900
 MS17-010,0.33333333,https://github.com/wangeradd1/MyPyExploit,wangeradd1/MyPyExploit,85726880
@@ -455,8 +455,8 @@ MS17-010,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS17-010,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS17-010,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS17-010,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
-MS17-010,0.00024033,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
+MS17-010,0.00024004,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 MS17-010,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
 MS17-010,0.00023798,https://github.com/snskiff/metasploit-framework,snskiff/metasploit-framework,126784216
@@ -510,7 +510,7 @@ MS17-010,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4
 MS17-010,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS17-010,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS17-010,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-MS17-010,0.00020137,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS17-010,0.00020133,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -539,7 +539,7 @@ MS17-010,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_data
 MS17-010,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS17-010,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS17-010,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
-MS17-010,0.00001632,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001628,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
