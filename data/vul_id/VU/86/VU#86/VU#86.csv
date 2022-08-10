@@ -7,6 +7,7 @@ VU#86,1.00000000,https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2,
 VU#86,0.33333333,https://github.com/mahmoudkanazzal/Exploiting-sparsity-recovery-for-compressive-spectrum-sensing-A-machine-learning-approach,mahmoudkanazzal/Exploiting-sparsity-recovery-for-compressive-spectrum-sensing-A-machine-learning-approach,507591960
 VU#86,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,400513584
 VU#86,0.25000000,https://github.com/paulonteri/remote-code-execution-environment,paulonteri/remote-code-execution-environment,278636703
+VU#86,0.20000000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,523104242
 VU#86,0.20000000,https://github.com/AnythingForTheTrustRank/ZeroGay,AnythingForTheTrustRank/ZeroGay,455997487
 VU#86,0.16666667,https://github.com/BloxSafe/Backend,BloxSafe/Backend,492896545
 VU#86,0.16666667,https://github.com/WPXSS/wordpress-malware,WPXSS/wordpress-malware,203156588
@@ -22,6 +23,7 @@ VU#86,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,a
 VU#86,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#86,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/Crypto_Exchange_Arb,494865686
 VU#86,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
+VU#86,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
 VU#86,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
 VU#86,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#86,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
@@ -131,11 +133,11 @@ VU#86,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#86,0.00196464,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#86,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#86,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#86,0.00117509,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#86,0.00117233,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#86,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#86,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#86,0.00060168,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#86,0.00055036,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#86,0.00054885,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#86,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#86,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#86,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
@@ -145,4 +147,4 @@ VU#86,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#86,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#86,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#86,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-VU#86,0.00020133,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#86,0.00020129,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
