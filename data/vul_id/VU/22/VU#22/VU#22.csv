@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#22,1.00000000,https://github.com/razzor-codes/Web3-Graveyard,razzor-codes/Web3-Graveyard,512263154
 VU#22,0.50000000,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
+VU#22,0.25000000,https://github.com/APTIRAN/CVE-2022-1040,APTIRAN/CVE-2022-1040,523301905
 VU#22,0.25000000,https://github.com/DecryptedCC/MadcatExploit,DecryptedCC/MadcatExploit,482398135
 VU#22,0.25000000,https://github.com/zekgt/lua,zekgt/lua,476966759
 VU#22,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
@@ -98,10 +99,11 @@ VU#22,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-r
 VU#22,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#22,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#22,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
+VU#22,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#22,0.01428571,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#22,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#22,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
-VU#22,0.01176471,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
+VU#22,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#22,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#22,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#22,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398

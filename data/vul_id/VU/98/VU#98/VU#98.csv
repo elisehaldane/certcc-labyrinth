@@ -11,6 +11,7 @@ VU#98,0.20000000,https://github.com/hearsecurity/Exploits,hearsecurity/Exploits,
 VU#98,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
 VU#98,0.16666667,https://github.com/Mar10Josh/Explyt,Mar10Josh/Explyt,510452490
 VU#98,0.14285714,https://github.com/thapr0digy/exploits,thapr0digy/exploits,114681204
+VU#98,0.12500000,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#98,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468577202
 VU#98,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
 VU#98,0.11111111,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
@@ -109,8 +110,8 @@ VU#98,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#98,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#98,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#98,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
+VU#98,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#98,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
-VU#98,0.01176471,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#98,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#98,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#98,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
@@ -192,6 +193,6 @@ VU#98,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#98,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#98,0.00020129,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#98,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
-VU#98,0.00004623,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+VU#98,0.00004622,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#98,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#98,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
