@@ -40,7 +40,6 @@ VU#66,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,4212
 VU#66,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,118371522
 VU#66,0.03846154,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#66,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
-VU#66,0.03333333,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#66,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#66,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
 VU#66,0.02941176,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
@@ -72,6 +71,7 @@ VU#66,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,5232
 VU#66,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
 VU#66,0.01428571,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#66,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
+VU#66,0.01388889,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#66,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#66,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 VU#66,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
@@ -130,7 +130,7 @@ VU#66,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#66,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#66,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#66,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#66,0.00191205,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#66,0.00189394,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#66,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#66,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#66,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
