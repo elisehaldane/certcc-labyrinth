@@ -119,6 +119,7 @@ MS17-010,1.00000000,https://github.com/JavierOlmedo/check-ms17-010,JavierOlmedo/
 MS17-010,1.00000000,https://github.com/adamleff/inspec-profile-wannacry-exploit,adamleff/inspec-profile-wannacry-exploit,91350955
 MS17-010,1.00000000,https://github.com/jflyup/goMS17-010,jflyup/goMS17-010,89549887
 MS17-010,1.00000000,https://github.com/sn0wfa11/HID-Attacks,sn0wfa11/HID-Attacks,56999867
+MS17-010,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
 MS17-010,0.50000000,https://github.com/gudyrmik/CVE-2021-44142,gudyrmik/CVE-2021-44142,484298524
 MS17-010,0.50000000,https://github.com/mr-sami-x/ex-ye,mr-sami-x/ex-ye,479770195
 MS17-010,0.50000000,https://github.com/glowbase/windows-exploit-search,glowbase/windows-exploit-search,478060051
@@ -457,7 +458,7 @@ MS17-010,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify2
 MS17-010,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
 MS17-010,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS17-010,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
-MS17-010,0.00023889,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00023901,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
 MS17-010,0.00023798,https://github.com/snskiff/metasploit-framework,snskiff/metasploit-framework,126784216
 MS17-010,0.00023759,https://github.com/iagox86/metasploit-framework-webexec,iagox86/metasploit-framework-webexec,153523335
