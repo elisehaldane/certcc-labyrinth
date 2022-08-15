@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS10-087,0.33333333,https://github.com/Sunqiz/CVE-2010-3333-reproduction,Sunqiz/CVE-2010-3333-reproduction,524884923
 MS10-087,0.16666667,https://github.com/Adian-kids/Metasploit-Note,Adian-kids/Metasploit-Note,368874407
 MS10-087,0.16666667,https://github.com/fangdada/how2CVE,fangdada/how2CVE,173536716
 MS10-087,0.05555556,https://github.com/1ookup/exploit,1ookup/exploit,13582736
