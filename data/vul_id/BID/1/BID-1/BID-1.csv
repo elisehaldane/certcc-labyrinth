@@ -11,6 +11,7 @@ BID-1,0.50000000,https://github.com/PizzaWhisperer/HLLVuln,PizzaWhisperer/HLLVul
 BID-1,0.50000000,https://github.com/u2009cf/spark-radar,u2009cf/spark-radar,100241368
 BID-1,0.50000000,https://github.com/chenc10/Spark-PAF-INFOCOM18,chenc10/Spark-PAF-INFOCOM18,94409958
 BID-1,0.50000000,https://github.com/HTCTeam/HTCaaS,HTCTeam/HTCaaS,37580258
+BID-1,0.33333333,https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223,nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223,525367474
 BID-1,0.33333333,https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33,Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33,515827748
 BID-1,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,496175736
 BID-1,0.33333333,https://github.com/Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188,Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188,488906861
@@ -143,6 +144,6 @@ BID-1,0.00004622,https://github.com/offensive-security/exploitdb,offensive-secur
 BID-1,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-1,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 BID-1,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
-BID-1,0.00001612,https://github.com/trickest/cve,trickest/cve,454015416
+BID-1,0.00001611,https://github.com/trickest/cve,trickest/cve,454015416
 BID-1,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 BID-1,0.00000455,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

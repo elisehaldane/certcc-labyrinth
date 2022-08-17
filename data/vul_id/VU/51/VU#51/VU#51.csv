@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
+VU#51,0.33333333,https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223,nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223,525367474
 VU#51,0.33333333,https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33,Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33,515827748
 VU#51,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219,496175736
 VU#51,0.33333333,https://github.com/Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188,Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188,488906861
@@ -61,7 +62,7 @@ VU#51,0.05882353,https://github.com/Korozin/korozin.github.io,Korozin/korozin.gi
 VU#51,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#51,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#51,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,404076972
-VU#51,0.05000000,https://github.com/io-poc/vulnado-poc-1,io-poc/vulnado-poc-1,474069190
+VU#51,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#51,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#51,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#51,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
