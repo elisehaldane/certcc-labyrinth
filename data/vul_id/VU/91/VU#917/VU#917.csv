@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#917,0.20000000,https://github.com/Ch0pin/AVIator,Ch0pin/AVIator,129488616
+VU#917,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
 VU#917,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#917,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#917,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
