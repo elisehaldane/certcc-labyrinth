@@ -15,6 +15,7 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,tests/samples/exploits/test-CVE-2017-0022.html,2f23c57fc7618b2d0a4c0f02ab69866bc3191fb2,CVE-2017-0022
 3493279,buffer/thug,tests/samples/exploits/WMEncProfileManager.htm,3198d34cf3c871e6be64b0108cccff603ea1a3d4,MS08-053
 3493279,buffer/thug,thug/ActiveX/modules/XUpload.py,397f93880870f8f0f9166762109851b9fe0055f6,CVE-2007-6530
+3493279,buffer/thug,thug/DOM/DFT.py,39d4acb008c966e671833800c18d3cc3017a6be6,CVE-2013-2423
 3493279,buffer/thug,thug/ActiveX/modules/WinZip.py,3f1e351bc519565b04c85e374097a9d93a6cb9d1,CVE-2006-5198
 3493279,buffer/thug,thug/ActiveX/modules/WinZip.py,3f1e351bc519565b04c85e374097a9d93a6cb9d1,CVE-2006-3890
 3493279,buffer/thug,thug/ActiveX/modules/WinZip.py,3f1e351bc519565b04c85e374097a9d93a6cb9d1,CVE-2006-6884
@@ -28,7 +29,6 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/VLC.py,4c443c8ff1cebf3f42361d6f3d9f40ec21b6af78,CVE-2007-6262
 3493279,buffer/thug,tests/samples/exploits/test-CVE-2010-1885.html,4ddde1ed213e164a17c1c5b0da97d095f7d92e97,CVE-2010-1885
 3493279,buffer/thug,thug/ActiveX/modules/RDSDataSpace.py,58276597a7106b87493adefcef7b4a7187e435d5,CVE-2006-0003
-3493279,buffer/thug,thug/DOM/DFT.py,5d86b57aea033e4a0a9f01f0745a51ceedc2ce7a,CVE-2013-2423
 3493279,buffer/thug,thug/DOM/W3C/HTML/TAnimateColor.py,5e6bec8002ab453130b6fa92131bf2cd7967fdc4,CVE-2012-4792
 3493279,buffer/thug,tests/samples/exploits/test-CVE-2010-1885-2.html,619d1d0def4e399d3a4dc6b8515e14dbb1d24020,CVE-2010-1885
 3493279,buffer/thug,tests/samples/exploits/test-CVE-2010-1885-3.html,63e86d6bad816383f76c0a0cce6db609909fc101,CVE-2010-1885
@@ -42,9 +42,9 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2009-1800
 3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2008-3008
 3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2006-0003
-3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2013-2423
-3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2006-5820
 3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2013-2416
+3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2006-5820
+3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2013-2423
 3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2010-1885
 3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2017-0022
 3493279,buffer/thug,tests/functional/test_exploits.py,7b3e70c3b6571665cb2375e0d3b9c8b972c72d9e,CVE-2012-4792

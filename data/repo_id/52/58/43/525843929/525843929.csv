@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+525843929,h00die-gr3y/Metasploit,hikvision_unauth_pwd_reset.rb,1c5272cfd218d8ccb46cc07d66135a45ab3d31ce,CVE-2017-7921
