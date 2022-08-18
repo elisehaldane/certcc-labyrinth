@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-352482350,rsuppersahabatan/hacker,alfav4(1).php5,029a33c81248b82d8c6c5aae91afa981ba6e9d23,VU#73
+352482350,rsuppersahabatan/hacker,alfav4.php5,029a33c81248b82d8c6c5aae91afa981ba6e9d23,VU#73
 352482350,rsuppersahabatan/hacker,alfav4.php5,029a33c81248b82d8c6c5aae91afa981ba6e9d23,VU#38
-352482350,rsuppersahabatan/hacker,alfav4(1).php5,029a33c81248b82d8c6c5aae91afa981ba6e9d23,VU#62
+352482350,rsuppersahabatan/hacker,alfav4.php5,029a33c81248b82d8c6c5aae91afa981ba6e9d23,VU#62
 352482350,rsuppersahabatan/hacker,alfav4.php5,029a33c81248b82d8c6c5aae91afa981ba6e9d23,VU#153
 352482350,rsuppersahabatan/hacker,ss.php.fla,03705cbe405144453a248550d739e5d28531645e,VU#69
 352482350,rsuppersahabatan/hacker,ss.php.fla,03705cbe405144453a248550d739e5d28531645e,VU#66
@@ -17,7 +17,7 @@ repo_id,repo_full_name,file,file_sha1,match
 352482350,rsuppersahabatan/hacker,dot-viem-lo-tuyen-co-tu-cung-bao-nhieu-tien.htm,11b3a5a7883a8cfb4364cbb55161d778d632d440,VU#191
 352482350,rsuppersahabatan/hacker,zeus666.php5,13c1c0a0804bae35afda9c8ea42d056fe80debf5,VU#96
 352482350,rsuppersahabatan/hacker,zeus666.php5,13c1c0a0804bae35afda9c8ea42d056fe80debf5,VU#93
-352482350,rsuppersahabatan/hacker,shell-v3.php;txt,1ea6d7bcc9879bde672ae02d759f23cc43e4024e,VU#29
+352482350,rsuppersahabatan/hacker,shell-v3.php6,1ea6d7bcc9879bde672ae02d759f23cc43e4024e,VU#29
 352482350,rsuppersahabatan/hacker,dia-chi-pha-thai-an-toan.htm,1f34815b013f9629eb851e196b7c0c49728257a0,VU#191
 352482350,rsuppersahabatan/hacker,Loni/index.html,201a7db36b029a435e175eac2e763dba7a9d9d9f,VU#191
 352482350,rsuppersahabatan/hacker,c99ud.php22,289744137c9294a1a47155d522b7ff152aa752c1,VU#56
@@ -70,8 +70,8 @@ repo_id,repo_full_name,file,file_sha1,match
 352482350,rsuppersahabatan/hacker,kpz.PhP5,e44076fd7df42a064c1bf2419ccb6089a51d38be,VU#962
 352482350,rsuppersahabatan/hacker,chi-phi-xet-nghiem-giang-mai.htm,e695458a238088f6380292dc9973ffa0b005daa5,VU#191
 352482350,rsuppersahabatan/hacker,priv8.php5,edbc816d00bfefc70ecf708c7e62d578eb95b5d7,VU#80
-352482350,rsuppersahabatan/hacker,priv8.php5,edbc816d00bfefc70ecf708c7e62d578eb95b5d7,VU#79
-352482350,rsuppersahabatan/hacker,priv8.php5,edbc816d00bfefc70ecf708c7e62d578eb95b5d7,VU#34
+352482350,rsuppersahabatan/hacker,priv8.php;php,edbc816d00bfefc70ecf708c7e62d578eb95b5d7,VU#79
+352482350,rsuppersahabatan/hacker,priv8.php;php,edbc816d00bfefc70ecf708c7e62d578eb95b5d7,VU#34
 352482350,rsuppersahabatan/hacker,andela.js,f3bf3e870a1ebbaa9ee2380dc3d988887f71462e,VU#86
 352482350,rsuppersahabatan/hacker,andela.js,f3bf3e870a1ebbaa9ee2380dc3d988887f71462e,VU#668
 352482350,rsuppersahabatan/hacker,andela.js,f3bf3e870a1ebbaa9ee2380dc3d988887f71462e,VU#003
