@@ -8,6 +8,7 @@ VU#27,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,
 VU#27,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
 VU#27,0.20000000,https://github.com/hearsecurity/Exploits,hearsecurity/Exploits,520099548
 VU#27,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen/Shellcode-sols,456201869
+VU#27,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,527356987
 VU#27,0.10000000,https://github.com/wvu/metasploit-ctf-challenges,wvu/metasploit-ctf-challenges,181991992
 VU#27,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#27,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
@@ -86,7 +87,6 @@ VU#27,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4709
 VU#27,0.01639344,https://github.com/Drygster/Exploitation,Drygster/Exploitation,461223241
 VU#27,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#27,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
-VU#27,0.01428571,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#27,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#27,0.01388889,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#27,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
@@ -102,6 +102,7 @@ VU#27,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/co
 VU#27,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#27,0.00980392,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#27,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#27,0.00934579,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#27,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#27,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#27,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -143,7 +144,7 @@ VU#27,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#27,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#27,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#27,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#27,0.00188324,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#27,0.00186220,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#27,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#27,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#27,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -155,9 +156,9 @@ VU#27,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-action
 VU#27,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#27,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
 VU#27,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
-VU#27,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#27,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#27,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-VU#27,0.00020121,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#27,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#27,0.00020113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#27,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#27,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

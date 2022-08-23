@@ -85,7 +85,6 @@ VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#10,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#10,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
-VU#10,0.02040816,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#10,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#10,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#10,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
@@ -93,6 +92,7 @@ VU#10,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#10,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#10,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
 VU#10,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
+VU#10,0.01851852,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#10,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#10,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#10,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
@@ -115,6 +115,7 @@ VU#10,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_no
 VU#10,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#10,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#10,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#10,0.00934579,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#10,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#10,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#10,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
@@ -166,13 +167,13 @@ VU#10,0.00266667,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Boo
 VU#10,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#10,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#10,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#10,0.00188324,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#10,0.00186220,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#10,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#10,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#10,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#10,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#10,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#10,0.00054377,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#10,0.00050531,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#10,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#10,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#10,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -180,9 +181,9 @@ VU#10,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-action
 VU#10,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 VU#10,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
 VU#10,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
-VU#10,0.00020173,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#10,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#10,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-VU#10,0.00020121,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#10,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#10,0.00020113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#10,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#10,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

@@ -9,6 +9,7 @@ VU#14,0.50000000,https://github.com/momo1239/buffshark-shellcode-runner,momo1239
 VU#14,0.50000000,https://github.com/x6t/vc-exploit,x6t/vc-exploit,419883426
 VU#14,0.50000000,https://github.com/vlourn/vc-exploit,vlourn/vc-exploit,418013307
 VU#14,0.33333333,https://github.com/XzreyaX/NefesSploit,XzreyaX/NefesSploit,486716137
+VU#14,0.20000000,https://github.com/argon125/Bandit-Algorithms,argon125/Bandit-Algorithms,527414066
 VU#14,0.20000000,https://github.com/v0x45/PassGen-by-Rayan-w-Backdoor,v0x45/PassGen-by-Rayan-w-Backdoor,486184135
 VU#14,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
 VU#14,0.16666667,https://github.com/0xCuSO4/DHLYK,0xCuSO4/DHLYK,445846830
@@ -86,7 +87,6 @@ VU#14,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiv
 VU#14,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#14,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#14,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
-VU#14,0.01428571,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#14,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#14,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#14,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
@@ -99,6 +99,7 @@ VU#14,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bi
 VU#14,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#14,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#14,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
+VU#14,0.00934579,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#14,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#14,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#14,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -142,13 +143,13 @@ VU#14,0.00266667,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Boo
 VU#14,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#14,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#14,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#14,0.00188324,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#14,0.00186220,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#14,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#14,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#14,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#14,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#14,0.00054377,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#14,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+VU#14,0.00050531,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#14,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#14,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#14,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
