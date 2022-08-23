@@ -1,3 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+458500087,hotpotcookie/log4shell-white-box,doc/diagram.drawio,019ede5f7511683462302e34ba613e77f5e65d09,VU#364
+458500087,hotpotcookie/log4shell-white-box,doc/diagram.drawio,019ede5f7511683462302e34ba613e77f5e65d09,VU#964
+458500087,hotpotcookie/log4shell-white-box,red/custom-daemon/go-api-daemon/main,0eea6830601b5b75e18b52cbe306be1e31d72ef6,VU#07
 458500087,hotpotcookie/log4shell-white-box,README.md,54d83aba15e85f85b86c8f9e0ee1c7e9ee05700a,CVE-2021-44228
+458500087,hotpotcookie/log4shell-white-box,doc/.$diagram.drawio.bkp,6f056645b86e0f3af7ee3d98cee4be98d3a6a395,VU#364
+458500087,hotpotcookie/log4shell-white-box,doc/.$diagram.drawio.bkp,6f056645b86e0f3af7ee3d98cee4be98d3a6a395,VU#964
+458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr_Ldap.odt,ddd9105c0a99833b577b7bda291e3dfd8ff7d791,VU#760
 458500087,hotpotcookie/log4shell-white-box,_GITHUB_REPO_METADATA_,,CVE-2021-44228
