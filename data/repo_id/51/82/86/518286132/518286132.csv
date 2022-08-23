@@ -16,9 +16,9 @@ repo_id,repo_full_name,file,file_sha1,match
 518286132,imhunterand/ae-bot,Tools/Tool1/Exploits/CVE_2018_7600Drupalgeddon2.pyc,38322db3af80bced8a2d3967eb1d6faf4e9789fc,CVE-2018-7600
 518286132,imhunterand/ae-bot,Tools/Tool1/Exploits/WPJekyll_Exporter.pyc,3950439556471b081a5f451788096f54327cecd1,CVE-2017-9841
 518286132,imhunterand/ae-bot,Tools/Tool1/Exploits/CVE_2019_6340Drupal8RESTful.pyc,3d1a25883169f073488bb7a6448e54985f21f923,CVE-2019-6340
-518286132,imhunterand/ae-bot,Tools/Tool1/files/files/Access.php,3f2cc60acdb8aa99c83a72efe4b8936564ee01b5,VU#37
+518286132,imhunterand/ae-bot,Tools/Tool7/files/Access.php,3f2cc60acdb8aa99c83a72efe4b8936564ee01b5,VU#37
 518286132,imhunterand/ae-bot,Tools/Tool1/files/files/Access.php,3f2cc60acdb8aa99c83a72efe4b8936564ee01b5,VU#08
-518286132,imhunterand/ae-bot,Tools/Tool7/files/Access.php,3f2cc60acdb8aa99c83a72efe4b8936564ee01b5,VU#41
+518286132,imhunterand/ae-bot,Tools/Tool1/files/Access.php,3f2cc60acdb8aa99c83a72efe4b8936564ee01b5,VU#41
 518286132,imhunterand/ae-bot,Tools/Tool1/Access.php,3f2cc60acdb8aa99c83a72efe4b8936564ee01b5,VU#95
 518286132,imhunterand/ae-bot,Tools/Tool1/Exploits/Wp_enfold_child.pyc,43c7dce3c354484addb871d8db35d4f2ce07049c,CVE-2017-9841
 518286132,imhunterand/ae-bot,Tools/Tool1/Exploits/CVE_2019_15866_crelly_slider.py,4518d854a7a38412efb40939d4327ce60865ab92,CVE-2019-15866
