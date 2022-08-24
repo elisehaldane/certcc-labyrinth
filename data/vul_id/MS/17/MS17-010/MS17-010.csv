@@ -251,9 +251,9 @@ MS17-010,0.08333333,https://github.com/leecybersec/exploitation,leecybersec/expl
 MS17-010,0.08333333,https://github.com/pierlon/metasploit-framework-wiki,pierlon/metasploit-framework-wiki,130760001
 MS17-010,0.08333333,https://github.com/nawfling/metasploitframework-wiki,nawfling/metasploitframework-wiki,128749834
 MS17-010,0.07692308,https://github.com/krishpranav/autosploit,krishpranav/autosploit,381697342
-MS17-010,0.07692308,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 MS17-010,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
 MS17-010,0.07142857,https://github.com/sandoche/Terminhack,sandoche/Terminhack,290534663
+MS17-010,0.06666667,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 MS17-010,0.06666667,https://github.com/Netw0rkLan/Slote.me,Netw0rkLan/Slote.me,96312509
 MS17-010,0.06250000,https://github.com/ycdxsb/Exploits,ycdxsb/Exploits,273386397
 MS17-010,0.06250000,https://github.com/dark-vex/CVE-PoC-collection,dark-vex/CVE-PoC-collection,199694627
@@ -467,7 +467,7 @@ MS17-010,0.00023685,https://github.com/aresmart/MetaExploit,aresmart/MetaExploit
 MS17-010,0.00023669,https://github.com/snskiff/metasploit-framework__1,snskiff/metasploit-framework__1,133930484
 MS17-010,0.00023646,https://github.com/mdand2000/rapid7-metasploit-framework,mdand2000/rapid7-metasploit-framework,134903460
 MS17-010,0.00023646,https://github.com/RuZGaRBeY/metasploit-framework,RuZGaRBeY/metasploit-framework,134635059
-MS17-010,0.00023602,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00023607,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00023602,https://github.com/shahnwazsheikh00/metasploit-framework,shahnwazsheikh00/metasploit-framework,162744394
 MS17-010,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metasploit-docker,162195461
 MS17-010,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
