@@ -10,13 +10,13 @@ repo_id,repo_full_name,file,file_sha1,match
 13932470,leebaird/discover,report/assets/css/styles.css,47d0e20cdc3d04c35c773a12cfaa52c6875b015b,VU#644
 13932470,leebaird/discover,notes/pwk.txt,5d84345ad62c228c3e1757acb502b15d6ed99e6f,MS11-080
 13932470,leebaird/discover,notes/pwk.txt,5d84345ad62c228c3e1757acb502b15d6ed99e6f,MS12-037
-13932470,leebaird/discover,notes/linux.txt,7a6488a4a889c6bc7f0bfd53831c94ae893e6106,CVE-2022-0847
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#29
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#40
 13932470,leebaird/discover,report.sh,94b72117ef62674fc26298c7170b9f51616e011d,MS08-067
 13932470,leebaird/discover,notes/PowerShell/PS-Attack.txt,a0fdd58931159616c3c6d8639a02257686c264c5,MS16-032
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS17-010
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS10-073
+13932470,leebaird/discover,notes/linux.txt,e412e55719b5c628f2a8a85235d43e3a0fdabc98,CVE-2022-0847
 13932470,leebaird/discover,resource/3389-rdp.rc,e5ba4958c6673668d30bfd7e31a8914fa37f6cb8,CVE-2019-0708
 13932470,leebaird/discover,resource/3389-rdp.rc,e5ba4958c6673668d30bfd7e31a8914fa37f6cb8,MS12-020
 13932470,leebaird/discover,nse.sh,f48eb3481561fd1151e8290dbbf52e36f370a011,MS10-061
