@@ -1,15 +1,17 @@
 repo_id,repo_full_name,file,file_sha1,match
 236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-http-services.md,25a58b06489203c3115dbe4af96f8060379e35b5,CVE-2019-11510
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,CVE-2018-1207
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,CVE-2019-0708
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,CVE-2020-1472
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,CVE-2020-3992
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,CVE-2021-21974
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS08-067
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS10-006
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS10-054
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS10-061
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS12-020
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS17-001
-236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,6ccc1a48805ba9de123b6464b8ff4ce7a1e05ff2,MS17-010
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,b644ad0213ceb32d928a5a2361fe5a0c4cafaf20,CVE-2019-11510
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,3116180b8cfb9fff009ea4f4c79d0bf89bd73779,CVE-2019-11510
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,3116180b8cfb9fff009ea4f4c79d0bf89bd73779,CVE-2020-1931
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,3116180b8cfb9fff009ea4f4c79d0bf89bd73779,CVE-2020-1938
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,CVE-2018-1207
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,CVE-2019-0708
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,CVE-2020-1472
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,CVE-2020-3992
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,CVE-2021-21974
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,MS08-067
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,MS10-006
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,MS10-054
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,MS10-061
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,MS12-020
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,MS17-001
+236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,4288388549ee0e659d790e1ef6672509dd9c57e1,MS17-010
