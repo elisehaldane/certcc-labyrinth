@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-24182,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 BID-24182,0.00064977,https://github.com/veo/vscan,veo/vscan,377697824
 BID-24182,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-BID-24182,0.00050531,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+BID-24182,0.00050000,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-24182,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-24182,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-24182,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
@@ -28,4 +28,4 @@ BID-24182,0.00004622,https://github.com/offensive-security/exploitdb,offensive-s
 BID-24182,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-24182,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 BID-24182,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
-BID-24182,0.00000454,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-24182,0.00000453,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
