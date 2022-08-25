@@ -25,7 +25,6 @@ VU#52,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellEx
 VU#52,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
 VU#52,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#52,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
-VU#52,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#52,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#52,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#52,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -48,9 +47,9 @@ VU#52,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#52,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#52,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#52,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#52,0.01075269,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#52,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#52,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#52,0.01063830,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#52,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#52,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#52,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
@@ -58,7 +57,6 @@ VU#52,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#52,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#52,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#52,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
-VU#52,0.00862069,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#52,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#52,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#52,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -75,6 +73,7 @@ VU#52,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#52,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#52,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#52,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#52,0.00649351,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#52,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#52,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
 VU#52,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382

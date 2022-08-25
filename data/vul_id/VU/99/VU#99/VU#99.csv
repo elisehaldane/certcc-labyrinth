@@ -48,7 +48,6 @@ VU#99,0.03703704,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machine
 VU#99,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#99,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#99,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
-VU#99,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#99,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#99,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#99,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
@@ -76,9 +75,9 @@ VU#99,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-C
 VU#99,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#99,0.01136364,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#99,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#99,0.01075269,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#99,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#99,0.01063830,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#99,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#99,0.00980392,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
@@ -88,7 +87,6 @@ VU#99,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#99,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#99,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#99,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#99,0.00862069,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#99,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#99,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#99,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -106,6 +104,7 @@ VU#99,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#99,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#99,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#99,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#99,0.00649351,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#99,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#99,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#99,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
@@ -118,7 +117,7 @@ VU#99,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#99,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#99,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#99,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
-VU#99,0.00418410,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
+VU#99,0.00416667,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
 VU#99,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#99,0.00381679,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#99,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334

@@ -21,6 +21,7 @@ VU#08,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/meta
 VU#08,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
 VU#08,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#08,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
+VU#08,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#08,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
 VU#08,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#08,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
@@ -52,15 +53,14 @@ VU#08,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-C
 VU#08,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#08,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#08,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#08,0.01075269,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#08,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#08,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#08,0.01063830,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#08,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#08,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#08,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#08,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#08,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
-VU#08,0.00862069,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#08,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#08,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#08,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -76,6 +76,7 @@ VU#08,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hog
 VU#08,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#08,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#08,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#08,0.00649351,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#08,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#08,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#08,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332

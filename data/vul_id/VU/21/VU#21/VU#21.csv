@@ -48,6 +48,7 @@ VU#21,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOp
 VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#21,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#21,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
+VU#21,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#21,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
 VU#21,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
 VU#21,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
@@ -152,7 +153,6 @@ VU#21,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#21,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#21,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#21,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
-VU#21,0.00862069,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#21,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#21,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#21,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
@@ -171,6 +171,7 @@ VU#21,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,
 VU#21,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#21,0.00653595,https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841,Satheesh575555/Openssl_1_1_0_CVE-2021-23841,521602618
 VU#21,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,486927382
+VU#21,0.00649351,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#21,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#21,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#21,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882

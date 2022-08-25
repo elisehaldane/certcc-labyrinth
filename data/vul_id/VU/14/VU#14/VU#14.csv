@@ -37,6 +37,7 @@ VU#14,0.05882353,https://github.com/Korozin/korozin.github.io,Korozin/korozin.gi
 VU#14,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#14,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
 VU#14,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
+VU#14,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#14,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#14,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#14,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
@@ -48,7 +49,6 @@ VU#14,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_S
 VU#14,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#14,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#14,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
-VU#14,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#14,0.03125000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#14,0.02857143,https://github.com/khalednassar/CVE-2020-27301-hostapd,khalednassar/CVE-2020-27301-hostapd,483337432
 VU#14,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -104,7 +104,6 @@ VU#14,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#14,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#14,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#14,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#14,0.00862069,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#14,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#14,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#14,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -121,6 +120,7 @@ VU#14,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#14,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#14,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#14,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#14,0.00649351,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#14,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#14,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#14,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332

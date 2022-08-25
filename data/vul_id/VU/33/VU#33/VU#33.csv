@@ -41,6 +41,7 @@ VU#33,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179
 VU#33,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
 VU#33,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
 VU#33,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
+VU#33,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#33,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#33,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#33,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
@@ -57,7 +58,6 @@ VU#33,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyz
 VU#33,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#33,0.03333333,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#33,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
-VU#33,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#33,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
 VU#33,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#33,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
@@ -112,7 +112,6 @@ VU#33,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#33,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#33,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#33,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#33,0.00862069,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#33,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#33,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#33,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -128,6 +127,7 @@ VU#33,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hog
 VU#33,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#33,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#33,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#33,0.00649351,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#33,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#33,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#33,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332

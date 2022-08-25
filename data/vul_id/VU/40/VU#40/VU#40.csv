@@ -8,6 +8,7 @@ VU#40,0.33333333,https://github.com/nikaiw/CVE-2021-4034,nikaiw/CVE-2021-4034,45
 VU#40,0.33333333,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#40,0.25000000,https://github.com/z3dc0ps/awesome-linux-exploits,z3dc0ps/awesome-linux-exploits,479754725
 VU#40,0.20000000,https://github.com/NZT48/exploiting-smart-contract-vulnerabilities,NZT48/exploiting-smart-contract-vulnerabilities,510038855
+VU#40,0.20000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#40,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#40,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
 VU#40,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
@@ -28,6 +29,7 @@ VU#40,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLea
 VU#40,0.05263158,https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3,PeiQi0/PeiQi-WIKI-PocSuite3,443955062
 VU#40,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#40,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
+VU#40,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#40,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#40,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#40,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
@@ -36,7 +38,6 @@ VU#40,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Ar
 VU#40,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#40,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 VU#40,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,475290370
-VU#40,0.03125000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#40,0.03125000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#40,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
 VU#40,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -108,14 +109,13 @@ VU#40,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#40,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#40,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#40,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#40,0.01075269,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#40,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#40,0.01063830,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#40,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#40,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#40,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#40,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#40,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#40,0.00862069,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#40,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#40,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#40,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -132,6 +132,7 @@ VU#40,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hog
 VU#40,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#40,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#40,0.00662252,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
+VU#40,0.00649351,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#40,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#40,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#40,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
