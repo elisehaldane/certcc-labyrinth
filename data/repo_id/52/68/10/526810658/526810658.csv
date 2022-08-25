@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-526810658,mistymntncop/CVE-2022-1802,exploit.html,348ceb46d396e2a11121f1c79e02ec9c318f6937,CVE-2022-1529
+526810658,mistymntncop/CVE-2022-1802,exploit.html,1be7afa3f36b62ccbb8abb2c5fcdadcd234d16aa,CVE-2022-1529
 526810658,mistymntncop/CVE-2022-1802,exploit.js,9fc951a8235a5ea9de36940267dbf3ece0af2673,CVE-2022-1802
 526810658,mistymntncop/CVE-2022-1802,README.md,ab0afc7eb950c4a86313f577e4fa050229c4ca49,CVE-2022-1529
 526810658,mistymntncop/CVE-2022-1802,README.md,ab0afc7eb950c4a86313f577e4fa050229c4ca49,CVE-2022-1802
