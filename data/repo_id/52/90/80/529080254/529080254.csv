@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+529080254,caique-garbim/Esteemaudit-without-Metasploit,README.md,7751fcec18ddec6ee602168465630a80f710c53a,CVE-2012-0002
+529080254,caique-garbim/Esteemaudit-without-Metasploit,README.md,7751fcec18ddec6ee602168465630a80f710c53a,MS12-020
