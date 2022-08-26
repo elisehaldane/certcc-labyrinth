@@ -10,8 +10,8 @@ repo_id,repo_full_name,file,file_sha1,match
 194125746,oxagast/oxasploits,README.md,13c02512f481b25929e5d2861116a3430963fb7b,CVE-2016-10401
 194125746,oxagast/oxasploits,README.md,13c02512f481b25929e5d2861116a3430963fb7b,CVE-2010-2626
 194125746,oxagast/oxasploits,README.md,13c02512f481b25929e5d2861116a3430963fb7b,CVE-2017-5816
+194125746,oxagast/oxasploits,exploits/CVE-2006-3392/webmin-remote-root-1.29.sh,2c84786c942e3bcf056e5e9dac5eb22d10513d1f,CVE-2006-3392
 194125746,oxagast/oxasploits,exploits/CVE-2010-2626/ppul.pl,3bebe414419dd7fe9882737e5c30bc0ccf0b347b,CVE-2010-2626
-194125746,oxagast/oxasploits,exploits/CVE-2006-3392/webmin-remote-root-1.29.sh,53470e53e86fa7ed331447b2f22f942250c57e9f,CVE-2006-3392
 194125746,oxagast/oxasploits,exploits/CVE-2016-10401/pk5001z00pin.c,9c347fd8177e8c8505842512ff8b325e9634af48,CVE-2016-10401
 194125746,oxagast/oxasploits,exploits/CVE-2019-15947/makeitrain.sh,d37c955c6bca822c8af560039530b8a5dad78f01,CVE-2019-15947
 194125746,oxagast/oxasploits,exploits/CVE-2017-5816/HPE_iMC_PLAT_dbman-7.3-RCE.pl,f1447c67d95de0f622d67e9ddd2d198081061bab,CVE-2017-5816
