@@ -67,6 +67,8 @@ VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#88,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
+VU#88,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
+VU#88,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
 VU#88,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#88,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#88,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
@@ -136,9 +138,9 @@ VU#88,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-C
 VU#88,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#88,0.01219512,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#88,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
-VU#88,0.01136364,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#88,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#88,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
+VU#88,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#88,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
 VU#88,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#88,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874

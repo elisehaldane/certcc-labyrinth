@@ -237,6 +237,7 @@ MS17-010,0.11111111,https://github.com/aryanguenthner/365,aryanguenthner/365,264
 MS17-010,0.11111111,https://github.com/rodriguezcoding/hackthebox_exploited_machines_notes,rodriguezcoding/hackthebox_exploited_machines_notes,256037841
 MS17-010,0.11111111,https://github.com/oneplus-x/msf-plugins,oneplus-x/msf-plugins,165913682
 MS17-010,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
+MS17-010,0.10000000,https://github.com/Scr1ptK1ddie/OSCPprep,Scr1ptK1ddie/OSCPprep,373353503
 MS17-010,0.10000000,https://github.com/L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,338316702
 MS17-010,0.10000000,https://github.com/ajes-xfr-team/bin-exploits,ajes-xfr-team/bin-exploits,307359751
 MS17-010,0.10000000,https://github.com/ihebski/A-Red-Teamer-diaries,ihebski/A-Red-Teamer-diaries,197602204
@@ -345,10 +346,10 @@ MS17-010,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4
 MS17-010,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 MS17-010,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 MS17-010,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
-MS17-010,0.00757576,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 MS17-010,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS17-010,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS17-010,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042
+MS17-010,0.00684932,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 MS17-010,0.00684932,https://github.com/TheRipperJhon/Msploitego,TheRipperJhon/Msploitego,136995325
 MS17-010,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 MS17-010,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
@@ -467,9 +468,9 @@ MS17-010,0.00023685,https://github.com/aresmart/MetaExploit,aresmart/MetaExploit
 MS17-010,0.00023669,https://github.com/snskiff/metasploit-framework__1,snskiff/metasploit-framework__1,133930484
 MS17-010,0.00023646,https://github.com/mdand2000/rapid7-metasploit-framework,mdand2000/rapid7-metasploit-framework,134903460
 MS17-010,0.00023646,https://github.com/RuZGaRBeY/metasploit-framework,RuZGaRBeY/metasploit-framework,134635059
-MS17-010,0.00023607,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00023602,https://github.com/shahnwazsheikh00/metasploit-framework,shahnwazsheikh00/metasploit-framework,162744394
 MS17-010,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metasploit-docker,162195461
+MS17-010,0.00023579,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
 MS17-010,0.00023073,https://github.com/mkdirlove/METASPLOIT-FRAMEWORK,mkdirlove/METASPLOIT-FRAMEWORK,202658385
 MS17-010,0.00022978,https://github.com/samba234/metasploit-framework,samba234/metasploit-framework,209766275

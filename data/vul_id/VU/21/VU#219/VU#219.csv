@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#219,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
-VU#219,0.01136364,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
+VU#219,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#219,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#219,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#219,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271

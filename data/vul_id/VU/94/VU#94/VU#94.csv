@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#94,0.50000000,https://github.com/0x3SC4L4T3/Babykernel-ctf-ret2usr,0x3SC4L4T3/Babykernel-ctf-ret2usr,441004245
 VU#94,0.50000000,https://github.com/bitcoinFakeSenderoke/BIG-EXPLOIT-COLLECTION,bitcoinFakeSenderoke/BIG-EXPLOIT-COLLECTION,439111495
 VU#94,0.50000000,https://github.com/mronion420/kali_metasploit_rat_for_androd,mronion420/kali_metasploit_rat_for_androd,385903890
-VU#94,0.33333333,https://github.com/Slackaduts/Deimos-Wizard101,Slackaduts/Deimos-Wizard101,507163373
 VU#94,0.33333333,https://github.com/kbcyb2122/Penetration-Testing-Report-Good-Security,kbcyb2122/Penetration-Testing-Report-Good-Security,483391494
 VU#94,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
 VU#94,0.16666667,https://github.com/agnath18K/eXploit,agnath18K/eXploit,345155702
@@ -39,6 +38,8 @@ VU#94,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,
 VU#94,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#94,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#94,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
+VU#94,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
+VU#94,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
 VU#94,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#94,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#94,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
