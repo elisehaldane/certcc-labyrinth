@@ -89,7 +89,6 @@ VU#32,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyz
 VU#32,0.03333333,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#32,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
 VU#32,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
-VU#32,0.02941176,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#32,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#32,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
 VU#32,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -102,6 +101,7 @@ VU#32,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#32,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#32,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#32,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
+VU#32,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#32,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#32,0.02222222,https://github.com/maveriktop007/-WindowsExploits,maveriktop007/-WindowsExploits,524907173
 VU#32,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
@@ -173,7 +173,7 @@ VU#32,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,
 VU#32,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#32,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#32,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
-VU#32,0.00684932,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
+VU#32,0.00671141,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#32,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#32,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#32,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
