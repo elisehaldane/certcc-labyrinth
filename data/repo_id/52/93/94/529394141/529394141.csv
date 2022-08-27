@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+529394141,Chocapikk/CVE-2022-27925-Revshell,exp.py,50894be0faefaed54c353dac4e89d1353cbb52ee,CVE-2022-27925
+529394141,Chocapikk/CVE-2022-27925-Revshell,README.md,8099bcafb9dffd6293241cb6d980187f4b96fe5d,CVE-2022-27925
+529394141,Chocapikk/CVE-2022-27925-Revshell,_GITHUB_REPO_METADATA_,,CVE-2022-27925
