@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2017-03561,0.01694915,https://github.com/pen4uin/awesome-java-security,pen4uin/awesome-java-security,425515141
 CNVD-2017-03561,0.01041667,https://github.com/pen4uin/Poc-Exp,pen4uin/Poc-Exp,324937157
-CNVD-2017-03561,0.00050000,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2017-03561,0.00049975,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
