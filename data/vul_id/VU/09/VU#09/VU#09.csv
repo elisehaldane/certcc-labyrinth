@@ -42,6 +42,7 @@ VU#09,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-rep
 VU#09,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
 VU#09,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#09,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
+VU#09,0.09090909,https://github.com/irwx777/SocialSploit,irwx777/SocialSploit,529940744
 VU#09,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
 VU#09,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowbase/active-directory-abuse-notes,522582748
 VU#09,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
@@ -58,6 +59,7 @@ VU#09,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhija
 VU#09,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#09,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#09,0.05555556,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
+VU#09,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
 VU#09,0.05263158,https://github.com/Cesar-Hack-Gray/FotoSploit,Cesar-Hack-Gray/FotoSploit,225439363
 VU#09,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#09,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
@@ -178,7 +180,7 @@ VU#09,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#09,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#09,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#09,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-VU#09,0.00049975,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#09,0.00050000,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
