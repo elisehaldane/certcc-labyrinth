@@ -1,0 +1,47 @@
+
+# Summary for results/2022/08/30
+    
+40 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-08-30 05:20:41+00:00 | 12524 | 4830 | Python | 666 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-08-30 00:05:33+00:00 | 1534834 | 1679 | Python | 547 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-08-30 01:27:26+00:00 | 664 | 0 | | 0 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-08-30 00:56:12+00:00 | 3430 | 31 | Rust | 1 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-08-30 04:30:30+00:00 | 45352 | 1320 | C++ | 321 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-08-30 03:44:00+00:00 | 12658 | 19 | Go | 6 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-08-30 03:12:21+00:00 | 3722 | 45 | | 3 | [] |
+| TCATools/codedog_0Day_checker | None | https://github.com/TCATools/codedog_0Day_checker | ['0day'] | 1 | 2022-08-30 03:09:07+00:00 | 0 | 0 | | 0 | [] |
+| NoF0rte/slack-slurp | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | ['exploit'] | 1 | 2022-08-30 04:50:56+00:00 | 54 | 6 | Go | 1 | [] |
+| Breadway/Sew | A lightweight, exploit proof game framework for Roblox | https://github.com/Breadway/Sew | ['exploit'] | 1 | 2022-08-30 04:14:44+00:00 | 263 | 0 | Lua | 0 | [] |
+| EarthToAccess/EBGui | EBGui is a quick and easy user interface for Elemental Battlegrounds. | https://github.com/EarthToAccess/EBGui | ['exploit'] | 1 | 2022-08-30 04:03:54+00:00 | 595 | 0 | Lua | 0 | [] |
+| iilegacyyii/Shellcrypt | A QoL tool to obfuscate shellcode. In the future will be able to chain encoding/encryption/compression methods. | https://github.com/iilegacyyii/Shellcrypt | ['shellcode'] | 1 | 2022-08-30 02:21:10+00:00 | 27 | 48 | Python | 3 | [] |
+| tanmay12-sud0/shellcode.github.io | None | https://github.com/tanmay12-sud0/shellcode.github.io | ['shellcode'] | 1 | 2022-08-30 04:21:19+00:00 | 31743 | 0 | JavaScript | 0 | [] |
+| JeffMboya/CodePal | Remote code execution environment | https://github.com/JeffMboya/CodePal | ['remote code execution'] | 1 | 2022-08-30 01:19:59+00:00 | 0 | 0 | nan | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-gh | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-gh | ['exploit'] | 1 | 2022-08-30 01:49:03+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gh | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gh | ['exploit'] | 1 | 2022-08-30 01:49:49+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN-gh | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-gh | ['exploit'] | 1 | 2022-08-30 01:50:30+00:00 | 1 | 0 | | 0 | [] |
+| 0x44F/stego-discord | 📜 This script uses steganography and a Discord client vulnerability in order to run javascript on all computers viewing a certain image within Discord. | https://github.com/0x44F/stego-discord | ['0day'] | 1 | 2022-08-30 04:00:48+00:00 | 9 | 0 | Python | 0 | [] |
+| TeamDarkAnon/EyeBinder | A Free Silent (Hidden) Open-Source Native Binder - Includes Windows Defender Bypass - EyeBinder | https://github.com/TeamDarkAnon/EyeBinder | ['exploit'] | 1 | 2022-08-30 04:22:05+00:00 | 9835 | 1 | | 0 | [] |
+| TheonlyIcebear/Discord-Image-Exploit | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Exploit | ['exploit'] | 1 | 2022-08-30 04:09:35+00:00 | 34 | 89 | Python | 50 | [] |
+| tremwil/ds3-nrssr-rce | Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126. | https://github.com/tremwil/ds3-nrssr-rce | ['exploit', 'rce'] | 2 | 2022-08-30 02:11:05+00:00 | 74 | 113 | C++ | 7 | ['CVE-2022-24125', 'CVE-2022-24126'] |
+| sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-08-30 01:04:27+00:00 | 4614 | 6 | TypeScript | 3 | [] |
+| rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-08-30 00:37:21+00:00 | 48 | 0 | Ruby | 0 | [] |
+| elfmaster/maya | Highly advanced Linux anti-exploitation and anti-tamper binary protector for ELF. | https://github.com/elfmaster/maya | ['exploit'] | 1 | 2022-08-30 03:53:05+00:00 | 199 | 26 | C | 1 | [] |
+| AnarchyAngel/Hax11 | x11 exploit tool | https://github.com/AnarchyAngel/Hax11 | ['exploit'] | 1 | 2022-08-30 03:49:01+00:00 | 17 | 1 | Python | 2 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-08-30 00:33:27+00:00 | 53606 | 328 | Ruby | 96 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-08-30 04:32:07+00:00 | 434046 | 193 | REXX | 22 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-08-30 00:49:15+00:00 | 13898 | 47 | | 24 | [] |
+| zeroday0619/zeroday0619 | About Me | https://github.com/zeroday0619/zeroday0619 | ['zeroday'] | 1 | 2022-08-30 04:55:43+00:00 | 148 | 3 | | 2 | [] |
+| ihebski/DefaultCreds-cheat-sheet | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | ['exploit'] | 1 | 2022-08-30 02:56:32+00:00 | 529 | 2616 | Jupyter Notebook | 406 | [] |
+| Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2022-08-30 03:35:49+00:00 | 4261 | 220 | HTML | 100 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-08-30 00:39:50+00:00 | 285708 | 3 | Jupyter Notebook | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-08-30 04:01:10+00:00 | 248444 | 491 | Python | 140 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-08-30 02:41:45+00:00 | 229320 | 0 | JavaScript | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-08-30 04:56:09+00:00 | 23792 | 3 | Python | 1 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-08-30 02:42:08+00:00 | 1736 | 128 | HTML | 27 | [] |
+| thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2022-08-30 01:36:51+00:00 | 61 | 24 | | 3 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-08-30 04:51:17+00:00 | 8210277 | 88 | Python | 11 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-08-30 03:13:28+00:00 | 9965 | 3906 | TypeScript | 593 | [] |
+| LORDCYBERGOD/GraphQL-Batching-Attack | BatchQL BatchQL is a GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations. This script is not complex, and we welcome improvements. When exploring the problem space of GraphQL batching attacks, we found that ther | https://github.com/LORDCYBERGOD/GraphQL-Batching-Attack | ['exploit'] | 1 | 2022-08-30 05:28:44+00:00 | 0 | 0 | | 0 | [] |
