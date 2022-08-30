@@ -22,6 +22,8 @@ VU#45,0.50000000,https://github.com/real-exploit/red_hat_python,real-exploit/red
 VU#45,0.50000000,https://github.com/disjcordLAMO/XYZ-roblox-exploit,disjcordLAMO/XYZ-roblox-exploit,435216853
 VU#45,0.50000000,https://github.com/Beelzebuuuuu/Matasploit,Beelzebuuuuu/Matasploit,428846609
 VU#45,0.50000000,https://github.com/gushmazuko/metasploit_in_termux,gushmazuko/metasploit_in_termux,116056265
+VU#45,0.33333333,https://github.com/Deepak983/CVE-2020-19587,Deepak983/CVE-2020-19587,530599295
+VU#45,0.33333333,https://github.com/Deepak983/CVE-2020-19586,Deepak983/CVE-2020-19586,530596542
 VU#45,0.33333333,https://github.com/cckuailong/Test-JNDI-Injection-Exploit-Plus,cckuailong/Test-JNDI-Injection-Exploit-Plus,520834582
 VU#45,0.33333333,https://github.com/Slackaduts/Deimos-Wizard101,Slackaduts/Deimos-Wizard101,507163373
 VU#45,0.33333333,https://github.com/twseptian/cve-2022-22947,twseptian/cve-2022-22947,482005646
@@ -189,7 +191,7 @@ VU#45,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#45,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#45,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#45,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-VU#45,0.00050000,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#45,0.00049801,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#45,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#45,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#45,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
