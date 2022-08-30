@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-524753010,ThrillQuks/Pitraix,pitraix/lyst_linux.go,7a7c2460d3a5b09b89d1183050994d397772a5c7,VU#29
-524753010,ThrillQuks/Pitraix,pitraix/lyst_linux.go,7a7c2460d3a5b09b89d1183050994d397772a5c7,VU#52
-524753010,ThrillQuks/Pitraix,pitraix/lyst_linux.go,7a7c2460d3a5b09b89d1183050994d397772a5c7,VU#93
-524753010,ThrillQuks/Pitraix,pitraix/lyst_windows.go,82d1ef68b5ffa60db513bfac6b46e08fa1988ce0,VU#29
-524753010,ThrillQuks/Pitraix,pitraix/lyst_windows.go,82d1ef68b5ffa60db513bfac6b46e08fa1988ce0,VU#52
-524753010,ThrillQuks/Pitraix,pitraix/lyst_windows.go,82d1ef68b5ffa60db513bfac6b46e08fa1988ce0,VU#93
+524753010,ThrillQuks/Pitraix,pitraix/lyst_linux.go,3cc4d3bf4413932a84063f24eeb9a9322aed7732,VU#29
+524753010,ThrillQuks/Pitraix,pitraix/lyst_linux.go,3cc4d3bf4413932a84063f24eeb9a9322aed7732,VU#52
+524753010,ThrillQuks/Pitraix,pitraix/lyst_linux.go,3cc4d3bf4413932a84063f24eeb9a9322aed7732,VU#93
+524753010,ThrillQuks/Pitraix,pitraix/lyst_windows.go,bd2e30a3038e4b573ad4d7935639f7bffbc271fd,VU#29
+524753010,ThrillQuks/Pitraix,pitraix/lyst_windows.go,bd2e30a3038e4b573ad4d7935639f7bffbc271fd,VU#52
+524753010,ThrillQuks/Pitraix,pitraix/lyst_windows.go,bd2e30a3038e4b573ad4d7935639f7bffbc271fd,VU#93
