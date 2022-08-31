@@ -7,6 +7,7 @@ VU#42,1.00000000,https://github.com/Snow-Crash/snn-iir,Snow-Crash/snn-iir,259424
 VU#42,1.00000000,https://github.com/spaze/exploited.cz,spaze/exploited.cz,14698554
 VU#42,0.50000000,https://github.com/zxzxz1/Exploit_Version-5.9.0,zxzxz1/Exploit_Version-5.9.0,474067812
 VU#42,0.50000000,https://github.com/freitzzz/tpas-binary-exploitation,freitzzz/tpas-binary-exploitation,444112492
+VU#42,0.33333333,https://github.com/HexorHex/HexSploit-Site,HexorHex/HexSploit-Site,529328771
 VU#42,0.33333333,https://github.com/cscadoge/weblogic-cve-2018-2628,cscadoge/weblogic-cve-2018-2628,518331461
 VU#42,0.33333333,https://github.com/karimSalem25/Ethical_Hacking_and_Penetration_Testing,karimSalem25/Ethical_Hacking_and_Penetration_Testing,512165280
 VU#42,0.33333333,https://github.com/WhiteHacker-P/Evil-Termux,WhiteHacker-P/Evil-Termux,487606225
@@ -14,7 +15,6 @@ VU#42,0.33333333,https://github.com/WagleTanvi/UnlearnableExamplesAnalysis,Wagle
 VU#42,0.25000000,https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432,Vbedtt54e5/interesting-release-of-CVE-2022-63432,508608509
 VU#42,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#42,0.20000000,https://github.com/meowmeowxw/kernel-exploits,meowmeowxw/kernel-exploits,340351462
-VU#42,0.16666667,https://github.com/HexorHex/HexSploit-Site,HexorHex/HexSploit-Site,529328771
 VU#42,0.16666667,https://github.com/priyacshah/RCE_Sask_Website_Design,priyacshah/RCE_Sask_Website_Design,457425632
 VU#42,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#42,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
@@ -154,7 +154,7 @@ VU#42,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#42,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#42,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#42,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#42,0.00020113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#42,0.00020109,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#42,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#42,0.00004622,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#42,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
