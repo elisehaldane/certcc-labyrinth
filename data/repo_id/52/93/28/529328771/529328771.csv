@@ -1,7 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-529328771,HexorHex/HexSploit-Site,Hex.zip,0f84075b1aab99c308e1358a1bfe66ca17fe914c,VU#06
-529328771,HexorHex/HexSploit-Site,Hex.zip,0f84075b1aab99c308e1358a1bfe66ca17fe914c,VU#36
-529328771,HexorHex/HexSploit-Site,Hex.zip,0f84075b1aab99c308e1358a1bfe66ca17fe914c,VU#42
-529328771,HexorHex/HexSploit-Site,Hex.zip,0f84075b1aab99c308e1358a1bfe66ca17fe914c,VU#57
-529328771,HexorHex/HexSploit-Site,Hex.zip,0f84075b1aab99c308e1358a1bfe66ca17fe914c,VU#81
-529328771,HexorHex/HexSploit-Site,Hex.zip,0f84075b1aab99c308e1358a1bfe66ca17fe914c,VU#96
+529328771,HexorHex/HexSploit-Site,Hexor.zip,e608c3e538b09287e5a8610fed42bacc53ea73a4,VU#04
+529328771,HexorHex/HexSploit-Site,Hexor.zip,e608c3e538b09287e5a8610fed42bacc53ea73a4,VU#05
+529328771,HexorHex/HexSploit-Site,Hexor.zip,e608c3e538b09287e5a8610fed42bacc53ea73a4,VU#42
