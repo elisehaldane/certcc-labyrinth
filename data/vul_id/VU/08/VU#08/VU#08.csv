@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#08,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
 VU#08,0.50000000,https://github.com/dora2-iOS/p0insettia,dora2-iOS/p0insettia,427806749
+VU#08,0.50000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#08,0.50000000,https://github.com/epony4c/Exploit-Dictionary,epony4c/Exploit-Dictionary,184997903
 VU#08,0.33333333,https://github.com/danderfer/Comp_Sci_Sem_2,danderfer/Comp_Sci_Sem_2,500990573
 VU#08,0.33333333,https://github.com/ziyue0230/Sunlogin_RCE,ziyue0230/Sunlogin_RCE,462623934
@@ -110,7 +111,7 @@ VU#08,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#08,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#08,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#08,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-VU#08,0.00049628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#08,0.00049480,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#08,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#08,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#08,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -121,6 +122,6 @@ VU#08,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#08,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#08,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#08,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#08,0.00020109,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#08,0.00020105,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#08,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#08,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
