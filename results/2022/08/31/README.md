@@ -1,7 +1,7 @@
 
 # Summary for results/2022/08/31
     
-117 records found after deduplication
+118 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -20,7 +20,7 @@
 | Imeneallouche/Web-Application-Firewalls | Web security risks 🌐 are still very much in their infancy :computer: . Websites are exposed to web exploitation attacks :x: . For so, the focus of this project :bulb: is to build firewalls to protect web applications from a variety of application layer att | https://github.com/Imeneallouche/Web-Application-Firewalls | ['exploit'] | 1 | 2022-08-31 22:20:12+00:00 | 147 | 0 | | 0 | [] |
 | KiFilterFiberContext/warbird-hook | Using Microsoft Warbird to automatically unpack and execute encrypted shellcode in ClipSp.sys without triggering PatchGuard | https://github.com/KiFilterFiberContext/warbird-hook | ['shellcode'] | 1 | 2022-08-31 19:07:49+00:00 | 37 | 148 | C++ | 14 | [] |
 | vp777/exploit-dev | None | https://github.com/vp777/exploit-dev | ['exploit'] | 1 | 2022-08-31 18:17:06+00:00 | 34 | 8 | JavaScript | 2 | [] |
-| etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-08-31 03:41:36+00:00 | 113409 | 0 | C++ | 0 | [] |
+| Konis-Bros/Espio | Shellcode obfuscation tool to avoid AV/EDR. | https://github.com/Konis-Bros/Espio | ['shellcode'] | 1 | 2022-08-31 22:10:48+00:00 | 2327 | 29 | C++ | 5 | [] |
 | dynatrace-oss/invadium | Invadium runs exploit playbooks against vulnerable target applications in an intuitive, reproducible, and well-defined manner. | https://github.com/dynatrace-oss/invadium | ['exploit'] | 1 | 2022-08-31 14:08:51+00:00 | 1289 | 6 | TypeScript | 0 | [] |
 | ginsama01/exploit-train | None | https://github.com/ginsama01/exploit-train | ['exploit'] | 1 | 2022-08-31 04:48:43+00:00 | 5 | 0 | C | 0 | [] |
 | Breadway/Sew | A lightweight, exploit proof game framework for Roblox | https://github.com/Breadway/Sew | ['exploit'] | 1 | 2022-08-31 01:06:11+00:00 | 264 | 0 | Lua | 0 | [] |
@@ -34,9 +34,9 @@
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-08-31 03:55:10+00:00 | 3725 | 45 | | 3 | [] |
 | OriSpirit/InvGui | An utility mod for various GUI exploits | https://github.com/OriSpirit/InvGui | ['exploit'] | 1 | 2022-08-31 02:25:32+00:00 | 154 | 0 | Java | 0 | [] |
 | EHBLANKS/XSS_session_stealer | This project was developed with one thing in mind, demonstrate how an attacker can exploit XSS to steal sessions from cookies/localstorage. | https://github.com/EHBLANKS/XSS_session_stealer | ['exploit'] | 1 | 2022-08-31 13:41:39+00:00 | 14 | 0 | Python | 0 | [] |
-| Konis-Bros/Espio | Shellcode obfuscation tool to avoid AV/EDR. | https://github.com/Konis-Bros/Espio | ['shellcode'] | 1 | 2022-08-31 22:10:48+00:00 | 2327 | 29 | C++ | 5 | [] |
 | TakenoSite/Simple-CVE-2021-36260 | None | https://github.com/TakenoSite/Simple-CVE-2021-36260 | ['cve-2 OR cve_2'] | 1 | 2022-08-31 11:27:05+00:00 | 17 | 0 | Python | 0 | ['CVE-2021-36260'] |
-| HexorHex/HexorSploit-Status | None | https://github.com/HexorHex/HexorSploit-Status | ['sploit'] | 1 | 2022-08-31 13:52:39+00:00 | 150 | 0 | HTML | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-08-31 16:32:06+00:00 | 781351 | 28074 | Ruby | 12471 | [] |
+| i2ohan/METASPLOIT--Hack-The-Box | None | https://github.com/i2ohan/METASPLOIT--Hack-The-Box | ['metasploit module OR payload'] | 1 | 2022-08-31 13:18:17+00:00 | 8 | 1 | | 0 | [] |
 | Calvindd2f/Methodologies | Exploitation & Other Techniques | https://github.com/Calvindd2f/Methodologies | ['exploit'] | 1 | 2022-08-31 22:09:21+00:00 | 29 | 0 | PowerShell | 0 | [] |
 | User319183/no_speed.lua | Makes it so you can not walk or run in Roblox games. Simple little exploit script. | https://github.com/User319183/no_speed.lua | ['exploit'] | 1 | 2022-08-31 20:55:55+00:00 | 1 | 0 | Lua | 0 | [] |
 | fxndone/Exploiter | Post exploitation tool, which permit priv esc, keeping access and others | https://github.com/fxndone/Exploiter | ['exploit'] | 1 | 2022-08-31 20:04:12+00:00 | 2 | 0 | Python | 0 | [] |
@@ -48,8 +48,9 @@
 | BlueMechanics/Basic-ROBLOX-Anti-Exploit | A basic anti-exploit I created on ROLBOX Studio | https://github.com/BlueMechanics/Basic-ROBLOX-Anti-Exploit | ['exploit'] | 1 | 2022-08-31 15:15:10+00:00 | 3 | 0 | Lua | 0 | [] |
 | NomarlDevelopment/NormarlExploit | None | https://github.com/NomarlDevelopment/NormarlExploit | ['exploit'] | 1 | 2022-08-31 14:42:24+00:00 | 4 | 0 | | 0 | [] |
 | GoshaTeamProj/Roblox-Exploits | None | https://github.com/GoshaTeamProj/Roblox-Exploits | ['exploit'] | 1 | 2022-08-31 13:53:50+00:00 | 5 | 0 | Lua | 0 | [] |
-| i2ohan/METASPLOIT--Hack-The-Box | None | https://github.com/i2ohan/METASPLOIT--Hack-The-Box | ['metasploit module OR payload'] | 1 | 2022-08-31 13:18:17+00:00 | 8 | 1 | | 0 | [] |
+| r-ahmed2022/Weather-App | A Weather App providing information about weather in major cities across the world. In addition, the an input allowing the user to get weather info about the specific city inputted by him. The App utilizes modular approach exploiting the ES6 modules , HT | https://github.com/r-ahmed2022/Weather-App | ['exploit'] | 1 | 2022-08-31 17:47:38+00:00 | 8445 | 0 | JavaScript | 0 | [] |
 | Rachit-Pal/Metasploit-in-termux | None | https://github.com/Rachit-Pal/Metasploit-in-termux | ['metasploit module OR payload'] | 1 | 2022-08-31 12:15:30+00:00 | 16634 | 0 | Shell | 0 | [] |
+| HexorHex/HexorSploit-Status | None | https://github.com/HexorHex/HexorSploit-Status | ['sploit'] | 1 | 2022-08-31 13:52:39+00:00 | 150 | 0 | HTML | 0 | [] |
 | El-Turkco/MetaSploit | MetaSploit nasıl kullanılır ve exe nasıl oluşturulur. | https://github.com/El-Turkco/MetaSploit | ['metasploit module OR payload', 'sploit'] | 2 | 2022-08-31 11:36:15+00:00 | 1 | 0 | | 0 | [] |
 | RobloxSploits/RobloxSploits | Config files for my GitHub profile. | https://github.com/RobloxSploits/RobloxSploits | ['sploit'] | 1 | 2022-08-31 11:36:56+00:00 | 0 | 0 | | 0 | [] |
 | RuanLang0777/CNVD_2022_24937 | PHPMyWind(CNVD_2022_24937) 任意文件上传 | https://github.com/RuanLang0777/CNVD_2022_24937 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-08-31 11:31:55+00:00 | 4103 | 0 | Go | 0 | ['CNVD-2022-24937'] |
@@ -63,8 +64,8 @@
 | Jennahacker/zenna_rat | Android RAT with web panel and fully undetectable App Suport android 12 | https://github.com/Jennahacker/zenna_rat | ['exploit'] | 1 | 2022-08-31 07:03:25+00:00 | 10 | 0 | | 0 | [] |
 | JacobEbben/CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-08-31 00:04:44+00:00 | 15 | 4 | Python | 1 | ['CVE-2022-24637'] |
 | teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-08-31 15:51:58+00:00 | 2854 | 850 | Go | 79 | [] |
+| etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-08-31 03:41:36+00:00 | 113409 | 0 | C++ | 0 | [] |
 | edoardottt/awesome-hacker-search-engines | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2022-08-31 15:28:07+00:00 | 273 | 3026 | | 196 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-08-31 16:32:06+00:00 | 781351 | 28074 | Ruby | 12471 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-08-31 11:49:21+00:00 | 1666352 | 4628 | PowerShell | 1614 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-08-31 06:13:31+00:00 | 881 | 104 | Python | 17 | [] |
 | googleprojectzero/0days-in-the-wild | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | ['0day', 'exploit'] | 2 | 2022-08-31 22:14:02+00:00 | 17090 | 511 | HTML | 58 | [] |
