@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#926,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
 VU#926,0.02173913,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#926,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
+VU#926,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#926,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#926,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#926,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -12,5 +13,5 @@ VU#926,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496
 VU#926,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#926,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#926,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#926,0.00020105,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#926,0.00020101,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#926,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

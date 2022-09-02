@@ -13,6 +13,7 @@ MS14-068,0.11111111,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentes
 MS14-068,0.11111111,https://github.com/Redshift-CyberSecurity/Exploits,Redshift-CyberSecurity/Exploits,296640052
 MS14-068,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
 MS14-068,0.09090909,https://github.com/uberJohnson/MS-Vulnerability-Library,uberJohnson/MS-Vulnerability-Library,92790146
+MS14-068,0.08333333,https://github.com/Louzogh/CVE-2021-31800,Louzogh/CVE-2021-31800,531854393
 MS14-068,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
 MS14-068,0.06250000,https://github.com/dark-vex/CVE-PoC-collection,dark-vex/CVE-PoC-collection,199694627
 MS14-068,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploits,482204403
@@ -136,7 +137,7 @@ MS14-068,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall
 MS14-068,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 MS14-068,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS14-068,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-MS14-068,0.00185874,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+MS14-068,0.00185529,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS14-068,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 MS14-068,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 MS14-068,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
@@ -234,7 +235,7 @@ MS14-068,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4
 MS14-068,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS14-068,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 MS14-068,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS14-068,0.00020105,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-068,0.00020101,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-068,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS14-068,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS14-068,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
