@@ -1,0 +1,45 @@
+
+# Summary for results/2022/09/03
+    
+38 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-03 02:02:22+00:00 | 781251 | 28086 | Ruby | 12481 | [] |
+| sevenndev/raid-exploit | None | https://github.com/sevenndev/raid-exploit | ['exploit'] | 1 | 2022-09-03 02:16:22+00:00 | 22695 | 0 | | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-09-03 02:16:32+00:00 | 45434 | 1411 | C++ | 340 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-09-03 04:41:08+00:00 | 13246 | 19 | Go | 7 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-09-03 01:16:34+00:00 | 3758 | 45 | | 3 | [] |
+| 0xTriboulet/MVRE | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | ['exploit'] | 1 | 2022-09-03 01:42:37+00:00 | 18248 | 0 | C# | 0 | [] |
+| 78n/NoobSploit | nan | https://github.com/78n/NoobSploit | ['sploit'] | 1 | 2022-09-03 01:53:32+00:00 | 499 | 0 | Lua | 0 | [] |
+| GUIDEVELOCI/exploits | None | https://github.com/GUIDEVELOCI/exploits | ['exploit'] | 1 | 2022-09-03 01:19:16+00:00 | 19 | 0 | Lua | 0 | [] |
+| asdwasdwd/Endurance | The #1 Exploit for Ragdoll System Test | https://github.com/asdwasdwd/Endurance | ['exploit'] | 1 | 2022-09-03 02:34:21+00:00 | 549 | 0 | Lua | 0 | [] |
+| DaintyJet/Making-Dos-Metasploit-Module-Vulnserver | This is a walkthrough of making the DOS Metasploit module for the Vulnserver. | https://github.com/DaintyJet/Making-Dos-Metasploit-Module-Vulnserver | ['metasploit module OR payload'] | 1 | 2022-09-03 00:16:56+00:00 | 22 | 0 | | 0 | [] |
+| elfmaster/maya | Highly advanced Linux anti-exploitation and anti-tamper binary protector for ELF. | https://github.com/elfmaster/maya | ['exploit'] | 1 | 2022-09-03 00:01:49+00:00 | 214 | 107 | C | 7 | [] |
+| ZeroDayOwl/zerodayowl.github.io | A techy blog for geeky people | https://github.com/ZeroDayOwl/zerodayowl.github.io | ['zeroday'] | 1 | 2022-09-03 02:44:23+00:00 | 1803 | 0 | HTML | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-rt | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-rt | ['exploit'] | 1 | 2022-09-03 00:11:45+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rt | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rt | ['exploit'] | 1 | 2022-09-03 00:13:03+00:00 | 1 | 0 | | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN-rt | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-rt | ['exploit'] | 1 | 2022-09-03 00:14:11+00:00 | 1 | 0 | | 0 | [] |
+| LuciVera2/DaHood-Cash-Generator | DaHood Cash Generator hack/cheat/exploit undetected free | https://github.com/LuciVera2/DaHood-Cash-Generator | ['exploit'] | 1 | 2022-09-03 00:27:42+00:00 | 2 | 1 | | 0 | [] |
+| Pantera112/Garry-s-Mod-RefinedRP-Exploit-Hack | None | https://github.com/Pantera112/Garry-s-Mod-RefinedRP-Exploit-Hack | ['exploit'] | 1 | 2022-09-03 02:37:29+00:00 | 0 | 0 | | 0 | [] |
+| Retroapple/RetroApple-Exploit-Scripts | None | https://github.com/Retroapple/RetroApple-Exploit-Scripts | ['exploit'] | 1 | 2022-09-03 03:52:29+00:00 | 16 | 0 | | 0 | [] |
+| gogo2464/cryptatools | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | ['exploit'] | 1 | 2022-09-03 00:09:21+00:00 | 275 | 1 | Python | 0 | [] |
+| PeiQi0/PeiQi-WIKI-Book | 面向网络安全从业者的知识文库🍃 | https://github.com/PeiQi0/PeiQi-WIKI-Book | ['0day'] | 1 | 2022-09-03 03:31:22+00:00 | 632526 | 1033 | nan | 214 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-09-03 00:35:23+00:00 | 297133 | 3 | Jupyter Notebook | 0 | [] |
+| TheConner/RustBot | A discord bot that safely executes whatever rust you throw at it. Remote code execution as a service | https://github.com/TheConner/RustBot | ['remote code execution'] | 1 | 2022-09-03 00:44:12+00:00 | 214 | 7 | Rust | 2 | [] |
+| belane/linux-soft-exploit-suggester | Search Exploitable Software on Linux | https://github.com/belane/linux-soft-exploit-suggester | ['exploit'] | 1 | 2022-09-03 00:27:22+00:00 | 1587 | 201 | Python | 47 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-09-03 00:26:38+00:00 | 53609 | 330 | Ruby | 97 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-09-03 04:31:57+00:00 | 444482 | 195 | REXX | 22 | [] |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2022-09-03 03:58:01+00:00 | 587 | 163 | Java | 39 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-09-03 00:49:19+00:00 | 17859 | 47 | | 24 | [] |
+| smallkirby/kernelpwn | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | ['exploit'] | 1 | 2022-09-03 02:33:20+00:00 | 10459 | 263 | C | 18 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-09-03 05:03:58+00:00 | 645904 | 62 | | 24 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-09-03 02:28:20+00:00 | 904 | 104 | Python | 17 | [] |
+| Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2022-09-03 02:42:02+00:00 | 4268 | 223 | HTML | 101 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-09-03 04:01:11+00:00 | 269257 | 493 | Python | 139 | [] |
+| saitamang/POC-DUMP | Writeup for any interesting bugs/vulnerability | https://github.com/saitamang/POC-DUMP | ['vulnerability poc'] | 1 | 2022-09-03 04:51:15+00:00 | 4043 | 1 | Python | 1 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-09-03 04:23:59+00:00 | 25678 | 3 | Python | 1 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-09-03 02:38:02+00:00 | 1871 | 128 | HTML | 27 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-03 04:19:36+00:00 | 8343439 | 89 | Python | 11 | [] |
+| ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit'] | 1 | 2022-09-03 04:29:11+00:00 | 843 | 0 | Ruby | 0 | [] |
+| HiItsme787/CoolTool | crack hash passwords md5/sha1 check for open ports SSRF exploit check for subdomains | https://github.com/HiItsme787/CoolTool | ['exploit'] | 1 | 2022-09-03 04:38:43+00:00 | 0 | 0 | Shell | 0 | [] |
