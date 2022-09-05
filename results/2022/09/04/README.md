@@ -1,13 +1,12 @@
 
 # Summary for results/2022/09/04
     
-109 records found after deduplication
+110 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-04 16:29:18+00:00 | 781251 | 28096 | Ruby | 12487 | [] |
-| zerodayindia/zerodayindia.github.io | DATA LEAK | https://github.com/zerodayindia/zerodayindia.github.io | ['zeroday'] | 1 | 2022-09-04 10:27:06+00:00 | 43 | 0 | HTML | 0 | [] |
-| codingcore2/SILENT-DOC-EXPLOIT-CLEAN-po | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-po | ['exploit'] | 1 | 2022-09-04 01:01:48+00:00 | 1 | 0 | | 0 | [] |
+| krishpranav/exploitdb | Golang tool to search exploits from exploitdb | https://github.com/krishpranav/exploitdb | ['exploit'] | 1 | 2022-09-04 11:59:49+00:00 | 35 | 2 | Go | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-po | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-po | ['exploit'] | 1 | 2022-09-04 01:00:25+00:00 | 1 | 1 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN-po | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-po | ['exploit'] | 1 | 2022-09-04 00:59:17+00:00 | 1 | 1 | | 0 | [] |
 | paingp/cves-pa2 | None | https://github.com/paingp/cves-pa2 | ['cve-2 OR cve_2'] | 1 | 2022-09-04 23:28:11+00:00 | 10 | 0 | Jupyter Notebook | 0 | [] |
@@ -18,9 +17,9 @@
 | DaintyJet/Making-Dos-DDoS-Metasploit-Module-Vulnserver | This is a walkthrough of making the DOS Metasploit module for the Vulnserver. | https://github.com/DaintyJet/Making-Dos-DDoS-Metasploit-Module-Vulnserver | ['metasploit module OR payload'] | 1 | 2022-09-04 15:10:52+00:00 | 344 | 0 | Ruby | 0 | [] |
 | fxndone/Exploiter | Post exploitation tool, which permit priv esc, keeping access and others | https://github.com/fxndone/Exploiter | ['exploit'] | 1 | 2022-09-04 22:54:31+00:00 | 4 | 0 | Python | 0 | [] |
 | PlayboyPrime/exploit | None | https://github.com/PlayboyPrime/exploit | ['exploit'] | 1 | 2022-09-04 04:45:24+00:00 | 1571 | 0 | HTML | 0 | [] |
-| krishpranav/exploitdb | Golang tool to search exploits from exploitdb | https://github.com/krishpranav/exploitdb | ['exploit'] | 1 | 2022-09-04 11:59:49+00:00 | 35 | 2 | Go | 0 | [] |
-| cawfree/opensea-submarine | Ping. Ping. Ping. | https://github.com/cawfree/opensea-submarine | ['exploit'] | 1 | 2022-09-04 22:34:15+00:00 | 175 | 15 | TypeScript | 1 | [] |
+| zerodayindia/zerodayindia.github.io | DATA LEAK | https://github.com/zerodayindia/zerodayindia.github.io | ['zeroday'] | 1 | 2022-09-04 10:27:06+00:00 | 43 | 0 | HTML | 0 | [] |
 | 0x44F/stego-discord | 📜 This script uses steganography and a Discord client vulnerability in order to run javascript on all computers viewing a certain image within Discord. | https://github.com/0x44F/stego-discord | ['0day'] | 1 | 2022-09-04 12:39:05+00:00 | 22 | 14 | Python | 1 | [] |
+| fleetyeets/wf2409e | Similar to WF2419 exploit; lots of code from https://packetstormsecurity.com/files/156588/Netis-WF2419-2.2.36123-Remote-Code-Execution.html | https://github.com/fleetyeets/wf2409e | ['exploit', 'remote code execution'] | 2 | 2022-09-04 02:41:40+00:00 | 6 | 0 | Python | 0 | [] |
 | arash-bahariye/admin-dashboard | comprehensive admin dashboard exploiting hooks API, Syncfusion and Tailwind | https://github.com/arash-bahariye/admin-dashboard | ['exploit'] | 1 | 2022-09-04 15:20:58+00:00 | 4189 | 0 | JavaScript | 0 | [] |
 | HexorHex/HexorSploit-Site | This is the repository of HexSploit! You can check out the website here! https://hexsploit.cf | https://github.com/HexorHex/HexorSploit-Site | ['sploit'] | 1 | 2022-09-04 16:26:32+00:00 | 62690 | 0 | HTML | 0 | [] |
 | security-softwares/offensive_shellcode | offensive shellcode book for hackers and programmers | https://github.com/security-softwares/offensive_shellcode | ['exploit', 'shellcode'] | 2 | 2022-09-04 05:55:03+00:00 | 19709 | 1 | | 0 | [] |
@@ -31,10 +30,11 @@
 | security-softwares/shell_code | bash shell code encrypter obsfuscator | https://github.com/security-softwares/shell_code | ['shellcode'] | 1 | 2022-09-04 05:52:01+00:00 | 19 | 1 | Shell | 0 | [] |
 | vianchen/micom-emulator | An emulator for testing of the KOFFEE exploitation | https://github.com/vianchen/micom-emulator | ['exploit', 'metasploit module OR payload'] | 2 | 2022-09-04 15:39:11+00:00 | 8893 | 0 | C | 0 | [] |
 | Abhimanyu08/RCE-blog-client | Client side code for rce-blog | https://github.com/Abhimanyu08/RCE-blog-client | ['rce'] | 1 | 2022-09-04 13:55:50+00:00 | 541 | 0 | TypeScript | 0 | [] |
-| fleetyeets/wf2409e | Similar to WF2419 exploit; lots of code from https://packetstormsecurity.com/files/156588/Netis-WF2419-2.2.36123-Remote-Code-Execution.html | https://github.com/fleetyeets/wf2409e | ['exploit', 'remote code execution'] | 2 | 2022-09-04 02:41:40+00:00 | 6 | 0 | Python | 0 | [] |
+| AymanRbati/appsec-scripts | Scripts that i used to exploit some web/mobile app vulnerabilities during pentests/ctfs | https://github.com/AymanRbati/appsec-scripts | ['exploit'] | 1 | 2022-09-04 21:52:05+00:00 | 16 | 2 | Java | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN-po | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-po | ['exploit'] | 1 | 2022-09-04 01:01:48+00:00 | 1 | 0 | | 0 | [] |
 | vyslixdev/wsdestroyer | A consentual script that slowly overtime fills up your "Workspace" folder in your Exploit. Fun to mess around with! | https://github.com/vyslixdev/wsdestroyer | ['exploit'] | 1 | 2022-09-04 02:42:26+00:00 | 2 | 0 | | 0 | [] |
-| MR-DARK54/hacker-blazy | Exploit the blazy loophole | https://github.com/MR-DARK54/hacker-blazy | ['exploit'] | 1 | 2022-09-04 05:58:39+00:00 | 7 | 0 | Python | 0 | [] |
-| 188r8726037/kgretzkyk | This is a **WIP** tool that performs shellcode obfuscation in x86 instruction set. | https://github.com/188r8726037/kgretzkyk | ['shellcode'] | 1 | 2022-09-04 07:00:27+00:00 | 0 | 0 | | 0 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-09-04 16:47:05+00:00 | 12529 | 4840 | Python | 671 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-yt | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-yt | ['exploit'] | 1 | 2022-09-04 15:23:01+00:00 | 1 | 0 | | 0 | [] |
 | ChronoAccelerator/Invisible-Fling | Roblox Exploit | https://github.com/ChronoAccelerator/Invisible-Fling | ['exploit'] | 1 | 2022-09-04 20:30:48+00:00 | 9 | 0 | Lua | 0 | [] |
 | skateforever/pentest-exploits | Exploits fixed or created by me | https://github.com/skateforever/pentest-exploits | ['exploit'] | 1 | 2022-09-04 20:24:38+00:00 | 5 | 0 | Python | 0 | [] |
 | ali-ece/Nature-Inspired-Metaheuristic-Search-Algorithms-for-Optimizing-Benchmark-Problems-Inclined-Planes-S | In the literature, different types of inclined planes system optimization (IPO) algorithms have been proposed and evaluated in various applications. Due to the large number of variants and applications, this work provides an overview of IPO’s state-of-the- | https://github.com/ali-ece/Nature-Inspired-Metaheuristic-Search-Algorithms-for-Optimizing-Benchmark-Problems-Inclined-Planes-S | ['exploit'] | 1 | 2022-09-04 19:39:51+00:00 | 80 | 0 | MATLAB | 0 | [] |
@@ -43,11 +43,11 @@
 | BuggHub/metasploit_framework | None | https://github.com/BuggHub/metasploit_framework | ['metasploit module OR payload'] | 1 | 2022-09-04 20:48:17+00:00 | 3 | 0 | Shell | 0 | [] |
 | mmnoureldin/ExecSploit | None | https://github.com/mmnoureldin/ExecSploit | ['sploit'] | 1 | 2022-09-04 18:08:47+00:00 | 0 | 0 | | 0 | [] |
 | BruninhoHPWF/Fluxo-Exploit | None | https://github.com/BruninhoHPWF/Fluxo-Exploit | ['exploit'] | 1 | 2022-09-04 18:52:25+00:00 | 1 | 0 | | 0 | [] |
-| CEOrbey/CVE-2022-36804-POC | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances. | https://github.com/CEOrbey/CVE-2022-36804-POC | ['attack poc', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2022-09-04 17:24:35+00:00 | 270 | 0 | nan | 0 | ['CVE-2022-36804'] |
+| CEOrbey/CVE-2022-36804-POC | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances. | https://github.com/CEOrbey/CVE-2022-36804-POC | ['attack poc', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2022-09-04 17:24:35+00:00 | 270 | 0 | | 0 | ['CVE-2022-36804'] |
 | Qhingthuth/-information- | Termux Hackers (Users): Introduction This is a package of all hacking tools., This tool contain over 300+ Advance and professional Hacking tools.it contain Phishing, Brute forcing, cloning, Vulnerability scanning, Information Gathering, Tracing and Tracki | https://github.com/Qhingthuth/-information- | ['exploit'] | 1 | 2022-09-04 17:01:55+00:00 | 1 | 0 | | 0 | [] |
 | R1shal1n/metasploitable-3-prebuilt | Pre-built Metasploitable 3 Virtual Machines. Simply run with Virtualbox or VmWare | https://github.com/R1shal1n/metasploitable-3-prebuilt | ['metasploit module OR payload'] | 1 | 2022-09-04 16:55:06+00:00 | 0 | 0 | | 0 | [] |
-| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-yt | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-yt | ['exploit'] | 1 | 2022-09-04 15:23:01+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | ['exploit'] | 1 | 2022-09-04 15:22:18+00:00 | 1 | 0 | | 0 | [] |
+| MR-DARK54/hacker-blazy | Exploit the blazy loophole | https://github.com/MR-DARK54/hacker-blazy | ['exploit'] | 1 | 2022-09-04 05:58:39+00:00 | 7 | 0 | Python | 0 | [] |
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-yt | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-yt | ['exploit'] | 1 | 2022-09-04 15:21:34+00:00 | 1 | 0 | | 0 | [] |
 | SaintsConnor/Exploits | All CVE Exploits used by connor including code. | https://github.com/SaintsConnor/Exploits | ['exploit'] | 1 | 2022-09-04 13:58:47+00:00 | 126 | 0 | PowerShell | 0 | [] |
 | gnaw1ng/cve-2022-9099 | cve-2022-9099 test | https://github.com/gnaw1ng/cve-2022-9099 | ['cve-2 OR cve_2'] | 1 | 2022-09-04 13:26:39+00:00 | 0 | 0 | | 0 | ['CVE-2022-9099'] |
@@ -58,9 +58,10 @@
 | colind0pe/Java-Vulnerability-Demo | Java常见应用漏洞的示例代码和POC，用于学习Java漏洞 | https://github.com/colind0pe/Java-Vulnerability-Demo | ['vuln poc', 'vulnerability poc'] | 2 | 2022-09-04 11:07:30+00:00 | 1889 | 0 | Java | 0 | [] |
 | 0xd3vil/WP-Exploits | None | https://github.com/0xd3vil/WP-Exploits | ['exploit'] | 1 | 2022-09-04 08:50:50+00:00 | 14 | 0 | | 0 | [] |
 | Mr-Samm/Vcenter4J | a simple bash tool which use to exploit log4j vulnerability within vcenter lower than 7.0.1 version. | https://github.com/Mr-Samm/Vcenter4J | ['exploit'] | 1 | 2022-09-04 09:20:46+00:00 | 3 | 0 | Shell | 0 | [] |
-| AymanRbati/appsec-scripts | Scripts that i used to exploit some web/mobile app vulnerabilities during pentests/ctfs | https://github.com/AymanRbati/appsec-scripts | ['exploit'] | 1 | 2022-09-04 21:52:05+00:00 | 16 | 2 | Java | 0 | [] |
+| 188r8726037/kgretzkyk | This is a **WIP** tool that performs shellcode obfuscation in x86 instruction set. | https://github.com/188r8726037/kgretzkyk | ['shellcode'] | 1 | 2022-09-04 07:00:27+00:00 | 0 | 0 | | 0 | [] |
+| cawfree/opensea-submarine | Ping. Ping. Ping. | https://github.com/cawfree/opensea-submarine | ['exploit'] | 1 | 2022-09-04 22:34:15+00:00 | 175 | 15 | TypeScript | 1 | [] |
 | yigitsarioglu/cybersecs | CTF solutions, cybersecurity related things, exploits and codes | https://github.com/yigitsarioglu/cybersecs | ['exploit'] | 1 | 2022-09-04 10:54:42+00:00 | 11 | 0 | | 0 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-09-04 16:47:05+00:00 | 12529 | 4840 | Python | 671 | [] |
+| Trumpiter-max/Tricks-in-web-exploiting | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploiting | ['exploit'] | 1 | 2022-09-04 10:34:14+00:00 | 166 | 3 | PHP | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-09-04 11:21:34+00:00 | 5535791 | 8 | Lua | 0 | [] |
 | rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2022-09-04 01:18:07+00:00 | 408 | 0 | HTML | 0 | [] |
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2022-09-04 15:34:08+00:00 | 4335 | 0 | Python | 1 | [] |
@@ -74,7 +75,7 @@
 | NyaMeeEain/Custom-Shellcode | None | https://github.com/NyaMeeEain/Custom-Shellcode | ['shellcode'] | 1 | 2022-09-04 07:40:37+00:00 | 8176 | 2 | | 1 | [] |
 | kryptops/lycanthropy | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | ['exploit'] | 1 | 2022-09-04 15:48:53+00:00 | 3661 | 8 | Python | 2 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2022-09-04 12:46:28+00:00 | 68361 | 869 | Lua | 192 | [] |
-| Trumpiter-max/Tricks-in-web-exploiting | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploiting | ['exploit'] | 1 | 2022-09-04 10:34:14+00:00 | 166 | 3 | PHP | 0 | [] |
+| OopsZero234/XeraX-Exploit | None | https://github.com/OopsZero234/XeraX-Exploit | ['exploit'] | 1 | 2022-09-04 22:16:09+00:00 | 11539 | 0 | Lua | 0 | [] |
 | nerdsinspace/leaky-leaky | [PATCHED] Exploit that allows one to authenticate as any user in Minecraft | https://github.com/nerdsinspace/leaky-leaky | ['exploit'] | 1 | 2022-09-04 14:58:12+00:00 | 10 | 152 | Java | 14 | [] |
 | Sharpforce/XSS-Exploitation-Tool | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | ['exploit'] | 1 | 2022-09-04 21:39:50+00:00 | 8723 | 69 | PHP | 15 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-09-04 15:00:19+00:00 | 17949 | 47 | | 24 | [] |
@@ -90,7 +91,6 @@
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-09-04 02:31:23+00:00 | 1872 | 128 | HTML | 27 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-09-04 21:33:17+00:00 | 77716 | 10 | Java | 4 | [] |
 | yqcs/ZheTian | ::ZheTian / 强大的免杀生成工具，Bypass All. | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-09-04 06:15:18+00:00 | 32991 | 501 | Go | 109 | [] |
-| OopsZero234/XeraX-Exploit | None | https://github.com/OopsZero234/XeraX-Exploit | ['exploit'] | 1 | 2022-09-04 22:16:09+00:00 | 11539 | 0 | Lua | 0 | [] |
 | StrokeThePea/GelatekReanimate | Reanimation that's way better than Catware Reanimate. | https://github.com/StrokeThePea/GelatekReanimate | ['exploit'] | 1 | 2022-09-04 01:09:55+00:00 | 94 | 3 | Lua | 2 | [] |
 | teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-09-04 15:06:44+00:00 | 2863 | 857 | Go | 80 | [] |
 | etan007/rcell | None | https://github.com/etan007/rcell | ['rce'] | 1 | 2022-09-04 11:21:35+00:00 | 117196 | 0 | C++ | 0 | [] |
@@ -105,6 +105,7 @@
 | D3Ext/WEF | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | ['exploit'] | 1 | 2022-09-04 14:29:25+00:00 | 6084 | 1247 | Hack | 117 | [] |
 | DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-09-04 02:43:20+00:00 | 225 | 0 | | 0 | [] |
 | gogo2464/cryptatools | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | ['exploit'] | 1 | 2022-09-04 16:27:56+00:00 | 276 | 1 | Python | 0 | [] |
+| Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2022-09-04 17:28:56+00:00 | 14 | 289 | HTML | 38 | ['CVE-2022-0337'] |
 | nim-nix-pkgs/rcedit | Automatic nix flake of rcedit | https://github.com/nim-nix-pkgs/rcedit | ['rce'] | 1 | 2022-09-04 01:26:19+00:00 | 52 | 0 | Nix | 0 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-09-04 15:00:49+00:00 | 616052 | 1 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-09-04 01:17:11+00:00 | 677 | 0 | | 0 | [] |
