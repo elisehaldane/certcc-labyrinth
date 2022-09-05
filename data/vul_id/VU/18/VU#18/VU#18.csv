@@ -39,6 +39,7 @@ VU#18,0.25000000,https://github.com/paulomatozinho/-Integrando-um-Backend-em-Nod
 VU#18,0.25000000,https://github.com/Rami-Majdoub/vulnerable-smart-contracts,Rami-Majdoub/vulnerable-smart-contracts,518817759
 VU#18,0.25000000,https://github.com/redpack-kr/fei-protocol-flashloan-vuln,redpack-kr/fei-protocol-flashloan-vuln,518034682
 VU#18,0.25000000,https://github.com/yudikubota/exemplo_ataque_reentrada,yudikubota/exemplo_ataque_reentrada,516548886
+VU#18,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#18,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#18,0.25000000,https://github.com/tingzeng1208/demo-rce-frontend,tingzeng1208/demo-rce-frontend,440029650
 VU#18,0.25000000,https://github.com/hack-different/apple-knowledge,hack-different/apple-knowledge,435649432
@@ -50,7 +51,6 @@ VU#18,0.20000000,https://github.com/pen4uin/vuln-hub,pen4uin/vuln-hub,531803508
 VU#18,0.20000000,https://github.com/wwwfan628/DA-AIM,wwwfan628/DA-AIM,529796820
 VU#18,0.20000000,https://github.com/argon125/Bandit-Algorithms,argon125/Bandit-Algorithms,527414066
 VU#18,0.20000000,https://github.com/Precioussoul/abs-drive,Precioussoul/abs-drive,506190427
-VU#18,0.20000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#18,0.20000000,https://github.com/Precioussoul/HBS-DRIVE,Precioussoul/HBS-DRIVE,488289241
 VU#18,0.20000000,https://github.com/tuhinmallick/Stochastic-methods-Project,tuhinmallick/Stochastic-methods-Project,477425856
 VU#18,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/TicTacToe,497334479
@@ -95,6 +95,7 @@ VU#18,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#18,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#18,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#18,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
+VU#18,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#18,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#18,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
 VU#18,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
@@ -213,7 +214,7 @@ VU#18,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#18,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#18,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#18,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#18,0.00262467,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#18,0.00261780,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#18,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#18,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#18,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
@@ -226,7 +227,7 @@ VU#18,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#18,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#18,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#18,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-VU#18,0.00049334,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#18,0.00049237,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#18,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#18,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#18,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

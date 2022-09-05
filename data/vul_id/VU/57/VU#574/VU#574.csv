@@ -3,6 +3,7 @@ VU#574,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021
 VU#574,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#574,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
 VU#574,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
+VU#574,0.07142857,https://github.com/colind0pe/Java-Vulnerability-Demo,colind0pe/Java-Vulnerability-Demo,532512601
 VU#574,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#574,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#574,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
@@ -10,4 +11,4 @@ VU#574,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/
 VU#574,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#574,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#574,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
-VU#574,0.00049334,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#574,0.00049237,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571

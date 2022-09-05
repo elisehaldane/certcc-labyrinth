@@ -16,6 +16,7 @@ VU#23,0.33333333,https://github.com/dbgee/log4j2_rce,dbgee/log4j2_rce,436839306
 VU#23,0.33333333,https://github.com/trewisscotch/CobaltStr4.4,trewisscotch/CobaltStr4.4,422873872
 VU#23,0.33333333,https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking,Jee-King/ICCV2021_Event_Frame_Tracking,391794327
 VU#23,0.33333333,https://github.com/sketchyboi14/PhoneSploitGui,sketchyboi14/PhoneSploitGui,309204881
+VU#23,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#23,0.25000000,https://github.com/F3XClientOfficial/F3XClient,F3XClientOfficial/F3XClient,477200054
 VU#23,0.25000000,https://github.com/lumalav/CAP6135_FinalProject,lumalav/CAP6135_FinalProject,475988297
 VU#23,0.25000000,https://github.com/Greetdawn/SunloginClientRCE,Greetdawn/SunloginClientRCE,460251394
@@ -26,7 +27,6 @@ VU#23,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-PO
 VU#23,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#23,0.20000000,https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271,SaumyajeetDas/POC-of-CVE-2022-36271,525521767
 VU#23,0.20000000,https://github.com/ruchirasvmm/log4j-exploit-demo,ruchirasvmm/log4j-exploit-demo,489876123
-VU#23,0.20000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#23,0.20000000,https://github.com/scottymcandrew/exploit-labs,scottymcandrew/exploit-labs,478164772
 VU#23,0.20000000,https://github.com/HelloLyfing/log4j2-rce-202112-poc,HelloLyfing/log4j2-rce-202112-poc,442988778
 VU#23,0.20000000,https://github.com/prodigiousMind/log4j-exploit-RCE-by-ReverseShell,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,439824794
@@ -78,7 +78,6 @@ VU#23,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomai
 VU#23,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#23,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
 VU#23,0.05882353,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
-VU#23,0.05555556,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#23,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#23,0.05263158,https://github.com/PitchyATree/roblox-exploit-library,PitchyATree/roblox-exploit-library,407856378
 VU#23,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
@@ -90,6 +89,7 @@ VU#23,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Ho
 VU#23,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#23,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#23,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
+VU#23,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#23,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
 VU#23,0.04000000,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#23,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
@@ -181,7 +181,7 @@ VU#23,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#23,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#23,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#23,0.00269542,https://github.com/helloexp/0day,helloexp/0day,478826386
-VU#23,0.00262467,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#23,0.00261780,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#23,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#23,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#23,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
@@ -193,7 +193,7 @@ VU#23,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-Tool
 VU#23,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#23,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#23,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#23,0.00049334,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#23,0.00049237,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#23,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#23,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#23,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
