@@ -1,6 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 489038043,Acefrrag/I-DNN,scripts/datasets/mnist.pkl.gz,0b07d663e8a02d51849faa39e226ed19d7b7ed23,VU#40
-489038043,Acefrrag/I-DNN,doc/Development of an Intermittent Computing Architecture for Machine.pptx,4fe84b11dc79960a5429e3345cbe5065d5e949b1,VU#18
-489038043,Acefrrag/I-DNN,doc/Development of an Intermittent Computing Architecture for Machine.pptx,4fe84b11dc79960a5429e3345cbe5065d5e949b1,VU#23
-489038043,Acefrrag/I-DNN,doc/Development of an Intermittent Computing Architecture for Machine.pptx,4fe84b11dc79960a5429e3345cbe5065d5e949b1,VU#66
-489038043,Acefrrag/I-DNN,vivado/I-DNN/I-DNN.sim/sim_1/behav/xsim/xsim.dir/I_DNN_tb_behav/xsim.mem,ceed036095212df9eb7a00e6e54c88de96e92140,VU#31
+489038043,Acefrrag/I-DNN,doc/Development of an Intermittent Computing Architecture for Machine.pptx,5240cac6816c3c59eebd395562e1ade76e76ebe3,VU#18
+489038043,Acefrrag/I-DNN,doc/Development of an Intermittent Computing Architecture for Machine.pptx,5240cac6816c3c59eebd395562e1ade76e76ebe3,VU#23
+489038043,Acefrrag/I-DNN,doc/Development of an Intermittent Computing Architecture for Machine.pptx,5240cac6816c3c59eebd395562e1ade76e76ebe3,VU#66
