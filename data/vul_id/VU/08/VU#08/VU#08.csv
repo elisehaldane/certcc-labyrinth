@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#08,0.50000000,https://github.com/Joakim5005/zerodayaarhus,Joakim5005/zerodayaarhus,511679445
 VU#08,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
 VU#08,0.50000000,https://github.com/dora2-iOS/p0insettia,dora2-iOS/p0insettia,427806749
 VU#08,0.50000000,https://github.com/epony4c/Exploit-Dictionary,epony4c/Exploit-Dictionary,184997903
@@ -16,6 +17,7 @@ VU#08,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRes
 VU#08,0.20000000,https://github.com/0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model,0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model,410147622
 VU#08,0.16666667,https://github.com/siberiah0h/CVE-CNVD-HUB,siberiah0h/CVE-CNVD-HUB,456395746
 VU#08,0.12500000,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
+VU#08,0.10000000,https://github.com/bolt3x/tesi,bolt3x/tesi,533280790
 VU#08,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
 VU#08,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
 VU#08,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
@@ -105,13 +107,13 @@ VU#08,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAl
 VU#08,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#08,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#08,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#08,0.00185529,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#08,0.00185185,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#08,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#08,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#08,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#08,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#08,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-VU#08,0.00049237,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#08,0.00049116,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#08,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#08,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#08,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
