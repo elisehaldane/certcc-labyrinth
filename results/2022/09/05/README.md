@@ -1,7 +1,7 @@
 
 # Summary for results/2022/09/05
     
-138 records found after deduplication
+139 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -40,7 +40,7 @@
 | mohamedbenchikh/CVE-2022-27925 | None | https://github.com/mohamedbenchikh/CVE-2022-27925 | ['cve-2 OR cve_2'] | 1 | 2022-09-05 22:05:53+00:00 | 7 | 12 | Python | 1 | ['CVE-2022-27925'] |
 | Miguel-Deza/One-Last-Pose | An app to exploit your creativity with kamasutra for more pleasure 😌 | https://github.com/Miguel-Deza/One-Last-Pose | ['exploit'] | 1 | 2022-09-05 02:46:46+00:00 | 10076 | 0 | C++ | 0 | [] |
 | Jaydilyc/zeroday | This is my first repository as a full-stack engineer | https://github.com/Jaydilyc/zeroday | ['zeroday'] | 1 | 2022-09-05 04:35:03+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-09-05 10:52:15+00:00 | 232759 | 7385 | C | 1948 | [] |
+| ShubhamJagtap2000/Cross-site-Scripting | 📝 Understand how cross-site scripting occurs, how to detect and exploit XSS vulnerabilities, giving you control of other visitor's browsers. | https://github.com/ShubhamJagtap2000/Cross-site-Scripting | ['exploit'] | 1 | 2022-09-05 14:23:17+00:00 | 158 | 3 | JavaScript | 0 | [] |
 | karanbir-singh001/Pwnkit | Pwnkit to exploit pkexec | https://github.com/karanbir-singh001/Pwnkit | ['exploit'] | 1 | 2022-09-05 15:39:01+00:00 | 3 | 0 | C | 0 | [] |
 | veritas501/CVE-2022-2639-PipeVersion | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/veritas501/CVE-2022-2639-PipeVersion | ['cve-2 OR cve_2'] | 1 | 2022-09-05 14:25:17+00:00 | 114 | 6 | C | 1 | ['CVE-2022-2639'] |
 | jet-pentest/CVE-2022-39838 | None | https://github.com/jet-pentest/CVE-2022-39838 | ['cve-2 OR cve_2'] | 1 | 2022-09-05 14:29:11+00:00 | 4 | 0 | | 0 | ['CVE-2022-39838'] |
@@ -74,8 +74,8 @@
 | Ravishsidd/Cab-Booking-Project | Cab booking system is the process where renting a cab is automated through an app throughout a city. Using this app people can book a cab from one location to another location. Being a cab booking app company, exploiting an understanding of cab supply and | https://github.com/Ravishsidd/Cab-Booking-Project | ['exploit'] | 1 | 2022-09-05 07:51:23+00:00 | 1572 | 0 | Jupyter Notebook | 0 | [] |
 | Venodez/ExploitForge | List some exploits of Minecraft mods | https://github.com/Venodez/ExploitForge | ['exploit'] | 1 | 2022-09-05 09:52:20+00:00 | 2 | 0 | | 0 | [] |
 | Rh077king/Exploiter | CYBER KING SQUAD CSRF Auto Exploiter | https://github.com/Rh077king/Exploiter | ['exploit'] | 1 | 2022-09-05 17:07:43+00:00 | 4878 | 0 | Python | 1 | [] |
-| ShubhamJagtap2000/Cross-site-Scripting | 📝 Understand how cross-site scripting occurs, how to detect and exploit XSS vulnerabilities, giving you control of other visitor's browsers. | https://github.com/ShubhamJagtap2000/Cross-site-Scripting | ['exploit'] | 1 | 2022-09-05 14:23:17+00:00 | 158 | 3 | JavaScript | 0 | [] |
 | Abhimanyu08/RCE-blog-client | Client side code for rce-blog | https://github.com/Abhimanyu08/RCE-blog-client | ['rce'] | 1 | 2022-09-05 14:43:16+00:00 | 552 | 0 | TypeScript | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2022-09-05 10:52:15+00:00 | 232759 | 7385 | C | 1948 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-09-05 10:29:35+00:00 | 915 | 104 | Python | 17 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2022-09-05 22:02:53+00:00 | 1919 | 1 | Python | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-09-05 05:04:08+00:00 | 645271 | 62 | | 24 | [] |
@@ -84,7 +84,7 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-09-05 04:23:15+00:00 | 119 | 0 | PHP | 0 | [] |
 | faizxn/events-exploit-logs | None | https://github.com/faizxn/events-exploit-logs | ['exploit'] | 1 | 2022-09-05 03:08:01+00:00 | 1756 | 0 | | 0 | [] |
 | turbot/steampipe-plugin-shodan | Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. | https://github.com/turbot/steampipe-plugin-shodan | ['exploit'] | 1 | 2022-09-05 14:42:09+00:00 | 191 | 23 | Go | 4 | [] |
-| lesley29/code-execution-engine | Simple remote code execution web service | https://github.com/lesley29/code-execution-engine | ['remote code execution'] | 1 | 2022-09-05 16:26:19+00:00 | 229 | 0 | Kotlin | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-05 04:48:17+00:00 | 8402032 | 89 | Python | 11 | [] |
 | rsuppersahabatan/hacker | Files yang berhasil diupload ke folder server secara terbatas. Terima Kasih atas Informasi LOG anda. :) sampai Berjumpa. | https://github.com/rsuppersahabatan/hacker | ['exploit'] | 1 | 2022-09-05 08:23:50+00:00 | 1098712 | 0 | HTML | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-09-05 15:49:25+00:00 | 1241045 | 131 | | 29 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-09-05 04:01:10+00:00 | 265068 | 498 | Python | 140 | [] |
@@ -109,25 +109,25 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-09-05 00:05:47+00:00 | 1534834 | 1679 | Python | 545 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-09-05 05:16:22+00:00 | 12571 | 4842 | Python | 671 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-09-05 15:18:13+00:00 | 77722 | 10 | Java | 4 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-05 04:48:17+00:00 | 8402032 | 89 | Python | 11 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-09-05 02:31:35+00:00 | 10534 | 3981 | TypeScript | 605 | [] |
-| Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-09-05 11:22:03+00:00 | 44695 | 0 | VHDL | 0 | [] |
-| Web-3-0-Service/Drainer-Crypto-ETH-NFT | ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT | ['exploit'] | 1 | 2022-09-05 00:25:10+00:00 | 5113 | 6 | CSS | 5 | [] |
-| ShibaNekoL/RCEC_summer_2022 | None | https://github.com/ShibaNekoL/RCEC_summer_2022 | ['rce'] | 1 | 2022-09-05 03:40:31+00:00 | 25227 | 0 | Jupyter Notebook | 0 | [] |
-| 0xTriboulet/MVRE | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | ['exploit'] | 1 | 2022-09-05 04:35:09+00:00 | 18263 | 0 | C | 0 | [] |
-| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-09-05 02:40:00+00:00 | 3779 | 46 | | 3 | [] |
-| OopsZero234/XeraX-Exploit | None | https://github.com/OopsZero234/XeraX-Exploit | ['exploit'] | 1 | 2022-09-05 21:26:03+00:00 | 15990 | 0 | Lua | 0 | [] |
-| wxrdnx/Exploit-Cheatsheet | None | https://github.com/wxrdnx/Exploit-Cheatsheet | ['exploit'] | 1 | 2022-09-05 04:37:46+00:00 | 19 | 1 | Assembly | 0 | [] |
-| teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-09-05 16:31:29+00:00 | 2878 | 876 | Go | 80 | [] |
+| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2022-09-05 18:10:10+00:00 | 2775 | 555 | C# | 113 | [] |
+| lesley29/code-execution-engine | Simple remote code execution web service | https://github.com/lesley29/code-execution-engine | ['remote code execution'] | 1 | 2022-09-05 16:26:19+00:00 | 229 | 0 | Kotlin | 0 | [] |
 | hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2022-09-05 16:07:52+00:00 | 67831 | 2835 | Go | 332 | [] |
-| 0xricksanchez/like-dbg | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | ['exploit'] | 1 | 2022-09-05 16:49:32+00:00 | 550 | 435 | Python | 29 | [] |
-| memN0ps/srdi-rs | Rusty Shellcode Reflective DLL Injection (sRDI) | https://github.com/memN0ps/srdi-rs | ['shellcode'] | 1 | 2022-09-05 03:38:44+00:00 | 165 | 50 | Rust | 0 | [] |
-| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-09-05 03:42:18+00:00 | 12979 | 19 | Go | 7 | [] |
-| Armandukx/ArmanX | A roblox executor/exploit multi API save's settings, etc | https://github.com/Armandukx/ArmanX | ['exploit'] | 1 | 2022-09-05 20:12:30+00:00 | 171423 | 0 | | 0 | [] |
-| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-09-05 14:32:04+00:00 | 45444 | 1439 | C++ | 345 | [] |
 | kartikeyaggarwal/Exploit | None | https://github.com/kartikeyaggarwal/Exploit | ['exploit'] | 1 | 2022-09-05 19:09:59+00:00 | 4 | 0 | HTML | 0 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-09-05 14:32:04+00:00 | 45444 | 1439 | C++ | 345 | [] |
+| Armandukx/ArmanX | A roblox executor/exploit multi API save's settings, etc | https://github.com/Armandukx/ArmanX | ['exploit'] | 1 | 2022-09-05 20:12:30+00:00 | 171423 | 0 | | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-09-05 03:42:18+00:00 | 12979 | 19 | Go | 7 | [] |
+| memN0ps/srdi-rs | Rusty Shellcode Reflective DLL Injection (sRDI) | https://github.com/memN0ps/srdi-rs | ['shellcode'] | 1 | 2022-09-05 03:38:44+00:00 | 165 | 50 | Rust | 0 | [] |
+| 0xricksanchez/like-dbg | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | ['exploit'] | 1 | 2022-09-05 16:49:32+00:00 | 550 | 435 | Python | 29 | [] |
+| teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-09-05 16:31:29+00:00 | 2878 | 876 | Go | 80 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-09-05 02:31:35+00:00 | 10534 | 3981 | TypeScript | 605 | [] |
+| wxrdnx/Exploit-Cheatsheet | None | https://github.com/wxrdnx/Exploit-Cheatsheet | ['exploit'] | 1 | 2022-09-05 04:37:46+00:00 | 19 | 1 | Assembly | 0 | [] |
+| OopsZero234/XeraX-Exploit | None | https://github.com/OopsZero234/XeraX-Exploit | ['exploit'] | 1 | 2022-09-05 21:26:03+00:00 | 15990 | 0 | Lua | 0 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-09-05 02:40:00+00:00 | 3779 | 46 | | 3 | [] |
+| 0xTriboulet/MVRE | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | ['exploit'] | 1 | 2022-09-05 04:35:09+00:00 | 18263 | 0 | C | 0 | [] |
+| ShibaNekoL/RCEC_summer_2022 | None | https://github.com/ShibaNekoL/RCEC_summer_2022 | ['rce'] | 1 | 2022-09-05 03:40:31+00:00 | 25227 | 0 | Jupyter Notebook | 0 | [] |
+| Web-3-0-Service/Drainer-Crypto-ETH-NFT | ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT | ['exploit'] | 1 | 2022-09-05 00:25:10+00:00 | 5113 | 6 | CSS | 5 | [] |
+| Acefrrag/I-DNN | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | ['exploit'] | 1 | 2022-09-05 11:22:03+00:00 | 44695 | 0 | VHDL | 0 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-09-05 18:26:47+00:00 | 3434 | 31 | Rust | 1 | [] |
-| sha0coder/scemu | x86 shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-09-05 15:39:59+00:00 | 39198 | 126 | Rust | 16 | [] |
 | zv800/Vector-main-Repository | an open-source Roblox exploit | https://github.com/zv800/Vector-main-Repository | ['exploit'] | 1 | 2022-09-05 06:22:09+00:00 | 36811 | 1 | Lua | 0 | [] |
 | CLincat/vulcat | vulcat可用于扫描web端漏洞(框架、中间件、CMS等), 发现漏洞时会提示目标url和payload, 使用者可以根据提示 对漏洞进行验证并进一步利用 | https://github.com/CLincat/vulcat | ['cve poc', 'vulnerability poc'] | 2 | 2022-09-05 04:12:34+00:00 | 2323 | 35 | Python | 4 | [] |
 | Decurity/semgrep-smart-contracts | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | ['exploit'] | 1 | 2022-09-05 13:41:36+00:00 | 213 | 327 | Solidity | 44 | [] |
@@ -142,4 +142,5 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-09-05 18:10:47+00:00 | 9686 | 15 | | 5 | [] |
 | rogxo/ShellcodeLoader | AV Bypass Shellcode Loader | https://github.com/rogxo/ShellcodeLoader | ['shellcode'] | 1 | 2022-09-05 07:47:27+00:00 | 37 | 6 | C++ | 4 | [] |
 | yaza-putu/laravel-repository-with-service | With repository and service you can separate business logic and query logic, slim controller and DRY. Simple generate repository and service with artisan command, automatically bind interface to class implement with IOC container and dependecy injection | https://github.com/yaza-putu/laravel-repository-with-service | ['command injection'] | 1 | 2022-09-05 02:36:34+00:00 | 86 | 6 | PHP | 1 | [] |
+| sha0coder/scemu | x86 shellcode emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-09-05 15:39:59+00:00 | 39198 | 126 | Rust | 16 | [] |
 | hackerhouse-opensource/cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | ['cve-2 OR cve_2'] | 1 | 2022-09-05 23:49:44+00:00 | 484 | 0 | C++ | 2 | ['CVE-2021-34527'] |
