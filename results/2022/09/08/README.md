@@ -1,0 +1,39 @@
+
+# Summary for results/2022/09/08
+    
+32 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-08 05:08:42+00:00 | 782331 | 28137 | Ruby | 12493 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-09-08 00:29:32+00:00 | 53613 | 330 | Ruby | 97 | [] |
+| ellord0xd/-jira-exploits | jira-exploit-cve | https://github.com/ellord0xd/-jira-exploits | ['exploit'] | 1 | 2022-09-08 01:48:57+00:00 | 2 | 0 | | 0 | [] |
+| digital-dev/Log4j-CVE-2021-44228-Remediation | This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices. | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | ['cve-2 OR cve_2'] | 1 | 2022-09-08 00:22:59+00:00 | 63 | 0 | PowerShell | 0 | ['CVE-2021-44228'] |
+| emre-kocyigit/webscraping | You can create your own html dataset exploiting this package. | https://github.com/emre-kocyigit/webscraping | ['exploit'] | 1 | 2022-09-08 04:47:40+00:00 | 5 | 0 | Python | 0 | [] |
+| pghuanghui/CVE_Request_2 | None | https://github.com/pghuanghui/CVE_Request_2 | ['cve-2 OR cve_2'] | 1 | 2022-09-08 01:24:32+00:00 | 716 | 0 | | 0 | [] |
+| balance-in/ShellCode | Some shell code | https://github.com/balance-in/ShellCode | ['shellcode'] | 1 | 2022-09-08 02:36:22+00:00 | 1450 | 0 | Shell | 0 | [] |
+| zxzxz1/Exploit-Blacklist | None | https://github.com/zxzxz1/Exploit-Blacklist | ['exploit'] | 1 | 2022-09-08 00:40:52+00:00 | 40 | 0 | | 0 | [] |
+| gawgua/python-things | Python random small scripts to support exploiting Anime Game | https://github.com/gawgua/python-things | ['exploit'] | 1 | 2022-09-08 05:11:09+00:00 | 2 | 1 | Python | 0 | [] |
+| j00sean/SecBugs | Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on. | https://github.com/j00sean/SecBugs | ['0day', 'exploit'] | 2 | 2022-09-08 01:38:36+00:00 | 1577 | 53 | HTML | 5 | [] |
+| teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-09-08 03:02:19+00:00 | 2922 | 909 | Go | 80 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-09-08 05:15:11+00:00 | 13181 | 19 | Go | 7 | [] |
+| Akebi-Group/Akebi-GC | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | ['exploit'] | 1 | 2022-09-08 04:16:28+00:00 | 50011 | 1463 | C++ | 354 | [] |
+| MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs | dvb-2022-MaksimsCvetkovs created by GitHub Classroom | https://github.com/MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs | ['cve-2 OR cve_2'] | 1 | 2022-09-08 05:09:58+00:00 | 897 | 0 | | 0 | [] |
+| ccreater222/slime | Slime是一个组合众多优秀安全工具的漏扫软件，它将目光集中在安全工具的组合上，而不是自己实现漏扫的某一流程。 | https://github.com/ccreater222/slime | ['vulnerability poc'] | 1 | 2022-09-08 05:12:05+00:00 | 532 | 11 | Python | 1 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-09-08 01:33:54+00:00 | 78722 | 195 | Go | 48 | [] |
+| docfate111/CVE-2021-42327 | kernel exploit POC for vulnerability i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2022-09-08 04:00:06+00:00 | 1672 | 8 | C | 4 | ['CVE-2021-42327'] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-09-08 05:12:14+00:00 | 10667 | 4029 | TypeScript | 610 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-08 04:39:03+00:00 | 8472685 | 89 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-09-08 02:41:27+00:00 | 2007 | 127 | HTML | 27 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-09-08 04:44:20+00:00 | 25370 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-09-08 04:01:12+00:00 | 263031 | 500 | Python | 140 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-09-08 02:20:52+00:00 | 935 | 105 | Python | 17 | [] |
+| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-09-08 03:07:12+00:00 | 120 | 0 | PHP | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-09-08 05:03:34+00:00 | 665753 | 62 | | 24 | [] |
+| kevinadhiguna/wifi-sploit | Wi-Fi sploit is a password cracker for an admin page of a Wi-Fi Router. | https://github.com/kevinadhiguna/wifi-sploit | ['sploit'] | 1 | 2022-09-08 02:16:16+00:00 | 61 | 30 | Python | 18 | [] |
+| shellcodesniper/shellcodesniper | ME? | https://github.com/shellcodesniper/shellcodesniper | ['shellcode'] | 1 | 2022-09-08 04:15:07+00:00 | 68 | 0 | | 0 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-09-08 00:49:22+00:00 | 12294 | 47 | | 24 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-09-08 04:32:12+00:00 | 444670 | 197 | REXX | 22 | [] |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2022-09-08 00:44:15+00:00 | 21962 | 2749 | Python | 714 | [] |
+| Maxul/Awesome-SGX-Open-Source | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2022-09-08 02:18:28+00:00 | 179 | 183 | | 28 | [] |
+| Omnis9/DuckySploit-V3 | DuckySploit V3 Roblox Level 7 Executor Free | https://github.com/Omnis9/DuckySploit-V3 | ['exploit', 'sploit'] | 2 | 2022-09-08 04:54:49+00:00 | 0 | 1 | Batchfile | 0 | [] |
