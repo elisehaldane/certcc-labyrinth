@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#21,1.00000000,https://github.com/Omnis9/DuckySploit-V3,Omnis9/DuckySploit-V3,534051639
 VU#21,1.00000000,https://github.com/marik22354/Python-Payload-Crypter-V1,marik22354/Python-Payload-Crypter-V1,493417206
 VU#21,1.00000000,https://github.com/triscuitcircuit/rcengine,triscuitcircuit/rcengine,369786465
 VU#21,0.50000000,https://github.com/riccardomajellaro/DeepQLearning,riccardomajellaro/DeepQLearning,473225175
@@ -221,7 +222,7 @@ VU#21,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#21,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#21,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#21,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#21,0.00020101,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00020096,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#21,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#21,0.00004622,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
