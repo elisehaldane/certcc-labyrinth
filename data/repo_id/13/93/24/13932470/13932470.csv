@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-13932470,leebaird/discover,notes/active-directory.txt,1f4d8c8f0cfad559ba02378c78a4b94cf81f5076,CVE-2020-1472
+13932470,leebaird/discover,notes/active-directory.txt,1d82822f9fd034c44f7ccd3b3865ba48f79d43c0,CVE-2020-1472
 13932470,leebaird/discover,newModules.sh,203fb03c0746d6fe43669645f760dfb977ea89ee,CVE-2017-7494
 13932470,leebaird/discover,newModules.sh,203fb03c0746d6fe43669645f760dfb977ea89ee,MS10-054
 13932470,leebaird/discover,newModules.sh,203fb03c0746d6fe43669645f760dfb977ea89ee,MS06-025
@@ -10,11 +10,11 @@ repo_id,repo_full_name,file,file_sha1,match
 13932470,leebaird/discover,report/assets/css/styles.css,47d0e20cdc3d04c35c773a12cfaa52c6875b015b,VU#644
 13932470,leebaird/discover,notes/pwk.txt,5d84345ad62c228c3e1757acb502b15d6ed99e6f,MS11-080
 13932470,leebaird/discover,notes/pwk.txt,5d84345ad62c228c3e1757acb502b15d6ed99e6f,MS12-037
+13932470,leebaird/discover,notes/linux.txt,5fc1ac593ad7eef55a175c35fce67538564c1629,CVE-2022-0847
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#29
 13932470,leebaird/discover,mods/EgressAssess.ps1,8304e4c8797f4e5e70d7586090590a8ba4714724,VU#40
 13932470,leebaird/discover,report.sh,94b72117ef62674fc26298c7170b9f51616e011d,MS08-067
 13932470,leebaird/discover,notes/PowerShell/PS-Attack.txt,a0fdd58931159616c3c6d8639a02257686c264c5,MS16-032
-13932470,leebaird/discover,notes/linux.txt,b4f7ae9f72051437a6269a4d731b1c8823fdcd50,CVE-2022-0847
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS17-010
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS10-073
 13932470,leebaird/discover,resource/3389-rdp.rc,e5ba4958c6673668d30bfd7e31a8914fa37f6cb8,CVE-2019-0708
