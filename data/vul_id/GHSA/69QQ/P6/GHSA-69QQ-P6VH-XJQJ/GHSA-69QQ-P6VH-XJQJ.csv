@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-69QQ-P6VH-XJQJ,0.50000000,https://github.com/emirpolatt/CVE-2022-31188,emirpolatt/CVE-2022-31188,534599866
