@@ -80,6 +80,8 @@ repo_id,repo_full_name,file,file_sha1,match
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/poc/rop_gadget,1c637bd70e600e131df8688247f67f77dfc0d875,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/aclocal.m4,1c8fa7f144dced092c88e600c4288eb3b0854f78,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/libatalk/unicode/charsets/mac_chinese_trad.h,1d06310a7d3ea2a9518ce479817d270d25fc44a1,CVE-2018-1160
+322464091,Hank0438/pwn_notes,pwnable_tw/README.md,1dff2851d5f083b1ce4e59eaea415eaa68901c5f,CVE-2018-10387
+322464091,Hank0438/pwn_notes,pwnable_tw/README.md,1dff2851d5f083b1ce4e59eaea415eaa68901c5f,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/libatalk/unicode/precompose.h,1e67d9e919bf1394068a7fcd212666615cde463f,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/libevent/event_iocp.c,1e850eba69c681e9f7e8c8f33fc2eefc004a71b3,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/libatalk/dsi/dsi_write.c,1e882333c9d320aa68e859387019d20d08f32d02,CVE-2018-1160
@@ -744,8 +746,6 @@ repo_id,repo_full_name,file,file_sha1,match
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/etc/cnid_dbd/db_param.c,fc02b7d0c916025b595d1bfcd30af720425dc84b,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/libatalk/dsi/dsi_tickle.c,fc2f0125aa1bf7f740ffb78a51f18a96340a02ee,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/libevent/test/Makefile.nmake,fc8dbeb5715e5fa2026154fafc3cb38f7fd78aca,CVE-2018-1160
-322464091,Hank0438/pwn_notes,pwnable_tw/README.md,fca7a55585b4298deb0135ab0f1505ed932511e6,CVE-2018-1160
-322464091,Hank0438/pwn_notes,pwnable_tw/README.md,fca7a55585b4298deb0135ab0f1505ed932511e6,CVE-2018-10387
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/include/atalk/globals.h,fcd18f1f51249f878469309ebc27cac36392e38d,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/missing,fced81554799feb0f10fb56e3a06acb92c7ce7b0,CVE-2018-1160
 322464091,Hank0438/pwn_notes,pwnable_tw/cve_2018_1160/netatalk-3.1.11/macros/grep-check.m4,fd570b6b400d9cea6c21327ece114b950358296a,CVE-2018-1160
