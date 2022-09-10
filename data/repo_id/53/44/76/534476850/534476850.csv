@@ -1,4 +1,14 @@
 repo_id,repo_full_name,file,file_sha1,match
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-SetupFiles/Xotic Sploit Installer.msi,4753023da272578e4843c7c91a691dbb2a174595,VU#45
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-SetupFiles/Xotic Sploit Installer.msi,4753023da272578e4843c7c91a691dbb2a174595,VU#46
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-SetupFiles/Xotic Sploit Installer.msi,4753023da272578e4843c7c91a691dbb2a174595,VU#56
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-SetupFiles/Xotic Sploit Installer.msi,4753023da272578e4843c7c91a691dbb2a174595,VU#74
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-SetupFiles/Xotic Sploit Installer.msi,4753023da272578e4843c7c91a691dbb2a174595,VU#90
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-cache/part1/disk1.cab,5a4c2ec664d702b5c0dad33c81c557bef7cfa41d,VU#45
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-cache/part1/disk1.cab,5a4c2ec664d702b5c0dad33c81c557bef7cfa41d,VU#46
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-cache/part1/disk1.cab,5a4c2ec664d702b5c0dad33c81c557bef7cfa41d,VU#56
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-cache/part1/disk1.cab,5a4c2ec664d702b5c0dad33c81c557bef7cfa41d,VU#74
+534476850,XoticSploit/XoticSploit-exploit,Xotic Sploit Installer/Xotic Sploit Installer-cache/part1/disk1.cab,5a4c2ec664d702b5c0dad33c81c557bef7cfa41d,VU#90
 534476850,XoticSploit/XoticSploit-exploit,Xotic Exploit/Form2.resx,9c8e6b6b8aee33889d5c6858592dcd22f1b4d612,VU#148
 534476850,XoticSploit/XoticSploit-exploit,Xotic Exploit/Form2.resx,9c8e6b6b8aee33889d5c6858592dcd22f1b4d612,VU#40
 534476850,XoticSploit/XoticSploit-exploit,Xotic Exploit/Form2.resx,9c8e6b6b8aee33889d5c6858592dcd22f1b4d612,VU#59
