@@ -1,6 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,README.md,1e5360ae00030cd72cf874f9fd47218005cba9b8,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,data-scripts/aggregate.js,64c81b3289c55320f28e309976839e881adb9a2a,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,storage/default.go,a502f3f0b7f5acdf59b55373335592bb907c273b,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,CHANGELOG.md,f84c3de6d33906433d53ddf5c0d1e7b8e398d7bf,CVE-2021-22205
+449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,README.md,00320c2afccf4239474313746220c9a8560f461c,CVE-2021-22205
+449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,CHANGELOG.md,3c3d27698b0101230a86901d65aff56aaa91ff62,CVE-2021-22205
 449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,_GITHUB_REPO_METADATA_,,CVE-2021-22205
