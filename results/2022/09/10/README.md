@@ -37,7 +37,7 @@
 | codingcore2/SILENT-DOC-EXPLOIT-CLEAN-kl | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-kl | ['exploit'] | 1 | 2022-09-10 14:46:38+00:00 | 1 | 0 | | 0 | [] |
 | codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-kl | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-kl | ['exploit'] | 1 | 2022-09-10 14:45:51+00:00 | 1 | 1 | | 0 | [] |
 | codingcore2/SILENT-PDF-EXPLOIT-CLEAN-kl | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-kl | ['exploit'] | 1 | 2022-09-10 14:44:50+00:00 | 1 | 1 | | 0 | [] |
-| Pwnrin/CVE-2022-30206 | None | https://github.com/Pwnrin/CVE-2022-30206 | ['cve-2 OR cve_2'] | 1 | 2022-09-10 13:44:41+00:00 | 0 | 0 | | 0 | ['CVE-2022-30206'] |
+| Pwnrin/CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-09-10 13:44:41+00:00 | 0 | 0 | | 0 | ['CVE-2022-30206'] |
 | Neluve/SimplExploitS_English | SimplExploitS_English Version 9.00 | https://github.com/Neluve/SimplExploitS_English | ['exploit'] | 1 | 2022-09-10 13:52:25+00:00 | 4361 | 1 | HTML | 0 | [] |
 | Neluve/SimplExploitS | Menu ExtraLight de Exploits para PS4 Version 9.00 | https://github.com/Neluve/SimplExploitS | ['exploit'] | 1 | 2022-09-10 12:00:03+00:00 | 4697 | 1 | HTML | 0 | [] |
 | garySec/CVE-2022-24637 | Unauthicated RCE for open-web-analytics(1.7.3) | https://github.com/garySec/CVE-2022-24637 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-09-10 09:12:15+00:00 | 3 | 0 | Python | 0 | ['CVE-2022-24637'] |
