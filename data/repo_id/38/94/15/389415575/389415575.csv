@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-389415575,HeiTang/Zrss,zeroday_disclosed.xml,6a2b9579ad43da75dc78ad577817f5724872bbe6,CVE-2013-2251
-389415575,HeiTang/Zrss,zeroday_disclosed.xml,6a2b9579ad43da75dc78ad577817f5724872bbe6,CVE-2021-40822
-389415575,HeiTang/Zrss,zeroday_patching.xml,7f4d5ebbb332fcf347bbf30b326b19da05720832,CVE-2018-13379
-389415575,HeiTang/Zrss,zeroday_patching.xml,7f4d5ebbb332fcf347bbf30b326b19da05720832,CVE-2019-8442
-389415575,HeiTang/Zrss,zeroday_patching.xml,7f4d5ebbb332fcf347bbf30b326b19da05720832,CVE-2021-26086
-389415575,HeiTang/Zrss,zeroday_all.xml,884cd6cfa383a1a3cee39d4dd46d9f96a6c342f5,CVE-2021-43798
+389415575,HeiTang/Zrss,zeroday_all.xml,3ab5100509921e89ab9ba34e4e4563d6b52784bf,CVE-2021-43798
+389415575,HeiTang/Zrss,zeroday_disclosed.xml,3d0b814f7d26b7180f74ecb001f7884d65fdf305,CVE-2013-2251
+389415575,HeiTang/Zrss,zeroday_disclosed.xml,3d0b814f7d26b7180f74ecb001f7884d65fdf305,CVE-2021-40822
+389415575,HeiTang/Zrss,zeroday_patching.xml,b86b3c988dd0be3cf7be796247eeebf05805e391,CVE-2018-13379
+389415575,HeiTang/Zrss,zeroday_patching.xml,b86b3c988dd0be3cf7be796247eeebf05805e391,CVE-2019-8442
+389415575,HeiTang/Zrss,zeroday_patching.xml,b86b3c988dd0be3cf7be796247eeebf05805e391,CVE-2021-26086
