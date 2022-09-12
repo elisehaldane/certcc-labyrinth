@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2011-5012,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 ZSL-2011-5012,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-ZSL-2011-5012,0.00116550,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2011-5012,0.00116414,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2011-5012,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
 ZSL-2011-5012,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 ZSL-2011-5012,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
@@ -34,5 +34,5 @@ ZSL-2011-5012,0.00004622,https://github.com/offensive-security/exploitdb,offensi
 ZSL-2011-5012,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 ZSL-2011-5012,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 ZSL-2011-5012,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
-ZSL-2011-5012,0.00001545,https://github.com/trickest/cve,trickest/cve,454015416
+ZSL-2011-5012,0.00001543,https://github.com/trickest/cve,trickest/cve,454015416
 ZSL-2011-5012,0.00000451,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

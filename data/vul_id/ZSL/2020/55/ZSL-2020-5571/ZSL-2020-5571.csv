@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2020-5571,0.00116550,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2020-5571,0.00116414,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2020-5571,0.00022158,https://github.com/lbh3110/Metasploit,lbh3110/Metasploit,297422060
 ZSL-2020-5571,0.00022085,https://github.com/texasconnection88/METASploit,texasconnection88/METASploit,291259333
 ZSL-2020-5571,0.00022041,https://github.com/CyberTKR/Metasploit-Framework,CyberTKR/Metasploit-Framework,296959076
@@ -39,5 +39,5 @@ ZSL-2020-5571,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitd
 ZSL-2020-5571,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 ZSL-2020-5571,0.00004622,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 ZSL-2020-5571,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
-ZSL-2020-5571,0.00001545,https://github.com/trickest/cve,trickest/cve,454015416
+ZSL-2020-5571,0.00001543,https://github.com/trickest/cve,trickest/cve,454015416
 ZSL-2020-5571,0.00000451,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
