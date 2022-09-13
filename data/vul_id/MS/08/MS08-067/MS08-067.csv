@@ -262,6 +262,7 @@ MS08-067,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ck
 MS08-067,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS08-067,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 MS08-067,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
+MS08-067,0.00740741,https://github.com/ARPSyndicate/cvemon,ARPSyndicate/cvemon,357427484
 MS08-067,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS08-067,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS08-067,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
@@ -434,7 +435,7 @@ MS08-067,0.00023646,https://github.com/RuZGaRBeY/metasploit-framework,RuZGaRBeY/
 MS08-067,0.00023602,https://github.com/shahnwazsheikh00/metasploit-framework,shahnwazsheikh00/metasploit-framework,162744394
 MS08-067,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metasploit-docker,162195461
 MS08-067,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
-MS08-067,0.00023375,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS08-067,0.00023359,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00023073,https://github.com/mkdirlove/METASPLOIT-FRAMEWORK,mkdirlove/METASPLOIT-FRAMEWORK,202658385
 MS08-067,0.00022978,https://github.com/samba234/metasploit-framework,samba234/metasploit-framework,209766275
 MS08-067,0.00022920,https://github.com/komander/dan-metasploit,komander/dan-metasploit,218967281
@@ -477,6 +478,7 @@ MS08-067,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Me
 MS08-067,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 MS08-067,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS08-067,0.00020096,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS08-067,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS08-067,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
