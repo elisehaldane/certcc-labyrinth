@@ -1,12 +1,13 @@
 
 # Summary for results/2022/09/12
     
-131 records found after deduplication
+132 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|----------------------|
 | JonathanSalwan/ROPgadget | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures. | https://github.com/JonathanSalwan/ROPgadget | ['exploit'] | 1 | 2022-09-12 12:17:32+00:00 | 38379 | 3122 | Python | 534 | [] |
-| akincibor/CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | ['cve-2 OR cve_2'] | 1 | 2022-09-12 08:31:02+00:00 | 3 | 0 | | 0 | ['CVE-2022-27925'] |
+| CppXL/loader | a simple of rust shellcode loader | https://github.com/CppXL/loader | ['shellcode'] | 1 | 2022-09-12 16:03:17+00:00 | 4 | 0 | Rust | 0 | [] |
+| nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | None | https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | ['cve-2 OR cve_2'] | 1 | 2022-09-12 07:57:16+00:00 | 4303 | 0 | C++ | 0 | ['CVE-2022-20344'] |
 | M4fiaB0y/CVE-2022-30075 | None | https://github.com/M4fiaB0y/CVE-2022-30075 | ['cve-2 OR cve_2'] | 1 | 2022-09-12 07:28:45+00:00 | 5 | 0 | Python | 0 | ['CVE-2022-30075'] |
 | qq1935046755t/22_22141 | 菜鸟腾飞安全网VIP教程_《MetaSploit渗透测试平台之应用》 | https://github.com/qq1935046755t/22_22141 | ['metasploit module OR payload'] | 1 | 2022-09-12 06:12:26+00:00 | 0 | 0 | | 0 | [] |
 | xnyuq/cve-2021-42321 | None | https://github.com/xnyuq/cve-2021-42321 | ['cve-2 OR cve_2'] | 1 | 2022-09-12 05:15:26+00:00 | 0 | 0 | | 0 | ['CVE-2021-42321'] |
@@ -20,8 +21,8 @@
 | wardxela/rce-schedule-api | None | https://github.com/wardxela/rce-schedule-api | ['rce'] | 1 | 2022-09-12 16:52:20+00:00 | 109 | 0 | TypeScript | 0 | [] |
 | Neluve/SimplExploitS_English | SimplExploitS_English Version 9.00 | https://github.com/Neluve/SimplExploitS_English | ['exploit'] | 1 | 2022-09-12 21:05:52+00:00 | 4754 | 2 | HTML | 0 | [] |
 | Neluve/SimplExploitS | Menu ExtraLight de Exploits para PS4 Version 9.00 | https://github.com/Neluve/SimplExploitS | ['exploit'] | 1 | 2022-09-12 21:04:51+00:00 | 5089 | 1 | HTML | 0 | [] |
-| CppXL/loader | a simple of rust shellcode loader | https://github.com/CppXL/loader | ['shellcode'] | 1 | 2022-09-12 16:03:17+00:00 | 4 | 0 | Rust | 0 | [] |
 | kedao/exploitDefiLabs | None | https://github.com/kedao/exploitDefiLabs | ['exploit'] | 1 | 2022-09-12 00:47:43+00:00 | 20104 | 3 | Solidity | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-12 04:03:41+00:00 | 783635 | 28162 | Ruby | 12504 | [] |
 | oppsec/pwnfaces | Primefaces 5.X EL Injection Exploit (CVE-2017-1000486) | https://github.com/oppsec/pwnfaces | ['exploit'] | 1 | 2022-09-12 01:43:19+00:00 | 244 | 6 | Go | 2 | ['CVE-2017-1000486'] |
 | XoticSploit/XoticSploit-exploit | None | https://github.com/XoticSploit/XoticSploit-exploit | ['exploit', 'sploit'] | 2 | 2022-09-12 11:26:50+00:00 | 18857 | 0 | C# | 0 | [] |
 | raging-loon/nxs | Network Exploitation Scanner - Freshman HS portscanner | https://github.com/raging-loon/nxs | ['exploit'] | 1 | 2022-09-12 16:57:32+00:00 | 113 | 0 | C | 0 | [] |
@@ -36,10 +37,10 @@
 | Chal13W1zz/bad-binder | Android N-Day Exploit research. | https://github.com/Chal13W1zz/bad-binder | ['exploit'] | 1 | 2022-09-12 07:34:45+00:00 | 17 | 0 | | 0 | [] |
 | Cyber-Dioxide/Cyber-Sploit | A framework like a metasploit containg a variety of modules for pentesting or ethical hacking. This repo willl be updated and new modules will be added time to time. | https://github.com/Cyber-Dioxide/Cyber-Sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2022-09-12 11:10:07+00:00 | 664 | 21 | Python | 1 | [] |
 | melonattacker/oauth-exploit-lab | Lab to understand OAuth v2 vulnerabilities and attack techniques. | https://github.com/melonattacker/oauth-exploit-lab | ['exploit'] | 1 | 2022-09-12 08:34:15+00:00 | 83 | 0 | Python | 0 | [] |
-| nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | None | https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | ['cve-2 OR cve_2'] | 1 | 2022-09-12 07:57:16+00:00 | 4303 | 0 | C++ | 0 | ['CVE-2022-20344'] |
+| akincibor/CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | ['cve-2 OR cve_2'] | 1 | 2022-09-12 08:31:02+00:00 | 3 | 0 | | 0 | ['CVE-2022-27925'] |
 | rftg1000/CVE-2022-32548-RCE-POC | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 6 | 2022-09-12 09:58:30+00:00 | 52 | 0 | Python | 0 | ['CVE-2022-32548'] |
-| LuciferMorningstars/LND-Stable-Version | Roblox Exploit without Key | https://github.com/LuciferMorningstars/LND-Stable-Version | ['exploit'] | 1 | 2022-09-12 11:51:16+00:00 | 13359 | 0 | | 0 | [] |
 | Crypto-Snow/Solidity-Vuln-PoC-Cheatsheet | A framework of standard Solidity Vulnerabilities and Exploit PoC, based on SBE | https://github.com/Crypto-Snow/Solidity-Vuln-PoC-Cheatsheet | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2022-09-12 12:34:19+00:00 | 41 | 0 | Solidity | 0 | [] |
+| iDecompile/GPay-balance-exploiter-by-VenomX | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/iDecompile/GPay-balance-exploiter-by-VenomX | ['exploit'] | 1 | 2022-09-12 10:36:40+00:00 | 17 | 1 | | 0 | [] |
 | elidoesexploits/TISD-Blooket-Exploits | My repository for my school district that includes almost all of my blooket exploits. You're welcome Tomball! | https://github.com/elidoesexploits/TISD-Blooket-Exploits | ['exploit'] | 1 | 2022-09-12 23:20:58+00:00 | 1 | 0 | | 0 | [] |
 | MR-DARK54/spy-dark | Exploiting Android devices | https://github.com/MR-DARK54/spy-dark | ['exploit'] | 1 | 2022-09-12 23:42:11+00:00 | 13 | 1 | Python | 0 | [] |
 | 0x414141414/SILENT-XLL-EXPLOIT | None | https://github.com/0x414141414/SILENT-XLL-EXPLOIT | ['exploit'] | 1 | 2022-09-12 23:04:34+00:00 | 3 | 1 | | 0 | [] |
@@ -56,7 +57,7 @@
 | kizza2/NightExploit-Release. | None | https://github.com/kizza2/NightExploit-Release. | ['exploit'] | 1 | 2022-09-12 18:41:18+00:00 | 15769 | 0 | | 0 | [] |
 | ajvarela/amadeus-exploit | None | https://github.com/ajvarela/amadeus-exploit | ['exploit'] | 1 | 2022-09-12 17:45:41+00:00 | 16130 | 0 | Python | 0 | [] |
 | dassl-uiuc/Skyros | Exploiting Nil Externality for Fast Replicated Storage | https://github.com/dassl-uiuc/Skyros | ['exploit'] | 1 | 2022-09-12 17:27:31+00:00 | 173 | 0 | Python | 0 | [] |
-| SagiBiran/POC-MSHTML-Vulnerability | Test Cases in Cyber Defense | https://github.com/SagiBiran/POC-MSHTML-Vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-09-12 16:58:37+00:00 | 0 | 0 | | 0 | [] |
+| SagiBiran/POC-MSHTML-Vulnerability | Test Cases in Cyber Defense | https://github.com/SagiBiran/POC-MSHTML-Vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-09-12 16:58:37+00:00 | 0 | 0 | Python | 0 | [] |
 | NovaX51/DuckySploit-V3 | DuckySploit V3 Roblox Level 7 Executor Free | https://github.com/NovaX51/DuckySploit-V3 | ['exploit', 'sploit'] | 2 | 2022-09-12 16:46:44+00:00 | 0 | 1 | Batchfile | 0 | [] |
 | mrnazu/Directory-Scanner-Tool | Directory brute forcing is a web application technology used to find and identify possible hidden directories in websites. This is done with the aim of finding forgotten or unsecured web directories to see if they are vulnerable to exploitation. | https://github.com/mrnazu/Directory-Scanner-Tool | ['exploit'] | 1 | 2022-09-12 15:51:49+00:00 | 126 | 1 | Python | 0 | [] |
 | SILVANOFICH/DarkScriptsExploitt | None | https://github.com/SILVANOFICH/DarkScriptsExploitt | ['exploit'] | 1 | 2022-09-12 14:38:44+00:00 | 1 | 0 | | 0 | [] |
@@ -68,10 +69,10 @@
 | nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361 | None | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361 | ['cve-2 OR cve_2'] | 1 | 2022-09-12 11:13:42+00:00 | 3019 | 0 | C++ | 0 | ['CVE-2022-20361'] |
 | TheDreamPort/deep_exploit | A clone of 13o-bbr-bbq DeepExploit modified for updated Python and Kali 2022 | https://github.com/TheDreamPort/deep_exploit | ['exploit'] | 1 | 2022-09-12 11:43:37+00:00 | 2340 | 0 | Python | 0 | [] |
 | ExploitSWJTU/exploitswjtu.github.io | None | https://github.com/ExploitSWJTU/exploitswjtu.github.io | ['exploit'] | 1 | 2022-09-12 10:44:29+00:00 | 882 | 0 | HTML | 0 | [] |
-| iDecompile/GPay-balance-exploiter-by-VenomX | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/iDecompile/GPay-balance-exploiter-by-VenomX | ['exploit'] | 1 | 2022-09-12 10:36:40+00:00 | 17 | 1 | | 0 | [] |
+| D3Ext/Reflex-Gallery-Exploit | Reflex Gallery 3.1.3 Arbitrary File Upload to RCE Exploit | https://github.com/D3Ext/Reflex-Gallery-Exploit | ['exploit', 'rce'] | 2 | 2022-09-12 10:59:43+00:00 | 33 | 1 | Python | 0 | [] |
 | kiwi1210/2022rcecIntern | Code used in (AS-RCEC)2022 Summer Research Internship Programme - "Challenges and Opportunities of Agricultural Land in Taiwan under two Selected Shared Socioeconomic Pathways (SSPs)" | https://github.com/kiwi1210/2022rcecIntern | ['rce'] | 1 | 2022-09-12 18:03:08+00:00 | 71 | 1 | Python | 0 | [] |
+| LuciferMorningstars/LND-Stable-Version | Roblox Exploit without Key | https://github.com/LuciferMorningstars/LND-Stable-Version | ['exploit'] | 1 | 2022-09-12 11:51:16+00:00 | 13359 | 0 | | 0 | [] |
 | vianchen/micom-emulator | An emulator for testing of the KOFFEE exploitation | https://github.com/vianchen/micom-emulator | ['exploit', 'metasploit module OR payload'] | 2 | 2022-09-12 05:10:34+00:00 | 8893 | 0 | Go | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-12 04:03:41+00:00 | 783635 | 28162 | Ruby | 12504 | [] |
 | cu-m/WiiUBrowserExploit | yeah | https://github.com/cu-m/WiiUBrowserExploit | ['exploit'] | 1 | 2022-09-12 13:52:28+00:00 | 430 | 0 | HTML | 0 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-09-12 16:22:50+00:00 | 10834 | 4078 | TypeScript | 616 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-12 04:55:47+00:00 | 8568749 | 89 | Python | 11 | [] |
