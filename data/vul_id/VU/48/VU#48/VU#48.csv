@@ -27,8 +27,8 @@ VU#48,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomai
 VU#48,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#48,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
 VU#48,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploits,482204403
-VU#48,0.05555556,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#48,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
+VU#48,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#48,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#48,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
 VU#48,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
@@ -130,7 +130,7 @@ VU#48,0.00261097,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Boo
 VU#48,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#48,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#48,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-VU#48,0.00185185,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#48,0.00184843,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#48,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#48,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#48,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -149,4 +149,4 @@ VU#48,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#48,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#48,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#48,0.00020092,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
-VU#48,0.00000451,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+VU#48,0.00000450,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
