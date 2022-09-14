@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+536654754,BronzeTicket/ClipboardWindow-Inject,libc.h,e01cbf4feadb20f01814c68dd9dcf2df82cfc227,CVE-2020-0796
