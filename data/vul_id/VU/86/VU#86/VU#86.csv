@@ -17,7 +17,6 @@ VU#86,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExp
 VU#86,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,534967733
 VU#86,0.11111111,https://github.com/anvbis/chrome.v8.expl,anvbis/chrome.v8.expl,517488457
 VU#86,0.11111111,https://github.com/Lesking72/ps4,Lesking72/ps4,350485378
-VU#86,0.11111111,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#86,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
 VU#86,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709869
 VU#86,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
@@ -37,6 +36,7 @@ VU#86,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
 VU#86,0.05263158,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
 VU#86,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#86,0.05263158,https://github.com/HaoyeTianCoder/Quatrain,HaoyeTianCoder/Quatrain,392095984
+VU#86,0.05263158,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#86,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#86,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
 VU#86,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
@@ -97,6 +97,7 @@ VU#86,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#86,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#86,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#86,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
+VU#86,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#86,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#86,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#86,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -144,7 +145,7 @@ VU#86,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#86,0.00184843,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#86,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#86,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#86,0.00112867,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#86,0.00112613,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#86,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#86,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#86,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
@@ -159,4 +160,4 @@ VU#86,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#86,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#86,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#86,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#86,0.00020092,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#86,0.00020088,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

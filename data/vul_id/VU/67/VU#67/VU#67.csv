@@ -29,7 +29,6 @@ VU#67,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc
 VU#67,0.14285714,https://github.com/brandbir/JPEG-Restorer,brandbir/JPEG-Restorer,27171602
 VU#67,0.11111111,https://github.com/sofire/polkit-0.96-CVE-2021-4034,sofire/polkit-0.96-CVE-2021-4034,453321788
 VU#67,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
-VU#67,0.11111111,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#67,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
 VU#67,0.10000000,https://github.com/ashishbhat1/Wikipedia-Requests-for-Adminship,ashishbhat1/Wikipedia-Requests-for-Adminship,498403262
 VU#67,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMarchiori/CVE-2021-3156,510379940
@@ -43,6 +42,7 @@ VU#67,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pyme
 VU#67,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#67,0.05555556,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#67,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,404076972
+VU#67,0.05263158,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#67,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
 VU#67,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
 VU#67,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
@@ -94,6 +94,7 @@ VU#67,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#67,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#67,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#67,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
+VU#67,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#67,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#67,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#67,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -151,5 +152,5 @@ VU#67,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#67,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#67,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#67,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#67,0.00020092,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#67,0.00020088,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#67,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
