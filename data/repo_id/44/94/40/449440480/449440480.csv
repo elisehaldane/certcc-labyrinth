@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,README.md,00320c2afccf4239474313746220c9a8560f461c,CVE-2021-22205
-449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,CHANGELOG.md,3c3d27698b0101230a86901d65aff56aaa91ff62,CVE-2021-22205
+449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,CHANGELOG.md,de2f49bb8a785703e36343ca2cf4cafff025862d,CVE-2021-22205
 449440480,GitLab-Red-Team/cve-2021-22205-hash-harvester,_GITHUB_REPO_METADATA_,,CVE-2021-22205
