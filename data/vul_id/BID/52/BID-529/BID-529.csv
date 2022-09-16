@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-529,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-Toolkit,180024946
 BID-529,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
 BID-529,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-BID-529,0.00048948,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+BID-529,0.00048733,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-529,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 BID-529,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 BID-529,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
