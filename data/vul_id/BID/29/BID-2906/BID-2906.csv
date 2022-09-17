@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-2906,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
 BID-2906,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 BID-2906,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
-BID-2906,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-2906,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-2906,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-2906,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-2906,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
@@ -29,4 +29,4 @@ BID-2906,0.00004622,https://github.com/offensive-security/exploitdb,offensive-se
 BID-2906,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-2906,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 BID-2906,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
-BID-2906,0.00000450,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-2906,0.00000449,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

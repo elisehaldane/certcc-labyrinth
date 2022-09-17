@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-14707,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
 BID-14707,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 BID-14707,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
-BID-14707,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
+BID-14707,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 BID-14707,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 BID-14707,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-14707,0.00005379,https://github.com/1oid/exploitsearch,1oid/exploitsearch,111814394
@@ -23,4 +23,4 @@ BID-14707,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/
 BID-14707,0.00004622,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-14707,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-14707,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
-BID-14707,0.00000450,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-14707,0.00000449,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

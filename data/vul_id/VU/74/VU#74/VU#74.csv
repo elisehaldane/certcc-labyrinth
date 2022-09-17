@@ -2,9 +2,9 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#74,1.00000000,https://github.com/Taiwing/rainfall,Taiwing/rainfall,508840536
 VU#74,1.00000000,https://github.com/JosephFrankFir/Megaploit,JosephFrankFir/Megaploit,356590798
 VU#74,1.00000000,https://github.com/sguazt/ccpe2014,sguazt/ccpe2014,20526964
+VU#74,0.50000000,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#74,0.50000000,https://github.com/p0dalirius/JoGet-plugin-webshell,p0dalirius/JoGet-plugin-webshell,469814889
 VU#74,0.50000000,https://github.com/AnonymPlayer2/TL-Exploit,AnonymPlayer2/TL-Exploit,458954886
-VU#74,0.33333333,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#74,0.33333333,https://github.com/kizza2/NightExploit-Release,kizza2/NightExploit-Release,535392034
 VU#74,0.33333333,https://github.com/HexorHex/HexorSploit-Site,HexorHex/HexorSploit-Site,529328771
 VU#74,0.33333333,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,508305586
@@ -225,7 +225,7 @@ VU#74,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructu
 VU#74,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#74,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#74,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#74,0.00048733,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#74,0.00048709,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#74,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#74,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#74,0.00004622,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

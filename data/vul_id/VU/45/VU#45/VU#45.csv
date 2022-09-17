@@ -6,6 +6,7 @@ VU#45,1.00000000,https://github.com/N1ce759/Spring-Cloud-Function-SPEL-RCE,N1ce7
 VU#45,1.00000000,https://github.com/Pizz33/Spring-Cloud-Function-SpEL,Pizz33/Spring-Cloud-Function-SpEL,474432645
 VU#45,1.00000000,https://github.com/stangezond/exploit,stangezond/exploit,461877842
 VU#45,1.00000000,https://github.com/wesleydekraker/log4j-poc,wesleydekraker/log4j-poc,455852447
+VU#45,0.50000000,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#45,0.50000000,https://github.com/Rachit-Pal/Metasploit-in-termux,Rachit-Pal/Metasploit-in-termux,531069546
 VU#45,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
 VU#45,0.50000000,https://github.com/Hermonicv/metasploit-installer,Hermonicv/metasploit-installer,519680227
@@ -24,7 +25,6 @@ VU#45,0.50000000,https://github.com/real-exploit/red_hat_python,real-exploit/red
 VU#45,0.50000000,https://github.com/disjcordLAMO/XYZ-roblox-exploit,disjcordLAMO/XYZ-roblox-exploit,435216853
 VU#45,0.50000000,https://github.com/Beelzebuuuuu/Matasploit,Beelzebuuuuu/Matasploit,428846609
 VU#45,0.50000000,https://github.com/gushmazuko/metasploit_in_termux,gushmazuko/metasploit_in_termux,116056265
-VU#45,0.33333333,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#45,0.33333333,https://github.com/kizza2/NightExploit-Release,kizza2/NightExploit-Release,535392034
 VU#45,0.33333333,https://github.com/Deepak983/CVE-2020-19587,Deepak983/CVE-2020-19587,530599295
 VU#45,0.33333333,https://github.com/Deepak983/CVE-2020-19586,Deepak983/CVE-2020-19586,530596542
@@ -142,7 +142,6 @@ VU#45,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/Malw
 VU#45,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#45,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#45,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#45,0.00980392,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#45,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#45,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#45,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -155,6 +154,7 @@ VU#45,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#45,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#45,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#45,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#45,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#45,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#45,0.00787402,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#45,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
@@ -206,7 +206,7 @@ VU#45,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wan
 VU#45,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#45,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#45,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#45,0.00048733,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#45,0.00048709,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#45,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#45,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#45,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247

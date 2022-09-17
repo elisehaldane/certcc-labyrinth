@@ -44,7 +44,6 @@ MS15-034,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,38415
 MS15-034,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS15-034,0.00840336,https://github.com/cckuailong/PocCollect,cckuailong/PocCollect,180113973
 MS15-034,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
-MS15-034,0.00735294,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 MS15-034,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS15-034,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
 MS15-034,0.00671141,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
@@ -55,6 +54,7 @@ MS15-034,0.00534759,https://github.com/asrocha/exploitdb-API,asrocha/exploitdb-A
 MS15-034,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228/exploit-tools,116704087
 MS15-034,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS15-034,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
+MS15-034,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 MS15-034,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
 MS15-034,0.00460829,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
 MS15-034,0.00389105,https://github.com/hktalent/TOP,hktalent/TOP,471566553
@@ -91,9 +91,9 @@ MS15-034,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/w
 MS15-034,0.00026539,https://github.com/j0esgithub/metasploit-framework,j0esgithub/metasploit-framework,49540040
 MS15-034,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 MS15-034,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
-MS15-034,0.00026413,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS15-034,0.00026413,https://github.com/webapproot/metasploit,webapproot/metasploit,61404840
 MS15-034,0.00026413,https://github.com/hamad313/https-github.com-hamad-metasploit-framework,hamad313/https-github.com-hamad-metasploit-framework,60901831
+MS15-034,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS15-034,0.00026378,https://github.com/dragrow/metasploit,dragrow/metasploit,62170440
 MS15-034,0.00026288,https://github.com/pk250/pentestbox_metasploit,pk250/pentestbox_metasploit,91141868
 MS15-034,0.00026288,https://github.com/profanado9907/metasploit-framework,profanado9907/metasploit-framework,67108851
@@ -127,7 +127,7 @@ MS15-034,0.00023646,https://github.com/RuZGaRBeY/metasploit-framework,RuZGaRBeY/
 MS15-034,0.00023602,https://github.com/shahnwazsheikh00/metasploit-framework,shahnwazsheikh00/metasploit-framework,162744394
 MS15-034,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metasploit-docker,162195461
 MS15-034,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
-MS15-034,0.00023213,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS15-034,0.00023170,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS15-034,0.00023073,https://github.com/mkdirlove/METASPLOIT-FRAMEWORK,mkdirlove/METASPLOIT-FRAMEWORK,202658385
 MS15-034,0.00022978,https://github.com/samba234/metasploit-framework,samba234/metasploit-framework,209766275
 MS15-034,0.00022920,https://github.com/komander/dan-metasploit,komander/dan-metasploit,218967281
@@ -205,4 +205,4 @@ MS15-034,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spirito
 MS15-034,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS15-034,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS15-034,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS15-034,0.00000450,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS15-034,0.00000449,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

@@ -6,7 +6,6 @@ MS06-019,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS06-019,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS06-019,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS06-019,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
-MS06-019,0.00735294,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 MS06-019,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
 MS06-019,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS06-019,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
@@ -41,6 +40,7 @@ MS06-019,0.00531915,https://github.com/sshayb/exploit_scripts,sshayb/exploit_scr
 MS06-019,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228/exploit-tools,116704087
 MS06-019,0.00523560,https://github.com/anontuttuvenus/SomeToolsAndExploits,anontuttuvenus/SomeToolsAndExploits,326033664
 MS06-019,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
+MS06-019,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 MS06-019,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
 MS06-019,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 MS06-019,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
@@ -182,4 +182,4 @@ MS06-019,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS06-019,0.00001537,https://github.com/trickest/cve,trickest/cve,454015416
 MS06-019,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 MS06-019,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS06-019,0.00000450,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS06-019,0.00000449,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
