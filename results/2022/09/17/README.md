@@ -1,0 +1,34 @@
+
+# Summary for results/2022/09/17
+    
+27 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-09-17 00:06:16+00:00 | 1534836 | 1680 | Python | 544 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2022-09-17 03:48:55+00:00 | 68409 | 2881 | Go | 341 | [] |
+| Dimples1337/OpenPacketFix | 大陆修宪香港恶法台湾武统朝鲜毁约美中冷战等都是王沪宁愚弄习思想极左命运共同体的大策划中共窃国这半个多世纪所犯下的滔天罪恶，前期是毛泽东策划的，中期6.4前后是邓小平策划的，黄牛数据分析后期是毛的极左追随者三朝罪恶元凶王沪宁策划的。王沪宁高小肆业因文革政治和情报需要保送“学院外语班“红色仕途翻身，所以王的本质是极左的。他是在上海底层弄堂长大的，因其本性也促成其瘪三下三滥个性，所以也都说他有易主“变色龙”哈巴狗“的天性。大陆像王沪宁这样学马列政治所谓"法学"专业的人，在除朝鲜古巴所有国家特别是在文明发达国家是无 | https://github.com/Dimples1337/OpenPacketFix | ['attack poc', 'exploit'] | 2 | 2022-09-17 03:15:28+00:00 | 558 | 0 | Java | 0 | [] |
+| wjl110/CVE-Master | 收集本人自接触渗透测试用于漏洞验证的所有cve、poc攻击有效载荷 | https://github.com/wjl110/CVE-Master | ['cve poc'] | 1 | 2022-09-17 02:49:35+00:00 | 1 | 1 | | 0 | [] |
+| codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-R- | None | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-R- | ['exploit'] | 1 | 2022-09-17 00:46:58+00:00 | 1 | 1 | | 0 | [] |
+| codingcore2/SILENT-DOC-EXPLOIT-CLEAN-R- | None | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-R- | ['exploit'] | 1 | 2022-09-17 00:46:11+00:00 | 1 | 1 | | 0 | [] |
+| codingcore2/SILENT-PDF-EXPLOIT-CLEAN-R- | None | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-R- | ['exploit'] | 1 | 2022-09-17 00:45:13+00:00 | 1 | 1 | | 0 | [] |
+| FrostyCheck/Omnis-Dead-Frontier-2-PrivateCheat | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/FrostyCheck/Omnis-Dead-Frontier-2-PrivateCheat | ['exploit'] | 1 | 2022-09-17 00:00:43+00:00 | 8 | 10 | | 0 | [] |
+| FrostyCheck/Nyve-Keyless-Roblox-Exploit | Exploit made for Roblox by Xyps0s | https://github.com/FrostyCheck/Nyve-Keyless-Roblox-Exploit | ['exploit'] | 1 | 2022-09-17 00:00:43+00:00 | 8 | 10 | | 0 | [] |
+| secasidasd/rce | nan | https://github.com/secasidasd/rce | ['rce'] | 1 | 2022-09-17 03:27:44+00:00 | 0 | 0 | nan | 0 | [] |
+| Eternal587/TheBedroom | a list of proxies, games, and exploits for school chromebooks | https://github.com/Eternal587/TheBedroom | ['exploit'] | 1 | 2022-09-17 00:32:30+00:00 | 12 | 0 | HTML | 0 | [] |
+| ddwGeGe/SunloginRCE_GUITools | nan | https://github.com/ddwGeGe/SunloginRCE_GUITools | ['rce'] | 1 | 2022-09-17 04:56:55+00:00 | 2488 | 4 | nan | 1 | [] |
+| edanyi/ed_RCEL506 | nan | https://github.com/edanyi/ed_RCEL506 | ['rce'] | 1 | 2022-09-17 01:47:42+00:00 | 1230 | 0 | nan | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-09-17 04:41:57+00:00 | 13379 | 20 | Go | 7 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-09-17 00:28:03+00:00 | 49391 | 332 | Ruby | 97 | [] |
+| 0dayIg0r/0dayIg0r | None | https://github.com/0dayIg0r/0dayIg0r | ['0day'] | 1 | 2022-09-17 01:51:30+00:00 | 31 | 0 | | 0 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-09-17 02:54:50+00:00 | 3953 | 945 | Go | 144 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-09-17 00:42:07+00:00 | 322317 | 3 | Jupyter Notebook | 0 | [] |
+| ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit'] | 1 | 2022-09-17 02:11:38+00:00 | 975 | 0 | Ruby | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-17 04:20:17+00:00 | 8710766 | 90 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-09-17 02:35:41+00:00 | 1569 | 130 | HTML | 27 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-09-17 04:23:53+00:00 | 25304 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-09-17 04:01:13+00:00 | 263339 | 506 | Python | 141 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-09-17 05:03:45+00:00 | 671321 | 62 | | 24 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-09-17 00:49:30+00:00 | 17419 | 47 | | 24 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-09-17 04:32:46+00:00 | 474108 | 201 | REXX | 24 | [] |
+| SidhantPrakash/Pocket-Tanks-Sim | Pocket Tank Sim is an interactive single player game based on survival of a pocket sized tank in a war zone. It is easy to learn and fun to play but the twist in the game is that rather than the tank attacking the enemies, it actually tries to defend itsel | https://github.com/SidhantPrakash/Pocket-Tanks-Sim | ['attack poc'] | 1 | 2022-09-17 03:59:58+00:00 | 186 | 1 | C | 0 | [] |
