@@ -5,6 +5,7 @@ VU#68,1.00000000,https://github.com/mshhlvxk/basic-easy-exploits-executor,mshhlv
 VU#68,1.00000000,https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection,SoftwareSecurityLab/Heap-Overflow-Detection,472432595
 VU#68,1.00000000,https://github.com/Axelle-Donot/Sys_Exploite,Axelle-Donot/Sys_Exploite,419242072
 VU#68,1.00000000,https://github.com/cleanunicorn/theo,cleanunicorn/theo,194830189
+VU#68,0.50000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#68,0.33333333,https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking,Jee-King/ICCV2021_Event_Frame_Tracking,391794327
 VU#68,0.33333333,https://github.com/WLYLab/ATSE,WLYLab/ATSE,378865608
 VU#68,0.20000000,https://github.com/Yaamiin/byob,Yaamiin/byob,528793674
@@ -71,6 +72,7 @@ VU#68,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_S
 VU#68,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
 VU#68,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#68,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
+VU#68,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#68,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#68,0.03333333,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#68,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
@@ -165,7 +167,7 @@ VU#68,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#68,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#68,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#68,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#68,0.00048662,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#68,0.00048638,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#68,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#68,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#68,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247

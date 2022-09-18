@@ -78,7 +78,6 @@ VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#64,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#64,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
-VU#64,0.02040816,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#64,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#64,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#64,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
@@ -94,6 +93,8 @@ VU#64,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,4718
 VU#64,0.01449275,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#64,0.01428571,https://github.com/stphano/NEAs-ranking,stphano/NEAs-ranking,530254011
 VU#64,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
+VU#64,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
+VU#64,0.01408451,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#64,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#64,0.01388889,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#64,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
