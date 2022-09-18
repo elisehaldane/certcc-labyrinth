@@ -14,6 +14,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/images/mask-icon.svg,00d907c0a3bbbd6b7b956ff63f5456862c128b75,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2016-0856/bwconn.dll.sources/RpcClient.cpp,00f9874625ee7184db7e83978337bc3b53a4f097,CVE-2016-0856
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-haxe.js,01069c237889fcad5d5467523f2bf9e126da0eee,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/Properties/Settings.Designer.cs,01492236f7568add890ad5945573b2d96d000c5c,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/disable_bg.html,0167c300e85b78181497c917c31f2498b9d200e9,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/availability_de.html,016f4436b93784b3aad06c5223f6b913806fe660,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/lucene.js,0189785cdbd28912fb5ac481bf33b17e7b4e9653,CVE-2019-1003000
@@ -94,6 +95,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/filter-executors_ja.html,0bc1e7d860bc5655bd7facb88164e13abf01f813,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/theme-idle_fingers.js,0bf35adff16a43bb67e30d4bb6dd7555de519e1f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/file_bg.html,0bf3dcf7ec3483fad599a06058f71b6a0e09ea81,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/Properties/AssemblyInfo.cs,0c936f0475752e15f9b48267b3d51bd8601ea57b,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/php.js,0caa3ddba026d58573cb303897aa6cab80bd721f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/command-launcher/META-INF/MANIFEST.MF,0cbf77a8ea17885c8d5f04608afba24e977dea48,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/commons-lang-2.6.jar,0ce1edb914c94ebc388f086c6827e8bdeec71ac2,CVE-2019-1003000
@@ -112,18 +114,18 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/quietPeriod.html,0f3a45a4ffcec5efaac9b64825b683ae97f8fcce,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/ldap.hpi,0f48728f02637d6bd7d685c6de2a0cb3e9d410b1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/jackson2-api/WEB-INF/lib/jackson-core-2.9.8.jar,0f5a654e4675769c716e5b387830d19b501ca191,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/theme-ambiance.js,0f656b31e71ea8867fad686647306a0edbd0b989,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/theme-ambiance.js,0f656b31e71ea8867fad686647306a0edbd0b989,VU#72
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/theme-ambiance.js,0f656b31e71ea8867fad686647306a0edbd0b989,VU#74
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/theme-ambiance.js,0f656b31e71ea8867fad686647306a0edbd0b989,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/theme-ambiance.js,0f656b31e71ea8867fad686647306a0edbd0b989,VU#72
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/numExecutors_ja.html,0f9276abdb0a20071d8c9fe6c493085647ea0a1a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/guice-4.0.jar,0f990a43d3725781b6db7cd0acf0a8b62dfd1649,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/META-INF/maven/org.jenkins-ci.ui/ace-editor/pom.xml,0fe472c80b0441469b8e65512f86f4b56aa72ba9,CVE-2019-1003000
-537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#61
 537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#718
 537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#0044
+537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#033
+537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#61
 537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#15736
 537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#520
-537680373,wjl110/CVE-Master,目录扫描fuzz字典/DIR.txt,0ff9326be1a88885456a1823c1e448c822033907,VU#033
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-dart.js,103b6efac613850a9402f1bc2f34fe93495e2212,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/rdoc.js,104c406b8fd226c1ee8df4e23e09985c00896269,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-erlang.js,10644173534b6540b83db2601af30bb4ee82a60c,CVE-2019-1003000
@@ -135,6 +137,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/jackson2-api/WEB-INF/lib/jackson-databind-2.9.8.jar,11283f21cc480aa86c4df7a0a3243ec508372ed2,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/run-config/description.html,112c43d94ef18182596111aadbd0006cf151ff81,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/ant-1.9.2.jar,112cf195dec0bd2b7967b5711b88c880b6640d86,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/RCE_Resource.resx,118073e5b341ed924312eec1027a559df6576953,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/color.css,118d441a458015cd83f0db39ab8bea0b978904a1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/utilities.js,11a33e3e655ec9e0eacb3eef48241a3d0f4d76bc,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/images/RRZEIconSet.url,11cff18571488203203d031b8b210eb8620ac952,CVE-2019-1003000
@@ -169,7 +172,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-coldfusion.js,1546998e79fdfeebb8b4f78e11f9e613d9a76cdf,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-milestone-step.jpi,1560b29d252f10dff53921ad40bf5837d5803250,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/scmCheckoutRetryCount_de.html,156d5e9b4ba91312209db5e17963c366663618de,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/includeregex_pt_BR.html,15793e086288fecf5016ffa2ba37b803332427fa,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/description_pt_BR.html,15793e086288fecf5016ffa2ba37b803332427fa,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/filter-executors.html,159330b901a3bfb91a885ab474869608042fac4b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/jobs/my-pipeline/builds/1/workflow/4.xml,15c376fc24946a9a252f465794d5f9306f6dacad,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/windows-slaves.hpi,15d036e22a49ffa7b0cdb6c9777ce40d584e40ec,VU#27
@@ -195,6 +198,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/momentjs/jsmodules/momentjs2.js,183e3a753e150b978ea019d21acf6764149ea3df,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/images/TangoProject-License.url,18a2cb6d29be487e5f45b77b0ecf590392774156,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/bridge-method-annotation-1.13.jar,18cdce50cde6f54ee5390d0907384f72183ff0fe,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/Web References/WebPartPages/WebPartPages.wsdl,18eeffc0302732f42b0c990d733eb8c5128fee6f,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/button/assets/skins/sam/button.css,18f68af395ba79a4ce4324133bfc216da3e36975,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/swig.js,190222a8d6d8aac0697e08ab588b846c381f1b93,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-milestone-step/META-INF/MANIFEST.MF,1906eac8ac32a0dd381a9769cc854e89e10f3528,CVE-2019-1003000
@@ -266,8 +270,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/element/element-debug.js,204d9f781d9fc00acf23fafc30b3981d6b44bfee,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/menu/assets/menu-core.css,205589864c782609015d095b3685c80b0c05f908,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/bouncycastle-api.jpi,2059c86fadb66c6e2f2f42020fe98b14bb3b5233,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/bouncycastle-api.hpi,208392c3291ff9458a1bf60d207ba7228239a019,VU#17
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/bouncycastle-api.hpi,208392c3291ff9458a1bf60d207ba7228239a019,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/bouncycastle-api.hpi,208392c3291ff9458a1bf60d207ba7228239a019,VU#17
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-cps/images/24x24/README.md,20c3163aa88fb96a94175ff2b6655e78ea24acd2,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/mips_assembler.js,20e0dd87ac69058af2ef7345012d898c28a9c6b0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/matrix-project/help/matrix/axes_tr.html,20f40ebd33fdb95ccc4bb8bdf9c4fe0b00378839,CVE-2019-1003000
@@ -327,6 +331,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-multibranch/WEB-INF/licenses.xml,29e2418e13f5d7c80930c8da874e5fc5b86377d0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/credentials/WEB-INF/lib/antlr4-runtime-4.5.jar,29e48af049f17dd89153b83a7ad5d01b3b4bcdda,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/sortable.js,29fa41f94ecdc8940472de07e4a1c983e34eae9e,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/App.config,29fe239fe74cd45734c9cf691ddd5f5082df6cac,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-rest-api/META-INF/maven/org.jenkins-ci.plugins.pipeline-stage-view/pipeline-rest-api/pom.properties,2a2ba556b759e60890a0167d21fe8ef99aa78e41,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/properties.js,2a4311092adf251b03144d29aee345a119f60e8b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/clock_fr.html,2a5b273ff3fbecc9dbe69d2f5f31e77651bff1bc,CVE-2019-1003000
@@ -343,6 +348,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,CVE-2018-1273-master/Vulnerability-environment/target/classes/eu/arima/poccve20181273/PocCve20181273Application.class,2ba89c44a40d731665f794724b2b4dabf239ddba,CVE-2018-1273
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/docker-workflow/META-INF/maven/org.jenkins-ci.plugins/docker-workflow/pom.xml,2baf1724e94272d43e90925fbc4aa447ea4ce7b7,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-scm-step/META-INF/maven/org.jenkins-ci.plugins.workflow/workflow-scm-step/pom.xml,2bb41a3f73d977f3f1d0ba124b4b9f75dfe67d27,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/WebPartPages.asmx.wsdl,2bbac97bf5a7ab3fea94442d4c89cb01617e0706,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/boolean-default_ja.html,2be3d5d0a7ffc5ed31e54555f6bbbeadc0226f18,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/description_ru.html,2be7498d173f2383bc9b0fd4bab230dcb2db943d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/ExampleCommonsCollections1.class,2be9f49b6f49762adf2578dbd68376d3e02aa2d5,CVE-2015-7501
@@ -366,7 +372,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/string_zh_CN.html,2ef6e74eae0a937026eadacf9c8a668b1eef4d1f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/scss.js,2f10f63b8fafcafd7e0c4d12614b0df3d0be42de,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/jnlpSecurity_ja.html,2f4040f2baa8e6deeb5c3773e4948358e4064fc3,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/dockerfile.js,2f46e51885ca12075b0b3334e505d48e11126ae1,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/dockerfile.js,2f46e51885ca12075b0b3334e505d48e11126ae1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-input-step/META-INF/MANIFEST.MF,2f7d8f7fbc08d1261fbf108dc01f4e7f97d4a446,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/description_de.html,2fae31dee13dd730af62c9399c484e0ef36b6738,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/authentication-tokens.jpi,2fc35076b0cdd396302190f04c0581921259f427,CVE-2019-1003000
@@ -382,8 +388,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/jackson2-api.jpi,3110f73a7f287eb026c81cfb83463c814a6b98f2,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-ini.js,3119ad093101bc836f613d034cd708dfcd9ba504,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/exploit.py,318b2791362397390d36d75459220b2eecc4b548,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/exploit.py,318b2791362397390d36d75459220b2eecc4b548,CVE-2019-1003001
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/exploit.py,318b2791362397390d36d75459220b2eecc4b548,CVE-2019-1003002
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/exploit.py,318b2791362397390d36d75459220b2eecc4b548,CVE-2019-1003001
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/jobs/my-pipeline/builds/1/workflow/3.xml,31a722b7788465e9cfbb70844acd1485c52e8876,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/structs/WEB-INF/licenses.xml,31d5d6e493d1ff2266fbf37c6dac4d458b8ac883,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/matrix-project/META-INF/MANIFEST.MF,31e9c86356f954172098a3af2829a92b4a9a8ce4,CVE-2019-1003000
@@ -422,6 +428,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-groovy.js,36af3e3655a002975d05525fa6f6b6603d49bf7f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-xml.js,36fe82b9009d9465ac1f72b3f3c4bb0327b7600e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/credentials/help/domain/specification.html,37115320d29073a5205f9972356d29a0ff470bc2,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/dry-run/pwnkit-dry-run.c,3725f1f35e322a9501cd6c3c9203ce13c001196d,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/mailer.jpi,376656bfd78686b2089fe3e1343edf14d972aca1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-smarty.js,376eef49d1014b82d17b574df5bd75c212d6710f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/ssh-credentials.hpi,3771cfae5d3154c1d2cba2005f06c9b9ab6b59ba,CVE-2019-1003000
@@ -435,8 +442,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-ini.js,3940c5831b0498d7a86143e82539bf63cd508832,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/theme-chrome.js,3955e4ef5e74f50cab337905504ab47025177da6,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-build-step/META-INF/MANIFEST.MF,39761c9ab990839ee3b39f70ee076c53eb2863de,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor.jpi,39ed0947dcd9b414769ae28b3eb955643e25d5e0,VU#17
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor.jpi,39ed0947dcd9b414769ae28b3eb955643e25d5e0,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor.jpi,39ed0947dcd9b414769ae28b3eb955643e25d5e0,VU#17
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/string-default_zh_CN.html,39f5a650a75332b5c7e6f4d86cdeced99b5ce8b6,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/LogRecorder/logger_de.html,3a06465abeff2f063a4e18171c986780c3e4ddfc,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/crypto-util-1.1.jar,3a199a4c3748012b9dbbf3080097dc9f302493d8,CVE-2019-1003000
@@ -515,6 +522,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/globalEnvironmentVariables_zh_TW.html,4398b7f0fdb2c0dd2d81483ff1524c39fdde9ab0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/CVE-2015-7501-master.iml,43c94f1dcdc4cfdc722f6a132fa6c0623c92bc0f,CVE-2015-7501
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/c_cpp.js,44341ee9cbf554960f3d18bec238b7cc149bff4a,CVE-2019-1003000
+537680373,wjl110/CVE-Master,ColdFusionPwn-master/README.md,444cbd5738119815d1dc920af78d4d3f11060adc,CVE-2017-3066
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/nodeEnvironmentVariables_fr.html,444e49f6b38134c2dfb4a3e45bee37ac4a5a9c5b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/authentication-tokens/META-INF/maven/org.jenkins-ci.plugins/authentication-tokens/pom.xml,44d7208146223f497cab9cedc927510adef239de,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/erlang.js,44df55e90ccec5da405f84b7250d634726e26941,CVE-2019-1003000
@@ -539,9 +547,9 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/LICENSE,48ed790b1d1610c205535e6ea51e5e0ef4935455,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/script-security/META-INF/MANIFEST.MF,48edce10086a9d28092b05d8f7a8c69edd204a92,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/tabview/assets/skin-sam.css,48f8c1c025fdcd1112a780a530aa0a6c3c5660bb,CVE-2019-1003000
-537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/README.md,49926ef48a5514f65248c50d4d523667c08f290d,CVE-2017-12149
-537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/README.md,49926ef48a5514f65248c50d4d523667c08f290d,CVE-2015-7501
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/README.md,49926ef48a5514f65248c50d4d523667c08f290d,CVE-2017-7504
+537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/README.md,49926ef48a5514f65248c50d4d523667c08f290d,CVE-2015-7501
+537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/README.md,49926ef48a5514f65248c50d4d523667c08f290d,CVE-2017-12149
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/stax-api-1.0.1.jar,49c100caf72d658aca8e58bd74a4ba90fa2b0d70,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/quietPeriod_zh_TW.html,49e98d12eb4d8fb6481aeb5537ca0a42098bf347,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-sjs.js,4a126995896cdbeddbd9ff8d697d441431420e95,CVE-2019-1003000
@@ -552,8 +560,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/LogRecorder/name_zh_TW.html,4a5cfdce3c60235e25f20363a9522cf8956a2129,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-model-api/META-INF/maven/org.jenkinsci.plugins/pipeline-model-api/pom.properties,4a6bbb66d4bfb28e6499205cda624fef95841594,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/git-server/META-INF/maven/org.jenkins-ci.plugins/git-server/pom.properties,4a7331d67484f67db6879b75ba4e43f7c3678cee,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-model-definition.jpi,4b25bc4f062a70b40341995b614958199a07a8c1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-model-definition.jpi,4b25bc4f062a70b40341995b614958199a07a8c1,VU#15
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-model-definition.jpi,4b25bc4f062a70b40341995b614958199a07a8c1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/bootstrap/css/bootstrap-theme.css,4b304e3871013ea66b14a922aa980c617f8c6146,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/user/description_tr.html,4b3d716db7aed02dd93f08f580528c363a9c59d1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/update-center-rootCAs/jenkins-update-center-root-ca,4b4cacad09aba05ad861eb821f770bd27d5fba5f,CVE-2019-1003000
@@ -583,8 +591,9 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/numExecutors_tr.html,4dd336bb4e88dd3fde0fb9b046e80caa47d1824a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/assembly_x86.js,4e08ce8769acad1639ba0969126200a9493e15a0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-model-extensions.jpi,4e2878fca0380325b6059f4c77a68c88ecd2c29d,CVE-2019-1003000
-537680373,wjl110/CVE-Master,目录扫描fuzz字典/PHP.txt,4eb353ad67ae67a510d73a2be79895919d1c85b1,VU#85862
+537680373,wjl110/CVE-Master,CVE-2020-7460/CVE-2020-7460.c,4eabeaeb3e721eb590486657bdc04665324ff904,CVE-2020-7460
 537680373,wjl110/CVE-Master,目录扫描fuzz字典/PHP.txt,4eb353ad67ae67a510d73a2be79895919d1c85b1,VU#520
+537680373,wjl110/CVE-Master,目录扫描fuzz字典/PHP.txt,4eb353ad67ae67a510d73a2be79895919d1c85b1,VU#85862
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-actionscript.js,4eca85fc7e3c9626e05d3992acd78b201ff5a2ea,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/filter-queue_bg.html,4edbf63102ba42abc9a4f396572e056bcefc052f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/ant-launcher-1.9.2.jar,4f20f0651dd207caf04351192d59936e71da895b,CVE-2019-1003000
@@ -603,8 +612,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/handlebars-1.1.1-core-assets.jar,5080fe7d0c4b16d6492119fd9b736794a64536ab,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/LogFileOutputStream$1.class,50a33b127c2a123547eb7f98ff3aa3d9c60c04e8,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-c_cpp.js,50b249fde6b79b56ec48d978b0295a3288edf165,CVE-2019-1003000
-537680373,wjl110/CVE-Master,CNVD-2020-10487-Tomcat-ajp-POC-master/README.md,50f9bc15c74e004f516b3917fa833834ab526446,CNVD-2020-10487
 537680373,wjl110/CVE-Master,CNVD-2020-10487-Tomcat-ajp-POC-master/README.md,50f9bc15c74e004f516b3917fa833834ab526446,CVE-2020-1938
+537680373,wjl110/CVE-Master,CNVD-2020-10487-Tomcat-ajp-POC-master/README.md,50f9bc15c74e004f516b3917fa833834ab526446,CNVD-2020-10487
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-golang.js,50fe5e5bdee08a6ea32f4baa4ee03be7f96bf21a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-model-api/META-INF/maven/org.jenkinsci.plugins/pipeline-model-api/pom.xml,51467bed3aa52bc122253f861414a71835676da9,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/structs/META-INF/maven/org.jenkins-ci.plugins/structs/pom.xml,515fd13f1965f0c9aaaa94e5d1c17d24627e7574,CVE-2019-1003000
@@ -626,10 +635,12 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/assets/skins/sam/imagecropper.css,534dde2a7573978629ecd6ddc6435493adb1fdff,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-graph-analysis/META-INF/MANIFEST.MF,5381b0998c4dc92f38dd0c2d9fe87a2da61b1e4c,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-cps-global-lib/WEB-INF/lib/jboss-marshalling-river-1.4.12.jenkins-3.jar,53949db54bd86e2aa1b3a3614cc0110aaffcca0d,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/META-INF/JENKINS.SF,53982849c7a4a0a46d80d66299063702e53d6cb3,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/META-INF/JENKINS.SF,53982849c7a4a0a46d80d66299063702e53d6cb3,VU#6507
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/META-INF/JENKINS.SF,53982849c7a4a0a46d80d66299063702e53d6cb3,VU#87
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/META-INF/JENKINS.SF,53982849c7a4a0a46d80d66299063702e53d6cb3,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/run-config/description_zh_TW.html,53cbd7ccbfb386bc8575f497a8a2af79a3367f99,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8405/ZDI-18-946.cpp,53ed6de3806a80d4a2458113aa3466e2353210c3,CVE-2018-8405
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8405/ZDI-18-946.cpp,53ed6de3806a80d4a2458113aa3466e2353210c3,ZDI-18-946
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-jsoniq.js,54763b9a19c08bbbb95cff366a1da397296ee5d2,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/matrix-project/help/matrix/jdk_ru.html,547d05e7132358db95d66dbe121b1faba8af4047,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/live_script.js,549910d5c5e85351b3cfbfae7da48790a2813422,CVE-2019-1003000
@@ -651,8 +662,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ssh-credentials/WEB-INF/lib/ssh-credentials.jar,569bee0adfd4ca0be99f0ce24ce758efac17328b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/assets/skins/sam/simpleeditor.css,56a3fbed225d340185c783a18c9f0aa94ebce6f7,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-html_elixir.js,56d15cff0fea9baebcdf6913556bd90490da0207,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/META-INF/MANIFEST.MF,56f71ebef1cc331a7d192a86a6f7e73ac1e64b3b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/META-INF/MANIFEST.MF,56f71ebef1cc331a7d192a86a6f7e73ac1e64b3b,VU#48
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/META-INF/MANIFEST.MF,56f71ebef1cc331a7d192a86a6f7e73ac1e64b3b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-perl.js,571610cb3fe1cde7c34ab3eaf44880b25edfae25,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/.DS_Store,5753b96bdc841e67f92450b89470cf5a77b23ba6,CVE-2015-7501
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/matrix-project/help/matrix/jdk_nl.html,575843760c1864ae13d45cd51b69d518f9d207fb,CVE-2019-1003000
@@ -669,8 +680,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/cobol.js,58b80fd2d26ccdd8a0cdec8f76bd8c41e62e3c6f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-aggregator.jpi,58cc8585d85c96059facbffb4e47213df9e7536d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/run-project_zh_TW.html,59636d489442ad10f5566c04226a9f60e3f07fbc,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/font-awesome/fonts/fontawesome-webfont.ttf,596bf3a74878a13e2bf0e572e9467dfc17146b00,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/font-awesome/fonts/fontawesome-webfont.ttf,596bf3a74878a13e2bf0e572e9467dfc17146b00,VU#96
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/font-awesome/fonts/fontawesome-webfont.ttf,596bf3a74878a13e2bf0e572e9467dfc17146b00,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/numExecutors_de.html,59a6cb55b9de60ab5fb58d82de3f5f96a2a3d150,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-lucene.js,59f699ee528b3f232b0a2254ee1b124cfded4e0e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/boolean_zh_TW.html,59fc9adf1691e51637ebc7385e4310434154ac41,CVE-2019-1003000
@@ -682,8 +693,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/style.css,5b608447b7add10c0a9aa54ae249ce3b57c43dcd,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/defaultView_zh_TW.html,5ba5f6199d24e127787cb21af32bfeed8dfc6482,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-handlebars.js,5ba8ad1b6b094f3adc0a54cd23840ce07bd57e49,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/libzfs-0.8.jar,5bb311276283921f7e1082c348c0253b17922dcc,VU#40
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/libzfs-0.8.jar,5bb311276283921f7e1082c348c0253b17922dcc,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/libzfs-0.8.jar,5bb311276283921f7e1082c348c0253b17922dcc,VU#40
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-pascal.js,5bcc0f217eab3147f2f6cac01cf10407a771195f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/defaultJobNamingStrategy_zh_CN.html,5bcf6057c6c75729d3ee38f5edacd18d6ac919a5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/description_ja.html,5c17d0e22ba93aadc4e8302150792a9f8fb9e1e5,CVE-2019-1003000
@@ -723,6 +734,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/cloudbees-folder/META-INF/maven/org.jenkins-ci.plugins/cloudbees-folder/pom.properties,60480f9a5f592d2b4b9a4359c11165e5690cf3e5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-durable-task-step/WEB-INF/licenses.xml,604830f7dc196140c3e19be5dae7cc1faf5f5243,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/description_bg.html,6053212ad558eb32c6000b1458c4a94a58b444fd,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0558/ZDI-20-495.py,608740018dc0c600b7bcd33d0f1f24239490ef6a,ZDI-20-495
+537680373,wjl110/CVE-Master,CVE-2020-0558/ZDI-20-495.py,608740018dc0c600b7bcd33d0f1f24239490ef6a,CVE-2020-0558
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/choice-choices.html,609165ae3fa916cb49508f25b6f506252d396cec,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-html.js,609805356b0dcfbec779633340d752f2091cb58e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/ibm-web-bnd.xmi,60eb6ef2bce11ddf72ea5a6e5192ff746060a920,CVE-2019-1003000
@@ -732,7 +745,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/lockable-resources/META-INF/maven/org.6wind.jenkins/lockable-resources/pom.xml,611cf97458c72b01f0cdee7d45de68aec91f6b1d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/numExecutors_ru.html,613dae2a7887be21c3e8091650863a1a221cf7bf,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/quietPeriod_de.html,614207b38992159f17a69a8be7ea2f5e6ed72c6a,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/gitignore.js,6162aed7e97c160a6fe590f778c825ca7e886670,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/gitignore.js,6162aed7e97c160a6fe590f778c825ca7e886670,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/demand/keepUpWhenActive_bg.html,6163d484f2c17f6319526fd51b914e5ad509c69d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-mask.js,61b83d469ac6a0a19c372598bc2bc98fa6621b84,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/scm-api/META-INF/maven/org.jenkins-ci.plugins/scm-api/pom.properties,61b9a235f86c50c037fce2219b3dcc92238e30d1,CVE-2019-1003000
@@ -748,7 +761,10 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/task-reactor-1.5.jar,62964c07bb64457bbbb5711482e9c79bab720f20,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/tabview/assets/tabview.css,62aa6468e8cd97f20982ca92ef6870e3aea656af,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/scheme.js,62b0edf980d778a81412affcc9e2aa88ad762fd5,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/typescript.js,62c9939f032f8b139105d7102f238e16271db5a3,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/typescript.js,62c9939f032f8b139105d7102f238e16271db5a3,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8406/ZDI-18-947.cpp,6316d4a8705a634cac7185da559b61e6791d9631,ZDI-18-947
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8406/ZDI-18-947.cpp,6316d4a8705a634cac7185da559b61e6791d9631,CVE-2018-8406
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/cve-2021-4034.sh,636089fa2cace9cc33f482d348e9de8cb5cfc571,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-sh.js,6362e47f82129c0b748ef716fc74c1fefd31eb83,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/.groovy/grapes/org.buildobjects/jproc/ivy-2.2.3.xml.original,6398fda78aa13009b1514607dca6f0646984d909,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/triggerRemotely_tr.html,63ad2c887cc6f39495b0b58b541888de83350124,CVE-2019-1003000
@@ -867,7 +883,10 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/jonas-web.xml,726056144e2eec6b46dce6c8e8fe90d097a7e7b8,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/tools/tool-location-node-property_fr.html,728780610f1edb48199b5fb4ca33cbcbe92fc1b1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/acegi-security-1.0.7.jar,72901120d299e0c6ed2f6a23dd37f9186eeb8cc3,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/LICENSE,7296fbf1a35ff9af548fa969f9bd730b44e0b982,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-abc.js,72adbb6d3ec8b8a5232275ab88f267d28e98bb5a,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0558/ZDI-20-496.py,7300717503ebc28c0b9be45a4d8a649712e23d56,CVE-2020-0558
+537680373,wjl110/CVE-Master,CVE-2020-0558/ZDI-20-496.py,7300717503ebc28c0b9be45a4d8a649712e23d56,ZDI-20-496
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/updates/hudson.tools.JDKInstaller,7314fde93716512399111bdcf7526b58caf99bb4,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-stage-view/WEB-INF/lib/pipeline-stage-view.jar,734c324eb6e4192dfcac5d4e208153ca1e94a476,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/theme-tomorrow_night_blue.js,7355d1201288e2f1eb236a4089705211ced53e20,CVE-2019-1003000
@@ -901,7 +920,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/name_bg.html,761b96cff077c6ebc702600f8b9267d539e90c6e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/commons-collections-3.2.1.jar,761ea405b9b37ced573d2df0d1e3a4e0f9edc668,CVE-2015-7501
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/run-config/displayName_it.html,7666f3e22582c547564c4d750ca2b7dc33711471,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/treeview/assets/skins/sam/treeview.css,76703936cca081e8c089414cb9b956f5e1192e81,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/assets/skins/sam/treeview.css,76703936cca081e8c089414cb9b956f5e1192e81,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/apache-httpcomponents-client-4-api/WEB-INF/lib/httpasyncclient-cache-4.1.3.jar,768228a77dd71aa19c3db90333c88e5cdc41c009,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/tabview/assets/skins/sam/tabview-skin.css,76827f205ad93e24c1712e664d043d613f86b495,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/string-default.html,76a94e19f06b3b92da609da91b6c41061cedfdd2,CVE-2019-1003000
@@ -941,7 +960,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/jsx.js,7b2253ff7e272c492cefd3f620dd44036b38cd83,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/systemMessage_de.html,7b987114aa7c159dc508fd97a448a98a613d6253,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/name_de.html,7c40bc0ed504fbc54eaee764991b8e3837bdc444,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/ocaml.js,7c519331949fb92764ba352f8960eb55b7b5cb6d,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/ocaml.js,7c519331949fb92764ba352f8960eb55b7b5cb6d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/custom-workspace_it.html,7ca32d4d13a3471486e36a151dfbfdc268a2dbb8,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/secrets/slave-to-master-security-kill-switch,7cb6efb98ba5972a9b5090dc2e517fe14d12cb04,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/availability_it.html,7cbf17a40f7d637f0060769afff509ba097cc82d,CVE-2019-1003000
@@ -949,7 +968,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/description_bg.html,7ce8e078422555cfd5d8e7c2069480901078290b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-stage-view/META-INF/maven/org.jenkins-ci.plugins.pipeline-stage-view/pipeline-stage-view/pom.properties,7d8882a85df661fcc6e1c3a5f128ec3a3d24eff8,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/identity.key.enc,7da6574cc776fe8ec464a6ec45614dc95b7ed653,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/twig.js,7dbe6b349cb726101af9c4486aab59a52504bee4,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/twig.js,7dbe6b349cb726101af9c4486aab59a52504bee4,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/container/container-debug.js,7dd6c33fe63f9b62214a3d995682ab68d0a4468d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/tiger-types-2.2.jar,7ddc6bbc8ca59be8879d3a943bf77517ec190f39,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/mipsassembler.js,7decc48d387cde2ef055becdeeb7bca5ba1ffca7,CVE-2019-1003000
@@ -976,6 +995,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/usage_it.html,80b42a1dd2761617e978824b0db2698645204cec,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/worker-javascript.js,80b532f9c8df83ec776226add2954c86f3302ecd,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/matrix-project/WEB-INF/lib/matrix-project.jar,80e0b271ffb72f54472740cff5322eb5ab8d7940,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/.DS_Store,80eb2fbb49a5d380daa5ac95f71dda4eb40a2f8a,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/apache-httpcomponents-client-4-api/WEB-INF/lib/httpclient-cache-4.5.5.jar,8115af15235c603db957db37f24e0faa168474f7,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/lsl.js,812b32c17b11d0fc9a5f4143027569da145ef588,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/reverseShellMultiplatformCommonsCollections.xml,8157ab96854ed6d434318ee2466b5277a8a4ab89,CVE-2015-7501
@@ -995,6 +1015,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/tasks/fingerprint/keepDependencies_ru.html,835dff3f9f05bb28b1ad0346c79686ae04eba856,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-cps/META-INF/MANIFEST.MF,8381d9c5c02b0a253972ab491b2daf29fa25ca8c,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/resize/assets/resize-core.css,83903744d8b12ce871f8cb6a160eae85c298103b,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/dry-run/dry-run-cve-2021-4034.c,839aa6edf24024a62db30804caee7159f0a4f5e5,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/jnlpSecurity_bg.html,83dca53a86f3aa061d8e552f72d0c89d265892c2,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/string_de.html,8406a9d9271e5c256d7995e5d1729b0241a44842,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/block-upstream-building_ja.html,840a43b83664ef405eeb186116a915bea77556e2,CVE-2019-1003000
@@ -1027,8 +1048,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/disable.html,8816d0968859d19206ecc51990a1b355de634105,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/user/fullName_zh_TW.html,8819177c64b8b40cb6419546b7528326099d1c85,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2018-2893-master/ysoserial-cve-2018-2893.jar,881cce456f6e7087f92dceec3fadf04717efc9ea,VU#42
-537680373,wjl110/CVE-Master,CVE-2018-2893-master/ysoserial-cve-2018-2893.jar,881cce456f6e7087f92dceec3fadf04717efc9ea,CVE-2018-2893
 537680373,wjl110/CVE-Master,CVE-2018-2893-master/ysoserial-cve-2018-2893.jar,881cce456f6e7087f92dceec3fadf04717efc9ea,VU#83
+537680373,wjl110/CVE-Master,CVE-2018-2893-master/ysoserial-cve-2018-2893.jar,881cce456f6e7087f92dceec3fadf04717efc9ea,CVE-2018-2893
 537680373,wjl110/CVE-Master,CVE-2018-2893-master/ysoserial-cve-2018-2893.jar,881cce456f6e7087f92dceec3fadf04717efc9ea,VU#79
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/demand/inDemandDelay_bg.html,882347a52742ee9876b935da24d3d5060a6ae2de,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/batch_fr.html,883cb8e6c11e7f3ff228aa034b6d2b143d40583b,CVE-2019-1003000
@@ -1062,8 +1083,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/jnlpSecurity_tr.html,8c7ade46c5e6bdf55956da6a9934c74981a1c5a9,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/name_zh_CN.html,8c86f8ed73c2fe0493ad85c7db49865a75c68341,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/includeregex_de.html,8c9ddffee3b99290f288aea59a2c44ffc7e09b8d,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/winp-1.27.jar,8caa34252791b23d91a3b6811488f5ace55c421a,VU#79
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/winp-1.27.jar,8caa34252791b23d91a3b6811488f5ace55c421a,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/winp-1.27.jar,8caa34252791b23d91a3b6811488f5ace55c421a,VU#79
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/patternJobNamingStrategy_fr.html,8cc82da6062b155db2bf5e6eb7c38962113439ab,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/dragdrop/dragdrop-min.js,8ce3ce08eaa3f9dbb8bf70ba20cb2ec1d68c816c,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-ocaml.js,8ce6068be9e0d53e6c6ac43a5c831a46234c4205,CVE-2019-1003000
@@ -1096,6 +1117,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,CVE-2016-0856/bwconn.dll.sources/SE_Exception.h,905aa045fee75f659481ba2949e7f164a7989ece,CVE-2016-0856
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/font-awesome/fonts/LICENSE.txt,905b3ed04da9dec45b395b63b978b0aa837b7a22,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/theme-xcode.js,9062ae4cec9732deee7404d0e16ec7bdbe23fa79,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8400/ZDI-18-950.cpp,9076a7ab4e7632d09f37e9d9246fb6a7bf5bc7c6,CVE-2018-8400
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8400/ZDI-18-950.cpp,9076a7ab4e7632d09f37e9d9246fb6a7bf5bc7c6,ZDI-18-950
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-rest-api/WEB-INF/licenses.xml,907c6a8725a0239c05dd7e9a26a18e9f61935b8a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/plain_text.js,90a6975ddfbac7f8ae5b47518adaaf41d653e5e2,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-scala.js,90aeba5a5eee410045583f48516e4417af16247c,CVE-2019-1003000
@@ -1139,6 +1162,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-mips_assembler.js,95134f53b2620fee7fa40e2683d651f6d8cec9a0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/tabview/tabview-debug.js,952c3b44c90861971743c7824b75d1c5e6eaff0c,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-soy_template.js,9560d7aaa05cc5e8290a80f5da97d61a20bfd92b,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/Makefile,95664620797325debd2639bfa62a6b8d1f48709e,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/images/RRZEIconSet-License.url,956b9b8fbc1346b2f45095621c7b80e96b442067,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/credentials-binding/WEB-INF/lib/credentials-binding.jar,958c9503df5d42be67e118b09278fd1f6790f203,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/systemMessage_bg.html,95a9c122f9f1a764134fd997ee7bd2cd5bd21e9c,CVE-2019-1003000
@@ -1201,7 +1225,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-stage-tags-metadata/META-INF/maven/org.jenkinsci.plugins/pipeline-stage-tags-metadata/pom.properties,9bf4b4b95dd1769f4fec4b569d03a6fe5cf5e82e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/worker-json.js,9bf682f15366ad4de9f8535ecbf0377e05861ff9,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-vala.js,9c2e3992f1e879ebaa97230801ff2212f6bc3026,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/gcode.js,9c3810172977f793f6088a264b811d457e40b258,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/gcode.js,9c3810172977f793f6088a264b811d457e40b258,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/theme-tomorrow_night_blue.js,9c45fc595c4bdcbad523d6d1778da1807b6834e0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/jboss-deployment-structure.xml,9ca6c7a4741357850e8ef95950546758d7ee5466,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-twig.js,9ca7b8a63296a850158b2a88f9c2eb1661ad2c92,CVE-2019-1003000
@@ -1290,6 +1314,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/LogRecorder/name_ja.html,a785e963c43606b98d3504af7d5319204e7975fd,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/stapler-groovy-1.255.jar,a7d089ff08c03ac605664d5908dcc7de068f5e29,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-milestone-step/WEB-INF/licenses.xml,a7d5c21d9109c55e2607578ced5e4df6e0269e1c,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/Properties/Settings.settings,a7d9c76f5b45c32544fa0186593c9338f24be246,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/django.js,a7f90ad83c3e00a5c53cc44ee85c67eab0d7597f,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/userContent/readme.txt,a81ce5a9c7b175137c607ed116d7b2c4dc960711,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/keybinding-vim.js,a83b39d4c87b97c4dad8b95739183d7577033cac,CVE-2019-1003000
@@ -1297,6 +1322,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/apache-httpcomponents-client-4-api/WEB-INF/lib/httpcore-4.4.9.jar,a86ce739e5a7175b4b234c290a00a5fdb80957a0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar,a87bb47468f47ee7aabbd54f93e133d4215769c3,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/theme-solarized_light.js,a8a1c7f67036d135d9ec7660adf284741f7380d6,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/Program.cs,a8a26bc9acdb1a29e74f93c0b564ccd3d6bab793,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-swig.js,a8ad34a11c54a09227bfc75212d993812edd144b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-mysql.js,a9036981fdea28873518f6132807f3eae7754930,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2017-11610-main/CVE-2017-11610.py,a91608c113746c6b07f4de738bf15c4d85478bfb,CVE-2017-11610
@@ -1308,6 +1334,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/systemd-slave-installer-1.1.jar,a9a4adb0480ec8942d031b0fff9005077b889875,CVE-2019-1003000
 537680373,wjl110/CVE-Master,目录扫描fuzz字典/MDB.txt,a9c122378209e02c1a316f90572329afd4cdb8e5,VU#89324
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/apache-httpcomponents-client-4-api/META-INF/maven/org.jenkins-ci.plugins/apache-httpcomponents-client-4-api/pom.xml,a9fc31072a3b2d0dd1b4e136aa893bad8f6b6800,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-12027/rockwell_factorytalkse_rce.rb,aa0dc79d1f5ac6c27003e7e165c34f4e367e37b6,CVE-2020-12027
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/LogRecorder/name_de.html,aa20800ce90e8cd1a09a403cd2253edb449abf18,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-durable-task-step/META-INF/maven/org.jenkins-ci.plugins.workflow/workflow-durable-task-step/pom.properties,aa36227b77734dd46d3972fc5a6d781d012e7990,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/curly.js,aa3f378d903319674bdaac8b9012cb252728e4f9,CVE-2019-1003000
@@ -1342,6 +1369,9 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/filter-queue_de.html,aed4a7ec7a4199bd5caeb75c5e7af0bd209d9ce7,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/branch-api/WEB-INF/licenses.xml,aed5f107d5821bfb954a12c6ce93e04ea9543be3,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-gitignore.js,aeec47ac08d44ee1dc9e7e92423e03dd9773bebe,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/Web References/WebPartPages/Reference.cs,af3e3534136dfa913785b39fe9ea267ec5c50d63,CVE-2020-0932
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8401/ZDI-18-951/ZDI-18-951.cpp,af5b9c800c8ece157e58d52d00e786691e9306ed,CVE-2018-8401
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8401/ZDI-18-951/ZDI-18-951.cpp,af5b9c800c8ece157e58d52d00e786691e9306ed,ZDI-18-951
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/jzlib-1.1.3-kohsuke-1.jar,af5d27e1de29df05db95da5d76b546d075bc1bc5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-dockerfile.js,af8ad0ef51927b6e9a35383aedad8815474ba08e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/plain-credentials/WEB-INF/licenses.xml,afa26c66fb8aebe9c4cc3f5372358737dfb2d87f,CVE-2019-1003000
@@ -1371,8 +1401,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-api/META-INF/maven/org.jenkins-ci.plugins.workflow/workflow-api/pom.properties,b2f1bcc84fa2c2ad2a9f675ff39dd0334f7ef27e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/block-downstream-building_zh_CN.html,b2f47e5115bf102da30512f287b72d8831192809,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/git-client/WEB-INF/lib/org.eclipse.jgit-4.5.4.201711221230-r.jar,b30f322c7d441260f4fa454ce5de65cf7e961274,VU#10
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/git-client/WEB-INF/lib/org.eclipse.jgit-4.5.4.201711221230-r.jar,b30f322c7d441260f4fa454ce5de65cf7e961274,VU#59
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/git-client/WEB-INF/lib/org.eclipse.jgit-4.5.4.201711221230-r.jar,b30f322c7d441260f4fa454ce5de65cf7e961274,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/git-client/WEB-INF/lib/org.eclipse.jgit-4.5.4.201711221230-r.jar,b30f322c7d441260f4fa454ce5de65cf7e961274,VU#59
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/elm.js,b328717ae85a56075826e454a2d952134dc43ceb,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/run.sh,b342f5834c85c23bade244335d9427ce07013b4d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/defaultView_de.html,b35c91f6b798ead7a38f675d5965238ee1158978,CVE-2019-1003000
@@ -1430,6 +1460,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/cvs.hpi,ba7e032ad9f5fb6d0200ebe52cd2865ae3855d23,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/MainDialog.class,ba956ea8ccd1a11fc976a36c8f45fae24d768839,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/tasks/fingerprint/keepDependencies.html,ba9a768cdf1f09e85d244c60a8886f1cfc742eeb,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-26900/CVE-2021-26900.c,bab1802fe150bc6d702c9f00169192d7cb0f2e0a,CVE-2021-26900
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/liquid.js,bad0aea59200965ca9176be6be81d94cda861ff5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-multibranch.jpi,baf508447d64f8198c424458e9a0417bcf66ef44,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/boolean-default_it.html,bb7aba0f48fc340bc32db91cbc5822fac2aea735,CVE-2019-1003000
@@ -1498,6 +1529,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/run-config/description_bg.html,c2f492e70bcbe4c5bdf1a64bf2ec13c2926bc1da,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/downstream_it.html,c31fbe4725b9f7e484526ada28b0fac371f23904,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/description_bg.html,c32cb571f0c39f45125c6c7ba127d77d90e20d5b,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/dry-run/Makefile,c32ddde7ef0ee4286a619c7144ec53ea132f1e34,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/demand/inDemandDelay_zh_TW.html,c353ccb1fb8ed25d5a12f864f643e6b6e0bd3079,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2018-4338/lsym.cpp,c36d299923035d9e39e14bc1d8bbf12569a6e288,CVE-2018-4338
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/test-snippets/groovy.js,c3a16c32c5cb69d6b39b5ddce83228a47cbc9589,CVE-2019-1003000
@@ -1581,6 +1613,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/scmCheckoutRetryCount_bg.html,cd611b442993bae99542d1f725ec61f86eabb66a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/cookie/cookie-debug.js,cdc80c05343a67c2019ed354936b967414242fc0,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/demand/inDemandDelay_it.html,cdca9217151b733c236fb661c28a9b17c5ede7bd,CVE-2019-1003000
+537680373,wjl110/CVE-Master,drupal_xss_rce/blog-poc.php,cdd2b107fa45b0aff71e6cf8e3c4810fa38fe432,CVE-2019-6341
+537680373,wjl110/CVE-Master,drupal_xss_rce/blog-poc.php,cdd2b107fa45b0aff71e6cf8e3c4810fa38fe432,ZDI-19-291
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/scmCheckoutRetryCount.html,cdf9f36473f78eb6e036def3d6d048af30b178fb,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2018-15473-Exploit-master/README.md,ce0eb7c29413119f87d42b2f15b2dec48e3bc6b1,CVE-2018-15473
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/matrix-auth.hpi,ce39a166d8bfee08d087875a2482a4903bf11fc8,CVE-2019-1003000
@@ -1590,8 +1624,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-julia.js,ceb17a72f3352cb005d022e64c3e21b7d2cb88d5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/run_de.html,cee2deb94c8b88607c7f82070569e06d9b50fa6a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/msie.js,cf2d80b0a2cba452099800d57f02e15933c39084,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/antlr-2.7.6.jar,cf4f67dae5df4f9932ae7810f4548ef3e14dd35e,VU#85
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/antlr-2.7.6.jar,cf4f67dae5df4f9932ae7810f4548ef3e14dd35e,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/antlr-2.7.6.jar,cf4f67dae5df4f9932ae7810f4548ef3e14dd35e,VU#85
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-nix.js,cf5e74e1409236f36f16213b43bac611b2b945fb,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/jquery-detached/WEB-INF/lib/jquery-detached.jar,cf8ce7e1cbb3b4c1528a8a3315c2b3ef7cf4904c,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-textile.js,d03eb4e723394a9a22531c612cb87082812ebe49,CVE-2019-1003000
@@ -1621,6 +1655,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-golang.js,d3c2059e596ab92d494ff8dd97719ba15a56173b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/description_fr.html,d3f957725886e117b57c589735f01edd18369fef,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/detached-plugins/mailer.hpi,d4096a2cd079d3ea54f119cef1379cc6204a43b5,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/pwnkit.c,d416d1f8c5de5853c71ba14ade60291d263716dd,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/workflow-cps.jpi,d41ffd756fe0f4d46db6df8e05e2223ec6237fd5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/.cache/fontconfig/3830d5c3ddfd5cd38a049b759396e72e-le64.cache-7,d434b48ffd185ef1c3f1393c79c03597d9a7f99b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CNVD-2020-10487-Tomcat-ajp-POC-master/requirements.txt,d4581ed8ef18e4cd8497a7fcebcfeb00a015a707,CNVD-2020-10487
@@ -1653,6 +1688,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/slave-installer-1.6.jar,d86ddb97a82512ed63a0faa3e90acbc3ed7e636d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/jenkins.telemetry.Correlator.xml,d89378f93472a6e503fd9d55b9874563ada45cb3,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/matrix-project/help/matrix/jdk_tr.html,d89f76b2bf3401450bd70691267a68e81eb10746,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8401/ZDI-18-949/ZDI-18-949.cpp,d8b8f1b34c360eebee40f330194a2193b43c514c,ZDI-18-949
+537680373,wjl110/CVE-Master,CVE-2018/CVE-2018-8401/ZDI-18-949/ZDI-18-949.cpp,d8b8f1b34c360eebee40f330194a2193b43c514c,CVE-2018-8401
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/bootstrap/css/bootstrap-theme.min.css,d8d89f0d5c78533c9e3803db73097f2a4e9bb356,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/scad.js,d8f1a4f7aab73caff9fb344cfd6183d0ac8aefc5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/jackson2-api/WEB-INF/licenses.xml,d91e7ed339a7b98b76f48ed34a2587c663816f9d,CVE-2019-1003000
@@ -1665,8 +1702,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/jackson2-api/WEB-INF/lib/jackson-module-jaxb-annotations-2.9.8.jar,da08815ba1c7f7b435e7df02b7bf98327bad2fd4,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/parameter/run-project_ja.html,da0ac737ab74f1743b58e608710d51a10e3f807b,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/jsbundles/upgradeWizard.js,da0c69f096aa9cd7328459a2bc0ed375aae4a25d,CVE-2019-1003000
-537680373,wjl110/CVE-Master,CVE-2018-1273-master/Vulnerability-environment/src/main/resources/application.properties,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2018-1273
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/secret.key.not-so-secret,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2018-1273-master/Vulnerability-environment/target/classes/application.properties,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2018-1273
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/slf4j-api-1.7.25.jar,da76ca59f6a57ee3102f8f9bd9cee742973efa8a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/google-fonts/roboto/fonts/roboto-v15-greek_latin-ext_latin_vietnamese_cyrillic_greek-ext_cyrillic-ext-500.eot,da8f2d15dfb39228386ffeefe78e3c0647444e54,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/button/assets/skins/sam/button-skin.css,da9dbf5f1d04da8eb673fb43fb38bc457721ac12,CVE-2019-1003000
@@ -1689,6 +1726,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/TestSerialize.class,dccfd3cf220dce641314da77ddbefa71435e616f,CVE-2015-7501
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/description_ru.html,dcd8075b5cfc621b4336c4a3beedfb6102c4ce3d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-curly.js,dcd91f7ffe596acceb29eab62cd51785527db29b,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/cve-2021-4034.c,dd1674bb5ef8fb2114be093f11c2a8674fc66fe5,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-model-api/WEB-INF/lib/json-20090211_1.jar,dd3e57b26450cd682f5991c537ab44ba1fbbdb54,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/abap.js,dd461135acd030c59c4cd1ccc000843f0236548a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,BurpFastJsonScan/BurpFastJsonScan.jar,dd584ea3098839a01097bdcf2db35dcfc075bbb1,VU#77
@@ -1708,6 +1746,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/git-client.jpi,decae6225bb958941c3f91483de4c0b1f2b6bbdd,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/icon-set-1.0.5.jar,dedc76ac61797dafc66f31e8507d65b98c9e57df,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/robust-http-client-1.2.jar,dee9fda92ad39a94a77ec6cf88300d4dd6db8a4d,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-16939/.DS_Store,df2fbeb1400acda0909a32c1cf6bf492f1121e07,CVE-2020-16939
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/batch_tr.html,df648209dafb519ccf7590df10ab5f251472ca42,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-rest-api.jpi,df8c2e726a0b4e800b6db88bbcf8ba6fbccda07a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2017-11610-main/img/.DS_Store,e02a56c8e2a938aea866ce3adbefb9ef11886e4b,CVE-2017-11610
@@ -1719,8 +1758,8 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/ext-linking.js,e0f73b5208d7aa53c9db48b0802d0b209faafb09,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-matlab.js,e120fccbda78e7fd7ddf792a2134182daa489099,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/.DS_Store,e14e4ae19530b5f0fd8f18041f7023de8afc7c5f,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/README.md,e166ea9545624da88929c5452fee2f515503e5c3,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/README.md,e166ea9545624da88929c5452fee2f515503e5c3,CVE-2018-1000861
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/README.md,e166ea9545624da88929c5452fee2f515503e5c3,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/README.md,e166ea9545624da88929c5452fee2f515503e5c3,CVE-2019-1003002
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/README.md,e166ea9545624da88929c5452fee2f515503e5c3,CVE-2019-1003001
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/simple-page.css,e16f2ceefd597a4438786be1310eea52c0c41c97,CVE-2019-1003000
@@ -1729,7 +1768,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/classes/META-INF/licenses.xml,e1984b031d9a00af48c9c11e28950848b5e62b0d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/mode-makefile.js,e1a32205263de0786929847bf3da41cfe2b9319d,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/responsive-grid.css,e1aee305f51185099dea85e34bd3600dc0f976f3,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/cirru.js,e1b7ab1822db8719adcb4ab35b472fd024a3b2c1,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/snippets/cirru.js,e1b7ab1822db8719adcb4ab35b472fd024a3b2c1,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/usage.html,e1eaf229464c0e7e0e8eb230f6f62afa8fa43865,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-build-step/META-INF/maven/org.jenkins-ci.plugins/pipeline-build-step/pom.xml,e1fc38824f96f24a9446d08b9a7edf3c0e0f7d05,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/localizer-1.24.jar,e20e7668dbf36e8d354dab922b89adb6273b703f,CVE-2019-1003000
@@ -1825,6 +1864,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/includeregex_bg.html,ec255f236997818dc8e601510c722db4e4529693,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/apache-httpcomponents-client-4-api/WEB-INF/licenses.xml,ec2ee86c519b3c045f1552ed819cdee932034845,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/docker-workflow/WEB-INF/lib/docker-workflow.jar,ec2fecbc7e67cba619d453e996cf5d77e070f2ed,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2021-4034-main/README.md,ec3ec3bcb17a12c39870b61a2348c2c5c49d4113,CVE-2021-4034
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/velocity.js,ec695718bbe5f2cf1a30bcc1015d57990d5f2853,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-sql.js,ec7d7a45523d4f964d2db632c8183e8f3c476cee,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/view-config/description_nl.html,ecaa8702885bf3b0b1683b6110aab0aa9fbb13e7,CVE-2019-1003000
@@ -1835,6 +1875,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/secret.key,ed00b7c3a789af62b11f83b78f86ad1f7c3a198c,CVE-2019-1003000
 537680373,wjl110/CVE-Master,CVE-2018-4338/header.h,ed08075fb554c10f2a8986d3eb107cf688c6659e,CVE-2018-4338
 537680373,wjl110/CVE-Master,CVE-2015-7501-master/out/production/CVE-2015-7501-master/ExampleTransformersWithLazyMap.class,ed0cb0b024a575ab184611307a236f83e3053b63,CVE-2015-7501
+537680373,wjl110/CVE-Master,CVE-2020-0932/SP_soap_RCE_PoC.csproj,edbd6e166f693f4b2071c7a24c50a9e91bd22b4e,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/clock_de.html,edcef377aeb0e2a3891b5cd7ed38dfde21c6bcdd,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/spring-context-support-2.5.6.SEC03.jar,edf496f4ce066edc6b212e0e5521cb11ff97d55e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/css/font-awesome/fonts/fontawesome-webfont.woff2,ee59197f63a2c4c7b7f2ae135a745202235de8d4,CVE-2019-1003000
@@ -1856,7 +1897,7 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/WEB-INF/lib/trilead-ssh2-build-217-jenkins-11.jar,f10f4dd4121cc233cac229c51adb4775960fee0a,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/jnlp-tunnel_bg.html,f125baaad5618f80d1cffeecaf03d00c5a24a541,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/jsbundles/page-init.js,f13327a80c4a40793113b28b8ac47e4f8d453e73,CVE-2019-1003000
-537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/autocomplete/assets/skins/sam/autocomplete.css,f1414eaff9697448b49dabab9b0cb400e127363e,CVE-2019-1003000
+537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/assets/skins/sam/autocomplete.css,f1414eaff9697448b49dabab9b0cb400e127363e,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-122/mode-django.js,f187920511384aac1685d666bdf7844828e0b714,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/script-security/META-INF/maven/org.jenkins-ci.plugins/script-security/pom.xml,f18aef9753a047fad061f5ca7b1f466e0e698f80,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/system-config/master-slave/demand/inDemandDelay_ja.html,f1a9a13653e4f846d18231f964768842767ee50e,CVE-2019-1003000
@@ -1945,8 +1986,12 @@ repo_id,repo_full_name,file,file_sha1,match
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/menu/assets/menu.css,fe360454e30b258beffa35b529738337b102a743,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/scripts/yui/assets/skins/sam/carousel.css,fe3f991c72fbaab78f679f1dfc1c383b40d8a9f5,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/war/help/project-config/disable_fr.html,fe9321e773024872062c385fc28aba4f61160b55,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0932/Web References/WebPartPages/Reference.map,fec36dd7158f489ebe6fb289b7c9a3c64cda6bc9,CVE-2020-0932
+537680373,wjl110/CVE-Master,CVE-2020-0932/.DS_Store,fefb8e51d7b14f86634610d07c1dfb853fbce73b,CVE-2020-0932
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/ace-editor/packs/ace-editor-119/snippets/julia.js,ff06dce652d2e1d6b9006f81527d5cc5b3584694,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/pipeline-stage-view.jpi,ff223ec37733668a17b3be5a8286de973c207592,CVE-2019-1003000
+537680373,wjl110/CVE-Master,CVE-2020-0558/ZDI-20-494.py,ff4cc9ad5c5406680065ea10df079231c6447081,CVE-2020-0558
+537680373,wjl110/CVE-Master,CVE-2020-0558/ZDI-20-494.py,ff4cc9ad5c5406680065ea10df079231c6447081,ZDI-20-494
 537680373,wjl110/CVE-Master,CVE-2016-0856/bwconn.dll.sources/RpcClient.h,ff5cb7c9b110def3b82e085ea97a2befb15b9701,CVE-2016-0856
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/docker-workflow/META-INF/MANIFEST.MF,ff66b96ba95bdbeb473b4ffe52a66f0ebdb46265,CVE-2019-1003000
 537680373,wjl110/CVE-Master,cve-2019-1003000-jenkins-rce-poc-master/sample-vuln/jenkinsdata/plugins/credentials/WEB-INF/lib/credentials.jar,ffc55cb48c53c4d4122f50708a3bc771b8c4c631,CVE-2019-1003000
