@@ -122,6 +122,7 @@ MS17-010,1.00000000,https://github.com/JavierOlmedo/check-ms17-010,JavierOlmedo/
 MS17-010,1.00000000,https://github.com/adamleff/inspec-profile-wannacry-exploit,adamleff/inspec-profile-wannacry-exploit,91350955
 MS17-010,1.00000000,https://github.com/jflyup/goMS17-010,jflyup/goMS17-010,89549887
 MS17-010,1.00000000,https://github.com/sn0wfa11/HID-Attacks,sn0wfa11/HID-Attacks,56999867
+MS17-010,0.50000000,https://github.com/ArminToric28/EternalBlue-Exploit,ArminToric28/EternalBlue-Exploit,538233882
 MS17-010,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
 MS17-010,0.50000000,https://github.com/gudyrmik/CVE-2021-44142,gudyrmik/CVE-2021-44142,484298524
 MS17-010,0.50000000,https://github.com/mr-sami-x/ex-ye,mr-sami-x/ex-ye,479770195
@@ -476,7 +477,7 @@ MS17-010,0.00023646,https://github.com/RuZGaRBeY/metasploit-framework,RuZGaRBeY/
 MS17-010,0.00023602,https://github.com/shahnwazsheikh00/metasploit-framework,shahnwazsheikh00/metasploit-framework,162744394
 MS17-010,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metasploit-docker,162195461
 MS17-010,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
-MS17-010,0.00023143,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00023137,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00023073,https://github.com/mkdirlove/METASPLOIT-FRAMEWORK,mkdirlove/METASPLOIT-FRAMEWORK,202658385
 MS17-010,0.00022978,https://github.com/samba234/metasploit-framework,samba234/metasploit-framework,209766275
 MS17-010,0.00022920,https://github.com/komander/dan-metasploit,komander/dan-metasploit,218967281
@@ -549,7 +550,7 @@ MS17-010,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_data
 MS17-010,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS17-010,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS17-010,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
-MS17-010,0.00001534,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001531,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
