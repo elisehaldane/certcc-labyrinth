@@ -1,1 +1,12 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#05
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#20
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#34
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#44
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#45
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#59
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#63
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#64
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#664
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#76
+536582826,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,cx-flow-1.6.36_lgv.jar,1f294c930905169cfb99ebc0b90cd5146d97bf01,VU#78
