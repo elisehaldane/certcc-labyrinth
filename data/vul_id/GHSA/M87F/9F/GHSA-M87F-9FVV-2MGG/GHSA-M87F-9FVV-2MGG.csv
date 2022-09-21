@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-M87F-9FVV-2MGG,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 GHSA-M87F-9FVV-2MGG,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
-GHSA-M87F-9FVV-2MGG,0.00004622,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+GHSA-M87F-9FVV-2MGG,0.00004621,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
