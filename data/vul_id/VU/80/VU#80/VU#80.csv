@@ -9,6 +9,7 @@ VU#80,0.33333333,https://github.com/Gan02s/exe-to-doc-exploits,Gan02s/exe-to-doc
 VU#80,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
 VU#80,0.20000000,https://github.com/ruchirasvmm/log4j-exploit-demo,ruchirasvmm/log4j-exploit-demo,489876123
 VU#80,0.20000000,https://github.com/scottymcandrew/exploit-labs,scottymcandrew/exploit-labs,478164772
+VU#80,0.20000000,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#80,0.20000000,https://github.com/HelloLyfing/log4j2-rce-202112-poc,HelloLyfing/log4j2-rce-202112-poc,442988778
 VU#80,0.20000000,https://github.com/prodigiousMind/log4j-exploit-RCE-by-ReverseShell,prodigiousMind/log4j-exploit-RCE-by-ReverseShell,439824794
 VU#80,0.20000000,https://github.com/Eiriksgata/Apache-Log4j-Rce,Eiriksgata/Apache-Log4j-Rce,438146429
@@ -20,7 +21,6 @@ VU#80,0.16666667,https://github.com/ocastel/log4j-shell-poc,ocastel/log4j-shell-
 VU#80,0.16666667,https://github.com/vidrez/log4j-rce-poc,vidrez/log4j-rce-poc,503471159
 VU#80,0.16666667,https://github.com/NagisaYumaa/Log4j_Exploit,NagisaYumaa/Log4j_Exploit,498220300
 VU#80,0.16666667,https://github.com/Phineas09/CVE-2021-44228,Phineas09/CVE-2021-44228,491872919
-VU#80,0.16666667,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#80,0.16666667,https://github.com/ishan-saha/LOG4SHELL,ishan-saha/LOG4SHELL,457413438
 VU#80,0.16666667,https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC,ColdFusionX/CVE-2021-44228-Log4Shell-POC,449417650
 VU#80,0.16666667,https://github.com/minhnq22/log4shell_exploit,minhnq22/log4shell_exploit,445372469
@@ -155,7 +155,7 @@ VU#80,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#80,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#80,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#80,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#80,0.00048614,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#80,0.00048379,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#80,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#80,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#80,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
@@ -165,7 +165,7 @@ VU#80,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#80,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#80,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#80,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#80,0.00020076,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#80,0.00020064,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#80,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#80,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#80,0.00004621,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
