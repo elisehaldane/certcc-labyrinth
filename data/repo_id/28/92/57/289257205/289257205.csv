@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-289257205,CaledoniaProject/drivers-binaries,readme.md,0061e104b96650b3679b97f278f4c928d54b9955,CVE-2020-12138
-289257205,CaledoniaProject/drivers-binaries,readme.md,0061e104b96650b3679b97f278f4c928d54b9955,CVE-2020-15368
-289257205,CaledoniaProject/drivers-binaries,readme.md,0061e104b96650b3679b97f278f4c928d54b9955,CVE-2020-17382
-289257205,CaledoniaProject/drivers-binaries,readme.md,0061e104b96650b3679b97f278f4c928d54b9955,CVE-2021-21551
-289257205,CaledoniaProject/drivers-binaries,readme.md,0061e104b96650b3679b97f278f4c928d54b9955,CVE-2021-32537
+289257205,CaledoniaProject/drivers-binaries,readme.md,4a5e6b93bd8bf092f830846b340e41fb21ce08d1,CVE-2020-12138
+289257205,CaledoniaProject/drivers-binaries,readme.md,4a5e6b93bd8bf092f830846b340e41fb21ce08d1,CVE-2020-15368
+289257205,CaledoniaProject/drivers-binaries,readme.md,4a5e6b93bd8bf092f830846b340e41fb21ce08d1,CVE-2020-17382
+289257205,CaledoniaProject/drivers-binaries,readme.md,4a5e6b93bd8bf092f830846b340e41fb21ce08d1,CVE-2021-21551
+289257205,CaledoniaProject/drivers-binaries,readme.md,4a5e6b93bd8bf092f830846b340e41fb21ce08d1,CVE-2021-32537
