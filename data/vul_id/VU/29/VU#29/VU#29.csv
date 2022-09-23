@@ -13,6 +13,7 @@ VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,put
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
 VU#29,1.00000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
+VU#29,0.50000000,https://github.com/Ryan-T-Bell/SmarterMail-RCE-49216.py,Ryan-T-Bell/SmarterMail-RCE-49216.py,540451519
 VU#29,0.50000000,https://github.com/SiJiDo/CVE-2022-22947,SiJiDo/CVE-2022-22947,527864103
 VU#29,0.50000000,https://github.com/AkbarTrilaksana/CVE-2022-32832,AkbarTrilaksana/CVE-2022-32832,516837211
 VU#29,0.50000000,https://github.com/Muirey03/CVE-2022-32832,Muirey03/CVE-2022-32832,516376265
@@ -312,7 +313,7 @@ VU#29,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#29,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#29,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#29,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00020064,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00020052,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004621,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

@@ -5,7 +5,6 @@ VU#40,0.33333333,https://github.com/tzwlhack/CVE-2021-4034,tzwlhack/CVE-2021-403
 VU#40,0.33333333,https://github.com/Fato07/Pwnkit-exploit,Fato07/Pwnkit-exploit,452784469
 VU#40,0.33333333,https://github.com/dadvlingd/-CVE-2021-4034,dadvlingd/-CVE-2021-4034,452357365
 VU#40,0.33333333,https://github.com/nikaiw/CVE-2021-4034,nikaiw/CVE-2021-4034,452108706
-VU#40,0.33333333,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#40,0.33333333,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#40,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#40,0.25000000,https://github.com/z3dc0ps/awesome-linux-exploits,z3dc0ps/awesome-linux-exploits,479754725
@@ -192,7 +191,7 @@ VU#40,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#40,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#40,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#40,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#40,0.00020064,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#40,0.00020052,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#40,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#40,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#40,0.00004621,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

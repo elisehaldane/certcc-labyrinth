@@ -12,6 +12,7 @@ VU#57,0.25000000,https://github.com/RobertoLFRA/exploit-tools,RobertoLFRA/exploi
 VU#57,0.25000000,https://github.com/FIRSTdotorg/epss,FIRSTdotorg/epss,487842087
 VU#57,0.25000000,https://github.com/Charline7/final-project-le-lasserre,Charline7/final-project-le-lasserre,475413214
 VU#57,0.25000000,https://github.com/ivam3/embed,ivam3/embed,145826519
+VU#57,0.20000000,https://github.com/pswalia2u/CVE-2020-7246,pswalia2u/CVE-2020-7246,537412534
 VU#57,0.20000000,https://github.com/appollosputnik/aerodynamicCodeBase,appollosputnik/aerodynamicCodeBase,511043742
 VU#57,0.20000000,https://github.com/Daparod/3dapp,Daparod/3dapp,507071597
 VU#57,0.20000000,https://github.com/fazasaputra/exploit,fazasaputra/exploit,461082024
@@ -154,7 +155,7 @@ VU#57,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#57,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#57,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#57,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#57,0.00020064,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#57,0.00020052,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#57,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#57,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#57,0.00004621,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
