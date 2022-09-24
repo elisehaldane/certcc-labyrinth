@@ -2,9 +2,9 @@ repo_id,repo_full_name,file,file_sha1,match
 497138927,efchatz/easy-exploits,Web/TP-Link/CVE-2021-41450/exploit_http.sh,12bbfa0d5aab76bbecb97e4459b14afe41adf4e2,CVE-2021-41450
 497138927,efchatz/easy-exploits,Web/ASUS/CVE-2021-41435/exploit_http.sh,13d8ff513f5fa0d90ff0d18d858e9ac57a4f2a31,CVE-2021-41435
 497138927,efchatz/easy-exploits,Web/D-Link/CVE-2021-41440/exploit_http.html,173b091d45d079d07299d40ec3577e493dac329e,CVE-2021-41440
-497138927,efchatz/easy-exploits,Web/ASUS/CVE-2021-41437/README.md,25ddb5b836f831450a82de74d57401b58eae283d,CVE-2021-41437
 497138927,efchatz/easy-exploits,Web/D-Link/CVE-2021-46352/exploit_http.sh,2e3367dd58684df5f8e4741722215dc26983d7b4,CVE-2021-46352
 497138927,efchatz/easy-exploits,Web/TP-Link/CVE-2021-41451/exploit_http.sh,2e3367dd58684df5f8e4741722215dc26983d7b4,CVE-2021-41451
+497138927,efchatz/easy-exploits,Web/ASUS/CVE-2021-41437/README.md,323367b60dd5cb797ed4b12517f0891db735c9ca,CVE-2021-41437
 497138927,efchatz/easy-exploits,Web/ASUS/CVE-2021-41437/exploit_http.sh,4983251f8c703bdce41118eff300c55fe03671bc,CVE-2021-41437
 497138927,efchatz/easy-exploits,Wi-Fi (WPA3-SAE)/README.md,49d86adfef257e223e4b110b12e113f2c4219862,CVE-2021-41753
 497138927,efchatz/easy-exploits,Wi-Fi (WPA3-SAE)/README.md,49d86adfef257e223e4b110b12e113f2c4219862,CVE-2021-37910
