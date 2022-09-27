@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS14-009,0.03333333,https://github.com/darksh3llgr/autoscan,darksh3llgr/autoscan,150855506
+MS14-009,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS14-009,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937
 MS14-009,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/WindowsExploitTest,141821540
 MS14-009,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
@@ -203,6 +204,6 @@ MS14-009,0.00004620,https://github.com/offensive-security/exploitdb,offensive-se
 MS14-009,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS14-009,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS14-009,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
-MS14-009,0.00001519,https://github.com/trickest/cve,trickest/cve,454015416
+MS14-009,0.00001518,https://github.com/trickest/cve,trickest/cve,454015416
 MS14-009,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS14-009,0.00000448,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

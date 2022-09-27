@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS09-067,0.05555556,https://github.com/1ookup/exploit,1ookup/exploit,13582736
 MS09-067,0.02272727,https://github.com/c0ll3cti0n/exploitpack,c0ll3cti0n/exploitpack,51076752
+MS09-067,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS09-067,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS09-067,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS09-067,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937
@@ -218,7 +219,7 @@ MS09-067,0.00004620,https://github.com/offensive-security/exploitdb,offensive-se
 MS09-067,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS09-067,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS09-067,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
-MS09-067,0.00001519,https://github.com/trickest/cve,trickest/cve,454015416
+MS09-067,0.00001518,https://github.com/trickest/cve,trickest/cve,454015416
 MS09-067,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 MS09-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS09-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542

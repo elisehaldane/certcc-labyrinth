@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS10-104,0.05555556,https://github.com/cstayyab/offensive-mamba,cstayyab/offensive-mamba,269058155
 MS10-104,0.02000000,https://github.com/0x727/MetasploitCoop-Backend,0x727/MetasploitCoop-Backend,397159606
 MS10-104,0.02000000,https://github.com/bemonolit/metasploitHelper,bemonolit/metasploitHelper,91027954
+MS10-104,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS10-104,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS10-104,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS10-104,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937
