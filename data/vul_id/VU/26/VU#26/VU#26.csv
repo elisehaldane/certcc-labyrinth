@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#26,1.00000000,https://github.com/lyshark/ShellCodeInject,lyshark/ShellCodeInject,525611263
 VU#26,1.00000000,https://github.com/SwamiKannan/Transformers,SwamiKannan/Transformers,427586339
-VU#26,0.50000000,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#26,0.50000000,https://github.com/jaehnri/CVE-2021-44228,jaehnri/CVE-2021-44228,501054329
 VU#26,0.50000000,https://github.com/EhsasElias/myCVejs-v2,EhsasElias/myCVejs-v2,460479572
 VU#26,0.33333333,https://github.com/Silence-Talk/BinaryExploitation,Silence-Talk/BinaryExploitation,485233669
@@ -51,6 +50,7 @@ VU#26,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_S
 VU#26,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#26,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#26,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
+VU#26,0.03125000,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#26,0.03125000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#26,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#26,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
@@ -166,5 +166,5 @@ VU#26,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#26,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#26,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#26,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#26,0.00020044,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#26,0.00020040,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#26,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

@@ -57,7 +57,6 @@ VU#32,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/je
 VU#32,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
 VU#32,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
-VU#32,0.09090909,https://github.com/hktalent/goSqlite_gorm,hktalent/goSqlite_gorm,487019011
 VU#32,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#32,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#32,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
@@ -65,6 +64,7 @@ VU#32,0.08333333,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcoc
 VU#32,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#32,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#32,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
+VU#32,0.07142857,https://github.com/hktalent/goSqlite_gorm,hktalent/goSqlite_gorm,487019011
 VU#32,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#32,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#32,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
@@ -253,7 +253,7 @@ VU#32,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#32,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#32,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#32,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#32,0.00020044,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00020040,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#32,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#32,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
