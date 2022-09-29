@@ -1,7 +1,7 @@
 
 # Summary for results/2022/09/28
     
-130 records found after deduplication
+131 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|---------------------|
@@ -38,7 +38,7 @@
 | piepor/multiple-paths-decision-mining | Exploit mutliple possible paths inside a Petri Net to enhance decision mining techniques | https://github.com/piepor/multiple-paths-decision-mining | ['exploit'] | 1 | 2022-09-28 17:39:43+00:00 | 30 | 0 | Python | 0 | [] |
 | F1uk369/CVE-2022-36934 | An integer overflow in WhatsApp that results in remote code execution in an established video call. | https://github.com/F1uk369/CVE-2022-36934 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-09-28 07:14:40+00:00 | 2 | 0 | Python | 0 | ['CVE-2022-36934'] |
 | Xu0Tex1/CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Xu0Tex1/CVE-2022-3236 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-09-28 07:48:21+00:00 | 77 | 0 | Python | 0 | ['CVE-2022-3236'] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-28 16:27:15+00:00 | 796698 | 28308 | Ruby | 12535 | [] |
+| eqcorrscan/RCET_RTEQcorrscan | None | https://github.com/eqcorrscan/RCET_RTEQcorrscan | ['rce'] | 1 | 2022-09-28 23:33:05+00:00 | 2065 | 0 | Jupyter Notebook | 0 | [] |
 | d4rk0x00/CVE-2022-36934-POC | tool for exploiting whatsapp rce | https://github.com/d4rk0x00/CVE-2022-36934-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2022-09-28 08:12:40+00:00 | 1 | 0 | | 0 | ['CVE-2022-36934'] |
 | ehtec/nvflare-exploit | None | https://github.com/ehtec/nvflare-exploit | ['exploit'] | 1 | 2022-09-28 21:32:18+00:00 | 9 | 0 | | 0 | [] |
 | GH05T-HUNTER5/metasploit-x-v1 | This Tool Helps You Install Metasploit Framework 6 in Termux {metasploit-x-v1} | https://github.com/GH05T-HUNTER5/metasploit-x-v1 | ['metasploit module OR payload'] | 1 | 2022-09-28 22:51:18+00:00 | 170 | 0 | Shell | 0 | [] |
@@ -68,12 +68,11 @@
 | PierreLabs/nt2json | Convertion d'un fichier NTriples en un fichier JSON exploitable par l'application graph-triplets | https://github.com/PierreLabs/nt2json | ['exploit'] | 1 | 2022-09-28 16:52:49+00:00 | 159 | 0 | JavaScript | 0 | [] |
 | tib36/Nokali-Kit | 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段 | https://github.com/tib36/Nokali-Kit | ['exploit'] | 1 | 2022-09-28 13:36:48+00:00 | 8 | 3 | Java | 0 | [] |
 | BLACK-BUG-HKRS/remoteshell | Remote executing someone computer using reverse shell payload | https://github.com/BLACK-BUG-HKRS/remoteshell | ['shellcode'] | 1 | 2022-09-28 08:46:27+00:00 | 3 | 1 | C++ | 1 | [] |
-| iitsmel/Research | Attacks, CVEs, PoCs etc. | https://github.com/iitsmel/Research | ['attack poc', 'cve poc'] | 2 | 2022-09-28 08:18:32+00:00 | 0 | 0 | | 0 | [] |
+| iitsmel/Research | Attacks, CVEs, PoCs etc. | https://github.com/iitsmel/Research | ['attack poc', 'cve poc'] | 2 | 2022-09-28 08:18:32+00:00 | 0 | 0 | nan | 0 | [] |
 | timwhitez/Bof2PIC | BOF/COFF obj file to PIC(shellcode). by golang | https://github.com/timwhitez/Bof2PIC | ['shellcode'] | 1 | 2022-09-28 02:04:56+00:00 | 42 | 14 | C | 2 | [] |
-| eqcorrscan/RCET_RTEQcorrscan | None | https://github.com/eqcorrscan/RCET_RTEQcorrscan | ['rce'] | 1 | 2022-09-28 23:33:05+00:00 | 2065 | 0 | Jupyter Notebook | 0 | [] |
 | XoticSploit/XoticSploit | None | https://github.com/XoticSploit/XoticSploit | ['sploit'] | 1 | 2022-09-28 02:08:28+00:00 | 113279 | 0 | CSS | 0 | [] |
-| Calvindd2f/Methodologies | Exploitation & Other Techniques | https://github.com/Calvindd2f/Methodologies | ['exploit'] | 1 | 2022-09-28 19:30:07+00:00 | 379 | 0 | PowerShell | 0 | [] |
-| yqcs/ZheTian | ::ZheTian / 强大的免杀生成工具，Bypass All. | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-09-28 06:22:37+00:00 | 32993 | 535 | Go | 111 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-28 16:27:15+00:00 | 796698 | 28308 | Ruby | 12535 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-28 04:51:06+00:00 | 9005360 | 91 | Python | 11 | [] |
 | F0rce/preview.f0rce.de | Source code for preview applications at https://preview.f0rce.de | https://github.com/F0rce/preview.f0rce.de | ['rce'] | 1 | 2022-09-28 22:10:16+00:00 | 1245 | 1 | Java | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-09-28 02:36:06+00:00 | 2064 | 133 | HTML | 27 | [] |
 | ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2022-09-28 02:40:55+00:00 | 52 | 61 | | 22 | [] |
@@ -89,6 +88,7 @@
 | hugsy/pwn-- | pwn++ : my Windows & Linux pwn library to play with modern C++ - and yeah, it's pwn++, not pwn-- (it's a toy library constantly changing, don't count on it for stability) | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-09-28 03:42:41+00:00 | 1073 | 82 | C++ | 6 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-09-28 09:21:37+00:00 | 90228 | 826 | Go | 179 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-09-28 15:00:38+00:00 | 15389 | 47 | | 25 | [] |
+| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2022-09-28 16:51:50+00:00 | 1262 | 460 | Rust | 28 | [] |
 | stefanpejcic/wordpress-malware | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | ['exploit'] | 1 | 2022-09-28 11:30:45+00:00 | 36696 | 20 | PHP | 7 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-09-28 04:32:10+00:00 | 498659 | 203 | REXX | 26 | [] |
 | eterps/loader | Just a small experiment to run x86-64 machine code in Nim, essentially this is a tiny JIT loader. | https://github.com/eterps/loader | ['shellcode'] | 1 | 2022-09-28 18:00:43+00:00 | 3 | 2 | Nim | 0 | [] |
@@ -102,10 +102,10 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-09-28 12:05:07+00:00 | 12736 | 4904 | Python | 680 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-09-28 16:48:31+00:00 | 3218 | 2800 | PowerShell | 767 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-09-28 13:19:39+00:00 | 21825 | 7693 | JavaScript | 1786 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-28 04:51:06+00:00 | 9005360 | 91 | Python | 11 | [] |
+| yqcs/ZheTian | ::ZheTian / 强大的免杀生成工具，Bypass All. | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2022-09-28 06:22:37+00:00 | 32993 | 535 | Go | 111 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-09-28 02:44:37+00:00 | 11093 | 4326 | TypeScript | 648 | [] |
+| Calvindd2f/Methodologies | Exploitation & Other Techniques | https://github.com/Calvindd2f/Methodologies | ['exploit'] | 1 | 2022-09-28 19:30:07+00:00 | 379 | 0 | PowerShell | 0 | [] |
 | sha0coder/scemu | x86 malware emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2022-09-28 16:43:35+00:00 | 43402 | 129 | Rust | 18 | [] |
-| teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-09-28 02:27:09+00:00 | 1445 | 9 | TypeScript | 0 | [] |
 | asdwasdwd/Endurance | The #1 Exploit for Ragdoll System Test | https://github.com/asdwasdwd/Endurance | ['exploit'] | 1 | 2022-09-28 10:07:46+00:00 | 550 | 0 | Lua | 0 | [] |
 | THUBear-wjy/LogGrep | Open-source repository for paper "LogGrep: Fast and Cheap Cloud Log Storage by Exploiting both Static and Runtime Patterns"(ACM Eurosys 2023) | https://github.com/THUBear-wjy/LogGrep | ['exploit'] | 1 | 2022-09-28 04:37:51+00:00 | 34610 | 0 | C | 0 | [] |
 | shatternox/Forest-Fire | Soal web exploitation IFEST22 | https://github.com/shatternox/Forest-Fire | ['exploit'] | 1 | 2022-09-28 17:52:47+00:00 | 53515 | 0 | JavaScript | 0 | [] |
@@ -119,8 +119,8 @@
 | razordeveloper/Silent-DOC-Exploit | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | ['exploit'] | 1 | 2022-09-28 06:20:36+00:00 | 57 | 3 | Python | 9 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-09-28 05:00:25+00:00 | 14649 | 23 | Go | 10 | [] |
 | D4nk0St0rM/ethical_hacking | Ethical Hacking & PenTesting Repo method, approach, resources, tools, code, exploits, reporting, wordlists, attacks, scanning | https://github.com/D4nk0St0rM/ethical_hacking | ['exploit'] | 1 | 2022-09-28 07:07:52+00:00 | 55807 | 3 | Python | 3 | [] |
+| teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-09-28 02:27:09+00:00 | 1445 | 9 | TypeScript | 0 | [] |
 | NEED-Programming/Exploit-Development | None | https://github.com/NEED-Programming/Exploit-Development | ['exploit'] | 1 | 2022-09-28 02:44:42+00:00 | 854 | 0 | C++ | 1 | [] |
-| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-09-28 22:20:25+00:00 | 184 | 2 | Python | 0 | [] |
 | hktalent/goSqlite_gorm | golang,Penetration, Attack, Auxiliary Tool, tnb = tree new bee;Scan4All Web UI | https://github.com/hktalent/goSqlite_gorm | ['0day', 'rce'] | 2 | 2022-09-28 03:10:38+00:00 | 55836 | 25 | Go | 4 | [] |
 | TitaniumMC/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | ['exploit'] | 1 | 2022-09-28 15:28:43+00:00 | 3030 | 24 | Shell | 3 | [] |
 | killvxk/awesome_shell_loaders | shellcode-loaders and beacon-loaders | https://github.com/killvxk/awesome_shell_loaders | ['shellcode'] | 1 | 2022-09-28 08:01:59+00:00 | 47 | 26 | | 7 | [] |
@@ -134,4 +134,5 @@
 | volkandindar/agartha | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and mor | https://github.com/volkandindar/agartha | ['exploit', 'rce'] | 2 | 2022-09-28 11:21:18+00:00 | 307 | 190 | Python | 40 | [] |
 | mufeedvh/moonwalk | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. | https://github.com/mufeedvh/moonwalk | ['exploit'] | 1 | 2022-09-28 10:55:45+00:00 | 34 | 1033 | Rust | 102 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-09-28 18:12:42+00:00 | 9723 | 15 | | 5 | [] |
+| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-09-28 22:20:25+00:00 | 184 | 2 | Python | 0 | [] |
 | Mikusch/wheatley-spam | A plugin for Team Fortress 2 that restores the infamous Ap-Sap voice line spam exploit | https://github.com/Mikusch/wheatley-spam | ['exploit'] | 1 | 2022-09-28 21:49:21+00:00 | 14 | 0 | SourcePawn | 0 | [] |
