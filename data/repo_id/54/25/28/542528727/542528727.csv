@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-542528727,LuaR0bloz/Colosploit,server.exe,538b186047f2a796a8d6cf5554559fb18f84aa07,VU#11
-542528727,LuaR0bloz/Colosploit,server.exe,538b186047f2a796a8d6cf5554559fb18f84aa07,VU#21
-542528727,LuaR0bloz/Colosploit,server.exe,538b186047f2a796a8d6cf5554559fb18f84aa07,VU#45
-542528727,LuaR0bloz/Colosploit,server.exe,538b186047f2a796a8d6cf5554559fb18f84aa07,VU#57
-542528727,LuaR0bloz/Colosploit,server.exe,538b186047f2a796a8d6cf5554559fb18f84aa07,VU#60
-542528727,LuaR0bloz/Colosploit,server.exe,538b186047f2a796a8d6cf5554559fb18f84aa07,VU#99
+542528727,LuaR0bloz/Colosploit,configureExecutable.exe,e843ca028df2ae38a895a59925d6ce5c03ae2105,VU#11
+542528727,LuaR0bloz/Colosploit,configureExecutable.exe,e843ca028df2ae38a895a59925d6ce5c03ae2105,VU#21
+542528727,LuaR0bloz/Colosploit,configureExecutable.exe,e843ca028df2ae38a895a59925d6ce5c03ae2105,VU#45
+542528727,LuaR0bloz/Colosploit,configureExecutable.exe,e843ca028df2ae38a895a59925d6ce5c03ae2105,VU#57
+542528727,LuaR0bloz/Colosploit,configureExecutable.exe,e843ca028df2ae38a895a59925d6ce5c03ae2105,VU#60
+542528727,LuaR0bloz/Colosploit,configureExecutable.exe,e843ca028df2ae38a895a59925d6ce5c03ae2105,VU#99
