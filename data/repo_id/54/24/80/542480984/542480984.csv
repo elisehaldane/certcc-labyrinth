@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+542480984,iitsmel/Research,SharePoint/README.md,cfa4a32ad4ac7420e8e99e1ff1775b786956c4bb,CVE-2021-28474
+542480984,iitsmel/Research,SharePoint/README.md,cfa4a32ad4ac7420e8e99e1ff1775b786956c4bb,CVE-2022-22005
+542480984,iitsmel/Research,SharePoint/README.md,cfa4a32ad4ac7420e8e99e1ff1775b786956c4bb,CVE-2022-29108
