@@ -21,6 +21,6 @@ repo_id,repo_full_name,file,file_sha1,match
 492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Grotesque/asg/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#001
 492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Grotesque/asg/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#00
 492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Grotesque/asg/get-pip.py,0adb06840d8a9e9d8edc4bb9137d1ca99e75fd61,VU#35
-492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Toddlers Bottle/shellshock/shellshock_and_cmd1.txt,526dea19536aeacd05d1d3e99206d1dfab8cecc7,CVE-2014-7187
-492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Toddlers Bottle/shellshock/shellshock_and_cmd1.txt,526dea19536aeacd05d1d3e99206d1dfab8cecc7,CVE-2014-7186
-492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Toddlers Bottle/shellshock/shellshock_and_cmd1.txt,526dea19536aeacd05d1d3e99206d1dfab8cecc7,CVE-2014-6271
+492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Toddlers Bottle/cmd1/shellshock_and_cmd1.txt,526dea19536aeacd05d1d3e99206d1dfab8cecc7,CVE-2014-7187
+492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Toddlers Bottle/cmd1/shellshock_and_cmd1.txt,526dea19536aeacd05d1d3e99206d1dfab8cecc7,CVE-2014-7186
+492580312,DragonTechRoyale/CTF-Solutions,pwnable.kr/Toddlers Bottle/cmd1/shellshock_and_cmd1.txt,526dea19536aeacd05d1d3e99206d1dfab8cecc7,CVE-2014-6271
