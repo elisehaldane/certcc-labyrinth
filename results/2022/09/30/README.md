@@ -1,0 +1,43 @@
+
+# Summary for results/2022/09/30
+    
+36 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-09-30 04:05:36+00:00 | 800224 | 28322 | Ruby | 12540 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-09-30 02:06:49+00:00 | 12687 | 4911 | Python | 681 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-09-30 00:51:53+00:00 | 322785 | 3 | Jupyter Notebook | 0 | [] |
+| ReconDeveloper/ExploitDevelopment | Repository with PoCs for binary overflow exploitation | https://github.com/ReconDeveloper/ExploitDevelopment | ['exploit'] | 1 | 2022-09-30 03:29:05+00:00 | 1918 | 0 | Python | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-09-30 05:08:40+00:00 | 14815 | 23 | Go | 10 | [] |
+| Barracudach/CallStack-Spoofer | This tool will allow you to spoof the return addresses of your functions as well as system functions. | https://github.com/Barracudach/CallStack-Spoofer | ['shellcode'] | 1 | 2022-09-30 01:40:32+00:00 | 161 | 181 | C++ | 39 | [] |
+| bsqqq/BufferOverflowInC | Study of case in Buffer Overflow in C, exploited in Python. | https://github.com/bsqqq/BufferOverflowInC | ['exploit'] | 1 | 2022-09-30 01:16:42+00:00 | 20 | 0 | C | 0 | [] |
+| 13carpileup/lionel2-exploits | A public collection of all the ways lionel is a not so secure website. | https://github.com/13carpileup/lionel2-exploits | ['exploit'] | 1 | 2022-09-30 04:58:25+00:00 | 141376 | 2 | Python | 0 | [] |
+| xzajyjs/CVE-2022-39197-POC | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-09-30 03:14:07+00:00 | 13 | 9 | Python | 4 | ['CVE-2022-39197'] |
+| iitsmel/Research | Attacks, CVEs, PoCs etc. | https://github.com/iitsmel/Research | ['attack poc', 'cve poc'] | 2 | 2022-09-30 02:15:16+00:00 | 2 | 0 | nan | 0 | [] |
+| Juuso1337/CVE-2021-41773 | Apache 2.4.49 & 2.4.50 LFI to RCE exploit | https://github.com/Juuso1337/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-09-30 00:07:43+00:00 | 9 | 1 | Python | 0 | ['CVE-2021-41773'] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-09-30 00:01:08+00:00 | 888 | 0 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0 | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0 | ['exploit'] | 1 | 2022-09-30 00:41:21+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0 | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0 | ['exploit'] | 1 | 2022-09-30 00:43:12+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0 | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0 | ['exploit'] | 1 | 2022-09-30 00:44:29+00:00 | 1 | 1 | | 0 | [] |
+| BurntLog/UOS---Cyber-Bootcamp---Project-3 | The areas covered in this project were an overview of a vulnerable network's topology and the critical vulnerabilities that were identified during analysis. Several exploits were selected for use against the network, and methods of avoiding detection and | https://github.com/BurntLog/UOS---Cyber-Bootcamp---Project-3 | ['exploit'] | 1 | 2022-09-30 02:24:58+00:00 | 1386 | 0 | | 0 | [] |
+| Yealid/CVE-2018-6574 | None | https://github.com/Yealid/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2022-09-30 02:43:48+00:00 | 3 | 0 | Go | 0 | ['CVE-2018-6574'] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-09-30 03:06:38+00:00 | 10987 | 4348 | TypeScript | 652 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-09-30 04:59:29+00:00 | 9053480 | 91 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-09-30 02:56:54+00:00 | 2136 | 134 | HTML | 27 | [] |
+| jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2022-09-30 03:50:20+00:00 | 90268 | 826 | Go | 180 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-09-30 00:06:46+00:00 | 1534838 | 1688 | Python | 545 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-09-30 01:54:17+00:00 | 6164 | 5019 | Python | 617 | [] |
+| rcvalle/exploits | Exploits written. | https://github.com/rcvalle/exploits | ['exploit'] | 1 | 2022-09-30 05:17:16+00:00 | 30 | 0 | Ruby | 1 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-09-30 00:47:22+00:00 | 54039 | 337 | Ruby | 96 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-09-30 04:33:26+00:00 | 501749 | 203 | REXX | 26 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-09-30 00:49:40+00:00 | 17378 | 47 | | 25 | [] |
+| hugsy/pwn-- | pwn++ : my Windows & Linux pwn library to play with modern C++ - and yeah, it's pwn++, not pwn-- (it's a toy library constantly changing, don't count on it for stability) | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-09-30 05:10:54+00:00 | 1128 | 82 | C++ | 6 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-09-30 05:04:15+00:00 | 26444 | 3 | Python | 1 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-09-30 05:03:37+00:00 | 672541 | 62 | | 24 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-09-30 03:40:53+00:00 | 82152 | 2212 | Go | 322 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-09-30 00:39:02+00:00 | 122 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-09-30 04:01:17+00:00 | 272040 | 529 | Python | 141 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2022-09-30 01:45:44+00:00 | 235905 | 0 | JavaScript | 0 | [] |
+| P-DennyGamingYT/PDennSploit | The only free level 7 keyless ROBLOX exploit with a Custom API. | https://github.com/P-DennyGamingYT/PDennSploit | ['exploit', 'sploit'] | 2 | 2022-09-30 03:07:25+00:00 | 12452 | 2 | | 0 | [] |
+| IcGoClient/GPay-balance-exploiter-by-VenomX | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/IcGoClient/GPay-balance-exploiter-by-VenomX | ['exploit'] | 1 | 2022-09-30 04:16:28+00:00 | 5 | 1 | | 0 | [] |
