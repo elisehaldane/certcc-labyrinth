@@ -3,6 +3,7 @@ VU#38,1.00000000,https://github.com/p0dalirius/LimeSurvey-webshell-plugin,p0dali
 VU#38,1.00000000,https://github.com/JaeXploit/WPFM-Exploiter,JaeXploit/WPFM-Exploiter,452282381
 VU#38,1.00000000,https://github.com/polarityio/exploit-finder,polarityio/exploit-finder,308187350
 VU#38,1.00000000,https://github.com/SapienzaNLP/xl-amr,SapienzaNLP/xl-amr,268747796
+VU#38,0.50000000,https://github.com/MuhammadHelmyRoslan/ExploitNetflixDataSet,MuhammadHelmyRoslan/ExploitNetflixDataSet,544090291
 VU#38,0.50000000,https://github.com/Joakim5005/zerodayaarhus,Joakim5005/zerodayaarhus,511679445
 VU#38,0.50000000,https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads,rwincey/CVE-2021-44228-Log4j-Payloads,438247209
 VU#38,0.50000000,https://github.com/Alexcot25051999/CVE-2021-40444,Alexcot25051999/CVE-2021-40444,430718153
@@ -138,6 +139,7 @@ VU#38,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensiv
 VU#38,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#38,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#38,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
+VU#38,0.00199203,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#38,0.00184502,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#38,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#38,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
@@ -145,7 +147,6 @@ VU#38,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#38,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#38,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#38,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#38,0.00048239,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#38,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#38,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#38,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247

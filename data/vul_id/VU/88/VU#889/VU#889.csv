@@ -1,8 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#889,0.06250000,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
+VU#889,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#889,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#889,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#889,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#889,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
+VU#889,0.00199203,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#889,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#889,0.00048239,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
