@@ -6154,7 +6154,7 @@ repo_id,repo_full_name,file,file_sha1,match
 14902556,offensive-security/exploitdb,exploits/linux/webapps/28653.txt,3ca027270a2f15a55190b7ce140e954e2cf92f7d,CVE-2013-5697
 14902556,offensive-security/exploitdb,exploits/php/webapps/35263.txt,3ca02b6dcdc8f4d0a63147ebd16a20843c486328,BID-46000
 14902556,offensive-security/exploitdb,exploits/windows/dos/41649.txt,3ca28c88cee57ff4499a8cb0ceebe1f9d70ec59a,GPZ-1025
-14902556,offensive-security/exploitdb,exploits/php/webapps/34676.txt,3ca4073cf12f18089e03fa9370d85af38a17d5d7,BID-43339
+14902556,offensive-security/exploitdb,exploits/php/webapps/34678.txt,3ca4073cf12f18089e03fa9370d85af38a17d5d7,BID-43339
 14902556,offensive-security/exploitdb,exploits/php/webapps/48942.py,3ca4dbad068011e6f9f40947ba4c983ea98130b2,CVE-2019-17240
 14902556,offensive-security/exploitdb,exploits/php/webapps/47069.py,3ca57419b524a7b655654225386ed7279378275d,CVE-2019-13024
 14902556,offensive-security/exploitdb,exploits/php/webapps/36470.txt,3ca6c5155e2043581db49b9c5601540f0bdf1bef,BID-51128
@@ -10339,8 +10339,8 @@ repo_id,repo_full_name,file,file_sha1,match
 14902556,offensive-security/exploitdb,exploits/linux/remote/19251.c,6563fd767a69f5ce2a15fe6200ff8f91d6141bcf,BID-313
 14902556,offensive-security/exploitdb,exploits/nodejs/webapps/50036.js,6564e8205f14834082fd35aa6a3212ef59586252,CVE-2017-5941
 14902556,offensive-security/exploitdb,exploits/solaris/remote/16326.rb,65653e44067422054dc07f7f9de61fa5b536150d,OSVDB-11517
-14902556,offensive-security/exploitdb,exploits/solaris/remote/16326.rb,65653e44067422054dc07f7f9de61fa5b536150d,CVE-1999-0209
 14902556,offensive-security/exploitdb,exploits/solaris/remote/16326.rb,65653e44067422054dc07f7f9de61fa5b536150d,BID-1749
+14902556,offensive-security/exploitdb,exploits/solaris/remote/16326.rb,65653e44067422054dc07f7f9de61fa5b536150d,CVE-1999-0209
 14902556,offensive-security/exploitdb,exploits/multiple/remote/22410.pl,656811a628e1e07e2299f314a631c9efd50d3048,BID-7169
 14902556,offensive-security/exploitdb,exploits/hardware/remote/40619.py,656920a615e19b29e9414dbc25fe682a4af63dda,CVE-2014-6271
 14902556,offensive-security/exploitdb,exploits/freebsd/local/21114.txt,6569282d5e5b8205592675fee65e73c89beba500,BID-3344
@@ -10358,11 +10358,11 @@ repo_id,repo_full_name,file,file_sha1,match
 14902556,offensive-security/exploitdb,exploits/hardware/webapps/48801.sh,6586e401137129ca54157eddc3b1d179d7ff232c,CVE-2020-6862
 14902556,offensive-security/exploitdb,exploits/windows/dos/23166.pl,6588a3caf5fb641b48af64f481b5fdd735760dfe,BID-8667
 14902556,offensive-security/exploitdb,exploits/windows/dos/44514.py,6589a7e5da790a5fc2ff7d033220c6fbc3aab674,CVE-2017-8311
-14902556,offensive-security/exploitdb,exploits/windows/remote/18714.rb,658a737baf52ab428333675af65abd6ce247cc36,CVE-2012-1196
-14902556,offensive-security/exploitdb,exploits/windows/remote/18714.rb,658a737baf52ab428333675af65abd6ce247cc36,CVE-2012-1195
 14902556,offensive-security/exploitdb,exploits/windows/remote/18714.rb,658a737baf52ab428333675af65abd6ce247cc36,OSVDB-79276
+14902556,offensive-security/exploitdb,exploits/windows/remote/18714.rb,658a737baf52ab428333675af65abd6ce247cc36,CVE-2012-1196
 14902556,offensive-security/exploitdb,exploits/windows/remote/18714.rb,658a737baf52ab428333675af65abd6ce247cc36,OSVDB-79277
 14902556,offensive-security/exploitdb,exploits/windows/remote/18714.rb,658a737baf52ab428333675af65abd6ce247cc36,BID-52023
+14902556,offensive-security/exploitdb,exploits/windows/remote/18714.rb,658a737baf52ab428333675af65abd6ce247cc36,CVE-2012-1195
 14902556,offensive-security/exploitdb,exploits/php/webapps/34661.txt,658b84f4c8dc6db6f9a1171e13a5435f3ed74b22,BID-43336
 14902556,offensive-security/exploitdb,exploits/windows/dos/28266.txt,658f4c76a32c99be4dce08e1751ad75bf881e69f,BID-19148
 14902556,offensive-security/exploitdb,exploits/php/webapps/27929.txt,65934ea04b3004dda1a516b22773ceece23397c8,BID-18197
@@ -10376,8 +10376,8 @@ repo_id,repo_full_name,file,file_sha1,match
 14902556,offensive-security/exploitdb,exploits/multiple/remote/34310.txt,65ad4e9e76d8bdc193f277d1a3324964e90d6f83,BID-41617
 14902556,offensive-security/exploitdb,exploits/multiple/remote/38846.txt,65b48ea66a761f775a347686584923c2ab990ad2,BID-63814
 14902556,offensive-security/exploitdb,exploits/windows/remote/16791.rb,65b74ebae214398b7c1116d37a2a98d5ff69df60,OSVDB-15816
-14902556,offensive-security/exploitdb,exploits/windows/remote/16791.rb,65b74ebae214398b7c1116d37a2a98d5ff69df60,BID-13368
 14902556,offensive-security/exploitdb,exploits/windows/remote/16791.rb,65b74ebae214398b7c1116d37a2a98d5ff69df60,CVE-2005-0684
+14902556,offensive-security/exploitdb,exploits/windows/remote/16791.rb,65b74ebae214398b7c1116d37a2a98d5ff69df60,BID-13368
 14902556,offensive-security/exploitdb,exploits/php/webapps/32254.txt,65b9e5eeef212e3ea7e18fb97a5a37d478623c79,BID-30709
 14902556,offensive-security/exploitdb,exploits/linux/local/19700.c,65ba7d87fcd924bbe1da767caf4b72ca613f8890,BID-903
 14902556,offensive-security/exploitdb,exploits/asp/webapps/23895.txt,65bfb71f54c2d38bf913e7ea76f85c049e4cd4cb,BID-10005
