@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,522686575
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
+VU#32,0.50000000,https://github.com/jschof1/exploiting-data-science-to-create-value,jschof1/exploiting-data-science-to-create-value,545028163
 VU#32,0.50000000,https://github.com/attakercyebr/Vulnerability-Scanner-Auto-Exploiter,attakercyebr/Vulnerability-Scanner-Auto-Exploiter,533715063
 VU#32,0.50000000,https://github.com/tgreer812/ProcessInjection,tgreer812/ProcessInjection,507643018
 VU#32,0.50000000,https://github.com/Omega248/qb-banktruck,Omega248/qb-banktruck,486525870
@@ -151,6 +152,7 @@ VU#32,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,47
 VU#32,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#32,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#32,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
+VU#32,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#32,0.01449275,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#32,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#32,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
@@ -236,7 +238,7 @@ VU#32,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensiv
 VU#32,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#32,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#32,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
-VU#32,0.00199203,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#32,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#32,0.00184502,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#32,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960

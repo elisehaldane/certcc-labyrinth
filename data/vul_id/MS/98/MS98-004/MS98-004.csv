@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS98-004,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-Toolkit,180024946
 MS98-004,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
 MS98-004,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-MS98-004,0.00199203,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+MS98-004,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 MS98-004,0.00191939,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
 MS98-004,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS98-004,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
