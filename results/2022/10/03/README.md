@@ -1,7 +1,7 @@
 
 # Summary for results/2022/10/03
     
-109 records found after deduplication
+110 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -19,7 +19,7 @@
 | Albaware/AlbaSploit | Level 7 Roblox Executor | https://github.com/Albaware/AlbaSploit | ['sploit'] | 1 | 2022-10-03 04:24:27+00:00 | 24 | 2 | C# | 0 | [] |
 | JimmyW93/0day-rce-september-2022 | None | https://github.com/JimmyW93/0day-rce-september-2022 | ['0day', 'rce'] | 2 | 2022-10-03 07:14:47+00:00 | 2 | 1 | PowerShell | 1 | [] |
 | alamichaimaa/-systeme-decisionnel-dataset-AdventureWorks | Implementation et Exploitation du data Mart, Mise en place de l'ETL utilisant pentahoData integration & Power BI | https://github.com/alamichaimaa/-systeme-decisionnel-dataset-AdventureWorks | ['exploit'] | 1 | 2022-10-03 10:26:16+00:00 | 3245 | 0 | | 0 | [] |
-| NoahCodingStuff/Discord-VoiceCall-exploit | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | ['exploit'] | 1 | 2022-10-03 05:01:32+00:00 | 11 | 5 | Python | 1 | [] |
+| slot909/cTJFLS4rce | None | https://github.com/slot909/cTJFLS4rce | ['rce'] | 1 | 2022-10-03 01:44:24+00:00 | 0 | 0 | | 0 | [] |
 | PierreLabs/nt2json | Convertion d'un fichier NTriples en un fichier JSON exploitable par l'application graph-triplets | https://github.com/PierreLabs/nt2json | ['exploit'] | 1 | 2022-10-03 08:22:08+00:00 | 432 | 0 | JavaScript | 0 | [] |
 | tib36/Nokali-Kit | 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段 | https://github.com/tib36/Nokali-Kit | ['exploit'] | 1 | 2022-10-03 02:46:01+00:00 | 20 | 5 | Java | 0 | [] |
 | Cryptogenic/PS5-4.03-Kernel-Exploit | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | ['exploit'] | 1 | 2022-10-03 03:26:20+00:00 | 159 | 40 | JavaScript | 3 | [] |
@@ -32,12 +32,13 @@
 | stencylxd/unlock | GoGuardian/blocker iframe exploiter | https://github.com/stencylxd/unlock | ['exploit'] | 1 | 2022-10-03 13:44:14+00:00 | 2194 | 0 | JavaScript | 0 | [] |
 | luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath | Different approaches to enable SCA ExploitablePath by using SCA Resolver (and CxFlow) | https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath | ['exploit'] | 1 | 2022-10-03 15:20:46+00:00 | 75037 | 1 | Java | 0 | [] |
 | AirDrift92140/MultiToolV4.1 | MultiToolV4 est un Outil d'administration à distance entièrement écrit en c#. Intégré d'un RAT+Grabbeur contrôlé pour Discord avec plus de 40 modules de post-exploitation. Le logiciel reunis toutes les fonctionnalités des meilleurs grabbeur discord en un | https://github.com/AirDrift92140/MultiToolV4.1 | ['exploit'] | 1 | 2022-10-03 01:37:22+00:00 | 5 | 0 | | 0 | [] |
-| slot909/cTJFLS4rce | None | https://github.com/slot909/cTJFLS4rce | ['rce'] | 1 | 2022-10-03 01:44:24+00:00 | 0 | 0 | | 0 | [] |
 | Mantodkaz/phpthumb | phpThumb v1.7.9 mass exploiter | https://github.com/Mantodkaz/phpthumb | ['exploit'] | 1 | 2022-10-03 02:01:38+00:00 | 2 | 0 | PHP | 0 | [] |
-| Th3WarPheonix/Python_Fortran_Binding | Trying to figure out how to write code in Fortran and call it in Python to exploit the benefits and avoid the drawbacks of both languages with minimal overhead. | https://github.com/Th3WarPheonix/Python_Fortran_Binding | ['exploit'] | 1 | 2022-10-03 02:34:11+00:00 | 3 | 0 | | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-10-03 07:01:03+00:00 | 46394 | 883 | Python | 204 | [] |
+| CrazyRabbit99/GPay-balance-exploiter-by-VenomX | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/CrazyRabbit99/GPay-balance-exploiter-by-VenomX | ['exploit'] | 1 | 2022-10-03 15:29:51+00:00 | 44 | 1 | | 0 | [] |
 | TacoDark/Roblox-Exploit-Websites | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | ['exploit'] | 1 | 2022-10-03 23:01:57+00:00 | 8 | 0 | | 0 | [] |
 | Dingjames/Metasploitki | None | https://github.com/Dingjames/Metasploitki | ['metasploit module OR payload'] | 1 | 2022-10-03 19:56:59+00:00 | 0 | 0 | HTML | 0 | [] |
 | josemlwdf/1nj3ct0r | This is a Command Injection payload generator made with Python 3 | https://github.com/josemlwdf/1nj3ct0r | ['command injection'] | 1 | 2022-10-03 19:48:28+00:00 | 2 | 0 | Python | 0 | [] |
+| TcherB31/xRay_Scanner_Cracked_1.9.1 | xRay is a fairly powerful scanner that will allow you to scan and scout targets | https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.1 | ['vulnerability poc'] | 1 | 2022-10-03 20:00:10+00:00 | 42043 | 1 | HTML | 0 | [] |
 | CentarisCyber/CVE-2022-41040_Mitigation | None | https://github.com/CentarisCyber/CVE-2022-41040_Mitigation | ['cve-2 OR cve_2'] | 1 | 2022-10-03 22:25:41+00:00 | 34 | 0 | PowerShell | 0 | ['CVE-2022-41040'] |
 | Numb3rsProprety/BottleFlop | Open source tool exploiting insecure cookie deserialization in web Bottle framework | https://github.com/Numb3rsProprety/BottleFlop | ['exploit'] | 1 | 2022-10-03 18:30:33+00:00 | 269 | 0 | Python | 0 | [] |
 | usmarine2141/CVE-2022-39959 | Place holder for CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | ['cve-2 OR cve_2'] | 1 | 2022-10-03 16:59:07+00:00 | 0 | 0 | | 0 | ['CVE-2022-39959'] |
@@ -45,8 +46,8 @@
 | hams0thuan/Web-Exploitation | None | https://github.com/hams0thuan/Web-Exploitation | ['exploit'] | 1 | 2022-10-03 16:53:29+00:00 | 0 | 0 | | 0 | [] |
 | Cyberw1ng/0dayinventions | None | https://github.com/Cyberw1ng/0dayinventions | ['0day'] | 1 | 2022-10-03 16:27:47+00:00 | 0 | 0 | | 0 | [] |
 | omarelqarchaoui/Trading-strategy-with-deep-learning | This project provides a novel framework to manipulate financial time series data and exploit deep neural networks to forecast the one-step-ahead closing price. | https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning | ['exploit'] | 1 | 2022-10-03 16:16:59+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
-| CrazyRabbit99/GPay-balance-exploiter-by-VenomX | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/CrazyRabbit99/GPay-balance-exploiter-by-VenomX | ['exploit'] | 1 | 2022-10-03 15:29:51+00:00 | 44 | 1 | | 0 | [] |
 | lolnotak/Private-exploit | None | https://github.com/lolnotak/Private-exploit | ['exploit'] | 1 | 2022-10-03 13:13:05+00:00 | 1 | 0 | | 0 | [] |
+| Th3WarPheonix/Python_Fortran_Binding | Trying to figure out how to write code in Fortran and call it in Python to exploit the benefits and avoid the drawbacks of both languages with minimal overhead. | https://github.com/Th3WarPheonix/Python_Fortran_Binding | ['exploit'] | 1 | 2022-10-03 02:34:11+00:00 | 3 | 0 | | 0 | [] |
 | 0x34d/Exploit | None | https://github.com/0x34d/Exploit | ['exploit'] | 1 | 2022-10-03 13:08:46+00:00 | 9 | 0 | | 0 | [] |
 | XRgaming/SteelSploit-injector | SteelSploit roblox | https://github.com/XRgaming/SteelSploit-injector | ['sploit'] | 1 | 2022-10-03 13:42:48+00:00 | 2337 | 0 | | 0 | [] |
 | b3w7/CVE-2022-41082-Scanner | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | ['cve-2 OR cve_2'] | 1 | 2022-10-03 12:59:20+00:00 | 5 | 2 | Python | 2 | ['CVE-2022-41040', 'CVE-2022-41082'] |
@@ -59,8 +60,8 @@
 | teighnftxy/rcevb46 | 国产黄色大片_国产黄色大片-免费完整版片 | https://github.com/teighnftxy/rcevb46 | ['rce'] | 1 | 2022-10-03 06:28:46+00:00 | 10 | 0 | | 0 | [] |
 | k1vin-beaumont/CVE-2022-41082-RCE-POC | CVE-2022-41082-RCE-POC aka ProxyShell | https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-10-03 04:58:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-41082'] |
 | ArobaseSC/Abaque | 🧮 JavaFX Unit testing library for students of all universities exploiting Java at the center of the program. | https://github.com/ArobaseSC/Abaque | ['exploit'] | 1 | 2022-10-03 15:55:58+00:00 | 2062 | 2 | CSS | 0 | [] |
+| NoahCodingStuff/Discord-VoiceCall-exploit | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | ['exploit'] | 1 | 2022-10-03 05:01:32+00:00 | 11 | 5 | Python | 1 | [] |
 | eqcorrscan/RCET_RTEQcorrscan | None | https://github.com/eqcorrscan/RCET_RTEQcorrscan | ['rce'] | 1 | 2022-10-03 00:24:02+00:00 | 2069 | 0 | Jupyter Notebook | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-10-03 07:01:03+00:00 | 46394 | 883 | Python | 204 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-10-03 05:11:07+00:00 | 46055 | 32 | Python | 7 | [] |
 | mrx04programmer/MSFAUTO | Metasploit Generator Payloads automated | https://github.com/mrx04programmer/MSFAUTO | ['metasploit module OR payload'] | 1 | 2022-10-03 21:39:01+00:00 | 7 | 0 | Python | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-10-03 18:13:34+00:00 | 9545 | 15 | | 5 | [] |
