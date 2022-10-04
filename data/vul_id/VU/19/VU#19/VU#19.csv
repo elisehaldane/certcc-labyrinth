@@ -43,7 +43,6 @@ VU#19,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#19,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#19,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#19,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
-VU#19,0.03125000,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#19,0.02941176,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 VU#19,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#19,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -68,6 +67,7 @@ VU#19,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/
 VU#19,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
 VU#19,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#19,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
+VU#19,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#19,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#19,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#19,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
@@ -145,6 +145,7 @@ VU#19,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensiv
 VU#19,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#19,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#19,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
+VU#19,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.1,TcherB31/xRay_Scanner_Cracked_1.9.1,545104478
 VU#19,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#19,0.00184502,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
@@ -166,7 +167,7 @@ VU#19,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#19,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#19,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#19,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#19,0.00020028,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#19,0.00020024,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#19,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#19,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#19,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556

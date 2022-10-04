@@ -3,11 +3,11 @@ MS11-080,0.50000000,https://github.com/Mushi-mushi/exploit_training,Mushi-mushi/
 MS11-080,0.50000000,https://github.com/Ch4p34uN0iR/post-exploitation-1,Ch4p34uN0iR/post-exploitation-1,110406182
 MS11-080,0.25000000,https://github.com/Fajar-NS/ExploitDb,Fajar-NS/ExploitDb,472232983
 MS11-080,0.25000000,https://github.com/rad10/SearchSploit.py,rad10/SearchSploit.py,211869171
-MS11-080,0.20000000,https://github.com/w4fz5uck5/3XPL01t5,w4fz5uck5/3XPL01t5,126516611
 MS11-080,0.16666667,https://github.com/yealvarez/Windows-Exploits,yealvarez/Windows-Exploits,476711147
 MS11-080,0.16666667,https://github.com/rcs-tringuyen/working-exploit-poc,rcs-tringuyen/working-exploit-poc,450261345
 MS11-080,0.16666667,https://github.com/k4u5h41/CVE-2011-1249,k4u5h41/CVE-2011-1249,384774726
 MS11-080,0.16666667,https://github.com/davidp37/wannazot,davidp37/wannazot,207142074
+MS11-080,0.16666667,https://github.com/w4fz5uck5/3XPL01t5,w4fz5uck5/3XPL01t5,126516611
 MS11-080,0.16666667,https://github.com/Netw0rkLan/exploit,Netw0rkLan/exploit,89519851
 MS11-080,0.16666667,https://github.com/unkn0wns/exploits-nt-privesc,unkn0wns/exploits-nt-privesc,69658125
 MS11-080,0.16666667,https://github.com/dev-zzo/exploits-nt-privesc,dev-zzo/exploits-nt-privesc,30018671
@@ -264,7 +264,7 @@ MS11-080,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4
 MS11-080,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS11-080,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 MS11-080,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS11-080,0.00020028,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS11-080,0.00020024,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS11-080,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS11-080,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS11-080,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
