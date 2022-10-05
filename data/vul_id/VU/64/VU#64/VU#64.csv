@@ -76,7 +76,6 @@ VU#64,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2019-19252,
 VU#64,0.02173913,https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX,nanopathi/KERNEL_CVE-2020-29370_FIX,475723552
 VU#64,0.02173913,https://github.com/nanopathi/CVE-2020-029370_AFTPATCH,nanopathi/CVE-2020-029370_AFTPATCH,475458227
 VU#64,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368,Satheesh575555/linux-4.19.72_CVE-2020-29368,475437174
-VU#64,0.02173913,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch,artsking/linux-4.19.72_CVE-2020-14386_extrapatch,448747272
 VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
@@ -94,17 +93,18 @@ VU#64,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bje
 VU#64,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#64,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#64,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
-VU#64,0.01449275,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#64,0.01428571,https://github.com/stphano/NEAs-ranking,stphano/NEAs-ranking,530254011
 VU#64,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
 VU#64,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#64,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#64,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#64,0.01388889,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
+VU#64,0.01388889,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#64,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#64,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#64,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#64,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#64,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#64,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#64,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#64,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
@@ -180,4 +180,4 @@ VU#64,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#64,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#64,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#64,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#64,0.00020024,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#64,0.00020020,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

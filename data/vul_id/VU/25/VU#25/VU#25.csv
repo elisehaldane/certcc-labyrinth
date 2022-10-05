@@ -88,7 +88,6 @@ VU#25,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Packag
 VU#25,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#25,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#25,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
-VU#25,0.02173913,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#25,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#25,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#25,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
@@ -117,6 +116,7 @@ VU#25,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#25,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#25,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#25,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#25,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#25,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#25,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#25,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
@@ -216,6 +216,6 @@ VU#25,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#25,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#25,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#25,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#25,0.00020024,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00020020,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

@@ -86,7 +86,6 @@ VU#10,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2019-19252,
 VU#10,0.02173913,https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX,nanopathi/KERNEL_CVE-2020-29370_FIX,475723552
 VU#10,0.02173913,https://github.com/nanopathi/CVE-2020-029370_AFTPATCH,nanopathi/CVE-2020-029370_AFTPATCH,475458227
 VU#10,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368,Satheesh575555/linux-4.19.72_CVE-2020-29368,475437174
-VU#10,0.02173913,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch,artsking/linux-4.19.72_CVE-2020-14386_extrapatch,448747272
 VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
@@ -119,6 +118,7 @@ VU#10,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET
 VU#10,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#10,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#10,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#10,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#10,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#10,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#10,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
@@ -205,6 +205,6 @@ VU#10,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#10,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#10,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#10,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#10,0.00020024,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#10,0.00020020,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#10,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#10,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

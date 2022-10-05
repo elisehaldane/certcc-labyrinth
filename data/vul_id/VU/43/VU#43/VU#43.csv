@@ -26,6 +26,7 @@ VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_af
 VU#43,0.25000000,https://github.com/PaulNicolasHunter/That_Vulnerable_React_App,PaulNicolasHunter/That_Vulnerable_React_App,385317545
 VU#43,0.20000000,https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271,SaumyajeetDas/POC-of-CVE-2022-36271,525521767
 VU#43,0.20000000,https://github.com/meowmeowxw/kernel-exploits,meowmeowxw/kernel-exploits,340351462
+VU#43,0.20000000,https://github.com/7rebux/league-tools,7rebux/league-tools,307498322
 VU#43,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
 VU#43,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
 VU#43,0.12500000,https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,259394786
@@ -63,7 +64,6 @@ VU#43,0.03571429,https://github.com/h00die/MSF-Testing-Scripts,h00die/MSF-Testin
 VU#43,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#43,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#43,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
-VU#43,0.02173913,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#43,0.02173913,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#43,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
 VU#43,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
@@ -139,6 +139,7 @@ VU#43,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,42
 VU#43,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#43,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#43,0.01219512,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#43,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#43,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#43,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#43,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244

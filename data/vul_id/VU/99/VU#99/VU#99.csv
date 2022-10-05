@@ -62,7 +62,6 @@ VU#99,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#99,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#99,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#99,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
-VU#99,0.02173913,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#99,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 VU#99,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#99,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
@@ -83,6 +82,7 @@ VU#99,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#99,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#99,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#99,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
+VU#99,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#99,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#99,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#99,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
@@ -105,7 +105,7 @@ VU#99,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnee
 VU#99,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#99,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#99,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
-VU#99,0.00781250,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
+VU#99,0.00763359,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
 VU#99,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#99,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#99,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
@@ -166,6 +166,6 @@ VU#99,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#99,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#99,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#99,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#99,0.00020024,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#99,0.00020020,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#99,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#99,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

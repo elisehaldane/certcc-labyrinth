@@ -67,7 +67,6 @@ VU#17,0.02857143,https://github.com/khalednassar/CVE-2020-27301-hostapd,khaledna
 VU#17,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#17,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#17,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
-VU#17,0.02173913,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#17,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#17,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#17,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
@@ -95,6 +94,7 @@ VU#17,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET
 VU#17,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#17,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#17,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#17,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#17,0.01162791,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#17,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#17,0.01075269,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
@@ -173,4 +173,4 @@ VU#17,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#17,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#17,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#17,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#17,0.00020024,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#17,0.00020020,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
