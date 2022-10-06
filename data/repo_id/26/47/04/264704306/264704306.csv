@@ -1,4 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
+264704306,aryanguenthner/365,pingsweep.sh,00760caeccfaea05a0dbf03aa187ce9a70f1389f,MS17-010
+264704306,aryanguenthner/365,pingsweep.sh,00760caeccfaea05a0dbf03aa187ce9a70f1389f,MS08-067
+264704306,aryanguenthner/365,pingsweep.sh,00760caeccfaea05a0dbf03aa187ce9a70f1389f,MS12-020
 264704306,aryanguenthner/365,kali-setup-master.sh.txt,012a5478a512b2e8df72d68813836677d8591c1c,CVE-2019-11510
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210130.txt,037ca821fa977bb07ef029a0402390f2dc50b266,MS08-067
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210130.txt,037ca821fa977bb07ef029a0402390f2dc50b266,MS12-020
@@ -6,9 +9,6 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS08-067
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS17-010
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS12-020
-264704306,aryanguenthner/365,pingsweep.sh,310a16cd00ba0071528d3f3f684a6a120ed954ed,MS17-010
-264704306,aryanguenthner/365,pingsweep.sh,310a16cd00ba0071528d3f3f684a6a120ed954ed,MS08-067
-264704306,aryanguenthner/365,pingsweep.sh,310a16cd00ba0071528d3f3f684a6a120ed954ed,MS12-020
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS17-010
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS08-067
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS12-020
