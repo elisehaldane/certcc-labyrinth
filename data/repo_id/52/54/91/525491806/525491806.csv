@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+525491806,salvadorJMA/HTB,Machines/Shared/README.md,a575f4a61c5b6b660f3baf5262030129511a7cd3,CVE-2022-0543
+525491806,salvadorJMA/HTB,Machines/Shared/README.md,a575f4a61c5b6b660f3baf5262030129511a7cd3,GHSA-PQ7M-3GW7-GQ5X
