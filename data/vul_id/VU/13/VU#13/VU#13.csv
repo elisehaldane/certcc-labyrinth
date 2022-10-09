@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#13,1.00000000,https://github.com/in-future-world/All-Hacking-Tools,in-future-world/All-Hacking-Tools,400543801
-VU#13,0.50000000,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#13,0.50000000,https://github.com/Axx8/ShellCode_Loader,Axx8/ShellCode_Loader,531963548
 VU#13,0.50000000,https://github.com/zxzxz1/fix_Exploit,zxzxz1/fix_Exploit,476756058
 VU#13,0.50000000,https://github.com/cryst4lliz3/CVE-2021-44228,cryst4lliz3/CVE-2021-44228,469576160
@@ -69,6 +68,7 @@ VU#13,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-
 VU#13,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#13,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#13,0.01388889,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
+VU#13,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#13,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#13,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#13,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
