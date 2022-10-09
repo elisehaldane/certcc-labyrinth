@@ -1,0 +1,37 @@
+
+# Summary for results/2022/10/09
+    
+30 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-10-09 04:07:16+00:00 | 12837 | 4935 | Python | 682 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-10-09 00:07:12+00:00 | 1534839 | 1695 | Python | 545 | [] |
+| 4nth0ny1130/CVE-2022-39197-fix_patch | repair | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | ['cve-2 OR cve_2'] | 1 | 2022-10-09 04:06:24+00:00 | 0 | 0 | | 0 | ['CVE-2022-39197'] |
+| supersand24/ZeroDaysLeft | None | https://github.com/supersand24/ZeroDaysLeft | ['zeroday'] | 1 | 2022-10-09 03:47:20+00:00 | 2 | 0 | | 0 | [] |
+| chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution | Able to upload arbitrary file into server, which can lead to remote code execution | https://github.com/chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution | ['remote code execution'] | 1 | 2022-10-09 02:24:16+00:00 | 6 | 0 | PHP | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3 | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3 | ['exploit'] | 1 | 2022-10-09 00:49:09+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3 | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3 | ['exploit'] | 1 | 2022-10-09 00:47:46+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | ['exploit'] | 1 | 2022-10-09 00:46:19+00:00 | 1 | 1 | | 0 | [] |
+| 1mut1ny/sweetpotato | Compiled version of the SweetPotato exploit | https://github.com/1mut1ny/sweetpotato | ['exploit'] | 1 | 2022-10-09 00:36:24+00:00 | 0 | 0 | | 0 | [] |
+| CsEnox/CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | ['cve-2 OR cve_2'] | 1 | 2022-10-09 03:54:53+00:00 | 29 | 1 | Python | 0 | ['CVE-2022-2992'] |
+| nototter/alpine | a more user friendly (but slightly worse) version of metasploit made in python3 | https://github.com/nototter/alpine | ['metasploit module OR payload'] | 1 | 2022-10-09 03:38:36+00:00 | 7409 | 1 | Python | 0 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-10-09 00:09:09+00:00 | 2248 | 61 | | 6 | [] |
+| Cryptogenic/PS5-4.03-Kernel-Exploit | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | ['exploit'] | 1 | 2022-10-09 04:59:17+00:00 | 77 | 614 | JavaScript | 41 | [] |
+| NoahCodingStuff/Discord-VoiceCall-exploit | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | ['exploit'] | 1 | 2022-10-09 05:01:39+00:00 | 25 | 5 | Python | 1 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-10-09 02:28:22+00:00 | 6027 | 49 | | 3 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-10-09 04:49:52+00:00 | 15527 | 23 | Go | 10 | [] |
+| kymb0/Stealth_shellcode_runners | None | https://github.com/kymb0/Stealth_shellcode_runners | ['shellcode'] | 1 | 2022-10-09 02:20:46+00:00 | 245 | 28 | Python | 8 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-10-09 01:23:41+00:00 | 682 | 0 | nan | 0 | [] |
+| RektifyAI/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/RektifyAI/attack-playbook | ['exploit'] | 1 | 2022-10-09 03:56:37+00:00 | 1066 | 2 | | 2 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-10-09 02:17:43+00:00 | 11001 | 4422 | TypeScript | 666 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-10-09 04:23:51+00:00 | 9316302 | 91 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-10-09 02:36:54+00:00 | 1617 | 134 | HTML | 28 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-10-09 04:27:47+00:00 | 25953 | 3 | Python | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-10-09 04:01:18+00:00 | 280325 | 532 | Python | 142 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-10-09 01:39:02+00:00 | 497 | 118 | Python | 18 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-10-09 05:03:35+00:00 | 668297 | 62 | | 24 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-10-09 04:36:05+00:00 | 522522 | 206 | REXX | 27 | [] |
+| compilepeace/SHELLCODING_INTEL_x86-64 | Repository contains shellcodes made from scratch for intel x86-64 bit Architecture | https://github.com/compilepeace/SHELLCODING_INTEL_x86-64 | ['shellcode'] | 1 | 2022-10-09 01:39:34+00:00 | 70 | 7 | Assembly | 4 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-10-09 00:32:59+00:00 | 55592 | 339 | Ruby | 96 | [] |
+| NicholasCheek/WheelOfExploitation | None | https://github.com/NicholasCheek/WheelOfExploitation | ['exploit'] | 1 | 2022-10-09 04:23:09+00:00 | 0 | 0 | HTML | 0 | [] |
