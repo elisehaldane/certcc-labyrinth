@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#87,1.00000000,https://github.com/dthibau/jbpm-exploit,dthibau/jbpm-exploit,488103618
+VU#87,0.50000000,https://github.com/chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution,chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution,548149759
 VU#87,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-RCE-RSHELL,Gurguii/-PoC-VotingSystem1.0-Authenticated-RCE-RSHELL,521778173
 VU#87,0.50000000,https://github.com/AninditaDeb/LDAM-DRW-and-RCE,AninditaDeb/LDAM-DRW-and-RCE,462986023
 VU#87,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
