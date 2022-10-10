@@ -1,7 +1,7 @@
 
 # Summary for results/2022/10/09
     
-118 records found after deduplication
+119 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -35,7 +35,7 @@
 | NoahCodingStuff/Discord-VoiceCall-exploit | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | ['exploit'] | 1 | 2022-10-09 05:01:39+00:00 | 25 | 5 | Python | 1 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3 | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3 | ['exploit'] | 1 | 2022-10-09 00:47:46+00:00 | 1 | 1 | | 0 | [] |
 | chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution | Able to upload arbitrary file into server, which can lead to remote code execution | https://github.com/chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution | ['remote code execution'] | 1 | 2022-10-09 02:24:16+00:00 | 6 | 0 | PHP | 0 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-10-09 04:07:16+00:00 | 12837 | 4935 | Python | 682 | [] |
+| GoshaTeamProj/Roblox-Exploits | None | https://github.com/GoshaTeamProj/Roblox-Exploits | ['exploit'] | 1 | 2022-10-09 17:36:10+00:00 | 45 | 0 | Lua | 0 | [] |
 | TheHZDev/RCEShellTimeInject | 在无回显、不出网、网站根目录不可写的情况下进行任意命令执行，并依赖时间盲注获取结果。 | https://github.com/TheHZDev/RCEShellTimeInject | ['rce'] | 1 | 2022-10-09 13:53:52+00:00 | 19 | 1 | Python | 0 | [] |
 | ArzugDev/ArzugSploitV1 | None | https://github.com/ArzugDev/ArzugSploitV1 | ['sploit'] | 1 | 2022-10-09 23:54:24+00:00 | 975 | 0 | | 0 | [] |
 | indexed-finance/exploit-snapshot | Oct 2021 exploit snapshot using BigQuery with support for deriving liquidity positions | https://github.com/indexed-finance/exploit-snapshot | ['exploit'] | 1 | 2022-10-09 22:24:50+00:00 | 0 | 0 | | 0 | [] |
@@ -64,10 +64,9 @@
 | NicholasCheek/WheelOfExploitation | None | https://github.com/NicholasCheek/WheelOfExploitation | ['exploit'] | 1 | 2022-10-09 04:23:09+00:00 | 0 | 0 | HTML | 0 | [] |
 | 4nth0ny1130/CVE-2022-39197-fix_patch | repair | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | ['cve-2 OR cve_2'] | 1 | 2022-10-09 04:06:24+00:00 | 0 | 0 | | 0 | ['CVE-2022-39197'] |
 | XoticSploit/XoticSploit | None | https://github.com/XoticSploit/XoticSploit | ['sploit'] | 1 | 2022-10-09 06:16:18+00:00 | 138328 | 0 | HTML | 0 | [] |
-| GoshaTeamProj/Roblox-Exploits | None | https://github.com/GoshaTeamProj/Roblox-Exploits | ['exploit'] | 1 | 2022-10-09 17:36:10+00:00 | 45 | 0 | Lua | 0 | [] |
 | Jennahacker/zenna_rat | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | ['exploit'] | 1 | 2022-10-09 07:38:03+00:00 | 44338 | 9 | | 3 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-10-09 23:35:36+00:00 | 122 | 0 | PHP | 0 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-10-09 18:10:47+00:00 | 9555 | 15 | | 5 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-10-09 04:07:16+00:00 | 12837 | 4935 | Python | 682 | [] |
+| ihebski/DefaultCreds-cheat-sheet | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | ['exploit'] | 1 | 2022-10-09 11:33:14+00:00 | 428 | 3028 | Jupyter Notebook | 457 | [] |
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2022-10-09 14:32:44+00:00 | 18934 | 19 | Python | 7 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-10-09 08:33:00+00:00 | 203 | 2 | Python | 1 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-10-09 02:17:43+00:00 | 11001 | 4422 | TypeScript | 666 | [] |
@@ -79,12 +78,13 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-10-09 04:01:18+00:00 | 280325 | 532 | Python | 142 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-10-09 13:29:47+00:00 | 79609 | 143 | | 32 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-10-09 01:39:02+00:00 | 497 | 118 | Python | 18 | [] |
-| ihebski/DefaultCreds-cheat-sheet | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | ['exploit'] | 1 | 2022-10-09 11:33:14+00:00 | 428 | 3028 | Jupyter Notebook | 457 | [] |
-| edanyi/ed_RCEL506 | None | https://github.com/edanyi/ed_RCEL506 | ['rce'] | 1 | 2022-10-09 23:13:42+00:00 | 2390 | 0 | Jupyter Notebook | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-10-09 23:35:36+00:00 | 122 | 0 | PHP | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-10-09 13:53:17+00:00 | 46087 | 32 | Python | 7 | [] |
+| RektifyAI/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/RektifyAI/attack-playbook | ['exploit'] | 1 | 2022-10-09 03:56:37+00:00 | 1066 | 2 | | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-10-09 05:03:35+00:00 | 668297 | 62 | | 24 | [] |
 | 7rebux/league-tools | A cross-platform desktop app with many League Client exploits (e.g profile customization) | https://github.com/7rebux/league-tools | ['exploit'] | 1 | 2022-10-09 23:01:25+00:00 | 8344 | 8 | TypeScript | 3 | [] |
 | MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2022-10-09 19:21:10+00:00 | 151972 | 85 | Python | 23 | [] |
+| Patrowl/PatrowlHears | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | ['exploit'] | 1 | 2022-10-09 04:12:13+00:00 | 500330 | 134 | Python | 48 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-10-09 15:00:48+00:00 | 16211 | 47 | | 25 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-10-09 04:36:05+00:00 | 522522 | 206 | REXX | 27 | [] |
 | compilepeace/SHELLCODING_INTEL_x86-64 | Repository contains shellcodes made from scratch for intel x86-64 bit Architecture | https://github.com/compilepeace/SHELLCODING_INTEL_x86-64 | ['shellcode'] | 1 | 2022-10-09 01:39:34+00:00 | 70 | 7 | Assembly | 4 | [] |
@@ -93,10 +93,10 @@
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-10-09 09:10:02+00:00 | 6037 | 5058 | Python | 620 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-10-09 07:02:11+00:00 | 5889 | 3486 | Python | 727 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-10-09 00:07:12+00:00 | 1534839 | 1695 | Python | 545 | [] |
-| RektifyAI/attack-playbook | Attack Playbook defines all benign, moderate, and malicious attacks deployed on Web3 products. | https://github.com/RektifyAI/attack-playbook | ['exploit'] | 1 | 2022-10-09 03:56:37+00:00 | 1066 | 2 | | 2 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-10-09 18:10:47+00:00 | 9555 | 15 | | 5 | [] |
 | FlorianWoelki/kira | The fastest sandboxed remote code execution engine. | https://github.com/FlorianWoelki/kira | ['remote code execution'] | 1 | 2022-10-09 09:33:06+00:00 | 215 | 2 | Go | 0 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-10-09 10:15:02+00:00 | 111266 | 3670 | HTML | 449 | [] |
-| ujjwal-kr/system-programming-roadmap | A 3-year long roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | ['exploit'] | 1 | 2022-10-09 18:54:02+00:00 | 49 | 35 | | 11 | [] |
+| edanyi/ed_RCEL506 | None | https://github.com/edanyi/ed_RCEL506 | ['rce'] | 1 | 2022-10-09 23:13:42+00:00 | 2390 | 0 | Jupyter Notebook | 0 | [] |
+| justalghamdi/dvRAT | . مشروع يهدف لصنع برمجية خبيثة متكاملة | https://github.com/justalghamdi/dvRAT | ['exploit'] | 1 | 2022-10-09 07:37:41+00:00 | 822 | 25 | C# | 5 | [] |
 | Abhimanyu08/RCE-blog-client | Client side code for rce-blog | https://github.com/Abhimanyu08/RCE-blog-client | ['rce'] | 1 | 2022-10-09 14:03:22+00:00 | 490 | 0 | TypeScript | 0 | [] |
 | DarkNeos/ygopro-doc | Documents about exploitation of web version of ygopro | https://github.com/DarkNeos/ygopro-doc | ['exploit'] | 1 | 2022-10-09 15:44:12+00:00 | 325 | 0 | | 0 | [] |
 | kakuun333/Exploit_Scripts | Roblox Scripts | https://github.com/kakuun333/Exploit_Scripts | ['exploit'] | 1 | 2022-10-09 10:36:33+00:00 | 282 | 0 | Lua | 0 | [] |
@@ -109,8 +109,8 @@
 | FarhadAlimohammadi-dir/UT_HUNTER | Most advanced XSS SQL LFI RCE vulnerabilities scanner in python (Multi-thread + proxy-support + Header support) | https://github.com/FarhadAlimohammadi-dir/UT_HUNTER | ['rce'] | 1 | 2022-10-09 12:47:26+00:00 | 57 | 1 | Python | 0 | [] |
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-10-09 02:28:22+00:00 | 6027 | 49 | | 3 | [] |
 | StrokeThePea/GelatekReanimate | Reanimation that's way better than Catware Reanimate. | https://github.com/StrokeThePea/GelatekReanimate | ['exploit'] | 1 | 2022-10-09 13:58:10+00:00 | 146 | 3 | Lua | 2 | [] |
-| justalghamdi/dvRAT | . مشروع يهدف لصنع برمجية خبيثة متكاملة | https://github.com/justalghamdi/dvRAT | ['exploit'] | 1 | 2022-10-09 07:37:41+00:00 | 822 | 25 | C# | 5 | [] |
 | teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2022-10-09 15:56:19+00:00 | 2981 | 1181 | Go | 107 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-10-09 10:15:02+00:00 | 111266 | 3670 | HTML | 449 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-10-09 04:49:52+00:00 | 15527 | 23 | Go | 10 | [] |
 | Chocapikk/CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2022-10-09 13:28:22+00:00 | 7 | 6 | Python | 2 | ['CVE-2022-26134'] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-10-09 16:01:50+00:00 | 8309 | 2 | Python | 0 | [] |
@@ -122,4 +122,5 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-10-09 15:00:45+00:00 | 742196 | 1 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-10-09 01:23:41+00:00 | 682 | 0 | | 0 | [] |
 | Hagrid29/PELoader | PE loader with various shellcode injection techniques | https://github.com/Hagrid29/PELoader | ['shellcode'] | 1 | 2022-10-09 06:06:01+00:00 | 1388 | 148 | C++ | 28 | [] |
+| ujjwal-kr/system-programming-roadmap | A 3-year long roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | ['exploit'] | 1 | 2022-10-09 18:54:02+00:00 | 49 | 35 | | 11 | [] |
 | sonnyzrwu/CO485-Final-Project | Exploiting Elliptic Curves cryptographic vulnerabilities, Weil and Tate Pairings and more. | https://github.com/sonnyzrwu/CO485-Final-Project | ['exploit'] | 1 | 2022-10-09 23:57:16+00:00 | 12 | 0 | C | 0 | [] |
