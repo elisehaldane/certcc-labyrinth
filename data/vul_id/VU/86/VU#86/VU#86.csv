@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#86,1.00000000,https://github.com/hoaan1995/Condi-Boatnet,hoaan1995/Condi-Boatnet,515496275
 VU#86,1.00000000,https://github.com/danielmaxio/Atomic-Red-Team-Intelligence-C2,danielmaxio/Atomic-Red-Team-Intelligence-C2,472487367
+VU#86,1.00000000,https://github.com/adava/CnCHunter,adava/CnCHunter,388224774
 VU#86,1.00000000,https://github.com/augsmachado/rust_port_sniffer_cli,augsmachado/rust_port_sniffer_cli,363495039
 VU#86,1.00000000,https://github.com/orkinyo/bin-exp-course,orkinyo/bin-exp-course,362797524
 VU#86,1.00000000,https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2,blackbotinc/Atomic-Red-Team-Intelligence-C2,315417215
@@ -12,6 +13,7 @@ VU#86,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,4005
 VU#86,0.25000000,https://github.com/JeffMboya/CodePal,JeffMboya/CodePal,529695274
 VU#86,0.25000000,https://github.com/paulonteri/remote-code-execution-environment,paulonteri/remote-code-execution-environment,278636703
 VU#86,0.20000000,https://github.com/AnythingForTheTrustRank/ZeroGay,AnythingForTheTrustRank/ZeroGay,455997487
+VU#86,0.20000000,https://github.com/anvbis/windows.x86.expl,anvbis/windows.x86.expl,438593074
 VU#86,0.16666667,https://github.com/BloxSafe/Backend,BloxSafe/Backend,492896545
 VU#86,0.16666667,https://github.com/WPXSS/wordpress-malware,WPXSS/wordpress-malware,203156588
 VU#86,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExploitS_English,535005507
@@ -22,6 +24,7 @@ VU#86,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709
 VU#86,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#86,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#86,0.09090909,https://github.com/zzwlpx/weblogicPoc,zzwlpx/weblogicPoc,264347023
+VU#86,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
 VU#86,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#86,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#86,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
@@ -74,6 +77,7 @@ VU#86,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,4718
 VU#86,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#86,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#86,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
+VU#86,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#86,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#86,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#86,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
@@ -171,4 +175,4 @@ VU#86,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#86,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#86,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#86,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#86,0.00020020,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#86,0.00020016,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
