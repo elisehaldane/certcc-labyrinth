@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+388224774,adava/CnCHunter,filesystem/openwrt.zip,1449171a51ebb511a93be0c8652d79f20736a3b7,VU#86
