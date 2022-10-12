@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-27641,0.00073855,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-27641,0.00073584,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-27641,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-27641,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-27641,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
@@ -26,4 +26,4 @@ BID-27641,0.00004620,https://github.com/offensive-security/exploitdb,offensive-s
 BID-27641,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-27641,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 BID-27641,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
-BID-27641,0.00000447,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-27641,0.00000446,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

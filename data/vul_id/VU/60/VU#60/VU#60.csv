@@ -17,7 +17,6 @@ VU#60,0.20000000,https://github.com/NZT48/exploiting-smart-contract-vulnerabilit
 VU#60,0.16666667,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#60,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#60,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
-VU#60,0.11111111,https://github.com/anvbis/chrome.v8.expl,anvbis/chrome.v8.expl,517488457
 VU#60,0.11111111,https://github.com/ArkAngeL43/Red-Rabbit,ArkAngeL43/Red-Rabbit,420441425
 VU#60,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
 VU#60,0.09090909,https://github.com/irwx777/SocialSploit,irwx777/SocialSploit,529940744
@@ -33,6 +32,7 @@ VU#60,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonha
 VU#60,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#60,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#60,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
+VU#60,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#60,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#60,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
 VU#60,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
@@ -75,8 +75,8 @@ VU#60,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#60,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#60,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#60,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
-VU#60,0.00787402,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#60,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
+VU#60,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#60,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#60,0.00671141,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#60,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -102,7 +102,7 @@ VU#60,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#60,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#60,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#60,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
-VU#60,0.00259067,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#60,0.00257069,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#60,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#60,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#60,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
