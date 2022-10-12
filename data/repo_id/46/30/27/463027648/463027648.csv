@@ -42,8 +42,6 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/f-CNVD/2019/CNVD-2019-32204.yaml,266fcba558d39c1924d34f8be70019dbd2f7610d,CNVD-2019-32204
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-3760.yaml,26b3350c94b4d851be2466c4238d995f929f5182,CVE-2018-3760
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-26413.yaml,26bc9b913f0d5a01302aec9e3f76ec8b411d44f6,CVE-2020-26413
-463027648,zan8in/afrog,pocs/v/afrog-pocs.zip,27522b7055ab1ed64ce1182a066eed1c1a933c53,CVE-2022-40734
-463027648,zan8in/afrog,pocs/v/afrog-pocs.zip,27522b7055ab1ed64ce1182a066eed1c1a933c53,CVE-2022-36883
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-8515.yaml,27bce38630f93fa78f51b57fd453d432af79d3d3,CVE-2020-8515
 463027648,zan8in/afrog,pocs/afrog-pocs/e-vulnerability/CVE-2022-31793.yaml,2807814d3fe1abdd88f670a9375f25021462948c,CVE-2022-31793
 463027648,zan8in/afrog,pocs/afrog-pocs/e-vulnerability/CVE-2018-12909.yaml,2b3950eeafacc5116578a1300ca8f99108e774d6,CVE-2018-12909
@@ -82,8 +80,8 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2017/CVE-2017-9791.yaml,431189f955a01e96cf42cf78991cbfe5cfbc78f0,CVE-2017-9805
 463027648,zan8in/afrog,pocs/afrog-pocs/f-CNVD/2020/CNVD-2020-67113.yaml,46e3d1835c89772c53c7744a78d7341e6aae0b46,CNVD-2020-67113
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-24571.yaml,4932e377754dd56611bcaf9c0a3167d18ca3181b,CVE-2020-24571
-463027648,zan8in/afrog,pocs/afrog-pocs/README.md,4b272101083a51d04e1cf3175f467124b40fd60e,CVE-2020-11710
 463027648,zan8in/afrog,pocs/afrog-pocs/README.md,4b272101083a51d04e1cf3175f467124b40fd60e,CVE-2022-0202
+463027648,zan8in/afrog,pocs/afrog-pocs/README.md,4b272101083a51d04e1cf3175f467124b40fd60e,CVE-2020-11710
 463027648,zan8in/afrog,pocs/afrog-pocs/README.md,4b272101083a51d04e1cf3175f467124b40fd60e,CVE-2022-22947
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2022/CVE-2022-25369.yaml,4b4924f3ddc34c95ec94031c72daff8b606419ce,CVE-2022-25369
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-9483.yaml,4c3b5f846634aee0383e341460e32089c9fe1e7d,CVE-2020-9483
@@ -102,8 +100,8 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2022/CVE-2022-24990.yaml,57178de777043f3a1ef5660d47143d102fb197a7,CVE-2022-24990
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-27250.yaml,594711111a0abe52f930a80cf8c7b24161eeb952,CVE-2021-27250
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-13937.yaml,5b0744514bc273974ad83531c847f15a60e2ba2c,CVE-2020-13937
-463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-11759.yaml,5c88158070e2329d6559e03a68bdc7567c24264f,CVE-2018-11759
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-11759.yaml,5c88158070e2329d6559e03a68bdc7567c24264f,CVE-2018-1323
+463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-11759.yaml,5c88158070e2329d6559e03a68bdc7567c24264f,CVE-2018-11759
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-3129.yaml,5df6ca08d1dd641bbba1e90822a13d7befa0983e,CVE-2021-3129
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2016/CVE-2016-10134.yaml,5e15f2b737b2b2ede98cc35db8db8a5079306f45,CVE-2016-10134
 463027648,zan8in/afrog,pocs/afrog-pocs/h-unreviewed/mobileiron-log4j-jndi-rce.yaml,5f4d439dcd7055644acf7c85659c65eaa698e02c,GHSA-JFH8-C2JP-5V3Q
@@ -141,10 +139,14 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-3019.yaml,8355135cfcff0b2accc86f147e41effb10bba14f,CVE-2021-3019
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2022/CVE-2022-25084.yaml,837dd298548bb5227c123931b55c123f3259fdd4,CVE-2022-25084
 463027648,zan8in/afrog,pkg/gopoc/tomcat.go,841f77e55604557481fbc8fb7681628d7f441587,CVE-2020-1938
-463027648,zan8in/afrog,docs/CONTRIBUTION.md,8479c0776c809f2f27a716f5529094b8965e25b4,CVE-2020-1234
 463027648,zan8in/afrog,docs/CONTRIBUTION.md,8479c0776c809f2f27a716f5529094b8965e25b4,CVE-2022-1234
+463027648,zan8in/afrog,docs/CONTRIBUTION.md,8479c0776c809f2f27a716f5529094b8965e25b4,CVE-2020-1234
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-21224.yaml,84b7c1ff2b93b4ea7e56f9af8b99315d8b395aeb,CVE-2020-21224
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-6605.yaml,853f5284ca9eb8521b6531228b8a768ce6729df3,CVE-2018-6605
+463027648,zan8in/afrog,pocs/v/afrog-pocs.zip,858def50797a790ae2b88fde760c9511ca29bf75,CVE-2022-36883
+463027648,zan8in/afrog,pocs/v/afrog-pocs.zip,858def50797a790ae2b88fde760c9511ca29bf75,CVE-2022-40734
+463027648,zan8in/afrog,pocs/v/afrog-pocs.zip,858def50797a790ae2b88fde760c9511ca29bf75,CVE-2022-41040
+463027648,zan8in/afrog,pocs/temp/afrog-pocs/CVE/2022/CVE-2022-41040.yaml,85b791a230c895cb89fffa8247081724ae43eef7,CVE-2022-41040
 463027648,zan8in/afrog,pocs/afrog-pocs/f-CNVD/2016/CNNVD-201610-923.yaml,85c836b8d8f7ca88e6671a102e48e462cf3014d7,CNNVD-201610-923
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2015/CVE-2015-8399.yaml,86dc04a0cd619a65d637834d8d5689f872bb6f1c,CVE-2015-8399
 463027648,zan8in/afrog,pocs/afrog-pocs/f-CNVD/2020/CNVD-2020-73282.yaml,888afa6a6b5e8cfed3a61c2517aab31237b73c03,CNVD-2020-73282
@@ -231,8 +233,8 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2019/CVE-2019-11510.yaml,c899622e4398dadd670ae91ce2e990ba814b964c,CVE-2019-11510
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-28188.yaml,cb7e3827d839a55a8de8b22f1006d0e242a1caef,CVE-2020-28188
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-28185.yaml,cbcc9cb5f628ab94535a5b53437b91012a447343,CVE-2020-28185
-463027648,zan8in/afrog,pocs/afrog-pocs/e-vulnerability/vrealize-operations-log4j-rce.yaml,cd353e8bf6a4ce9b4901005087f23f2b247162d5,CVE-2021-44228
 463027648,zan8in/afrog,pocs/afrog-pocs/e-vulnerability/vrealize-operations-log4j-rce.yaml,cd353e8bf6a4ce9b4901005087f23f2b247162d5,CVE-2021-45046
+463027648,zan8in/afrog,pocs/afrog-pocs/e-vulnerability/vrealize-operations-log4j-rce.yaml,cd353e8bf6a4ce9b4901005087f23f2b247162d5,CVE-2021-44228
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2019/CVE-2019-2729.yaml,ce721c49c2e41eb1a1e0b95b83c34edb1cd4716a,CVE-2019-2729
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-11455.yaml,cf24119ca2cfa469c1fe4a20d50d89c6b12fc619,CVE-2020-11455
 463027648,zan8in/afrog,pocs/temp/afrog-pocs/CVE/2022/CVE-2022-36883.yaml,cfeb18d604ddef22de5c12671be0bb92fb47ac9f,CVE-2022-36883
