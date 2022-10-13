@@ -1,1 +1,13 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,CVE-2002-0082
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-2733
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-27487
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-3092
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-3233
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-3268
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-4552
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-637
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-682
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-756
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-838
+547369321,Nishant-Pall/Kioptrix-exploit,README.md,fba9072bfebeae4890169f878df25c4a0b2da043,OSVDB-877
