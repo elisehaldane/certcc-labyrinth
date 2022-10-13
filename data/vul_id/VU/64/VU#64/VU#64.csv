@@ -20,9 +20,11 @@ VU#64,0.33333333,https://github.com/acecilia/OpenWRTInvasion,acecilia/OpenWRTInv
 VU#64,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#64,0.25000000,https://github.com/parmoo/parmoo,parmoo/parmoo,449011189
 VU#64,0.25000000,https://github.com/oscargilg1/CVEs,oscargilg1/CVEs,412688812
+VU#64,0.25000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#64,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#64,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
 VU#64,0.20000000,https://github.com/smallkirby/kernelpwn,smallkirby/kernelpwn,281656185
+VU#64,0.16666667,https://github.com/adevrent/vol_products_ftx,adevrent/vol_products_ftx,550109865
 VU#64,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#64,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
 VU#64,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,486848599
@@ -144,6 +146,7 @@ VU#64,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,22274027
 VU#64,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#64,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#64,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
+VU#64,0.00473934,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#64,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#64,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#64,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
@@ -182,4 +185,4 @@ VU#64,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4964
 VU#64,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#64,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#64,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#64,0.00020016,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#64,0.00020012,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

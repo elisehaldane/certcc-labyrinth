@@ -1,10 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#22,1.00000000,https://github.com/Meh-zx/R60Tool-for-Lunix,Meh-zx/R60Tool-for-Lunix,550619182
 VU#22,1.00000000,https://github.com/razzor-codes/Web3-Graveyard,razzor-codes/Web3-Graveyard,512263154
 VU#22,0.33333333,https://github.com/sujayadkesar/Let-s-Exploit,sujayadkesar/Let-s-Exploit,539620615
 VU#22,0.25000000,https://github.com/HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,533253583
 VU#22,0.25000000,https://github.com/APTIRAN/CVE-2022-1040,APTIRAN/CVE-2022-1040,523301905
 VU#22,0.25000000,https://github.com/DecryptedCC/MadcatExploit,DecryptedCC/MadcatExploit,482398135
 VU#22,0.25000000,https://github.com/zekgt/lua,zekgt/lua,476966759
+VU#22,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
 VU#22,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
 VU#22,0.20000000,https://github.com/smallkirby/kernelpwn,smallkirby/kernelpwn,281656185
 VU#22,0.16666667,https://github.com/Mar10Josh/Explyt,Mar10Josh/Explyt,510452490

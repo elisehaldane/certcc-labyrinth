@@ -97,6 +97,7 @@ MS15-051,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitd
 MS15-051,0.00523560,https://github.com/anontuttuvenus/SomeToolsAndExploits,anontuttuvenus/SomeToolsAndExploits,326033664
 MS15-051,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
 MS15-051,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
+MS15-051,0.00473934,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS15-051,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
 MS15-051,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 MS15-051,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
@@ -151,11 +152,12 @@ MS15-051,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_
 MS15-051,0.00184502,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS15-051,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 MS15-051,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
+MS15-051,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550639048
 MS15-051,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 MS15-051,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS15-051,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS15-051,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-MS15-051,0.00073584,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS15-051,0.00073529,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS15-051,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS15-051,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS15-051,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
@@ -244,7 +246,7 @@ MS15-051,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,4
 MS15-051,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS15-051,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 MS15-051,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS15-051,0.00020016,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS15-051,0.00020012,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS15-051,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS15-051,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS15-051,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

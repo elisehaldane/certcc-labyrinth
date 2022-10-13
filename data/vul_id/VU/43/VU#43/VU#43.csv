@@ -1,6 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#43,1.00000000,https://github.com/BIT-BOBH/WebvpnExploit,BIT-BOBH/WebvpnExploit,548364609
 VU#43,1.00000000,https://github.com/nguyenvukhang/hcanoe2,nguyenvukhang/hcanoe2,431508646
 VU#43,1.00000000,https://github.com/OHDSI/ArachneExecutionEngine,OHDSI/ArachneExecutionEngine,101303828
+VU#43,0.50000000,https://github.com/asparuhdamyanov/Ethernaut,asparuhdamyanov/Ethernaut,550416262
 VU#43,0.50000000,https://github.com/Neurotiv/Maki,Neurotiv/Maki,542653163
 VU#43,0.50000000,https://github.com/Xcod3bughunt3r/xsser,Xcod3bughunt3r/xsser,521932550
 VU#43,0.50000000,https://github.com/anvbis/anvbis.github.io,anvbis/anvbis.github.io,393919085
@@ -135,7 +137,7 @@ VU#43,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,bo
 VU#43,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#43,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#43,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
-VU#43,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
+VU#43,0.01351351,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#43,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 VU#43,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#43,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
