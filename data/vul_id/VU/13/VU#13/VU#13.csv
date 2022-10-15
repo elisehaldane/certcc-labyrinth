@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#13,1.00000000,https://github.com/in-future-world/All-Hacking-Tools,in-future-world/All-Hacking-Tools,400543801
+VU#13,0.50000000,https://github.com/Spard2/ps4exploit,Spard2/ps4exploit,551709706
 VU#13,0.50000000,https://github.com/Axx8/ShellCode_Loader,Axx8/ShellCode_Loader,531963548
 VU#13,0.50000000,https://github.com/zxzxz1/fix_Exploit,zxzxz1/fix_Exploit,476756058
 VU#13,0.50000000,https://github.com/cryst4lliz3/CVE-2021-44228,cryst4lliz3/CVE-2021-44228,469576160
