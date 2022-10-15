@@ -1,7 +1,7 @@
 
 # Summary for results/2022/10/14
     
-134 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -39,7 +39,7 @@
 | piepor/multiple-paths-decision-mining | Exploit mutliple possible paths inside a Petri Net to enhance decision mining techniques | https://github.com/piepor/multiple-paths-decision-mining | ['exploit'] | 1 | 2022-10-14 14:40:54+00:00 | 105925 | 0 | Python | 0 | [] |
 | b3wT/CVE-2022-40648-MASS | Multi-threaded Mass adding ssh keys for CVE-2022-40648 | https://github.com/b3wT/CVE-2022-40648-MASS | ['cve-2 OR cve_2'] | 1 | 2022-10-14 09:09:58+00:00 | 4 | 0 | Python | 0 | ['CVE-2022-40648'] |
 | 0xKMG/Smart-Contract-Exploits | None | https://github.com/0xKMG/Smart-Contract-Exploits | ['exploit'] | 1 | 2022-10-14 10:01:11+00:00 | 88 | 0 | Solidity | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-10-14 07:55:05+00:00 | 46393 | 883 | Python | 204 | [] |
+| Unknown56406516401563456/PatchCheck | PatchCheck For The New Exploit Im Going To Make. | https://github.com/Unknown56406516401563456/PatchCheck | ['exploit'] | 1 | 2022-10-14 10:26:22+00:00 | 16 | 0 | | 0 | [] |
 | 1nc1n3r470r/pwnframework | metasploit but worse | https://github.com/1nc1n3r470r/pwnframework | ['metasploit module OR payload'] | 1 | 2022-10-14 14:02:47+00:00 | 2 | 0 | | 0 | [] |
 | 0x414141414/PDF-Exploit-2022-Silent-Exploit-Builder-2022 | None | https://github.com/0x414141414/PDF-Exploit-2022-Silent-Exploit-Builder-2022 | ['exploit'] | 1 | 2022-10-14 23:45:21+00:00 | 1 | 0 | | 0 | [] |
 | 0x414141414/JPG-PNG-SILENT-EXPLOIT | None | https://github.com/0x414141414/JPG-PNG-SILENT-EXPLOIT | ['exploit'] | 1 | 2022-10-14 23:43:24+00:00 | 1 | 0 | | 0 | [] |
@@ -72,8 +72,8 @@
 | vijaya-kumari/rce | None | https://github.com/vijaya-kumari/rce | ['rce'] | 1 | 2022-10-14 09:20:07+00:00 | 0 | 0 | | 0 | [] |
 | pneb/TikBottingJS | tikbotting.com exploitation | https://github.com/pneb/TikBottingJS | ['exploit'] | 1 | 2022-10-14 09:18:43+00:00 | 7 | 0 | JavaScript | 0 | [] |
 | Kccarr6022/Web_dev_bootcamp | COMPLETELY REDONE WITH OVER 500 BRAND NEW VIDEOS! Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course. This course was just completely overhauled to prepare students for the 2022 job market, wit | https://github.com/Kccarr6022/Web_dev_bootcamp | ['command injection'] | 1 | 2022-10-14 03:02:13+00:00 | 1703 | 0 | HTML | 0 | [] |
-| Unknown56406516401563456/PatchCheck | PatchCheck For The New Exploit Im Going To Make. | https://github.com/Unknown56406516401563456/PatchCheck | ['exploit'] | 1 | 2022-10-14 10:26:22+00:00 | 16 | 0 | | 0 | [] |
 | Abhimanyu08/RCE-blog-client | Client side code for rce-blog | https://github.com/Abhimanyu08/RCE-blog-client | ['rce'] | 1 | 2022-10-14 14:16:17+00:00 | 597 | 0 | TypeScript | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2022-10-14 07:55:05+00:00 | 46393 | 883 | Python | 204 | [] |
 | Al-Azif/exploit-host-dns | Docker based DNS component of the PS4/PS5 Exploit Host | https://github.com/Al-Azif/exploit-host-dns | ['exploit'] | 1 | 2022-10-14 04:29:52+00:00 | 20 | 6 | Shell | 2 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-10-14 02:49:44+00:00 | 1765 | 135 | HTML | 28 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2022-10-14 04:58:42+00:00 | 30575 | 3 | Python | 1 | [] |
@@ -90,7 +90,7 @@
 | loneicewolf/Stuxnet-Source | stuxnet Source & Binaries. ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! Includes: Source files, Binaries, PLC Samples,Fanny Added in another repo. | https://github.com/loneicewolf/Stuxnet-Source | ['0day'] | 1 | 2022-10-14 18:49:02+00:00 | 12089 | 65 | C | 26 | [] |
 | Al-Azif/exploit-host-http | Docker based HTTP(S) component of the PS4/PS5 Exploit Host | https://github.com/Al-Azif/exploit-host-http | ['exploit'] | 1 | 2022-10-14 03:28:00+00:00 | 35 | 2 | Shell | 0 | [] |
 | hugsy/pwn-- | pwn++ : my Windows & Linux pwn library to play with modern C++ - and yeah, it's pwn++, not pwn-- (it's a toy library constantly changing, don't count on it for stability) | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2022-10-14 01:28:39+00:00 | 1095 | 82 | C++ | 6 | [] |
-| DarkNeos/ygopro-doc | Documents about exploitation of web version of ygopro | https://github.com/DarkNeos/ygopro-doc | ['exploit'] | 1 | 2022-10-14 02:32:17+00:00 | 329 | 0 | | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-10-14 04:53:25+00:00 | 9483984 | 92 | Python | 11 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-10-14 00:49:51+00:00 | 19829 | 48 | | 25 | [] |
 | jamestiotio/CITM | Battle Cats MITM Mailbox Hack | https://github.com/jamestiotio/CITM | ['exploit'] | 1 | 2022-10-14 04:30:55+00:00 | 777 | 10 | Python | 6 | [] |
 | cypherpunks-core/cypherpunks-ctf | Cypherpunks CTF 智能合約漏洞攻擊 | https://github.com/cypherpunks-core/cypherpunks-ctf | ['exploit'] | 1 | 2022-10-14 14:50:40+00:00 | 8024 | 22 | JavaScript | 6 | [] |
@@ -106,9 +106,9 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2022-10-14 00:07:42+00:00 | 1534842 | 1698 | Python | 547 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-10-14 04:16:18+00:00 | 13014 | 4952 | Python | 684 | [] |
 | YTZirex/Zirexium-Exploit | None | https://github.com/YTZirex/Zirexium-Exploit | ['exploit'] | 1 | 2022-10-14 19:36:22+00:00 | 17 | 0 | | 0 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-10-14 04:53:25+00:00 | 9483984 | 92 | Python | 11 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-10-14 15:11:14+00:00 | 6931 | 30 | | 5 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-10-14 08:34:48+00:00 | 11473 | 4484 | TypeScript | 674 | [] |
+| DarkNeos/ygopro-doc | Documents about exploitation of web version of ygopro | https://github.com/DarkNeos/ygopro-doc | ['exploit'] | 1 | 2022-10-14 02:32:17+00:00 | 329 | 0 | | 0 | [] |
+| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-10-14 22:05:14+00:00 | 3477 | 33 | Rust | 2 | [] |
 | BeyondThe5D/Retrofiy | A Roblox script that aims to accurately simulate the 2016 Roblox client. | https://github.com/BeyondThe5D/Retrofiy | ['exploit'] | 1 | 2022-10-14 02:45:18+00:00 | 256 | 2 | Lua | 1 | [] |
 | Gan02s/exe-to-doc-exploits | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | ['exploit'] | 1 | 2022-10-14 11:01:44+00:00 | 14882 | 9 | | 0 | [] |
 | Gan02s/PDF-DOC-XLS-EXPLOIT | None | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | ['exploit'] | 1 | 2022-10-14 11:02:23+00:00 | 13424 | 10 | C++ | 1 | [] |
@@ -116,14 +116,15 @@
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-10-14 01:17:07+00:00 | 5799 | 49 | | 3 | [] |
 | emanuelepicas/UsefullExploits | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | ['exploit'] | 1 | 2022-10-14 02:03:18+00:00 | 261 | 0 | PHP | 0 | [] |
 | CronoX1/SQLI_STREAMIO.HTB | Python Script to exploit the login.php SQL Injection Vulnerability on Streamio.htb machine | https://github.com/CronoX1/SQLI_STREAMIO.HTB | ['exploit'] | 1 | 2022-10-14 19:22:25+00:00 | 7 | 0 | Python | 0 | [] |
+| ethicalblue/Follina-CVE-2022-30190-PoC-sample | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-10-14 15:49:57+00:00 | 1164 | 0 | C# | 1 | ['CVE-2022-30190'] |
 | edoardottt/awesome-hacker-search-engines | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2022-10-14 11:37:19+00:00 | 314 | 3522 | | 249 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-10-14 04:35:14+00:00 | 15208 | 29 | Go | 11 | [] |
 | sampo-kuutti/training-adversarial-agents | Adversarial RL agents for exploiting weaknesses in autonomous vehicles | https://github.com/sampo-kuutti/training-adversarial-agents | ['exploit'] | 1 | 2022-10-14 17:35:56+00:00 | 455 | 1 | Python | 0 | [] |
 | caique-garbim/MS17-010 | Explorando Windows 7 com EternalBlue (MS17-010) sem Metasploit. | https://github.com/caique-garbim/MS17-010 | ['metasploit module OR payload'] | 1 | 2022-10-14 00:16:09+00:00 | 9133 | 0 | | 0 | ['MS17-010'] |
 | teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-10-14 03:34:13+00:00 | 1580 | 9 | TypeScript | 0 | [] |
 | re7urn0/Linux-Exploit-Development-Learning | None | https://github.com/re7urn0/Linux-Exploit-Development-Learning | ['exploit'] | 1 | 2022-10-14 16:18:38+00:00 | 57 | 0 | | 0 | [] |
-| budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2022-10-14 22:05:14+00:00 | 3477 | 33 | Rust | 2 | [] |
 | TitaniumMC/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | ['exploit'] | 1 | 2022-10-14 17:44:12+00:00 | 3601 | 36 | Shell | 3 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-10-14 08:34:48+00:00 | 11473 | 4484 | TypeScript | 674 | [] |
 | nBp1Ng/FrameworkAndComponentVulnerabilities | Java框架及组件漏洞POC , 以及部分经验证的官方推荐的缓解措施，便于不升级组件情况下阻止漏洞。 缓解措施仅用于缓解漏洞影响，可能对系统存在未知影响；建议先评估再使用，并在配置后跑全流程回归，避免因更改配置对系统造成影响。 | https://github.com/nBp1Ng/FrameworkAndComponentVulnerabilities | ['vuln poc'] | 1 | 2022-10-14 08:11:00+00:00 | 69 | 2 | nan | 1 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2022-10-14 12:16:02+00:00 | 115 | 534 | Go | 32 | [] |
 | rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | IOT Forensics Thesis regarding Automation of Android apps exploiting UI Testing tools in order to collect huge data sets to analyze Wi-Fi traffic between android apps and IOT devices associated to them. Finally ML techniques are applied to estimate human b | https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | ['exploit'] | 1 | 2022-10-14 15:04:13+00:00 | 4612 | 0 | Jupyter Notebook | 0 | [] |
