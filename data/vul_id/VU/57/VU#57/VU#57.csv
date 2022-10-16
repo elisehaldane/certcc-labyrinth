@@ -19,7 +19,7 @@ VU#57,0.20000000,https://github.com/fazasaputra/exploit,fazasaputra/exploit,4610
 VU#57,0.20000000,https://github.com/xiaomiwujiecao/cleverShell,xiaomiwujiecao/cleverShell,180967944
 VU#57,0.16666667,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#57,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
-VU#57,0.12500000,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810
+VU#57,0.11111111,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810
 VU#57,0.11111111,https://github.com/hvmi/hvmi,hvmi/hvmi,283759384
 VU#57,0.09090909,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#57,0.09090909,https://github.com/yaklang/yakit,yaklang/yakit,416151847
@@ -109,6 +109,7 @@ VU#57,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-
 VU#57,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#57,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#57,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#57,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#57,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#57,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#57,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
@@ -171,6 +172,7 @@ VU#57,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasplo
 VU#57,0.00020012,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#57,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#57,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
+VU#57,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#57,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#57,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#57,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

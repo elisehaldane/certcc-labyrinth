@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2010-00752,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 CNVD-2010-00752,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
+CNVD-2010-00752,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 CNVD-2010-00752,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 CNVD-2010-00752,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
