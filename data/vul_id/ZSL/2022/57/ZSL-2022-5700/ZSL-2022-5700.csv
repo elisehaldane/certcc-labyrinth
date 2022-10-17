@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2022-5700,0.00116279,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2022-5700,0.00115340,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2022-5700,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 ZSL-2022-5700,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 ZSL-2022-5700,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 ZSL-2022-5700,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-ZSL-2022-5700,0.00001486,https://github.com/trickest/cve,trickest/cve,454015416
+ZSL-2022-5700,0.00001483,https://github.com/trickest/cve,trickest/cve,454015416
