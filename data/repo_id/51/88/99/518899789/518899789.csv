@@ -1,11 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
 518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/exploit.c,1282934ac33de81d4cbf689e58b48f9ef7c7942c,CVE-2022-0847
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#10
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#11
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#12
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#13
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#14
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#20
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#21
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#22
-518899789,Gan02s/PDF-DOC-XLS-EXPLOIT,Exploit/bin/Release/builder.exe,393e18400f5f2844b314c1ddf8cefed1eb7d61e5,VU#25
