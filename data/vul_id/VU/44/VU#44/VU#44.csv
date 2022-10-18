@@ -4,6 +4,7 @@ VU#44,1.00000000,https://github.com/WMCB-Tech/RickSploit,WMCB-Tech/RickSploit,34
 VU#44,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
 VU#44,0.50000000,https://github.com/VVeakee/CVE-2022-24990-POC,VVeakee/CVE-2022-24990-POC,468177153
 VU#44,0.33333333,https://github.com/jhftss/CVE-2022-22639,jhftss/CVE-2022-22639,470871002
+VU#44,0.25000000,https://github.com/zangcc/Aazhen-RexHa,zangcc/Aazhen-RexHa,464439564
 VU#44,0.25000000,https://github.com/neurosutras/optimize_cells,neurosutras/optimize_cells,115853066
 VU#44,0.20000000,https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271,SaumyajeetDas/POC-of-CVE-2022-36271,525521767
 VU#44,0.20000000,https://github.com/v0x45/PassGen-by-Rayan-w-Backdoor,v0x45/PassGen-by-Rayan-w-Backdoor,486184135
@@ -76,7 +77,6 @@ VU#44,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-write
 VU#44,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#44,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#44,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
-VU#44,0.01123596,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#44,0.01111111,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#44,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#44,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
@@ -92,6 +92,7 @@ VU#44,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP
 VU#44,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#44,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#44,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#44,0.00819672,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#44,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#44,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#44,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852

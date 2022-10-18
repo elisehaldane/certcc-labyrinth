@@ -13,6 +13,7 @@ VU#70,0.25000000,https://github.com/aeyesec/CVE-2021-31805,aeyesec/CVE-2021-3180
 VU#70,0.20000000,https://github.com/lijiejie/swagger-exp,lijiejie/swagger-exp,350607453
 VU#70,0.20000000,https://github.com/jm33-m0/static-bins,jm33-m0/static-bins,313888500
 VU#70,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
+VU#70,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
 VU#70,0.12500000,https://github.com/JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,467904542
 VU#70,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExploitS_English,535005507
 VU#70,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,534967733
@@ -117,7 +118,6 @@ VU#70,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-write
 VU#70,0.01219512,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#70,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#70,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
-VU#70,0.01123596,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#70,0.01111111,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#70,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#70,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -133,6 +133,7 @@ VU#70,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP
 VU#70,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#70,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#70,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
+VU#70,0.00819672,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#70,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#70,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#70,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
