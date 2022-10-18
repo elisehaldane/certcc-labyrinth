@@ -139,7 +139,6 @@ MS08-067,0.11111111,https://github.com/aryanguenthner/365,aryanguenthner/365,264
 MS08-067,0.11111111,https://github.com/rodriguezcoding/hackthebox_exploited_machines_notes,rodriguezcoding/hackthebox_exploited_machines_notes,256037841
 MS08-067,0.10000000,https://github.com/L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,338316702
 MS08-067,0.10000000,https://github.com/ajes-xfr-team/bin-exploits,ajes-xfr-team/bin-exploits,307359751
-MS08-067,0.10000000,https://github.com/ihebski/A-Red-Teamer-diaries,ihebski/A-Red-Teamer-diaries,197602204
 MS08-067,0.10000000,https://github.com/stick-fish/exploits,stick-fish/exploits,159865767
 MS08-067,0.10000000,https://github.com/mrcakil/ToolsBox-Exploiter,mrcakil/ToolsBox-Exploiter,124238551
 MS08-067,0.10000000,https://github.com/sujeetmt/metasploit,sujeetmt/metasploit,118145841
@@ -156,6 +155,7 @@ MS08-067,0.09090909,https://github.com/fishi0x01/exploits,fishi0x01/exploits,180
 MS08-067,0.09090909,https://github.com/GoVanguard/legion,GoVanguard/legion,149422623
 MS08-067,0.08333333,https://github.com/leecybersec/exploitation,leecybersec/exploitation,320358323
 MS08-067,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
+MS08-067,0.08333333,https://github.com/ihebski/A-Red-Teamer-diaries,ihebski/A-Red-Teamer-diaries,197602204
 MS08-067,0.08333333,https://github.com/pierlon/metasploit-framework-wiki,pierlon/metasploit-framework-wiki,130760001
 MS08-067,0.08333333,https://github.com/nawfling/metasploitframework-wiki,nawfling/metasploitframework-wiki,128749834
 MS08-067,0.07692308,https://github.com/sysop200/PowerShellSploit,sysop200/PowerShellSploit,248497015
@@ -389,7 +389,7 @@ MS08-067,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasp
 MS08-067,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS08-067,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 MS08-067,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
-MS08-067,0.00031397,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
+MS08-067,0.00031377,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS08-067,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 MS08-067,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 MS08-067,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
@@ -441,8 +441,8 @@ MS08-067,0.00023602,https://github.com/jennotl/metasploit-docker,jennotl/metaspl
 MS08-067,0.00023563,https://github.com/blue-star-software/metasploit-framework,blue-star-software/metasploit-framework,174035757
 MS08-067,0.00023073,https://github.com/mkdirlove/METASPLOIT-FRAMEWORK,mkdirlove/METASPLOIT-FRAMEWORK,202658385
 MS08-067,0.00022978,https://github.com/samba234/metasploit-framework,samba234/metasploit-framework,209766275
-MS08-067,0.00022925,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00022920,https://github.com/komander/dan-metasploit,komander/dan-metasploit,218967281
+MS08-067,0.00022915,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS08-067,0.00022878,https://github.com/cyberghost2h1/metasploit-framework,cyberghost2h1/metasploit-framework,223357337
 MS08-067,0.00022878,https://github.com/tanmay-1234/metasploit,tanmay-1234/metasploit,222222271
 MS08-067,0.00022826,https://github.com/PleXone2019/rapid7-metasploit-framework,PleXone2019/rapid7-metasploit-framework,230519533

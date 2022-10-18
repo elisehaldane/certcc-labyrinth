@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS13-053,0.10000000,https://github.com/bcheung/EE379K-Lab-3-APT-Fuzzing-Exploitation,bcheung/EE379K-Lab-3-APT-Fuzzing-Exploitation,216675078
-MS13-053,0.10000000,https://github.com/ihebski/A-Red-Teamer-diaries,ihebski/A-Red-Teamer-diaries,197602204
 MS13-053,0.10000000,https://github.com/pentest-academy/windows-privilege-escalation,pentest-academy/windows-privilege-escalation,87706784
+MS13-053,0.08333333,https://github.com/ihebski/A-Red-Teamer-diaries,ihebski/A-Red-Teamer-diaries,197602204
 MS13-053,0.07142857,https://github.com/existXFx/metasploit-modules,existXFx/metasploit-modules,96632234
 MS13-053,0.05882353,https://github.com/benyG/PentaDrone,benyG/PentaDrone,218828715
 MS13-053,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
