@@ -10,6 +10,7 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
+VU#18,0.50000000,https://github.com/mmbarbas/smartcontracts_exploits,mmbarbas/smartcontracts_exploits,554115057
 VU#18,0.50000000,https://github.com/0xC4LL3/damn-vulnerable-defi-exploits,0xC4LL3/damn-vulnerable-defi-exploits,548901760
 VU#18,0.50000000,https://github.com/itsnebulalol/betterbadges,itsnebulalol/betterbadges,520949621
 VU#18,0.50000000,https://github.com/YieldingExploiter/StepfordExploitableRailway,YieldingExploiter/StepfordExploitableRailway,515967705
@@ -267,8 +268,8 @@ VU#18,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/m
 VU#18,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 VU#18,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 VU#18,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-VU#18,0.00020125,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#18,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
-VU#18,0.00020008,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#18,0.00020000,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#18,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
