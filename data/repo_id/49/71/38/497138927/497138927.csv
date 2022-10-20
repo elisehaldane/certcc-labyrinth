@@ -34,11 +34,11 @@ repo_id,repo_full_name,file,file_sha1,match
 497138927,efchatz/easy-exploits,Web/D-Link/CVE-2021-41441/exploit_http,776450d6aea8fc06f653e0908d9b77a6b93cf9a9,CVE-2021-41441
 497138927,efchatz/easy-exploits,Web/D-Link/CVE-2021-41442/exploit_http2.sh,7904b6dbafc2143aa6a1e9445f78250d3fceca7c,CVE-2021-41442
 497138927,efchatz/easy-exploits,Web/ASUS/CVE-2021-41436/exploit_http.sh,97d82e1e10ef0ffe622c5122f725a395d6adc997,CVE-2021-41436
-497138927,efchatz/easy-exploits,Web/TP-Link/CVE-2022-41540/README.md,b01973adf0fc44eb41793aa3c6b583a8f4730c2e,CVE-2022-41540
+497138927,efchatz/easy-exploits,Web/TP-Link/Offline-decryption/README.md,b01973adf0fc44eb41793aa3c6b583a8f4730c2e,CVE-2022-41540
 497138927,efchatz/easy-exploits,Web/D-Link/CVE-2021-41445/exploit_http.sh,b4c7448ccf868e05ebdd9c26b1f14e362837b0b8,CVE-2021-41445
 497138927,efchatz/easy-exploits,Web/D-Link/CVE-2021-46353/exploit_http.sh,d56fc1617f42a737337ae37db048774071c36396,CVE-2021-46353
 497138927,efchatz/easy-exploits,Web/Netgear/CVE-2021-41449/exploit_http.sh,e6f4da4b8b6d23c64944c7842b51fdaca482b984,CVE-2021-41449
-497138927,efchatz/easy-exploits,Web/TP-Link/CVE-2022-41541/README.md,f0827369d7e05384e9e4a736521aac9462b17642,CVE-2022-41541
+497138927,efchatz/easy-exploits,Web/TP-Link/Replay/README.md,f0827369d7e05384e9e4a736521aac9462b17642,CVE-2022-41541
 497138927,efchatz/easy-exploits,Web/D-Link/CVE-2021-41442/exploit_http3.sh,f25272c7a80789fda6449ad426382f22596a8ba3,CVE-2021-41442
 497138927,efchatz/easy-exploits,_GITHUB_REPO_METADATA_,,CVE-2021-37910
 497138927,efchatz/easy-exploits,_GITHUB_REPO_METADATA_,,CVE-2021-40288
