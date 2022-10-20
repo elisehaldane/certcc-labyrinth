@@ -23,6 +23,7 @@ VU#87,0.08333333,https://github.com/Louzogh/CVE-2021-31800,Louzogh/CVE-2021-3180
 VU#87,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
 VU#87,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
 VU#87,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
+VU#87,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
 VU#87,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
 VU#87,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#87,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
@@ -199,7 +200,7 @@ VU#87,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#87,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#87,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 VU#87,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#87,0.00020000,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#87,0.00019996,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#87,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#87,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#87,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
