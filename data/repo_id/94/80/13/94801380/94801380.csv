@@ -247,23 +247,23 @@ repo_id,repo_full_name,file,file_sha1,match
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/commandlinekungfu.pdf,b474bb91de256592443d4f69914020e7a26a7d51,VU#333
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/commandlinekungfu.pdf,b474bb91de256592443d4f69914020e7a26a7d51,VU#79
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/Poster_SIFT_REMnux_2016_FINAL.pdf,b5fac4a709f9bba4f93646c5c468807b91d9b890,VU#93
-94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#555
-94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#44
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2021-42287
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,MS17-010
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2020-0796
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2019-15126
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2021-4034
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2022-26134
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2021-42278
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2022-22965
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2021-45046
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2021-40444
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2021-44228
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2021-41773
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2022-22963
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,c14f2f2470c4178cc1b6ba0d45dae1e9a2bda191,CVE-2022-27254
 94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#76
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2021-42287
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,MS17-010
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2020-0796
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2019-15126
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2021-4034
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2022-26134
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2022-22965
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2022-22963
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2021-45046
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2021-40444
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2021-44228
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2021-41773
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2021-42278
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,c75869ddd331b24c5797df29374ca36a75238af5,CVE-2022-27254
+94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#44
+94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#555
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/malware-analysis-cheat-sheet.pdf,c921915eda3dec0aa727bf699dde282020ffacc7,VU#22
 94801380,The-Art-of-Hacking/h4cker,exploit_development/README.md,cad326e55c04258b4fdd575b508fc141242692e5,MS09-050
 94801380,The-Art-of-Hacking/h4cker,exploit_development/README.md,cad326e55c04258b4fdd575b508fc141242692e5,CVE-2017-0199
