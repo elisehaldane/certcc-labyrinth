@@ -30,7 +30,7 @@ repo_id,repo_full_name,file,file_sha1,match
 290662420,VulnTotal-Team/IoT-vulhub,Tenda/CVE-2018-16333/system-emu/tools/getlibc.sh,37c028fcef65bb60cf14c2b968bf2e8ab92f7618,CVE-2018-16333
 290662420,VulnTotal-Team/IoT-vulhub,HUAWEI/CVE-2017-17215/system-emu/run.sh,3a08585dee715ec32de2c2858b77364272b44219,CVE-2017-17215
 290662420,VulnTotal-Team/IoT-vulhub,HUAWEI/CVE-2017-17215/firmware/HG532eV100R001C01B020_upgrade_packet.bin,3e3d2a5f84f19d89a63c73435c9fc4db1b77982c,CVE-2017-17215
-290662420,VulnTotal-Team/IoT-vulhub,D-Link/CVE-2019-17621/firmae-emu/tools/exp.py,4859bb9f2a80b0d29a6caf8323251e8ca4be8b5e,CVE-2019-17621
+290662420,VulnTotal-Team/IoT-vulhub,D-Link/CVE-2019-17621/firmadyne-emu/tools/exp.py,4859bb9f2a80b0d29a6caf8323251e8ca4be8b5e,CVE-2019-17621
 290662420,VulnTotal-Team/IoT-vulhub,TP-Link/CVE-2020-8423/system-emu/run.sh,517530ffadc152bc6ea3e8d725435caf9b4aa48f,CVE-2020-8423
 290662420,VulnTotal-Team/IoT-vulhub,Netgear/CVE-2019-20760/system-emu/run.sh,5a50f804bee82fd75bdbd87410e5e506754ab0ff,CVE-2019-20760
 290662420,VulnTotal-Team/IoT-vulhub,D-Link/CVE-2020-8962/qiling-emu/tools/poc.py,614b9d51547274b3c4b9ae1494ef5d38f962ce92,CVE-2020-8962
