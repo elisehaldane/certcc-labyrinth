@@ -1,1 +1,4 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+554498563,joshuar49/EvilSmurf2,BleedingTooth/CVE-2020-12351 (BadKarma)/C file,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2020-12351
+554498563,joshuar49/EvilSmurf2,BleedingTooth/CVE-2020-12352 (BadChoice)/C file,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2020-12352
+554498563,joshuar49/EvilSmurf2,BleedingTooth/CVE-2020-24490 (BadVibes)/C file,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2020-24490
