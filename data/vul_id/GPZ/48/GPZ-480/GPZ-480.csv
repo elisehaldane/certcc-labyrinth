@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-480,0.01785714,https://github.com/manjunath5496/Linux-Kernel-Exploitation-Papers,manjunath5496/Linux-Kernel-Exploitation-Papers,397068452
+GPZ-480,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
 GPZ-480,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 GPZ-480,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
 GPZ-480,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550639048

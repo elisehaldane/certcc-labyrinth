@@ -11,6 +11,7 @@ VU#11,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV
 VU#11,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#11,0.16666667,https://github.com/fengguangbin/spring-rce-war,fengguangbin/spring-rce-war,475841116
 VU#11,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,475787299
+VU#11,0.14285714,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
 VU#11,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#11,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#11,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-repo,487085739
@@ -72,6 +73,7 @@ VU#11,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-
 VU#11,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#11,0.01351351,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#11,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
+VU#11,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
 VU#11,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#11,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#11,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523

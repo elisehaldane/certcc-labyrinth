@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1267,0.01785714,https://github.com/manjunath5496/Linux-Kernel-Exploitation-Papers,manjunath5496/Linux-Kernel-Exploitation-Papers,397068452
+GPZ-1267,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
 GPZ-1267,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1267,0.00005379,https://github.com/1oid/exploitsearch,1oid/exploitsearch,111814394
 GPZ-1267,0.00005357,https://github.com/R3K1NG/exploit-database,R3K1NG/exploit-database,107473902
