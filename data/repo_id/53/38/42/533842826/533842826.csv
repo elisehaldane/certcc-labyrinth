@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
+533842826,zxzxz1/YUB-Exploit,YUB-Exploit.exe,0821663c72db25507f3901b91473bff44c58556e,VU#23
+533842826,zxzxz1/YUB-Exploit,YUB-Exploit.exe,0821663c72db25507f3901b91473bff44c58556e,VU#30
+533842826,zxzxz1/YUB-Exploit,YUB-Exploit.exe,0821663c72db25507f3901b91473bff44c58556e,VU#65
+533842826,zxzxz1/YUB-Exploit,YUB-Exploit.exe,0821663c72db25507f3901b91473bff44c58556e,VU#86
 533842826,zxzxz1/YUB-Exploit,ace/ace/theme-ambiance.js,4a687afcd82873c38b00061c3ac8d93d8ed293fe,VU#72
 533842826,zxzxz1/YUB-Exploit,ace/ace/theme-ambiance.js,4a687afcd82873c38b00061c3ac8d93d8ed293fe,VU#74
-533842826,zxzxz1/YUB-Exploit,YUB-Exploit.exe,646462e2ec651e29b8a75ac1ba7e74807a7483f3,VU#60
-533842826,zxzxz1/YUB-Exploit,exploit-main.dll,f60d8bd1d54109d6bcfce41858aade3c8bf2efb3,VU#90
-533842826,zxzxz1/YUB-Exploit,kernel64.sys.dll,f61e8aeb826f9d7d8709b0f6787810dad646342e,VU#45
-533842826,zxzxz1/YUB-Exploit,kernel64.sys.dll,f61e8aeb826f9d7d8709b0f6787810dad646342e,VU#74
