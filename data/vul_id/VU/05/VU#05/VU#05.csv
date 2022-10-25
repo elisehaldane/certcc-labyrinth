@@ -30,7 +30,6 @@ VU#05,0.12500000,https://github.com/FerencStarterDev/Storm-Exploit,FerencStarter
 VU#05,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits,FerencStarterDev/Storm-Exploits,550806795
 VU#05,0.12500000,https://github.com/ails-lab/with,ails-lab/with,263122268
 VU#05,0.12500000,https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,259394786
-VU#05,0.09090909,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#05,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
 VU#05,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowbase/active-directory-abuse-notes,522582748
 VU#05,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
@@ -55,9 +54,10 @@ VU#05,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAz
 VU#05,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
 VU#05,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#05,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
-VU#05,0.03125000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
+VU#05,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#05,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#05,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
+VU#05,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#05,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#05,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#05,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
@@ -83,8 +83,8 @@ VU#05,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET
 VU#05,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#05,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#05,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
+VU#05,0.01250000,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#05,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
-VU#05,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#05,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#05,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#05,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
@@ -161,6 +161,7 @@ VU#05,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#05,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#05,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 VU#05,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#05,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#05,0.00019992,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#05,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#05,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478

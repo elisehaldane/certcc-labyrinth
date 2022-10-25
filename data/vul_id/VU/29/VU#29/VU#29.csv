@@ -132,13 +132,13 @@ VU#29,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,C
 VU#29,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#29,0.03333333,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#29,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
-VU#29,0.03125000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#29,0.02941176,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 VU#29,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#29,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#29,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#29,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#29,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
+VU#29,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#29,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#29,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#29,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
@@ -309,7 +309,7 @@ VU#29,0.00184162,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#29,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#29,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
-VU#29,0.00110619,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00109890,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#29,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -332,6 +332,7 @@ VU#29,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#29,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#29,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 VU#29,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#29,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#29,0.00019992,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

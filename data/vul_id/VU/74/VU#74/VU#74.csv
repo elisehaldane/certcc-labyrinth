@@ -29,10 +29,10 @@ VU#74,0.25000000,https://github.com/0x3SC4L4T3/Apache-Log4j-POC,0x3SC4L4T3/Apach
 VU#74,0.25000000,https://github.com/notSkyFrost/RoMYSQL,notSkyFrost/RoMYSQL,437366363
 VU#74,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#74,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
-VU#74,0.20000000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#74,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
 VU#74,0.20000000,https://github.com/anvbis/windows.x86.expl,anvbis/windows.x86.expl,438593074
 VU#74,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
+VU#74,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#74,0.16666667,https://github.com/Jennahacker/zenna_rat,Jennahacker/zenna_rat,530778241
 VU#74,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
 VU#74,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
@@ -75,7 +75,6 @@ VU#74,0.04000000,https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama,ala
 VU#74,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
 VU#74,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#74,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
-VU#74,0.03125000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#74,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#74,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#74,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
@@ -89,6 +88,7 @@ VU#74,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#74,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#74,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#74,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
+VU#74,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#74,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#74,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#74,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073

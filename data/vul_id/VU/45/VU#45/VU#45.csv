@@ -42,7 +42,6 @@ VU#45,0.25000000,https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-6
 VU#45,0.25000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,478494950
 VU#45,0.25000000,https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,466011549
 VU#45,0.25000000,https://github.com/0xalwayslucky/log4j-polkit-poc,0xalwayslucky/log4j-polkit-poc,452823928
-VU#45,0.20000000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#45,0.20000000,https://github.com/Shaddyjr/simon_explore_v__exploit,Shaddyjr/simon_explore_v__exploit,503661195
 VU#45,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
 VU#45,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
@@ -52,7 +51,6 @@ VU#45,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,54
 VU#45,0.12500000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,523104242
 VU#45,0.11111111,https://github.com/ArkAngeL43/Red-Rabbit,ArkAngeL43/Red-Rabbit,420441425
 VU#45,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
-VU#45,0.09090909,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#45,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMarchiori/CVE-2021-3156,510379940
 VU#45,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
 VU#45,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
@@ -98,6 +96,7 @@ VU#45,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
 VU#45,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
 VU#45,0.02857143,https://github.com/darkxex/ps4,darkxex/ps4,438368269
 VU#45,0.02857143,https://github.com/kmeps4/leeful900,kmeps4/leeful900,438099843
+VU#45,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#45,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#45,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#45,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
@@ -237,6 +236,7 @@ VU#45,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#45,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#45,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 VU#45,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#45,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#45,0.00019992,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#45,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#45,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

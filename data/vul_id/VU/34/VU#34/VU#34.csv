@@ -22,7 +22,6 @@ VU#34,0.12500000,https://github.com/Dimples1337/NewSilenceFix-opensources,Dimple
 VU#34,0.10000000,https://github.com/XiaoliChan/Invoke-sAMSpoofing,XiaoliChan/Invoke-sAMSpoofing,476650535
 VU#34,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
 VU#34,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
-VU#34,0.09090909,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#34,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
 VU#34,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
 VU#34,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
@@ -45,6 +44,7 @@ VU#34,0.03333333,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT
 VU#34,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
 VU#34,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#34,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
+VU#34,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#34,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#34,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#34,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
@@ -79,8 +79,8 @@ VU#34,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#34,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#34,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#34,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
+VU#34,0.01250000,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#34,0.01219512,https://github.com/richteague/gofish,richteague/gofish,199306909
-VU#34,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#34,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#34,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#34,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
@@ -161,6 +161,7 @@ VU#34,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#34,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#34,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 VU#34,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#34,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#34,0.00019992,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#34,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#34,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

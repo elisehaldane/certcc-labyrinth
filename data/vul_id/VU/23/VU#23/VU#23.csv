@@ -39,6 +39,7 @@ VU#23,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#23,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
 VU#23,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
 VU#23,0.16666667,https://github.com/ocastel/log4j-shell-poc,ocastel/log4j-shell-poc,539366249
+VU#23,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#23,0.16666667,https://github.com/vidrez/log4j-rce-poc,vidrez/log4j-rce-poc,503471159
 VU#23,0.16666667,https://github.com/NagisaYumaa/Log4j_Exploit,NagisaYumaa/Log4j_Exploit,498220300
 VU#23,0.16666667,https://github.com/Phineas09/CVE-2021-44228,Phineas09/CVE-2021-44228,491872919
@@ -135,9 +136,9 @@ VU#23,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-r
 VU#23,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#23,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#23,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
+VU#23,0.01250000,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#23,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#23,0.01219512,https://github.com/richteague/gofish,richteague/gofish,199306909
-VU#23,0.01162791,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#23,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#23,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#23,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
@@ -233,5 +234,6 @@ VU#23,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metas
 VU#23,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 VU#23,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 VU#23,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#23,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#23,0.00019992,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

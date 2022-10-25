@@ -24,11 +24,11 @@ MS16-051,0.00320513,https://github.com/GamehunterKaan/AutoPWN-Suite,GamehunterKa
 MS16-051,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS16-051,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS16-051,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-MS16-051,0.00073421,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS16-051,0.00073046,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS16-051,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS16-051,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 MS16-051,0.00049044,https://github.com/0xT11/CVE-POC,0xT11/CVE-POC,300646632
-MS16-051,0.00031270,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
+MS16-051,0.00031260,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS16-051,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS16-051,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS16-051,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
@@ -72,9 +72,9 @@ MS16-051,0.00022978,https://github.com/samba234/metasploit-framework,samba234/me
 MS16-051,0.00022920,https://github.com/komander/dan-metasploit,komander/dan-metasploit,218967281
 MS16-051,0.00022878,https://github.com/cyberghost2h1/metasploit-framework,cyberghost2h1/metasploit-framework,223357337
 MS16-051,0.00022878,https://github.com/tanmay-1234/metasploit,tanmay-1234/metasploit,222222271
-MS16-051,0.00022841,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-051,0.00022826,https://github.com/PleXone2019/rapid7-metasploit-framework,PleXone2019/rapid7-metasploit-framework,230519533
 MS16-051,0.00022826,https://github.com/praetorian-inc/purple-team-attack-automation,praetorian-inc/purple-team-attack-automation,180223091
+MS16-051,0.00022805,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-051,0.00022769,https://github.com/jy0t/https-github.com-rapid7-metasploit-framework,jy0t/https-github.com-rapid7-metasploit-framework,235943671
 MS16-051,0.00022743,https://github.com/Panupong9844/metasploit-framework,Panupong9844/metasploit-framework,242610427
 MS16-051,0.00022416,https://github.com/RakhithJK/rapid7-metasploit-framework,RakhithJK/rapid7-metasploit-framework,262228153
@@ -110,6 +110,7 @@ MS16-051,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Me
 MS16-051,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 MS16-051,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 MS16-051,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS16-051,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 MS16-051,0.00019992,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS16-051,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS16-051,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
