@@ -4,6 +4,7 @@ repo_id,repo_full_name,file,file_sha1,match
 556869304,N1rv0us/kernel_exploitation,CVE-2016-5195/poc/dcow.c,180c33faeecaae5a183eb6ace597b895adaac2d5,CVE-2016-5195
 556869304,N1rv0us/kernel_exploitation,CVE-2016-5195/poc/Makefile,1983d73011f38d73a70c017ada2d2713097df8e5,CVE-2016-5195
 556869304,N1rv0us/kernel_exploitation,CVE-2015-3636/poc/Application.mk,2dc1f0509780820d90fc504972e0b3371b2d5455,CVE-2015-3636
+556869304,N1rv0us/kernel_exploitation,CVE-2019-2215/poc/Makefile,368ab954c7f4590851bdb7108b9453c1ead802e8,CVE-2019-2215
 556869304,N1rv0us/kernel_exploitation,CVE-2015-3636/poc/exploit.c,3adf2285bfaf1be3f0c035a0946d4ea284d96e55,CVE-2015-3636
 556869304,N1rv0us/kernel_exploitation,CVE-2015-3636/poc/kernelhelp.h,45d510be5d034e41b669d1278be813e1d0fc889f,CVE-2015-3636
 556869304,N1rv0us/kernel_exploitation,CVE-2019-2215/env/kasan_bzImage,47904f749a1347764a31202f8a7f460abe29781b,CVE-2019-2215
@@ -23,6 +24,7 @@ repo_id,repo_full_name,file,file_sha1,match
 556869304,N1rv0us/kernel_exploitation,CVE-2019-2215/env/x86_64_ranchu_kasan_defconfig,d3b2eb6e6f083e2a1d721f5151c2fc80728fab8e,CVE-2019-2215
 556869304,N1rv0us/kernel_exploitation,CVE-2015-3636/env/android-problem-env/ramdisk.img,da274c9a365d5dbde4255c19478f1919a1e55e1a,CVE-2015-3636
 556869304,N1rv0us/kernel_exploitation,CVE-2019-2215/README.md,e36deff2696d61159f64cccae517f14b6038cf07,CVE-2019-2215
+556869304,N1rv0us/kernel_exploitation,CVE-2019-2215/poc/explore.cpp,e5c14fc97d26e1cdc9fb9245ee32edb17b1c7b54,CVE-2019-2215
 556869304,N1rv0us/kernel_exploitation,CVE-2015-3636/env/android-problem-env/Image,e8246ab1af0c7de45eba85d8004266a655c76f2a,CVE-2015-3636
 556869304,N1rv0us/kernel_exploitation,CVE-2016-5195/poc/run-as.c,ed0079d1e2c07d80d57ef7b91be5952242cff35b,CVE-2016-5195
 556869304,N1rv0us/kernel_exploitation,CVE-2015-3636/env/android-problem-env/start.sh,eec2a690e9bc2763b9b912a9a4ee430f411a836d,CVE-2015-3636
