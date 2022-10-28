@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+558508203,gustavorobertux/gotigate,main.go,12acedf6328cd9b48ab2a7fc1efafbc56827af4e,CVE-2022-40684
+558508203,gustavorobertux/gotigate,README.md,d739c80e662789e326e878a55a45a310e34c1496,CVE-2022-40684
+558508203,gustavorobertux/gotigate,_GITHUB_REPO_METADATA_,,CVE-2022-40684
