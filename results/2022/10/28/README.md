@@ -1,0 +1,34 @@
+
+# Summary for results/2022/10/28
+    
+27 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-10-28 02:04:15+00:00 | 809288 | 28560 | Ruby | 12626 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-10-28 00:09:14+00:00 | 12182 | 96 | | 11 | [] |
+| Ragazzi22/EclipseWare-Free-Roblox-Exploits-v1.7 | Roblox Eclipseware Exploits over 50 in one program | https://github.com/Ragazzi22/EclipseWare-Free-Roblox-Exploits-v1.7 | ['exploit'] | 1 | 2022-10-28 04:17:07+00:00 | 0 | 1 | | 0 | [] |
+| Ragazzi22/Nyve-Keyless-Roblox-Premium-Exploit | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/Ragazzi22/Nyve-Keyless-Roblox-Premium-Exploit | ['exploit'] | 1 | 2022-10-28 04:17:08+00:00 | 0 | 1 | | 0 | [] |
+| hughink/CVE-2022-40684 | nan | https://github.com/hughink/CVE-2022-40684 | ['cve-2 OR cve_2'] | 1 | 2022-10-28 04:07:23+00:00 | 2 | 0 | nan | 0 | ['CVE-2022-40684'] |
+| cvelopers/COMP229-F2022-A2-CVEL | nan | https://github.com/cvelopers/COMP229-F2022-A2-CVEL | ['cve-2 OR cve_2'] | 1 | 2022-10-28 03:38:08+00:00 | 0 | 0 | nan | 0 | [] |
+| Exploit333/Exploit333 | None | https://github.com/Exploit333/Exploit333 | ['exploit'] | 1 | 2022-10-28 02:10:22+00:00 | 0 | 0 | | 0 | [] |
+| yonggui-li/CVE-2021-43890_poc | None | https://github.com/yonggui-li/CVE-2021-43890_poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-10-28 01:46:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-43890'] |
+| zhizhuoshuma/cnvd_general_assets | 配合爱企查和fofa实现注册资本大于5000w公司的公网通用资产查询搜索，方便证书挖掘 | https://github.com/zhizhuoshuma/cnvd_general_assets | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-10-28 02:31:53+00:00 | 447 | 3 | Python | 2 | [] |
+| jennifercarreno/Jinja2-ExploitMe | None | https://github.com/jennifercarreno/Jinja2-ExploitMe | ['exploit'] | 1 | 2022-10-28 00:24:37+00:00 | 70 | 0 | HTML | 0 | [] |
+| Exopteron/BiblioRCE | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | ['exploit', 'rce', 'remote code execution'] | 3 | 2022-10-28 03:30:00+00:00 | 237 | 3 | Java | 0 | [] |
+| Python2043/MelonSploit-v1.0 | may or may not work im not too much of a scripter but im a tech savvy person and i use mainly youtube and google for help on the hardest things, but yeah either way i hope you enjoy even if its not the best i may come out with some future updates with more | https://github.com/Python2043/MelonSploit-v1.0 | ['sploit'] | 1 | 2022-10-28 01:22:48+00:00 | 9 | 1 | nan | 0 | [] |
+| fr4nc1stein/osint-framework | A python based Open Source Intelligence CLI framework similar to Metasploit. | https://github.com/fr4nc1stein/osint-framework | ['metasploit module OR payload'] | 1 | 2022-10-28 03:38:15+00:00 | 109 | 11 | Python | 0 | [] |
+| BeyondThe5D/Retrofiy | A Roblox script that aims to accurately simulate the 2016 Roblox client. | https://github.com/BeyondThe5D/Retrofiy | ['exploit'] | 1 | 2022-10-28 02:44:56+00:00 | 343 | 3 | Lua | 1 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2022-10-28 00:33:15+00:00 | 111354 | 341 | Ruby | 96 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-10-28 04:25:23+00:00 | 16859 | 34 | Go | 12 | [] |
+| Captain-S0L0/serverutilities | a collection of exploit fixes, commands, and other things for fabric mc | https://github.com/Captain-S0L0/serverutilities | ['exploit'] | 1 | 2022-10-28 04:12:57+00:00 | 198 | 0 | Java | 0 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-10-28 00:42:48+00:00 | 353820 | 3 | Jupyter Notebook | 0 | [] |
+| notplu/Nullify | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | ['exploit'] | 1 | 2022-10-28 00:59:21+00:00 | 103 | 9 | JavaScript | 8 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-10-28 04:04:28+00:00 | 9846607 | 96 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-10-28 02:29:57+00:00 | 2345 | 137 | HTML | 29 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-10-28 04:01:20+00:00 | 287763 | 538 | Python | 144 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-10-28 00:33:32+00:00 | 128 | 0 | PHP | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-10-28 05:03:42+00:00 | 676653 | 64 | | 23 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-10-28 00:50:03+00:00 | 22305 | 48 | | 26 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-10-28 04:32:48+00:00 | 581471 | 212 | REXX | 26 | [] |
+| redhat-appstudio-appdata/-default-impose-exploit | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-impose-exploit | ['exploit'] | 1 | 2022-10-28 04:20:26+00:00 | 0 | 0 | | 0 | [] |
