@@ -144,6 +144,7 @@ VU#32,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#32,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#32,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#32,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#32,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#32,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
@@ -166,6 +167,7 @@ VU#32,0.01351351,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSpl
 VU#32,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 VU#32,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#32,0.01333333,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
+VU#32,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#32,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#32,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#32,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824

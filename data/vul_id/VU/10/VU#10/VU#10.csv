@@ -5,6 +5,7 @@ VU#10,0.50000000,https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CV
 VU#10,0.50000000,https://github.com/qjh2333/CVE-2019-10999,qjh2333/CVE-2019-10999,467862315
 VU#10,0.50000000,https://github.com/F6JO/CVE-2020-0796-Batch-scanning,F6JO/CVE-2020-0796-Batch-scanning,422054053
 VU#10,0.50000000,https://github.com/MartinSohn/CVE-2020-8816,MartinSohn/CVE-2020-8816,272513732
+VU#10,0.50000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#10,0.33333333,https://github.com/0neday/MA5671-exploit,0neday/MA5671-exploit,504577829
 VU#10,0.33333333,https://github.com/Kob123678/KoSploit-Setup,Kob123678/KoSploit-Setup,490667768
 VU#10,0.33333333,https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0409,nanopathi/system_core_AOSP10_r33_CVE-2020-0409,484024754
@@ -121,6 +122,7 @@ VU#10,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#10,0.01388889,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#10,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#10,0.01351351,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
+VU#10,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#10,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#10,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#10,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
