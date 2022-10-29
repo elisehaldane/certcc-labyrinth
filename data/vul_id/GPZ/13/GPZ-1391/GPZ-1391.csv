@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1391,1.00000000,https://github.com/xpn/warbird_exploit,xpn/warbird_exploit,112201751
-GPZ-1391,0.50000000,https://github.com/EvanMcBroom/PoCs,EvanMcBroom/PoCs,74394204
+GPZ-1391,0.50000000,https://github.com/EvanMcBroom/pocs,EvanMcBroom/pocs,74394204
 GPZ-1391,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1391,0.00005316,https://github.com/Capa-cc/Exploit,Capa-cc/Exploit,114506475
 GPZ-1391,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410

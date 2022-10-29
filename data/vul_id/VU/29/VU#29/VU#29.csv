@@ -16,6 +16,7 @@ VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,put
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
 VU#29,1.00000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
+VU#29,0.50000000,https://github.com/savior-only/CVE-2022-22947,savior-only/CVE-2022-22947,559094520
 VU#29,0.50000000,https://github.com/Ryan-T-Bell/SmarterMail-RCE-49216.py,Ryan-T-Bell/SmarterMail-RCE-49216.py,540451519
 VU#29,0.50000000,https://github.com/SiJiDo/CVE-2022-22947,SiJiDo/CVE-2022-22947,527864103
 VU#29,0.50000000,https://github.com/AkbarTrilaksana/CVE-2022-32832,AkbarTrilaksana/CVE-2022-32832,516837211
@@ -90,6 +91,7 @@ VU#29,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corn
 VU#29,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#29,0.07142857,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,487173629
 VU#29,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
+VU#29,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#29,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#29,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
 VU#29,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
@@ -277,7 +279,6 @@ VU#29,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,46
 VU#29,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#29,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#29,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-VU#29,0.00462963,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#29,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#29,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#29,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
@@ -296,6 +297,7 @@ VU#29,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#29,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#29,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#29,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
+VU#29,0.00272480,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#29,0.00269542,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#29,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#29,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
