@@ -1,12 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2013-2091
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2013-2092
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2015-9487
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2015-9488
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2019-16546
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2019-16547
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2019-16548
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2019-17043
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2019-17574
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,CVE-2019-4031
-490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Model.html,9746e37a72bd4244bab026f61b3fc35549e8f336,VU#11
+490009047,AnuOscar2308/Online-Communication-and-Vulnerability-Check,Online Communication and Vulnerability Check.pdf,7a4469259532012cfa2712ce40244f16f3c7a49e,VU#765
