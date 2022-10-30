@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#40,1.00000000,https://github.com/tj-oconnor/undergraduate-re,tj-oconnor/undergraduate-re,498448029
+VU#40,0.50000000,https://github.com/ED-Devel0per/ED-Sploit-Download,ED-Devel0per/ED-Sploit-Download,559252937
 VU#40,0.50000000,https://github.com/zehadkhan/Seeker_Ngrok,zehadkhan/Seeker_Ngrok,427534040
 VU#40,0.33333333,https://github.com/VoidExploit/Void,VoidExploit/Void,556994082
 VU#40,0.33333333,https://github.com/tzwlhack/CVE-2021-4034,tzwlhack/CVE-2021-4034,474372121
@@ -13,6 +14,7 @@ VU#40,0.20000000,https://github.com/XoticSploit/XoticSploit-exploit,XoticSploit/
 VU#40,0.20000000,https://github.com/NZT48/exploiting-smart-contract-vulnerabilities,NZT48/exploiting-smart-contract-vulnerabilities,510038855
 VU#40,0.20000000,https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation,vp777/Windows-Non-Paged-Pool-Overflow-Exploitation,382397170
 VU#40,0.16666667,https://github.com/Gamer100Dev/GamerSploits,Gamer100Dev/GamerSploits,547833906
+VU#40,0.16666667,https://github.com/HexorHex/HexorSploit-Site,HexorHex/HexorSploit-Site,529328771
 VU#40,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#40,0.12500000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,523104242
 VU#40,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
@@ -184,7 +186,7 @@ VU#40,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#40,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#40,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.1,TcherB31/xRay_Scanner_Cracked_1.9.1,545104478
 VU#40,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#40,0.00184162,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#40,0.00183824,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#40,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#40,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#40,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
