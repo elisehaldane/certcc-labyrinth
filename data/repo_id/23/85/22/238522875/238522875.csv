@@ -10,11 +10,11 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/Debug/OpenVPN.pdb,08b682f76bab20a0e3623b19b0ac8899c64fbdcf,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-7961/poc.py,08b7566dbb01695fd36266ab87c6c6f50bad2799,CVE-2020-7961
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/UPDATE1909.exe,09451e2e174ece90eaf37dadfe7fd7ee5ab528f0,CVE-2020-0668
+238522875,nu11secur1ty/Windows10Exploits,PoC/Proof-of-Concept_of_a_Millimeter-Wave_Integrated_H.pdf,0bde1353fdc814b01be7b02dc2febc3255808aaf,VU#577
 238522875,nu11secur1ty/Windows10Exploits,PoC/Proof-of-Concept_of_a_Millimeter-Wave_Integrated_H.pdf,0bde1353fdc814b01be7b02dc2febc3255808aaf,VU#83
+238522875,nu11secur1ty/Windows10Exploits,PoC/Proof-of-Concept_of_a_Millimeter-Wave_Integrated_H.pdf,0bde1353fdc814b01be7b02dc2febc3255808aaf,VU#199
 238522875,nu11secur1ty/Windows10Exploits,PoC/Proof-of-Concept_of_a_Millimeter-Wave_Integrated_H.pdf,0bde1353fdc814b01be7b02dc2febc3255808aaf,VU#53
 238522875,nu11secur1ty/Windows10Exploits,PoC/Proof-of-Concept_of_a_Millimeter-Wave_Integrated_H.pdf,0bde1353fdc814b01be7b02dc2febc3255808aaf,VU#22
-238522875,nu11secur1ty/Windows10Exploits,PoC/Proof-of-Concept_of_a_Millimeter-Wave_Integrated_H.pdf,0bde1353fdc814b01be7b02dc2febc3255808aaf,VU#577
-238522875,nu11secur1ty/Windows10Exploits,PoC/Proof-of-Concept_of_a_Millimeter-Wave_Integrated_H.pdf,0bde1353fdc814b01be7b02dc2febc3255808aaf,VU#199
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/2020-0668-WKEPV/TcpClient.cpp,0beb7a603db1441e44385c2e4a428cf582b213fe,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/README.md,0c62b1b02079101ef82b4d83090860790b3457d9,CVE-2020-0642
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/README.md,0c62b1b02079101ef82b4d83090860790b3457d9,CVE-2020-0624
@@ -22,15 +22,15 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0757/exploit-cve/screen/acc.PNG,0dd4a3b69464b0ec762216edfb4e269069f97fbc,CVE-2020-0757
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/LOCAL_UPDATEx86/UPDATE18363.exe,0e255e11f71423ea8c66b1132a44de199bcc6b3c,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/x64/Debug/WindowsCoreDeviceInfo.ilk,0f001398fb9333644a5ef06de00053f7849a5970,CVE-2020-0668
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/EC.cer,0f032fd4537f4eca0479e142afb8d4fabf904625,CVE-2020-0601
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/cve-2020-0601_work/Perl/EC.cer,0f032fd4537f4eca0479e142afb8d4fabf904625,CVE-2020-0601
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/x64/Debug/pch.obj,0f64609b82bbc3c15f6749c3844beaef87beb741,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/supeream-work/weblogic/T3ProtocolOperation.java,0f65e53552bfb9955551f793b9426968b28fad49,CVE-2020-2555
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/PWN-Fake-UPDATE-WIN10/Microupdate/Update Windows 10_files/SignedOut_data/signinhandler.js,0f76de4b927044162ab41c3b1f0243e1d7a3a3e2,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/x64/Debug/OpenVPN.ilk,0fb78e76c4954b88a4126b7ad7828ccc7de4c691,CVE-2020-9442
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/cve-2020-0601_work/Perl/README.md,12e0f0db4e173c9f1d87a4e75fa450c7a7851935,VU#849224
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/cve-2020-0601_work/Perl/README.md,12e0f0db4e173c9f1d87a4e75fa450c7a7851935,CVE-2020-0601
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-8597/eap.py,13a4c0c800d88c520769282145f0ffd08d783905,VU#782301
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/cve-2020-0601_work/Perl/README.md,12e0f0db4e173c9f1d87a4e75fa450c7a7851935,VU#849224
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-8597/eap.py,13a4c0c800d88c520769282145f0ffd08d783905,CVE-2020-8597
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-8597/eap.py,13a4c0c800d88c520769282145f0ffd08d783905,VU#782301
 238522875,nu11secur1ty/Windows10Exploits,Defined/README.MD,13ec7163debe8941c9f7799af19f34f2d47b082c,CVE-2020-0683
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/x64/Debug/2020-0668-WKEPV.pdb,14c08b6214f19c63ac8d91e7660053b61f289316,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/Debug/OpenVPN.tlog/CL.write.1.tlog,14eb26fc6dcf5cd20662bd1b5572fc76c8aace6a,CVE-2020-9442
@@ -38,9 +38,9 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/WindowsCoreDeviceInfo/x64/Debug/WindowsCoreDeviceInfo.log,1543f9cb43850743981bb8950cd4000b2ea56f43,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0757/exploit.bat,168cd5a0e3dc6edd352617ee9eea47a8acd50134,CVE-2020-0757
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/CVE-X/soon,182370b4007fc1b39424f53112be962bf0d9d5a6,CVE-2020-0601
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0757/system.ini,18db3e3dfb6b1d4dc9bc2226109112466de28db0,CVE-2020-0757
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/Windows/system.ini,18db3e3dfb6b1d4dc9bc2226109112466de28db0,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/system.ini,18db3e3dfb6b1d4dc9bc2226109112466de28db0,CVE-2020-0683
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0757/system.ini,18db3e3dfb6b1d4dc9bc2226109112466de28db0,CVE-2020-0757
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/supeream-work/weblogic/ObjectTest.java,1ad93c20c79200939635e6ab0b7b7d6649650df2,CVE-2020-2555
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/WindowsCoreDeviceInfo/WindowsCoreDeviceInfo.vcxproj,1b8ab4db4afc9f7a49d608a9a4f26a9593961e04,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/README.md,1b8dd978e5ce29819a273671d042057b749b533d,CVE-2020-2555
@@ -61,7 +61,7 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/supeream-work/serial/Reflections.java,2ad7256d9edd86a07be5effb036ae649cebb9c9f,CVE-2020-2555
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/supeream-work/serial/BytesOperation.java,2b05ad226d79e8e7d4174b2b949e8e9daabcfb2d,CVE-2020-2555
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/PWN-Fake-UPDATE-WIN10/Microupdate/index.html,2c0b724615f0f6befada0816d4455ffcea7c707f,CVE-2020-0668
-238522875,nu11secur1ty/Windows10Exploits,2022/CVE-2022-21906/PoC/BSOD.exe,2cd438446d9a91afd6bf48f182b2ecb52a729411,CVE-2022-21906
+238522875,nu11secur1ty/Windows10Exploits,2022/CVE-2022-21906/PoC/malicious.exe,2cd438446d9a91afd6bf48f182b2ecb52a729411,CVE-2022-21906
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/PWN-Fake-UPDATE-WIN10/Microupdate/Update Windows 10_files/18-d72213,2ddb2b902eae40e3e5b134b032df49873d5e7c61,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/WindowsCoreDeviceInfo/x64/Debug/BindShell.obj,2ee779be6e600177db0dd32c86ac6527599f1c84,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/PWN-Fake-UPDATE-WIN10/Microupdate/UPDATE1909.zip,2fe973e0eeb6d43de5023c4c39fe1309d1b70907,CVE-2020-0668
@@ -79,8 +79,8 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/supeream-work/ssl/TrustManagerImpl.java,3ae6fd381fed8b9203f57a68c7aa898ba2726b14,CVE-2020-2555
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/cve-2020-0601_work/Perl/openssl_cs.conf,3afb8aa048e74cb7d8fe3975c3034a89d20c44b2,CVE-2020-0601
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/cve-2020-0601_work/Perl/Crypt32/Version-info1:1033,3b6d590615e0251b3a88e29386d0595c16d68466,CVE-2020-0601
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/OpenVPN.vcxproj.user,3ba38385380485d9ff25eb142eca0a01d8ce2fab,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/2020-0668-WKEPV/2020-0668-WKEPV.vcxproj.user,3ba38385380485d9ff25eb142eca0a01d8ce2fab,CVE-2020-0668
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/OpenVPN.vcxproj.user,3ba38385380485d9ff25eb142eca0a01d8ce2fab,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/PWN-Fake-UPDATE-WIN10/Microupdate/Update Windows 10_files/t.js,3bef1aa2e973237131cbe51bff3e9e8d43e4fa68,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/README.MD,3c165e58a665971db56cd9b7fd58535f3f967dfe,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0796/README.md,3c3280efc3b509418eefd89091baf4120365bfb0,CVE-2020-0796
@@ -92,7 +92,7 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/Doc/MSI_EoP.pdf,422b261afe890cfeb16c60b1e322b06ff56d2e37,CVE-2020-0683
 238522875,nu11secur1ty/Windows10Exploits,2022/CVE-2022-21970/Docs/README.MD,43748879b0833fd9c776e4bbcb2c8eaaa5588021,CVE-2022-21970
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/cve-2020-0624/cve-2020-0624.vcxproj.filters,43ab462f9a92d16bee5b39662efb3d9fbe7a65b5,CVE-2020-0624
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/WindowsCoreDeviceInfo/x64/Debug/WindowsC.B27BF6FA.tlog/WindowsCoreDeviceInfo.lastbuildstate,43c476c9e71f2041546a1c8a53615c8e88b96282,CVE-2020-0668
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/2020-0668-WKEPV/x64/Debug/2020-0668-WKEPV.tlog/2020-0668-WKEPV.lastbuildstate,43c476c9e71f2041546a1c8a53615c8e88b96282,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/working_new/README.md,44fb8b52099535a8c73b11b5261502514b848c4f,CVE-2020-0683
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/pch.cpp,452f873e2e58433e0141c0a766b0f28bf93a8cea,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,2022/CVE-2022-21970/PoC/ExploitServer.zip,459e1cd31176588af534f5f03ee606a28625c425,CVE-2022-21970
@@ -109,8 +109,8 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/nu11secur1ty/MsiExploit.exe,4da3024c7e4a458af3909a07ccf387b7492ee440,CVE-2020-0683
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/Debug/OpenVPN.pch,4f0c04ccd9f2919e2a5fc82f4d85e8cad39a93bb,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/x64/Debug/OpenVPN.pch,4f502ab4be11285b2d9e53fc816aeebf74718cec,CVE-2020-9442
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/content.info,4f6ace59131fa8e553cb3d3c81629f46d283b8d8,CVE-2020-0624
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/content.info,4f6ace59131fa8e553cb3d3c81629f46d283b8d8,CVE-2020-0642
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/content.info,4f6ace59131fa8e553cb3d3c81629f46d283b8d8,CVE-2020-0624
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/Debug/OpenVPN.tlog/CL.command.1.tlog,5172e3eade186cf75b0cc23d7bb3056bf7be6d95,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0601/WORK/cve-2020-0601_work/Ruby/main.rb,51a2e0107747a81801a2761e295776e6e731e3d0,CVE-2020-0601
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/LOCAL_UPDATEx86/UPDATE1909.exe,53ab6543893e6caf013f770a5ebd9259f272c943,CVE-2020-0668
@@ -139,8 +139,8 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPNClient/Debug/OpenVPNClient.exe,60b9f8f5340bcfdb5bd9648255089fd447af4c83,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/x64/Debug/OpenVPN.lib,60c0d6dc8720521f23f1009a55e6cdbfa3cc3e38,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/PWN-Fake-UPDATE-WIN10/Microupdate/Update Windows 10_files/application,61aadc6d334d21a5b5a18daa17642d6def0ed82d,CVE-2020-0668
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/win32k/__32-win32k.sys5.1.2600.1330.zip,62873e299d2cb7f238ab31ca9b5ddb6485709c6a,VU#00
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/win32k/__32-win32k.sys5.1.2600.1330.zip,62873e299d2cb7f238ab31ca9b5ddb6485709c6a,CVE-2020-0624
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0624/win32k/__32-win32k.sys5.1.2600.1330.zip,62873e299d2cb7f238ab31ca9b5ddb6485709c6a,VU#00
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/x64/Debug/OpenVPN.tlog/CL.write.1.tlog,6382b53ef6d86980d6a5d82e62496186e315af75,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPNClient/OpenVPNClient/OpenVPNClient.vcxproj.filters,64edc7a003a85cad3479573fb1b54588a5472978,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/x64/Debug/vc142.pdb,652fe5ba707bdebdb23d24a18dba4e8cc535e2ce,CVE-2020-9442
@@ -184,17 +184,17 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/.vs/OpenVPN/v16/.suo,808f1db38aaf3e58d0f36aeffd3ab823921cbc65,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/WORKING/CVE-2020-9291/README.MD,856bde9d48bcc387f2aeff420158e8b89b3aa4a0,CVE-2020-9291
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/PWN-Fake-UPDATE-WIN10/Microupdate/Update Windows 10_files/override.css,860949a95b7598b394aa255fe06f530c3da24e4e,CVE-2020-0668
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#44
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#76
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#42
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#774
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#74
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#56
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#774
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,CVE-2020-0683
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#44
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/src/src_MsiExploit.tar.gz,86a769942a7d2ed19b80922c68ef510e778922fd,VU#42
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0621/README.MD,87c4a8e9b5f17dc255d3b5ae3fe8e8663fe00aad,CVE-2020-0621
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/supeream-work/payload/RemoteImpl.java,889553eaa112955fdcff2739b17e30a9ebeea72f,CVE-2020-2555
-238522875,nu11secur1ty/Windows10Exploits,2022/CVE-2022-21907/Docs/README.MD,88cb0e5cea91516722f68742f991fdf9da116e63,CVE-2022-21907
 238522875,nu11secur1ty/Windows10Exploits,2022/CVE-2022-21906/Docs/README.MD,88cb0e5cea91516722f68742f991fdf9da116e63,CVE-2022-21906
+238522875,nu11secur1ty/Windows10Exploits,2022/CVE-2022-21907/Docs/README.MD,88cb0e5cea91516722f68742f991fdf9da116e63,CVE-2022-21907
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/x64/Debug/WindowsCoreDeviceInfo.pdb,893fd08bbb1d32127f4055d7aaa643dc485a750f,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPNClient/OpenVPNClient/Debug/OpenVPNClient.log,8ae077a83eb51fa534eb5bf8e01b522bf6f9dd5c,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/2020-0668-WKEPV/x64/Debug/2020-0668-WKEPV.obj,8b08937dd92ea138293ed3f600faa619d1f00ade,CVE-2020-0668
@@ -214,13 +214,13 @@ repo_id,repo_full_name,file,file_sha1,match
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/README.md,965992f44b2e098fd46c470cf74e67e5f787c4c4,CVE-2020-0683
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/Debug/OpenVPN.lib,967b642db40c48c62a370a7e8a59d2c3f21d0fcb,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/2020-0668-WKEPV/x64/Debug/2020-0668-WKEPV.log,96b5744fbcb564e89ab91fd949e5f1f01c24a60a,CVE-2020-0668
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0757/win.ini,973672eeae5a05447e47395cde37e8121b7c90fe,CVE-2020-0757
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/Windows/win.ini,973672eeae5a05447e47395cde37e8121b7c90fe,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0683/win.ini,973672eeae5a05447e47395cde37e8121b7c90fe,CVE-2020-0683
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0757/win.ini,973672eeae5a05447e47395cde37e8121b7c90fe,CVE-2020-0757
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9345/readme.md,97f5fa75d9ae2824ca5c6ca8844d919297667f21,CVE-2020-9345
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/MathLibrary.h,9905805e24cbb5437bda7ce30f75b1eac5bcdece,CVE-2020-9442
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/OpenVPN/Debug/vc142.idb,991f5f378c3c76eab72020d75e2bb1da390ed6ce,CVE-2020-9442
-238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/UPDATE/WindowsCoreDeviceInfo.dll,99bb7205f6bbda10ba4abf595caa5e83482455f2,CVE-2020-0668
+238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/LOCAL_UPDATEx86/WindowsCoreDeviceInfo.dll,99bb7205f6bbda10ba4abf595caa5e83482455f2,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-2555/supeream-work/weblogic/WebLogicOperation.java,99c9678de87373382c71c2d918243a18c13f59c9,CVE-2020-2555
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-0668/WindowsCoreDeviceInfo/x64/Debug/vc142.pdb,99d41bab50e6dd8602b94ec3f75bb8010773a542,CVE-2020-0668
 238522875,nu11secur1ty/Windows10Exploits,Undefined/CVE-2020-9442/Playground/Open_Vpn_vuln_test/OpenVPN/.vs/OpenVPN/v16/Browse.VC.db,9a277df0c5c423dd94e09d35c9946687b298e46a,CVE-2020-9442
