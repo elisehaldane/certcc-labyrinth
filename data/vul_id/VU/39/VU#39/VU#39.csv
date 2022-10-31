@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#39,1.00000000,https://github.com/Its-Vichy/Disgay,Its-Vichy/Disgay,555073616
 VU#39,1.00000000,https://github.com/bunny401/Asteroid-Mining-Game,bunny401/Asteroid-Mining-Game,515181249
 VU#39,1.00000000,https://github.com/oaraque/moral-foundations,oaraque/moral-foundations,181471950
 VU#39,0.50000000,https://github.com/attakercyebr/Vulnerability-Scanner-Auto-Exploiter,attakercyebr/Vulnerability-Scanner-Auto-Exploiter,533715063
@@ -13,6 +14,7 @@ VU#39,0.33333333,https://github.com/aweiiy/CVE-2021-43617,aweiiy/CVE-2021-43617,
 VU#39,0.33333333,https://github.com/lluismir/Data-Analysis-of-Second-hand-cars-in-UK,lluismir/Data-Analysis-of-Second-hand-cars-in-UK,502991744
 VU#39,0.33333333,https://github.com/teknologi-umum/pesto,teknologi-umum/pesto,499741162
 VU#39,0.33333333,https://github.com/Marcel46509/Exploit-Files,Marcel46509/Exploit-Files,474407677
+VU#39,0.25000000,https://github.com/RedNightVibes/XLL-EXPLOIT-UPDATED,RedNightVibes/XLL-EXPLOIT-UPDATED,559667773
 VU#39,0.25000000,https://github.com/FIRSTdotorg/epss,FIRSTdotorg/epss,487842087
 VU#39,0.25000000,https://github.com/APresellingservices/hervus-exploit,APresellingservices/hervus-exploit,441324209
 VU#39,0.20000000,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
