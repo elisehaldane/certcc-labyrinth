@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 545710254,blacklanternsecurity/dp_cryptomg,README.md,0c2d3f6d8f50163bca8adaca27e193bc149e6409,CVE-2017-9248
-545710254,blacklanternsecurity/dp_cryptomg,lib/terminalview.py,b2558d5697c59c8e63a6b5e8bd21ca64e8d04627,CVE-2017-9248
+545710254,blacklanternsecurity/dp_cryptomg,lib/terminalview.py,4714f1111778ae7b852fd45d68d86c8671f347fa,CVE-2017-9248
+545710254,blacklanternsecurity/dp_cryptomg,lib/simpleterminalview.py,5894613820f82d1beb3c06f2dd6fd6bc7cd528d1,CVE-2017-9248
 545710254,blacklanternsecurity/dp_cryptomg,pyproject.toml,cd8a45a2f15ebb6ca3af6b09b18b4cfed44cf0fb,CVE-2017-9248
-545710254,blacklanternsecurity/dp_cryptomg,dp_cryptomg.py,d2dff9f95e10dcb0b80da8dca06730cf6ca51d03,CVE-2017-9248
-545710254,blacklanternsecurity/dp_cryptomg,lib/simpleterminalview.py,f24aefff68e353494d837dfbd71ae51096a9fa19,CVE-2017-9248
+545710254,blacklanternsecurity/dp_cryptomg,dp_cryptomg.py,dc23b55990a1bb56bf4fa7408c8d44d847d3ce5d,CVE-2017-9248
 545710254,blacklanternsecurity/dp_cryptomg,_GITHUB_REPO_METADATA_,,CVE-2017-9248
