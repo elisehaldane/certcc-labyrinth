@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-19409,0.07692308,https://github.com/rapid7/metasploit_data_models,rapid7/metasploit_data_models,3072132
+BID-19409,0.07142857,https://github.com/rapid7/metasploit_data_models,rapid7/metasploit_data_models,3072132
 BID-19409,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 BID-19409,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 BID-19409,0.00378788,https://github.com/njahrckstr/Windows_Kernel_Sploit_List,njahrckstr/Windows_Kernel_Sploit_List,140624271
@@ -133,9 +133,10 @@ BID-19409,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/M
 BID-19409,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 BID-19409,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 BID-19409,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+BID-19409,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerpro83/metasploit-framework-git45,560256550
 BID-19409,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 BID-19409,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
-BID-19409,0.00019992,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-19409,0.00019980,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-19409,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-19409,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 BID-19409,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
