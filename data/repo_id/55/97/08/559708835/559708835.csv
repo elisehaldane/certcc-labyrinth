@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-559708835,yeetsquad747/exploitcb,pnpm-lock.yaml,bfcd13d32d0a9eca43289edf81d89ecca06d0c4b,VU#18
+559708835,yeetsquad747/exploitcb,pnpm-lock.yaml,0d2f37e26bf7c2e0ba04eb76ebbc6416ee51ce13,VU#1750
+559708835,yeetsquad747/exploitcb,pnpm-lock.yaml,0d2f37e26bf7c2e0ba04eb76ebbc6416ee51ce13,VU#18
+559708835,yeetsquad747/exploitcb,pnpm-lock.yaml,0d2f37e26bf7c2e0ba04eb76ebbc6416ee51ce13,VU#61
