@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-559252937,ED-Devel0per/ED-Sploit-Download,ED-Sploit/kernel64.sys.dll,2200e8c8cd10a4ca26a23e04f7bdb357b8ddde80,VU#40
-559252937,ED-Devel0per/ED-Sploit-Download,ED-Sploit/exploit-main.dll,9bb8ed4656f082ec6beafabf3713bc27ccd0455b,VU#14
+559252937,ED-Devel0per/ED-Sploit-Download,ED-Sploit-Folder/kernel64.sys.dll,2200e8c8cd10a4ca26a23e04f7bdb357b8ddde80,VU#40
+559252937,ED-Devel0per/ED-Sploit-Download,ED-Sploit-Folder/exploit-main.dll,9bb8ed4656f082ec6beafabf3713bc27ccd0455b,VU#14
