@@ -19,7 +19,6 @@ VU#65,0.14285714,https://github.com/Projectrcs/XLL-Excel-Dropper,Projectrcs/XLL-
 VU#65,0.14285714,https://github.com/security-softwares/offensive_shellcode,security-softwares/offensive_shellcode,529202611
 VU#65,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
 VU#65,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
-VU#65,0.12500000,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#65,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
 VU#65,0.11111111,https://github.com/Wotle/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,Wotle/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,513134903
 VU#65,0.11111111,https://github.com/VortexRadiation/S-500-G2-Rat-Hvnc-Hiden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,VortexRadiation/S-500-G2-Rat-Hvnc-Hiden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,504286440
@@ -53,6 +52,7 @@ VU#65,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-202
 VU#65,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
 VU#65,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#65,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
+VU#65,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#65,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
 VU#65,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#65,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
@@ -235,5 +235,6 @@ VU#65,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#65,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#65,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#65,0.00019980,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#65,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#65,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#65,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

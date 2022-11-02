@@ -53,7 +53,6 @@ VU#32,0.14285714,https://github.com/rosonsec/Exploits,rosonsec/Exploits,15350506
 VU#32,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
 VU#32,0.12500000,https://github.com/Dimples1337/NewSilenceFix-opensources,Dimples1337/NewSilenceFix-opensources,520340048
 VU#32,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,468544905
-VU#32,0.12500000,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#32,0.12500000,https://github.com/sickn3ss/exploits,sickn3ss/exploits,178699315
 VU#32,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
 VU#32,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
@@ -78,6 +77,7 @@ VU#32,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,A
 VU#32,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
 VU#32,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#32,0.05263158,https://github.com/Blue-PvP/RobloxExploits,Blue-PvP/RobloxExploits,461344305
+VU#32,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#32,0.05263158,https://github.com/PitchyATree/roblox-exploit-library,PitchyATree/roblox-exploit-library,407856378
 VU#32,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,404076972
 VU#32,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
@@ -277,6 +277,7 @@ VU#32,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#32,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#32,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#32,0.00019980,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#32,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#32,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
