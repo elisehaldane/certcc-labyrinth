@@ -57,6 +57,7 @@ VU#88,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,
 VU#88,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#88,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#88,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#88,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946,Satheesh575555/linux-4.19.72_CVE-2022-36946,561255728
 VU#88,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581,nidhi7598/linux-4.19.72_CVE-2022-29581,541412587
 VU#88,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594,nidhi7598/linux-4.19.72_CVE-2022-30594,510304709
 VU#88,0.02173913,https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492,Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492,490291933
@@ -238,8 +239,8 @@ VU#88,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#88,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#88,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#88,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#88,0.00052110,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#88,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#88,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
+VU#88,0.00048031,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#88,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
