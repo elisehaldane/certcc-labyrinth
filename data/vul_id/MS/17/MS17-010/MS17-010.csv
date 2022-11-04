@@ -128,6 +128,7 @@ MS17-010,1.00000000,https://github.com/sn0wfa11/HID-Attacks,sn0wfa11/HID-Attacks
 MS17-010,0.50000000,https://github.com/0xr94/Exploits,0xr94/Exploits,552501850
 MS17-010,0.50000000,https://github.com/FluxXe1/msf-exploit,FluxXe1/msf-exploit,550571660
 MS17-010,0.50000000,https://github.com/ArminToric28/EternalBlue-Exploit,ArminToric28/EternalBlue-Exploit,538233882
+MS17-010,0.50000000,https://github.com/suljov/Hacking-linux,suljov/Hacking-linux,530627080
 MS17-010,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
 MS17-010,0.50000000,https://github.com/gudyrmik/CVE-2021-44142,gudyrmik/CVE-2021-44142,484298524
 MS17-010,0.50000000,https://github.com/mr-sami-x/ex-ye,mr-sami-x/ex-ye,479770195
@@ -255,6 +256,7 @@ MS17-010,0.09090909,https://github.com/mojodojo101/exploitsnshells,mojodojo101/e
 MS17-010,0.09090909,https://github.com/ugur-ercan/exploit-collection,ugur-ercan/exploit-collection,223710260
 MS17-010,0.09090909,https://github.com/fishi0x01/exploits,fishi0x01/exploits,180454634
 MS17-010,0.09090909,https://github.com/uberJohnson/MS-Vulnerability-Library,uberJohnson/MS-Vulnerability-Library,92790146
+MS17-010,0.08333333,https://github.com/suljov/Windows-and-Active-Directory,suljov/Windows-and-Active-Directory,517062920
 MS17-010,0.08333333,https://github.com/leecybersec/exploitation,leecybersec/exploitation,320358323
 MS17-010,0.08333333,https://github.com/ihebski/A-Red-Teamer-diaries,ihebski/A-Red-Teamer-diaries,197602204
 MS17-010,0.08333333,https://github.com/pierlon/metasploit-framework-wiki,pierlon/metasploit-framework-wiki,130760001
@@ -534,6 +536,7 @@ MS17-010,0.00020012,https://github.com/ParrotSec/metasploit-framework,ParrotSec/
 MS17-010,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerpro83/metasploit-framework-git45,560256550
 MS17-010,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 MS17-010,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
+MS17-010,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
 MS17-010,0.00019980,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
