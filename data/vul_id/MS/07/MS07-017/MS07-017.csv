@@ -2,8 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS07-017,0.50000000,https://github.com/notsoshant/sploits,notsoshant/sploits,188902211
 MS07-017,0.50000000,https://github.com/HackEasy/MentalSploitableSMTP,HackEasy/MentalSploitableSMTP,112953907
 MS07-017,0.33333333,https://github.com/BelalAbdelWahab/OSCE-Exploit,BelalAbdelWahab/OSCE-Exploit,242304972
-MS07-017,0.11111111,https://github.com/ruvolof/exploits,ruvolof/exploits,223565837
 MS07-017,0.10000000,https://github.com/Nadim120/metasploitHackinginfoFromKali,Nadim120/metasploitHackinginfoFromKali,363375904
+MS07-017,0.10000000,https://github.com/ruvolof/exploits,ruvolof/exploits,223565837
 MS07-017,0.10000000,https://github.com/abatchy17/abatchy17.github.io,abatchy17/abatchy17.github.io,102047844
 MS07-017,0.02000000,https://github.com/bemonolit/metasploitHelper,bemonolit/metasploitHelper,91027954
 MS07-017,0.01639344,https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology,jas502n/0day-security-software-vulnerability-analysis-technology,124250221
@@ -97,8 +97,8 @@ MS07-017,0.00320513,https://github.com/GamehunterKaan/AutoPWN-Suite,GamehunterKa
 MS07-017,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS07-017,0.00272480,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS07-017,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
-MS07-017,0.00256410,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 MS07-017,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
+MS07-017,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 MS07-017,0.00159744,https://github.com/francisck/DanderSpritz_docs,francisck/DanderSpritz_docs,90116796
 MS07-017,0.00159490,https://github.com/r3p3r/DonnchaC-shadowbrokers-exploits,r3p3r/DonnchaC-shadowbrokers-exploits,115910466
 MS07-017,0.00159490,https://github.com/DonnchaC/shadowbrokers-exploits,DonnchaC/shadowbrokers-exploits,88255514
