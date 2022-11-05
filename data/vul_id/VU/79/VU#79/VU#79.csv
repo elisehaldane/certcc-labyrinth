@@ -36,6 +36,7 @@ VU#79,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888
 VU#79,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#79,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#79,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
+VU#79,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt2,SzeKiatTan/nlp-cve-vendor-classification-gpt2,562010558
 VU#79,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#79,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#79,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
@@ -112,6 +113,7 @@ VU#79,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP
 VU#79,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#79,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#79,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
+VU#79,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#79,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#79,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#79,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
@@ -147,9 +149,9 @@ VU#79,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Ex
 VU#79,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#79,0.00272480,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#79,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
+VU#79,0.00256410,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#79,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#79,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
-VU#79,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#79,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#79,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#79,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
