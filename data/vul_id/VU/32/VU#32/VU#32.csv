@@ -20,7 +20,6 @@ VU#32,0.50000000,https://github.com/minhnq22/CVE-2021-42171,minhnq22/CVE-2021-42
 VU#32,0.50000000,https://github.com/lilmond/Roblox-Exploit-Scripts,lilmond/Roblox-Exploit-Scripts,382204911
 VU#32,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
 VU#32,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
-VU#32,0.33333333,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.33333333,https://github.com/jiro-too/ShellCodeInjector,jiro-too/ShellCodeInjector,520900269
 VU#32,0.33333333,https://github.com/teknologi-umum/pesto,teknologi-umum/pesto,499741162
 VU#32,0.33333333,https://github.com/ExploiterWolfy/ExploiterWolfy.github.io,ExploiterWolfy/ExploiterWolfy.github.io,474294854
@@ -70,6 +69,7 @@ VU#32,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x
 VU#32,0.07692308,https://github.com/hktalent/goSqlite_gorm,hktalent/goSqlite_gorm,487019011
 VU#32,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#32,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
+VU#32,0.06666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#32,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#32,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
@@ -247,8 +247,8 @@ VU#32,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#32,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#32,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#32,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
-VU#32,0.00272480,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#32,0.00268817,https://github.com/helloexp/0day,helloexp/0day,478826386
+VU#32,0.00263158,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#32,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#32,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#32,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905

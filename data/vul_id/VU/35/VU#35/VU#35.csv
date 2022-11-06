@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#35,0.50000000,https://github.com/warning111/dhood,warning111/dhood,502349442
 VU#35,0.50000000,https://github.com/Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,468115159
-VU#35,0.33333333,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#35,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2Hub,420501078
 VU#35,0.20000000,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#35,0.20000000,https://github.com/RapidoBuzz/WrathSploitAPI,RapidoBuzz/WrathSploitAPI,515803951
@@ -18,6 +17,7 @@ VU#35,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiao
 VU#35,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
 VU#35,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonRoblox,267731387
 VU#35,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
+VU#35,0.06666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#35,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#35,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
 VU#35,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
@@ -139,7 +139,7 @@ VU#35,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,
 VU#35,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#35,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#35,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#35,0.00272480,https://github.com/tonyarris/srv,tonyarris/srv,550434370
+VU#35,0.00263158,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#35,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#35,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#35,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
