@@ -6,7 +6,7 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS08-067
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS17-010
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS12-020
-264704306,aryanguenthner/365,kali-setup.sh,0c0fdc13998b311bc4060b32886dfb5aff492162,CVE-2019-11510
+264704306,aryanguenthner/365,kali-setup.sh,279e648a9a30c45e45df67c640522b59450e907c,CVE-2019-11510
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS17-010
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS08-067
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS12-020
