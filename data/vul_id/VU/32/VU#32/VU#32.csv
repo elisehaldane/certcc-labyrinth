@@ -44,7 +44,7 @@ VU#32,0.20000000,https://github.com/NeoWans/CVE-2018-19246,NeoWans/CVE-2018-1924
 VU#32,0.20000000,https://github.com/RapidoBuzz/WrathSploitAPI,RapidoBuzz/WrathSploitAPI,515803951
 VU#32,0.20000000,https://github.com/AnythingForTheTrustRank/ZeroGay,AnythingForTheTrustRank/ZeroGay,455997487
 VU#32,0.20000000,https://github.com/anvbis/windows.x86.expl,anvbis/windows.x86.expl,438593074
-VU#32,0.16666667,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
+VU#32,0.16666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#32,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
 VU#32,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,486848599
@@ -65,11 +65,11 @@ VU#32,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyT
 VU#32,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#32,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#32,0.08333333,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#32,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#32,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#32,0.07692308,https://github.com/hktalent/goSqlite_gorm,hktalent/goSqlite_gorm,487019011
 VU#32,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#32,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
-VU#32,0.06666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#32,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#32,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
@@ -187,6 +187,7 @@ VU#32,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bi
 VU#32,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#32,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#32,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
+VU#32,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#32,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#32,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#32,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520

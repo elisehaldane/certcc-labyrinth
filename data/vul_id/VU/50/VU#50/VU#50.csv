@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#50,1.00000000,https://github.com/JonathanSalwan/ROPgadget,JonathanSalwan/ROPgadget,2234715
+VU#50,0.50000000,https://github.com/Adroitdevil/metasploitframework6,Adroitdevil/metasploitframework6,562393973
 VU#50,0.50000000,https://github.com/cyberanand1337x/Metasploit-android,cyberanand1337x/Metasploit-android,543638364
 VU#50,0.50000000,https://github.com/Rachit-Pal/Metasploit-in-termux,Rachit-Pal/Metasploit-in-termux,531069546
 VU#50,0.50000000,https://github.com/Hermonicv/metasploit-installer,Hermonicv/metasploit-installer,519680227

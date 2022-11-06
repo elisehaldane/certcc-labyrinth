@@ -24,6 +24,7 @@ VU#21,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shel
 VU#21,0.20000000,https://github.com/zangcc/Aazhen-RexHa,zangcc/Aazhen-RexHa,464439564
 VU#21,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
 VU#21,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
+VU#21,0.16666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#21,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#21,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
@@ -47,7 +48,6 @@ VU#21,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000
 VU#21,0.08333333,https://github.com/zerosum0x0/defcon-25-workshop,zerosum0x0/defcon-25-workshop,97747585
 VU#21,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
 VU#21,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
-VU#21,0.06666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#21,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
@@ -173,6 +173,7 @@ VU#21,0.01111111,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#21,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#21,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#21,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
+VU#21,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#21,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#21,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#21,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
