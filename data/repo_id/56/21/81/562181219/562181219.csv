@@ -1,6 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-562181219,yubhyper/Exploit,YUB-Exploit.exe,9276b42cb667bd56c4e5ff83f2d7113e9f37b738,VU#00
-562181219,yubhyper/Exploit,YUB-Exploit.exe,9276b42cb667bd56c4e5ff83f2d7113e9f37b738,VU#02
-562181219,yubhyper/Exploit,YUB-Exploit.exe,9276b42cb667bd56c4e5ff83f2d7113e9f37b738,VU#11
-562181219,yubhyper/Exploit,YUB-Exploit.exe,9276b42cb667bd56c4e5ff83f2d7113e9f37b738,VU#74
-562181219,yubhyper/Exploit,YUB-Exploit.exe,9276b42cb667bd56c4e5ff83f2d7113e9f37b738,VU#97
+562181219,yubhyper/Exploit,YUB-Exploit.exe,00183666810b10c8f43e638a1e270a437a87c750,VU#09
+562181219,yubhyper/Exploit,YUB-Exploit.exe,00183666810b10c8f43e638a1e270a437a87c750,VU#19
+562181219,yubhyper/Exploit,YUB-Exploit.exe,00183666810b10c8f43e638a1e270a437a87c750,VU#22
