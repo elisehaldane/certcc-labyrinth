@@ -5,12 +5,12 @@ VU#87,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-R
 VU#87,0.50000000,https://github.com/AninditaDeb/LDAM-DRW-and-RCE,AninditaDeb/LDAM-DRW-and-RCE,462986023
 VU#87,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#87,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
-VU#87,0.50000000,https://github.com/saferwall/malware-souk,saferwall/malware-souk,360327405
 VU#87,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
 VU#87,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#87,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/generateJenkinsExploit,432525611
 VU#87,0.33333333,https://github.com/tmenochet/PowerDump,tmenochet/PowerDump,416900394
 VU#87,0.25000000,https://github.com/Kob123678/Edit-KoSploit-VIP,Kob123678/Edit-KoSploit-VIP,489266496
+VU#87,0.25000000,https://github.com/saferwall/malware-souk,saferwall/malware-souk,360327405
 VU#87,0.20000000,https://github.com/NovaSecurity/HackThebox-attached-files,NovaSecurity/HackThebox-attached-files,482258843
 VU#87,0.20000000,https://github.com/ByteHackr/CVE-2022-0853,ByteHackr/CVE-2022-0853,468269355
 VU#87,0.20000000,https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier,RishiDarkDevil/Regularization-Based-Fair-Classifier,459614574
@@ -180,7 +180,7 @@ VU#87,0.00263158,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#87,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#87,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#87,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
-VU#87,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
+VU#87,0.00237530,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#87,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#87,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#87,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
