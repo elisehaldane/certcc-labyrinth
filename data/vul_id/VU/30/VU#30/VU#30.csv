@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#30,1.00000000,https://github.com/hritikbhamare/Vulnerability-Assessment-and-Penetration-Testing,hritikbhamare/Vulnerability-Assessment-and-Penetration-Testing,518071273
+VU#30,0.50000000,https://github.com/LeontKing2/WRD-ExploitAPI-Template-Modified,LeontKing2/WRD-ExploitAPI-Template-Modified,559392800
 VU#30,0.50000000,https://github.com/averywit/CS4501FinalProject,averywit/CS4501FinalProject,449884485
 VU#30,0.33333333,https://github.com/0neday/MA5671-exploit,0neday/MA5671-exploit,504577829
 VU#30,0.33333333,https://github.com/NoftN/Asakura-Z,NoftN/Asakura-Z,484708199
@@ -218,6 +219,6 @@ VU#30,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#30,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#30,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#30,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
-VU#30,0.00019980,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#30,0.00019964,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#30,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#30,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

@@ -66,6 +66,7 @@ VU#47,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/L
 VU#47,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#47,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#47,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
+VU#47,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#47,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#47,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
 VU#47,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
@@ -224,7 +225,7 @@ VU#47,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#47,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#47,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#47,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
-VU#47,0.00019980,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#47,0.00019964,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#47,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#47,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#47,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
