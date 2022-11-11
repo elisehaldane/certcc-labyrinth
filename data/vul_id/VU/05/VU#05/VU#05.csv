@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#05,1.00000000,https://github.com/x90hack/how_vulnerability,x90hack/how_vulnerability,499672388
 VU#05,1.00000000,https://github.com/maddydevgits/ML-Bootcamp-RCEW-Kurnool,maddydevgits/ML-Bootcamp-RCEW-Kurnool,478671320
 VU#05,1.00000000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
+VU#05,0.50000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitcb,564581590
 VU#05,0.50000000,https://github.com/counoxe/Counoxe,counoxe/Counoxe,487935711
 VU#05,0.50000000,https://github.com/xFelienDev/ExploitPack,xFelienDev/ExploitPack,482935784
 VU#05,0.50000000,https://github.com/dusty99/dusty,dusty99/dusty,473135347
