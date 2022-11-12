@@ -1,12 +1,12 @@
 
 # Summary for results/2022/11/11
     
-128 records found after deduplication
+130 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|-------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-11 00:07:20+00:00 | 815359 | 28702 | Ruby | 12664 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-11 16:26:20+00:00 | 13109 | 5035 | Python | 700 | [] |
+| signalscorps/cve2stix-output | A publicly available store of STIX 2.1 objects created by our cve2stix script. This is a fully automated repository. | https://github.com/signalscorps/cve2stix-output | ['cve-2 OR cve_2'] | 1 | 2022-11-11 05:43:18+00:00 | 6003 | 0 | Python | 0 | [] |
 | orionLP/binex | In this repository i will leave my path through binary exploitation as i learn | https://github.com/orionLP/binex | ['exploit'] | 1 | 2022-11-11 14:20:17+00:00 | 8 | 0 | | 0 | [] |
 | StarCrossPortal/scalpel | scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。 原理：https://mp.weixin.qq.com/s/U_llBwC05vb84U9wb8NZog | https://github.com/StarCrossPortal/scalpel | ['cve poc', 'vulnerability poc'] | 2 | 2022-11-11 09:54:22+00:00 | 2934 | 219 | | 20 | [] |
 | RobertDEVx/Silent-Doc-Exploit-Python | Silent doc exploit | https://github.com/RobertDEVx/Silent-Doc-Exploit-Python | ['exploit'] | 1 | 2022-11-11 14:41:29+00:00 | 15396 | 1 | Python | 0 | [] |
@@ -37,9 +37,9 @@
 | gogo2464/cryptatools-rs | Tool to help to cryptanalysis for cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | ['exploit'] | 1 | 2022-11-11 12:39:08+00:00 | 75895 | 6 | Rust | 1 | [] |
 | hiatus/kdo | A stable LKM for LPE and RCE. | https://github.com/hiatus/kdo | ['rce'] | 1 | 2022-11-11 01:45:35+00:00 | 24 | 0 | C | 1 | [] |
 | akhils911dev/blind-xxe-controller-CVE-2021-29447 | Arbitrary file read controller based on CVE-2021-29447 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 04:17:47+00:00 | 536 | 2 | Python | 0 | ['CVE-2021-29447'] |
-| signalscorps/cve2stix-output | A publicly available store of STIX 2.1 objects created by our cve2stix script. This is a fully automated repository. | https://github.com/signalscorps/cve2stix-output | ['cve-2 OR cve_2'] | 1 | 2022-11-11 05:43:18+00:00 | 6003 | 0 | Python | 0 | [] |
 | 6iKezbAD3CZnf/blockchained-ml | Federated Learning on Blockchain exploiting zk-SNARK | https://github.com/6iKezbAD3CZnf/blockchained-ml | ['exploit'] | 1 | 2022-11-11 08:32:27+00:00 | 32515 | 1 | SCSS | 0 | [] |
-| maikroservice/CVE-2022-3942 | None | https://github.com/maikroservice/CVE-2022-3942 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 10:35:48+00:00 | 1 | 0 | | 0 | ['CVE-2022-3942'] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-11 16:26:20+00:00 | 13109 | 5035 | Python | 700 | [] |
+| chr1sM/CVE-2018-6574 | None | https://github.com/chr1sM/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 18:35:07+00:00 | 4 | 0 | C | 0 | ['CVE-2018-6574'] |
 | trhacknon/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python- | None | https://github.com/trhacknon/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python- | ['exploit', 'rce'] | 2 | 2022-11-11 22:42:56+00:00 | 24 | 0 | Python | 0 | [] |
 | dhanjani/Beanstalk-Exploit | Exploit for the Beanstalk vulnerability to cancel all orders in the marketplace (fixed by Beanstalk) | https://github.com/dhanjani/Beanstalk-Exploit | ['exploit'] | 1 | 2022-11-11 20:48:41+00:00 | 18 | 0 | Solidity | 0 | [] |
 | WafflesExploit/WafflesExploit.github.io | All websites list | https://github.com/WafflesExploit/WafflesExploit.github.io | ['exploit'] | 1 | 2022-11-11 19:01:19+00:00 | 0 | 0 | | 0 | [] |
@@ -53,8 +53,9 @@
 | mike-develop-root/cve-2022-1 | cve-2022-1 | https://github.com/mike-develop-root/cve-2022-1 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 13:09:36+00:00 | 0 | 0 | | 0 | ['CVE-2022-0001'] |
 | m3f157O/test_shellcode | Easy test for shellcode with pwn | https://github.com/m3f157O/test_shellcode | ['shellcode'] | 1 | 2022-11-11 12:51:26+00:00 | 1 | 0 | Python | 0 | [] |
 | maikroservice/CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 12:31:40+00:00 | 1 | 0 | | 0 | ['CVE-2022-3949'] |
+| maikroservice/CVE-2022-3942 | None | https://github.com/maikroservice/CVE-2022-3942 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 10:35:48+00:00 | 1 | 0 | | 0 | ['CVE-2022-3942'] |
+| Processus-Thief/CobaltStrikeBypassDefender | A launcher to load a DLL with xored cobalt strike shellcode executed in memory through process hollowing technique | https://github.com/Processus-Thief/CobaltStrikeBypassDefender | ['shellcode'] | 1 | 2022-11-11 09:11:33+00:00 | 1603 | 0 | C++ | 0 | [] |
 | 96368a/Logs404_BypassAV | 木末君的shellcode免杀脚本 | https://github.com/96368a/Logs404_BypassAV | ['shellcode'] | 1 | 2022-11-11 08:39:27+00:00 | 5095 | 0 | Python | 0 | [] |
-| chr1sM/CVE-2018-6574 | None | https://github.com/chr1sM/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 18:35:07+00:00 | 4 | 0 | C | 0 | ['CVE-2018-6574'] |
 | redhat-appstudio-appdata/-GZ8PC-exploit-reply | GitOps Repository | https://github.com/redhat-appstudio-appdata/-GZ8PC-exploit-reply | ['exploit'] | 1 | 2022-11-11 08:04:32+00:00 | 0 | 0 | | 0 | [] |
 | dkjiayu/dkjiayu.github.io | POC for cve-2022-22620 | https://github.com/dkjiayu/dkjiayu.github.io | ['cve poc'] | 1 | 2022-11-11 07:30:51+00:00 | 2 | 0 | HTML | 0 | ['CVE-2022-22620'] |
 | gigaryte/cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit'] | 4 | 2022-11-11 05:18:12+00:00 | 16 | 1 | Python | 0 | ['CVE-2022-31898'] |
@@ -71,7 +72,8 @@
 | BeyondThe5D/Retrofiy | A Roblox script that aims to accurately simulate the 2016 Roblox client. | https://github.com/BeyondThe5D/Retrofiy | ['exploit'] | 1 | 2022-11-11 09:12:28+00:00 | 349 | 5 | Lua | 2 | [] |
 | Trustworthy-Software/Quatrain | Quatrain(Question Answering for Patch Correctness Evaluation), a supervised learning approach that exploits a deep NLP model to classify the relatedness of a bug report with a patch description. | https://github.com/Trustworthy-Software/Quatrain | ['exploit'] | 1 | 2022-11-11 22:44:13+00:00 | 636168 | 5 | Python | 2 | [] |
 | Gelatekussy/GelatekReanimate | Reanimation that's way better than Catware Reanimate. | https://github.com/Gelatekussy/GelatekReanimate | ['exploit'] | 1 | 2022-11-11 23:41:02+00:00 | 401 | 5 | Lua | 3 | [] |
-| Ko-kn3t/CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 10:50:37+00:00 | 6683 | 3 | | 0 | ['CVE-2020-25515'] |
+| Amourousity/Conversio | Improves the compatibility of your scripts between exploits | https://github.com/Amourousity/Conversio | ['exploit'] | 1 | 2022-11-11 21:45:30+00:00 | 17 | 0 | Lua | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-11-11 04:39:33+00:00 | 10205750 | 106 | Python | 11 | [] |
 | HaoyeTianCoder/Quatrain | Quatrain(Question Answering for Patch Correctness Evaluation), a supervised learning approach that exploits a deep NLP model to classify the relatedness of a bug report with a patch description. | https://github.com/HaoyeTianCoder/Quatrain | ['exploit'] | 1 | 2022-11-11 22:43:17+00:00 | 709160 | 0 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-11-11 02:09:14+00:00 | 2663 | 138 | HTML | 29 | [] |
 | WafflesExploit/WafflesExploit | Config files for my GitHub profile. | https://github.com/WafflesExploit/WafflesExploit | ['exploit'] | 1 | 2022-11-11 14:24:41+00:00 | 75 | 0 | | 0 | [] |
@@ -85,8 +87,8 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-11-11 21:43:58+00:00 | 44156 | 35 | Python | 7 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-11 04:03:42+00:00 | 675038 | 65 | | 23 | [] |
 | sartlabs/0days | nan | https://github.com/sartlabs/0days | ['0day'] | 1 | 2022-11-11 07:26:48+00:00 | 1279 | 1 | PHP | 2 | [] |
+| Ko-kn3t/CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | ['cve-2 OR cve_2'] | 1 | 2022-11-11 10:50:37+00:00 | 6683 | 3 | | 0 | ['CVE-2020-25515'] |
 | VulnTotal-Team/IoT-vulhub | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | ['exploit'] | 1 | 2022-11-11 12:33:21+00:00 | 441108 | 836 | Python | 130 | [] |
-| Albert0147/NRC_SFDA | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/NRC_SFDA | ['exploit'] | 1 | 2022-11-11 17:39:47+00:00 | 132 | 49 | Python | 6 | [] |
 | 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-11-11 16:56:29+00:00 | 1116 | 184 | Shell | 120 | [] |
 | helmutrocco13/helmutrocco13.github.io | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | ['exploit'] | 1 | 2022-11-11 12:10:24+00:00 | 13453 | 0 | Batchfile | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2022-11-11 04:01:46+00:00 | 5706761 | 8 | Lua | 0 | [] |
@@ -100,12 +102,13 @@
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-11-11 02:13:51+00:00 | 4081 | 92 | Go | 7 | [] |
 | n1nj4sec/pupy | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | ['exploit'] | 1 | 2022-11-11 23:14:07+00:00 | 31318 | 7305 | Python | 1755 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-11-11 07:10:26+00:00 | 5721 | 3537 | Python | 735 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-11-11 04:39:33+00:00 | 10205750 | 106 | Python | 11 | [] |
+| Albert0147/NRC_SFDA | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/NRC_SFDA | ['exploit'] | 1 | 2022-11-11 17:39:47+00:00 | 132 | 49 | Python | 6 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-11-11 02:57:19+00:00 | 11772 | 4671 | TypeScript | 687 | [] |
-| Amourousity/Conversio | Improves the compatibility of your scripts between exploits | https://github.com/Amourousity/Conversio | ['exploit'] | 1 | 2022-11-11 21:45:30+00:00 | 17 | 0 | Lua | 0 | [] |
-| Fnoberz/FiveM-Exec-Bypass | ⚡️ Bypass Injector Exec / Please read the instructions for use carefully. | https://github.com/Fnoberz/FiveM-Exec-Bypass | ['exploit'] | 1 | 2022-11-11 09:49:14+00:00 | 203 | 37 | C++ | 10 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-11-11 18:10:46+00:00 | 9748 | 16 | | 5 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-11-11 10:03:53+00:00 | 4020 | 1066 | Go | 162 | [] |
 | 0xricksanchez/like-dbg | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | ['exploit'] | 1 | 2022-11-11 14:30:00+00:00 | 5185 | 583 | Python | 43 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-11 05:01:12+00:00 | 17401 | 38 | Go | 13 | [] |
+| teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-11-11 00:53:08+00:00 | 1609 | 13 | Go | 1 | [] |
 | Armandukx/ArmanX | A roblox executor/exploit multi API save's settings, etc | https://github.com/Armandukx/ArmanX | ['exploit'] | 1 | 2022-11-11 21:20:16+00:00 | 219720 | 0 | | 0 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-11-11 23:47:43+00:00 | 10004 | 2 | Python | 0 | [] |
 | Manu254rce/Manu254rce | Config files for my GitHub profile. | https://github.com/Manu254rce/Manu254rce | ['rce'] | 1 | 2022-11-11 10:16:06+00:00 | 16 | 0 | | 0 | [] |
@@ -116,9 +119,9 @@
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-11-11 01:45:40+00:00 | 543 | 274 | Shell | 59 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-11-11 15:00:44+00:00 | 863282 | 2 | Python | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-11-11 01:16:36+00:00 | 877 | 0 | | 0 | [] |
-| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-11-11 10:03:53+00:00 | 4020 | 1066 | Go | 162 | [] |
+| Fnoberz/FiveM-Exec-Bypass | ⚡️ Bypass Injector Exec / Please read the instructions for use carefully. | https://github.com/Fnoberz/FiveM-Exec-Bypass | ['exploit'] | 1 | 2022-11-11 09:49:14+00:00 | 203 | 37 | C++ | 10 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-11-11 13:54:17+00:00 | 274 | 10 | Java | 3 | [] |
 | Fnoberz/Rust-internal | ⚔️ Rust Cheat Internal Release Follow Step in Videos _ Work in last Patch | https://github.com/Fnoberz/Rust-internal | ['exploit'] | 1 | 2022-11-11 09:49:07+00:00 | 224 | 23 | C# | 7 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-11-11 18:10:46+00:00 | 9748 | 16 | | 5 | [] |
 | Fnoberz/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Fnoberz/Fortnite-External | ['exploit'] | 1 | 2022-11-11 02:35:50+00:00 | 7746 | 53 | C++ | 23 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-11-11 00:07:28+00:00 | 121425 | 3750 | HTML | 461 | [] |
 | sherlock-protocol/sherlock-v2-frontend | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | ['exploit'] | 1 | 2022-11-11 15:13:40+00:00 | 5543 | 6 | TypeScript | 3 | [] |
@@ -131,5 +134,4 @@
 | Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-11 02:35:31+00:00 | 9298 | 43 | C++ | 25 | [] |
 | GDSC-HANU/heap-overflow-be | nan | https://github.com/GDSC-HANU/heap-overflow-be | ['heap overflow'] | 1 | 2022-11-11 07:39:58+00:00 | 1339 | 0 | Java | 0 | [] |
 | ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit'] | 1 | 2022-11-11 09:02:45+00:00 | 901 | 0 | Ruby | 0 | [] |
-| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-11-11 13:54:17+00:00 | 274 | 10 | Java | 3 | [] |
 | M3l0nPan/wordpress-cve-2021-29447 | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-11-11 22:51:52+00:00 | 5 | 0 | Python | 0 | ['CVE-2021-29447'] |
