@@ -1,7 +1,7 @@
 
 # Summary for results/2022/11/12
     
-100 records found after deduplication
+101 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------------------------|
@@ -13,12 +13,12 @@
 | bob11vrdp/Disconnection-Exploit | VRDP Disconnection 1-Day Exploit Code | https://github.com/bob11vrdp/Disconnection-Exploit | ['exploit'] | 1 | 2022-11-12 03:44:26+00:00 | 1755 | 0 | C | 0 | [] |
 | pro-rat/IMAGE-RAT | Android hacking with Image | https://github.com/pro-rat/IMAGE-RAT | ['exploit'] | 1 | 2022-11-12 12:02:29+00:00 | 130 | 2 | | 1 | [] |
 | procrastimax/face-classification-model-inversion | An implementation of the model inversion attack described in "Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures" (Fredrikson Et al.) | https://github.com/procrastimax/face-classification-model-inversion | ['exploit'] | 1 | 2022-11-12 12:16:10+00:00 | 2893 | 0 | Python | 0 | [] |
-| im-hanzou/larapler | LARAPLER - Laravel Random Exploit | https://github.com/im-hanzou/larapler | ['exploit', 'rce'] | 2 | 2022-11-12 05:01:03+00:00 | 25 | 4 | PHP | 3 | [] |
+| im-hanzou/larapler | LARAPLER - Laravel Random Exploit | https://github.com/im-hanzou/larapler | ['exploit', 'rce'] | 2 | 2022-11-12 06:02:14+00:00 | 35 | 4 | PHP | 3 | [] |
 | ilTella/SecurityExercises | Dump of Security exercises with solutions | https://github.com/ilTella/SecurityExercises | ['shellcode'] | 1 | 2022-11-12 21:24:31+00:00 | 6 | 0 | | 0 | [] |
 | signalscorps/cve2stix-output | A publicly available store of STIX 2.1 objects created by our cve2stix script. This is a fully automated repository. | https://github.com/signalscorps/cve2stix-output | ['cve-2 OR cve_2'] | 1 | 2022-11-12 05:39:48+00:00 | 6336 | 0 | Python | 0 | [] |
 | orionLP/binex | In this repository i will leave my path through binary exploitation as i learn | https://github.com/orionLP/binex | ['exploit'] | 1 | 2022-11-12 15:34:55+00:00 | 13 | 0 | | 0 | [] |
 | ModExploit/ModExploit.github.io | None | https://github.com/ModExploit/ModExploit.github.io | ['exploit'] | 1 | 2022-11-12 00:59:42+00:00 | 2500 | 2 | HTML | 0 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-12 06:51:59+00:00 | 13114 | 5042 | Python | 700 | [] |
+| Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-11-12 09:14:41+00:00 | 1707 | 38 | C++ | 23 | [] |
 | ABradRoberts/shelly | shellcode learningz, yo. | https://github.com/ABradRoberts/shelly | ['shellcode'] | 1 | 2022-11-12 21:02:28+00:00 | 3 | 0 | C | 0 | [] |
 | SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-11-12 04:06:39+00:00 | 421 | 5 | C++ | 0 | [] |
 | Ha-L0/Ha-L0.github.io | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | ['exploit'] | 1 | 2022-11-12 12:54:26+00:00 | 13510 | 0 | HTML | 0 | [] |
@@ -55,9 +55,10 @@
 | loaki/42-rainfall | Introduction to the exploitation of (elf-like) binary | https://github.com/loaki/42-rainfall | ['exploit'] | 1 | 2022-11-12 11:17:26+00:00 | 0 | 0 | | 0 | [] |
 | halfstackpgr/HiddenTesla | Anti-Privacy Exploitation System | https://github.com/halfstackpgr/HiddenTesla | ['exploit'] | 1 | 2022-11-12 08:25:09+00:00 | 1 | 0 | | 0 | [] |
 | a0zhar/karo218 | Improved version of Karo's Exploit Host.. Mainly for personal use. | https://github.com/a0zhar/karo218 | ['exploit'] | 1 | 2022-11-12 15:12:09+00:00 | 2660 | 0 | JavaScript | 1 | [] |
-| Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-11-12 09:14:41+00:00 | 1707 | 38 | C++ | 23 | [] |
 | JitPatro/searchsploit | Searchsploit - Exploit Database Archive Search | https://github.com/JitPatro/searchsploit | ['exploit'] | 1 | 2022-11-12 09:18:00+00:00 | 53 | 0 | | 0 | [] |
-| Fnoberz/Valorant-Spoofer | 🔵 Spoof HWID banned Vanguard 152 or other code _ It works in the current version. | https://github.com/Fnoberz/Valorant-Spoofer | ['exploit'] | 1 | 2022-11-12 18:55:48+00:00 | 7168 | 78 | Batchfile | 17 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-12 06:51:59+00:00 | 13114 | 5042 | Python | 700 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-11-12 04:01:21+00:00 | 295452 | 543 | Python | 144 | [] |
+| Fnoberz/Example-injector | 💉 Fivem Exec _ Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | ['exploit'] | 1 | 2022-11-12 18:55:19+00:00 | 175 | 22 | C++ | 7 | [] |
 | Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-12 09:53:45+00:00 | 9313 | 43 | C++ | 25 | [] |
 | GDSC-HANU/heap-overflow-be | nan | https://github.com/GDSC-HANU/heap-overflow-be | ['heap overflow'] | 1 | 2022-11-12 08:41:23+00:00 | 1351 | 1 | Java | 0 | [] |
 | hack-different/apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | ['exploit'] | 1 | 2022-11-12 05:05:13+00:00 | 66565 | 428 | Ruby | 46 | [] |
@@ -67,8 +68,8 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-11-12 04:32:24+00:00 | 10257037 | 106 | Python | 11 | [] |
 | HaoyeTianCoder/Quatrain | Quatrain(Question Answering for Patch Correctness Evaluation), a supervised learning approach that exploits a deep NLP model to classify the relatedness of a bug report with a patch description. | https://github.com/HaoyeTianCoder/Quatrain | ['exploit'] | 1 | 2022-11-12 10:38:06+00:00 | 709165 | 0 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-11-12 02:04:13+00:00 | 2740 | 138 | HTML | 29 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-11-12 04:01:21+00:00 | 295452 | 543 | Python | 144 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-11-12 02:11:02+00:00 | 524 | 154 | Python | 19 | [] |
+| NoF0rte/slack-slurp | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | ['exploit'] | 1 | 2022-11-12 03:00:46+00:00 | 155 | 8 | Go | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-12 04:03:44+00:00 | 678705 | 65 | | 23 | [] |
 | FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2022-11-12 21:36:35+00:00 | 206 | 21 | Shell | 1 | [] |
 | CaledoniaProject/drivers-binaries | Exploitable drivers, you know what I mean | https://github.com/CaledoniaProject/drivers-binaries | ['exploit'] | 1 | 2022-11-12 03:29:30+00:00 | 4118 | 12 | | 4 | [] |
@@ -79,15 +80,16 @@
 | R00tS3c/DDOS-RootSec | DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | ['exploit'] | 1 | 2022-11-12 23:31:29+00:00 | 599732 | 344 | Python | 250 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-11-12 12:55:05+00:00 | 76241 | 12272 | Jupyter Notebook | 2106 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-11-12 00:35:30+00:00 | 6678 | 5148 | Python | 625 | [] |
-| Fnoberz/Example-injector | 💉 Fivem Exec _ Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | ['exploit'] | 1 | 2022-11-12 18:55:19+00:00 | 175 | 22 | C++ | 7 | [] |
+| Fnoberz/Valorant-Spoofer | 🔵 Spoof HWID banned Vanguard 152 or other code _ It works in the current version. | https://github.com/Fnoberz/Valorant-Spoofer | ['exploit'] | 1 | 2022-11-12 18:55:48+00:00 | 7168 | 78 | Batchfile | 17 | [] |
 | Fnoberz/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | ['exploit'] | 1 | 2022-11-12 23:54:32+00:00 | 2232 | 48 | C++ | 25 | [] |
-| NoF0rte/slack-slurp | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | ['exploit'] | 1 | 2022-11-12 03:00:46+00:00 | 155 | 8 | Go | 2 | [] |
 | Fnoberz/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Fnoberz/Fortnite-External | ['exploit'] | 1 | 2022-11-12 16:44:09+00:00 | 7753 | 53 | C++ | 23 | [] |
+| Fnoberz/Rust-internal | ⚔️ Rust Cheat Internal Release Follow Step in Videos _ Work in last Patch | https://github.com/Fnoberz/Rust-internal | ['exploit'] | 1 | 2022-11-12 18:55:44+00:00 | 229 | 23 | C# | 7 | [] |
 | Barracudach/CallStack-Spoofer | This tool will allow you to spoof the return addresses of your functions as well as system functions. | https://github.com/Barracudach/CallStack-Spoofer | ['shellcode'] | 1 | 2022-11-12 17:57:25+00:00 | 167 | 206 | C++ | 45 | [] |
 | Trustworthy-Software/Quatrain | Quatrain(Question Answering for Patch Correctness Evaluation), a supervised learning approach that exploits a deep NLP model to classify the relatedness of a bug report with a patch description. | https://github.com/Trustworthy-Software/Quatrain | ['exploit'] | 1 | 2022-11-12 10:38:15+00:00 | 636173 | 5 | Python | 2 | [] |
 | pcaversaccio/reentrancy-attacks | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | ['exploit'] | 1 | 2022-11-12 10:33:20+00:00 | 69 | 321 | | 34 | [] |
 | Arturo254/Tools | Tools, Instala paquetes como python, metasploit etc | https://github.com/Arturo254/Tools | ['metasploit module OR payload'] | 1 | 2022-11-12 03:28:25+00:00 | 22 | 1 | | 0 | [] |
 | Gelatekussy/GelatekReanimate | Reanimation that's way better than Catware Reanimate. | https://github.com/Gelatekussy/GelatekReanimate | ['exploit'] | 1 | 2022-11-12 12:21:44+00:00 | 415 | 5 | Lua | 3 | [] |
+| SaumyajeetDas/GodGenesis | A Python3 based C2 server to make life of red teamer a bit easier. The payload is capable to bypass all the known antiviruses and endpoints. | https://github.com/SaumyajeetDas/GodGenesis | ['exploit'] | 1 | 2022-11-12 21:48:30+00:00 | 35 | 257 | Python | 51 | [] |
 | 0xricksanchez/like-dbg | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | ['exploit'] | 1 | 2022-11-12 15:34:25+00:00 | 5193 | 583 | Python | 43 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-12 04:50:55+00:00 | 18732 | 38 | Go | 13 | [] |
 | D4nk0St0rM/ethical_hacking | Ethical Hacking & PenTesting Repo method, approach, resources, tools, code, exploits, reporting, wordlists, attacks, scanning | https://github.com/D4nk0St0rM/ethical_hacking | ['exploit'] | 1 | 2022-11-12 08:26:44+00:00 | 55827 | 3 | Python | 3 | [] |
@@ -103,5 +105,4 @@
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-11-12 15:00:44+00:00 | 866872 | 2 | Python | 0 | [] |
 | Captain-S0L0/serverutilities | a collection of exploit fixes, commands, and other things for fabric mc | https://github.com/Captain-S0L0/serverutilities | ['exploit'] | 1 | 2022-11-12 05:06:33+00:00 | 207 | 0 | Java | 0 | [] |
 | Fnoberz/FiveM-Exec-Bypass | ⚡️ Bypass Injector Exec / Please read the instructions for use carefully. | https://github.com/Fnoberz/FiveM-Exec-Bypass | ['exploit'] | 1 | 2022-11-12 18:55:27+00:00 | 212 | 37 | C++ | 10 | [] |
-| Fnoberz/Rust-internal | ⚔️ Rust Cheat Internal Release Follow Step in Videos _ Work in last Patch | https://github.com/Fnoberz/Rust-internal | ['exploit'] | 1 | 2022-11-12 18:55:44+00:00 | 229 | 23 | C# | 7 | [] |
 | detour-exploiter/detour-exploiter.github.io | None | https://github.com/detour-exploiter/detour-exploiter.github.io | ['exploit'] | 1 | 2022-11-12 23:52:56+00:00 | 2 | 0 | HTML | 0 | [] |
