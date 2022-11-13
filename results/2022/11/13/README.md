@@ -1,0 +1,40 @@
+
+# Summary for results/2022/11/13
+    
+33 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|---------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-13 03:19:34+00:00 | 810427 | 28714 | Ruby | 12663 | [] |
+| Alendaa/Scripts | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | ['exploit'] | 1 | 2022-11-13 02:29:11+00:00 | 1476 | 0 | | 0 | [] |
+| MRX90902WX/Msftool | Este script es para automatizar el trabajo para generar una apk comprobada y obtenida la con metasploit .PARA HACKIAR ANDROID . | https://github.com/MRX90902WX/Msftool | ['metasploit module OR payload'] | 1 | 2022-11-13 03:29:00+00:00 | 24 | 1 | Shell | 0 | [] |
+| Orange-Joe/redreishi | Suite of scripts for more efficient enumeration and exploitation. Endless work in progess. | https://github.com/Orange-Joe/redreishi | ['exploit'] | 1 | 2022-11-13 03:27:45+00:00 | 12 | 0 | Python | 0 | [] |
+| yilin1203/CNVD-2022-10270 | None | https://github.com/yilin1203/CNVD-2022-10270 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-11-13 03:07:28+00:00 | 687 | 0 | Python | 0 | ['CNVD-2022-10270'] |
+| luyangliuable/metasploit_notes | None | https://github.com/luyangliuable/metasploit_notes | ['metasploit module OR payload'] | 1 | 2022-11-13 01:56:20+00:00 | 0 | 0 | | 0 | [] |
+| VirescentOverlord/disable-extention | disable and enable chrome extension exploit with bookmarklets and javascript | https://github.com/VirescentOverlord/disable-extention | ['exploit'] | 1 | 2022-11-13 01:39:47+00:00 | 2 | 0 | JavaScript | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii | ['exploit'] | 1 | 2022-11-13 00:44:37+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEANii | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANii | ['exploit'] | 1 | 2022-11-13 00:43:30+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEANii | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANii | ['exploit'] | 1 | 2022-11-13 00:42:04+00:00 | 1 | 1 | | 0 | [] |
+| KenedyG/Rcetario | app de recetario | https://github.com/KenedyG/Rcetario | ['rce'] | 1 | 2022-11-13 00:28:32+00:00 | 100 | 0 | Java | 0 | [] |
+| EarthToAccess/VidUI | VidUI; The premier video-recording UI for Elemental Battlegrounds. | https://github.com/EarthToAccess/VidUI | ['exploit'] | 1 | 2022-11-13 00:04:34+00:00 | 396 | 0 | Lua | 0 | [] |
+| im-hanzou/larapler | LARAPLER - Laravel Random Exploit | https://github.com/im-hanzou/larapler | ['exploit', 'rce'] | 2 | 2022-11-13 03:37:33+00:00 | 38 | 4 | PHP | 3 | [] |
+| tootocode/Crawler_CNVD | None | https://github.com/tootocode/Crawler_CNVD | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-11-13 03:07:41+00:00 | 5 | 1 | Python | 0 | [] |
+| SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-11-13 03:09:41+00:00 | 457 | 5 | C++ | 0 | [] |
+| jenydu/CNVds | An R package for CNV analyses with regards to dosage sensitivity (ds) information of the genes that they encompass. | https://github.com/jenydu/CNVds | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-11-13 04:26:58+00:00 | 6119 | 0 | R | 0 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-11-13 01:09:21+00:00 | 9745 | 118 | | 14 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-11-13 02:11:56+00:00 | 6679 | 5150 | Python | 625 | [] |
+| Thens18/Zeroday | nan | https://github.com/Thens18/Zeroday | ['zeroday'] | 1 | 2022-11-13 03:42:15+00:00 | 20478 | 1 | Dart | 0 | [] |
+| BeyondThe5D/Retrofiy | A Roblox script that aims to accurately simulate the 2016 Roblox client. | https://github.com/BeyondThe5D/Retrofiy | ['exploit'] | 1 | 2022-11-13 00:07:44+00:00 | 381 | 5 | Lua | 2 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-13 04:53:08+00:00 | 17499 | 38 | Go | 13 | [] |
+| doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-11-13 03:00:31+00:00 | 2636 | 9 | Python | 0 | [] |
+| DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-11-13 00:19:25+00:00 | 227 | 0 | | 0 | [] |
+| Captain-S0L0/serverutilities | a collection of exploit fixes, commands, and other things for fabric mc | https://github.com/Captain-S0L0/serverutilities | ['exploit'] | 1 | 2022-11-13 04:32:35+00:00 | 207 | 0 | Java | 0 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-11-13 01:12:13+00:00 | 890 | 0 | | 0 | [] |
+| Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-11-13 03:05:34+00:00 | 290 | 10 | Java | 3 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-11-13 04:35:03+00:00 | 10288206 | 106 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-11-13 02:04:10+00:00 | 2738 | 138 | HTML | 29 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-11-13 04:01:23+00:00 | 286635 | 543 | Python | 144 | [] |
+| im-hanzou/wp-listingpro | WordPress ListingPro Mass Exploiter | https://github.com/im-hanzou/wp-listingpro | ['exploit'] | 1 | 2022-11-13 03:26:04+00:00 | 30 | 1 | Shell | 2 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-13 04:03:41+00:00 | 679403 | 65 | | 23 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-11-13 04:36:57+00:00 | 602284 | 216 | REXX | 26 | [] |
+| chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7 | PostgreSQL 9.3-11.7 - Remote Code Execution (RCE) | https://github.com/chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7 | ['cve-2 OR cve_2', 'rce', 'remote code execution'] | 3 | 2022-11-13 04:30:01+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-9193'] |
