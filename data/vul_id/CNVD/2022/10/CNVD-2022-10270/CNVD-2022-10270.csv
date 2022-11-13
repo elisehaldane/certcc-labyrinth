@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2022-10270,1.00000000,https://github.com/yilin1203/CNVD-2022-10270,yilin1203/CNVD-2022-10270,565319588
 CNVD-2022-10270,1.00000000,https://github.com/boluo123432423/CNVD-2022-10270-poc,boluo123432423/CNVD-2022-10270-poc,510642362
 CNVD-2022-10270,1.00000000,https://github.com/wukong-bin/PeiQi-https-github.com-Ryze-T-CNVD-2022-10270-LPE,wukong-bin/PeiQi-https-github.com-Ryze-T-CNVD-2022-10270-LPE,465140895
 CNVD-2022-10270,1.00000000,https://github.com/xiaoQ1z/sunlogin_rce_cnvd-2022-10270,xiaoQ1z/sunlogin_rce_cnvd-2022-10270,464855545
