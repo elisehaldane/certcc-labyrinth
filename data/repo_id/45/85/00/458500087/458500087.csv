@@ -1,7 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 458500087,hotpotcookie/log4shell-white-box,red/custom-daemon/go-api-daemon/main,0eea6830601b5b75e18b52cbe306be1e31d72ef6,VU#07
-458500087,hotpotcookie/log4shell-white-box,doc/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Word_Update.docx,1e6b96c3ecc0d4357efff85cf003edbbfd840656,VU#172
-458500087,hotpotcookie/log4shell-white-box,doc/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Word_Update.docx,1e6b96c3ecc0d4357efff85cf003edbbfd840656,VU#80
 458500087,hotpotcookie/log4shell-white-box,red/payload/.pwnd.zip,3620f964e804df2fd4ae3c821d1dcb56a6ee5154,VU#90
 458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr.odt,3e31b32131a447fcb1e5945b54aebac70b363f34,VU#172
 458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr.odt,3e31b32131a447fcb1e5945b54aebac70b363f34,VU#80
@@ -13,6 +11,9 @@ repo_id,repo_full_name,file,file_sha1,match
 458500087,hotpotcookie/log4shell-white-box,doc/logbook-bimbingan.txt,945daf1c4e3643980b1b786166b516a313006f7c,CVE-2021-44228
 458500087,hotpotcookie/log4shell-white-box,doc/diagram.drawio,987db8801f4b43636f2a53e0ec5005d1d4ebe9e9,VU#28
 458500087,hotpotcookie/log4shell-white-box,doc/diagram.drawio,987db8801f4b43636f2a53e0ec5005d1d4ebe9e9,VU#73
+458500087,hotpotcookie/log4shell-white-box,doc/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Word_Update.docx,a7ca327b03194e885399ee685ddab0bc0c7d4e70,VU#172
+458500087,hotpotcookie/log4shell-white-box,doc/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Word_Update.docx,a7ca327b03194e885399ee685ddab0bc0c7d4e70,VU#80
 458500087,hotpotcookie/log4shell-white-box,README.md,ca934e83db41ab656b7ee99403675c5f7eb1fdef,CVE-2021-44228
 458500087,hotpotcookie/log4shell-white-box,doc/old/Skripsi_NoIndent_1807422020_Muhammad Nur Irsyad_Git_Librr_Ldap.odt,ddd9105c0a99833b577b7bda291e3dfd8ff7d791,VU#760
+458500087,hotpotcookie/log4shell-white-box,doc/Laporan PKL 2021_1807422020_Muhammad Nur Irsyad.pdf,deacf64b11235a1f36dd1aefc58469ca1151c904,VU#56
 458500087,hotpotcookie/log4shell-white-box,_GITHUB_REPO_METADATA_,,CVE-2021-44228
