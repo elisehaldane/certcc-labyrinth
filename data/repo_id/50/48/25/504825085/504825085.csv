@@ -1,2 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 504825085,0xricksanchez/like-dbg,src/tests/files/testKernel_packed,7d99fc132d6df5d70ccba3b32af7405d78e8d534,VU#15
+504825085,0xricksanchez/like-dbg,kb/README.md,cc92109d2bb0e7069173eb499d4129aed38914b5,CVE-2019-15666
+504825085,0xricksanchez/like-dbg,kb/README.md,cc92109d2bb0e7069173eb499d4129aed38914b5,CVE-2020-1350
+504825085,0xricksanchez/like-dbg,kb/README.md,cc92109d2bb0e7069173eb499d4129aed38914b5,CVE-2021-26708
+504825085,0xricksanchez/like-dbg,kb/README.md,cc92109d2bb0e7069173eb499d4129aed38914b5,CVE-2021-42008
+504825085,0xricksanchez/like-dbg,kb/README.md,cc92109d2bb0e7069173eb499d4129aed38914b5,CVE-2022-0185
+504825085,0xricksanchez/like-dbg,kb/README.md,cc92109d2bb0e7069173eb499d4129aed38914b5,CVE-2022-1786
