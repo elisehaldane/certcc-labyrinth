@@ -1,7 +1,7 @@
 
 # Summary for results/2022/11/13
     
-110 records found after deduplication
+111 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|---------------------|
@@ -33,7 +33,7 @@
 | zerodayindia/zerodayindia.github.io | nan | https://github.com/zerodayindia/zerodayindia.github.io | ['zeroday'] | 1 | 2022-11-13 10:40:52+00:00 | 723 | 0 | HTML | 0 | [] |
 | KenedyG/Rcetario | app de recetario | https://github.com/KenedyG/Rcetario | ['rce'] | 1 | 2022-11-13 00:28:32+00:00 | 100 | 0 | Java | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEANii | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANii | ['exploit'] | 1 | 2022-11-13 00:43:30+00:00 | 1 | 1 | | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-11-13 06:45:43+00:00 | 27347 | 9637 | Python | 1558 | [] |
+| sujayadkesar/Let-s-Exploit | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | ['exploit'] | 1 | 2022-11-13 13:41:35+00:00 | 32761 | 2 | HTML | 1 | [] |
 | F1r0x/Exploit-CloudMe-1.11.2- | CloudMe 1.11.2 - Buffer Overflow, Windows remote Exploit | https://github.com/F1r0x/Exploit-CloudMe-1.11.2- | ['exploit'] | 1 | 2022-11-13 11:21:56+00:00 | 2 | 0 | Python | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEANvv | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvv | ['exploit'] | 1 | 2022-11-13 23:17:48+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEANvv | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvv | ['exploit'] | 1 | 2022-11-13 23:16:29+00:00 | 1 | 1 | | 0 | [] |
@@ -60,8 +60,8 @@
 | luyangliuable/metasploit_notes | None | https://github.com/luyangliuable/metasploit_notes | ['metasploit module OR payload'] | 1 | 2022-11-13 01:56:20+00:00 | 0 | 0 | | 0 | [] |
 | VirescentOverlord/disable-extention | disable and enable chrome extension exploit with bookmarklets and javascript | https://github.com/VirescentOverlord/disable-extention | ['exploit'] | 1 | 2022-11-13 01:39:47+00:00 | 2 | 0 | JavaScript | 0 | [] |
 | tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-11-13 01:09:21+00:00 | 9745 | 118 | | 14 | [] |
-| sujayadkesar/Let-s-Exploit | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | ['exploit'] | 1 | 2022-11-13 13:41:35+00:00 | 32761 | 2 | HTML | 1 | [] |
 | Thens18/Zeroday | nan | https://github.com/Thens18/Zeroday | ['zeroday'] | 1 | 2022-11-13 03:42:15+00:00 | 20478 | 1 | Dart | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2022-11-13 06:45:43+00:00 | 27347 | 9637 | Python | 1558 | [] |
 | Limesss/cve-2019-18683 | None | https://github.com/Limesss/cve-2019-18683 | ['cve-2 OR cve_2'] | 1 | 2022-11-13 07:15:27+00:00 | 18 | 2 | C | 3 | ['CVE-2019-18683'] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-11-13 18:10:40+00:00 | 9752 | 16 | | 5 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-11-13 04:35:03+00:00 | 10288206 | 106 | Python | 11 | [] |
@@ -75,7 +75,7 @@
 | im-hanzou/wp-listingpro | WordPress ListingPro Mass Exploiter | https://github.com/im-hanzou/wp-listingpro | ['exploit'] | 1 | 2022-11-13 03:26:04+00:00 | 30 | 1 | Shell | 2 | [] |
 | iraizo/discord-ipc-poc | Reading out sensitive account data from discords IPC socket | https://github.com/iraizo/discord-ipc-poc | ['vulnerability poc'] | 1 | 2022-11-13 10:17:16+00:00 | 25 | 12 | Rust | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-13 04:03:41+00:00 | 679403 | 65 | | 23 | [] |
-| Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-11-13 17:19:05+00:00 | 1723 | 39 | C++ | 23 | [] |
+| ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-11-13 16:57:21+00:00 | 767 | 1 | Ruby | 0 | [] |
 | YaoYao1995/MEEE | Code to reproduce the experiments in Sample Efficient Reinforcement Learning via Model-Ensemble Exploration and Exploitation (MEEE). | https://github.com/YaoYao1995/MEEE | ['exploit'] | 1 | 2022-11-13 09:37:10+00:00 | 135 | 5 | Python | 3 | [] |
 | kryptops/lycanthropy | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | ['exploit'] | 1 | 2022-11-13 22:42:31+00:00 | 3729 | 9 | Python | 3 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-11-13 22:27:47+00:00 | 906 | 306 | C | 18 | [] |
@@ -88,9 +88,9 @@
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2022-11-13 02:11:56+00:00 | 6679 | 5150 | Python | 625 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-13 11:02:27+00:00 | 13114 | 5043 | Python | 700 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-11-13 03:05:34+00:00 | 290 | 10 | Java | 3 | [] |
-| ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-11-13 16:57:21+00:00 | 767 | 1 | Ruby | 0 | [] |
 | graysuit/CVE-2019-15514 | telegram bug that discloses user's hidden phone number (still unpatched) (exploit included) | https://github.com/graysuit/CVE-2019-15514 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-11-13 09:06:41+00:00 | 23 | 65 | Python | 15 | ['CVE-2019-15514'] |
-| Fnoberz/Example-injector | 💉 Fivem Exec _ Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | ['exploit'] | 1 | 2022-11-13 09:24:15+00:00 | 178 | 22 | C++ | 7 | [] |
+| Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-11-13 17:19:05+00:00 | 1723 | 39 | C++ | 23 | [] |
+| DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-11-13 00:19:25+00:00 | 227 | 0 | | 0 | [] |
 | SILVANOFICH/DarkScriptsExploitt | None | https://github.com/SILVANOFICH/DarkScriptsExploitt | ['exploit'] | 1 | 2022-11-13 10:48:25+00:00 | 6 | 0 | | 0 | [] |
 | gogo2464/cryptatools-rs | Tool to help to cryptanalysis for cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | ['exploit'] | 1 | 2022-11-13 14:24:12+00:00 | 75909 | 6 | Rust | 1 | [] |
 | BeyondThe5D/Retrofiy | A Roblox script that aims to accurately simulate the 2016 Roblox client. | https://github.com/BeyondThe5D/Retrofiy | ['exploit'] | 1 | 2022-11-13 00:07:44+00:00 | 381 | 5 | Lua | 2 | [] |
@@ -100,9 +100,10 @@
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-13 04:53:08+00:00 | 17499 | 38 | Go | 13 | [] |
 | teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-11-13 16:00:19+00:00 | 1513 | 13 | TypeScript | 1 | [] |
 | NullBrunk/CVE-2011-2523 | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-11-13 15:49:47+00:00 | 20 | 1 | Python | 2 | ['CVE-2011-2523'] |
+| TitaniumMC/Titanium | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | ['exploit'] | 1 | 2022-11-13 20:43:39+00:00 | 5010 | 46 | Shell | 2 | [] |
 | doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-11-13 03:00:31+00:00 | 2636 | 9 | Python | 0 | [] |
-| DontAltF4/RobloxScripts | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | ['exploit'] | 1 | 2022-11-13 00:19:25+00:00 | 227 | 0 | | 0 | [] |
 | rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | IOT Forensics Thesis regarding Automation of Android apps exploiting UI Testing tools in order to collect huge data sets to analyze Wi-Fi traffic between android apps and IOT devices associated to them. Finally ML techniques are applied to estimate human b | https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | ['exploit'] | 1 | 2022-11-13 23:46:28+00:00 | 55122 | 0 | Jupyter Notebook | 0 | [] |
+| Fnoberz/Example-injector | 💉 Fivem Exec _ Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | ['exploit'] | 1 | 2022-11-13 09:24:15+00:00 | 178 | 22 | C++ | 7 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-11-13 15:34:48+00:00 | 716 | 276 | Shell | 59 | [] |
 | trickest/containers | Automated privilege escalation of the world's most popular Docker images. | https://github.com/trickest/containers | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-11-13 20:43:05+00:00 | 11180 | 36 | Shell | 3 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2022-11-13 15:00:56+00:00 | 870459 | 2 | Python | 0 | [] |
