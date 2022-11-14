@@ -36,7 +36,6 @@ VU#21,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,
 VU#21,0.16666667,https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo,BabooPan/Log4Shell-CVE-2021-44228-Demo,440722343
 VU#21,0.16666667,https://github.com/Dviros/log4shell-possible-malware,Dviros/log4shell-possible-malware,437827313
 VU#21,0.16666667,https://github.com/samjcs/log4shell-possible-malware,samjcs/log4shell-possible-malware,437729597
-VU#21,0.14285714,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#21,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
 VU#21,0.12500000,https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,259394786
@@ -54,6 +53,7 @@ VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-E
 VU#21,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#21,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 VU#21,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
+VU#21,0.05882353,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#21,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#21,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
