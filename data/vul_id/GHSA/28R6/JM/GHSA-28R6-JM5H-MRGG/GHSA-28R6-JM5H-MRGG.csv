@@ -1,2 +1,2 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-28R6-JM5H-MRGG,0.02777778,https://github.com/cokeBeer/go-cves,cokeBeer/go-cves,488562350
+GHSA-28R6-JM5H-MRGG,0.02702703,https://github.com/cokeBeer/go-cves,cokeBeer/go-cves,488562350
