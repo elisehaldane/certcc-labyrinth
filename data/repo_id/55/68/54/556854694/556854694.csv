@@ -1,7 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-556854694,Ha-L0/Ha-L0.github.io,_posts/2022-01-08-[H4]-Proving-Grounds-Practice-internal.md,28d9ef65ecf6ad72d4aec3c94ef50a3c224f709e,CVE-2009-3103
-556854694,Ha-L0/Ha-L0.github.io,_posts/2022-01-08-[H4]-Proving-Grounds-Practice-internal.md,28d9ef65ecf6ad72d4aec3c94ef50a3c224f709e,MS09-050
-556854694,Ha-L0/Ha-L0.github.io,_posts/2022-01-08-[H4]-Proving-Grounds-Practice-internal.md,28d9ef65ecf6ad72d4aec3c94ef50a3c224f709e,MS10-054
-556854694,Ha-L0/Ha-L0.github.io,_posts/2022-01-08-[H4]-Proving-Grounds-Practice-internal.md,28d9ef65ecf6ad72d4aec3c94ef50a3c224f709e,MS10-061
-556854694,Ha-L0/Ha-L0.github.io,_posts/2022-01-03-[H4]-Proving-Grounds-Practice-helpdesk.md,5fa0cc689551c9be567244a5b81f5bb06406edbe,CVE-2014-5301
-556854694,Ha-L0/Ha-L0.github.io,_posts/2022-02-13-[H4]-Proving-Grounds-Practice-zenphoto.md,ac3b87731ca3afcbaf287bf607d9099afaef9ae3,CVE-2021-4034
+556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-14-[H4]-Proving-Grounds-Play-VULNHUB-blogger-1.md,fd54d8571e984cb5fe54382f1422fc5edeee4311,CVE-2020-24186
