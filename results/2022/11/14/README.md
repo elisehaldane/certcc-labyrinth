@@ -1,12 +1,12 @@
 
 # Summary for results/2022/11/14
     
-119 records found after deduplication
+120 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-14 01:46:18+00:00 | 810427 | 28717 | Ruby | 12665 | [] |
-| it21026416/SQLInjection | A Team Assignment on SQL Injection which includes the understandings of its types and data entries. The Project also includes step by step tutorial of how to exploit such SQLi types, the impacts caused by it and recommendations to avoid such exploits. | https://github.com/it21026416/SQLInjection | ['exploit'] | 1 | 2022-11-14 14:04:48+00:00 | 2020 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-11-14 03:18:45+00:00 | 21836 | 7840 | JavaScript | 1822 | [] |
 | red78massive1573/open-url | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | ['exploit'] | 1 | 2022-11-14 10:16:14+00:00 | 20 | 0 | HTML | 0 | [] |
 | amira-codecamp/nlp | NLP solutions to improve data quality, exploitation and extraction | https://github.com/amira-codecamp/nlp | ['exploit'] | 1 | 2022-11-14 16:08:38+00:00 | 177 | 0 | Jupyter Notebook | 0 | [] |
 | pro-rat/IMAGE-RAT | Android hacking with Image | https://github.com/pro-rat/IMAGE-RAT | ['exploit'] | 1 | 2022-11-14 05:02:24+00:00 | 130 | 2 | | 1 | [] |
@@ -19,8 +19,8 @@
 | Ha-L0/Ha-L0.github.io | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | ['exploit'] | 1 | 2022-11-14 22:24:47+00:00 | 15815 | 0 | HTML | 0 | [] |
 | jenydu/CNVds | (Work in Progress) An R package for CNV analyses with regards to dosage sensitivity (ds) information of the genes that they encompass. | https://github.com/jenydu/CNVds | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-11-14 17:00:48+00:00 | 10860 | 0 | R | 0 | [] |
 | Alendaa/Scripts | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | ['exploit'] | 1 | 2022-11-14 00:08:26+00:00 | 1539 | 0 | | 0 | [] |
+| it21026416/SQLInjection | A Team Assignment on SQL Injection which includes the understandings of its types and data entries. The Project also includes step by step tutorial of how to exploit such SQLi types, the impacts caused by it and recommendations to avoid such exploits. | https://github.com/it21026416/SQLInjection | ['exploit'] | 1 | 2022-11-14 14:04:48+00:00 | 2020 | 0 | | 0 | [] |
 | KATERGaming/Roblox | Exploiting | https://github.com/KATERGaming/Roblox | ['exploit'] | 1 | 2022-11-14 12:04:45+00:00 | 1048 | 0 | Lua | 0 | [] |
-| Cr4ckC4t/cve-2022-41352-zimbra-rce | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-11-14 17:54:57+00:00 | 1813 | 50 | Python | 9 | ['CVE-2022-41352'] |
 | darksideoftheshmoo/rcell2-cellid | CellID bundled in R for the rcell2 package: CellID Data Analysis Inside the Tidyverse. | https://github.com/darksideoftheshmoo/rcell2-cellid | ['rce'] | 1 | 2022-11-14 20:58:55+00:00 | 5571 | 0 | C | 0 | [] |
 | Teemsploit/SituationAdmin.lua | A console admin script built for synapseX & Script-Ware may not work on other executors. | https://github.com/Teemsploit/SituationAdmin.lua | ['exploit'] | 1 | 2022-11-14 12:57:53+00:00 | 225 | 4 | Lua | 3 | [] |
 | jimdealuk/Exercise_Db | Prototype code : showing C++ 11/14/17 and Dependency Injection & Command Design pattern usage | https://github.com/jimdealuk/Exercise_Db | ['command injection'] | 1 | 2022-11-14 16:15:55+00:00 | 392 | 0 | C++ | 0 | [] |
@@ -33,9 +33,10 @@
 | DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | None | https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | ['exploit'] | 1 | 2022-11-14 10:07:56+00:00 | 18 | 5 | Python | 0 | [] |
 | NoF0rte/slack-slurp | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | ['exploit'] | 1 | 2022-11-14 01:44:29+00:00 | 244 | 8 | Go | 2 | [] |
 | Bl4ckM1rror/FUD-UUID-Shellcode | None | https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode | ['shellcode'] | 1 | 2022-11-14 11:19:15+00:00 | 1865 | 177 | C++ | 38 | [] |
+| suljov/Windows-and-Active-Directory | None | https://github.com/suljov/Windows-and-Active-Directory | ['exploit'] | 1 | 2022-11-14 17:38:35+00:00 | 690 | 3 | | 0 | [] |
 | dkjiayu/dkjiayu.github.io | POC for cve-2022-22620 | https://github.com/dkjiayu/dkjiayu.github.io | ['cve poc'] | 1 | 2022-11-14 11:21:53+00:00 | 3 | 0 | HTML | 0 | ['CVE-2022-22620'] |
+| Cr4ckC4t/cve-2022-41352-zimbra-rce | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-11-14 17:54:57+00:00 | 1813 | 50 | Python | 9 | ['CVE-2022-41352'] |
 | loaki/42-rainfall | Introduction to the exploitation of (elf-like) binary | https://github.com/loaki/42-rainfall | ['exploit'] | 1 | 2022-11-14 23:40:27+00:00 | 374 | 0 | C | 0 | [] |
-| 0xricksanchez/like-dbg | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | ['exploit'] | 1 | 2022-11-14 15:27:48+00:00 | 5190 | 583 | Python | 43 | [] |
 | Tentgrat/Exploit | None | https://github.com/Tentgrat/Exploit | ['exploit'] | 1 | 2022-11-14 13:13:02+00:00 | 5 | 0 | Shell | 0 | [] |
 | ROOT44x/Kol_Roblox_Exploit. | Roblox Exploit Using WRD Api | https://github.com/ROOT44x/Kol_Roblox_Exploit. | ['exploit'] | 1 | 2022-11-14 21:55:26+00:00 | 814 | 0 | | 0 | [] |
 | mikusgszyp/ezSploit | Roblox exploit | https://github.com/mikusgszyp/ezSploit | ['exploit', 'sploit'] | 2 | 2022-11-14 21:05:57+00:00 | 4823 | 0 | Lua | 0 | [] |
@@ -63,9 +64,9 @@
 | Juanjo9986/comandos-de-metasploit | Comandos básicos de metasploit | https://github.com/Juanjo9986/comandos-de-metasploit | ['metasploit module OR payload'] | 1 | 2022-11-14 04:35:24+00:00 | 1 | 0 | | 0 | [] |
 | cmg189/cipher_decryption | Exploiting the many-time pad vulnerability | https://github.com/cmg189/cipher_decryption | ['exploit'] | 1 | 2022-11-14 00:34:38+00:00 | 4 | 0 | Python | 0 | [] |
 | MRX90902WX/Msftool | Este script es para automatizar el trabajo para generar una apk comprobada y obtenida la con metasploit .PARA HACKIAR ANDROID . | https://github.com/MRX90902WX/Msftool | ['metasploit module OR payload'] | 1 | 2022-11-14 03:07:27+00:00 | 32 | 1 | Shell | 0 | [] |
-| suljov/Windows-and-Active-Directory | None | https://github.com/suljov/Windows-and-Active-Directory | ['exploit'] | 1 | 2022-11-14 17:38:35+00:00 | 690 | 3 | | 0 | [] |
+| SaumyajeetDas/GodGenesis | A Python3 based C2 server to make life of red teamer a bit easier. The payload is capable to bypass all the known antiviruses and endpoints. | https://github.com/SaumyajeetDas/GodGenesis | ['exploit'] | 1 | 2022-11-14 17:09:10+00:00 | 35 | 260 | Python | 52 | [] |
+| 0xricksanchez/like-dbg | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | ['exploit'] | 1 | 2022-11-14 15:27:48+00:00 | 5190 | 583 | Python | 43 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-14 05:00:50+00:00 | 17454 | 38 | Go | 13 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-11-14 03:18:45+00:00 | 21836 | 7840 | JavaScript | 1822 | [] |
 | c1y2m3/SimpleShellcode | 利用图片隐写术来远程动态加载shellcode | https://github.com/c1y2m3/SimpleShellcode | ['shellcode'] | 1 | 2022-11-14 04:03:58+00:00 | 70927 | 62 | C++ | 24 | [] |
 | PRBonn/LiDAR-MOS | (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2022-11-14 07:42:21+00:00 | 42699 | 379 | Python | 83 | [] |
 | Al0ne-collab/dismod | Discord exploit attack tool | https://github.com/Al0ne-collab/dismod | ['exploit'] | 1 | 2022-11-14 14:18:52+00:00 | 25 | 4 | Python | 3 | [] |
