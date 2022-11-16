@@ -22,7 +22,6 @@ VU#73,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
 VU#73,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
 VU#73,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
 VU#73,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
-VU#73,0.11111111,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#73,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#73,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
 VU#73,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
@@ -41,6 +40,7 @@ VU#73,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-P
 VU#73,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khalednassar/CVE-2022-21449-TLS-PoC,483804378
 VU#73,0.05882353,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#73,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
+VU#73,0.05555556,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#73,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#73,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
 VU#73,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
@@ -109,7 +109,6 @@ VU#73,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#73,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#73,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#73,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#73,0.00917431,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#73,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#73,0.00909091,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#73,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -146,6 +145,7 @@ VU#73,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#73,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#73,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#73,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#73,0.00343643,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#73,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#73,0.00300300,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#73,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856

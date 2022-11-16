@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#41,0.50000000,https://github.com/Xcod3bughunt3r/xsser,Xcod3bughunt3r/xsser,521932550
 VU#41,0.50000000,https://github.com/epsylon/xsser,epsylon/xsser,7184441
 VU#41,0.33333333,https://github.com/Werea25/Best-Exploit,Werea25/Best-Exploit,565215249
+VU#41,0.33333333,https://github.com/ED-Devel0per/ED-Sploit-Download,ED-Devel0per/ED-Sploit-Download,559252937
 VU#41,0.33333333,https://github.com/ArzugDev/ArzugSploitV1,ArzugDev/ArzugSploitV1,548621070
 VU#41,0.33333333,https://github.com/1406429350/CUnet-main,1406429350/CUnet-main,513395754
 VU#41,0.33333333,https://github.com/Silence-Talk/BinaryExploitation,Silence-Talk/BinaryExploitation,485233669
@@ -143,7 +144,6 @@ VU#41,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#41,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#41,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#41,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#41,0.00917431,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#41,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#41,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#41,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -183,6 +183,7 @@ VU#41,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMu
 VU#41,0.00378788,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#41,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#41,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
+VU#41,0.00343643,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#41,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#41,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#41,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -227,5 +228,5 @@ VU#41,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#41,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#41,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#41,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
-VU#41,0.00019964,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#41,0.00019956,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#41,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

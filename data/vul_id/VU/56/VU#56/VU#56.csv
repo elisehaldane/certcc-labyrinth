@@ -34,7 +34,6 @@ VU#56,0.14285714,https://github.com/notSMods/Hta-Exploit-Downloader-Malware-Buil
 VU#56,0.14285714,https://github.com/34dsfsdf4/Hta-Exploit-Downloader-Malware-Builder,34dsfsdf4/Hta-Exploit-Downloader-Malware-Builder,504285390
 VU#56,0.14285714,https://github.com/34dsfsdf4/Hta-Exploit-Downloader-Malware-Builder,34dsfsdf4/Hta-Exploit-Downloader-Malware-Builder,501814436
 VU#56,0.14285714,https://github.com/e4r23fd/Hta-Exploit-Downloader-Malware-Builder,e4r23fd/Hta-Exploit-Downloader-Malware-Builder,499532412
-VU#56,0.11111111,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#56,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
 VU#56,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
 VU#56,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
@@ -43,6 +42,7 @@ VU#56,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemi
 VU#56,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#56,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#56,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
+VU#56,0.05555556,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#56,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
 VU#56,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
 VU#56,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
@@ -173,7 +173,6 @@ VU#56,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#56,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#56,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#56,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#56,0.00917431,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#56,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#56,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#56,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
@@ -211,6 +210,7 @@ VU#56,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#56,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#56,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#56,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#56,0.00343643,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#56,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#56,0.00300300,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#56,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -252,7 +252,7 @@ VU#56,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#56,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#56,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#56,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
-VU#56,0.00019964,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#56,0.00019956,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#56,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#56,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#56,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478

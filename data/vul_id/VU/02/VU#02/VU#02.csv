@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#02,1.00000000,https://github.com/AlexanderDaou/exploit-videos,AlexanderDaou/exploit-videos,565951547
 VU#02,1.00000000,https://github.com/Polar2022/Vanta-Cheats-Fortnite-Leaked,Polar2022/Vanta-Cheats-Fortnite-Leaked,533413484
 VU#02,1.00000000,https://github.com/TrunqKj3n/KaguyaExploit,TrunqKj3n/KaguyaExploit,503765762
 VU#02,1.00000000,https://github.com/XronZ01/Ultra-Sploit,XronZ01/Ultra-Sploit,503099611
@@ -133,6 +134,7 @@ VU#02,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,
 VU#02,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#02,0.00378788,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#02,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#02,0.00343643,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#02,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#02,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#02,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
@@ -170,7 +172,7 @@ VU#02,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#02,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#02,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#02,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
-VU#02,0.00019964,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#02,0.00019956,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#02,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#02,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#02,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478

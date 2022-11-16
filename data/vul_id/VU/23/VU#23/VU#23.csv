@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#23,1.00000000,https://github.com/JoshGamesMore/Roblox-Exploit-Open-Source,JoshGamesMore/Roblox-Exploit-Open-Source,553967050
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
+VU#23,0.50000000,https://github.com/tsuave8782/https-github.com-aerosol-can-PhoneSploit,tsuave8782/https-github.com-aerosol-can-PhoneSploit,566252763
 VU#23,0.50000000,https://github.com/adarshpv9746/Log4j-exploit,adarshpv9746/Log4j-exploit,562809397
 VU#23,0.50000000,https://github.com/Rich-dotcom/PhoneSploit,Rich-dotcom/PhoneSploit,519105096
 VU#23,0.50000000,https://github.com/trhacknon/PhoneSploit,trhacknon/PhoneSploit,492448072
@@ -164,7 +165,6 @@ VU#23,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/
 VU#23,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#23,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#23,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#23,0.00917431,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#23,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#23,0.00909091,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#23,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -208,6 +208,7 @@ VU#23,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,
 VU#23,0.00378788,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#23,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#23,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
+VU#23,0.00343643,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#23,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#23,0.00300300,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#23,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -252,6 +253,6 @@ VU#23,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#23,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#23,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#23,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
-VU#23,0.00019964,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00019956,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
