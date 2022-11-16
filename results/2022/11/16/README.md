@@ -1,0 +1,38 @@
+
+# Summary for results/2022/11/16
+    
+31 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|-------------------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-16 03:07:41+00:00 | 13126 | 5048 | Python | 701 | [] |
+| suljov/Hacking-linux | Hacking linux | https://github.com/suljov/Hacking-linux | ['exploit'] | 1 | 2022-11-16 00:16:13+00:00 | 794 | 2 | | 0 | [] |
+| Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-11-16 03:50:57+00:00 | 7 | 0 | C | 0 | ['CVE-2022-0847'] |
+| JF10R/EDB-ID44068 | Exploit-DB ID 44068 code in Python3 | https://github.com/JF10R/EDB-ID44068 | ['exploit'] | 1 | 2022-11-16 02:16:53+00:00 | 4 | 0 | Python | 0 | [] |
+| JorgeCambrano/RCE | None | https://github.com/JorgeCambrano/RCE | ['rce'] | 1 | 2022-11-16 02:15:43+00:00 | 312 | 0 | JavaScript | 1 | [] |
+| Brean0/exploitPotential | None | https://github.com/Brean0/exploitPotential | ['exploit'] | 1 | 2022-11-16 01:15:55+00:00 | 105 | 0 | Jupyter Notebook | 0 | [] |
+| zeroc00I/eternalnoobchallenges | This repository contains some challenges made to the understanding of how exploit some scenarios where there are security vulnerabilities and help to think about how to mitigate them =) | https://github.com/zeroc00I/eternalnoobchallenges | ['exploit'] | 1 | 2022-11-16 00:25:54+00:00 | 4 | 0 | PHP | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEANyy | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyy | ['exploit'] | 1 | 2022-11-16 00:10:09+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyy | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyy | ['exploit'] | 1 | 2022-11-16 00:09:22+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEANyy | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyy | ['exploit'] | 1 | 2022-11-16 00:07:57+00:00 | 1 | 1 | | 0 | [] |
+| JerryLIU-Junzhe/rces-final-project | None | https://github.com/JerryLIU-Junzhe/rces-final-project | ['rce'] | 1 | 2022-11-16 00:31:05+00:00 | 5 | 0 | Jupyter Notebook | 0 | [] |
+| megasploit7/MegaSploit | nan | https://github.com/megasploit7/MegaSploit | ['sploit'] | 1 | 2022-11-16 00:40:28+00:00 | 164 | 0 | Shell | 0 | [] |
+| blacklanternsecurity/dp_cryptomg | Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler. | https://github.com/blacklanternsecurity/dp_cryptomg | ['exploit'] | 1 | 2022-11-16 02:20:59+00:00 | 75 | 32 | Python | 5 | ['CVE-2017-9248'] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-11-16 01:09:21+00:00 | 11450 | 119 | | 14 | [] |
+| Jennahacker/zenna_rat | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | ['exploit'] | 1 | 2022-11-16 02:09:11+00:00 | 52793 | 26 | | 10 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-11-16 01:41:31+00:00 | 6237 | 50 | | 4 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-11-16 04:38:15+00:00 | 615155 | 221 | REXX | 28 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-16 04:04:22+00:00 | 18603 | 38 | Go | 13 | [] |
+| T3slaa/pwnkit-pwn | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | https://github.com/T3slaa/pwnkit-pwn | ['exploit'] | 1 | 2022-11-16 04:05:54+00:00 | 117 | 3 | Shell | 1 | ['CVE-2021-4034'] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-11-16 01:10:19+00:00 | 932 | 0 | | 0 | [] |
+| Threekiii/Awesome-Redteam | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2022-11-16 01:59:55+00:00 | 3237 | 1589 | Python | 283 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-11-16 00:38:23+00:00 | 395399 | 3 | Jupyter Notebook | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-11-16 04:47:30+00:00 | 11850 | 4701 | TypeScript | 688 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-11-16 02:01:04+00:00 | 2892 | 139 | HTML | 29 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-11-16 04:01:23+00:00 | 285232 | 544 | Python | 144 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-16 04:03:47+00:00 | 682489 | 65 | | 23 | [] |
+| KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2022-11-16 01:44:33+00:00 | 225 | 3240 | Python | 613 | [] |
+| Cvar1984/yapo | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | ['shellcode'] | 1 | 2022-11-16 03:21:38+00:00 | 6020 | 17 | PHP | 4 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-11-16 00:50:17+00:00 | 14452 | 49 | | 26 | [] |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2022-11-16 00:02:58+00:00 | 573 | 167 | Java | 42 | [] |
+| ke0z/exploit_me_arm_solutions | https://github.com/bkerler/exploit_me solving using Qiling, GDB(pwndbg), IDA Pro | https://github.com/ke0z/exploit_me_arm_solutions | ['exploit'] | 1 | 2022-11-16 04:36:07+00:00 | 0 | 0 | Python | 0 | [] |
