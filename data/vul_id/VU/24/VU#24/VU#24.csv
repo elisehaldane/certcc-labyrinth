@@ -17,6 +17,7 @@ VU#24,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-bas
 VU#24,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
 VU#24,0.12500000,https://github.com/bsauce/CTF,bsauce/CTF,197501807
 VU#24,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
+VU#24,0.11111111,https://github.com/DataDog/security-labs-pocs,DataDog/security-labs-pocs,483783009
 VU#24,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#24,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#24,0.10000000,https://github.com/XiaoliChan/Invoke-sAMSpoofing,XiaoliChan/Invoke-sAMSpoofing,476650535
@@ -138,8 +139,8 @@ VU#24,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Ope
 VU#24,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#24,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#24,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
-VU#24,0.01250000,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#24,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#24,0.01219512,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#24,0.01219512,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#24,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#24,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
