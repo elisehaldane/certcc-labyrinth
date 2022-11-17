@@ -46,6 +46,7 @@ VU#01,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/F
 VU#01,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#01,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
 VU#01,0.05263158,https://github.com/Cesar-Hack-Gray/FotoSploit,Cesar-Hack-Gray/FotoSploit,225439363
+VU#01,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#01,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#01,0.04545455,https://github.com/Samdaaman/pytasploit,Samdaaman/pytasploit,397894125
 VU#01,0.04347826,https://github.com/mu71l473d/linux-exploits,mu71l473d/linux-exploits,517444842
@@ -209,12 +210,12 @@ VU#01,0.00378788,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#01,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#01,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#01,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-VU#01,0.00294985,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#01,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#01,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#01,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#01,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#01,0.00263158,https://github.com/tonyarris/srv,tonyarris/srv,550434370
+VU#01,0.00262467,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#01,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#01,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#01,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
@@ -225,7 +226,7 @@ VU#01,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#01,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#01,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.1,TcherB31/xRay_Scanner_Cracked_1.9.1,545104478
 VU#01,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#01,0.00183824,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#01,0.00183150,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#01,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#01,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#01,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -248,7 +249,8 @@ VU#01,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerp
 VU#01,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
 VU#01,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#01,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
-VU#01,0.00019956,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#01,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
+VU#01,0.00019952,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#01,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#01,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#01,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
