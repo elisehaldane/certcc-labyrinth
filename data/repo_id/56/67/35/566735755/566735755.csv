@@ -1,1 +1,6 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/src/main/java/com/levo/dockerexample/controller/HelloController.java,17dc8ac1e17e417cacadc7e66acf569840dbd456,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/pom.xml,1ef73b5e836222e4db64c8c3e91159eb94f0cde1,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/src/main/java/com/levo/dockerexample/DockerApp.java,48bebb71e7c6739471aaf2d2bc2e847941fae417,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/Dockerfile,54bc68935b80c396dd406533cdfe1c016cdf9a51,CVE-2022-42889
+566735755,TaiPhung217/CVE-PoC,CVE-2022-42889 Text4Shell/README.md,b44a0aad72c2ab31994618689e58106eeb02a3cd,CVE-2022-42889
