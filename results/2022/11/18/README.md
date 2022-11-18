@@ -1,0 +1,38 @@
+
+# Summary for results/2022/11/18
+    
+31 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-18 02:21:21+00:00 | 13126 | 5050 | Python | 702 | [] |
+| 9lyph/CVE-2022-29593 | None | https://github.com/9lyph/CVE-2022-29593 | ['cve-2 OR cve_2'] | 1 | 2022-11-18 02:05:38+00:00 | 40383 | 11 | Python | 3 | ['CVE-2022-29593'] |
+| trhacknon/exploit-grafana-CVE-2021-43798 | None | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-11-18 02:16:32+00:00 | 251 | 0 | Python | 0 | ['CVE-2021-43798'] |
+| CAOlvchonger/CVE-2016-10033 | wordpress docker | https://github.com/CAOlvchonger/CVE-2016-10033 | ['cve-2 OR cve_2'] | 1 | 2022-11-18 02:07:39+00:00 | 0 | 0 | | 0 | ['CVE-2016-10033'] |
+| harryeetsource/Anti-Ransom | All credit to Malvuln or hyp3rlinx for sharing this PoC for code execution vulnerabilities against notorious ransomware families | https://github.com/harryeetsource/Anti-Ransom | ['vulnerability poc'] | 1 | 2022-11-18 02:13:48+00:00 | 4 | 0 | C | 0 | [] |
+| ziyaasxzv/EclipseWare-Free-Roblox-Exploits-v1.7 | Roblox Eclipseware Exploits over 50 in one program | https://github.com/ziyaasxzv/EclipseWare-Free-Roblox-Exploits-v1.7 | ['exploit'] | 1 | 2022-11-18 02:01:15+00:00 | 44 | 0 | | 0 | [] |
+| L0rdT33z/r2dlresolve-auto | Automation for return2dlsolve binary exploit | https://github.com/L0rdT33z/r2dlresolve-auto | ['exploit'] | 1 | 2022-11-18 01:52:47+00:00 | 1 | 0 | | 0 | [] |
+| rizkytegar/canting | Pentest Showcase : Security Vulnerability Exploitation In Web Applications | https://github.com/rizkytegar/canting | ['exploit'] | 1 | 2022-11-18 02:11:02+00:00 | 2 | 0 | | 0 | [] |
+| atgarcial/rces-final-project | Research Computing in Earth Science - Fall 2022 | https://github.com/atgarcial/rces-final-project | ['rce'] | 1 | 2022-11-18 04:04:56+00:00 | 3 | 0 | Jupyter Notebook | 0 | [] |
+| SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-11-18 04:44:53+00:00 | 661 | 8 | C++ | 0 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-11-18 01:09:22+00:00 | 7479 | 119 | | 14 | [] |
+| HexHive/Evocatio | None | https://github.com/HexHive/Evocatio | ['exploit'] | 1 | 2022-11-18 03:30:19+00:00 | 2851 | 12 | C | 1 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-18 04:53:51+00:00 | 18857 | 38 | Go | 13 | [] |
+| doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-11-18 02:27:18+00:00 | 16796 | 12 | Python | 0 | [] |
+| Rezilion/mi-x | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | ['exploit'] | 1 | 2022-11-18 03:12:07+00:00 | 3244 | 101 | Python | 7 | [] |
+| lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-11-18 02:06:13+00:00 | 97268 | 235 | Go | 56 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-11-18 04:46:21+00:00 | 622000 | 229 | REXX | 28 | [] |
+| Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-18 04:54:59+00:00 | 9376 | 44 | C++ | 26 | [] |
+| boz3r/Fatebot | IRC botnet, that's mainly used to launch denial-of-service attacks. Spread by doing default SSH scanning and some command injection vulnerabilities. | https://github.com/boz3r/Fatebot | ['command injection', 'exploit'] | 2 | 2022-11-18 04:31:48+00:00 | 6710 | 12 | Go | 5 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-11-18 03:50:35+00:00 | 11917 | 4710 | TypeScript | 689 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-11-18 04:25:22+00:00 | 10389283 | 106 | Python | 11 | [] |
+| 9lyph/CVE-2021-45901 | None | https://github.com/9lyph/CVE-2021-45901 | ['cve-2 OR cve_2'] | 1 | 2022-11-18 02:06:59+00:00 | 2035 | 1 | Python | 0 | ['CVE-2021-45901'] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-11-18 04:01:22+00:00 | 293392 | 546 | Python | 144 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-11-18 00:33:25+00:00 | 129 | 0 | PHP | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-18 04:03:46+00:00 | 679340 | 65 | | 23 | [] |
+| kryptops/lycanthropy | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | ['exploit'] | 1 | 2022-11-18 01:23:09+00:00 | 3739 | 9 | Python | 3 | [] |
+| 9lyph/CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | ['cve-2 OR cve_2'] | 1 | 2022-11-18 02:07:38+00:00 | 4011 | 6 | Python | 0 | ['CVE-2020-27199'] |
+| aryanguenthner/365 | Bug bounty, OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2022-11-18 02:30:28+00:00 | 28081 | 22 | Python | 7 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-11-18 00:50:19+00:00 | 16477 | 49 | | 26 | [] |
+| 9lyph/CVE-2019-12836 | CVE-2019-12836 | https://github.com/9lyph/CVE-2019-12836 | ['cve-2 OR cve_2'] | 1 | 2022-11-18 02:08:12+00:00 | 92 | 6 | | 1 | ['CVE-2019-12836'] |
+| ziyaasxzv/Nyve-Keyless-Roblox-Premium-Exploit | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/ziyaasxzv/Nyve-Keyless-Roblox-Premium-Exploit | ['exploit'] | 1 | 2022-11-18 02:22:56+00:00 | 44 | 0 | | 0 | [] |
