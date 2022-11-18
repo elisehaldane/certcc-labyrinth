@@ -3,6 +3,7 @@ VU#99,1.00000000,https://github.com/rmylohradova/exploiting-yt,rmylohradova/expl
 VU#99,1.00000000,https://github.com/feifei-cv/RCE,feifei-cv/RCE,481510588
 VU#99,1.00000000,https://github.com/feifei-cv/RCE,feifei-cv/RCE,481491446
 VU#99,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
+VU#99,0.50000000,https://github.com/scy-phy/OPC-UA-attacks-POC,scy-phy/OPC-UA-attacks-POC,411712329
 VU#99,0.50000000,https://github.com/bmedicke/REED,bmedicke/REED,300668178
 VU#99,0.33333333,https://github.com/Sitaras/eClass-Penetration-Testing,Sitaras/eClass-Penetration-Testing,520041322
 VU#99,0.33333333,https://github.com/John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,511662006
@@ -107,9 +108,9 @@ VU#99,0.00934579,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#99,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#99,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#99,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#99,0.00909091,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#99,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#99,0.00892857,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#99,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#99,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
