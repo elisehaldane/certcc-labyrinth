@@ -46,8 +46,8 @@ VU#21,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowba
 VU#21,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#21,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#21,0.08333333,https://github.com/zerosum0x0/defcon-25-workshop,zerosum0x0/defcon-25-workshop,97747585
-VU#21,0.07692308,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
+VU#21,0.07142857,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#21,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
@@ -267,7 +267,7 @@ VU#21,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/m
 VU#21,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 VU#21,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
 VU#21,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
-VU#21,0.00019952,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00019940,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#21,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#21,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
