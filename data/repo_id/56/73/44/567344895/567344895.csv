@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+567344895,Abdulazizalsewedy/CVE-2021-29447,README.md,670171a6e2adac079e2fdbe2777f2c85735fdeff,CVE-2021-29447
 567344895,Abdulazizalsewedy/CVE-2021-29447,wordpress-5.7.1 - fix.zip,7b2da3aef949aa06b2cb7c3e337e6ca032228f05,VU#18
 567344895,Abdulazizalsewedy/CVE-2021-29447,wordpress-5.7.1 - fix.zip,7b2da3aef949aa06b2cb7c3e337e6ca032228f05,VU#42
 567344895,Abdulazizalsewedy/CVE-2021-29447,wordpress-5.7.1 - fix.zip,7b2da3aef949aa06b2cb7c3e337e6ca032228f05,VU#51
@@ -8,5 +9,4 @@ repo_id,repo_full_name,file,file_sha1,match
 567344895,Abdulazizalsewedy/CVE-2021-29447,wordpress-5.7 - vulnerable.zip,98052da4301c784ec2af36ec4f2e6377ec291c1a,VU#51
 567344895,Abdulazizalsewedy/CVE-2021-29447,wordpress-5.7 - vulnerable.zip,98052da4301c784ec2af36ec4f2e6377ec291c1a,VU#79
 567344895,Abdulazizalsewedy/CVE-2021-29447,wordpress-5.7 - vulnerable.zip,98052da4301c784ec2af36ec4f2e6377ec291c1a,VU#81
-567344895,Abdulazizalsewedy/CVE-2021-29447,README.md,c5e222a71370bfe78310cdb781e4e4da7b562c57,CVE-2021-29447
 567344895,Abdulazizalsewedy/CVE-2021-29447,_GITHUB_REPO_METADATA_,,CVE-2021-29447
