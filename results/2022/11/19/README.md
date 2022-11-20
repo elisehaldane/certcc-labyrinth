@@ -1,16 +1,17 @@
 
 # Summary for results/2022/11/19
     
-126 records found after deduplication
+127 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-19 01:52:53+00:00 | 816262 | 28742 | Ruby | 12674 | [] |
-| atgarcial/rces-final-project | Research Computing in Earth Science - Fall 2022 | https://github.com/atgarcial/rces-final-project | ['rce'] | 1 | 2022-11-19 04:24:24+00:00 | 136 | 0 | Jupyter Notebook | 0 | [] |
+| zeroc00I/eternalnoobchallenges | This repository contains some challenges made to the understanding of how exploit some scenarios where there are security vulnerabilities and help to think about how to mitigate them =) | https://github.com/zeroc00I/eternalnoobchallenges | ['exploit'] | 1 | 2022-11-19 04:28:45+00:00 | 4 | 0 | PHP | 0 | [] |
 | Dylbin/bluera1n | iOS 15.0-15.7.1 semi-tethered jailbreak based on the checkm8 BootROM exploit | https://github.com/Dylbin/bluera1n | ['exploit'] | 1 | 2022-11-19 10:29:37+00:00 | 14391 | 0 | Shell | 0 | [] |
 | Plata750/FotoSploit- | nan | https://github.com/Plata750/FotoSploit- | ['sploit'] | 1 | 2022-11-19 01:53:29+00:00 | 654 | 0 | | 0 | [] |
 | enkomio/BrokenFlow | A simple PoC to invoke an encrypted shellcode by using an hidden call | https://github.com/enkomio/BrokenFlow | ['shellcode'] | 1 | 2022-11-19 01:46:01+00:00 | 854 | 10 | Assembly | 2 | [] |
 | Mr-xn/CVE-2022-40127 | Apache Airflow < 2.4.0 DAG example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-11-19 10:35:50+00:00 | 8 | 6 | | 2 | ['CVE-2022-40127'] |
+| ganajayant/ZeroDay | Dev-a-thon 2.0 Project, This is a Social Media Application to interactive with ALUMNI Using React-Native | https://github.com/ganajayant/ZeroDay | ['zeroday'] | 1 | 2022-11-19 16:12:26+00:00 | 3076 | 0 | JavaScript | 0 | [] |
 | SGTheSuS/RoSploit | nan | https://github.com/SGTheSuS/RoSploit | ['sploit'] | 1 | 2022-11-19 06:00:15+00:00 | 30 | 0 | | 0 | [] |
 | Khushi-Thapar/RCED | None | https://github.com/Khushi-Thapar/RCED | ['rce'] | 1 | 2022-11-19 20:53:05+00:00 | 4574 | 0 | CSS | 0 | [] |
 | Abdulazizalsewedy/CVE-2021-29447 | None | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | ['cve-2 OR cve_2'] | 1 | 2022-11-19 03:00:09+00:00 | 32137 | 1 | | 0 | ['CVE-2021-29447'] |
@@ -19,9 +20,9 @@
 | Turzum/ps-lab-cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-11-19 23:29:15+00:00 | 10 | 0 | C | 0 | ['CVE-2022-0847'] |
 | ke0z/exploit_me_arm_solutions | https://github.com/bkerler/exploit_me solving using Qiling, GDB(pwndbg), IDA Pro | https://github.com/ke0z/exploit_me_arm_solutions | ['exploit'] | 1 | 2022-11-19 12:28:37+00:00 | 6 | 0 | Python | 0 | [] |
 | JorgeCambrano/RCE | None | https://github.com/JorgeCambrano/RCE | ['rce'] | 1 | 2022-11-19 03:43:01+00:00 | 325 | 0 | JavaScript | 1 | [] |
-| zeroc00I/eternalnoobchallenges | This repository contains some challenges made to the understanding of how exploit some scenarios where there are security vulnerabilities and help to think about how to mitigate them =) | https://github.com/zeroc00I/eternalnoobchallenges | ['exploit'] | 1 | 2022-11-19 04:28:45+00:00 | 4 | 0 | PHP | 0 | [] |
-| Revi1337/WebHacking-ExploitCode-POC | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | ['exploit'] | 1 | 2022-11-19 16:27:34+00:00 | 7 | 0 | Python | 0 | [] |
+| atgarcial/rces-final-project | Research Computing in Earth Science - Fall 2022 | https://github.com/atgarcial/rces-final-project | ['rce'] | 1 | 2022-11-19 04:24:24+00:00 | 136 | 0 | Jupyter Notebook | 0 | [] |
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | ['exploit'] | 1 | 2022-11-19 01:08:08+00:00 | 1 | 1 | | 0 | [] |
+| Revi1337/WebHacking-ExploitCode-POC | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | ['exploit'] | 1 | 2022-11-19 16:27:34+00:00 | 7 | 0 | Python | 0 | [] |
 | jonas52/convertisso | This script allows to convert various files for more information check the README. | https://github.com/jonas52/convertisso | ['shellcode'] | 1 | 2022-11-19 21:32:06+00:00 | 61 | 0 | Shell | 0 | [] |
 | epborden/no-exploit-mod | None | https://github.com/epborden/no-exploit-mod | ['exploit'] | 1 | 2022-11-19 17:29:46+00:00 | 14 | 0 | C# | 0 | [] |
 | stenlisuryadinata/RUNNING-A-PAYLOAD-ON-THE-REMOTE-SYSTEM- | how effective the organization's security procedures are; human behavior can always be exploited, but there is always a way to combat it. Employees should be kept informed of the risks facing every organization in the fight against cybercriminals, as they | https://github.com/stenlisuryadinata/RUNNING-A-PAYLOAD-ON-THE-REMOTE-SYSTEM- | ['exploit'] | 1 | 2022-11-19 04:42:34+00:00 | 0 | 0 | | 0 | [] |
@@ -34,10 +35,9 @@
 | skabdulhaq/orentation-exploit | None | https://github.com/skabdulhaq/orentation-exploit | ['exploit'] | 1 | 2022-11-19 15:46:31+00:00 | 37 | 0 | Python | 0 | [] |
 | SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-11-19 21:20:10+00:00 | 669 | 8 | C++ | 0 | [] |
 | JD2344/SecGen_Exploits | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | ['exploit'] | 1 | 2022-11-19 16:51:23+00:00 | 315 | 0 | Python | 0 | [] |
-| ED-Devel0per/ED-Sploit-Download | nan | https://github.com/ED-Devel0per/ED-Sploit-Download | ['sploit'] | 1 | 2022-11-19 16:36:38+00:00 | 36245 | 0 | Lua | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEANyu | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyu | ['exploit'] | 1 | 2022-11-19 01:07:12+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | ['exploit'] | 1 | 2022-11-19 01:09:03+00:00 | 1 | 1 | | 0 | [] |
-| tobymackenzie/sy-console.symf | Symfony Console component with dependency injection, config handling, configurable command loading, and other niceties. | https://github.com/tobymackenzie/sy-console.symf | ['command injection'] | 1 | 2022-11-19 06:07:05+00:00 | 52 | 0 | PHP | 0 | [] |
+| Ha-L0/Ha-L0.github.io | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | ['exploit'] | 1 | 2022-11-19 18:08:18+00:00 | 17187 | 0 | HTML | 0 | [] |
 | JustRaiy/BaseAPI | A base for creating a Roblox Exploit API. *Only for NamedPipes based execution. | https://github.com/JustRaiy/BaseAPI | ['exploit'] | 1 | 2022-11-19 14:04:25+00:00 | 10 | 0 | C# | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEAN01 | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN01 | ['exploit'] | 1 | 2022-11-19 22:52:55+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEAN01 | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN01 | ['exploit'] | 1 | 2022-11-19 22:51:58+00:00 | 1 | 1 | | 0 | [] |
@@ -67,9 +67,9 @@
 | SGTheSuS/RoSploitPre | nan | https://github.com/SGTheSuS/RoSploitPre | ['sploit'] | 1 | 2022-11-19 06:09:21+00:00 | 24 | 0 | | 0 | [] |
 | Amrul01/firebase | tools to perform exploit firebase python3 | https://github.com/Amrul01/firebase | ['exploit'] | 1 | 2022-11-19 03:19:12+00:00 | 6 | 0 | | 0 | [] |
 | NomadWithoutAHome/WhatExploitsAPI | Api for whatsexploits | https://github.com/NomadWithoutAHome/WhatExploitsAPI | ['exploit'] | 1 | 2022-11-19 02:46:20+00:00 | 0 | 0 | | 0 | [] |
-| Ha-L0/Ha-L0.github.io | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | ['exploit'] | 1 | 2022-11-19 18:08:18+00:00 | 17187 | 0 | HTML | 0 | [] |
+| ED-Devel0per/ED-Sploit-Download | nan | https://github.com/ED-Devel0per/ED-Sploit-Download | ['sploit'] | 1 | 2022-11-19 16:36:38+00:00 | 36245 | 0 | Lua | 0 | [] |
 | Alendaa/Scripts | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | ['exploit'] | 1 | 2022-11-19 01:42:37+00:00 | 2954 | 0 | | 0 | [] |
-| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-11-19 01:09:22+00:00 | 7858 | 119 | | 14 | [] |
+| tobymackenzie/sy-console.symf | Symfony Console component with dependency injection, config handling, configurable command loading, and other niceties. | https://github.com/tobymackenzie/sy-console.symf | ['command injection'] | 1 | 2022-11-19 06:07:05+00:00 | 52 | 0 | PHP | 0 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2022-11-19 04:20:03+00:00 | 446 | 184 | Java | 37 | [] |
 | Fnoberz/Example-injector | 💉 Fivem Exec _ Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | ['exploit'] | 1 | 2022-11-19 19:54:55+00:00 | 151 | 23 | C++ | 7 | [] |
 | Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-19 00:06:46+00:00 | 9275 | 44 | C++ | 26 | [] |
@@ -85,7 +85,7 @@
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-11-19 14:23:27+00:00 | 351 | 108 | Python | 14 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-19 04:03:43+00:00 | 681036 | 65 | | 23 | [] |
 | Snoopy-Sec/Localroot-ALL-CVE | Localroot-ALL-CVE~ | https://github.com/Snoopy-Sec/Localroot-ALL-CVE | ['exploit'] | 1 | 2022-11-19 08:21:26+00:00 | 7677 | 32 | C | 17 | [] |
-| jonesdevelopment/sonar | Sonar Antibot - Experimental anti bot plugin for Minecraft BungeeCord servers (1.7-1.19) - Blocking netty exploits and more... | https://github.com/jonesdevelopment/sonar | ['exploit'] | 1 | 2022-11-19 16:47:49+00:00 | 1542 | 3 | Java | 2 | [] |
+| Fnoberz/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | ['exploit'] | 1 | 2022-11-19 00:06:50+00:00 | 2223 | 48 | C++ | 25 | [] |
 | IoT-PTv/IoT-PT | A Virtual environment for Pentesting IoT Devices | https://github.com/IoT-PTv/IoT-PT | ['exploit'] | 1 | 2022-11-19 10:54:11+00:00 | 1144 | 283 | | 58 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-11-19 16:12:53+00:00 | 914 | 306 | C | 18 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-11-19 00:50:20+00:00 | 17745 | 49 | | 26 | [] |
@@ -100,9 +100,10 @@
 | htrgouvea/spellbook | Framework for rapid development and reusable of security tools | https://github.com/htrgouvea/spellbook | ['exploit'] | 1 | 2022-11-19 11:54:52+00:00 | 72312 | 71 | Perl | 17 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-19 15:04:57+00:00 | 13133 | 5054 | Python | 703 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-11-19 00:49:21+00:00 | 401467 | 4 | Jupyter Notebook | 0 | [] |
-| Fnoberz/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | ['exploit'] | 1 | 2022-11-19 00:06:50+00:00 | 2223 | 48 | C++ | 25 | [] |
 | Fnoberz/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Fnoberz/Fortnite-External | ['exploit'] | 1 | 2022-11-19 00:06:42+00:00 | 7908 | 52 | C++ | 23 | [] |
-| Fnoberz/Rust-internal | ⚔️ Rust Cheat Internal Release Follow Step in Videos _ Work in last Patch | https://github.com/Fnoberz/Rust-internal | ['exploit'] | 1 | 2022-11-19 19:54:56+00:00 | 249 | 23 | C# | 8 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-11-19 01:09:22+00:00 | 7858 | 119 | | 14 | [] |
+| NullBrunk/Weak-File-Permissions | Automatic script to exploit weak file permissions | https://github.com/NullBrunk/Weak-File-Permissions | ['exploit'] | 1 | 2022-11-19 18:12:08+00:00 | 12 | 0 | Python | 0 | [] |
+| jonesdevelopment/sonar | Sonar Antibot - Experimental anti bot plugin for Minecraft BungeeCord servers (1.7-1.19) - Blocking netty exploits and more... | https://github.com/jonesdevelopment/sonar | ['exploit'] | 1 | 2022-11-19 16:47:49+00:00 | 1542 | 3 | Java | 2 | [] |
 | 3kh0/ext-remover | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | ['exploit'] | 1 | 2022-11-19 02:39:57+00:00 | 41 | 105 | JavaScript | 86 | [] |
 | Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-11-19 00:06:38+00:00 | 1795 | 40 | C++ | 23 | [] |
 | NullBrunk/PHP-8.1.0-exploit | Python3 script to exploit the PHP 8.1.0-dev Backdoor Command Execution | https://github.com/NullBrunk/PHP-8.1.0-exploit | ['exploit'] | 1 | 2022-11-19 18:20:21+00:00 | 8 | 0 | Python | 0 | [] |
@@ -115,8 +116,8 @@
 | rxzyx/GimKit-Hacks | The best hack for Gimkit.com you can find! | https://github.com/rxzyx/GimKit-Hacks | ['exploit'] | 1 | 2022-11-19 18:15:04+00:00 | 153 | 15 | | 37 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-19 04:34:02+00:00 | 18740 | 38 | Go | 13 | [] |
 | NullBrunk/CVE-2019-15107 | Python3 code to exploit CVE-2019-15107 and CVE-2019-15231 | https://github.com/NullBrunk/CVE-2019-15107 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2022-11-19 16:57:26+00:00 | 8 | 0 | Python | 1 | ['CVE-2019-15107', 'CVE-2019-15231'] |
-| NullBrunk/Weak-File-Permissions | Automatic script to exploit weak file permissions | https://github.com/NullBrunk/Weak-File-Permissions | ['exploit'] | 1 | 2022-11-19 18:12:08+00:00 | 12 | 0 | Python | 0 | [] |
 | NullBrunk/OSVDB-69562 | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/OSVDB-69562 | ['exploit'] | 1 | 2022-11-19 18:17:20+00:00 | 26 | 1 | Python | 0 | ['OSVDB-69562'] |
+| Fnoberz/Rust-internal | ⚔️ Rust Cheat Internal Release Follow Step in Videos _ Work in last Patch | https://github.com/Fnoberz/Rust-internal | ['exploit'] | 1 | 2022-11-19 19:54:56+00:00 | 249 | 23 | C# | 8 | [] |
 | NullBrunk/CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2022-11-19 18:18:15+00:00 | 8 | 6 | Python | 3 | ['CVE-2022-1609'] |
 | NullBrunk/CVE-2011-2523 | Python exploit for CVE-2011-2523 (VsFTPd 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-11-19 18:19:08+00:00 | 23 | 1 | Python | 2 | ['CVE-2011-2523'] |
 | AndresFDev/PS4Exploit900 | None | https://github.com/AndresFDev/PS4Exploit900 | ['exploit'] | 1 | 2022-11-19 14:59:26+00:00 | 9421 | 0 | JavaScript | 0 | [] |
