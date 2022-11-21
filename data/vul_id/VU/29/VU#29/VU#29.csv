@@ -52,7 +52,6 @@ VU#29,0.33333333,https://github.com/XJMI/Skidded-Scripts,XJMI/Skidded-Scripts,29
 VU#29,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/BruteSploit,469596250
 VU#29,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
 VU#29,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
-VU#29,0.20000000,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#29,0.20000000,https://github.com/NeoWans/CVE-2018-19246,NeoWans/CVE-2018-19246,515985803
 VU#29,0.20000000,https://github.com/AhmedMinegames/AntiHackingEngine,AhmedMinegames/AntiHackingEngine,475605588
 VU#29,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
@@ -97,6 +96,7 @@ VU#29,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Add_Product-
 VU#29,0.08333333,https://github.com/D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,468803860
 VU#29,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
 VU#29,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
+VU#29,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#29,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#29,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#29,0.07142857,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,487173629
@@ -273,6 +273,7 @@ VU#29,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,
 VU#29,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#29,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#29,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
+VU#29,0.00714286,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#29,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#29,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#29,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942

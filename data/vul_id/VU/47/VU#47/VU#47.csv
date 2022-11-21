@@ -40,6 +40,7 @@ VU#47,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j
 VU#47,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#47,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
 VU#47,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
+VU#47,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#47,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#47,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
 VU#47,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
@@ -175,6 +176,7 @@ VU#47,0.00769231,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#47,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#47,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#47,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
+VU#47,0.00714286,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#47,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#47,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#47,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
