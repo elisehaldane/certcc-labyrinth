@@ -1,12 +1,12 @@
 
 # Summary for results/2022/11/21
     
-115 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | ronin-rb/ronin-exploits | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | ['exploit'] | 1 | 2022-11-21 12:56:12+00:00 | 3892 | 39 | Ruby | 15 | [] |
-| sm0k3m88/metasploit-framework | metasploit | https://github.com/sm0k3m88/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-21 06:10:00+00:00 | 0 | 0 | | 0 | [] |
+| 12345qwert123456/CVE-2021-41773 | Vulnerable configuration Apache HTTP Server version 2.4.49 | https://github.com/12345qwert123456/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-11-21 16:20:11+00:00 | 2 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
 | Mischief47/Death-struck | Exploiting | https://github.com/Mischief47/Death-struck | ['exploit'] | 1 | 2022-11-21 05:23:48+00:00 | 0 | 0 | | 0 | [] |
 | pho3nix-writeups/wps-lab-dom-xss-in-jquery-anchor-href-attribute-sink-using-locationSearch-source-script | This is a script to exploit DOM XSS in jQuery anchor href attribute sink using location.search source in the PortSwigger Web Security Lab. | https://github.com/pho3nix-writeups/wps-lab-dom-xss-in-jquery-anchor-href-attribute-sink-using-locationSearch-source-script | ['exploit'] | 1 | 2022-11-21 02:29:44+00:00 | 4 | 0 | Python | 0 | [] |
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANj | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANj | ['exploit'] | 1 | 2022-11-21 01:14:03+00:00 | 1 | 1 | | 0 | [] |
@@ -19,8 +19,8 @@
 | WaleedAlrefaei/Command-Injection | None | https://github.com/WaleedAlrefaei/Command-Injection | ['command injection'] | 1 | 2022-11-21 01:57:05+00:00 | 19 | 0 | | 0 | [] |
 | Vanessapan001/Exploitation | Exploitation is the third stage of Penetration Testing, it means attacking the vulerabilities discovered in the previous steps in order to gain access to the target. | https://github.com/Vanessapan001/Exploitation | ['exploit'] | 1 | 2022-11-21 15:28:01+00:00 | 16 | 0 | | 0 | [] |
 | 12345qwert123456/CVE-2021-42013 | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | https://github.com/12345qwert123456/CVE-2021-42013 | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-11-21 17:10:49+00:00 | 2 | 0 | Dockerfile | 0 | ['CVE-2021-42013'] |
-| 12345qwert123456/CVE-2021-41773 | Vulnerable configuration Apache HTTP Server version 2.4.49 | https://github.com/12345qwert123456/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2022-11-21 16:20:11+00:00 | 2 | 0 | Dockerfile | 0 | ['CVE-2021-41773'] |
 | Abdulazizalsewedy/CVE-2021-29447 | None | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | ['cve-2 OR cve_2'] | 1 | 2022-11-21 01:06:22+00:00 | 32164 | 2 | | 0 | ['CVE-2021-29447'] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-21 04:05:55+00:00 | 816262 | 28755 | Ruby | 12680 | [] |
 | ajacobhack/lootXploits | Bash script for search and looting exploits for a open and detected services. | https://github.com/ajacobhack/lootXploits | ['exploit'] | 1 | 2022-11-21 00:25:29+00:00 | 12 | 0 | Shell | 0 | [] |
 | Turzum/ps-lab-cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-11-21 23:17:41+00:00 | 13 | 1 | C | 1 | ['CVE-2022-0847'] |
 | MRX90902WX/NmapV | Esta script es para buscar vulnerabilidades con nmap y ejecutandola con metasploit. | https://github.com/MRX90902WX/NmapV | ['metasploit module OR payload'] | 1 | 2022-11-21 02:30:28+00:00 | 17 | 1 | Shell | 0 | [] |
@@ -32,9 +32,10 @@
 | mrnazu/TryHackMe-CTF-s | Capture the Flag (CTF) is a cybersecurity competition that is used as a test of security skills. | https://github.com/mrnazu/TryHackMe-CTF-s | ['rce'] | 1 | 2022-11-21 20:09:14+00:00 | 596 | 0 | Perl | 0 | [] |
 | signalscorps/cve2stix-output | A publicly available store of STIX 2.1 objects created by our cve2stix script. This is a fully automated repository. | https://github.com/signalscorps/cve2stix-output | ['cve-2 OR cve_2'] | 1 | 2022-11-21 05:38:50+00:00 | 18571 | 0 | Python | 0 | [] |
 | Prathamrajgor/Exploit-For-CVE-2022-36067 | This repo contains payload for the CVE-2022-36067 | https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-11-21 09:09:36+00:00 | 4 | 3 | JavaScript | 0 | ['CVE-2022-36067'] |
+| cryxnet/CVE-2022-42889-RCE | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability) | https://github.com/cryxnet/CVE-2022-42889-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-11-21 10:17:03+00:00 | 101 | 6 | Python | 1 | ['CVE-2022-42889'] |
 | BrianBarakaKasamba/BROWSER-EXPLOITATION-C-VERSION | Demonstrating how to dump chrome passwords in C++ | https://github.com/BrianBarakaKasamba/BROWSER-EXPLOITATION-C-VERSION | ['exploit'] | 1 | 2022-11-21 06:05:47+00:00 | 1858 | 0 | C | 0 | [] |
+| sm0k3m88/metasploit-framework | metasploit | https://github.com/sm0k3m88/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-21 06:10:00+00:00 | 0 | 0 | | 0 | [] |
 | adnhq/smart-contract-exploits | Some common security vulnerabilities in smart contracts | https://github.com/adnhq/smart-contract-exploits | ['exploit'] | 1 | 2022-11-21 12:56:07+00:00 | 9 | 0 | Solidity | 0 | [] |
-| iswebdevru/rcenext-client | None | https://github.com/iswebdevru/rcenext-client | ['rce'] | 1 | 2022-11-21 15:18:01+00:00 | 223 | 0 | TypeScript | 0 | [] |
 | aryrz/cve-2022-41352-zimbra-rce | None | https://github.com/aryrz/cve-2022-41352-zimbra-rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-11-21 07:10:46+00:00 | 0 | 0 | Java | 0 | ['CVE-2022-41352'] |
 | tin-z/report_BFS_ekoparty_2022_exploitation_challenges | BFS 2022 ekoparty windows challenge writeup | https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges | ['exploit'] | 1 | 2022-11-21 23:08:48+00:00 | 4157 | 0 | Python | 0 | [] |
 | user-lc1bd6fl4q/vulnserver-bof-exploit.py | https://github.com/stephenbradshaw/vulnserver | https://github.com/user-lc1bd6fl4q/vulnserver-bof-exploit.py | ['exploit'] | 1 | 2022-11-21 22:14:30+00:00 | 3 | 2 | Python | 0 | [] |
@@ -61,11 +62,11 @@
 | siunam321/CVE-1999-1053-PoC | CVE-1999-1053 Proof-of-Concept Exploit | https://github.com/siunam321/CVE-1999-1053-PoC | ['cve poc', 'exploit'] | 2 | 2022-11-21 12:41:06+00:00 | 131 | 0 | Python | 0 | ['CVE-1999-1053'] |
 | zeroday-z/zeroday-z | nan | https://github.com/zeroday-z/zeroday-z | ['zeroday'] | 1 | 2022-11-21 11:50:12+00:00 | 3 | 0 | | 0 | [] |
 | DummyfiedJalal03/ExPloitTooLs | some programmed tools | https://github.com/DummyfiedJalal03/ExPloitTooLs | ['exploit'] | 1 | 2022-11-21 10:31:45+00:00 | 0 | 0 | Shell | 0 | [] |
-| cryxnet/CVE-2022-42889-RCE | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability) | https://github.com/cryxnet/CVE-2022-42889-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2022-11-21 10:17:03+00:00 | 101 | 6 | Python | 1 | ['CVE-2022-42889'] |
+| iswebdevru/rcenext-client | None | https://github.com/iswebdevru/rcenext-client | ['rce'] | 1 | 2022-11-21 15:18:01+00:00 | 223 | 0 | TypeScript | 0 | [] |
 | SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-11-21 04:46:21+00:00 | 597 | 8 | C++ | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-11-21 04:05:55+00:00 | 816262 | 28755 | Ruby | 12680 | [] |
-| ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-11-21 14:51:02+00:00 | 866 | 1 | Ruby | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-11-21 03:07:27+00:00 | 12373 | 4720 | TypeScript | 692 | [] |
+| Ha-L0/Ha-L0.github.io | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | ['exploit'] | 1 | 2022-11-21 21:44:27+00:00 | 18996 | 0 | HTML | 0 | [] |
+| hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-11-21 18:10:49+00:00 | 9682 | 16 | | 5 | [] |
+| Jackbail4/VAC-Bypass | Full VAC Bypass. Inject detected cheats and not get VAC banned. | https://github.com/Jackbail4/VAC-Bypass | ['exploit'] | 1 | 2022-11-21 14:49:45+00:00 | 7254 | 120 | C++ | 32 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-11-21 04:28:59+00:00 | 10453103 | 106 | Python | 11 | [] |
 | 254nm/L2X9RebootCore | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | ['exploit'] | 1 | 2022-11-21 15:24:34+00:00 | 77852 | 10 | Java | 3 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-11-21 09:53:49+00:00 | 1548 | 140 | HTML | 0 | [] |
@@ -90,11 +91,10 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-21 11:38:40+00:00 | 13133 | 5058 | Python | 703 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2022-11-21 18:59:24+00:00 | 3344 | 2852 | PowerShell | 778 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-11-21 04:28:16+00:00 | 21840 | 7865 | JavaScript | 1824 | [] |
-| hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-11-21 18:10:49+00:00 | 9682 | 16 | | 5 | [] |
-| Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-21 06:23:19+00:00 | 9304 | 44 | C++ | 26 | [] |
-| Ha-L0/Ha-L0.github.io | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | ['exploit'] | 1 | 2022-11-21 21:44:27+00:00 | 18996 | 0 | HTML | 0 | [] |
-| Fnoberz/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | ['exploit'] | 1 | 2022-11-21 07:26:06+00:00 | 2244 | 49 | C++ | 25 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-11-21 03:07:27+00:00 | 12373 | 4720 | TypeScript | 692 | [] |
+| ronin-rb/ronin-post_ex | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | ['exploit'] | 1 | 2022-11-21 14:51:02+00:00 | 866 | 1 | Ruby | 0 | [] |
 | Alendaa/Scripts | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | ['exploit'] | 1 | 2022-11-21 16:35:28+00:00 | 3509 | 0 | | 0 | [] |
+| Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-21 06:23:19+00:00 | 9304 | 44 | C++ | 26 | [] |
 | BerryGud1/ZeroDay | nan | https://github.com/BerryGud1/ZeroDay | ['zeroday'] | 1 | 2022-11-21 16:12:01+00:00 | 108 | 0 | Lua | 0 | [] |
 | masa1974/php-command-injection | OS Command Injection Demo | https://github.com/masa1974/php-command-injection | ['command injection'] | 1 | 2022-11-21 11:12:22+00:00 | 1 | 0 | PHP | 0 | [] |
 | jimdealuk/Exercise_Db | Prototype code : showing C++ 11/14/17 and Dependency Injection & Command Design pattern usage | https://github.com/jimdealuk/Exercise_Db | ['command injection'] | 1 | 2022-11-21 14:43:47+00:00 | 446 | 0 | C++ | 0 | [] |
@@ -119,4 +119,5 @@
 | ujjwal-kr/system-programming-roadmap | A 3-year long roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | ['exploit'] | 1 | 2022-11-21 03:53:42+00:00 | 54 | 44 | | 11 | [] |
 | BrianBarakaKasamba/BROWSER-EXPLOITATION | CHROME BROWSER EXPLOITATION | https://github.com/BrianBarakaKasamba/BROWSER-EXPLOITATION | ['exploit'] | 1 | 2022-11-21 15:30:05+00:00 | 21 | 2 | Python | 1 | [] |
 | LonleyWolf1988/DragonExploit | None | https://github.com/LonleyWolf1988/DragonExploit | ['exploit'] | 1 | 2022-11-21 16:06:01+00:00 | 26 | 0 | | 0 | [] |
+| Fnoberz/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | ['exploit'] | 1 | 2022-11-21 07:26:06+00:00 | 2244 | 49 | C++ | 25 | [] |
 | sofokliskarelis/XSS-Vuln_Scanner | Pentesters are often employed to find and exploit security vulnerabilities in websites. One of the most common bugs that pentesters look for is cross site scripting (XSS). XSS flaws allow attackers to inject malicious code into webpages viewed by other use | https://github.com/sofokliskarelis/XSS-Vuln_Scanner | ['exploit'] | 1 | 2022-11-21 23:34:54+00:00 | 8 | 0 | Python | 0 | [] |
