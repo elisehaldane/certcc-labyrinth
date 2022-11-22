@@ -11,12 +11,14 @@ repo_id,repo_full_name,file,file_sha1,match
 236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,000fef2469a7aa276766e9921030969fadd7f4af,CVE-2020-3992
 236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-services.md,000fef2469a7aa276766e9921030969fadd7f4af,CVE-2021-21974
 236968412,mzet-/z-field-manual,Expand Influence/Lateral Movement/lm-flawed-http-services.md,25a58b06489203c3115dbe4af96f8060379e35b5,CVE-2019-11510
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,MS10-061
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,CVE-2020-1938
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,CVE-2020-1472
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,CVE-2020-0796
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,CVE-2019-11510
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,CVE-2019-0708
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,CVE-2017-0143
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,MS17-001
-236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,5222dcaea80d91ff76c2e17b69fc54531da3ac79,MS17-010
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CNVD-2020-10487
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,MS10-061
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CVE-2020-1938
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,MS17-001
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CVE-2020-1472
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CVE-2020-0796
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CVE-2019-11510
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CVE-2019-0708
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CVE-2017-0143
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,CVE-2021-1675
+236968412,mzet-/z-field-manual,cheat-sheets/rce-collection.md,66c08ed94a5b60f9b6bb897c12822f1dba2027de,MS17-010
