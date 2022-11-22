@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,522686575
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
+VU#32,0.50000000,https://github.com/snow-kluster/Sheller,snow-kluster/Sheller,568910050
 VU#32,0.50000000,https://github.com/jschof1/exploiting-data-science-to-create-value,jschof1/exploiting-data-science-to-create-value,545028163
 VU#32,0.50000000,https://github.com/attakercyebr/Vulnerability-Scanner-Auto-Exploiter,attakercyebr/Vulnerability-Scanner-Auto-Exploiter,533715063
 VU#32,0.50000000,https://github.com/tgreer812/ProcessInjection,tgreer812/ProcessInjection,507643018
@@ -53,13 +54,13 @@ VU#32,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-
 VU#32,0.12500000,https://github.com/Dimples1337/NewSilenceFix-opensources,Dimples1337/NewSilenceFix-opensources,520340048
 VU#32,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,468544905
 VU#32,0.12500000,https://github.com/sickn3ss/exploits,sickn3ss/exploits,178699315
-VU#32,0.11111111,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
 VU#32,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#32,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#32,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
 VU#32,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
+VU#32,0.09090909,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#32,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#32,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
@@ -100,6 +101,7 @@ VU#32,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/Expl
 VU#32,0.04000000,https://github.com/prodseanb/Xsearch,prodseanb/Xsearch,443673812
 VU#32,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#32,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
+VU#32,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#32,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#32,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#32,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
