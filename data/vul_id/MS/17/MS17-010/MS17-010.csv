@@ -258,7 +258,6 @@ MS17-010,0.09090909,https://github.com/mojodojo101/exploitsnshells,mojodojo101/e
 MS17-010,0.09090909,https://github.com/ugur-ercan/exploit-collection,ugur-ercan/exploit-collection,223710260
 MS17-010,0.09090909,https://github.com/fishi0x01/exploits,fishi0x01/exploits,180454634
 MS17-010,0.09090909,https://github.com/uberJohnson/MS-Vulnerability-Library,uberJohnson/MS-Vulnerability-Library,92790146
-MS17-010,0.08333333,https://github.com/suljov/Windows-and-Active-Directory,suljov/Windows-and-Active-Directory,517062920
 MS17-010,0.08333333,https://github.com/leecybersec/exploitation,leecybersec/exploitation,320358323
 MS17-010,0.08333333,https://github.com/ihebski/A-Red-Teamer-diaries,ihebski/A-Red-Teamer-diaries,197602204
 MS17-010,0.08333333,https://github.com/pierlon/metasploit-framework-wiki,pierlon/metasploit-framework-wiki,130760001
@@ -267,7 +266,7 @@ MS17-010,0.07692308,https://github.com/krishpranav/autosploit,krishpranav/autosp
 MS17-010,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
 MS17-010,0.07142857,https://github.com/sandoche/Terminhack,sandoche/Terminhack,290534663
 MS17-010,0.06666667,https://github.com/Netw0rkLan/Slote.me,Netw0rkLan/Slote.me,96312509
-MS17-010,0.06250000,https://github.com/hideckies/exploitnotes,hideckies/exploitnotes,568456034
+MS17-010,0.06250000,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
 MS17-010,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 MS17-010,0.06250000,https://github.com/ycdxsb/Exploits,ycdxsb/Exploits,273386397
 MS17-010,0.06250000,https://github.com/dark-vex/CVE-PoC-collection,dark-vex/CVE-PoC-collection,199694627
@@ -448,7 +447,7 @@ MS17-010,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106
 MS17-010,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550639048
 MS17-010,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 MS17-010,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
-MS17-010,0.00142857,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00142248,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS17-010,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS17-010,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS17-010,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -463,7 +462,7 @@ MS17-010,0.00057604,https://github.com/cankevinlaurent/secsensor,cankevinlaurent
 MS17-010,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 MS17-010,0.00052165,https://github.com/w3h/isf,w3h/isf,96204829
 MS17-010,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-MS17-010,0.00030826,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
+MS17-010,0.00030807,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS17-010,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS17-010,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
@@ -575,7 +574,7 @@ MS17-010,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS17-010,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS17-010,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
 MS17-010,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
-MS17-010,0.00001430,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001425,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
