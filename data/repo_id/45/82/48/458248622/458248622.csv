@@ -5,9 +5,9 @@ repo_id,repo_full_name,file,file_sha1,match
 458248622,E1P0TR0/CVE-Machines_htb,CVE-2013-4786_Shibboleth/exploit.py,48e45bff2309a2322e84fc1ddf59a9954d6fad22,CVE-2013-4786
 458248622,E1P0TR0/CVE-Machines_htb,Auto-tools_MetaTwo/autopwn/autopwn.py,54e761d4f079e9812510e2d3710b0674d729324d,CVE-2021-29447
 458248622,E1P0TR0/CVE-Machines_htb,Auto-tools_MetaTwo/autopwn/autopwn.py,54e761d4f079e9812510e2d3710b0674d729324d,CVE-2022-0739
-458248622,E1P0TR0/CVE-Machines_htb,Autopwn_Assambador/autopwn.py,808b3e09fafea8144c0039ab0e32a2d54c45e9e2,CVE-2021-43798
 458248622,E1P0TR0/CVE-Machines_htb,Auto-tools_Carpediem/env/lib/python3.10/site-packages/urllib3-1.26.12.dist-info/METADATA,abade8116f50ddc52f764557b5eee5b2d833d8e1,CVE-2016-9015
 458248622,E1P0TR0/CVE-Machines_htb,Auto-tools_Carpediem/env/lib/python3.10/site-packages/urllib3-1.26.12.dist-info/METADATA,abade8116f50ddc52f764557b5eee5b2d833d8e1,CVE-2019-9740
+458248622,E1P0TR0/CVE-Machines_htb,Autopwn_Assambador/autopwn.py,b3e80822c4ebd7e9f0d72339c5b8393cc08d38a8,CVE-2021-43798
 458248622,E1P0TR0/CVE-Machines_htb,CVE-2013-4786_Shibboleth/requirements.sh,b55731b5c9f2247943f8c3218791e3a57952bc52,CVE-2013-4786
 458248622,E1P0TR0/CVE-Machines_htb,Auto-tools_Noter/autopwnd/all.txt,c7e775159e6d4f561a71ff2e2a05fd2b5181b095,VU#77
 458248622,E1P0TR0/CVE-Machines_htb,Auto-tools_Noter/autopwnd/all.txt,c7e775159e6d4f561a71ff2e2a05fd2b5181b095,VU#19
