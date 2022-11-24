@@ -25,6 +25,7 @@ VU#37,0.25000000,https://github.com/Grazee/CVE-2022-1329-WordPress-Elementor-RCE
 VU#37,0.25000000,https://github.com/ASMRoyal/exploits,ASMRoyal/exploits,477766270
 VU#37,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/BruteSploit,469596250
 VU#37,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
+VU#37,0.25000000,https://github.com/marketdesignresearch/MVNN,marketdesignresearch/MVNN,412384267
 VU#37,0.25000000,https://github.com/AlmightyLobsters/LobsterPages,AlmightyLobsters/LobsterPages,75432070
 VU#37,0.20000000,https://github.com/wwwfan628/DA-AIM,wwwfan628/DA-AIM,529796820
 VU#37,0.20000000,https://github.com/hearsecurity/Exploits,hearsecurity/Exploits,520099548
@@ -59,7 +60,6 @@ VU#37,0.09090909,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenP
 VU#37,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
 VU#37,0.08333333,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#37,0.08333333,https://github.com/Xyntax/POC-T,Xyntax/POC-T,53729332
-VU#37,0.07692308,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#37,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#37,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#37,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
@@ -72,6 +72,7 @@ VU#37,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,Anonymo
 VU#37,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
 VU#37,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#37,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
+VU#37,0.05555556,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#37,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
 VU#37,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#37,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
@@ -165,11 +166,11 @@ VU#37,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnee
 VU#37,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#37,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#37,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
-VU#37,0.00781250,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#37,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#37,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#37,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#37,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#37,0.00746269,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#37,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#37,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#37,0.00714286,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
