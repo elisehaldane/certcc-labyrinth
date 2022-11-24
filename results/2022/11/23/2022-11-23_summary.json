@@ -117,6 +117,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"rapid7",
     "owner_id":1013671,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjEwMTM2NzE=",
@@ -135,7 +136,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/rapid7\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -261,6 +261,7 @@
     "subscribers_count":130,
     "matched_at":"2022-11-23T16:59:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"hugsy",
     "owner_id":590234,
     "owner_node_id":"MDQ6VXNlcjU5MDIzNA==",
@@ -279,7 +280,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hugsy\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -403,6 +403,7 @@
     "subscribers_count":470,
     "matched_at":"2022-11-23T17:00:03Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"n1nj4sec",
     "owner_id":12549318,
     "owner_node_id":"MDQ6VXNlcjEyNTQ5MzE4",
@@ -421,7 +422,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/n1nj4sec\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -529,6 +529,7 @@
     "subscribers_count":7,
     "matched_at":"2022-11-23T16:59:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"parrotgeek1",
     "owner_id":1711069,
     "owner_node_id":"MDQ6VXNlcjE3MTEwNjk=",
@@ -547,7 +548,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/parrotgeek1\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -693,6 +693,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"The-Art-of-Hacking",
     "owner_id":29549806,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjI5NTQ5ODA2",
@@ -711,7 +712,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/The-Art-of-Hacking\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -827,6 +827,7 @@
     "subscribers_count":50,
     "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"JoyChou93",
     "owner_id":7723294,
     "owner_node_id":"MDQ6VXNlcjc3MjMyOTQ=",
@@ -845,7 +846,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/JoyChou93\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -972,6 +972,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"dcs4cop",
     "owner_id":40300000,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjQwMzAwMDAw",
@@ -990,7 +991,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/dcs4cop\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1111,6 +1111,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"gentoo-mirror",
     "owner_id":12968767,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjEyOTY4NzY3",
@@ -1129,7 +1130,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/gentoo-mirror\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -1242,6 +1242,7 @@
     "subscribers_count":85,
     "matched_at":"2022-11-23T17:00:01Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"bitsadmin",
     "owner_id":9055728,
     "owner_node_id":"MDQ6VXNlcjkwNTU3Mjg=",
@@ -1260,7 +1261,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bitsadmin\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1377,6 +1377,7 @@
     "subscribers_count":16,
     "matched_at":"2022-11-23T04:58:13Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"drb-ra",
     "owner_id":3165532,
     "owner_node_id":"MDQ6VXNlcjMxNjU1MzI=",
@@ -1395,7 +1396,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/drb-ra\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1531,6 +1531,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"2lstudios-mc",
     "owner_id":53847752,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjUzODQ3NzUy",
@@ -1549,7 +1550,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/2lstudios-mc\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1670,6 +1670,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"nomi-sec",
     "owner_id":59186331,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjU5MTg2MzMx",
@@ -1688,7 +1689,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nomi-sec\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1804,6 +1804,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T16:59:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"hugsy",
     "owner_id":590234,
     "owner_node_id":"MDQ6VXNlcjU5MDIzNA==",
@@ -1822,7 +1823,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hugsy\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1955,6 +1955,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"CloudDefenseAI",
     "owner_id":63748925,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjYzNzQ4OTI1",
@@ -1973,7 +1974,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/CloudDefenseAI\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2082,6 +2082,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"dithpri",
     "owner_id":16628163,
     "owner_node_id":"MDQ6VXNlcjE2NjI4MTYz",
@@ -2100,7 +2101,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/dithpri\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -2202,6 +2202,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-24T04:57:29Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"RETIREglitch",
     "owner_id":59711967,
     "owner_node_id":"MDQ6VXNlcjU5NzExOTY3",
@@ -2220,7 +2221,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/RETIREglitch\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2353,6 +2353,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"Patrowl",
     "owner_id":28858120,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjI4ODU4MTIw",
@@ -2371,7 +2372,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Patrowl\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2495,6 +2495,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"ARPSyndicate",
     "owner_id":71436716,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjcxNDM2NzE2",
@@ -2513,7 +2514,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ARPSyndicate\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2615,6 +2615,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T17:00:09Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"lebr0nli",
     "owner_id":61896187,
     "owner_node_id":"MDQ6VXNlcjYxODk2MTg3",
@@ -2633,7 +2634,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/lebr0nli\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2751,6 +2751,7 @@
     "subscribers_count":66,
     "matched_at":"2022-11-23T16:59:59Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"ihebski",
     "owner_id":13177580,
     "owner_node_id":"MDQ6VXNlcjEzMTc3NTgw",
@@ -2769,7 +2770,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ihebski\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2880,6 +2880,7 @@
     "subscribers_count":14,
     "matched_at":"2022-11-24T04:57:33Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"hxr404",
     "owner_id":55095883,
     "owner_node_id":"MDQ6VXNlcjU1MDk1ODgz",
@@ -2898,7 +2899,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hxr404\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3025,6 +3025,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"tencentcloud-sdk-php",
     "owner_id":68686224,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjY4Njg2MjI0",
@@ -3043,7 +3044,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -3151,6 +3151,7 @@
     "subscribers_count":20,
     "matched_at":"2022-11-24T04:57:32Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"socram8888",
     "owner_id":515068,
     "owner_node_id":"MDQ6VXNlcjUxNTA2OA==",
@@ -3169,7 +3170,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/socram8888\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3271,6 +3271,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:55Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Jhinxs",
     "owner_id":79248856,
     "owner_node_id":"MDQ6VXNlcjc5MjQ4ODU2",
@@ -3289,7 +3290,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Jhinxs\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -3427,6 +3427,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"ARPSyndicate",
     "owner_id":71436716,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjcxNDM2NzE2",
@@ -3445,7 +3446,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ARPSyndicate\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -3558,6 +3558,7 @@
     "subscribers_count":29,
     "matched_at":"2022-11-23T04:56:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"ycdxsb",
     "owner_id":32149596,
     "owner_node_id":"MDQ6VXNlcjMyMTQ5NTk2",
@@ -3576,7 +3577,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ycdxsb\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -3714,6 +3714,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"PRBonn",
     "owner_id":23656320,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjIzNjU2MzIw",
@@ -3732,7 +3733,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/PRBonn\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3859,6 +3859,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"Cobalt-Strike",
     "owner_id":84079569,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjg0MDc5NTY5",
@@ -3877,7 +3878,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Cobalt-Strike\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4006,6 +4006,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"ForwarderFactory",
     "owner_id":88251708,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjg4MjUxNzA4",
@@ -4024,7 +4025,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ForwarderFactory\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4142,6 +4142,7 @@
     "subscribers_count":5,
     "matched_at":"2022-11-23T04:56:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"gmatuz",
     "owner_id":6328611,
     "owner_node_id":"MDQ6VXNlcjYzMjg2MTE=",
@@ -4160,7 +4161,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/gmatuz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4297,6 +4297,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"yaklang",
     "owner_id":84704082,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjg0NzA0MDgy",
@@ -4315,7 +4316,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/yaklang\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4433,6 +4433,7 @@
     "subscribers_count":5,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"hrbrmstr",
     "owner_id":509878,
     "owner_node_id":"MDQ6VXNlcjUwOTg3OA==",
@@ -4451,7 +4452,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hrbrmstr\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4565,6 +4565,7 @@
     "subscribers_count":6,
     "matched_at":"2022-11-23T04:56:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"notplu",
     "owner_id":95253981,
     "owner_node_id":"U_kgDOBa113Q",
@@ -4583,7 +4584,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/notplu\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4715,6 +4715,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"ronin-rb",
     "owner_id":191455,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjE5MTQ1NQ==",
@@ -4733,7 +4734,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ronin-rb\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4860,6 +4860,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"fullhunt",
     "owner_id":34830403,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjM0ODMwNDAz",
@@ -4878,7 +4879,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/fullhunt\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -4980,6 +4980,7 @@
     "subscribers_count":9,
     "matched_at":"2022-11-23T16:59:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Ridter",
     "owner_id":6007471,
     "owner_node_id":"MDQ6VXNlcjYwMDc0NzE=",
@@ -4998,7 +4999,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Ridter\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5112,6 +5112,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T16:59:42Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Wtf-Is-This-x1337",
     "owner_id":78364462,
     "owner_node_id":"MDQ6VXNlcjc4MzY0NDYy",
@@ -5130,7 +5131,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Wtf-Is-This-x1337\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -5257,6 +5257,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-24T04:57:33Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Fnoberz",
     "owner_id":94861415,
     "owner_node_id":"U_kgDOBad4Zw",
@@ -5275,7 +5276,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Fnoberz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5383,6 +5383,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:27Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"TheConner",
     "owner_id":59540839,
     "owner_node_id":"MDQ6VXNlcjU5NTQwODM5",
@@ -5401,7 +5402,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/TheConner\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "remote code execution"
     ],
@@ -5524,6 +5524,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Fnoberz",
     "owner_id":94861415,
     "owner_node_id":"U_kgDOBad4Zw",
@@ -5542,7 +5543,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Fnoberz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5669,6 +5669,7 @@
     "subscribers_count":3,
     "matched_at":"2022-11-24T04:57:31Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Fnoberz",
     "owner_id":94861415,
     "owner_node_id":"U_kgDOBad4Zw",
@@ -5687,7 +5688,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Fnoberz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5830,6 +5830,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"trickest",
     "owner_id":62057399,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjYyMDU3Mzk5",
@@ -5848,7 +5849,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/trickest\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -5976,6 +5976,7 @@
     "subscribers_count":6,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Fnoberz",
     "owner_id":94861415,
     "owner_node_id":"U_kgDOBad4Zw",
@@ -5994,7 +5995,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Fnoberz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6115,6 +6115,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Fnoberz",
     "owner_id":94861415,
     "owner_node_id":"U_kgDOBad4Zw",
@@ -6133,7 +6134,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Fnoberz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6253,6 +6253,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Fnoberz",
     "owner_id":94861415,
     "owner_node_id":"U_kgDOBad4Zw",
@@ -6271,7 +6272,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Fnoberz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6373,6 +6373,7 @@
     "subscribers_count":10,
     "matched_at":"2022-11-24T04:57:33Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"nop-tech",
     "owner_id":80179861,
     "owner_node_id":"MDQ6VXNlcjgwMTc5ODYx",
@@ -6391,7 +6392,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nop-tech\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6498,6 +6498,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"E1P0TR0",
     "owner_id":58433411,
     "owner_node_id":"MDQ6VXNlcjU4NDMzNDEx",
@@ -6516,7 +6517,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/E1P0TR0\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6651,6 +6651,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"hotpotcookie",
     "owner_id":68333318,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjY4MzMzMzE4",
@@ -6669,7 +6670,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hotpotcookie\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6771,24 +6771,6 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:58:14Z",
     "organization":null,
-    "owner_login":"StevenRCE0",
-    "owner_id":40051361,
-    "owner_node_id":"MDQ6VXNlcjQwMDUxMzYx",
-    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/40051361?v=4",
-    "owner_gravatar_id":"",
-    "owner_url":"https:\/\/api.github.com\/users\/StevenRCE0",
-    "owner_html_url":"https:\/\/github.com\/StevenRCE0",
-    "owner_followers_url":"https:\/\/api.github.com\/users\/StevenRCE0\/followers",
-    "owner_following_url":"https:\/\/api.github.com\/users\/StevenRCE0\/following{\/other_user}",
-    "owner_gists_url":"https:\/\/api.github.com\/users\/StevenRCE0\/gists{\/gist_id}",
-    "owner_starred_url":"https:\/\/api.github.com\/users\/StevenRCE0\/starred{\/owner}{\/repo}",
-    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/StevenRCE0\/subscriptions",
-    "owner_organizations_url":"https:\/\/api.github.com\/users\/StevenRCE0\/orgs",
-    "owner_repos_url":"https:\/\/api.github.com\/users\/StevenRCE0\/repos",
-    "owner_events_url":"https:\/\/api.github.com\/users\/StevenRCE0\/events{\/privacy}",
-    "owner_received_events_url":"https:\/\/api.github.com\/users\/StevenRCE0\/received_events",
-    "owner_type":"User",
-    "owner_site_admin":false,
     "template_repository":{
       "id":292638441,
       "node_id":"MDEwOlJlcG9zaXRvcnkyOTI2Mzg0NDE=",
@@ -6899,6 +6881,24 @@
       },
       "temp_clone_token":""
     },
+    "owner_login":"StevenRCE0",
+    "owner_id":40051361,
+    "owner_node_id":"MDQ6VXNlcjQwMDUxMzYx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/40051361?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/StevenRCE0",
+    "owner_html_url":"https:\/\/github.com\/StevenRCE0",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/StevenRCE0\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/StevenRCE0\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/StevenRCE0\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/StevenRCE0\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/StevenRCE0\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/StevenRCE0\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/StevenRCE0\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/StevenRCE0\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/StevenRCE0\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
     "matched_list":[
       "rce"
     ],
@@ -7006,6 +7006,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"hippolippo",
     "owner_id":15696741,
     "owner_node_id":"MDQ6VXNlcjE1Njk2NzQx",
@@ -7024,7 +7025,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hippolippo\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -7131,8 +7131,9 @@
     "temp_clone_token":"",
     "network_count":59,
     "subscribers_count":16,
-    "matched_at":"2022-11-23T16:59:40Z",
+    "matched_at":"2022-11-23T17:00:07Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"hktalent",
     "owner_id":18223385,
     "owner_node_id":"MDQ6VXNlcjE4MjIzMzg1",
@@ -7151,7 +7152,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hktalent\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -7282,6 +7282,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"DataDog",
     "owner_id":365230,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjM2NTIzMA==",
@@ -7300,7 +7301,156 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/DataDog\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
+    "matched_list":[
+      "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":485712403,
+    "node_id":"R_kgDOHPNiEw",
+    "name":"Titanium",
+    "full_name":"TitaniumMC\/Titanium",
+    "private":false,
+    "html_url":"https:\/\/github.com\/TitaniumMC\/Titanium",
+    "description":"Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium",
+    "forks_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/TitaniumMC\/Titanium\/deployments",
+    "created_at":"2022-04-26T09:10:18Z",
+    "updated_at":"2022-11-24T16:17:38Z",
+    "pushed_at":"2022-11-23T23:13:54Z",
+    "git_url":"git:\/\/github.com\/TitaniumMC\/Titanium.git",
+    "ssh_url":"git@github.com:TitaniumMC\/Titanium.git",
+    "clone_url":"https:\/\/github.com\/TitaniumMC\/Titanium.git",
+    "svn_url":"https:\/\/github.com\/TitaniumMC\/Titanium",
+    "homepage":"",
+    "size":5426,
+    "stargazers_count":49,
+    "watchers_count":49,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":3,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":22,
+    "license":{
+      "key":"gpl-3.0",
+      "name":"GNU General Public License v3.0",
+      "spdx_id":"GPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/gpl-3.0",
+      "node_id":"MDc6TGljZW5zZTk="
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+      "bukkit",
+      "hacktoberfest",
+      "java",
+      "minecraft",
+      "paper",
+      "spigot"
+    ],
+    "visibility":"public",
+    "forks":3,
+    "open_issues":22,
+    "watchers":49,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":3,
+    "subscribers_count":3,
+    "matched_at":"2022-11-24T16:59:51Z",
+    "organization":{
+      "login":"TitaniumMC",
+      "id":109078250,
+      "node_id":"O_kgDOBoBm6g",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/109078250?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/TitaniumMC",
+      "html_url":"https:\/\/github.com\/TitaniumMC",
+      "followers_url":"https:\/\/api.github.com\/users\/TitaniumMC\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/TitaniumMC\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/TitaniumMC\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/TitaniumMC\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/TitaniumMC\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/TitaniumMC\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/TitaniumMC\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/TitaniumMC\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/TitaniumMC\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
     "template_repository":null,
+    "owner_login":"TitaniumMC",
+    "owner_id":109078250,
+    "owner_node_id":"O_kgDOBoBm6g",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/109078250?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/TitaniumMC",
+    "owner_html_url":"https:\/\/github.com\/TitaniumMC",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/TitaniumMC\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/TitaniumMC\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/TitaniumMC\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/TitaniumMC\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/TitaniumMC\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/TitaniumMC\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/TitaniumMC\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/TitaniumMC\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/TitaniumMC\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
     "matched_list":[
       "exploit"
     ],
@@ -7405,8 +7555,9 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":4,
-    "matched_at":"2022-11-23T16:59:57Z",
+    "matched_at":"2022-11-23T16:59:37Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"cokeBeer",
     "owner_id":70683161,
     "owner_node_id":"MDQ6VXNlcjcwNjgzMTYx",
@@ -7425,7 +7576,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/cokeBeer\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -7537,6 +7687,7 @@
     "subscribers_count":7,
     "matched_at":"2022-11-23T04:57:01Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"sari3l",
     "owner_id":45752995,
     "owner_node_id":"MDQ6VXNlcjQ1NzUyOTk1",
@@ -7555,7 +7706,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/sari3l\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -7674,6 +7824,7 @@
     "subscribers_count":10,
     "matched_at":"2022-11-23T17:00:11Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"0xricksanchez",
     "owner_id":17012133,
     "owner_node_id":"MDQ6VXNlcjE3MDEyMTMz",
@@ -7692,7 +7843,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/0xricksanchez\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7799,6 +7949,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-24T04:57:32Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"suljov",
     "owner_id":24814781,
     "owner_node_id":"MDQ6VXNlcjI0ODE0Nzgx",
@@ -7817,7 +7968,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/suljov\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7919,6 +8069,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Abhimanyu08",
     "owner_id":39722331,
     "owner_node_id":"MDQ6VXNlcjM5NzIyMzMx",
@@ -7937,7 +8088,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Abhimanyu08\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -8055,6 +8205,7 @@
     "subscribers_count":0,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"LocalSmail",
     "owner_id":96918131,
     "owner_node_id":"U_kgDOBcbacw",
@@ -8073,7 +8224,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/LocalSmail\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8179,6 +8329,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:32Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"0xLuks",
     "owner_id":51793738,
     "owner_node_id":"MDQ6VXNlcjUxNzkzNzM4",
@@ -8197,7 +8348,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/0xLuks\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8304,6 +8454,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-24T04:57:32Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"suljov",
     "owner_id":24814781,
     "owner_node_id":"MDQ6VXNlcjI0ODE0Nzgx",
@@ -8322,7 +8473,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/suljov\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8443,6 +8593,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T17:00:04Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Fnoberz",
     "owner_id":94861415,
     "owner_node_id":"U_kgDOBad4Zw",
@@ -8461,7 +8612,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Fnoberz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8569,6 +8719,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"tjcrone",
     "owner_id":5667194,
     "owner_node_id":"MDQ6VXNlcjU2NjcxOTQ=",
@@ -8587,7 +8738,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/tjcrone\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -8695,6 +8845,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:42Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Nariod",
     "owner_id":32550820,
     "owner_node_id":"MDQ6VXNlcjMyNTUwODIw",
@@ -8713,7 +8864,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Nariod\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -8821,6 +8971,7 @@
     "subscribers_count":6,
     "matched_at":"2022-11-23T04:57:01Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"tg12",
     "owner_id":12201893,
     "owner_node_id":"MDQ6VXNlcjEyMjAxODkz",
@@ -8839,7 +8990,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/tg12\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -8959,6 +9109,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:31Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Teemsploit",
     "owner_id":53855235,
     "owner_node_id":"MDQ6VXNlcjUzODU1MjM1",
@@ -8977,7 +9128,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Teemsploit\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9079,6 +9229,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T16:59:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"HiImKing1509",
     "owner_id":84212036,
     "owner_node_id":"MDQ6VXNlcjg0MjEyMDM2",
@@ -9097,7 +9248,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/HiImKing1509\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9201,6 +9351,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:36Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Whoopsunix",
     "owner_id":51756428,
     "owner_node_id":"MDQ6VXNlcjUxNzU2NDI4",
@@ -9219,7 +9370,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Whoopsunix\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "vuln poc"
     ],
@@ -9321,6 +9471,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:12Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Alendaa",
     "owner_id":114703609,
     "owner_node_id":"U_kgDOBtY8-Q",
@@ -9339,7 +9490,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Alendaa\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9481,6 +9631,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"Ha-L0",
     "owner_id":116582986,
     "owner_node_id":"O_kgDOBvLqSg",
@@ -9499,7 +9650,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Ha-L0\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9626,6 +9776,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"SleipnirGroup",
     "owner_id":118023388,
     "owner_node_id":"O_kgDOBwjk3A",
@@ -9644,7 +9795,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/SleipnirGroup\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9746,6 +9896,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:10Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Jean-xavierr",
     "owner_id":35068054,
     "owner_node_id":"MDQ6VXNlcjM1MDY4MDU0",
@@ -9764,7 +9915,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Jean-xavierr\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9885,6 +10035,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"iswebdevru",
     "owner_id":115099648,
     "owner_node_id":"O_kgDOBtxIAA",
@@ -9903,7 +10054,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/iswebdevru\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -10005,6 +10155,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Jibs40",
     "owner_id":107616259,
     "owner_node_id":"U_kgDOBmoYAw",
@@ -10023,7 +10174,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Jibs40\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10125,6 +10275,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:31Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"orionLP",
     "owner_id":95940096,
     "owner_node_id":"U_kgDOBbfuAA",
@@ -10143,7 +10294,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/orionLP\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10249,6 +10399,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:38Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"APTIRAN",
     "owner_id":80196564,
     "owner_node_id":"MDQ6VXNlcjgwMTk2NTY0",
@@ -10267,7 +10418,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/APTIRAN\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2",
@@ -10382,6 +10532,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:10Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"yeetsquad747",
     "owner_id":74121237,
     "owner_node_id":"MDQ6VXNlcjc0MTIxMjM3",
@@ -10400,7 +10551,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/yeetsquad747\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10502,6 +10652,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:37Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"dkjiayu",
     "owner_id":44319194,
     "owner_node_id":"MDQ6VXNlcjQ0MzE5MTk0",
@@ -10520,7 +10671,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/dkjiayu\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -10625,8 +10775,9 @@
     "temp_clone_token":"",
     "network_count":14,
     "subscribers_count":2,
-    "matched_at":"2022-11-24T04:57:14Z",
+    "matched_at":"2022-11-24T04:57:03Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Cr4ckC4t",
     "owner_id":63863112,
     "owner_node_id":"MDQ6VXNlcjYzODYzMTEy",
@@ -10645,7 +10796,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Cr4ckC4t\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "rce"
@@ -10746,8 +10896,9 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2022-11-24T04:57:00Z",
+    "matched_at":"2022-11-24T04:57:02Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"notareaperbutDR34P3r",
     "owner_id":118025285,
     "owner_node_id":"U_kgDOBwjsRQ",
@@ -10766,7 +10917,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/notareaperbutDR34P3r\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2",
       "remote code execution"
@@ -10894,6 +11044,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:20Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"jonas52",
     "owner_id":83141023,
     "owner_node_id":"MDQ6VXNlcjgzMTQxMDIz",
@@ -10912,7 +11063,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/jonas52\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -11014,6 +11164,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:02Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"notareaperbutDR34P3r",
     "owner_id":118025285,
     "owner_node_id":"U_kgDOBwjsRQ",
@@ -11032,7 +11183,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/notareaperbutDR34P3r\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -11140,6 +11290,7 @@
     "subscribers_count":5,
     "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"ExpLangcn",
     "owner_id":52586866,
     "owner_node_id":"MDQ6VXNlcjUyNTg2ODY2",
@@ -11158,7 +11309,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ExpLangcn\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -11260,6 +11410,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:09Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"spookysss",
     "owner_id":81113363,
     "owner_node_id":"MDQ6VXNlcjgxMTEzMzYz",
@@ -11278,7 +11429,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/spookysss\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11388,6 +11538,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"L1GH7",
     "owner_id":24572555,
     "owner_node_id":"MDQ6VXNlcjI0NTcyNTU1",
@@ -11406,9 +11557,134 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/L1GH7\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":568225800,
+    "node_id":"R_kgDOId5wCA",
+    "name":"velas-infinite-mint-poc",
+    "full_name":"orenyomtov\/velas-infinite-mint-poc",
+    "private":false,
+    "html_url":"https:\/\/github.com\/orenyomtov\/velas-infinite-mint-poc",
+    "description":"The repository contains a runnable PoC for the Velas infinite mint vulnerability",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc",
+    "forks_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/orenyomtov\/velas-infinite-mint-poc\/deployments",
+    "created_at":"2022-11-19T21:00:07Z",
+    "updated_at":"2022-11-24T16:10:21Z",
+    "pushed_at":"2022-11-23T19:55:25Z",
+    "git_url":"git:\/\/github.com\/orenyomtov\/velas-infinite-mint-poc.git",
+    "ssh_url":"git@github.com:orenyomtov\/velas-infinite-mint-poc.git",
+    "clone_url":"https:\/\/github.com\/orenyomtov\/velas-infinite-mint-poc.git",
+    "svn_url":"https:\/\/github.com\/orenyomtov\/velas-infinite-mint-poc",
+    "homepage":null,
+    "size":272,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"TypeScript",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":false,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"unlicense",
+      "name":"The Unlicense",
+      "spdx_id":"Unlicense",
+      "url":"https:\/\/api.github.com\/licenses\/unlicense",
+      "node_id":"MDc6TGljZW5zZTE1"
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2022-11-24T17:00:32Z",
+    "organization":null,
+    "template_repository":null,
+    "owner_login":"orenyomtov",
+    "owner_id":168856,
+    "owner_node_id":"MDQ6VXNlcjE2ODg1Ng==",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/168856?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/orenyomtov",
+    "owner_html_url":"https:\/\/github.com\/orenyomtov",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/orenyomtov\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/orenyomtov\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/orenyomtov\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/orenyomtov\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/orenyomtov\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/orenyomtov\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/orenyomtov\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/orenyomtov\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/orenyomtov\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "vulnerability poc"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -11514,6 +11790,7 @@
     "subscribers_count":2,
     "matched_at":"2022-11-23T16:59:32Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"MRX90902WX",
     "owner_id":118016739,
     "owner_node_id":"U_kgDOBwjK4w",
@@ -11532,7 +11809,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/MRX90902WX\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -11634,6 +11910,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:09Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Arcitezz",
     "owner_id":69544997,
     "owner_node_id":"MDQ6VXNlcjY5NTQ0OTk3",
@@ -11652,7 +11929,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Arcitezz\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11756,6 +12032,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:02Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"hideckies",
     "owner_id":52585124,
     "owner_node_id":"MDQ6VXNlcjUyNTg1MTI0",
@@ -11774,7 +12051,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hideckies\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11882,6 +12158,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:30Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Vanixy",
     "owner_id":118681074,
     "owner_node_id":"U_kgDOBxLt8g",
@@ -11900,7 +12177,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Vanixy\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12002,6 +12278,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"adnhq",
     "owner_id":93215707,
     "owner_node_id":"U_kgDOBY5b2w",
@@ -12020,7 +12297,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/adnhq\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12122,6 +12398,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"zeroday-z",
     "owner_id":77889852,
     "owner_node_id":"MDQ6VXNlcjc3ODg5ODUy",
@@ -12140,7 +12417,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/zeroday-z\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -12267,6 +12543,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "owner_login":"fkie-cad",
     "owner_id":25243744,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjI1MjQzNzQ0",
@@ -12285,7 +12562,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/fkie-cad\/received_events",
     "owner_type":"Organization",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12387,6 +12663,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:43Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"dr4g0n23",
     "owner_id":68361881,
     "owner_node_id":"MDQ6VXNlcjY4MzYxODgx",
@@ -12405,7 +12682,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/dr4g0n23\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12507,6 +12783,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"k0i",
     "owner_id":100127291,
     "owner_node_id":"U_kgDOBffSOw",
@@ -12525,7 +12802,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/k0i\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12627,6 +12903,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:32Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"AlexandreThePlot",
     "owner_id":99390277,
     "owner_node_id":"U_kgDOBeyTRQ",
@@ -12645,7 +12922,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AlexandreThePlot\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12747,6 +13023,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:43Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"alalng",
     "owner_id":61508435,
     "owner_node_id":"MDQ6VXNlcjYxNTA4NDM1",
@@ -12765,7 +13042,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/alalng\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12867,6 +13143,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"jbacco",
     "owner_id":15269307,
     "owner_node_id":"MDQ6VXNlcjE1MjY5MzA3",
@@ -12885,7 +13162,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/jbacco\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12987,6 +13263,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Anti-Exploit-Group",
     "owner_id":118868509,
     "owner_node_id":"U_kgDOBxXKHQ",
@@ -13005,7 +13282,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Anti-Exploit-Group\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13107,6 +13383,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T04:56:55Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"payloads45",
     "owner_id":111106697,
     "owner_node_id":"U_kgDOBp9aiQ",
@@ -13125,7 +13402,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/payloads45\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -13227,6 +13503,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:11Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Ashwagandhae",
     "owner_id":61397969,
     "owner_node_id":"MDQ6VXNlcjYxMzk3OTY5",
@@ -13245,7 +13522,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Ashwagandhae\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13347,6 +13623,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:58Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"myownappslmao",
     "owner_id":110370288,
     "owner_node_id":"U_kgDOBpQd8A",
@@ -13365,7 +13642,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/myownappslmao\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -13467,6 +13743,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:57Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"SparkLessExploitCreator",
     "owner_id":118879929,
     "owner_node_id":"U_kgDOBxX2uQ",
@@ -13485,7 +13762,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/SparkLessExploitCreator\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13587,6 +13863,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:00Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"ElenCrissy",
     "owner_id":75046343,
     "owner_node_id":"MDQ6VXNlcjc1MDQ2MzQz",
@@ -13605,7 +13882,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ElenCrissy\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13705,8 +13981,9 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-11-23T16:59:27Z",
+    "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Wobomba",
     "owner_id":49285548,
     "owner_node_id":"MDQ6VXNlcjQ5Mjg1NTQ4",
@@ -13725,7 +14002,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Wobomba\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit",
       "rce",
@@ -13829,6 +14105,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:39Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"15076039605",
     "owner_id":49359104,
     "owner_node_id":"MDQ6VXNlcjQ5MzU5MTA0",
@@ -13847,7 +14124,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/15076039605\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -13949,6 +14225,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:01Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"flols",
     "owner_id":94974527,
     "owner_node_id":"U_kgDOBakyPw",
@@ -13967,7 +14244,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/flols\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14067,8 +14343,9 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2022-11-23T16:59:52Z",
+    "matched_at":"2022-11-23T16:59:37Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"bob11vrdp",
     "owner_id":114571680,
     "owner_node_id":"U_kgDOBtQ5oA",
@@ -14087,7 +14364,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bob11vrdp\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2"
@@ -14190,6 +14466,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:01Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"codingcore12",
     "owner_id":114504351,
     "owner_node_id":"U_kgDOBtMynw",
@@ -14208,7 +14485,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore12\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14310,6 +14586,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:01Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"codingcore12",
     "owner_id":114504351,
     "owner_node_id":"U_kgDOBtMynw",
@@ -14328,7 +14605,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore12\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14430,6 +14706,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:02Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"codingcore12",
     "owner_id":114504351,
     "owner_node_id":"U_kgDOBtMynw",
@@ -14448,7 +14725,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore12\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14550,6 +14826,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:08Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Knaller69",
     "owner_id":115069653,
     "owner_node_id":"U_kgDOBtvS1Q",
@@ -14568,7 +14845,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Knaller69\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14670,6 +14946,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:09Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"All4ce",
     "owner_id":61071333,
     "owner_node_id":"MDQ6VXNlcjYxMDcxMzMz",
@@ -14688,7 +14965,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/All4ce\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14790,6 +15066,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T17:00:12Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Jean-xavierr",
     "owner_id":35068054,
     "owner_node_id":"MDQ6VXNlcjM1MDY4MDU0",
@@ -14808,7 +15085,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Jean-xavierr\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14910,6 +15186,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:52Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"bypazs",
     "owner_id":5837953,
     "owner_node_id":"MDQ6VXNlcjU4Mzc5NTM=",
@@ -14928,7 +15205,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bypazs\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -15030,6 +15306,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-23T16:59:52Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"mattysaints",
     "owner_id":41925916,
     "owner_node_id":"MDQ6VXNlcjQxOTI1OTE2",
@@ -15048,7 +15325,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/mattysaints\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -15150,6 +15426,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:03Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"M889SEC",
     "owner_id":118938191,
     "owner_node_id":"U_kgDOBxbaTw",
@@ -15168,7 +15445,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/M889SEC\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -15278,6 +15554,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:33Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"WassimMNASRI",
     "owner_id":87144238,
     "owner_node_id":"MDQ6VXNlcjg3MTQ0MjM4",
@@ -15296,7 +15573,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/WassimMNASRI\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15398,6 +15674,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:33Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"Knaller69",
     "owner_id":115069653,
     "owner_node_id":"U_kgDOBtvS1Q",
@@ -15416,7 +15693,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Knaller69\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15518,6 +15794,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:03Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"KenJ20",
     "owner_id":90720336,
     "owner_node_id":"MDQ6VXNlcjkwNzIwMzM2",
@@ -15536,7 +15813,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/KenJ20\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -15638,6 +15914,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:33Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"codingcore12",
     "owner_id":114504351,
     "owner_node_id":"U_kgDOBtMynw",
@@ -15656,7 +15933,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore12\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15758,6 +16034,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:34Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"codingcore12",
     "owner_id":114504351,
     "owner_node_id":"U_kgDOBtMynw",
@@ -15776,7 +16053,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore12\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15878,6 +16154,7 @@
     "subscribers_count":1,
     "matched_at":"2022-11-24T04:57:34Z",
     "organization":null,
+    "template_repository":null,
     "owner_login":"codingcore12",
     "owner_id":114504351,
     "owner_node_id":"U_kgDOBtMynw",
@@ -15896,7 +16173,6 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codingcore12\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
