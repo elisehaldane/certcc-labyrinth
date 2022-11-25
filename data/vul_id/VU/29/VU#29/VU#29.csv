@@ -16,6 +16,7 @@ VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,put
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
 VU#29,1.00000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
+VU#29,0.50000000,https://github.com/Z3ste/Covenant-exploit,Z3ste/Covenant-exploit,570244155
 VU#29,0.50000000,https://github.com/savior-only/CVE-2022-22947,savior-only/CVE-2022-22947,559094520
 VU#29,0.50000000,https://github.com/Ryan-T-Bell/SmarterMail-RCE-49216.py,Ryan-T-Bell/SmarterMail-RCE-49216.py,540451519
 VU#29,0.50000000,https://github.com/SiJiDo/CVE-2022-22947,SiJiDo/CVE-2022-22947,527864103
@@ -113,7 +114,6 @@ VU#29,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,41995360
 VU#29,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#29,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#29,0.05882353,https://github.com/wireghoul/sploit-dev,wireghoul/sploit-dev,5593528
-VU#29,0.05555556,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#29,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#29,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#29,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,404076972
@@ -129,6 +129,7 @@ VU#29,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/da
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#29,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
+VU#29,0.04347826,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#29,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
 VU#29,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#29,0.04166667,https://github.com/threedr3am/learnjavabug,threedr3am/learnjavabug,132132854
@@ -302,7 +303,7 @@ VU#29,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMu
 VU#29,0.00378788,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#29,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#29,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#29,0.00300300,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
+VU#29,0.00298507,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#29,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#29,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#29,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
