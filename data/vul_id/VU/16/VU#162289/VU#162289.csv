@@ -2,5 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#162289,0.01000000,https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14463,nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14463,536972325
 VU#162289,0.01000000,https://github.com/nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463,nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463,536924455
 VU#162289,0.01000000,https://github.com/Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166,Satheesh575555/external_tcpdump_AOSP10_r33_CVE-2019-15166,484342272
-VU#162289,0.00028952,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#162289,0.00016137,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#162289,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
