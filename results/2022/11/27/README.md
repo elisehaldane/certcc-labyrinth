@@ -1,7 +1,7 @@
 
 # Summary for results/2022/11/27
     
-106 records found after deduplication
+107 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
@@ -32,7 +32,7 @@
 | yurithegoatnovuh/ro-ghoul-hub | roblox ro ghoul exploit | https://github.com/yurithegoatnovuh/ro-ghoul-hub | ['exploit'] | 1 | 2022-11-27 09:17:46+00:00 | 78 | 0 | | 0 | [] |
 | jean-law/imdb-database | Project under the course INF553 Database Management Systems. The ultimate goal of this project is to set up a Web application that enables users to exploit a movie database, which is a version of the IMDB1 dataset. | https://github.com/jean-law/imdb-database | ['exploit'] | 1 | 2022-11-27 11:03:58+00:00 | 1667 | 0 | | 0 | [] |
 | minimike86/TwitchRCE | Twitch Chat Bot that allows viewers to run arbitrary code on broadcasters machine | https://github.com/minimike86/TwitchRCE | ['rce'] | 1 | 2022-11-27 00:04:18+00:00 | 4 | 0 | Python | 0 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-27 16:11:08+00:00 | 13195 | 5081 | Python | 706 | [] |
+| jonesdevelopment/sonar | Sonar Antibot - Experimental anti bot plugin for Minecraft BungeeCord servers (1.7-1.19) - Blocking netty exploits and more... | https://github.com/jonesdevelopment/sonar | ['exploit'] | 1 | 2022-11-27 15:07:33+00:00 | 1549 | 3 | Java | 2 | [] |
 | FelixMartel/pentaho-ce-admin-rce | None | https://github.com/FelixMartel/pentaho-ce-admin-rce | ['rce'] | 1 | 2022-11-27 00:54:09+00:00 | 4 | 0 | Python | 0 | [] |
 | Chocapikk/CVE-2022-29455 | DOM-based Reflected Cross-Site Scripting (XSS) vulnerability in Elementor's Elementor Website Builder plugin <= 3.5.5 versions. | https://github.com/Chocapikk/CVE-2022-29455 | ['cve-2 OR cve_2'] | 1 | 2022-11-27 18:46:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-29455'] |
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1l | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1l | ['exploit'] | 1 | 2022-11-27 17:31:51+00:00 | 1 | 1 | | 0 | [] |
@@ -58,10 +58,9 @@
 | dhanjani/solv-protocol-exploit | None | https://github.com/dhanjani/solv-protocol-exploit | ['exploit'] | 1 | 2022-11-27 02:41:45+00:00 | 17358 | 0 | Solidity | 0 | [] |
 | CvgyYoDfs/AqyphRCE | None | https://github.com/CvgyYoDfs/AqyphRCE | ['rce'] | 1 | 2022-11-27 02:00:17+00:00 | 0 | 0 | | 0 | [] |
 | TopheC/DockerStack | Une liste de recette pour monter un noeud unique (node) Docker avec tous les outils nécessaires à son exploitation. | https://github.com/TopheC/DockerStack | ['exploit'] | 1 | 2022-11-27 18:45:30+00:00 | 16 | 0 | | 0 | [] |
-| jonesdevelopment/sonar | Sonar Antibot - Experimental anti bot plugin for Minecraft BungeeCord servers (1.7-1.19) - Blocking netty exploits and more... | https://github.com/jonesdevelopment/sonar | ['exploit'] | 1 | 2022-11-27 15:07:33+00:00 | 1549 | 3 | Java | 2 | [] |
 | Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-11-27 14:48:00+00:00 | 1771 | 45 | C++ | 24 | [] |
-| pbrucla/breach-75 | WIP: A set of essential exploits for the beginner CTF player! | https://github.com/pbrucla/breach-75 | ['exploit'] | 1 | 2022-11-27 20:35:10+00:00 | 3 | 1 | | 0 | [] |
-| Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-27 07:09:59+00:00 | 9355 | 46 | C++ | 26 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-11-27 16:11:08+00:00 | 13195 | 5081 | Python | 706 | [] |
+| Fnoberz/Example-injector | 💉 Fivem Exec _ Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | ['exploit'] | 1 | 2022-11-27 07:10:59+00:00 | 156 | 24 | C++ | 7 | [] |
 | Mohammadmahdi-Mohammadi/RMIDS | Remote Method Invocation in distributed systems. possibility of transferring objects between client & server and also server codes execution in client side | https://github.com/Mohammadmahdi-Mohammadi/RMIDS | ['remote code execution'] | 1 | 2022-11-27 11:26:21+00:00 | 1451 | 0 | Python | 0 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2022-11-27 08:34:10+00:00 | 284 | 10 | Java | 3 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-11-27 18:10:25+00:00 | 9693 | 16 | | 5 | [] |
@@ -79,15 +78,16 @@
 | lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-11-27 03:34:01+00:00 | 84989 | 2385 | Go | 348 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2022-11-27 09:40:35+00:00 | 6525 | 1 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-11-27 04:03:43+00:00 | 680451 | 65 | | 23 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-11-27 20:49:57+00:00 | 996 | 312 | C | 18 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-11-27 15:01:27+00:00 | 21629 | 49 | | 27 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-11-27 04:33:20+00:00 | 638129 | 236 | REXX | 28 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-11-27 12:20:05+00:00 | 76111 | 12371 | Jupyter Notebook | 2127 | [] |
 | parrotgeek1/TI-Nspire | A collection of information, tools, and exploits for TI-Nspire calculators. | https://github.com/parrotgeek1/TI-Nspire | ['exploit'] | 1 | 2022-11-27 02:40:29+00:00 | 682 | 28 | C | 5 | [] |
 | Tyrrrz/YoutubeExplode | Library for exploiting YouTube's internal API | https://github.com/Tyrrrz/YoutubeExplode | ['exploit'] | 1 | 2022-11-27 13:10:14+00:00 | 1493 | 2121 | C# | 387 | [] |
-| Fnoberz/Example-injector | 💉 Fivem Exec _ Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | ['exploit'] | 1 | 2022-11-27 07:10:59+00:00 | 156 | 24 | C++ | 7 | [] |
+| Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-11-27 07:09:59+00:00 | 9355 | 46 | C++ | 26 | [] |
 | Fnoberz/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | ['exploit'] | 1 | 2022-11-27 07:10:18+00:00 | 2217 | 50 | C++ | 26 | [] |
+| pbrucla/breach-75 | WIP: A set of essential exploits for the beginner CTF player! | https://github.com/pbrucla/breach-75 | ['exploit'] | 1 | 2022-11-27 20:35:10+00:00 | 3 | 1 | | 0 | [] |
 | 7h3h4ckv157/Binary-exploitation-series | A series of writes about “Binary Exploitation”. | https://github.com/7h3h4ckv157/Binary-exploitation-series | ['exploit'] | 1 | 2022-11-27 06:39:02+00:00 | 7 | 81 | | 6 | [] |
-| DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-11-27 11:54:10+00:00 | 11585 | 3 | Python | 0 | [] |
 | suljov/Hacking-linux | Hacking linux | https://github.com/suljov/Hacking-linux | ['exploit'] | 1 | 2022-11-27 02:48:46+00:00 | 799 | 3 | | 0 | [] |
 | c99tn/vMass | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | ['exploit'] | 1 | 2022-11-27 18:17:30+00:00 | 118 | 118 | Perl | 27 | [] |
 | edanyi/ed_RCEL506 | None | https://github.com/edanyi/ed_RCEL506 | ['rce'] | 1 | 2022-11-27 19:30:11+00:00 | 32387 | 2 | Jupyter Notebook | 1 | [] |
@@ -98,8 +98,8 @@
 | hasskooelhadi/swagger-rce | None | https://github.com/hasskooelhadi/swagger-rce | ['rce'] | 1 | 2022-11-27 12:30:21+00:00 | 27 | 1 | | 1 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-11-27 00:46:43+00:00 | 19042 | 40 | Go | 14 | [] |
 | teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-11-27 01:06:41+00:00 | 1763 | 13 | TypeScript | 1 | [] |
+| DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-11-27 11:54:10+00:00 | 11585 | 3 | Python | 0 | [] |
 | alvin-tosh/Infosec-and-Hacking-Scripts | 🚀 This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Infosec-and-Hacking-Scripts | ['exploit'] | 1 | 2022-11-27 05:51:27+00:00 | 6891 | 13 | Python | 4 | [] |
-| Fnoberz/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Fnoberz/Fortnite-External | ['exploit'] | 1 | 2022-11-27 19:54:35+00:00 | 7984 | 61 | C++ | 25 | [] |
 | Black-software100/exploit | None | https://github.com/Black-software100/exploit | ['exploit'] | 1 | 2022-11-27 15:27:34+00:00 | 3178 | 2 | JavaScript | 0 | [] |
 | rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | IOT Forensics Thesis regarding Automation of Android apps exploiting UI Testing tools in order to collect huge data sets to analyze Wi-Fi traffic between android apps and IOT devices associated to them. Finally ML techniques are applied to estimate human b | https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | ['exploit'] | 1 | 2022-11-27 18:05:06+00:00 | 55180 | 0 | Jupyter Notebook | 0 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2022-11-27 15:32:15+00:00 | 864 | 285 | Shell | 60 | [] |
@@ -110,4 +110,5 @@
 | ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | None | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | ['exploit'] | 1 | 2022-11-27 21:02:59+00:00 | 43 | 1 | | 0 | [] |
 | Fnoberz/Fivem-Exec | 🩸 Lua Exec Bypass, Compatible with the latest version of Fivem _ 11/18/2565 | https://github.com/Fnoberz/Fivem-Exec | ['exploit'] | 1 | 2022-11-27 07:10:29+00:00 | 188 | 39 | C++ | 10 | [] |
 | Fnoberz/Rust-internal | ⚔️ Rust Cheat Internal Release Follow Step in Videos _ Work in last Patch | https://github.com/Fnoberz/Rust-internal | ['exploit'] | 1 | 2022-11-27 07:10:45+00:00 | 197 | 26 | C# | 8 | [] |
+| Fnoberz/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Fnoberz/Fortnite-External | ['exploit'] | 1 | 2022-11-27 19:54:35+00:00 | 7984 | 61 | C++ | 25 | [] |
 | davidenetti/TOCTOU_Vulnerability | PoC and notes about TOCTOU (race condition) vulnerability in C language and tested on GNU/Linux (Ubuntu 16.04). | https://github.com/davidenetti/TOCTOU_Vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2022-11-27 23:18:30+00:00 | 8 | 0 | C | 0 | [] |
