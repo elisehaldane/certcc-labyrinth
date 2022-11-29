@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS08-067,1.00000000,https://github.com/lambardarr/RCE-Methods,lambardarr/RCE-Methods,572132531
 MS08-067,1.00000000,https://github.com/3rdtsuki/MetasploitExploit,3rdtsuki/MetasploitExploit,499171792
 MS08-067,1.00000000,https://github.com/Emilyj27/ms08_067_py3,Emilyj27/ms08_067_py3,498030078
 MS08-067,1.00000000,https://github.com/sunn1day/Windows-TCP-reverse-shellcode-study,sunn1day/Windows-TCP-reverse-shellcode-study,483814660
@@ -530,4 +531,4 @@ MS08-067,0.00001424,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS08-067,0.00000440,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS08-067,0.00000439,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
