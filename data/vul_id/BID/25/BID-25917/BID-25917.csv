@@ -1,8 +1,11 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,572428573
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,545285937
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,545283522
+BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,572428535
 BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
 BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
+BID-25917,0.03448276,https://github.com/rcvalle/exploits,rcvalle/exploits,572425991
 BID-25917,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 BID-25917,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 BID-25917,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
@@ -103,7 +106,7 @@ BID-25917,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Met
 BID-25917,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
 BID-25917,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 BID-25917,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
-BID-25917,0.00019940,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-25917,0.00019932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-25917,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-25917,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-25917,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
