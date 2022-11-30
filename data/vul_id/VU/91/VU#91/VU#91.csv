@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#91,0.50000000,https://github.com/yywing/cve-2022-0778,yywing/cve-2022-0778,477818601
-VU#91,0.50000000,https://github.com/dannyallover/Exploit-C,dannyallover/Exploit-C,432559107
+VU#91,0.50000000,https://github.com/dannyallover/exploit_C_programs,dannyallover/exploit_C_programs,432559107
 VU#91,0.50000000,https://github.com/nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,363437561
 VU#91,0.33333333,https://github.com/podsdev/ratExploiter,podsdev/ratExploiter,504743780
 VU#91,0.33333333,https://github.com/by-black6/Black-Sploit,by-black6/Black-Sploit,497718781
@@ -116,6 +116,7 @@ VU#91,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#91,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#91,0.00746269,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#91,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#91,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#91,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#91,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#91,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602

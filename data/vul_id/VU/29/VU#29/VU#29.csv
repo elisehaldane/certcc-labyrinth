@@ -3,7 +3,6 @@ VU#29,1.00000000,https://github.com/ehunt34/neochromium-ehunt34,ehunt34/neochrom
 VU#29,1.00000000,https://github.com/kmeps4/ps5_4xx,kmeps4/ps5_4xx,544633081
 VU#29,1.00000000,https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit,Cryptogenic/PS5-IPV6-Kernel-Exploit,542265087
 VU#29,1.00000000,https://github.com/EarthToAccess/Vowels,EarthToAccess/Vowels,535230631
-VU#29,1.00000000,https://github.com/EarthToAccess/EBGui,EarthToAccess/EBGui,527345498
 VU#29,1.00000000,https://github.com/r3x5ur/webshell-free,r3x5ur/webshell-free,525626838
 VU#29,1.00000000,https://github.com/jacvbtaylor/PythonReverseShell,jacvbtaylor/PythonReverseShell,519800231
 VU#29,1.00000000,https://github.com/yu1hpa/blog,yu1hpa/blog,487443704
@@ -21,6 +20,7 @@ VU#29,0.50000000,https://github.com/Z3ste/Covenant-exploit,Z3ste/Covenant-exploi
 VU#29,0.50000000,https://github.com/savior-only/CVE-2022-22947,savior-only/CVE-2022-22947,559094520
 VU#29,0.50000000,https://github.com/Ryan-T-Bell/SmarterMail-RCE-49216.py,Ryan-T-Bell/SmarterMail-RCE-49216.py,540451519
 VU#29,0.50000000,https://github.com/SiJiDo/CVE-2022-22947,SiJiDo/CVE-2022-22947,527864103
+VU#29,0.50000000,https://github.com/EarthToAccess/EBGui,EarthToAccess/EBGui,527345498
 VU#29,0.50000000,https://github.com/AkbarTrilaksana/CVE-2022-32832,AkbarTrilaksana/CVE-2022-32832,516837211
 VU#29,0.50000000,https://github.com/Muirey03/CVE-2022-32832,Muirey03/CVE-2022-32832,516376265
 VU#29,0.50000000,https://github.com/rbowes-r7/manageengine-auditad-cve-2022-28219,rbowes-r7/manageengine-auditad-cve-2022-28219,509605278
@@ -276,6 +276,7 @@ VU#29,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,
 VU#29,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#29,0.00746269,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#29,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#29,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#29,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#29,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#29,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
@@ -302,7 +303,7 @@ VU#29,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detecto
 VU#29,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#29,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#29,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
-VU#29,0.00378788,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#29,0.00371747,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#29,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#29,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#29,0.00298507,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
@@ -333,7 +334,7 @@ VU#29,0.00182815,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#29,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#29,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
-VU#29,0.00108696,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00108460,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#29,0.00105263,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
