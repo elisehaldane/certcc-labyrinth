@@ -44,6 +44,7 @@ VU#80,0.14285714,https://github.com/taise-hub/log4j-poc,taise-hub/log4j-poc,4474
 VU#80,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
 VU#80,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459852128
 VU#80,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459708235
+VU#80,0.12500000,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#80,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
 VU#80,0.10000000,https://github.com/Yuhala/hacking-tuto,Yuhala/hacking-tuto,509063995
 VU#80,0.10000000,https://github.com/Divyesh-Kanagavel/hack_art,Divyesh-Kanagavel/hack_art,424978628
@@ -56,7 +57,6 @@ VU#80,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-ma
 VU#80,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3d-g0d/apache-tomcat-log4j,441536293
 VU#80,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#80,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploits,482204403
-VU#80,0.05882353,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#80,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#80,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#80,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
@@ -147,6 +147,7 @@ VU#80,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#80,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#80,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#80,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
+VU#80,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#80,0.00526316,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#80,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#80,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550

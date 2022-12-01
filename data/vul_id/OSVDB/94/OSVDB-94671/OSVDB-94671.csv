@@ -1,8 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-94671,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,572865058
 OSVDB-94671,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,572428535
 OSVDB-94671,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
 OSVDB-94671,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
 OSVDB-94671,0.03448276,https://github.com/rcvalle/exploits,rcvalle/exploits,572425991
+OSVDB-94671,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,572862655
 OSVDB-94671,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 OSVDB-94671,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 OSVDB-94671,0.00030441,https://github.com/pwnieexpress/metasploit-framework,pwnieexpress/metasploit-framework,5058277
