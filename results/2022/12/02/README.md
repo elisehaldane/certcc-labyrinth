@@ -1,0 +1,43 @@
+
+# Summary for results/2022/12/02
+    
+36 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|-----------|
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-02 04:33:28+00:00 | 646525 | 237 | REXX | 29 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-02 00:50:31+00:00 | 16231 | 49 | | 27 | [] |
+| rafaelcanoguitton/RemoteCodeExecution-Kubernetes | nan | https://github.com/rafaelcanoguitton/RemoteCodeExecution-Kubernetes | ['remote code execution'] | 1 | 2022-12-02 00:25:29+00:00 | 106 | 0 | TypeScript | 0 | [] |
+| ywoak/SnowCrash | Introduction to different kind of exploit in the form of multiple CTF | https://github.com/ywoak/SnowCrash | ['exploit'] | 1 | 2022-12-02 02:49:53+00:00 | 22677 | 1 | Shell | 0 | [] |
+| vvinoth/SatraAcademy | Vulnerable C program to practice reverse engineering & exploit development for courses like the EXP-301 / OSED. | https://github.com/vvinoth/SatraAcademy | ['exploit'] | 1 | 2022-12-02 03:50:59+00:00 | 17 | 0 | C | 0 | [] |
+| Anthem-whisper/YApi-Exploit | YApi boolean-based injection exploit. | https://github.com/Anthem-whisper/YApi-Exploit | ['exploit'] | 1 | 2022-12-02 04:45:59+00:00 | 20 | 49 | Python | 8 | [] |
+| QuoniamScripting/Huzki | Refinery Caves "exploit" | https://github.com/QuoniamScripting/Huzki | ['exploit'] | 1 | 2022-12-02 01:55:29+00:00 | 23 | 0 | Lua | 0 | [] |
+| rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-12-02 00:30:10+00:00 | 146 | 0 | Ruby | 0 | [] |
+| risesecurity/metasploit | Metasploit contributions. | https://github.com/risesecurity/metasploit | ['metasploit module OR payload'] | 1 | 2022-12-02 00:49:18+00:00 | 101 | 0 | Ruby | 0 | [] |
+| badr-elmazaz/CTFs | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | ['exploit'] | 1 | 2022-12-02 03:06:02+00:00 | 8 | 0 | Python | 0 | [] |
+| Darkz3n/DarkSploit | nan | https://github.com/Darkz3n/DarkSploit | ['sploit'] | 1 | 2022-12-02 00:08:07+00:00 | 0 | 0 | nan | 0 | [] |
+| Platless/ZeroDay-Repository | Yeah | https://github.com/Platless/ZeroDay-Repository | ['zeroday'] | 1 | 2022-12-02 00:17:57+00:00 | 0 | 0 | nan | 0 | [] |
+| ywoak/Rainfall | Binary exploitation from 0x0 to 0x4865726f | https://github.com/ywoak/Rainfall | ['exploit'] | 1 | 2022-12-02 02:21:13+00:00 | 2 | 0 | | 0 | [] |
+| ayisonspyrusu/GPAY-BALANCE-EXPLOIT | GPay balance exploit READ MORE BELOW | https://github.com/ayisonspyrusu/GPAY-BALANCE-EXPLOIT | ['exploit'] | 1 | 2022-12-02 02:16:50+00:00 | 5 | 0 | | 0 | [] |
+| Nuclearpotato69/CapySploit-Phantom-Forces | nan | https://github.com/Nuclearpotato69/CapySploit-Phantom-Forces | ['sploit'] | 1 | 2022-12-02 02:50:23+00:00 | 16 | 0 | nan | 0 | [] |
+| pienzontimr/Roblox-BloxFlip-Predictor-Exploit | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/pienzontimr/Roblox-BloxFlip-Predictor-Exploit | ['exploit'] | 1 | 2022-12-02 02:39:51+00:00 | 6 | 0 | | 0 | [] |
+| mmssr/go_injector | go shellcode injector | https://github.com/mmssr/go_injector | ['shellcode'] | 1 | 2022-12-02 03:31:10+00:00 | 1 | 0 | Go | 0 | [] |
+| meredithkime/RCES_Final_Project | None | https://github.com/meredithkime/RCES_Final_Project | ['rce'] | 1 | 2022-12-02 01:55:36+00:00 | 8 | 0 | Jupyter Notebook | 0 | [] |
+| iveresk/nvd-cve-parser | NVD parser for CVEs, CPEs and CWEs with all known used exploits | https://github.com/iveresk/nvd-cve-parser | ['exploit'] | 1 | 2022-12-02 00:18:34+00:00 | 1655 | 0 | Go | 0 | [] |
+| yeetsquad747/exploitcb | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | ['exploit'] | 1 | 2022-12-02 04:29:45+00:00 | 350 | 9 | TypeScript | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-02 04:21:12+00:00 | 10692013 | 116 | Python | 11 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-02 04:03:46+00:00 | 681116 | 66 | | 23 | [] |
+| Bw3ll/sharem | SHAREM is a shellcode analysis framework, capable of emulating more than 12,000 WinAPIs and virutally all Windows syscalls. It also contains its own custom disassembler, with many innovative features, such as being able to show the deobfuscated disassembly | https://github.com/Bw3ll/sharem | ['shellcode'] | 1 | 2022-12-02 03:29:23+00:00 | 22425 | 72 | Python | 8 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-12-02 00:37:43+00:00 | 133 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-02 04:01:24+00:00 | 297614 | 555 | Python | 144 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-02 01:36:37+00:00 | 1999 | 146 | HTML | 0 | [] |
+| F4l13n5n0w/sn0wldr | This project is an AES loader for c2 shellcode | https://github.com/F4l13n5n0w/sn0wldr | ['shellcode'] | 1 | 2022-12-02 04:20:48+00:00 | 1793 | 4 | C | 1 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-02 02:48:24+00:00 | 12623 | 4763 | TypeScript | 697 | [] |
+| fr4nc1stein/osint-framework | OSINT Framework : A python based Open Source Intelligence CLI framework similar to Metasploit. | https://github.com/fr4nc1stein/osint-framework | ['metasploit module OR payload'] | 1 | 2022-12-02 03:07:36+00:00 | 548 | 115 | Python | 25 | [] |
+| Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-12-02 00:17:17+00:00 | 9410 | 49 | C++ | 27 | [] |
+| Fnoberz/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | ['exploit'] | 1 | 2022-12-02 00:20:27+00:00 | 2234 | 52 | C++ | 27 | [] |
+| Fnoberz/Fivem-Exec | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem | https://github.com/Fnoberz/Fivem-Exec | ['exploit'] | 1 | 2022-12-02 01:42:33+00:00 | 211 | 42 | C++ | 11 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-02 04:47:08+00:00 | 19147 | 41 | Go | 14 | [] |
+| panitan-m/gamma_trans | Exploiting Labeled and Unlabeled Data via Transformer Fine-tuning for Peer-Review Score Prediction | https://github.com/panitan-m/gamma_trans | ['exploit'] | 1 | 2022-12-02 02:30:51+00:00 | 38 | 0 | Python | 0 | [] |
+| Amourousity/Conversio | Improves the compatibility of your scripts between exploits | https://github.com/Amourousity/Conversio | ['exploit'] | 1 | 2022-12-02 00:32:10+00:00 | 23 | 0 | Lua | 1 | [] |
+| JitinKGoyal/RCEW-classes | this repo contains RCEW lecture projects | https://github.com/JitinKGoyal/RCEW-classes | ['rce'] | 1 | 2022-12-02 04:49:25+00:00 | 0 | 0 | | 0 | [] |
