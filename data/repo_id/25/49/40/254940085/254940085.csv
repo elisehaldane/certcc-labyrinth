@@ -29,12 +29,12 @@ repo_id,repo_full_name,file,file_sha1,match
 254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2019-13272
 254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2019-19726
 254940085,chacka0101/exploits,privilege_escalation/linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2019-0211
-254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2011-1496
-254940085,chacka0101/exploits,privilege_escalation/linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2011-1485
+254940085,chacka0101/exploits,privilege_escalation/linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2011-1496
+254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2011-1485
 254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2017-3622
-254940085,chacka0101/exploits,privilege_escalation/linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2016-1580
-254940085,chacka0101/exploits,privilege_escalation/linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2002-1614
-254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2018-14665
+254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2016-1580
+254940085,chacka0101/exploits,linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2002-1614
+254940085,chacka0101/exploits,privilege_escalation/linpeas.sh,68709e50c1a4c362f4a79b99de95a0793402c74e,CVE-2018-14665
 254940085,chacka0101/exploits,windows/MS17-010/AutoBlue-MS17-010-master/eternalblue_exploit8.py,6b89b3217285b8d2bd2027ea888f85912b0bac5e,MS17-010
 254940085,chacka0101/exploits,struts-pwn.py,6c1b69582b929f9c87abe0fc5b187730650183b5,CVE-2017-5638
 254940085,chacka0101/exploits,windows/MS16-098.exe,6e574021474b088006b00a2eaf8c0929ca60c433,MS16-098
