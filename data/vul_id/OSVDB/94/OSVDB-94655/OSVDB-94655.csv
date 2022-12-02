@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-94655,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,573328735
 OSVDB-94655,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,572865058
 OSVDB-94655,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,572428535
 OSVDB-94655,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
