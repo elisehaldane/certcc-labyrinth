@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#120541,0.03030303,https://github.com/forse01/CVE-2019-17638-Jetty,forse01/CVE-2019-17638-Jetty,335844306
 VU#120541,0.00709220,https://github.com/SanjaySagar-Gumma/Vulnerable-Poc,SanjaySagar-Gumma/Vulnerable-Poc,533687991
-VU#120541,0.00010732,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#120541,0.00010519,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#120541,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
