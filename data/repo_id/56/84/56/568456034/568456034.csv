@@ -2,11 +2,11 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/SMB-Pentesting.md,19a8f3a3e8fc8dd226bc771eecdd647a0b4a207a,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/Apache-JServ-Protocol-Pentesting.md,32a6ba8452c8e0986bcba0bf86f014a1fc2e355a,CVE-2020-1938
 568456034,hideckies/exploit-notes,src/exploit/Gogs-Pentesting.md,32f8979dfc9f6ff33e0b7b89d309e6320bd5ebea,CVE-2014-8682
+568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,5989c39738a645867d4ef0188d3b10d824127679,CVE-2019-15107
+568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,5989c39738a645867d4ef0188d3b10d824127679,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/WordPress-Pentesting.md,7931a653de7ee332864b424697f33fef6eb362c0,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/Microsoft-Word-Pentesting.md,8201c7bf65f9c5cc5ab5651c255935a15cfb84b6,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/Atlassian-Confluence-Pentesting.md,8c096d441a5c178027a86930d44c3fdf8a9fdfa1,CVE-2022-26134
-568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,9942557d2825dd8163b5dc5eab6d70acd0e9c35e,CVE-2019-15107
-568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,9942557d2825dd8163b5dc5eab6d70acd0e9c35e,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,a9d22e9f7c1f7759cdc2d6a5cecd0e70d0794222,CVE-2021-1675
 568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,a9d22e9f7c1f7759cdc2d6a5cecd0e70d0794222,CVE-2021-34527
 568456034,hideckies/exploit-notes,src/exploit/Kibana-Pentesting.md,baf4acb4576ac56cc46771f78911b3a9b3cec588,CVE-2019-7609
