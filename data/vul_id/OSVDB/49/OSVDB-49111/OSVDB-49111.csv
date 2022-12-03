@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-49111,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,573328768
+OSVDB-49111,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,572865099
 OSVDB-49111,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,572428573
 OSVDB-49111,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,545285937
 OSVDB-49111,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,545283522
@@ -9,6 +10,7 @@ OSVDB-49111,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,
 OSVDB-49111,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
 OSVDB-49111,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
 OSVDB-49111,0.03448276,https://github.com/rcvalle/exploits,rcvalle/exploits,572425991
+OSVDB-49111,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,573326849
 OSVDB-49111,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,572862655
 OSVDB-49111,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-49111,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
