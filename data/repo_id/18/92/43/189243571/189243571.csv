@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-189243571,drb-ra/C2IntelFeeds,C2_configs/cobaltstrike.csv,aad9b2ec46ca0e6f143dfd5909fdca04b1673156,VU#29
-189243571,drb-ra/C2IntelFeeds,C2_configs/cobaltstrike.csv,aad9b2ec46ca0e6f143dfd5909fdca04b1673156,VU#48
+189243571,drb-ra/C2IntelFeeds,C2_configs/cobaltstrike.csv,4e105b01e0aeeca986e19ffee16ffc27fb8e9642,VU#29
+189243571,drb-ra/C2IntelFeeds,C2_configs/cobaltstrike.csv,4e105b01e0aeeca986e19ffee16ffc27fb8e9642,VU#48
