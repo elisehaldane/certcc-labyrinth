@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,README.md,c1e3bac63a22647bf680a4818e79a9d443ea21a6,CVE-2022-30190
-507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,bin/Release/net6.0-windows/Follina_PoC.dll,e8a3eecd4731388f5105b50f1723b0ef343e2932,CVE-2022-30190
 507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,MainWindow.xaml,f44f283c316f44e3a8b033b374cb6921e37c7343,CVE-2022-30190
 507361626,ethicalblue/Follina-CVE-2022-30190-PoC-sample,_GITHUB_REPO_METADATA_,,CVE-2022-30190
