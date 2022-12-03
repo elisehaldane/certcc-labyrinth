@@ -1,7 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-485712403,TitaniumMC/Titanium,patches/api/0043-Update-libraries.patch,75d9caa50605b107951a753fbc3c50db0761ea53,CVE-2017-18640
-485712403,TitaniumMC/Titanium,patches/api/0013-Setup-Gradle-project.patch,793e40c1ab8909cfe8687c5d7beb765f276bfccd,CVE-2017-18640
-485712403,TitaniumMC/Titanium,patches/server/0087-Implement-KigPaper-0233-Prevent-billion-laughs-attac.patch,831547318af914c628d32b049e0161ed1e49b22c,CVE-2017-18640
-485712403,TitaniumMC/Titanium,patches/api/0012-Implement-KigPaper-0070-Prevent-billion-laughs-attac.patch,8b9980e353424ed49cea7c5fbf9d7ec7abf74fe1,CVE-2017-18640
 485712403,TitaniumMC/Titanium,bin/SpecialSource.jar,8c8b5386beead4500b763a71dab3f0682065d4ff,VU#77
 485712403,TitaniumMC/Titanium,bin/SpecialSource-2.jar,96c49c5656d9a05c355296f6a4a67e40b621f0ae,VU#77
