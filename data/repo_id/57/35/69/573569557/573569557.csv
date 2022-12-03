@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+573569557,xsscx/windows,crash/photoapp/photosapp-imagedll-cve-2022-26730-internal-exception-windowsuixaml-12022022-1627.txt,05ec64b80bcf4367c538b04b93e8ebe3addf93a3,CVE-2022-26730
+573569557,xsscx/windows,crash/photoapp/photosapp-imagedll-cve-2022-26730-internal-exception-windowsuixaml-12022022-1624.txt,7638ba3bab5ce517b5698770fbae3f63fe03b99a,CVE-2022-26730
+573569557,xsscx/windows,crash/photoapp/Readme.md,9072f813e85b7e83dad83f50cf0d1cff187cf134,CVE-2022-26730
