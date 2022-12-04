@@ -1,0 +1,45 @@
+
+# Summary for results/2022/12/04
+    
+38 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-04 04:22:48+00:00 | 816943 | 28849 | Ruby | 12718 | [] |
+| nibin-m/CVE-2022-43097 | All details about CVE-2022-43097 | https://github.com/nibin-m/CVE-2022-43097 | ['cve-2 OR cve_2'] | 1 | 2022-12-04 02:07:51+00:00 | 3 | 0 | | 0 | ['CVE-2022-43097'] |
+| Christyy123/Metasploit-framework | None | https://github.com/Christyy123/Metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-04 01:55:05+00:00 | 406908 | 0 | Ruby | 0 | [] |
+| ThomasMahr/WirelessExploitation | None | https://github.com/ThomasMahr/WirelessExploitation | ['exploit'] | 1 | 2022-12-04 00:17:19+00:00 | 102 | 0 | Shell | 0 | [] |
+| gamargajdekc/EclipseWare-Free-Roblox-Exploits-v1.7 | Roblox Eclipseware Exploits over 50 in one program | https://github.com/gamargajdekc/EclipseWare-Free-Roblox-Exploits-v1.7 | ['exploit'] | 1 | 2022-12-04 00:09:05+00:00 | 5 | 0 | | 0 | [] |
+| bridanrodika7/Nyve-Keyless-Roblox-Premium-Exploit | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/bridanrodika7/Nyve-Keyless-Roblox-Premium-Exploit | ['exploit'] | 1 | 2022-12-04 00:35:01+00:00 | 5 | 0 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2o | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2o | ['exploit'] | 1 | 2022-12-04 01:04:04+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2o | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2o | ['exploit'] | 1 | 2022-12-04 01:04:52+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2o | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2o | ['exploit'] | 1 | 2022-12-04 01:05:41+00:00 | 1 | 1 | | 0 | [] |
+| kmeps4/Kme900_Manual_ESP32_S2 | PS4 Host Exploit For 9.00fw Modded For ESP32-S2 Boards | https://github.com/kmeps4/Kme900_Manual_ESP32_S2 | ['exploit'] | 1 | 2022-12-04 03:12:56+00:00 | 11078 | 1 | C | 0 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2022-12-04 01:20:55+00:00 | 762 | 166 | Julia | 34 | [] |
+| ZemarKhos/In-Memory-Encrypted-ShellCode-Runner | AES256 encrypted in-memory shellcode injector. | https://github.com/ZemarKhos/In-Memory-Encrypted-ShellCode-Runner | ['shellcode'] | 1 | 2022-12-04 03:18:24+00:00 | 3 | 0 | C# | 0 | [] |
+| rcvalle/exploits | Exploits written. | https://github.com/rcvalle/exploits | ['exploit'] | 1 | 2022-12-04 03:34:28+00:00 | 143 | 0 | Ruby | 0 | [] |
+| risesecurity/exploits | Exploits written. | https://github.com/risesecurity/exploits | ['exploit'] | 1 | 2022-12-04 03:34:20+00:00 | 74 | 0 | Ruby | 0 | [] |
+| rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-12-04 03:39:28+00:00 | 143 | 0 | Ruby | 0 | [] |
+| risesecurity/metasploit | Metasploit contributions. | https://github.com/risesecurity/metasploit | ['metasploit module OR payload'] | 1 | 2022-12-04 03:39:34+00:00 | 99 | 0 | Ruby | 0 | [] |
+| rcvalle/unixasm | UNIX Assembly Components for Proof of Concept Codes. | https://github.com/rcvalle/unixasm | ['shellcode'] | 1 | 2022-12-04 03:39:40+00:00 | 123 | 0 | C | 0 | [] |
+| risesecurity/unixasm | UNIX Assembly Components for Proof of Concept Codes. | https://github.com/risesecurity/unixasm | ['shellcode'] | 1 | 2022-12-04 03:39:46+00:00 | 123 | 0 | C | 0 | [] |
+| Acczdy/CVE-2022-24112_POC | CVE-2022-24112_POC | https://github.com/Acczdy/CVE-2022-24112_POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-12-04 03:12:17+00:00 | 15 | 0 | Python | 0 | ['CVE-2022-24112'] |
+| vrechson/single-shot | A tool designed to generate all possible payloads that can lead to RCE in blind SSRF scenarios | https://github.com/vrechson/single-shot | ['rce'] | 1 | 2022-12-04 01:22:11+00:00 | 22 | 0 | Python | 0 | [] |
+| Anthem-whisper/YApi-Exploit | YApi boolean-based injection exploit. | https://github.com/Anthem-whisper/YApi-Exploit | ['exploit'] | 1 | 2022-12-04 04:35:09+00:00 | 22 | 50 | Python | 8 | [] |
+| siegfrkn/CSCI5403_CVE20220847_Detection | None | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | ['cve-2 OR cve_2'] | 1 | 2022-12-04 00:38:02+00:00 | 1257 | 1 | C | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-04 04:33:23+00:00 | 647555 | 237 | REXX | 29 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-04 04:03:45+00:00 | 682517 | 66 | | 23 | [] |
+| skyprolk/DMSF | A Tool for Download & use Metasploit-Framework functions for Kali Linux. | https://github.com/skyprolk/DMSF | ['metasploit module OR payload'] | 1 | 2022-12-04 04:27:47+00:00 | 25 | 1 | Shell | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-04 04:01:31+00:00 | 292458 | 557 | Python | 144 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-04 01:39:57+00:00 | 2074 | 146 | HTML | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-04 04:20:56+00:00 | 10746172 | 116 | Python | 11 | [] |
+| gh0x0st/OSEP-Breaking-Chains | A collection of code snippets built to assist with breaking chains. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2022-12-04 00:13:49+00:00 | 57 | 35 | PowerShell | 17 | [] |
+| Fnoberz/Rust-External | 🌲Rust Cheating Public External Driver Kernel _ Aimbot + Esp | https://github.com/Fnoberz/Rust-External | ['exploit'] | 1 | 2022-12-04 02:25:34+00:00 | 9439 | 50 | C++ | 27 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-12-04 00:59:58+00:00 | 983 | 0 | | 0 | [] |
+| marcussacana/JB672 | My Personal PS4 Exploit Host | https://github.com/marcussacana/JB672 | ['exploit'] | 1 | 2022-12-04 02:13:32+00:00 | 1890 | 2 | JavaScript | 0 | [] |
+| teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2022-12-04 03:30:45+00:00 | 1890 | 13 | TypeScript | 1 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-04 03:35:31+00:00 | 19011 | 41 | Go | 14 | [] |
+| Slackaduts/Deimos-Wizard101 | A free and open-source exploit tool, auto farmer, and quester for Wizard101. | https://github.com/Slackaduts/Deimos-Wizard101 | ['exploit'] | 1 | 2022-12-04 02:10:16+00:00 | 83706 | 6 | Python | 7 | [] |
+| DarkNeos/ygopro-doc | Documents about exploitation of web version of ygopro | https://github.com/DarkNeos/ygopro-doc | ['exploit'] | 1 | 2022-12-04 04:02:04+00:00 | 345 | 1 | | 0 | [] |
+| yeetsquad747/exploitcb | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | ['exploit'] | 1 | 2022-12-04 02:23:39+00:00 | 408 | 12 | TypeScript | 0 | [] |
+| huan-cdm/flask_cnvd_code | 个人信息收集平台 | https://github.com/huan-cdm/flask_cnvd_code | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2022-12-04 03:45:23+00:00 | 0 | 0 | nan | 0 | [] |
