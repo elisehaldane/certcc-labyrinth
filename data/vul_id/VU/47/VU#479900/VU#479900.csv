@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#479900,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
+VU#479900,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#479900,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 VU#479900,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 VU#479900,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
