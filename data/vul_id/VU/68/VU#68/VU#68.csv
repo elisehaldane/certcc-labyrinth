@@ -5,7 +5,6 @@ VU#68,1.00000000,https://github.com/mshhlvxk/basic-easy-exploits-executor,mshhlv
 VU#68,1.00000000,https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection,SoftwareSecurityLab/Heap-Overflow-Detection,472432595
 VU#68,1.00000000,https://github.com/Axelle-Donot/Sys_Exploite,Axelle-Donot/Sys_Exploite,419242072
 VU#68,1.00000000,https://github.com/cleanunicorn/theo,cleanunicorn/theo,194830189
-VU#68,0.50000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#68,0.33333333,https://github.com/p-add/SlaveShipUI,p-add/SlaveShipUI,565057947
 VU#68,0.33333333,https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking,Jee-King/ICCV2021_Event_Frame_Tracking,391794327
 VU#68,0.33333333,https://github.com/WLYLab/ATSE,WLYLab/ATSE,378865608
@@ -84,6 +83,7 @@ VU#68,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,C
 VU#68,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#68,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#68,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
+VU#68,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#68,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#68,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#68,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
@@ -119,7 +119,7 @@ VU#68,0.01219512,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#68,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#68,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#68,0.01111111,https://github.com/merlinepedra/ANDROID-EXPLOITS,merlinepedra/ANDROID-EXPLOITS,504548727
-VU#68,0.01111111,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#68,0.01098901,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#68,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#68,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#68,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
@@ -166,8 +166,8 @@ VU#68,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#68,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#68,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#68,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
-VU#68,0.00438596,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#68,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#68,0.00421941,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#68,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#68,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#68,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
