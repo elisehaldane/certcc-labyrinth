@@ -198,7 +198,6 @@ VU#65,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#65,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#65,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#65,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#65,0.00555556,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#65,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#65,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#65,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
@@ -207,6 +206,7 @@ VU#65,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#65,0.00458716,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 VU#65,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#65,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#65,0.00438596,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#65,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#65,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#65,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
@@ -253,8 +253,8 @@ VU#65,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#65,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#65,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#65,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#65,0.00019932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#65,0.00019920,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#65,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#65,0.00010519,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#65,0.00010465,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#65,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#65,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

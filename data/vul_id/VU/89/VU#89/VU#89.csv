@@ -6,6 +6,7 @@ VU#89,1.00000000,https://github.com/tolik518/simple_webshop,tolik518/simple_webs
 VU#89,0.50000000,https://github.com/Nintendo-Homebrew/h-encore,Nintendo-Homebrew/h-encore,457115720
 VU#89,0.50000000,https://github.com/mmeza-developer/CVE-2019-5420-RCE,mmeza-developer/CVE-2019-5420-RCE,425154730
 VU#89,0.50000000,https://github.com/Panagiotis-Zachos/Ma_et_al_2017_code,Panagiotis-Zachos/Ma_et_al_2017_code,416763757
+VU#89,0.50000000,https://github.com/ameetsaahu/Browser-exploitation,ameetsaahu/Browser-exploitation,383799614
 VU#89,0.33333333,https://github.com/prodrigmd/rce,prodrigmd/rce,551749016
 VU#89,0.25000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,478494950
 VU#89,0.25000000,https://github.com/fmerizzi/color_symmetries,fmerizzi/color_symmetries,434948245
@@ -180,7 +181,6 @@ VU#89,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#89,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#89,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
 VU#89,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#89,0.00555556,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#89,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#89,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#89,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -190,6 +190,7 @@ VU#89,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#89,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#89,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#89,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#89,0.00438596,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#89,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#89,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#89,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
@@ -236,8 +237,8 @@ VU#89,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#89,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#89,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#89,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#89,0.00019932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#89,0.00019920,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#89,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#89,0.00010519,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#89,0.00010465,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#89,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#89,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871

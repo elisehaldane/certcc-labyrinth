@@ -72,6 +72,7 @@ VU#25,0.04545455,https://github.com/Samdaaman/pytasploit,Samdaaman/pytasploit,39
 VU#25,0.04347826,https://github.com/mu71l473d/linux-exploits,mu71l473d/linux-exploits,517444842
 VU#25,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,118371522
 VU#25,0.04347826,https://github.com/torque59/Nosql-Exploitation-Framework,torque59/Nosql-Exploitation-Framework,15457437
+VU#25,0.04166667,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#25,0.04166667,https://github.com/MariliaMeira/CVE-2019-14287,MariliaMeira/CVE-2019-14287,550531926
 VU#25,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#25,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
@@ -184,7 +185,6 @@ VU#25,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#25,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#25,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#25,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#25,0.00555556,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#25,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#25,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#25,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -194,6 +194,7 @@ VU#25,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#25,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#25,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#25,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#25,0.00438596,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#25,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#25,0.00427350,https://github.com/YasserGersy/cazador_unr,YasserGersy/cazador_unr,193280788
 VU#25,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
@@ -255,9 +256,9 @@ VU#25,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#25,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#25,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#25,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#25,0.00019932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00019920,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#25,0.00010519,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#25,0.00010465,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

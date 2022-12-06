@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-79RG-7MV3-JRR5,0.33333333,https://github.com/advanced-security/codeql-workshop-cve-2021-21380,advanced-security/codeql-workshop-cve-2021-21380,574737413
