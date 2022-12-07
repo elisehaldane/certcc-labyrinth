@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 567084472,anvbis/chromium_v8_n-days,cve-2020-6507.js,078a9c0837284d7445bdfd9f50ab76dfa7d21703,CVE-2020-6507
-567084472,anvbis/chromium_v8_n-days,cve-2021-21224.js,0a50f4788aebb22e344c6f3a7f77c860a128fea2,CVE-2021-21224
 567084472,anvbis/chromium_v8_n-days,cve-2022-1364.js,2ed3a20f2f9b8c8bb2bdcabfdab0b5978c1f5275,CVE-2022-1364
+567084472,anvbis/chromium_v8_n-days,cve-2021-21224.js,50eabe65666d2e3a74f6c4dbea447606e738282f,CVE-2021-21224
 567084472,anvbis/chromium_v8_n-days,cve-2021-38003.js,532776280744cc150425a9bf4f6af45fdb36d709,CVE-2021-38003
 567084472,anvbis/chromium_v8_n-days,README.md,6500b967d5d9fda8829494a05fd13f5f63929898,CVE-2021-38003
 567084472,anvbis/chromium_v8_n-days,README.md,6500b967d5d9fda8829494a05fd13f5f63929898,CVE-2021-30632
