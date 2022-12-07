@@ -1,3 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-530627080,suljov/Hacking-linux,pentest-template.ctb,e6dfbf694bee03e12ca348859d18d22e45f81d03,CVE-2008-0166
-530627080,suljov/Hacking-linux,pentest-template.ctb,e6dfbf694bee03e12ca348859d18d22e45f81d03,MS17-010
+530627080,suljov/Hacking-linux,README.md,7cff3b694a61ccf91d2914161d5737e6bf3afba7,CVE-2016-1531
