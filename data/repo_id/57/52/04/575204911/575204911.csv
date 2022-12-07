@@ -1,1 +1,7 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+575204911,Xandevistan/CVE-Exploit-Demonstration,CVE-2021-44228.md,19acb71ac85e27543e7340debbb0ac6fd6a2965c,CVE-2021-44228
+575204911,Xandevistan/CVE-Exploit-Demonstration,CVE-2014-6271.md,387216129c3817d347d3880c7d5b13dda0d23cde,CVE-2014-6271
+575204911,Xandevistan/CVE-Exploit-Demonstration,README.md,795312d24c8f6de7e179d8177ca3ed2c452a8e66,CVE-2014-6271
+575204911,Xandevistan/CVE-Exploit-Demonstration,README.md,795312d24c8f6de7e179d8177ca3ed2c452a8e66,CVE-2021-44228
+575204911,Xandevistan/CVE-Exploit-Demonstration,README.md,795312d24c8f6de7e179d8177ca3ed2c452a8e66,CVE-2022-30190
+575204911,Xandevistan/CVE-Exploit-Demonstration,CVE-2022-30190.md,b662bd5bf1426a3877865350323e7b23f9067ca9,CVE-2022-30190
