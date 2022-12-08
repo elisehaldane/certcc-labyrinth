@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#40,1.00000000,https://github.com/MoonExecutor/VoyagerExploit,MoonExecutor/VoyagerExploit,564090204
 VU#40,1.00000000,https://github.com/tj-oconnor/undergraduate-re,tj-oconnor/undergraduate-re,498448029
+VU#40,0.50000000,https://github.com/felipekkkj/NinjaExploit,felipekkkj/NinjaExploit,575645113
 VU#40,0.50000000,https://github.com/zehadkhan/Seeker_Ngrok,zehadkhan/Seeker_Ngrok,427534040
 VU#40,0.33333333,https://github.com/BartuYalcin/RobloxExploitTierra37-V1.5,BartuYalcin/RobloxExploitTierra37-V1.5,574105178
 VU#40,0.33333333,https://github.com/Werea25/Best-Exploit,Werea25/Best-Exploit,565215249
@@ -119,7 +120,6 @@ VU#40,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#40,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#40,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#40,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
-VU#40,0.01587302,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#40,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#40,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#40,0.01470588,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -174,6 +174,7 @@ VU#40,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,22274027
 VU#40,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#40,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#40,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#40,0.00492611,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#40,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#40,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#40,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
