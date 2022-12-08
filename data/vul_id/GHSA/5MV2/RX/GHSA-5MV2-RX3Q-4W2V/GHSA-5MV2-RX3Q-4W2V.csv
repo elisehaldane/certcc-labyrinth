@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-5MV2-RX3Q-4W2V,0.50000000,https://github.com/davwwwx/CVE-2022-23614,davwwwx/CVE-2022-23614,515132707
-GHSA-5MV2-RX3Q-4W2V,0.00010465,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+GHSA-5MV2-RX3Q-4W2V,0.00010406,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
