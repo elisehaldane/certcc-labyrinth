@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+575389175,dugisan3rd/exploit,cve-2014-6287/rejetto-hfs-rce.py,39bddd5bb2ef74eb0b64fe13ba064f56e53da635,CVE-2014-6287
+575389175,dugisan3rd/exploit,cve-2014-6287/README.md,6b9bc1c2ac4e0dc89d0f5ed16738c817581fba5a,CVE-2014-6287
 575389175,dugisan3rd/exploit,cve-2022-25765/README.md,8bfcc2a8787aeceb229f4fb64a131f09019f506c,CVE-2022-25765
 575389175,dugisan3rd/exploit,cve-2022-25765/pdfkit-rce.py,fef6a7d80962bab25cdcb2ba24a93083b3d085f3,CVE-2022-25765
