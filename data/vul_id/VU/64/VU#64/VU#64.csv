@@ -48,6 +48,7 @@ VU#64,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52
 VU#64,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#64,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#64,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
+VU#64,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#64,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
 VU#64,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#64,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,223697169
@@ -83,7 +84,7 @@ VU#64,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757,Shaik
 VU#64,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428,Satheesh575555/linux-4.19.72_CVE-2020-8428,475835332
 VU#64,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705,nanopathi/linux-4.19.72_CVE-2020-25705,475802420
 VU#64,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2019-19252,Satheesh575555/linux-4.19.72_CVE-2019-19252,475775145
-VU#64,0.02173913,https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX,nanopathi/KERNEL_CVE-2020-29370_FIX,475723552
+VU#64,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-29370,nanopathi/linux-4.19.72_CVE-2020-29370,475723552
 VU#64,0.02173913,https://github.com/nanopathi/CVE-2020-029370_AFTPATCH,nanopathi/CVE-2020-029370_AFTPATCH,475458227
 VU#64,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368,Satheesh575555/linux-4.19.72_CVE-2020-29368,475437174
 VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch,artsking/linux-4.19.72_CVE-2020-14386_extrapatch,448747272

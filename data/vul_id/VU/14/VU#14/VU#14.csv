@@ -42,6 +42,7 @@ VU#14,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/sa
 VU#14,0.05263158,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#14,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#14,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
+VU#14,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#14,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#14,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#14,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
@@ -82,7 +83,7 @@ VU#14,0.02173913,https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757,Shaik
 VU#14,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428,Satheesh575555/linux-4.19.72_CVE-2020-8428,475835332
 VU#14,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705,nanopathi/linux-4.19.72_CVE-2020-25705,475802420
 VU#14,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2019-19252,Satheesh575555/linux-4.19.72_CVE-2019-19252,475775145
-VU#14,0.02173913,https://github.com/nanopathi/KERNEL_CVE-2020-29370_FIX,nanopathi/KERNEL_CVE-2020-29370_FIX,475723552
+VU#14,0.02173913,https://github.com/nanopathi/linux-4.19.72_CVE-2020-29370,nanopathi/linux-4.19.72_CVE-2020-29370,475723552
 VU#14,0.02173913,https://github.com/nanopathi/CVE-2020-029370_AFTPATCH,nanopathi/CVE-2020-029370_AFTPATCH,475458227
 VU#14,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368,Satheesh575555/linux-4.19.72_CVE-2020-29368,475437174
 VU#14,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch,artsking/linux-4.19.72_CVE-2020-14386_extrapatch,448747272
