@@ -1,0 +1,42 @@
+
+# Summary for results/2022/12/10
+    
+35 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|-------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-10 00:10:55+00:00 | 827517 | 28897 | Ruby | 12740 | [] |
+| YuweiZJ/rces_final_project | nan | https://github.com/YuweiZJ/rces_final_project | ['rce'] | 1 | 2022-12-10 01:41:31+00:00 | 12971 | 0 | Jupyter Notebook | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-10 04:30:38+00:00 | 20016 | 41 | Go | 14 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2022-12-10 04:42:07+00:00 | 74439 | 3301 | Go | 391 | [] |
+| MadExploits/MadExploits | Hello there is me | https://github.com/MadExploits/MadExploits | ['exploit'] | 1 | 2022-12-10 03:16:37+00:00 | 61 | 1 | | 0 | [] |
+| SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-12-10 03:41:12+00:00 | 803 | 9 | C++ | 0 | [] |
+| yeetsquad747/exploitcb | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | ['exploit'] | 1 | 2022-12-10 03:01:40+00:00 | 319 | 16 | TypeScript | 1 | [] |
+| rrtweedy/rces-final-project | nan | https://github.com/rrtweedy/rces-final-project | ['rce'] | 1 | 2022-12-10 00:33:12+00:00 | 51533 | 0 | Jupyter Notebook | 0 | [] |
+| shockwinning/Nerd-Hub | Official Nerd Hub Roblox Exploit _ https://discord.gg/224NsX4USD | https://github.com/shockwinning/Nerd-Hub | ['exploit'] | 1 | 2022-12-10 01:26:06+00:00 | 98 | 0 | Lua | 0 | [] |
+| doudoudedi/hackEmbedded | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | ['shellcode'] | 1 | 2022-12-10 02:13:38+00:00 | 14150 | 13 | Python | 0 | [] |
+| WesleyWong420/Build-Your-Own-LOLBins | A post-exploitation toolkit to simulate the weaponization and detection of native Windows binaries based on LOLBas framework. | https://github.com/WesleyWong420/Build-Your-Own-LOLBins | ['exploit'] | 1 | 2022-12-10 01:45:17+00:00 | 56 | 1 | | 0 | [] |
+| xDaswx/StumbleExploitBot | Exploit for stumble guys with real time information sent to discord, inf gems, inf wins, free nickname changes, only base code for backup, do not distribute with api keys | https://github.com/xDaswx/StumbleExploitBot | ['exploit'] | 1 | 2022-12-10 01:18:22+00:00 | 30 | 0 | Python | 0 | [] |
+| BetterWayElectronics/syscon-guide | Guide to dumping and flashing the PS4 Syscon (Renesas R78) | https://github.com/BetterWayElectronics/syscon-guide | ['shellcode'] | 1 | 2022-12-10 01:33:16+00:00 | 12 | 0 | | 0 | [] |
+| Robloxsaw/CIHG-s-DarkX-Exploit | None | https://github.com/Robloxsaw/CIHG-s-DarkX-Exploit | ['exploit'] | 1 | 2022-12-10 02:53:21+00:00 | 2 | 0 | | 0 | [] |
+| MadExploits/Laravel-debug-Checker | CVE-2021-3129 Exploit Checker By ./MrMad | https://github.com/MadExploits/Laravel-debug-Checker | ['exploit'] | 1 | 2022-12-10 04:04:55+00:00 | 1289 | 0 | Python | 0 | ['CVE-2021-3129'] |
+| ruthzky2015/exploiter | Just a beginner | https://github.com/ruthzky2015/exploiter | ['exploit'] | 1 | 2022-12-10 03:34:39+00:00 | 0 | 0 | | 0 | [] |
+| NASA-Protocol-Exploits/handbook | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | ['exploit'] | 1 | 2022-12-10 00:30:54+00:00 | 8427 | 2 | | 2 | [] |
+| sudoaza/bof | Simple tool to detect and exploit buffer overflows. | https://github.com/sudoaza/bof | ['exploit'] | 1 | 2022-12-10 02:04:46+00:00 | 17 | 4 | Python | 0 | [] |
+| gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2022-12-10 04:51:16+00:00 | 4428 | 93 | Go | 7 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-10 01:28:06+00:00 | 2300 | 147 | HTML | 0 | [] |
+| gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2022-12-10 02:04:31+00:00 | 229 | 0 | Shell | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-10 04:33:19+00:00 | 660253 | 239 | REXX | 29 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-10 00:50:37+00:00 | 24212 | 50 | | 27 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-10 04:03:49+00:00 | 682154 | 66 | | 24 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2022-12-10 04:08:29+00:00 | 534 | 160 | Python | 20 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-10 04:01:42+00:00 | 293392 | 559 | Python | 145 | [] |
+| anvbis/anvbis.github.io | Personal blog on binary exploitation and reverse engineering. | https://github.com/anvbis/anvbis.github.io | ['exploit'] | 1 | 2022-12-10 04:54:05+00:00 | 4105 | 0 | CSS | 0 | [] |
+| GamerHack/GamerHack.github.io | All PS4 Exploits | https://github.com/GamerHack/GamerHack.github.io | ['exploit'] | 1 | 2022-12-10 00:30:23+00:00 | 19011 | 16 | JavaScript | 10 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-10 04:21:00+00:00 | 10922422 | 117 | Python | 11 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-10 04:28:14+00:00 | 12926 | 4798 | TypeScript | 701 | [] |
+| ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit'] | 1 | 2022-12-10 04:37:07+00:00 | 1073 | 0 | Ruby | 0 | [] |
+| c-herz/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/c-herz/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-12-10 03:24:41+00:00 | 74 | 39 | Python | 11 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-12-10 00:40:31+00:00 | 423512 | 5 | Jupyter Notebook | 0 | [] |
+| Fnoberz/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Fnoberz/Fortnite-External | ['exploit'] | 1 | 2022-12-10 04:36:21+00:00 | 7988 | 69 | C++ | 28 | [] |
+| Galang51011/SAKTK-Esp-Killer | Exploit | https://github.com/Galang51011/SAKTK-Esp-Killer | ['exploit'] | 1 | 2022-12-10 04:00:23+00:00 | 0 | 0 | | 0 | [] |
