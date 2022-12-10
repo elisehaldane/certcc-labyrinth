@@ -15,8 +15,8 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/v/afrog-pocs.zip,028fa453c8a3d29796cfd22b1f395039e3be6013,CVE-2021-21287
 463027648,zan8in/afrog,pocs/temp/afrog-pocs/vulnerability/apache-httpd-cve-2021-41773-rce.yaml,04d0d4586d0edd07313338442717e88ab3a78271,CVE-2021-41773
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2022/CVE-2022-1388.yaml,04d30d88ebb43bde2748d2650832a428dede9c68,CVE-2022-1388
-463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-36749.yaml,05f645934748018e9fffafc7c8e9c5ac5967082f,CVE-2021-36749
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-36749.yaml,05f645934748018e9fffafc7c8e9c5ac5967082f,CVE-2021-26920
+463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-36749.yaml,05f645934748018e9fffafc7c8e9c5ac5967082f,CVE-2021-36749
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-46417.yaml,06318cf52ff8c2127ca3dd907d54fd13aa8a9aba,CVE-2021-46417
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2020/CVE-2020-5284.yaml,07bbfb1bcd74d296046f49778619631794e2a99e,CVE-2020-5284
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2019/CVE-2019-0230.yaml,08317738f6df8e3a500b856c1c71e415d7bfa51c,CVE-2019-0230
@@ -34,6 +34,7 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-44451.yaml,1a891faaec43e0de33cc87ce68d90f02d5fcb41c,CVE-2021-44451
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2017/CVE-2017-1000028.yaml,1b5985e55695409c981be9b50df0ade703baa687,CVE-2017-1000028
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-19127.yaml,1cdf6da039715dd436ead34fc66654199d4e84c2,CVE-2018-19127
+463027648,zan8in/afrog,pocs/afrog-pocs/f-CNVD/2021/CNVD-2021-32085.yaml,1cf8a55315daa39d5ad70e2a081cf26f6faa9d2a,CNVD-2021-32085
 463027648,zan8in/afrog,pocs/temp/afrog-pocs/vulnerability/weblogic-cve-2019-2729-2.yml,1dcec9660313e23ba53df0012f5ddef16c7cac48,CVE-2019-2725
 463027648,zan8in/afrog,pocs/temp/afrog-pocs/vulnerability/weblogic-cve-2019-2729-2.yml,1dcec9660313e23ba53df0012f5ddef16c7cac48,CVE-2019-2729
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2022/CVE-2022-22965.yaml,1e3d95fb540b11619ec53569d1a0d8b8c819305a,CVE-2022-22965
@@ -122,8 +123,8 @@ repo_id,repo_full_name,file,file_sha1,match
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2018/CVE-2018-11759.yaml,5c88158070e2329d6559e03a68bdc7567c24264f,CVE-2018-11759
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2021/CVE-2021-3129.yaml,5df6ca08d1dd641bbba1e90822a13d7befa0983e,CVE-2021-3129
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2016/CVE-2016-10134.yaml,5e15f2b737b2b2ede98cc35db8db8a5079306f45,CVE-2016-10134
-463027648,zan8in/afrog,pocs/afrog-pocs/h-unreviewed/mobileiron-log4j-jndi-rce.yaml,5f4d439dcd7055644acf7c85659c65eaa698e02c,GHSA-JFH8-C2JP-5V3Q
 463027648,zan8in/afrog,pocs/afrog-pocs/h-unreviewed/mobileiron-log4j-jndi-rce.yaml,5f4d439dcd7055644acf7c85659c65eaa698e02c,CVE-2021-44228
+463027648,zan8in/afrog,pocs/afrog-pocs/h-unreviewed/mobileiron-log4j-jndi-rce.yaml,5f4d439dcd7055644acf7c85659c65eaa698e02c,GHSA-JFH8-C2JP-5V3Q
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2017/CVE-2017-9841.yaml,6330218cc53cebdc7a8dd36143d8690291c3f618,CVE-2017-9841
 463027648,zan8in/afrog,pocs/afrog-pocs/g-CVE/2017/CVE-2017-12629.yaml,634f056b2c1c18df68f9802f312f39914cc2da08,CVE-2017-12629
 463027648,zan8in/afrog,pocs/afrog-pocs/e-vulnerability/selea-targa-camera-lfi.yaml,6589451d95ffd37b7eadbe3b930a56c1cfc7893d,ZSL-2021-5616
