@@ -1,12 +1,12 @@
 
 # Summary for results/2022/12/09
     
-120 records found after deduplication
+121 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-09 01:40:32+00:00 | 818235 | 28887 | Ruby | 12737 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-12-09 13:03:55+00:00 | 21870 | 7922 | JavaScript | 1834 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-09 11:49:59+00:00 | 6880 | 119 | | 14 | [] |
 | Seba-T/MontresorBuilder | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | ['exploit'] | 1 | 2022-12-09 15:00:39+00:00 | 24 | 0 | Rust | 0 | [] |
 | wsummerhill/CSharp-Alt-Shellcode-Callbacks | A collection of (even more) alternative shellcode callback methods in CSharp | https://github.com/wsummerhill/CSharp-Alt-Shellcode-Callbacks | ['shellcode'] | 1 | 2022-12-09 18:36:27+00:00 | 68 | 33 | C# | 10 | [] |
 | the-dedsec/ZENNA-RAT | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/the-dedsec/ZENNA-RAT | ['exploit'] | 1 | 2022-12-09 08:42:30+00:00 | 507 | 0 | | 0 | [] |
@@ -41,7 +41,7 @@
 | StarGen-LbQYGEVUAQ5Qx5MPZMqr/zeroday | nan | https://github.com/StarGen-LbQYGEVUAQ5Qx5MPZMqr/zeroday | ['zeroday'] | 1 | 2022-12-09 23:45:57+00:00 | 2 | 0 | HTML | 0 | [] |
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5n | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5n | ['exploit'] | 1 | 2022-12-09 23:41:40+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5n | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5n | ['exploit'] | 1 | 2022-12-09 23:40:02+00:00 | 1 | 1 | | 0 | [] |
-| yuriisanin/CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 6 | 2022-12-09 23:56:26+00:00 | 15 | 2 | | 1 | ['CVE-2022-45025'] |
+| yuriisanin/CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 6 | 2022-12-09 23:56:26+00:00 | 15 | 2 | nan | 1 | ['CVE-2022-45025'] |
 | p3ntr/Silent-Exploits-Builder | Hackers Suite 3.2 Premium is 3-in-1 suite that can fud your file and also exploit it to pdf or doc. | https://github.com/p3ntr/Silent-Exploits-Builder | ['exploit'] | 1 | 2022-12-09 20:09:52+00:00 | 1 | 0 | | 0 | [] |
 | 0xDracarys/exploitCheck | Python Script that checks whether a version of service on a network has an online exploit associated with it | https://github.com/0xDracarys/exploitCheck | ['exploit'] | 1 | 2022-12-09 20:05:57+00:00 | 2 | 0 | Python | 0 | [] |
 | p3ntr/Hackers-Suite-3.2-Premium | FUD Crypter & Silent Exploits | https://github.com/p3ntr/Hackers-Suite-3.2-Premium | ['exploit'] | 1 | 2022-12-09 20:05:49+00:00 | 1 | 0 | | 0 | [] |
@@ -65,9 +65,9 @@
 | eb613819/CTF_CVE-2016-10033 | CTF based around CVE-2016-10033 | https://github.com/eb613819/CTF_CVE-2016-10033 | ['cve-2 OR cve_2'] | 1 | 2022-12-09 01:25:02+00:00 | 6 | 0 | Shell | 0 | ['CVE-2016-10033'] |
 | OctoLinkSCHOOL/SC0PEX | The menu for the SCOPE EXPLOIT. | https://github.com/OctoLinkSCHOOL/SC0PEX | ['exploit'] | 1 | 2022-12-09 15:19:50+00:00 | 5 | 0 | | 0 | [] |
 | tuya-cloudcutter/lightleak | Firmware version-agnostic PoC exploit for smart devices | https://github.com/tuya-cloudcutter/lightleak | ['exploit'] | 1 | 2022-12-09 18:42:19+00:00 | 74 | 4 | C | 0 | [] |
-| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-09 11:49:59+00:00 | 6880 | 119 | | 14 | [] |
 | Crashino/Dark-X-Executor | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | ['exploit'] | 1 | 2022-12-09 09:56:32+00:00 | 890 | 0 | Lua | 0 | [] |
-| dithpri/RCES | NationStates (user)scripts. Mainly for cards. | https://github.com/dithpri/RCES | ['rce'] | 1 | 2022-12-09 22:21:27+00:00 | 193 | 4 | JavaScript | 4 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-12-09 13:03:55+00:00 | 21870 | 7922 | JavaScript | 1834 | [] |
+| und3sc0n0c1d0/CVE-2022-1292 | Automation to validate the impact of the vulnerability CVE-2022-1292 on a specific system. | https://github.com/und3sc0n0c1d0/CVE-2022-1292 | ['cve-2 OR cve_2'] | 1 | 2022-12-09 06:58:25+00:00 | 6 | 1 | Shell | 0 | ['CVE-2022-1292'] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-09 04:22:32+00:00 | 10907175 | 117 | Python | 11 | [] |
 | anvbis/anvbis.github.io | Personal blog on binary exploitation and reverse engineering. | https://github.com/anvbis/anvbis.github.io | ['exploit'] | 1 | 2022-12-09 12:08:18+00:00 | 4105 | 0 | CSS | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-09 01:41:41+00:00 | 2298 | 147 | HTML | 0 | [] |
@@ -80,8 +80,8 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2022-12-09 21:46:44+00:00 | 44569 | 35 | Python | 7 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-09 04:03:54+00:00 | 683392 | 66 | | 24 | [] |
 | noraj/ctf-party | :triangular_flag_on_post: A CLI tool & library to enhance and speed up script/exploit writing with string conversion/manipulation. | https://github.com/noraj/ctf-party | ['exploit'] | 1 | 2022-12-09 08:35:18+00:00 | 395 | 48 | Ruby | 4 | [] |
+| dithpri/RCES | NationStates (user)scripts. Mainly for cards. | https://github.com/dithpri/RCES | ['rce'] | 1 | 2022-12-09 22:21:27+00:00 | 193 | 4 | JavaScript | 4 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2022-12-09 15:12:43+00:00 | 425241 | 3 | Jupyter Notebook | 0 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-09 03:42:59+00:00 | 12865 | 4791 | TypeScript | 701 | [] |
 | epsylon/Smuggler | Smuggler can detect and exploit -HTTP Smuggling- vulnerabilities. | https://github.com/epsylon/Smuggler | ['exploit'] | 1 | 2022-12-09 10:13:24+00:00 | 42 | 20 | Python | 10 | [] |
 | mzet-/z-field-manual | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | ['exploit'] | 1 | 2022-12-09 16:18:11+00:00 | 219 | 10 | Python | 4 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-09 00:50:36+00:00 | 22961 | 50 | | 27 | [] |
@@ -94,9 +94,10 @@
 | becrevex/Turandula | A random target discovery and attack framework for threat landscaping, operations, and playing adversarial informatics combat. (2016 Summer of Security Code Project POC) | https://github.com/becrevex/Turandula | ['attack poc'] | 1 | 2022-12-09 03:05:22+00:00 | 181 | 0 | Python | 0 | [] |
 | htrgouvea/spellbook | Framework for rapid development and reusable of security tools | https://github.com/htrgouvea/spellbook | ['exploit'] | 1 | 2022-12-09 10:09:52+00:00 | 72323 | 71 | Perl | 17 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-12-09 19:39:41+00:00 | 13220 | 5119 | Python | 713 | [] |
+| v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2022-12-09 08:36:45+00:00 | 37007 | 1222 | Python | 419 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2022-12-09 07:58:22+00:00 | 9060 | 35 | | 5 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-09 03:42:59+00:00 | 12865 | 4791 | TypeScript | 701 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-12-09 14:21:33+00:00 | 10377 | 17 | HTML | 5 | [] |
-| und3sc0n0c1d0/CVE-2022-1292 | Automation to validate the impact of the vulnerability CVE-2022-1292 on a specific system. | https://github.com/und3sc0n0c1d0/CVE-2022-1292 | ['cve-2 OR cve_2'] | 1 | 2022-12-09 06:58:25+00:00 | 6 | 1 | Shell | 0 | ['CVE-2022-1292'] |
 | wwl012345/Vuln-List | (持续更新)对网上出现的各种OA、中间件、CMS等漏洞进行整理，主要包括漏洞介绍、漏洞影响版本以及漏洞POC/EXP等，并且会持续更新。 | https://github.com/wwl012345/Vuln-List | ['vuln poc'] | 1 | 2022-12-09 13:26:54+00:00 | 219 | 234 | nan | 37 | [] |
 | Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-12-09 21:32:25+00:00 | 1829 | 55 | C++ | 26 | [] |
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-12-09 00:39:06+00:00 | 6616 | 53 | | 4 | [] |
