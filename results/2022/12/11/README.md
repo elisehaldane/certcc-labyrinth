@@ -1,0 +1,36 @@
+
+# Summary for results/2022/12/11
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-11 01:24:51+00:00 | 827517 | 28905 | Ruby | 12744 | [] |
+| EarthToAccess/EBGui | The quick and easy UI for EBG. | https://github.com/EarthToAccess/EBGui | ['exploit'] | 1 | 2022-12-11 01:00:09+00:00 | 8030 | 0 | Lua | 0 | [] |
+| jeshututkunr/EclipseWare-Free-Roblox-Exploits-v1.7 | Roblox Eclipseware Exploits over 50 in one program | https://github.com/jeshututkunr/EclipseWare-Free-Roblox-Exploits-v1.7 | ['exploit'] | 1 | 2022-12-11 01:57:00+00:00 | 5 | 25 | | 0 | [] |
+| cobanipiurim/Roblox-BloxFlip-Predictor-Exploit | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/cobanipiurim/Roblox-BloxFlip-Predictor-Exploit | ['exploit'] | 1 | 2022-12-11 01:28:17+00:00 | 6 | 25 | | 0 | [] |
+| haesmgodayx/GPAY-BALANCE-EXPLOIT | GPay balance exploit READ MORE BELOW | https://github.com/haesmgodayx/GPAY-BALANCE-EXPLOIT | ['exploit'] | 1 | 2022-12-11 01:17:36+00:00 | 5 | 25 | | 0 | [] |
+| TimGabrael/ShellCodeInjector | Shellcode with c/c++ | https://github.com/TimGabrael/ShellCodeInjector | ['shellcode'] | 1 | 2022-12-11 02:17:17+00:00 | 25 | 0 | C++ | 0 | [] |
+| yuriisanin/CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 6 | 2022-12-11 01:31:11+00:00 | 12996 | 20 | | 4 | ['CVE-2022-45025'] |
+| natachikhinashvili/python_exploits | None | https://github.com/natachikhinashvili/python_exploits | ['exploit'] | 1 | 2022-12-11 00:45:25+00:00 | 8 | 0 | Python | 0 | [] |
+| k0i/MyExploitDB | None | https://github.com/k0i/MyExploitDB | ['exploit'] | 1 | 2022-12-11 01:55:31+00:00 | 653 | 0 | Perl | 0 | [] |
+| JerryLIU-Junzhe/rces-final-project | None | https://github.com/JerryLIU-Junzhe/rces-final-project | ['rce'] | 1 | 2022-12-11 02:21:35+00:00 | 8548 | 0 | Jupyter Notebook | 0 | [] |
+| yeetsquad747/exploitcb | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | ['exploit'] | 1 | 2022-12-11 04:15:02+00:00 | 359 | 17 | TypeScript | 1 | [] |
+| splitsploit/laravel-rce | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO, SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/splitsploit/laravel-rce | ['exploit', 'rce'] | 2 | 2022-12-11 04:56:05+00:00 | 50 | 3 | Python | 1 | [] |
+| Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-12-11 01:25:31+00:00 | 1792 | 55 | C++ | 26 | [] |
+| rodolfomarianocy/AD-Exploitation-Basics | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | ['exploit'] | 1 | 2022-12-11 01:28:22+00:00 | 19 | 4 | | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-11 04:47:27+00:00 | 19347 | 42 | Go | 14 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-12-11 04:20:16+00:00 | 13229 | 5121 | Python | 713 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-12-11 03:50:17+00:00 | 8376 | 1144 | Go | 168 | [] |
+| c-herz/TMOHS1-Root-Utility | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/c-herz/TMOHS1-Root-Utility | ['exploit'] | 1 | 2022-12-11 02:27:50+00:00 | 75 | 39 | Python | 11 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-11 04:21:29+00:00 | 10945139 | 117 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-11 01:44:31+00:00 | 2373 | 148 | HTML | 0 | [] |
+| nobodyisnobody/write-ups | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | ['exploit'] | 1 | 2022-12-11 01:12:52+00:00 | 108173 | 45 | Python | 6 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-11 04:01:28+00:00 | 298677 | 559 | Python | 145 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-11 04:03:49+00:00 | 684271 | 66 | | 24 | [] |
+| zerotwooneone/Rice | Remote code execution for .Net! | https://github.com/zerotwooneone/Rice | ['remote code execution'] | 1 | 2022-12-11 00:19:07+00:00 | 39 | 0 | C# | 0 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2022-12-11 02:00:29+00:00 | 835 | 314 | C | 18 | [] |
+| lanaleyla/CVExerciseProductCategory2extended | None | https://github.com/lanaleyla/CVExerciseProductCategory2extended | ['cve-2 OR cve_2'] | 1 | 2022-12-11 00:35:06+00:00 | 12774 | 1 | TypeScript | 0 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-12-11 00:38:19+00:00 | 35903 | 7697 | Vue | 1605 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-11 04:35:15+00:00 | 675723 | 239 | REXX | 29 | [] |
+| RafaPPP/Piggy-GUI | gui for exploit | https://github.com/RafaPPP/Piggy-GUI | ['exploit'] | 1 | 2022-12-11 04:49:28+00:00 | 0 | 0 | Lua | 0 | [] |
