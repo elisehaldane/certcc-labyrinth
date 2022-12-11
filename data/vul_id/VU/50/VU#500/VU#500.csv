@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#500,1.00000000,https://github.com/GHa123/Dirty-COW-attack-Lab,GHa123/Dirty-COW-attack-Lab,445333110
 VU#500,1.00000000,https://github.com/Rjuhl/flipcup,Rjuhl/flipcup,437665707
+VU#500,0.14285714,https://github.com/bluewolf2778/Hta-Exploit-Downloader-Malware-Builder,bluewolf2778/Hta-Exploit-Downloader-Malware-Builder,576978852
 VU#500,0.14285714,https://github.com/RCSVVVVVOLk/Hta-Exploit-Downloader-Malware-Builder,RCSVVVVVOLk/Hta-Exploit-Downloader-Malware-Builder,569337485
 VU#500,0.14285714,https://github.com/privatenets/Hta-Exploit-Downloader-Malware-Builder,privatenets/Hta-Exploit-Downloader-Malware-Builder,560163802
 VU#500,0.14285714,https://github.com/RydeinGG/Hta-Exploit-Downloader-Malware-Builder,RydeinGG/Hta-Exploit-Downloader-Malware-Builder,559317969

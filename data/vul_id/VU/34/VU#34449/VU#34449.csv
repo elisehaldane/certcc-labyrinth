@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#34449,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
+VU#34449,0.04545455,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#34449,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
