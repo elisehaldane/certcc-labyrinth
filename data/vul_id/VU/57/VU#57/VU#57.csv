@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#57,1.00000000,https://github.com/arshpb36/Arshdeep-singh-Phishing-links-for-social-media,arshpb36/Arshdeep-singh-Phishing-links-for-social-media,550817130
 VU#57,1.00000000,https://github.com/AppInstaller-iOS-Projects/Sploit-Test,AppInstaller-iOS-Projects/Sploit-Test,499242472
 VU#57,1.00000000,https://github.com/BenjaminHornbeck6/Sploit-Test,BenjaminHornbeck6/Sploit-Test,498546314
+VU#57,0.33333333,https://github.com/ginsama01/exploit-train,ginsama01/exploit-train,525283089
 VU#57,0.33333333,https://github.com/shatternox/Forest-Fire,shatternox/Forest-Fire,520567378
 VU#57,0.33333333,https://github.com/lluismir/Data-Analysis-of-Second-hand-cars-in-UK,lluismir/Data-Analysis-of-Second-hand-cars-in-UK,502991744
 VU#57,0.33333333,https://github.com/badiea3000/RedvsBlue,badiea3000/RedvsBlue,501354130
@@ -96,7 +97,6 @@ VU#57,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#57,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#57,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#57,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
-VU#57,0.01136364,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#57,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#57,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#57,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
@@ -206,4 +206,5 @@ VU#57,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPL
 VU#57,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#57,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#57,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
+VU#57,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#57,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

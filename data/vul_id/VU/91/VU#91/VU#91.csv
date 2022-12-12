@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#91,0.50000000,https://github.com/yywing/cve-2022-0778,yywing/cve-2022-0778,477818601
 VU#91,0.50000000,https://github.com/dannyallover/exploit_C_programs,dannyallover/exploit_C_programs,432559107
 VU#91,0.50000000,https://github.com/nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,nobodyatall648/Netgear-WNAP320-Firmware-Version-2.0.3-RCE,363437561
+VU#91,0.33333333,https://github.com/Ooscaar/MALW,Ooscaar/MALW,555215011
 VU#91,0.33333333,https://github.com/podsdev/ratExploiter,podsdev/ratExploiter,504743780
 VU#91,0.33333333,https://github.com/by-black6/Black-Sploit,by-black6/Black-Sploit,497718781
 VU#91,0.25000000,https://github.com/dnr6419/CVE-2021-32157,dnr6419/CVE-2021-32157,485596660
@@ -96,7 +97,6 @@ VU#91,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,3370
 VU#91,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#91,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#91,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
-VU#91,0.01136364,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#91,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#91,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#91,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938

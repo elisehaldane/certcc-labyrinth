@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-JH82-C5JW-PXPC,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-JH82-C5JW-PXPC,0.00001441,https://github.com/trickest/cve,trickest/cve,454015416
