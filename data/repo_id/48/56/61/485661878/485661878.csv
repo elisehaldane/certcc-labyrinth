@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-485661878,doudoudedi/hackEmbedded,README.md,4d6a649af49e2725ec6139d401b74bfcbebc4302,CVE-2021-20270
-485661878,doudoudedi/hackEmbedded,README.md,4d6a649af49e2725ec6139d401b74bfcbebc4302,CVE-2021-29921
-485661878,doudoudedi/hackEmbedded,README.md,4d6a649af49e2725ec6139d401b74bfcbebc4302,CVE-2022-40023
+485661878,doudoudedi/hackEmbedded,README.md,b24714a04f0d4e5756f4614160060b933e6eae4f,CVE-2021-20270
+485661878,doudoudedi/hackEmbedded,README.md,b24714a04f0d4e5756f4614160060b933e6eae4f,CVE-2021-29921
+485661878,doudoudedi/hackEmbedded,README.md,b24714a04f0d4e5756f4614160060b933e6eae4f,CVE-2022-40023
 485661878,doudoudedi/hackEmbedded,setup.py,e03716a1f44bd917d46144e95d01f0a18498850e,CVE-2021-20270
 485661878,doudoudedi/hackEmbedded,setup.py,e03716a1f44bd917d46144e95d01f0a18498850e,CVE-2022-40023
