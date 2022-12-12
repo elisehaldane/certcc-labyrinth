@@ -1,0 +1,36 @@
+
+# Summary for results/2022/12/12
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|-----------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-12-12 03:43:13+00:00 | 13329 | 5121 | Python | 713 | [] |
+| ginsama01/exploit-train | None | https://github.com/ginsama01/exploit-train | ['exploit'] | 1 | 2022-12-12 01:40:32+00:00 | 15576 | 0 | C | 0 | [] |
+| PopLabSec/Apache-Exploits-List | None | https://github.com/PopLabSec/Apache-Exploits-List | ['exploit'] | 1 | 2022-12-12 01:39:06+00:00 | 5 | 0 | | 0 | [] |
+| cheatxrbx/Exploits | None | https://github.com/cheatxrbx/Exploits | ['exploit'] | 1 | 2022-12-12 00:08:38+00:00 | 16 | 0 | Lua | 0 | [] |
+| tymyrddin/red-bo | Buffer overflow exploits | https://github.com/tymyrddin/red-bo | ['exploit'] | 1 | 2022-12-12 03:20:09+00:00 | 478 | 0 | Python | 0 | [] |
+| jsteinberg4/cve-retrieval | An information retrieval task focused on NIST's descriptions of Common Vulnerability Exploits (CVEs). | https://github.com/jsteinberg4/cve-retrieval | ['exploit'] | 1 | 2022-12-12 01:16:26+00:00 | 8066 | 0 | Jupyter Notebook | 0 | [] |
+| 7coinSec/ThinkPhp6LangRceTools | None | https://github.com/7coinSec/ThinkPhp6LangRceTools | ['rce'] | 1 | 2022-12-12 00:35:31+00:00 | 23 | 2 | Python | 0 | [] |
+| ck9/PoCcollector | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | ['exploit'] | 1 | 2022-12-12 03:01:29+00:00 | 397 | 0 | Python | 0 | [] |
+| shockwinning/Nerd-Hub | Official Nerd Hub Roblox Exploit _ https://discord.gg/224NsX4USD | https://github.com/shockwinning/Nerd-Hub | ['exploit'] | 1 | 2022-12-12 02:01:41+00:00 | 137 | 0 | Lua | 0 | [] |
+| skraynick/PythonExploitFramework | None | https://github.com/skraynick/PythonExploitFramework | ['exploit'] | 1 | 2022-12-12 00:20:47+00:00 | 24 | 0 | Python | 0 | [] |
+| JitinKGoyal/RCEW-classes | this repo contains RCEW lecture projects | https://github.com/JitinKGoyal/RCEW-classes | ['rce'] | 1 | 2022-12-12 03:52:04+00:00 | 903 | 0 | JavaScript | 0 | [] |
+| yeetsquad747/exploitcb | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | ['exploit'] | 1 | 2022-12-12 01:12:18+00:00 | 364 | 18 | TypeScript | 1 | [] |
+| Whoopsunix/fastjson_study | fastjson poc 1.2.24-1.2.80 & vulns & check | https://github.com/Whoopsunix/fastjson_study | ['vuln poc'] | 1 | 2022-12-12 03:22:24+00:00 | 545 | 2 | nan | 1 | [] |
+| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-12 00:49:37+00:00 | 270 | 21 | Rust | 2 | [] |
+| R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-12-12 01:47:42+00:00 | 6617 | 54 | | 4 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-12 04:35:29+00:00 | 668770 | 239 | REXX | 29 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-12 03:14:32+00:00 | 19977 | 42 | Go | 14 | [] |
+| AndresFDev/PS4Exploit900 | None | https://github.com/AndresFDev/PS4Exploit900 | ['exploit'] | 1 | 2022-12-12 00:09:25+00:00 | 9670 | 0 | JavaScript | 0 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-12-12 03:04:04+00:00 | 8418 | 1146 | Go | 168 | [] |
+| aaafarrr/Workshop | Filled the event as a speaker with a discussion about web exploitation. | https://github.com/aaafarrr/Workshop | ['exploit'] | 1 | 2022-12-12 02:45:03+00:00 | 52 | 1 | CSS | 0 | [] |
+| notplu/Nullify | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | ['exploit'] | 1 | 2022-12-12 00:24:16+00:00 | 129 | 11 | JavaScript | 20 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-12 02:43:45+00:00 | 12944 | 4801 | TypeScript | 702 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-12 04:21:14+00:00 | 10946479 | 118 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-12 01:41:09+00:00 | 2375 | 149 | HTML | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-12 04:01:25+00:00 | 290455 | 559 | Python | 145 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-12-12 00:44:29+00:00 | 136 | 0 | PHP | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-12 04:03:50+00:00 | 684809 | 66 | | 24 | [] |
+| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2022-12-12 01:27:06+00:00 | 451 | 502 | Rust | 31 | [] |
+| bibo318/HackTheBox-exploits | # HackTheBox > Công cụ, ghi chú và khai thác tùy chỉnh | https://github.com/bibo318/HackTheBox-exploits | ['exploit'] | 1 | 2022-12-12 03:42:45+00:00 | 0 | 0 | | 0 | [] |
