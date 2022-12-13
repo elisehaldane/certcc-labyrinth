@@ -14,6 +14,7 @@ VU#63,0.50000000,https://github.com/ZeraTS/Rogue-UI,ZeraTS/Rogue-UI,500670474
 VU#63,0.50000000,https://github.com/b4sm/multi-shellcode-runner,b4sm/multi-shellcode-runner,497385588
 VU#63,0.50000000,https://github.com/burpheart/ping2rce,burpheart/ping2rce,493664890
 VU#63,0.50000000,https://github.com/tasox/Apophis,tasox/Apophis,469466961
+VU#63,0.50000000,https://github.com/nam3lum/exploits,nam3lum/exploits,417676162
 VU#63,0.50000000,https://github.com/Xenyax/AllExploits,Xenyax/AllExploits,417584183
 VU#63,0.33333333,https://github.com/rafaelcanoguitton/RemoteCodeExecution-Kubernetes,rafaelcanoguitton/RemoteCodeExecution-Kubernetes,568231729
 VU#63,0.33333333,https://github.com/Yasmineoueslati/Jalon_1_NLP,Yasmineoueslati/Jalon_1_NLP,554212123
@@ -170,7 +171,6 @@ VU#63,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-New
 VU#63,0.01408451,https://github.com/dn0sar/frontal_poc,dn0sar/frontal_poc,275815738
 VU#63,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#63,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
-VU#63,0.01351351,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#63,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 VU#63,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#63,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
@@ -179,6 +179,7 @@ VU#63,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#63,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#63,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#63,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
+VU#63,0.01250000,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#63,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#63,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
 VU#63,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
