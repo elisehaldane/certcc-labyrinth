@@ -1,12 +1,12 @@
 
 # Summary for results/2022/12/12
     
-115 records found after deduplication
+117 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-12 16:37:27+00:00 | 828542 | 28920 | Ruby | 12750 | [] |
-| patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement | None | https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement | ['exploit'] | 1 | 2022-12-12 15:48:12+00:00 | 415186 | 0 | Python | 0 | [] |
+| JitinKGoyal/RCEW-classes | this repo contains RCEW lecture projects | https://github.com/JitinKGoyal/RCEW-classes | ['rce'] | 1 | 2022-12-12 03:52:04+00:00 | 903 | 0 | JavaScript | 0 | [] |
 | agnihackers/CVE-2022-36537-EXPLOIT | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-12-12 09:49:03+00:00 | 13679 | 4 | Python | 2 | ['CVE-2022-36537'] |
 | YemiReble/simple_shell | A Simple Shell Program built with C | https://github.com/YemiReble/simple_shell | ['shellcode'] | 1 | 2022-12-12 16:56:47+00:00 | 32 | 0 | C | 0 | [] |
 | dugisan3rd/exploit | None | https://github.com/dugisan3rd/exploit | ['exploit'] | 1 | 2022-12-12 16:38:36+00:00 | 14 | 0 | Python | 0 | [] |
@@ -19,8 +19,8 @@
 | skraynick/PythonExploitFramework | None | https://github.com/skraynick/PythonExploitFramework | ['exploit'] | 1 | 2022-12-12 00:20:47+00:00 | 24 | 0 | Python | 0 | [] |
 | stanlyonhack/snippet_rce | None | https://github.com/stanlyonhack/snippet_rce | ['rce'] | 1 | 2022-12-12 21:41:35+00:00 | 4 | 0 | | 0 | [] |
 | kusk/rce.sh | Website | https://github.com/kusk/rce.sh | ['rce'] | 1 | 2022-12-12 22:02:58+00:00 | 54 | 0 | HTML | 0 | [] |
-| JitinKGoyal/RCEW-classes | this repo contains RCEW lecture projects | https://github.com/JitinKGoyal/RCEW-classes | ['rce'] | 1 | 2022-12-12 03:52:04+00:00 | 903 | 0 | JavaScript | 0 | [] |
 | ywoak/Rainfall | Binary exploitation from 0x0 to 0x4865726f | https://github.com/ywoak/Rainfall | ['exploit'] | 1 | 2022-12-12 14:41:10+00:00 | 16 | 0 | | 0 | [] |
+| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-12 00:49:37+00:00 | 270 | 21 | Rust | 2 | [] |
 | CompeyDev/nemo | Nemo - An offensive Remote Access Trojan & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | ['exploit'] | 1 | 2022-12-12 14:35:30+00:00 | 21097 | 8 | Go | 1 | [] |
 | snowcra5h/CVE-2003-0358 | By passing an overly large string when invoking nethack, it is possible to corrupt memory. jnethack and falconseye are also prone to this vulnerability. | https://github.com/snowcra5h/CVE-2003-0358 | ['cve-2 OR cve_2'] | 1 | 2022-12-12 21:49:23+00:00 | 10 | 0 | C | 0 | ['CVE-2003-0358'] |
 | KilianSD/Exploitation | None | https://github.com/KilianSD/Exploitation | ['exploit'] | 1 | 2022-12-12 10:03:36+00:00 | 75 | 0 | | 0 | [] |
@@ -32,9 +32,10 @@
 | pro-rat/IMAGE-RAT | Android hacking with Image | https://github.com/pro-rat/IMAGE-RAT | ['exploit'] | 1 | 2022-12-12 13:19:38+00:00 | 144 | 6 | | 1 | [] |
 | pythonbrad/django_form | An survey creator that exploit the power of Django’s forms API. | https://github.com/pythonbrad/django_form | ['exploit'] | 1 | 2022-12-12 12:24:56+00:00 | 498 | 0 | Python | 0 | [] |
 | coinspect/learn-evm-attacks | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | ['exploit'] | 1 | 2022-12-12 19:13:01+00:00 | 4519 | 21 | Solidity | 4 | [] |
+| MainDabRblx/KiwiExploitsDocs | The UNOFFICIAL Kiwi Documentation website. | https://github.com/MainDabRblx/KiwiExploitsDocs | ['exploit'] | 1 | 2022-12-12 11:06:32+00:00 | 91413 | 0 | | 1 | [] |
 | ck9/PoCcollector | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | ['exploit'] | 1 | 2022-12-12 03:01:29+00:00 | 397 | 0 | Python | 0 | [] |
+| patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement | None | https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement | ['exploit'] | 1 | 2022-12-12 15:48:12+00:00 | 415186 | 0 | Python | 0 | [] |
 | 7coinSec/ThinkPhp6LangRceTools | None | https://github.com/7coinSec/ThinkPhp6LangRceTools | ['rce'] | 1 | 2022-12-12 00:35:31+00:00 | 23 | 2 | Python | 0 | [] |
-| Whoopsunix/fastjson_study | fastjson poc 1.2.24-1.2.80 & vulns & check | https://github.com/Whoopsunix/fastjson_study | ['vuln poc'] | 1 | 2022-12-12 03:22:24+00:00 | 545 | 2 | nan | 1 | [] |
 | jsteinberg4/cve-retrieval | An information retrieval task focused on NIST's descriptions of Common Vulnerability Exploits (CVEs). | https://github.com/jsteinberg4/cve-retrieval | ['exploit'] | 1 | 2022-12-12 01:16:26+00:00 | 8066 | 0 | Jupyter Notebook | 0 | [] |
 | ahmedbejaouiJS/vulnerability_exploiting | This repo will show you how to exploit each one of the top 10 web vulnerability | https://github.com/ahmedbejaouiJS/vulnerability_exploiting | ['exploit'] | 1 | 2022-12-12 21:11:22+00:00 | 0 | 1 | | 0 | [] |
 | 0x4xel/Bat-Potato | Automating Juicy Potato Local Privilege Escalation CMD exploit for penetration testers. | https://github.com/0x4xel/Bat-Potato | ['exploit'] | 1 | 2022-12-12 21:04:24+00:00 | 680 | 0 | Python | 0 | [] |
@@ -44,7 +45,7 @@
 | devengpk/CVE-2022-22965 | None | https://github.com/devengpk/CVE-2022-22965 | ['cve-2 OR cve_2'] | 1 | 2022-12-12 17:00:12+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-22965'] |
 | restdone/exploit_restdone | None | https://github.com/restdone/exploit_restdone | ['exploit'] | 1 | 2022-12-12 16:20:29+00:00 | 0 | 0 | | 0 | [] |
 | Antoine1616/hello | Exploit. Données fi. | https://github.com/Antoine1616/hello | ['exploit'] | 1 | 2022-12-12 14:33:16+00:00 | 0 | 0 | | 0 | [] |
-| v0lp3/CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | ['cve-2 OR cve_2'] | 1 | 2022-12-12 13:46:51+00:00 | 2 | 0 | Python | 0 | ['CVE-2022-39066'] |
+| v0lp3/CVE-2022-39066 | Proof of concept of the SQL injection vulnerability affecting the ZTE MF286R router. | https://github.com/v0lp3/CVE-2022-39066 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2022-12-12 19:18:59+00:00 | 5 | 5 | Python | 0 | ['CVE-2022-39066'] |
 | CukierDev/JAN-ac-exploit | None | https://github.com/CukierDev/JAN-ac-exploit | ['exploit'] | 1 | 2022-12-12 14:18:26+00:00 | 22 | 0 | | 0 | [] |
 | taramakie/ExploitMemo | None | https://github.com/taramakie/ExploitMemo | ['exploit'] | 1 | 2022-12-12 13:41:36+00:00 | 0 | 0 | | 0 | [] |
 | lemonlove7/thinkphp6_lang_rce | None | https://github.com/lemonlove7/thinkphp6_lang_rce | ['rce'] | 1 | 2022-12-12 13:38:30+00:00 | 20 | 1 | Python | 0 | [] |
@@ -61,10 +62,10 @@
 | PopLabSec/Apache-Exploits-List | None | https://github.com/PopLabSec/Apache-Exploits-List | ['exploit'] | 1 | 2022-12-12 01:39:06+00:00 | 5 | 0 | | 0 | [] |
 | cheatxrbx/Exploits | None | https://github.com/cheatxrbx/Exploits | ['exploit'] | 1 | 2022-12-12 00:08:38+00:00 | 16 | 0 | Lua | 0 | [] |
 | tymyrddin/red-bo | Buffer overflow exploits | https://github.com/tymyrddin/red-bo | ['exploit'] | 1 | 2022-12-12 03:20:09+00:00 | 478 | 0 | Python | 0 | [] |
-| MainDabRblx/KiwiExploitsDocs | The UNOFFICIAL Kiwi Documentation website. | https://github.com/MainDabRblx/KiwiExploitsDocs | ['exploit'] | 1 | 2022-12-12 11:06:32+00:00 | 91413 | 0 | | 1 | [] |
-| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-12 00:49:37+00:00 | 270 | 21 | Rust | 2 | [] |
+| Whoopsunix/fastjson_study | fastjson poc 1.2.24-1.2.80 & vulns & check | https://github.com/Whoopsunix/fastjson_study | ['vuln poc'] | 1 | 2022-12-12 03:22:24+00:00 | 545 | 2 | nan | 1 | [] |
+| KATERGaming/Roblox | Exploiting | https://github.com/KATERGaming/Roblox | ['exploit'] | 1 | 2022-12-12 09:37:09+00:00 | 1120 | 0 | Lua | 0 | [] |
 | rapid7/metasploit-credential | Code for modeling and managing credentials in Metasploit, implemented as a Rails Engine | https://github.com/rapid7/metasploit-credential | ['metasploit module OR payload'] | 1 | 2022-12-12 16:16:43+00:00 | 1663 | 29 | Ruby | 33 | [] |
-| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-12 02:43:45+00:00 | 12944 | 4801 | TypeScript | 702 | [] |
+| ails-lab/with | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | ['exploit'] | 1 | 2022-12-12 14:01:05+00:00 | 107073 | 1 | Java | 2 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-12 01:41:09+00:00 | 2375 | 149 | HTML | 0 | [] |
 | CQEN-QDCE/aws-sso-scim-goclient | Client Go pour exploiter l'API SCIM de AWS SSO | https://github.com/CQEN-QDCE/aws-sso-scim-goclient | ['exploit'] | 1 | 2022-12-12 18:31:04+00:00 | 35 | 1 | Go | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-12 04:01:25+00:00 | 290455 | 559 | Python | 145 | [] |
@@ -76,8 +77,9 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-12 04:03:50+00:00 | 684809 | 66 | | 24 | [] |
 | 2lstudios-mc/FlameCord | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2022-12-12 23:02:49+00:00 | 1131 | 190 | Shell | 127 | [] |
 | vandavey/DotnetCat | Remote command shell application written in C#, targeting the .NET 6 runtime. | https://github.com/vandavey/DotnetCat | ['rce'] | 1 | 2022-12-12 04:52:22+00:00 | 796629 | 20 | C# | 1 | [] |
-| ails-lab/with | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | ['exploit'] | 1 | 2022-12-12 14:01:05+00:00 | 107073 | 1 | Java | 2 | [] |
+| DeimosC2/DeimosC2 | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | ['exploit'] | 1 | 2022-12-12 12:40:44+00:00 | 99854 | 856 | Vue | 140 | [] |
 | Mili-NT/exploits | Some practice in writing exploits in python. I am not responsible for any illegal usage of the enclosed tools, should you be colossally stupid enough to use them for such. | https://github.com/Mili-NT/exploits | ['exploit'] | 1 | 2022-12-12 21:23:12+00:00 | 55 | 2 | Python | 2 | [] |
+| Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-12-12 18:54:11+00:00 | 1797 | 54 | C++ | 26 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-12 15:01:39+00:00 | 16257 | 50 | | 27 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2022-12-12 01:27:06+00:00 | 451 | 502 | Rust | 31 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2022-12-12 10:04:54+00:00 | 36073 | 7711 | Vue | 1605 | [] |
@@ -91,17 +93,17 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-12-12 03:43:13+00:00 | 13329 | 5121 | Python | 713 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2022-12-12 22:01:25+00:00 | 60957 | 1362 | C | 619 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-12 04:21:14+00:00 | 10946479 | 118 | Python | 11 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-12 02:43:45+00:00 | 12944 | 4801 | TypeScript | 702 | [] |
 | florayfr1/Vulnerability-Exploitation-Predition | None | https://github.com/florayfr1/Vulnerability-Exploitation-Predition | ['exploit'] | 1 | 2022-12-12 05:25:50+00:00 | 71895 | 0 | Python | 0 | [] |
-| KATERGaming/Roblox | Exploiting | https://github.com/KATERGaming/Roblox | ['exploit'] | 1 | 2022-12-12 09:37:09+00:00 | 1120 | 0 | Lua | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2022-12-12 18:10:34+00:00 | 10385 | 17 | HTML | 5 | [] |
-| Fnoberz/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Fnoberz/Valorant.External | ['exploit'] | 1 | 2022-12-12 18:54:11+00:00 | 1797 | 54 | C++ | 26 | [] |
 | Moonjack/Exploits | Binary Hacking, Patching | https://github.com/Moonjack/Exploits | ['exploit'] | 1 | 2022-12-12 09:51:08+00:00 | 8 | 0 | C | 0 | [] |
 | ginsama01/exploit-train | None | https://github.com/ginsama01/exploit-train | ['exploit'] | 1 | 2022-12-12 01:40:32+00:00 | 15576 | 0 | C | 0 | [] |
 | Rinzlller/python-sploits | nan | https://github.com/Rinzlller/python-sploits | ['sploit'] | 1 | 2022-12-12 13:07:34+00:00 | 29 | 0 | Python | 0 | [] |
 | LocalSmail/Finity | Finity is a sleek GUI Library for roblox exploits or games to have a nice, Impressive and customisable GUI for their users. Discord: https://discord.gg/CenXcThBFv | https://github.com/LocalSmail/Finity | ['exploit'] | 1 | 2022-12-12 19:41:26+00:00 | 3823 | 7 | Lua | 1 | [] |
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-12-12 01:47:42+00:00 | 6617 | 54 | | 4 | [] |
+| RainVaporeon/InvGui | An utility mod for various GUI exploits | https://github.com/RainVaporeon/InvGui | ['exploit'] | 1 | 2022-12-12 03:00:02+00:00 | 3813 | 5 | Java | 0 | [] |
 | vaarg/AutoKali | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali Linux that aren't included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | ['exploit'] | 1 | 2022-12-12 23:12:54+00:00 | 122 | 1 | Shell | 0 | [] |
-| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2022-12-12 15:35:07+00:00 | 47557 | 3307 | Go | 391 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2022-12-12 20:33:52+00:00 | 47557 | 3307 | Go | 391 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-12 03:14:32+00:00 | 19977 | 42 | Go | 14 | [] |
 | AndresFDev/PS4Exploit900 | None | https://github.com/AndresFDev/PS4Exploit900 | ['exploit'] | 1 | 2022-12-12 00:09:25+00:00 | 9670 | 0 | JavaScript | 0 | [] |
 | DragonTechRoyale/CTF-Solutions | Solutions and exploits of CTF challenges I've successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | ['exploit'] | 1 | 2022-12-12 14:34:47+00:00 | 11625 | 3 | Python | 0 | [] |
