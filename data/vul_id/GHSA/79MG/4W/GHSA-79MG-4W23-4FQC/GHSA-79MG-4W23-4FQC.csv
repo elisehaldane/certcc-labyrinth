@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-79MG-4W23-4FQC,0.50000000,https://github.com/W0rty/CVE-2021-39165,W0rty/CVE-2021-39165,470280427
-GHSA-79MG-4W23-4FQC,0.00010406,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+GHSA-79MG-4W23-4FQC,0.00010386,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
