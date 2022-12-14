@@ -13,5 +13,6 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/WordPress-Pentesting.md,afe381b0143cee92c8a631b93a07c135f16d62f2,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/Kibana-Pentesting.md,baf4acb4576ac56cc46771f78911b3a9b3cec588,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/Grafana-Pentesting.md,cc538c09d10e0e467b0676bdfe890f2ddf206aad,CVE-2021-43798
-568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,f21cce98df6c298e258c074a8ce6407ed617fe2a,CVE-2022-21699
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,f21cce98df6c298e258c074a8ce6407ed617fe2a,GHSA-PQ7M-3GW7-GQ5X
+568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,f21cce98df6c298e258c074a8ce6407ed617fe2a,CVE-2022-21699
+568456034,hideckies/exploit-notes,src/exploit/PwnKit.md,f59cb333a15811158067de4552633f24e0bf77f5,CVE-2021-4034
