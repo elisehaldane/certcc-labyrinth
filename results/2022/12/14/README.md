@@ -1,0 +1,32 @@
+
+# Summary for results/2022/12/14
+    
+25 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|-----------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-14 01:57:32+00:00 | 830302 | 28925 | Ruby | 12756 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-12-14 02:31:51+00:00 | 8529 | 1148 | Go | 171 | [] |
+| ajmilazzo/pwn-k8s | A highly exploitable, overly privileged kubernetes deployment + exploit script. | https://github.com/ajmilazzo/pwn-k8s | ['exploit'] | 1 | 2022-12-14 01:39:24+00:00 | 214 | 0 | Shell | 0 | [] |
+| userse31/obigo_teleca_exploits | What happens when you mix an autist and a lowend feature phone with wifi? Uncovered bugs appearently... These html files target the embedded "teleca/obigo" browser on the LG 306g | https://github.com/userse31/obigo_teleca_exploits | ['exploit'] | 1 | 2022-12-14 00:41:06+00:00 | 3 | 0 | HTML | 0 | [] |
+| rohitpatil03/Vulnerable-Calculator | Made a WebApp which is Vulnerable to Command injection. Can you crack it? | https://github.com/rohitpatil03/Vulnerable-Calculator | ['command injection'] | 1 | 2022-12-14 04:16:48+00:00 | 1264 | 0 | JavaScript | 0 | [] |
+| tymyrddin/red-bof | Buffer overflow exploits | https://github.com/tymyrddin/red-bof | ['exploit'] | 1 | 2022-12-14 02:07:44+00:00 | 1121 | 0 | Python | 0 | [] |
+| ScanEnts3D/ScanEnts3D.github.io | ScanEnts3D: Exploiting Phrase-to-3D-Object Correspondences for Improved Visio-Linguistic Models in 3D Scenes Paper Website | https://github.com/ScanEnts3D/ScanEnts3D.github.io | ['exploit'] | 1 | 2022-12-14 04:15:48+00:00 | 9585 | 0 | JavaScript | 0 | [] |
+| WesleyWong420/Build-Your-Own-LOLBins | A post-exploitation toolkit to simulate the weaponization and detection of native Windows binaries based on LOLBas framework. | https://github.com/WesleyWong420/Build-Your-Own-LOLBins | ['exploit'] | 1 | 2022-12-14 04:51:08+00:00 | 59 | 1 | | 0 | [] |
+| GatoGamer1155/Hashicorp-Consul-RCE-via-API | Exploit of RCE for gain reverse shell (bash) in Hashicorp Consul on Remote Command Execution via API | https://github.com/GatoGamer1155/Hashicorp-Consul-RCE-via-API | ['exploit', 'rce'] | 2 | 2022-12-14 04:39:59+00:00 | 3 | 6 | Python | 0 | [] |
+| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-14 02:58:05+00:00 | 337 | 26 | Rust | 2 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-14 01:02:25+00:00 | 6944 | 121 | | 14 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-14 04:31:30+00:00 | 20028 | 42 | Go | 14 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-12-14 00:41:42+00:00 | 433448 | 6 | Jupyter Notebook | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-14 04:35:00+00:00 | 672331 | 239 | REXX | 29 | [] |
+| ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit', 'shellcode'] | 2 | 2022-12-14 02:56:47+00:00 | 1004 | 0 | Ruby | 0 | [] |
+| notplu/Nullify | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | ['exploit'] | 1 | 2022-12-14 02:47:09+00:00 | 141 | 11 | JavaScript | 20 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-14 04:22:34+00:00 | 11030975 | 118 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-14 01:40:48+00:00 | 2450 | 149 | HTML | 0 | [] |
+| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2022-12-14 01:29:51+00:00 | 452 | 0 | HTML | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-14 04:01:30+00:00 | 298022 | 559 | Python | 146 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-12-14 04:35:22+00:00 | 125 | 0 | PHP | 0 | [] |
+| lcvvvv/kscan | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | ['exploit'] | 1 | 2022-12-14 03:02:59+00:00 | 85027 | 2414 | Go | 355 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-14 04:03:51+00:00 | 680375 | 67 | | 24 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-14 00:50:40+00:00 | 17759 | 50 | | 27 | [] |
+| meru-golang/VRChat-PoC | We have collected the actual available Exploit. | https://github.com/meru-golang/VRChat-PoC | ['exploit'] | 1 | 2022-12-14 04:53:06+00:00 | 0 | 0 | | 0 | [] |
