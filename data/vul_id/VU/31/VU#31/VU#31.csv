@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#31,1.00000000,https://github.com/cawfree/opensea-submarine,cawfree/opensea-submarine,516797290
 VU#31,1.00000000,https://github.com/hugohouri/ace1,hugohouri/ace1,491879050
 VU#31,1.00000000,https://github.com/sugsly/Exploits,sugsly/Exploits,471596630
-VU#31,1.00000000,https://github.com/Dofikalty/Exploite,Dofikalty/Exploite,448678317
 VU#31,1.00000000,https://github.com/iaur/tde-wp,iaur/tde-wp,291452355
 VU#31,0.50000000,https://github.com/PANWEITING/exploit,PANWEITING/exploit,522422319
 VU#31,0.50000000,https://github.com/TheGraySpy/ParrotSploit-Open-Source,TheGraySpy/ParrotSploit-Open-Source,453699887
@@ -240,7 +239,7 @@ VU#31,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#31,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#31,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#31,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#31,0.00019916,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#31,0.00019908,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#31,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#31,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#31,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
