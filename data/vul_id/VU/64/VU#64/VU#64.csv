@@ -22,6 +22,7 @@ VU#64,0.33333333,https://github.com/acecilia/OpenWRTInvasion,acecilia/OpenWRTInv
 VU#64,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#64,0.25000000,https://github.com/parmoo/parmoo,parmoo/parmoo,449011189
 VU#64,0.25000000,https://github.com/oscargilg1/CVEs,oscargilg1/CVEs,412688812
+VU#64,0.25000000,https://github.com/vandavey/DotnetCat,vandavey/DotnetCat,284355862
 VU#64,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#64,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
 VU#64,0.20000000,https://github.com/smallkirby/kernelpwn,smallkirby/kernelpwn,281656185
@@ -55,6 +56,7 @@ VU#64,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,2236
 VU#64,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#64,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#64,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
+VU#64,0.04000000,https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220,Trinadh465/linux-3.0.35_CVE-2019-10220,578462667
 VU#64,0.04000000,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#64,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405,nidhi7598/linux-3.0.35_CVE-2018-13405,563680842
 VU#64,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
