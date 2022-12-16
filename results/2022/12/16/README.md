@@ -1,0 +1,36 @@
+
+# Summary for results/2022/12/16
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|-------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-16 04:15:54+00:00 | 829138 | 28941 | Ruby | 12758 | [] |
+| zan8in/afrog | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-12-16 04:45:21+00:00 | 8717 | 1149 | Go | 172 | [] |
+| TasosY2K/camera-exploit-tool | Automated exploit scanner for cameras on the internet | https://github.com/TasosY2K/camera-exploit-tool | ['exploit'] | 1 | 2022-12-16 01:56:41+00:00 | 3326 | 1 | Python | 0 | [] |
+| BrianWalczak/GoGuardian-Scope | Scope for GoGuardian, a DNS exploit to manage protected settings on enterprised-enrolled devices. | https://github.com/BrianWalczak/GoGuardian-Scope | ['exploit'] | 1 | 2022-12-16 02:32:53+00:00 | 31 | 0 | JavaScript | 0 | [] |
+| shockwinning/Nerd-Hub | Official Nerd Hub Roblox Exploit _ https://discord.gg/224NsX4USD | https://github.com/shockwinning/Nerd-Hub | ['exploit'] | 1 | 2022-12-16 00:41:18+00:00 | 159 | 0 | Lua | 1 | [] |
+| BassamGraini/CVE-2022-2588 | nan | https://github.com/BassamGraini/CVE-2022-2588 | ['cve-2 OR cve_2'] | 1 | 2022-12-16 01:03:41+00:00 | 118 | 7 | C | 3 | ['CVE-2022-2588'] |
+| CGB-CoolGamerBoy/CGBX | CGB Exploit | https://github.com/CGB-CoolGamerBoy/CGBX | ['exploit'] | 1 | 2022-12-16 04:56:28+00:00 | 7 | 0 | | 0 | [] |
+| TaiPhung217/CVE-PoC | None | https://github.com/TaiPhung217/CVE-PoC | ['cve poc'] | 1 | 2022-12-16 03:43:38+00:00 | 15 | 0 | Java | 0 | [] |
+| Inplex-sys/windows-extension-exploit | Exploit for Windows extension, it can hide the .exe extension and replace it with any other extension | https://github.com/Inplex-sys/windows-extension-exploit | ['0day', 'exploit'] | 2 | 2022-12-16 00:04:25+00:00 | 9 | 4 | Python | 2 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-16 01:02:00+00:00 | 6979 | 120 | | 14 | [] |
+| c99tn/xSMTP | xSMTP 🦟 Lightning fast, multithreaded smtp scanner targeting open-relay and unsecured servers in multiple network ranges. | https://github.com/c99tn/xSMTP | ['exploit'] | 1 | 2022-12-16 04:25:27+00:00 | 4276 | 37 | Python | 11 | [] |
+| Calvindd2f/Methodologies | Exploitation & Other Techniques | https://github.com/Calvindd2f/Methodologies | ['exploit'] | 1 | 2022-12-16 01:08:45+00:00 | 461 | 1 | PowerShell | 0 | [] |
+| Kccarr6022/Web_dev_bootcamp | COMPLETELY REDONE WITH OVER 500 BRAND NEW VIDEOS! Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course. This course was just completely overhauled to prepare students for the 2022 job market, wit | https://github.com/Kccarr6022/Web_dev_bootcamp | ['command injection'] | 1 | 2022-12-16 04:46:19+00:00 | 2079 | 0 | JavaScript | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-16 04:09:06+00:00 | 19864 | 41 | Go | 14 | [] |
+| Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2022-12-16 04:40:04+00:00 | 693 | 0 | | 0 | [] |
+| codingo/NoSQLMap | Automated NoSQL database enumeration and web application exploitation tool. | https://github.com/codingo/NoSQLMap | ['exploit'] | 1 | 2022-12-16 04:12:02+00:00 | 977 | 2239 | Python | 536 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-12-16 00:35:08+00:00 | 441965 | 6 | Jupyter Notebook | 0 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-16 03:44:27+00:00 | 15397 | 4808 | TypeScript | 702 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-16 04:20:54+00:00 | 11104647 | 117 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-16 01:27:33+00:00 | 2527 | 148 | HTML | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-16 04:01:25+00:00 | 295098 | 558 | Python | 147 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-12-16 00:44:30+00:00 | 126 | 0 | PHP | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-16 04:03:51+00:00 | 684148 | 66 | | 24 | [] |
+| vandavey/DotnetCat | Remote command shell application written in C#, targeting the .NET 7 runtime. | https://github.com/vandavey/DotnetCat | ['rce'] | 1 | 2022-12-16 00:37:20+00:00 | 809895 | 20 | C# | 1 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-16 00:50:42+00:00 | 20182 | 49 | | 27 | [] |
+| PacktPublishing/Mastering-Metasploit | Mastering Metasploit, published by Packt | https://github.com/PacktPublishing/Mastering-Metasploit | ['metasploit module OR payload'] | 1 | 2022-12-16 04:05:42+00:00 | 106346 | 8 | Ruby | 6 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-16 04:35:20+00:00 | 674231 | 238 | REXX | 29 | [] |
+| PacktPublishing/Mobile-Device-Exploitation-Cookbook | Mobile Device Exploitation Cookbook by Packt Publishing | https://github.com/PacktPublishing/Mobile-Device-Exploitation-Cookbook | ['exploit'] | 1 | 2022-12-16 04:08:29+00:00 | 3 | 2 | | 1 | [] |
+| adamwp1993/Intro2BufferOverflow | Some scripts used in TCM securitys Practical Ethical hacking course for learning how to find and write buffer overflow exploits. | https://github.com/adamwp1993/Intro2BufferOverflow | ['exploit'] | 1 | 2022-12-16 02:36:45+00:00 | 6 | 0 | Python | 0 | [] |
