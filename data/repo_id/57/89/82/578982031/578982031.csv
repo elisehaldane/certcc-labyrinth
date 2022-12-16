@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+578982031,quynhold/Detect-CVE-2017-0144-attack,README.md,1f4456e0eac0df33f4f6c6adb93cadaae8f8ca7b,CVE-2017-0144
+578982031,quynhold/Detect-CVE-2017-0144-attack,README.md,1f4456e0eac0df33f4f6c6adb93cadaae8f8ca7b,MS17-010
+578982031,quynhold/Detect-CVE-2017-0144-attack,_GITHUB_REPO_METADATA_,,CVE-2017-0144
