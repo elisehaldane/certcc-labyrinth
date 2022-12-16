@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-60835,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,578926954
 BID-60835,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,575732774
 BID-60835,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,575308669
 BID-60835,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,574808301
@@ -9,6 +10,7 @@ BID-60835,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,57
 BID-60835,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
 BID-60835,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
 BID-60835,0.03448276,https://github.com/rcvalle/exploits,rcvalle/exploits,572425991
+BID-60835,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,578924823
 BID-60835,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,575730495
 BID-60835,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,575306429
 BID-60835,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,574806521
