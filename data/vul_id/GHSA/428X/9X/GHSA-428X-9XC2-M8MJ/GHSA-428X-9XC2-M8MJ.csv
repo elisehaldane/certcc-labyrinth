@@ -1,3 +1,2 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-428X-9XC2-M8MJ,0.01851852,https://github.com/ARPSyndicate/cvemon,ARPSyndicate/cvemon,357427484
 GHSA-428X-9XC2-M8MJ,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
-VU#25,0.33333333,https://github.com/p-add/SlaveShipUI,p-add/SlaveShipUI,565057947
 VU#25,0.33333333,https://github.com/asivery/netmd-exploits,asivery/netmd-exploits,506032174
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
@@ -269,7 +268,7 @@ VU#25,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#25,0.00019908,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#25,0.00010386,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#25,0.00007783,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#25,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
