@@ -1,0 +1,27 @@
+
+# Summary for results/2022/12/17
+    
+20 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-17 00:22:13+00:00 | 832396 | 28946 | Ruby | 12763 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-17 04:33:30+00:00 | 674712 | 238 | REXX | 29 | [] |
+| zwclose/CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | ['cve-2 OR cve_2'] | 1 | 2022-12-17 01:26:49+00:00 | 1060 | 0 | C++ | 0 | ['CVE-2021-26258'] |
+| L1GH7/Vaultiris | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | ['exploit'] | 1 | 2022-12-17 04:39:15+00:00 | 3435545 | 2 | | 0 | [] |
+| Turzum/ps-lab-cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | ['cve-2 OR cve_2'] | 1 | 2022-12-17 00:12:39+00:00 | 25 | 1 | C | 1 | ['CVE-2022-0847'] |
+| SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-12-17 02:40:59+00:00 | 809 | 10 | C++ | 1 | [] |
+| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-17 02:38:37+00:00 | 450 | 36 | Rust | 2 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-17 01:01:44+00:00 | 6991 | 120 | | 14 | [] |
+| Cryptogenic/PS5-IPV6-Kernel-Exploit | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on <= 4.51FW | https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit | ['exploit'] | 1 | 2022-12-17 01:24:12+00:00 | 176 | 737 | JavaScript | 59 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2022-12-17 01:00:41+00:00 | 47562 | 3310 | Go | 393 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-17 04:47:08+00:00 | 20555 | 41 | Go | 14 | [] |
+| Slackes/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Slackes/Fortnite-External | ['exploit'] | 1 | 2022-12-17 00:31:15+00:00 | 8051 | 71 | C++ | 30 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2022-12-17 00:31:56+00:00 | 441967 | 6 | Jupyter Notebook | 0 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-17 04:20:44+00:00 | 11137891 | 117 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-17 01:24:56+00:00 | 2598 | 148 | HTML | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-17 04:02:12+00:00 | 299653 | 560 | Python | 147 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-17 04:03:58+00:00 | 685390 | 66 | | 24 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-17 00:50:43+00:00 | 21189 | 50 | | 27 | [] |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2022-12-17 00:03:14+00:00 | 589 | 171 | Java | 43 | [] |
+| AudreyWash/Exploit-Development-Fuzzing-Code | None | https://github.com/AudreyWash/Exploit-Development-Fuzzing-Code | ['exploit'] | 1 | 2022-12-17 02:10:29+00:00 | 4 | 0 | Python | 0 | [] |
