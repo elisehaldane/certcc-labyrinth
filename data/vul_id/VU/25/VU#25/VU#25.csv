@@ -18,7 +18,6 @@ VU#25,0.14285714,https://github.com/adevrent/vol_products_ftx,adevrent/vol_produ
 VU#25,0.14285714,https://github.com/HG-Arman/metasploit-easy-,HG-Arman/metasploit-easy-,512732900
 VU#25,0.14285714,https://github.com/chryskar/karakasis2020exploiting,chryskar/karakasis2020exploiting,434408982
 VU#25,0.14285714,https://github.com/32bitmeterpreterwastaken/LucidHub,32bitmeterpreterwastaken/LucidHub,403512067
-VU#25,0.12500000,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#25,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
 VU#25,0.12500000,https://github.com/helmutrocco13/helmutrocco13.github.io,helmutrocco13/helmutrocco13.github.io,280519933
 VU#25,0.12500000,https://github.com/SoftFeta/tempusespatium,SoftFeta/tempusespatium,117782285
@@ -26,6 +25,7 @@ VU#25,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
 VU#25,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#25,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#25,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
+VU#25,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#25,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
 VU#25,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowbase/active-directory-abuse-notes,522582748
 VU#25,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,436316308
@@ -41,10 +41,10 @@ VU#25,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV
 VU#25,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#25,0.07692308,https://github.com/pucarasec/zuthaka,pucarasec/zuthaka,311746408
 VU#25,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
-VU#25,0.07142857,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#25,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#25,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#25,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
+VU#25,0.06666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#25,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
 VU#25,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
 VU#25,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
@@ -207,6 +207,7 @@ VU#25,0.00427350,https://github.com/YasserGersy/cazador_unr,YasserGersy/cazador_
 VU#25,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#25,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#25,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
+VU#25,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#25,0.00371747,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#25,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#25,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
