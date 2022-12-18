@@ -28,6 +28,7 @@ VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base,Ni
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old,Nivaskumark/CVE-2020-0074-frameworks_base_old,431903208
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_after,Nivaskumark/CVE-2020-0097-frameworks_base_after,431898818
 VU#43,0.25000000,https://github.com/PaulNicolasHunter/That_Vulnerable_React_App,PaulNicolasHunter/That_Vulnerable_React_App,385317545
+VU#43,0.25000000,https://github.com/vandavey/DotnetCat,vandavey/DotnetCat,284355862
 VU#43,0.20000000,https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271,SaumyajeetDas/POC-of-CVE-2022-36271,525521767
 VU#43,0.20000000,https://github.com/meowmeowxw/kernel-exploits,meowmeowxw/kernel-exploits,340351462
 VU#43,0.20000000,https://github.com/7rebux/league-tools,7rebux/league-tools,307498322
@@ -191,7 +192,7 @@ VU#43,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,53698180
 VU#43,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#43,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#43,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#43,0.00564972,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#43,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#43,0.00537634,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#43,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#43,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
