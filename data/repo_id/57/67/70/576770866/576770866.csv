@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-576770866,ck9/PoCcollector,src/packetstorm/main.py,a1c15614f44550c5f655f05a8614423c23e04f74,CVE-2020-25736
-576770866,ck9/PoCcollector,src/functions.py,dcc488e156f6c80a5f45555f560bfcf6e68c6e80,CVE-2021-20837
+576770866,ck9/PoCcollector,src/functions.py,01eb1dab63b38b293229df0286536b6a22dec5c1,CVE-2021-20837
+576770866,ck9/PoCcollector,src/packetstorm/main.py,5f2bc8202185617c4613abfa70172c71e15ec0aa,CVE-2020-25736
