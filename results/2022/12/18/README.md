@@ -1,12 +1,13 @@
 
 # Summary for results/2022/12/18
     
-102 records found after deduplication
+103 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2022-12-18 10:14:08+00:00 | 5870 | 3570 | Python | 737 | [] |
-| natachikhinashvili/python_exploits | None | https://github.com/natachikhinashvili/python_exploits | ['exploit'] | 1 | 2022-12-18 13:32:23+00:00 | 9 | 0 | Python | 0 | [] |
+| xtormin/exploits | Compilation of exploits and compiled exploits | https://github.com/xtormin/exploits | ['exploit'] | 1 | 2022-12-18 18:49:02+00:00 | 33 | 0 | Python | 0 | [] |
+| vineelsai26/RCE | Remote Code Execution engine in Go | https://github.com/vineelsai26/RCE | ['rce', 'remote code execution'] | 2 | 2022-12-18 17:02:43+00:00 | 24 | 0 | Go | 0 | [] |
 | QuangoEnterprise/Sploit | None | https://github.com/QuangoEnterprise/Sploit | ['sploit'] | 1 | 2022-12-18 23:47:20+00:00 | 23 | 0 | Python | 0 | [] |
 | taramakie/ExploitMemo | None | https://github.com/taramakie/ExploitMemo | ['exploit'] | 1 | 2022-12-18 14:09:26+00:00 | 1 | 0 | | 0 | [] |
 | hashibuto/shellfire | Generate shellcode from a human readable YAML manifest | https://github.com/hashibuto/shellfire | ['shellcode'] | 1 | 2022-12-18 02:52:57+00:00 | 1361 | 0 | Go | 0 | [] |
@@ -16,9 +17,9 @@
 | WesleyWong420/Build-Your-Own-LOLBins | A post-exploitation toolkit to simulate the weaponization and detection of native Windows binaries based on LOLBas framework. | https://github.com/WesleyWong420/Build-Your-Own-LOLBins | ['exploit'] | 1 | 2022-12-18 14:30:27+00:00 | 306 | 1 | | 0 | [] |
 | 110111-1/DS-OPENFOODFACT-SANTE | Décrire, nettoyer, exploiter les données pour la mise en place et la présententation d'une application diététique | https://github.com/110111-1/DS-OPENFOODFACT-SANTE | ['exploit'] | 1 | 2022-12-18 17:12:03+00:00 | 9996 | 0 | Jupyter Notebook | 0 | [] |
 | shockwinning/Nerd-Hub | Official Nerd Hub Roblox Exploit _ https://discord.gg/224NsX4USD | https://github.com/shockwinning/Nerd-Hub | ['exploit'] | 1 | 2022-12-18 09:42:29+00:00 | 462 | 0 | Lua | 1 | [] |
-| xtormin/exploits | Compilation of exploits and compiled exploits | https://github.com/xtormin/exploits | ['exploit'] | 1 | 2022-12-18 18:49:02+00:00 | 33 | 0 | Python | 0 | [] |
+| natachikhinashvili/python_exploits | None | https://github.com/natachikhinashvili/python_exploits | ['exploit'] | 1 | 2022-12-18 13:32:23+00:00 | 9 | 0 | Python | 0 | [] |
+| kwxk/Rutgers_Cyber_Range | The "Scarlet Castle Cyber-Range" (SCCR) is a proposed cyberinfrastructure meant for students to test information security skills. SCCR aims to model industry-level cyberinfrastructure; it also has some Common Vulnerability Exploits (CVEs) built into its in | https://github.com/kwxk/Rutgers_Cyber_Range | ['exploit'] | 1 | 2022-12-18 15:38:00+00:00 | 31 | 0 | Shell | 0 | [] |
 | JitinKGoyal/RCEW-classes | this repo contains RCEW lecture projects | https://github.com/JitinKGoyal/RCEW-classes | ['rce'] | 1 | 2022-12-18 05:08:05+00:00 | 934 | 1 | JavaScript | 0 | [] |
-| zwclose/CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | ['cve-2 OR cve_2'] | 1 | 2022-12-18 03:14:54+00:00 | 1060 | 0 | C++ | 0 | ['CVE-2021-26258'] |
 | rtrshm/22fa-exploit | None | https://github.com/rtrshm/22fa-exploit | ['exploit'] | 1 | 2022-12-18 02:21:56+00:00 | 15 | 0 | Python | 0 | [] |
 | CompeyDev/nemo | Nemo - An offensive Remote Access Tool & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | ['exploit'] | 1 | 2022-12-18 13:19:53+00:00 | 24072 | 10 | Go | 2 | [] |
 | DiscordMaster1/Roblox-Exploit | None | https://github.com/DiscordMaster1/Roblox-Exploit | ['exploit'] | 1 | 2022-12-18 09:05:18+00:00 | 2 | 0 | Lua | 0 | [] |
@@ -28,23 +29,23 @@
 | p-add/SlaveShipUI | SlaveShip UI is a Roblox™ Prison Life V2.0 Exploit. It features a script hub and a custom section to where you can change all of the UI in the game to your preference. It's now just waiting for you. Known BUG: SirHurt fails to execute it. | https://github.com/p-add/SlaveShipUI | ['exploit'] | 1 | 2022-12-18 15:39:28+00:00 | 443 | 0 | Lua | 0 | [] |
 | yeetsquad747/exploitcb | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | ['exploit'] | 1 | 2022-12-18 01:55:25+00:00 | 455 | 17 | TypeScript | 1 | [] |
 | SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-12-18 16:57:33+00:00 | 811 | 10 | C++ | 1 | [] |
-| JD2344/SecGen_Exploits | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | ['exploit'] | 1 | 2022-12-18 14:00:21+00:00 | 1162 | 0 | Ruby | 0 | [] |
-| vineelsai26/RCE | Remote Code Execution engine in Go | https://github.com/vineelsai26/RCE | ['rce', 'remote code execution'] | 2 | 2022-12-18 17:02:43+00:00 | 24 | 0 | Go | 0 | [] |
-| kwxk/Rutgers_Cyber_Range | The "Scarlet Castle Cyber-Range" (SCCR) is a proposed cyberinfrastructure meant for students to test information security skills. SCCR aims to model industry-level cyberinfrastructure; it also has some Common Vulnerability Exploits (CVEs) built into its in | https://github.com/kwxk/Rutgers_Cyber_Range | ['exploit'] | 1 | 2022-12-18 15:38:00+00:00 | 31 | 0 | Shell | 0 | [] |
-| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-12-18 11:55:04+00:00 | 78941 | 12458 | Jupyter Notebook | 2138 | [] |
-| kinderscsaa/CVE-Test-POC | zero-day | https://github.com/kinderscsaa/CVE-Test-POC | ['cve poc'] | 1 | 2022-12-18 12:46:19+00:00 | 3 | 0 | Python | 0 | [] |
+| zwclose/CVE-2021-26258 | Files and tools for CVE-2021-26258 | https://github.com/zwclose/CVE-2021-26258 | ['cve-2 OR cve_2'] | 1 | 2022-12-18 03:14:54+00:00 | 1060 | 0 | C++ | 0 | ['CVE-2021-26258'] |
+| MushyToast/Clientada | A client-based DataStore accessor for Roblox with anti-exploit features. | https://github.com/MushyToast/Clientada | ['exploit'] | 1 | 2022-12-18 01:28:24+00:00 | 29 | 0 | | 0 | [] |
+| Alendaa/Scripts | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | ['exploit'] | 1 | 2022-12-18 05:38:12+00:00 | 5190 | 0 | | 0 | [] |
+| nvicloud/ctf_win_exploits | None | https://github.com/nvicloud/ctf_win_exploits | ['exploit'] | 1 | 2022-12-18 14:59:48+00:00 | 18646 | 0 | PowerShell | 0 | [] |
 | jmau111-org/rsgen | Very light reverse shell generator made with Bash for various CLIr 😈 🧢 | https://github.com/jmau111-org/rsgen | ['rce'] | 1 | 2022-12-18 22:22:19+00:00 | 13 | 0 | Shell | 0 | [] |
 | FoonixVR/VRChat-Exploits | A list of vrchat payloads n' shit | https://github.com/FoonixVR/VRChat-Exploits | ['exploit'] | 1 | 2022-12-18 21:39:17+00:00 | 0 | 0 | | 0 | [] |
 | pukpuker/ets2_money | BUILD FOR ETS VERSION: 1.46.2.11s (x32 & x64) | https://github.com/pukpuker/ets2_money | ['exploit'] | 1 | 2022-12-18 22:48:50+00:00 | 45 | 0 | | 0 | [] |
 | samiulsumel/Metasploit-Meterpreter | Information to complete the room | https://github.com/samiulsumel/Metasploit-Meterpreter | ['metasploit module OR payload'] | 1 | 2022-12-18 20:23:33+00:00 | 1 | 0 | | 0 | [] |
 | pablocastelao/afd | An automated file download script/package for post-exploitation stages using Espanso Text Expander | https://github.com/pablocastelao/afd | ['exploit'] | 1 | 2022-12-18 20:03:16+00:00 | 2549 | 0 | Python | 0 | [] |
+| ChristianLCL/metasploitW | Metasploit de Windows | https://github.com/ChristianLCL/metasploitW | ['metasploit module OR payload'] | 1 | 2022-12-18 17:18:08+00:00 | 44 | 0 | | 0 | [] |
 | trhacknon/Exploiter2 | None | https://github.com/trhacknon/Exploiter2 | ['exploit'] | 1 | 2022-12-18 14:30:08+00:00 | 39 | 0 | Python | 0 | [] |
 | SauravMaheshkar/CryptoCat-Pwn-Series | Walkthrough accompanying the Practical Buffer Overflow Exploitation Series from CryptoCat (https://youtube.com/playlist?list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94) | https://github.com/SauravMaheshkar/CryptoCat-Pwn-Series | ['exploit'] | 1 | 2022-12-18 14:03:48+00:00 | 2 | 0 | Dockerfile | 0 | [] |
 | fylhtq03/exploit | None | https://github.com/fylhtq03/exploit | ['exploit'] | 1 | 2022-12-18 14:11:20+00:00 | 142 | 0 | | 0 | [] |
 | nvicloud/ctf_lin_exploits | None | https://github.com/nvicloud/ctf_lin_exploits | ['exploit'] | 1 | 2022-12-18 14:50:33+00:00 | 13981 | 0 | Shell | 0 | [] |
-| nvicloud/ctf_win_exploits | None | https://github.com/nvicloud/ctf_win_exploits | ['exploit'] | 1 | 2022-12-18 14:59:48+00:00 | 18646 | 0 | PowerShell | 0 | [] |
+| kinderscsaa/CVE-Test-POC | zero-day | https://github.com/kinderscsaa/CVE-Test-POC | ['cve poc'] | 1 | 2022-12-18 12:46:19+00:00 | 3 | 0 | Python | 0 | [] |
+| Duckiduc/smartmove | [Award winning solutionSmart at Vivatech's hackathon] MOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one's carbon footprint, by exploiting all the resources of one's ci | https://github.com/Duckiduc/smartmove | ['exploit'] | 1 | 2022-12-18 02:02:02+00:00 | 2205 | 0 | TypeScript | 0 | [] |
 | risesecurity/unixasm | UNIX Assembly Components for Proof of Concept Codes. | https://github.com/risesecurity/unixasm | ['shellcode'] | 1 | 2022-12-18 08:04:24+00:00 | 123 | 0 | C | 0 | [] |
-| MushyToast/Clientada | A client-based DataStore accessor for Roblox with anti-exploit features. | https://github.com/MushyToast/Clientada | ['exploit'] | 1 | 2022-12-18 01:28:24+00:00 | 29 | 0 | | 0 | [] |
 | rcvalle/unixasm | UNIX Assembly Components for Proof of Concept Codes. | https://github.com/rcvalle/unixasm | ['shellcode'] | 1 | 2022-12-18 08:04:18+00:00 | 123 | 0 | C | 0 | [] |
 | risesecurity/metasploit | Metasploit contributions. | https://github.com/risesecurity/metasploit | ['metasploit module OR payload'] | 1 | 2022-12-18 08:09:53+00:00 | 101 | 0 | Ruby | 0 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2022-12-18 08:10:14+00:00 | 151 | 0 | Ruby | 0 | [] |
@@ -54,10 +55,9 @@
 | HackerZjYy/JNDI-Injection-Exploit | None | https://github.com/HackerZjYy/JNDI-Injection-Exploit | ['exploit'] | 1 | 2022-12-18 05:28:11+00:00 | 1 | 0 | | 0 | [] |
 | Exploitables/Gigabyte-Driver-Exploit | Blah blah blah you used a public DoS poc to make this blah blah blah. I don't give a shit. | https://github.com/Exploitables/Gigabyte-Driver-Exploit | ['exploit'] | 1 | 2022-12-18 04:15:49+00:00 | 0 | 0 | C | 0 | [] |
 | SauravMaheshkar/binary-exploitation-template | Template Repository for Binary Exploitation | https://github.com/SauravMaheshkar/binary-exploitation-template | ['exploit'] | 1 | 2022-12-18 04:07:51+00:00 | 1 | 0 | Dockerfile | 0 | [] |
-| Duckiduc/smartmove | [Award winning solutionSmart at Vivatech's hackathon] MOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one's carbon footprint, by exploiting all the resources of one's ci | https://github.com/Duckiduc/smartmove | ['exploit'] | 1 | 2022-12-18 02:02:02+00:00 | 2205 | 0 | TypeScript | 0 | [] |
-| Alendaa/Scripts | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | ['exploit'] | 1 | 2022-12-18 05:38:12+00:00 | 5190 | 0 | | 0 | [] |
+| JD2344/SecGen_Exploits | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | ['exploit'] | 1 | 2022-12-18 14:00:21+00:00 | 1162 | 0 | Ruby | 0 | [] |
 | BerryGud1/ZeroDay | None | https://github.com/BerryGud1/ZeroDay | ['zeroday'] | 1 | 2022-12-18 17:49:46+00:00 | 18356 | 0 | Lua | 0 | [] |
-| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-18 23:17:09+00:00 | 517 | 37 | Rust | 2 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2022-12-18 11:55:04+00:00 | 78941 | 12458 | Jupyter Notebook | 2138 | [] |
 | nobodyisnobody/write-ups | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | ['exploit'] | 1 | 2022-12-18 00:25:47+00:00 | 109599 | 49 | Python | 6 | [] |
 | Slackes/Fivem-Source | 💉 Lua Executor , Open Source C++ _ Exec + Dumper Scripts + Bypass | https://github.com/Slackes/Fivem-Source | ['exploit'] | 1 | 2022-12-18 16:46:57+00:00 | 2288 | 54 | C++ | 28 | [] |
 | Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2022-12-18 00:38:27+00:00 | 820 | 0 | | 0 | [] |
@@ -70,7 +70,7 @@
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-18 04:20:58+00:00 | 11144882 | 119 | Python | 11 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-18 01:26:57+00:00 | 2602 | 149 | HTML | 1 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2022-12-18 13:27:35+00:00 | 183 | 287 | Python | 52 | [] |
-| KATERGaming/Roblox | Exploiting | https://github.com/KATERGaming/Roblox | ['exploit'] | 1 | 2022-12-18 01:36:25+00:00 | 2276 | 0 | Lua | 0 | [] |
+| Slackes/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Slackes/Fortnite-External | ['exploit'] | 1 | 2022-12-18 05:57:20+00:00 | 8058 | 72 | C++ | 30 | [] |
 | bigblackhat/oFx | 漏洞批量验证框架 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-12-18 16:55:15+00:00 | 10420 | 542 | Python | 123 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-18 04:01:28+00:00 | 292172 | 560 | Python | 147 | [] |
 | zeroknowledgediscovery/qbiome | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | ['exploit'] | 1 | 2022-12-18 03:22:49+00:00 | 76412 | 0 | Jupyter Notebook | 0 | [] |
@@ -82,9 +82,10 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-18 04:33:05+00:00 | 682597 | 239 | REXX | 29 | [] |
 | crozone/SpectrePoC | Proof of concept code for the Spectre CPU exploit. | https://github.com/crozone/SpectrePoC | ['exploit'] | 1 | 2022-12-18 23:53:44+00:00 | 59 | 270 | C | 87 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2022-12-18 13:50:06+00:00 | 139931 | 3867 | HTML | 480 | [] |
-| Slackes/Fortnite-External | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat _ Aimbot + Esp | https://github.com/Slackes/Fortnite-External | ['exploit'] | 1 | 2022-12-18 05:57:20+00:00 | 8058 | 72 | C++ | 30 | [] |
 | Slackes/Rust-internal | ⚔️ Rust Cheat Internal Release Follow Step in Videos _ Work in last Patch | https://github.com/Slackes/Rust-internal | ['exploit'] | 1 | 2022-12-18 17:36:00+00:00 | 249 | 33 | C# | 8 | [] |
-| sh4rknado/CTF | ZeroDay-CVE | https://github.com/sh4rknado/CTF | ['zeroday'] | 1 | 2022-12-18 12:23:25+00:00 | 51689 | 0 | Shell | 0 | [] |
+| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-18 23:17:09+00:00 | 517 | 37 | Rust | 2 | [] |
+| G00Dway/BlestSploit | BlestSploit Framework, Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | ['exploit', 'sploit'] | 2 | 2022-12-18 19:21:32+00:00 | 287 | 16 | Python | 3 | [] |
+| KATERGaming/Roblox | Exploiting | https://github.com/KATERGaming/Roblox | ['exploit'] | 1 | 2022-12-18 01:36:25+00:00 | 2276 | 0 | Lua | 0 | [] |
 | tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-18 01:01:32+00:00 | 7008 | 120 | | 14 | [] |
 | Slackes/Valorant.External | 🔫 Valorant Cheat External Public Relesase _ Aimbot + Esp + Skin Changers | https://github.com/Slackes/Valorant.External | ['exploit'] | 1 | 2022-12-18 16:18:02+00:00 | 1821 | 55 | C++ | 26 | [] |
 | Wra7h/FlavorTown | Various ways to execute shellcode | https://github.com/Wra7h/FlavorTown | ['shellcode'] | 1 | 2022-12-18 09:12:21+00:00 | 66 | 194 | C# | 36 | [] |
@@ -94,8 +95,8 @@
 | Rinzlller/python-sploits | None | https://github.com/Rinzlller/python-sploits | ['sploit'] | 1 | 2022-12-18 20:32:24+00:00 | 37 | 0 | Python | 0 | [] |
 | LocalSmail/Finity | Finity is a sleek GUI Library for roblox exploits or games to have a nice, Impressive and customisable GUI for their users. Discord: https://discord.gg/CenXcThBFv | https://github.com/LocalSmail/Finity | ['exploit'] | 1 | 2022-12-18 22:36:42+00:00 | 3776 | 6 | Lua | 1 | [] |
 | MJMODZZ/Roblox-Cheat-Script | ✅ a very simple roblox executor for lua scripts (roblox executor, roblox exploit, roblox cheat, roblox mods) using WeAreDevsAPI ✅ | https://github.com/MJMODZZ/Roblox-Cheat-Script | ['exploit'] | 1 | 2022-12-18 13:20:57+00:00 | 2002 | 6 | Lua | 1 | [] |
-| G00Dway/BlestSploit | BlestSploit Framework, Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | ['exploit', 'sploit'] | 2 | 2022-12-18 19:21:32+00:00 | 287 | 16 | Python | 3 | [] |
 | pcaversaccio/reentrancy-attacks | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | ['exploit'] | 1 | 2022-12-18 10:54:07+00:00 | 92 | 400 | | 40 | [] |
+| sh4rknado/CTF | ZeroDay-CVE | https://github.com/sh4rknado/CTF | ['zeroday'] | 1 | 2022-12-18 12:23:25+00:00 | 51689 | 0 | Shell | 0 | [] |
 | DRACULA-HACK/C-hacks | All social Media hacking with information gathering | https://github.com/DRACULA-HACK/C-hacks | ['exploit'] | 1 | 2022-12-18 08:46:06+00:00 | 65 | 9 | Python | 3 | [] |
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2022-12-18 00:59:06+00:00 | 6802 | 53 | | 4 | [] |
 | hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2022-12-18 05:32:28+00:00 | 47562 | 3311 | Go | 395 | [] |
