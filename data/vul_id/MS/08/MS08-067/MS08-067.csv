@@ -112,6 +112,7 @@ MS08-067,0.20000000,https://github.com/Langangago/exploit,Langangago/exploit,192
 MS08-067,0.20000000,https://github.com/bizzarecontacts/Cyber-Security-Resources,bizzarecontacts/Cyber-Security-Resources,190618178
 MS08-067,0.20000000,https://github.com/Coalfire-Research/pymetasploit3,Coalfire-Research/pymetasploit3,182870654
 MS08-067,0.20000000,https://github.com/am0nsec/valhalla,am0nsec/valhalla,103624543
+MS08-067,0.16666667,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 MS08-067,0.16666667,https://github.com/Adian-kids/Metasploit-Note,Adian-kids/Metasploit-Note,368874407
 MS08-067,0.16666667,https://github.com/ColdFusionX/LabScripts,ColdFusionX/LabScripts,293715101
 MS08-067,0.16666667,https://github.com/nullarmor/hackthebox-exploits,nullarmor/hackthebox-exploits,243875577
@@ -133,6 +134,7 @@ MS08-067,0.12500000,https://github.com/nullprism/htb-boxes,nullprism/htb-boxes,3
 MS08-067,0.12500000,https://github.com/Elite-Computer-Club/winxploit,Elite-Computer-Club/winxploit,362995521
 MS08-067,0.12500000,https://github.com/mohd-tanveer/Malware-detection-using-Machine-Learning-Algorithms,mohd-tanveer/Malware-detection-using-Machine-Learning-Algorithms,352705956
 MS08-067,0.12500000,https://github.com/dar3k93/Service-Enumeration,dar3k93/Service-Enumeration,179030030
+MS08-067,0.12500000,https://github.com/cyberjatin/mynotes,cyberjatin/mynotes,175623182
 MS08-067,0.12500000,https://github.com/pythonone/exploit-fix,pythonone/exploit-fix,133662541
 MS08-067,0.11111111,https://github.com/SayedAbdo-99/Automation-Pentration-Testing,SayedAbdo-99/Automation-Pentration-Testing,495962786
 MS08-067,0.11111111,https://github.com/gsmith257-cyber/EV1L-J3ST3R,gsmith257-cyber/EV1L-J3ST3R,482387896
@@ -378,7 +380,6 @@ MS08-067,0.00224215,https://github.com/offensive-security/exploitdb-papers,offen
 MS08-067,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 MS08-067,0.00159490,https://github.com/r3p3r/DonnchaC-shadowbrokers-exploits,r3p3r/DonnchaC-shadowbrokers-exploits,115910466
 MS08-067,0.00159490,https://github.com/DonnchaC/shadowbrokers-exploits,DonnchaC/shadowbrokers-exploits,88255514
-MS08-067,0.00151286,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 MS08-067,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 MS08-067,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS08-067,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479

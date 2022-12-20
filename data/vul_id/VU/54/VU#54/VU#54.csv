@@ -23,6 +23,7 @@ VU#54,0.14285714,https://github.com/aman250820/A-System-architecture-for-real-ti
 VU#54,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
 VU#54,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
 VU#54,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
+VU#54,0.11111111,https://github.com/Mikalb98/AugmentedReality,Mikalb98/AugmentedReality,580088120
 VU#54,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExploitS_English,535005507
 VU#54,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,534967733
 VU#54,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-Blue-Project,494340768
@@ -173,7 +174,6 @@ VU#54,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#54,0.00182149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#54,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#54,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#54,0.00151286,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 VU#54,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#54,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#54,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
@@ -198,5 +198,5 @@ VU#54,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#54,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#54,0.00019908,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#54,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#54,0.00007783,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#54,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#54,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

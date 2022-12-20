@@ -24,6 +24,7 @@ VU#33,0.16666667,https://github.com/BloxSafe/Backend,BloxSafe/Backend,492896545
 VU#33,0.16666667,https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo,BabooPan/Log4Shell-CVE-2021-44228-Demo,440722343
 VU#33,0.16666667,https://github.com/Maks1116/roblox-exploit-scripts,Maks1116/roblox-exploit-scripts,299615185
 VU#33,0.14285714,https://github.com/GuayoyoCyber/CVE-2022-22965,GuayoyoCyber/CVE-2022-22965,476384052
+VU#33,0.11111111,https://github.com/Mikalb98/AugmentedReality,Mikalb98/AugmentedReality,580088120
 VU#33,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#33,0.10000000,https://github.com/NSHoffman/N7ZedsMut,NSHoffman/N7ZedsMut,516410564
 VU#33,0.10000000,https://github.com/ashishbhat1/Wikipedia-Requests-for-Adminship,ashishbhat1/Wikipedia-Requests-for-Adminship,498403262
@@ -214,7 +215,6 @@ VU#33,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#33,0.00182149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#33,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#33,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#33,0.00151286,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 VU#33,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 VU#33,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#33,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
@@ -222,7 +222,7 @@ VU#33,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#33,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#33,0.00048031,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#33,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#33,0.00007783,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#33,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#33,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#33,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#33,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301

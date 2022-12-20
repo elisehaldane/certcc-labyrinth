@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS10-054,0.25000000,https://github.com/wannabemrrobot/hackthebox,wannabemrrobot/hackthebox,396079128
 MS10-054,0.20000000,https://github.com/am0nsec/valhalla,am0nsec/valhalla,103624543
 MS10-054,0.16666667,https://github.com/SUNNYSAINI01001/Gatekeeper,SUNNYSAINI01001/Gatekeeper,511213953
+MS10-054,0.16666667,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 MS10-054,0.14285714,https://github.com/yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,485790247
 MS10-054,0.14285714,https://github.com/F0rbidden-Equation/PortExploit,F0rbidden-Equation/PortExploit,470109652
 MS10-054,0.14285714,https://github.com/Meat0Project/Pentesting-Exploitation,Meat0Project/Pentesting-Exploitation,327061975
@@ -10,6 +11,7 @@ MS10-054,0.14285714,https://github.com/N1ckDunn/Exploitivator,N1ckDunn/Exploitiv
 MS10-054,0.14285714,https://github.com/screetsec/Dracnmap,screetsec/Dracnmap,69849809
 MS10-054,0.12500000,https://github.com/Aalok-Kesarkar/pentestingToolsGuide,Aalok-Kesarkar/pentestingToolsGuide,497387066
 MS10-054,0.12500000,https://github.com/dar3k93/Service-Enumeration,dar3k93/Service-Enumeration,179030030
+MS10-054,0.12500000,https://github.com/cyberjatin/mynotes,cyberjatin/mynotes,175623182
 MS10-054,0.11111111,https://github.com/SayedAbdo-99/Automation-Pentration-Testing,SayedAbdo-99/Automation-Pentration-Testing,495962786
 MS10-054,0.11111111,https://github.com/gsmith257-cyber/EV1L-J3ST3R,gsmith257-cyber/EV1L-J3ST3R,482387896
 MS10-054,0.10000000,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
@@ -60,7 +62,6 @@ MS10-054,0.00318471,https://github.com/NS-unina/exploitdb-images,NS-unina/exploi
 MS10-054,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
 MS10-054,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 MS10-054,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
-MS10-054,0.00151286,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 MS10-054,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS10-054,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS10-054,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
