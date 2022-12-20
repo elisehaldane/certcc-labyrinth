@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+580166209,bacon-tomato-spaghetti/FreeRDP-RCE,README.md,a3a83cc4fe37da2819340bb9dc50185530ce6d99,CVE-2022-39282

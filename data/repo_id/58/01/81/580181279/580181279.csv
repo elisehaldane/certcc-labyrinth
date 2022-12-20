@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+580181279,ReverseThrottle/KernelExploitation,RTCore64/KernelCallbacks/KernelBlinder.cpp,b2f0e27d2712d3f969639d510af62537db785559,CVE-2019-16098
