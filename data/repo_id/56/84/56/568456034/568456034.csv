@@ -2,6 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/SMB-Pentesting.md,19a8f3a3e8fc8dd226bc771eecdd647a0b4a207a,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/Gogs-Pentesting.md,32f8979dfc9f6ff33e0b7b89d309e6320bd5ebea,CVE-2014-8682
 568456034,hideckies/exploit-notes,src/exploit/Apache-JServ-Protocol-Pentesting.md,3ebbd42c1354a407309ad6474cbd6333db4d4e8e,CVE-2020-1938
+568456034,hideckies/exploit-notes,src/exploit/WordPress-Pentesting.md,49a091763bb35d39ad0aba97c95388fbbc2aedd1,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/Webmin-Pentesting.md,4fceb617a653a2d287c403ac0ba24c61c3e136dd,CVE-2019-15107
 568456034,hideckies/exploit-notes,src/exploit/Sudo-PrivEsc.md,58c7986a56226f3dd5f3c3acacd4f67781411927,CVE-2019-18634
 568456034,hideckies/exploit-notes,src/exploit/Sudo-PrivEsc.md,58c7986a56226f3dd5f3c3acacd4f67781411927,CVE-2021-3156
@@ -10,7 +11,6 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,9600d5beec63bc9b0c5c89c206c2ac622c51530e,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,a9d22e9f7c1f7759cdc2d6a5cecd0e70d0794222,CVE-2021-1675
 568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,a9d22e9f7c1f7759cdc2d6a5cecd0e70d0794222,CVE-2021-34527
-568456034,hideckies/exploit-notes,src/exploit/WordPress-Pentesting.md,afe381b0143cee92c8a631b93a07c135f16d62f2,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/Kibana-Pentesting.md,baf4acb4576ac56cc46771f78911b3a9b3cec588,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/Grafana-Pentesting.md,cc538c09d10e0e467b0676bdfe890f2ddf206aad,CVE-2021-43798
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,f21cce98df6c298e258c074a8ce6407ed617fe2a,GHSA-PQ7M-3GW7-GQ5X
