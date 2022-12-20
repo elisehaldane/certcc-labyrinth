@@ -1,0 +1,36 @@
+
+# Summary for results/2022/12/20
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|--------------------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2022-12-20 04:08:25+00:00 | 13266 | 5137 | Python | 716 | [] |
+| L1GH7/Vaultiris | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | ['exploit'] | 1 | 2022-12-20 00:07:21+00:00 | 4979673 | 2 | | 0 | [] |
+| 0x414141414/New-Silent-Excel-Exploit-2023 | None | https://github.com/0x414141414/New-Silent-Excel-Exploit-2023 | ['exploit'] | 1 | 2022-12-20 02:08:37+00:00 | 2 | 0 | | 0 | [] |
+| 0x414141414/Silent-Word-DOC-DOCX-Exploit-2023 | None | https://github.com/0x414141414/Silent-Word-DOC-DOCX-Exploit-2023 | ['exploit'] | 1 | 2022-12-20 02:07:50+00:00 | 1 | 0 | | 0 | [] |
+| 0x414141414/New-Silent-PDF-Exploit-2023 | None | https://github.com/0x414141414/New-Silent-PDF-Exploit-2023 | ['exploit'] | 1 | 2022-12-20 02:07:11+00:00 | 1 | 0 | | 0 | [] |
+| 0x414141414/JPEG-Silent-Exploit-Builder-2023 | None | https://github.com/0x414141414/JPEG-Silent-Exploit-Builder-2023 | ['exploit'] | 1 | 2022-12-20 02:06:32+00:00 | 1 | 0 | | 0 | [] |
+| anldori/CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-12-20 01:50:03+00:00 | 3 | 1 | Python | 0 | ['CVE-2021-21809'] |
+| cryocet/Mika-Exploit | None | https://github.com/cryocet/Mika-Exploit | ['exploit'] | 1 | 2022-12-20 04:48:01+00:00 | 2 | 0 | | 0 | [] |
+| BKreisel/CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-12-20 03:58:37+00:00 | 7 | 0 | Python | 0 | ['CVE-2021-45010'] |
+| ekiscybersecurity/nodejs-cmd-injection | Nodejs code vulnerable to command injection and how to fix. | https://github.com/ekiscybersecurity/nodejs-cmd-injection | ['command injection'] | 1 | 2022-12-20 03:30:38+00:00 | 2429 | 0 | JavaScript | 0 | [] |
+| 1emvr/The-Art-of-Exploitation | A repository for follow-along projects, binary exploitation and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` | https://github.com/1emvr/The-Art-of-Exploitation | ['exploit'] | 1 | 2022-12-20 01:14:25+00:00 | 10 | 0 | C | 0 | [] |
+| Duckiduc/smartmove | [Award winning solutionSmart at Vivatech's hackathon] SMARTMOVE is an application and a Dashboard aiming to show all the alternatives to car ownership. The goal: to decongest cities, and reduce one's carbon footprint, by exploiting all the resources of one | https://github.com/Duckiduc/smartmove | ['exploit'] | 1 | 2022-12-20 00:39:32+00:00 | 2305 | 0 | TypeScript | 0 | [] |
+| ck9/PoCcollector | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | ['exploit'] | 1 | 2022-12-20 03:59:21+00:00 | 413 | 0 | Python | 0 | [] |
+| bellpwn/netxploit | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | ['exploit'] | 1 | 2022-12-20 02:03:25+00:00 | 307 | 1 | PHP | 0 | [] |
+| SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-12-20 04:51:59+00:00 | 831 | 10 | C++ | 1 | [] |
+| parrotgeek1/TI-Nspire | A collection of information, tools, and exploits for TI-Nspire calculators. | https://github.com/parrotgeek1/TI-Nspire | ['exploit'] | 1 | 2022-12-20 03:28:07+00:00 | 722 | 28 | C | 5 | [] |
+| kpcyrd/sh4d0wup | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | ['exploit'] | 1 | 2022-12-20 00:05:43+00:00 | 556 | 38 | Rust | 2 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-20 01:02:09+00:00 | 7046 | 120 | | 14 | [] |
+| 0xLuks/SecurityStuff | The goal is to share several cheatsheets related to web and internal pentest, red team, blue team, binary exploitation or reverse engineering, OSINT... that I could learn. | https://github.com/0xLuks/SecurityStuff | ['exploit'] | 1 | 2022-12-20 03:34:33+00:00 | 51 | 0 | | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-20 04:09:24+00:00 | 20071 | 41 | Go | 14 | [] |
+| alvin-tosh/Infosec-and-Hacking-Scripts | 🚀 This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Infosec-and-Hacking-Scripts | ['exploit'] | 1 | 2022-12-20 04:57:13+00:00 | 7305 | 24 | Python | 10 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-20 02:56:46+00:00 | 15450 | 4814 | TypeScript | 702 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-20 04:20:21+00:00 | 11205754 | 119 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-20 01:28:29+00:00 | 2677 | 149 | HTML | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-20 04:01:26+00:00 | 300531 | 562 | Python | 147 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-20 04:03:54+00:00 | 685097 | 66 | | 24 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2022-12-20 00:50:45+00:00 | 22479 | 50 | | 27 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-20 04:38:30+00:00 | 689321 | 239 | REXX | 29 | [] |
+| Dark-Soul666/DarkExploit | None | https://github.com/Dark-Soul666/DarkExploit | ['exploit'] | 1 | 2022-12-20 03:39:51+00:00 | 1 | 0 | | 0 | [] |
