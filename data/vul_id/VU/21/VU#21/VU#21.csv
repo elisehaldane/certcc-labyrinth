@@ -10,7 +10,6 @@ VU#21,0.50000000,https://github.com/Soup-tech/0day,Soup-tech/0day,444661674
 VU#21,0.50000000,https://github.com/disjcordLAMO/XYZ-roblox-exploit,disjcordLAMO/XYZ-roblox-exploit,435216853
 VU#21,0.33333333,https://github.com/by-black6/Black-Sploit,by-black6/Black-Sploit,497718781
 VU#21,0.33333333,https://github.com/BENOSHITO/exploithosting.github.io,BENOSHITO/exploithosting.github.io,473763072
-VU#21,0.33333333,https://github.com/nil-malh/JNDI-Exploit,nil-malh/JNDI-Exploit,437992749
 VU#21,0.33333333,https://github.com/T-Dynamos/Distruct-X,T-Dynamos/Distruct-X,437483256
 VU#21,0.33333333,https://github.com/vinqo/scripthub,vinqo/scripthub,421183647
 VU#21,0.25000000,https://github.com/raospiratory/Red-vs-Blue-Project,raospiratory/Red-vs-Blue-Project,521804110
@@ -25,6 +24,7 @@ VU#21,0.20000000,https://github.com/RapidoBuzz/WrathSploitAPI,RapidoBuzz/WrathSp
 VU#21,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
 VU#21,0.20000000,https://github.com/zangcc/Aazhen-RexHa,zangcc/Aazhen-RexHa,464439564
 VU#21,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
+VU#21,0.20000000,https://github.com/nil-malh/JNDI-Exploit,nil-malh/JNDI-Exploit,437992749
 VU#21,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
 VU#21,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#21,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
@@ -55,8 +55,8 @@ VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-E
 VU#21,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#21,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 VU#21,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
-VU#21,0.05882353,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
+VU#21,0.05555556,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.05263158,https://github.com/RyAtlasX/Roblox_scripts_for_newbie,RyAtlasX/Roblox_scripts_for_newbie,578548943
 VU#21,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#21,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
@@ -86,6 +86,7 @@ VU#21,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-
 VU#21,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#21,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#21,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
+VU#21,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#21,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#21,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,575262305
 VU#21,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,563392111
@@ -283,7 +284,7 @@ VU#21,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#21,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#21,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#21,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#21,0.00019908,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00019857,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#21,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#21,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

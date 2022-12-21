@@ -3,9 +3,9 @@ MS06-025,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,v
 MS06-025,0.25000000,https://github.com/sensepost/autoDANE,sensepost/autoDANE,43594993
 MS06-025,0.25000000,https://github.com/ozuma/Metasploit_MS08-067,ozuma/Metasploit_MS08-067,38795662
 MS06-025,0.20000000,https://github.com/am0nsec/valhalla,am0nsec/valhalla,103624543
-MS06-025,0.16666667,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 MS06-025,0.14285714,https://github.com/yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,485790247
 MS06-025,0.14285714,https://github.com/F0rbidden-Equation/PortExploit,F0rbidden-Equation/PortExploit,470109652
+MS06-025,0.14285714,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
 MS06-025,0.14285714,https://github.com/Meat0Project/Pentesting-Exploitation,Meat0Project/Pentesting-Exploitation,327061975
 MS06-025,0.14285714,https://github.com/N1ckDunn/Exploitivator,N1ckDunn/Exploitivator,218966600
 MS06-025,0.14285714,https://github.com/screetsec/Dracnmap,screetsec/Dracnmap,69849809
@@ -252,7 +252,7 @@ MS06-025,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4
 MS06-025,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 MS06-025,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS06-025,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-MS06-025,0.00019908,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS06-025,0.00019857,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS06-025,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS06-025,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS06-025,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
@@ -288,7 +288,7 @@ MS06-025,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS06-025,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS06-025,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 MS06-025,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
-MS06-025,0.00001429,https://github.com/trickest/cve,trickest/cve,454015416
+MS06-025,0.00001427,https://github.com/trickest/cve,trickest/cve,454015416
 MS06-025,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS06-025,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS06-025,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

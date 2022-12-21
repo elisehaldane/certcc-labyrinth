@@ -9,7 +9,6 @@ VU#67,0.50000000,https://github.com/KasunPriyashan/Y2S1-Project-Linux-Exploitaio
 VU#67,0.50000000,https://github.com/nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195,nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195,448285466
 VU#67,0.50000000,https://github.com/abiram94/RCEwebsite,abiram94/RCEwebsite,418451519
 VU#67,0.50000000,https://github.com/p3rce/p3rce.github.io,p3rce/p3rce.github.io,313459894
-VU#67,0.33333333,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#67,0.33333333,https://github.com/ziyue0230/Sunlogin_RCE,ziyue0230/Sunlogin_RCE,462623934
 VU#67,0.33333333,https://github.com/ce-automne/SunloginRCE,ce-automne/SunloginRCE,460518610
 VU#67,0.33333333,https://github.com/Mr-xn/sunlogin_rce,Mr-xn/sunlogin_rce,460035686
@@ -62,6 +61,7 @@ VU#67,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i
 VU#67,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#67,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#67,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
+VU#67,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#67,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
 VU#67,0.02173913,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#67,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
@@ -191,7 +191,7 @@ VU#67,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#67,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#67,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#67,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#67,0.00019908,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#67,0.00019857,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#67,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#67,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#67,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
