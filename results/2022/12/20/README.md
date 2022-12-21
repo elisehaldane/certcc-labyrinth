@@ -1,12 +1,12 @@
 
 # Summary for results/2022/12/20
     
-115 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2022-12-20 16:04:07+00:00 | 832446 | 28969 | Ruby | 12778 | [] |
-| 0x414141414/JPEG-Silent-Exploit-Builder-2023 | None | https://github.com/0x414141414/JPEG-Silent-Exploit-Builder-2023 | ['exploit'] | 1 | 2022-12-20 02:06:32+00:00 | 1 | 0 | | 0 | [] |
+| ck9/PoCcollector | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | ['exploit'] | 1 | 2022-12-20 03:59:21+00:00 | 413 | 0 | Python | 0 | [] |
 | cryocet/Mika-Exploit | None | https://github.com/cryocet/Mika-Exploit | ['exploit'] | 1 | 2022-12-20 04:48:01+00:00 | 2 | 0 | | 0 | [] |
 | BKreisel/CVE-2021-45010 | 🐍 Python Exploit for CVE-2021-45010 | https://github.com/BKreisel/CVE-2021-45010 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2022-12-20 03:58:37+00:00 | 7 | 0 | Python | 0 | ['CVE-2021-45010'] |
 | ekiscybersecurity/nodejs-cmd-injection | Nodejs code vulnerable to command injection and how to fix. | https://github.com/ekiscybersecurity/nodejs-cmd-injection | ['command injection'] | 1 | 2022-12-20 03:30:38+00:00 | 2429 | 0 | JavaScript | 0 | [] |
@@ -19,8 +19,8 @@
 | alfarom256/CVE-2022-45451 | PoC for Acronis Arbitrary File Read - CVE-2022-45451 | https://github.com/alfarom256/CVE-2022-45451 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-12-20 17:04:34+00:00 | 1057 | 11 | C++ | 4 | ['CVE-2022-45451'] |
 | vineelsai26/RCE | Remote Code Execution engine in Go | https://github.com/vineelsai26/RCE | ['rce', 'remote code execution'] | 2 | 2022-12-20 14:37:12+00:00 | 29 | 0 | Go | 0 | [] |
 | 34zY/APT-Backpack | cve-2019-11510, cve-2019-19781, cve-2020-5902,               cve-2021-1497, cve-2021-20090, cve-2021-22006, cve-2021-22205, cve-2021-26084, cve-2021-26855, cve-2021-26857, cve-2021–26857, cve-2021–26858, cve-2021–26865 | https://github.com/34zY/APT-Backpack | ['exploit', 'rce'] | 2 | 2022-12-20 08:25:10+00:00 | 129845 | 0 | | 0 | ['CVE-2019-11510', 'CVE-2019-19781', 'CVE-2020-5902', 'CVE-2021-1497', 'CVE-2021-20090', 'CVE-2021-22006', 'CVE-2021-22205', 'CVE-2021-26084', 'CVE-2021-26855', 'CVE-2021-26857'] |
-| ck9/PoCcollector | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | ['exploit'] | 1 | 2022-12-20 03:59:21+00:00 | 413 | 0 | Python | 0 | [] |
 | bellpwn/netxploit | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | ['exploit'] | 1 | 2022-12-20 02:03:25+00:00 | 307 | 1 | PHP | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-12-20 13:05:53+00:00 | 21872 | 7961 | JavaScript | 1839 | [] |
 | ScanEnts3D/ScanEnts3D.github.io | ScanEnts3D: Exploiting Phrase-to-3D-Object Correspondences for Improved Visio-Linguistic Models in 3D Scenes Paper Website | https://github.com/ScanEnts3D/ScanEnts3D.github.io | ['exploit'] | 1 | 2022-12-20 18:59:05+00:00 | 10434 | 0 | JavaScript | 0 | [] |
 | zh-explorer/dirtycow | exploit for dirtycow | https://github.com/zh-explorer/dirtycow | ['exploit'] | 1 | 2022-12-20 09:41:08+00:00 | 22 | 5 | C | 0 | [] |
 | YemiReble/simple_shell | A Simple Shell Program built with C | https://github.com/YemiReble/simple_shell | ['shellcode'] | 1 | 2022-12-20 06:44:30+00:00 | 49 | 0 | C | 0 | [] |
@@ -31,10 +31,11 @@
 | ChristopherLiew/chris-liew-technical-blog | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | ['exploit'] | 1 | 2022-12-20 11:46:02+00:00 | 2956 | 0 | | 0 | [] |
 | hideckies/exploit-notes | A sticky notes for pentesting. | https://github.com/hideckies/exploit-notes | ['exploit'] | 1 | 2022-12-20 09:06:35+00:00 | 432 | 15 | CSS | 3 | [] |
 | L1GH7/Vaultiris | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | ['exploit'] | 1 | 2022-12-20 00:07:21+00:00 | 4979673 | 2 | | 0 | [] |
+| LukeGix/CVE-2022-2602 | CVE-2022-2602 | https://github.com/LukeGix/CVE-2022-2602 | ['cve-2 OR cve_2'] | 1 | 2022-12-20 20:19:52+00:00 | 10 | 1 | C | 0 | ['CVE-2022-2602'] |
 | yeetsquad747/exploitcb | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | ['exploit'] | 1 | 2022-12-20 22:30:53+00:00 | 538 | 19 | TypeScript | 1 | [] |
 | anldori/CVE-2021-21809 | CVE-2021-21809 POC | https://github.com/anldori/CVE-2021-21809 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2022-12-20 01:50:03+00:00 | 3 | 1 | Python | 0 | ['CVE-2021-21809'] |
+| 0x414141414/JPEG-Silent-Exploit-Builder-2023 | None | https://github.com/0x414141414/JPEG-Silent-Exploit-Builder-2023 | ['exploit'] | 1 | 2022-12-20 02:06:32+00:00 | 1 | 0 | | 0 | [] |
 | 0x414141414/New-Silent-PDF-Exploit-2023 | None | https://github.com/0x414141414/New-Silent-PDF-Exploit-2023 | ['exploit'] | 1 | 2022-12-20 02:07:11+00:00 | 1 | 0 | | 0 | [] |
-| coinspect/learn-evm-attacks | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | ['exploit'] | 1 | 2022-12-20 16:56:07+00:00 | 5091 | 371 | Solidity | 30 | [] |
 | 0x414141414/Silent-Word-DOC-DOCX-Exploit-2023 | None | https://github.com/0x414141414/Silent-Word-DOC-DOCX-Exploit-2023 | ['exploit'] | 1 | 2022-12-20 02:07:50+00:00 | 1 | 0 | | 0 | [] |
 | StormCheatPvP/LExploiter-8.0 | exploiter del passorwd | https://github.com/StormCheatPvP/LExploiter-8.0 | ['exploit'] | 1 | 2022-12-20 19:18:27+00:00 | 0 | 0 | | 0 | [] |
 | lukejenkins/CVE-2021-34767 | Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers IPv6 Denial of Service Vulnerability | https://github.com/lukejenkins/CVE-2021-34767 | ['cve-2 OR cve_2'] | 1 | 2022-12-20 19:00:24+00:00 | 3 | 0 | | 0 | ['CVE-2021-34767'] |
@@ -62,8 +63,8 @@
 | Dark-Soul666/DarkExploit | None | https://github.com/Dark-Soul666/DarkExploit | ['exploit'] | 1 | 2022-12-20 03:39:51+00:00 | 1 | 0 | | 0 | [] |
 | 0x414141414/New-Silent-Excel-Exploit-2023 | None | https://github.com/0x414141414/New-Silent-Excel-Exploit-2023 | ['exploit'] | 1 | 2022-12-20 02:08:37+00:00 | 2 | 0 | | 0 | [] |
 | pythonbrad/django_form | An survey creator that exploit the power of Django’s forms API. | https://github.com/pythonbrad/django_form | ['exploit'] | 1 | 2022-12-20 23:03:20+00:00 | 506 | 2 | Python | 0 | [] |
+| coinspect/learn-evm-attacks | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | ['exploit'] | 1 | 2022-12-20 16:56:07+00:00 | 5091 | 371 | Solidity | 30 | [] |
 | SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2022-12-20 04:51:59+00:00 | 831 | 10 | C++ | 1 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2022-12-20 13:05:53+00:00 | 21872 | 7961 | JavaScript | 1839 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-20 02:56:46+00:00 | 15450 | 4814 | TypeScript | 702 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-20 01:28:29+00:00 | 2677 | 149 | HTML | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-20 04:01:26+00:00 | 300531 | 562 | Python | 147 | [] |
