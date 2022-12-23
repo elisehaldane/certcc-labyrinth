@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS06-073,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS06-073,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
+MS06-073,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
 MS06-073,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
 MS06-073,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042
 MS06-073,0.00684932,https://github.com/TheRipperJhon/Msploitego,TheRipperJhon/Msploitego,136995325
@@ -127,7 +128,7 @@ MS06-073,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4
 MS06-073,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 MS06-073,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS06-073,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-MS06-073,0.00019857,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS06-073,0.00019853,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS06-073,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS06-073,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS06-073,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS05-051,0.12500000,https://github.com/mohd-tanveer/Malware-detection-using-Machine-Learning-Algorithms,mohd-tanveer/Malware-detection-using-Machine-Learning-Algorithms,352705956
 MS05-051,0.04545455,https://github.com/JonnyHightower/neet,JonnyHightower/neet,17711743
 MS05-051,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
+MS05-051,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
 MS05-051,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
 MS05-051,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
 MS05-051,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042

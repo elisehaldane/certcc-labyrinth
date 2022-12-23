@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-VP35-85Q5-9F25,0.33333333,https://github.com/ssst0n3/docker-cve-2022-39253-poc,ssst0n3/docker-cve-2022-39253-poc,580301790
