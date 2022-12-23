@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-QFQ2-82QR-7F4J,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-39320,Live-Hack-CVE/CVE-2022-39320,581317684
 GHSA-QFQ2-82QR-7F4J,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

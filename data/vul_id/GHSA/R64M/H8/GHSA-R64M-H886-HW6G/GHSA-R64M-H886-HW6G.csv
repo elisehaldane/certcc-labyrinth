@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-R64M-H886-HW6G,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-47549,Live-Hack-CVE/CVE-2022-47549,581294530

@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-V6P9-926C-6QFP,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41963,Live-Hack-CVE/CVE-2022-41963,581279679

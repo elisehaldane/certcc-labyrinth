@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#97099584,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-43486,Live-Hack-CVE/CVE-2022-43486,581303073
+VU#97099584,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-43466,Live-Hack-CVE/CVE-2022-43466,581303061
+VU#97099584,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-43443,Live-Hack-CVE/CVE-2022-43443,581303050

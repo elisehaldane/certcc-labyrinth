@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-53C4-HHMH-VW5Q,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23525,Live-Hack-CVE/CVE-2022-23525,581280371

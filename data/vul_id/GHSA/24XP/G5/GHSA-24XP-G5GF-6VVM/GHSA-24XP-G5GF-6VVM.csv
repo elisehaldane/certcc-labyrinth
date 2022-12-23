@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-24XP-G5GF-6VVM,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41972,Live-Hack-CVE/CVE-2022-41972,581308803
