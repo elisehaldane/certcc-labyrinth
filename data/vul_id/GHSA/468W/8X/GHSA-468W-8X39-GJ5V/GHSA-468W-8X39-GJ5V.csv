@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-468W-8X39-GJ5V,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46153,Live-Hack-CVE/CVE-2022-46153,581362570
 GHSA-468W-8X39-GJ5V,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

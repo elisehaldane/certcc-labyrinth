@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#57,1.00000000,https://github.com/arshpb36/Arshdeep-singh-Phishing-links-for-social-media,arshpb36/Arshdeep-singh-Phishing-links-for-social-media,550817130
 VU#57,1.00000000,https://github.com/AppInstaller-iOS-Projects/Sploit-Test,AppInstaller-iOS-Projects/Sploit-Test,499242472
 VU#57,1.00000000,https://github.com/BenjaminHornbeck6/Sploit-Test,BenjaminHornbeck6/Sploit-Test,498546314
+VU#57,0.33333333,https://github.com/Live-Hack-CVE/CVE-2021-44228,Live-Hack-CVE/CVE-2021-44228,581392788
 VU#57,0.33333333,https://github.com/ginsama01/exploit-train,ginsama01/exploit-train,525283089
 VU#57,0.33333333,https://github.com/shatternox/Forest-Fire,shatternox/Forest-Fire,520567378
 VU#57,0.33333333,https://github.com/lluismir/Data-Analysis-of-Second-hand-cars-in-UK,lluismir/Data-Analysis-of-Second-hand-cars-in-UK,502991744
@@ -81,8 +82,8 @@ VU#57,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu
 VU#57,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#57,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
 VU#57,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
-VU#57,0.01851852,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#57,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
+VU#57,0.01818182,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#57,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#57,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#57,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298

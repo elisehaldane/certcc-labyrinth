@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-2CFH-233G-M4C5,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-31176,Live-Hack-CVE/CVE-2022-31176,581376381
 GHSA-2CFH-233G-M4C5,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

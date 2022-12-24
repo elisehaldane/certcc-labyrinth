@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-6W9F-JGJX-4VJ6,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-39346,Live-Hack-CVE/CVE-2022-39346,581361743
 GHSA-6W9F-JGJX-4VJ6,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

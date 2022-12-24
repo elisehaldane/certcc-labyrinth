@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-CG88-RPVP-CJV5,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41902,Live-Hack-CVE/CVE-2022-41902,581423819
 GHSA-CG88-RPVP-CJV5,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
