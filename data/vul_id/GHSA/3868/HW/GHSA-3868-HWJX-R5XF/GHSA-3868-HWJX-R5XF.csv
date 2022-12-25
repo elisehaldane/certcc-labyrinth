@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-3868-HWJX-R5XF,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-3320,Live-Hack-CVE/CVE-2022-3320,581705524
+GHSA-3868-HWJX-R5XF,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-3512,Live-Hack-CVE/CVE-2022-3512,581700146
 GHSA-3868-HWJX-R5XF,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

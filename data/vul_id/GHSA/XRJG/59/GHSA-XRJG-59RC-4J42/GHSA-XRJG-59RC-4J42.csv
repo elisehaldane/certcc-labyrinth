@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-XRJG-59RC-4J42,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-39367,Live-Hack-CVE/CVE-2022-39367,581700101
 GHSA-XRJG-59RC-4J42,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-5RJ7-95QC-89H2,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-39372,Live-Hack-CVE/CVE-2022-39372,581688335
 GHSA-5RJ7-95QC-89H2,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
