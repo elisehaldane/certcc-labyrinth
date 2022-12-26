@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6QH8-6RRJ-7497,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23513,Live-Hack-CVE/CVE-2022-23513,582025016
+GHSA-6QH8-6RRJ-7497,0.00001424,https://github.com/trickest/cve,trickest/cve,454015416
