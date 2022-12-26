@@ -18,6 +18,7 @@ VU#33,0.25000000,https://github.com/7ih/FE2-Tas-Tool-by-Exploit,7ih/FE2-Tas-Tool
 VU#33,0.25000000,https://github.com/F3XClientOfficial/F3XClient,F3XClientOfficial/F3XClient,477200054
 VU#33,0.25000000,https://github.com/notSkyFrost/RoMYSQL,notSkyFrost/RoMYSQL,437366363
 VU#33,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
+VU#33,0.20000000,https://github.com/DarkDev1000/Roblox-Exploit-Scripts,DarkDev1000/Roblox-Exploit-Scripts,582159354
 VU#33,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/multi_sense_learning,429338492
 VU#33,0.16666667,https://github.com/cxzero/CVE-2022-22965-spring4shell,cxzero/CVE-2022-22965-spring4shell,494256387
 VU#33,0.16666667,https://github.com/BloxSafe/Backend,BloxSafe/Backend,492896545
@@ -35,7 +36,6 @@ VU#33,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n
 VU#33,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#33,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
 VU#33,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
-VU#33,0.08333333,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#33,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-Project,519458932
 VU#33,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#33,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
@@ -43,7 +43,9 @@ VU#33,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,
 VU#33,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#33,0.07692308,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#33,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
+VU#33,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
 VU#33,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
+VU#33,0.07142857,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#33,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#33,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/Crypto_Exchange_Arb,494865686
 VU#33,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
@@ -186,6 +188,7 @@ VU#33,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#33,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#33,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#33,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#33,0.00416667,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#33,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#33,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#33,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685

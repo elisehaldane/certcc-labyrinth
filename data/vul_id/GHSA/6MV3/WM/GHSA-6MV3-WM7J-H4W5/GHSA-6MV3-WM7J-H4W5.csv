@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-6MV3-WM7J-H4W5,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46171,Live-Hack-CVE/CVE-2022-46171,582024627

@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-20529,0.50000000,https://github.com/Live-Hack-CVE/CVE-2006-7142,Live-Hack-CVE/CVE-2006-7142,582114845
 BID-20529,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068

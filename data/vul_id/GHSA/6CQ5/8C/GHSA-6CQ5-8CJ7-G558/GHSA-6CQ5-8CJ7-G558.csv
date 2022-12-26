@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-6CQ5-8CJ7-G558,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46170,Live-Hack-CVE/CVE-2022-46170,582038610

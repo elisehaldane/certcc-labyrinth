@@ -2,6 +2,17 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#37,1.00000000,https://github.com/Enelg52/KittyStager,Enelg52/KittyStager,548910923
 VU#37,1.00000000,https://github.com/mousepad01/exploitation_workbench,mousepad01/exploitation_workbench,525278770
 VU#37,1.00000000,https://github.com/RapidoBuzz/RhyteredExploitAPI,RapidoBuzz/RhyteredExploitAPI,459694007
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35588,Live-Hack-CVE/CVE-2021-35588,582107339
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35550,Live-Hack-CVE/CVE-2021-35550,582107296
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35565,Live-Hack-CVE/CVE-2021-35565,582107284
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35567,Live-Hack-CVE/CVE-2021-35567,582107278
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35578,Live-Hack-CVE/CVE-2021-35578,582107267
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35586,Live-Hack-CVE/CVE-2021-35586,582107244
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35603,Live-Hack-CVE/CVE-2021-35603,582107234
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35556,Live-Hack-CVE/CVE-2021-35556,582107217
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35559,Live-Hack-CVE/CVE-2021-35559,582107179
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35564,Live-Hack-CVE/CVE-2021-35564,582107171
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35561,Live-Hack-CVE/CVE-2021-35561,582107166
 VU#37,0.50000000,https://github.com/Tardigrade97/0dayManage,Tardigrade97/0dayManage,559936259
 VU#37,0.50000000,https://github.com/ExploitSWJTU/exploitswjtu.github.io,ExploitSWJTU/exploitswjtu.github.io,535620357
 VU#37,0.50000000,https://github.com/zerodaycode/zerodaycode.github.io,zerodaycode/zerodaycode.github.io,489750030
@@ -66,6 +77,7 @@ VU#37,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x
 VU#37,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#37,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#37,0.07692308,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#37,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
 VU#37,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#37,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#37,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
@@ -207,6 +219,7 @@ VU#37,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#37,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#37,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#37,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#37,0.00416667,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#37,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#37,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#37,0.00371747,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
