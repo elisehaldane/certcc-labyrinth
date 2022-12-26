@@ -1,0 +1,34 @@
+
+# Summary for results/2022/12/26
+    
+27 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|-----------|
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2022-12-26 04:32:52+00:00 | 699414 | 241 | REXX | 30 | [] |
+| gogo2464/cryptatools-rs | Tool to help to cryptanalysis for cybersecurity researcher, cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | ['exploit'] | 1 | 2022-12-26 00:29:03+00:00 | 90177 | 11 | Rust | 1 | [] |
+| Olliv3r/Instalador-Setoolkit | Instalador Setoolkit completo com a versão mais recente + Metasploit em ambiente Proot | https://github.com/Olliv3r/Instalador-Setoolkit | ['metasploit module OR payload'] | 1 | 2022-12-26 04:28:01+00:00 | 762 | 0 | | 0 | [] |
+| bewflast/gmod-lua_dumptimers_sv-hotfix | remove exploited lua_dumptimers_sv concommand | https://github.com/bewflast/gmod-lua_dumptimers_sv-hotfix | ['exploit'] | 1 | 2022-12-26 02:58:12+00:00 | 8 | 0 | C++ | 0 | [] |
+| killerbox1986/infosec-exploits | Exploit development | https://github.com/killerbox1986/infosec-exploits | ['exploit'] | 1 | 2022-12-26 04:20:14+00:00 | 11 | 0 | Python | 0 | [] |
+| RedNotSus/exploits | exploits page | https://github.com/RedNotSus/exploits | ['exploit'] | 1 | 2022-12-26 04:15:05+00:00 | 16898 | 0 | HTML | 0 | [] |
+| SusanaSoledo/miproyecto | El C.RU.D. de este proyecto permite cargar, modificar y eliminar exploits | https://github.com/SusanaSoledo/miproyecto | ['exploit'] | 1 | 2022-12-26 01:38:29+00:00 | 14789 | 0 | Python | 0 | [] |
+| kitbogashow/how-to-fix-paypal | Various ways to filter text emails to stop scammers from exploiting PayPal's invoice system. | https://github.com/kitbogashow/how-to-fix-paypal | ['exploit'] | 1 | 2022-12-26 02:15:04+00:00 | 159 | 45 | PHP | 33 | [] |
+| WesleyWong420/Build-Your-Own-LOLBins | A post-exploitation toolkit to simulate the weaponization and detection of native Windows binaries based on LOLBas framework. | https://github.com/WesleyWong420/Build-Your-Own-LOLBins | ['exploit'] | 1 | 2022-12-26 04:23:54+00:00 | 1284 | 1 | HTML | 0 | [] |
+| CGB-CoolGamerBoy/CGBX | CGB Exploit | https://github.com/CGB-CoolGamerBoy/CGBX | ['exploit'] | 1 | 2022-12-26 00:34:16+00:00 | 8406 | 0 | | 0 | [] |
+| f0cus77/awesome-iot-security-resource | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | ['exploit'] | 1 | 2022-12-26 02:43:09+00:00 | 3 | 0 | | 0 | [] |
+| Alendaa/Scripts | my scripts for exploit in roblox | https://github.com/Alendaa/Scripts | ['exploit'] | 1 | 2022-12-26 00:50:22+00:00 | 6483 | 0 | | 0 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2022-12-26 03:22:11+00:00 | 7408 | 120 | | 14 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2022-12-26 04:48:30+00:00 | 24024 | 42 | Go | 14 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2022-12-26 04:07:06+00:00 | 1681394 | 4922 | PowerShell | 1683 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2022-12-26 00:10:24+00:00 | 1057 | 0 | | 1 | [] |
+| zan8in/afrog | A Vulnerability Scanning Tools For Penetration Testing | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2022-12-26 03:46:40+00:00 | 8901 | 1170 | Go | 173 | [] |
+| ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit', 'shellcode'] | 2 | 2022-12-26 03:58:35+00:00 | 1081 | 0 | Ruby | 0 | [] |
+| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2022-12-26 00:41:00+00:00 | 210 | 5 | Python | 2 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2022-12-26 02:25:04+00:00 | 15178 | 4827 | TypeScript | 702 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2022-12-26 04:20:04+00:00 | 11393657 | 119 | Python | 11 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2022-12-26 01:28:03+00:00 | 2902 | 149 | HTML | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2022-12-26 04:02:46+00:00 | 322412 | 566 | Python | 149 | [] |
+| hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2022-12-26 00:57:56+00:00 | 157 | 112 | Python | 14 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2022-12-26 03:06:50+00:00 | 128 | 0 | PHP | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2022-12-26 04:04:53+00:00 | 706390 | 67 | | 24 | [] |
+| katemonster33/evemarketbot | Market bot for identifying exploitable spots in local markets | https://github.com/katemonster33/evemarketbot | ['exploit'] | 1 | 2022-12-26 03:32:18+00:00 | 7 | 0 | C# | 0 | [] |
