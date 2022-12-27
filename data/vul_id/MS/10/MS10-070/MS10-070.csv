@@ -40,7 +40,7 @@ MS10-070,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-
 MS10-070,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS10-070,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-070,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS10-070,0.00015340,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
+MS10-070,0.00016499,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS10-070,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS10-070,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS10-070,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
@@ -50,11 +50,11 @@ MS10-070,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283
 MS10-070,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
 MS10-070,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS10-070,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
-MS10-070,0.00005453,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS10-070,0.00005394,https://github.com/yashodhank/exploit-database,yashodhank/exploit-database,104515468
 MS10-070,0.00005379,https://github.com/1oid/exploitsearch,1oid/exploitsearch,111814394
 MS10-070,0.00005376,https://github.com/cvebase/cvebase.com,cvebase/cvebase.com,300791308
 MS10-070,0.00005357,https://github.com/R3K1NG/exploit-database,R3K1NG/exploit-database,107473902
+MS10-070,0.00005345,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS10-070,0.00005316,https://github.com/Capa-cc/Exploit,Capa-cc/Exploit,114506475
 MS10-070,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410
 MS10-070,0.00005249,https://github.com/Buzzkillhardball667/exploit-database,Buzzkillhardball667/exploit-database,120898188

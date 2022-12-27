@@ -7,6 +7,7 @@ VU#45,1.00000000,https://github.com/N1ce759/Spring-Cloud-Function-SPEL-RCE,N1ce7
 VU#45,1.00000000,https://github.com/Pizz33/Spring-Cloud-Function-SpEL,Pizz33/Spring-Cloud-Function-SpEL,474432645
 VU#45,1.00000000,https://github.com/stangezond/exploit,stangezond/exploit,461877842
 VU#45,1.00000000,https://github.com/wesleydekraker/log4j-poc,wesleydekraker/log4j-poc,455852447
+VU#45,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-16116,Live-Hack-CVE/CVE-2020-16116,582168813
 VU#45,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
 VU#45,0.50000000,https://github.com/Adroitdevil/metasploitframework6,Adroitdevil/metasploitframework6,562393973
 VU#45,0.50000000,https://github.com/cyberanand1337x/Metasploit-android,cyberanand1337x/Metasploit-android,543638364
@@ -215,7 +216,7 @@ VU#45,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#45,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#45,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#45,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
-VU#45,0.00416667,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#45,0.00427350,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#45,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#45,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#45,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685

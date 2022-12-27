@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-FHV8-FX5F-7FXF,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-39227,Live-Hack-CVE/CVE-2021-39227,582169448
 GHSA-FHV8-FX5F-7FXF,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

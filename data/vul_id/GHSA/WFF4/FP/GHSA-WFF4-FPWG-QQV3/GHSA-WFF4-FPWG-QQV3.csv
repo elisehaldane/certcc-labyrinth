@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-WFF4-FPWG-QQV3,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-36046,Live-Hack-CVE/CVE-2022-36046,582181209

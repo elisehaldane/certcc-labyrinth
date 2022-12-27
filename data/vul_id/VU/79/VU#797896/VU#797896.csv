@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#797896,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-5387,Live-Hack-CVE/CVE-2016-5387,582181009
 VU#797896,0.00709220,https://github.com/samaujs/CVE-2011-1475,samaujs/CVE-2011-1475,156348204
 VU#797896,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#797896,0.00057604,https://github.com/cankevinlaurent/secsensor,cankevinlaurent/secsensor,230999626

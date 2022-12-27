@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-Q2RG-M477-8WG7,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-37458,Live-Hack-CVE/CVE-2022-37458,582180399
 GHSA-Q2RG-M477-8WG7,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
