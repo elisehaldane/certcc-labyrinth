@@ -242,6 +242,7 @@ MS12-020,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS12-020,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS12-020,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS12-020,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+MS12-020,0.00009741,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS12-020,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 MS12-020,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
@@ -254,7 +255,6 @@ MS12-020,0.00005394,https://github.com/yashodhank/exploit-database,yashodhank/ex
 MS12-020,0.00005379,https://github.com/1oid/exploitsearch,1oid/exploitsearch,111814394
 MS12-020,0.00005376,https://github.com/cvebase/cvebase.com,cvebase/cvebase.com,300791308
 MS12-020,0.00005357,https://github.com/R3K1NG/exploit-database,R3K1NG/exploit-database,107473902
-MS12-020,0.00005345,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00005316,https://github.com/Capa-cc/Exploit,Capa-cc/Exploit,114506475
 MS12-020,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410
 MS12-020,0.00005249,https://github.com/Buzzkillhardball667/exploit-database,Buzzkillhardball667/exploit-database,120898188
@@ -274,7 +274,7 @@ MS12-020,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/Exp
 MS12-020,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS12-020,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS12-020,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
-MS12-020,0.00001424,https://github.com/trickest/cve,trickest/cve,454015416
+MS12-020,0.00001423,https://github.com/trickest/cve,trickest/cve,454015416
 MS12-020,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS12-020,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS12-020,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

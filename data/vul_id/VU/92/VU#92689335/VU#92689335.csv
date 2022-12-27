@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#92689335,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46282,Live-Hack-CVE/CVE-2022-46282,582637859
 VU#92689335,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46282,Live-Hack-CVE/CVE-2022-46282,581091541
 VU#92689335,0.00588235,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918

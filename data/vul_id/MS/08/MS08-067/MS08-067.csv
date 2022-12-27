@@ -54,7 +54,6 @@ MS08-067,1.00000000,https://github.com/Meatballs1/armitage,Meatballs1/armitage,2
 MS08-067,1.00000000,https://github.com/msfconsole/conficker,msfconsole/conficker,16184597
 MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/Metasploit-Stuff,7375687
 MS08-067,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
-MS08-067,0.50000000,https://github.com/G00Dway/BlestSploit,G00Dway/BlestSploit,517681444
 MS08-067,0.50000000,https://github.com/W0lfF4ng/Exploits,W0lfF4ng/Exploits,394376112
 MS08-067,0.50000000,https://github.com/k4u5h41/MS08_067_CVE-2008-4250,k4u5h41/MS08_067_CVE-2008-4250,383835726
 MS08-067,0.50000000,https://github.com/adithyan-ak/MS17-010-Manual-Exploit,adithyan-ak/MS17-010-Manual-Exploit,345982676
@@ -96,6 +95,7 @@ MS08-067,0.33333333,https://github.com/mukthy/oscp-survival-guide,mukthy/oscp-su
 MS08-067,0.33333333,https://github.com/MarkBuffalo/exploits,MarkBuffalo/exploits,153557664
 MS08-067,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
 MS08-067,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,veerupandey/Penetration-Testing-Toolkit,18219927
+MS08-067,0.25000000,https://github.com/G00Dway/BlestSploit,G00Dway/BlestSploit,517681444
 MS08-067,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS08-067,0.25000000,https://github.com/thomcz/smb-kastel-praktikum,thomcz/smb-kastel-praktikum,114903623
 MS08-067,0.25000000,https://github.com/n3tsky/Exploits,n3tsky/Exploits,111472762
@@ -533,7 +533,7 @@ MS08-067,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS08-067,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS08-067,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 MS08-067,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
-MS08-067,0.00001424,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001423,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-394C-RR7Q-6G78,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41318,Live-Hack-CVE/CVE-2022-41318,582571939

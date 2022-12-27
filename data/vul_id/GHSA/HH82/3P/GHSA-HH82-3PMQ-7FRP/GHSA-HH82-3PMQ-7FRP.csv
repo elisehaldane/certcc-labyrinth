@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-HH82-3PMQ-7FRP,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41915,Live-Hack-CVE/CVE-2022-41915,582637423
 GHSA-HH82-3PMQ-7FRP,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41915,Live-Hack-CVE/CVE-2022-41915,581090119

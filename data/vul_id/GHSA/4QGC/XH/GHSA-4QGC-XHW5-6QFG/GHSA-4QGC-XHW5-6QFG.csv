@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-4QGC-XHW5-6QFG,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23490,Live-Hack-CVE/CVE-2022-23490,582616637
 GHSA-4QGC-XHW5-6QFG,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23490,Live-Hack-CVE/CVE-2022-23490,582040192
