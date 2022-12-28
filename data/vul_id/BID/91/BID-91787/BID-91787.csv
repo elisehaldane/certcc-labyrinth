@@ -1,4 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-91787,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-0797,Live-Hack-CVE/CVE-2016-0797,582737886
+BID-91787,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-2105,Live-Hack-CVE/CVE-2016-2105,582737466
+BID-91787,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-2106,Live-Hack-CVE/CVE-2016-2106,582737101
 BID-91787,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-0705,Live-Hack-CVE/CVE-2016-0705,581356520
 BID-91787,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-0798,Live-Hack-CVE/CVE-2016-0798,581356466
 BID-91787,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-0797,Live-Hack-CVE/CVE-2016-0797,581356406

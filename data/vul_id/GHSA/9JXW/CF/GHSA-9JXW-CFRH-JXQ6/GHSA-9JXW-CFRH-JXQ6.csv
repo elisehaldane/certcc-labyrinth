@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-9JXW-CFRH-JXQ6,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-39172,Live-Hack-CVE/CVE-2021-39172,582735370
 GHSA-9JXW-CFRH-JXQ6,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-39172,Live-Hack-CVE/CVE-2021-39172,581354897

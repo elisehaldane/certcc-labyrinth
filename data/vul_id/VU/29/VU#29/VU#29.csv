@@ -130,6 +130,7 @@ VU#29,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#29,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#29,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#29,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
+VU#29,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
 VU#29,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
@@ -141,6 +142,7 @@ VU#29,0.04000000,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#29,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 VU#29,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#29,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
+VU#29,0.03846154,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#29,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
 VU#29,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#29,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
@@ -293,9 +295,9 @@ VU#29,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable
 VU#29,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#29,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#29,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
-VU#29,0.00666667,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 VU#29,0.00666667,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#29,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
+VU#29,0.00657895,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 VU#29,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#29,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#29,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361

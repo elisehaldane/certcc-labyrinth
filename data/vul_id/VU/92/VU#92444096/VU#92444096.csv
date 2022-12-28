@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#92444096,0.33333333,https://github.com/Live-Hack-CVE/CVE-2020-35576,Live-Hack-CVE/CVE-2020-35576,582804666
 VU#92444096,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
