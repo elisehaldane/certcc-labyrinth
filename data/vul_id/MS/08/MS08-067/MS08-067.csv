@@ -90,12 +90,12 @@ MS08-067,0.50000000,https://github.com/kn0/battery,kn0/battery,31389422
 MS08-067,0.50000000,https://github.com/gitpan/MetasploitExpress-Parser,gitpan/MetasploitExpress-Parser,25571640
 MS08-067,0.50000000,https://github.com/infodox/QuickSploit,infodox/QuickSploit,8268031
 MS08-067,0.50000000,https://github.com/hal3002/metasploit_scripts,hal3002/metasploit_scripts,1184891
+MS08-067,0.33333333,https://github.com/G00Dway/BlestSploit,G00Dway/BlestSploit,517681444
 MS08-067,0.33333333,https://github.com/Worldotank1287/sneaky_thing,Worldotank1287/sneaky_thing,320684047
 MS08-067,0.33333333,https://github.com/mukthy/oscp-survival-guide,mukthy/oscp-survival-guide,247701686
 MS08-067,0.33333333,https://github.com/MarkBuffalo/exploits,MarkBuffalo/exploits,153557664
 MS08-067,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
 MS08-067,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,veerupandey/Penetration-Testing-Toolkit,18219927
-MS08-067,0.25000000,https://github.com/G00Dway/BlestSploit,G00Dway/BlestSploit,517681444
 MS08-067,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS08-067,0.25000000,https://github.com/thomcz/smb-kastel-praktikum,thomcz/smb-kastel-praktikum,114903623
 MS08-067,0.25000000,https://github.com/n3tsky/Exploits,n3tsky/Exploits,111472762
@@ -538,3 +538,4 @@ MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS08-067,0.00000434,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS08-067,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

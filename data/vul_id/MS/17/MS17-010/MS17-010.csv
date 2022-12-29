@@ -281,11 +281,11 @@ MS17-010,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/p
 MS17-010,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS17-010,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
 MS17-010,0.05555556,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
-MS17-010,0.05263158,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
 MS17-010,0.05263158,https://github.com/ca3tie1/ExploitDepository,ca3tie1/ExploitDepository,428485331
 MS17-010,0.05263158,https://github.com/rayhan0x01/reverse-shell-able-exploit-pocs,rayhan0x01/reverse-shell-able-exploit-pocs,299184197
 MS17-010,0.05263158,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 MS17-010,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
+MS17-010,0.04761905,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
 MS17-010,0.04761905,https://github.com/ColdFusionX/ColdFusionX.github.io,ColdFusionX/ColdFusionX.github.io,289978694
 MS17-010,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 MS17-010,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
@@ -532,7 +532,6 @@ MS17-010,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-ra
 MS17-010,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 MS17-010,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 MS17-010,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
-MS17-010,0.00020773,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 MS17-010,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS17-010,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -553,10 +552,11 @@ MS17-010,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Inte
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00014693,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00016781,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS17-010,0.00011326,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00012484,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
+MS17-010,0.00007933,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
