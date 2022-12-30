@@ -2,6 +2,17 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#37,1.00000000,https://github.com/Enelg52/KittyStager,Enelg52/KittyStager,548910923
 VU#37,1.00000000,https://github.com/mousepad01/exploitation_workbench,mousepad01/exploitation_workbench,525278770
 VU#37,1.00000000,https://github.com/RapidoBuzz/RhyteredExploitAPI,RapidoBuzz/RhyteredExploitAPI,459694007
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35588,Live-Hack-CVE/CVE-2021-35588,583346237
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35550,Live-Hack-CVE/CVE-2021-35550,583346188
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35565,Live-Hack-CVE/CVE-2021-35565,583346101
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35567,Live-Hack-CVE/CVE-2021-35567,583346078
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35578,Live-Hack-CVE/CVE-2021-35578,583346061
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35586,Live-Hack-CVE/CVE-2021-35586,583346010
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35603,Live-Hack-CVE/CVE-2021-35603,583345991
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35556,Live-Hack-CVE/CVE-2021-35556,583345961
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35559,Live-Hack-CVE/CVE-2021-35559,583345940
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35564,Live-Hack-CVE/CVE-2021-35564,583345921
+VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35561,Live-Hack-CVE/CVE-2021-35561,583345909
 VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35588,Live-Hack-CVE/CVE-2021-35588,582107339
 VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35550,Live-Hack-CVE/CVE-2021-35550,582107296
 VU#37,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35565,Live-Hack-CVE/CVE-2021-35565,582107284
@@ -54,7 +65,6 @@ VU#37,0.14285714,https://github.com/AlexandrMilko/PenBot,AlexandrMilko/PenBot,58
 VU#37,0.14285714,https://github.com/6iKezbAD3CZnf/blockchained-ml,6iKezbAD3CZnf/blockchained-ml,562467899
 VU#37,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
 VU#37,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942458
-VU#37,0.12500000,https://github.com/nna-n5Ember13/HeapOverflow,nna-n5Ember13/HeapOverflow,582573747
 VU#37,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
 VU#37,0.12500000,https://github.com/mammuth/bitcoin-arbitrage-trading-bot,mammuth/bitcoin-arbitrage-trading-bot,114352403
 VU#37,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
