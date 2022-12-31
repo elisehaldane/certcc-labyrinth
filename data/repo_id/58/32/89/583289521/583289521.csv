@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+583289521,otsmr/internet-of-vulnerable-things,README.md,9dd91faf6eaf56a992dea656e500491f04da3ac1,CVE-2022-48194
+583289521,otsmr/internet-of-vulnerable-things,_GITHUB_REPO_METADATA_,,CVE-2022-48194
