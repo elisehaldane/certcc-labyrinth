@@ -1,4 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2013-5891,Live-Hack-CVE/CVE-2013-5891,583524228
+BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2014-0386,Live-Hack-CVE/CVE-2014-0386,583509308
+BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2014-0412,Live-Hack-CVE/CVE-2014-0412,583504273
 BID-64758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2014-0420,Live-Hack-CVE/CVE-2014-0420,582121647
 BID-64758,0.25000000,https://github.com/Live-Hack-CVE/CVE-2013-1620,Live-Hack-CVE/CVE-2013-1620,582627577
 BID-64758,0.25000000,https://github.com/Live-Hack-CVE/CVE-2013-1620,Live-Hack-CVE/CVE-2013-1620,581085537
