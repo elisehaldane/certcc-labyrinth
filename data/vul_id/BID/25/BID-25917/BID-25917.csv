@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,584072998
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,580261676
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,579846759
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,579594531
@@ -28,6 +29,7 @@ BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,57
 BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
 BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
 BID-25917,0.03448276,https://github.com/rcvalle/exploits,rcvalle/exploits,572425991
+BID-25917,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,584072691
 BID-25917,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,580260022
 BID-25917,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,579844914
 BID-25917,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,579593968
@@ -169,5 +171,5 @@ BID-25917,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,5523
 BID-25917,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-25917,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 BID-25917,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
-BID-25917,0.00000434,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-25917,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 BID-25917,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-38607,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,584072998
 OSVDB-38607,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,580261676
 OSVDB-38607,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,579846759
 OSVDB-38607,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,579594531
@@ -28,6 +29,7 @@ OSVDB-38607,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,
 OSVDB-38607,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
 OSVDB-38607,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
 OSVDB-38607,0.03448276,https://github.com/rcvalle/exploits,rcvalle/exploits,572425991
+OSVDB-38607,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,584072691
 OSVDB-38607,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,580260022
 OSVDB-38607,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,579844914
 OSVDB-38607,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,579593968

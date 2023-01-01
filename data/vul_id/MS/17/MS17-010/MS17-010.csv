@@ -286,11 +286,11 @@ MS17-010,0.05263158,https://github.com/ca3tie1/ExploitDepository,ca3tie1/Exploit
 MS17-010,0.05263158,https://github.com/rayhan0x01/reverse-shell-able-exploit-pocs,rayhan0x01/reverse-shell-able-exploit-pocs,299184197
 MS17-010,0.05263158,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 MS17-010,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
-MS17-010,0.04761905,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
 MS17-010,0.04761905,https://github.com/ColdFusionX/ColdFusionX.github.io,ColdFusionX/ColdFusionX.github.io,289978694
 MS17-010,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 MS17-010,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
 MS17-010,0.04761905,https://github.com/RootUp/AutoSploit,RootUp/AutoSploit,94699487
+MS17-010,0.04545455,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
 MS17-010,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197
 MS17-010,0.04545455,https://github.com/Fplyth0ner-Combie/Bug-Project-Framework,Fplyth0ner-Combie/Bug-Project-Framework,131603063
 MS17-010,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ray-tracer96024/metasploitable3-win2k8,449806826
@@ -555,7 +555,7 @@ MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00015163,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS17-010,0.00010840,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00010790,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
@@ -568,8 +568,8 @@ MS17-010,0.00005316,https://github.com/Capa-cc/Exploit,Capa-cc/Exploit,114506475
 MS17-010,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410
 MS17-010,0.00005249,https://github.com/Buzzkillhardball667/exploit-database,Buzzkillhardball667/exploit-database,120898188
 MS17-010,0.00005203,https://github.com/Buzzkillhardball667/exploit-database.,Buzzkillhardball667/exploit-database.,124883872
-MS17-010,0.00005132,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00005122,https://github.com/xfinest/exploit-database,xfinest/exploit-database,138446262
+MS17-010,0.00005118,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00005068,https://github.com/kunphiphitb/exploitdb,kunphiphitb/exploitdb,152238433
 MS17-010,0.00005041,https://github.com/metoo10987/exploitdb,metoo10987/exploitdb,156733009
 MS17-010,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/exploitdb,164003708
@@ -587,8 +587,8 @@ MS17-010,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spirito
 MS17-010,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
 MS17-010,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS17-010,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
-MS17-010,0.00001422,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001421,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS17-010,0.00000434,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS17-010,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
