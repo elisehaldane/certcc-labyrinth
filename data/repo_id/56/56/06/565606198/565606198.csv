@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-565606198,f0cus77/awesome-iot-security-resource,README.md,5fb27c5041b861f111d9e149eabde98524612c30,CVE-2020-14472
-565606198,f0cus77/awesome-iot-security-resource,README.md,5fb27c5041b861f111d9e149eabde98524612c30,CVE-2020-8515
-565606198,f0cus77/awesome-iot-security-resource,README.md,5fb27c5041b861f111d9e149eabde98524612c30,CVE-2022-0342
-565606198,f0cus77/awesome-iot-security-resource,README.md,5fb27c5041b861f111d9e149eabde98524612c30,CVE-2022-2030
+565606198,f0cus77/awesome-iot-security-resource,README.md,f343b341b7ffa6f1fa20909b592c714151c5176d,CVE-2020-14472
+565606198,f0cus77/awesome-iot-security-resource,README.md,f343b341b7ffa6f1fa20909b592c714151c5176d,CVE-2020-8515
+565606198,f0cus77/awesome-iot-security-resource,README.md,f343b341b7ffa6f1fa20909b592c714151c5176d,CVE-2021-33514
+565606198,f0cus77/awesome-iot-security-resource,README.md,f343b341b7ffa6f1fa20909b592c714151c5176d,CVE-2022-0342
+565606198,f0cus77/awesome-iot-security-resource,README.md,f343b341b7ffa6f1fa20909b592c714151c5176d,CVE-2022-2030
