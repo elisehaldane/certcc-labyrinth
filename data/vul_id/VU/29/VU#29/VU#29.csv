@@ -108,7 +108,6 @@ VU#29,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corn
 VU#29,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#29,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#29,0.07142857,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,487173629
-VU#29,0.06666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#29,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
 VU#29,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#29,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
@@ -296,6 +295,7 @@ VU#29,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,
 VU#29,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#29,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#29,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
+VU#29,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#29,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#29,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#29,0.00666667,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
