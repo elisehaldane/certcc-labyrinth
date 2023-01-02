@@ -1,0 +1,29 @@
+
+# Summary for results/2023/01/02
+    
+22 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|----------|--------------------|------------|---------------|-----------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-01-02 03:11:33+00:00 | 13414 | 5158 | Python | 726 | [] |
+| ashemery/exploitation-course | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | ['exploit'] | 1 | 2023-01-02 03:50:45+00:00 | 32383 | 1330 | Python | 272 | [] |
+| Spongescripts/AlphaExploits | None | https://github.com/Spongescripts/AlphaExploits | ['exploit'] | 1 | 2023-01-02 00:38:45+00:00 | 1 | 0 | | 0 | [] |
+| mrboxly/WMessageExploit | None | https://github.com/mrboxly/WMessageExploit | ['exploit'] | 1 | 2023-01-02 00:34:16+00:00 | 7 | 0 | Python | 0 | [] |
+| hells79/metasploit | metasploit | https://github.com/hells79/metasploit | ['metasploit module OR payload'] | 1 | 2023-01-02 00:17:38+00:00 | 398391 | 0 | Ruby | 0 | [] |
+| themanofpolybridge2/mayhem-of-the-strongest-shape | rce will like this (i think i honestly dont know) | https://github.com/themanofpolybridge2/mayhem-of-the-strongest-shape | ['rce'] | 1 | 2023-01-02 00:08:41+00:00 | 2 | 0 | nan | 0 | [] |
+| RedNotSus/exploits | exploits page | https://github.com/RedNotSus/exploits | ['exploit'] | 1 | 2023-01-02 03:13:12+00:00 | 35463 | 0 | HTML | 0 | [] |
+| SleipnirGroup/Sleipnir | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2023-01-02 04:12:28+00:00 | 904 | 11 | C++ | 2 | [] |
+| Mars0J/Marsploit | Uniform framework for vulnerability exploitation this tool free version | https://github.com/Mars0J/Marsploit | ['exploit'] | 1 | 2023-01-02 02:28:45+00:00 | 17 | 0 | | 0 | [] |
+| iilegacyyii/Shellcrypt | A QoL tool to obfuscate shellcode. In the future will be able to chain encoding/encryption/compression methods. | https://github.com/iilegacyyii/Shellcrypt | ['shellcode'] | 1 | 2023-01-02 01:17:02+00:00 | 66 | 77 | Python | 10 | [] |
+| krkhan/crypto-impl-exploit | None | https://github.com/krkhan/crypto-impl-exploit | ['exploit'] | 1 | 2023-01-02 02:21:50+00:00 | 34 | 0 | Go | 0 | [] |
+| sudoaza/bof | Simple tool to detect and exploit buffer overflows. | https://github.com/sudoaza/bof | ['exploit'] | 1 | 2023-01-02 00:12:31+00:00 | 23 | 5 | Python | 0 | [] |
+| GSstarGamer/Roblox-Exploits | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | ['exploit'] | 1 | 2023-01-02 04:30:35+00:00 | 136 | 2 | Lua | 0 | [] |
+| zan8in/afrog | A Vulnerability Scanning Tools For Penetration Testing | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2023-01-02 02:31:56+00:00 | 9094 | 1181 | Go | 175 | [] |
+| Slackes/Fortnite-External | 😎 ・Fortnite cheat external release driver bypass & Aimbot + Esp | https://github.com/Slackes/Fortnite-External | ['exploit'] | 1 | 2023-01-02 00:13:31+00:00 | 12454 | 73 | C++ | 33 | [] |
+| Psmths/reave | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | ['exploit'] | 1 | 2023-01-02 02:52:57+00:00 | 408 | 43 | Python | 11 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-01-02 04:20:03+00:00 | 11618646 | 120 | Python | 12 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-01-02 01:27:31+00:00 | 3198 | 153 | HTML | 2 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-01-02 04:12:16+00:00 | 311321 | 567 | Python | 150 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-01-02 04:04:52+00:00 | 704169 | 67 | | 24 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-01-02 04:32:59+00:00 | 711084 | 243 | REXX | 30 | [] |
+| nairpaa/ExploitDev-Templates | Exploit Development Template Scripts | https://github.com/nairpaa/ExploitDev-Templates | ['exploit'] | 1 | 2023-01-02 03:56:47+00:00 | 8 | 0 | Python | 0 | [] |
