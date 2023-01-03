@@ -114,6 +114,7 @@ VU#96,0.02325581,https://github.com/ksecurity45/exploitme.github.io,ksecurity45/
 VU#96,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#96,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#96,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
+VU#96,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
 VU#96,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,575262305
 VU#96,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,563392111
 VU#96,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
@@ -228,8 +229,8 @@ VU#96,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasp
 VU#96,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#96,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#96,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
+VU#96,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#96,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
-VU#96,0.00666667,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#96,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#96,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#96,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616

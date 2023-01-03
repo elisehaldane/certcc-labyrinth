@@ -90,6 +90,7 @@ VU#21,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,3226
 VU#21,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#21,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#21,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#21,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
 VU#21,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,575262305
 VU#21,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,563392111
 VU#21,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
@@ -215,8 +216,8 @@ VU#21,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable
 VU#21,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#21,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#21,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
+VU#21,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#21,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
-VU#21,0.00666667,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#21,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#21,0.00653595,https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841,Satheesh575555/Openssl_1_1_0_CVE-2021-23841,521602618
 VU#21,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,486927382
