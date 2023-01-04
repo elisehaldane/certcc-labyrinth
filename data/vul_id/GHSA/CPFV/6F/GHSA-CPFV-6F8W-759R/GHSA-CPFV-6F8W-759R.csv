@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-CPFV-6F8W-759R,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-45867,Live-Hack-CVE/CVE-2022-45867,584927086
