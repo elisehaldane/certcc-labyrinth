@@ -62,6 +62,7 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/HPInfo.py,b1a421587def4a109328b3753070fd1c26a6c5ab,CVE-2007-6333
 3493279,buffer/thug,thug/ActiveX/modules/HPInfo.py,b1a421587def4a109328b3753070fd1c26a6c5ab,CVE-2007-6332
 3493279,buffer/thug,thug/ActiveX/modules/HPInfo.py,b1a421587def4a109328b3753070fd1c26a6c5ab,CVE-2007-6331
+3493279,buffer/thug,thug/DOM/DFT.py,b77c0970f4a7a399b09a932333926db50c5eae91,CVE-2013-2423
 3493279,buffer/thug,tests/functional/test_pyhooks.py,b7e4f3d305d3c220d72b81ccafd121d199ba8030,CVE-2007-0018
 3493279,buffer/thug,thug/DOM/SchemeHandler.py,bc7b8717e26cc8c53b7694ec3a063a6fc1e3dafb,CVE-2010-1885
 3493279,buffer/thug,thug/ActiveX/modules/SnapshotViewer.py,c2ea5ea9e6cd32390bf2495516673db6181f0677,CVE-2008-2463
@@ -70,16 +71,15 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/NessusScanCtrl.py,cfc009fe9a4598976097ca6c0edb16126bc882a8,CVE-2007-4062
 3493279,buffer/thug,thug/ActiveX/modules/NessusScanCtrl.py,cfc009fe9a4598976097ca6c0edb16126bc882a8,CVE-2007-4031
 3493279,buffer/thug,thug/ActiveX/modules/NessusScanCtrl.py,cfc009fe9a4598976097ca6c0edb16126bc882a8,CVE-2007-4061
-3493279,buffer/thug,thug/DOM/DFT.py,d6d7038adfe510d17c47604fbf30ae7d6cecfed1,CVE-2013-2423
 3493279,buffer/thug,thug/ActiveX/modules/MSXML2DOMDocument.py,e10bec8b23bff643c8eb2246845cc03b9a5e5959,CVE-2012-1889
 3493279,buffer/thug,tests/samples/exploits/test-CVE-2013-2423.html,e2c365f30ea0da201c7b7cb965b72f9dba218f97,CVE-2013-2423
 3493279,buffer/thug,thug/ActiveX/modules/BitDefender.py,e2de276958cb27fa31afcae264a496d4d916e386,CVE-2007-5775
 3493279,buffer/thug,thug/ActiveX/modules/RealPlayer.py,e3e3acda7cb54a64fdd38fd895e05be67e2651d4,CVE-2007-5601
 3493279,buffer/thug,thug/ActiveX/modules/YahooMessengerYwcvwr.py,e6b596da4265469d7ccbcb2a2cc0695fd1eb62b6,CVE-2007-4391
 3493279,buffer/thug,thug/ActiveX/modules/AOLAttack.py,e6edc00fa1d72962bb87cad8771609ff74d768b1,CVE-2006-5820
-3493279,buffer/thug,thug/ActiveX/modules/SymantecBackupExec.py,e7d961081f57d0abbb2e45f3aaa5bee12a4def2f,CVE-2007-6017
 3493279,buffer/thug,thug/ActiveX/modules/SymantecBackupExec.py,e7d961081f57d0abbb2e45f3aaa5bee12a4def2f,CVE-2007-6016
+3493279,buffer/thug,thug/ActiveX/modules/SymantecBackupExec.py,e7d961081f57d0abbb2e45f3aaa5bee12a4def2f,CVE-2007-6017
 3493279,buffer/thug,thug/ActiveX/modules/Domino.py,f2684134053e30e0c15fc5609fe91746c756fa9d,CVE-2007-4474
 3493279,buffer/thug,tests/functional/test_misc_ie110.py,f3339407ae90b5cd3cd86686f1a02d83cde22058,CVE-2012-1889
-3493279,buffer/thug,conf/rules/urlclassifier/blackhole.yar,fd0692187bbb499de72fb926ecd54b7c349d5be8,CVE-2011-3402
+3493279,buffer/thug,thug/conf/rules/urlclassifier/blackhole.yar,fd0692187bbb499de72fb926ecd54b7c349d5be8,CVE-2011-3402
 3493279,buffer/thug,thug/ActiveX/modules/OfficeOCX.py,fd5541bc45281ab4e3a9dfadf32da95fdd47d8dc,BID-33243
