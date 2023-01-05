@@ -34,6 +34,7 @@ VU#36,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-
 VU#36,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#36,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
 VU#36,0.05263158,https://github.com/RyAtlasX/Roblox_scripts_for_newbie,RyAtlasX/Roblox_scripts_for_newbie,578548943
+VU#36,0.05263158,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#36,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#36,0.05263158,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
 VU#36,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
@@ -44,7 +45,6 @@ VU#36,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensem
 VU#36,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#36,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#36,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
-VU#36,0.04166667,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#36,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#36,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#36,0.04000000,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
@@ -67,6 +67,7 @@ VU#36,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,5660
 VU#36,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#36,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#36,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
+VU#36,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#36,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
 VU#36,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,575262305
 VU#36,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,563392111
@@ -146,6 +147,7 @@ VU#36,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machine
 VU#36,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#36,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#36,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
+VU#36,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#36,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#36,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#36,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -184,6 +186,7 @@ VU#36,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/k
 VU#36,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#36,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#36,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#36,0.00625000,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#36,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#36,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#36,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
@@ -192,7 +195,6 @@ VU#36,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#36,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#36,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#36,0.00497512,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
-VU#36,0.00485437,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#36,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#36,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#36,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081

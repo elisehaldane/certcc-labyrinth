@@ -14,13 +14,13 @@ VU#54,0.20000000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#54,0.20000000,https://github.com/ahmetfurkans/CVE-2022-22718,ahmetfurkans/CVE-2022-22718,502718850
 VU#54,0.20000000,https://github.com/duongletrieu/Apple-HTML-Exploiter,duongletrieu/Apple-HTML-Exploiter,419225438
 VU#54,0.20000000,https://github.com/FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,331038031
+VU#54,0.20000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#54,0.20000000,https://github.com/Hedy88/Can-my-iPhone-crash,Hedy88/Can-my-iPhone-crash,153901407
 VU#54,0.16666667,https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io,exploiteverythingtamil/exploiteverythingtamil.github.io,443118557
 VU#54,0.16666667,https://github.com/Qynklee/POC_CVE-2020-2883,Qynklee/POC_CVE-2020-2883,428189487
 VU#54,0.14285714,https://github.com/brightprogrammer/pwned,brightprogrammer/pwned,559560211
 VU#54,0.14285714,https://github.com/aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,524170531
 VU#54,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
-VU#54,0.14285714,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#54,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
 VU#54,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
 VU#54,0.11111111,https://github.com/Mikalb98/AugmentedReality,Mikalb98/AugmentedReality,580088120
@@ -103,6 +103,7 @@ VU#54,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-C
 VU#54,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#54,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#54,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
+VU#54,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#54,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#54,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#54,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -136,6 +137,7 @@ VU#54,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#54,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#54,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#54,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#54,0.00625000,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#54,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#54,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#54,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
@@ -145,7 +147,6 @@ VU#54,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#54,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#54,0.00497512,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#54,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-VU#54,0.00485437,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#54,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#54,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#54,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
@@ -201,7 +202,7 @@ VU#54,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#54,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#54,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#54,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#54,0.00019853,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#54,0.00019849,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#54,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#54,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#54,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

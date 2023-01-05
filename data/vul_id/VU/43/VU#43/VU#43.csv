@@ -77,6 +77,7 @@ VU#43,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#43,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#43,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#43,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
+VU#43,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#43,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
 VU#43,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,575262305
 VU#43,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138,563392111
@@ -164,6 +165,7 @@ VU#43,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machine
 VU#43,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#43,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#43,0.01098901,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#43,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#43,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#43,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#43,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -193,6 +195,7 @@ VU#43,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#43,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#43,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#43,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#43,0.00625000,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#43,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#43,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#43,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
@@ -202,7 +205,6 @@ VU#43,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#43,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#43,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#43,0.00497512,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
-VU#43,0.00485437,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#43,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#43,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#43,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296

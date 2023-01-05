@@ -51,7 +51,6 @@ VU#85,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x
 VU#85,0.07692308,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#85,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
 VU#85,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
-VU#85,0.07142857,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#85,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
 VU#85,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#85,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
@@ -60,7 +59,8 @@ VU#85,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,
 VU#85,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#85,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#85,0.05882353,https://github.com/iitsmel/Research,iitsmel/Research,542480984
-VU#85,0.05263158,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
+VU#85,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
+VU#85,0.05263158,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#85,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
 VU#85,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#85,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
@@ -160,6 +160,7 @@ VU#85,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#85,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#85,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#85,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
+VU#85,0.00625000,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#85,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#85,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#85,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
@@ -168,7 +169,6 @@ VU#85,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#85,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#85,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#85,0.00497512,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
-VU#85,0.00485437,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#85,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#85,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#85,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081

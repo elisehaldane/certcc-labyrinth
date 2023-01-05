@@ -7,6 +7,7 @@ VU#02,0.50000000,https://github.com/mronion420/kali_metasploit_rat_for_androd,mr
 VU#02,0.25000000,https://github.com/HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,533253583
 VU#02,0.20000000,https://github.com/dpfaffenbauer/defichain-icx-exploit-review,dpfaffenbauer/defichain-icx-exploit-review,446335747
 VU#02,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
+VU#02,0.20000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#02,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#02,0.16666667,https://github.com/mirailovers/exploits,mirailovers/exploits,473499714
 VU#02,0.16666667,https://github.com/01rabbit/PAKURI,01rabbit/PAKURI,222468962
@@ -14,7 +15,6 @@ VU#02,0.14285714,https://github.com/Projectrcs/Tinder-Exploit,Projectrcs/Tinder-
 VU#02,0.14285714,https://github.com/Projectrcs/Macro-Exploit,Projectrcs/Macro-Exploit,539945497
 VU#02,0.14285714,https://github.com/Projectrcs/XLL-Excel-Dropper,Projectrcs/XLL-Excel-Dropper,539944914
 VU#02,0.14285714,https://github.com/aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,524170531
-VU#02,0.14285714,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#02,0.12500000,https://github.com/bsauce/CTF,bsauce/CTF,197501807
 VU#02,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
 VU#02,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
@@ -24,6 +24,7 @@ VU#02,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Add_Product-
 VU#02,0.08333333,https://github.com/D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,468803860
 VU#02,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#02,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
+VU#02,0.07142857,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#02,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/Crypto_Exchange_Arb,494865686
 VU#02,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
 VU#02,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
@@ -41,7 +42,6 @@ VU#02,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,47
 VU#02,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#02,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#02,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
-VU#02,0.04166667,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#02,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#02,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
 VU#02,0.04000000,https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama,alanlengkoan/SPK-Pestisida-Membahas-Hama,432389593
@@ -93,6 +93,7 @@ VU#02,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVInce
 VU#02,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#02,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/darkweb_classification,488567745
 VU#02,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
+VU#02,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#02,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#02,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#02,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
@@ -131,6 +132,7 @@ VU#02,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/k
 VU#02,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#02,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#02,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#02,0.00625000,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#02,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#02,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#02,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
@@ -138,7 +140,6 @@ VU#02,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#02,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#02,0.00497512,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#02,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-VU#02,0.00485437,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#02,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#02,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#02,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
@@ -190,7 +191,7 @@ VU#02,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#02,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#02,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#02,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#02,0.00019853,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#02,0.00019849,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#02,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#02,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#02,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

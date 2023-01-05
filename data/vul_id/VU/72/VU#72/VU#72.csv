@@ -34,6 +34,7 @@ VU#72,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
 VU#72,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#72,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#72,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
+VU#72,0.07142857,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#72,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#72,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
 VU#72,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
@@ -48,7 +49,6 @@ VU#72,0.05263158,https://github.com/Cesar-Hack-Gray/FotoSploit,Cesar-Hack-Gray/F
 VU#72,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#72,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#72,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,118371522
-VU#72,0.04166667,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#72,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
 VU#72,0.04166667,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#72,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
@@ -94,6 +94,7 @@ VU#72,0.01219512,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#72,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#72,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#72,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
+VU#72,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#72,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#72,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#72,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -125,6 +126,7 @@ VU#72,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/k
 VU#72,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#72,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#72,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#72,0.00625000,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#72,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#72,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
 VU#72,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
@@ -135,7 +137,6 @@ VU#72,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#72,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#72,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#72,0.00497512,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
-VU#72,0.00485437,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#72,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#72,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#72,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
@@ -184,7 +185,7 @@ VU#72,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#72,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#72,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#72,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#72,0.00019853,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#72,0.00019849,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#72,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#72,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#72,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
