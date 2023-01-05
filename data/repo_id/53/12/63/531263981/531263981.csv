@@ -15,6 +15,4 @@ repo_id,repo_full_name,file,file_sha1,match
 531263981,Calvindd2f/Methodologies,Obfusgation_1.ps1,596e2806a5ce04146e363763e10c10f52f504a69,VU#075
 531263981,Calvindd2f/Methodologies,Obfusgation_1.ps1,596e2806a5ce04146e363763e10c10f52f504a69,VU#03
 531263981,Calvindd2f/Methodologies,Obfusgation_1.ps1,596e2806a5ce04146e363763e10c10f52f504a69,VU#55
-531263981,Calvindd2f/Methodologies,AdminMMC.msc,c0314838481d0194abc0fd536c62910367264dba,VU#25
-531263981,Calvindd2f/Methodologies,AdminMMC.msc,c0314838481d0194abc0fd536c62910367264dba,VU#82
 531263981,Calvindd2f/Methodologies,Invoke-EternalBlue.ps1,da860f2213c3efb9edef866e0dc69f1a1e903055,MS17-010
