@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-5WWW-JXVF-VRC3,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46177,Live-Hack-CVE/CVE-2022-46177,585705069
