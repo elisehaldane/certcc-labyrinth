@@ -15,8 +15,9 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/Grafana-Pentesting.md,9c42ed1c383dd38554665a23ad5cae667e1102bb,CVE-2021-43798
 568456034,hideckies/exploit-notes,src/exploit/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/SMB-Pentesting.md,c3c4a0b35a9d94fd81a8baa07ca369c59b62f931,MS17-010
-568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
+568456034,hideckies/exploit-notes,src/exploit/UAC-Windows-Privilege-Escalation.md,cb5145e36ba43cc19e6a226db6af4eaba8d0de33,CVE-2019-1388
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
+568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,dcb12f56003b85a1397aeef3edfd9f51d959cf42,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,e793b94fb2f108ede80f19965d10c23991584d45,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,e793b94fb2f108ede80f19965d10c23991584d45,CVE-2022-21699
