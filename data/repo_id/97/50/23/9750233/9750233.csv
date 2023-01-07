@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-9750233,Gallopsled/pwntools,pwnlib/tubes/ssh.py,66ac0fae622f25cc8c6b399461f026a010c7eeb3,CVE-2016-3672
+9750233,Gallopsled/pwntools,pwnlib/tubes/ssh.py,1fc5b0ec9150ded1e8197ddf242f88beaa1966f4,CVE-2016-3672
