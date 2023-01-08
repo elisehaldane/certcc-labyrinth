@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 377403248,nobodyisnobody/write-ups,m0leCon.CTF.2022/pwn/DirtyRAT/README.md,173281562c26db6c86eecf4e865992cf60dd352a,CVE-2022-0847
+377403248,nobodyisnobody/write-ups,RealWorldCTF.2022/pwn/Shellfind/firmware_5b2e8b00592e6d91d87a95c1d7b872e0.tar.gz,c00d5376734a146b6acbee31809e8073036fa287,VU#70
+377403248,nobodyisnobody/write-ups,RealWorldCTF.2022/pwn/Shellfind/firmware_5b2e8b00592e6d91d87a95c1d7b872e0.tar.gz,c00d5376734a146b6acbee31809e8073036fa287,VU#77
