@@ -12,9 +12,9 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/Spring-Pentesting.md,8728f0597e934ee61cac60092b4d7e35ea66c617,CVE-2022-22965
 568456034,hideckies/exploit-notes,src/exploit/Spring-Pentesting.md,8728f0597e934ee61cac60092b4d7e35ea66c617,CVE-2010-1622
+568456034,hideckies/exploit-notes,src/exploit/SMB-Pentesting.md,909d35975805d0bf16e223d4e6cf13b203624776,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/Grafana-Pentesting.md,9c42ed1c383dd38554665a23ad5cae667e1102bb,CVE-2021-43798
 568456034,hideckies/exploit-notes,src/exploit/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
-568456034,hideckies/exploit-notes,src/exploit/SMB-Pentesting.md,c3c4a0b35a9d94fd81a8baa07ca369c59b62f931,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/UAC-Windows-Privilege-Escalation.md,cb5145e36ba43cc19e6a226db6af4eaba8d0de33,CVE-2019-1388
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
