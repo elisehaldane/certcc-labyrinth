@@ -9,6 +9,7 @@ VU#54,0.33333333,https://github.com/loneicewolf/Stuxnet-Source,loneicewolf/Stuxn
 VU#54,0.33333333,https://github.com/corkami/collisions,corkami/collisions,167916892
 VU#54,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
 VU#54,0.25000000,https://github.com/Charline7/final-project-le-lasserre,Charline7/final-project-le-lasserre,475413214
+VU#54,0.25000000,https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming,HighDimensionalEconLab/symmetry_dynamic_programming,433221261
 VU#54,0.25000000,https://github.com/marketdesignresearch/MVNN,marketdesignresearch/MVNN,412384267
 VU#54,0.20000000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#54,0.20000000,https://github.com/ahmetfurkans/CVE-2022-22718,ahmetfurkans/CVE-2022-22718,502718850
@@ -71,6 +72,7 @@ VU#54,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#54,0.02631579,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#54,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#54,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
+VU#54,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#54,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#54,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#54,0.02325581,https://github.com/sinjeanmin/cvedetails_2020,sinjeanmin/cvedetails_2020,419696106
@@ -145,6 +147,7 @@ VU#54,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,53698180
 VU#54,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#54,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#54,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
+VU#54,0.00571429,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#54,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#54,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#54,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -175,6 +178,7 @@ VU#54,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#54,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#54,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#54,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#54,0.00250000,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#54,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#54,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#54,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540

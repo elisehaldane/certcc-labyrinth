@@ -23,6 +23,7 @@ VU#43,0.25000000,https://github.com/Rami-Majdoub/vulnerable-smart-contracts,Rami
 VU#43,0.25000000,https://github.com/redpack-kr/fei-protocol-flashloan-vuln,redpack-kr/fei-protocol-flashloan-vuln,518034682
 VU#43,0.25000000,https://github.com/yudikubota/exemplo_ataque_reentrada,yudikubota/exemplo_ataque_reentrada,516548886
 VU#43,0.25000000,https://github.com/tingzeng1208/demo-rce-frontend,tingzeng1208/demo-rce-frontend,440029650
+VU#43,0.25000000,https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming,HighDimensionalEconLab/symmetry_dynamic_programming,433221261
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432093732
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base,Nivaskumark/CVE-2020-0074-frameworks_base,431907402
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old,Nivaskumark/CVE-2020-0074-frameworks_base_old,431903208
@@ -73,6 +74,7 @@ VU#43,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#43,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#43,0.03571429,https://github.com/h00die/MSF-Testing-Scripts,h00die/MSF-Testing-Scripts,30868611
 VU#43,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
+VU#43,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#43,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#43,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#43,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
@@ -176,7 +178,6 @@ VU#43,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#43,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#43,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#43,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#43,0.00892857,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#43,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#43,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#43,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -200,6 +201,7 @@ VU#43,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,53698180
 VU#43,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#43,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#43,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
+VU#43,0.00571429,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#43,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#43,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#43,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -224,6 +226,7 @@ VU#43,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#43,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#43,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#43,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#43,0.00250000,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#43,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#43,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#43,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540

@@ -30,6 +30,7 @@ VU#74,0.25000000,https://github.com/0x3SC4L4T3/Apache-Log4j-POC,0x3SC4L4T3/Apach
 VU#74,0.25000000,https://github.com/notSkyFrost/RoMYSQL,notSkyFrost/RoMYSQL,437366363
 VU#74,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#74,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
+VU#74,0.25000000,https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming,HighDimensionalEconLab/symmetry_dynamic_programming,433221261
 VU#74,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
 VU#74,0.20000000,https://github.com/anvbis/windows.x86.expl,anvbis/windows.x86.expl,438593074
 VU#74,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
@@ -45,7 +46,6 @@ VU#74,0.12500000,https://github.com/helmutrocco13/helmutrocco13.github.io,helmut
 VU#74,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
 VU#74,0.11111111,https://github.com/copcop981/management_and_exploitation_of_houses,copcop981/management_and_exploitation_of_houses,581968762
 VU#74,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
-VU#74,0.11111111,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#74,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
 VU#74,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
 VU#74,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
@@ -99,6 +99,7 @@ VU#74,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#74,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#74,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#74,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
+VU#74,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#74,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#74,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#74,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
@@ -230,6 +231,7 @@ VU#74,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,53698180
 VU#74,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#74,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#74,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
+VU#74,0.00571429,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#74,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#74,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#74,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
@@ -257,6 +259,7 @@ VU#74,0.00262467,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#74,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#74,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#74,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#74,0.00250000,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#74,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#74,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#74,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
