@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+587907586,leRoderic/gitlab_exploit,pkexec/blasty-vs-pkexec.c,e80c97936a11da29c638927b3cb386f01c9b30f9,CVE-2021-4034
