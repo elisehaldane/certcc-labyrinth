@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#735,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
-VU#735,0.00268097,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#735,0.00222717,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#735,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#735,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
