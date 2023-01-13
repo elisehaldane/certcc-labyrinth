@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2021-28277,1.00000000,https://github.com/yggcwhat/CNVD-2021-28277,yggcwhat/CNVD-2021-28277,486897158
 CNVD-2021-28277,1.00000000,https://github.com/VVeakee/CNVD-2021-28277poc,VVeakee/CNVD-2021-28277poc,465927318
 CNVD-2021-28277,0.01315789,https://github.com/securitysqs/Web_Poc,securitysqs/Web_Poc,329870299
-CNVD-2021-28277,0.01298701,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
+CNVD-2021-28277,0.01282051,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
 CNVD-2021-28277,0.01041667,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 CNVD-2021-28277,0.00925926,https://github.com/StarCrossPortal/scalpel,StarCrossPortal/scalpel,561597867
 CNVD-2021-28277,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
