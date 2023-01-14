@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-XM34-V85H-9PG2,0.33333333,https://github.com/Live-Hack-CVE/CVE-2021-41275,Live-Hack-CVE/CVE-2021-41275,582169678
-GHSA-XM34-V85H-9PG2,0.00004881,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-XM34-V85H-9PG2,0.00004870,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-XM34-V85H-9PG2,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-XM34-V85H-9PG2,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 GHSA-XM34-V85H-9PG2,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
