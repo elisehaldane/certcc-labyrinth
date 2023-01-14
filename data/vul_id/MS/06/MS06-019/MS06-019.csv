@@ -77,8 +77,8 @@ MS06-019,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/win
 MS06-019,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 MS06-019,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS06-019,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-MS06-019,0.00262467,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS06-019,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS06-019,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS06-019,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS06-019,0.00191939,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
 MS06-019,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
@@ -193,7 +193,7 @@ MS06-019,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/Exp
 MS06-019,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS06-019,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 MS06-019,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
-MS06-019,0.00001390,https://github.com/trickest/cve,trickest/cve,454015416
+MS06-019,0.00001385,https://github.com/trickest/cve,trickest/cve,454015416
 MS06-019,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS06-019,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS06-019,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6V7P-V754-J89V,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
-GHSA-6V7P-V754-J89V,0.00001390,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-6V7P-V754-J89V,0.00001385,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-6V7P-V754-J89V,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 GHSA-6V7P-V754-J89V,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

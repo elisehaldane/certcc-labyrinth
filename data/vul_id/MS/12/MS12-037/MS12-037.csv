@@ -103,8 +103,8 @@ MS12-037,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/search
 MS12-037,0.00320513,https://github.com/GamehunterKaan/AutoPWN-Suite,GamehunterKaan/AutoPWN-Suite,491539517
 MS12-037,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS12-037,0.00318471,https://github.com/NS-unina/exploitdb-images,NS-unina/exploitdb-images,448787246
-MS12-037,0.00262467,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS12-037,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
+MS12-037,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS12-037,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS12-037,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS12-037,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
@@ -250,7 +250,7 @@ MS12-037,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS12-037,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS12-037,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 MS12-037,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
-MS12-037,0.00001390,https://github.com/trickest/cve,trickest/cve,454015416
+MS12-037,0.00001385,https://github.com/trickest/cve,trickest/cve,454015416
 MS12-037,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS12-037,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS12-037,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
