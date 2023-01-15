@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+585686482,undacmic/heartbleed-proof-of-concept,Dockerfile,025797a5f22c90922819c33e2b262dccaa7d0209,CVE-2014-0160
+585686482,undacmic/heartbleed-proof-of-concept,README.md,dfe3f86d0d347147562e1a174b910497057c32b7,CVE-2014-0160
+585686482,undacmic/heartbleed-proof-of-concept,_GITHUB_REPO_METADATA_,,CVE-2014-0160
