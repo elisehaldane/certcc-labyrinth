@@ -4,6 +4,7 @@ VU#98,0.50000000,https://github.com/Malware-S/Exploit-Win32.CVE-2017-0147.A,Malw
 VU#98,0.50000000,https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021,ISFCR-CTF/Hacktoberfest-Workshop-2021,418028497
 VU#98,0.33333333,https://github.com/thushi99/scp-client-vulnerability-exploit,thushi99/scp-client-vulnerability-exploit,456885932
 VU#98,0.33333333,https://github.com/Shingirirai5/metasploit,Shingirirai5/metasploit,421145812
+VU#98,0.25000000,https://github.com/Bw3ll/ShellWasp,Bw3ll/ShellWasp,516953882
 VU#98,0.25000000,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432093732
 VU#98,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base,Nivaskumark/CVE-2020-0074-frameworks_base,431907402
 VU#98,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old,Nivaskumark/CVE-2020-0074-frameworks_base_old,431903208
@@ -179,6 +180,7 @@ VU#98,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#98,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#98,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#98,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#98,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#98,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#98,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#98,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
@@ -247,7 +249,7 @@ VU#98,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#98,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#98,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 VU#98,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#98,0.00164474,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#98,0.00164204,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#98,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#98,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#98,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245

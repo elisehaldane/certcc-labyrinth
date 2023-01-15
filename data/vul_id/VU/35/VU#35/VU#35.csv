@@ -8,7 +8,6 @@ VU#35,0.20000000,https://github.com/Ch0pin/AVIator,Ch0pin/AVIator,129488616
 VU#35,0.14285714,https://github.com/brightprogrammer/pwned,brightprogrammer/pwned,559560211
 VU#35,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942458
 VU#35,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
-VU#35,0.12500000,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#35,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
 VU#35,0.10000000,https://github.com/bolt3x/tesi,bolt3x/tesi,533280790
 VU#35,0.10000000,https://github.com/Yuhala/hacking-tuto,Yuhala/hacking-tuto,509063995
@@ -73,6 +72,7 @@ VU#35,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-s
 VU#35,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
 VU#35,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#35,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
+VU#35,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#35,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#35,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#35,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
@@ -125,6 +125,7 @@ VU#35,0.00769231,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#35,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#35,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#35,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#35,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#35,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#35,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#35,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
@@ -179,7 +180,7 @@ VU#35,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#35,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#35,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#35,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#35,0.00164474,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#35,0.00164204,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#35,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#35,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#35,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

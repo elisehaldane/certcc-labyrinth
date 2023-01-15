@@ -41,8 +41,8 @@ MS12-020,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155
 MS12-020,0.04545455,https://github.com/Fplyth0ner-Combie/Bug-Project-Framework,Fplyth0ner-Combie/Bug-Project-Framework,131603063
 MS12-020,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ray-tracer96024/metasploitable3-win2k8,449806826
 MS12-020,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng/windows_exploit,147472650
-MS12-020,0.04000000,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 MS12-020,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
+MS12-020,0.03225806,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 MS12-020,0.02702703,https://github.com/telnet22/Kn0ck,telnet22/Kn0ck,200534665
 MS12-020,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS12-020,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
@@ -263,7 +263,7 @@ MS12-020,0.00005068,https://github.com/kunphiphitb/exploitdb,kunphiphitb/exploit
 MS12-020,0.00005041,https://github.com/metoo10987/exploitdb,metoo10987/exploitdb,156733009
 MS12-020,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/exploitdb,164003708
 MS12-020,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
-MS12-020,0.00004857,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS12-020,0.00004851,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS12-020,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
 MS12-020,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
@@ -275,7 +275,7 @@ MS12-020,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS12-020,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS12-020,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 MS12-020,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
-MS12-020,0.00001385,https://github.com/trickest/cve,trickest/cve,454015416
+MS12-020,0.00001384,https://github.com/trickest/cve,trickest/cve,454015416
 MS12-020,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS12-020,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS12-020,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

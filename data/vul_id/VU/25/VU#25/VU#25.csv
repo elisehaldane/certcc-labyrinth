@@ -80,7 +80,6 @@ VU#25,0.04347826,https://github.com/torque59/Nosql-Exploitation-Framework,torque
 VU#25,0.04166667,https://github.com/MariliaMeira/CVE-2019-14287,MariliaMeira/CVE-2019-14287,550531926
 VU#25,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#25,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
-VU#25,0.04000000,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#25,0.04000000,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#25,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#25,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
@@ -92,6 +91,7 @@ VU#25,0.03703704,https://github.com/subn0de/Roblox_Exploits,subn0de/Roblox_Explo
 VU#25,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#25,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#25,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
+VU#25,0.03225806,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#25,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
 VU#25,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#25,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
@@ -188,6 +188,7 @@ VU#25,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#25,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
 VU#25,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#25,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
+VU#25,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#25,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#25,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#25,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
@@ -258,7 +259,7 @@ VU#25,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#25,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#25,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#25,0.00164474,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#25,0.00164204,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#25,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#25,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#25,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

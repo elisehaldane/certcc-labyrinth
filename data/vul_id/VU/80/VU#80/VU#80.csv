@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#80,1.00000000,https://github.com/Venpnn/Crack-EclipseWare-Exploits-v1.7-for-Roblox,Venpnn/Crack-EclipseWare-Exploits-v1.7-for-Roblox,588790758
 VU#80,1.00000000,https://github.com/huangpan110/sunlogin_rce,huangpan110/sunlogin_rce,460666252
 VU#80,1.00000000,https://github.com/triple3567/MetasploitCTF,triple3567/MetasploitCTF,435269786
 VU#80,0.50000000,https://github.com/terry9089/ToToWARE-Fortnite-Cheat-Pre-compiled-GUI,terry9089/ToToWARE-Fortnite-Cheat-Pre-compiled-GUI,524410373
@@ -20,6 +21,7 @@ VU#80,0.16666667,https://github.com/ocastel/log4j-shell-poc,ocastel/log4j-shell-
 VU#80,0.16666667,https://github.com/vidrez/log4j-rce-poc,vidrez/log4j-rce-poc,503471159
 VU#80,0.16666667,https://github.com/NagisaYumaa/Log4j_Exploit,NagisaYumaa/Log4j_Exploit,498220300
 VU#80,0.16666667,https://github.com/Phineas09/CVE-2021-44228,Phineas09/CVE-2021-44228,491872919
+VU#80,0.16666667,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#80,0.16666667,https://github.com/ishan-saha/LOG4SHELL,ishan-saha/LOG4SHELL,457413438
 VU#80,0.16666667,https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC,ColdFusionX/CVE-2021-44228-Log4Shell-POC,449417650
 VU#80,0.16666667,https://github.com/minhnq22/log4shell_exploit,minhnq22/log4shell_exploit,445372469
@@ -44,7 +46,6 @@ VU#80,0.14285714,https://github.com/taise-hub/log4j-poc,taise-hub/log4j-poc,4474
 VU#80,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
 VU#80,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459852128
 VU#80,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459708235
-VU#80,0.12500000,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
 VU#80,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
 VU#80,0.10000000,https://github.com/Yuhala/hacking-tuto,Yuhala/hacking-tuto,509063995
 VU#80,0.10000000,https://github.com/Divyesh-Kanagavel/hack_art,Divyesh-Kanagavel/hack_art,424978628
@@ -142,6 +143,7 @@ VU#80,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-
 VU#80,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#80,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#80,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#80,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#80,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#80,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#80,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
@@ -188,7 +190,7 @@ VU#80,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#80,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#80,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#80,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#80,0.00164474,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#80,0.00164204,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#80,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#80,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#80,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

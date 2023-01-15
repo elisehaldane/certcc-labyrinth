@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#99,1.00000000,https://github.com/HazmatAiden/RelevantExploitsGUI,HazmatAiden/RelevantExploitsGUI,582362432
-VU#99,1.00000000,https://github.com/p-add/SlaveShipUI,p-add/SlaveShipUI,565057947
 VU#99,1.00000000,https://github.com/rmylohradova/exploiting-yt,rmylohradova/exploiting-yt,515149179
 VU#99,1.00000000,https://github.com/feifei-cv/RCE,feifei-cv/RCE,481510588
 VU#99,1.00000000,https://github.com/feifei-cv/RCE,feifei-cv/RCE,481491446
@@ -137,6 +136,7 @@ VU#99,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#99,0.00781250,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#99,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#99,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#99,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#99,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
 VU#99,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
@@ -194,7 +194,7 @@ VU#99,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#99,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#99,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#99,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#99,0.00164474,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#99,0.00164204,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#99,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 VU#99,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#99,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
