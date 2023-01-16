@@ -85,7 +85,6 @@ VU#29,0.11111111,https://github.com/SummerSec/SpringExploit,SummerSec/SpringExpl
 VU#29,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#29,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#29,0.11111111,https://github.com/jweny/pocassist,jweny/pocassist,366671705
-VU#29,0.09090909,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#29,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
 VU#29,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowbase/active-directory-abuse-notes,522582748
 VU#29,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
@@ -94,6 +93,7 @@ VU#29,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#29,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
 VU#29,0.09090909,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
 VU#29,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
+VU#29,0.08333333,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#29,0.08333333,https://github.com/D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,470636236
 VU#29,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,469606452
 VU#29,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Add_Product-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Full-Ecommece-Website-Add_Product-Unrestricted-File-Upload-RCE-POC,469547289
@@ -274,6 +274,7 @@ VU#29,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysi
 VU#29,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#29,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#29,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#29,0.00943396,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#29,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#29,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#29,0.00917431,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
