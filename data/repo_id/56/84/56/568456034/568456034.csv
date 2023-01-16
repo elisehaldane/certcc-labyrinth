@@ -1,12 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/SMB-Pentesting.md,04e72b26ca89e74a76221405ede58c3511c5c5a1,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/WordPress-Pentesting.md,06d044672b9948e4729c5394a63bf6fb5797e5de,CVE-2021-29447
-568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,0a4e302bc8b42bd542f091c6ff9178046b5887ef,CVE-2021-3156
 568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,0a4e302bc8b42bd542f091c6ff9178046b5887ef,CVE-2019-18634
+568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,0a4e302bc8b42bd542f091c6ff9178046b5887ef,CVE-2021-3156
 568456034,hideckies/exploit-notes,src/exploit/Directory-Traversal.md,0efb02aa56609e01cfea3985b75290f0bdec6578,CVE-2021-42013
 568456034,hideckies/exploit-notes,src/exploit/Directory-Traversal.md,0efb02aa56609e01cfea3985b75290f0bdec6578,CVE-2021-41773
-568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,366eaea0f0174969453bc56b40782629f850718a,CVE-2021-1675
-568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,366eaea0f0174969453bc56b40782629f850718a,CVE-2021-34527
 568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,4b430816c66f90321aaae35103d39671de010dd5,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/Gogs-Pentesting.md,4e6a4c8ff49ac741eb7627fb1bb25149548e84a3,CVE-2014-8682
 568456034,hideckies/exploit-notes,src/exploit/Grafana-Pentesting.md,5167f27bee6e6b1b57cde48e2b83e562befbb2fb,CVE-2021-43798
@@ -19,6 +17,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/UAC-Windows-Privilege-Escalation.md,cb5145e36ba43cc19e6a226db6af4eaba8d0de33,CVE-2019-1388
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
+568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-1675
+568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-34527
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,e793b94fb2f108ede80f19965d10c23991584d45,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,e793b94fb2f108ede80f19965d10c23991584d45,CVE-2022-21699
 568456034,hideckies/exploit-notes,src/exploit/Webmin-Pentesting.md,febe48ddfdb765f7049549cbdde8ad8f8406a738,CVE-2019-15107
