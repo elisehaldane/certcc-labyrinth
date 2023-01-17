@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+589711939,r0hanSH/exploits,apache-superset/CVE-2022-45438/README.md,e3dfc3ce4b561ea4a5623dbdfba9326c735f841d,CVE-2022-45438
+589711939,r0hanSH/exploits,apache-superset/CVE-2022-41703/README.md,f5ed7f70ad89c8c3196b49cffc8c90b45b2de86b,CVE-2022-41703
