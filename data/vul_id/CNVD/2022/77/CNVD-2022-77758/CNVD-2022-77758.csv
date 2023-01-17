@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2022-77758,0.06666667,https://github.com/liansweb/rce,liansweb/rce,570374964
