@@ -1,3 +1,2 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-HPH3-HV3C-7725,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22489,Live-Hack-CVE/CVE-2023-22489,590077017
-GHSA-HPH3-HV3C-7725,0.00031949,https://github.com/ARPSyndicate/cvemon,ARPSyndicate/cvemon,357427484

@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-8231,0.33333333,https://github.com/Live-Hack-CVE/CVE-2019-6772,Live-Hack-CVE/CVE-2019-6772,583208891
 ZDI-CAN-8231,0.00007487,https://github.com/enaqx/sploitware,enaqx/sploitware,22348337
-ZDI-CAN-8231,0.00004832,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-8231,0.00004816,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 ZDI-CAN-8231,0.00003785,https://github.com/joocer/cve-exploit-predictor,joocer/cve-exploit-predictor,195553065
 ZDI-CAN-8231,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 ZDI-CAN-8231,0.00000629,https://github.com/Vasileios-Mavroeidis/semantic-stix-vulnerability,Vasileios-Mavroeidis/semantic-stix-vulnerability,392265661
