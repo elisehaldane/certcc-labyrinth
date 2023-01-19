@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-VHG3-F6GV-J89R,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-48252,Live-Hack-CVE/CVE-2022-48252,590642419
 GHSA-VHG3-F6GV-J89R,0.00001376,https://github.com/trickest/cve,trickest/cve,454015416
