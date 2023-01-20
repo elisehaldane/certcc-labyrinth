@@ -810,7 +810,7 @@ repo_id,repo_full_name,file,file_sha1,match
 582102746,RedNotSus/exploits,misc/emulator/gba/Binaries/sag.gba,6ce77309c2caacf466f9a2c37c3fe84e4ce23242,VU#76
 582102746,RedNotSus/exploits,misc/emulator/gba/Binaries/sag.gba,6ce77309c2caacf466f9a2c37c3fe84e4ce23242,VU#58
 582102746,RedNotSus/exploits,misc/emulator/gba/Binaries/sag.gba,6ce77309c2caacf466f9a2c37c3fe84e4ce23242,VU#55
-582102746,RedNotSus/exploits,misc/vex5/assets/sounds/achievementUnlocked.ogg,6d684bdc89744d5d1803c564e98d91de27e62002,VU#93
+582102746,RedNotSus/exploits,misc/vex3/assets/sounds/achievement-unlocked.ogg,6d684bdc89744d5d1803c564e98d91de27e62002,VU#93
 582102746,RedNotSus/exploits,misc/emulator/gba/Binaries/onepiece.gba,6dfe6572aa6b51e2c550ddeef7ca04c35fcdf299,VU#43
 582102746,RedNotSus/exploits,misc/emulator/gba/Binaries/onepiece.gba,6dfe6572aa6b51e2c550ddeef7ca04c35fcdf299,VU#33
 582102746,RedNotSus/exploits,misc/vex6/assets/sounds/explosion.ogg,71638c82fb42292f7b73c7ccca88a2a1ddb70c1f,VU#58
