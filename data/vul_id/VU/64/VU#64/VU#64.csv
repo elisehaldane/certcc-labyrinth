@@ -76,12 +76,14 @@ VU#64,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#64,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#64,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#64,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
+VU#64,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
 VU#64,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
 VU#64,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#64,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#64,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#64,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#64,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#64,0.02173913,https://github.com/Trinadh465/linux-4.19.72_CVE-2022-45934,Trinadh465/linux-4.19.72_CVE-2022-45934,591176120
 VU#64,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#64,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946,Satheesh575555/linux-4.19.72_CVE-2022-36946,561255728
 VU#64,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581,nidhi7598/linux-4.19.72_CVE-2022-29581,541412587
@@ -184,6 +186,7 @@ VU#64,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#64,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#64,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#64,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#64,0.00403226,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#64,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#64,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#64,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
@@ -210,7 +213,6 @@ VU#64,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#64,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#64,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#64,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
-VU#64,0.00179533,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#64,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#64,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#64,0.00161031,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746

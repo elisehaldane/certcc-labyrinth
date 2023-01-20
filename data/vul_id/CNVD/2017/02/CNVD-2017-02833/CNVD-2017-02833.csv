@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNVD-2017-02833,0.01041667,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
+CNVD-2017-02833,0.00990099,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 CNVD-2017-02833,0.00763359,https://github.com/gobysec/GobyVuls,gobysec/GobyVuls,252611538
 CNVD-2017-02833,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
