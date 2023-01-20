@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#64,1.00000000,https://github.com/k0mraid3/K0mraid3s-System-Shell,k0mraid3/K0mraid3s-System-Shell,591041270
 VU#64,1.00000000,https://github.com/24kimel/theheap,24kimel/theheap,550942413
 VU#64,1.00000000,https://github.com/freesoftwaress/Nihon,freesoftwaress/Nihon,540929158
 VU#64,1.00000000,https://github.com/Wack0/SecureBootPolicyTools,Wack0/SecureBootPolicyTools,527722680
@@ -64,6 +65,7 @@ VU#64,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,2236
 VU#64,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#64,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#64,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
+VU#64,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2022-45934,nidhi7598/linux-3.0.35_CVE-2022-45934,591173287
 VU#64,0.04000000,https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220,Trinadh465/linux-3.0.35_CVE-2019-10220,578462667
 VU#64,0.04000000,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#64,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405,nidhi7598/linux-3.0.35_CVE-2018-13405,563680842

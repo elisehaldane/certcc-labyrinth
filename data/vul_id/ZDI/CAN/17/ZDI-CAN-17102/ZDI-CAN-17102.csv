@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-17102,0.33333333,https://github.com/Live-Hack-CVE/CVE-2022-40638,Live-Hack-CVE/CVE-2022-40638,583406814
 ZDI-CAN-17102,0.00114679,https://github.com/JoshTech1000/CVE-Details_2022-Analysis,JoshTech1000/CVE-Details_2022-Analysis,576556373
-ZDI-CAN-17102,0.00004775,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-17102,0.00004765,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 ZDI-CAN-17102,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 ZDI-CAN-17102,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 ZDI-CAN-17102,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

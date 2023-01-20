@@ -82,6 +82,7 @@ BID-1,0.05000000,https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680,nidhi7
 BID-1,0.05000000,https://github.com/jfustos/spectre_linux,jfustos/spectre_linux,156473040
 BID-1,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
 BID-1,0.04761905,https://github.com/bbrezillon/linux-0day,bbrezillon/linux-0day,47608613
+BID-1,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2022-45934,nidhi7598/linux-3.0.35_CVE-2022-45934,591173287
 BID-1,0.04000000,https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220,Trinadh465/linux-3.0.35_CVE-2019-10220,578462667
 BID-1,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405,nidhi7598/linux-3.0.35_CVE-2018-13405,563680842
 BID-1,0.04000000,https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827,nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827,480403914
