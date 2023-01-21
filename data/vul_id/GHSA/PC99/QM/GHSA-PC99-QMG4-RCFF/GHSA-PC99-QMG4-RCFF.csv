@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-PC99-QMG4-RCFF,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22726,Live-Hack-CVE/CVE-2023-22726,591505064

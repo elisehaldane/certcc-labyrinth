@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#43,1.00000000,https://github.com/BIT-BOBH/WebvpnExploit,BIT-BOBH/WebvpnExploit,548364609
 VU#43,1.00000000,https://github.com/nguyenvukhang/hcanoe2,nguyenvukhang/hcanoe2,431508646
 VU#43,1.00000000,https://github.com/OHDSI/ArachneExecutionEngine,OHDSI/ArachneExecutionEngine,101303828
+VU#43,0.50000000,https://github.com/HazmatAiden/RelevantExploitsGUI,HazmatAiden/RelevantExploitsGUI,582362432
 VU#43,0.50000000,https://github.com/asparuhdamyanov/Ethernaut,asparuhdamyanov/Ethernaut,550416262
 VU#43,0.50000000,https://github.com/Neurotiv/Maki,Neurotiv/Maki,542653163
 VU#43,0.50000000,https://github.com/Xcod3bughunt3r/xsser,Xcod3bughunt3r/xsser,521932550
@@ -80,6 +81,7 @@ VU#43,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#43,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#43,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#43,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
+VU#43,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#43,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#43,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
 VU#43,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,575262305
