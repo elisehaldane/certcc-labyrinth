@@ -21,4 +21,5 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-34527
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,e793b94fb2f108ede80f19965d10c23991584d45,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/Python-Privilege-Escalation.md,e793b94fb2f108ede80f19965d10c23991584d45,CVE-2022-21699
+568456034,hideckies/exploit-notes,src/exploit/WinRM-Pentesting.md,fb58bb31dc68248627ea6a256a99322ff59a026f,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/Webmin-Pentesting.md,febe48ddfdb765f7049549cbdde8ad8f8406a738,CVE-2019-15107
