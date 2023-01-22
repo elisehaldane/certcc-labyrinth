@@ -2,6 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-39PV-4VMJ-C4FR,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41958,Live-Hack-CVE/CVE-2022-41958,582841398
 GHSA-39PV-4VMJ-C4FR,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-39PV-4VMJ-C4FR,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
-GHSA-39PV-4VMJ-C4FR,0.00001371,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-39PV-4VMJ-C4FR,0.00001370,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-39PV-4VMJ-C4FR,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 GHSA-39PV-4VMJ-C4FR,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
