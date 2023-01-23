@@ -1,0 +1,30 @@
+
+# Summary for results/2023/01/23
+    
+23 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2023-01-23 00:26:55+00:00 | 68380 | 998 | Lua | 214 | [] |
+| 1emvr/The-Art-of-Exploitation | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in pro | https://github.com/1emvr/The-Art-of-Exploitation | ['exploit'] | 1 | 2023-01-23 02:23:42+00:00 | 112775 | 2 | C | 0 | [] |
+| ehsanaghaei/CVE2TTP | An automated approach to assess, annotate, and extract threat information from cybersecurity textual resources to develop a model on top of SecureBERT to classify CVEs to TTPs. | https://github.com/ehsanaghaei/CVE2TTP | ['cve-2 OR cve_2'] | 1 | 2023-01-23 03:42:32+00:00 | 232 | 0 | nan | 0 | [] |
+| sp00fing/ddos | L7/L4/L3 & Game METHODS (USE ONLY FOR EDUCATIONAL PURPOSES!!!) | https://github.com/sp00fing/ddos | ['exploit'] | 1 | 2023-01-23 03:36:27+00:00 | 376 | 0 | C | 0 | [] |
+| rumi-chan/LeagueExploits | A list of all the exploits I know | https://github.com/rumi-chan/LeagueExploits | ['exploit'] | 1 | 2023-01-23 02:17:25+00:00 | 2 | 0 | | 0 | [] |
+| TheWisePigeon/rceedao-frontend | None | https://github.com/TheWisePigeon/rceedao-frontend | ['rce'] | 1 | 2023-01-23 00:30:55+00:00 | 42 | 0 | Svelte | 0 | [] |
+| TheWisePigeon/rceedao-backend | None | https://github.com/TheWisePigeon/rceedao-backend | ['rce'] | 1 | 2023-01-23 00:22:31+00:00 | 33 | 0 | TypeScript | 0 | [] |
+| mysurvive/pf2e-thaum-vuln | Improvement for Thaumaturge Exploit Vulnerability | https://github.com/mysurvive/pf2e-thaum-vuln | ['exploit'] | 1 | 2023-01-23 02:33:32+00:00 | 28 | 2 | JavaScript | 0 | [] |
+| cyberphor/FOXDIE | A Python module to manage the C2 of machines during post-exploitation. | https://github.com/cyberphor/FOXDIE | ['exploit'] | 1 | 2023-01-23 04:22:57+00:00 | 18 | 0 | Python | 0 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-01-23 03:48:24+00:00 | 30539 | 7 | Go | 0 | [] |
+| RedNotSus/exploits | unblocked apps and games | https://github.com/RedNotSus/exploits | ['exploit'] | 1 | 2023-01-23 03:08:07+00:00 | 1046525 | 0 | HTML | 0 | [] |
+| gsingh93/linux-exploit-dev-env | Everything you need to build and run Linux and Android kernels for exploit development | https://github.com/gsingh93/linux-exploit-dev-env | ['exploit'] | 1 | 2023-01-23 04:35:05+00:00 | 6239 | 7 | Makefile | 0 | [] |
+| karma9874/AndroRAT | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | ['exploit'] | 1 | 2023-01-23 00:41:24+00:00 | 40139 | 1531 | Java | 618 | [] |
+| JD2344/SecGen_Exploits | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | ['exploit'] | 1 | 2023-01-23 01:51:27+00:00 | 2707 | 0 | Ruby | 0 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2023-01-23 01:01:42+00:00 | 10312 | 123 | | 14 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2023-01-23 02:00:26+00:00 | 48087 | 3374 | Go | 400 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-01-23 03:47:30+00:00 | 55168 | 48 | Go | 15 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-01-23 01:59:02+00:00 | 514 | 364 | Shell | 78 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-01-23 00:10:23+00:00 | 1067 | 0 | | 1 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-01-23 01:37:07+00:00 | 2304 | 160 | HTML | 2 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-01-23 04:19:57+00:00 | 341791 | 570 | Python | 152 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-01-23 04:05:03+00:00 | 712026 | 68 | | 24 | [] |
+| NICkFurry212/Binary-Exploitation | Write-up | https://github.com/NICkFurry212/Binary-Exploitation | ['exploit'] | 1 | 2023-01-23 04:45:30+00:00 | 0 | 0 | | 0 | [] |
