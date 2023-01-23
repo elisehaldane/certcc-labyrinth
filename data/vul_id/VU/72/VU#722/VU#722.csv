@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#722,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#722,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploits,482204403
-VU#722,0.01388889,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
+VU#722,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#722,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#722,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#722,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
