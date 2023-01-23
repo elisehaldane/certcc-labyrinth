@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#300,1.00000000,https://github.com/demining/Cold-and-Hot-Wallets,demining/Cold-and-Hot-Wallets,582585942
 VU#300,1.00000000,https://github.com/demining/Blockchain-Attack-Vectors,demining/Blockchain-Attack-Vectors,580076024
+VU#300,0.50000000,https://github.com/demining/Twist-Attack,demining/Twist-Attack,592036305
 VU#300,0.50000000,https://github.com/veritas501/CVE-2022-2639-PipeVersion,veritas501/CVE-2022-2639-PipeVersion,532929867
 VU#300,0.50000000,https://github.com/veritas501/CVE-2022-34918,veritas501/CVE-2022-34918,520440526
 VU#300,0.50000000,https://github.com/vusec/bhi-spectre-bhb,vusec/bhi-spectre-bhb,465411926

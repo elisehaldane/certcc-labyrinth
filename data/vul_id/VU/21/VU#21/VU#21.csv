@@ -53,7 +53,6 @@ VU#21,0.08333333,https://github.com/zerosum0x0/defcon-25-workshop,zerosum0x0/def
 VU#21,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
 VU#21,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#21,0.06666667,https://github.com/Sx-p0t/BloxSploitsScripts,Sx-p0t/BloxSploitsScripts,576209996
-VU#21,0.06666667,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#21,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
@@ -72,6 +71,7 @@ VU#21,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prot
 VU#21,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
 VU#21,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 VU#21,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
+VU#21,0.04545455,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#21,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#21,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#21,0.04347826,https://github.com/subn0de/Roblox_Exploits,subn0de/Roblox_Exploits,326661200
@@ -85,6 +85,7 @@ VU#21,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecu
 VU#21,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#21,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#21,0.02857143,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
+VU#21,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#21,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#21,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#21,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
@@ -281,7 +282,7 @@ VU#21,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#21,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#21,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#21,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#21,0.00161031,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#21,0.00151057,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#21,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 VU#21,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#21,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950

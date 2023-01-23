@@ -273,6 +273,7 @@ MS17-010,0.08333333,https://github.com/nawfling/metasploitframework-wiki,nawflin
 MS17-010,0.07692308,https://github.com/krishpranav/autosploit,krishpranav/autosploit,381697342
 MS17-010,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
 MS17-010,0.07142857,https://github.com/sandoche/Terminhack,sandoche/Terminhack,290534663
+MS17-010,0.06666667,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 MS17-010,0.06666667,https://github.com/Netw0rkLan/Slote.me,Netw0rkLan/Slote.me,96312509
 MS17-010,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 MS17-010,0.06250000,https://github.com/ycdxsb/Exploits,ycdxsb/Exploits,273386397
@@ -318,6 +319,7 @@ MS17-010,0.03225806,https://github.com/oneplus-x/MS17-010,oneplus-x/MS17-010,166
 MS17-010,0.03225806,https://github.com/nixawk/labs,nixawk/labs,76525814
 MS17-010,0.03125000,https://github.com/ARPSyndicate/freakerdb,ARPSyndicate/freakerdb,298857919
 MS17-010,0.03125000,https://github.com/wrlu/Vulnerabilities,wrlu/Vulnerabilities,219482700
+MS17-010,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 MS17-010,0.03030303,https://github.com/orleven/Tentacle,orleven/Tentacle,85373049
 MS17-010,0.02941176,https://github.com/Nek0y4nSu/memory-scan,Nek0y4nSu/memory-scan,396036582
 MS17-010,0.02941176,https://github.com/Nek0y4nSu/shellcode-scan-dyn,Nek0y4nSu/shellcode-scan-dyn,396003539
@@ -558,7 +560,7 @@ MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009543,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS17-010,0.00008925,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00008924,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
@@ -578,7 +580,7 @@ MS17-010,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/e
 MS17-010,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 MS17-010,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS17-010,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-MS17-010,0.00004722,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00004720,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 MS17-010,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS17-010,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
