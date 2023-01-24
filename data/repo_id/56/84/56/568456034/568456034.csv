@@ -12,7 +12,7 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/Atlassian-Confluence-Pentesting.md,608ef9246a34c5776c6bfb73d40a6bf2a81d5468,CVE-2022-26134
 568456034,hideckies/exploit-notes,src/exploit/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
-568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,b69c401a37aeca2952d9f05c39b8635c69ef4d3e,CVE-2019-7304
+568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,a8ea22026d6add9c9ab10ec2ead52c459bfd2f41,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
 568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-34527
