@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-8PJX-JJ86-J47P,0.09090909,https://github.com/accuknox/samples,accuknox/samples,436227625
+GHSA-8PJX-JJ86-J47P,0.08333333,https://github.com/accuknox/samples,accuknox/samples,436227625
 GHSA-8PJX-JJ86-J47P,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-8PJX-JJ86-J47P,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-8PJX-JJ86-J47P,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
@@ -18,7 +18,7 @@ GHSA-8PJX-JJ86-J47P,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framew
 GHSA-8PJX-JJ86-J47P,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 GHSA-8PJX-JJ86-J47P,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 GHSA-8PJX-JJ86-J47P,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-GHSA-8PJX-JJ86-J47P,0.00019833,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-8PJX-JJ86-J47P,0.00019826,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-8PJX-JJ86-J47P,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 GHSA-8PJX-JJ86-J47P,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 GHSA-8PJX-JJ86-J47P,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
