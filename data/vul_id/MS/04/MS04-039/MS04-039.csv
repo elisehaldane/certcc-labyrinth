@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS04-039,0.16666667,https://github.com/leobargiotti/News-Classifier,leobargiotti/News-Classifier,585166925
 MS04-039,0.00191939,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
 MS04-039,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS04-039,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
@@ -13,6 +14,6 @@ MS04-039,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/Exp
 MS04-039,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS04-039,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 MS04-039,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
-MS04-039,0.00001358,https://github.com/trickest/cve,trickest/cve,454015416
+MS04-039,0.00001357,https://github.com/trickest/cve,trickest/cve,454015416
 MS04-039,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS04-039,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
