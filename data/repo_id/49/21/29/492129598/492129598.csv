@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+492129598,Mr-TechX/Exploit-Collector,Cacti_1.2.22_Command_Injection/Exploit.txt,8d4a9602d44f0b800811c568992d9fa75c844b5f,CVE-2022-46169
+492129598,Mr-TechX/Exploit-Collector,Cacti_1.2.22_Command_Injection/Exploit.txt,8d4a9602d44f0b800811c568992d9fa75c844b5f,GHSA-6P93-P743-35GF
