@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-588186913,BomberFish/Mandela,Mandela/Mods/AirPower/AirPowerImpl.swift,40187529898d529e16d3525ad24aaa062f72d734,VU#77
-588186913,BomberFish/Mandela,Mandela/Mods/AirPower/AirPowerImpl.swift,40187529898d529e16d3525ad24aaa062f72d734,VU#88
 588186913,BomberFish/Mandela,README.md,4d8caf59d889fb7047fb7658fd949da16f4e8c23,CVE-2022-46689
 588186913,BomberFish/Mandela,HACKING.md,c9e7753237bf9f91ec07221c06f57b5db16dbfd0,CVE-2022-46689
+588186913,BomberFish/Mandela,Mandela/Common.swift,e7806ecaf76bc840991ef7d781d3cb68b392d831,VU#77
+588186913,BomberFish/Mandela,Mandela/Common.swift,e7806ecaf76bc840991ef7d781d3cb68b392d831,VU#88
 588186913,BomberFish/Mandela,_GITHUB_REPO_METADATA_,,CVE-2022-46689
