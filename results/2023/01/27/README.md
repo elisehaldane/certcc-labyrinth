@@ -1,0 +1,29 @@
+
+# Summary for results/2023/01/27
+    
+22 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
+| htrgouvea/spellbook | Framework for rapid development and reusable of security tools | https://github.com/htrgouvea/spellbook | ['exploit'] | 1 | 2023-01-27 00:07:52+00:00 | 72517 | 72 | Perl | 17 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-01-27 04:33:53+00:00 | 1093076 | 253 | REXX | 30 | [] |
+| osmancanvural/csrf-poc-generator | Python script to create proof of concepts for csrf vulnerabilities. | https://github.com/osmancanvural/csrf-poc-generator | ['vulnerability poc'] | 1 | 2023-01-27 00:42:42+00:00 | 283 | 0 | Python | 0 | [] |
+| olaayman999/PicoCTF_writeups | writeups for web exploitations challenges | https://github.com/olaayman999/PicoCTF_writeups | ['exploit'] | 1 | 2023-01-27 01:54:00+00:00 | 206 | 0 | | 0 | [] |
+| Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation | None | https://github.com/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation | ['rce'] | 1 | 2023-01-27 04:31:20+00:00 | 630 | 0 | | 0 | ['CVE-2014-2383'] |
+| wd53rc16mn412tys53our32ces/exploits | None | https://github.com/wd53rc16mn412tys53our32ces/exploits | ['exploit'] | 1 | 2023-01-27 01:37:44+00:00 | 55573 | 0 | | 0 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-01-27 04:48:38+00:00 | 40354 | 7 | Go | 0 | [] |
+| 1emvr/The-Art-of-Exploitation | A repository for follow-along projects, binary exploitation, malware devlopment and my code analysis notes, excerpted from the book `Hacking: The Art of Exploitation` and from other external resources----Disclaimer: These programs should not be used in pro | https://github.com/1emvr/The-Art-of-Exploitation | ['exploit'] | 1 | 2023-01-27 02:43:27+00:00 | 112787 | 4 | C | 0 | [] |
+| Memerip/Ripper-Hub | Roblox exploit hub | https://github.com/Memerip/Ripper-Hub | ['exploit'] | 1 | 2023-01-27 03:37:17+00:00 | 53 | 0 | Lua | 0 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2023-01-27 01:01:30+00:00 | 10406 | 123 | | 14 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2023-01-27 02:01:33+00:00 | 48088 | 3381 | Go | 402 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-01-27 04:40:34+00:00 | 53867 | 47 | Go | 15 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-01-27 02:00:16+00:00 | 550 | 364 | Shell | 78 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2023-01-27 00:33:26+00:00 | 497087 | 7 | Jupyter Notebook | 1 | [] |
+| ZeroDayDaemon/ZeroDayDaemon | nan | https://github.com/ZeroDayDaemon/ZeroDayDaemon | ['zeroday'] | 1 | 2023-01-27 03:20:44+00:00 | 6 | 0 | nan | 0 | [] |
+| RoadLuck/exploits-tryhackme | None | https://github.com/RoadLuck/exploits-tryhackme | ['exploit'] | 1 | 2023-01-27 02:24:25+00:00 | 48 | 0 | Python | 0 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-01-27 01:39:26+00:00 | 2532 | 160 | HTML | 2 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-01-27 04:22:00+00:00 | 349589 | 570 | Python | 152 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-01-27 04:05:09+00:00 | 722879 | 68 | | 24 | [] |
+| acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2023-01-27 01:19:23+00:00 | 68396 | 1006 | Lua | 216 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-01-27 00:45:15+00:00 | 18860 | 51 | | 27 | [] |
+| hackeroficial/rce-lab1-pentest | config apache pentest ubuntu containe docker | https://github.com/hackeroficial/rce-lab1-pentest | ['rce'] | 1 | 2023-01-27 04:40:08+00:00 | 0 | 0 | | 0 | [] |
