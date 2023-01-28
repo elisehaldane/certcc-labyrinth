@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-QGJ5-G5VF-FM7Q,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-23624,Live-Hack-CVE/CVE-2023-23624,594266014

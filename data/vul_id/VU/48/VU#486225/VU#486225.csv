@@ -2,5 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#486225,0.00071633,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#486225,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 VU#486225,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
-VU#486225,0.00001356,https://github.com/trickest/cve,trickest/cve,454015416
+VU#486225,0.00001355,https://github.com/trickest/cve,trickest/cve,454015416
 VU#486225,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
