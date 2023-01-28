@@ -299,9 +299,9 @@ MS17-010,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ra
 MS17-010,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng/windows_exploit,147472650
 MS17-010,0.04347826,https://github.com/SirEOF/exploit-4,SirEOF/exploit-4,115913975
 MS17-010,0.04347826,https://github.com/dobin/yookiterm-slides,dobin/yookiterm-slides,82847859
-MS17-010,0.04166667,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
 MS17-010,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
 MS17-010,0.04166667,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+MS17-010,0.04000000,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
 MS17-010,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 MS17-010,0.03846154,https://github.com/quocvd1511/SimpleDeepRLwithMetasploit,quocvd1511/SimpleDeepRLwithMetasploit,570062666
 MS17-010,0.03846154,https://github.com/hoangcuongflp/exploit-1,hoangcuongflp/exploit-1,119947306
@@ -561,7 +561,7 @@ MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/wind
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009532,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-MS17-010,0.00008584,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00008559,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -580,8 +580,8 @@ MS17-010,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/e
 MS17-010,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 MS17-010,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 MS17-010,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627
-MS17-010,0.00004655,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
+MS17-010,0.00004626,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS17-010,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS17-010,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
