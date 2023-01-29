@@ -1,1 +1,2 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+594439011,TibiDumitru/real-life-exploitation,client/get_all_KB_from_host.py,cc2e7995d351d6b16e452e3c8c9eb2051e8c6331,CVE-2021-24094
