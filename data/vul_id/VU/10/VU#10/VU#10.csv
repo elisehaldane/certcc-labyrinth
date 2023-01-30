@@ -32,11 +32,11 @@ VU#10,0.12500000,https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-D
 VU#10,0.12500000,https://github.com/MainDabRblx/MainDabUISource,MainDabRblx/MainDabUISource,282796773
 VU#10,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
 VU#10,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/CVE-2021-28750-site,444335154
-VU#10,0.10000000,https://github.com/MashyBasker/exploit,MashyBasker/exploit,588262722
 VU#10,0.10000000,https://github.com/Yuhala/hacking-tuto,Yuhala/hacking-tuto,509063995
 VU#10,0.10000000,https://github.com/Divyesh-Kanagavel/hack_art,Divyesh-Kanagavel/hack_art,424978628
 VU#10,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#10,0.09090909,https://github.com/irwx777/SocialSploit,irwx777/SocialSploit,529940744
+VU#10,0.08333333,https://github.com/MashyBasker/exploit,MashyBasker/exploit,588262722
 VU#10,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-Project,519458932
 VU#10,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
 VU#10,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
@@ -92,6 +92,7 @@ VU#10,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-th
 VU#10,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#10,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#10,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
+VU#10,0.02272727,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#10,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#10,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#10,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
