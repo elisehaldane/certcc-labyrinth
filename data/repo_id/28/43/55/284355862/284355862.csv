@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_Linux-x64.zip,3edea03f093a1e34ae07d27e6111a5bad2f3d41c,VU#06
-284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_Linux-x64.zip,3edea03f093a1e34ae07d27e6111a5bad2f3d41c,VU#64
-284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_Linux-x64.zip,3edea03f093a1e34ae07d27e6111a5bad2f3d41c,VU#66
-284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_Win-x64.zip,a20754334ff2c5185e6315cd74a175189eeb7355,VU#89
+284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_Win-x64.zip,8b047d47cbec75c103e5684f9e00bab8969537ad,VU#63
+284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_Win-x64.zip,8b047d47cbec75c103e5684f9e00bab8969537ad,VU#78
+284355862,vandavey/DotnetCat,src/DotnetCat/bin/Zips/DotnetCat_Linux-x64.zip,eac831ab83d5e215dc60c931b198a980e4aecd70,VU#42
