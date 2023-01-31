@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#15,1.00000000,https://github.com/TahsinMir/Wordle-Exploiter,TahsinMir/Wordle-Exploiter,453610011
+VU#15,0.50000000,https://github.com/Live-Hack-CVE/CVE-2019-12181,Live-Hack-CVE/CVE-2019-12181,595242617
 VU#15,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-38106,Live-Hack-CVE/CVE-2022-38106,582627499
 VU#15,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-35252,Live-Hack-CVE/CVE-2021-35252,581279619
 VU#15,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-38106,Live-Hack-CVE/CVE-2022-38106,581085375
