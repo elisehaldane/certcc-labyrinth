@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 595001088,skulkarni-mv/hostapd_mirror,wpa_supplicant/wpa_gui-qt4/icons/laptop.svg,d7da2f7950bd57dc1fb856ef96ac02a2f7c6b315,VU#17
+595001088,skulkarni-mv/hostapd_mirror,hostapd/ChangeLog,fdc5e5d13917d5ef210c2089fb53260152094c70,CVE-2012-4445
 595001088,skulkarni-mv/hostapd_mirror,_GITHUB_REPO_METADATA_,,CVE-2022-23303
