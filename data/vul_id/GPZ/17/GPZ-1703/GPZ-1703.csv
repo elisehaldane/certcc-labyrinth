@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1703,0.00319489,https://github.com/tunz/js-vuln-db,tunz/js-vuln-db,65058285
 GPZ-1703,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
+GPZ-1703,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

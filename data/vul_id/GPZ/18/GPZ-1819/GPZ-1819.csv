@@ -2,3 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1819,0.33333333,https://github.com/Zon8Research/v8-vulnerabilities,Zon8Research/v8-vulnerabilities,373976572
 GPZ-1819,0.11111111,https://github.com/drtychai/browser-exploitation,drtychai/browser-exploitation,193786815
 GPZ-1819,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
+GPZ-1819,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

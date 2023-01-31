@@ -2,3 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-1,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-1,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-metasploit/metasploit-clone,25959480
 OSVDB-1,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
+OSVDB-1,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

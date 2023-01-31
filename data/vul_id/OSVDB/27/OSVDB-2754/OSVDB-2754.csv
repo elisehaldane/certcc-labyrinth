@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-2754,0.07692308,https://github.com/brunocampos01/seguranca-de-redes,brunocampos01/seguranca-de-redes,179489417
 OSVDB-2754,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
+OSVDB-2754,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
