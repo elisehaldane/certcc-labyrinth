@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+589061184,farinap5/Venera,scripts/cve/cve-2021/CVE-2021-40978.lua,48ff4b3620e72c44f68a3b278ddf5d39a9f0147e,CVE-2021-40978
+589061184,farinap5/Venera,scripts/cve/cve-2014/CVE-2014-6271.lua,dc09bb225c93e0108ac970e86cbffc93b827e5a2,CVE-2014-6271
