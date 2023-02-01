@@ -9,9 +9,9 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/Grafana-Pentesting.md,5167f27bee6e6b1b57cde48e2b83e562befbb2fb,CVE-2021-43798
 568456034,hideckies/exploit-notes,src/exploit/AJP-Pentesting.md,58efb226dab8817909cd4eb3540595ffa570ca3b,CVE-2020-1938
 568456034,hideckies/exploit-notes,src/exploit/Atlassian-Confluence-Pentesting.md,608ef9246a34c5776c6bfb73d40a6bf2a81d5468,CVE-2022-26134
-568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,696ed37252ba2a915ac50ede8315c0dd376b9124,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/Gitea-Pentesting.md,7d66e5faf75ca307a248d625094151924b001c7b,CVE-2020-14144
+568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,93c2d33a4e5a62eda39183952e6d8f892068c8ec,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,ac5f0218b44ff17e0958437532358e0649eb2dc7,CVE-2021-3156
 568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,ac5f0218b44ff17e0958437532358e0649eb2dc7,CVE-2019-18634
