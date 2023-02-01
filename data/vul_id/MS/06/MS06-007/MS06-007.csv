@@ -18,6 +18,8 @@ MS06-007,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit
 MS06-007,0.00159744,https://github.com/francisck/DanderSpritz_docs,francisck/DanderSpritz_docs,90116796
 MS06-007,0.00159490,https://github.com/r3p3r/DonnchaC-shadowbrokers-exploits,r3p3r/DonnchaC-shadowbrokers-exploits,115910466
 MS06-007,0.00159490,https://github.com/DonnchaC/shadowbrokers-exploits,DonnchaC/shadowbrokers-exploits,88255514
+MS06-007,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
+MS06-007,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 MS06-007,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS06-007,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS06-007,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
@@ -65,7 +67,7 @@ MS06-007,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,5857564
 MS06-007,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 MS06-007,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS06-007,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
-MS06-007,0.00001353,https://github.com/trickest/cve,trickest/cve,454015416
+MS06-007,0.00001371,https://github.com/trickest/cve,trickest/cve,454015416
 MS06-007,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS06-007,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS06-007,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

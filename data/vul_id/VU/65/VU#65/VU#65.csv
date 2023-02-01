@@ -52,12 +52,12 @@ VU#65,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JN
 VU#65,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,sumitdahake23/rceomchrysalis_2023.github.io,583640756
 VU#65,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#65,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
-VU#65,0.05882353,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#65,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#65,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#65,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#65,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#65,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
+VU#65,0.05555556,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#65,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#65,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
 VU#65,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
@@ -260,6 +260,8 @@ VU#65,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#65,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#65,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#65,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#65,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
+VU#65,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#65,0.00151057,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#65,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#65,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -284,7 +286,7 @@ VU#65,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#65,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#65,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#65,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#65,0.00019810,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#65,0.00019806,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#65,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#65,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#65,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

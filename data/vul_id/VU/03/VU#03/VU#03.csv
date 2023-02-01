@@ -65,6 +65,7 @@ VU#03,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitr
 VU#03,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
 VU#03,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#03,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
+VU#03,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_exploits,382872016
 VU#03,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2021-27850_POC,380253996
 VU#03,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
 VU#03,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
@@ -276,6 +277,8 @@ VU#03,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#03,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#03,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#03,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#03,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
+VU#03,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#03,0.00151057,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#03,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#03,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -302,6 +305,6 @@ VU#03,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#03,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#03,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#03,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#03,0.00019810,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#03,0.00019806,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#03,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#03,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

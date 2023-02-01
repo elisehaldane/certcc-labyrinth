@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-18315,0.33333333,https://github.com/Live-Hack-CVE/CVE-2022-42409,Live-Hack-CVE/CVE-2022-42409,594315711
 ZDI-CAN-18315,0.00008307,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
-ZDI-CAN-18315,0.00004585,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-18315,0.00004559,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
