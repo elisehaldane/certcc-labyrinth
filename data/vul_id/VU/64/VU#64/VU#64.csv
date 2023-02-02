@@ -76,6 +76,7 @@ VU#64,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#64,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#64,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#64,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
+VU#64,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
 VU#64,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
 VU#64,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
 VU#64,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
@@ -221,7 +222,7 @@ VU#64,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#64,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#64,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#64,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#64,0.00151057,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#64,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#64,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#64,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#64,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
@@ -244,7 +245,7 @@ VU#64,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#64,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#64,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#64,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#64,0.00019806,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#64,0.00019802,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#64,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#64,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#64,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

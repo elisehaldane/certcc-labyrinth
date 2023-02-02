@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-MRCW-FHW9-FJ8J,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-35977,Live-Hack-CVE/CVE-2022-35977,596637855

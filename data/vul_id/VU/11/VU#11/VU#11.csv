@@ -28,6 +28,7 @@ VU#11,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,53836144
 VU#11,0.06666667,https://github.com/colind0pe/Java-Vulnerability-Demo,colind0pe/Java-Vulnerability-Demo,532512601
 VU#11,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#11,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
+VU#11,0.06666667,https://github.com/AmeyaJagtap/Rowdy_Activation_Functions,AmeyaJagtap/Rowdy_Activation_Functions,376574720
 VU#11,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#11,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#11,0.05555556,https://github.com/Henrique-Miranda/thg-framework,Henrique-Miranda/thg-framework,163638862
@@ -52,6 +53,7 @@ VU#11,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT
 VU#11,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#11,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#11,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
+VU#11,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
 VU#11,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
 VU#11,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
 VU#11,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
@@ -126,7 +128,7 @@ VU#11,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation
 VU#11,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#11,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#11,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#11,0.00746269,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
+VU#11,0.00735294,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
 VU#11,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#11,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#11,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -180,7 +182,7 @@ VU#11,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#11,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#11,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#11,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#11,0.00151057,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#11,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#11,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#11,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#11,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
