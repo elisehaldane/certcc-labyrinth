@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#44,1.00000000,https://github.com/KOZ1OL/exploits,KOZ1OL/exploits,456404139
 VU#44,1.00000000,https://github.com/WMCB-Tech/RickSploit,WMCB-Tech/RickSploit,346977279
+VU#44,0.50000000,https://github.com/rotembrillant117/BitcoinAndCryptoCurrency-Seminar,rotembrillant117/BitcoinAndCryptoCurrency-Seminar,596608439
 VU#44,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
 VU#44,0.50000000,https://github.com/VVeakee/CVE-2022-24990-POC,VVeakee/CVE-2022-24990-POC,468177153
 VU#44,0.33333333,https://github.com/jhftss/CVE-2022-22639,jhftss/CVE-2022-22639,470871002
