@@ -13,8 +13,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/Gitea-Pentesting.md,7d66e5faf75ca307a248d625094151924b001c7b,CVE-2020-14144
 568456034,hideckies/exploit-notes,src/exploit/Linux-Privilege-Escalation.md,93c2d33a4e5a62eda39183952e6d8f892068c8ec,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
-568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,ac5f0218b44ff17e0958437532358e0649eb2dc7,CVE-2021-3156
-568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,ac5f0218b44ff17e0958437532358e0649eb2dc7,CVE-2019-18634
+568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,b254568fb1a8cc7c6f7718e7ed938d7be989690f,CVE-2021-3156
+568456034,hideckies/exploit-notes,src/exploit/Sudo-Privilege-Escalation.md,b254568fb1a8cc7c6f7718e7ed938d7be989690f,CVE-2019-18634
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
 568456034,hideckies/exploit-notes,src/exploit/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-34527
