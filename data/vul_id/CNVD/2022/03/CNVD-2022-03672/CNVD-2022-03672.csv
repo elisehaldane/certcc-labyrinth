@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2022-03672,0.50000000,https://github.com/Wrin9/sunflower_RCE_POC,Wrin9/sunflower_RCE_POC,460306906
-CNVD-2022-03672,0.00328947,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2022-03672,0.00324675,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 CNVD-2022-03672,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
 CNVD-2022-03672,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 CNVD-2022-03672,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
