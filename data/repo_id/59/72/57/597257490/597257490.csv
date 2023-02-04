@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+597257490,jnschaeffer/cve-2022-44268-detector,main.go,466cfa147c1ac079415fb6d19d3f7f1d5d5d9ef6,CVE-2022-44268
+597257490,jnschaeffer/cve-2022-44268-detector,README.md,57b19fbb924c80702dc0419def766e3291e5a93a,CVE-2022-44268
+597257490,jnschaeffer/cve-2022-44268-detector,go.mod,dcb580562ab6bac9ec9fa02bb2f411db55fa8ae3,CVE-2022-44268
+597257490,jnschaeffer/cve-2022-44268-detector,_GITHUB_REPO_METADATA_,,CVE-2022-44268
