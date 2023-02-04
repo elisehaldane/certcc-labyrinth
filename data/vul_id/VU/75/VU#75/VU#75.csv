@@ -53,7 +53,6 @@ VU#75,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#75,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#75,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#75,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
-VU#75,0.02272727,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#75,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#75,0.02222222,https://github.com/maveriktop007/-WindowsExploits,maveriktop007/-WindowsExploits,524907173
 VU#75,0.02222222,https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits,takeboy/https-github.com-abatchy17-WindowsExploits,456416342
@@ -68,6 +67,7 @@ VU#75,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-20
 VU#75,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#75,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
 VU#75,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
+VU#75,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#75,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#75,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,511024066
 VU#75,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
@@ -263,7 +263,7 @@ VU#75,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#75,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#75,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#75,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#75,0.00019802,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#75,0.00019798,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#75,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#75,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#75,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

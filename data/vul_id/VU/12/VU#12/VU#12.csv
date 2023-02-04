@@ -62,11 +62,9 @@ VU#12,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-th
 VU#12,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#12,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#12,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
-VU#12,0.02272727,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#12,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#12,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#12,0.02173913,https://github.com/Trinadh465/linux-4.19.72_CVE-2022-45934,Trinadh465/linux-4.19.72_CVE-2022-45934,591176120
-VU#12,0.02173913,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#12,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#12,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946,Satheesh575555/linux-4.19.72_CVE-2022-36946,561255728
 VU#12,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581,nidhi7598/linux-4.19.72_CVE-2022-29581,541412587
@@ -98,6 +96,7 @@ VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-20
 VU#12,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
 VU#12,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
 VU#12,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
+VU#12,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#12,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#12,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,511024066
 VU#12,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
@@ -158,6 +157,7 @@ VU#12,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,47
 VU#12,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#12,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#12,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
+VU#12,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#12,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#12,0.01538462,https://github.com/rhpco/CVE-2018-16509,rhpco/CVE-2018-16509,200477390
 VU#12,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
@@ -290,7 +290,7 @@ VU#12,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#12,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#12,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#12,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#12,0.00019802,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#12,0.00019798,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#12,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#12,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
