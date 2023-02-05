@@ -109,7 +109,6 @@ VU#14,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,N
 VU#14,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#14,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#14,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
-VU#14,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#14,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#14,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#14,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
@@ -130,6 +129,7 @@ VU#14,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Se
 VU#14,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#14,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#14,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
+VU#14,0.01333333,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#14,0.01333333,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#14,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#14,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
@@ -157,6 +157,7 @@ VU#14,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#14,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#14,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#14,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#14,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#14,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#14,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#14,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053

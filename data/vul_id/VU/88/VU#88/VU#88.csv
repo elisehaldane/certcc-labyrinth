@@ -39,6 +39,7 @@ VU#88,0.08333333,https://github.com/MashyBasker/exploit,MashyBasker/exploit,5882
 VU#88,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#88,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
 VU#88,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
+VU#88,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
 VU#88,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#88,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
 VU#88,0.06666667,https://github.com/n1nj4sec/pupy,n1nj4sec/pupy,42882329
@@ -109,7 +110,6 @@ VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-20
 VU#88,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
 VU#88,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
 VU#88,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
-VU#88,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#88,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#88,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,511024066
 VU#88,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
@@ -187,6 +187,7 @@ VU#88,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSpl
 VU#88,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#88,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
 VU#88,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
+VU#88,0.01333333,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#88,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#88,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#88,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -216,6 +217,7 @@ VU#88,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#88,0.00917431,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#88,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#88,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#88,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#88,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#88,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#88,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

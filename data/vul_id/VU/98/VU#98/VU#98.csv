@@ -85,7 +85,6 @@ VU#98,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-20
 VU#98,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#98,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
 VU#98,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
-VU#98,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#98,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#98,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,511024066
 VU#98,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
@@ -153,6 +152,7 @@ VU#98,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#98,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#98,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#98,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
+VU#98,0.01333333,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#98,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#98,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#98,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
@@ -177,6 +177,7 @@ VU#98,0.00917431,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#98,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#98,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploits,411731731
 VU#98,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#98,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#98,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#98,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#98,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025

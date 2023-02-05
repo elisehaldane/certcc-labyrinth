@@ -15,7 +15,6 @@ MS13-053,0.03030303,https://github.com/Pheelbert/ad_exploit_tools,Pheelbert/ad_e
 MS13-053,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 MS13-053,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS13-053,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
-MS13-053,0.01886792,https://github.com/melnicek/peh,melnicek/peh,293596215
 MS13-053,0.01886792,https://github.com/Johk3/HTB_Walkthrough,Johk3/HTB_Walkthrough,214670823
 MS13-053,0.01754386,https://github.com/redcode-labs/Svetovid,redcode-labs/Svetovid,330789985
 MS13-053,0.01639344,https://github.com/Drygster/Exploitation,Drygster/Exploitation,461223241
@@ -25,6 +24,7 @@ MS13-053,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937
 MS13-053,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 MS13-053,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/WindowsExploitTest,141821540
 MS13-053,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
+MS13-053,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 MS13-053,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 MS13-053,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS13-053,0.00719424,https://github.com/febinrev/privesc-post_exploit-collection,febinrev/privesc-post_exploit-collection,256685535
@@ -263,7 +263,7 @@ MS13-053,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spirito
 MS13-053,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 MS13-053,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS13-053,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
-MS13-053,0.00001338,https://github.com/trickest/cve,trickest/cve,454015416
+MS13-053,0.00001340,https://github.com/trickest/cve,trickest/cve,454015416
 MS13-053,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS13-053,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS13-053,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

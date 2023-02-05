@@ -64,7 +64,6 @@ VU#87,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-20
 VU#87,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
 VU#87,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
 VU#87,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
-VU#87,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#87,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#87,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,511024066
 VU#87,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
@@ -113,7 +112,6 @@ VU#87,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 VU#87,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#87,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#87,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
-VU#87,0.01886792,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#87,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#87,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#87,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
@@ -124,6 +122,7 @@ VU#87,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhick
 VU#87,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#87,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#87,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
+VU#87,0.01333333,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#87,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#87,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#87,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
@@ -149,6 +148,7 @@ VU#87,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#87,0.00917431,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#87,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#87,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#87,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#87,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#87,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#87,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053

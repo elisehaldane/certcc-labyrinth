@@ -51,7 +51,6 @@ MS16-032,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,739
 MS16-032,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS16-032,0.02000000,https://github.com/0x727/MetasploitCoop-Backend,0x727/MetasploitCoop-Backend,397159606
 MS16-032,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
-MS16-032,0.01886792,https://github.com/melnicek/peh,melnicek/peh,293596215
 MS16-032,0.01886792,https://github.com/Johk3/HTB_Walkthrough,Johk3/HTB_Walkthrough,214670823
 MS16-032,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 MS16-032,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
@@ -68,6 +67,7 @@ MS16-032,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS16-032,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
 MS16-032,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS16-032,0.00917431,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
+MS16-032,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 MS16-032,0.00840336,https://github.com/cckuailong/PocCollect,cckuailong/PocCollect,180113973
 MS16-032,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 MS16-032,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
@@ -296,7 +296,7 @@ MS16-032,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504
 MS16-032,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS16-032,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS16-032,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-MS16-032,0.00004473,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS16-032,0.00004468,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-032,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS16-032,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 MS16-032,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
@@ -305,7 +305,7 @@ MS16-032,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,5857564
 MS16-032,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS16-032,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS16-032,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
-MS16-032,0.00001338,https://github.com/trickest/cve,trickest/cve,454015416
+MS16-032,0.00001340,https://github.com/trickest/cve,trickest/cve,454015416
 MS16-032,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS16-032,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS16-032,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

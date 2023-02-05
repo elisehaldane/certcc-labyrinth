@@ -33,6 +33,7 @@ VU#22,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
 VU#22,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#22,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
 VU#22,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
+VU#22,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
 VU#22,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#22,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
 VU#22,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
@@ -80,7 +81,6 @@ VU#22,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-20
 VU#22,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696,537428527
 VU#22,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142,529215266
 VU#22,0.02040816,https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007,529194635
-VU#22,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#22,0.02040816,https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137,516352324
 VU#22,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138,511024066
 VU#22,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
@@ -144,6 +144,7 @@ VU#22,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#22,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#22,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#22,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
+VU#22,0.01333333,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#22,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#22,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#22,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523

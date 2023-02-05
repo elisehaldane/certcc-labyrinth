@@ -108,7 +108,6 @@ VU#58,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayEx
 VU#58,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#58,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#58,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
-VU#58,0.02040816,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#58,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#58,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#58,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
@@ -129,6 +128,7 @@ VU#58,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini
 VU#58,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#58,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#58,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
+VU#58,0.01333333,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#58,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#58,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#58,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
@@ -155,6 +155,7 @@ VU#58,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#58,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#58,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#58,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
+VU#58,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#58,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#58,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#58,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
