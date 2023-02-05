@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#78,1.00000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#78,1.00000000,https://github.com/LastWRcs/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New,LastWRcs/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New,496323280
 VU#78,1.00000000,https://github.com/netflixfurimmer/Crypter-FUD,netflixfurimmer/Crypter-FUD,492568481
 VU#78,1.00000000,https://github.com/leonardtang/exploit-explore-adaptive-gain,leonardtang/exploit-explore-adaptive-gain,470393118
@@ -16,6 +15,7 @@ VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploit
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,439772153
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,439750861
 VU#78,0.50000000,https://github.com/ROOT44x/Kol-Exploit-v1,ROOT44x/Kol-Exploit-v1,582430491
+VU#78,0.50000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#78,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
 VU#78,0.50000000,https://github.com/AnonymPlayer2/TL-Exploit,AnonymPlayer2/TL-Exploit,458954886
 VU#78,0.50000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,439712661

@@ -1,5 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#11,1.00000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
+VU#11,0.50000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
 VU#11,0.33333333,https://github.com/amitkkumra/vis-e-rce,amitkkumra/vis-e-rce,580446561
 VU#11,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
@@ -17,6 +19,7 @@ VU#11,0.14285714,https://github.com/superkojiman/vulnerabilities,superkojiman/vu
 VU#11,0.12500000,https://github.com/joshuar49/EvilSmurf2,joshuar49/EvilSmurf2,554498563
 VU#11,0.12500000,https://github.com/helmutrocco13/helmutrocco13.github.io,helmutrocco13/helmutrocco13.github.io,280519933
 VU#11,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
+VU#11,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
 VU#11,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#11,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-repo,487085739
 VU#11,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
