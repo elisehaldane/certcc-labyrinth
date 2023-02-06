@@ -9,7 +9,7 @@ repo_id,repo_full_name,file,file_sha1,match
 552501850,0xr94/Exploits,smb (139 - 445)/AutoBlue-MS17-010/requirements.txt,5d51ec02650f4ea82e3112a2791a1ae610af0dc4,MS17-010
 552501850,0xr94/Exploits,smb (139 - 445)/AutoBlue-MS17-010/shellcode/sc_x86_msf.bin,6389c82eec9c71756441b15be1026aadb2115106,MS17-010
 552501850,0xr94/Exploits,smb (139 - 445)/AutoBlue-MS17-010/eternalblue_exploit8.py,6b89b3217285b8d2bd2027ea888f85912b0bac5e,MS17-010
-552501850,0xr94/Exploits,smb (139 - 445)/ms17-010/42315.py,6f765f7d0201fca7f1068546621444b27ad327e7,MS17-010
+552501850,0xr94/Exploits,smb (139 - 445)/ms17-010/eternalBlue.py,6f765f7d0201fca7f1068546621444b27ad327e7,MS17-010
 552501850,0xr94/Exploits,smb (139 - 445)/AutoBlue-MS17-010/shellcode/shell_prep.sh,7860b43253d7b3562189ee1efdd24a02810ae9cb,MS17-010
 552501850,0xr94/Exploits,smb (139 - 445)/AutoBlue-MS17-010/shellcode/sc_x86.bin,943aa42f460ff747818d0f0247e6fc6c2dced8b9,MS17-010
 552501850,0xr94/Exploits,smb (139 - 445)/cve-2007-2447.py,983a68ad848dea3b35a9d33d30c8a468abbe0391,CVE-2007-2447
