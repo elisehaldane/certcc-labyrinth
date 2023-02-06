@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1640,0.03846154,https://github.com/howardgood88/CVE-reproduce,howardgood88/CVE-reproduce,349943817
 GPZ-1640,0.00653595,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
-GPZ-1640,0.00048031,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+GPZ-1640,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 GPZ-1640,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 GPZ-1640,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 GPZ-1640,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
@@ -62,7 +62,7 @@ GPZ-1640,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4
 GPZ-1640,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 GPZ-1640,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 GPZ-1640,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-GPZ-1640,0.00019798,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GPZ-1640,0.00019794,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GPZ-1640,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1640,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 GPZ-1640,0.00005068,https://github.com/kunphiphitb/exploitdb,kunphiphitb/exploitdb,152238433
