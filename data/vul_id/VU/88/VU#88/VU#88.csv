@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#88,1.00000000,https://github.com/YosiSF/EinsteinDB,YosiSF/EinsteinDB,180245584
 VU#88,0.50000000,https://github.com/HNT8/WeAreDevs-Exploit,HNT8/WeAreDevs-Exploit,502211738
 VU#88,0.50000000,https://github.com/entropyQueen/log4shell_malwares,entropyQueen/log4shell_malwares,439839303
+VU#88,0.33333333,https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT,n2x4/Feb2023-CVE-2021-21974-OSINT,597541159
 VU#88,0.33333333,https://github.com/BomberFish/Mandela,BomberFish/Mandela,588186913
 VU#88,0.33333333,https://github.com/1emvr/The-Art-of-Exploitation,1emvr/The-Art-of-Exploitation,579968326
 VU#88,0.33333333,https://github.com/BartuYalcin/RobloxExploitTierra37-V1.5,BartuYalcin/RobloxExploitTierra37-V1.5,574105178
@@ -187,7 +188,6 @@ VU#88,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSpl
 VU#88,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#88,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
 VU#88,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
-VU#88,0.01333333,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#88,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#88,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#88,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -195,6 +195,7 @@ VU#88,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-C
 VU#88,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#88,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#88,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
+VU#88,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#88,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#88,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#88,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652

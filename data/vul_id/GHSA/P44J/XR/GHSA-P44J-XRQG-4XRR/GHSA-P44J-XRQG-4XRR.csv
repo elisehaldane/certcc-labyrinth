@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-P44J-XRQG-4XRR,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
-GHSA-P44J-XRQG-4XRR,0.00104603,https://github.com/ARPSyndicate/cvemon,ARPSyndicate/cvemon,357427484
 GHSA-P44J-XRQG-4XRR,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 GHSA-P44J-XRQG-4XRR,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 GHSA-P44J-XRQG-4XRR,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
