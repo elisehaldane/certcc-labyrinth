@@ -40,6 +40,7 @@ VU#32,0.33333333,https://github.com/PabloMK7/kartdlphax,PabloMK7/kartdlphax,3626
 VU#32,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893340
 VU#32,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#32,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
+VU#32,0.25000000,https://github.com/h1bAna/exploit,h1bAna/exploit,598709439
 VU#32,0.25000000,https://github.com/sh3d0ww01f/shellcodeloader,sh3d0ww01f/shellcodeloader,532798607
 VU#32,0.25000000,https://github.com/teknologi-umum/pesto,teknologi-umum/pesto,499741162
 VU#32,0.25000000,https://github.com/7ih/FE2-Tas-Tool-by-Exploit,7ih/FE2-Tas-Tool-by-Exploit,499626488
@@ -61,6 +62,7 @@ VU#32,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-20
 VU#32,0.14285714,https://github.com/sysrom/ShellcodeGEN_GUI,sysrom/ShellcodeGEN_GUI,589195153
 VU#32,0.14285714,https://github.com/teppyboy/Generic_Exploit_Loader,teppyboy/Generic_Exploit_Loader,208081471
 VU#32,0.14285714,https://github.com/rosonsec/Exploits,rosonsec/Exploits,153505068
+VU#32,0.12500000,https://github.com/MulhamNob9919/roblox-scripts,MulhamNob9919/roblox-scripts,548982138
 VU#32,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
 VU#32,0.12500000,https://github.com/Dimples1337/NewSilenceFix-opensources,Dimples1337/NewSilenceFix-opensources,520340048
 VU#32,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,468544905
@@ -73,7 +75,6 @@ VU#32,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithin
 VU#32,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#32,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
-VU#32,0.08333333,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#32,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#32,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
@@ -86,12 +87,14 @@ VU#32,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproye
 VU#32,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#32,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#32,0.06666667,https://github.com/Sx-p0t/BloxSploitsScripts,Sx-p0t/BloxSploitsScripts,576209996
+VU#32,0.06250000,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#32,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#32,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#32,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#32,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#32,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt2,SzeKiatTan/nlp-cve-vendor-classification-gpt2,562010558
 VU#32,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
+VU#32,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#32,0.05555556,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#32,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
 VU#32,0.05263158,https://github.com/RyAtlasX/Roblox_scripts_for_newbie,RyAtlasX/Roblox_scripts_for_newbie,578548943
