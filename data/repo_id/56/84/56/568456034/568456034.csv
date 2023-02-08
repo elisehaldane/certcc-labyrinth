@@ -18,7 +18,7 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/Netlogon-Elavasion-of-Privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
 568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,b5132ab1392c84b11f835fe50694681d0e4df44c,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/version-control/Gitea-Pentesting.md,be4a4a1550d53da22066be92bce5e3e551f3cf06,CVE-2020-14144
-568456034,hideckies/exploit-notes,src/exploit/windows/WinRM-Pentesting.md,bee9db698c6a633ced76c96574e1b2d66bf5c2ff,CVE-2021-38647
+568456034,hideckies/exploit-notes,src/exploit/windows/protocol/WinRM-Pentesting.md,bee9db698c6a633ced76c96574e1b2d66bf5c2ff,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Snapd-Privilege-Escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
