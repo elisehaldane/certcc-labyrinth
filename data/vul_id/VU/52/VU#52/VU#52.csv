@@ -18,6 +18,7 @@ VU#52,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000
 VU#52,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#52,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
 VU#52,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
+VU#52,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,598918447
 VU#52,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
 VU#52,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#52,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
@@ -38,9 +39,9 @@ VU#52,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,56889648
 VU#52,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#52,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#52,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
-VU#52,0.03225806,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#52,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
 VU#52,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
+VU#52,0.03030303,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#52,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#52,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#52,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -166,7 +167,7 @@ VU#52,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#52,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#52,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#52,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#52,0.00019790,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#52,0.00019778,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#52,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#52,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#52,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
