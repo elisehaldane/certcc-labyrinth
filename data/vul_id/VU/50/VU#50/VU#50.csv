@@ -104,9 +104,9 @@ VU#50,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVInce
 VU#50,0.01123596,https://github.com/luluy0726/Exploitation-donn-es-massives-en-finance,luluy0726/Exploitation-donn-es-massives-en-finance,596017093
 VU#50,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#50,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
-VU#50,0.01098901,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#50,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#50,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
+VU#50,0.01075269,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#50,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#50,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#50,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -118,7 +118,6 @@ VU#50,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#50,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#50,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#50,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
-VU#50,0.00917431,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#50,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#50,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#50,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
@@ -140,6 +139,7 @@ VU#50,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,
 VU#50,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#50,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#50,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
+VU#50,0.00699301,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#50,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#50,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#50,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
@@ -201,7 +201,7 @@ VU#50,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#50,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#50,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#50,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
-VU#50,0.00019778,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#50,0.00019775,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#50,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#50,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#50,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

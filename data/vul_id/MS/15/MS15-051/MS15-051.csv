@@ -46,10 +46,9 @@ MS15-051,0.01639344,https://github.com/Drygster/Exploitation,Drygster/Exploitati
 MS15-051,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS15-051,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 MS15-051,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
-MS15-051,0.01282051,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
+MS15-051,0.01298701,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS15-051,0.01204819,https://github.com/joker2a/Privesc,joker2a/Privesc,250345076
 MS15-051,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
-MS15-051,0.00917431,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS15-051,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 MS15-051,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 MS15-051,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
@@ -57,6 +56,7 @@ MS15-051,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsp
 MS15-051,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS15-051,0.00719424,https://github.com/febinrev/privesc-post_exploit-collection,febinrev/privesc-post_exploit-collection,256685535
 MS15-051,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
+MS15-051,0.00699301,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS15-051,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
 MS15-051,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
 MS15-051,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
@@ -259,7 +259,7 @@ MS15-051,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4
 MS15-051,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 MS15-051,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS15-051,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-MS15-051,0.00019778,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS15-051,0.00019775,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS15-051,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS15-051,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS15-051,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
