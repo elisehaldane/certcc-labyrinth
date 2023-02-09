@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2018-5493,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-37060,Live-Hack-CVE/CVE-2022-37060,582747105
 ZSL-2018-5493,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-37060,Live-Hack-CVE/CVE-2022-37060,581362035
-ZSL-2018-5493,0.00112233,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2018-5493,0.00112108,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2018-5493,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 ZSL-2018-5493,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 ZSL-2018-5493,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072

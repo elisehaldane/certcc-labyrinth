@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-66P8-J459-RQ63,0.33333333,https://github.com/Live-Hack-CVE/CVE-2023-25168,Live-Hack-CVE/CVE-2023-25168,599373405

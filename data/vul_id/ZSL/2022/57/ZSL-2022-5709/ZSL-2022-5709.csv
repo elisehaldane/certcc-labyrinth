@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2022-5709,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-37122,Live-Hack-CVE/CVE-2022-37122,582180661
-ZSL-2022-5709,0.00112233,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2022-5709,0.00112108,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2022-5709,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 ZSL-2022-5709,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 ZSL-2022-5709,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
