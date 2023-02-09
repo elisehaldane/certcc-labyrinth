@@ -76,6 +76,6 @@ repo_id,repo_full_name,file,file_sha1,match
 456730436,Threekiii/Awesome-Redteam,tips/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2019-8451
 456730436,Threekiii/Awesome-Redteam,tips/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2020-0688
 456730436,Threekiii/Awesome-Redteam,tips/红队中易被攻击的一些重点系统漏洞整理.md,8790f78b9ea8f6e11082b203f9cb47c0ddb5061d,CVE-2018-14364
+456730436,Threekiii/Awesome-Redteam,README.md,d399e52525e75af15fb94130dc6f51761332c5f5,CVE-2021-44228
 456730436,Threekiii/Awesome-Redteam,cheatsheets/重要端口及服务速查.md,d3a2b12413971273dc3e6243509c95463c46d58b,MS08-067
 456730436,Threekiii/Awesome-Redteam,cheatsheets/重要端口及服务速查.md,d3a2b12413971273dc3e6243509c95463c46d58b,MS17-010
-456730436,Threekiii/Awesome-Redteam,README.md,f16de82e3aaaa986e83df40fb6611928e8fdc209,CVE-2021-44228
