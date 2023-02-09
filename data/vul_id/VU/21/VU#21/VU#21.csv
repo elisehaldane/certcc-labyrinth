@@ -41,6 +41,7 @@ VU#21,0.16666667,https://github.com/Dviros/log4shell-possible-malware,Dviros/log
 VU#21,0.16666667,https://github.com/samjcs/log4shell-possible-malware,samjcs/log4shell-possible-malware,437729597
 VU#21,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#21,0.12500000,https://github.com/d4rk-kn1gh7/b3typer,d4rk-kn1gh7/b3typer,592440733
+VU#21,0.12500000,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#21,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
 VU#21,0.12500000,https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,259394786
 VU#21,0.12500000,https://github.com/SoftFeta/tempusespatium,SoftFeta/tempusespatium,117782285
@@ -86,7 +87,7 @@ VU#21,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk
 VU#21,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#21,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#21,0.03125000,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
-VU#21,0.02941176,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
+VU#21,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#21,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#21,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#21,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -197,7 +198,7 @@ VU#21,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime
 VU#21,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#21,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#21,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#21,0.01123596,https://github.com/luluy0726/Exploitation-donn-es-massives-en-finance,luluy0726/Exploitation-donn-es-massives-en-finance,596017093
+VU#21,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#21,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#21,0.01075269,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#21,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
@@ -259,6 +260,7 @@ VU#21,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#21,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#21,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#21,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#21,0.00401606,https://github.com/Vobzie/ElliottDoesThings.tk,Vobzie/ElliottDoesThings.tk,567815510
 VU#21,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#21,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#21,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627

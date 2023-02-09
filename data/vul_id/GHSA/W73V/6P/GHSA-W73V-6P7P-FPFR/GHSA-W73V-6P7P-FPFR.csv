@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-W73V-6P7P-FPFR,0.12500000,https://github.com/KatherineHuangg/metasploit-POC,KatherineHuangg/metasploit-POC,513513113
 GHSA-W73V-6P7P-FPFR,0.00653595,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
-GHSA-W73V-6P7P-FPFR,0.00324675,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+GHSA-W73V-6P7P-FPFR,0.00318471,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 GHSA-W73V-6P7P-FPFR,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-W73V-6P7P-FPFR,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-W73V-6P7P-FPFR,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178

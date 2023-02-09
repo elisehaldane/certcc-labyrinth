@@ -5,6 +5,7 @@ VU#91,0.50000000,https://github.com/nobodyatall648/Netgear-WNAP320-Firmware-Vers
 VU#91,0.33333333,https://github.com/Ooscaar/MALW,Ooscaar/MALW,555215011
 VU#91,0.33333333,https://github.com/podsdev/ratExploiter,podsdev/ratExploiter,504743780
 VU#91,0.33333333,https://github.com/by-black6/Black-Sploit,by-black6/Black-Sploit,497718781
+VU#91,0.25000000,https://github.com/HAKANKOKCU/BirdyXploit,HAKANKOKCU/BirdyXploit,599673626
 VU#91,0.25000000,https://github.com/dnr6419/CVE-2021-32157,dnr6419/CVE-2021-32157,485596660
 VU#91,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
 VU#91,0.20000000,https://github.com/XoticSploit/XoticSploit-exploit,XoticSploit/XoticSploit-exploit,534476850
@@ -109,7 +110,7 @@ VU#91,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,5261
 VU#91,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#91,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#91,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
-VU#91,0.01123596,https://github.com/luluy0726/Exploitation-donn-es-massives-en-finance,luluy0726/Exploitation-donn-es-massives-en-finance,596017093
+VU#91,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#91,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#91,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#91,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
@@ -162,6 +163,7 @@ VU#91,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#91,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#91,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#91,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#91,0.00401606,https://github.com/Vobzie/ElliottDoesThings.tk,Vobzie/ElliottDoesThings.tk,567815510
 VU#91,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#91,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#91,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
