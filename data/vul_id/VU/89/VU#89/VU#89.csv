@@ -1,10 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#89,1.00000000,https://github.com/nottkriksis/Vox-Exploit,nottkriksis/Vox-Exploit,599679741
 VU#89,1.00000000,https://github.com/qeeqbox/sql-injection,qeeqbox/sql-injection,581730832
 VU#89,1.00000000,https://github.com/za1234567/voice-exploit-master,za1234567/voice-exploit-master,538135599
 VU#89,1.00000000,https://github.com/stickman-dev/exploit-hub,stickman-dev/exploit-hub,486376673
 VU#89,1.00000000,https://github.com/ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,478938133
 VU#89,1.00000000,https://github.com/tolik518/simple_webshop,tolik518/simple_webshop,468687882
+VU#89,0.50000000,https://github.com/nottkriksis/Vox-Exploit,nottkriksis/Vox-Exploit,599679741
 VU#89,0.50000000,https://github.com/xenoExploits/Sapphire.WRD,xenoExploits/Sapphire.WRD,596971476
 VU#89,0.50000000,https://github.com/Nintendo-Homebrew/h-encore,Nintendo-Homebrew/h-encore,457115720
 VU#89,0.50000000,https://github.com/mmeza-developer/CVE-2019-5420-RCE,mmeza-developer/CVE-2019-5420-RCE,425154730
