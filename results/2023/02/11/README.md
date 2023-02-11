@@ -1,0 +1,36 @@
+
+# Summary for results/2023/02/11
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-02-11 02:30:18+00:00 | 850248 | 29420 | Ruby | 12879 | [] |
+| FiveM-Exec-Bypass/FiveM-Exec-Bypass | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem Topics | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | ['exploit'] | 1 | 2023-02-11 02:58:07+00:00 | 4139 | 1 | | 0 | [] |
+| Ilikedogslol3/Jailbreak-hack | jailbreak hack for roblox. Roblox exploit. 5M cash in 10 min. | https://github.com/Ilikedogslol3/Jailbreak-hack | ['exploit'] | 1 | 2023-02-11 01:14:42+00:00 | 2 | 1 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | ['exploit'] | 1 | 2023-02-11 00:03:41+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hg | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hg | ['exploit'] | 1 | 2023-02-11 00:01:59+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hg | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hg | ['exploit'] | 1 | 2023-02-11 00:00:51+00:00 | 1 | 1 | | 0 | [] |
+| gonzxph/CVE-2023-0748 | BTCPayServer version 1.7.5 and below is vulnerable for Open Redirection attack. | https://github.com/gonzxph/CVE-2023-0748 | ['cve-2 OR cve_2'] | 1 | 2023-02-11 02:22:43+00:00 | 2 | 0 | nan | 0 | ['CVE-2023-0748'] |
+| dpk6699/athena-rcempi-repo | None | https://github.com/dpk6699/athena-rcempi-repo | ['rce'] | 1 | 2023-02-11 01:23:42+00:00 | 1 | 0 | | 0 | [] |
+| dominhhieua1pro/KCSC-Training | Web Exploitation Tasks | https://github.com/dominhhieua1pro/KCSC-Training | ['exploit'] | 1 | 2023-02-11 02:38:00+00:00 | 16 | 0 | | 0 | [] |
+| RoseSecurity/Enum_AzureSubdomains | A Metasploit Auxiliary module for enumerating public Azure services by locating valid subdomains through various DNS queries. | https://github.com/RoseSecurity/Enum_AzureSubdomains | ['metasploit module OR payload'] | 1 | 2023-02-11 02:30:11+00:00 | 22 | 7 | Ruby | 1 | [] |
+| Chocapikk/PersonalRobloxScripts | Here is my personal exploits | https://github.com/Chocapikk/PersonalRobloxScripts | ['exploit'] | 1 | 2023-02-11 03:12:59+00:00 | 24 | 1 | Lua | 0 | [] |
+| mysurvive/pf2e-thaum-vuln | Improvement for Thaumaturge Exploit Vulnerability | https://github.com/mysurvive/pf2e-thaum-vuln | ['exploit'] | 1 | 2023-02-11 03:42:45+00:00 | 59421 | 3 | JavaScript | 0 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-02-11 02:48:25+00:00 | 53614 | 8 | Go | 0 | [] |
+| RedNotSus/exploits | unblocked apps and games | https://github.com/RedNotSus/exploits | ['exploit'] | 1 | 2023-02-11 03:38:40+00:00 | 1131005 | 0 | HTML | 3 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2023-02-11 01:01:45+00:00 | 10398 | 129 | | 15 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-02-11 04:33:19+00:00 | 1303926 | 255 | REXX | 30 | [] |
+| 0xPARC/zk-bug-tracker | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | ['exploit'] | 1 | 2023-02-11 01:42:16+00:00 | 204 | 104 | | 2 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2023-02-11 02:00:11+00:00 | 52271 | 3405 | Go | 407 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-02-11 02:48:06+00:00 | 58015 | 52 | Go | 16 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-02-11 01:59:18+00:00 | 659 | 369 | Shell | 79 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-02-11 00:09:56+00:00 | 1195 | 0 | | 1 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2023-02-11 03:14:05+00:00 | 17055 | 4915 | TypeScript | 713 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-02-11 01:27:30+00:00 | 3137 | 163 | HTML | 2 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-02-11 04:27:32+00:00 | 356560 | 574 | Python | 153 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-02-11 04:05:07+00:00 | 722911 | 67 | | 24 | [] |
+| vandavey/DotnetCat | Remote command shell application written in C#, targeting the .NET 7 runtime. | https://github.com/vandavey/DotnetCat | ['rce'] | 1 | 2023-02-11 03:45:40+00:00 | 1043303 | 22 | C# | 2 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-02-11 00:45:27+00:00 | 23943 | 50 | | 27 | [] |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2023-02-11 04:30:33+00:00 | 649 | 186 | Java | 57 | [] |
+| horarodriguezz/rcel-chrome-extension | Extension para descargar todas las facturas electronicas del sitio web de AFIP que aparezcan en pantalla, las cuales son las que estan en un rango de fechas elegidas por el usuario. | https://github.com/horarodriguezz/rcel-chrome-extension | ['rce'] | 1 | 2023-02-11 01:50:42+00:00 | 0 | 0 | | 0 | [] |
