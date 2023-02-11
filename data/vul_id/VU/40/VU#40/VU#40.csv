@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#40,1.00000000,https://github.com/HAKANKOKCU/BirdyXploit,HAKANKOKCU/BirdyXploit,599673626
 VU#40,1.00000000,https://github.com/G0blinu/ytbexploit,G0blinu/ytbexploit,585245304
 VU#40,1.00000000,https://github.com/duckysploits/ducky-sploits,duckysploits/ducky-sploits,584968126
 VU#40,1.00000000,https://github.com/MoonExecutor/VoyagerExploit,MoonExecutor/VoyagerExploit,564090204
@@ -21,7 +22,6 @@ VU#40,0.33333333,https://github.com/Fato07/Pwnkit-exploit,Fato07/Pwnkit-exploit,
 VU#40,0.33333333,https://github.com/dadvlingd/-CVE-2021-4034,dadvlingd/-CVE-2021-4034,452357365
 VU#40,0.33333333,https://github.com/nikaiw/CVE-2021-4034,nikaiw/CVE-2021-4034,452108706
 VU#40,0.33333333,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
-VU#40,0.25000000,https://github.com/HAKANKOKCU/BirdyXploit,HAKANKOKCU/BirdyXploit,599673626
 VU#40,0.25000000,https://github.com/LingonJR/Giga-X,LingonJR/Giga-X,591934241
 VU#40,0.25000000,https://github.com/HazmatAiden/RelevantExploitsGUI,HazmatAiden/RelevantExploitsGUI,582362432
 VU#40,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
@@ -69,6 +69,7 @@ VU#40,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 VU#40,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,475290370
 VU#40,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#40,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
+VU#40,0.02777778,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#40,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#40,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#40,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
@@ -202,6 +203,7 @@ VU#40,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#40,0.00497512,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#40,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#40,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
+VU#40,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#40,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#40,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#40,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
