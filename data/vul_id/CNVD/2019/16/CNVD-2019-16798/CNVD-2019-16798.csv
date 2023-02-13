@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2019-16798,0.00552486,https://github.com/chaitin/xray,chaitin/xray,191117123
-CNVD-2019-16798,0.00318471,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2019-16798,0.00317460,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 CNVD-2019-16798,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
 CNVD-2019-16798,0.00269542,https://github.com/ExpLangcn/FuYao-Go,ExpLangcn/FuYao-Go,481044551
 CNVD-2019-16798,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478

@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2020-5581,0.00318471,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+ZSL-2020-5581,0.00317460,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 ZSL-2020-5581,0.00112108,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2020-5581,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 ZSL-2020-5581,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
@@ -10,3 +10,4 @@ ZSL-2020-5581,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitd
 ZSL-2020-5581,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 ZSL-2020-5581,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 ZSL-2020-5581,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+ZSL-2020-5581,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
