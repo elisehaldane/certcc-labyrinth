@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-492H-596Q-XR2F,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-25161,Live-Hack-CVE/CVE-2023-25161,601375641
