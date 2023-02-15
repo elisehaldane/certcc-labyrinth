@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#08,0.50000000,https://github.com/Joakim5005/zerodayaarhus,Joakim5005/zerodayaarhus,511679445
+VU#08,0.50000000,https://github.com/Zero-Day-Aarhus/zerodayaarhus,Zero-Day-Aarhus/zerodayaarhus,511679445
 VU#08,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
 VU#08,0.50000000,https://github.com/dora2-iOS/p0insettia,dora2-iOS/p0insettia,427806749
 VU#08,0.50000000,https://github.com/epony4c/Exploit-Dictionary,epony4c/Exploit-Dictionary,184997903
@@ -52,6 +52,7 @@ VU#08,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,v
 VU#08,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#08,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#08,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
+VU#08,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#08,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#08,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#08,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
@@ -192,7 +193,7 @@ VU#08,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#08,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#08,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#08,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#08,0.00019767,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#08,0.00019763,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#08,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#08,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#08,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
