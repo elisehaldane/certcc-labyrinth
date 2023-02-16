@@ -176,7 +176,6 @@ VU#32,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#32,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#32,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#32,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
-VU#32,0.02127660,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#32,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#32,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#32,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
@@ -320,7 +319,7 @@ VU#32,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#32,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#32,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#32,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#32,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#32,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#32,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 VU#32,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#32,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

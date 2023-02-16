@@ -110,10 +110,10 @@ VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#64,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
-VU#64,0.02127660,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#64,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#64,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#64,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
+VU#64,0.01960784,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#64,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#64,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#64,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
@@ -123,6 +123,7 @@ VU#64,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#64,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#64,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#64,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
+VU#64,0.01666667,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#64,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#64,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#64,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
@@ -231,7 +232,7 @@ VU#64,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#64,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#64,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#64,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#64,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#64,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#64,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#64,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#64,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

@@ -80,7 +80,6 @@ VU#54,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,3226
 VU#54,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#54,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#54,0.02173913,https://github.com/sinjeanmin/cvedetails_2020_final,sinjeanmin/cvedetails_2020_final,424184998
-VU#54,0.02127660,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#54,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#54,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#54,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
@@ -91,6 +90,7 @@ VU#54,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-
 VU#54,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#54,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#54,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
+VU#54,0.01666667,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#54,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#54,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#54,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
@@ -204,7 +204,7 @@ VU#54,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#54,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#54,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#54,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#54,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#54,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#54,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#54,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#54,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#337,1.00000000,https://github.com/vul337/KextFuzz,vul337/KextFuzz,601996981
 VU#337,0.33333333,https://github.com/sakib570/CVE-2018-1263-Demo,sakib570/CVE-2018-1263-Demo,468735837
 VU#337,0.25000000,https://github.com/suicidaladdict/strucid,suicidaladdict/strucid,589298037
 VU#337,0.25000000,https://github.com/RobertoLFRA/exploit-tools,RobertoLFRA/exploit-tools,508189352
@@ -18,7 +19,7 @@ VU#337,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,5052785
 VU#337,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#337,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#337,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#337,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#337,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#337,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#337,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#337,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

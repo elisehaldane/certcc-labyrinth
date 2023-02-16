@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#694,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#694,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
+VU#694,0.01960784,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#694,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#694,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#694,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
@@ -10,4 +11,4 @@ VU#694,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbo
 VU#694,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#694,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#694,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#694,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#694,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
