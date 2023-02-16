@@ -54,11 +54,11 @@ VU#87,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferover
 VU#87,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#87,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#87,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
-VU#87,0.02777778,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#87,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#87,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#87,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#87,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
+VU#87,0.02500000,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#87,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#87,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#87,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
@@ -114,8 +114,8 @@ VU#87,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Ni
 VU#87,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#87,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#87,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
-VU#87,0.01960784,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#87,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
+VU#87,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#87,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#87,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#87,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
@@ -221,7 +221,7 @@ VU#87,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#87,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#87,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#87,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
-VU#87,0.00268817,https://github.com/helloexp/0day,helloexp/0day,478826386
+VU#87,0.00268097,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#87,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#87,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#87,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556

@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#760,0.25000000,https://github.com/hotpotcookie/log4shell-white-box,hotpotcookie/log4shell-white-box,458500087
+VU#760,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#760,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#760,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#760,0.00401606,https://github.com/Vobzie/ElliottDoesThings.tk,Vobzie/ElliottDoesThings.tk,567815510
