@@ -259,37 +259,37 @@ repo_id,repo_full_name,file,file_sha1,match
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#97
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#28
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#80
-94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#07
-94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#09
-94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#10
-94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#213
-94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#30
-94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#20
-94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#35
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#67
+94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#35
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#32
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2021-42287
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2021-4034
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2020-0796
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2019-15126
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2021-40444
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2021-41773
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2021-42278
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2021-44228
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2022-22963
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2022-22965
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2022-26134
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2022-27254
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,MS17-010
-94801380,The-Art-of-Hacking/h4cker,new_tools.md,cfb67d06aab6bcf641657a9be4766446874b5ce9,CVE-2021-45046
+94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#30
+94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#213
+94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#20
+94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#10
+94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#09
+94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#07
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/suspicious_http_records.csv,d9d12e9477c170e28cfe486dcff586b98ada6c42,VU#141
-94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,VU#565052
-94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,CVE-2016-2183
-94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,CVE-2015-2808
 94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,CVE-2013-4548
+94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,CVE-2015-2808
+94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,CVE-2016-2183
 94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,CVE-2008-5161
+94801380,The-Art-of-Hacking/h4cker,linux-hardening/CIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf,e35f53df35b98ba15e7a6c7e0f14cea22ad133d1,VU#565052
 94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/README.md,ebba5aef371557e17078f85c718d1ca3b5356e29,VU#81
-94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/README.md,ebba5aef371557e17078f85c718d1ca3b5356e29,CVE-2019-11249
-94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/README.md,ebba5aef371557e17078f85c718d1ca3b5356e29,CVE-2019-11247
 94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/README.md,ebba5aef371557e17078f85c718d1ca3b5356e29,CVE-2018-18264
+94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/README.md,ebba5aef371557e17078f85c718d1ca3b5356e29,CVE-2019-11247
+94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/README.md,ebba5aef371557e17078f85c718d1ca3b5356e29,CVE-2019-11249
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2022-26134
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,MS17-010
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2019-15126
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2020-0796
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2021-4034
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2021-40444
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2021-41773
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2021-42278
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2021-42287
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2021-44228
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2021-45046
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2022-22965
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2022-27254
+94801380,The-Art-of-Hacking/h4cker,new_tools.md,f9039e156893eebd78fde45f9ac3a7f15d843951,CVE-2022-22963
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/Poster_Memory_Forensics.pdf,fe51cab7fe3ed8f12a83a47588c4cf92844bd455,VU#57
