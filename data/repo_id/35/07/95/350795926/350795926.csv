@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+350795926,abundov/web-exploits,CVEs,5bfa5ffe2bf3c23d81ea31b98a997709f5da8687,CVE-2021-3781
+350795926,abundov/web-exploits,CVEs,5bfa5ffe2bf3c23d81ea31b98a997709f5da8687,CVE-2022-44268
