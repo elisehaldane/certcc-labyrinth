@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-5R5M-65GX-7VRH,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-25151,Live-Hack-CVE/CVE-2023-25151,602786699
