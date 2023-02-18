@@ -361,7 +361,7 @@ MS17-010,0.01315789,https://github.com/hackone103/Penetration-Testing,hackone103
 MS17-010,0.01315789,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 MS17-010,0.01298701,https://github.com/codeyso/CodeTest,codeyso/CodeTest,465011945
 MS17-010,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
-MS17-010,0.01298701,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
+MS17-010,0.01265823,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS17-010,0.01219512,https://github.com/Sma-Das/TryHackMe,Sma-Das/TryHackMe,382572363
 MS17-010,0.01204819,https://github.com/Lucifer1993/PoCHub,Lucifer1993/PoCHub,259556360
 MS17-010,0.01204819,https://github.com/joker2a/Privesc,joker2a/Privesc,250345076
@@ -380,9 +380,9 @@ MS17-010,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-g
 MS17-010,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS17-010,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS17-010,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
-MS17-010,0.00699301,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS17-010,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042
 MS17-010,0.00684932,https://github.com/TheRipperJhon/Msploitego,TheRipperJhon/Msploitego,136995325
+MS17-010,0.00666667,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS17-010,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 MS17-010,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS17-010,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
@@ -565,9 +565,9 @@ MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurp
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS17-010,0.00009458,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00009454,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-MS17-010,0.00007303,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00007264,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -590,7 +590,7 @@ MS17-010,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504
 MS17-010,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS17-010,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS17-010,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-MS17-010,0.00004277,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00004258,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS17-010,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 MS17-010,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
@@ -601,7 +601,7 @@ MS17-010,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 MS17-010,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS17-010,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS17-010,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
-MS17-010,0.00001335,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001334,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
