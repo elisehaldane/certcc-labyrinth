@@ -39,7 +39,7 @@ repo_id,repo_full_name,file,file_sha1,match
 550434370,tonyarris/srv,PowerSploit-master/Exfiltration/Invoke-CredentialInjection.ps1,69cd40e99f40d6ab591200925e9b30a16dbf6f78,VU#29
 550434370,tonyarris/srv,PowerSploit-master/Exfiltration/Invoke-CredentialInjection.ps1,69cd40e99f40d6ab591200925e9b30a16dbf6f78,VU#00
 550434370,tonyarris/srv,PowerSploit-master/Exfiltration/Invoke-CredentialInjection.ps1,69cd40e99f40d6ab591200925e9b30a16dbf6f78,VU#25
-550434370,tonyarris/srv,sysinternals_arm64/Dbgview.chm,72d71ed8b1f1851bdfb9786625cacbaf7ac8fc91,VU#358
+550434370,tonyarris/srv,sysinternals_x86/Dbgview.chm,72d71ed8b1f1851bdfb9786625cacbaf7ac8fc91,VU#358
 550434370,tonyarris/srv,wp.exe,76a74a25e083b57f3f23dca17ac67aa510e6c63a,CVE-2019-1064
 550434370,tonyarris/srv,wp.exe,76a74a25e083b57f3f23dca17ac67aa510e6c63a,CVE-2019-1130
 550434370,tonyarris/srv,wp.exe,76a74a25e083b57f3f23dca17ac67aa510e6c63a,CVE-2019-1253
@@ -419,10 +419,10 @@ repo_id,repo_full_name,file,file_sha1,match
 550434370,tonyarris/srv,wes.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-035
 550434370,tonyarris/srv,wes.py,a6df392a19e90205fa2817604feb02bf634e0315,MS14-040
 550434370,tonyarris/srv,wes.py,a6df392a19e90205fa2817604feb02bf634e0315,MS13-101
-550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#78
+550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#78
 550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#25
 550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#87
 550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#52
-550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#17
-550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#29
-550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#57
+550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#17
+550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#29
+550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#57
