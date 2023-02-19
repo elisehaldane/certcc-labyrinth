@@ -1,7 +1,7 @@
 
 # Summary for results/2023/02/18
     
-132 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,7 +22,7 @@
 | Cryptiiiic/hookra1n | A custom shellcode hook for checkra1n 0.1337 written in c! | https://github.com/Cryptiiiic/hookra1n | ['shellcode'] | 1 | 2023-02-18 10:29:46+00:00 | 15 | 8 | C | 0 | [] |
 | wmjb/surface-rt-uefi-u-boot-exploit | surface-rt-uefi-u-boot-exploit for booting surface-rt-uefi-u-boot from uefi | https://github.com/wmjb/surface-rt-uefi-u-boot-exploit | ['exploit'] | 1 | 2023-02-18 19:05:20+00:00 | 136 | 1 | C | 0 | [] |
 | OSUSecLab/RILDefender | RILDefender: An Android Mobile Privacy Protection Service Against SMS Exploits | https://github.com/OSUSecLab/RILDefender | ['exploit'] | 1 | 2023-02-18 05:37:05+00:00 | 2205 | 0 | Java | 0 | [] |
-| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2023-02-18 12:50:04+00:00 | 79025 | 12757 | Jupyter Notebook | 2184 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-02-18 04:50:30+00:00 | 63789 | 9 | Go | 2 | [] |
 | g33kb00m/CVE2Chinese | None | https://github.com/g33kb00m/CVE2Chinese | ['cve-2 OR cve_2'] | 1 | 2023-02-18 16:37:24+00:00 | 6 | 0 | | 0 | [] |
 | suldyee/FiveM-Executor | 💉_ Fivem Executor _ UNDETECTED _ DUMPER | https://github.com/suldyee/FiveM-Executor | ['exploit'] | 1 | 2023-02-18 10:49:54+00:00 | 23 | 1 | | 0 | [] |
 | suldyee/Rust-Cheat | 🔥 _ Cheat with a simple GUI made for Rust _ UNDETECTED _ AIMBOT _ ESP _ FLY _ NO RECOIL _ INFINITE AMMO _ MORE | https://github.com/suldyee/Rust-Cheat | ['exploit'] | 1 | 2023-02-18 10:49:12+00:00 | 23 | 3 | | 0 | [] |
@@ -71,9 +71,10 @@
 | LouieIsShort/Sickman-Exploit | Hack in Roblox games! | https://github.com/LouieIsShort/Sickman-Exploit | ['exploit'] | 1 | 2023-02-18 04:44:09+00:00 | 0 | 0 | | 0 | [] |
 | rcereno/rcereno.github.io | None | https://github.com/rcereno/rcereno.github.io | ['rce'] | 1 | 2023-02-18 06:40:50+00:00 | 2564 | 0 | JavaScript | 0 | [] |
 | Dakword/WBWebAPI | Библиотека для эксплуатации неофициального API сайта Wildberries. | https://github.com/Dakword/WBWebAPI | ['exploit'] | 1 | 2023-02-18 12:37:38+00:00 | 53 | 2 | PHP | 0 | [] |
-| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-02-18 04:50:30+00:00 | 63789 | 9 | Go | 2 | [] |
 | RyAtlasX/About_krnl | Krnl. The best free exploit for Roblox | https://github.com/RyAtlasX/About_krnl | ['exploit'] | 1 | 2023-02-18 05:36:37+00:00 | 174 | 0 | | 0 | [] |
-| Serups/Example-Exec | 💉 Example Injector Exec & For further Development | https://github.com/Serups/Example-Exec | ['exploit'] | 1 | 2023-02-18 14:43:19+00:00 | 212 | 36 | C++ | 11 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2023-02-18 12:50:04+00:00 | 79025 | 12757 | Jupyter Notebook | 2184 | [] |
+| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2023-02-18 19:48:22+00:00 | 35171 | 38 | Python | 8 | [] |
+| proxyplu/Nullify | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | ['exploit'] | 1 | 2023-02-18 02:28:09+00:00 | 1618 | 47 | JavaScript | 49 | [] |
 | Jeromeyoung/CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series | https://github.com/Jeromeyoung/CVE-2021-40154 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2023-02-18 19:00:03+00:00 | 211 | 1 | | 2 | ['CVE-2021-40154'] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2023-02-18 18:10:30+00:00 | 10417 | 19 | HTML | 6 | [] |
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2023-02-18 14:58:26+00:00 | 278 | 7 | Python | 2 | [] |
@@ -87,8 +88,8 @@
 | 0iphor13/Random | Random stuff | https://github.com/0iphor13/Random | ['metasploit module OR payload'] | 1 | 2023-02-18 14:26:22+00:00 | 41 | 8 | PowerShell | 1 | [] |
 | dejvokep/safe-net | A lightweight protection from IP-forward bypass exploit for your network. | https://github.com/dejvokep/safe-net | ['exploit'] | 1 | 2023-02-18 19:54:29+00:00 | 314 | 8 | Java | 2 | [] |
 | Discord-Oxygen/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/Discord-Oxygen/Discord-Console-hacks | ['exploit'] | 1 | 2023-02-18 19:36:10+00:00 | 157 | 384 | | 92 | [] |
-| ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2023-02-18 19:48:22+00:00 | 35171 | 38 | Python | 8 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-02-18 05:05:10+00:00 | 731269 | 69 | | 26 | [] |
+| Catsuq/Exploit-s-scripts | Not my script and obfuscated from jmes | https://github.com/Catsuq/Exploit-s-scripts | ['exploit'] | 1 | 2023-02-18 23:16:32+00:00 | 5525 | 0 | | 0 | [] |
 | loneicewolf/fanny.bmp | fanny.bmp Source & Binaries. ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! FANNY BMP MALWARE SOURCE + BINARY + Metasploit Module Checker | https://github.com/loneicewolf/fanny.bmp | ['metasploit module OR payload'] | 1 | 2023-02-18 11:45:23+00:00 | 58205 | 19 | C | 9 | [] |
 | Am0rphous/Malware | 😈 CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2023-02-18 18:13:13+00:00 | 17230 | 27 | PowerShell | 11 | [] |
 | vandavey/DotnetCat | Remote command shell application written in C#, targeting the .NET 7 runtime. | https://github.com/vandavey/DotnetCat | ['rce'] | 1 | 2023-02-18 19:54:40+00:00 | 1101813 | 22 | C# | 2 | [] |
@@ -103,10 +104,11 @@
 | RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2023-02-18 11:21:50+00:00 | 26732 | 3220 | Python | 565 | [] |
 | audioscavenger/exploit | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | ['exploit'] | 1 | 2023-02-18 09:12:59+00:00 | 8214 | 0 | Rich Text Format | 1 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2023-02-18 01:59:30+00:00 | 39521 | 8173 | Python | 2000 | [] |
-| proxyplu/Nullify | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/proxyplu/Nullify | ['exploit'] | 1 | 2023-02-18 02:28:09+00:00 | 1618 | 47 | JavaScript | 49 | [] |
+| Serups/Example-Exec | 💉 Example Injector Exec & For further Development | https://github.com/Serups/Example-Exec | ['exploit'] | 1 | 2023-02-18 14:43:19+00:00 | 212 | 36 | C++ | 11 | [] |
 | Serups/Fivem-Source | 💉 LUA Exec, Full Source & Feature Dumper, Bypass Anti-Cheat | https://github.com/Serups/Fivem-Source | ['exploit'] | 1 | 2023-02-18 20:48:45+00:00 | 3511 | 63 | C++ | 29 | [] |
-| Catsuq/Exploit-s-scripts | Not my script and obfuscated from jmes | https://github.com/Catsuq/Exploit-s-scripts | ['exploit'] | 1 | 2023-02-18 23:16:32+00:00 | 5525 | 0 | | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-02-18 05:58:18+00:00 | 160167 | 4002 | HTML | 498 | [] |
+| Serups/Fortnite-External | 🎯 Fortnite External Cheat Release / Feature Aimbot + Esp | https://github.com/Serups/Fortnite-External | ['exploit'] | 1 | 2023-02-18 22:45:41+00:00 | 11727 | 83 | C++ | 38 | [] |
+| TheOfficialFloW/HENlo | WebKit+Kernel exploit chain for all PS Vita firmwares | https://github.com/TheOfficialFloW/HENlo | ['exploit'] | 1 | 2023-02-18 23:33:30+00:00 | 17 | 206 | JavaScript | 26 | [] |
 | RedNotSus/exploits | unblocked apps and games | https://github.com/RedNotSus/exploits | ['exploit'] | 1 | 2023-02-18 02:31:30+00:00 | 1215451 | 0 | HTML | 3 | [] |
 | FFJ1/Roblox-Exploits | None | https://github.com/FFJ1/Roblox-Exploits | ['exploit'] | 1 | 2023-02-18 16:28:34+00:00 | 1313 | 0 | Lua | 0 | [] |
 | hid3rx/Shellcode | None | https://github.com/hid3rx/Shellcode | ['shellcode'] | 1 | 2023-02-18 10:23:35+00:00 | 211 | 2 | C++ | 0 | [] |
@@ -135,5 +137,4 @@
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2022- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-02-18 02:00:18+00:00 | 731 | 370 | Shell | 79 | [] |
 | hippolippo/RCE-Bingo | A project to generate bingo boards for filling out while watching Real Civil Engineer videos | https://github.com/hippolippo/RCE-Bingo | ['rce'] | 1 | 2023-02-18 15:00:45+00:00 | 1217524 | 2 | Python | 0 | [] |
 | Serups/Rust-Internal | ⚔️ Rust Internal Cheat & With installation guide ! | https://github.com/Serups/Rust-Internal | ['exploit'] | 1 | 2023-02-18 23:29:45+00:00 | 321 | 34 | C# | 9 | [] |
-| Serups/Fortnite-External | 🎯 Fortnite External Cheat Release / Feature Aimbot + Esp | https://github.com/Serups/Fortnite-External | ['exploit'] | 1 | 2023-02-18 22:45:41+00:00 | 11727 | 83 | C++ | 38 | [] |
 | Yealid/CVE-2018-6574 | None | https://github.com/Yealid/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2023-02-18 22:21:00+00:00 | 3 | 0 | Go | 0 | ['CVE-2018-6574'] |
