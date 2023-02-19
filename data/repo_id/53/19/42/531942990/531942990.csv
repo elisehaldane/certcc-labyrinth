@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#05
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#29
+531942990,wisoffe/exploits-predict,src/data/db_update.py,0ec6136155d223e350aa2c3d63bf5c552bfcf121,CVE-2017-18344
+531942990,wisoffe/exploits-predict,src/data/db_update.py,0ec6136155d223e350aa2c3d63bf5c552bfcf121,CVE-2014-1303
+531942990,wisoffe/exploits-predict,src/data/db_update.py,0ec6136155d223e350aa2c3d63bf5c552bfcf121,CVE-1999-0021
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#03
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#30
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#33
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#34
@@ -25,10 +27,10 @@ repo_id,repo_full_name,file,file_sha1,match
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#457
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#48
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#482
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#29
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#2881
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#50
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#28
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#26
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#27
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#0647
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#0694
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#08
@@ -41,8 +43,8 @@ repo_id,repo_full_name,file,file_sha1,match
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#14
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#144
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#15
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#50
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#16
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#166
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#179
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#18
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#19
@@ -54,7 +56,8 @@ repo_id,repo_full_name,file,file_sha1,match
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#23
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#24
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#25
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#27
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#26
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#166
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#51
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#516
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#52
@@ -99,7 +102,7 @@ repo_id,repo_full_name,file,file_sha1,match
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#59
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#606
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#61
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#99
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#05
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#63
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#66
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#67
@@ -137,7 +140,7 @@ repo_id,repo_full_name,file,file_sha1,match
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,CVE-2015-8063
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,CVE-2015-8062
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,CVE-2015-8061
-531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#03
+531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,VU#99
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,CVE-2022-31798
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,CVE-2021-3914
 531942990,wisoffe/exploits-predict,notebooks/03-ik-initial-ml-experiments.ipynb,4953ec0089b7bbf445b5fe642eee1010b55ca75e,CVE-2015-8058
