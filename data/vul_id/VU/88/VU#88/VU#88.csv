@@ -104,6 +104,7 @@ VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#88,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
+VU#88,0.02127660,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#88,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#88,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
@@ -302,7 +303,7 @@ VU#88,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#88,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#88,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#88,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#88,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#88,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#88,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#88,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
 VU#88,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

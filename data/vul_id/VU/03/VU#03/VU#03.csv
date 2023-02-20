@@ -53,6 +53,7 @@ VU#03,0.14285714,https://github.com/quxiaoyang0zero/RCER,quxiaoyang0zero/RCER,48
 VU#03,0.14285714,https://github.com/taise-hub/log4j-poc,taise-hub/log4j-poc,447444851
 VU#03,0.14285714,https://github.com/rosonsec/Exploits,rosonsec/Exploits,153505068
 VU#03,0.14285714,https://github.com/brandbir/JPEG-Restorer,brandbir/JPEG-Restorer,27171602
+VU#03,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879731
 VU#03,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
 VU#03,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
 VU#03,0.11111111,https://github.com/copcop981/management_and_exploitation_of_houses,copcop981/management_and_exploitation_of_houses,581968762
@@ -62,6 +63,7 @@ VU#03,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,53
 VU#03,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
 VU#03,0.11111111,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
 VU#03,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
+VU#03,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#03,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
 VU#03,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,436316308
 VU#03,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
@@ -103,6 +105,7 @@ VU#03,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,56889648
 VU#03,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#03,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#03,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
+VU#03,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#03,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
 VU#03,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#03,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
@@ -289,7 +292,7 @@ VU#03,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#03,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#03,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#03,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#03,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#03,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#03,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#03,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#03,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

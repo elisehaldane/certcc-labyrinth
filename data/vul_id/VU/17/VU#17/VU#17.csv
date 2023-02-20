@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#17,1.00000000,https://github.com/Exploiterarmy/exploiterarmy.github.io,Exploiterarmy/exploiterarmy.github.io,556563830
 VU#17,1.00000000,https://github.com/DavidBuchanan314/monomorph,DavidBuchanan314/monomorph,541353333
 VU#17,1.00000000,https://github.com/boomshy/sample_shellcode,boomshy/sample_shellcode,379888981
 VU#17,1.00000000,https://github.com/dithpri/RCES,dithpri/RCES,269526488
@@ -224,7 +225,7 @@ VU#17,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#17,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#17,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#17,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#17,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#17,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#17,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#17,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#17,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547

@@ -82,6 +82,7 @@ VU#10,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 VU#10,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#10,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#10,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
+VU#10,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#10,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#10,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#10,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
@@ -256,7 +257,7 @@ VU#10,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#10,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#10,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#10,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#10,0.00150150,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#10,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#10,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#10,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#10,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
