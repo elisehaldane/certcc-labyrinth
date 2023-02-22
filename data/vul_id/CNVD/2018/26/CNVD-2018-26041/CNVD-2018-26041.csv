@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2018-26041,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-39434,Live-Hack-CVE/CVE-2021-39434,581408779
 CNVD-2018-26041,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
+CNVD-2018-26041,0.00000379,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 CNVD-2018-26041,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

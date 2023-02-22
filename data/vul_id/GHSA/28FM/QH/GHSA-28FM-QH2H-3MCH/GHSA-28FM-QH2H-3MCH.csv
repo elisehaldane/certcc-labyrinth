@@ -1,2 +1,2 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-28FM-QH2H-3MCH,0.50000000,https://github.com/DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311,DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311,603938610
+GHSA-28FM-QH2H-3MCH,0.50000000,https://github.com/DesmondSanctity/CVE-2022-44311,DesmondSanctity/CVE-2022-44311,603938610

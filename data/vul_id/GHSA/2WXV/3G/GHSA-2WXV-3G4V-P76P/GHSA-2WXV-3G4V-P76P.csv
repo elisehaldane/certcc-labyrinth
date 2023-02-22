@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-2WXV-3G4V-P76P,0.33333333,https://github.com/Live-Hack-CVE/CVE-2006-3360,Live-Hack-CVE/CVE-2006-3360,590602302
+GHSA-2WXV-3G4V-P76P,0.00000379,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

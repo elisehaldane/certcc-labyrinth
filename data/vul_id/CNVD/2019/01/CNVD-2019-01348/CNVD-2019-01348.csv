@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2019-01348,0.00552486,https://github.com/chaitin/xray,chaitin/xray,191117123
-CNVD-2019-01348,0.00317460,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2019-01348,0.00316456,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 CNVD-2019-01348,0.00269542,https://github.com/ExpLangcn/FuYao-Go,ExpLangcn/FuYao-Go,481044551
 CNVD-2019-01348,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 CNVD-2019-01348,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334

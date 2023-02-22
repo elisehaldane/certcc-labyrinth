@@ -25,7 +25,7 @@ MS15-004,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalync
 MS15-004,0.00318471,https://github.com/NS-unina/exploitdb-images,NS-unina/exploitdb-images,448787246
 MS15-004,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS15-004,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-MS15-004,0.00071023,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS15-004,0.00070872,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS15-004,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS15-004,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS15-004,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
@@ -122,7 +122,7 @@ MS15-004,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,56715
 MS15-004,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS15-004,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 MS15-004,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS15-004,0.00019763,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS15-004,0.00019759,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS15-004,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS15-004,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS15-004,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
@@ -163,7 +163,8 @@ MS15-004,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 MS15-004,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS15-004,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS15-004,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
-MS15-004,0.00001331,https://github.com/trickest/cve,trickest/cve,454015416
+MS15-004,0.00001330,https://github.com/trickest/cve,trickest/cve,454015416
 MS15-004,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS15-004,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS15-004,0.00000379,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS15-004,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

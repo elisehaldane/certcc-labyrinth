@@ -37,6 +37,7 @@ MS10-070,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedr
 MS10-070,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 MS10-070,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS10-070,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
+MS10-070,0.00021263,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS10-070,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS10-070,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-070,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -68,7 +69,6 @@ MS10-070,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504
 MS10-070,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS10-070,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS10-070,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-MS10-070,0.00004524,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS10-070,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS10-070,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS10-070,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
@@ -76,7 +76,8 @@ MS10-070,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,5857564
 MS10-070,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS10-070,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS10-070,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
-MS10-070,0.00001331,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-070,0.00001330,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-070,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS10-070,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
+MS10-070,0.00000379,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS10-070,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

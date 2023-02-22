@@ -80,6 +80,7 @@ VU#56,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#56,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#56,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#56,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
+VU#56,0.03333333,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#56,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#56,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#56,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
@@ -99,6 +100,7 @@ VU#56,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayEx
 VU#56,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#56,0.02222222,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#56,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
+VU#56,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
 VU#56,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#56,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
 VU#56,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441,575262305
@@ -169,9 +171,9 @@ VU#56,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploi
 VU#56,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#56,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#56,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
-VU#56,0.01666667,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#56,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#56,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#56,0.01612903,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#56,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#56,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#56,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
@@ -262,9 +264,9 @@ VU#56,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#56,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#56,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#56,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
-VU#56,0.00268097,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#56,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#56,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#56,0.00256410,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#56,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#56,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#56,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
