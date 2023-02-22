@@ -33,6 +33,7 @@ VU#42,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-
 VU#42,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#42,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#42,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
+VU#42,0.06666667,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#42,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#42,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
 VU#42,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
@@ -50,7 +51,7 @@ VU#42,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#42,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#42,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#42,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
-VU#42,0.03846154,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
+VU#42,0.03703704,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#42,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#42,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#42,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
@@ -103,8 +104,8 @@ VU#42,0.01315789,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#42,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#42,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#42,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
-VU#42,0.01265823,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 VU#42,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#42,0.01234568,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 VU#42,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#42,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#42,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
@@ -136,7 +137,6 @@ VU#42,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,siti
 VU#42,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#42,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#42,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
-VU#42,0.00769231,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#42,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#42,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#42,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
