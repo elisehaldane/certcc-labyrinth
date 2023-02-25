@@ -1,4 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-602909174,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,yarn.lock,dc32edf38cdbee6111035e040f8748ae6b9d37e7,VU#18
-602909174,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,yarn.lock,dc32edf38cdbee6111035e040f8748ae6b9d37e7,VU#62
-602909174,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,yarn.lock,dc32edf38cdbee6111035e040f8748ae6b9d37e7,VU#91
+602909174,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,yarn.lock,536fdb6a1a4a4df6648d6b8a4b7094b054d59aad,VU#18
+602909174,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,yarn.lock,536fdb6a1a4a4df6648d6b8a4b7094b054d59aad,VU#62
