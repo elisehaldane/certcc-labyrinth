@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-494602,ronin-rb/ronin-exploits,spec/exploit_spec.rb,bd2cc5b26eb6eed98b44984a459745b84dcd6806,CVE-2022-1234
+494602,ronin-rb/ronin-exploits,spec/exploit_spec.rb,d8d1ee11ec95237484e39ebdc6c7ca205b1dd4f4,CVE-2022-1234
 494602,ronin-rb/ronin-exploits,spec/advisory_spec.rb,f326ba8f93fdbaab5e86c402b80ffa5ae4fb4d17,CVE-2022-1234
