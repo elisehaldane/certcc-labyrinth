@@ -15,7 +15,6 @@ VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploit
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,439772153
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,439750861
 VU#78,0.50000000,https://github.com/ROOT44x/Kol-Exploit-v1,ROOT44x/Kol-Exploit-v1,582430491
-VU#78,0.50000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#78,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
 VU#78,0.50000000,https://github.com/AnonymPlayer2/TL-Exploit,AnonymPlayer2/TL-Exploit,458954886
 VU#78,0.50000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,439712661
@@ -28,6 +27,7 @@ VU#78,0.25000000,https://github.com/NeobloxExecutor/neoblox,NeobloxExecutor/neob
 VU#78,0.25000000,https://github.com/Plextora/neoblox,Plextora/neoblox,469819250
 VU#78,0.25000000,https://github.com/marketdesignresearch/MVNN,marketdesignresearch/MVNN,412384267
 VU#78,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
+VU#78,0.20000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#78,0.20000000,https://github.com/tuhinmallick/Stochastic-methods-Project,tuhinmallick/Stochastic-methods-Project,477425856
 VU#78,0.20000000,https://github.com/ByteHackr/CVE-2022-0853,ByteHackr/CVE-2022-0853,468269355
 VU#78,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
@@ -148,6 +148,7 @@ VU#78,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#78,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#78,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#78,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
+VU#78,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 VU#78,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#78,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#78,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
@@ -259,13 +260,13 @@ VU#78,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#78,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#78,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#78,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#78,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#78,0.00180505,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#78,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#78,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#78,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#78,0.00159490,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#78,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#78,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#78,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#78,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#78,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#78,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
@@ -289,6 +290,6 @@ VU#78,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,56715585
 VU#78,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#78,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#78,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#78,0.00019759,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#78,0.00019755,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#78,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#78,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

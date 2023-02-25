@@ -121,6 +121,7 @@ VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#61,0.02000000,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#61,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
@@ -131,7 +132,6 @@ VU#61,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploi
 VU#61,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#61,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#61,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
-VU#61,0.01612903,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#61,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#61,0.01587302,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
 VU#61,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
@@ -231,13 +231,13 @@ VU#61,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#61,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#61,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#61,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#61,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#61,0.00180505,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#61,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#61,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#61,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#61,0.00159490,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#61,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#61,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#61,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#61,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#61,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#61,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

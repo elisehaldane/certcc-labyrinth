@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#11,1.00000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
-VU#11,0.50000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
 VU#11,0.50000000,https://github.com/helviojunior/shellcodetester,helviojunior/shellcodetester,191294929
 VU#11,0.33333333,https://github.com/amitkkumra/vis-e-rce,amitkkumra/vis-e-rce,580446561
@@ -13,6 +12,7 @@ VU#11,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22
 VU#11,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#11,0.25000000,https://github.com/Nintendo-Homebrew/Tiramisu,Nintendo-Homebrew/Tiramisu,462477498
 VU#11,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
+VU#11,0.20000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#11,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#11,0.16666667,https://github.com/fengguangbin/spring-rce-war,fengguangbin/spring-rce-war,475841116
 VU#11,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,475787299
@@ -71,6 +71,7 @@ VU#11,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-
 VU#11,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 VU#11,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#11,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#11,0.02000000,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#11,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#11,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#11,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
@@ -85,7 +86,6 @@ VU#11,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4710
 VU#11,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#11,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#11,0.01639344,https://github.com/Drygster/Exploitation,Drygster/Exploitation,461223241
-VU#11,0.01612903,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#11,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#11,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#11,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
@@ -188,13 +188,13 @@ VU#11,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniqu
 VU#11,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#11,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#11,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#11,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#11,0.00180505,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#11,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#11,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#11,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#11,0.00159490,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#11,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#11,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#11,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#11,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#11,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#11,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

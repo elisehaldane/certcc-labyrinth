@@ -38,6 +38,7 @@ VU#70,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonR
 VU#70,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#70,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#70,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
+VU#70,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
 VU#70,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
 VU#70,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#70,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
@@ -108,6 +109,7 @@ VU#70,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#70,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#70,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#70,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#70,0.02000000,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#70,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#70,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#70,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
@@ -124,7 +126,6 @@ VU#70,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4709
 VU#70,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#70,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#70,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
-VU#70,0.01612903,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#70,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#70,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#70,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
@@ -224,11 +225,11 @@ VU#70,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#70,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#70,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#70,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#70,0.00181488,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#70,0.00180505,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#70,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#70,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#70,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#70,0.00150376,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#70,0.00159490,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#70,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#70,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
 VU#70,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
