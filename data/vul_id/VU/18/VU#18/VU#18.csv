@@ -32,7 +32,6 @@ VU#18,0.50000000,https://github.com/summit-defi/grim-users-shares,summit-defi/gr
 VU#18,0.50000000,https://github.com/hihiben/exploit_simulation_template,hihiben/exploit_simulation_template,424849082
 VU#18,0.50000000,https://github.com/agrarian-systems-consulting/endagri-front,agrarian-systems-consulting/endagri-front,271640691
 VU#18,0.50000000,https://github.com/AS400JPLPC/nim_termcurs,AS400JPLPC/nim_termcurs,258618257
-VU#18,0.50000000,https://github.com/rosvik/cve.248.no,rosvik/cve.248.no,225452554
 VU#18,0.33333333,https://github.com/rafaelcanoguitton/RemoteCodeExecution-Kubernetes,rafaelcanoguitton/RemoteCodeExecution-Kubernetes,568231729
 VU#18,0.33333333,https://github.com/0xKMG/Smart-Contract-Exploits,0xKMG/Smart-Contract-Exploits,551361905
 VU#18,0.33333333,https://github.com/lazaralex98/common-exploits-PoC,lazaralex98/common-exploits-PoC,547576936
@@ -77,6 +76,7 @@ VU#18,0.16666667,https://github.com/Abdulazizalsewedy/CVE-2021-29447,Abdulazizal
 VU#18,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/TicTacToe,497334479
 VU#18,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
 VU#18,0.16666667,https://github.com/TretornESP/bec,TretornESP/bec,463613043
+VU#18,0.16666667,https://github.com/rosvik/cve.248.no,rosvik/cve.248.no,225452554
 VU#18,0.16666667,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#18,0.14285714,https://github.com/AlexandrMilko/PenBot,AlexandrMilko/PenBot,581851984
 VU#18,0.14285714,https://github.com/6iKezbAD3CZnf/blockchained-ml,6iKezbAD3CZnf/blockchained-ml,562467899

@@ -48,6 +48,7 @@ VU#69,0.25000000,https://github.com/vicojump/Exploit6,vicojump/Exploit6,46220769
 VU#69,0.25000000,https://github.com/vicojump/Exploit4,vicojump/Exploit4,462025251
 VU#69,0.25000000,https://github.com/vicojump/Exploit2,vicojump/Exploit2,462023623
 VU#69,0.25000000,https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,439234639
+VU#69,0.20000000,https://github.com/PsySlayer/Krum-V1-Exploit,PsySlayer/Krum-V1-Exploit,606785072
 VU#69,0.20000000,https://github.com/Charlie0257/T2TL,Charlie0257/T2TL,515790479
 VU#69,0.20000000,https://github.com/v0x45/PassGen-by-Rayan-w-Backdoor,v0x45/PassGen-by-Rayan-w-Backdoor,486184135
 VU#69,0.20000000,https://github.com/HappyyCat/exploit,HappyyCat/exploit,445970103
@@ -108,7 +109,6 @@ VU#69,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,45
 VU#69,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#69,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
 VU#69,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
-VU#69,0.03333333,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#69,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#69,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
 VU#69,0.03125000,https://github.com/Hacker5preme/Exploits,Hacker5preme/Exploits,370935249
@@ -133,6 +133,7 @@ VU#69,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/explo
 VU#69,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#69,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#69,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
+VU#69,0.02222222,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#69,0.02127660,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#69,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#69,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704

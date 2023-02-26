@@ -9,7 +9,6 @@ VU#05,0.50000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitc
 VU#05,0.50000000,https://github.com/counoxe/Counoxe,counoxe/Counoxe,487935711
 VU#05,0.50000000,https://github.com/xFelienDev/ExploitPack,xFelienDev/ExploitPack,482935784
 VU#05,0.50000000,https://github.com/dusty99/dusty,dusty99/dusty,473135347
-VU#05,0.50000000,https://github.com/rosvik/cve.248.no,rosvik/cve.248.no,225452554
 VU#05,0.33333333,https://github.com/rafaelcanoguitton/RemoteCodeExecution-Kubernetes,rafaelcanoguitton/RemoteCodeExecution-Kubernetes,568231729
 VU#05,0.33333333,https://github.com/cxzero/CVE-2022-42889-text4shell,cxzero/CVE-2022-42889-text4shell,556278066
 VU#05,0.33333333,https://github.com/Sunqiz/cve-2010-2553-reproduction,Sunqiz/cve-2010-2553-reproduction,537378369
@@ -32,6 +31,7 @@ VU#05,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,Ga
 VU#05,0.20000000,https://github.com/Yolnan/24678_CVE_PS6,Yolnan/24678_CVE_PS6,424596008
 VU#05,0.16666667,https://github.com/GalateeM/SAE_2.4_EXPLOITATION_BD,GalateeM/SAE_2.4_EXPLOITATION_BD,595492765
 VU#05,0.16666667,https://github.com/0xCuSO4/DHLYK,0xCuSO4/DHLYK,445846830
+VU#05,0.16666667,https://github.com/rosvik/cve.248.no,rosvik/cve.248.no,225452554
 VU#05,0.14285714,https://github.com/6iKezbAD3CZnf/blockchained-ml,6iKezbAD3CZnf/blockchained-ml,562467899
 VU#05,0.14285714,https://github.com/Projectrcs/Tinder-Exploit,Projectrcs/Tinder-Exploit,539966863
 VU#05,0.14285714,https://github.com/Projectrcs/Macro-Exploit,Projectrcs/Macro-Exploit,539945497
@@ -80,7 +80,6 @@ VU#05,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,45
 VU#05,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
 VU#05,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#05,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
-VU#05,0.03333333,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#05,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#05,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#05,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
@@ -91,6 +90,7 @@ VU#05,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-th
 VU#05,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#05,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#05,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
+VU#05,0.02222222,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#05,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#05,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#05,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658

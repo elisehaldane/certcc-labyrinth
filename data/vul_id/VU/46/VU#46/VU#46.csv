@@ -11,6 +11,7 @@ VU#46,0.33333333,https://github.com/mvondracek/VR-MitR-C2-Bigscreen,mvondracek/V
 VU#46,0.25000000,https://github.com/LingonJR/Giga-X,LingonJR/Giga-X,591934241
 VU#46,0.25000000,https://github.com/iloveflag/Fast-CVE-2022-22965,iloveflag/Fast-CVE-2022-22965,563378340
 VU#46,0.25000000,https://github.com/daffychuy/Log4j-Exploit,daffychuy/Log4j-Exploit,454267599
+VU#46,0.20000000,https://github.com/PsySlayer/Krum-V1-Exploit,PsySlayer/Krum-V1-Exploit,606785072
 VU#46,0.20000000,https://github.com/tin-z/Stuff_and_POCs,tin-z/Stuff_and_POCs,472375921
 VU#46,0.16666667,https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis,ebenezeredusei/Covid-19-Sentiment-Analysis,593605724
 VU#46,0.16666667,https://github.com/mfdev-solution/Exploit-CVE-2017-5638,mfdev-solution/Exploit-CVE-2017-5638,580942836
@@ -59,7 +60,6 @@ VU#46,0.03571429,https://github.com/mikias21/machine_learning_final_project,miki
 VU#46,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#46,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#46,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
-VU#46,0.03333333,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#46,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#46,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#46,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
@@ -67,6 +67,7 @@ VU#46,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
 VU#46,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#46,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#46,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
+VU#46,0.02222222,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#46,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#46,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 VU#46,0.02127660,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
