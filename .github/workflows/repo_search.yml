@@ -73,10 +73,10 @@ jobs:
           echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
     
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
       
@@ -113,12 +113,12 @@ jobs:
           echo "::set-output name=this_month::$(date +'%Y-%m')"
           echo "::set-output name=this_year::$(date +'%Y')"
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           token: ${{ secrets.VUL_DRILLER_TOKEN }}
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
@@ -187,10 +187,10 @@ jobs:
           echo "::set-output name=this_year::$(date +'%Y')"
 
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
@@ -235,10 +235,10 @@ jobs:
 
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
