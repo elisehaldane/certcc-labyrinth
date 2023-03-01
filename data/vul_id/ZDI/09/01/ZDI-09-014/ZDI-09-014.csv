@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZDI-09-014,0.00070872,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+ZDI-09-014,0.00070822,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 ZDI-09-014,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 ZDI-09-014,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 ZDI-09-014,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
@@ -50,5 +50,5 @@ ZDI-09-014,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/h
 ZDI-09-014,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 ZDI-09-014,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 ZDI-09-014,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
-ZDI-09-014,0.00000379,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZDI-09-014,0.00000378,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 ZDI-09-014,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

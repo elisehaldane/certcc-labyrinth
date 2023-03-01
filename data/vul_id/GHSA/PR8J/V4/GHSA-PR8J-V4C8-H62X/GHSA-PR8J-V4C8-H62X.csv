@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-PR8J-V4C8-H62X,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-22746,Live-Hack-CVE/CVE-2023-22746,597242421
-GHSA-PR8J-V4C8-H62X,0.00000379,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-PR8J-V4C8-H62X,0.00000378,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

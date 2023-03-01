@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#22,1.00000000,https://github.com/Meh-zx/R60Tool-for-Lunix,Meh-zx/R60Tool-for-Lunix,550619182
 VU#22,1.00000000,https://github.com/razzor-codes/Web3-Graveyard,razzor-codes/Web3-Graveyard,512263154
+VU#22,0.50000000,https://github.com/ilijadivi/VisionExploit,ilijadivi/VisionExploit,464673860
 VU#22,0.33333333,https://github.com/yubhyper/Exploit,yubhyper/Exploit,562181219
 VU#22,0.33333333,https://github.com/uk0/cve-2022-42889-intercept,uk0/cve-2022-42889-intercept,554822047
 VU#22,0.25000000,https://github.com/Xan007/096-Exploit,Xan007/096-Exploit,600824515
@@ -140,10 +141,10 @@ VU#22,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#22,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#22,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#22,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
-VU#22,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#22,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#22,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#22,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
+VU#22,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#22,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#22,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
 VU#22,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
@@ -152,11 +153,11 @@ VU#22,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET
 VU#22,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#22,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#22,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
-VU#22,0.01111111,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#22,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#22,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#22,0.01075269,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#22,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#22,0.01063830,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#22,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#22,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#22,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500

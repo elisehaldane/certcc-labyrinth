@@ -141,7 +141,6 @@ VU#83,0.01724138,https://github.com/sairson/NetworkExpLibrary,sairson/NetworkExp
 VU#83,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#83,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#83,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
-VU#83,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#83,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#83,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#83,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
@@ -150,6 +149,7 @@ VU#83,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_tr
 VU#83,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#83,0.01428571,https://github.com/stphano/NEAs-ranking,stphano/NEAs-ranking,530254011
 VU#83,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
+VU#83,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#83,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#83,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#83,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
@@ -274,7 +274,8 @@ VU#83,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#83,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#83,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#83,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#83,0.00019755,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#83,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
+VU#83,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#83,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

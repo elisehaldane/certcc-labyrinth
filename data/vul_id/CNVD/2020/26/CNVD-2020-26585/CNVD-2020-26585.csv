@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2020-26585,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
-CNVD-2020-26585,0.00990099,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
+CNVD-2020-26585,0.00925926,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 CNVD-2020-26585,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 CNVD-2020-26585,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

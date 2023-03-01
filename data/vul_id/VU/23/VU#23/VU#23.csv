@@ -126,11 +126,11 @@ VU#23,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
 VU#23,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#23,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#23,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
-VU#23,0.03703704,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#23,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#23,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#23,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#23,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
+VU#23,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#23,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#23,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#23,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
@@ -161,12 +161,12 @@ VU#23,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#23,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#23,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#23,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
-VU#23,0.01612903,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#23,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#23,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#23,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#23,0.01492537,https://github.com/N0b1ta/Bit-Cannon,N0b1ta/Bit-Cannon,430397431
 VU#23,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
+VU#23,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#23,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#23,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#23,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
@@ -190,9 +190,9 @@ VU#23,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,47493750
 VU#23,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#23,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#23,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
-VU#23,0.00990099,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 VU#23,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#23,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
+VU#23,0.00925926,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 VU#23,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#23,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#23,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -305,7 +305,8 @@ VU#23,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,56715585
 VU#23,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#23,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#23,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#23,0.00019755,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
+VU#23,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#23,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

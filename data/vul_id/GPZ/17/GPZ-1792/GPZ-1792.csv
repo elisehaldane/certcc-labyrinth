@@ -8,7 +8,7 @@ GPZ-1792,0.08333333,https://github.com/n3t1nv4d3/kernel-exploits,n3t1nv4d3/kerne
 GPZ-1792,0.07692308,https://github.com/bcoles/kernel-exploits,bcoles/kernel-exploits,132224945
 GPZ-1792,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 GPZ-1792,0.00534759,https://github.com/khanhdz191/linux-kernel-exploitation,khanhdz191/linux-kernel-exploitation,606387984
-GPZ-1792,0.00534759,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740
+GPZ-1792,0.00529101,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740
 GPZ-1792,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30thers,fengjixuchui/Windows10ExploitsArchiv30thers,257192688
 GPZ-1792,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 GPZ-1792,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
@@ -58,7 +58,8 @@ GPZ-1792,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,56715
 GPZ-1792,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 GPZ-1792,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 GPZ-1792,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-GPZ-1792,0.00019755,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GPZ-1792,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
+GPZ-1792,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GPZ-1792,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1792,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 GPZ-1792,0.00007487,https://github.com/enaqx/sploitware,enaqx/sploitware,22348337
@@ -73,5 +74,5 @@ GPZ-1792,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 GPZ-1792,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 GPZ-1792,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 GPZ-1792,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-GPZ-1792,0.00000379,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GPZ-1792,0.00000378,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GPZ-1792,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
