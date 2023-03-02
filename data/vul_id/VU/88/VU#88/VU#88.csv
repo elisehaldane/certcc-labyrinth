@@ -106,7 +106,6 @@ VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#88,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
-VU#88,0.02127660,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#88,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#88,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
@@ -233,6 +232,7 @@ VU#88,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_T
 VU#88,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#88,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#88,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
+VU#88,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#88,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#88,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#88,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
@@ -314,7 +314,7 @@ VU#88,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#88,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#88,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#88,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#88,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#88,0.00019747,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#88,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#88,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

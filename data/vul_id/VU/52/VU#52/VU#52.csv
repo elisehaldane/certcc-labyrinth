@@ -49,7 +49,7 @@ VU#52,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,5841
 VU#52,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#52,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#52,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
-VU#52,0.02500000,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
+VU#52,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#52,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#52,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#52,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
@@ -102,6 +102,7 @@ VU#52,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_T
 VU#52,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#52,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#52,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
+VU#52,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#52,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#52,0.00735294,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#52,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
@@ -130,6 +131,7 @@ VU#52,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#52,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#52,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#52,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#52,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
 VU#52,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#52,0.00454545,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#52,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -175,7 +177,7 @@ VU#52,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#52,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#52,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#52,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#52,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#52,0.00019747,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#52,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#52,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#52,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

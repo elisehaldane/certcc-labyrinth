@@ -41,6 +41,7 @@ VU#69,0.33333333,https://github.com/vicojump/Exploit5,vicojump/Exploit5,46220628
 VU#69,0.33333333,https://github.com/vicojump/Exploit,vicojump/Exploit,462016126
 VU#69,0.33333333,https://github.com/momenthubv3/Skid,momenthubv3/Skid,455209277
 VU#69,0.33333333,https://github.com/JakeHost/JakeSploit-Exec,JakeHost/JakeSploit-Exec,433368423
+VU#69,0.25000000,https://github.com/JMWgamesOfficial/JiMscript-Roblox-Executor-v1,JMWgamesOfficial/JiMscript-Roblox-Executor-v1,608301476
 VU#69,0.25000000,https://github.com/LingonJR/Giga-X,LingonJR/Giga-X,591934241
 VU#69,0.25000000,https://github.com/l0n3rs/CVE-2021-25641,l0n3rs/CVE-2021-25641,564175641
 VU#69,0.25000000,https://github.com/bruhboy666/Bruhboy-Sploit,bruhboy666/Bruhboy-Sploit,466525126
@@ -125,16 +126,15 @@ VU#69,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,4005
 VU#69,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#69,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#69,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
-VU#69,0.02500000,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#69,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#69,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#69,0.02500000,https://github.com/bsauce/kernel-security-learning,bsauce/kernel-security-learning,224374363
+VU#69,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#69,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#69,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#69,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#69,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#69,0.02222222,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
-VU#69,0.02127660,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#69,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#69,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#69,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
@@ -200,6 +200,7 @@ VU#69,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_T
 VU#69,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#69,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#69,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
+VU#69,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#69,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#69,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#69,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
@@ -294,7 +295,7 @@ VU#69,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#69,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#69,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#69,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#69,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#69,0.00019747,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#69,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#69,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#69,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

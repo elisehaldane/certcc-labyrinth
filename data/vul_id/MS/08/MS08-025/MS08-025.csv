@@ -71,6 +71,7 @@ MS08-025,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228
 MS08-025,0.00523560,https://github.com/jared1981/SomeToolsAndExploits,jared1981/SomeToolsAndExploits,545877175
 MS08-025,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS08-025,0.00523560,https://github.com/anontuttuvenus/SomeToolsAndExploits,anontuttuvenus/SomeToolsAndExploits,326033664
+MS08-025,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
 MS08-025,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
 MS08-025,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS08-025,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
@@ -177,7 +178,7 @@ MS08-025,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 MS08-025,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS08-025,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS08-025,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS08-025,0.00001317,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-025,0.00001316,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-025,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-025,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS08-025,0.00000378,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

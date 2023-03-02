@@ -119,7 +119,6 @@ BID-1,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 BID-1,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 BID-1,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 BID-1,0.02173913,https://github.com/ucsb-seclab/boomerang,ucsb-seclab/boomerang,76598629
-BID-1,0.02127660,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 BID-1,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 BID-1,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 BID-1,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
@@ -128,6 +127,7 @@ BID-1,0.01538462,https://github.com/rhpco/CVE-2018-16509,rhpco/CVE-2018-16509,20
 BID-1,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 BID-1,0.01265823,https://github.com/seclab-ucr/KOOBE,seclab-ucr/KOOBE,219613366
 BID-1,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
+BID-1,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 BID-1,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 BID-1,0.00531915,https://github.com/Doctor-Hacker/PHP-App-Remote-Code-Execution-Testbed,Doctor-Hacker/PHP-App-Remote-Code-Execution-Testbed,200424674
 BID-1,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
@@ -176,7 +176,7 @@ BID-1,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/B
 BID-1,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 BID-1,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 BID-1,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-BID-1,0.00001317,https://github.com/trickest/cve,trickest/cve,454015416
+BID-1,0.00001316,https://github.com/trickest/cve,trickest/cve,454015416
 BID-1,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 BID-1,0.00000378,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-1,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

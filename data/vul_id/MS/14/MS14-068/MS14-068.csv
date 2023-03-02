@@ -27,11 +27,11 @@ MS14-068,0.03448276,https://github.com/demilson/WindowsExploit,demilson/WindowsE
 MS14-068,0.03333333,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
 MS14-068,0.03333333,https://github.com/darksh3llgr/autoscan,darksh3llgr/autoscan,150855506
 MS14-068,0.02777778,https://github.com/ITNerdbox/exploits,ITNerdbox/exploits,81378778
-MS14-068,0.02500000,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 MS14-068,0.02500000,https://github.com/mishmashclone/abatchy17-WindowsExploits,mishmashclone/abatchy17-WindowsExploits,225470680
 MS14-068,0.02500000,https://github.com/dineshkumarc987/WindowsExploits,dineshkumarc987/WindowsExploits,110072791
 MS14-068,0.02500000,https://github.com/bbabacan/WinExploits,bbabacan/WinExploits,96568711
 MS14-068,0.02500000,https://github.com/abatchy17/WindowsExploits,abatchy17/WindowsExploits,90667664
+MS14-068,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 MS14-068,0.02272727,https://github.com/c0ll3cti0n/exploitpack,c0ll3cti0n/exploitpack,51076752
 MS14-068,0.02222222,https://github.com/maveriktop007/-WindowsExploits,maveriktop007/-WindowsExploits,524907173
 MS14-068,0.02222222,https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits,takeboy/https-github.com-abatchy17-WindowsExploits,456416342
@@ -92,6 +92,7 @@ MS14-068,0.00523560,https://github.com/jared1981/SomeToolsAndExploits,jared1981/
 MS14-068,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS14-068,0.00523560,https://github.com/anontuttuvenus/SomeToolsAndExploits,anontuttuvenus/SomeToolsAndExploits,326033664
 MS14-068,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
+MS14-068,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
 MS14-068,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
 MS14-068,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
 MS14-068,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
@@ -262,7 +263,7 @@ MS14-068,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS14-068,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 MS14-068,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS14-068,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-MS14-068,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-068,0.00019747,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-068,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS14-068,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS14-068,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

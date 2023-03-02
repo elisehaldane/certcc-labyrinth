@@ -113,7 +113,6 @@ VU#16,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#16,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#16,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#16,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
-VU#16,0.02127660,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#16,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
 VU#16,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#16,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
@@ -180,6 +179,7 @@ VU#16,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#16,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#16,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#16,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
+VU#16,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#16,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#16,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#16,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
@@ -255,7 +255,7 @@ VU#16,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#16,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#16,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#16,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#16,0.00019751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#16,0.00019747,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#16,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#16,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#16,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
