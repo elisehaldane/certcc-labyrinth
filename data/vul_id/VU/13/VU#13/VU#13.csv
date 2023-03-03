@@ -105,13 +105,13 @@ VU#13,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-write
 VU#13,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#13,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#13,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
+VU#13,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#13,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#13,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#13,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#13,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#13,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#13,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#13,0.01063830,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#13,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#13,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#13,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
@@ -139,6 +139,7 @@ VU#13,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#13,0.00735294,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#13,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
 VU#13,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
+VU#13,0.00709220,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#13,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#13,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#13,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364

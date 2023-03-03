@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#28,1.00000000,https://github.com/Zalushka/EzExploit,Zalushka/EzExploit,546791876
 VU#28,1.00000000,https://github.com/dtreplin/ctf-writeups,dtreplin/ctf-writeups,476246138
 VU#28,1.00000000,https://github.com/NNNFFF/chromeOS_exploit,NNNFFF/chromeOS_exploit,258395295
+VU#28,0.50000000,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
 VU#28,0.50000000,https://github.com/gmontroni/Digital-Inpainting-SPH,gmontroni/Digital-Inpainting-SPH,520990597
 VU#28,0.50000000,https://github.com/LucianBonk/Roblox-Exploit,LucianBonk/Roblox-Exploit,483842009
 VU#28,0.50000000,https://github.com/gggggfdsd/dominik,gggggfdsd/dominik,481754963
@@ -108,6 +109,7 @@ VU#28,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,5261
 VU#28,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#28,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#28,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
+VU#28,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#28,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#28,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#28,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
@@ -115,7 +117,6 @@ VU#28,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,1892
 VU#28,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#28,0.01075269,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#28,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#28,0.01063830,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#28,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#28,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#28,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
@@ -151,6 +152,7 @@ VU#28,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#28,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#28,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#28,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
+VU#28,0.00709220,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#28,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#28,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#28,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -186,8 +188,8 @@ VU#28,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,4792
 VU#28,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#28,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#28,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
-VU#28,0.00290698,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#28,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
+VU#28,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#28,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#28,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#28,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370

@@ -5,6 +5,7 @@ VU#99,1.00000000,https://github.com/feifei-cv/RCE,feifei-cv/RCE,481491446
 VU#99,0.50000000,https://github.com/j2ekim/sunlogin_rce,j2ekim/sunlogin_rce,460592283
 VU#99,0.50000000,https://github.com/scy-phy/OPC-UA-attacks-POC,scy-phy/OPC-UA-attacks-POC,411712329
 VU#99,0.50000000,https://github.com/bmedicke/REED,bmedicke/REED,300668178
+VU#99,0.33333333,https://github.com/GabrieleColapelle/Improving-GNNs-exploiting-information-of-graphs,GabrieleColapelle/Improving-GNNs-exploiting-information-of-graphs,553711888
 VU#99,0.33333333,https://github.com/Sitaras/eClass-Penetration-Testing,Sitaras/eClass-Penetration-Testing,520041322
 VU#99,0.33333333,https://github.com/John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,511662006
 VU#99,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
@@ -153,6 +154,7 @@ VU#99,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#99,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#99,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#99,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
+VU#99,0.00709220,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#99,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#99,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#99,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
@@ -172,8 +174,8 @@ VU#99,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,3570
 VU#99,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#99,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#99,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-VU#99,0.00462963,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
 VU#99,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#99,0.00454545,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
 VU#99,0.00454545,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#99,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#99,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
@@ -194,6 +196,7 @@ VU#99,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,
 VU#99,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#99,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#99,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
+VU#99,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#99,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#99,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#99,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
