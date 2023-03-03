@@ -1,104 +1,256 @@
 repo_id,repo_full_name,file,file_sha1,match
+600377082,neelblabla/ESG-and-Financial-Performance,Data Collection/final_relevant_df.csv,0b36d26d7105e25f0b9c26348b562c133fd83185,VU#28
 600377082,neelblabla/ESG-and-Financial-Performance,Data Collection/merged_esg_df.csv,2c45ab24ef60941f9948d09f2a04fb7335085df2,VU#28
 600377082,neelblabla/ESG-and-Financial-Performance,Data Collection/Refinitiv_ESG_Universe.csv,2d848409d5eddc7d298a234c6179e4a156a60712,VU#28
 600377082,neelblabla/ESG-and-Financial-Performance,Data Collection/tr_esg_df.csv,4a5fd92a3220db88caa5d5e3314369a9cbe3fe84,VU#28
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#00
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#68
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#678
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#67
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#665
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#66
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#658
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#648
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#64
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#63
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#626
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#61
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#58
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#5778
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#577
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#57
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#552
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#54
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#9995
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#73
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#595
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#74
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#23
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#59
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#744
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#379
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#22
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#58802
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#21
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#76
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#38
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#19
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#77
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#642
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#61
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#25
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#37
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#18
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#330
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#63
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#33
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#35
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#32
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#67
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#62
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#36
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#68
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#611
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#680
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#28
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#686
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#27
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#69
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#494
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#58
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#39
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#79
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#078
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#44
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#07
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#53
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#06
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#45
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#46
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#7888
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#944
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#52
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#96
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#02
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#50
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#01
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#47
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#9915
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#04
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#90
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#08
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#091
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#17
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#169
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#411
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#818
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#826
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#43
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#84
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#85
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#83
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#86
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#11
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#87
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#89
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/Analysis_ESG-Finance-General.ipynb,5b999fbf464bac1f69253a3e6d143bcf874c8b65,VU#64
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#52
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#69
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#96
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#7024
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#72
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#95
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#936
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#931
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#93
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#92
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#91
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#90
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#898
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#87
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#85
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#795
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#794
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#79
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#78
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#77
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#762
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#76
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#75
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#749
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#74
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#73
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#54
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#552
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#626
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#58
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#577
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#61
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#5778
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#63
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#57
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#71
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#484
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#648
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#794
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#795
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#85
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#87
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#898
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#90
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#79
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#91
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#93
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#931
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#936
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#95
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#96
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#97
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#92
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#64
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#78
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#762
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#658
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#66
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#665
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#67
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#678
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#68
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#77
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#69
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#72
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#73
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#74
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#749
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#75
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#76
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#7024
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#49
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#46
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#222
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#22
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#20
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#19
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#188
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#17
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#16
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#155
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#15
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#47
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#13
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#11
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#10
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#09
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#07
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#06
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#043
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#04
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#02504
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#001
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#111
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#00
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#245
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#24
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#25
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#44
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#42
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#41
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#402
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#3747
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#37
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#36
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#348
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#34
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#249
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#19
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#332
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#97
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#11
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#111
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#13
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#31
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#29
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#289
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#285
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#10
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#15
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#16
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#2669
 600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#26
-600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#31
-600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#641
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#25
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#249
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#484
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#24
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#17
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#222
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#22
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#20
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#155
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#36
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#188
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#41
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#402
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#09
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#42
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#06
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#3747
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#02504
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#043
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#04
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#07
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#37
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#46
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#001
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#47
+600377082,neelblabla/ESG-and-Financial-Performance,tutorials/1_twitter_sent.ipynb,6440a81774f0c64311059fa7a8aba3f4165fd84c,VU#44
 600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#17
-600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#85
-600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#86
-600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#76
 600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#56
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#76
 600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#72
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#86
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#85
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#641
 600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/TR_ESG_EDA.ipynb,74153053c4dee9516f0549b73d4379779869efa8,VU#34
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#091
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#10
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#18
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#7888
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#175
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#89
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#9915
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#79
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#078
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#99
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#11
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#17
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#01
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#169
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#80
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#02
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#87
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#07
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#818
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#86
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#826
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#96
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#06
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#84
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#14
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#04
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#85
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#944
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#90
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#494
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#77
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#63
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#350
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#36
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#62
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#611
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#37
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#61
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#595
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#379
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#59
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#38
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#58802
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#39
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#58
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#411
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#43
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#44
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#53
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#45
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#9995
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#47
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#35
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#64
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#642
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#34
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#21
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#76
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#22
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#744
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#23
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#74
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#730
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#73
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#25
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#27
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#19
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#69
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#686
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#680
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#68
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#67
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#32
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#33
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#66
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#330
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#28
+600377082,neelblabla/ESG-and-Financial-Performance,Data Analysis/.ipynb_checkpoints/Analysis_ESG-Finance-General-checkpoint.ipynb,9ebe011cab9637b1b4987eb2590e23bc04f04d8e,VU#52
 600377082,neelblabla/ESG-and-Financial-Performance,Data Collection/tr_esg_df_cleaned.csv,b60964b8e8a049f831b522a99dda38b1082708fb,VU#28
 600377082,neelblabla/ESG-and-Financial-Performance,Data Collection/comp_info_df.csv,c3d3e0138eac8154cdb89ef4634766fe1deb6eff,VU#28
