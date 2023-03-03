@@ -5,7 +5,7 @@ repo_id,repo_full_name,file,file_sha1,match
 373353503,Scr1ptK1ddie/OSCPprep,Unix/Linux_Priv_Esc.md,6568c959d645af245f5aa2107a517dbaef72f549,CVE-2019-18634
 373353503,Scr1ptK1ddie/OSCPprep,Unix/Linux_Priv_Esc.md,6568c959d645af245f5aa2107a517dbaef72f549,CVE-2021-3156
 373353503,Scr1ptK1ddie/OSCPprep,Unix/Linux_Priv_Esc.md,6568c959d645af245f5aa2107a517dbaef72f549,CVE-2021-33909
-373353503,Scr1ptK1ddie/OSCPprep,Windows/Windows_Priv_Esc.md,7f88ecfdd0f27aa19f7614c5a7011cb2649ded8e,CVE-2019-1388
-373353503,Scr1ptK1ddie/OSCPprep,Windows/Windows_Priv_Esc.md,7f88ecfdd0f27aa19f7614c5a7011cb2649ded8e,CVE-2020-1048
-373353503,Scr1ptK1ddie/OSCPprep,Windows/Windows_Priv_Esc.md,7f88ecfdd0f27aa19f7614c5a7011cb2649ded8e,CVE-2021-36934
-373353503,Scr1ptK1ddie/OSCPprep,Enumeration/ReadMe.md,9d8cc502660dc1de45c610b006ba17d4ea425b3c,MS17-010
+373353503,Scr1ptK1ddie/OSCPprep,Windows/Windows_Priv_Esc.md,dd71171f1e7cd8e06aa70289f898cf1a8058fddc,CVE-2019-1388
+373353503,Scr1ptK1ddie/OSCPprep,Windows/Windows_Priv_Esc.md,dd71171f1e7cd8e06aa70289f898cf1a8058fddc,CVE-2020-1048
+373353503,Scr1ptK1ddie/OSCPprep,Windows/Windows_Priv_Esc.md,dd71171f1e7cd8e06aa70289f898cf1a8058fddc,CVE-2021-36934
+373353503,Scr1ptK1ddie/OSCPprep,Enumeration/ReadMe.md,e36abb0a1e650d6b9acfd6dfdfa66d46ddc693f5,MS17-010
