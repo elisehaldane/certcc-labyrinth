@@ -5,7 +5,7 @@ GHSA-V7FF-8WCX-GMC5,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-V7FF-8WCX-GMC5,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 GHSA-V7FF-8WCX-GMC5,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 GHSA-V7FF-8WCX-GMC5,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
-GHSA-V7FF-8WCX-GMC5,0.00021160,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-V7FF-8WCX-GMC5,0.00021070,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-V7FF-8WCX-GMC5,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 GHSA-V7FF-8WCX-GMC5,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 GHSA-V7FF-8WCX-GMC5,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -28,9 +28,9 @@ GHSA-V7FF-8WCX-GMC5,0.00007244,https://github.com/adminlove520/Poc-Monitor_v1.0.
 GHSA-V7FF-8WCX-GMC5,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-V7FF-8WCX-GMC5,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-V7FF-8WCX-GMC5,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-GHSA-V7FF-8WCX-GMC5,0.00001316,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-V7FF-8WCX-GMC5,0.00001315,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-V7FF-8WCX-GMC5,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 GHSA-V7FF-8WCX-GMC5,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 GHSA-V7FF-8WCX-GMC5,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-GHSA-V7FF-8WCX-GMC5,0.00000378,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-V7FF-8WCX-GMC5,0.00000377,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-V7FF-8WCX-GMC5,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
