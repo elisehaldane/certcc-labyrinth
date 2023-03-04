@@ -15,12 +15,10 @@ repo_id,repo_full_name,file,file_sha1,match
 191117123,chaitin/xray,pocs/jenkins-cve-2018-1000861-rce.yml,10c67b6ac09489c528a40a8a32d00603873dda3c,CVE-2018-1000861
 191117123,chaitin/xray,pocs/spring-cloud-cve-2020-5410.yml,10e878122614f08f848d0c63848c7a80188dac38,CVE-2020-5410
 191117123,chaitin/xray,pocs/jboss-cve-2010-1871.yml,1337cd04403b95d7dac8fc398545375a8f49db03,CVE-2010-1871
-191117123,chaitin/xray,.github/PULL_REQUEST_TEMPLATE.md,143ff89576c37885e5e5ede2e950eaf436ec5e0f,CVE-2019-11043
-191117123,chaitin/xray,.github/PULL_REQUEST_TEMPLATE.md,143ff89576c37885e5e5ede2e950eaf436ec5e0f,CVE-2020-1938
 191117123,chaitin/xray,pocs/kibana-cve-2018-17246.yml,178630b56829ff032875051069bc64f1d38b85e5,CVE-2018-17246
 191117123,chaitin/xray,pocs/dlink-cve-2020-9376-dump-credentials.yml,199c255f533260aef6dec73900ba6e9b428cfc62,CVE-2020-9376
-191117123,chaitin/xray,pocs/jellyfin-cve-2021-29490.yml,1bf2512d80fc09bd620ff2e4c84204744e9a60c9,CVE-2021-29490
 191117123,chaitin/xray,pocs/jellyfin-cve-2021-29490.yml,1bf2512d80fc09bd620ff2e4c84204744e9a60c9,GHSA-RGJW-4FWC-9V96
+191117123,chaitin/xray,pocs/jellyfin-cve-2021-29490.yml,1bf2512d80fc09bd620ff2e4c84204744e9a60c9,CVE-2021-29490
 191117123,chaitin/xray,pocs/datang-ac-default-password-cnvd-2021-04128.yml,1f8588c8c84ddacec64c47b4d491884f42414b9b,CNVD-2021-04128
 191117123,chaitin/xray,pocs/weiphp-path-traversal.yml,219f4a92d9b30863ea879876da13d83a3c802d67,CNVD-2020-68596
 191117123,chaitin/xray,pocs/craftcms-seomatic-cve-2020-9757-rce.yml,2285ef395bb5fc5862e28ccb11c2f482fbc3789b,CVE-2020-9757
@@ -61,8 +59,8 @@ repo_id,repo_full_name,file,file_sha1,match
 191117123,chaitin/xray,pocs/jenkins-cve-2018-1000600.yml,4b91345f35434358b466bb2458049534a4e85104,CVE-2018-1000600
 191117123,chaitin/xray,pocs/vmware-vrealize-cve-2021-21975-ssrf.yml,4bb3d899a1bc25237a05a7a7e5159f6ee86e1550,CVE-2021-21975
 191117123,chaitin/xray,pocs/kong-cve-2020-11710-unauth.yml,4d1cab7c5617a6fd7ffe48ac1ac7d30a66944e58,CVE-2020-11710
-191117123,chaitin/xray,pocs/prometheus-url-redirection-cve-2021-29622.yml,4dcd3e9d95ba7d7f46400373a0b66c7335db3679,CVE-2021-29622
 191117123,chaitin/xray,pocs/prometheus-url-redirection-cve-2021-29622.yml,4dcd3e9d95ba7d7f46400373a0b66c7335db3679,GHSA-VX57-7F4Q-FPC7
+191117123,chaitin/xray,pocs/prometheus-url-redirection-cve-2021-29622.yml,4dcd3e9d95ba7d7f46400373a0b66c7335db3679,CVE-2021-29622
 191117123,chaitin/xray,pocs/mongo-express-cve-2019-10758.yml,4e7b33ee5cbc78a6fc8a13a4fb803cba6356fbbe,CVE-2019-10758
 191117123,chaitin/xray,pocs/dlink-cve-2019-16920-rce.yml,4fc0a387226da2239ce2d4d70236ecf3af7ea763,CVE-2019-16920
 191117123,chaitin/xray,pocs/shopxo-cnvd-2021-15822.yml,50a39c6a65582b1cdfa68f8dfe9dfee69dc888b3,CNVD-2021-15822
@@ -70,8 +68,8 @@ repo_id,repo_full_name,file,file_sha1,match
 191117123,chaitin/xray,pocs/confluence-cve-2021-26085-arbitrary-file-read.yml,54907512c17d8ef37966718ce9546fc6045487c7,CVE-2021-26085
 191117123,chaitin/xray,pocs/joomla-ext-zhbaidumap-cve-2018-6605-sqli.yml,55322c23345a9dc1d7bbf731422aca5baae5f812,CVE-2018-6605
 191117123,chaitin/xray,pocs/webmin-cve-2019-15107-rce.yml,573df2b75826d45beb47ed02ed2ebd9bf427f1f0,CVE-2019-15107
-191117123,chaitin/xray,pocs/nexus-cve-2020-10204.yml,596b242a06eb074879d5c035cf0848e189e4414a,CVE-2020-10204
 191117123,chaitin/xray,pocs/nexus-cve-2020-10204.yml,596b242a06eb074879d5c035cf0848e189e4414a,CVE-2020-10199
+191117123,chaitin/xray,pocs/nexus-cve-2020-10204.yml,596b242a06eb074879d5c035cf0848e189e4414a,CVE-2020-10204
 191117123,chaitin/xray,pocs/apache-httpd-cve-2021-41773-rce.yml,597657e7da9223df4ddc65b4df56dcb34b71fa74,CVE-2021-41773
 191117123,chaitin/xray,pocs/seeyon-cnvd-2020-62422-readfile.yml,5dbf4f08351bf441c6bb6b9373bf507d74a5e100,CNVD-2020-62422
 191117123,chaitin/xray,pocs/coldfusion-cve-2010-2861-lfi.yml,60fc07102cb87a8955dfc8d03b40a37bedf6fea1,CVE-2010-2861
@@ -85,8 +83,8 @@ repo_id,repo_full_name,file,file_sha1,match
 191117123,chaitin/xray,pocs/bash-cve-2014-6271.yml,75001d80ff458b5b401c4150321fbde514e92269,CVE-2014-6271
 191117123,chaitin/xray,pocs/saltstack-cve-2020-16846.yml,76f69da4f2d8c4deee3ed01fee80a6900e991831,CVE-2020-16846
 191117123,chaitin/xray,pocs/citrix-xenmobile-cve-2020-8209.yml,797f7eacfb4bb6e61179385a484b979f5cff52bb,CVE-2020-8209
-191117123,chaitin/xray,pocs/weblogic-cve-2019-2725.yml,7af2574c1db1f3b160f84a7303808cc0fcedaee3,CVE-2019-2725
 191117123,chaitin/xray,pocs/weblogic-cve-2019-2725.yml,7af2574c1db1f3b160f84a7303808cc0fcedaee3,CVE-2017-10271
+191117123,chaitin/xray,pocs/weblogic-cve-2019-2725.yml,7af2574c1db1f3b160f84a7303808cc0fcedaee3,CVE-2019-2725
 191117123,chaitin/xray,pocs/lanproxy-cve-2021-3019-lfi.yml,7b3cd8bc432efc88963f42cb36db99c47b193ca9,CVE-2021-3019
 191117123,chaitin/xray,pocs/tomcat-cve-2017-12615-rce.yml,7b5f9ca3088361fec39f165ef25581357d51b5b5,CVE-2017-12615
 191117123,chaitin/xray,pocs/phpcms-cve-2018-19127.yml,7c29edf3657d9f88aa1fa571695c4434e43faaae,CVE-2018-19127
@@ -109,10 +107,12 @@ repo_id,repo_full_name,file,file_sha1,match
 191117123,chaitin/xray,pocs/satellian-cve-2020-7980-rce.yml,962447ed05eb2f38c2d8b5653a27eaf495540d23,CVE-2020-7980
 191117123,chaitin/xray,pocs/ruijie-eweb-rce-cnvd-2021-09650.yml,97c894aa065a2631d33be52da1a5be37fe2a750c,CNVD-2021-09650
 191117123,chaitin/xray,pocs/drupal-cve-2014-3704-sqli.yml,9a289ae0e5ca035b2800a7f299ec27d8f61fa390,CVE-2014-3704
-191117123,chaitin/xray,pocs/dlink-dsl-2888a-rce.yml,9c4bef2acd44978864688e4d2d838d92c60f258d,CVE-2020-24579
 191117123,chaitin/xray,pocs/dlink-dsl-2888a-rce.yml,9c4bef2acd44978864688e4d2d838d92c60f258d,CVE-2020-24581
+191117123,chaitin/xray,pocs/dlink-dsl-2888a-rce.yml,9c4bef2acd44978864688e4d2d838d92c60f258d,CVE-2020-24579
 191117123,chaitin/xray,pocs/metinfo-cve-2019-16996-sqli.yml,9dc967bfd01f79d89c01c8768000f7f3a3ba5777,CVE-2019-16996
 191117123,chaitin/xray,pocs/cisco-cve-2020-3452-readfile.yml,9e34f9835774f993f594f7216508838d763b5726,CVE-2020-3452
+191117123,chaitin/xray,.github/PULL_REQUEST_TEMPLATE.md,9e537ee6a7e3047c0663c433abc5c0f2119fdc1f,CVE-2020-1938
+191117123,chaitin/xray,.github/PULL_REQUEST_TEMPLATE.md,9e537ee6a7e3047c0663c433abc5c0f2119fdc1f,CVE-2019-11043
 191117123,chaitin/xray,pocs/razor-cve-2018-8770.yml,a0040ad76302b230b1a4312ed8c985d05eb1d1ab,CVE-2018-8770
 191117123,chaitin/xray,pocs/weblogic-cve-2019-2729-1.yml,a0b824d642a0a2b4bd97de7c264854c8a717144f,CVE-2019-2729
 191117123,chaitin/xray,pocs/netgear-cve-2017-5521.yml,a1f4934e10951fbdf4f8ff1ddcf8f017c30eed80,CVE-2017-5521
