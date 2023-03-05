@@ -135,6 +135,7 @@ VU#97,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#97,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#97,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#97,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
+VU#97,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
 VU#97,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#97,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#97,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
@@ -239,7 +240,7 @@ VU#97,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#97,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#97,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#97,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#97,0.00048239,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#97,0.00048031,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#97,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#97,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#97,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
