@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 607938233,ST5Sneaky/exploit-scripts,executors/sneakysevon.zip,996191057cf06012524f5aa88082ef503794c45c,VU#35
+607938233,ST5Sneaky/exploit-scripts,executors/SimpleExploitingGUIv1.zip,a9738bb6abd59d9c48dfbf5ebd04d503ced3f9ab,VU#28
+607938233,ST5Sneaky/exploit-scripts,executors/SimpleExploitingGUIv1.zip,a9738bb6abd59d9c48dfbf5ebd04d503ced3f9ab,VU#40
+607938233,ST5Sneaky/exploit-scripts,executors/SimpleExploitingGUIv1.zip,a9738bb6abd59d9c48dfbf5ebd04d503ced3f9ab,VU#57
+607938233,ST5Sneaky/exploit-scripts,executors/SimpleExploitingGUIv1.zip,a9738bb6abd59d9c48dfbf5ebd04d503ced3f9ab,VU#61
