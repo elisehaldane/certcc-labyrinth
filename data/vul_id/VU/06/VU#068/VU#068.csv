@@ -1,8 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#068,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
-VU#068,0.00952381,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#068,0.00666667,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
-VU#068,0.00454545,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
+VU#068,0.00425532,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#068,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#068,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#068,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
