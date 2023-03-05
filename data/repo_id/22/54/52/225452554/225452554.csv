@@ -1,8 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-225452554,rosvik/cve.248.no,src/utils/__tests__/fixtures/v4-example-reserved.ts,048e3368d856129f7e057376bb76b47d07b7be04,CVE-2023-24989
-225452554,rosvik/cve.248.no,src/utils/__tests__/fixtures/v5-example-basic.ts,26e6684ff36f819dc55cea1970474376fb4701c7,CVE-1337-1234
-225452554,rosvik/cve.248.no,src/utils/__tests__/fixtures/v5-example-advanced.ts,78df8c4b435f1b1e7c0a8716c494d55db30c3a0c,CVE-1337-1234
-225452554,rosvik/cve.248.no,src/utils/__tests__/fixtures/v4-example-public.ts,82a746a324b5a02394aea28335f4fdb9c8d63e90,CVE-2023-24139
-225452554,rosvik/cve.248.no,yarn.lock,990cd5153bbcc120f1379d9c80e8b9ef923a9032,VU#05
-225452554,rosvik/cve.248.no,yarn.lock,990cd5153bbcc120f1379d9c80e8b9ef923a9032,VU#18
-225452554,rosvik/cve.248.no,src/utils/__tests__/fixtures/v4-example-reject.ts,ded8dc9f592a6b8cb0ddd3a99fe0e7e68b3fc408,CVE-2020-24980
+225452554,rosvik/cve.248.no,src/pages/index.tsx,be42ba3ffdd2056104e3e0a5e48a1688ba5ae4a8,CVE-2021-30900
+225452554,rosvik/cve.248.no,src/pages/index.tsx,be42ba3ffdd2056104e3e0a5e48a1688ba5ae4a8,CVE-2022-41099
+225452554,rosvik/cve.248.no,src/pages/index.tsx,be42ba3ffdd2056104e3e0a5e48a1688ba5ae4a8,CVE-2023-24482
+225452554,rosvik/cve.248.no,yarn.lock,d19ae350391d91d2a20205073f09e03df01bae89,VU#05
+225452554,rosvik/cve.248.no,yarn.lock,d19ae350391d91d2a20205073f09e03df01bae89,VU#18

@@ -2,7 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/database/InfluxDB-Pentesting.md,053a07b63ff755e10a121abd7ae25e2a7ae1e81c,CVE-2019-20933
 568456034,hideckies/exploit-notes,src/exploit/container/kubernetes/MicroK8s-Pentesting.md,1a4ae5809d359674033f31490d9802c85b05dc58,CVE-2019-15789
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/SMB-Pentesting.md,4299eaaf6c7e14be79b0c2a21f3138b583ff5033,MS17-010
-568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/UAC-Windows-Privilege-Escalation.md,4a6ed979e1feab0fe43d4ce7e353dec627f91784,CVE-2019-1388
+568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/UAC-Windows-Privilege-Escalation.md,452524c0f5c1eda8b6a72da5ee15405ce29d6a87,CVE-2019-1388
 568456034,hideckies/exploit-notes,src/exploit/version-control/Gogs-Pentesting.md,4d9b0f3a4179496a27de20e68c94ab916f23a978,CVE-2014-8682
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Buffer-Overflow-Privilege-Escalation.md,51561441ad4ac870165135ae87cebeea6ae6b3a9,CVE-2019-18634
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Buffer-Overflow-Privilege-Escalation.md,51561441ad4ac870165135ae87cebeea6ae6b3a9,CVE-2021-3156
@@ -19,8 +19,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,a886a2ddd75f1a6e40efbe3b2ef740b15cacb090,CVE-2021-41773
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/Netlogon-Elavasion-of-Privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
 568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,b5132ab1392c84b11f835fe50694681d0e4df44c,CVE-2021-29447
+568456034,hideckies/exploit-notes,src/exploit/windows/protocol/WinRM-Pentesting.md,b9bfcc8bdb9692aba14ea5ac7933587d1116eb38,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/version-control/Gitea-Pentesting.md,be4a4a1550d53da22066be92bce5e3e551f3cf06,CVE-2020-14144
-568456034,hideckies/exploit-notes,src/exploit/windows/protocol/WinRM-Pentesting.md,bee9db698c6a633ced76c96574e1b2d66bf5c2ff,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Snapd-Privilege-Escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
