@@ -5,7 +5,6 @@ VU#18,1.00000000,https://github.com/kpcyrd/sh4d0wup,kpcyrd/sh4d0wup,552375861
 VU#18,1.00000000,https://github.com/NovaX51/DuckySploit-V3,NovaX51/DuckySploit-V3,535756840
 VU#18,1.00000000,https://github.com/Omnis9/DuckySploit-V3,Omnis9/DuckySploit-V3,534051639
 VU#18,1.00000000,https://github.com/n-k-a/OutdoorExploits,n-k-a/OutdoorExploits,527356655
-VU#18,1.00000000,https://github.com/Abhimanyu08/RCE-blog-client,Abhimanyu08/RCE-blog-client,522431855
 VU#18,1.00000000,https://github.com/Principursa/exploits,Principursa/exploits,485862945
 VU#18,1.00000000,https://github.com/DangPhucTech/exploit-vul,DangPhucTech/exploit-vul,467037313
 VU#18,1.00000000,https://github.com/DangHoangPhuc123/exploit-vulnerabilities,DangHoangPhuc123/exploit-vulnerabilities,465691568
@@ -18,6 +17,7 @@ VU#18,0.50000000,https://github.com/ireshchaminda1/Android-Privilege-Escalation-
 VU#18,0.50000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitcb,564581590
 VU#18,0.50000000,https://github.com/mmbarbas/smartcontracts_exploits,mmbarbas/smartcontracts_exploits,554115057
 VU#18,0.50000000,https://github.com/0xC4LL3/damn-vulnerable-defi-exploits,0xC4LL3/damn-vulnerable-defi-exploits,548901760
+VU#18,0.50000000,https://github.com/Abhimanyu08/RCE-blog-client,Abhimanyu08/RCE-blog-client,522431855
 VU#18,0.50000000,https://github.com/itsnebulalol/betterbadges,itsnebulalol/betterbadges,520949621
 VU#18,0.50000000,https://github.com/YieldingExploiter/StepfordExploitableRailway,YieldingExploiter/StepfordExploitableRailway,515967705
 VU#18,0.50000000,https://github.com/YieldingExploiter/RobloxTS-Base,YieldingExploiter/RobloxTS-Base,510853663
@@ -259,6 +259,7 @@ VU#18,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#18,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#18,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#18,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
+VU#18,0.00833333,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#18,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#18,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#18,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
@@ -281,7 +282,6 @@ VU#18,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough
 VU#18,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#18,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#18,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
-VU#18,0.00578035,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#18,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#18,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#18,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187

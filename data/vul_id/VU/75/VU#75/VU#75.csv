@@ -117,7 +117,6 @@ VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#75,0.02000000,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#75,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#75,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#75,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -166,6 +165,7 @@ VU#75,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP
 VU#75,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#75,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#75,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
+VU#75,0.00833333,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#75,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#75,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#75,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
@@ -196,7 +196,6 @@ VU#75,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Win
 VU#75,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
 VU#75,0.00591716,https://github.com/fdl66/openssl-1.0.2u-fix-cve,fdl66/openssl-1.0.2u-fix-cve,477340549
 VU#75,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
-VU#75,0.00578035,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#75,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#75,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#75,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187

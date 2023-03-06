@@ -3,7 +3,6 @@ VU#32,1.00000000,https://github.com/raghuvulli2000/RemoteCodeExecution,raghuvull
 VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,522686575
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
-VU#32,0.50000000,https://github.com/fuze136/F-136-Exploit,fuze136/F-136-Exploit,609125269
 VU#32,0.50000000,https://github.com/ROOT44x/Kol-Exploit-v1,ROOT44x/Kol-Exploit-v1,582430491
 VU#32,0.50000000,https://github.com/Zephiles/fb-exploit,Zephiles/fb-exploit,578895585
 VU#32,0.50000000,https://github.com/snow-kluster/Sheller,snow-kluster/Sheller,568910050
@@ -189,7 +188,6 @@ VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#32,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#32,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
-VU#32,0.02000000,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#32,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#32,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#32,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
@@ -216,6 +214,7 @@ VU#32,0.01333333,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_Blue
 VU#32,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#32,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#32,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
+VU#32,0.01282051,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#32,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#32,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#32,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
@@ -249,6 +248,7 @@ VU#32,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#32,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#32,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#32,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
+VU#32,0.00833333,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#32,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#32,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#32,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -278,7 +278,6 @@ VU#32,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,30097388
 VU#32,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#32,0.00591716,https://github.com/fdl66/openssl-1.0.2u-fix-cve,fdl66/openssl-1.0.2u-fix-cve,477340549
 VU#32,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
-VU#32,0.00578035,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#32,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#32,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#32,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308

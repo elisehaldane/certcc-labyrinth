@@ -10,7 +10,7 @@ VU#55,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdb
 VU#55,0.33333333,https://github.com/yufanphombolimbu/Metasploit,yufanphombolimbu/Metasploit,512993881
 VU#55,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#55,0.33333333,https://github.com/thiagofigcosta/V-REx,thiagofigcosta/V-REx,306664684
-VU#55,0.25000000,https://github.com/yosef0x01/Analysis4CVE-2023-0669,yosef0x01/Analysis4CVE-2023-0669,606615026
+VU#55,0.25000000,https://github.com/yosef0x01/CVE-2023-0669-Analysis,yosef0x01/CVE-2023-0669-Analysis,606615026
 VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
 VU#55,0.25000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#55,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
@@ -204,6 +204,7 @@ VU#55,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#55,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#55,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#55,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#55,0.00833333,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#55,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#55,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#55,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
@@ -233,7 +234,6 @@ VU#55,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#55,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#55,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 VU#55,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
-VU#55,0.00578035,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#55,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#55,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#55,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308

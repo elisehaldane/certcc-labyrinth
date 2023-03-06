@@ -119,6 +119,7 @@ VU#48,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSpl
 VU#48,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
 VU#48,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#48,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
+VU#48,0.01282051,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#48,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#48,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#48,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
@@ -149,6 +150,7 @@ VU#48,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#48,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#48,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#48,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#48,0.00833333,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#48,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#48,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#48,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -175,7 +177,6 @@ VU#48,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#48,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
 VU#48,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#48,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
-VU#48,0.00578035,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#48,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#48,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#48,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -247,7 +248,7 @@ VU#48,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#48,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#48,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-VU#48,0.00001315,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00001314,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000377,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
