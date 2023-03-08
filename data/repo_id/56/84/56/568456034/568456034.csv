@@ -13,10 +13,10 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,60d5a816dbf0385b364bd1b5dd0c20ad17beda25,CVE-2022-21699
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,60d5a816dbf0385b364bd1b5dd0c20ad17beda25,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudo-Exiftool-Privilege-Escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
+568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,636b6a932d0d9f1172645bb7f3a7dee6f794a0d6,CVE-2021-41773
+568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,636b6a932d0d9f1172645bb7f3a7dee6f794a0d6,CVE-2021-42013
 568456034,hideckies/exploit-notes,src/exploit/web/elasticsearch/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/windows/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
-568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,a886a2ddd75f1a6e40efbe3b2ef740b15cacb090,CVE-2021-41773
-568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,a886a2ddd75f1a6e40efbe3b2ef740b15cacb090,CVE-2021-42013
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/Netlogon-Elavasion-of-Privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
 568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,b5132ab1392c84b11f835fe50694681d0e4df44c,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/windows/protocol/WinRM-Pentesting.md,b9bfcc8bdb9692aba14ea5ac7933587d1116eb38,CVE-2021-38647
