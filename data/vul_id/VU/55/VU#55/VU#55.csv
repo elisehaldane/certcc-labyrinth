@@ -14,6 +14,7 @@ VU#55,0.25000000,https://github.com/yosef0x01/CVE-2023-0669-Analysis,yosef0x01/C
 VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
 VU#55,0.25000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#55,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
+VU#55,0.25000000,https://github.com/mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,166481344
 VU#55,0.20000000,https://github.com/Wrigsflow/Exploit-doors,Wrigsflow/Exploit-doors,609366231
 VU#55,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
 VU#55,0.20000000,https://github.com/AhmedMinegames/AntiHackingEngine,AhmedMinegames/AntiHackingEngine,475605588
@@ -47,6 +48,7 @@ VU#55,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe
 VU#55,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#55,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#55,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
+VU#55,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#55,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#55,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#55,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
@@ -270,9 +272,9 @@ VU#55,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#55,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#55,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#55,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
-VU#55,0.00256410,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#55,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#55,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#55,0.00253807,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#55,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#55,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#55,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540

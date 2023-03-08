@@ -62,6 +62,7 @@ VU#83,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,ris
 VU#83,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
 VU#83,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709869
 VU#83,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
+VU#83,0.09090909,https://github.com/Laurin226/checkm8_toolbox,Laurin226/checkm8_toolbox,602263237
 VU#83,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
 VU#83,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
 VU#83,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonRoblox,267731387
@@ -86,6 +87,7 @@ VU#83,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
 VU#83,0.05555556,https://github.com/CBIIT/rcellminerUtilsCDB,CBIIT/rcellminerUtilsCDB,178019444
 VU#83,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#83,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
+VU#83,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#83,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#83,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#83,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
@@ -199,8 +201,8 @@ VU#83,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#83,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#83,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#83,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#83,0.00735294,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#83,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#83,0.00719424,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#83,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#83,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#83,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang301/-metasploitable3,552272845
