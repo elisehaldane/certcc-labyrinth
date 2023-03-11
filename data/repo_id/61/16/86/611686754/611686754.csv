@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+611686754,Pflegusch/CVE-2022-24637,metasploit-module/open_web_analytics_rce.rb,4a78c7b28797a11434bfdc34591274c3c12febe3,CVE-2022-24637
+611686754,Pflegusch/CVE-2022-24637,README.md,4f3a10b945543a66525aa955f6364b12d3b2fbe6,CVE-2022-24637
+611686754,Pflegusch/CVE-2022-24637,_GITHUB_REPO_METADATA_,,CVE-2022-24637

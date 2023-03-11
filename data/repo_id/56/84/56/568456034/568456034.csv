@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,00712897fe31379bc052a641841354bc73f7b11a,CVE-2021-42013
+568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,00712897fe31379bc052a641841354bc73f7b11a,CVE-2021-41773
 568456034,hideckies/exploit-notes,src/exploit/database/InfluxDB-Pentesting.md,053a07b63ff755e10a121abd7ae25e2a7ae1e81c,CVE-2019-20933
 568456034,hideckies/exploit-notes,src/exploit/container/kubernetes/MicroK8s-Pentesting.md,1a4ae5809d359674033f31490d9802c85b05dc58,CVE-2019-15789
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/SMB-Pentesting.md,4299eaaf6c7e14be79b0c2a21f3138b583ff5033,MS17-010
@@ -13,9 +15,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,60d5a816dbf0385b364bd1b5dd0c20ad17beda25,CVE-2022-21699
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,60d5a816dbf0385b364bd1b5dd0c20ad17beda25,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudo-Exiftool-Privilege-Escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
-568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,636b6a932d0d9f1172645bb7f3a7dee6f794a0d6,CVE-2021-41773
-568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,636b6a932d0d9f1172645bb7f3a7dee6f794a0d6,CVE-2021-42013
 568456034,hideckies/exploit-notes,src/exploit/web/elasticsearch/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudoedit-Privilege-Escalation.md,974ae3978d846bdd0a667575421aa9c224299197,CVE-2023-22809
 568456034,hideckies/exploit-notes,src/exploit/windows/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/Netlogon-Elavasion-of-Privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
 568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,b5132ab1392c84b11f835fe50694681d0e4df44c,CVE-2021-29447
@@ -24,8 +25,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Snapd-Privilege-Escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
-568456034,hideckies/exploit-notes,src/exploit/windows/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-1675
 568456034,hideckies/exploit-notes,src/exploit/windows/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-34527
+568456034,hideckies/exploit-notes,src/exploit/windows/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-1675
 568456034,hideckies/exploit-notes,src/exploit/network/protocol/VNC-Pentesting.md,e6451f068aae6215ba93f77ce770e20d8c106bbf,CVE-2006-2369
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/Spring-Pentesting.md,f993b5c678b3503cad858c23c1f7323383184788,CVE-2022-22965
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/Spring-Pentesting.md,f993b5c678b3503cad858c23c1f7323383184788,CVE-2010-1622
