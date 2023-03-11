@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+611109201,river-li/awesome-uefi-security,README.md,115f899c53a26558386d5878323fa323b6d3681a,CVE-2014-8274
+611109201,river-li/awesome-uefi-security,README.md,115f899c53a26558386d5878323fa323b6d3681a,CVE-2022-21894
+611109201,river-li/awesome-uefi-security,README.md,115f899c53a26558386d5878323fa323b6d3681a,VU#976132
