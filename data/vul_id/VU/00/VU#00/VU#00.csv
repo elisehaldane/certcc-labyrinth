@@ -9,6 +9,7 @@ VU#00,0.25000000,https://github.com/AlexanderDaou/exploit-videos,AlexanderDaou/e
 VU#00,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
 VU#00,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,427952437
 VU#00,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
+VU#00,0.25000000,https://github.com/BinaryDex/DexHub,BinaryDex/DexHub,378987768
 VU#00,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
 VU#00,0.16666667,https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis,ebenezeredusei/Covid-19-Sentiment-Analysis,593605724
 VU#00,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
@@ -31,6 +32,7 @@ VU#00,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charl
 VU#00,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
 VU#00,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#00,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
+VU#00,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
 VU#00,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
 VU#00,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,598918447
 VU#00,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
@@ -185,7 +187,7 @@ VU#00,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Le
 VU#00,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#00,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#00,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
-VU#00,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#00,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#00,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#00,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#00,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
@@ -224,7 +226,7 @@ VU#00,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#00,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#00,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#00,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#00,0.00019747,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#00,0.00019743,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#00,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#00,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#00,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

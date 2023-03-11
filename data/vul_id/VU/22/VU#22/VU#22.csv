@@ -25,6 +25,7 @@ VU#22,0.14285714,https://github.com/brandbir/JPEG-Restorer,brandbir/JPEG-Restore
 VU#22,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468577202
 VU#22,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
 VU#22,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
+VU#22,0.11111111,https://github.com/strobes-test/st-ExploitableApp,strobes-test/st-ExploitableApp,612678593
 VU#22,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#22,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
 VU#22,0.10000000,https://github.com/DShankle/VLC_CVE-2021-25804_Analysis,DShankle/VLC_CVE-2021-25804_Analysis,495571729
@@ -177,7 +178,6 @@ VU#22,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#22,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#22,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#22,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
-VU#22,0.00833333,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#22,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#22,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#22,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -194,6 +194,7 @@ VU#22,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasp
 VU#22,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#22,0.00709220,https://github.com/SanjaySagar-Gumma/Vulnerable-Poc,SanjaySagar-Gumma/Vulnerable-Poc,533687991
 VU#22,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
+VU#22,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#22,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#22,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#22,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
@@ -226,7 +227,7 @@ VU#22,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,
 VU#22,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#22,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#22,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
-VU#22,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#22,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#22,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#22,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#22,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540

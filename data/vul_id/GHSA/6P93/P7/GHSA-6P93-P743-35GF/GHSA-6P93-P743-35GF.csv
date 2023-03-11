@@ -4,12 +4,12 @@ GHSA-6P93-P743-35GF,0.33333333,https://github.com/Mr-TechX/Exploit-Collector,Mr-
 GHSA-6P93-P743-35GF,0.02083333,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
 GHSA-6P93-P743-35GF,0.00719424,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 GHSA-6P93-P743-35GF,0.00645161,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
-GHSA-6P93-P743-35GF,0.00105263,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
-GHSA-6P93-P743-35GF,0.00104822,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
-GHSA-6P93-P743-35GF,0.00070671,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+GHSA-6P93-P743-35GF,0.00105042,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
+GHSA-6P93-P743-35GF,0.00104603,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+GHSA-6P93-P743-35GF,0.00070522,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-6P93-P743-35GF,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-6P93-P743-35GF,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-GHSA-6P93-P743-35GF,0.00019747,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-6P93-P743-35GF,0.00019743,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-6P93-P743-35GF,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-6P93-P743-35GF,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 GHSA-6P93-P743-35GF,0.00000377,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

@@ -16,13 +16,13 @@ VU#11,0.20000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/robl
 VU#11,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#11,0.16666667,https://github.com/fengguangbin/spring-rce-war,fengguangbin/spring-rce-war,475841116
 VU#11,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,475787299
-VU#11,0.14285714,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
 VU#11,0.12500000,https://github.com/joshuar49/EvilSmurf2,joshuar49/EvilSmurf2,554498563
 VU#11,0.12500000,https://github.com/helmutrocco13/helmutrocco13.github.io,helmutrocco13/helmutrocco13.github.io,280519933
 VU#11,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#11,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
 VU#11,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#11,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-repo,487085739
+VU#11,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
 VU#11,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
 VU#11,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#11,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
@@ -133,7 +133,6 @@ VU#11,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#11,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#11,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#11,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
-VU#11,0.00833333,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#11,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#11,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#11,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -143,6 +142,7 @@ VU#11,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#11,0.00735294,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
 VU#11,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#11,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
+VU#11,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#11,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#11,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#11,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
@@ -184,7 +184,7 @@ VU#11,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Le
 VU#11,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#11,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#11,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
-VU#11,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#11,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#11,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#11,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#11,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540

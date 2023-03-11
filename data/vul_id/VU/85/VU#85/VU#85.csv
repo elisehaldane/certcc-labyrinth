@@ -30,7 +30,6 @@ VU#85,0.14285714,https://github.com/Projectrcs/Macro-Exploit,Projectrcs/Macro-Ex
 VU#85,0.14285714,https://github.com/Projectrcs/XLL-Excel-Dropper,Projectrcs/XLL-Excel-Dropper,539944914
 VU#85,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
 VU#85,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
-VU#85,0.14285714,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
 VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits-Web,FerencStarterDev/Storm-Exploits-Web,550810079
 VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploit,FerencStarterDev/Storm-Exploit,550808641
 VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits,FerencStarterDev/Storm-Exploits,550806795
@@ -40,6 +39,7 @@ VU#85,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/je
 VU#85,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#85,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#85,0.10000000,https://github.com/Guezone/SECMON,Guezone/SECMON,360139511
+VU#85,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
 VU#85,0.09090909,https://github.com/bhagvatgiri/WavLink-Router-Exploitation,bhagvatgiri/WavLink-Router-Exploitation,565250009
 VU#85,0.09090909,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#85,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
@@ -207,7 +207,7 @@ VU#85,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Le
 VU#85,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#85,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#85,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
-VU#85,0.00255102,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#85,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#85,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#85,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#85,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540

@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#976132,0.33333333,https://github.com/river-li/awesome-uefi-security,river-li/awesome-uefi-security,611109201
 VU#976132,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 VU#976132,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
