@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+612902551,vamshi-vemula/JWT_Exploits,JWT_CVE-2018-0114_Adding_JWK_In_Header.py,67bc45ddcfef5973bb2337a218f9f5f092628f31,CVE-2018-0114
+612902551,vamshi-vemula/JWT_Exploits,README.md,7d13f4cb1dffc8b97d5c18a27d5595e9f4df024c,CVE-2018-0114
