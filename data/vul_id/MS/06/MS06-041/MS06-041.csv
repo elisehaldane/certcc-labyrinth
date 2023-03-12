@@ -73,6 +73,7 @@ MS06-041,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,6
 MS06-041,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS06-041,0.00001299,https://github.com/trickest/cve,trickest/cve,454015416
 MS06-041,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
+MS06-041,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS06-041,0.00000629,https://github.com/Vasileios-Mavroeidis/semantic-stix-vulnerability,Vasileios-Mavroeidis/semantic-stix-vulnerability,392265661
 MS06-041,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 MS06-041,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
