@@ -3,8 +3,8 @@ repo_id,repo_full_name,file,file_sha1,match
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame2003-old-asmjs.data,0d77402d664e01732159852defb46c404491f81e,VU#50
 252524827,TheWizWikii/TheWizWikii.github.io,490/menu/flash490.P3T,1e412a315c7f32612e73698797e88661f606fdb1,VU#60
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame-old-1-wasm.data,3c54397d2a4fc43f55d43bc3d5faf9a5a0bb3ed9,VU#99
-252524827,TheWizWikii/TheWizWikii.github.io,490/auto/HEN.P3T,4df355a95edcd5856e93db540aa907b922ffcdf2,VU#86
-252524827,TheWizWikii/TheWizWikii.github.io,490/menu/HEN.P3T,4df355a95edcd5856e93db540aa907b922ffcdf2,VU#14
+252524827,TheWizWikii/TheWizWikii.github.io,490/menu/HEN.P3T,4df355a95edcd5856e93db540aa907b922ffcdf2,VU#86
+252524827,TheWizWikii/TheWizWikii.github.io,489/auto/HEN.P3T,4df355a95edcd5856e93db540aa907b922ffcdf2,VU#14
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame-old-3-wasm.data,707318ceeeaf2c3fb5b2081488626365eb186c5e,VU#682
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/a2600-old-wasm.data,79673aa64467268baf0e0a39d619c66bed4bb6ac,VU#29
 252524827,TheWizWikii/TheWizWikii.github.io,Latest_HEN_Installer_signed.pkg,80339840caac9c0de463e6c3625e9d28557c2bd9,VU#86
