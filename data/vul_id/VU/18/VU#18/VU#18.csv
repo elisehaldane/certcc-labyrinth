@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#18,1.00000000,https://github.com/SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,609224670
 VU#18,1.00000000,https://github.com/bugverma/CTFs-Walkthroughs,bugverma/CTFs-Walkthroughs,567908810
 VU#18,1.00000000,https://github.com/ModExploit/ModExploit.github.io,ModExploit/ModExploit.github.io,561471526
 VU#18,1.00000000,https://github.com/kpcyrd/sh4d0wup,kpcyrd/sh4d0wup,552375861
@@ -98,13 +99,13 @@ VU#18,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,19
 VU#18,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#18,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#18,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
-VU#18,0.09090909,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#18,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#18,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#18,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#18,0.07692308,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#18,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#18,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
+VU#18,0.06250000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#18,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#18,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysis,rangenanirakshithrao/Exploitary-Data-Analysis,355821460
 VU#18,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
@@ -357,4 +358,5 @@ VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#18,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 VU#18,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
+VU#18,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762
 VU#18,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
