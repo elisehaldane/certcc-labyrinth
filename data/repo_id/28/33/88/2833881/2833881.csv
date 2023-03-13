@@ -23,7 +23,7 @@ repo_id,repo_full_name,file,file_sha1,match
 2833881,beefproject/beef,core/main/server.rb,4861987144441c9250ada591067f86b28d20c682,CVE-2014-0160
 2833881,beefproject/beef,modules/exploits/local_host/ie_ms12_004_midi/config.yaml,4f922536af3afec0008e4fab9ee5e2e581f9f941,MS12-004
 2833881,beefproject/beef,modules/exploits/router/tplink_dns_csrf/config.yaml,5380060d3e3a06d5d5fabfde8ce5ed618943d7cb,CVE-2013-2645
-2833881,beefproject/beef,modules/social_engineering/firefox_extension_reverse_shell/command.js,5812e69e51c74c087c1fd3366dad1176e0ddfb76,VU#59
+2833881,beefproject/beef,modules/social_engineering/firefox_extension_bindshell/command.js,5812e69e51c74c087c1fd3366dad1176e0ddfb76,VU#59
 2833881,beefproject/beef,modules/exploits/php-5.3.9-dos/command.js,613f8ee6c4cbad0baf960f9ba503beafbd6169aa,CVE-2012-0830
 2833881,beefproject/beef,modules/exploits/local_host/ie_ms13_069_caret/command.js,6cda4c94bcc62fa327a539c174af23cd04c03c60,MS13-069
 2833881,beefproject/beef,modules/exploits/coldfusion_dir_traversal_exploit/config.yaml,707f6996c22459a8e78995849eaf348fec83aab2,CVE-2010-2861
