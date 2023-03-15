@@ -114,7 +114,7 @@ MS16-098,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 MS16-098,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
 MS16-098,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS16-098,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
-MS16-098,0.00253807,https://github.com/helloexp/0day,helloexp/0day,478826386
+MS16-098,0.00252525,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS16-098,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 MS16-098,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS16-098,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
@@ -159,5 +159,5 @@ MS16-098,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,6066573
 MS16-098,0.00001295,https://github.com/trickest/cve,trickest/cve,454015416
 MS16-098,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS16-098,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
-MS16-098,0.00000377,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS16-098,0.00000376,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS16-098,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

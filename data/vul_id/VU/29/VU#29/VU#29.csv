@@ -40,7 +40,6 @@ VU#29,0.50000000,https://github.com/skywalke34/struts-demo,skywalke34/struts-dem
 VU#29,0.50000000,https://github.com/m8sec/EAPrimer,m8sec/EAPrimer,298064170
 VU#29,0.50000000,https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,257829329
 VU#29,0.50000000,https://github.com/Ridter/cve-2020-0688,Ridter/cve-2020-0688,243416592
-VU#29,0.50000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
 VU#29,0.33333333,https://github.com/Virgil-UNSC/Strut2-CVE---Script,Virgil-UNSC/Strut2-CVE---Script,599982048
 VU#29,0.33333333,https://github.com/7BitsTeam/CVE-2022-23277,7BitsTeam/CVE-2022-23277,550883583
 VU#29,0.33333333,https://github.com/JadugarKalakaboola/Map.Zeroday,JadugarKalakaboola/Map.Zeroday,543234221
@@ -54,6 +53,7 @@ VU#29,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,4005
 VU#29,0.33333333,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#29,0.33333333,https://github.com/XJMI/Skidded-Scripts,XJMI/Skidded-Scripts,294222684
 VU#29,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
+VU#29,0.33333333,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
 VU#29,0.25000000,https://github.com/h1bAna/exploit,h1bAna/exploit,598709439
 VU#29,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/BruteSploit,469596250
 VU#29,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
@@ -387,7 +387,7 @@ VU#29,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#29,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#29,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#29,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
-VU#29,0.00253807,https://github.com/helloexp/0day,helloexp/0day,478826386
+VU#29,0.00252525,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#29,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#29,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#29,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
