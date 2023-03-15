@@ -1,1 +1,3 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+611628366,HarveyGW/VulnExec,VulnExec.js/index.js,7ffcdfeedc130ff5537aedfbe4abe7f84f31ea34,CVE-2017-0143
+611628366,HarveyGW/VulnExec,VulnExec.js/index.js,7ffcdfeedc130ff5537aedfbe4abe7f84f31ea34,MS12-345
