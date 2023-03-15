@@ -7,7 +7,6 @@ VU#56,1.00000000,https://github.com/SamOBoy97/SamSploit,SamOBoy97/SamSploit,4799
 VU#56,1.00000000,https://github.com/H3rmesk1t/CNVD,H3rmesk1t/CNVD,424504547
 VU#56,1.00000000,https://github.com/shenolihashara/Myproject,shenolihashara/Myproject,388561517
 VU#56,0.50000000,https://github.com/leRoderic/gitlab_exploit,leRoderic/gitlab_exploit,587907586
-VU#56,0.50000000,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#56,0.50000000,https://github.com/damit5/CVE-2020-11546,damit5/CVE-2020-11546,442686412
 VU#56,0.50000000,https://github.com/NeroMoi/shootGame,NeroMoi/shootGame,158328912
 VU#56,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
@@ -57,6 +56,7 @@ VU#56,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2
 VU#56,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#56,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#56,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
+VU#56,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#56,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#56,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#56,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
@@ -239,8 +239,8 @@ VU#56,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#56,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#56,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#56,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
-VU#56,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#56,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
+VU#56,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#56,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#56,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#56,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332

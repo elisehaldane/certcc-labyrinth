@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS11-006,1.00000000,https://github.com/mikekbnv/Kali,mikekbnv/Kali,613994803
 MS11-006,0.16666667,https://github.com/deathzombee/000webhost_Leaked_Passwords,deathzombee/000webhost_Leaked_Passwords,47693045
 MS11-006,0.02857143,https://github.com/slimsevernake/The-Browser-Exploitation-Framework-Project-,slimsevernake/The-Browser-Exploitation-Framework-Project-,300380905
 MS11-006,0.02857143,https://github.com/TeChNiShU27/beef-master,TeChNiShU27/beef-master,266960264
@@ -177,7 +178,7 @@ MS11-006,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 MS11-006,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS11-006,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS11-006,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS11-006,0.00001296,https://github.com/trickest/cve,trickest/cve,454015416
+MS11-006,0.00001295,https://github.com/trickest/cve,trickest/cve,454015416
 MS11-006,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS11-006,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS11-006,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

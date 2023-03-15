@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#93,0.50000000,https://github.com/CompassMatrix/ZeroDay---ToolBox,CompassMatrix/ZeroDay---ToolBox,560879715
-VU#93,0.50000000,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#93,0.33333333,https://github.com/RustMani/InfinityPublicTest,RustMani/InfinityPublicTest,609304799
 VU#93,0.33333333,https://github.com/DevSploitForums/DevSploitUpdated,DevSploitForums/DevSploitUpdated,608888419
 VU#93,0.33333333,https://github.com/DevSploitForums/DevSploit,DevSploitForums/DevSploit,608455849
@@ -49,6 +48,7 @@ VU#93,0.09090909,https://github.com/zzwlpx/weblogicPoc,zzwlpx/weblogicPoc,264347
 VU#93,0.09090909,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
 VU#93,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#93,0.07142857,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
+VU#93,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#93,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#93,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#93,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxicsudo/flash-loan-exploit-tutorial,588540872
@@ -173,8 +173,8 @@ VU#93,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#93,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#93,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#93,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
-VU#93,0.00632911,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#93,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
+VU#93,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#93,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#93,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#93,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
