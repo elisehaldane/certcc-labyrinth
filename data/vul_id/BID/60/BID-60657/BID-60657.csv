@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-60657,0.00070373,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-60657,0.00070323,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-60657,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 BID-60657,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 BID-60657,0.00001295,https://github.com/trickest/cve,trickest/cve,454015416

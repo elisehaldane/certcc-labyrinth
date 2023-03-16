@@ -7,6 +7,7 @@ VU#300,0.50000000,https://github.com/veritas501/CVE-2022-2639-PipeVersion,verita
 VU#300,0.50000000,https://github.com/veritas501/CVE-2022-34918,veritas501/CVE-2022-34918,520440526
 VU#300,0.50000000,https://github.com/vusec/bhi-spectre-bhb,vusec/bhi-spectre-bhb,465411926
 VU#300,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
+VU#300,0.33333333,https://github.com/H4K6/CVE-2023-0179-PoC,H4K6/CVE-2023-0179-PoC,614641482
 VU#300,0.33333333,https://github.com/TurtleARM/CVE-2023-0179-PoC,TurtleARM/CVE-2023-0179-PoC,591523271
 VU#300,0.33333333,https://github.com/0vercl0k/zenith,0vercl0k/zenith,415061966
 VU#300,0.25000000,https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,476590347
@@ -68,5 +69,5 @@ VU#300,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-3
 VU#300,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#300,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#300,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#300,0.00019736,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#300,0.00019732,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#300,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
