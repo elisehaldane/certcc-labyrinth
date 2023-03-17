@@ -1,8 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-613034339,seifallahhomrani1/CVE-2023-0861-POC,README.md,3ae7db7d785b250d5f1f2a1d77033e2e8799a444,CVE-2023-0861
-613034339,seifallahhomrani1/CVE-2023-0861-POC,Analyzing and Reproducing the Command Injection Vulnerability (CVE-2023-0861) in NetModule Routers.pdf,52fdbe9098df1763d9d9f07f3eb4ab8977cc7819,CVE-2023-0861
+613034339,seifallahhomrani1/CVE-2023-0861-POC,Analyzing and Reproducing the Command Injection Vulnerability (CVE-2023-0861) in NetModule Routers.pdf,00819891082225f1343b09b8c426378a648ad69a,CVE-2023-0861
+613034339,seifallahhomrani1/CVE-2023-0861-POC,README.md,063976dbbbdb65b643a3d73b83ecf89fac134273,CVE-2023-0861
 613034339,seifallahhomrani1/CVE-2023-0861-POC,PoC-CVE-2023-0861.py,988bfe05e145a232fa0cfb7694e4afee4571cd1e,CVE-2023-0861
-613034339,seifallahhomrani1/CVE-2023-0861-POC,NG800_Software_Release_4.5.0.104.img,c9499b9e6e3c5507da8569896336d1b41a104afc,VU#22
-613034339,seifallahhomrani1/CVE-2023-0861-POC,NG800_Software_Release_4.5.0.104.img,c9499b9e6e3c5507da8569896336d1b41a104afc,VU#69
-613034339,seifallahhomrani1/CVE-2023-0861-POC,NG800_Software_Release_4.5.0.104.img,c9499b9e6e3c5507da8569896336d1b41a104afc,VU#70
 613034339,seifallahhomrani1/CVE-2023-0861-POC,_GITHUB_REPO_METADATA_,,CVE-2023-0861
