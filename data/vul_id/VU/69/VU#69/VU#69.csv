@@ -43,7 +43,6 @@ VU#69,0.33333333,https://github.com/vicojump/Exploit5,vicojump/Exploit5,46220628
 VU#69,0.33333333,https://github.com/vicojump/Exploit,vicojump/Exploit,462016126
 VU#69,0.33333333,https://github.com/momenthubv3/Skid,momenthubv3/Skid,455209277
 VU#69,0.33333333,https://github.com/JakeHost/JakeSploit-Exec,JakeHost/JakeSploit-Exec,433368423
-VU#69,0.25000000,https://github.com/seifallahhomrani1/CVE-2023-0861-POC,seifallahhomrani1/CVE-2023-0861-POC,613034339
 VU#69,0.25000000,https://github.com/cl-lw/roblox-exploit,cl-lw/roblox-exploit,609281490
 VU#69,0.25000000,https://github.com/JMWgamesOfficial/JiMscript-Roblox-Executor-v1,JMWgamesOfficial/JiMscript-Roblox-Executor-v1,608301476
 VU#69,0.25000000,https://github.com/LingonJR/Giga-X,LingonJR/Giga-X,591934241
@@ -61,7 +60,6 @@ VU#69,0.16666667,https://github.com/bladeskilled/Jine-Exploit,bladeskilled/Jine-
 VU#69,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
 VU#69,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
 VU#69,0.14285714,https://github.com/jj4152/cve-2021-1675,jj4152/cve-2021-1675,557145507
-VU#69,0.14285714,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#69,0.14285714,https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675,mtthwstffrd/calebstewart-CVE-2021-1675,462124130
 VU#69,0.14285714,https://github.com/Amaranese/CVE-2021-34527,Amaranese/CVE-2021-34527,437822133
 VU#69,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
@@ -83,6 +81,7 @@ VU#69,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinV
 VU#69,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#69,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonRoblox,267731387
 VU#69,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
+VU#69,0.08333333,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#69,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
 VU#69,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#69,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
@@ -230,6 +229,7 @@ VU#69,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Datase
 VU#69,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#69,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#69,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#69,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#69,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#69,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#69,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
@@ -304,7 +304,7 @@ VU#69,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#69,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#69,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#69,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#69,0.00019732,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#69,0.00019728,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#69,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#69,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#69,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

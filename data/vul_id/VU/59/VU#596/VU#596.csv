@@ -1,10 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#596,0.14285714,https://github.com/jj4152/cve-2021-1675,jj4152/cve-2021-1675,557145507
-VU#596,0.14285714,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#596,0.14285714,https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675,mtthwstffrd/calebstewart-CVE-2021-1675,462124130
 VU#596,0.14285714,https://github.com/Amaranese/CVE-2021-34527,Amaranese/CVE-2021-34527,437822133
 VU#596,0.12500000,https://github.com/cyb3rpeace/CVE-2021-34527,cyb3rpeace/CVE-2021-34527,507019653
 VU#596,0.12500000,https://github.com/sh7alward/CVE-20121-34527-nightmare,sh7alward/CVE-20121-34527-nightmare,438151074
+VU#596,0.08333333,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#596,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
 VU#596,0.07142857,https://github.com/z3dc0ps/ROCKING-CVE,z3dc0ps/ROCKING-CVE,546059644
 VU#596,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179

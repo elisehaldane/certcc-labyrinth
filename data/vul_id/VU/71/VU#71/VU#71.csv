@@ -17,7 +17,6 @@ VU#71,0.20000000,https://github.com/castroaj/Command_Injection_WAF,castroaj/Comm
 VU#71,0.20000000,https://github.com/0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model,0AnonymousSite0/Social-media-data-to-Interrelated-informtion-to-Parameters-of-virtual-road-model,410147622
 VU#71,0.14285714,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#71,0.14285714,https://github.com/jj4152/cve-2021-1675,jj4152/cve-2021-1675,557145507
-VU#71,0.14285714,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#71,0.14285714,https://github.com/security-softwares/offensive_shellcode,security-softwares/offensive_shellcode,529202611
 VU#71,0.14285714,https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675,mtthwstffrd/calebstewart-CVE-2021-1675,462124130
 VU#71,0.14285714,https://github.com/Amaranese/CVE-2021-34527,Amaranese/CVE-2021-34527,437822133
@@ -32,6 +31,7 @@ VU#71,0.11111111,https://github.com/LastWRcs/S-500-G2-Rat-Hvnc-Hidden-Broswers-H
 VU#71,0.11111111,https://github.com/Lesking72/ps4,Lesking72/ps4,350485378
 VU#71,0.10000000,https://github.com/bolt3x/tesi,bolt3x/tesi,533280790
 VU#71,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
+VU#71,0.08333333,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#71,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
 VU#71,0.07142857,https://github.com/z3dc0ps/ROCKING-CVE,z3dc0ps/ROCKING-CVE,546059644
 VU#71,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
@@ -207,6 +207,7 @@ VU#71,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/Pay
 VU#71,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#71,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#71,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#71,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#71,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#71,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#71,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
@@ -255,7 +256,7 @@ VU#71,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#71,0.00048031,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#71,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#71,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-VU#71,0.00019732,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#71,0.00019728,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#71,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#71,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#71,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

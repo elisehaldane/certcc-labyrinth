@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS10-054,0.25000000,https://github.com/wannabemrrobot/hackthebox,wannabemrrobot/hackthebox,396079128
 MS10-054,0.20000000,https://github.com/am0nsec/valhalla,am0nsec/valhalla,103624543
+MS10-054,0.16666667,https://github.com/HarveyGW/VulnExec,HarveyGW/VulnExec,611628366
 MS10-054,0.16666667,https://github.com/SUNNYSAINI01001/Gatekeeper,SUNNYSAINI01001/Gatekeeper,511213953
 MS10-054,0.14285714,https://github.com/yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,485790247
 MS10-054,0.14285714,https://github.com/F0rbidden-Equation/PortExploit,F0rbidden-Equation/PortExploit,470109652
@@ -170,7 +171,7 @@ MS10-054,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS10-054,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 MS10-054,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS10-054,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-MS10-054,0.00019732,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS10-054,0.00019728,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-054,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-054,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-054,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030

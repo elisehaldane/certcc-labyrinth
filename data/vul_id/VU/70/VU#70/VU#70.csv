@@ -7,6 +7,7 @@ VU#70,1.00000000,https://github.com/Graves-Andrew/RedvsBlue_Project,Graves-Andre
 VU#70,1.00000000,https://github.com/jaredalanis/Red-vs-Blue,jaredalanis/Red-vs-Blue,444726637
 VU#70,1.00000000,https://github.com/robhughes72/compiled_tools,robhughes72/compiled_tools,435511938
 VU#70,1.00000000,https://github.com/4dmud/mud,4dmud/mud,420646110
+VU#70,0.50000000,https://github.com/Zalushka/EzExploitStore,Zalushka/EzExploitStore,614858779
 VU#70,0.50000000,https://github.com/Dofikalty/Exploite,Dofikalty/Exploite,448678317
 VU#70,0.50000000,https://github.com/wangjing4research/LDL-LDM,wangjing4research/LDL-LDM,397780886
 VU#70,0.33333333,https://github.com/1emvr/The-Art-of-Exploitation,1emvr/The-Art-of-Exploitation,579968326
@@ -16,7 +17,6 @@ VU#70,0.33333333,https://github.com/badiea3000/RedvsBlue,badiea3000/RedvsBlue,50
 VU#70,0.33333333,https://github.com/jhftss/CVE-2022-22639,jhftss/CVE-2022-22639,470871002
 VU#70,0.33333333,https://github.com/thushi99/scp-client-vulnerability-exploit,thushi99/scp-client-vulnerability-exploit,456885932
 VU#70,0.33333333,https://github.com/tmenochet/PowerDump,tmenochet/PowerDump,416900394
-VU#70,0.25000000,https://github.com/seifallahhomrani1/CVE-2023-0861-POC,seifallahhomrani1/CVE-2023-0861-POC,613034339
 VU#70,0.25000000,https://github.com/aeyesec/CVE-2021-31805,aeyesec/CVE-2021-31805,482013810
 VU#70,0.20000000,https://github.com/PsySlayer/Krum-V1-Exploit,PsySlayer/Krum-V1-Exploit,606785072
 VU#70,0.20000000,https://github.com/lijiejie/swagger-exp,lijiejie/swagger-exp,350607453
@@ -30,12 +30,12 @@ VU#70,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExp
 VU#70,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,534967733
 VU#70,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
 VU#70,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-Blue-Project,494340768
-VU#70,0.11111111,https://github.com/DataDog/security-labs-pocs,DataDog/security-labs-pocs,483783009
 VU#70,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#70,0.11111111,https://github.com/rasyidrafi/R3Xploit,rasyidrafi/R3Xploit,345617409
 VU#70,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
 VU#70,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
 VU#70,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
+VU#70,0.09090909,https://github.com/DataDog/security-labs-pocs,DataDog/security-labs-pocs,483783009
 VU#70,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#70,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonRoblox,267731387
 VU#70,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
@@ -192,6 +192,7 @@ VU#70,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Datase
 VU#70,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#70,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#70,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
+VU#70,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#70,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#70,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#70,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316

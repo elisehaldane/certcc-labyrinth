@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-45408,1.00000000,https://github.com/CaledoniaProject/linux-exploit-suggestor-rewritten,CaledoniaProject/linux-exploit-suggestor-rewritten,15022563
+BID-45408,0.50000000,https://github.com/k4u5h41/linux-exploit-suggester-2,k4u5h41/linux-exploit-suggester-2,615420200
 BID-45408,0.50000000,https://github.com/eward9/les-downloader,eward9/les-downloader,51620475
 BID-45408,0.50000000,https://github.com/Barry-malone/Linux_Exploit_Suggester.pl,Barry-malone/Linux_Exploit_Suggester.pl,50986903
 BID-45408,0.50000000,https://github.com/cinno/Linux-Exploit-Checker,cinno/Linux-Exploit-Checker,49675227
