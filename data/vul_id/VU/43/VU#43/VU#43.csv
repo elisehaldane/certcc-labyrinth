@@ -26,7 +26,6 @@ VU#43,0.25000000,https://github.com/Rami-Majdoub/vulnerable-smart-contracts,Rami
 VU#43,0.25000000,https://github.com/redpack-kr/fei-protocol-flashloan-vuln,redpack-kr/fei-protocol-flashloan-vuln,518034682
 VU#43,0.25000000,https://github.com/yudikubota/exemplo_ataque_reentrada,yudikubota/exemplo_ataque_reentrada,516548886
 VU#43,0.25000000,https://github.com/tingzeng1208/demo-rce-frontend,tingzeng1208/demo-rce-frontend,440029650
-VU#43,0.25000000,https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming,HighDimensionalEconLab/symmetry_dynamic_programming,433221261
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432093732
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base,Nivaskumark/CVE-2020-0074-frameworks_base,431907402
 VU#43,0.25000000,https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old,Nivaskumark/CVE-2020-0074-frameworks_base_old,431903208
@@ -265,11 +264,12 @@ VU#43,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#43,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#43,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#43,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#43,0.00180505,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#43,0.00180180,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#43,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#43,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#43,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
-VU#43,0.00159490,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#43,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#43,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#43,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#43,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#43,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950

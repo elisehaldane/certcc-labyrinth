@@ -2,4 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#868,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#868,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#868,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#868,0.00159490,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#868,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#868,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746

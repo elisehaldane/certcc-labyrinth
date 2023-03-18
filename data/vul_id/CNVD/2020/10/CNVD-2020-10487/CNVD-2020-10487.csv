@@ -15,7 +15,7 @@ CNVD-2020-10487,0.01250000,https://github.com/k8gege/k8gege.github.io,k8gege/k8g
 CNVD-2020-10487,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 CNVD-2020-10487,0.00645161,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 CNVD-2020-10487,0.00588235,https://github.com/CnHack3r/Penetration_PoC,CnHack3r/Penetration_PoC,446721684
-CNVD-2020-10487,0.00384615,https://github.com/hktalent/TOP,hktalent/TOP,471566553
+CNVD-2020-10487,0.00386100,https://github.com/hktalent/TOP,hktalent/TOP,471566553
 CNVD-2020-10487,0.00333333,https://github.com/wwl012345/Vuln-List,wwl012345/Vuln-List,464725675
 CNVD-2020-10487,0.00333333,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
 CNVD-2020-10487,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
@@ -28,7 +28,7 @@ CNVD-2020-10487,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411
 CNVD-2020-10487,0.00252525,https://github.com/helloexp/0day,helloexp/0day,478826386
 CNVD-2020-10487,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 CNVD-2020-10487,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
-CNVD-2020-10487,0.00180505,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+CNVD-2020-10487,0.00180180,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 CNVD-2020-10487,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 CNVD-2020-10487,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 CNVD-2020-10487,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
@@ -38,9 +38,9 @@ CNVD-2020-10487,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapo
 CNVD-2020-10487,0.00029138,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 CNVD-2020-10487,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
 CNVD-2020-10487,0.00026309,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-CNVD-2020-10487,0.00020925,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
-CNVD-2020-10487,0.00009390,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-CNVD-2020-10487,0.00007226,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+CNVD-2020-10487,0.00020912,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+CNVD-2020-10487,0.00009386,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+CNVD-2020-10487,0.00007224,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 CNVD-2020-10487,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 CNVD-2020-10487,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 CNVD-2020-10487,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
@@ -51,7 +51,7 @@ CNVD-2020-10487,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith2
 CNVD-2020-10487,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 CNVD-2020-10487,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 CNVD-2020-10487,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-CNVD-2020-10487,0.00001294,https://github.com/trickest/cve,trickest/cve,454015416
+CNVD-2020-10487,0.00001283,https://github.com/trickest/cve,trickest/cve,454015416
 CNVD-2020-10487,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 CNVD-2020-10487,0.00000376,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 CNVD-2020-10487,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

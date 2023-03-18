@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-JFH8-C2JP-5V3Q,0.50000000,https://github.com/Sma-Das/Log4j-PoC,Sma-Das/Log4j-PoC,614031542
 GHSA-JFH8-C2JP-5V3Q,0.03333333,https://github.com/curated-intel/Log4Shell-IOCs,curated-intel/Log4Shell-IOCs,437595483
-GHSA-JFH8-C2JP-5V3Q,0.00315457,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+GHSA-JFH8-C2JP-5V3Q,0.00314465,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 GHSA-JFH8-C2JP-5V3Q,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-JFH8-C2JP-5V3Q,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-JFH8-C2JP-5V3Q,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
