@@ -1,7 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#480,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
+VU#480,0.00740741,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#480,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#480,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#480,0.00384615,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#480,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#480,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#480,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178

@@ -162,7 +162,6 @@ VU#58,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#58,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
 VU#58,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#58,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
-VU#58,0.00934579,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#58,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#58,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#58,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -183,6 +182,7 @@ VU#58,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-
 VU#58,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#58,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#58,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#58,0.00740741,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#58,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#58,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#58,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -199,7 +199,7 @@ VU#58,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,53698180
 VU#58,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#58,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
 VU#58,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
-VU#58,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
+VU#58,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#58,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#58,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#58,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
@@ -215,10 +215,10 @@ VU#58,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#58,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#58,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#58,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
-VU#58,0.00425532,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#58,0.00401606,https://github.com/Vobzie/ElliottDoesThings.tk,Vobzie/ElliottDoesThings.tk,567815510
 VU#58,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#58,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
+VU#58,0.00384615,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#58,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#58,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#58,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334

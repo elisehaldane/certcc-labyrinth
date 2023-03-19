@@ -47,7 +47,6 @@ VU#32,0.25000000,https://github.com/7ih/FE2-Tas-Tool-by-Exploit,7ih/FE2-Tas-Tool
 VU#32,0.25000000,https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System,harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System,484983840
 VU#32,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/BruteSploit,469596250
 VU#32,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2Hub,420501078
-VU#32,0.25000000,https://github.com/BinaryDex/DexHub,BinaryDex/DexHub,378987768
 VU#32,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#32,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
 VU#32,0.20000000,https://github.com/PabloMK7/ENLBufferPwn,PabloMK7/ENLBufferPwn,581221755
@@ -239,7 +238,6 @@ VU#32,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysi
 VU#32,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#32,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#32,0.00961538,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
-VU#32,0.00934579,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#32,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#32,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#32,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -257,6 +255,7 @@ VU#32,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#32,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#32,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#32,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#32,0.00740741,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#32,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#32,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#32,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -274,7 +273,7 @@ VU#32,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g
 VU#32,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#32,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#32,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
-VU#32,0.00625000,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
+VU#32,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#32,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#32,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#32,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
@@ -294,11 +293,11 @@ VU#32,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#32,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#32,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#32,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
-VU#32,0.00425532,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#32,0.00401606,https://github.com/Vobzie/ElliottDoesThings.tk,Vobzie/ElliottDoesThings.tk,567815510
 VU#32,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#32,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#32,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
+VU#32,0.00384615,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#32,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#32,0.00371747,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#32,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
