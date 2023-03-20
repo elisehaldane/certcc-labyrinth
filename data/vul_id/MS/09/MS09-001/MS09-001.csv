@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS09-001,0.25000000,https://github.com/tntC4stl3/POC,tntC4stl3/POC,17425373
+MS09-001,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS09-001,0.01136364,https://github.com/ksmaheshkumar/metasploit,ksmaheshkumar/metasploit,31601285
 MS09-001,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS09-001,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS06-019,0.50000000,https://github.com/spvreddy/metasploitable-solutions,spvreddy/metasploitable-solutions,143286797
 MS06-019,0.10000000,https://github.com/Nadim120/metasploitHackinginfoFromKali,Nadim120/metasploitHackinginfoFromKali,363375904
+MS06-019,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS06-019,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS06-019,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS06-019,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941

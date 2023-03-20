@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS02-063,0.03333333,https://github.com/darksh3llgr/autoscan,darksh3llgr/autoscan,150855506
+MS02-063,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS02-063,0.01315789,https://github.com/hackone103/Penetration-Testing,hackone103/Penetration-Testing,596134861
 MS02-063,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS02-063,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400

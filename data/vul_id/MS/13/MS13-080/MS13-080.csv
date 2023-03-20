@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS13-080,0.16666667,https://github.com/Adian-kids/Metasploit-Note,Adian-kids/Metasploit-Note,368874407
 MS13-080,0.14285714,https://github.com/TweekFawkes/White_Lightning,TweekFawkes/White_Lightning,24503079
 MS13-080,0.03333333,https://github.com/darksh3llgr/autoscan,darksh3llgr/autoscan,150855506
+MS13-080,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS13-080,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS13-080,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS13-080,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937

@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS10-006,0.05263158,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
+MS10-006,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS10-006,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS10-006,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS10-006,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829

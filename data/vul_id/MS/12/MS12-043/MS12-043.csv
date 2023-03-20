@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS12-043,0.05555556,https://github.com/1ookup/exploit,1ookup/exploit,13582736
+MS12-043,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS12-043,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS12-043,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS12-043,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937

@@ -44,6 +44,7 @@ MS12-020,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng
 MS12-020,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 MS12-020,0.02702703,https://github.com/telnet22/Kn0ck,telnet22/Kn0ck,200534665
 MS12-020,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
+MS12-020,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS12-020,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS12-020,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
 MS12-020,0.02000000,https://github.com/bemonolit/metasploitHelper,bemonolit/metasploitHelper,91027954
@@ -124,7 +125,7 @@ MS12-020,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 MS12-020,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
 MS12-020,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 MS12-020,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
-MS12-020,0.00252525,https://github.com/helloexp/0day,helloexp/0day,478826386
+MS12-020,0.00251889,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS12-020,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
 MS12-020,0.00163934,https://github.com/gottburgm/Exploits,gottburgm/Exploits,106810179
 MS12-020,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550639048
@@ -223,7 +224,7 @@ MS12-020,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-ra
 MS12-020,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 MS12-020,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 MS12-020,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
-MS12-020,0.00020907,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS12-020,0.00020899,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 MS12-020,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS12-020,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
