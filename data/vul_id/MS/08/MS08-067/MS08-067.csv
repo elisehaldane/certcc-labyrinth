@@ -185,6 +185,7 @@ MS08-067,0.07142857,https://github.com/rapid7/metasploit_data_models,rapid7/meta
 MS08-067,0.06666667,https://github.com/noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,134124105
 MS08-067,0.06666667,https://github.com/n1nj4sec/pupy,n1nj4sec/pupy,42882329
 MS08-067,0.05882353,https://github.com/MizaruIT/BREAKADAY,MizaruIT/BREAKADAY,601825881
+MS08-067,0.05882353,https://github.com/MizaruIT/BREAKADAY_BASH,MizaruIT/BREAKADAY_BASH,601825145
 MS08-067,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 MS08-067,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS08-067,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
@@ -545,7 +546,7 @@ MS08-067,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 MS08-067,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS08-067,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS08-067,0.00001283,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001277,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542

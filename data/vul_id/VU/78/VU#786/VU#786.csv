@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#786,1.00000000,https://github.com/ddnnife/exploiting-ddnnfs-eval,ddnnife/exploiting-ddnnfs-eval,528991024
 VU#786,1.00000000,https://github.com/ddnnife/exploiting-ddnnfs-eval,ddnnife/exploiting-ddnnfs-eval,471107799
+VU#786,1.00000000,https://github.com/SoftVarE-Group/exploiting-ddnnfs-eval,SoftVarE-Group/exploiting-ddnnfs-eval,449347223
 VU#786,0.03571429,https://github.com/YusinoMy/shellcodebypass,YusinoMy/shellcodebypass,571972391
 VU#786,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#786,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
