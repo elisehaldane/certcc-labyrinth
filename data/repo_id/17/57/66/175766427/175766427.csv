@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
+175766427,knownsec/pocsuite3,pocsuite.ini,075c89c986828315f1264860619c0fe36ec9484f,CVE-2021-22005
+175766427,knownsec/pocsuite3,pocsuite.ini,075c89c986828315f1264860619c0fe36ec9484f,CVE-2021-41773
 175766427,knownsec/pocsuite3,pocsuite3/lib/core/template.py,3465f774d4930de8f7ffa0361c41f8e80e274319,CVE-2021-22123
 175766427,knownsec/pocsuite3,docs/CODING.md,49ae4cc0f257b81a5d8df3ca3e3d2000ec565945,CVE-2021-22123
-175766427,knownsec/pocsuite3,pocsuite.ini,4a061e627cd53b4a093fe4f9280442e4bcb37a63,CVE-2021-22005
-175766427,knownsec/pocsuite3,pocsuite.ini,4a061e627cd53b4a093fe4f9280442e4bcb37a63,CVE-2021-41773
 175766427,knownsec/pocsuite3,pocsuite3/pocs/20210923_WEB_Vmware_vCenter_Server_FIleUpload_CVE-2021-22005.py,8fc9c42509b5777e5bb5de15d784a9d091d0171c,CVE-2021-22005
 175766427,knownsec/pocsuite3,pocsuite3/pocs/20211008_web_apache-httpd_dir-traversal-rce_cve-2021-41773_cve-2021-42013.py,90a8334f3a375036b143ab9a874f9beda5b4f383,CVE-2021-41773
 175766427,knownsec/pocsuite3,pocsuite3/pocs/20211008_web_apache-httpd_dir-traversal-rce_cve-2021-41773_cve-2021-42013.py,90a8334f3a375036b143ab9a874f9beda5b4f383,CVE-2021-42013
