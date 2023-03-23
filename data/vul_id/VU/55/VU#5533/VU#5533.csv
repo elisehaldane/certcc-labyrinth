@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#5533,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#5533,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#5533,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#5533,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746

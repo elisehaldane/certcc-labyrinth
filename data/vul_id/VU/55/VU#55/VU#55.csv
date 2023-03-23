@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#55,1.00000000,https://github.com/Mouaness/Ethical-Hacking-Website-Exploitation,Mouaness/Ethical-Hacking-Website-Exploitation,616980552
+VU#55,1.00000000,https://github.com/PamelaKaram/Ethical-Hacking-Website-exploitation,PamelaKaram/Ethical-Hacking-Website-exploitation,616923196
 VU#55,1.00000000,https://github.com/orgTestCodacy11KRepos110MB/repo-4641-ms-teams-rce,orgTestCodacy11KRepos110MB/repo-4641-ms-teams-rce,595498114
 VU#55,1.00000000,https://github.com/marvelldigitalcloud/StumbleGuysExploit,marvelldigitalcloud/StumbleGuysExploit,514763093
 VU#55,1.00000000,https://github.com/soarsmu/transfer,soarsmu/transfer,496631924
@@ -11,6 +12,7 @@ VU#55,0.33333333,https://github.com/Serz999/CVE-2015-3145,Serz999/CVE-2015-3145,
 VU#55,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
 VU#55,0.33333333,https://github.com/yufanphombolimbu/Metasploit,yufanphombolimbu/Metasploit,512993881
 VU#55,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
+VU#55,0.33333333,https://github.com/maulvialf/CTF-Writeups,maulvialf/CTF-Writeups,415762023
 VU#55,0.33333333,https://github.com/thiagofigcosta/V-REx,thiagofigcosta/V-REx,306664684
 VU#55,0.25000000,https://github.com/yosef0x01/CVE-2023-0669-Analysis,yosef0x01/CVE-2023-0669-Analysis,606615026
 VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
@@ -70,7 +72,6 @@ VU#55,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossa
 VU#55,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#55,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#55,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
-VU#55,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#55,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#55,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
 VU#55,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -165,6 +166,7 @@ VU#55,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bje
 VU#55,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#55,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#55,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#55,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#55,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#55,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#55,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
@@ -216,7 +218,7 @@ VU#55,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#55,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#55,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#55,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#55,0.00740741,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#55,0.00735294,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#55,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#55,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#55,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -290,6 +292,7 @@ VU#55,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem
 VU#55,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#55,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#55,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#55,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#55,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#55,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#55,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

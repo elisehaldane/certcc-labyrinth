@@ -71,6 +71,7 @@ VU#83,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-
 VU#83,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#83,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
 VU#83,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2021-27850_POC,380253996
+VU#83,0.07692308,https://github.com/raju-kurapati/2DnavigationUsingCLIP,raju-kurapati/2DnavigationUsingCLIP,617725640
 VU#83,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#83,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#83,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
@@ -200,7 +201,7 @@ VU#83,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#83,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#83,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#83,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#83,0.00740741,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#83,0.00735294,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#83,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#83,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#83,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -270,6 +271,7 @@ VU#83,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem
 VU#83,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#83,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#83,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#83,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#83,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#83,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#83,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

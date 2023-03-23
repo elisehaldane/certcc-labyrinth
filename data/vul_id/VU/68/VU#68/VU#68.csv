@@ -60,6 +60,7 @@ VU#68,0.09090909,https://github.com/irwx777/SocialSploit,irwx777/SocialSploit,52
 VU#68,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
 VU#68,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#68,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
+VU#68,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/Binary-Exploitation,402695012
 VU#68,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_exploits,382872016
 VU#68,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599184
 VU#68,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
@@ -97,7 +98,6 @@ VU#68,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,C
 VU#68,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#68,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#68,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
-VU#68,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#68,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#68,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#68,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
@@ -114,6 +114,7 @@ VU#68,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-s
 VU#68,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#68,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#68,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
+VU#68,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#68,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#68,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 VU#68,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
@@ -126,6 +127,7 @@ VU#68,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bje
 VU#68,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#68,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#68,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
+VU#68,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#68,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#68,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#68,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
@@ -174,7 +176,7 @@ VU#68,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#68,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#68,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#68,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#68,0.00740741,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#68,0.00735294,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#68,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#68,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#68,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -238,6 +240,7 @@ VU#68,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#68,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 VU#68,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#68,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#68,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#68,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#68,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#68,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

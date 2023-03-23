@@ -89,7 +89,6 @@ VU#17,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#17,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#17,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#17,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
-VU#17,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#17,0.02857143,https://github.com/skulkarni-mv/hostapd_mirror,skulkarni-mv/hostapd_mirror,595001088
 VU#17,0.02857143,https://github.com/khalednassar/CVE-2020-27301-hostapd,khalednassar/CVE-2020-27301-hostapd,483337432
 VU#17,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
@@ -115,6 +114,7 @@ VU#17,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,53
 VU#17,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#17,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 VU#17,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#17,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#17,0.01639344,https://github.com/Drygster/Exploitation,Drygster/Exploitation,461223241
 VU#17,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#17,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
@@ -232,6 +232,7 @@ VU#17,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem
 VU#17,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#17,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#17,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#17,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#17,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#17,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#17,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

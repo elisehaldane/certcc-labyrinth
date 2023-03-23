@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#28,1.00000000,https://github.com/Zalushka/EzExploit,Zalushka/EzExploit,546791876
 VU#28,1.00000000,https://github.com/dtreplin/ctf-writeups,dtreplin/ctf-writeups,476246138
 VU#28,1.00000000,https://github.com/NNNFFF/chromeOS_exploit,NNNFFF/chromeOS_exploit,258395295
+VU#28,0.50000000,https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io,RBX-EXPLOITS/RBX-EXPLOITS.github.io,617634439
 VU#28,0.50000000,https://github.com/Zalushka/EzExploitStore,Zalushka/EzExploitStore,614858779
 VU#28,0.50000000,https://github.com/gmontroni/Digital-Inpainting-SPH,gmontroni/Digital-Inpainting-SPH,520990597
 VU#28,0.50000000,https://github.com/LucianBonk/Roblox-Exploit,LucianBonk/Roblox-Exploit,483842009
@@ -63,7 +64,6 @@ VU#28,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Seque
 VU#28,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#28,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#28,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
-VU#28,0.02857143,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#28,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#28,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
 VU#28,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -92,6 +92,7 @@ VU#28,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4710
 VU#28,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#28,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#28,0.01666667,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#28,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#28,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#28,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#28,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
@@ -213,6 +214,7 @@ VU#28,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem
 VU#28,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#28,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#28,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#28,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#28,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#28,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#28,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

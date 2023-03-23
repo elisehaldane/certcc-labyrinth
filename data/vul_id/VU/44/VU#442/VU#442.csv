@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#442,1.00000000,https://github.com/uncty/ReturnExploit,uncty/ReturnExploit,589699083
 VU#442,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
+VU#442,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#442,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#442,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#442,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
@@ -9,4 +10,5 @@ VU#442,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-explo
 VU#442,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#442,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#442,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
+VU#442,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#442,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
