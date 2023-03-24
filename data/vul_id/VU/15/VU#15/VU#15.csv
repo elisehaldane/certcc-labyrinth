@@ -9,6 +9,7 @@ VU#15,0.33333333,https://github.com/oselin/vmc_project,oselin/vmc_project,570469
 VU#15,0.33333333,https://github.com/ajay-nooji/Web-Penetration-Testing,ajay-nooji/Web-Penetration-Testing,466015466
 VU#15,0.25000000,https://github.com/MojaveMF/RobloxClientAudio,MojaveMF/RobloxClientAudio,485045922
 VU#15,0.25000000,https://github.com/pxiangxiang/CNVD-2022-10270-LPE-go,pxiangxiang/CNVD-2022-10270-LPE-go,473859056
+VU#15,0.16666667,https://github.com/esuc4se/screwdriverRCE,esuc4se/screwdriverRCE,618388543
 VU#15,0.16666667,https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo,BabooPan/Log4Shell-CVE-2021-44228-Demo,440722343
 VU#15,0.14285714,https://github.com/Sunqiz/CVE-2013-2028-reproduction,Sunqiz/CVE-2013-2028-reproduction,524887947
 VU#15,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
@@ -66,6 +67,7 @@ VU#15,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn
 VU#15,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#15,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#15,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
+VU#15,0.02702703,https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934,Satheesh575555/linux-4.1.15_CVE-2022-45934,618323077
 VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
 VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
 VU#15,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
@@ -193,7 +195,7 @@ VU#15,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#15,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#15,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#15,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
-VU#15,0.00653595,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#15,0.00641026,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#15,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#15,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#15,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616

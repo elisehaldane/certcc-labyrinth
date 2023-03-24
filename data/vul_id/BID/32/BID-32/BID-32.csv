@@ -6,6 +6,7 @@ BID-32,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2021-33034_withPa
 BID-32,0.07692308,https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch,artsking/linux-4.1.15_CVE-2020-36386_withPatch,407012223
 BID-32,0.05000000,https://github.com/jfustos/spectre_linux,jfustos/spectre_linux,156473040
 BID-32,0.04761905,https://github.com/bbrezillon/linux-0day,bbrezillon/linux-0day,47608613
+BID-32,0.02702703,https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934,Satheesh575555/linux-4.1.15_CVE-2022-45934,618323077
 BID-32,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
 BID-32,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
 BID-32,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
