@@ -42,7 +42,7 @@ MS12-020,0.04545455,https://github.com/Fplyth0ner-Combie/Bug-Project-Framework,F
 MS12-020,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ray-tracer96024/metasploitable3-win2k8,449806826
 MS12-020,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng/windows_exploit,147472650
 MS12-020,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
-MS12-020,0.02702703,https://github.com/telnet22/Kn0ck,telnet22/Kn0ck,200534665
+MS12-020,0.02500000,https://github.com/0x0d3ad/Kn0ck,0x0d3ad/Kn0ck,200534665
 MS12-020,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 MS12-020,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS12-020,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
@@ -224,7 +224,7 @@ MS12-020,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-ra
 MS12-020,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 MS12-020,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 MS12-020,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
-MS12-020,0.00020864,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS12-020,0.00020851,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 MS12-020,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS12-020,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -282,7 +282,7 @@ MS12-020,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS12-020,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS12-020,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS12-020,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS12-020,0.00001277,https://github.com/trickest/cve,trickest/cve,454015416
+MS12-020,0.00001276,https://github.com/trickest/cve,trickest/cve,454015416
 MS12-020,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS12-020,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS12-020,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
