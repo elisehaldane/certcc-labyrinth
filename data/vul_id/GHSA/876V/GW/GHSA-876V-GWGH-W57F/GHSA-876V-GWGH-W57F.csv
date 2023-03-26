@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-876V-GWGH-W57F,0.50000000,https://github.com/lavclash75/mybb-CVE-2022-24734,lavclash75/mybb-CVE-2022-24734,492581612
+GHSA-876V-GWGH-W57F,0.00020559,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 GHSA-876V-GWGH-W57F,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 GHSA-876V-GWGH-W57F,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 GHSA-876V-GWGH-W57F,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160

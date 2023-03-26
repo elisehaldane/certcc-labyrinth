@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-QCMP-FX72-Q8Q9,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23642,Live-Hack-CVE/CVE-2022-23642,583067729
 GHSA-QCMP-FX72-Q8Q9,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23642,Live-Hack-CVE/CVE-2022-23642,581711079
+GHSA-QCMP-FX72-Q8Q9,0.00020559,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 GHSA-QCMP-FX72-Q8Q9,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 GHSA-QCMP-FX72-Q8Q9,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
 GHSA-QCMP-FX72-Q8Q9,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160

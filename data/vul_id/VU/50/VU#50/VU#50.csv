@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#50,1.00000000,https://github.com/JonathanSalwan/ROPgadget,JonathanSalwan/ROPgadget,2234715
+VU#50,0.50000000,https://github.com/wshepherd0010/CVE-2022-24112-Lab,wshepherd0010/CVE-2022-24112-Lab,618895100
 VU#50,0.50000000,https://github.com/talukdar4/metasploit,talukdar4/metasploit,618505254
 VU#50,0.50000000,https://github.com/trhacknon/metasploit_in_termux,trhacknon/metasploit_in_termux,589178450
 VU#50,0.50000000,https://github.com/yuanshj1123/metasploit_in_termux,yuanshj1123/metasploit_in_termux,582850227
@@ -174,6 +175,7 @@ VU#50,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#50,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#50,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#50,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#50,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#50,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#50,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#50,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997

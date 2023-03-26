@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-3597-244C-WRPJ,0.00020559,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 GHSA-3597-244C-WRPJ,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 GHSA-3597-244C-WRPJ,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 GHSA-3597-244C-WRPJ,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515

@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#21,1.00000000,https://github.com/yadhukrishnam/bi0sCTF22,yadhukrishnam/bi0sCTF22,592319698
 VU#21,1.00000000,https://github.com/marik22354/Python-Payload-Crypter-V1,marik22354/Python-Payload-Crypter-V1,493417206
 VU#21,1.00000000,https://github.com/triscuitcircuit/rcengine,triscuitcircuit/rcengine,369786465
+VU#21,0.50000000,https://github.com/wiemerc/Exploits,wiemerc/Exploits,619155323
 VU#21,0.50000000,https://github.com/riccardomajellaro/DeepQLearning,riccardomajellaro/DeepQLearning,473225175
 VU#21,0.50000000,https://github.com/p0dalirius/JoGet-plugin-webshell,p0dalirius/JoGet-plugin-webshell,469814889
 VU#21,0.50000000,https://github.com/hoprik/bgExploit,hoprik/bgExploit,466544271
@@ -276,6 +277,7 @@ VU#21,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#21,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#21,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#21,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#21,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#21,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#21,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#21,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997

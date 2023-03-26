@@ -124,6 +124,7 @@ MS10-018,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-ra
 MS10-018,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 MS10-018,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 MS10-018,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
+MS10-018,0.00020559,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 MS10-018,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 MS10-018,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS10-018,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -180,7 +181,7 @@ MS10-018,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS10-018,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS10-018,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS10-018,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS10-018,0.00001276,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-018,0.00001275,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-018,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS10-018,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-018,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
