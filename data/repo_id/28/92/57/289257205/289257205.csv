@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+289257205,CaledoniaProject/drivers-binaries,bin/CVE-2020-36603_mhyprot2.Sys,0466e90bf0e83b776ca8716e01d35a8a2e5f96d3,CVE-2020-36603
 289257205,CaledoniaProject/drivers-binaries,readme.md,2b9c66e142d683fd324d730784f231bf421f1d03,CVE-2010-1592
 289257205,CaledoniaProject/drivers-binaries,readme.md,2b9c66e142d683fd324d730784f231bf421f1d03,CVE-2019-16098
 289257205,CaledoniaProject/drivers-binaries,readme.md,2b9c66e142d683fd324d730784f231bf421f1d03,CVE-2020-12138
