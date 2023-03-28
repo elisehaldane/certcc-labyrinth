@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-HJHC-XQJH-9FV3,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46160,Live-Hack-CVE/CVE-2022-46160,581326077
-GHSA-HJHC-XQJH-9FV3,0.00000375,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-HJHC-XQJH-9FV3,0.00000374,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-HJHC-XQJH-9FV3,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

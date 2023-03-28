@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-54551,0.50000000,https://github.com/Live-Hack-CVE/CVE-2012-0540,Live-Hack-CVE/CVE-2012-0540,583518068
 BID-54551,0.00169492,https://github.com/audioscavenger/exploit,audioscavenger/exploit,123531727
-BID-54551,0.00000375,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-54551,0.00000374,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-54551,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
