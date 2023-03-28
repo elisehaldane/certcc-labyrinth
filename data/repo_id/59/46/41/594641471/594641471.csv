@@ -1,1 +1,5 @@
-
+repo_id,repo_full_name,file,file_sha1,match
+594641471,leejm17/ICT3211_RedTeamPlatform,application/executables/AttackScript.exe,0b0d0e3d7be118b2a17d4984f881ae29033ba7e4,VU#63
+594641471,leejm17/ICT3211_RedTeamPlatform,application/executables/AttackScript.exe,0b0d0e3d7be118b2a17d4984f881ae29033ba7e4,VU#89
+594641471,leejm17/ICT3211_RedTeamPlatform,application/executables/BruteForce.exe,7fef5789f93b1eedd034f4e42ab0985f7ff0571e,VU#89
+594641471,leejm17/ICT3211_RedTeamPlatform,application/executables/ReconScript.exe,978e48ba081ef11b9b7a52feb74a7f95776a46a7,VU#89
