@@ -21,6 +21,7 @@ MS10-087,0.00602410,https://github.com/praveendhac/VulnerabilityResearch,praveen
 MS10-087,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
 MS10-087,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
 MS10-087,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
+MS10-087,0.00452489,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 MS10-087,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
 MS10-087,0.00362319,https://github.com/cys3c/viper-shell,cys3c/viper-shell,94091391
 MS10-087,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
@@ -123,7 +124,6 @@ MS10-087,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-ra
 MS10-087,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 MS10-087,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 MS10-087,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
-MS10-087,0.00020559,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 MS10-087,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 MS10-087,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS10-087,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -140,7 +140,7 @@ MS10-087,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS10-087,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 MS10-087,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS10-087,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
-MS10-087,0.00019708,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS10-087,0.00019704,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-087,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS10-087,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-087,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#267,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
-VU#267,0.00152672,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#267,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#267,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
+VU#267,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
