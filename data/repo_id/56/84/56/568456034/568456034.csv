@@ -17,13 +17,13 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudo-Exiftool-Privilege-Escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
 568456034,hideckies/exploit-notes,src/exploit/web/elasticsearch/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/version-control/Gitea-Pentesting.md,7ec7d73e40549381f4b247178fea168e24319111,CVE-2020-14144
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudoedit-Privilege-Escalation.md,974ae3978d846bdd0a667575421aa9c224299197,CVE-2023-22809
 568456034,hideckies/exploit-notes,src/exploit/windows/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/Spring-Cloud-Function-RCE.md,ad12c30e6bcc9c8e26e0841cad6211c5179cb1db,CVE-2022-22963
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,ae04b5d6761ae2c99c744f8a8b282379858022d2,GHSA-PQ7M-3GW7-GQ5X
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,ae04b5d6761ae2c99c744f8a8b282379858022d2,CVE-2022-21699
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/Netlogon-Elavasion-of-Privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
 568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,b5132ab1392c84b11f835fe50694681d0e4df44c,CVE-2021-29447
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudoedit-Privilege-Escalation.md,bc994c2c7b9a1a0177230504fd7e94417dec3488,CVE-2023-22809
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,GHSA-PQ7M-3GW7-GQ5X
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,CVE-2022-21699
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Snapd-Privilege-Escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
