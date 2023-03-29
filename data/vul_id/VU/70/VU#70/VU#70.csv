@@ -17,6 +17,7 @@ VU#70,0.33333333,https://github.com/badiea3000/RedvsBlue,badiea3000/RedvsBlue,50
 VU#70,0.33333333,https://github.com/jhftss/CVE-2022-22639,jhftss/CVE-2022-22639,470871002
 VU#70,0.33333333,https://github.com/thushi99/scp-client-vulnerability-exploit,thushi99/scp-client-vulnerability-exploit,456885932
 VU#70,0.33333333,https://github.com/tmenochet/PowerDump,tmenochet/PowerDump,416900394
+VU#70,0.25000000,https://github.com/MXTHL3/exploitation-BD,MXTHL3/exploitation-BD,617464289
 VU#70,0.25000000,https://github.com/aeyesec/CVE-2021-31805,aeyesec/CVE-2021-31805,482013810
 VU#70,0.20000000,https://github.com/PsySlayer/Krum-V1-Exploit,PsySlayer/Krum-V1-Exploit,606785072
 VU#70,0.20000000,https://github.com/lijiejie/swagger-exp,lijiejie/swagger-exp,350607453
@@ -199,7 +200,6 @@ VU#70,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-express
 VU#70,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#70,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#70,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
-VU#70,0.00520833,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#70,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#70,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#70,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
@@ -211,6 +211,7 @@ VU#70,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#70,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#70,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#70,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
+VU#70,0.00395257,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#70,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#70,0.00381679,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#70,0.00371747,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
@@ -235,8 +236,8 @@ VU#70,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 VU#70,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#70,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#70,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
-VU#70,0.00179856,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#70,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#70,0.00178891,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#70,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#70,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#70,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
