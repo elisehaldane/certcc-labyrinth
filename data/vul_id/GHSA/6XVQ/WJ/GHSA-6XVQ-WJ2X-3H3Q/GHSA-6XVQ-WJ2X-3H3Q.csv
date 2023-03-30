@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6XVQ-WJ2X-3H3Q,0.33333333,https://github.com/Mr-xn/CVE-2023-28432,Mr-xn/CVE-2023-28432,617997824
-GHSA-6XVQ-WJ2X-3H3Q,0.00641026,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
-GHSA-6XVQ-WJ2X-3H3Q,0.00000374,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-6XVQ-WJ2X-3H3Q,0.00632911,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+GHSA-6XVQ-WJ2X-3H3Q,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

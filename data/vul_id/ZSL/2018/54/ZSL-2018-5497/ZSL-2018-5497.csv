@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2018-5497,0.00110375,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2018-5497,0.00109890,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2018-5497,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 ZSL-2018-5497,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZSL-2018-5497,0.00005041,https://github.com/metoo10987/exploitdb,metoo10987/exploitdb,156733009
@@ -20,5 +20,5 @@ ZSL-2018-5497,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,61774804
 ZSL-2018-5497,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 ZSL-2018-5497,0.00001283,https://github.com/trickest/cve,trickest/cve,454015416
 ZSL-2018-5497,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-ZSL-2018-5497,0.00000374,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+ZSL-2018-5497,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 ZSL-2018-5497,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

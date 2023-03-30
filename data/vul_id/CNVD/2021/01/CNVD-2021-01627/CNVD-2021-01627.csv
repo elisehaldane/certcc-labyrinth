@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNVD-2021-01627,0.00641026,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+CNVD-2021-01627,0.00632911,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 CNVD-2021-01627,0.00327869,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
 CNVD-2021-01627,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 CNVD-2021-01627,0.00197628,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571

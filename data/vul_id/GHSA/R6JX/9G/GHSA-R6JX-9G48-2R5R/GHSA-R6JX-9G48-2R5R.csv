@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-R6JX-9G48-2R5R,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,475290370
 GHSA-R6JX-9G48-2R5R,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
-GHSA-R6JX-9G48-2R5R,0.00000374,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-R6JX-9G48-2R5R,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-R6JX-9G48-2R5R,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
