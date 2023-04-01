@@ -1,0 +1,41 @@
+
+# Summary for results/2023/04
+    
+34 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-04-01 00:53:17+00:00 | 863206 | 29847 | Ruby | 13035 | [] |
+| arkflame/FlamePearls | Alternative pearl algorythm to search for the best positions and avoid bugs and exploits. | https://github.com/arkflame/FlamePearls | ['exploit'] | 1 | 2023-04-01 00:38:05+00:00 | 11 | 1 | Java | 0 | [] |
+| IWonderKanyeWest/Kanye-hub | Roblox Kanye Hub Exploit Script | https://github.com/IWonderKanyeWest/Kanye-hub | ['exploit'] | 1 | 2023-04-01 00:01:30+00:00 | 16 | 0 | Lua | 0 | [] |
+| Dusoleil/sploit | sploit is a process interaction automation tool with software exploitation focused utilities. | https://github.com/Dusoleil/sploit | ['exploit', 'sploit'] | 2 | 2023-04-01 02:24:07+00:00 | 203 | 0 | Python | 0 | [] |
+| Live-Hack-CVE/full_database | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | ['cve poc', 'exploit'] | 2 | 2023-04-01 00:55:21+00:00 | 443104 | 16 | | 7 | [] |
+| Altelus1/HEVD_exploits | None | https://github.com/Altelus1/HEVD_exploits | ['exploit'] | 1 | 2023-04-01 04:47:30+00:00 | 5 | 0 | Python | 0 | [] |
+| yyxRoy/tcp-exploit | None | https://github.com/yyxRoy/tcp-exploit | ['exploit'] | 1 | 2023-04-01 04:28:44+00:00 | 2198 | 0 | C++ | 0 | [] |
+| nchng002/Hephaestus | Smash the stack! A repository of binary exploitation and reverse engineering. | https://github.com/nchng002/Hephaestus | ['exploit'] | 1 | 2023-04-01 04:28:04+00:00 | 1 | 1 | C | 0 | [] |
+| shawnjb/rbx-aim-assistant | A legit-style aimbot for Roblox. | https://github.com/shawnjb/rbx-aim-assistant | ['exploit'] | 1 | 2023-04-01 00:18:19+00:00 | 16 | 0 | Lua | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-04-01 04:59:46+00:00 | 22280 | 8293 | JavaScript | 1913 | [] |
+| Sumit-CyberSecurity/Linux-Privilege-Escalation | Learn the fundamentals of Linux privilege escalation. From enumeration to exploitation, get hands-on with over 8 different privilege escalation techniques. | https://github.com/Sumit-CyberSecurity/Linux-Privilege-Escalation | ['exploit'] | 1 | 2023-04-01 04:41:18+00:00 | 7 | 0 | | 0 | [] |
+| BlindEyeSoftworks/IFEO-Exploit-Payload-Sample | An in-depth look at a malicious payload using Windows Image File Execution Options (IFEO) as an attack vector for executing Denial of Service (DoS) attacks on system programs. | https://github.com/BlindEyeSoftworks/IFEO-Exploit-Payload-Sample | ['exploit'] | 1 | 2023-04-01 03:59:04+00:00 | 453 | 0 | C# | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0s | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0s | ['exploit'] | 1 | 2023-04-01 04:09:23+00:00 | 0 | 1 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0s | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0s | ['exploit'] | 1 | 2023-04-01 04:10:07+00:00 | 0 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0s | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0s | ['exploit'] | 1 | 2023-04-01 04:11:05+00:00 | 0 | 1 | | 0 | [] |
+| s3l33/CVE-2022-25012 | Updated version of this weak password encryption script | https://github.com/s3l33/CVE-2022-25012 | ['cve-2 OR cve_2'] | 1 | 2023-04-01 04:38:18+00:00 | 0 | 0 | Python | 0 | ['CVE-2022-25012'] |
+| mysurvive/pf2e-thaum-vuln | Improvement for Thaumaturge Exploit Vulnerability | https://github.com/mysurvive/pf2e-thaum-vuln | ['exploit'] | 1 | 2023-04-01 00:26:31+00:00 | 71563 | 5 | JavaScript | 3 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-04-01 04:48:34+00:00 | 74480 | 14 | Go | 2 | [] |
+| RedNotSus/exploits | unblocked apps and games | https://github.com/RedNotSus/exploits | ['exploit'] | 1 | 2023-04-01 03:24:02+00:00 | 1351081 | 6 | HTML | 13 | [] |
+| KilianSD/Exploitation | None | https://github.com/KilianSD/Exploitation | ['exploit'] | 1 | 2023-04-01 02:44:13+00:00 | 85 | 0 | | 0 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2023-04-01 00:13:49+00:00 | 53114 | 3504 | Go | 419 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-04-01 04:47:33+00:00 | 77666 | 63 | Go | 21 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-04-01 00:10:37+00:00 | 757 | 413 | Shell | 82 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-04-01 00:10:58+00:00 | 2095 | 0 | | 1 | [] |
+| zan8in/afrog | A Vulnerability Scanning Tools For Penetration Testing | https://github.com/zan8in/afrog | ['vulnerability poc'] | 1 | 2023-04-01 02:01:06+00:00 | 10285 | 1395 | Go | 207 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-04-01 01:26:16+00:00 | 1955 | 174 | HTML | 6 | [] |
+| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2023-04-01 00:16:57+00:00 | 460 | 0 | HTML | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-04-01 04:44:50+00:00 | 390657 | 610 | Python | 161 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-04-01 04:05:26+00:00 | 744370 | 70 | | 27 | [] |
+| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2023-04-01 04:43:23+00:00 | 160335 | 500 | Go | 94 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-04-01 00:46:05+00:00 | 22395 | 51 | | 27 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-04-01 00:32:00+00:00 | 239160 | 4827 | | 952 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-04-01 04:35:12+00:00 | 2350796 | 263 | REXX | 31 | [] |
+| yyxRoy/tcp-exploit-reports | None | https://github.com/yyxRoy/tcp-exploit-reports | ['exploit'] | 1 | 2023-04-01 04:43:09+00:00 | 0 | 0 | | 0 | [] |
