@@ -3,10 +3,10 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,00712897fe31379bc052a641841354bc73f7b11a,CVE-2021-41773
 568456034,hideckies/exploit-notes,src/exploit/database/InfluxDB-Pentesting.md,053a07b63ff755e10a121abd7ae25e2a7ae1e81c,CVE-2019-20933
 568456034,hideckies/exploit-notes,src/exploit/windows/LocalPotato.md,0a11858c87dfc827f51235e99e3a7bc7422f69fc,CVE-2023-21746
+568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/SMB-Pentesting.md,123eee7b2a35ee3dd791606507ecdb81c613270d,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/version-control/Gogs-Pentesting.md,12901131210a9fe0d9e9d3fb77b185ca51faf2e3,CVE-2014-8682
 568456034,hideckies/exploit-notes,src/exploit/container/kubernetes/MicroK8s-Pentesting.md,1a4ae5809d359674033f31490d9802c85b05dc58,CVE-2019-15789
 568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/Outlook-Reminder-Privilege-Escalation.md,21925f5f57d20979d3e7de6deae781b8c4897e59,CVE-2023-23397
-568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/SMB-Pentesting.md,4299eaaf6c7e14be79b0c2a21f3138b583ff5033,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/UAC-Windows-Privilege-Escalation.md,452524c0f5c1eda8b6a72da5ee15405ce29d6a87,CVE-2019-1388
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Buffer-Overflow-Privilege-Escalation.md,51561441ad4ac870165135ae87cebeea6ae6b3a9,CVE-2021-3156
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Buffer-Overflow-Privilege-Escalation.md,51561441ad4ac870165135ae87cebeea6ae6b3a9,CVE-2019-18634
@@ -17,10 +17,10 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudo-Exiftool-Privilege-Escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
 568456034,hideckies/exploit-notes,src/exploit/web/elasticsearch/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
 568456034,hideckies/exploit-notes,src/exploit/version-control/Gitea-Pentesting.md,7ec7d73e40549381f4b247178fea168e24319111,CVE-2020-14144
+568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,984434bff703d2ee440e9c10695c918995f46378,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/windows/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/Spring-Cloud-Function-RCE.md,ad12c30e6bcc9c8e26e0841cad6211c5179cb1db,CVE-2022-22963
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/Netlogon-Elavasion-of-Privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
-568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,b5132ab1392c84b11f835fe50694681d0e4df44c,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudoedit-Privilege-Escalation.md,bc994c2c7b9a1a0177230504fd7e94417dec3488,CVE-2023-22809
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,CVE-2022-21699
