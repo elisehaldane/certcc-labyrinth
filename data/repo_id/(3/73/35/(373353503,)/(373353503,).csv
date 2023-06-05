@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+373353503,lw8192/Red-Team-Rising,Unix/Linux_Priv_Esc.md,7714e69b059193b6bb93ebdbab2e206c113b84fa,CVE-2019-14287
+373353503,lw8192/Red-Team-Rising,Unix/Linux_Priv_Esc.md,7714e69b059193b6bb93ebdbab2e206c113b84fa,CVE-2019-16634
+373353503,lw8192/Red-Team-Rising,Unix/Linux_Priv_Esc.md,7714e69b059193b6bb93ebdbab2e206c113b84fa,CVE-2019-18634
+373353503,lw8192/Red-Team-Rising,Unix/Linux_Priv_Esc.md,7714e69b059193b6bb93ebdbab2e206c113b84fa,CVE-2021-3156
+373353503,lw8192/Red-Team-Rising,Unix/Linux_Priv_Esc.md,7714e69b059193b6bb93ebdbab2e206c113b84fa,CVE-2021-33909
+373353503,lw8192/Red-Team-Rising,ActiveDirectory/Attacks.md,7f671a682829f96c800c725c5719783e2e3be9fa,CVE-2020-1472
+373353503,lw8192/Red-Team-Rising,Web/CMS.md,9851656ad9281fe908b34c6668871e4c775b1396,CVE-2017-17087
+373353503,lw8192/Red-Team-Rising,Windows/Windows_Priv_Esc.md,ce324132aa1866716414f960827c0059cf47be3b,CVE-2019-1388
+373353503,lw8192/Red-Team-Rising,Windows/Windows_Priv_Esc.md,ce324132aa1866716414f960827c0059cf47be3b,CVE-2020-1048
+373353503,lw8192/Red-Team-Rising,Windows/Windows_Priv_Esc.md,ce324132aa1866716414f960827c0059cf47be3b,CVE-2021-36934
+373353503,lw8192/Red-Team-Rising,Enumeration/ReadMe.md,ef27b0f2e38eac448cafa61fc55364d1563f576f,CVE-2017-0144
+373353503,lw8192/Red-Team-Rising,Enumeration/ReadMe.md,ef27b0f2e38eac448cafa61fc55364d1563f576f,CVE-2020-0796
+373353503,lw8192/Red-Team-Rising,Enumeration/ReadMe.md,ef27b0f2e38eac448cafa61fc55364d1563f576f,CVE-2020-1206
+373353503,lw8192/Red-Team-Rising,Enumeration/ReadMe.md,ef27b0f2e38eac448cafa61fc55364d1563f576f,CVE-2021-36972
+373353503,lw8192/Red-Team-Rising,Enumeration/ReadMe.md,ef27b0f2e38eac448cafa61fc55364d1563f576f,CVE-2022-24500
+373353503,lw8192/Red-Team-Rising,Enumeration/ReadMe.md,ef27b0f2e38eac448cafa61fc55364d1563f576f,MS17-010
