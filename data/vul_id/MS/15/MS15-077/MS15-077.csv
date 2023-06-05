@@ -4,11 +4,11 @@ MS15-077,0.02941176,https://github.com/Nek0y4nSu/memory-scan,Nek0y4nSu/memory-sc
 MS15-077,0.02941176,https://github.com/Nek0y4nSu/shellcode-scan-dyn,Nek0y4nSu/shellcode-scan-dyn,396003539
 MS15-077,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/GetWindowsKernelExploitsKB,202712452
 MS15-077,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
-MS15-077,0.01219512,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
+MS15-077,0.01176471,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS15-077,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
-MS15-077,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS15-077,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 MS15-077,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
+MS15-077,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS15-077,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 MS15-077,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 MS15-077,0.00378788,https://github.com/njahrckstr/Windows_Kernel_Sploit_List,njahrckstr/Windows_Kernel_Sploit_List,140624271
@@ -48,13 +48,14 @@ MS15-077,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall
 MS15-077,0.00251889,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS15-077,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 MS15-077,0.00178891,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
-MS15-077,0.00069784,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS15-077,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
+MS15-077,0.00067522,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS15-077,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS15-077,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS15-077,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS15-077,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS15-077,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+MS15-077,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS15-077,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 MS15-077,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
 MS15-077,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
@@ -83,5 +84,5 @@ MS15-077,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spirito
 MS15-077,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 MS15-077,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS15-077,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS15-077,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS15-077,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS15-077,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

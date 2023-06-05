@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-W7PP-M8WF-VJ6R,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-23931,Live-Hack-CVE/CVE-2023-23931,602659359
-GHSA-W7PP-M8WF-VJ6R,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-W7PP-M8WF-VJ6R,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

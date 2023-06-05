@@ -35,11 +35,10 @@ MS11-046,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/
 MS11-046,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
 MS11-046,0.01515152,https://github.com/r3naissance/eatt,r3naissance/eatt,507442402
 MS11-046,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
-MS11-046,0.01219512,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
+MS11-046,0.01176471,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS11-046,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/darkweb_classification,488567745
 MS11-046,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 MS11-046,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
-MS11-046,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS11-046,0.00606061,https://github.com/oudb/exploit-db-papers,oudb/exploit-db-papers,67758688
 MS11-046,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 MS11-046,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
@@ -48,6 +47,7 @@ MS11-046,0.00534759,https://github.com/asrocha/exploitdb-API,asrocha/exploitdb-A
 MS11-046,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228/exploit-tools,116704087
 MS11-046,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS11-046,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
+MS11-046,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS11-046,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS11-046,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
 MS11-046,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
@@ -117,6 +117,7 @@ MS11-046,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS11-046,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS11-046,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS11-046,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+MS11-046,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS11-046,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS11-046,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 MS11-046,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
@@ -151,10 +152,10 @@ MS11-046,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS11-046,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS11-046,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS11-046,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS11-046,0.00001283,https://github.com/trickest/cve,trickest/cve,454015416
+MS11-046,0.00001239,https://github.com/trickest/cve,trickest/cve,454015416
 MS11-046,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS11-046,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS11-046,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS11-046,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS11-046,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS11-046,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS11-046,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

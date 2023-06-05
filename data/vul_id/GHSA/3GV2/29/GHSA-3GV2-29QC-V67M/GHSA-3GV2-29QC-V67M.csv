@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-3GV2-29QC-V67M,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-24895,Live-Hack-CVE/CVE-2022-24895,597242410
-GHSA-3GV2-29QC-V67M,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-3GV2-29QC-V67M,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

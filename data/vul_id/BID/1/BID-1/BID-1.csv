@@ -128,8 +128,8 @@ BID-1,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,47
 BID-1,0.01538462,https://github.com/rhpco/CVE-2018-16509,rhpco/CVE-2018-16509,200477390
 BID-1,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 BID-1,0.01265823,https://github.com/seclab-ucr/KOOBE,seclab-ucr/KOOBE,219613366
-BID-1,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 BID-1,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
+BID-1,0.00769231,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 BID-1,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 BID-1,0.00531915,https://github.com/Doctor-Hacker/PHP-App-Remote-Code-Execution-Testbed,Doctor-Hacker/PHP-App-Remote-Code-Execution-Testbed,200424674
 BID-1,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
@@ -179,7 +179,7 @@ BID-1,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967
 BID-1,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 BID-1,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 BID-1,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-BID-1,0.00001283,https://github.com/trickest/cve,trickest/cve,454015416
+BID-1,0.00001239,https://github.com/trickest/cve,trickest/cve,454015416
 BID-1,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-BID-1,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+BID-1,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-1,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -8,6 +8,7 @@ MS12-043,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/Wi
 MS12-043,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS12-043,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
 MS12-043,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
+MS12-043,0.00729927,https://github.com/vamsi-120304/windows-transfer-tools,vamsi-120304/windows-transfer-tools,605088900
 MS12-043,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS12-043,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS12-043,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
@@ -31,8 +32,8 @@ MS12-043,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauhee
 MS12-043,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 MS12-043,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS12-043,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-MS12-043,0.00069784,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS12-043,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
+MS12-043,0.00067522,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS12-043,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS12-043,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS12-043,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
@@ -138,7 +139,7 @@ MS12-043,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy
 MS12-043,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS12-043,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 MS12-043,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-MS12-043,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS12-043,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS12-043,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS12-043,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS12-043,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -172,5 +173,5 @@ MS12-043,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 MS12-043,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS12-043,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS12-043,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
-MS12-043,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS12-043,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS12-043,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

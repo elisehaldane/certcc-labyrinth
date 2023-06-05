@@ -2,8 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS12-034,0.02857143,https://github.com/slimsevernake/The-Browser-Exploitation-Framework-Project-,slimsevernake/The-Browser-Exploitation-Framework-Project-,300380905
 MS12-034,0.02857143,https://github.com/TeChNiShU27/beef-master,TeChNiShU27/beef-master,266960264
 MS12-034,0.02857143,https://github.com/Quietiger/BEEF-Exploitation,Quietiger/BEEF-Exploitation,71604562
+MS12-034,0.02272727,https://github.com/beefproject/beef,beefproject/beef,2833881
 MS12-034,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
-MS12-034,0.02173913,https://github.com/beefproject/beef,beefproject/beef,2833881
 MS12-034,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS12-034,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
 MS12-034,0.00534759,https://github.com/asrocha/exploitdb-API,asrocha/exploitdb-API,60031201
@@ -58,5 +58,5 @@ MS12-034,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS12-034,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS12-034,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS12-034,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
-MS12-034,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS12-034,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS12-034,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

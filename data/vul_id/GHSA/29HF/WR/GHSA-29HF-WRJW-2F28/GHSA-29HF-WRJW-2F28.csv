@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-29HF-WRJW-2F28,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-45496,Live-Hack-CVE/CVE-2022-45496,598151879
-GHSA-29HF-WRJW-2F28,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-29HF-WRJW-2F28,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

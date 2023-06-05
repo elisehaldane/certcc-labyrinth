@@ -52,6 +52,7 @@ VU#45,0.25000000,https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-6
 VU#45,0.25000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,478494950
 VU#45,0.25000000,https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,466011549
 VU#45,0.25000000,https://github.com/0xalwayslucky/log4j-polkit-poc,0xalwayslucky/log4j-polkit-poc,452823928
+VU#45,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#45,0.20000000,https://github.com/Shaddyjr/simon_explore_v__exploit,Shaddyjr/simon_explore_v__exploit,503661195
 VU#45,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
 VU#45,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
@@ -66,6 +67,7 @@ VU#45,0.12500000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,523104
 VU#45,0.11111111,https://github.com/Firebasky/CVE-2023-21839,Firebasky/CVE-2023-21839,612534596
 VU#45,0.11111111,https://github.com/ArkAngeL43/Red-Rabbit,ArkAngeL43/Red-Rabbit,420441425
 VU#45,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
+VU#45,0.10000000,https://github.com/Trap4L/SQL-Dumper,Trap4L/SQL-Dumper,649196467
 VU#45,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
 VU#45,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#45,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
@@ -90,6 +92,7 @@ VU#45,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-
 VU#45,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
 VU#45,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#45,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
+VU#45,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#45,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
 VU#45,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
 VU#45,0.05555556,https://github.com/DilpreetSinghBajwa/Resources-public,DilpreetSinghBajwa/Resources-public,409501850
@@ -138,11 +141,11 @@ VU#45,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayEx
 VU#45,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#45,0.02325581,https://github.com/sinjeanmin/cvedetails_2020,sinjeanmin/cvedetails_2020,419696106
 VU#45,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
+VU#45,0.02272727,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#45,0.02222222,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#45,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#45,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
 VU#45,0.02173913,https://github.com/sinjeanmin/cvedetails_2020_final,sinjeanmin/cvedetails_2020_final,424184998
-VU#45,0.02173913,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#45,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
 VU#45,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#45,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
@@ -193,11 +196,11 @@ VU#45,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#45,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#45,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#45,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#45,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#45,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#45,0.01075269,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#45,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#45,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
+VU#45,0.01052632,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#45,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#45,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#45,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
@@ -217,11 +220,10 @@ VU#45,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-E
 VU#45,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#45,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#45,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
-VU#45,0.00781250,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#45,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
+VU#45,0.00769231,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#45,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#45,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#45,0.00735294,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#45,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#45,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#45,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -237,7 +239,6 @@ VU#45,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/k
 VU#45,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#45,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#45,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
-VU#45,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#45,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#45,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#45,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
@@ -249,6 +250,8 @@ VU#45,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#45,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#45,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#45,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#45,0.00476190,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#45,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#45,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#45,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#45,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
@@ -260,7 +263,6 @@ VU#45,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdo
 VU#45,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#45,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#45,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
-VU#45,0.00381679,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#45,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#45,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#45,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
@@ -275,6 +277,7 @@ VU#45,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#45,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#45,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#45,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
+VU#45,0.00268097,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#45,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#45,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#45,0.00251889,https://github.com/helloexp/0day,helloexp/0day,478826386
@@ -299,7 +302,7 @@ VU#45,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#45,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#45,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#45,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#45,0.00048031,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#45,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#45,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#45,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#45,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -320,7 +323,7 @@ VU#45,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#45,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#45,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#45,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#45,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#45,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#45,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#45,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#45,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
@@ -329,5 +332,5 @@ VU#45,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/B
 VU#45,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#45,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#45,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
-VU#45,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#45,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#45,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

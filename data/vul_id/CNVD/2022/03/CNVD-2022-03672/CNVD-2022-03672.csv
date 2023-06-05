@@ -1,10 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2022-03672,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-48323,Live-Hack-CVE/CVE-2022-48323,601004649
 CNVD-2022-03672,0.50000000,https://github.com/Wrin9/sunflower_RCE_POC,Wrin9/sunflower_RCE_POC,460306906
-CNVD-2022-03672,0.00311526,https://github.com/zan8in/afrog,zan8in/afrog,463027648
+CNVD-2022-03672,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 CNVD-2022-03672,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
 CNVD-2022-03672,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 CNVD-2022-03672,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 CNVD-2022-03672,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 CNVD-2022-03672,0.00003960,https://github.com/adminlove520/cnvd,adminlove520/cnvd,531908311
-CNVD-2022-03672,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+CNVD-2022-03672,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

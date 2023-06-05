@@ -265,7 +265,6 @@ MS17-010,0.11111111,https://github.com/aryanguenthner/365,aryanguenthner/365,264
 MS17-010,0.11111111,https://github.com/rodriguezcoding/hackthebox_exploited_machines_notes,rodriguezcoding/hackthebox_exploited_machines_notes,256037841
 MS17-010,0.11111111,https://github.com/oneplus-x/msf-plugins,oneplus-x/msf-plugins,165913682
 MS17-010,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
-MS17-010,0.10000000,https://github.com/Scr1ptK1ddie/OSCPprep,Scr1ptK1ddie/OSCPprep,373353503
 MS17-010,0.10000000,https://github.com/L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,338316702
 MS17-010,0.10000000,https://github.com/ajes-xfr-team/bin-exploits,ajes-xfr-team/bin-exploits,307359751
 MS17-010,0.09090909,https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,457408529
@@ -285,6 +284,7 @@ MS17-010,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
 MS17-010,0.07142857,https://github.com/sandoche/Terminhack,sandoche/Terminhack,290534663
 MS17-010,0.06666667,https://github.com/Netw0rkLan/Slote.me,Netw0rkLan/Slote.me,96312509
 MS17-010,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
+MS17-010,0.06250000,https://github.com/lw8192/Red-Team-Rising,lw8192/Red-Team-Rising,373353503
 MS17-010,0.06250000,https://github.com/ycdxsb/Exploits,ycdxsb/Exploits,273386397
 MS17-010,0.06250000,https://github.com/dark-vex/CVE-PoC-collection,dark-vex/CVE-PoC-collection,199694627
 MS17-010,0.05882353,https://github.com/MizaruIT/BREAKADAY,MizaruIT/BREAKADAY,601825881
@@ -311,6 +311,7 @@ MS17-010,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng
 MS17-010,0.04347826,https://github.com/SirEOF/exploit-4,SirEOF/exploit-4,115913975
 MS17-010,0.04347826,https://github.com/dobin/yookiterm-slides,dobin/yookiterm-slides,82847859
 MS17-010,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+MS17-010,0.04000000,https://github.com/quocvd1511/PostExploit,quocvd1511/PostExploit,649187376
 MS17-010,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 MS17-010,0.03846154,https://github.com/floppy-sh/Floppy_Ressources,floppy-sh/Floppy_Ressources,601576439
 MS17-010,0.03846154,https://github.com/quocvd1511/SimpleDeepRLwithMetasploit,quocvd1511/SimpleDeepRLwithMetasploit,570062666
@@ -374,9 +375,9 @@ MS17-010,0.01298701,https://github.com/codeyso/CodeTest,codeyso/CodeTest,4650119
 MS17-010,0.01298701,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 MS17-010,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
 MS17-010,0.01219512,https://github.com/Sma-Das/TryHackMe,Sma-Das/TryHackMe,382572363
-MS17-010,0.01219512,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS17-010,0.01204819,https://github.com/Lucifer1993/PoCHub,Lucifer1993/PoCHub,259556360
 MS17-010,0.01204819,https://github.com/joker2a/Privesc,joker2a/Privesc,250345076
+MS17-010,0.01176471,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS17-010,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 MS17-010,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/darkweb_classification,488567745
 MS17-010,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
@@ -389,7 +390,6 @@ MS17-010,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4
 MS17-010,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 MS17-010,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 MS17-010,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
-MS17-010,0.00735294,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 MS17-010,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS17-010,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS17-010,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042
@@ -399,7 +399,6 @@ MS17-010,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackT
 MS17-010,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
 MS17-010,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
 MS17-010,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
-MS17-010,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS17-010,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 MS17-010,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 MS17-010,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
@@ -410,7 +409,9 @@ MS17-010,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228
 MS17-010,0.00523560,https://github.com/zwy000009/--Loophole-CVE-PoC-payload,zwy000009/--Loophole-CVE-PoC-payload,255253818
 MS17-010,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
 MS17-010,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
+MS17-010,0.00476190,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 MS17-010,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
+MS17-010,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS17-010,0.00452489,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 MS17-010,0.00448430,https://github.com/Awrrays/MetaSploit-Moudule,Awrrays/MetaSploit-Moudule,379840207
 MS17-010,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
@@ -494,14 +495,13 @@ MS17-010,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Sc
 MS17-010,0.00052165,https://github.com/w3h/isf,w3h/isf,96204829
 MS17-010,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 MS17-010,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
-MS17-010,0.00028827,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
+MS17-010,0.00027367,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
 MS17-010,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS17-010,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 MS17-010,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 MS17-010,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
-MS17-010,0.00026035,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00025733,https://github.com/syokake/metasploit-framework,syokake/metasploit-framework,91141820
 MS17-010,0.00025628,https://github.com/kongjiexi/metasploit,kongjiexi/metasploit,95047982
 MS17-010,0.00025628,https://github.com/CKmaenn/metasploit-framework,CKmaenn/metasploit-framework,94964125
@@ -512,6 +512,7 @@ MS17-010,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS17-010,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS17-010,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS17-010,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
+MS17-010,0.00024832,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS17-010,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 MS17-010,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
@@ -559,7 +560,6 @@ MS17-010,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-ra
 MS17-010,0.00021432,https://github.com/kaanfroin/metasploit-framework,kaanfroin/metasploit-framework,385886011
 MS17-010,0.00021345,https://github.com/ru-faraon/metasploit-framework,ru-faraon/metasploit-framework,372254030
 MS17-010,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
-MS17-010,0.00020756,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 MS17-010,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 MS17-010,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -574,18 +574,20 @@ MS17-010,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4
 MS17-010,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 MS17-010,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS17-010,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
+MS17-010,0.00019833,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS17-010,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 MS17-010,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-MS17-010,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS17-010,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS17-010,0.00009341,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+MS17-010,0.00009142,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-MS17-010,0.00007197,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00007082,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -620,7 +622,7 @@ MS17-010,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updat
 MS17-010,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS17-010,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS17-010,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS17-010,0.00001283,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001239,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542

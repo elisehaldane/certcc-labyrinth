@@ -20,12 +20,13 @@ GHSA-8PJX-JJ86-J47P,0.00019932,https://github.com/Christyy123/Metasploit-framewo
 GHSA-8PJX-JJ86-J47P,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-8PJX-JJ86-J47P,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 GHSA-8PJX-JJ86-J47P,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-GHSA-8PJX-JJ86-J47P,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-8PJX-JJ86-J47P,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-8PJX-JJ86-J47P,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-8PJX-JJ86-J47P,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 GHSA-8PJX-JJ86-J47P,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 GHSA-8PJX-JJ86-J47P,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 GHSA-8PJX-JJ86-J47P,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 GHSA-8PJX-JJ86-J47P,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-8PJX-JJ86-J47P,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
-GHSA-8PJX-JJ86-J47P,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-8PJX-JJ86-J47P,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-8PJX-JJ86-J47P,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

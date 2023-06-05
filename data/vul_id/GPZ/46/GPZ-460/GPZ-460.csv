@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-460,0.33333333,https://github.com/goichot/CVE-2020-3153,goichot/CVE-2020-3153,265337436
 GPZ-460,0.14285714,https://github.com/goichot/CVE-2020-3433,goichot/CVE-2020-3433,298677378
 GPZ-460,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+GPZ-460,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GPZ-460,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 GPZ-460,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 GPZ-460,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
@@ -33,5 +34,5 @@ GPZ-460,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber
 GPZ-460,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 GPZ-460,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 GPZ-460,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-GPZ-460,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GPZ-460,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GPZ-460,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

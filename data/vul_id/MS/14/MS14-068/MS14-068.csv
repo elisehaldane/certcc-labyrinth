@@ -48,7 +48,7 @@ MS14-068,0.01587302,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/eth
 MS14-068,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS14-068,0.01315789,https://github.com/hackone103/Penetration-Testing,hackone103/Penetration-Testing,596134861
 MS14-068,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
-MS14-068,0.01219512,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
+MS14-068,0.01176471,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 MS14-068,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS14-068,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS14-068,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
@@ -61,7 +61,6 @@ MS14-068,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa228
 MS14-068,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS14-068,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
 MS14-068,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
-MS14-068,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS14-068,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
 MS14-068,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 MS14-068,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
@@ -97,6 +96,7 @@ MS14-068,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,19436
 MS14-068,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
 MS14-068,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
 MS14-068,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
+MS14-068,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS14-068,0.00452489,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 MS14-068,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS14-068,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
@@ -168,8 +168,8 @@ MS14-068,0.00147493,https://github.com/nicholas-long/github-exploit-code-reposit
 MS14-068,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS14-068,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS14-068,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
-MS14-068,0.00069784,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS14-068,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
+MS14-068,0.00067522,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS14-068,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS14-068,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS14-068,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
@@ -267,11 +267,12 @@ MS14-068,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy
 MS14-068,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS14-068,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 MS14-068,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-MS14-068,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-068,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-068,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS14-068,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS14-068,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS14-068,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+MS14-068,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS14-068,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 MS14-068,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS14-068,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
@@ -305,5 +306,5 @@ MS14-068,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,6
 MS14-068,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS14-068,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS14-068,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS14-068,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS14-068,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS14-068,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

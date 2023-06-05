@@ -7,6 +7,7 @@ MS10-022,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/Wi
 MS10-022,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS10-022,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
 MS10-022,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
+MS10-022,0.00729927,https://github.com/vamsi-120304/windows-transfer-tools,vamsi-120304/windows-transfer-tools,605088900
 MS10-022,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS10-022,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS10-022,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
@@ -129,7 +130,7 @@ MS10-022,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy
 MS10-022,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS10-022,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 MS10-022,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-MS10-022,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS10-022,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-022,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-022,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS10-022,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
@@ -162,5 +163,5 @@ MS10-022,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spirito
 MS10-022,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS10-022,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS10-022,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS10-022,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS10-022,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS10-022,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

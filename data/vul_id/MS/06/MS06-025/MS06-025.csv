@@ -42,6 +42,7 @@ MS06-025,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsplo
 MS06-025,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
 MS06-025,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS06-025,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
+MS06-025,0.00729927,https://github.com/vamsi-120304/windows-transfer-tools,vamsi-120304/windows-transfer-tools,605088900
 MS06-025,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
 MS06-025,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
 MS06-025,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
@@ -258,7 +259,7 @@ MS06-025,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy
 MS06-025,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS06-025,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 MS06-025,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-MS06-025,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS06-025,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS06-025,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS06-025,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS06-025,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
@@ -299,11 +300,11 @@ MS06-025,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS06-025,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS06-025,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS06-025,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS06-025,0.00001283,https://github.com/trickest/cve,trickest/cve,454015416
+MS06-025,0.00001239,https://github.com/trickest/cve,trickest/cve,454015416
 MS06-025,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS06-025,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS06-025,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS06-025,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS06-025,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS06-025,0.00000373,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+MS06-025,0.00000366,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS06-025,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

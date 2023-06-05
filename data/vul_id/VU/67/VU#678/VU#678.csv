@@ -1,10 +1,13 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#678,0.25000000,https://github.com/soumosir/exploting-binaries,soumosir/exploting-binaries,445038377
 VU#678,0.03571429,https://github.com/YusinoMy/shellcodebypass,YusinoMy/shellcodebypass,571972391
+VU#678,0.00476190,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#678,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#678,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#678,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#678,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#678,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
+VU#678,0.00268097,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#678,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#678,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#678,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
@@ -27,4 +30,4 @@ VU#678,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy12
 VU#678,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#678,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#678,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#678,0.00019697,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#678,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

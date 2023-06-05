@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#63,1.00000000,https://github.com/EnDaTeam/EnDa-WiFi-Exposer,EnDaTeam/EnDa-WiFi-Exposer,649411089
 VU#63,1.00000000,https://github.com/RBLXExploit/exploits,RBLXExploit/exploits,609990147
 VU#63,1.00000000,https://github.com/Rahem-Bojezz/Metasploit,Rahem-Bojezz/Metasploit,603973838
 VU#63,1.00000000,https://github.com/LFoxer/Exploits,LFoxer/Exploits,603651906
@@ -19,6 +20,7 @@ VU#63,0.50000000,https://github.com/georgekli/FlappyBird-QLearning,georgekli/Fla
 VU#63,0.50000000,https://github.com/acessors/Il2Cpp-Exploitation-POC,acessors/Il2Cpp-Exploitation-POC,597956052
 VU#63,0.50000000,https://github.com/leejm17/ICT3211_RedTeamPlatform,leejm17/ICT3211_RedTeamPlatform,594641471
 VU#63,0.50000000,https://github.com/dianavintila/Cache-Poisoning-Attack-over-DNS,dianavintila/Cache-Poisoning-Attack-over-DNS,589359060
+VU#63,0.50000000,https://github.com/Slackaduts/Deimos-Wizard101,Slackaduts/Deimos-Wizard101,507163373
 VU#63,0.50000000,https://github.com/trevormalesike/wyze-cam-exploit,trevormalesike/wyze-cam-exploit,506148812
 VU#63,0.50000000,https://github.com/ZeraTS/Rogue-UI,ZeraTS/Rogue-UI,500670474
 VU#63,0.50000000,https://github.com/b4sm/multi-shellcode-runner,b4sm/multi-shellcode-runner,497385588
@@ -35,6 +37,7 @@ VU#63,0.25000000,https://github.com/MXTHL3/exploitation-BD,MXTHL3/exploitation-B
 VU#63,0.25000000,https://github.com/RobertDEVx/Silent-Doc-Exploit-Python,RobertDEVx/Silent-Doc-Exploit-Python,560961272
 VU#63,0.25000000,https://github.com/Dubeyrock/project--1-,Dubeyrock/project--1-,515182856
 VU#63,0.25000000,https://github.com/DecryptedCC/MadcatExploit,DecryptedCC/MadcatExploit,482398135
+VU#63,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#63,0.20000000,https://github.com/appollosputnik/aerodynamicCodeBase,appollosputnik/aerodynamicCodeBase,511043742
 VU#63,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
 VU#63,0.20000000,https://github.com/Anjali-kumari-0/cyber-Security,Anjali-kumari-0/cyber-Security,441175617
@@ -113,10 +116,10 @@ VU#63,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github
 VU#63,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#63,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#63,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
+VU#63,0.02272727,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#63,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#63,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#63,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
-VU#63,0.02173913,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#63,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#63,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#63,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,608970037
@@ -205,6 +208,7 @@ VU#63,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_fina
 VU#63,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#63,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#63,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
+VU#63,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#63,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#63,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#63,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
@@ -215,12 +219,12 @@ VU#63,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVInce
 VU#63,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#63,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#63,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
-VU#63,0.01086957,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#63,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#63,0.01075269,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#63,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#63,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#63,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
+VU#63,0.01052632,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#63,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#63,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#63,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -232,6 +236,7 @@ VU#63,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#63,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#63,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#63,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#63,0.00877193,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#63,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#63,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#63,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
@@ -241,7 +246,6 @@ VU#63,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kR
 VU#63,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#63,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#63,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#63,0.00735294,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#63,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#63,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#63,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -259,12 +263,12 @@ VU#63,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g
 VU#63,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#63,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#63,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
-VU#63,0.00621118,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#63,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#63,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#63,0.00609756,https://github.com/fanyao/branchspec,fanyao/branchspec,300973882
 VU#63,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#63,0.00591716,https://github.com/fdl66/openssl-1.0.2u-fix-cve,fdl66/openssl-1.0.2u-fix-cve,477340549
+VU#63,0.00581395,https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650,hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650,649814822
 VU#63,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971,nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971,616797867
 VU#63,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,616793748
 VU#63,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
@@ -275,6 +279,8 @@ VU#63,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#63,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#63,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#63,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#63,0.00476190,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#63,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#63,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#63,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#63,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
@@ -285,7 +291,6 @@ VU#63,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_
 VU#63,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#63,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#63,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
-VU#63,0.00381679,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#63,0.00371747,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#63,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#63,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
@@ -297,6 +302,7 @@ VU#63,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#63,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#63,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#63,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#63,0.00268097,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#63,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#63,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#63,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
@@ -321,7 +327,7 @@ VU#63,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers
 VU#63,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#63,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#63,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#63,0.00048031,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#63,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#63,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#63,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#63,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
