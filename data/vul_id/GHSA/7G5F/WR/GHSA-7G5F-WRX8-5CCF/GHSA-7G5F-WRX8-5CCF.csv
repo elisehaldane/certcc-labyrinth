@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-7G5F-WRX8-5CCF,0.50000000,https://github.com/win3zz/CVE-2023-25157,win3zz/CVE-2023-25157,650178194
