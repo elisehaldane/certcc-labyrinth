@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+633289756,openclarity/exploit-db-server,README.md,7564f7d786cb7224c266c260d35d2615e6081dde,CVE-2006-2896
