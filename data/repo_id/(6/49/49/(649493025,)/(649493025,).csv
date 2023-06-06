@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+649493025,miniboom360/ASM-Exploit,Plugins/CVE-2020-0796.go,7c9a2a5fec3ef413b49e4759b08ee57e5fcc6500,CVE-2020-0796
+649493025,miniboom360/ASM-Exploit,binary/windows/RedisEXP.exe,87fe3da8a9b98b50581b30bc45b2f2ab6c202c98,CVE-2022-0543
+649493025,miniboom360/ASM-Exploit,binary/windows/RedisEXP.exe,87fe3da8a9b98b50581b30bc45b2f2ab6c202c98,VU#05
+649493025,miniboom360/ASM-Exploit,Plugins/ms17010.go,af3e0eac21a30ae5569dad4f6a7b85a5152d3fcb,MS17-010
+649493025,miniboom360/ASM-Exploit,Plugins/ms17010-exp.go,ea14c2aa6d113835aba5b77b4e2bd0f3842b0e6c,MS17-010
