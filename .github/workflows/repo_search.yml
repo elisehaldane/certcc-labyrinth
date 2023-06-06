@@ -69,8 +69,8 @@ jobs:
       - name: Get today and yesterday dates
         id: date
         run: |
-          echo "::set-output name=today::$(date +'%Y-%m-%d')"
-          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
+          echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday::$(date -d yesterday '+%Y-%m-%d')" >> $GITHUB_OUTPUT
     
       - name: checkout
         uses: actions/checkout@v3
