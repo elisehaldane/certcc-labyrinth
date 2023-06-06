@@ -33,10 +33,10 @@ MS10-092,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsplo
 MS10-092,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS10-092,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 MS10-092,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
-MS10-092,0.00729927,https://github.com/vamsi-120304/windows-transfer-tools,vamsi-120304/windows-transfer-tools,605088900
 MS10-092,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS10-092,0.00719424,https://github.com/febinrev/privesc-post_exploit-collection,febinrev/privesc-post_exploit-collection,256685535
 MS10-092,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
+MS10-092,0.00694444,https://github.com/vamsi-120304/Transfer-Tools,vamsi-120304/Transfer-Tools,605088900
 MS10-092,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS10-092,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
 MS10-092,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
@@ -220,7 +220,7 @@ MS10-092,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS10-092,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-092,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS10-092,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS10-092,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+MS10-092,0.00009552,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS10-092,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS10-092,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 MS10-092,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497

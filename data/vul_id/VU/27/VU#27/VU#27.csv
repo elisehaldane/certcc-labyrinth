@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#27,1.00000000,https://github.com/lyshark/LyInjector,lyshark/LyInjector,525611263
 VU#27,1.00000000,https://github.com/IvyFlight/Blooket-hack-scripts,IvyFlight/Blooket-hack-scripts,462825024
 VU#27,1.00000000,https://github.com/michealkeines/Exploit-Development,michealkeines/Exploit-Development,390336810
+VU#27,0.50000000,https://github.com/HaythmKenway/shellcode,HaythmKenway/shellcode,637379978
 VU#27,0.50000000,https://github.com/CCayssiols/TP04_PT_perte_charge,CCayssiols/TP04_PT_perte_charge,430060280
 VU#27,0.50000000,https://github.com/DarkSprings/CVE-2021-43267-POC,DarkSprings/CVE-2021-43267-POC,426061438
 VU#27,0.33333333,https://github.com/ppepos/inf600c,ppepos/inf600c,234415732

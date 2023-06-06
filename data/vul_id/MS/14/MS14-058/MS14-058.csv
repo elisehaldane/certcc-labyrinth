@@ -40,10 +40,10 @@ MS14-058,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/Wi
 MS14-058,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS14-058,0.00833333,https://github.com/xiazibet/super-guacamole,xiazibet/super-guacamole,232375745
 MS14-058,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
-MS14-058,0.00729927,https://github.com/vamsi-120304/windows-transfer-tools,vamsi-120304/windows-transfer-tools,605088900
 MS14-058,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS14-058,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS14-058,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
+MS14-058,0.00694444,https://github.com/vamsi-120304/Transfer-Tools,vamsi-120304/Transfer-Tools,605088900
 MS14-058,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-finder,37385442
 MS14-058,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
 MS14-058,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
@@ -255,7 +255,7 @@ MS14-058,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS14-058,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS14-058,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS14-058,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS14-058,0.00009553,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+MS14-058,0.00009552,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS14-058,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS14-058,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 MS14-058,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
