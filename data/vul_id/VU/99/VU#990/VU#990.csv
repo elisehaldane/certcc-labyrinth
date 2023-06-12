@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#990,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#990,0.04347826,https://github.com/dobin/yookiterm-slides,dobin/yookiterm-slides,82847859
+VU#990,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#990,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
 VU#990,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#990,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270

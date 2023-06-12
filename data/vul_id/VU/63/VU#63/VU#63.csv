@@ -59,6 +59,7 @@ VU#63,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,50
 VU#63,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#63,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#63,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
+VU#63,0.09090909,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#63,0.09090909,https://github.com/Laurin226/checkm8_toolbox,Laurin226/checkm8_toolbox,602263237
 VU#63,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
 VU#63,0.08333333,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
@@ -84,6 +85,7 @@ VU#63,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/sa
 VU#63,0.05263158,https://github.com/Blue-PvP/RobloxExploits,Blue-PvP/RobloxExploits,461344305
 VU#63,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
 VU#63,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
+VU#63,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pack,652370497
 VU#63,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#63,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
 VU#63,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
@@ -236,11 +238,9 @@ VU#63,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#63,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#63,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#63,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
-VU#63,0.00877193,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#63,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#63,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#63,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
-VU#63,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#63,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#63,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#63,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
@@ -255,6 +255,7 @@ VU#63,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasp
 VU#63,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#63,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#63,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
+VU#63,0.00675676,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#63,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#63,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#63,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690

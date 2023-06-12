@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/mungiell1337/rce,mungiell1337/rce,650937474
 VU#29,1.00000000,https://github.com/PyterSmithDarkGhost/PS5EXPLOITIPV6KERNELJAILBREAK,PyterSmithDarkGhost/PS5EXPLOITIPV6KERNELJAILBREAK,580433322
 VU#29,1.00000000,https://github.com/ehunt34/neochromium-ehunt34,ehunt34/neochromium-ehunt34,559951745
 VU#29,1.00000000,https://github.com/kmeps4/ps5_4xx,kmeps4/ps5_4xx,544633081
@@ -16,6 +17,7 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/sfewer-r7/CVE-2023-34362,sfewer-r7/CVE-2023-34362,652620311
 VU#29,0.50000000,https://github.com/Zh0um1/CVE-2022-22947,Zh0um1/CVE-2022-22947,598386749
 VU#29,0.50000000,https://github.com/haros1001001/Metasploit-framework,haros1001001/Metasploit-framework,580738092
 VU#29,0.50000000,https://github.com/Z3ste/Covenant-exploit,Z3ste/Covenant-exploit,570244155
@@ -50,7 +52,6 @@ VU#29,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/Exploit
 VU#29,0.33333333,https://github.com/BENOSHITO/exploithosting.github.io,BENOSHITO/exploithosting.github.io,473763072
 VU#29,0.33333333,https://github.com/AndreMaquesMachado/POC,AndreMaquesMachado/POC,426691915
 VU#29,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,400513584
-VU#29,0.33333333,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#29,0.33333333,https://github.com/XJMI/Skidded-Scripts,XJMI/Skidded-Scripts,294222684
 VU#29,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
 VU#29,0.25000000,https://github.com/h1bAna/exploit,h1bAna/exploit,598709439
@@ -71,8 +72,8 @@ VU#29,0.16666667,https://github.com/BloxSafe/Backend,BloxSafe/Backend,492896545
 VU#29,0.16666667,https://github.com/0xCuSO4/DHLYK,0xCuSO4/DHLYK,445846830
 VU#29,0.16666667,https://github.com/Dviros/log4shell-possible-malware,Dviros/log4shell-possible-malware,437827313
 VU#29,0.16666667,https://github.com/samjcs/log4shell-possible-malware,samjcs/log4shell-possible-malware,437729597
-VU#29,0.16666667,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093
 VU#29,0.16666667,https://github.com/Maks1116/roblox-exploit-scripts,Maks1116/roblox-exploit-scripts,299615185
+VU#29,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
 VU#29,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#29,0.14285714,https://github.com/ComparedArray/printix-CVE-2022-30006,ComparedArray/printix-CVE-2022-30006,492910894
 VU#29,0.14285714,https://github.com/ComparedArray/printix-CVE-2022-29554,ComparedArray/printix-CVE-2022-29554,490736695
@@ -87,6 +88,8 @@ VU#29,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942
 VU#29,0.12500000,https://github.com/Mithun1508/remote-code-execution-engine,Mithun1508/remote-code-execution-engine,596367907
 VU#29,0.12500000,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,556854694
 VU#29,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
+VU#29,0.12500000,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093
+VU#29,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#29,0.12500000,https://github.com/bsauce/CTF,bsauce/CTF,197501807
 VU#29,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
 VU#29,0.12500000,https://github.com/mammuth/bitcoin-arbitrage-trading-bot,mammuth/bitcoin-arbitrage-trading-bot,114352403
@@ -170,6 +173,7 @@ VU#29,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reducti
 VU#29,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#29,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#29,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
+VU#29,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#29,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#29,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#29,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
@@ -286,6 +290,7 @@ VU#29,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#29,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#29,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#29,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
+VU#29,0.01250000,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#29,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#29,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
 VU#29,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
@@ -316,13 +321,11 @@ VU#29,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploit
 VU#29,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#29,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#29,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
-VU#29,0.00877193,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#29,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#29,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#29,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
-VU#29,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#29,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#29,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#29,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
@@ -340,6 +343,7 @@ VU#29,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hog
 VU#29,0.00694444,https://github.com/vamsi-120304/Transfer-Tools,vamsi-120304/Transfer-Tools,605088900
 VU#29,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#29,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
+VU#29,0.00675676,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#29,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#29,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#29,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
@@ -418,7 +422,7 @@ VU#29,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#29,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#29,0.00098912,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00098814,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -451,10 +455,10 @@ VU#29,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#29,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#29,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#29,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#29,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00019539,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#29,0.00009552,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+VU#29,0.00009495,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478

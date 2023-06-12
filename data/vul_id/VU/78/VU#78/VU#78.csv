@@ -42,6 +42,7 @@ VU#78,0.11111111,https://github.com/copcop981/management_and_exploitation_of_hou
 VU#78,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
 VU#78,0.11111111,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#78,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
+VU#78,0.09090909,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#78,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#78,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
 VU#78,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
@@ -66,12 +67,12 @@ VU#78,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWiki
 VU#78,0.05263158,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#78,0.05263158,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
 VU#78,0.05263158,https://github.com/HaoyeTianCoder/Quatrain,HaoyeTianCoder/Quatrain,392095984
-VU#78,0.05263158,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#78,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#78,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
 VU#78,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#78,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,223697169
 VU#78,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
+VU#78,0.03846154,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#78,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#78,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#78,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
@@ -173,6 +174,7 @@ VU#78,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#78,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#78,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#78,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
+VU#78,0.01250000,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#78,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#78,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#78,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
@@ -196,11 +198,9 @@ VU#78,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#78,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#78,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#78,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
-VU#78,0.00877193,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#78,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#78,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#78,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
-VU#78,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#78,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#78,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#78,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
@@ -216,6 +216,7 @@ VU#78,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable
 VU#78,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#78,0.00694444,https://github.com/vamsi-120304/Transfer-Tools,vamsi-120304/Transfer-Tools,605088900
 VU#78,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
+VU#78,0.00675676,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#78,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#78,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#78,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
@@ -310,6 +311,6 @@ VU#78,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#78,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#78,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#78,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#78,0.00019589,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#78,0.00019539,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#78,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#78,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
