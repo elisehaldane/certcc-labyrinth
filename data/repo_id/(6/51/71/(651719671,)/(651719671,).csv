@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+651719671,ZakaShad/dirty-pipe-root-shell,exploit.c,32d735e91292e39875aa1ad29f5e065670469c12,CVE-2022-0847
