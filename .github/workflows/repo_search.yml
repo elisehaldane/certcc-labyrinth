@@ -70,7 +70,7 @@ jobs:
         id: date
         run: |
           echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-          echo "yesterday::$(date -d yesterday '+%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday=$(date -d yesterday '+%Y-%m-%d')" >> $GITHUB_OUTPUT
     
       - name: checkout
         uses: actions/checkout@v3
