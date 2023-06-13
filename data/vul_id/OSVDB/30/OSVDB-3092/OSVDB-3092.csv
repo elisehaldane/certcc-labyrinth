@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-3092,1.00000000,https://github.com/terncgod/cpanel_entropysearch_enum_users,terncgod/cpanel_entropysearch_enum_users,120061444
 OSVDB-3092,0.33333333,https://github.com/s-leonhardt/THM-RootMe,s-leonhardt/THM-RootMe,446085084
 OSVDB-3092,0.33333333,https://github.com/Kloox/exploit_challenges_42,Kloox/exploit_challenges_42,347638379
+OSVDB-3092,0.20000000,https://github.com/hotpotcookie/CVE-2022-44877-white-box,hotpotcookie/CVE-2022-44877-white-box,602139288
 OSVDB-3092,0.16666667,https://github.com/rrmomaya2900/0dayWriteup-THM,rrmomaya2900/0dayWriteup-THM,446943711
 OSVDB-3092,0.16666667,https://github.com/elc4br4/0day-WriteUp-TryHackme-CTF-Medium,elc4br4/0day-WriteUp-TryHackme-CTF-Medium,440698452
 OSVDB-3092,0.16666667,https://github.com/ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,ddmoitra/Cybersecurity_Infrastructure_Sample_Attack_Step_Details_Walkthrough-Dmitry_Nikto_Metasploit,361279773
