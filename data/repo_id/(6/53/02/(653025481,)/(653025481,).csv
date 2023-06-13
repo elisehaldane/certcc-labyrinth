@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+653025481,leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5,README.md,96fb6bcd35c360de0fa86547072950f8d42df27a,CVE-2023-34537
+653025481,leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5,_GITHUB_REPO_METADATA_,,CVE-2023-34537
