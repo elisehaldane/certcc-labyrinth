@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+179030030,dar3k93/Service-Enumeration,services_enumeration.md,610feae4a798aad1c38ebafa118fdc349ca05ea5,MS03-026
+179030030,dar3k93/Service-Enumeration,services_enumeration.md,610feae4a798aad1c38ebafa118fdc349ca05ea5,MS06-025
+179030030,dar3k93/Service-Enumeration,services_enumeration.md,610feae4a798aad1c38ebafa118fdc349ca05ea5,MS07-029
+179030030,dar3k93/Service-Enumeration,services_enumeration.md,610feae4a798aad1c38ebafa118fdc349ca05ea5,MS08-067
+179030030,dar3k93/Service-Enumeration,services_enumeration.md,610feae4a798aad1c38ebafa118fdc349ca05ea5,MS10-054
+179030030,dar3k93/Service-Enumeration,services_enumeration.md,610feae4a798aad1c38ebafa118fdc349ca05ea5,MS10-061
+179030030,dar3k93/Service-Enumeration,services_enumeration.md,610feae4a798aad1c38ebafa118fdc349ca05ea5,MS17-010
+179030030,dar3k93/Service-Enumeration,1. Active Directory Attacks.md,b08325401af7e08e594a3eaa0ce6d333c8682ff3,CVE-2020-1472
