@@ -49,7 +49,6 @@ VU#05,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits,FerencStarte
 VU#05,0.12500000,https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,259394786
 VU#05,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
 VU#05,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
-VU#05,0.09090909,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#05,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,608160332
 VU#05,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
 VU#05,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowbase/active-directory-abuse-notes,522582748
@@ -57,6 +56,7 @@ VU#05,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/explo
 VU#05,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
 VU#05,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#05,0.09090909,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
+VU#05,0.08333333,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#05,0.08333333,https://github.com/D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,470636236
 VU#05,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,469606452
 VU#05,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Add_Product-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Full-Ecommece-Website-Add_Product-Unrestricted-File-Upload-RCE-POC,469547289
@@ -87,6 +87,7 @@ VU#05,0.03571429,https://github.com/mikias21/machine_learning_final_project,miki
 VU#05,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#05,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#05,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
+VU#05,0.02857143,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#05,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#05,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#05,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826

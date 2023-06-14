@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-C738-C5QQ-XG89,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23521,Live-Hack-CVE/CVE-2022-23521,593682453
-GHSA-C738-C5QQ-XG89,0.00000365,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-C738-C5QQ-XG89,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

@@ -16,10 +16,10 @@ VU#48,0.25000000,https://github.com/neurosutras/optimize_cells,neurosutras/optim
 VU#48,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#48,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
 VU#48,0.14285714,https://github.com/a-rey/exploits,a-rey/exploits,403126946
-VU#48,0.12500000,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#48,0.12500000,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#48,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
 VU#48,0.11111111,https://github.com/Firebasky/CVE-2023-21839,Firebasky/CVE-2023-21839,612534596
+VU#48,0.11111111,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#48,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
 VU#48,0.11111111,https://github.com/Lesking72/ps4,Lesking72/ps4,350485378
 VU#48,0.11111111,https://github.com/rasyidrafi/R3Xploit,rasyidrafi/R3Xploit,345617409
@@ -75,6 +75,7 @@ VU#48,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossa
 VU#48,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#48,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#48,0.02941176,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
+VU#48,0.02857143,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#48,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
 VU#48,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#48,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
@@ -269,5 +270,5 @@ VU#48,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#48,0.00001233,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-VU#48,0.00000365,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#48,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

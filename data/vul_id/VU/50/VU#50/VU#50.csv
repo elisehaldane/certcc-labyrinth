@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#50,1.00000000,https://github.com/limbo237/ML,limbo237/ML,649179818
 VU#50,1.00000000,https://github.com/paradigmer/sakurajb,paradigmer/sakurajb,371559958
 VU#50,1.00000000,https://github.com/JonathanSalwan/ROPgadget,JonathanSalwan/ROPgadget,2234715
+VU#50,0.50000000,https://github.com/Ratlesv/Metasploit-termux,Ratlesv/Metasploit-termux,653613089
 VU#50,0.50000000,https://github.com/samsepoil1211/Metasploit-in-Termux,samsepoil1211/Metasploit-in-Termux,620780803
 VU#50,0.50000000,https://github.com/wshepherd0010/CVE-2022-24112-Lab,wshepherd0010/CVE-2022-24112-Lab,618895100
 VU#50,0.50000000,https://github.com/talukdar4/metasploit,talukdar4/metasploit,618505254
@@ -29,9 +30,9 @@ VU#50,0.20000000,https://github.com/appollosputnik/aerodynamicCodeBase,appollosp
 VU#50,0.20000000,https://github.com/NovaSecurity/HackThebox-attached-files,NovaSecurity/HackThebox-attached-files,482258843
 VU#50,0.20000000,https://github.com/clstauffer/rcemip,clstauffer/rcemip,432827338
 VU#50,0.14285714,https://github.com/sh4rknado/CTF,sh4rknado/CTF,458954694
-VU#50,0.12500000,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#50,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
 VU#50,0.12500000,https://github.com/MainDabRblx/MainDabUISource,MainDabRblx/MainDabUISource,282796773
+VU#50,0.11111111,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#50,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
 VU#50,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#50,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
@@ -75,6 +76,7 @@ VU#50,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#50,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#50,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
 VU#50,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
+VU#50,0.02857143,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#50,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#50,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#50,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758

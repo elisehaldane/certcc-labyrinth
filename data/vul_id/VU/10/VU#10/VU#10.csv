@@ -26,7 +26,6 @@ VU#10,0.14285714,https://github.com/HG-Arman/metasploit-easy-,HG-Arman/metasploi
 VU#10,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
 VU#10,0.14285714,https://github.com/kenmccann/log4j-aqua-poc,kenmccann/log4j-aqua-poc,439386525
 VU#10,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
-VU#10,0.12500000,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#10,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits-Web,FerencStarterDev/Storm-Exploits-Web,550810079
 VU#10,0.12500000,https://github.com/FerencStarterDev/Storm-Exploit,FerencStarterDev/Storm-Exploit,550808641
 VU#10,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits,FerencStarterDev/Storm-Exploits,550806795
@@ -34,6 +33,7 @@ VU#10,0.12500000,https://github.com/ramirosantos/Spring-Boot-Log4j-CVE-2021-4422
 VU#10,0.12500000,https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,437603411
 VU#10,0.12500000,https://github.com/MainDabRblx/MainDabUISource,MainDabRblx/MainDabUISource,282796773
 VU#10,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
+VU#10,0.11111111,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#10,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/CVE-2021-28750-site,444335154
 VU#10,0.10000000,https://github.com/Yuhala/hacking-tuto,Yuhala/hacking-tuto,509063995
 VU#10,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
@@ -310,5 +310,5 @@ VU#10,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analys
 VU#10,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#10,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#10,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-VU#10,0.00000365,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#10,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#10,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

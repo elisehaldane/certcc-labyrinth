@@ -7,6 +7,7 @@ VU#45,1.00000000,https://github.com/N1ce759/Spring-Cloud-Function-SPEL-RCE,N1ce7
 VU#45,1.00000000,https://github.com/Pizz33/Spring-Cloud-Function-SpEL,Pizz33/Spring-Cloud-Function-SpEL,474432645
 VU#45,1.00000000,https://github.com/stangezond/exploit,stangezond/exploit,461877842
 VU#45,1.00000000,https://github.com/wesleydekraker/log4j-poc,wesleydekraker/log4j-poc,455852447
+VU#45,0.50000000,https://github.com/Ratlesv/Metasploit-termux,Ratlesv/Metasploit-termux,653613089
 VU#45,0.50000000,https://github.com/samsepoil1211/Metasploit-in-Termux,samsepoil1211/Metasploit-in-Termux,620780803
 VU#45,0.50000000,https://github.com/talukdar4/metasploit,talukdar4/metasploit,618505254
 VU#45,0.50000000,https://github.com/trhacknon/metasploit_in_termux,trhacknon/metasploit_in_termux,589178450
@@ -334,5 +335,5 @@ VU#45,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/B
 VU#45,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#45,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#45,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
-VU#45,0.00000365,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#45,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#45,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
