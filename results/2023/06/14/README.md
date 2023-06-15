@@ -1,7 +1,7 @@
 
 # Summary for results/2023/06/14
     
-132 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,7 +22,7 @@
 | TomKing062/CVE-2022-38694_unlock_bootloader | unlock bootloader for tyyh2020 and tyyh2021, all unisoc T7510 model can be supported (Will write a tutorial on how to modify fdl1 and uboot soon) | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | ['cve-2 OR cve_2'] | 1 | 2023-06-14 03:17:39+00:00 | 7106 | 5 | C | 3 | ['CVE-2022-38694'] |
 | jjmmmmmm/vulnerability-exploitability-predict | using federated learning to predict vulnerability exploitability | https://github.com/jjmmmmmm/vulnerability-exploitability-predict | ['exploit'] | 1 | 2023-06-14 04:18:01+00:00 | 36 | 0 | Python | 1 | [] |
 | AgileStoner/Book_Recommendation | The project developed to gain knowledge in the area of Data Science/Data Analysis. During the process of development the dataset Goodreads was exploited. The model is mainly based on the relation of the language, average rating, and amount of the ratings o | https://github.com/AgileStoner/Book_Recommendation | ['exploit'] | 1 | 2023-06-14 11:23:49+00:00 | 1192 | 0 | Jupyter Notebook | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-06-14 16:40:03+00:00 | 22375 | 8507 | JavaScript | 1963 | [] |
+| Vetrox/bachelor-thesis | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | ['exploit'] | 1 | 2023-06-14 15:36:19+00:00 | 509 | 0 | C++ | 0 | [] |
 | miniboom360/ASM-Exploit | 漏洞扫描和利用 | https://github.com/miniboom360/ASM-Exploit | ['exploit'] | 1 | 2023-06-14 02:28:31+00:00 | 97990 | 0 | Go | 0 | [] |
 | lutfailham96/nodejs-rce-simple-example | Simple Node.js RCE example | https://github.com/lutfailham96/nodejs-rce-simple-example | ['rce'] | 1 | 2023-06-14 08:12:06+00:00 | 171 | 0 | Shell | 0 | [] |
 | gshfi/reverse_engineering | challenges, binary exploitations etc. | https://github.com/gshfi/reverse_engineering | ['exploit'] | 1 | 2023-06-14 09:28:45+00:00 | 18 | 0 | Python | 0 | [] |
@@ -71,9 +71,10 @@
 | tucommenceapousser/CVE-2021-46422 | None | https://github.com/tucommenceapousser/CVE-2021-46422 | ['cve-2 OR cve_2'] | 1 | 2023-06-14 01:35:18+00:00 | 3 | 0 | Python | 1 | ['CVE-2021-46422'] |
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ws | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ws | ['exploit'] | 1 | 2023-06-14 01:35:12+00:00 | 1 | 1 | | 0 | [] |
 | WuMing000/LauncherPro | launcher exploit | https://github.com/WuMing000/LauncherPro | ['exploit'] | 1 | 2023-06-14 04:19:20+00:00 | 19770 | 0 | Java | 0 | [] |
-| Vetrox/bachelor-thesis | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | ['exploit'] | 1 | 2023-06-14 15:36:19+00:00 | 509 | 0 | C++ | 0 | [] |
 | Live-Hack-CVE/POC | This is the POC FULL DATABASE for the website. Feel free to propuse new source for POCs | https://github.com/Live-Hack-CVE/POC | ['cve poc', 'vulnerability poc'] | 2 | 2023-06-14 04:54:02+00:00 | 31166 | 50 | Shell | 5 | [] |
-| post-cyberlabs/Exploits | None | https://github.com/post-cyberlabs/Exploits | ['exploit'] | 1 | 2023-06-14 09:32:14+00:00 | 14 | 18 | JavaScript | 4 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-06-14 16:40:03+00:00 | 22375 | 8507 | JavaScript | 1963 | [] |
+| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2023-06-14 08:09:15+00:00 | 61 | 2 | | 0 | [] |
+| kmdn/combining-linking-techniques | Combining Linking Techniques (CLiT) is an entity linking combination and execution framework, allowing for the seamless integration of EL systems and result exploitation for the sake of system reusability, result reproducibility, analysis and continuous im | https://github.com/kmdn/combining-linking-techniques | ['exploit'] | 1 | 2023-06-14 14:04:06+00:00 | 2295 | 1 | Python | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2023-06-14 18:10:16+00:00 | 10403 | 19 | HTML | 6 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2023-06-14 03:52:46+00:00 | 23045 | 5226 | TypeScript | 741 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-06-14 01:41:22+00:00 | 2317 | 197 | HTML | 9 | [] |
@@ -87,8 +88,8 @@
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2023-06-14 19:50:48+00:00 | 54496 | 39 | Python | 9 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-06-14 04:04:31+00:00 | 766929 | 75 | | 28 | [] |
 | 7rebux/league-tools | A cross-platform desktop app with many League Client exploits (e.g profile customization) | https://github.com/7rebux/league-tools | ['exploit'] | 1 | 2023-06-14 12:31:24+00:00 | 16483 | 34 | TypeScript | 2 | [] |
-| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2023-06-14 08:09:15+00:00 | 61 | 2 | | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-06-14 00:47:06+00:00 | 29207 | 54 | | 28 | [] |
+| Hacboat/Script | Script roblox -- is roblox script exploit | https://github.com/Hacboat/Script | ['exploit'] | 1 | 2023-06-14 12:12:42+00:00 | 75 | 0 | | 0 | [] |
 | dar3k93/Post-exploitation | Linux and Windows basic privileges escalation | https://github.com/dar3k93/Post-exploitation | ['exploit'] | 1 | 2023-06-14 16:29:38+00:00 | 568 | 3 | Batchfile | 0 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-14 00:36:23+00:00 | 272146 | 5059 | | 994 | [] |
 | dniym/IllegalStack | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | ['exploit'] | 1 | 2023-06-14 21:02:07+00:00 | 14869 | 99 | Java | 30 | [] |
@@ -103,10 +104,10 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-06-14 04:33:01+00:00 | 6160 | 3884 | Python | 761 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-06-14 12:54:52+00:00 | 13724 | 5653 | Python | 759 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-06-14 14:12:16+00:00 | 61165 | 1472 | C | 659 | [] |
-| kmdn/combining-linking-techniques | Combining Linking Techniques (CLiT) is an entity linking combination and execution framework, allowing for the seamless integration of EL systems and result exploitation for the sake of system reusability, result reproducibility, analysis and continuous im | https://github.com/kmdn/combining-linking-techniques | ['exploit'] | 1 | 2023-06-14 14:04:06+00:00 | 2295 | 1 | Python | 0 | [] |
+| post-cyberlabs/Exploits | None | https://github.com/post-cyberlabs/Exploits | ['exploit'] | 1 | 2023-06-14 09:32:14+00:00 | 14 | 18 | JavaScript | 4 | [] |
 | AnthonyIsntHere/anthonysrepository | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | ['exploit'] | 1 | 2023-06-14 16:52:23+00:00 | 8444 | 7 | Lua | 17 | [] |
-| Hacboat/Script | Script roblox -- is roblox script exploit | https://github.com/Hacboat/Script | ['exploit'] | 1 | 2023-06-14 12:12:42+00:00 | 75 | 0 | | 0 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2023-06-14 00:37:39+00:00 | 785301 | 6 | Jupyter Notebook | 2 | [] |
+| Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2023-06-14 13:59:27+00:00 | 4785 | 0 | | 4 | [] |
 | Avaluate/MainDab | The source code for MainDab, a keyless Roblox exploit made using WPF | https://github.com/Avaluate/MainDab | ['exploit'] | 1 | 2023-06-14 06:09:31+00:00 | 107098 | 2 | C# | 1 | [] |
 | sergiovks/AntiVirus-Bypass-PowerShell-In-Memory-Injection | Script made for bypassing antivirus using Powershell Injection method. Place your shellcode from msfvenom on line 15, the script can be combined with the UAC bypass technique in order to gain a privileged reverse shell. | https://github.com/sergiovks/AntiVirus-Bypass-PowerShell-In-Memory-Injection | ['shellcode'] | 1 | 2023-06-14 17:51:01+00:00 | 310 | 4 | PowerShell | 0 | [] |
 | Live-Hack-CVE/full_database | This repos host all the CVE database. Stay updated :) Feel free to ask for new data and propuse CVE exploit sources & POC | https://github.com/Live-Hack-CVE/full_database | ['cve poc', 'exploit'] | 2 | 2023-06-14 14:57:59+00:00 | 484230 | 33 | | 9 | [] |
@@ -121,6 +122,7 @@
 | openclarity/vmclarity | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | ['exploit'] | 1 | 2023-06-14 16:05:37+00:00 | 16846 | 46 | Go | 6 | [] |
 | SleipnirGroup/Sleipnir | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2023-06-14 04:29:05+00:00 | 1291 | 16 | C++ | 2 | [] |
 | tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2023-06-14 08:03:38+00:00 | 13559 | 148 | | 17 | [] |
+| Cryptogenic/PS5-IPV6-Kernel-Exploit | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on <= 4.51FW | https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit | ['exploit'] | 1 | 2023-06-14 21:43:37+00:00 | 147 | 795 | JavaScript | 66 | [] |
 | vkotsiuba99/sofi | A remote docker based sandbox code execution engine written in Go | https://github.com/vkotsiuba99/sofi | ['remote code execution'] | 1 | 2023-06-14 19:15:31+00:00 | 849 | 0 | Go | 0 | [] |
 | wisoffe/exploits-predict | Predicting the probability of an exploit being released after a CVE is published (by Machine learning algorithm) | https://github.com/wisoffe/exploits-predict | ['exploit'] | 1 | 2023-06-14 05:14:18+00:00 | 3670 | 11 | Jupyter Notebook | 4 | [] |
 | teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2023-06-14 07:26:21+00:00 | 22740 | 1872 | Go | 188 | [] |
@@ -135,5 +137,4 @@
 | basharkey/CVE-2022-0847-dirty-pipe-checker | Bash script to check for CVE-2022-0847 "Dirty Pipe" | https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker | ['cve-2 OR cve_2'] | 1 | 2023-06-14 23:25:46+00:00 | 5 | 53 | Shell | 28 | ['CVE-2022-0847'] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-14 00:14:44+00:00 | 183950 | 5032 | HTML | 630 | [] |
 | lal0ne/vulnerability | 收集、整理、修改互联网上公开的漏洞POC | https://github.com/lal0ne/vulnerability | ['vuln poc', 'vulnerability poc'] | 2 | 2023-06-14 01:56:06+00:00 | 118574 | 446 | Go | 93 | [] |
-| Dofikalty/Exploite | Scripts | https://github.com/Dofikalty/Exploite | ['exploit'] | 1 | 2023-06-14 13:59:27+00:00 | 4785 | 0 | | 4 | [] |
 | teteco/Exploit-Suggester-Linux | None | https://github.com/teteco/Exploit-Suggester-Linux | ['exploit'] | 1 | 2023-06-14 23:33:55+00:00 | 175 | 0 | Shell | 0 | [] |
