@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-PPPW-HPJP-V2P9,0.50000000,https://github.com/r3nt0n/CVE-2023-23488-PoC,r3nt0n/CVE-2023-23488-PoC,592879833
-GHSA-PPPW-HPJP-V2P9,0.00009469,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-PPPW-HPJP-V2P9,0.00009467,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
