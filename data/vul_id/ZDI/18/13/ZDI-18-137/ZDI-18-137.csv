@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-18-137,0.08333333,https://github.com/lynerc/exploits,lynerc/exploits,112561764
 ZDI-18-137,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-ZDI-18-137,0.00009467,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+ZDI-18-137,0.00009464,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 ZDI-18-137,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZDI-18-137,0.00005249,https://github.com/Buzzkillhardball667/exploit-database,Buzzkillhardball667/exploit-database,120898188
 ZDI-18-137,0.00005203,https://github.com/Buzzkillhardball667/exploit-database.,Buzzkillhardball667/exploit-database.,124883872

@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-460,0.33333333,https://github.com/goichot/CVE-2020-3153,goichot/CVE-2020-3153,265337436
 GPZ-460,0.14285714,https://github.com/goichot/CVE-2020-3433,goichot/CVE-2020-3433,298677378
 GPZ-460,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-GPZ-460,0.00009467,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GPZ-460,0.00009464,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GPZ-460,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 GPZ-460,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 GPZ-460,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
