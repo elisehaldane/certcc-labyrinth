@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1383,0.50000000,https://github.com/AV1080p/CVE-2017-11907,AV1080p/CVE-2017-11907,133616005
 GPZ-1383,0.00319489,https://github.com/tunz/js-vuln-db,tunz/js-vuln-db,65058285
 GPZ-1383,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-GPZ-1383,0.00009464,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GPZ-1383,0.00009457,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GPZ-1383,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410
 GPZ-1383,0.00005249,https://github.com/Buzzkillhardball667/exploit-database,Buzzkillhardball667/exploit-database,120898188
 GPZ-1383,0.00005203,https://github.com/Buzzkillhardball667/exploit-database.,Buzzkillhardball667/exploit-database.,124883872
