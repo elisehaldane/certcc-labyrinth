@@ -15,6 +15,7 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/AJP-Pentesting.md,58efb226dab8817909cd4eb3540595ffa570ca3b,CVE-2020-1938
 568456034,hideckies/exploit-notes,src/exploit/web/Atlassian-Confluence-Pentesting.md,608ef9246a34c5776c6bfb73d40a6bf2a81d5468,CVE-2022-26134
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudo-Exiftool-Privilege-Escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
+568456034,hideckies/exploit-notes,src/exploit/database/PostgreSQL-Pentesting.md,6b36a05e466858e526ae8a2436e123b2a3757340,CVE-2019-9193
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/SMB-Pentesting.md,6f049c256bc6f3b891d7ee311cd7664efdac0723,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/web/Cacti-Pentesting.md,70ae131b4297ad8fd63cff005d3d56a21639d1c1,CVE-2022-46169
 568456034,hideckies/exploit-notes,src/exploit/web/Icinga-Web-Pentesting.md,7371c1f2728f3a42f40033e5b8d1a29c55f162b9,CVE-2022-24716
