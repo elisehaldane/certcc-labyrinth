@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-6806,0.50000000,https://github.com/snowcra5h/CVE-2003-0358,snowcra5h/CVE-2003-0358,571343463
-BID-6806,0.00009457,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+BID-6806,0.00009456,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 BID-6806,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-6806,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-6806,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
