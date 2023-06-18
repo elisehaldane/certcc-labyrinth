@@ -4,6 +4,7 @@ VU#32,1.00000000,https://github.com/raghuvulli2000/RemoteCodeExecution,raghuvull
 VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,522686575
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
+VU#32,0.50000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#32,0.50000000,https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io,RBX-EXPLOITS/RBX-EXPLOITS.github.io,617634439
 VU#32,0.50000000,https://github.com/Zephiles/fb-exploit,Zephiles/fb-exploit,578895585
 VU#32,0.50000000,https://github.com/snow-kluster/Sheller,snow-kluster/Sheller,568910050
@@ -59,7 +60,6 @@ VU#32,0.20000000,https://github.com/anvbis/windows.x86.expl,anvbis/windows.x86.e
 VU#32,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#32,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
 VU#32,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,486848599
-VU#32,0.14285714,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#32,0.14285714,https://github.com/SoftCreed/Exploits,SoftCreed/Exploits,608428995
 VU#32,0.14285714,https://github.com/sysrom/ShellcodeGEN_GUI,sysrom/ShellcodeGEN_GUI,589195153
 VU#32,0.14285714,https://github.com/teppyboy/Generic_Exploit_Loader,teppyboy/Generic_Exploit_Loader,208081471
@@ -296,12 +296,12 @@ VU#32,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#32,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#32,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#32,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
-VU#32,0.00476190,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#32,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#32,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#32,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#32,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#32,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#32,0.00442478,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#32,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#32,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#32,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
@@ -323,10 +323,10 @@ VU#32,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#32,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#32,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#32,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
-VU#32,0.00268097,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#32,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#32,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#32,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#32,0.00259067,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#32,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#32,0.00250627,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#32,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905

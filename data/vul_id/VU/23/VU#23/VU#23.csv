@@ -73,7 +73,6 @@ VU#23,0.16666667,https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228,zhangxvx/L
 VU#23,0.16666667,https://github.com/TheArqsz/CVE-2021-44228-PoC,TheArqsz/CVE-2021-44228-PoC,437142703
 VU#23,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-poc,437139341
 VU#23,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
-VU#23,0.14285714,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#23,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
 VU#23,0.14285714,https://github.com/aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,524170531
 VU#23,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen/Shellcode-sols,456201869
@@ -254,13 +253,13 @@ VU#23,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#23,0.00510204,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#23,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#23,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
-VU#23,0.00476190,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#23,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#23,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#23,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#23,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#23,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#23,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#23,0.00442478,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#23,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#23,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#23,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
@@ -286,9 +285,9 @@ VU#23,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#23,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#23,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#23,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
-VU#23,0.00268097,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#23,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#23,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#23,0.00259067,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#23,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#23,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#23,0.00250627,https://github.com/helloexp/0day,helloexp/0day,478826386
