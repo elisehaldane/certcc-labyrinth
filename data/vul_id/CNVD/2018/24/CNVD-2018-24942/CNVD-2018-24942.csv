@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2018-24942,0.00934579,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 CNVD-2018-24942,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
-CNVD-2018-24942,0.00009456,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+CNVD-2018-24942,0.00009455,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
