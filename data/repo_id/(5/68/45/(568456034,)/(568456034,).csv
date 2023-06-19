@@ -24,9 +24,9 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/microsoft/Microsoft-Exchange-Server-Pentesting.md,77441a226a32ba703d727b4ecea43d70b42cc9bd,CVE-2021-34523
 568456034,hideckies/exploit-notes,src/exploit/web/microsoft/Microsoft-Exchange-Server-Pentesting.md,77441a226a32ba703d727b4ecea43d70b42cc9bd,CVE-2021-31207
 568456034,hideckies/exploit-notes,src/exploit/web/elasticsearch/Kibana-Pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
-568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,8a566b32db18732deaf9bab9e609ea4251e9eb75,GHSA-C469-P3JP-2VHX
-568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,8a566b32db18732deaf9bab9e609ea4251e9eb75,CVE-2021-32797
-568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,8a566b32db18732deaf9bab9e609ea4251e9eb75,CVE-2021-32798
+568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,8c14cce517bde2075af45acd4d4f0ab56d99513b,GHSA-C469-P3JP-2VHX
+568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,8c14cce517bde2075af45acd4d4f0ab56d99513b,CVE-2021-32797
+568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,8c14cce517bde2075af45acd4d4f0ab56d99513b,CVE-2021-32798
 568456034,hideckies/exploit-notes,src/exploit/version-control/Gogs-Pentesting.md,96043f21eb991d0298c1ca83619c6a2bb69b3bc7,CVE-2014-8682
 568456034,hideckies/exploit-notes,src/exploit/windows/Microsoft-Word-Pentesting.md,a63f7319cc0f3a5637e48fa51967ef1dc2d0bf7f,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/Spring-Cloud-Function-RCE.md,ad12c30e6bcc9c8e26e0841cad6211c5179cb1db,CVE-2022-22963
