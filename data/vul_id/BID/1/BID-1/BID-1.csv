@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-1,1.00000000,https://github.com/josemmo/chrowned,josemmo/chrowned,500352199
 BID-1,1.00000000,https://github.com/Etisalat-Egypt/Rodan,Etisalat-Egypt/Rodan,433066767
 BID-1,1.00000000,https://github.com/CarrattaFrancesco/DataIntelligenceApplication,CarrattaFrancesco/DataIntelligenceApplication,348306257
 BID-1,1.00000000,https://github.com/romanshyadav/Remote_code_execution,romanshyadav/Remote_code_execution,167422495
@@ -46,6 +47,7 @@ BID-1,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Sett
 BID-1,0.33333333,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch,Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch,431877684
 BID-1,0.33333333,https://github.com/thuan2172001/Analyst_Induce_Benmark,thuan2172001/Analyst_Induce_Benmark,409302721
 BID-1,0.33333333,https://github.com/tagatac/linux-CVE-2006-4814,tagatac/linux-CVE-2006-4814,24196278
+BID-1,0.25000000,https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts,GoldenEagleMan/Exploitable-Smart-Contracts,655666032
 BID-1,0.25000000,https://github.com/Genthellmann/Finance_Risk_Premium,Genthellmann/Finance_Risk_Premium,608707649
 BID-1,0.25000000,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188_old-one,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188_old-one,496173492
 BID-1,0.25000000,https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188,Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188,496165946
