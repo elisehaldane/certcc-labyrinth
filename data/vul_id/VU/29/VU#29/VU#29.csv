@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/shv-om/mobcc,shv-om/mobcc,652159589
 VU#29,1.00000000,https://github.com/mungiell1337/rce,mungiell1337/rce,650937474
 VU#29,1.00000000,https://github.com/PyterSmithDarkGhost/PS5EXPLOITIPV6KERNELJAILBREAK,PyterSmithDarkGhost/PS5EXPLOITIPV6KERNELJAILBREAK,580433322
 VU#29,1.00000000,https://github.com/ehunt34/neochromium-ehunt34,ehunt34/neochromium-ehunt34,559951745
@@ -94,6 +95,9 @@ VU#29,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,36391999
 VU#29,0.12500000,https://github.com/bsauce/CTF,bsauce/CTF,197501807
 VU#29,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
 VU#29,0.12500000,https://github.com/mammuth/bitcoin-arbitrage-trading-bot,mammuth/bitcoin-arbitrage-trading-bot,114352403
+VU#29,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
+VU#29,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-30212,656147934
+VU#29,0.11111111,https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-,VisDev23/Vulnerable-Docker--CVE-2023-30212-,656103481
 VU#29,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#29,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#29,0.11111111,https://github.com/SummerSec/SpringExploit,SummerSec/SpringExploit,483085711
@@ -406,8 +410,8 @@ VU#29,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#29,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#29,0.00259067,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#29,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
-VU#29,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#29,0.00250627,https://github.com/helloexp/0day,helloexp/0day,478826386
+VU#29,0.00246914,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#29,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#29,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#29,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859

@@ -42,7 +42,6 @@ VU#26,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2
 VU#26,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#26,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#26,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
-VU#26,0.05882353,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#26,0.05882353,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#26,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#26,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
@@ -62,6 +61,7 @@ VU#26,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_S
 VU#26,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#26,0.03571429,https://github.com/YusinoMy/shellcodebypass,YusinoMy/shellcodebypass,571972391
 VU#26,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
+VU#26,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#26,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#26,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#26,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
@@ -213,7 +213,7 @@ VU#26,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Le
 VU#26,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#26,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#26,0.00259067,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
-VU#26,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#26,0.00246914,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#26,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#26,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#26,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859

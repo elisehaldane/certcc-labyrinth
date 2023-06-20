@@ -36,6 +36,9 @@ VU#99,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-bas
 VU#99,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
 VU#99,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459852128
 VU#99,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459708235
+VU#99,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
+VU#99,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-30212,656147934
+VU#99,0.11111111,https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-,VisDev23/Vulnerable-Docker--CVE-2023-30212-,656103481
 VU#99,0.11111111,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#99,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#99,0.11111111,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
@@ -56,7 +59,6 @@ VU#99,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,37012478
 VU#99,0.05882353,https://github.com/belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,654340148
 VU#99,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,510875629
 VU#99,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khalednassar/CVE-2022-21449-TLS-PoC,483804378
-VU#99,0.05882353,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#99,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysis,rangenanirakshithrao/Exploitary-Data-Analysis,355821460
 VU#99,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#99,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
@@ -75,6 +77,7 @@ VU#99,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webv
 VU#99,0.03846154,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#99,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#99,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
+VU#99,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#99,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#99,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#99,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
@@ -215,7 +218,7 @@ VU#99,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#99,0.00259740,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#99,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#99,0.00259067,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
-VU#99,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#99,0.00246914,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#99,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#99,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#99,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859

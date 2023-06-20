@@ -2,5 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2020-121325,0.01587302,https://github.com/r0eXpeR/CVE-2020,r0eXpeR/CVE-2020,326408855
 CNVD-2020-121325,0.01298701,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 CNVD-2020-121325,0.00314465,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
-CNVD-2020-121325,0.00252525,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+CNVD-2020-121325,0.00246914,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 CNVD-2020-121325,0.00003960,https://github.com/adminlove520/cnvd,adminlove520/cnvd,531908311
