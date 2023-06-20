@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+656168817,jakabakos/spring4shell,README.md,649640e6f3249e79ebd030eac030fc2b0646da3c,CVE-2022-22965
+656168817,jakabakos/spring4shell,_GITHUB_REPO_METADATA_,,CVE-2022-22965
