@@ -515,7 +515,7 @@ MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS08-067,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS08-067,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS08-067,0.00009450,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+MS08-067,0.00009448,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS08-067,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS08-067,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 MS08-067,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
@@ -552,11 +552,11 @@ MS08-067,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS08-067,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS08-067,0.00001225,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001224,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS08-067,0.00000433,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS08-067,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS08-067,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

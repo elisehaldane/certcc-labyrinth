@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-VHQC-649H-994H,0.16666667,https://github.com/topscoder/nuclei-zero-day,topscoder/nuclei-zero-day,654966268
-GHSA-VHQC-649H-994H,0.00009450,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-VHQC-649H-994H,0.00009448,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-VHQC-649H-994H,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
