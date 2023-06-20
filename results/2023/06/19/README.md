@@ -1,7 +1,7 @@
 
 # Summary for results/2023/06/19
     
-140 records found after deduplication
+141 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -9,6 +9,7 @@
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-06-19 04:28:31+00:00 | 891982 | 30489 | Ruby | 13285 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-06-19 09:00:15+00:00 | 27591 | 10313 | Python | 1613 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-06-19 08:22:19+00:00 | 13726 | 5664 | Python | 759 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-06-19 05:57:16+00:00 | 6235 | 3892 | Python | 762 | [] |
 | swahim/RCE-Frontend | None | https://github.com/swahim/RCE-Frontend | ['rce'] | 1 | 2023-06-19 10:13:41+00:00 | 227 | 0 | JavaScript | 0 | [] |
 | redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-rPc9K-exploit-stop | ['exploit'] | 1 | 2023-06-19 10:34:18+00:00 | 1 | 0 | | 0 | [] |
 | GoldenEagleMan/Exploitable-Smart-Contracts | None | https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts | ['exploit'] | 1 | 2023-06-19 11:04:58+00:00 | 16355 | 0 | Solidity | 0 | [] |
@@ -17,7 +18,6 @@
 | Stephen-carl/CuebueApp | Exploited SMS technoloy to develop an offline mobile banking application | https://github.com/Stephen-carl/CuebueApp | ['exploit'] | 1 | 2023-06-19 15:06:11+00:00 | 2665 | 0 | Java | 0 | [] |
 | raj3shp/vscode_trusted_rce | PoC for remote code execution when VSCode/VSCodium opens a project in "trusted" mode. | https://github.com/raj3shp/vscode_trusted_rce | ['rce', 'rce poc', 'remote code execution'] | 3 | 2023-06-19 14:28:11+00:00 | 2 | 0 | | 0 | [] |
 | nuts7/CVE-2023-27372 | SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1. | https://github.com/nuts7/CVE-2023-27372 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2023-06-19 14:36:47+00:00 | 0 | 0 | | 0 | ['CVE-2023-27372'] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-06-19 04:31:12+00:00 | 588535 | 303 | REXX | 31 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-19 00:32:24+00:00 | 273570 | 5075 | | 995 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-06-19 14:56:04+00:00 | 32022 | 54 | | 28 | [] |
 | MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2023-06-19 18:41:00+00:00 | 160727 | 91 | Python | 22 | [] |
@@ -52,6 +52,7 @@
 | Threekiii/Vulhub-Reproduce | 一个Vulhub漏洞复现知识库 | https://github.com/Threekiii/Vulhub-Reproduce | ['exploit'] | 1 | 2023-06-19 02:38:23+00:00 | 151604 | 142 | | 35 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-06-19 00:11:03+00:00 | 712 | 522 | Shell | 105 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2023-06-19 12:11:18+00:00 | 156 | 634 | Go | 38 | [] |
+| jonatanSh/shelf | Python library to convert elf to shellcodes | https://github.com/jonatanSh/shelf | ['shellcode'] | 1 | 2023-06-19 19:18:24+00:00 | 1064 | 16 | Python | 2 | [] |
 | budde25/switcheroo | A cross platform, rust implementation for the Tegra X1 bootROM exploit | https://github.com/budde25/switcheroo | ['exploit'] | 1 | 2023-06-19 03:32:35+00:00 | 4876 | 38 | Rust | 3 | [] |
 | josemmo/chrowned | Chrowned by an Extension: Exploiting the Chrome DevTools Protocol | https://github.com/josemmo/chrowned | ['exploit'] | 1 | 2023-06-19 10:40:33+00:00 | 27 | 1 | JavaScript | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-06-19 04:47:21+00:00 | 93318 | 82 | Go | 30 | [] |
@@ -136,7 +137,6 @@
 | mosttr/Voidy-Exploit | None | https://github.com/mosttr/Voidy-Exploit | ['exploit'] | 1 | 2023-06-19 16:56:50+00:00 | 0 | 1 | | 0 | [] |
 | Vagebondcur/OSWE-HTB | Exploits for OSWE Prep | https://github.com/Vagebondcur/OSWE-HTB | ['exploit'] | 1 | 2023-06-19 19:39:19+00:00 | 5 | 0 | Python | 0 | [] |
 | Alucard0x1/CVE-2023-2833 | Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX | https://github.com/Alucard0x1/CVE-2023-2833 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-06-19 22:46:24+00:00 | 15065 | 0 | | 1 | ['CVE-2023-2833'] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-06-19 05:57:16+00:00 | 6235 | 3892 | Python | 762 | [] |
 | hugsy/cemu | Cheap EMUlator: lightweight multi-architecture assembly playground | https://github.com/hugsy/cemu | ['shellcode'] | 1 | 2023-06-19 04:19:17+00:00 | 915 | 869 | Python | 104 | [] |
 | HexxiumCreations/threat-list | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE! | https://github.com/HexxiumCreations/threat-list | ['exploit'] | 1 | 2023-06-19 04:50:25+00:00 | 1391 | 17 | HTML | 5 | [] |
 | mikaelkall/Exploits | Exploits developed by Mikael Kall | https://github.com/mikaelkall/Exploits | ['exploit'] | 1 | 2023-06-19 11:31:27+00:00 | 179284 | 39 | Python | 30 | [] |
@@ -145,3 +145,4 @@
 | Moham3dRiahi/XAttackProV30 | XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttackProV30 | ['exploit'] | 1 | 2023-06-19 03:28:58+00:00 | 236 | 411 | | 212 | [] |
 | out-of-tree/out-of-tree | out-of-tree kernel {module, exploit} development tool | https://github.com/out-of-tree/out-of-tree | ['exploit'] | 1 | 2023-06-19 22:41:46+00:00 | 1304 | 207 | Go | 30 | [] |
 | knqyf263/CVE-2019-6340 | Environment for CVE-2019-6340 (Drupal) | https://github.com/knqyf263/CVE-2019-6340 | ['cve-2 OR cve_2'] | 1 | 2023-06-19 03:09:28+00:00 | 7 | 42 | Dockerfile | 10 | ['CVE-2019-6340'] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-06-19 04:31:12+00:00 | 588535 | 303 | REXX | 31 | [] |
