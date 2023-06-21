@@ -1,0 +1,54 @@
+
+# Summary for results/2023/06/21
+    
+47 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-06-21 02:04:28+00:00 | 901889 | 30503 | Ruby | 13288 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-06-21 04:37:43+00:00 | 6253 | 3893 | Python | 764 | [] |
+| gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2023-06-21 00:46:30+00:00 | 4602 | 96 | Go | 7 | [] |
+| hugsy/cemu | Cheap EMUlator: lightweight multi-architecture assembly playground | https://github.com/hugsy/cemu | ['shellcode'] | 1 | 2023-06-21 04:10:36+00:00 | 891 | 870 | Python | 104 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-06-21 04:31:26+00:00 | 632129 | 305 | REXX | 31 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-21 00:30:06+00:00 | 276077 | 5080 | | 997 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-06-21 00:45:06+00:00 | 25538 | 54 | | 28 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-06-21 04:02:43+00:00 | 769195 | 75 | | 28 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-06-21 00:33:56+00:00 | 156 | 0 | PHP | 0 | [] |
+| mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2023-06-21 03:26:04+00:00 | 749 | 519 | Python | 40 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-06-21 04:02:52+00:00 | 387444 | 666 | Python | 172 | [] |
+| lw8192/Red-Team-Rising | Notes for red teamers - from cloud to Active Directory to many things in between. | https://github.com/lw8192/Red-Team-Rising | ['exploit'] | 1 | 2023-06-21 01:56:21+00:00 | 1191 | 31 | Python | 14 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-06-21 01:38:21+00:00 | 2553 | 201 | HTML | 11 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-06-21 04:19:14+00:00 | 2664 | 135 | Python | 13 | [] |
+| yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2023-06-21 04:50:16+00:00 | 24378 | 5245 | TypeScript | 741 | [] |
+| jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2023-06-21 00:41:38+00:00 | 796897 | 6 | Jupyter Notebook | 2 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-21 00:12:30+00:00 | 183051 | 5067 | HTML | 635 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-06-21 00:11:06+00:00 | 3240 | 0 | | 1 | [] |
+| Nigmaz/Pwnable | Pwnable writeup, practice and scripts exploit. | https://github.com/Nigmaz/Pwnable | ['exploit'] | 1 | 2023-06-21 04:48:23+00:00 | 16968 | 6 | C | 0 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-06-21 00:10:26+00:00 | 731 | 526 | Shell | 105 | [] |
+| krkhan/crypto-impl-exploit | Accompanying source code for examples from the book "Implementing and Exploiting Cryptography" | https://github.com/krkhan/crypto-impl-exploit | ['exploit'] | 1 | 2023-06-21 02:09:13+00:00 | 56 | 4 | Go | 0 | [] |
+| eddieygaming/ps4jb900v2a | Kameleon 900FW Exploit Host (Manual Method) Hybrid | https://github.com/eddieygaming/ps4jb900v2a | ['exploit'] | 1 | 2023-06-21 02:40:59+00:00 | 8602 | 1 | HTML | 2 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-06-21 04:47:33+00:00 | 92820 | 82 | Go | 30 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2023-06-21 00:14:08+00:00 | 53128 | 3665 | Go | 435 | [] |
+| Rylvns/EnvisionExploits | None | https://github.com/Rylvns/EnvisionExploits | ['exploit'] | 1 | 2023-06-21 00:19:44+00:00 | 1519 | 4 | Lua | 0 | [] |
+| teamssix/cf | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | ['exploit'] | 1 | 2023-06-21 03:25:45+00:00 | 22765 | 1889 | Go | 193 | [] |
+| SleipnirGroup/Sleipnir | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2023-06-21 04:34:52+00:00 | 1287 | 16 | C++ | 2 | [] |
+| DabinJeong/Multi-omics_biomarker | Multi-omics biomarker discovery tool exploiting a gene-gene interaction network | https://github.com/DabinJeong/Multi-omics_biomarker | ['exploit'] | 1 | 2023-06-21 03:49:03+00:00 | 8497 | 2 | Python | 0 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-06-21 04:48:47+00:00 | 96022 | 30 | Go | 4 | [] |
+| browlete/Fivem-Unban | 🥊・Ferramenta feita para burlar o banimento de hardware do FiveM. | https://github.com/browlete/Fivem-Unban | ['exploit'] | 1 | 2023-06-21 01:40:04+00:00 | 1965 | 7 | C++ | 4 | [] |
+| Lossless-Cash/exploit-db | None | https://github.com/Lossless-Cash/exploit-db | ['exploit'] | 1 | 2023-06-21 01:08:46+00:00 | 99 | 1 | | 0 | [] |
+| redmojo7/web_lab | This is a Vulnerable Web Application , which be used to demonstrate how these vulnerabilities can be exploited and to understand how to prevent them. | https://github.com/redmojo7/web_lab | ['exploit'] | 1 | 2023-06-21 01:13:12+00:00 | 2104 | 1 | JavaScript | 0 | [] |
+| Live-Hack-CVE/POC | This is the POC FULL DATABASE for the website. Feel free to propuse new source for POCs | https://github.com/Live-Hack-CVE/POC | ['cve poc', 'vulnerability poc'] | 2 | 2023-06-21 04:52:41+00:00 | 32970 | 56 | Shell | 5 | [] |
+| Mohsinparay/command-injection-payload-list | None | https://github.com/Mohsinparay/command-injection-payload-list | ['command injection'] | 1 | 2023-06-21 04:43:18+00:00 | 3 | 1 | | 0 | [] |
+| exploitsecurityio/uart-exploiter | uart-exploiter.py by [exploitsecurity.io] | https://github.com/exploitsecurityio/uart-exploiter | ['exploit'] | 1 | 2023-06-21 01:24:38+00:00 | 75 | 2 | Python | 0 | [] |
+| EBLIS-TOOLS/DEVIL-SPYER | it's a payload and listener tool that depends on #Metasploit | https://github.com/EBLIS-TOOLS/DEVIL-SPYER | ['metasploit module OR payload'] | 1 | 2023-06-21 02:24:50+00:00 | 427 | 1 | Python | 0 | [] |
+| g3tsyst3m/elevationstation | elevate to SYSTEM any way we can! Metasploit and PSEXEC getsystem alternative | https://github.com/g3tsyst3m/elevationstation | ['metasploit module OR payload'] | 1 | 2023-06-21 01:30:05+00:00 | 131 | 179 | C++ | 18 | [] |
+| driedupsponge/Air-Wave | A Advanced Roblox exploit with e key system | https://github.com/driedupsponge/Air-Wave | ['exploit'] | 1 | 2023-06-21 03:22:31+00:00 | 4 | 0 | | 0 | [] |
+| exploitsecurityio/ExploitToolFinder | The ExploitToolFinder Utility [by exploitsecurity.io] assists security researchers in their quest to find the right tool for the job | https://github.com/exploitsecurityio/ExploitToolFinder | ['exploit'] | 1 | 2023-06-21 01:25:51+00:00 | 112 | 11 | Python | 0 | [] |
+| 0xngmi/foundation-exploit | None | https://github.com/0xngmi/foundation-exploit | ['exploit'] | 1 | 2023-06-21 01:56:36+00:00 | 161 | 2 | TypeScript | 0 | [] |
+| AAsh035/CVE-2023-30212 | None | https://github.com/AAsh035/CVE-2023-30212 | ['cve-2 OR cve_2'] | 1 | 2023-06-21 04:48:06+00:00 | 7306 | 0 | PHP | 1 | ['CVE-2023-30212'] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-86 | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-86 | ['exploit'] | 1 | 2023-06-21 01:17:58+00:00 | 1 | 0 | | 0 | [] |
+| Seew0/RCE | None | https://github.com/Seew0/RCE | ['rce'] | 1 | 2023-06-21 01:19:39+00:00 | 3 | 0 | Go | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-86 | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-86 | ['exploit'] | 1 | 2023-06-21 01:19:29+00:00 | 1 | 0 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-86 | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-86 | ['exploit'] | 1 | 2023-06-21 01:20:36+00:00 | 1 | 0 | | 0 | [] |
+| L0ch/CVE-2020-0917_Exploit | Hyper-V 1-day Exploit: CVE-2020-0917 | https://github.com/L0ch/CVE-2020-0917_Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-06-21 03:12:18+00:00 | 16 | 0 | C | 0 | ['CVE-2020-0917'] |
+| redsektor/Sploit | nan | https://github.com/redsektor/Sploit | ['sploit'] | 1 | 2023-06-21 04:25:17+00:00 | 22 | 0 | nan | 0 | [] |
