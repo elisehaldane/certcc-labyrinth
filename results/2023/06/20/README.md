@@ -1,7 +1,7 @@
 
 # Summary for results/2023/06/20
     
-142 records found after deduplication
+143 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -11,6 +11,7 @@
 | trustedsec/unicorn | Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 1 | https://github.com/trustedsec/unicorn | ['shellcode'] | 1 | 2023-06-20 11:16:23+00:00 | 296 | 3447 | Python | 821 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-06-20 19:11:35+00:00 | 61142 | 1482 | C | 660 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-06-20 03:58:38+00:00 | 13726 | 5665 | Python | 759 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-06-20 04:29:01+00:00 | 6235 | 3892 | Python | 762 | [] |
 | jakabakos/spring4shell | PoC and exploit for CVE-2022-22965 Spring4Shell | https://github.com/jakabakos/spring4shell | ['cve poc', 'exploit'] | 2 | 2023-06-20 12:12:20+00:00 | 30 | 0 | Shell | 1 | ['CVE-2022-22965'] |
 | JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212- | None | https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212- | ['cve-2 OR cve_2'] | 1 | 2023-06-20 13:37:39+00:00 | 7282 | 0 | PHP | 1 | ['CVE-2023-30212'] |
 | codeesura/Ethereum-Smart-Contract-and-Attack-Simulation | This repo contains two Ethereum smart contracts, KurbanContract and Attack, exemplifying a reentrancy attack. The KurbanContract manages user balances, while Attack exploits a vulnerability, serving as a vital educational resource in smart contract securit | https://github.com/codeesura/Ethereum-Smart-Contract-and-Attack-Simulation | ['exploit'] | 1 | 2023-06-20 15:03:55+00:00 | 8 | 1 | Solidity | 0 | [] |
@@ -138,7 +139,6 @@
 | fu2x2000/-CVE-2023-34584 | None | https://github.com/fu2x2000/-CVE-2023-34584 | ['cve-2 OR cve_2'] | 1 | 2023-06-20 20:17:56+00:00 | 1 | 0 | | 1 | ['CVE-2023-34584'] |
 | K3rnel-Dev/KernelSploitus | Simple automator for the creation of metasploit payloads | https://github.com/K3rnel-Dev/KernelSploitus | ['metasploit module OR payload', 'sploit'] | 2 | 2023-06-20 22:23:46+00:00 | 341 | 0 | Python | 0 | [] |
 | SBCB-Quest021/BlooketExploit | None | https://github.com/SBCB-Quest021/BlooketExploit | ['exploit'] | 1 | 2023-06-20 23:39:12+00:00 | 40 | 0 | | 0 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-06-20 04:29:01+00:00 | 6235 | 3892 | Python | 762 | [] |
 | HexxiumCreations/threat-list | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE! | https://github.com/HexxiumCreations/threat-list | ['exploit'] | 1 | 2023-06-20 06:46:58+00:00 | 1187 | 17 | HTML | 5 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2023-06-20 13:45:04+00:00 | 79213 | 13920 | Jupyter Notebook | 2350 | [] |
 | out-of-tree/out-of-tree | out-of-tree kernel {module, exploit} development tool | https://github.com/out-of-tree/out-of-tree | ['exploit'] | 1 | 2023-06-20 16:01:54+00:00 | 1311 | 207 | Go | 30 | [] |
@@ -147,3 +147,4 @@
 | rooted-cyber/Metasploit-Installation | This Tool installing Metasploit | https://github.com/rooted-cyber/Metasploit-Installation | ['metasploit module OR payload'] | 1 | 2023-06-20 03:51:04+00:00 | 13263 | 11 | Shell | 18 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-06-20 16:31:24+00:00 | 619740 | 305 | REXX | 31 | [] |
 | dniym/IllegalStack | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | ['exploit'] | 1 | 2023-06-20 01:31:43+00:00 | 14941 | 100 | Java | 30 | [] |
+| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2023-06-20 05:37:51+00:00 | 501 | 606 | Rust | 45 | [] |
