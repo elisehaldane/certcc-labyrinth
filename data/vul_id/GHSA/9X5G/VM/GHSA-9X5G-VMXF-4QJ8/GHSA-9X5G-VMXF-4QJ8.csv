@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-9X5G-VMXF-4QJ8,0.50000000,https://github.com/es0j/CVE-2023-0045,es0j/CVE-2023-0045,598766898
 GHSA-9X5G-VMXF-4QJ8,0.50000000,https://github.com/es0j/CVE-2023-0045,es0j/CVE-2023-0045,597210018
-GHSA-9X5G-VMXF-4QJ8,0.00009437,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-9X5G-VMXF-4QJ8,0.00009436,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

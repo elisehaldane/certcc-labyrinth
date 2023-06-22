@@ -88,7 +88,6 @@ VU#29,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-i
 VU#29,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#29,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942458
 VU#29,0.12500000,https://github.com/Mithun1508/remote-code-execution-engine,Mithun1508/remote-code-execution-engine,596367907
-VU#29,0.12500000,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,556854694
 VU#29,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
 VU#29,0.12500000,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093
 VU#29,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
@@ -123,6 +122,7 @@ VU#29,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j
 VU#29,0.07692308,https://github.com/giadone/Named-Entity-Recognition-Using-Bert-,giadone/Named-Entity-Recognition-Using-Bert-,604626757
 VU#29,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599184
 VU#29,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
+VU#29,0.07692308,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,556854694
 VU#29,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#29,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#29,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
@@ -412,7 +412,7 @@ VU#29,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/Malw
 VU#29,0.00259067,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#29,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#29,0.00250627,https://github.com/helloexp/0day,helloexp/0day,478826386
-VU#29,0.00246914,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#29,0.00246305,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#29,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#29,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#29,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
@@ -468,7 +468,7 @@ VU#29,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/m
 VU#29,0.00019520,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#29,0.00009437,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+VU#29,0.00009436,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
