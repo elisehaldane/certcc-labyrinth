@@ -1,0 +1,60 @@
+repo_id,repo_full_name,file,file_sha1,match
+234044518,ianwolf99/EXPLOIT,SCADA local exploits on windows 7 platform.txt,181a1777cd17ab8af1bdd9a948c852d3ff757d83,MS18-8120
+234044518,ianwolf99/EXPLOIT,SCADA local exploits on windows 7 platform.txt,181a1777cd17ab8af1bdd9a948c852d3ff757d83,MS16-075
+234044518,ianwolf99/EXPLOIT,SCADA local exploits on windows 7 platform.txt,181a1777cd17ab8af1bdd9a948c852d3ff757d83,MS15-051
+234044518,ianwolf99/EXPLOIT,SCADA local exploits on windows 7 platform.txt,181a1777cd17ab8af1bdd9a948c852d3ff757d83,MS14-058
+234044518,ianwolf99/EXPLOIT,SCADA local exploits on windows 7 platform.txt,181a1777cd17ab8af1bdd9a948c852d3ff757d83,MS13-081
+234044518,ianwolf99/EXPLOIT,SCADA local exploits on windows 7 platform.txt,181a1777cd17ab8af1bdd9a948c852d3ff757d83,MS13-053
+234044518,ianwolf99/EXPLOIT,SCADA local exploits on windows 7 platform.txt,181a1777cd17ab8af1bdd9a948c852d3ff757d83,MS10-092
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#26
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#40
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#538
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#064
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#08
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#55
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#72
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#736
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#77
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#822
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/The Shellcoder’s Handbook.pdf,1c15dff924694c531a95a40dface5f923481699e,VU#84
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/Vulnerable_Documentation.txt,227a697c08f64997d6988fe7834d71e31c44d815,CVE-2005-2933
+234044518,ianwolf99/EXPLOIT,DOUBLEPULSAR - Payload_Execution_and_Neutralization.rb,258f26f3c421fb1e65bb45b9ed891f22f2e083df,CVE-2017-0147
+234044518,ianwolf99/EXPLOIT,DOUBLEPULSAR - Payload_Execution_and_Neutralization.rb,258f26f3c421fb1e65bb45b9ed891f22f2e083df,CVE-2017-0145
+234044518,ianwolf99/EXPLOIT,DOUBLEPULSAR - Payload_Execution_and_Neutralization.rb,258f26f3c421fb1e65bb45b9ed891f22f2e083df,CVE-2017-0144
+234044518,ianwolf99/EXPLOIT,DOUBLEPULSAR - Payload_Execution_and_Neutralization.rb,258f26f3c421fb1e65bb45b9ed891f22f2e083df,CVE-2017-0143
+234044518,ianwolf99/EXPLOIT,DOUBLEPULSAR - Payload_Execution_and_Neutralization.rb,258f26f3c421fb1e65bb45b9ed891f22f2e083df,MS17-010
+234044518,ianwolf99/EXPLOIT,DOUBLEPULSAR - Payload_Execution_and_Neutralization.rb,258f26f3c421fb1e65bb45b9ed891f22f2e083df,CVE-2017-0146
+234044518,ianwolf99/EXPLOIT,DOUBLEPULSAR - Payload_Execution_and_Neutralization.rb,258f26f3c421fb1e65bb45b9ed891f22f2e083df,CVE-2017-0148
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/42329-how-to-exploit-eternalromancesynergy-on-windows-server-2016(1).pdf,32669b4834630047aa46d8c05bd199cec7ec0297,VU#32
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/42329-how-to-exploit-eternalromancesynergy-on-windows-server-2016(1).pdf,32669b4834630047aa46d8c05bd199cec7ec0297,MS17-010
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/Reverse Engineering Code with IDA Pro ( PDFDrive.com ).pdf,4b3f235615fbd0f54db62393e0632ec0bcad2337,VU#99
+234044518,ianwolf99/EXPLOIT,Nmap_scriptd.txt,70fa8270fd7d3ab4fad50d3a1206d23893ea5d75,MS17-010
+234044518,ianwolf99/EXPLOIT,Nmap_scriptd.txt,70fa8270fd7d3ab4fad50d3a1206d23893ea5d75,CVE-2020-1350
+234044518,ianwolf99/EXPLOIT,SYSTEMINTERNALS_suite/Dbgview.chm,72d71ed8b1f1851bdfb9786625cacbaf7ac8fc91,VU#358
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,BID-10857
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,VU#15
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,BID-11173
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,BID-22791
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,BID-9182
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,MS01-026
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,CVE-2007-0774
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,MS00-078
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,CVE-2008-5353
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/1 - Hacking Exposed 3.pdf,84a7afe2982b75bd8f3fcdc1989126f9f81a377d,CVE-2009-3548
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/Art Of Intel x86 Assembly.pdf,8e20d6f5f0efe55de7bdad91c3f33b0624de38d7,VU#90
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/Art Of Intel x86 Assembly.pdf,8e20d6f5f0efe55de7bdad91c3f33b0624de38d7,VU#43
+234044518,ianwolf99/EXPLOIT,"Exploit_Documentation/Attacking Network Protocols A Hacker’s Guide to Capture, Analysis, and Exploitation ( PDFDrive.com ).pdf",9154c70fd1edba03bc86e959379c2740a8146781,VU#10
+234044518,ianwolf99/EXPLOIT,"Exploit_Documentation/Violent Python a cookbook for hackers, forensic analysts, penetration testers and security engineers ( PDFDrive.com ).pdf",a6ca9cc5820cdb7b6e24e0fc4b8067c2008b696f,VU#98
+234044518,ianwolf99/EXPLOIT,"Exploit_Documentation/Violent Python a cookbook for hackers, forensic analysts, penetration testers and security engineers ( PDFDrive.com ).pdf",a6ca9cc5820cdb7b6e24e0fc4b8067c2008b696f,VU#322
+234044518,ianwolf99/EXPLOIT,"Exploit_Documentation/Violent Python a cookbook for hackers, forensic analysts, penetration testers and security engineers ( PDFDrive.com ).pdf",a6ca9cc5820cdb7b6e24e0fc4b8067c2008b696f,VU#20
+234044518,ianwolf99/EXPLOIT,"Exploit_Documentation/Violent Python a cookbook for hackers, forensic analysts, penetration testers and security engineers ( PDFDrive.com ).pdf",a6ca9cc5820cdb7b6e24e0fc4b8067c2008b696f,VU#138
+234044518,ianwolf99/EXPLOIT,"Exploit_Documentation/Violent Python a cookbook for hackers, forensic analysts, penetration testers and security engineers ( PDFDrive.com ).pdf",a6ca9cc5820cdb7b6e24e0fc4b8067c2008b696f,VU#45
+234044518,ianwolf99/EXPLOIT,powerup.ps1,b94f92b96b4d090740b8b67cc961523a2caf9df1,VU#57
+234044518,ianwolf99/EXPLOIT,powerup.ps1,b94f92b96b4d090740b8b67cc961523a2caf9df1,VU#29
+234044518,ianwolf99/EXPLOIT,powerup.ps1,b94f92b96b4d090740b8b67cc961523a2caf9df1,VU#25
+234044518,ianwolf99/EXPLOIT,powerup.ps1,b94f92b96b4d090740b8b67cc961523a2caf9df1,VU#78
+234044518,ianwolf99/EXPLOIT,powerup.ps1,b94f92b96b4d090740b8b67cc961523a2caf9df1,VU#17
+234044518,ianwolf99/EXPLOIT,powerup.ps1,b94f92b96b4d090740b8b67cc961523a2caf9df1,VU#87
+234044518,ianwolf99/EXPLOIT,powerup.ps1,b94f92b96b4d090740b8b67cc961523a2caf9df1,VU#52
+234044518,ianwolf99/EXPLOIT,Exploit_Documentation/Modern Windows Exploit Development(1).pdf,bd23cc60c3508ecbb7fb87ec02ceb774d89ff49e,VU#577
+234044518,ianwolf99/EXPLOIT,RCE-CVE-2020-16875.rb,eb15e8a7cfca91e8bf49840ef17cdf82dd2441e7,CVE-2020-16875
