@@ -5,7 +5,7 @@ GHSA-V7FF-8WCX-GMC5,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-V7FF-8WCX-GMC5,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 GHSA-V7FF-8WCX-GMC5,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 GHSA-V7FF-8WCX-GMC5,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
-GHSA-V7FF-8WCX-GMC5,0.00022507,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+GHSA-V7FF-8WCX-GMC5,0.00022502,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 GHSA-V7FF-8WCX-GMC5,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 GHSA-V7FF-8WCX-GMC5,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 GHSA-V7FF-8WCX-GMC5,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -23,7 +23,7 @@ GHSA-V7FF-8WCX-GMC5,0.00019932,https://github.com/Christyy123/Metasploit-framewo
 GHSA-V7FF-8WCX-GMC5,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-V7FF-8WCX-GMC5,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 GHSA-V7FF-8WCX-GMC5,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-GHSA-V7FF-8WCX-GMC5,0.00019569,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-V7FF-8WCX-GMC5,0.00019524,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-V7FF-8WCX-GMC5,0.00019516,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-V7FF-8WCX-GMC5,0.00009076,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 GHSA-V7FF-8WCX-GMC5,0.00007043,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
