@@ -1,0 +1,36 @@
+
+# Summary for results/2023/06/23
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-06-23 04:05:00+00:00 | 903092 | 30517 | Ruby | 13293 | [] |
+| pedrib/PoC | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | ['exploit', 'metasploit module OR payload'] | 2 | 2023-06-23 01:09:20+00:00 | 24660 | 724 | Ruby | 167 | [] |
+| hugsy/cemu | Cheap EMUlator: lightweight multi-architecture assembly playground | https://github.com/hugsy/cemu | ['shellcode'] | 1 | 2023-06-23 04:39:07+00:00 | 915 | 870 | Python | 104 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-06-23 04:31:13+00:00 | 669761 | 307 | REXX | 31 | [] |
+| dniym/IllegalStack | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | ['exploit'] | 1 | 2023-06-23 02:46:06+00:00 | 14929 | 101 | Java | 32 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-23 00:30:07+00:00 | 277180 | 5084 | | 997 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-06-23 00:45:08+00:00 | 28212 | 54 | | 28 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-06-23 05:04:25+00:00 | 771219 | 75 | | 28 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-06-23 04:03:00+00:00 | 397834 | 665 | Python | 172 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-06-23 01:51:16+00:00 | 2632 | 202 | HTML | 11 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-06-23 04:22:18+00:00 | 2674 | 135 | Python | 13 | [] |
+| 0xvpr/vpr-pidjeon | A command line payload injector for 32 & 64 bit Windows applications. | https://github.com/0xvpr/vpr-pidjeon | ['command injection', 'shellcode'] | 2 | 2023-06-23 00:38:47+00:00 | 508 | 2 | C | 0 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-23 00:11:17+00:00 | 183123 | 5081 | HTML | 636 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-06-23 00:12:21+00:00 | 749 | 527 | Shell | 105 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-06-23 03:37:41+00:00 | 94844 | 82 | Go | 30 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2023-06-23 00:17:03+00:00 | 53128 | 3669 | Go | 436 | [] |
+| Flickworld/Random-Roblox-Exploit | ... | https://github.com/Flickworld/Random-Roblox-Exploit | ['exploit'] | 1 | 2023-06-23 02:13:15+00:00 | 528 | 0 | Lua | 0 | [] |
+| badr-elmazaz/CTFs | Collection of writeups of Catch the Flag competitions and code for exploiting the challenges | https://github.com/badr-elmazaz/CTFs | ['exploit'] | 1 | 2023-06-23 00:20:19+00:00 | 31607 | 1 | Python | 0 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-06-23 03:20:48+00:00 | 98056 | 33 | Go | 5 | [] |
+| Itsmmdoha/crackvash | Udvash Exploit tool | https://github.com/Itsmmdoha/crackvash | ['exploit'] | 1 | 2023-06-23 03:59:46+00:00 | 43 | 0 | Python | 0 | [] |
+| Live-Hack-CVE/POC | This is the POC FULL DATABASE for the website. Feel free to propuse new source for POCs | https://github.com/Live-Hack-CVE/POC | ['cve poc', 'vulnerability poc'] | 2 | 2023-06-23 04:55:30+00:00 | 30381 | 56 | Shell | 5 | [] |
+| EugenMayer/cisa-known-exploited-mirror | None | https://github.com/EugenMayer/cisa-known-exploited-mirror | ['exploit'] | 1 | 2023-06-23 00:07:38+00:00 | 384 | 2 | | 0 | [] |
+| tsong0ku/CVE-2018-11776-FIS | None | https://github.com/tsong0ku/CVE-2018-11776-FIS | ['cve-2 OR cve_2'] | 1 | 2023-06-23 03:18:14+00:00 | 5 | 0 | Python | 1 | ['CVE-2018-11776'] |
+| imbas007/CVE-2023-27997-Check | None | https://github.com/imbas007/CVE-2023-27997-Check | ['cve-2 OR cve_2'] | 1 | 2023-06-23 01:39:02+00:00 | 15 | 0 | Python | 1 | ['CVE-2023-27997'] |
+| Halcy0nic/CVEs-for-picoc-3.2.2 | Reproduction files for CVE-2022-44312 through CVE-2022-44321 | https://github.com/Halcy0nic/CVEs-for-picoc-3.2.2 | ['cve-2 OR cve_2'] | 1 | 2023-06-23 00:24:26+00:00 | 677 | 0 | | 1 | ['CVE-2022-44312', 'CVE-2022-44321'] |
+| Gutierre0x80/CSRF | Simple html page for csrf exploit | https://github.com/Gutierre0x80/CSRF | ['exploit'] | 1 | 2023-06-23 02:06:46+00:00 | 4 | 0 | HTML | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-99 | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-99 | ['exploit'] | 1 | 2023-06-23 02:05:43+00:00 | 1 | 0 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-99j | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-99j | ['exploit'] | 1 | 2023-06-23 02:06:55+00:00 | 1 | 0 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-99j | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-99j | ['exploit'] | 1 | 2023-06-23 02:07:57+00:00 | 1 | 0 | | 0 | [] |
