@@ -111,7 +111,7 @@ MS16-014,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_
 MS16-014,0.00178891,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS16-014,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS16-014,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-MS16-014,0.00067431,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS16-014,0.00067159,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS16-014,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS16-014,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS16-014,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
@@ -205,7 +205,7 @@ MS16-014,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS16-014,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS16-014,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS16-014,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS16-014,0.00009436,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+MS16-014,0.00009430,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS16-014,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS16-014,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS16-014,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

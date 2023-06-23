@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-5MV2-RX3Q-4W2V,0.50000000,https://github.com/davwwwx/CVE-2022-23614,davwwwx/CVE-2022-23614,515132707
-GHSA-5MV2-RX3Q-4W2V,0.00009436,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-5MV2-RX3Q-4W2V,0.00009430,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-5MV2-RX3Q-4W2V,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 GHSA-5MV2-RX3Q-4W2V,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-5MV2-RX3Q-4W2V,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
