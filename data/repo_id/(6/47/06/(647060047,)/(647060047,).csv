@@ -89,7 +89,7 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2012-0507
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-1328
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-2171
-647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0497
+647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0322
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-0336
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-0318
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-0313
@@ -102,9 +102,9 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0569
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0556
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0515
+647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0497
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-2460
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,VU#754
-647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0268
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0257
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-6282
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-5331
@@ -113,10 +113,11 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-3881
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-3660
 647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-2465
-647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0322
+647060047,willardivan/25-Critical-CVEs,03 - CVE-2020-0796 - SMBGhost/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0268
 647060047,willardivan/25-Critical-CVEs,13 - CVE-2019-10758 - Mongoose RCE/mongooserce.py,58eaf157fbbe1634785ebe863eb8ed2b0591ca20,CVE-2019-10758
 647060047,willardivan/25-Critical-CVEs,14 - CVE-2018-10933 - libssh Auth Bypass/exploit/libsshrce.py,7365caacde039872545b5e8b268857851390b205,CVE-2018-10933
 647060047,willardivan/25-Critical-CVEs,14 - CVE-2018-10933 - libssh Auth Bypass/patch/ssh_server_fork.patch,7c744ba8a1f43ec38fa7e30c54535d059197ef03,CVE-2018-10933
 647060047,willardivan/25-Critical-CVEs,07 - CVE-2019-10149 - Exim RCE/eximrce.py,92194705f653bad0e019d037ddadd0a6526a1966,CVE-2019-10149
 647060047,willardivan/25-Critical-CVEs,09 - CVE-2017-12629 - Apache Solr RCE/solrce.py,b5e16d8ef1968686dcd5721a64f6a2ce7287ac6c,CVE-2017-12629
+647060047,willardivan/25-Critical-CVEs,24 - CVE-2020-24916 - Yaws Code Injection/yaws-env-extractor.py,c7f79b87a937d9e801d07052e5d18391a2bb45fc,CVE-2020-24916
 647060047,willardivan/25-Critical-CVEs,11 - CVE-2018-18925 - Gogs RCE/patch.sh,dab0be177170361ba159efc9ca88b98d09793b12,CVE-2018-18925
