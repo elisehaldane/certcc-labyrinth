@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+657774080,MikeTheHash/CVE-2018-5955,exploit.py,5178717b8a48725b0f694ae2c83df3c0672f958c,CVE-2018-5955
+657774080,MikeTheHash/CVE-2018-5955,_GITHUB_REPO_METADATA_,,CVE-2018-5955
