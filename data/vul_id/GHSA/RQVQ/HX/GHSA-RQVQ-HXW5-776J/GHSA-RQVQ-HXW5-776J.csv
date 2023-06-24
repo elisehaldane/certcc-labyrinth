@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-RQVQ-HXW5-776J,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
-GHSA-RQVQ-HXW5-776J,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-RQVQ-HXW5-776J,0.00000363,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

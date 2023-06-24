@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-PRM5-8G2M-24GG,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-39396,Live-Hack-CVE/CVE-2022-39396,582948148
 GHSA-PRM5-8G2M-24GG,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
-GHSA-PRM5-8G2M-24GG,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-PRM5-8G2M-24GG,0.00000363,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-PRM5-8G2M-24GG,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#572615,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-4498,Live-Hack-CVE/CVE-2022-4498,588216769
-VU#572615,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#572615,0.00000363,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

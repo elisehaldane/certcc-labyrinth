@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-WQXW-8H5G-HQ56,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-23925,Live-Hack-CVE/CVE-2023-23925,602146565
-GHSA-WQXW-8H5G-HQ56,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+GHSA-WQXW-8H5G-HQ56,0.00000363,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
