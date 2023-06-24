@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-6XXJ-GCJQ-WGF4,0.00009428,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GHSA-6XXJ-GCJQ-WGF4,0.00009426,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-6XXJ-GCJQ-WGF4,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 GHSA-6XXJ-GCJQ-WGF4,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-6XXJ-GCJQ-WGF4,0.00000364,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

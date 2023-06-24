@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-923,0.33333333,https://github.com/0xcl/cve-2016-7190,0xcl/cve-2016-7190,121433491
 GPZ-923,0.00319489,https://github.com/tunz/js-vuln-db,tunz/js-vuln-db,65058285
-GPZ-923,0.00009428,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+GPZ-923,0.00009426,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GPZ-923,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 GPZ-923,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
 GPZ-923,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
