@@ -14,8 +14,8 @@ repo_id,repo_full_name,file,file_sha1,match
 649493025,miniboom360/ASM-Exploit,binary/linux/RedisEXP,71a2ac0a8c1cca32ccc830cf2927d05ea778c579,VU#05
 649493025,miniboom360/ASM-Exploit,cmd/asm-exploit,7323b2f086e9dcb7518c8cf7e40b573cf6db76a7,VU#98
 649493025,miniboom360/ASM-Exploit,Plugins/CVE-2020-0796.go,7c9a2a5fec3ef413b49e4759b08ee57e5fcc6500,CVE-2020-0796
-649493025,miniboom360/ASM-Exploit,binary/windows/RedisEXP.exe,87fe3da8a9b98b50581b30bc45b2f2ab6c202c98,VU#05
-649493025,miniboom360/ASM-Exploit,binary/windows/RedisEXP.exe,87fe3da8a9b98b50581b30bc45b2f2ab6c202c98,CVE-2022-0543
+649493025,miniboom360/ASM-Exploit,other_tools/RedisEXP/RedisEXP.exe,87fe3da8a9b98b50581b30bc45b2f2ab6c202c98,VU#05
+649493025,miniboom360/ASM-Exploit,other_tools/RedisEXP/RedisEXP.exe,87fe3da8a9b98b50581b30bc45b2f2ab6c202c98,CVE-2022-0543
 649493025,miniboom360/ASM-Exploit,other_tools/RedisEXP/pkg/CVE-2022-0543.go,9ebd9d75eb532dae2600cb3f0dcc9b0ef3e2b19d,CVE-2022-0543
 649493025,miniboom360/ASM-Exploit,binary/windows/Platypus.exe,a8e52498eba41d1b2ddda1dc1d88d2f688175319,VU#70
 649493025,miniboom360/ASM-Exploit,Plugins/ms17010.go,af3e0eac21a30ae5569dad4f6a7b85a5152d3fcb,MS17-010
