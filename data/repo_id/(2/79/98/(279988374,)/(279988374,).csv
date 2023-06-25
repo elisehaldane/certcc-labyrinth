@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 279988374,leonov-av/vulristics,README.md,36e57f77331a8055a9ef9a3633d00a4e3da33a2e,CVE-2023-29336
+279988374,leonov-av/vulristics,analyze_cve_list.txt,5f11d32a36ed01d83c1c79ca7efb9e654ec6263d,CVE-2023-29336
 279988374,leonov-av/vulristics,vulristics_code/functions_source_vulners.py,72c936d740df0e1f29de29e3e2f0bf70e0508a71,CVE-2017-7827
 279988374,leonov-av/vulristics,vulristics_code/functions_source_vulners.py,72c936d740df0e1f29de29e3e2f0bf70e0508a71,CVE-2020-1003
 279988374,leonov-av/vulristics,vulristics_code/functions_source_vulners.py,72c936d740df0e1f29de29e3e2f0bf70e0508a71,CVE-2021-40450
