@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-647060047,willardivan/25-Critical-CVEs,18-CVE-2020-7961/patch/patch.sh,0fa05f6b0cd64efd8d6833ef71de5b3bff8b7b94,CVE-2020-7961
 647060047,willardivan/25-Critical-CVEs,18-CVE-2020-7961/patch/README.txt,28220f0678340376c7d568017ebd78690428d854,CVE-2020-7961
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2008-5353
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2019-1458
@@ -12,8 +11,8 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2018-8120
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2018-4404
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2018-4237
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2019-2215
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2018-0824
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2017-8464
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2017-13861
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2016-4669
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2016-4655
@@ -26,10 +25,10 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,VU#62
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-3113
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-3105
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2017-8464
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2019-2215
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2019-5736
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2019-8513
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2019-8565
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-3090
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2023-21768
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2022-46689
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2022-3699
@@ -55,7 +54,7 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2020-1048
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2020-0796
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2020-0787
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2019-8513
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-3090
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-2426
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-5119
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-1328
@@ -72,7 +71,7 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2012-1723
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2012-1535
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2012-0779
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-1493
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-1701
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2012-0754
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2011-3544
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2011-2110
@@ -88,8 +87,8 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2008-6508
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2008-5499
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2012-0507
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-1701
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-2171
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-1493
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-2465
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-0359
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2015-0336
@@ -105,6 +104,7 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0556
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0515
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-2460
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0322
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0497
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-6282
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-3660
@@ -112,10 +112,10 @@ repo_id,repo_full_name,file,file_sha1,match
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-5045
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-5046
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2013-5331
+647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0257
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,VU#754
 647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0268
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0322
-647060047,willardivan/25-Critical-CVEs,03-CVE-2020-0796/external.rar,383333cbcdbda0e3da1abdd2383d1ed834f0bbda,CVE-2014-0257
+647060047,willardivan/25-Critical-CVEs,18-CVE-2020-7961/patch/patch.sh,492113883af2c4dfd732944b2f4352d086a3e608,CVE-2020-7961
 647060047,willardivan/25-Critical-CVEs,13-CVE-2019-10758/mongooserce.py,58eaf157fbbe1634785ebe863eb8ed2b0591ca20,CVE-2019-10758
 647060047,willardivan/25-Critical-CVEs,23-CVE-2021-29441/nacos.py,67f32b6684faea5cf6c591c23842df5bf543aead,CVE-2021-29441
 647060047,willardivan/25-Critical-CVEs,14-CVE-2018-10933/exploit/libsshrce.py,7365caacde039872545b5e8b268857851390b205,CVE-2018-10933
