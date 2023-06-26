@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#46,1.00000000,https://github.com/fuze136/F-136-Exploit,fuze136/F-136-Exploit,609125269
 VU#46,0.50000000,https://github.com/adarshpv9746/Log4j-exploit,adarshpv9746/Log4j-exploit,562809397
 VU#46,0.50000000,https://github.com/0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,476386220
+VU#46,0.33333333,https://github.com/adhikara13/CVE-2022-44268-MagiLeak,adhikara13/CVE-2022-44268-MagiLeak,658471431
 VU#46,0.33333333,https://github.com/qaardvark/report,qaardvark/report,594058376
 VU#46,0.33333333,https://github.com/d4rk-kn1gh7/ctf-pwn-exploits,d4rk-kn1gh7/ctf-pwn-exploits,582791685
 VU#46,0.33333333,https://github.com/ArzugDev/ArzugSploitV1,ArzugDev/ArzugSploitV1,548621070
@@ -49,6 +50,7 @@ VU#46,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomai
 VU#46,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
 VU#46,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#46,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
+VU#46,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#46,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
 VU#46,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#46,0.05263158,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
