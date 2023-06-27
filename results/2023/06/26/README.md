@@ -1,10 +1,11 @@
 
 # Summary for results/2023/06/26
     
-152 records found after deduplication
+153 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| Nawir1/SqlTrap | This tool makes it easy to exploit the SQL injection vulnerabilities of a web application by relying on the database response ,do further analysis on the target website with the help of sqlmap and logging all results into summary file | https://github.com/Nawir1/SqlTrap | ['exploit'] | 1 | 2023-06-26 22:26:23+00:00 | 9 | 0 | | 0 | [] |
 | saadoxo/Vulnerability-assessment-on-blue | All of the vulnerabilities I could found after reconnaissance, scanning & enumeration along with associated exploitation methods. | https://github.com/saadoxo/Vulnerability-assessment-on-blue | ['exploit'] | 1 | 2023-06-26 12:22:41+00:00 | 4 | 0 | | 0 | [] |
 | Vincent6785/write-up_collection | GitHub repo containing my detailed write-ups of TryHackMe's Boot2Root machines. Explore my resolution methods, discover exploited vulnerabilities, and learn about the techniques used to gain root access. | https://github.com/Vincent6785/write-up_collection | ['exploit'] | 1 | 2023-06-26 12:14:23+00:00 | 0 | 0 | | 0 | [] |
 | lohitkolluri/PayloadMaster | A program to automatically generate metasploit payloads and run listener. | https://github.com/lohitkolluri/PayloadMaster | ['metasploit module OR payload'] | 1 | 2023-06-26 15:36:46+00:00 | 3 | 0 | Shell | 0 | [] |
@@ -148,10 +149,10 @@
 | NekosAreKawaii/Foxglove | A Minecraft Utility Mod for the Quilt Mod Loader. | https://github.com/NekosAreKawaii/Foxglove | ['exploit'] | 1 | 2023-06-26 16:35:46+00:00 | 0 | 0 | Java | 0 | [] |
 | FredBrave/CVE-2015-6967 | An exploit for the Nibbles manager version 4.0.3. This exploit allows RCE to be performed. | https://github.com/FredBrave/CVE-2015-6967 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2023-06-26 19:17:34+00:00 | 3 | 0 | Python | 1 | ['CVE-2015-6967'] |
 | deadlyliest/ShellCodes | ShellCodes | https://github.com/deadlyliest/ShellCodes | ['shellcode'] | 1 | 2023-06-26 21:07:01+00:00 | 0 | 0 | | 0 | [] |
-| Nawir1/SqlTrap | This tool makes it easy to exploit the SQL injection vulnerabilities of a web application by relying on the database response ,do further analysis on the target website with the help of sqlmap and logging all results into summary file | https://github.com/Nawir1/SqlTrap | ['exploit'] | 1 | 2023-06-26 22:26:23+00:00 | 9 | 0 | | 0 | [] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-06-26 00:10:04+00:00 | 904225 | 30533 | Ruby | 13296 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-06-26 13:59:54+00:00 | 22382 | 8534 | JavaScript | 1976 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-06-26 11:50:12+00:00 | 27534 | 10342 | Python | 1616 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-06-26 12:23:37+00:00 | 61152 | 1488 | C | 661 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-06-26 14:55:54+00:00 | 13728 | 5678 | Python | 760 | [] |
 | HexxiumCreations/threat-list | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE! | https://github.com/HexxiumCreations/threat-list | ['exploit'] | 1 | 2023-06-26 08:03:38+00:00 | 1224 | 17 | HTML | 4 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2023-06-26 14:08:23+00:00 | 2017 | 0 | Python | 11 | [] |
