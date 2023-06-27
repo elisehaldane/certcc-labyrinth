@@ -4,6 +4,7 @@ repo_id,repo_full_name,file,file_sha1,match
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/CVE-2023-24892/Program.cs,0349258c6ea8877dd4a02b5b2fc030246c6998c8,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/System.CommandLine.Rendering.dll,04fa18e7b47faedfdf5ff883d3133bad75ab3161,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/custom/CVE-2023-23399.bat,0947912a93e9f36beefb937e45056c10c544cdff,CVE-2023-23399
+446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-33137/docs/report.txt,0fc5ca1ad310ef9dff4a7d64c6655793babb48ca,CVE-2023-33137
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/msvcp140_app.dll,10647106c1e6b3dc9fde41016a3f72f6a3a1434c,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/ru/System.CommandLine.resources.dll,106bfdff6d0d89b7f793cfb1d5cc4ec4d0c58359,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/cs/System.CommandLine.resources.dll,11b5a2fa6ab2533185525196c7e4bda0466895a6,CVE-2023-24892
@@ -42,7 +43,7 @@ repo_id,repo_full_name,file,file_sha1,match
 446409038,nu11secur1ty/Windows11Exploits,CVE-2022-30190/msdt-follina/doc/word/settings.xml,59234cd2fd3e908d8009c0bc0501e409ca64cbbf,CVE-2022-30190
 446409038,nu11secur1ty/Windows11Exploits,InstallerFileTakeOver/README.md,5b44177df030254073b5eb6461713a414539e66e,CVE-2021-43883
 446409038,nu11secur1ty/Windows11Exploits,InstallerFileTakeOver/README.md,5b44177df030254073b5eb6461713a414539e66e,CVE-2021-41379
-446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/lib/net45/Microsoft.Web.WebView2.Core.xml,5b871725f84b00070ff9a6e26d0d5b923bdaab61,CVE-2023-24892
+446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.xml,5b871725f84b00070ff9a6e26d0d5b923bdaab61,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/lib/net45/Microsoft.Web.WebView2.WinForms.xml,5cc3d8ab9245348b734b8d0e1bcae44757ed1fa5,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/.signature.p7s,5f91760d3dec1bb0c35bc69671d96af92ea49662,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/System.CommandLine.DragonFruit.dll,615aab5e6d57c29048b80d7404a852f7b8fce60c,CVE-2023-24892
@@ -54,6 +55,7 @@ repo_id,repo_full_name,file,file_sha1,match
 446409038,nu11secur1ty/Windows11Exploits,CVE-2022-30190/msdt-follina/doc/word/webSettings.xml,6df3c989adbf985029e2dd0930d7d14375a008f2,CVE-2022-30190
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/build/native/include-winrt/WebView2Interop.tlb,6e71c293f0ead2ddebb3aecfd2dcd175f52ff2f7,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,CVE-2022-30129/PoC/PoC.py,724cc0500ea2a8e69d653be47d75ad717ec3ca24,CVE-2022-30129
+446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-33137/README.MD,74b09613794a3e79417d4f55cd2813ba97073bc8,CVE-2023-33137
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/zh-Hans/System.CommandLine.resources.dll,74b56ac42741f52aa6cd80b9038a9a31b1cd5688,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/CVE-2023-24892/Form1.cs,74d938d961349dc89ef9b73c4aee4bb2954c1d6c,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/runtimes/win-arm64/native_uap/Microsoft.Web.WebView2.Core.dll,75dc90b95ec1f43c6abf2be4c1b7d3114839233e,CVE-2023-24892
@@ -64,6 +66,7 @@ repo_id,repo_full_name,file,file_sha1,match
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/lib/net45/Microsoft.Web.WebView2.Wpf.dll,82ae2870385d4d189ecfc10f5dbc7efdfcb51295,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/build/native/arm64/WebView2LoaderStatic.lib,84f29a8964bf6257ef2fe06b67d721f17ac36b0d,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,CVE-2022-30129/Docs/README.MD,88cb0e5cea91516722f68742f991fdf9da116e63,CVE-2022-30129
+446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-33137/docs/README.MD,88cb0e5cea91516722f68742f991fdf9da116e63,CVE-2023-33137
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/docs/README.MD,88cb0e5cea91516722f68742f991fdf9da116e63,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/msvcp140_1_app.dll,8bf4db0ba4034f03aff1bd6bdeabbf54fd5b9699,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/it/System.CommandLine.resources.dll,8bf6219164fac8e9ada13f978782a80e63c8c547,CVE-2023-24892
@@ -102,7 +105,7 @@ repo_id,repo_full_name,file,file_sha1,match
 446409038,nu11secur1ty/Windows11Exploits,CVE-2022-30190/msdt-follina/README.md,d884d918045ef769b4ae5f7085ce44ce2ee14b28,CVE-2022-30190
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/CVE-2023-24892/obj/Debug/CVE-2023-24892.csproj.CopyComplete,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/tools/wv2winrt/tr/System.CommandLine.resources.dll,db9060a39cb1494a7af77ceddf2a081b7384bd20,CVE-2023-24892
-446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/CVE-2023-24892/obj/Debug/CVE_2023_24892.Properties.Resources.resources,dbbbbe2694d4b9b990881f279b4313574dbeac9b,CVE-2023-24892
+446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/CVE-2023-24892/obj/Debug/CVE_2023_24892.Form1.resources,dbbbbe2694d4b9b990881f279b4313574dbeac9b,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,2023/CVE-2023-24892/PoC/packages/Microsoft.Web.WebView2.1.0.1661.34/lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll,ddb03cfb371915bc9c2eacab7daa500c0b1cc9ea,CVE-2023-24892
 446409038,nu11secur1ty/Windows11Exploits,CVE-2022-30190/msdt-follina/doc/word/fontTable.xml,dfa9ea02dd90df7e9abacbdd5c9ff89d821f19df,CVE-2022-30190
 446409038,nu11secur1ty/Windows11Exploits,CVE-2022-30129/README.MD,e10abc11c8c2dd4744263ce62795f9012e0601a8,CVE-2022-30129
