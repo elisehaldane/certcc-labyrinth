@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+644013740,vulncheck-oss/go-exploit,examples/cve-2022-44877/Makefile,0a3a6b7ab97ac01919babe78566a6a7dcccd97ba,CVE-2022-44877
+644013740,vulncheck-oss/go-exploit,docs/c2.md,279ac80c04a5794cb033985a38419f29cf9f5560,CVE-2022-44877
+644013740,vulncheck-oss/go-exploit,docs/usage-example.md,3f34f1d0eb3a04432c1a585076b8a8462b71b036,CVE-2022-44877
+644013740,vulncheck-oss/go-exploit,examples/cve-2022-44877/cve-2022-44877.go,52427cf14cfb4f85f3cbc98605818a5551ec2e2f,CVE-2022-44877
+644013740,vulncheck-oss/go-exploit,protocol/mikrotik_test.go,861260d2282ffad8dd838241d97067d7a1e39cca,CVE-2018-14847
+644013740,vulncheck-oss/go-exploit,docs/version-checking.md,b064db5b41299ef7e988d6a18ef9118e14f34e91,CVE-2017-20149
+644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,bb3467cdcf1ed167e2fb2f13229b1cd35f3b82e5,CVE-2022-47945
+644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,bb3467cdcf1ed167e2fb2f13229b1cd35f3b82e5,CVE-2023-1270
+644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,bb3467cdcf1ed167e2fb2f13229b1cd35f3b82e5,CVE-2023-28432
+644013740,vulncheck-oss/go-exploit,docs/getting-started.md,e0188ef4ed53b7d123bd647dfd45e84ee5322a34,CVE-2023-1270
+644013740,vulncheck-oss/go-exploit,cli/commandline_test.go,fe72d367e9deff9c3456fdd768d6df9d9732963c,CVE-2023-1270

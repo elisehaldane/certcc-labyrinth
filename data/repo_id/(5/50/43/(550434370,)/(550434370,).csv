@@ -424,9 +424,9 @@ repo_id,repo_full_name,file,file_sha1,match
 550434370,tonyarris/srv,ImmunityDebugger_1_85_setup.exe,e01a72a487ac0e2ec02ddfc20fd2994919ef1e9a,VU#45
 550434370,tonyarris/srv,ImmunityDebugger_1_85_setup.exe,e01a72a487ac0e2ec02ddfc20fd2994919ef1e9a,VU#76
 550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#78
-550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#57
+550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#57
 550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#52
 550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#29
 550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#25
 550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#17
-550434370,tonyarris/srv,PowerSploit-master/Privesc/PowerUp.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#87
+550434370,tonyarris/srv,pu.ps1,e4747c1c535b4f96f4452ba21f6a0f2372ae1b5d,VU#87
