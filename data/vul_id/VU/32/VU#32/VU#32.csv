@@ -5,6 +5,7 @@ VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,5226
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
 VU#32,0.50000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
+VU#32,0.50000000,https://github.com/mvqna/Roblox,mvqna/Roblox,639975722
 VU#32,0.50000000,https://github.com/RBX-EXPLOITS/RBX-EXPLOITS.github.io,RBX-EXPLOITS/RBX-EXPLOITS.github.io,617634439
 VU#32,0.50000000,https://github.com/Zephiles/fb-exploit,Zephiles/fb-exploit,578895585
 VU#32,0.50000000,https://github.com/snow-kluster/Sheller,snow-kluster/Sheller,568910050
@@ -42,6 +43,7 @@ VU#32,0.33333333,https://github.com/PabloMK7/kartdlphax,PabloMK7/kartdlphax,3626
 VU#32,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893340
 VU#32,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#32,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
+VU#32,0.25000000,https://github.com/ihavegoodnameiscool/joebidensploitx,ihavegoodnameiscool/joebidensploitx,658361149
 VU#32,0.25000000,https://github.com/h1bAna/exploit,h1bAna/exploit,598709439
 VU#32,0.25000000,https://github.com/sh3d0ww01f/shellcodeloader,sh3d0ww01f/shellcodeloader,532798607
 VU#32,0.25000000,https://github.com/teknologi-umum/pesto,teknologi-umum/pesto,499741162
@@ -158,7 +160,6 @@ VU#32,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github
 VU#32,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#32,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#32,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
-VU#32,0.02631579,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#32,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#32,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#32,0.02564103,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
@@ -234,6 +235,7 @@ VU#32,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,3370
 VU#32,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#32,0.01219512,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#32,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
+VU#32,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#32,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#32,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#32,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
@@ -245,7 +247,7 @@ VU#32,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#32,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#32,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#32,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#32,0.01052632,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#32,0.01041667,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#32,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#32,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#32,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748

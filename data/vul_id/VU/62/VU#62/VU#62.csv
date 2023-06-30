@@ -61,6 +61,7 @@ VU#62,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,48340004
 VU#62,0.16666667,https://github.com/Qynklee/POC_CVE-2020-2883,Qynklee/POC_CVE-2020-2883,428189487
 VU#62,0.16666667,https://github.com/sillihkram/Bruteforcing-SSH,sillihkram/Bruteforcing-SSH,401438417
 VU#62,0.16666667,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
+VU#62,0.14285714,https://github.com/aiden-wc/uncle-aidens-hub,aiden-wc/uncle-aidens-hub,660009763
 VU#62,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
 VU#62,0.14285714,https://github.com/a-rey/exploits,a-rey/exploits,403126946
 VU#62,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
@@ -81,10 +82,10 @@ VU#62,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
 VU#62,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#62,0.08333333,https://github.com/cschech/CBSD,cschech/CBSD,653347261
 VU#62,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
+VU#62,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#62,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#62,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#62,0.07692308,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
-VU#62,0.07142857,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#62,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#62,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#62,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
@@ -119,7 +120,6 @@ VU#62,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn
 VU#62,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#62,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#62,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
-VU#62,0.02631579,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#62,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#62,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#62,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
@@ -217,6 +217,7 @@ VU#62,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,42
 VU#62,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#62,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#62,0.01219512,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
+VU#62,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#62,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#62,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#62,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
@@ -225,7 +226,7 @@ VU#62,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-c
 VU#62,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#62,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#62,0.01063830,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
-VU#62,0.01052632,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#62,0.01041667,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#62,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#62,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#62,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
