@@ -1,12 +1,13 @@
 
 # Summary for results/2023/06/30
     
-122 records found after deduplication
+123 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | Puritanism/Comet-Crack | Roblox Exploit with no Key System | https://github.com/Puritanism/Comet-Crack | ['exploit'] | 1 | 2023-06-30 22:16:23+00:00 | 6754 | 0 | | 0 | [] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-06-30 17:00:06+00:00 | 906313 | 30557 | Ruby | 13306 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-06-30 16:23:10+00:00 | 27534 | 10354 | Python | 1617 | [] |
 | madhanmaaz/blackpanther | blackpanther exploit server handler. | https://github.com/madhanmaaz/blackpanther | ['exploit'] | 1 | 2023-06-30 14:45:48+00:00 | 310 | 0 | EJS | 0 | [] |
 | AndreuSeg/XMLRPC-Bash-Exploit | Bash fruteforce for wordpress xmlrpc.php file | https://github.com/AndreuSeg/XMLRPC-Bash-Exploit | ['exploit'] | 1 | 2023-06-30 10:55:56+00:00 | 2 | 0 | Shell | 0 | [] |
 | Y3A/cve-2020-1048 | spoolsv.exe arb file write poc | https://github.com/Y3A/cve-2020-1048 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-06-30 11:36:26+00:00 | 4 | 0 | C | 1 | ['CVE-2020-1048'] |
@@ -39,7 +40,7 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2023-06-30 18:10:35+00:00 | 10753 | 19 | HTML | 6 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2023-06-30 12:22:34+00:00 | 835886 | 6 | Jupyter Notebook | 2 | [] |
 | EntySec/HatAsm | HatAsm is a powerful assembler and disassembler that provides support for all common architectures. | https://github.com/EntySec/HatAsm | ['shellcode'] | 1 | 2023-06-30 20:15:08+00:00 | 177 | 8 | Python | 2 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-30 00:15:16+00:00 | 187136 | 5101 | HTML | 640 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-06-30 00:15:16+00:00 | 187136 | 5104 | HTML | 641 | [] |
 | AtlasMediaGroup/Scissors | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | ['exploit'] | 1 | 2023-06-30 12:58:26+00:00 | 800 | 9 | Kotlin | 5 | [] |
 | EntySec/Pex | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | ['exploit', 'shellcode'] | 2 | 2023-06-30 20:07:52+00:00 | 595 | 18 | Python | 1 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-06-30 00:10:57+00:00 | 822 | 539 | Shell | 105 | [] |
@@ -118,8 +119,8 @@
 | andrenasx/CVE-2015-10034 | None | https://github.com/andrenasx/CVE-2015-10034 | ['cve-2 OR cve_2'] | 1 | 2023-06-30 16:53:27+00:00 | 0 | 0 | Java | 0 | ['CVE-2015-10034'] |
 | hoainn/FedExploit | None | https://github.com/hoainn/FedExploit | ['exploit'] | 1 | 2023-06-30 17:16:52+00:00 | 2213 | 0 | Python | 0 | [] |
 | Ryan-T-Bell/Gitstack-RCE | GitStack 2.3.10 Unauthenticated Remote Code Execution (converted for running from linux) | https://github.com/Ryan-T-Bell/Gitstack-RCE | ['rce', 'remote code execution'] | 2 | 2023-06-30 19:31:50+00:00 | 1 | 0 | Python | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-06-30 16:23:10+00:00 | 27534 | 10354 | Python | 1617 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-06-30 04:18:28+00:00 | 61158 | 1489 | C | 661 | [] |
+| scipag/vulscan | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | ['exploit'] | 1 | 2023-06-30 21:44:50+00:00 | 18111 | 2960 | Lua | 640 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2023-06-30 14:13:12+00:00 | 79367 | 13960 | Jupyter Notebook | 2371 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-06-30 08:00:17+00:00 | 373516 | 139 | Python | 17 | [] |
 | RhinoSecurityLabs/CVEs | A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs. | https://github.com/RhinoSecurityLabs/CVEs | ['exploit'] | 1 | 2023-06-30 14:39:19+00:00 | 19112 | 662 | Python | 211 | [] |
