@@ -1,12 +1,13 @@
 
 # Summary for results/2023/07/01
     
-117 records found after deduplication
+118 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | k00kx/CVE-2023-24488 | Reversing Citrix Gateway for XSS | https://github.com/k00kx/CVE-2023-24488 | ['cve-2 OR cve_2'] | 1 | 2023-07-01 23:38:28+00:00 | 1 | 0 | | 0 | ['CVE-2023-24488'] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-07-01 02:00:54+00:00 | 27534 | 10356 | Python | 1617 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-07-01 15:22:47+00:00 | 13728 | 5700 | Python | 762 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2023-07-01 14:41:11+00:00 | 1982 | 0 | Python | 11 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2023-07-01 13:55:04+00:00 | 79519 | 13961 | Jupyter Notebook | 2371 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-07-01 04:31:24+00:00 | 855580 | 310 | REXX | 31 | [] |
@@ -18,7 +19,7 @@
 | marcos-venicius/desec-decstore-exploit | A simple and basic exploit to the decstore free course machine | https://github.com/marcos-venicius/desec-decstore-exploit | ['exploit'] | 1 | 2023-07-01 15:18:20+00:00 | 1 | 0 | Python | 0 | [] |
 | enty8080/memfd_exec | Attempt to write shellcode that writes ELF data to the file descriptor and executes it. | https://github.com/enty8080/memfd_exec | ['shellcode'] | 1 | 2023-07-01 15:56:41+00:00 | 4 | 0 | Assembly | 0 | [] |
 | vivashu27/bin2shelz | A handy tool to convert binary code to shellcode | https://github.com/vivashu27/bin2shelz | ['shellcode'] | 1 | 2023-07-01 16:51:30+00:00 | 0 | 1 | Python | 0 | [] |
-| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit', 'vulnerability poc'] | 2 | 2023-07-01 19:29:17+00:00 | 1404722 | 223 | | 37 | [] |
+| ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-01 19:29:17+00:00 | 1404722 | 223 | | 37 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-07-01 04:02:51+00:00 | 393024 | 671 | Python | 172 | [] |
 | michealkeines/Exploit-Development | Exploit code, Learning materials, Binaries, everything related to Low-Level Exploit Development. | https://github.com/michealkeines/Exploit-Development | ['exploit'] | 1 | 2023-07-01 14:23:17+00:00 | 57802 | 2 | C | 2 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-07-01 01:57:52+00:00 | 2944 | 203 | HTML | 11 | [] |
@@ -59,7 +60,7 @@
 | EasyLocal/ExploitLibrarys-Backup | None | https://github.com/EasyLocal/ExploitLibrarys-Backup | ['exploit'] | 1 | 2023-07-01 16:56:54+00:00 | 687 | 0 | Lua | 3 | [] |
 | David-Blink/Nfc-Exploit | None | https://github.com/David-Blink/Nfc-Exploit | ['exploit'] | 1 | 2023-07-01 04:23:07+00:00 | 35 | 0 | HTML | 0 | [] |
 | BluStik/ScreenTimeRemover | IOS screentime remover using the dirtycow exploit | https://github.com/BluStik/ScreenTimeRemover | ['exploit'] | 1 | 2023-07-01 19:45:03+00:00 | 96 | 2 | Objective-C | 0 | [] |
-| Live-Hack-CVE/POC | This is the POC FULL DATABASE for the website. Feel free to propuse new source for POCs | https://github.com/Live-Hack-CVE/POC | ['cve poc', 'vulnerability poc'] | 2 | 2023-07-01 05:03:09+00:00 | 32807 | 57 | Shell | 5 | [] |
+| Live-Hack-CVE/POC | This is the POC FULL DATABASE for the website. Feel free to propuse new source for POCs | https://github.com/Live-Hack-CVE/POC | ['cve poc', 'vulnerability poc'] | 2 | 2023-07-01 04:43:12+00:00 | 32807 | 57 | Shell | 5 | [] |
 | Vetrox/bachelor-thesis | Practically exploiting the DualEC random number generator backdoor | https://github.com/Vetrox/bachelor-thesis | ['exploit'] | 1 | 2023-07-01 09:49:58+00:00 | 598 | 0 | C++ | 0 | [] |
 | LuminaDevelopment/LuminaClient | Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, crystal hacks and undetectable exploits on popular servers. | https://github.com/LuminaDevelopment/LuminaClient | ['exploit'] | 1 | 2023-07-01 22:34:53+00:00 | 403198 | 33 | Java | 6 | [] |
 | RevokeCash/approval-exploit-list | 📝 List of known exploits that abuse token approvals | https://github.com/RevokeCash/approval-exploit-list | ['exploit'] | 1 | 2023-07-01 09:06:47+00:00 | 82 | 12 | | 1 | [] |
@@ -108,7 +109,7 @@
 | wanw00d/wanwoodhub | rblx exploit hub ;) | https://github.com/wanw00d/wanwoodhub | ['exploit'] | 1 | 2023-07-01 10:03:45+00:00 | 2 | 0 | Lua | 0 | [] |
 | RootScript7/WebPentrix | 🚀 Explore the world of web application security testing with this repository that contains guides, exploits, and hands-on challenges. | https://github.com/RootScript7/WebPentrix | ['exploit'] | 1 | 2023-07-01 16:40:59+00:00 | 0 | 0 | | 0 | [] |
 | xblyscykk/MysteryMan-UD-Driver-Leak | MysteryMan / AI#0002 / SIGMA#0001 "UD" Driver Leak fortnite internal exploits driver offsets sigs | https://github.com/xblyscykk/MysteryMan-UD-Driver-Leak | ['exploit'] | 1 | 2023-07-01 17:31:26+00:00 | 15 | 0 | | 0 | [] |
-| SirBugs/CVE-2023-24488-PoC | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | ['cve-2 OR cve_2'] | 1 | 2023-07-01 17:49:16+00:00 | 4 | 0 | Go | 1 | ['CVE-2023-24488'] |
+| SirBugs/CVE-2023-24488-PoC | CVE-2023-24488 PoC | https://github.com/SirBugs/CVE-2023-24488-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-07-01 17:49:16+00:00 | 4 | 0 | Go | 1 | ['CVE-2023-24488'] |
 | IamMac208/git-exploit | None | https://github.com/IamMac208/git-exploit | ['exploit'] | 1 | 2023-07-01 18:19:08+00:00 | 174 | 0 | C | 0 | [] |
 | Z43L/exploit | aqui ire subiendo diferentes exploits con tal de ensenar vulnerabilidades y desarrollar nuestros propios exploits | https://github.com/Z43L/exploit | ['exploit'] | 1 | 2023-07-01 20:19:41+00:00 | 0 | 0 | | 0 | [] |
 | hheeyywweellccoommee/CVE-2015-10034-akdfu | None | https://github.com/hheeyywweellccoommee/CVE-2015-10034-akdfu | ['cve-2 OR cve_2'] | 1 | 2023-07-01 21:06:56+00:00 | 0 | 0 | | 0 | ['CVE-2015-10034'] |
