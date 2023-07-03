@@ -72,7 +72,6 @@ VU#54,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.gi
 VU#54,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#54,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#54,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
-VU#54,0.02857143,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#54,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#54,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
 VU#54,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -97,6 +96,7 @@ VU#54,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism
 VU#54,0.02173913,https://github.com/sinjeanmin/cvedetails_2020_final,sinjeanmin/cvedetails_2020_final,424184998
 VU#54,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#54,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
+VU#54,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#54,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#54,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#54,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
@@ -139,7 +139,7 @@ VU#54,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#54,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#54,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#54,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#54,0.01041667,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#54,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#54,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#54,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#54,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -263,5 +263,5 @@ VU#54,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#54,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#54,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#54,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#54,0.00000363,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
+VU#54,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#54,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

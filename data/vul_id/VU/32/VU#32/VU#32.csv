@@ -146,7 +146,6 @@ VU#32,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,s
 VU#32,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
 VU#32,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#32,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
-VU#32,0.02857143,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#32,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#32,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
 VU#32,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -196,6 +195,7 @@ VU#32,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,N
 VU#32,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#32,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#32,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#32,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#32,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
@@ -246,7 +246,7 @@ VU#32,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#32,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#32,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#32,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#32,0.01041667,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#32,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#32,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#32,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#32,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748

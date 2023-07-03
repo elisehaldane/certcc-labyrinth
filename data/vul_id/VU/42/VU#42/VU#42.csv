@@ -26,6 +26,7 @@ VU#42,0.20000000,https://github.com/meowmeowxw/kernel-exploits,meowmeowxw/kernel
 VU#42,0.16666667,https://github.com/Abdulazizalsewedy/CVE-2021-29447,Abdulazizalsewedy/CVE-2021-29447,567344895
 VU#42,0.16666667,https://github.com/priyacshah/RCE_Sask_Website_Design,priyacshah/RCE_Sask_Website_Design,457425632
 VU#42,0.12500000,https://github.com/d4rk-kn1gh7/b3typer,d4rk-kn1gh7/b3typer,592440733
+VU#42,0.12500000,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#42,0.11111111,https://github.com/Firebasky/CVE-2023-21839,Firebasky/CVE-2023-21839,612534596
 VU#42,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#42,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
@@ -66,7 +67,6 @@ VU#42,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,57766260
 VU#42,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#42,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#42,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
-VU#42,0.02857143,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#42,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#42,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
 VU#42,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
@@ -83,6 +83,7 @@ VU#42,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,40
 VU#42,0.02272727,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#42,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#42,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#42,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#42,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#42,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
 VU#42,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
@@ -131,7 +132,7 @@ VU#42,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bi
 VU#42,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#42,0.01063830,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#42,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#42,0.01041667,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#42,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#42,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#42,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#42,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476

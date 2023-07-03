@@ -9,7 +9,6 @@ VU#47,1.00000000,https://github.com/ViRb3/apk-utilities,ViRb3/apk-utilities,1679
 VU#47,0.50000000,https://github.com/heeloo123/CVE-2021-44228,heeloo123/CVE-2021-44228,616448829
 VU#47,0.50000000,https://github.com/eblair2/Ios15_exploits_POC,eblair2/Ios15_exploits_POC,499267218
 VU#47,0.50000000,https://github.com/Handra1/Project-AdvQuery-ExploitTableRelation-python,Handra1/Project-AdvQuery-ExploitTableRelation-python,470608187
-VU#47,0.33333333,https://github.com/GokulChandar17/SmartBridgeTeam-2.4,GokulChandar17/SmartBridgeTeam-2.4,660521990
 VU#47,0.33333333,https://github.com/cckuailong/Test-JNDI-Injection-Exploit-Plus,cckuailong/Test-JNDI-Injection-Exploit-Plus,520834582
 VU#47,0.33333333,https://github.com/sazolborman/Fake_News_Detection,sazolborman/Fake_News_Detection,517626410
 VU#47,0.33333333,https://github.com/WhiteHacker-P/Evil-Termux,WhiteHacker-P/Evil-Termux,487606225
@@ -94,13 +93,13 @@ VU#47,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecu
 VU#47,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#47,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#47,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
-VU#47,0.02857143,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#47,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
 VU#47,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#47,0.02564103,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#47,0.02272727,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#47,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#47,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
+VU#47,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#47,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,608970037
 VU#47,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
 VU#47,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
@@ -194,7 +193,7 @@ VU#47,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#47,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#47,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#47,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
-VU#47,0.01041667,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#47,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#47,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#47,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#47,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -231,6 +230,7 @@ VU#47,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#47,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#47,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#47,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#47,0.00632911,https://github.com/GokulChandar17/SmartBridgeTeam-2.4,GokulChandar17/SmartBridgeTeam-2.4,660521990
 VU#47,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#47,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#47,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
