@@ -1,0 +1,44 @@
+
+# Summary for results/2023/07/03
+    
+37 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+| ronin-rb/ronin-exploits | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | ['exploit'] | 1 | 2023-07-03 01:24:38+00:00 | 4245 | 51 | Ruby | 18 | [] |
+| Daethyra/Cybersecurity-References | A collection of cheat sheets and power commands. | https://github.com/Daethyra/Cybersecurity-References | ['command injection'] | 1 | 2023-07-03 03:56:35+00:00 | 272 | 1 | Python | 0 | [] |
+| Live-Hack-CVE/POC | This is the POC FULL DATABASE for the website. Feel free to propuse new source for POCs | https://github.com/Live-Hack-CVE/POC | ['cve poc', 'vulnerability poc'] | 2 | 2023-07-03 04:44:02+00:00 | 32637 | 57 | Shell | 5 | [] |
+| azshue/AutoPoison | The official reporsitory of the paper "On the Exploitability of Instruction Tuning". | https://github.com/azshue/AutoPoison | ['exploit'] | 1 | 2023-07-03 04:10:17+00:00 | 265 | 0 | Python | 0 | [] |
+| CrimsonfiedOfficial/ConfigStorage | for bedwars exploiting. Yep thats it | https://github.com/CrimsonfiedOfficial/ConfigStorage | ['exploit'] | 1 | 2023-07-03 03:49:02+00:00 | 105803 | 0 | HTML | 0 | [] |
+| Kanarz/KanarzHack | Miners Haven Exploits | https://github.com/Kanarz/KanarzHack | ['exploit'] | 1 | 2023-07-03 02:55:17+00:00 | 13 | 0 | Lua | 0 | [] |
+| bl4ck44/CTF-desafios | CTF Retos de Captura la bandera resueltos. | https://github.com/bl4ck44/CTF-desafios | ['exploit'] | 1 | 2023-07-03 00:52:22+00:00 | 146 | 0 | | 0 | [] |
+| luminostride/lumoengine | the scripts/exploits of lumoengine | https://github.com/luminostride/lumoengine | ['exploit'] | 1 | 2023-07-03 01:22:25+00:00 | 24 | 1 | | 0 | [] |
+| Pari-Malam/CVE-2023-32315 | None | https://github.com/Pari-Malam/CVE-2023-32315 | ['cve-2 OR cve_2'] | 1 | 2023-07-03 01:29:51+00:00 | 12 | 1 | Python | 1 | ['CVE-2023-32315'] |
+| cd80-ctf/Damn-Vulnerable-ARM-Exploits | Exploits and detailed writeups for vulnerabilities in the Damn Vulnerable ARM router | https://github.com/cd80-ctf/Damn-Vulnerable-ARM-Exploits | ['exploit'] | 1 | 2023-07-03 00:07:33+00:00 | 8 | 0 | Assembly | 0 | [] |
+| skayblye/tryhackme-machines-exploits | Some exploits made for the machines on tryhackme, simply to practice the Python language. | https://github.com/skayblye/tryhackme-machines-exploits | ['exploit'] | 1 | 2023-07-03 01:05:21+00:00 | 79 | 0 | Python | 0 | [] |
+| R0OtAdm1n/pm43-username-rce-poc | None | https://github.com/R0OtAdm1n/pm43-username-rce-poc | ['rce', 'rce poc'] | 2 | 2023-07-03 02:09:34+00:00 | 5 | 0 | Go | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-if | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-if | ['exploit'] | 1 | 2023-07-03 01:22:19+00:00 | 1 | 0 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEAN-if | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-if | ['exploit'] | 1 | 2023-07-03 01:23:10+00:00 | 1 | 0 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEAN-if | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-if | ['exploit'] | 1 | 2023-07-03 01:24:02+00:00 | 1 | 0 | | 0 | [] |
+| R0OtAdm1n/pm43-userpassword-rce-poc | None | https://github.com/R0OtAdm1n/pm43-userpassword-rce-poc | ['rce', 'rce poc'] | 2 | 2023-07-03 02:04:08+00:00 | 4 | 0 | Go | 0 | [] |
+| Jenderal92/WP-CVE-2023-32243 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-32243 | ['cve-2 OR cve_2'] | 1 | 2023-07-03 04:17:45+00:00 | 0 | 0 | Python | 1 | ['CVE-2023-32243'] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-07-03 04:48:48+00:00 | 101992 | 34 | Go | 5 | [] |
+| Rylvns/EnvisionExploits | None | https://github.com/Rylvns/EnvisionExploits | ['exploit'] | 1 | 2023-07-03 03:48:39+00:00 | 1530 | 4 | Lua | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-07-03 04:31:14+00:00 | 899474 | 310 | REXX | 31 | [] |
+| hktalent/scan4all | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | ['0day', 'attack poc'] | 2 | 2023-07-03 00:16:20+00:00 | 53130 | 3695 | Go | 438 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-03 00:30:15+00:00 | 280604 | 5142 | | 1002 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-07-03 05:04:25+00:00 | 767938 | 75 | | 28 | [] |
+| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2023-07-03 03:00:45+00:00 | 7052 | 1 | Java | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-07-03 00:35:06+00:00 | 154 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-07-03 04:02:39+00:00 | 389669 | 672 | Python | 172 | [] |
+| lw8192/Red-Team-Rising | Notes for red teamers - from cloud to Active Directory to many things in between. | https://github.com/lw8192/Red-Team-Rising | ['exploit'] | 1 | 2023-07-03 03:58:05+00:00 | 1107 | 34 | Python | 16 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-07-03 01:52:01+00:00 | 3022 | 203 | HTML | 11 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-07-03 04:20:51+00:00 | 2706 | 137 | Python | 13 | [] |
+| maulvialf/CTF-Writeups | CTF write up. Mostly contains reverse engineering and binary exploit | https://github.com/maulvialf/CTF-Writeups | ['exploit'] | 1 | 2023-07-03 04:56:36+00:00 | 7817 | 7 | JavaScript | 0 | [] |
+| ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit', 'shellcode'] | 2 | 2023-07-03 01:24:14+00:00 | 1180 | 17 | Ruby | 2 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-03 00:13:32+00:00 | 187347 | 5110 | HTML | 641 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-07-03 00:12:37+00:00 | 3531 | 0 | | 1 | [] |
+| AtlasMediaGroup/Scissors | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | ['exploit'] | 1 | 2023-07-03 04:31:46+00:00 | 843 | 10 | Kotlin | 5 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-07-03 00:12:01+00:00 | 609 | 539 | Shell | 106 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-07-03 04:47:26+00:00 | 98007 | 84 | Go | 30 | [] |
+| aaronmansfield5/Roblox-Scripts | 🎮 Roblox Scripts: Unleash the power of exploits with my collection of custom scripts! 💥 | https://github.com/aaronmansfield5/Roblox-Scripts | ['exploit'] | 1 | 2023-07-03 04:39:46+00:00 | 0 | 0 | Lua | 0 | [] |
