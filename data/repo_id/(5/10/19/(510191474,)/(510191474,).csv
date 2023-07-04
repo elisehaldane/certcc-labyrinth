@@ -7,4 +7,5 @@ repo_id,repo_full_name,file,file_sha1,match
 510191474,qi4L/JNDIExploit,lib/com.oracle.webservices.wls.jaxrpc-client.jar,688c84bc76cb0d40b653804d7c9beddd677898d3,VU#91
 510191474,qi4L/JNDIExploit,src/main/java/com/qi4l/jndi/template/Websphere/WebsphereMemshellTemplate.java,6a47d1b33e60d48058340026bcdb31e2a30f04e9,VU#21
 510191474,qi4L/JNDIExploit,lib/wlthint3client.jar,bcbab2e1d4b56f360f4781238dc9f1bac34e8d58,VU#42
+510191474,qi4L/JNDIExploit,src/main/java/com/qi4l/jndi/gadgets/Config/MemShellPayloads.java,bd74920ae5dc0372ebb7fef97926e9e5c4504b21,VU#29
 510191474,qi4L/JNDIExploit,src/main/java/com/qi4l/jndi/gadgets/Wicket1.java,f0835177441651cb49d755f7a3f1d7aa8b4b2aea,CVE-2013-2186
