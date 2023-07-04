@@ -14,4 +14,3 @@ repo_id,repo_full_name,file,file_sha1,match
 624349349,justikail/webshell,alfav4.1-tesla.php,b1b180e5a0fbe2ccb2b5b96427ce8b09431cfc8e,VU#62
 624349349,justikail/webshell,alfav4.1-tesla.php,b1b180e5a0fbe2ccb2b5b96427ce8b09431cfc8e,VU#73
 624349349,justikail/webshell,base64/0xgeck.js,d7657f33b1b1fe9d2acf85c10dd5aee64f28fe7f,VU#29
-624349349,justikail/webshell,priv.php,e1c3a14d100fc976adb8393b19afb336a359cde5,VU#10
