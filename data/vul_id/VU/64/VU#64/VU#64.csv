@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#64,1.00000000,https://github.com/smartinternz02/SI-GuidedProject-525183-1688199509,smartinternz02/SI-GuidedProject-525183-1688199509,660921692
 VU#64,1.00000000,https://github.com/Dofikaltyy/Exploite,Dofikaltyy/Exploite,610176389
 VU#64,1.00000000,https://github.com/k0mraid3/K0mraid3s-System-Shell-PREBUILT,k0mraid3/K0mraid3s-System-Shell-PREBUILT,591041270
 VU#64,1.00000000,https://github.com/24kimel/theheap,24kimel/theheap,550942413
@@ -65,6 +66,7 @@ VU#64,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992
 VU#64,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#64,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#64,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
+VU#64,0.05555556,https://github.com/nonamecoder/CVE-2023-22906,nonamecoder/CVE-2023-22906,635964756
 VU#64,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
 VU#64,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#64,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
