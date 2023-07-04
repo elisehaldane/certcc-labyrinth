@@ -33,6 +33,7 @@ VU#25,0.11111111,https://github.com/copcop981/management_and_exploitation_of_hou
 VU#25,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#25,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#25,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
+VU#25,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#25,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#25,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
 VU#25,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowbase/active-directory-abuse-notes,522582748
@@ -53,6 +54,7 @@ VU#25,0.07142857,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,5744
 VU#25,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#25,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#25,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
+VU#25,0.06666667,https://github.com/justikail/webshell,justikail/webshell,624349349
 VU#25,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
 VU#25,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,598918447
 VU#25,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxicsudo/flash-loan-exploit-tutorial,588540872
@@ -63,7 +65,6 @@ VU#25,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,Rakhit
 VU#25,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
 VU#25,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#25,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
-VU#25,0.06250000,https://github.com/justikail/webshell,justikail/webshell,624349349
 VU#25,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#25,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#25,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
