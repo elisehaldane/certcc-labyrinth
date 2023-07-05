@@ -26,7 +26,6 @@ VU#42,0.20000000,https://github.com/meowmeowxw/kernel-exploits,meowmeowxw/kernel
 VU#42,0.16666667,https://github.com/Abdulazizalsewedy/CVE-2021-29447,Abdulazizalsewedy/CVE-2021-29447,567344895
 VU#42,0.16666667,https://github.com/priyacshah/RCE_Sask_Website_Design,priyacshah/RCE_Sask_Website_Design,457425632
 VU#42,0.12500000,https://github.com/d4rk-kn1gh7/b3typer,d4rk-kn1gh7/b3typer,592440733
-VU#42,0.12500000,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#42,0.11111111,https://github.com/Firebasky/CVE-2023-21839,Firebasky/CVE-2023-21839,612534596
 VU#42,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#42,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
@@ -64,6 +63,7 @@ VU#42,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,s
 VU#42,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#42,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#42,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
+VU#42,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#42,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#42,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#42,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
@@ -82,6 +82,7 @@ VU#42,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#42,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#42,0.02272727,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#42,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
+VU#42,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#42,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#42,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#42,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
