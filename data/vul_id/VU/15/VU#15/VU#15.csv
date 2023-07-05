@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#15,1.00000000,https://github.com/rfrnec21363/roblox-exploit,rfrnec21363/roblox-exploit,660283100
 VU#15,1.00000000,https://github.com/qeeqbox/os-command-injection,qeeqbox/os-command-injection,655160386
 VU#15,1.00000000,https://github.com/TahsinMir/Wordle-Exploiter,TahsinMir/Wordle-Exploiter,453610011
 VU#15,0.50000000,https://github.com/Live-Hack-CVE/CVE-2019-12181,Live-Hack-CVE/CVE-2019-12181,595242617
@@ -39,6 +38,7 @@ VU#15,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-P
 VU#15,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khalednassar/CVE-2022-21449-TLS-PoC,483804378
 VU#15,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
 VU#15,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
+VU#15,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Joseph1/Latency-Arbitrage,662578688
 VU#15,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
 VU#15,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#15,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
