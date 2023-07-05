@@ -12,7 +12,7 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,cloudflared-linux-amd64.deb,53ac55239c71e5d37a3bd629fc968da5b4ecb807,VU#26
 264704306,aryanguenthner/365,cloudflared-linux-amd64.deb,53ac55239c71e5d37a3bd629fc968da5b4ecb807,VU#03
 264704306,aryanguenthner/365,cloudflared-linux-amd64.deb,53ac55239c71e5d37a3bd629fc968da5b4ecb807,VU#99
-264704306,aryanguenthner/365,kali-setup.sh,5b8364e583e05a0ab4d75ec8ed64a85674ebcdfc,CVE-2019-11510
+264704306,aryanguenthner/365,kali-setup.sh,54d9be77e1b4f541978ab2e49efcdd9279f24c0b,CVE-2019-11510
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS12-020
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS17-010
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS08-067
