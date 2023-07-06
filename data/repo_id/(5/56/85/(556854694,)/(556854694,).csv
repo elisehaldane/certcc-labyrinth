@@ -1,6 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 556854694,Ha-L0/Ha-L0.github.io,_posts/2022-11-21-[H4-L0]-HTB-Ambassador.md,12b9edcf7bff2074641c5a2718fe9ef41288a7ae,CVE-2021-43798
 556854694,Ha-L0/Ha-L0.github.io,_posts/2022-12-03-[H4]-Proving-Grounds-Play-VULNHUB-Sunset-Decoy.md,31fa736ad6d940894b23f2a7fa4f4b459363adff,CVE-2021-4034
+556854694,Ha-L0/Ha-L0.github.io,_posts/2023-07-05-[H4-L0]-HTB-Pilgrimage.md,38e24086889bc7449dd217caac5a542171e18dba,CVE-2022-44268
 556854694,Ha-L0/Ha-L0.github.io,_posts/2023-05-06-[H4-L0]-HTB-MonitorsTwo.md,3e846486634be4da5a97bfa13f05ebef2a012c72,CVE-2020-25706
 556854694,Ha-L0/Ha-L0.github.io,_posts/2023-05-06-[H4-L0]-HTB-MonitorsTwo.md,3e846486634be4da5a97bfa13f05ebef2a012c72,CVE-2021-33033
 556854694,Ha-L0/Ha-L0.github.io,_posts/2023-05-06-[H4-L0]-HTB-MonitorsTwo.md,3e846486634be4da5a97bfa13f05ebef2a012c72,CVE-2021-41091
