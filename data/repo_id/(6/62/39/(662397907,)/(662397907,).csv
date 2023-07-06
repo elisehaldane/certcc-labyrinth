@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+662397907,liang2kl/iot-exploits,cve-2022-25084/start_fap.sh,3e3e50cea09594cf154d9687c90716a607165c20,CVE-2022-25084
+662397907,liang2kl/iot-exploits,cve-2022-25084/Dockerfile,570e16cb31915ed83b2a1d5cd4db639595790621,CVE-2022-25084
+662397907,liang2kl/iot-exploits,cve-2022-25084/fap_alt.py,750480f339b78d73746d9811b24a2a71ca00a027,CVE-2022-25084
