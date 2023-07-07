@@ -151,6 +151,7 @@ MS16-032,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/win
 MS16-032,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 MS16-032,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS16-032,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
+MS16-032,0.00333333,https://github.com/soheil-vanaee/Vulnerability-Vault,soheil-vanaee/Vulnerability-Vault,663461857
 MS16-032,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
 MS16-032,0.00323625,https://github.com/4thel00z/ExploitDB-Downloader,4thel00z/ExploitDB-Downloader,97280758
 MS16-032,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,223783259
@@ -210,7 +211,7 @@ MS16-032,0.00025407,https://github.com/Fadila82/metasploit-framework-lorcon2,Fad
 MS16-032,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,121117713
 MS16-032,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS16-032,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
-MS16-032,0.00024570,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
+MS16-032,0.00024564,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS16-032,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS16-032,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 MS16-032,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
@@ -235,8 +236,8 @@ MS16-032,0.00022769,https://github.com/jy0t/https-github.com-rapid7-metasploit-f
 MS16-032,0.00022743,https://github.com/Panupong9844/metasploit-framework,Panupong9844/metasploit-framework,242610427
 MS16-032,0.00022416,https://github.com/RakhithJK/rapid7-metasploit-framework,RakhithJK/rapid7-metasploit-framework,262228153
 MS16-032,0.00022361,https://github.com/Dev-Jayzo/Metasploit-Framework,Dev-Jayzo/Metasploit-Framework,267137927
-MS16-032,0.00022311,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS16-032,0.00022306,https://github.com/rhevo/https-github.com-rhevo-metasploit-framework,rhevo/https-github.com-rhevo-metasploit-framework,272115889
+MS16-032,0.00022302,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS16-032,0.00022158,https://github.com/lbh3110/Metasploit,lbh3110/Metasploit,297422060
 MS16-032,0.00022085,https://github.com/texasconnection88/METASploit,texasconnection88/METASploit,291259333
 MS16-032,0.00022041,https://github.com/CyberTKR/Metasploit-Framework,CyberTKR/Metasploit-Framework,296959076
@@ -277,7 +278,7 @@ MS16-032,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/
 MS16-032,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 MS16-032,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 MS16-032,0.00019508,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
-MS16-032,0.00019376,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS16-032,0.00019372,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-032,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS16-032,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS16-032,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS10-055,0.33333333,https://github.com/Sunqiz/cve-2010-2553-reproduction,Sunqiz/cve-2010-2553-reproduction,537378369
 MS10-055,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
+MS10-055,0.00333333,https://github.com/soheil-vanaee/Vulnerability-Vault,soheil-vanaee/Vulnerability-Vault,663461857
 MS10-055,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
 MS10-055,0.00323625,https://github.com/4thel00z/ExploitDB-Downloader,4thel00z/ExploitDB-Downloader,97280758
 MS10-055,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,223783259
