@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-561844160,openclarity/vmclarity,go.sum,2046e0fe2ab2700b13ea83684ad828ba29239199,VU#05
-561844160,openclarity/vmclarity,go.sum,2046e0fe2ab2700b13ea83684ad828ba29239199,VU#01
+561844160,openclarity/vmclarity,go.sum,3a66813cd368e1b3984406e1dcba7ebadff7ad06,VU#05
+561844160,openclarity/vmclarity,go.sum,3a66813cd368e1b3984406e1dcba7ebadff7ad06,VU#01
 561844160,openclarity/vmclarity,api/server/server.gen.go,7783d3374a4a46d1244e32ed5e46d83f2c4b662e,VU#43
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#78
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#75
