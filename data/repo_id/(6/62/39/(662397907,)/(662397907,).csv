@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+662397907,liang2kl/iot-exploits,cve-2021-31805/exploit.py,100969193732ff23a23334f3e1492f2dfbf8fc50,CVE-2021-31805
 662397907,liang2kl/iot-exploits,cve-2022-25084/start_fap.sh,107252bf63fc71ae3654f88542fcc43a16f3e7f2,CVE-2022-25084
 662397907,liang2kl/iot-exploits,cve-2019-20215/data/start-fap.sh,261445d906b5cf387f860cc9ae260fed84f5134e,CVE-2019-20215
 662397907,liang2kl/iot-exploits,cve-2019-20215/data/DIR859Ax_FW104b02.bin,288c323b160d232a918a2597d20c341af6d3505c,VU#00
@@ -12,7 +13,11 @@ repo_id,repo_full_name,file,file_sha1,match
 662397907,liang2kl/iot-exploits,cve-2019-20215/Dockerfile,776141499f804cf3d1755e0b9aa9954981c50418,CVE-2019-20215
 662397907,liang2kl/iot-exploits,cve-2019-20215/data/setup_docker.sh,7998e157313481477cead6cbb4808f0ae1a8cfee,CVE-2019-20215
 662397907,liang2kl/iot-exploits,cve-2022-25084/Dockerfile.exploit,7b1d741bba9d70054a7ac597332ad92fa699fdbe,CVE-2022-25084
+662397907,liang2kl/iot-exploits,cve-2021-31805/docker-compose.yml,92d1b04e5c3e15b8b46331fdd212d4fae89dc464,CVE-2021-31805
+662397907,liang2kl/iot-exploits,cve-2021-31805/exploit.sh,96d1a750714c58cca055914b4f8730de5dd262e5,CVE-2021-31805
 662397907,liang2kl/iot-exploits,cve-2022-25084/exploit.sh,9ee18fc1c4ae4ffce1e135c782a84ad7a6fb7cdc,CVE-2022-25084
 662397907,liang2kl/iot-exploits,cve-2019-20215/exp.py,acbfcd180e80c41027d3c35f3012417a40c6fbb7,CVE-2019-20215
 662397907,liang2kl/iot-exploits,cve-2022-25084/docker-compose.yml,b13581bb64e0565997e7c332558c2944aba60d3e,CVE-2022-25084
+662397907,liang2kl/iot-exploits,cve-2021-31805/README.md,c71b2455af0bf90d6953f4a59d48a817ccada054,CVE-2021-31805
+662397907,liang2kl/iot-exploits,cve-2021-31805/Dockerfile.exploit,cba71d6b4682d066dc698c165d92504467b02d1c,CVE-2021-31805
 662397907,liang2kl/iot-exploits,cve-2022-25084/firmware.img,d5e0584094883bd1c0b8e52b1d804a9f9d0ab27f,CVE-2022-25084
