@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#27,1.00000000,https://github.com/lyshark/LyInjector,lyshark/LyInjector,525611263
 VU#27,1.00000000,https://github.com/IvyFlight/Blooket-hack-scripts,IvyFlight/Blooket-hack-scripts,462825024
+VU#27,0.50000000,https://github.com/koncharman/Vulnerability_exploit_prediction_using_descriptions,koncharman/Vulnerability_exploit_prediction_using_descriptions,640004496
 VU#27,0.50000000,https://github.com/HaythmKenway/shellcode,HaythmKenway/shellcode,637379978
 VU#27,0.50000000,https://github.com/CCayssiols/TP04_PT_perte_charge,CCayssiols/TP04_PT_perte_charge,430060280
 VU#27,0.50000000,https://github.com/DarkSprings/CVE-2021-43267-POC,DarkSprings/CVE-2021-43267-POC,426061438
@@ -38,7 +39,6 @@ VU#27,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebow
 VU#27,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#27,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
 VU#27,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
-VU#27,0.05000000,https://github.com/wtfplayer/redemption,wtfplayer/redemption,659040406
 VU#27,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
 VU#27,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#27,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
@@ -51,6 +51,7 @@ VU#27,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#27,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#27,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#27,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+VU#27,0.04000000,https://github.com/wtfplayer/redemption,wtfplayer/redemption,659040406
 VU#27,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#27,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
 VU#27,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
