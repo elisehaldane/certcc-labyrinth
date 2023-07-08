@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+663759519,JorgeRh4ck/CVE-Exploits,CVE-2022-22963/Readme.md,31aa8986c50e337eb1435c318e71c28a341f179c,CVE-2022-22963
+663759519,JorgeRh4ck/CVE-Exploits,CVE-2022-22963/springCloud.sh,cab189b9ec701ec85982358bc0a7db60e3cc9094,CVE-2022-22963
