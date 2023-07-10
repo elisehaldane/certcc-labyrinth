@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2018-12895
+661327458,S444-gold/30-days-of-Exploitation,Week 2/DC-6/passwords.txt,314b1ed764c64ef14436f16ef48fc65b75e1029d,VU#010590
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-4047
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-4048
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-4049
@@ -13,8 +13,8 @@ repo_id,repo_full_name,file,file_sha1,match
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2022-3590
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2023-2745
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-3GW2-4656-PFR2
+661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-36326
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-4MHG-J6FX-5G3C
-661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-4VPV-FGG2-GCQC
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-568W-8M88-8G2C
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-6676-CQFM-GW84
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-699Q-3HJ9-889W
@@ -27,9 +27,10 @@ repo_id,repo_full_name,file,file_sha1,match
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-PMMH-2F36-WVHQ
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-Q6PW-GVF4-5FJ5
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-WW7V-JG8C-Q6JW
-661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-36326
-661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-25286
-661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-11029
+661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-XHX9-759F-6P2W
+661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-4VPV-FGG2-GCQC
+661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-XVG2-M2F4-83M7
+661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2018-12895
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-11028
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2018-19296
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2018-20147
@@ -44,7 +45,7 @@ repo_id,repo_full_name,file,file_sha1,match
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2019-16781
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2019-16788
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2019-17669
-661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-XHX9-759F-6P2W
+661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-11029
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2019-17670
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2019-17672
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2019-17673
@@ -60,4 +61,4 @@ repo_id,repo_full_name,file,file_sha1,match
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-11026
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-11027
 661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2019-17671
-661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,GHSA-XVG2-M2F4-83M7
+661327458,S444-gold/30-days-of-Exploitation,Week 1/DC-2/Scans,5cae8c5302bc6096b9489ef6050ca018b512cd8c,CVE-2020-25286
