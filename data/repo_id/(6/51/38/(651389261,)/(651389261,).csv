@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-651389261,Trinity-SYT-SECURITY/arbitrary-file-upload-RCE,Online Pizza Ordering System 1.0.md,a3afab976fc1a1483798461cea7b80cd8b8bbce9,CVE-2023-2246
+651389261,Trinity-SYT-SECURITY/arbitrary-file-upload-RCE,Online Security Guards Hiring System 1.0.md,82531f1f12b274ef1aaa52232cef625335cbcd81,CVE-2023-36119
+651389261,Trinity-SYT-SECURITY/arbitrary-file-upload-RCE,Online Art gallery project 1.0.md,923baa7bfed6fb18171d5dfc3619a9ede03e552b,CVE-2023-37152
+651389261,Trinity-SYT-SECURITY/arbitrary-file-upload-RCE,Online Pizza Ordering System 1.0.md,b4055fc6789a6c17a278abdff5ec8abb6b8049e5,CVE-2023-2246
+651389261,Trinity-SYT-SECURITY/arbitrary-file-upload-RCE,Online Pizza Ordering System 1.0.md,b4055fc6789a6c17a278abdff5ec8abb6b8049e5,CVE-2023-37151
+651389261,Trinity-SYT-SECURITY/arbitrary-file-upload-RCE,Online Clinic Management System 2.2.md,c34fdf2e5377d5c920abdeca8de0281768276612,CVE-2023-36120
