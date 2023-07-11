@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+656174210,djiotua/tryhackme,writeups/README.md,4e7fad657fb1230369e06dcaa9d1432832591352,CVE-2021-3493
+656174210,djiotua/tryhackme,writeups/README.md,4e7fad657fb1230369e06dcaa9d1432832591352,CVE-2021-3560
+656174210,djiotua/tryhackme,writeups/README.md,4e7fad657fb1230369e06dcaa9d1432832591352,CVE-2021-4034
+656174210,djiotua/tryhackme,writeups/README.md,4e7fad657fb1230369e06dcaa9d1432832591352,CVE-2021-41773
+656174210,djiotua/tryhackme,writeups/README.md,4e7fad657fb1230369e06dcaa9d1432832591352,CVE-2022-0847
+656174210,djiotua/tryhackme,writeups/README.md,4e7fad657fb1230369e06dcaa9d1432832591352,CVE-2022-22965

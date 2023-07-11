@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-561844160,openclarity/vmclarity,api/server/server.gen.go,0533d75830ff4b68f9cc2e6526b0dbdf93e3ddbd,VU#292
 561844160,openclarity/vmclarity,go.sum,3a66813cd368e1b3984406e1dcba7ebadff7ad06,VU#05
 561844160,openclarity/vmclarity,go.sum,3a66813cd368e1b3984406e1dcba7ebadff7ad06,VU#01
+561844160,openclarity/vmclarity,api/server/server.gen.go,741f1d3ce107572925013690122b97ee15d5388c,VU#292
 561844160,openclarity/vmclarity,backend/pkg/database/demo.go,996e3268cb71280382affeb55b8b2152451424ff,MS17-11882
 561844160,openclarity/vmclarity,backend/pkg/database/demo.go,996e3268cb71280382affeb55b8b2152451424ff,CVE-2022-43551
 561844160,openclarity/vmclarity,backend/pkg/database/demo.go,996e3268cb71280382affeb55b8b2152451424ff,CVE-2006-2896

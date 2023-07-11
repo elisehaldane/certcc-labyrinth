@@ -1,6 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 644013740,vulncheck-oss/go-exploit,examples/cve-2022-44877/Makefile,0a3a6b7ab97ac01919babe78566a6a7dcccd97ba,CVE-2022-44877
 644013740,vulncheck-oss/go-exploit,docs/c2.md,279ac80c04a5794cb033985a38419f29cf9f5560,CVE-2022-44877
+644013740,vulncheck-oss/go-exploit,docs/scanning.md,2cd8e7c6d91ee02a427f7a59d7cad9718a0a22d5,CVE-2019-15107
 644013740,vulncheck-oss/go-exploit,docs/usage-example.md,3f34f1d0eb3a04432c1a585076b8a8462b71b036,CVE-2022-44877
 644013740,vulncheck-oss/go-exploit,cli/commandline_test.go,4a5aa6905377c13c7b8329ef2bd563f3c3346d4e,CVE-2023-1270
 644013740,vulncheck-oss/go-exploit,protocol/mikrotik_test.go,861260d2282ffad8dd838241d97067d7a1e39cca,CVE-2018-14847
