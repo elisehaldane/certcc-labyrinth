@@ -2,7 +2,9 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#77,1.00000000,https://github.com/TitaniumMC/Titanium,TitaniumMC/Titanium,485712403
 VU#77,1.00000000,https://github.com/Z3r02infini7y/metasploitable3,Z3r02infini7y/metasploitable3,413168480
 VU#77,1.00000000,https://github.com/mlresearch/v26,mlresearch/v26,82717756
+VU#77,0.50000000,https://github.com/Flickworld/Random-Roblox-Exploit,Flickworld/Random-Roblox-Exploit,548046124
 VU#77,0.50000000,https://github.com/Fjowel/CVE-2022-37150,Fjowel/CVE-2022-37150,528645302
+VU#77,0.50000000,https://github.com/Rylvns/EnvisionExploits,Rylvns/EnvisionExploits,507698992
 VU#77,0.50000000,https://github.com/counoxe/Counoxe,counoxe/Counoxe,487935711
 VU#77,0.50000000,https://github.com/xFelienDev/ExploitPack,xFelienDev/ExploitPack,482935784
 VU#77,0.50000000,https://github.com/dusty99/dusty,dusty99/dusty,473135347
@@ -100,6 +102,7 @@ VU#77,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Packag
 VU#77,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#77,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#77,0.02500000,https://github.com/0x0d3ad/Kn0ck,0x0d3ad/Kn0ck,200534665
+VU#77,0.02325581,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#77,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#77,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#77,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
@@ -320,7 +323,7 @@ VU#77,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/m
 VU#77,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#77,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#77,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#77,0.00019508,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#77,0.00019501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#77,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#77,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#77,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

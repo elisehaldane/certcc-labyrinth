@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#59,1.00000000,https://github.com/Flickworld/Random-Roblox-Exploit,Flickworld/Random-Roblox-Exploit,548046124
 VU#59,1.00000000,https://github.com/Kob123678/KoSploit-v2,Kob123678/KoSploit-v2,509768763
 VU#59,1.00000000,https://github.com/NathanTheIceCube/ProSploit-Hub,NathanTheIceCube/ProSploit-Hub,463701038
 VU#59,0.50000000,https://github.com/Gamogd/Exploit,Gamogd/Exploit,468390431
@@ -71,6 +70,7 @@ VU#59,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
 VU#59,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#59,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#59,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
+VU#59,0.02325581,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#59,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#59,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#59,0.02272727,https://github.com/beefproject/beef,beefproject/beef,2833881
@@ -243,7 +243,7 @@ VU#59,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#59,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#59,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#59,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#59,0.00019508,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#59,0.00019501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#59,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#59,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#59,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -3,7 +3,7 @@ GHSA-6P93-P743-35GF,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-46169,L
 GHSA-6P93-P743-35GF,0.33333333,https://github.com/Mr-TechX/Exploit-Collector,Mr-TechX/Exploit-Collector,492129598
 GHSA-6P93-P743-35GF,0.20000000,https://github.com/Shockp/CVE-Exploits,Shockp/CVE-Exploits,644984184
 GHSA-6P93-P743-35GF,0.01030928,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
-GHSA-6P93-P743-35GF,0.00523560,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
+GHSA-6P93-P743-35GF,0.00515464,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 GHSA-6P93-P743-35GF,0.00497512,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 GHSA-6P93-P743-35GF,0.00097182,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
 GHSA-6P93-P743-35GF,0.00096805,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
@@ -11,7 +11,7 @@ GHSA-6P93-P743-35GF,0.00066534,https://github.com/jgamblin/CISA_Enrichment,jgamb
 GHSA-6P93-P743-35GF,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-6P93-P743-35GF,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 GHSA-6P93-P743-35GF,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-GHSA-6P93-P743-35GF,0.00019508,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-6P93-P743-35GF,0.00019501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-6P93-P743-35GF,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-6P93-P743-35GF,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-6P93-P743-35GF,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
