@@ -1,7 +1,7 @@
 
 # Summary for results/2023/07/12
     
-142 records found after deduplication
+143 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -11,6 +11,7 @@
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-07-12 14:04:51+00:00 | 27665 | 10388 | Python | 1619 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2023-07-12 20:24:26+00:00 | 3359 | 3089 | PowerShell | 810 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-07-12 20:48:50+00:00 | 13798 | 5740 | Python | 766 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2023-07-12 04:59:51+00:00 | 6709 | 5697 | Python | 660 | [] |
 | Windows-10-1234/GhostSploit-v3 | A Roblox Exploit Download | https://github.com/Windows-10-1234/GhostSploit-v3 | ['exploit', 'sploit'] | 2 | 2023-07-12 13:19:04+00:00 | 0 | 0 | | 0 | [] |
 | Notorioua/Kali-s-Exploit-Roblox | Kali's Exploit, More Known as KaliXploit Or Kali Exploit Is A Newly Developed Roblox Microsoft Store Version Exploit, containing many APIS even Our Own, KaliAPI. Kali's Exploit Was Made By Notorioua, I Am the Owner Of Notorioua AND WE AREN'T GONNA REVEAL O | https://github.com/Notorioua/Kali-s-Exploit-Roblox | ['exploit'] | 1 | 2023-07-12 13:52:18+00:00 | 9546 | 1 | | 0 | [] |
 | MetadataGitTesting/7yEuRCEI | None | https://github.com/MetadataGitTesting/7yEuRCEI | ['rce'] | 1 | 2023-07-12 13:28:48+00:00 | 0 | 0 | | 0 | [] |
@@ -19,7 +20,6 @@
 | h00p03/Exploitly-HWID-Spoofer | Basic HWID Spoofer created by Exploitly Cybersec Team | https://github.com/h00p03/Exploitly-HWID-Spoofer | ['exploit'] | 1 | 2023-07-12 14:54:09+00:00 | 20 | 0 | C# | 0 | [] |
 | woerschir/roblox-exploits | Just Roblox exploits | https://github.com/woerschir/roblox-exploits | ['exploit'] | 1 | 2023-07-12 15:12:42+00:00 | 2 | 0 | Lua | 0 | [] |
 | Alvi0S/SQL-Injection-Commands | Cheat Sheet of SQL Injection Commands | https://github.com/Alvi0S/SQL-Injection-Commands | ['command injection'] | 1 | 2023-07-12 15:41:39+00:00 | 3 | 0 | nan | 0 | [] |
-| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-12 00:32:58+00:00 | 280034 | 5172 | | 1011 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-07-12 00:45:24+00:00 | 34099 | 55 | | 28 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2023-07-12 03:27:52+00:00 | 118133 | 1020 | Go | 202 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2023-07-12 12:39:05+00:00 | 1877 | 219 | Java | 43 | [] |
@@ -87,6 +87,7 @@
 | MikeTheHash/CVE-2018-5955 | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2023-07-12 00:35:10+00:00 | 32 | 2 | Python | 3 | ['CVE-2018-5955'] |
 | SamMariassouce/aideAlExploitation | None | https://github.com/SamMariassouce/aideAlExploitation | ['exploit'] | 1 | 2023-07-12 00:01:31+00:00 | 1141 | 0 | JavaScript | 0 | [] |
 | H4zh4n/firestore-exploiter | An app to exploit firebase firestore insecure rules. | https://github.com/H4zh4n/firestore-exploiter | ['exploit'] | 1 | 2023-07-12 14:05:53+00:00 | 384 | 0 | Dart | 0 | [] |
+| whokilleddb/injection-for-dummies | A collection of PoCs for different injection techniques on Windows! | https://github.com/whokilleddb/injection-for-dummies | ['shellcode'] | 1 | 2023-07-12 12:11:56+00:00 | 25 | 2 | C | 0 | [] |
 | 0xGrizzly/cExploitDev | A repo of offensive tools written in C | https://github.com/0xGrizzly/cExploitDev | ['exploit'] | 1 | 2023-07-12 18:41:29+00:00 | 3 | 0 | C | 0 | [] |
 | CrimsonfiedOfficial/ConfigStorage | for bedwars exploiting. Yep thats it | https://github.com/CrimsonfiedOfficial/ConfigStorage | ['exploit'] | 1 | 2023-07-12 04:07:10+00:00 | 106403 | 0 | HTML | 0 | [] |
 | intexpression/nekito | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | ['exploit'] | 1 | 2023-07-12 15:44:58+00:00 | 165460 | 9 | Java | 1 | [] |
@@ -138,7 +139,6 @@
 | OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | None | https://github.com/OceanProtector/Ocean-Silent-WORD-EXCEL-Exploit-2023 | ['exploit'] | 1 | 2023-07-12 20:58:12+00:00 | 2 | 0 | | 0 | [] |
 | nickswink/MagicFights | POC for hiding shellcode data inside valid MP4 files on disk. | https://github.com/nickswink/MagicFights | ['shellcode'] | 1 | 2023-07-12 21:50:54+00:00 | 10 | 0 | C# | 0 | [] |
 | nickswink/MagicFightsLoaderC | A POC shellcode loader that searches for shellcode hidden in MP4 files. | https://github.com/nickswink/MagicFightsLoaderC | ['shellcode'] | 1 | 2023-07-12 21:46:44+00:00 | 13 | 0 | C | 0 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2023-07-12 04:59:51+00:00 | 6709 | 5697 | Python | 660 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2023-07-12 18:56:38+00:00 | 79223 | 14012 | Jupyter Notebook | 2390 | [] |
 | gentoo-mirror/zerodaysfordays | Jakob L. Kreuze's personal overlay. | https://github.com/gentoo-mirror/zerodaysfordays | ['zeroday'] | 1 | 2023-07-12 06:31:50+00:00 | 294 | 0 | Shell | 0 | [] |
 | robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2023-07-12 15:54:48+00:00 | 180 | 4 | | 1 | ['CVE-2018-19788'] |
@@ -147,3 +147,4 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-07-12 04:31:17+00:00 | 1055333 | 312 | REXX | 31 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2023-07-12 04:51:30+00:00 | 15964 | 490 | C | 64 | [] |
 | rosvik/cve.248.no | Frontend for cve.248.no, a CVE lookup service | https://github.com/rosvik/cve.248.no | ['cve-2 OR cve_2'] | 1 | 2023-07-12 11:30:38+00:00 | 367 | 2 | TypeScript | 0 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-12 00:32:58+00:00 | 280034 | 5172 | | 1011 | [] |
