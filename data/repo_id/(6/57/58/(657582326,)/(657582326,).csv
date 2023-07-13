@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/bzImage,109eb52afdd8d8982d822f5b1a5543f7e0b46a5e,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/exploit.c,85e9f5cfcbccda69330f3caaecfcf868392c66c7,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/compress.sh,abcf9d7b21838d133c8bc253436c151ed6f2f753,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/initramfs.cpio.gz,bcdf64f92d07b7c368f6f8de971125785fa46c38,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/initramfs.cpio.gz,bcdf64f92d07b7c368f6f8de971125785fa46c38,VU#70
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/decompress.sh,d5d8601daaa9523a5d276b31d5fb7b1ff2bb2c2b,CVE-2022-0995
+657582326,neverm0r/Kernel_exploit,CVE-2022-0995/start.sh,dc1271de68d095ab40cdf13e48c882dcdfe55586,CVE-2022-0995
