@@ -86,9 +86,9 @@ VU#16,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learni
 VU#16,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#16,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#16,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
-VU#16,0.02777778,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#16,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#16,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
+VU#16,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#16,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#16,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#16,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
@@ -279,7 +279,8 @@ VU#16,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#16,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#16,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#16,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#16,0.00019501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#16,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
+VU#16,0.00019497,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#16,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#16,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#16,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

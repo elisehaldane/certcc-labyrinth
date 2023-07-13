@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#46,1.00000000,https://github.com/fuze136/F-136-Exploit,fuze136/F-136-Exploit,609125269
 VU#46,0.50000000,https://github.com/adarshpv9746/Log4j-exploit,adarshpv9746/Log4j-exploit,562809397
 VU#46,0.50000000,https://github.com/0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,476386220
+VU#46,0.33333333,https://github.com/Notorioua/Kali-s-Exploit-Roblox,Notorioua/Kali-s-Exploit-Roblox,665561196
 VU#46,0.33333333,https://github.com/adhikara13/CVE-2022-44268-MagiLeak,adhikara13/CVE-2022-44268-MagiLeak,658471431
 VU#46,0.33333333,https://github.com/qaardvark/report,qaardvark/report,594058376
 VU#46,0.33333333,https://github.com/d4rk-kn1gh7/ctf-pwn-exploits,d4rk-kn1gh7/ctf-pwn-exploits,582791685
@@ -253,7 +254,8 @@ VU#46,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#46,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#46,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#46,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#46,0.00019501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#46,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
+VU#46,0.00019497,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#46,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#46,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#46,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

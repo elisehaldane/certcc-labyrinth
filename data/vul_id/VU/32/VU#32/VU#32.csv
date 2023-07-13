@@ -27,6 +27,7 @@ VU#32,0.50000000,https://github.com/minhnq22/CVE-2021-42171,minhnq22/CVE-2021-42
 VU#32,0.50000000,https://github.com/lilmond/Roblox-Exploit-Scripts,lilmond/Roblox-Exploit-Scripts,382204911
 VU#32,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
 VU#32,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
+VU#32,0.33333333,https://github.com/Notorioua/Kali-s-Exploit-Roblox,Notorioua/Kali-s-Exploit-Roblox,665561196
 VU#32,0.33333333,https://github.com/M3tabox/exploits,M3tabox/exploits,593971476
 VU#32,0.33333333,https://github.com/d4rk-kn1gh7/ctf-pwn-exploits,d4rk-kn1gh7/ctf-pwn-exploits,582791685
 VU#32,0.33333333,https://github.com/BartuYalcin/RobloxExploitTierra37-V1.5,BartuYalcin/RobloxExploitTierra37-V1.5,574105178
@@ -387,7 +388,8 @@ VU#32,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#32,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#32,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#32,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
-VU#32,0.00019501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
+VU#32,0.00019497,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#32,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
