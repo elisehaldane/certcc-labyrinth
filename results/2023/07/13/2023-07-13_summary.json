@@ -398,7 +398,7 @@
     "temp_clone_token":"",
     "network_count":1619,
     "subscribers_count":297,
-    "matched_at":"2023-07-13T17:06:53Z",
+    "matched_at":"2023-07-13T17:06:43Z",
     "organization":{
       "login":"Gallopsled",
       "id":4292577,
@@ -854,7 +854,7 @@
     "temp_clone_token":"",
     "network_count":766,
     "subscribers_count":152,
-    "matched_at":"2023-07-13T17:06:36Z",
+    "matched_at":"2023-07-13T17:06:44Z",
     "organization":{
       "login":"commixproject",
       "id":22997896,
@@ -1838,7 +1838,7 @@
     "temp_clone_token":"",
     "network_count":1011,
     "subscribers_count":386,
-    "matched_at":"2023-07-13T05:03:41Z",
+    "matched_at":"2023-07-13T05:02:07Z",
     "organization":{
       "login":"nomi-sec",
       "id":59186331,
@@ -2959,7 +2959,7 @@
     "temp_clone_token":"",
     "network_count":61,
     "subscribers_count":10,
-    "matched_at":"2023-07-13T17:07:31Z",
+    "matched_at":"2023-07-13T17:06:48Z",
     "organization":{
       "login":"EntySec",
       "id":72795305,
@@ -3253,7 +3253,7 @@
     "temp_clone_token":"",
     "network_count":175,
     "subscribers_count":34,
-    "matched_at":"2023-07-13T05:03:41Z",
+    "matched_at":"2023-07-13T05:02:21Z",
     "organization":null,
     "owner_login":"ycdxsb",
     "owner_id":32149596,
@@ -3382,7 +3382,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2023-07-13T17:06:55Z",
+    "matched_at":"2023-07-13T17:05:55Z",
     "organization":null,
     "owner_login":"IOxCyber",
     "owner_id":40174034,
@@ -4344,7 +4344,7 @@
     "temp_clone_token":"",
     "network_count":649,
     "subscribers_count":276,
-    "matched_at":"2023-07-13T05:02:19Z",
+    "matched_at":"2023-07-13T05:02:07Z",
     "organization":{
       "login":"trickest",
       "id":62057399,
@@ -4735,7 +4735,7 @@
     "temp_clone_token":"",
     "network_count":106,
     "subscribers_count":28,
-    "matched_at":"2023-07-13T05:03:09Z",
+    "matched_at":"2023-07-13T05:03:41Z",
     "organization":null,
     "owner_login":"hktalent",
     "owner_id":18223385,
@@ -6857,7 +6857,7 @@
     "temp_clone_token":"",
     "network_count":6,
     "subscribers_count":2,
-    "matched_at":"2023-07-13T05:02:23Z",
+    "matched_at":"2023-07-13T05:03:42Z",
     "organization":null,
     "owner_login":"adminlove520",
     "owner_id":32920883,
@@ -8397,10 +8397,11 @@
     "owner_site_admin":false,
     "template_repository":null,
     "matched_list":[
+      "cve-2 OR cve_2",
       "exploit",
       "rce"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2018-5955"
     ]
@@ -8758,7 +8759,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2023-07-13T05:02:57Z",
+    "matched_at":"2023-07-13T05:01:56Z",
     "organization":null,
     "owner_login":"justakazh",
     "owner_id":36891477,
@@ -11812,7 +11813,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2023-07-13T17:06:43Z",
+    "matched_at":"2023-07-13T17:06:58Z",
     "organization":null,
     "owner_login":"skyss0fly",
     "owner_id":100278495,

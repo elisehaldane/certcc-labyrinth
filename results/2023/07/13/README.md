@@ -66,7 +66,7 @@
 | 1337kid/Exploits | A collection of exploits that I wrote after reading POCs | https://github.com/1337kid/Exploits | ['exploit'] | 1 | 2023-07-13 09:24:03+00:00 | 53 | 0 | Shell | 0 | [] |
 | pray77/CVE-2023-3640 | SCTF 2023 kernel pwn && CVE-2023-3640 | https://github.com/pray77/CVE-2023-3640 | ['cve-2 OR cve_2'] | 1 | 2023-07-13 11:42:49+00:00 | 41 | 16 | | 0 | ['CVE-2023-3640'] |
 | neverm0r/Kernel_exploit | None | https://github.com/neverm0r/Kernel_exploit | ['exploit'] | 1 | 2023-07-13 14:15:40+00:00 | 13265 | 0 | C | 0 | [] |
-| MikeTheHash/CVE-2018-5955 | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | ['exploit', 'rce'] | 2 | 2023-07-13 22:14:43+00:00 | 50 | 2 | Python | 3 | ['CVE-2018-5955'] |
+| MikeTheHash/CVE-2018-5955 | An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE | https://github.com/MikeTheHash/CVE-2018-5955 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2023-07-13 22:14:43+00:00 | 50 | 2 | Python | 3 | ['CVE-2018-5955'] |
 | dusanlazic/fast | 🚩 Flag Acquisition and Submission Tool — Make writing exploits your only concern during A/D | https://github.com/dusanlazic/fast | ['exploit'] | 1 | 2023-07-13 01:45:18+00:00 | 102 | 3 | Python | 0 | [] |
 | intexpression/nekito | Open-Source Crash client based on Niko by @narumii | https://github.com/intexpression/nekito | ['exploit'] | 1 | 2023-07-13 05:54:11+00:00 | 165538 | 8 | Java | 1 | [] |
 | justakazh/CVE_Database | The Common Vulnerabilities Exposures (CVE) Database | https://github.com/justakazh/CVE_Database | ['0day', 'zeroday'] | 2 | 2023-07-13 02:16:30+00:00 | 245105 | 2 | | 0 | [] |
