@@ -54,6 +54,12 @@ jobs:
          - cve-2 OR cve_2
          # 18176
          - exploit
+         # 17
+         - UEFI bootkit
+         # 12
+         - secure boot bypass
+         # 35
+         - exploitation persistence
 #          # 2944
 #          - '"privilege escalation" OR privesc'
 #          # 1504
@@ -64,7 +70,7 @@ jobs:
 #          - 0-day
 #          # 502 (noisy)
 #          - 1day
-
+        
     steps:
       - name: Get today and yesterday dates
         id: date
