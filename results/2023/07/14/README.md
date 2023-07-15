@@ -1,18 +1,10 @@
 
 # Summary for results/2023/07/14
     
-127 records found after deduplication
+128 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| RCervera14/RCervera14 | Github profile readme | https://github.com/RCervera14/RCervera14 | ['rce'] | 1 | 2023-07-14 23:07:44+00:00 | 3 | 0 | | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-07-14 13:55:43+00:00 | 908029 | 30673 | Ruby | 13338 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2023-07-14 13:37:33+00:00 | 46410 | 923 | Python | 207 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-07-14 01:50:48+00:00 | 27665 | 10394 | Python | 1620 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-07-14 03:34:08+00:00 | 13770 | 5746 | Python | 766 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-07-14 05:33:45+00:00 | 6239 | 3918 | Python | 766 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2023-07-14 01:33:22+00:00 | 6815 | 5706 | Python | 660 | [] |
-| beka-birhanu/0day | None | https://github.com/beka-birhanu/0day | ['0day'] | 1 | 2023-07-14 13:22:05+00:00 | 2 | 0 | Python | 0 | [] |
 | abhiabhi2306/exploits | exploits | https://github.com/abhiabhi2306/exploits | ['exploit'] | 1 | 2023-07-14 14:20:19+00:00 | 6 | 0 | | 0 | [] |
 | rootsecdev/weberp | Weberp 4.15 Blind SQL Injection Exploit | https://github.com/rootsecdev/weberp | ['exploit'] | 1 | 2023-07-14 14:21:30+00:00 | 3 | 0 | Python | 0 | [] |
 | khallot/portswigger-web-academy-exploits | A collection of Python scripts that automate the exploitation of the PortSwigger Web Academy Labs | https://github.com/khallot/portswigger-web-academy-exploits | ['exploit'] | 1 | 2023-07-14 15:02:10+00:00 | 3 | 0 | | 0 | [] |
@@ -20,6 +12,14 @@
 | Ferenas/APLL | Source Code for "Exploiting Counter-Examples for Active Learning with Partial labels" | https://github.com/Ferenas/APLL | ['exploit'] | 1 | 2023-07-14 15:33:06+00:00 | 0 | 0 | | 0 | [] |
 | W00z0/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/W00z0/apex-cheating | ['exploit'] | 1 | 2023-07-14 17:06:33+00:00 | 0 | 1 | | 0 | [] |
 | PentestJaroslaw/Atmail_XSS_to_RCE | None | https://github.com/PentestJaroslaw/Atmail_XSS_to_RCE | ['rce'] | 1 | 2023-07-14 17:14:09+00:00 | 10 | 0 | Python | 0 | [] |
+| GooF0/Alter-valorant- | "Alter" / "Alterrant", the Valorant cheat currently for sale for $50 United States Dollars per month ðŸ˜‚ | https://github.com/GooF0/Alter-valorant- | ['0day'] | 1 | 2023-07-14 17:13:38+00:00 | 17 | 1 | | 0 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-07-14 13:55:38+00:00 | 373870 | 141 | Python | 17 | [] |
+| jassics/awesome-aws-security | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | ['exploit'] | 1 | 2023-07-14 20:51:28+00:00 | 192 | 813 | | 189 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-07-14 04:31:20+00:00 | 1105460 | 313 | REXX | 32 | [] |
+| nu11secur1ty/sh1mazu | Meterpreter auto exploit program | https://github.com/nu11secur1ty/sh1mazu | ['exploit'] | 1 | 2023-07-14 11:18:17+00:00 | 752 | 0 | HTML | 2 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-14 00:30:24+00:00 | 282116 | 5181 | | 1012 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-07-14 00:45:25+00:00 | 37428 | 55 | | 28 | [] |
+| nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2023-07-14 09:33:49+00:00 | 254465 | 837 | HTML | 211 | [] |
 | TAbdiukov/Exploit-DB | Various scripts | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2023-07-14 02:06:49+00:00 | 35 | 0 | Python | 0 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2023-07-14 03:32:37+00:00 | 207294 | 582 | Go | 107 | [] |
 | star-sg/CVE | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | ['exploit'] | 1 | 2023-07-14 03:57:25+00:00 | 3508 | 158 | C | 44 | [] |
@@ -116,19 +116,20 @@
 | FrxRius/Anti-Speed-Hack-System-Roblox | This Repository Gonna Show You A Simple Example Of An Anti-Speed Hack System For Roblox Only As Example, Because It Can Be Easily Bypassed Using HookFunction In Exploits That Have Custom Functions. | https://github.com/FrxRius/Anti-Speed-Hack-System-Roblox | ['exploit'] | 1 | 2023-07-14 12:30:37+00:00 | 1 | 0 | | 0 | [] |
 | TheOfficialMohamed/ps4_exploit_arabic | ps4_exploit_arabic_basic | https://github.com/TheOfficialMohamed/ps4_exploit_arabic | ['exploit'] | 1 | 2023-07-14 12:50:09+00:00 | 444 | 0 | JavaScript | 0 | [] |
 | Hypnotichypnotic818/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | None | https://github.com/Hypnotichypnotic818/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | ['exploit'] | 1 | 2023-07-14 12:46:13+00:00 | 0 | 1 | | 0 | [] |
-| GooF0/Alter-valorant- | "Alter" / "Alterrant", the Valorant cheat currently for sale for $50 United States Dollars per month ðŸ˜‚ | https://github.com/GooF0/Alter-valorant- | ['0day'] | 1 | 2023-07-14 17:13:38+00:00 | 17 | 1 | | 0 | [] |
+| beka-birhanu/0day | None | https://github.com/beka-birhanu/0day | ['0day'] | 1 | 2023-07-14 13:22:05+00:00 | 2 | 0 | Python | 0 | [] |
 | GooF0/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/GooF0/apex-cheating | ['exploit'] | 1 | 2023-07-14 17:14:28+00:00 | 21 | 1 | | 0 | [] |
 | Pog-Frog/cve-2022-44268 | None | https://github.com/Pog-Frog/cve-2022-44268 | ['cve-2 OR cve_2'] | 1 | 2023-07-14 17:46:17+00:00 | 2 | 0 | Python | 1 | ['CVE-2022-44268'] |
 | MattMoony/shellcode | 🐚code for all kinds of occasions or something ... | https://github.com/MattMoony/shellcode | ['shellcode'] | 1 | 2023-07-14 19:39:17+00:00 | 106 | 0 | Assembly | 0 | [] |
 | adambsokol/Ice-cloud-feedbacks-in-RCEMIP | Data and code to accompany "Anvil cloud thinning in high-resolution models implies greater climate sensitivity" by Sokol et al (2023) | https://github.com/adambsokol/Ice-cloud-feedbacks-in-RCEMIP | ['rce'] | 1 | 2023-07-14 20:59:23+00:00 | 855 | 0 | | 0 | [] |
+| MFurkanKaykac/Kali-Linux-Exploit-Files | Kali Linux'un exploit dosyaları | https://github.com/MFurkanKaykac/Kali-Linux-Exploit-Files | ['exploit'] | 1 | 2023-07-14 21:12:58+00:00 | 6 | 0 | Ruby | 1 | [] |
 | Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | None | https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397 | ['cve-2 OR cve_2'] | 1 | 2023-07-14 22:21:22+00:00 | 18567 | 0 | YARA | 1 | ['CVE-2023-23397'] |
 | BlurOne-GIT/Sniffer-Exploited | Sniffer Exploited is a Minecraft plugin that aims to make Sniffers actually worth having in the game. | https://github.com/BlurOne-GIT/Sniffer-Exploited | ['exploit'] | 1 | 2023-07-14 22:46:58+00:00 | 20 | 0 | Kotlin | 0 | [] |
+| RCervera14/RCervera14 | Github profile readme | https://github.com/RCervera14/RCervera14 | ['rce'] | 1 | 2023-07-14 23:07:44+00:00 | 3 | 0 | | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-07-14 13:55:43+00:00 | 908029 | 30673 | Ruby | 13338 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2023-07-14 13:37:33+00:00 | 46410 | 923 | Python | 207 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-07-14 01:50:48+00:00 | 27665 | 10394 | Python | 1620 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-07-14 03:34:08+00:00 | 13770 | 5746 | Python | 766 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-07-14 05:33:45+00:00 | 6239 | 3918 | Python | 766 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2023-07-14 01:33:22+00:00 | 6815 | 5706 | Python | 660 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2023-07-14 15:52:19+00:00 | 4618 | 95 | Go | 7 | [] |
 | SpacehuhnTech/DeauthDetector | Detect deauthentication frames using an ESP8266 | https://github.com/SpacehuhnTech/DeauthDetector | ['exploit'] | 1 | 2023-07-14 16:23:01+00:00 | 1956 | 653 | C++ | 185 | [] |
-| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-07-14 13:55:38+00:00 | 373870 | 141 | Python | 17 | [] |
-| jassics/awesome-aws-security | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | ['exploit'] | 1 | 2023-07-14 20:51:28+00:00 | 192 | 813 | | 189 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-07-14 04:31:20+00:00 | 1105460 | 313 | REXX | 32 | [] |
-| nu11secur1ty/sh1mazu | Meterpreter auto exploit program | https://github.com/nu11secur1ty/sh1mazu | ['exploit'] | 1 | 2023-07-14 11:18:17+00:00 | 752 | 0 | HTML | 2 | [] |
-| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-14 00:30:24+00:00 | 282116 | 5181 | | 1012 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-07-14 00:45:25+00:00 | 37428 | 55 | | 28 | [] |
-| nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2023-07-14 09:33:49+00:00 | 254465 | 837 | HTML | 211 | [] |
