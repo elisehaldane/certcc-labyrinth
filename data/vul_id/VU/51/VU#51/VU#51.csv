@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,1.00000000,https://github.com/KhetaguriDimitri/Exploit,KhetaguriDimitri/Exploit,595219604
+VU#51,0.50000000,https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,666573953
 VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
 VU#51,0.33333333,https://github.com/Malwareman007/CVE-2023-34362,Malwareman007/CVE-2023-34362,664363660
 VU#51,0.33333333,https://github.com/horizon3ai/CVE-2023-34362,horizon3ai/CVE-2023-34362,651666895

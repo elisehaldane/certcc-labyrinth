@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#50,1.00000000,https://github.com/limbo237/ML,limbo237/ML,649179818
 VU#50,1.00000000,https://github.com/paradigmer/sakurajb,paradigmer/sakurajb,371559958
 VU#50,1.00000000,https://github.com/JonathanSalwan/ROPgadget,JonathanSalwan/ROPgadget,2234715
+VU#50,0.50000000,https://github.com/storiku/Metasploit-Termux,storiku/Metasploit-Termux,666633301
 VU#50,0.50000000,https://github.com/Ratlesv/Metasploit-termux,Ratlesv/Metasploit-termux,653613089
 VU#50,0.50000000,https://github.com/samsepoil1211/Metasploit-in-Termux,samsepoil1211/Metasploit-in-Termux,620780803
 VU#50,0.50000000,https://github.com/wshepherd0010/CVE-2022-24112-Lab,wshepherd0010/CVE-2022-24112-Lab,618895100
