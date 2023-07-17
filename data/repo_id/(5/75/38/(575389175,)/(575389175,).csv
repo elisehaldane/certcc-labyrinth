@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
+575389175,dugisan3rd/exploit,ImageMagick-Arbitrary-File-Read (CVE-2022-44268)/CVE-2022-44268_ImageMagick_Arbitrary_File_Read.py,0012c414daf2d3903b14cd3c9f3c38c6c0173c91,CVE-2022-44268
 575389175,dugisan3rd/exploit,dompdf v1.2.1 RCE (CVE-2022-28368)/dompdf-rce.py,101227ffc20dd70aeedf91df89b3ca08db68c762,CVE-2022-28368
 575389175,dugisan3rd/exploit,cve-2015-6668/README.md,214bece582081a00e520b9bb9b9d4a2772c8a373,CVE-2015-6668
+575389175,dugisan3rd/exploit,ImageMagick-Arbitrary-File-Read (CVE-2022-44268)/README.md,2fdf09ac999a3dee69b82750736faa73762a8289,CVE-2022-44268
 575389175,dugisan3rd/exploit,cve-2014-6287/rejetto-hfs-rce.py,39bddd5bb2ef74eb0b64fe13ba064f56e53da635,CVE-2014-6287
 575389175,dugisan3rd/exploit,cve-2022-25765/README.md,4b17a9e78b9842508f092045ee86ca666650b6c7,CVE-2022-25765
 575389175,dugisan3rd/exploit,TinyFM-RCE (CVE-2022-45476)/tiny-fm-rce.py,5045607d6a7bf57d1ca922c1a2e078cf7fda496e,CVE-2022-45476
