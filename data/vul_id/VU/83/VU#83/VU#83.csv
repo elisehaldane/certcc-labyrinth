@@ -54,6 +54,7 @@ VU#83,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-po
 VU#83,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
 VU#83,0.16666667,https://github.com/kaled-alshmrany/FuSeBMC,kaled-alshmrany/FuSeBMC,257922621
 VU#83,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
+VU#83,0.14285714,https://github.com/Jacarte/tawasco,Jacarte/tawasco,633324752
 VU#83,0.14285714,https://github.com/DarkDev1000/Roblox-Exploit-Scripts,DarkDev1000/Roblox-Exploit-Scripts,582159354
 VU#83,0.14285714,https://github.com/taise-hub/log4j-poc,taise-hub/log4j-poc,447444851
 VU#83,0.14285714,https://github.com/f0rm2l1n/ExP1oiT5,f0rm2l1n/ExP1oiT5,380461713
@@ -134,6 +135,7 @@ VU#83,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#83,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#83,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
 VU#83,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
+VU#83,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
 VU#83,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#83,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#83,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875

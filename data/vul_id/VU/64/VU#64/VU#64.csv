@@ -43,6 +43,7 @@ VU#64,0.16666667,https://github.com/bladeskilled/Jine-Exploit,bladeskilled/Jine-
 VU#64,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#64,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
 VU#64,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,486848599
+VU#64,0.14285714,https://github.com/Jacarte/tawasco,Jacarte/tawasco,633324752
 VU#64,0.14285714,https://github.com/adevrent/vol_products_ftx,adevrent/vol_products_ftx,550109865
 VU#64,0.14285714,https://github.com/kenmccann/log4j-aqua-poc,kenmccann/log4j-aqua-poc,439386525
 VU#64,0.12500000,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810
@@ -133,6 +134,7 @@ VU#64,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#64,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#64,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
 VU#64,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#64,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
 VU#64,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#64,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#64,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
