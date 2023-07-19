@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-49303,0.25000000,https://github.com/Live-Hack-CVE/CVE-2011-3192,Live-Hack-CVE/CVE-2011-3192,583397775
 BID-49303,0.14285714,https://github.com/Eutectico/Steel-Mountain,Eutectico/Steel-Mountain,315336341
+BID-49303,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 BID-49303,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
 BID-49303,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
 BID-49303,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793

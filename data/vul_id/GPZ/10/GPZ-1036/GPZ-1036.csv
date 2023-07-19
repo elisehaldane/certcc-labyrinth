@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1036,0.10000000,https://github.com/jonaskaempf/js-exploits,jonaskaempf/js-exploits,133997211
+GPZ-1036,0.03571429,https://github.com/sploitem/WebKitPwn,sploitem/WebKitPwn,633963768
 GPZ-1036,0.00319489,https://github.com/tunz/js-vuln-db,tunz/js-vuln-db,65058285
 GPZ-1036,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1036,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
