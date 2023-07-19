@@ -1,7 +1,7 @@
 
 # Summary for results/2023/07/18
     
-132 records found after deduplication
+133 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|---------------------|
@@ -9,7 +9,7 @@
 | ronin-rb/ronin | Ronin is a free and Open Source Ruby toolkit for security research and development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | ['exploit'] | 1 | 2023-07-18 08:01:48+00:00 | 8770 | 560 | Ruby | 46 | [] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-07-18 00:54:21+00:00 | 908045 | 30699 | Ruby | 13344 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-07-18 14:40:49+00:00 | 27631 | 10403 | Python | 1620 | [] |
-| SharpKean/CNVD-2023-12632_POC | 泛微e-cology9_SQL注入（CNVD-2023-12632） | https://github.com/SharpKean/CNVD-2023-12632_POC | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2023-07-18 10:00:25+00:00 | 21 | 1 | Python | 0 | ['CNVD-2023-12632'] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-07-18 21:45:19+00:00 | 13789 | 5758 | Python | 767 | [] |
 | AlexDkj/BufferOverflowExploit | Buffer Overflow Exploit Project Report | https://github.com/AlexDkj/BufferOverflowExploit | ['exploit'] | 1 | 2023-07-18 11:19:26+00:00 | 208 | 0 | | 0 | [] |
 | Sagar3301/metasploit.sh | None | https://github.com/Sagar3301/metasploit.sh | ['metasploit module OR payload'] | 1 | 2023-07-18 11:26:38+00:00 | 2 | 0 | | 0 | [] |
 | hooka8566/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | None | https://github.com/hooka8566/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | ['exploit'] | 1 | 2023-07-18 11:23:10+00:00 | 0 | 1 | | 0 | [] |
@@ -17,7 +17,7 @@
 | KevinMCerqueira/pentest-with-metasploit | Pentest with Metasploit to Extract and Upload Data | https://github.com/KevinMCerqueira/pentest-with-metasploit | ['metasploit module OR payload'] | 1 | 2023-07-18 17:03:05+00:00 | 118 | 0 | | 0 | [] |
 | HakaKali/CVE-2017-0148 | None | https://github.com/HakaKali/CVE-2017-0148 | ['cve-2 OR cve_2'] | 1 | 2023-07-18 14:06:06+00:00 | 17 | 0 | Ruby | 1 | ['CVE-2017-0148'] |
 | nkwejj/CVE-2018-17456 | None | https://github.com/nkwejj/CVE-2018-17456 | ['cve-2 OR cve_2'] | 1 | 2023-07-18 16:09:08+00:00 | 3 | 0 | | 1 | ['CVE-2018-17456'] |
-| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-18 00:32:49+00:00 | 280327 | 5190 | | 1015 | [] |
+| toorandom/moveit-payload-decrypt-CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | ['cve-2 OR cve_2'] | 1 | 2023-07-18 16:02:00+00:00 | 3 | 0 | Shell | 1 | ['CVE-2023-34362'] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-07-18 00:45:28+00:00 | 29399 | 55 | | 28 | [] |
 | Jonoans/Umbraco-RCE | Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution | https://github.com/Jonoans/Umbraco-RCE | ['exploit', 'rce', 'rce poc', 'remote code execution'] | 4 | 2023-07-18 18:12:05+00:00 | 19 | 5 | Python | 2 | [] |
 | Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2023-07-18 18:32:02+00:00 | 3265 | 32 | C | 21 | [] |
@@ -121,14 +121,14 @@
 | FlexRBLX/Exploit-Template-with-WRDUWP | None | https://github.com/FlexRBLX/Exploit-Template-with-WRDUWP | ['exploit'] | 1 | 2023-07-18 08:20:38+00:00 | 9669 | 0 | C# | 0 | [] |
 | Sirenawilliams898/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | None | https://github.com/Sirenawilliams898/ANDROID-SILENT-JPG-PNG-PICTURE-EXPLOIT | ['exploit'] | 1 | 2023-07-18 08:59:38+00:00 | 0 | 1 | | 0 | [] |
 | dram-beep/exploits | None | https://github.com/dram-beep/exploits | ['exploit'] | 1 | 2023-07-18 10:30:33+00:00 | 1288 | 0 | | 0 | [] |
-| toorandom/moveit-payload-decrypt-CVE-2023-34362 | This shellscript given the OrgKey 0 will parse the header of the base64 artifacts found in MOVEit Logs and decrypt the Serialized object used a payload | https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362 | ['cve-2 OR cve_2'] | 1 | 2023-07-18 16:02:00+00:00 | 3 | 0 | Shell | 1 | ['CVE-2023-34362'] |
+| SharpKean/CNVD-2023-12632_POC | 泛微e-cology9_SQL注入（CNVD-2023-12632） | https://github.com/SharpKean/CNVD-2023-12632_POC | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2023-07-18 10:00:25+00:00 | 21 | 1 | Python | 0 | ['CNVD-2023-12632'] |
 | Halcy0nic/CVE-2023-38434 | Proof of Concept for CVE-2023-38434 | https://github.com/Halcy0nic/CVE-2023-38434 | ['cve-2 OR cve_2'] | 1 | 2023-07-18 16:27:30+00:00 | 0 | 0 | | 1 | ['CVE-2023-38434'] |
 | Mouadfanine/Chatbot_web-site_with_Fanine | votre destination ultime pour découvrir et exploiter le pouvoir des chatbots ! Notre site web est conçu pour vous fournir toutes les ressources et les outils dont vous avez besoin pour créer, mettre en œuvre et optimiser des chatbots efficaces et conversat | https://github.com/Mouadfanine/Chatbot_web-site_with_Fanine | ['exploit'] | 1 | 2023-07-18 16:48:05+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | hcsmall/exploit | None | https://github.com/hcsmall/exploit | ['exploit'] | 1 | 2023-07-18 17:19:29+00:00 | 1 | 0 | | 0 | [] |
+| PunGrumpy/zero-day-exploit-hands-on | 🪲 A vulnerability that is unknown to the developers and the public. It is exploited by hackers before the developers become aware of it and fix it. | https://github.com/PunGrumpy/zero-day-exploit-hands-on | ['exploit'] | 1 | 2023-07-18 17:37:24+00:00 | 1 | 1 | | 0 | [] |
 | hacksyshacker/Recon-Try-Exploit-My-Note.md | None | https://github.com/hacksyshacker/Recon-Try-Exploit-My-Note.md | ['exploit'] | 1 | 2023-07-18 17:41:04+00:00 | 12 | 1 | | 0 | [] |
 | Asmicc/ExploitWare | None | https://github.com/Asmicc/ExploitWare | ['exploit'] | 1 | 2023-07-18 17:38:57+00:00 | 0 | 0 | | 0 | [] |
 | Omolowojay20/GitHub-bitcoinhacking | Hacking is the act of identifying an exploiting weakness in a computer system or network usually to gain unauthorized access 2 personal or organization data | https://github.com/Omolowojay20/GitHub-bitcoinhacking | ['exploit'] | 1 | 2023-07-18 19:17:09+00:00 | 1 | 0 | | 0 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-07-18 21:45:19+00:00 | 13789 | 5758 | Python | 767 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2023-07-18 18:04:54+00:00 | 6709 | 5714 | Python | 662 | [] |
 | thehappydinoa/CVE-2018-7600 | Proof-of-Concept for Drupal CVE-2018-7600 / SA-CORE-2018-002 | https://github.com/thehappydinoa/CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2023-07-18 15:04:36+00:00 | 14 | 6 | Python | 0 | ['CVE-2018-7600'] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2023-07-18 20:28:19+00:00 | 332146 | 36 | C++ | 81 | [] |
@@ -137,3 +137,4 @@
 | imyelo/padoracle | Padding Oracle Attack with Node.js | https://github.com/imyelo/padoracle | ['exploit'] | 1 | 2023-07-18 07:55:12+00:00 | 500 | 8 | JavaScript | 3 | [] |
 | jassics/awesome-aws-security | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | ['exploit'] | 1 | 2023-07-18 04:28:40+00:00 | 192 | 817 | | 191 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-07-18 04:31:43+00:00 | 1242634 | 320 | REXX | 32 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-18 00:32:49+00:00 | 280327 | 5190 | | 1015 | [] |
