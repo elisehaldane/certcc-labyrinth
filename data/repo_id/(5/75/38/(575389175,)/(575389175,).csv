@@ -6,9 +6,11 @@ repo_id,repo_full_name,file,file_sha1,match
 575389175,dugisan3rd/exploit,cve-2014-6287/rejetto-hfs-rce.py,39bddd5bb2ef74eb0b64fe13ba064f56e53da635,CVE-2014-6287
 575389175,dugisan3rd/exploit,cve-2022-25765/README.md,4b17a9e78b9842508f092045ee86ca666650b6c7,CVE-2022-25765
 575389175,dugisan3rd/exploit,TinyFM-RCE (CVE-2022-45476)/tiny-fm-rce.py,5045607d6a7bf57d1ca922c1a2e078cf7fda496e,CVE-2022-45476
+575389175,dugisan3rd/exploit,'request-baskets'-SSRF (CVE-2023-27163)/CVE-2023-27163_request-baskets_v1.2.1_SSRF.py,56b4859af9f0709405a3729ea2bd72dc9ad4915e,CVE-2023-27163
 575389175,dugisan3rd/exploit,dompdf v1.2.1 RCE (CVE-2022-28368)/README.md,581a0dfbb1d2d0872da3ffc1e687ebf4073193e2,CVE-2022-28368
 575389175,dugisan3rd/exploit,cve-2014-6287/README.md,5a70d935d3e0709c6216dd2335e68c185c4488c6,CVE-2014-6287
 575389175,dugisan3rd/exploit,cve-2017-1000119/README.md,6fe0b7ca750cd1b8e5c4981199fdc6d8404f956d,CVE-2017-1000119
+575389175,dugisan3rd/exploit,'request-baskets'-SSRF (CVE-2023-27163)/README.md,7fba241b3ae6869a6a2cebcabf821da3f5c1df65,CVE-2023-27163
 575389175,dugisan3rd/exploit,TinyFM-RCE (CVE-2022-45476)/README.md,805ffad524957b469892afbbe32e4b76775c94bc,GHSA-JHXP-CMCC-WRX8
 575389175,dugisan3rd/exploit,TinyFM-RCE (CVE-2022-45476)/README.md,805ffad524957b469892afbbe32e4b76775c94bc,CVE-2022-45476
 575389175,dugisan3rd/exploit,cve-2018-7600/drupalgeddon.py,87ec84fcd8c77d94db9ebaeeb3b1ccdd2d448706,CVE-2018-7600
