@@ -5,6 +5,7 @@ MS03-026,1.00000000,https://github.com/CENSUS/windows_10_rs2_rs3_exploitation_pr
 MS03-026,1.00000000,https://github.com/moccajoghurt/MemWars,moccajoghurt/MemWars,122758650
 MS03-026,1.00000000,https://github.com/sussurro/msfmods,sussurro/msfmods,11983222
 MS03-026,1.00000000,https://github.com/sussurro/Metasploit-Tools,sussurro/Metasploit-Tools,2817190
+MS03-026,0.50000000,https://github.com/pwndorei/CVE-2018-0959,pwndorei/CVE-2018-0959,668585327
 MS03-026,0.50000000,https://github.com/synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion,synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion,257888464
 MS03-026,0.50000000,https://github.com/midnightslacker/exploit_training,midnightslacker/exploit_training,74299451
 MS03-026,0.50000000,https://github.com/metasploit/framework1,metasploit/framework1,23291645
@@ -371,6 +372,7 @@ MS03-026,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spirito
 MS03-026,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 MS03-026,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS03-026,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
+MS03-026,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
 MS03-026,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS03-026,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS03-026,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
