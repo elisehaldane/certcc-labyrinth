@@ -27,7 +27,7 @@ Labyrinth is _known_ to find
 - repositories that are short-lived and might be gone by the time you go to look at them again
 - repositories that contain actual exploits
 
-We consider many of these to be *noise* in the data collected (except for the known exploit collections of course). However, because this data is intended to serve as the front end of an analysis pipeline, not the finished product, while we're interested in improving the signal-to-noise ratio, we don't really consider it to be a big problem that needs to be fixed (for now at least).
+We consider many of these to be *noise* in the data collected (except for the known exploit collections of course). However, this data is intended to serve as the front end of an analysis pipeline and not the finished product. So while we're interested in improving the signal-to-noise ratio, we don't really consider it to be a big problem that needs to be fixed (for now at least). Improvement suggestions are welcome nonetheless.
 
 All of this is meant to say that:
 
