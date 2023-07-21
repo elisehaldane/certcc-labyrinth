@@ -151,7 +151,7 @@ VU#33,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiv
 VU#33,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#33,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#33,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
-VU#33,0.01492537,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#33,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#33,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
 VU#33,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#33,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
@@ -181,8 +181,8 @@ VU#33,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#33,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#33,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#33,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#33,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#33,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
+VU#33,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#33,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#33,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#33,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
@@ -303,4 +303,5 @@ VU#33,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,55235330
 VU#33,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#33,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#33,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+VU#33,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 VU#33,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

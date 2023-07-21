@@ -166,7 +166,7 @@ MS10-015,0.00147493,https://github.com/nicholas-long/github-exploit-code-reposit
 MS10-015,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS10-015,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS10-015,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
-MS10-015,0.00066138,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS10-015,0.00066050,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS10-015,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS10-015,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 MS10-015,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
@@ -306,6 +306,7 @@ MS10-015,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cybe
 MS10-015,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS10-015,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
 MS10-015,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+MS10-015,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 MS10-015,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-015,0.00000554,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS10-015,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

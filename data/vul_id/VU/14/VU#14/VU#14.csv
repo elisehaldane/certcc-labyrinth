@@ -164,8 +164,8 @@ VU#14,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#14,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#14,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#14,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
-VU#14,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#14,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
+VU#14,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#14,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#14,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#14,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
@@ -285,6 +285,7 @@ VU#14,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,55235330
 VU#14,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#14,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#14,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+VU#14,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 VU#14,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 VU#14,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#14,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

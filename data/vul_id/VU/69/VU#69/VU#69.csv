@@ -203,8 +203,8 @@ VU#69,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#69,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#69,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#69,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#69,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#69,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
+VU#69,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#69,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#69,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#69,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
@@ -345,4 +345,5 @@ VU#69,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/Exploi
 VU#69,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#69,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#69,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+VU#69,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 VU#69,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

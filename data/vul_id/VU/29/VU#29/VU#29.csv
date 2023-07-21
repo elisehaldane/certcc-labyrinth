@@ -63,6 +63,7 @@ VU#29,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended
 VU#29,0.25000000,https://github.com/h1bAna/exploit,h1bAna/exploit,598709439
 VU#29,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/BruteSploit,469596250
 VU#29,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
+VU#29,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#29,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
 VU#29,0.25000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
 VU#29,0.20000000,https://github.com/AnonOpsVN24/Aon-Sploit,AnonOpsVN24/Aon-Sploit,596570889
@@ -334,7 +335,7 @@ VU#29,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/co
 VU#29,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#29,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#29,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
-VU#29,0.01030928,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#29,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#29,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#29,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#29,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
@@ -497,3 +498,4 @@ VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,55235330
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#29,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
+VU#29,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

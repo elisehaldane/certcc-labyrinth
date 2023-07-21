@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-F2RJ-M42R-6JM2,0.02500000,https://github.com/cokeBeer/go-cves,cokeBeer/go-cves,488562350
+GHSA-F2RJ-M42R-6JM2,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
