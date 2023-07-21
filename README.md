@@ -25,6 +25,7 @@ Labyrinth is _known_ to find
 - repositories that are collections of exploits (there sure are a lot of clones of ExploitDb and Metasploit Framework out there)
 - repositories that are work-in-progress, broken, or otherwise abandoned attempts at exploit development
 - repositories that are short-lived and might be gone by the time you go to look at them again
+- repositories that contain actual exploits
 
 We consider many of these to be *noise* in the data collected (except for the known exploit collections of course). However, because this data is intended to serve as the front end of an analysis pipeline, not the finished product, while we're interested in improving the signal-to-noise ratio, we don't really consider it to be a big problem that needs to be fixed (for now at least).
 
