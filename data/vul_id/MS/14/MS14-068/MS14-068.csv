@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS14-068,1.00000000,https://github.com/SzymonRat/Security-scripts-and-hacking-techniques,SzymonRat/Security-scripts-and-hacking-techniques,663739748
 MS14-068,1.00000000,https://github.com/BleepSec/Get-MS14-068,BleepSec/Get-MS14-068,26868998
+MS14-068,0.50000000,https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,669358595
 MS14-068,0.50000000,https://github.com/ahmadnourallah/SEF,ahmadnourallah/SEF,77793950
 MS14-068,0.50000000,https://github.com/hossamhasanin/SEF,hossamhasanin/SEF,77758057
 MS14-068,0.33333333,https://github.com/CaledoniaProject/kekeo-with-asn-vs2013,CaledoniaProject/kekeo-with-asn-vs2013,62607888
