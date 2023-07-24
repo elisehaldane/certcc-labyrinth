@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0847  DirtyPipe/dirtypipe_suid.c,1c9e9d1f91d1f3089a24da0c25f4ee6d4b3b524c,CVE-2022-0847
+670029437,Ha0-Y/kernel-exploit-cve,README.md,64497e8b099f93434c2f053605ff04b2423d8296,CVE-2022-0847
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0847  DirtyPipe/CVE-2022-0847    DirtyPipe.pdf,9e6f0f568d3a0432c235620f2750472cd605a26e,CVE-2022-0847
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0847  DirtyPipe/README.md,a31fca3e374d702ba8a7225fc8913d7078654240,CVE-2022-0847
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0847  DirtyPipe/Makefile,d41d75ad36101b6e35fd8b76e67640a057b67540,CVE-2022-0847
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0847  DirtyPipe/dirtypipe_writeany.c,dcf184e68c16d5e065445c2f811822594c5c787e,CVE-2022-0847
