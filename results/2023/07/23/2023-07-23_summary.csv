@@ -1,4 +1,5 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+C04LA/CVE-2023-28121,None,https://github.com/C04LA/CVE-2023-28121,['cve-2 OR cve_2'],1,2023-07-23T22:38:39+0000,0,0,,0,['CVE-2023-28121']
 JoshUnscripted/BrenSkid,A Non Serious Roblox Exploit Which Is Very Basic And Was Made For Jokes. But It Does Work.,https://github.com/JoshUnscripted/BrenSkid,['exploit'],1,2023-07-23T07:31:40+0000,21357,0,,0,[]
 pmacik-testing/ci-max-bas-0059-0010-app-MZ2xn-exploit-monitor,GitOps Repository,https://github.com/pmacik-testing/ci-max-bas-0059-0010-app-MZ2xn-exploit-monitor,['exploit'],1,2023-07-23T07:58:59+0000,2,0,,0,[]
 SomeoneAlt-86/ExploitHub,JS files for XSS escalation ,https://github.com/SomeoneAlt-86/ExploitHub,['exploit'],1,2023-07-23T09:26:08+0000,1,0,JavaScript,0,[]
@@ -86,11 +87,11 @@ NeenGame/neen-antiflawless,About neen-antiflawless also known as FOVGuard is a g
 BenjiTrapp/cisa-known-vuln-scraper,Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,['exploit'],1,2023-07-23T17:00:13+0000,0,0,,0,[]
 ps42exploit/ps42exploit.github.io,None,https://github.com/ps42exploit/ps42exploit.github.io,['exploit'],1,2023-07-23T18:03:37+0000,865,0,JavaScript,0,[]
 NameNoQQ/Exploits-And-Fun,None,https://github.com/NameNoQQ/Exploits-And-Fun,['exploit'],1,2023-07-23T19:09:47+0000,0,0,,0,[]
-C04LA/CVE-2023-28121,None,https://github.com/C04LA/CVE-2023-28121,['cve-2 OR cve_2'],1,2023-07-23T22:38:39+0000,0,0,,0,['CVE-2023-28121']
 rapid7/metasploit-framework,Metasploit Framework,https://github.com/rapid7/metasploit-framework,['metasploit module OR payload'],1,2023-07-23T12:23:05+0000,905018,30733,Ruby,13349,[]
 pwndbg/pwndbg,Exploit Development and Reverse Engineering with GDB Made Easy,https://github.com/pwndbg/pwndbg,['exploit'],1,2023-07-23T15:32:24+0000,13725,5772,Python,769,[]
 commixproject/commix,Automated All-in-One OS Command Injection Exploitation Tool.,https://github.com/commixproject/commix,"['command injection', 'exploit']",2,2023-07-23T09:56:43+0000,6262,3928,Python,765,[]
 scipag/vulscan,Advanced vulnerability scanning with Nmap NSE,https://github.com/scipag/vulscan,['exploit'],1,2023-07-23T02:53:32+0000,18110,2980,Lua,645,[]
+nettitude/PoshC2,A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.,https://github.com/nettitude/PoshC2,['exploit'],1,2023-07-23T22:14:03+0000,114726,1564,PowerShell,307,[]
 bitsadmin/wesng,Windows Exploit Suggester - Next Generation,https://github.com/bitsadmin/wesng,['exploit'],1,2023-07-23T21:31:15+0000,97980,3561,Python,519,[]
 drb-ra/C2IntelFeeds,Automatically created C2 Feeds,https://github.com/drb-ra/C2IntelFeeds,['metasploit module OR payload'],1,2023-07-23T04:31:32+0000,1306471,324,REXX,32,[]
 nomi-sec/PoC-in-GitHub,📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.,https://github.com/nomi-sec/PoC-in-GitHub,"['cve poc', 'exploit', 'vulnerability poc']",3,2023-07-23T00:30:46+0000,299867,5201,,1018,[]

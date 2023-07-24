@@ -1,10 +1,11 @@
 
 # Summary for results/2023/07/23
     
-96 records found after deduplication
+97 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| C04LA/CVE-2023-28121 | None | https://github.com/C04LA/CVE-2023-28121 | ['cve-2 OR cve_2'] | 1 | 2023-07-23 22:38:39+00:00 | 0 | 0 | | 0 | ['CVE-2023-28121'] |
 | JoshUnscripted/BrenSkid | A Non Serious Roblox Exploit Which Is Very Basic And Was Made For Jokes. But It Does Work. | https://github.com/JoshUnscripted/BrenSkid | ['exploit'] | 1 | 2023-07-23 07:31:40+00:00 | 21357 | 0 | | 0 | [] |
 | pmacik-testing/ci-max-bas-0059-0010-app-MZ2xn-exploit-monitor | GitOps Repository | https://github.com/pmacik-testing/ci-max-bas-0059-0010-app-MZ2xn-exploit-monitor | ['exploit'] | 1 | 2023-07-23 07:58:59+00:00 | 2 | 0 | | 0 | [] |
 | SomeoneAlt-86/ExploitHub | JS files for XSS escalation | https://github.com/SomeoneAlt-86/ExploitHub | ['exploit'] | 1 | 2023-07-23 09:26:08+00:00 | 1 | 0 | JavaScript | 0 | [] |
@@ -16,7 +17,7 @@
 | leonov-av/vulristics | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | ['exploit'] | 1 | 2023-07-23 22:53:03+00:00 | 1589 | 67 | Python | 10 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-07-23 04:04:34+00:00 | 809826 | 77 | | 29 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2023-07-23 19:06:23+00:00 | 44215 | 39 | Python | 10 | [] |
-| JoshUnscripted/VoidSploitsAPI | VoidSploits Is A Discontinued API Which Was Used For The Exploit Void X Created By Me In 2021 | https://github.com/JoshUnscripted/VoidSploitsAPI | ['exploit', 'sploit'] | 2 | 2023-07-23 07:13:21+00:00 | 385 | 0 | | 0 | [] |
+| JoshUnscripted/VoidSploitsAPI | VoidSploits Is A Discontinued API Which Was Used For The Exploit Void X Created By Me In 2021 | https://github.com/JoshUnscripted/VoidSploitsAPI | ['exploit', 'sploit'] | 2 | 2023-07-23 07:13:21+00:00 | 385 | 0 | nan | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-07-23 04:02:45+00:00 | 407093 | 681 | Python | 175 | [] |
 | saferwall/malware-souk | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | ['exploit'] | 1 | 2023-07-23 05:19:08+00:00 | 49893 | 23 | Python | 5 | [] |
 | lw8192/Red-Team-Rising | Notes for red teamers - from cloud to Active Directory to many things in between. | https://github.com/lw8192/Red-Team-Rising | ['exploit'] | 1 | 2023-07-23 15:24:16+00:00 | 1231 | 34 | Python | 16 | [] |
@@ -92,11 +93,11 @@
 | BenjiTrapp/cisa-known-vuln-scraper | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | ['exploit'] | 1 | 2023-07-23 17:00:13+00:00 | 0 | 0 | | 0 | [] |
 | ps42exploit/ps42exploit.github.io | None | https://github.com/ps42exploit/ps42exploit.github.io | ['exploit'] | 1 | 2023-07-23 18:03:37+00:00 | 865 | 0 | JavaScript | 0 | [] |
 | NameNoQQ/Exploits-And-Fun | None | https://github.com/NameNoQQ/Exploits-And-Fun | ['exploit'] | 1 | 2023-07-23 19:09:47+00:00 | 0 | 0 | | 0 | [] |
-| C04LA/CVE-2023-28121 | None | https://github.com/C04LA/CVE-2023-28121 | ['cve-2 OR cve_2'] | 1 | 2023-07-23 22:38:39+00:00 | 0 | 0 | | 0 | ['CVE-2023-28121'] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-07-23 12:23:05+00:00 | 905018 | 30733 | Ruby | 13349 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-07-23 15:32:24+00:00 | 13725 | 5772 | Python | 769 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-07-23 09:56:43+00:00 | 6262 | 3928 | Python | 765 | [] |
 | scipag/vulscan | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | ['exploit'] | 1 | 2023-07-23 02:53:32+00:00 | 18110 | 2980 | Lua | 645 | [] |
+| nettitude/PoshC2 | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | ['exploit'] | 1 | 2023-07-23 22:14:03+00:00 | 114726 | 1564 | PowerShell | 307 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2023-07-23 21:31:15+00:00 | 97980 | 3561 | Python | 519 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-07-23 04:31:32+00:00 | 1306471 | 324 | REXX | 32 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-07-23 00:30:46+00:00 | 299867 | 5201 | | 1018 | [] |
