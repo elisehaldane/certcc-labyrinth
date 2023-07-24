@@ -37,9 +37,9 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,CVE-2022-21699
 568456034,hideckies/exploit-notes,src/exploit/web/cms/WordPress-Pentesting.md,cf8f038611845c4de9ebbebbd052f4707a6c1b6f,CVE-2021-29447
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-4034
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Snapd-Privilege-Escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-4034
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d9e94503cea6d5fb2a563f102197edf235f3a14c,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/windows/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-34527
 568456034,hideckies/exploit-notes,src/exploit/windows/Windows-Print-Spooler-Service.md,dcbcbe817833fac983e487b67d6a12d63210d2d1,CVE-2021-1675
 568456034,hideckies/exploit-notes,src/exploit/network/protocol/VNC-Pentesting.md,e6451f068aae6215ba93f77ce770e20d8c106bbf,CVE-2006-2369
