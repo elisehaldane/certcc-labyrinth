@@ -105,7 +105,6 @@ VU#64,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#64,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#64,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#64,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
-VU#64,0.02325581,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#64,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#64,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#64,0.02173913,https://github.com/Trinadh465/linux-4.19.72_CVE-2022-45934,Trinadh465/linux-4.19.72_CVE-2022-45934,591176120
@@ -159,6 +158,7 @@ VU#64,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini
 VU#64,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#64,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#64,0.01333333,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
+VU#64,0.01315789,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#64,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#64,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#64,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
@@ -220,7 +220,7 @@ VU#64,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#64,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#64,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#64,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
-VU#64,0.00480769,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#64,0.00469484,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#64,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#64,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#64,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
