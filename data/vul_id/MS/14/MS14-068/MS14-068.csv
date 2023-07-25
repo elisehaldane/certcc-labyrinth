@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS14-068,1.00000000,https://github.com/SzymonRat/Security-scripts-and-hacking-techniques,SzymonRat/Security-scripts-and-hacking-techniques,663739748
 MS14-068,1.00000000,https://github.com/BleepSec/Get-MS14-068,BleepSec/Get-MS14-068,26868998
+MS14-068,0.50000000,https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,669358595
 MS14-068,0.50000000,https://github.com/ahmadnourallah/SEF,ahmadnourallah/SEF,77793950
 MS14-068,0.50000000,https://github.com/hossamhasanin/SEF,hossamhasanin/SEF,77758057
 MS14-068,0.33333333,https://github.com/CaledoniaProject/kekeo-with-asn-vs2013,CaledoniaProject/kekeo-with-asn-vs2013,62607888
@@ -42,7 +43,6 @@ MS14-068,0.02040816,https://github.com/Ch1ngg/GetWindowsKernelExploitsKB,Ch1ngg/
 MS14-068,0.02040816,https://github.com/jenaye/Exploit,jenaye/Exploit,148447022
 MS14-068,0.02000000,https://github.com/0x727/MetasploitCoop-Backend,0x727/MetasploitCoop-Backend,397159606
 MS14-068,0.02000000,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
-MS14-068,0.01886792,https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,669358595
 MS14-068,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 MS14-068,0.01818182,https://github.com/crake7/CTF,crake7/CTF,330795559
 MS14-068,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
@@ -273,7 +273,7 @@ MS14-068,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/met
 MS14-068,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 MS14-068,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 MS14-068,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-MS14-068,0.00019482,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-068,0.00019474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-068,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS14-068,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS14-068,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

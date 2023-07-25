@@ -46,6 +46,7 @@ VU#85,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_
 VU#85,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
 VU#85,0.10000000,https://github.com/Guezone/SECMON,Guezone/SECMON,360139511
 VU#85,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
+VU#85,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
 VU#85,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
 VU#85,0.09090909,https://github.com/bhagvatgiri/WavLink-Router-Exploitation,bhagvatgiri/WavLink-Router-Exploitation,565250009
 VU#85,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
@@ -117,7 +118,6 @@ VU#85,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,51462478
 VU#85,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#85,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#85,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
-VU#85,0.01886792,https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,669358595
 VU#85,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#85,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#85,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
@@ -128,6 +128,7 @@ VU#85,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#85,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#85,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#85,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
+VU#85,0.01492537,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#85,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#85,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#85,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
@@ -253,6 +254,7 @@ VU#85,0.00173611,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#85,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#85,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#85,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
+VU#85,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#85,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#85,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#85,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746

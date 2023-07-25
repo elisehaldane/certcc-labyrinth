@@ -68,6 +68,7 @@ VU#03,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,53
 VU#03,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
 VU#03,0.11111111,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
 VU#03,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
+VU#03,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
 VU#03,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
 VU#03,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#03,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
@@ -190,7 +191,6 @@ VU#03,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#03,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#03,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#03,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
-VU#03,0.01886792,https://github.com/ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,ch4t4pt/Central-Management-System-Exploitation-Cheat-Sheet,669358595
 VU#03,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
 VU#03,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#03,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
@@ -328,6 +328,7 @@ VU#03,0.00173611,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#03,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#03,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#03,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
+VU#03,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#03,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#03,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#03,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
@@ -361,6 +362,6 @@ VU#03,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#03,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#03,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#03,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#03,0.00019482,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#03,0.00019474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#03,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#03,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
