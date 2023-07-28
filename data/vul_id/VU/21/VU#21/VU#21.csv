@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#21,1.00000000,https://github.com/yadhukrishnam/bi0sCTF22,yadhukrishnam/bi0sCTF22,592319698
 VU#21,1.00000000,https://github.com/marik22354/Python-Payload-Crypter-V1,marik22354/Python-Payload-Crypter-V1,493417206
 VU#21,1.00000000,https://github.com/triscuitcircuit/rcengine,triscuitcircuit/rcengine,369786465
+VU#21,0.50000000,https://github.com/GRPTheDude/Haze,GRPTheDude/Haze,668586223
 VU#21,0.50000000,https://github.com/playback0022/Networking-Tools-And-Exploits,playback0022/Networking-Tools-And-Exploits,666814746
 VU#21,0.50000000,https://github.com/GualaoXiaoLaji/infiltrate-guide,GualaoXiaoLaji/infiltrate-guide,627195297
 VU#21,0.50000000,https://github.com/wiemerc/Exploits,wiemerc/Exploits,619155323
@@ -378,7 +379,7 @@ VU#21,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#21,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#21,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#21,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#21,0.00019474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00019467,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#21,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#21,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
