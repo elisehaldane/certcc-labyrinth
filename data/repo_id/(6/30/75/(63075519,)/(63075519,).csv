@@ -14,3 +14,4 @@ repo_id,repo_full_name,file,file_sha1,match
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2006_3392.pm,da9935fe7de7a5d80bcebe5aefe55b78a3dffc58,CVE-2006-3392
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,ee4ecab5eee34b8b4bbe7517f1bf131a34307519,CVE-2016-10033
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,ee4ecab5eee34b8b4bbe7517f1bf131a34307519,CVE-2016-10045
+63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2023_38646.pm,f00657f5877b516c1e59b816927db9891679e89d,CVE-2023-38646
