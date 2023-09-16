@@ -2,13 +2,13 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
 VU#25,0.50000000,https://github.com/RLSNLP/Sum4Simp,RLSNLP/Sum4Simp,592602433
-VU#25,0.33333333,https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts,YounesTasra-R4z3rSw0rd/CTF-Scripts,633414763
 VU#25,0.33333333,https://github.com/Maxim12234/yii_rce,Maxim12234/yii_rce,602669801
 VU#25,0.33333333,https://github.com/WesleyWong420/Build-Your-Own-LOLBins,WesleyWong420/Build-Your-Own-LOLBins,575381299
 VU#25,0.33333333,https://github.com/asivery/netmd-exploits,asivery/netmd-exploits,506032174
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#25,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
+VU#25,0.25000000,https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts,YounesTasra-R4z3rSw0rd/CTF-Scripts,633414763
 VU#25,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
 VU#25,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
 VU#25,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
@@ -102,6 +102,7 @@ VU#25,0.04545455,https://github.com/Samdaaman/pytasploit,Samdaaman/pytasploit,39
 VU#25,0.04347826,https://github.com/mu71l473d/linux-exploits,mu71l473d/linux-exploits,517444842
 VU#25,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,118371522
 VU#25,0.04347826,https://github.com/torque59/Nosql-Exploitation-Framework,torque59/Nosql-Exploitation-Framework,15457437
+VU#25,0.04166667,https://github.com/KingImanSlayer05/Roblox-Exploits,KingImanSlayer05/Roblox-Exploits,683732742
 VU#25,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#25,0.04166667,https://github.com/MariliaMeira/CVE-2019-14287,MariliaMeira/CVE-2019-14287,550531926
 VU#25,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
@@ -135,6 +136,8 @@ VU#25,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,5841
 VU#25,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#25,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#25,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
+VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,692069430
+VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607,Trinadh465/linux-4.1.15_CVE-2023-26607,691911118
 VU#25,0.02702703,https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934,Satheesh575555/linux-4.1.15_CVE-2022-45934,618323077
 VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
 VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
@@ -174,6 +177,8 @@ VU#25,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,4718
 VU#25,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#25,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#25,0.01492537,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
+VU#25,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
+VU#25,0.01492537,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#25,0.01492537,https://github.com/N0b1ta/Bit-Cannon,N0b1ta/Bit-Cannon,430397431
 VU#25,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#25,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
@@ -217,9 +222,9 @@ VU#25,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/co
 VU#25,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#25,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#25,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#25,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#25,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#25,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#25,0.01000000,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#25,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
 VU#25,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#25,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
@@ -370,8 +375,8 @@ VU#25,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#25,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#25,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#25,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#25,0.00019463,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
+VU#25,0.00019312,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#25,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

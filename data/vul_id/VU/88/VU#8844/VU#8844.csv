@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#8844,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
+VU#8844,0.01754386,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
+VU#8844,0.00099010,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

@@ -61,9 +61,9 @@ VU#15,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns
 VU#15,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#15,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#15,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
-VU#15,0.03448276,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#15,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#15,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
+VU#15,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#15,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#15,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
 VU#15,0.02857143,https://github.com/hbs7/hbs7.github.io,hbs7/hbs7.github.io,441657025
@@ -74,6 +74,8 @@ VU#15,0.02857143,https://github.com/kmeps4/leeful900,kmeps4/leeful900,438099843
 VU#15,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
 VU#15,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#15,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
+VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,692069430
+VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607,Trinadh465/linux-4.1.15_CVE-2023-26607,691911118
 VU#15,0.02702703,https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934,Satheesh575555/linux-4.1.15_CVE-2022-45934,618323077
 VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
 VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
@@ -91,6 +93,7 @@ VU#15,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-tempera
 VU#15,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#15,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#15,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#15,0.02173913,https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564,nidhi7598/linux-v4.19.72_CVE-2022-3564,691985684
 VU#15,0.02173913,https://github.com/Trinadh465/linux-4.19.72_CVE-2022-45934,Trinadh465/linux-4.19.72_CVE-2022-45934,591176120
 VU#15,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946,Satheesh575555/linux-4.19.72_CVE-2022-36946,561255728
 VU#15,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581,nidhi7598/linux-4.19.72_CVE-2022-29581,541412587
@@ -142,6 +145,7 @@ VU#15,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#15,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#15,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
 VU#15,0.01492537,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
+VU#15,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#15,0.01492537,https://github.com/N0b1ta/Bit-Cannon,N0b1ta/Bit-Cannon,430397431
 VU#15,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#15,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
@@ -177,8 +181,8 @@ VU#15,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_no
 VU#15,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#15,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#15,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#15,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#15,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#15,0.01000000,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#15,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
 VU#15,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#15,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
@@ -225,7 +229,6 @@ VU#15,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#15,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#15,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#15,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
-VU#15,0.00462963,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#15,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#15,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#15,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -235,6 +238,7 @@ VU#15,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detecto
 VU#15,0.00442478,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#15,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#15,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
+VU#15,0.00429185,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#15,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#15,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#15,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
@@ -273,7 +277,7 @@ VU#15,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#15,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#15,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
 VU#15,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#15,0.00065920,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#15,0.00065104,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#15,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#15,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#15,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -302,7 +306,7 @@ VU#15,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#15,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#15,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#15,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#15,0.00019463,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#15,0.00019312,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#15,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#15,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#15,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

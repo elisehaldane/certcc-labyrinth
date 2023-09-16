@@ -21,6 +21,7 @@ VU#09,0.33333333,https://github.com/podsdev/ratExploiter,podsdev/ratExploiter,50
 VU#09,0.33333333,https://github.com/cremigame/cremigame.github.io,cremigame/cremigame.github.io,462043572
 VU#09,0.33333333,https://github.com/go-bi/CVE-2019-0708-EXP-Windows,go-bi/CVE-2019-0708-EXP-Windows,330872202
 VU#09,0.33333333,https://github.com/cbwang505/CVE-2019-0708-EXP-Windows,cbwang505/CVE-2019-0708-EXP-Windows,235239045
+VU#09,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to-end-exploitation,689113520
 VU#09,0.25000000,https://github.com/jacobleo329/NobleCracked-loader,jacobleo329/NobleCracked-loader,658699206
 VU#09,0.25000000,https://github.com/caiquebaracho/CVE-2021-44228,caiquebaracho/CVE-2021-44228,494091356
 VU#09,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
@@ -169,7 +170,6 @@ VU#09,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
 VU#09,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#09,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#09,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
-VU#09,0.01818182,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#09,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#09,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#09,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
@@ -186,6 +186,8 @@ VU#09,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhick
 VU#09,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#09,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#09,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
+VU#09,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
+VU#09,0.01492537,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#09,0.01492537,https://github.com/N0b1ta/Bit-Cannon,N0b1ta/Bit-Cannon,430397431
 VU#09,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#09,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
@@ -229,9 +231,9 @@ VU#09,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_no
 VU#09,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#09,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#09,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#09,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#09,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#09,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#09,0.01000000,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#09,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#09,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#09,0.00934579,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
@@ -352,7 +354,7 @@ VU#09,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#09,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#09,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#09,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#09,0.00019463,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#09,0.00019312,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#09,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#09,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

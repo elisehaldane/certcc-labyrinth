@@ -9,6 +9,7 @@ VU#40,1.00000000,https://github.com/tj-oconnor/undergraduate-re,tj-oconnor/under
 VU#40,0.50000000,https://github.com/firenojutsu/monkmey-sploit,firenojutsu/monkmey-sploit,584502150
 VU#40,0.50000000,https://github.com/felipekkkj/NinjaExploit,felipekkkj/NinjaExploit,575645113
 VU#40,0.50000000,https://github.com/zehadkhan/Seeker_Ngrok,zehadkhan/Seeker_Ngrok,427534040
+VU#40,0.33333333,https://github.com/SoTraore/Web_Security_Academy,SoTraore/Web_Security_Academy,680486000
 VU#40,0.33333333,https://github.com/RustMani/InfinityPublicTest,RustMani/InfinityPublicTest,609304799
 VU#40,0.33333333,https://github.com/nottkriksis/vox-exploit-dev,nottkriksis/vox-exploit-dev,599754132
 VU#40,0.33333333,https://github.com/InfinityCorp214/InfinityCorp214.github.io,InfinityCorp214/InfinityCorp214.github.io,598607738
@@ -77,10 +78,10 @@ VU#40,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,4212
 VU#40,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#40,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#40,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
-VU#40,0.03846154,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#40,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#40,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#40,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
+VU#40,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#40,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 VU#40,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,475290370
 VU#40,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
@@ -167,6 +168,7 @@ VU#40,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,
 VU#40,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#40,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#40,0.01492537,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
+VU#40,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#40,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#40,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#40,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
@@ -193,9 +195,9 @@ VU#40,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,
 VU#40,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#40,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#40,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
-VU#40,0.01020408,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#40,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#40,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#40,0.01000000,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#40,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#40,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#40,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
@@ -235,7 +237,6 @@ VU#40,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#40,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#40,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#40,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
-VU#40,0.00462963,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#40,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#40,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#40,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -245,6 +246,7 @@ VU#40,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detecto
 VU#40,0.00442478,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#40,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#40,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
+VU#40,0.00429185,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#40,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#40,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#40,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
