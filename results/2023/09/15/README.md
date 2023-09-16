@@ -1,17 +1,10 @@
 
 # Summary for results/2023/09/15
     
-119 records found after deduplication
+120 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| rfvscj/rcee | Self-Training Evidence Extraction with Representation Correction | https://github.com/rfvscj/rcee | ['rce'] | 1 | 2023-09-15 22:39:55+00:00 | 5 | 0 | | 0 | [] |
-| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-09-15 15:09:14+00:00 | 945257 | 31165 | Ruby | 13462 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-09-15 14:18:11+00:00 | 27733 | 10586 | Python | 1629 | [] |
-| modernish/modernish | Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities. | https://github.com/modernish/modernish | ['shellcode'] | 1 | 2023-09-15 01:41:42+00:00 | 3910 | 692 | Shell | 16 | [] |
-| Moham3dRiahi/XAttackProV30 | XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttackProV30 | ['exploit'] | 1 | 2023-09-15 18:32:01+00:00 | 151 | 437 | | 218 | [] |
-| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-09-15 15:50:59+00:00 | 374850 | 146 | Python | 16 | [] |
-| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-09-15 16:31:13+00:00 | 2458646 | 347 | REXX | 34 | [] |
 | chair-s-goggles/docker-rce-base | Base image for remote code execution, where all the languages are pre installed | https://github.com/chair-s-goggles/docker-rce-base | ['rce', 'remote code execution'] | 2 | 2023-09-15 10:22:06+00:00 | 0 | 0 | | 0 | [] |
 | chair-s-goggles/RCE | None | https://github.com/chair-s-goggles/RCE | ['rce'] | 1 | 2023-09-15 10:32:36+00:00 | 0 | 0 | | 0 | [] |
 | IMHarman/CVE-2022-33891 | None | https://github.com/IMHarman/CVE-2022-33891 | ['cve-2 OR cve_2'] | 1 | 2023-09-15 12:55:46+00:00 | 8 | 0 | | 0 | ['CVE-2022-33891'] |
@@ -20,6 +13,14 @@
 | dickriding/StresserSRCs | A Collection of various source codes of stress testing services (Including Source Code & Databases) | https://github.com/dickriding/StresserSRCs | ['exploit'] | 1 | 2023-09-15 14:08:43+00:00 | 24166 | 0 | JavaScript | 0 | [] |
 | vsdifficult/Dexploit | My Metasploit Framework version 1.0 | https://github.com/vsdifficult/Dexploit | ['metasploit module OR payload'] | 1 | 2023-09-15 15:17:38+00:00 | 13919 | 0 | Python | 0 | [] |
 | nowak0x01/WPXStrike | WPXStrike is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in WordPress | https://github.com/nowak0x01/WPXStrike | ['rce', 'remote code execution'] | 2 | 2023-09-15 22:56:50+00:00 | 15 | 5 | JavaScript | 0 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-09-15 14:57:17+00:00 | 43708 | 58 | | 30 | [] |
+| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2023-09-15 09:27:26+00:00 | 207563 | 619 | Go | 124 | [] |
+| elefantesagradodeluzinfinita/exploits | None | https://github.com/elefantesagradodeluzinfinita/exploits | ['exploit'] | 1 | 2023-09-15 08:39:46+00:00 | 152591 | 0 | C++ | 0 | [] |
+| LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2023-09-15 23:45:26+00:00 | 38254 | 4949 | TypeScript | 577 | [] |
+| phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2023-09-15 16:56:36+00:00 | 201 | 1575 | C | 305 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-09-15 04:07:01+00:00 | 938725 | 83 | | 31 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-09-15 03:26:37+00:00 | 167 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-09-15 04:03:17+00:00 | 410913 | 730 | Python | 179 | [] |
 | nobodyisnobody/write-ups | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | ['exploit'] | 1 | 2023-09-15 13:16:54+00:00 | 390961 | 106 | Python | 9 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-09-15 01:12:07+00:00 | 2825 | 219 | HTML | 14 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that looks for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2023-09-15 06:36:54+00:00 | 8974 | 56 | Lua | 8 | [] |
@@ -115,12 +116,12 @@
 | 0xTabun/CVE-2014-6287 | Rejetto http File Server 2.3.x (Reverse shell) | https://github.com/0xTabun/CVE-2014-6287 | ['cve-2 OR cve_2'] | 1 | 2023-09-15 22:45:19+00:00 | 15 | 0 | Python | 0 | ['CVE-2014-6287'] |
 | im-hanzou/UPGer | Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery <= 2.19 - Unauthenticated RCE | https://github.com/im-hanzou/UPGer | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2023-09-15 21:57:14+00:00 | 143 | 0 | Shell | 0 | ['CVE-2022-4060'] |
 | UnityYesUnity/Selenium | Keyless, original Easy Exploits showcase from 2016, still works no lag no patch as of September 2023 | https://github.com/UnityYesUnity/Selenium | ['exploit'] | 1 | 2023-09-15 21:43:59+00:00 | 0 | 0 | | 0 | [] |
+| rfvscj/rcee | Self-Training Evidence Extraction with Representation Correction | https://github.com/rfvscj/rcee | ['rce'] | 1 | 2023-09-15 22:39:55+00:00 | 5 | 0 | | 0 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-09-15 15:09:14+00:00 | 945257 | 31165 | Ruby | 13462 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-09-15 14:18:11+00:00 | 27733 | 10586 | Python | 1629 | [] |
+| modernish/modernish | Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities. | https://github.com/modernish/modernish | ['shellcode'] | 1 | 2023-09-15 01:41:42+00:00 | 3910 | 692 | Shell | 16 | [] |
+| Moham3dRiahi/XAttackProV30 | XAttacker Tool PRO V30 Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttackProV30 | ['exploit'] | 1 | 2023-09-15 18:32:01+00:00 | 151 | 437 | | 218 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-09-15 15:50:59+00:00 | 374850 | 146 | Python | 16 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-09-15 16:31:13+00:00 | 2458646 | 347 | REXX | 34 | [] |
 | neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-09-15 01:40:38+00:00 | 1314 | 1 | HTML | 0 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-09-15 00:32:46+00:00 | 306972 | 5333 | | 1042 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-09-15 14:57:17+00:00 | 43708 | 58 | | 30 | [] |
-| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2023-09-15 09:27:26+00:00 | 207563 | 619 | Go | 124 | [] |
-| elefantesagradodeluzinfinita/exploits | None | https://github.com/elefantesagradodeluzinfinita/exploits | ['exploit'] | 1 | 2023-09-15 08:39:46+00:00 | 152591 | 0 | C++ | 0 | [] |
-| phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2023-09-15 16:56:36+00:00 | 201 | 1575 | C | 305 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-09-15 04:07:01+00:00 | 938725 | 83 | | 31 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-09-15 03:26:37+00:00 | 167 | 0 | PHP | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-09-15 04:03:17+00:00 | 410913 | 730 | Python | 179 | [] |
