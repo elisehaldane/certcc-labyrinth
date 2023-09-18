@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+690906596,amirzargham/CVE-2023-08-21-exploit,README.md,9fa896f6b10f10e98c7be36d077ff04a27e4766d,CVE-2022-31470
+690906596,amirzargham/CVE-2023-08-21-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-0008
