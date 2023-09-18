@@ -18,7 +18,6 @@ VU#12,0.14285714,https://github.com/RHEAGROUP/RACE_E8,RHEAGROUP/RACE_E8,65884820
 VU#12,0.14285714,https://github.com/security-softwares/offensive_shellcode,security-softwares/offensive_shellcode,529202611
 VU#12,0.14285714,https://github.com/quxiaoyang0zero/RCER,quxiaoyang0zero/RCER,482165348
 VU#12,0.14285714,https://github.com/Omolabake94/CyberSecurity_Bootcamp,Omolabake94/CyberSecurity_Bootcamp,379455105
-VU#12,0.11111111,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#12,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
 VU#12,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#12,0.11111111,https://github.com/rasyidrafi/R3Xploit,rasyidrafi/R3Xploit,345617409
@@ -115,6 +114,7 @@ VU#12,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#12,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#12,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#12,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
+VU#12,0.02040816,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
 VU#12,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,608970037
 VU#12,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
