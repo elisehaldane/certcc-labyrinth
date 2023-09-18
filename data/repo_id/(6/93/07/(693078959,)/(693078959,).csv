@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+693078959,uf0o/exploits_dev,kernel/CVE-2022-34718.py,b70997ef23768678f53ce3032f298267013799f3,CVE-2022-34718
