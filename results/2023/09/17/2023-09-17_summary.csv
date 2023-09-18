@@ -1,4 +1,5 @@
 full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+luanoliveira350/GameOverlayFS,GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0,https://github.com/luanoliveira350/GameOverlayFS,['exploit'],1,2023-09-17T23:38:32+0000,4,0,Shell,0,"['CVE-2023-2640', 'CVE-2023-32629']"
 an040702/CVE-2023-38831,None,https://github.com/an040702/CVE-2023-38831,['cve-2 OR cve_2'],1,2023-09-17T05:26:44+0000,7122,0,Python,0,['CVE-2023-38831']
 PABLEXWorld/ScreenFX,Old project from 2017. A demo of various interesting ways to exploit the Windows Magnification API.,https://github.com/PABLEXWorld/ScreenFX,['exploit'],1,2023-09-17T06:15:37+0000,172,0,C#,0,[]
 PABLEXWorld/MIBVirus,"Old project from 2017. Based on ScreenFX, a demo (Joke Virus) exploiting the Windows Magnification API to do some funky things. Replicates the M.I.B.Rezzed video by TheMGMjr (https://youtu.be/bdV1WyFH3E0) using your Windows desktop, with a little extra fla",https://github.com/PABLEXWorld/MIBVirus,['exploit'],1,2023-09-17T06:23:03+0000,1870,0,C#,0,[]
@@ -7,7 +8,6 @@ evi-g/Web-Development,CEID PROJECT 2020 - Crowdsourcing System for Recording and
 AdityaIyer2k7/contrib_exploit,None,https://github.com/AdityaIyer2k7/contrib_exploit,['exploit'],1,2023-09-17T12:38:25+0000,3,0,Python,0,[]
 Zaideby/buffer-overflow,Some python scripts in order to exploit buffer overflow.,https://github.com/Zaideby/buffer-overflow,['exploit'],1,2023-09-17T16:08:26+0000,1,0,,0,[]
 lalka000/exploit,ps3,https://github.com/lalka000/exploit,['exploit'],1,2023-09-17T19:20:08+0000,1,0,,0,[]
-nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2023-09-17T14:57:19+0000,44070,57,,30,[]
 IoT-PTv/IoT-PT,A Virtual environment for Pentesting IoT Devices,https://github.com/IoT-PTv/IoT-PT,['exploit'],1,2023-09-17T05:38:27+0000,2290,357,,71,[]
 TheCruZ/kdmapper,KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory,https://github.com/TheCruZ/kdmapper,['exploit'],1,2023-09-17T20:16:51+0000,186,1291,C++,410,[]
 nemesida-waf/waf-bypass,Check your WAF before an attacker does,https://github.com/nemesida-waf/waf-bypass,['rce'],1,2023-09-17T11:50:06+0000,711,854,Python,131,[]
@@ -80,6 +80,7 @@ Anthony-T-N/CTF-Binary-Exploitation,None,https://github.com/Anthony-T-N/CTF-Bina
 opsecs/Karma-Nuker,Fast and simple discord server nuker. Only 5 commands atm. Add more if u want to lol.,https://github.com/opsecs/Karma-Nuker,['exploit'],1,2023-09-17T09:04:58+0000,13,1,Python,0,[]
 HackWithSumit/SocialEngineering-PyPhisher,"Social Engineering Definition. Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.",https://github.com/HackWithSumit/SocialEngineering-PyPhisher,['exploit'],1,2023-09-17T03:23:34+0000,2,0,,0,[]
 und3sc0n0c1d0/SSJIgeddon,Script to automate the validation and exploitation of SSJI (Server Side JavaScript Injection) vulnerabilities.,https://github.com/und3sc0n0c1d0/SSJIgeddon,['exploit'],1,2023-09-17T20:20:48+0000,7,1,Shell,0,[]
+vulncheck-oss/cve-2023-36845-scanner,A tool to discover Juniper firewalls vulnerable to CVE-2023-36845,https://github.com/vulncheck-oss/cve-2023-36845-scanner,['cve-2 OR cve_2'],1,2023-09-17T09:14:32+0000,10,1,Go,0,['CVE-2023-36845']
 jor-arrgar/Control_de_cultivos,Streamlit-based app for exploitation control and PAC conditions checking,https://github.com/jor-arrgar/Control_de_cultivos,['exploit'],1,2023-09-17T13:26:48+0000,47,0,Python,0,[]
 codingcore12/SILENT-PDF-EXPLOIT-CLEANji,None,https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANji,['exploit'],1,2023-09-17T01:17:52+0000,1,1,,0,[]
 codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANji,None,https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANji,['exploit'],1,2023-09-17T01:18:50+0000,1,1,,0,[]
@@ -94,7 +95,6 @@ Dismalitie/ProtoSploit,The official repo for ProtoSploit,https://github.com/Dism
 EdboyELP/HackTheBox,A repository displaying my HackTheBox exploits,https://github.com/EdboyELP/HackTheBox,['exploit'],1,2023-09-17T20:50:17+0000,0,0,,0,[]
 zecoxao/kexploit_uaf_kit,6.72 exploit for activated kits,https://github.com/zecoxao/kexploit_uaf_kit,['exploit'],1,2023-09-17T23:20:57+0000,812,0,C,0,[]
 unCodeBoss/wordpress-exploit,None,https://github.com/unCodeBoss/wordpress-exploit,['exploit'],1,2023-09-17T23:04:19+0000,253,0,CSS,0,[]
-luanoliveira350/GameOverlayFS,GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0,https://github.com/luanoliveira350/GameOverlayFS,['exploit'],1,2023-09-17T23:38:32+0000,4,0,Shell,0,"['CVE-2023-2640', 'CVE-2023-32629']"
 ronin-rb/ronin-exploits,A Ruby micro-framework for writing and running exploits,https://github.com/ronin-rb/ronin-exploits,['exploit'],1,2023-09-17T21:09:14+0000,4255,57,Ruby,19,[]
 rapid7/metasploit-framework,Metasploit Framework,https://github.com/rapid7/metasploit-framework,['metasploit module OR payload'],1,2023-09-17T14:47:24+0000,945257,31174,Ruby,13467,[]
 htrgouvea/spellbook,Framework for rapid development of offensive security tools,https://github.com/htrgouvea/spellbook,['exploit'],1,2023-09-17T11:29:48+0000,72812,95,Perl,21,[]
@@ -103,3 +103,4 @@ jassics/awesome-aws-security,"Curated list of links, references, books videos, t
 drb-ra/C2IntelFeeds,Automatically created C2 Feeds,https://github.com/drb-ra/C2IntelFeeds,['metasploit module OR payload'],1,2023-09-17T04:31:20+0000,2472977,347,REXX,34,[]
 neerajlovecyber/neerajlovecyber,"💫 About Me:  🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography.",https://github.com/neerajlovecyber/neerajlovecyber,['exploit'],1,2023-09-17T01:42:07+0000,1319,1,HTML,0,[]
 nomi-sec/PoC-in-GitHub,📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.,https://github.com/nomi-sec/PoC-in-GitHub,"['cve poc', 'exploit', 'vulnerability poc']",3,2023-09-17T00:32:04+0000,328495,5341,,1044,[]
+nomi-sec/NVD-Exploit-List-Ja,🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description,https://github.com/nomi-sec/NVD-Exploit-List-Ja,['exploit'],1,2023-09-17T14:57:19+0000,44070,57,,30,[]
