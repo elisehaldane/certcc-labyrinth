@@ -5,12 +5,13 @@ VU#396,0.08333333,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/
 VU#396,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#396,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#396,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
-VU#396,0.07692308,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#396,0.07142857,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
 VU#396,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
 VU#396,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
 VU#396,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#396,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#396,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
+VU#396,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#396,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#396,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#396,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
