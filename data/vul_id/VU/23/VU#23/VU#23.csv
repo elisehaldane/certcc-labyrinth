@@ -76,6 +76,7 @@ VU#23,0.16666667,https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228,zhangxvx/L
 VU#23,0.16666667,https://github.com/TheArqsz/CVE-2021-44228-PoC,TheArqsz/CVE-2021-44228-PoC,437142703
 VU#23,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-poc,437139341
 VU#23,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
+VU#23,0.14285714,https://github.com/elefantesagradodeluzinfinita/cve-2023-38831,elefantesagradodeluzinfinita/cve-2023-38831,693647970
 VU#23,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
 VU#23,0.14285714,https://github.com/aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,524170531
 VU#23,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen/Shellcode-sols,456201869
@@ -190,6 +191,7 @@ VU#23,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploit
 VU#23,0.01492537,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#23,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#23,0.01492537,https://github.com/N0b1ta/Bit-Cannon,N0b1ta/Bit-Cannon,430397431
+VU#23,0.01470588,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#23,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#23,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#23,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
@@ -354,7 +356,7 @@ VU#23,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#23,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#23,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#23,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#23,0.00019301,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00019290,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#23,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

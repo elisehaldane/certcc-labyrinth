@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
 VU#25,0.50000000,https://github.com/RLSNLP/Sum4Simp,RLSNLP/Sum4Simp,592602433
+VU#25,0.33333333,https://github.com/max423/Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA,max423/Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA,693576006
 VU#25,0.33333333,https://github.com/Maxim12234/yii_rce,Maxim12234/yii_rce,602669801
 VU#25,0.33333333,https://github.com/WesleyWong420/Build-Your-Own-LOLBins,WesleyWong420/Build-Your-Own-LOLBins,575381299
 VU#25,0.33333333,https://github.com/asivery/netmd-exploits,asivery/netmd-exploits,506032174
@@ -137,6 +138,7 @@ VU#25,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,5841
 VU#25,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#25,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#25,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
+VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
 VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,692069430
 VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607,Trinadh465/linux-4.1.15_CVE-2023-26607,691911118
 VU#25,0.02702703,https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934,Satheesh575555/linux-4.1.15_CVE-2022-45934,618323077
@@ -192,6 +194,7 @@ VU#25,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739
 VU#25,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#25,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#25,0.01408451,https://github.com/dn0sar/frontal_poc,dn0sar/frontal_poc,275815738
+VU#25,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#25,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#25,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#25,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
@@ -377,7 +380,7 @@ VU#25,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/m
 VU#25,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#25,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#25,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
-VU#25,0.00019301,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00019290,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#25,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

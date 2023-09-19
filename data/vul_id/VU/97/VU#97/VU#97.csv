@@ -72,6 +72,7 @@ VU#97,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,57766260
 VU#97,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#97,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#97,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
+VU#97,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
 VU#97,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,692069430
 VU#97,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607,Trinadh465/linux-4.1.15_CVE-2023-26607,691911118
 VU#97,0.02702703,https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934,Satheesh575555/linux-4.1.15_CVE-2022-45934,618323077
@@ -165,6 +166,7 @@ VU#97,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#97,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#97,0.01492537,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#97,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
+VU#97,0.01470588,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#97,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#97,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
 VU#97,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
@@ -306,7 +308,7 @@ VU#97,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#97,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#97,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#97,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#97,0.00019301,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#97,0.00019290,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#97,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#97,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#97,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
