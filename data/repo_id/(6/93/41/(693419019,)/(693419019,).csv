@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+693419019,j4k0m/godkiller,CVE-2022-1970_account_takeover_poc/README.md,13a72648d23603b48c1989f7518d989f4c2cd404,CVE-2022-1970
+693419019,j4k0m/godkiller,CVE-2020-11431_arbitrary_file_read_poc/README.md,24ee21c967ceb14afe2984b976243053fec42043,CVE-2020-11431
+693419019,j4k0m/godkiller,CVE-2023-30019_ssrf_imgproxy/README.md,911ac7f4faf4128118e249cec91f7a6d30a3979e,CVE-2023-30019
+693419019,j4k0m/godkiller,README.md,9f3a31f6a50f788e345eec5efafd18835c06d2bb,CVE-2020-11431
+693419019,j4k0m/godkiller,README.md,9f3a31f6a50f788e345eec5efafd18835c06d2bb,CVE-2022-1970
+693419019,j4k0m/godkiller,README.md,9f3a31f6a50f788e345eec5efafd18835c06d2bb,CVE-2023-30019
