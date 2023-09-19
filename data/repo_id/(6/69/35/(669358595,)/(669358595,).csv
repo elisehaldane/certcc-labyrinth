@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,Active-Directory/NTLM/NTLM Attack Surface.md,45c5baf6400aa09e96e22766921f3823d3ed163d,CVE-2019-1040
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vCenter/Virtual Machine Escape.md,84b7e81f20369ba2d97aade8d91795aefaf9b615,CVE-2017-4903
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vCenter/Virtual Machine Escape.md,84b7e81f20369ba2d97aade8d91795aefaf9b615,CVE-2018-6981
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vCenter/Virtual Machine Escape.md,84b7e81f20369ba2d97aade8d91795aefaf9b615,CVE-2021-22045
@@ -12,7 +13,6 @@ repo_id,repo_full_name,file,file_sha1,match
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vCenter/vCenter Attack Surface.md,87de890f7f7d2eed8a9fcaebeb53131a74a01866,CVE-2021-21994
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vCenter/vCenter Attack Surface.md,87de890f7f7d2eed8a9fcaebeb53131a74a01866,CVE-2021-22005
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vCenter/vCenter Attack Surface.md,87de890f7f7d2eed8a9fcaebeb53131a74a01866,CVE-2021-22015
-669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,Active-Directory/NTLM/NTLM Attack Surface.md,8efb18466e95ca0b52f0fad215fb9e574c7d3630,CVE-2019-1040
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,Active-Directory/Kerberos/Kerberos Attack Surface.md,cf2501ba593743e6d2e8a92a8f484fe4e2452e73,CVE-2014-6324
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,Active-Directory/Kerberos/Kerberos Attack Surface.md,cf2501ba593743e6d2e8a92a8f484fe4e2452e73,CVE-2020-1704
 669358595,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,Active-Directory/Kerberos/Kerberos Attack Surface.md,cf2501ba593743e6d2e8a92a8f484fe4e2452e73,CVE-2019-1040
