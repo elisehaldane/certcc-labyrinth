@@ -4,7 +4,6 @@ VU#05,1.00000000,https://github.com/CMEPW/221b,CMEPW/221b,664748131
 VU#05,1.00000000,https://github.com/CMEPW/myph,CMEPW/myph,596950161
 VU#05,1.00000000,https://github.com/bortoluzzi/UC3VUL05,bortoluzzi/UC3VUL05,586812072
 VU#05,1.00000000,https://github.com/jenydu/CNVds,jenydu/CNVds,556434971
-VU#05,1.00000000,https://github.com/x90hack/vulnerabilty_lab,x90hack/vulnerabilty_lab,499672388
 VU#05,1.00000000,https://github.com/maddydevgits/ML-Bootcamp-RCEW-Kurnool,maddydevgits/ML-Bootcamp-RCEW-Kurnool,478671320
 VU#05,1.00000000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#05,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
@@ -47,6 +46,7 @@ VU#05,0.14285714,https://github.com/Projectrcs/Tinder-Exploit,Projectrcs/Tinder-
 VU#05,0.14285714,https://github.com/Projectrcs/Macro-Exploit,Projectrcs/Macro-Exploit,539945497
 VU#05,0.14285714,https://github.com/Projectrcs/XLL-Excel-Dropper,Projectrcs/XLL-Excel-Dropper,539944914
 VU#05,0.14285714,https://github.com/HG-Arman/metasploit-easy-,HG-Arman/metasploit-easy-,512732900
+VU#05,0.14285714,https://github.com/x90hack/vulnerabilty_lab,x90hack/vulnerabilty_lab,499672388
 VU#05,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc-Cybersecurity-Thesis,426781771
 VU#05,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#05,0.12500000,https://github.com/Mithun1508/remote-code-execution-engine,Mithun1508/remote-code-execution-engine,596367907
@@ -277,7 +277,7 @@ VU#05,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#05,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#05,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#05,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#05,0.00019309,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#05,0.00019301,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#05,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#05,0.00007218,https://github.com/vulsio/go-exploitdb,vulsio/go-exploitdb,151353348
 VU#05,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

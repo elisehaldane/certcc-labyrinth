@@ -123,7 +123,6 @@ VU#23,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,mi
 VU#23,0.05263158,https://github.com/PitchyATree/roblox-exploit-library,PitchyATree/roblox-exploit-library,407856378
 VU#23,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
 VU#23,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
-VU#23,0.04761905,https://github.com/KingImanSlayer05/Roblox-Exploits,KingImanSlayer05/Roblox-Exploits,683732742
 VU#23,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#23,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#23,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
@@ -131,6 +130,7 @@ VU#23,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelme
 VU#23,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
 VU#23,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
 VU#23,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
+VU#23,0.04347826,https://github.com/KingImanSlayer05/Roblox-Exploits,KingImanSlayer05/Roblox-Exploits,683732742
 VU#23,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#23,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#23,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
@@ -279,13 +279,13 @@ VU#23,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detecto
 VU#23,0.00442478,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#23,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#23,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
-VU#23,0.00429185,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#23,0.00427350,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#23,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#23,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#23,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#23,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
 VU#23,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
-VU#23,0.00371747,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#23,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#23,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#23,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#23,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
@@ -354,7 +354,7 @@ VU#23,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasp
 VU#23,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#23,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#23,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
-VU#23,0.00019309,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00019301,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#23,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
