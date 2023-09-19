@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+627486714,Oracle-Security/Published-Exploits,DotNetNuke/CVE-2018-14486/xss.js,4866df5ec9770612c6dc61c20762b516e4e5d8f5,CVE-2018-14486
+627486714,Oracle-Security/Published-Exploits,DotNetNuke/CVE-2018-14486/vulnwebsite.py,7372d4eaafefb9afa5bee0af2630f43d8ab58c90,CVE-2018-14486
+627486714,Oracle-Security/Published-Exploits,DotNetNuke/CVE-2018-14486/README.md,ef3035d10e4327e8bb7b93bde73c15fde8131dde,CVE-2018-14486
