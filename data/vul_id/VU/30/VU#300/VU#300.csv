@@ -27,6 +27,7 @@ VU#300,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi
 VU#300,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#300,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#300,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#300,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
 VU#300,0.02173913,https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564,nidhi7598/linux-v4.19.72_CVE-2022-3564,691985684
 VU#300,0.02173913,https://github.com/Trinadh465/linux-4.19.72_CVE-2022-45934,Trinadh465/linux-4.19.72_CVE-2022-45934,591176120
 VU#300,0.02173913,https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946,Satheesh575555/linux-4.19.72_CVE-2022-36946,561255728
@@ -62,7 +63,7 @@ VU#300,0.00990099,https://github.com/Snoopy-Sec/Localroot-ALL-CVE,Snoopy-Sec/Loc
 VU#300,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#300,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#300,0.00613497,https://github.com/jiayy/android_vuln_poc-exp,jiayy/android_vuln_poc-exp,67602977
-VU#300,0.00427350,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#300,0.00425532,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#300,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#300,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#300,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
