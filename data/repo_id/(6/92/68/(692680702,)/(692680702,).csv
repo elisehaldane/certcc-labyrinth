@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,file-operations.md,d4f9cd588a0a34257068b93d775a6846ae4e0bdc,CVE-2020-8255
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,file-operations.md,d4f9cd588a0a34257068b93d775a6846ae4e0bdc,CVE-2020-8260
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,file-operations.md,d4f9cd588a0a34257068b93d775a6846ae4e0bdc,GPZ-1342
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,account-security.md,f263aa415b19640e20fe5970c78e9a08202d0ace,CVE-2017-8295
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,account-security.md,f263aa415b19640e20fe5970c78e9a08202d0ace,CVE-2021-27342
