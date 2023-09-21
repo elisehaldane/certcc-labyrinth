@@ -5,6 +5,7 @@ VU#29,1.00000000,https://github.com/DmitrijVC/DALL-E,DmitrijVC/DALL-E,667573149
 VU#29,1.00000000,https://github.com/shv-om/mobcc,shv-om/mobcc,652159589
 VU#29,1.00000000,https://github.com/mungiell1337/rce,mungiell1337/rce,650937474
 VU#29,1.00000000,https://github.com/zek-c/Securly-Kill-V111,zek-c/Securly-Kill-V111,629129994
+VU#29,1.00000000,https://github.com/PSYclown-org/Eliot-s-EPIC-bookmarklets,PSYclown-org/Eliot-s-EPIC-bookmarklets,614835914
 VU#29,1.00000000,https://github.com/PyterSmithDarkGhost/PS5EXPLOITIPV6KERNELJAILBREAK,PyterSmithDarkGhost/PS5EXPLOITIPV6KERNELJAILBREAK,580433322
 VU#29,1.00000000,https://github.com/ehunt34/neochromium-ehunt34,ehunt34/neochromium-ehunt34,559951745
 VU#29,1.00000000,https://github.com/kmeps4/ps5_4xx,kmeps4/ps5_4xx,544633081
@@ -141,7 +142,6 @@ VU#29,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corn
 VU#29,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#29,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#29,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
-VU#29,0.07142857,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,556854694
 VU#29,0.07142857,https://github.com/vvombat/exploits,vvombat/exploits,500849800
 VU#29,0.07142857,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,487173629
 VU#29,0.06666667,https://github.com/justikail/webshell,justikail/webshell,624349349
@@ -170,6 +170,7 @@ VU#29,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-propertie
 VU#29,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
 VU#29,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#29,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
+VU#29,0.05000000,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,556854694
 VU#29,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
 VU#29,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#29,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
@@ -185,6 +186,7 @@ VU#29,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#29,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#29,0.04166667,https://github.com/threedr3am/learnjavabug,threedr3am/learnjavabug,132132854
 VU#29,0.04000000,https://github.com/quocvd1511/PostExploit,quocvd1511/PostExploit,649187376
+VU#29,0.04000000,https://github.com/alternation1337/exploit,alternation1337/exploit,646431266
 VU#29,0.04000000,https://github.com/DarkSynx/PhpInterface,DarkSynx/PhpInterface,591885378
 VU#29,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 VU#29,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
@@ -508,7 +510,7 @@ VU#29,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/m
 VU#29,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#29,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#29,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
-VU#29,0.00019290,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00019286,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
