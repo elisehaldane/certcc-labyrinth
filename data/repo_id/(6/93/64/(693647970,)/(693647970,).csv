@@ -1,9 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-693647970,elefantesagradodeluzinfinita/cve-2023-38831,README.md,270f74b17b4b9143cbf136568bc62e6a360cd626,CVE-2023-38831
-693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR_GANDALF.exe,ef7636dab0b832ef330150b6c5a1823175c648c7,VU#009
-693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR_GANDALF.exe,ef7636dab0b832ef330150b6c5a1823175c648c7,VU#042
-693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR_GANDALF.exe,ef7636dab0b832ef330150b6c5a1823175c648c7,VU#23
-693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR_GANDALF.exe,ef7636dab0b832ef330150b6c5a1823175c648c7,VU#565
-693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR_GANDALF.exe,ef7636dab0b832ef330150b6c5a1823175c648c7,VU#67
-693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR_GANDALF.exe,ef7636dab0b832ef330150b6c5a1823175c648c7,VU#94
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,README.md,585c6fcb367d4d29ef60053f41455bd3625264b5,CVE-2023-38831
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR.GANDALF.exe,5aef6cca8d70d45bac4d49d28d68efa665a8b244,VU#10
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR.GANDALF.exe,5aef6cca8d70d45bac4d49d28d68efa665a8b244,VU#19
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR.GANDALF.exe,5aef6cca8d70d45bac4d49d28d68efa665a8b244,VU#21
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR.GANDALF.exe,5aef6cca8d70d45bac4d49d28d68efa665a8b244,VU#61
+693647970,elefantesagradodeluzinfinita/cve-2023-38831,DR.GANDALF.exe,5aef6cca8d70d45bac4d49d28d68efa665a8b244,VU#64
 693647970,elefantesagradodeluzinfinita/cve-2023-38831,_GITHUB_REPO_METADATA_,,CVE-2023-38831
