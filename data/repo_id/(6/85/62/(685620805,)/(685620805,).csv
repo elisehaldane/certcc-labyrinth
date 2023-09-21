@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-685620805,devmehedi101/wordpress-exploit,README.md,6278c800d45b7408360eb50abc0079c8179fab6f,CVE-2022-4060
-685620805,devmehedi101/wordpress-exploit,README.md,6278c800d45b7408360eb50abc0079c8179fab6f,CVE-2023-38389
+685620805,devmehedi101/wordpress-exploit,README.md,40cd1d781c6518e5ed8a1aeb5e583038ea1873c7,CVE-2022-4060
+685620805,devmehedi101/wordpress-exploit,README.md,40cd1d781c6518e5ed8a1aeb5e583038ea1873c7,CVE-2022-4061
+685620805,devmehedi101/wordpress-exploit,README.md,40cd1d781c6518e5ed8a1aeb5e583038ea1873c7,CVE-2023-38389
