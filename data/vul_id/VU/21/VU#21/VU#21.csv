@@ -33,6 +33,7 @@ VU#21,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shel
 VU#21,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
 VU#21,0.20000000,https://github.com/nil-malh/JNDI-Exploit,nil-malh/JNDI-Exploit,437992749
 VU#21,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
+VU#21,0.16666667,https://github.com/elefantesagradodeluzinfinita/cve-2023-38831,elefantesagradodeluzinfinita/cve-2023-38831,693647970
 VU#21,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,692673503
 VU#21,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#21,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
@@ -238,9 +239,9 @@ VU#21,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-syste
 VU#21,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#21,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#21,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
-VU#21,0.01204819,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#21,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#21,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
+VU#21,0.01149425,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#21,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#21,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#21,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
