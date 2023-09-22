@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#95,1.00000000,https://github.com/Jahamezl/0day-Stealer,Jahamezl/0day-Stealer,661815653
+VU#95,1.00000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#95,1.00000000,https://github.com/susMdT/Indirect-Syscall-Shellcode-Loader,susMdT/Indirect-Syscall-Shellcode-Loader,560650303
 VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-application-webshell,p0dalirius/Tomcat-application-webshell,492338473
 VU#95,1.00000000,https://github.com/akr3ch/kubeletctl-cli-rce,akr3ch/kubeletctl-cli-rce,472089121
