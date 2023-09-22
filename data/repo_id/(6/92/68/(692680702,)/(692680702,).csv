@@ -1,4 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,privilege-escalation.md,4b1d441fbf5bd8b19b34c39cc919e0e529ba7a5f,CVE-2016-6664
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,privilege-escalation.md,4b1d441fbf5bd8b19b34c39cc919e0e529ba7a5f,GPZ-1336
+692680702,CaledoniaProject/common-bugs-uncommon-exploits,privilege-escalation.md,4b1d441fbf5bd8b19b34c39cc919e0e529ba7a5f,GPZ-912
 692680702,CaledoniaProject/common-bugs-uncommon-exploits,file-operations.md,d4f9cd588a0a34257068b93d775a6846ae4e0bdc,CVE-2020-8255
 692680702,CaledoniaProject/common-bugs-uncommon-exploits,file-operations.md,d4f9cd588a0a34257068b93d775a6846ae4e0bdc,CVE-2020-8260
 692680702,CaledoniaProject/common-bugs-uncommon-exploits,file-operations.md,d4f9cd588a0a34257068b93d775a6846ae4e0bdc,GPZ-1342
