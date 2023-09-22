@@ -1,10 +1,11 @@
 repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,0196245e8291395a1502c98e0e862704a5dc9644,CVE-2007-5660
-3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,0196245e8291395a1502c98e0e862704a5dc9644,CVE-2007-2419
 3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,0196245e8291395a1502c98e0e862704a5dc9644,CVE-2007-6654
+3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,0196245e8291395a1502c98e0e862704a5dc9644,CVE-2007-2419
 3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,0196245e8291395a1502c98e0e862704a5dc9644,CVE-2007-0328
 3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,0196245e8291395a1502c98e0e862704a5dc9644,CVE-2007-0321
 3493279,buffer/thug,tests/functional/test_misc_ie110.py,01a525f63fc0a7d52074e2dfb2222aad666f2c82,CVE-2012-1889
+3493279,buffer/thug,thug/DOM/DFT.py,03d6ec7908838a0a45a9855e92c37052731eb9a3,CVE-2013-2423
 3493279,buffer/thug,thug/ActiveX/modules/JetAudioDownloadFromMusicStore.py,09803c261b7532c59735ce61d782bd2d3a388e85,CVE-2007-4983
 3493279,buffer/thug,thug/ActiveX/modules/AnswerWorks.py,0ecd54f88a2b607d1408af64c5d70beaa26d47b4,CVE-2007-6387
 3493279,buffer/thug,thug/ActiveX/modules/NeoTracePro.py,1153d36c551a6f7e89e8aca6311a1951a40feeec,CVE-2006-6707
@@ -17,7 +18,6 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/WinZip.py,3f1e351bc519565b04c85e374097a9d93a6cb9d1,CVE-2006-5198
 3493279,buffer/thug,thug/ActiveX/modules/WinZip.py,3f1e351bc519565b04c85e374097a9d93a6cb9d1,CVE-2006-3890
 3493279,buffer/thug,thug/ActiveX/modules/WinZip.py,3f1e351bc519565b04c85e374097a9d93a6cb9d1,CVE-2006-6884
-3493279,buffer/thug,thug/DOM/DFT.py,427130dd76c2426aa47711c64628fa3ae7ceed0f,CVE-2013-2423
 3493279,buffer/thug,thug/ActiveX/modules/DirectShow.py,462811f21f306fb7748fa48b213d41abf9d9c4a5,CVE-2008-0015
 3493279,buffer/thug,thug/ActiveX/modules/DirectShow.py,462811f21f306fb7748fa48b213d41abf9d9c4a5,CVE-2008-0020
 3493279,buffer/thug,thug/ActiveX/modules/DirectShow.py,462811f21f306fb7748fa48b213d41abf9d9c4a5,MS09-032
@@ -65,7 +65,6 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/HPInfo.py,b1a421587def4a109328b3753070fd1c26a6c5ab,CVE-2007-6331
 3493279,buffer/thug,tests/functional/test_pyhooks.py,b7e4f3d305d3c220d72b81ccafd121d199ba8030,CVE-2007-0018
 3493279,buffer/thug,thug/DOM/SchemeHandler.py,bc7b8717e26cc8c53b7694ec3a063a6fc1e3dafb,CVE-2010-1885
-3493279,buffer/thug,tests/functional/test_misc_ie90.py,bd8afda87e5a4d2468470b5b4bbdc77d29e1903f,CVE-2012-1889
 3493279,buffer/thug,thug/ActiveX/modules/SnapshotViewer.py,c2ea5ea9e6cd32390bf2495516673db6181f0677,CVE-2008-2463
 3493279,buffer/thug,thug/ActiveX/modules/WebViewFolderIcon.py,c4002020ca240803088f2c0a08a8607fae6a9354,CVE-2006-3730
 3493279,buffer/thug,thug/ActiveX/modules/NessusScanCtrl.py,cfc009fe9a4598976097ca6c0edb16126bc882a8,CVE-2007-4062
@@ -79,6 +78,7 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,thug/ActiveX/modules/AOLAttack.py,e6edc00fa1d72962bb87cad8771609ff74d768b1,CVE-2006-5820
 3493279,buffer/thug,thug/ActiveX/modules/SymantecBackupExec.py,e7d961081f57d0abbb2e45f3aaa5bee12a4def2f,CVE-2007-6017
 3493279,buffer/thug,thug/ActiveX/modules/SymantecBackupExec.py,e7d961081f57d0abbb2e45f3aaa5bee12a4def2f,CVE-2007-6016
+3493279,buffer/thug,tests/functional/test_misc_ie90.py,f170a2448131764a3a347da54ec13e8246228032,CVE-2012-1889
 3493279,buffer/thug,thug/ActiveX/modules/Domino.py,f2684134053e30e0c15fc5609fe91746c756fa9d,CVE-2007-4474
 3493279,buffer/thug,tests/functional/test_misc_ie70.py,f74555f255aec06591581702b61976136bf46c5a,CVE-2012-1889
 3493279,buffer/thug,thug/conf/rules/urlclassifier/blackhole.yar,fd0692187bbb499de72fb926ecd54b7c349d5be8,CVE-2011-3402
