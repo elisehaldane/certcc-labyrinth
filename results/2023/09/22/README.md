@@ -1,7 +1,7 @@
 
 # Summary for results/2023/09/22
     
-116 records found after deduplication
+117 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|----------|--------------------|------------------|---------------|--------------------|
@@ -9,6 +9,7 @@
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-09-22 14:55:03+00:00 | 960695 | 31212 | Ruby | 13477 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-09-22 01:39:11+00:00 | 22380 | 8762 | JavaScript | 2019 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2023-09-22 13:27:33+00:00 | 46038 | 928 | Python | 226 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-09-22 16:57:58+00:00 | 61181 | 1547 | C | 674 | [] |
 | Leakathr1n/Cr-er-et-exploiter-des-bases-de-donn-es---Creating-and-Exploiting-Databases | None | https://github.com/Leakathr1n/Cr-er-et-exploiter-des-bases-de-donn-es---Creating-and-Exploiting-Databases | ['exploit'] | 1 | 2023-09-22 13:02:04+00:00 | 4 | 0 | TSQL | 0 | [] |
 | Kevin-Mina/Inject-Shellcode | um programa simples que injeta um shellcode específico em um processo por nome. | https://github.com/Kevin-Mina/Inject-Shellcode | ['shellcode'] | 1 | 2023-09-22 13:13:20+00:00 | 3 | 0 | C++ | 0 | [] |
 | Youness-Harrizi/exploit_Youness | None | https://github.com/Youness-Harrizi/exploit_Youness | ['exploit'] | 1 | 2023-09-22 14:32:10+00:00 | 0 | 0 | | 0 | [] |
@@ -112,12 +113,12 @@
 | K3ysTr0K3R/CVE-2022-34753-EXPLOIT | A PoC exploit for CVE-2022-34753 - OS Command Injection in SpaceLogic C-Bus Home Controller | https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT | ['command injection', 'cve poc', 'cve-2 OR cve_2', 'exploit'] | 4 | 2023-09-22 20:58:54+00:00 | 3 | 0 | Python | 0 | ['CVE-2022-34753'] |
 | specocow/syntaxed | The Next-Gen Roblox Exploiting GUI | https://github.com/specocow/syntaxed | ['exploit'] | 1 | 2023-09-22 21:04:11+00:00 | 15 | 0 | | 0 | [] |
 | IMRO832000/CTF-Exploits | This Repo contains exploits I ran to complete CTF challenges | https://github.com/IMRO832000/CTF-Exploits | ['exploit'] | 1 | 2023-09-22 22:53:21+00:00 | 8 | 0 | | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-09-22 16:57:58+00:00 | 61181 | 1547 | C | 674 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-09-22 12:22:54+00:00 | 13926 | 5980 | Python | 792 | [] |
 | modernish/modernish | Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities. | https://github.com/modernish/modernish | ['shellcode'] | 1 | 2023-09-22 23:34:04+00:00 | 4129 | 692 | Shell | 16 | [] |
 | htrgouvea/spellbook | Framework for rapid development of offensive security tools | https://github.com/htrgouvea/spellbook | ['exploit'] | 1 | 2023-09-22 12:01:36+00:00 | 72570 | 95 | Perl | 21 | [] |
 | zeroscience/advisory | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | ['exploit'] | 1 | 2023-09-22 20:03:30+00:00 | 3859 | 5 | Python | 7 | [] |
 | a13xp0p0v/linux-kernel-defence-map | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | ['exploit'] | 1 | 2023-09-22 11:01:46+00:00 | 9376 | 1639 | | 117 | [] |
+| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2023-09-22 19:24:27+00:00 | 26696 | 3666 | Python | 620 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-09-22 04:31:23+00:00 | 2548292 | 351 | REXX | 34 | [] |
 | neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-09-22 01:39:49+00:00 | 1333 | 1 | HTML | 0 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-09-22 00:31:22+00:00 | 335164 | 5362 | | 1050 | [] |
