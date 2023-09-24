@@ -1,0 +1,42 @@
+
+# Summary for results/2023/09/24
+    
+35 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-09-24 04:07:14+00:00 | 22408 | 8773 | JavaScript | 2022 | [] |
+| DevTech-Services/DevHaxx | DevHaxx is the BEST Homework Utility | https://github.com/DevTech-Services/DevHaxx | ['exploit'] | 1 | 2023-09-24 01:44:21+00:00 | 1100 | 75 | | 7 | [] |
+| r0oth3x49/ghauri | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | ['exploit'] | 1 | 2023-09-24 02:46:16+00:00 | 386 | 1437 | Python | 172 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-09-24 02:36:24+00:00 | 132698 | 57 | Go | 11 | [] |
+| bugflixer/msf-installer | This tool can help you to install metasploit framework 6 in yout termux without any errors. | https://github.com/bugflixer/msf-installer | ['metasploit module OR payload'] | 1 | 2023-09-24 04:02:20+00:00 | 19 | 1 | Shell | 0 | [] |
+| Syncline-blip/UN-RCE-WA-Database | Professional Computing 2023 Project | https://github.com/Syncline-blip/UN-RCE-WA-Database | ['rce'] | 1 | 2023-09-24 03:38:08+00:00 | 4804 | 0 | CSS | 0 | [] |
+| jygttgyy/DeltaExploits | None | https://github.com/jygttgyy/DeltaExploits | ['exploit'] | 1 | 2023-09-24 02:58:16+00:00 | 218 | 0 | Lua | 0 | [] |
+| JeffOfTheSixPaths/Multiplication_ASIC | The code for a circuit which exploits Ohm's law in order to do multiplication. | https://github.com/JeffOfTheSixPaths/Multiplication_ASIC | ['exploit'] | 1 | 2023-09-24 01:28:36+00:00 | 20 | 0 | Python | 0 | [] |
+| ArbenVirgota/RCE-CC | None | https://github.com/ArbenVirgota/RCE-CC | ['rce'] | 1 | 2023-09-24 00:25:04+00:00 | 28272 | 0 | HTML | 0 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-09-24 02:27:52+00:00 | 124089 | 130 | Go | 36 | [] |
+| Fz3r0/Fz3r0_-_Command_Injection | die | https://github.com/Fz3r0/Fz3r0_-_Command_Injection | ['command injection'] | 1 | 2023-09-24 05:00:30+00:00 | 67 | 0 | nan | 0 | [] |
+| emtee40/ExploitRemotingService | None | https://github.com/emtee40/ExploitRemotingService | ['exploit'] | 1 | 2023-09-24 00:31:48+00:00 | 60 | 0 | C# | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEANqs | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANqs | ['exploit'] | 1 | 2023-09-24 00:54:55+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANqs | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANqs | ['exploit'] | 1 | 2023-09-24 00:56:07+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEANqs | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANqs | ['exploit'] | 1 | 2023-09-24 00:56:49+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/Extremely-Silent-JPG-Exploit-NEWqs | None | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWqs | ['exploit'] | 1 | 2023-09-24 00:57:44+00:00 | 1 | 1 | | 0 | [] |
+| MadExploits/MadExploits | Hello there is me | https://github.com/MadExploits/MadExploits | ['exploit'] | 1 | 2023-09-24 04:47:52+00:00 | 148 | 1 | | 0 | [] |
+| dindibo/rop-code | An esoteric programming language written in python that uses ROP gadgets to exploit a given vulnerable program | https://github.com/dindibo/rop-code | ['exploit'] | 1 | 2023-09-24 00:43:31+00:00 | 563 | 0 | Python | 0 | [] |
+| d4op/TANGORA | this is an automatic privat recon and exploitation framework for triggering a firesale. | https://github.com/d4op/TANGORA | ['exploit'] | 1 | 2023-09-24 00:12:22+00:00 | 8 | 2 | | 0 | [] |
+| aryanguenthner/365 | BlueTeam, RedTeam, Bug bounty, OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting, Darkweb, Deepweb, Research | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2023-09-24 04:58:43+00:00 | 43793 | 37 | Python | 8 | [] |
+| d4op/vuu | vulnerability underground updater: loads new payloads, exploits, and vuu AI engine rulesets for automatic exploit chains. | https://github.com/d4op/vuu | ['exploit'] | 1 | 2023-09-24 00:11:23+00:00 | 5 | 1 | | 0 | [] |
+| AlaBouali/bane | this is a python module that contains functions and classes which are used to test the security of web/network applications. it's coded on pure python and it's very intelligent tool ! It can easily detect: XSS (relected/stored), RCE (Remote Code/Command Ex | https://github.com/AlaBouali/bane | ['rce', 'remote code execution'] | 2 | 2023-09-24 02:12:00+00:00 | 928 | 215 | Python | 48 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-09-24 04:31:20+00:00 | 2630658 | 350 | REXX | 34 | [] |
+| n0b0dyCN/redis-rogue-server | Redis(<=5.0.5) RCE | https://github.com/n0b0dyCN/redis-rogue-server | ['rce'] | 1 | 2023-09-24 01:43:52+00:00 | 243 | 850 | C | 189 | [] |
+| neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-09-24 01:42:32+00:00 | 1339 | 1 | HTML | 0 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-09-24 00:31:24+00:00 | 333018 | 5373 | | 1050 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-09-24 04:06:57+00:00 | 964856 | 84 | | 31 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-09-24 00:10:21+00:00 | 746 | 567 | Shell | 111 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-09-24 04:03:11+00:00 | 413533 | 733 | Python | 179 | [] |
+| lw8192/Red-Team-Rising | Notes for red teamers - from cloud to Active Directory to many things in between. | https://github.com/lw8192/Red-Team-Rising | ['exploit'] | 1 | 2023-09-24 00:51:18+00:00 | 1150 | 34 | Python | 17 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2023-09-24 03:53:40+00:00 | 242540 | 1 | JavaScript | 1 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-09-24 01:15:18+00:00 | 2316 | 220 | HTML | 14 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-09-24 04:17:35+00:00 | 2902 | 162 | Python | 13 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-09-24 00:10:54+00:00 | 4564 | 0 | | 1 | [] |
+| emtee40/win-exec-calc-shellcode | nan | https://github.com/emtee40/win-exec-calc-shellcode | ['shellcode'] | 1 | 2023-09-24 01:20:01+00:00 | 12 | 0 | Assembly | 0 | [] |
