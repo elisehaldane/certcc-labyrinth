@@ -1,0 +1,44 @@
+
+# Summary for results/2023/09/25
+    
+37 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-09-25 04:31:16+00:00 | 2610052 | 350 | REXX | 34 | [] |
+| jygttgyy/DeltaExploits | None | https://github.com/jygttgyy/DeltaExploits | ['exploit'] | 1 | 2023-09-25 04:52:35+00:00 | 221 | 0 | Lua | 0 | [] |
+| ading2210/dextensify | An exploit which lets you disable most admin-installed Chrome extensions from any webpage. | https://github.com/ading2210/dextensify | ['exploit'] | 1 | 2023-09-25 03:30:20+00:00 | 37 | 9 | HTML | 19 | [] |
+| BGuerrero825/exp301-exploits | None | https://github.com/BGuerrero825/exp301-exploits | ['exploit'] | 1 | 2023-09-25 02:56:32+00:00 | 768 | 0 | Python | 0 | [] |
+| ArbenVirgota/RCE-CC | None | https://github.com/ArbenVirgota/RCE-CC | ['rce'] | 1 | 2023-09-25 01:55:49+00:00 | 29482 | 0 | HTML | 0 | [] |
+| git5loxosec/rIMGshell | rIMGshell: Inject reverse shell commands into images and generate one-liner execution methods. | https://github.com/git5loxosec/rIMGshell | ['command injection'] | 1 | 2023-09-25 02:20:38+00:00 | 611 | 4 | Shell | 0 | [] |
+| Fz3r0/Fz3r0_-_Command_Injection | die | https://github.com/Fz3r0/Fz3r0_-_Command_Injection | ['command injection'] | 1 | 2023-09-25 05:00:59+00:00 | 181 | 0 | | 0 | [] |
+| tecmie/f0rce | Lorem ipsum dolor sit amet sigue | https://github.com/tecmie/f0rce | ['rce'] | 1 | 2023-09-25 01:59:23+00:00 | 1469 | 0 | TypeScript | 0 | [] |
+| anthony-dandrea/scriptless-attack-poc | Simple POC of seeing what characters are inside an attribute | https://github.com/anthony-dandrea/scriptless-attack-poc | ['attack poc'] | 1 | 2023-09-25 00:18:17+00:00 | 9 | 0 | HTML | 0 | [] |
+| exploitsys/exploitsys | Config files for my GitHub profile. | https://github.com/exploitsys/exploitsys | ['exploit'] | 1 | 2023-09-25 00:26:57+00:00 | 0 | 0 | | 0 | [] |
+| codingcore12/SILENT-PDF-EXPLOIT-CLEANiz | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANiz | ['exploit'] | 1 | 2023-09-25 00:27:41+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiz | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiz | ['exploit'] | 1 | 2023-09-25 00:28:31+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/SILENT-DOC-EXPLOIT-CLEANiz | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANiz | ['exploit'] | 1 | 2023-09-25 00:29:45+00:00 | 1 | 1 | | 0 | [] |
+| codingcore12/Extremely-Silent-JPG-Exploit-NEWiz | None | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWiz | ['exploit'] | 1 | 2023-09-25 00:30:45+00:00 | 1 | 1 | | 0 | [] |
+| Malwareman007/CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | ['cve-2 OR cve_2', 'rce'] | 2 | 2023-09-25 00:48:41+00:00 | 17 | 1 | Ruby | 0 | ['CVE-2023-20887'] |
+| shobhittalwar12/Windows-Post-Exploitation | Win-Post exploitation cheat sheat with tool | https://github.com/shobhittalwar12/Windows-Post-Exploitation | ['exploit'] | 1 | 2023-09-25 01:45:08+00:00 | 0 | 0 | | 0 | [] |
+| changge31/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network | None | https://github.com/changge31/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network | ['exploit'] | 1 | 2023-09-25 02:34:55+00:00 | 0 | 0 | | 0 | [] |
+| car-axle-client/car-axle-client | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | ['exploit'] | 1 | 2023-09-25 04:59:53+00:00 | 1248 | 8 | TypeScript | 6 | [] |
+| VideoGameSmash12/CFX | Fabric mod for Minecraft that patches hazardous exploits | https://github.com/VideoGameSmash12/CFX | ['exploit'] | 1 | 2023-09-25 03:05:42+00:00 | 247 | 0 | Java | 0 | [] |
+| neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-09-25 01:41:01+00:00 | 1341 | 1 | HTML | 0 | [] |
+| ctrsploit/sploit-spec | nan | https://github.com/ctrsploit/sploit-spec | ['sploit'] | 1 | 2023-09-25 04:18:12+00:00 | 9 | 0 | Go | 0 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-09-25 00:31:25+00:00 | 332472 | 5374 | | 1050 | [] |
+| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2023-09-25 02:28:53+00:00 | 207665 | 620 | Go | 126 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-09-25 04:06:54+00:00 | 968294 | 84 | | 31 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-09-25 00:44:56+00:00 | 174 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-09-25 04:03:07+00:00 | 419078 | 734 | Python | 179 | [] |
+| lw8192/Red-Team-Rising | Notes for red teamers - from cloud to Active Directory to many things in between. | https://github.com/lw8192/Red-Team-Rising | ['exploit'] | 1 | 2023-09-25 01:54:58+00:00 | 1158 | 34 | Python | 17 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-09-25 01:12:27+00:00 | 2317 | 220 | HTML | 14 | [] |
+| thelikes/ownlist | Periodic compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2023-09-25 02:05:43+00:00 | 83 | 46 | | 6 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-09-25 04:19:22+00:00 | 2906 | 162 | Python | 13 | [] |
+| robertdebock/ansible-role-cve_2021_44228 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | ['cve-2 OR cve_2'] | 1 | 2023-09-25 00:12:26+00:00 | 81 | 10 | | 0 | ['CVE-2021-44228'] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-09-25 00:10:16+00:00 | 4615 | 0 | | 1 | [] |
+| hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-09-25 00:09:58+00:00 | 763 | 567 | Shell | 111 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-09-25 04:33:15+00:00 | 124232 | 130 | Go | 36 | [] |
+| Rylvns/EnvisionExploits | None | https://github.com/Rylvns/EnvisionExploits | ['exploit'] | 1 | 2023-09-25 03:54:19+00:00 | 2574 | 5 | Lua | 0 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-09-25 04:27:38+00:00 | 133188 | 57 | Go | 11 | [] |
+| Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network | Dynamic Relationship Building: Exploitation Versus Exploration on a Social Network, is accepted by WISE 2017, authored by Bo Yan, Yang Chen, and Jiamou Liu. | https://github.com/Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network | ['exploit'] | 1 | 2023-09-25 02:40:01+00:00 | 7786 | 0 | Python | 0 | [] |
