@@ -6,7 +6,7 @@ MS08-067,1.00000000,https://github.com/sunn1day/Windows-TCP-reverse-shellcode-st
 MS08-067,1.00000000,https://github.com/RobertoLFRA/armitage,RobertoLFRA/armitage,472046425
 MS08-067,1.00000000,https://github.com/zhangdapeng520/zdppy_metasploit,zhangdapeng520/zdppy_metasploit,469652142
 MS08-067,1.00000000,https://github.com/adarshvs/ms08_067_python3,adarshvs/ms08_067_python3,461299801
-MS08-067,1.00000000,https://github.com/mashahzad/Network-Security,mashahzad/Network-Security,448531043
+MS08-067,1.00000000,https://github.com/mashahzad/Networks,mashahzad/Networks,448531043
 MS08-067,1.00000000,https://github.com/hupe1980/gomsf,hupe1980/gomsf,432955573
 MS08-067,1.00000000,https://github.com/Nerkho/MS08-067,Nerkho/MS08-067,423911751
 MS08-067,1.00000000,https://github.com/phreakAI/MetasploitGym,phreakAI/MetasploitGym,407942105
@@ -558,6 +558,7 @@ MS08-067,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS08-067,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
 MS08-067,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS08-067,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
+MS08-067,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222

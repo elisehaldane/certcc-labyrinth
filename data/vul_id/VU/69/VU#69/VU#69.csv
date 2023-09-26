@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#69,1.00000000,https://github.com/saveriofrancini/dataDriven,saveriofrancini/dataDriven,611186035
 VU#69,1.00000000,https://github.com/AntGra1/Moon-Executor,AntGra1/Moon-Executor,601740798
 VU#69,1.00000000,https://github.com/Victris70/SkySploit,Victris70/SkySploit,528765107
 VU#69,1.00000000,https://github.com/SuperAviation001/Evija,SuperAviation001/Evija,526069883
@@ -361,4 +362,5 @@ VU#69,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofth
 VU#69,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#69,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#69,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
+VU#69,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 VU#69,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
