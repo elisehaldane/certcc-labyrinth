@@ -43,7 +43,6 @@ VU#99,0.11111111,https://github.com/Moulik07/Penetration-Testing---Exploring-and
 VU#99,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
 VU#99,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-30212,656147934
 VU#99,0.11111111,https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-,VisDev23/Vulnerable-Docker--CVE-2023-30212-,656103481
-VU#99,0.11111111,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#99,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#99,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
 VU#99,0.10000000,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
@@ -71,6 +70,7 @@ VU#99,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWiki
 VU#99,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#99,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#99,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
+VU#99,0.05000000,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#99,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#99,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#99,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
@@ -97,6 +97,7 @@ VU#99,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#99,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#99,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#99,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
+VU#99,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
 VU#99,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#99,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#99,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
@@ -109,7 +110,6 @@ VU#99,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin3
 VU#99,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
 VU#99,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#99,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
-VU#99,0.01754386,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#99,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#99,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#99,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
@@ -117,6 +117,7 @@ VU#99,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,23404451
 VU#99,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#99,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#99,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
+VU#99,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#99,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#99,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#99,0.01612903,https://github.com/chacka0101/exploits,chacka0101/exploits,254940085
@@ -281,12 +282,13 @@ VU#99,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#99,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#99,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#99,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#99,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#99,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#99,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#99,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#99,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#99,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
+VU#99,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
+VU#99,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#99,0.00019286,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#99,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#99,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

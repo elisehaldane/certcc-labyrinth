@@ -33,6 +33,8 @@ VU#24,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-
 VU#24,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#24,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
 VU#24,0.10000000,https://github.com/XiaoliChan/Invoke-sAMSpoofing,XiaoliChan/Invoke-sAMSpoofing,476650535
+VU#24,0.09090909,https://github.com/IdanBanani/Chromium-Browser-exploitation,IdanBanani/Chromium-Browser-exploitation,696504643
+VU#24,0.09090909,https://github.com/IdanBanani/Browser-exploitation-Chromium,IdanBanani/Browser-exploitation-Chromium,652690272
 VU#24,0.09090909,https://github.com/DataDog/security-labs-pocs,DataDog/security-labs-pocs,483783009
 VU#24,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
 VU#24,0.08333333,https://github.com/cschech/CBSD,cschech/CBSD,653347261
@@ -159,12 +161,12 @@ VU#24,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/
 VU#24,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#24,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#24,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
-VU#24,0.01754386,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#24,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#24,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#24,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#24,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#24,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
+VU#24,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#24,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#24,0.01639344,https://github.com/Drygster/Exploitation,Drygster/Exploitation,461223241
 VU#24,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
@@ -333,11 +335,12 @@ VU#24,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#24,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#24,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#24,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#24,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#24,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#24,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#24,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#24,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
+VU#24,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
+VU#24,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#24,0.00019286,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#24,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#24,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

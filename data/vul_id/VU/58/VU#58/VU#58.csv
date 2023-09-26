@@ -58,7 +58,6 @@ VU#58,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,36391999
 VU#58,0.11111111,https://github.com/Stasaltakk/bad-idea-exploiting-man,Stasaltakk/bad-idea-exploiting-man,611195935
 VU#58,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
 VU#58,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
-VU#58,0.11111111,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#58,0.10000000,https://github.com/Yuhala/hacking-tuto,Yuhala/hacking-tuto,509063995
 VU#58,0.10000000,https://github.com/Divyesh-Kanagavel/hack_art,Divyesh-Kanagavel/hack_art,424978628
 VU#58,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,436316308
@@ -80,6 +79,7 @@ VU#58,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/sa
 VU#58,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#58,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#58,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
+VU#58,0.05000000,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#58,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#58,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#58,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,TyphanieD/Exploitation-donnees-massives,600216921
@@ -91,6 +91,7 @@ VU#58,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
 VU#58,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#58,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#58,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+VU#58,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#58,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#58,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#58,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
@@ -124,6 +125,7 @@ VU#58,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,
 VU#58,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#58,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#58,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
+VU#58,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
 VU#58,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#58,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#58,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
@@ -295,11 +297,12 @@ VU#58,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#58,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#58,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#58,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#58,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#58,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#58,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#58,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#58,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
+VU#58,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
+VU#58,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#58,0.00019286,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#58,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#58,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

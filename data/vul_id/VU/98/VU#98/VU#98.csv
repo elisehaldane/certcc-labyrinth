@@ -24,7 +24,6 @@ VU#98,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-bas
 VU#98,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
 VU#98,0.11111111,https://github.com/Stasaltakk/bad-idea-exploiting-man,Stasaltakk/bad-idea-exploiting-man,611195935
 VU#98,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
-VU#98,0.11111111,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#98,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
 VU#98,0.11111111,https://github.com/rasyidrafi/R3Xploit,rasyidrafi/R3Xploit,345617409
 VU#98,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
@@ -52,6 +51,7 @@ VU#98,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vu
 VU#98,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#98,0.05000000,https://github.com/sotyarena/web-exploitation-3,sotyarena/web-exploitation-3,616821702
 VU#98,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
+VU#98,0.05000000,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#98,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#98,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
 VU#98,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pack,652370497
@@ -326,11 +326,12 @@ VU#98,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWo
 VU#98,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
 VU#98,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#98,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
-VU#98,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#98,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#98,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#98,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#98,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
+VU#98,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
+VU#98,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#98,0.00019286,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#98,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#98,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -12,7 +12,6 @@ VU#16,1.00000000,https://github.com/KadenZipfel/max-mint-exploit,KadenZipfel/max
 VU#16,1.00000000,https://github.com/blocksecteam/defi_poc,blocksecteam/defi_poc,397891852
 VU#16,1.00000000,https://github.com/ir0nstone/blog-binaries,ir0nstone/blog-binaries,339679548
 VU#16,0.50000000,https://github.com/InvoxiPlayGames/robohaxx,InvoxiPlayGames/robohaxx,672580426
-VU#16,0.50000000,https://github.com/BrennenT7/AWS-Honey-Pot-Project,BrennenT7/AWS-Honey-Pot-Project,612031705
 VU#16,0.50000000,https://github.com/Zephiles/fb-exploit,Zephiles/fb-exploit,578895585
 VU#16,0.50000000,https://github.com/snow-kluster/Sheller,snow-kluster/Sheller,568910050
 VU#16,0.50000000,https://github.com/Crukko5253/Roblox-Keyless-Exploit-Vega-X-FREE-ROBLOX-EXPLOIT-VEGA-X-2.1.8A-and-script,Crukko5253/Roblox-Keyless-Exploit-Vega-X-FREE-ROBLOX-EXPLOIT-VEGA-X-2.1.8A-and-script,522326276
@@ -36,6 +35,7 @@ VU#16,0.25000000,https://github.com/Bw3ll/ShellWasp,Bw3ll/ShellWasp,516953882
 VU#16,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
 VU#16,0.20000000,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#16,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
+VU#16,0.20000000,https://github.com/BrennenT7/AWS-Honey-Pot-Project,BrennenT7/AWS-Honey-Pot-Project,612031705
 VU#16,0.20000000,https://github.com/PabloMK7/ENLBufferPwn,PabloMK7/ENLBufferPwn,581221755
 VU#16,0.20000000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#16,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/multi_sense_learning,429338492
@@ -291,12 +291,13 @@ VU#16,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#16,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#16,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#16,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
-VU#16,0.00019763,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#16,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#16,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#16,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#16,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#16,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
+VU#16,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
+VU#16,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#16,0.00019286,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#16,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#16,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

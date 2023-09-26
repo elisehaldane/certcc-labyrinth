@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#22,1.00000000,https://github.com/Meh-zx/R60Tool-for-Lunix,Meh-zx/R60Tool-for-Lunix,550619182
 VU#22,1.00000000,https://github.com/razzor-codes/Web3-Graveyard,razzor-codes/Web3-Graveyard,512263154
+VU#22,0.50000000,https://github.com/bbaranoff/CVE-2023-4863,bbaranoff/CVE-2023-4863,696220876
 VU#22,0.50000000,https://github.com/ilijadivi/VisionExploit,ilijadivi/VisionExploit,464673860
 VU#22,0.33333333,https://github.com/d4ba/Exploit-Guard,d4ba/Exploit-Guard,659905965
 VU#22,0.33333333,https://github.com/yubhyper/Exploit,yubhyper/Exploit,562181219
@@ -152,10 +153,10 @@ VU#22,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-sc
 VU#22,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#22,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#22,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
-VU#22,0.01754386,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#22,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#22,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#22,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
+VU#22,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#22,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#22,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#22,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
