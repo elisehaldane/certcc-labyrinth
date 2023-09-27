@@ -1,7 +1,7 @@
 
 # Summary for results/2023/09/26
     
-134 records found after deduplication
+135 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -11,6 +11,7 @@
 | daedalus/bitcoin-recover-privkey | Proof of concept of bitcoin private key recovery using weak ECDSA signatures | https://github.com/daedalus/bitcoin-recover-privkey | ['vulnerability poc'] | 1 | 2023-09-26 15:14:01+00:00 | 33 | 66 | Python | 81 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-09-26 16:31:57+00:00 | 27789 | 10618 | Python | 1633 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2023-09-26 15:03:53+00:00 | 3390 | 3167 | PowerShell | 823 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-09-26 14:26:57+00:00 | 61183 | 1548 | C | 674 | [] |
 | gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-09-26 14:44:09+00:00 | 2513 | 1 | Makefile | 0 | ['CVE-2023-32364'] |
 | Chocapikk/CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-09-26 19:04:21+00:00 | 11 | 24 | Python | 10 | ['CVE-2023-29357'] |
 | FOSTI-UMS/Explore-Your-Code-Deeply | Seminar dan Workshop 2018 tentang Binary Exploitation dan Bash Linux | https://github.com/FOSTI-UMS/Explore-Your-Code-Deeply | ['exploit'] | 1 | 2023-09-26 16:42:10+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -27,7 +28,7 @@
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2023-09-26 14:39:14+00:00 | 434288 | 1834 | Java | 491 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-09-26 04:06:58+00:00 | 975460 | 84 | | 31 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-09-26 00:39:13+00:00 | 175 | 0 | PHP | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-09-26 04:03:01+00:00 | 425550 | 734 | Python | 179 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-09-26 04:03:01+00:00 | 425547 | 734 | Python | 179 | [] |
 | lw8192/Red-Team-Rising | Notes for red teamers - from cloud to Active Directory to many things in between. | https://github.com/lw8192/Red-Team-Rising | ['exploit'] | 1 | 2023-09-26 02:03:03+00:00 | 1166 | 34 | Python | 17 | [] |
 | WafflesExploit/WafflesExploit | Config files for my GitHub profile. | https://github.com/WafflesExploit/WafflesExploit | ['exploit'] | 1 | 2023-09-26 16:49:49+00:00 | 40 | 0 | | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-09-26 01:12:49+00:00 | 2398 | 220 | HTML | 14 | [] |
@@ -60,7 +61,7 @@
 | Strana-Mechty/ExploitProtection-Templates | A set of tested profiles for Windows Exploit Protection | https://github.com/Strana-Mechty/ExploitProtection-Templates | ['exploit'] | 1 | 2023-09-26 08:17:08+00:00 | 58 | 0 | | 0 | [] |
 | zek-c/Securly-Kill-V111 | The only working securly disabler. | https://github.com/zek-c/Securly-Kill-V111 | ['exploit'] | 1 | 2023-09-26 19:42:22+00:00 | 1417 | 19 | JavaScript | 14 | [] |
 | EugenMayer/cisa-known-exploited-mirror | None | https://github.com/EugenMayer/cisa-known-exploited-mirror | ['exploit'] | 1 | 2023-09-26 00:06:19+00:00 | 2031 | 5 | | 0 | [] |
-| ctrsploit/sploit-spec | nan | https://github.com/ctrsploit/sploit-spec | ['sploit'] | 1 | 2023-09-26 03:46:35+00:00 | 31 | 0 | Go | 0 | [] |
+| ctrsploit/sploit-spec | None | https://github.com/ctrsploit/sploit-spec | ['sploit'] | 1 | 2023-09-26 03:46:35+00:00 | 31 | 0 | Go | 0 | [] |
 | xbz0n/VBS-Macro-XOR-Generator | VBS-Macro-XOR-Generator is a Python tool for XOR+Ceasar encoding of shellcodes for penetration testing. It automates payload generation, modification, encoding, and sets up a Metasploit handler, ideal for OSEP challenges and exams. | https://github.com/xbz0n/VBS-Macro-XOR-Generator | ['metasploit module OR payload', 'shellcode'] | 2 | 2023-09-26 16:58:11+00:00 | 19 | 5 | Python | 1 | [] |
 | iliciuv/rsurvey-spain | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/rsurvey-spain | ['exploit'] | 1 | 2023-09-26 03:40:14+00:00 | 7359 | 0 | R | 0 | [] |
 | dragonked2/Egyscan | Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that make Egyscan an indispensable tool in your security arsen | https://github.com/dragonked2/Egyscan | ['rce'] | 1 | 2023-09-26 01:09:58+00:00 | 200 | 124 | Python | 24 | [] |
@@ -93,7 +94,7 @@
 | Pizz33/Qianji | 千机-红队免杀木马自动生成器 Bypass国内主流杀软 随机加密混淆shellcode快速生成免杀马 | https://github.com/Pizz33/Qianji | ['shellcode'] | 1 | 2023-09-26 00:57:40+00:00 | 47 | 57 | Go | 6 | [] |
 | Fz3r0/Fz3r0_-_Command_Injection | die | https://github.com/Fz3r0/Fz3r0_-_Command_Injection | ['command injection'] | 1 | 2023-09-26 06:08:23+00:00 | 240 | 0 | Python | 0 | [] |
 | tecmie/f0rce | Lorem ipsum dolor sit amet sigue | https://github.com/tecmie/f0rce | ['rce'] | 1 | 2023-09-26 16:31:26+00:00 | 1469 | 0 | TypeScript | 0 | [] |
-| Nero22k/cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-09-26 09:49:37+00:00 | 91 | 14 | C++ | 3 | ['CVE-2023-29360'] |
+| Nero22k/cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-09-26 09:49:37+00:00 | 91 | 14 | C++ | 2 | ['CVE-2023-29360'] |
 | thoresonjd/pvz-izombie-bungee-glitch-autohotkey | AutoHotkey script exploiting the Bungee Zombie glitch in the I, Zombie puzzle game mode in Plants vs. Zombies: Game of the Year Edition. | https://github.com/thoresonjd/pvz-izombie-bungee-glitch-autohotkey | ['exploit'] | 1 | 2023-09-26 00:58:31+00:00 | 908 | 0 | AutoHotkey | 0 | [] |
 | onis4n/query_fofa_for_cnvd | 本项目已解决fofa签名问题！！！通过在fofa上搜索可能存在通用产品的公司，原理是判断网站标题数目以及独立IP数达到一定条件时将该标题以及公司名称导出。 如果想挖掘cnvd证书，可导出注册资金大于5000w的公司名称到company.txt文件中，使用这个脚本收集通用系统。 | https://github.com/onis4n/query_fofa_for_cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2023-09-26 08:43:15+00:00 | 37 | 0 | Python | 0 | [] |
 | eeriedusk/nysm | nysm is a stealth post-exploitation container. | https://github.com/eeriedusk/nysm | ['exploit'] | 1 | 2023-09-26 15:23:10+00:00 | 36 | 7 | C | 0 | [] |
@@ -130,7 +131,6 @@
 | Exooxq/JPG-Silent-Exploit-Builder-2023 | None | https://github.com/Exooxq/JPG-Silent-Exploit-Builder-2023 | ['exploit'] | 1 | 2023-09-26 23:30:36+00:00 | 1 | 0 | | 0 | [] |
 | Exooxq/Silent-PDF-Exploit-2023 | None | https://github.com/Exooxq/Silent-PDF-Exploit-2023 | ['exploit'] | 1 | 2023-09-26 23:32:27+00:00 | 1 | 0 | | 0 | [] |
 | Exooxq/Silent-Word-Office-Exploit-2023 | None | https://github.com/Exooxq/Silent-Word-Office-Exploit-2023 | ['exploit'] | 1 | 2023-09-26 23:33:45+00:00 | 1 | 0 | | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-09-26 14:26:57+00:00 | 61183 | 1548 | C | 674 | [] |
 | RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2023-09-26 15:55:43+00:00 | 26889 | 3676 | Python | 621 | [] |
 | R00tS3c/DDOS-RootSec | DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | ['exploit'] | 1 | 2023-09-26 03:05:04+00:00 | 741784 | 529 | C | 373 | [] |
 | Mattiwatti/EfiGuard | Disable PatchGuard and DSE at boot time | https://github.com/Mattiwatti/EfiGuard | ['UEFI bootkit'] | 1 | 2023-09-26 05:30:41+00:00 | 543 | 1373 | C++ | 313 | [] |
@@ -139,3 +139,4 @@
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-09-26 00:31:25+00:00 | 332514 | 5374 | | 1051 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-09-26 00:46:25+00:00 | 39083 | 57 | | 30 | [] |
 | star-sg/CVE | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | ['exploit'] | 1 | 2023-09-26 02:19:45+00:00 | 3520 | 191 | C | 44 | [] |
+| prbhtkumr/PhoneSploit | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/prbhtkumr/PhoneSploit | ['exploit', 'sploit'] | 2 | 2023-09-26 20:00:15+00:00 | 9780 | 668 | Python | 153 | [] |
