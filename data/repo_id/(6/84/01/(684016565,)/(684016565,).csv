@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 684016565,themmokhtar/CVE-2020-0022,ghidra_scripts/Jopperhimer.java,10ed9af7f6cff4b2012f7e7acc520391c1be5eca,CVE-2020-0022
-684016565,themmokhtar/CVE-2020-0022,README.md,32753b63114c4e4d0c91bcbaf6bdfa9681ada96f,CVE-2020-0022
+684016565,themmokhtar/CVE-2020-0022,README.md,7e9b9d1ac7b1834e67ea861f122b92eac6d7b8ca,CVE-2020-0022
 684016565,themmokhtar/CVE-2020-0022,ghidra_scripts/ProcessLibandroidRuntime.java,c4e29a5d2fdd31d2e5bb3e1108c47716ed390d72,CVE-2020-0022
 684016565,themmokhtar/CVE-2020-0022,_GITHUB_REPO_METADATA_,,CVE-2020-0022
