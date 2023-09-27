@@ -4,6 +4,7 @@ VU#48,1.00000000,https://github.com/LukasNad/vulnerable-software-in-your-pocket,
 VU#48,1.00000000,https://github.com/rcesarpacheco/rcesarpacheco.github.io,rcesarpacheco/rcesarpacheco.github.io,527810294
 VU#48,1.00000000,https://github.com/yxwang1794/RCE-GAN,yxwang1794/RCE-GAN,445027138
 VU#48,1.00000000,https://github.com/imabadhacker/LOLexploit,imabadhacker/LOLexploit,417917400
+VU#48,0.50000000,https://github.com/toanln-cov/CVE-2023-36845,toanln-cov/CVE-2023-36845,697223244
 VU#48,0.50000000,https://github.com/MphatsoChintedza/Attacking-A-Vulnerability-Machine,MphatsoChintedza/Attacking-A-Vulnerability-Machine,474804470
 VU#48,0.50000000,https://github.com/Mphatso27/Attacking-A-Vulnerability-Machine,Mphatso27/Attacking-A-Vulnerability-Machine,474802723
 VU#48,0.33333333,https://github.com/qaardvark/report,qaardvark/report,594058376
@@ -19,6 +20,7 @@ VU#48,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacke
 VU#48,0.14285714,https://github.com/a-rey/exploits,a-rey/exploits,403126946
 VU#48,0.12500000,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#48,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
+VU#48,0.11111111,https://github.com/nova-master/CVE-2022-21894,nova-master/CVE-2022-21894,696622822
 VU#48,0.11111111,https://github.com/Firebasky/CVE-2023-21839,Firebasky/CVE-2023-21839,612534596
 VU#48,0.11111111,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#48,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
@@ -284,14 +286,14 @@ VU#48,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#48,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#48,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#48,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#48,0.00019286,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#48,0.00019283,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#48,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#48,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#48,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#48,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#48,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-VU#48,0.00001151,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00001150,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
