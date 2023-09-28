@@ -42,10 +42,10 @@ VU#47,0.14285714,https://github.com/34dsfsdf4/Hta-Exploit-Downloader-Malware-Bui
 VU#47,0.14285714,https://github.com/e4r23fd/Hta-Exploit-Downloader-Malware-Builder,e4r23fd/Hta-Exploit-Downloader-Malware-Builder,499532412
 VU#47,0.12500000,https://github.com/fortra/CVE-2023-28252,fortra/CVE-2023-28252,659242316
 VU#47,0.12500000,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
-VU#47,0.12500000,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#47,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,468544905
 VU#47,0.12500000,https://github.com/JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,467904542
 VU#47,0.11111111,https://github.com/nova-master/CVE-2022-21894,nova-master/CVE-2022-21894,696622822
+VU#47,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#47,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#47,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#47,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
@@ -334,7 +334,7 @@ VU#47,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#47,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#47,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#47,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#47,0.00019283,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#47,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#47,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#47,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#47,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
