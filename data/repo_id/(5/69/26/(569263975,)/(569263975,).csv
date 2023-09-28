@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-569263975,msuiche/elegant-bouncer,documentation/BLASTPASS.md,152f7cdd82531b3b4d478385eabf169a208dd517,CVE-2023-41064
-569263975,msuiche/elegant-bouncer,documentation/BLASTPASS.md,152f7cdd82531b3b4d478385eabf169a208dd517,CVE-2023-4863
+569263975,msuiche/elegant-bouncer,documentation/BLASTPASS.md,5ef3d29518c92ee218d63cfd8d54db9714c0c93c,CVE-2023-41064
+569263975,msuiche/elegant-bouncer,documentation/BLASTPASS.md,5ef3d29518c92ee218d63cfd8d54db9714c0c93c,CVE-2023-4863
 569263975,msuiche/elegant-bouncer,src/jbig2.rs,7b1e01c00e8007d60ef83e862e80f7cc5a2f377f,CVE-2021-30860
 569263975,msuiche/elegant-bouncer,src/main.rs,d9e89c5feb4ac3683827f1a86a3a3da155876cc8,CVE-2021-30860
 569263975,msuiche/elegant-bouncer,src/main.rs,d9e89c5feb4ac3683827f1a86a3a3da155876cc8,CVE-2023-41064
