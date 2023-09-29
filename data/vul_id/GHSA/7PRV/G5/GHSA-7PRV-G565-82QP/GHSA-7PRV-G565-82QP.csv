@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-7PRV-G565-82QP,0.50000000,https://github.com/h4m5t/CVE-2023-42820,h4m5t/CVE-2023-42820,697887359
