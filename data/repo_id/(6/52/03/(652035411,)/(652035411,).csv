@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-652035411,AlSploit/AlSploit,Loadstring,e35f3196a9e9d0bbff0ec8312eb6233a01e49325,VU#14
+652035411,AlSploit/AlSploit,Loadstring,93f9f6bb3fb14dc010388ac429b5075a2b0ae3fd,VU#11
+652035411,AlSploit/AlSploit,Loadstring,93f9f6bb3fb14dc010388ac429b5075a2b0ae3fd,VU#15
+652035411,AlSploit/AlSploit,Loadstring,93f9f6bb3fb14dc010388ac429b5075a2b0ae3fd,VU#19
+652035411,AlSploit/AlSploit,Loadstring,93f9f6bb3fb14dc010388ac429b5075a2b0ae3fd,VU#21
+652035411,AlSploit/AlSploit,Loadstring,93f9f6bb3fb14dc010388ac429b5075a2b0ae3fd,VU#81
