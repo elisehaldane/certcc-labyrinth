@@ -1,13 +1,15 @@
 
 # Summary for results/2023/10/11
     
-171 records found after deduplication
+173 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------|
 | pa1nx9/exploit-again-lol | exploit again lol | https://github.com/pa1nx9/exploit-again-lol | ['exploit'] | 1 | 2023-10-11 23:17:39+00:00 | 1 | 0 | | 0 | [] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-10-11 16:37:16+00:00 | 961005 | 31363 | Ruby | 13511 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-10-11 14:01:53+00:00 | 22437 | 8831 | JavaScript | 2025 | [] |
+| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-10-11 16:57:40+00:00 | 61204 | 1554 | C | 676 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2023-10-11 00:43:26+00:00 | 2316 | 0 | Python | 11 | [] |
 | shaygitub/VulnDrvScan | this simple tool scans drivers for potential arbitrary writing vulnurabilities using their IAT. this tool was used as part of my windows rootkit to initially search for vulnurable drivers to exploit (before using CVE database) | https://github.com/shaygitub/VulnDrvScan | ['exploit'] | 1 | 2023-10-11 16:09:28+00:00 | 0 | 0 | C++ | 0 | [] |
 | redhat-appstudio-qe/test-app-169704112-NA_QT-exploit-depend | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169704112-NA_QT-exploit-depend | ['exploit'] | 1 | 2023-10-11 16:19:12+00:00 | 0 | 0 | | 0 | [] |
 | BosskIG88/rootedMachine_writeups | Repo will serve to store the steps and processes taken to exploit vulnerabilities found within practice machines. All machines can be found on either on TryHackMe or HackTheBox. | https://github.com/BosskIG88/rootedMachine_writeups | ['exploit'] | 1 | 2023-10-11 16:52:29+00:00 | 0 | 0 | | 0 | [] |
@@ -167,12 +169,12 @@
 | MinoTauro2020/CVE-2023-43148 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43148 | ['cve-2 OR cve_2'] | 1 | 2023-10-11 18:57:42+00:00 | 3 | 0 | | 0 | ['CVE-2023-43148'] |
 | nickswink/CVE-2023-38646 | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase | https://github.com/nickswink/CVE-2023-38646 | ['cve-2 OR cve_2', 'rce'] | 2 | 2023-10-11 22:49:51+00:00 | 6 | 0 | Python | 1 | ['CVE-2023-38646'] |
 | akamaiheat/Raspberry-PI-Remote-Code-Execution | Remote Code Execution POC in Raspberry Camera Surveillance | https://github.com/akamaiheat/Raspberry-PI-Remote-Code-Execution | ['remote code execution'] | 1 | 2023-10-11 22:19:22+00:00 | 1 | 0 | Shell | 0 | [] |
-| rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-10-11 16:57:40+00:00 | 61204 | 1554 | C | 676 | [] |
-| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2023-10-11 00:43:26+00:00 | 2316 | 0 | Python | 11 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2023-10-11 16:11:19+00:00 | 8927 | 68 | PHP | 15 | [] |
 | Ne0nd0g/merlin | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | https://github.com/Ne0nd0g/merlin | ['exploit'] | 1 | 2023-10-11 23:37:31+00:00 | 27724 | 4627 | Go | 763 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-10-11 14:09:24+00:00 | 370552 | 149 | Python | 16 | [] |
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2023-10-11 14:52:10+00:00 | 1242 | 17 | JavaScript | 40 | [] |
+| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2023-10-11 16:24:05+00:00 | 26837 | 3700 | Python | 626 | [] |
+| R00tS3c/DDOS-RootSec | DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | ['exploit'] | 1 | 2023-10-11 21:25:29+00:00 | 741837 | 542 | C | 377 | [] |
 | dhondta/python-sploitkit | Devkit for building Metasploit-like consoles | https://github.com/dhondta/python-sploitkit | ['metasploit module OR payload', 'sploit'] | 2 | 2023-10-11 06:07:00+00:00 | 2223 | 223 | Python | 59 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-10-11 04:31:29+00:00 | 2884788 | 354 | REXX | 37 | [] |
 | neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-10-11 01:40:22+00:00 | 1331 | 1 | HTML | 0 | [] |
