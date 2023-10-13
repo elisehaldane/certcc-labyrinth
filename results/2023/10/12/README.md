@@ -1,7 +1,7 @@
 
 # Summary for results/2023/10/12
     
-164 records found after deduplication
+165 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -9,6 +9,7 @@
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-10-12 17:10:14+00:00 | 973616 | 31374 | Ruby | 13510 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-10-12 00:47:41+00:00 | 22424 | 8833 | JavaScript | 2024 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2023-10-12 16:19:32+00:00 | 61220 | 1554 | C | 676 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-10-12 19:25:07+00:00 | 13943 | 6029 | Python | 798 | [] |
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANbg | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANbg | ['exploit'] | 1 | 2023-10-12 15:25:37+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEANbg | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANbg | ['exploit'] | 1 | 2023-10-12 15:26:52+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEANbg | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANbg | ['exploit'] | 1 | 2023-10-12 15:27:54+00:00 | 1 | 1 | | 0 | [] |
@@ -17,7 +18,6 @@
 | MinoTauro2020/CVE-2023-43149 | CVE-2023-43149 | https://github.com/MinoTauro2020/CVE-2023-43149 | ['cve-2 OR cve_2'] | 1 | 2023-10-12 16:23:43+00:00 | 0 | 0 | | 0 | ['CVE-2023-43149'] |
 | RocketGod-git/gofile-vulnerability-exploit-script | This script demonstrates a critical flaw in the way Gofile handles and stores its files. The main objective of this script is to increase awareness and emphasize the importance of secure file handling practices for developers and website administrators. | https://github.com/RocketGod-git/gofile-vulnerability-exploit-script | ['exploit'] | 1 | 2023-10-12 16:34:06+00:00 | 0 | 0 | Python | 0 | [] |
 | lexfo/xortigate-cve-2023-27997 | xortigate-cve-2023-27997 | https://github.com/lexfo/xortigate-cve-2023-27997 | ['cve-2 OR cve_2'] | 1 | 2023-10-12 16:17:23+00:00 | 0 | 3 | Python | 0 | ['CVE-2023-27997'] |
-| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-10-12 00:31:38+00:00 | 339777 | 5411 | | 1054 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-10-12 00:46:39+00:00 | 45307 | 58 | | 30 | [] |
 | jm33-m0/emp3r0r | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2023-10-12 01:56:45+00:00 | 132154 | 1100 | Go | 213 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2023-10-12 09:16:21+00:00 | 206950 | 623 | Go | 132 | [] |
@@ -31,6 +31,7 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-10-12 00:39:52+00:00 | 178 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-10-12 04:03:10+00:00 | 416198 | 743 | Python | 179 | [] |
 | KarmaDeb/LockLoginReborn | LockLoginReborn, is a rework of the LockLogin plugin. This plugin allows server owners to keep their server and players safe, LockLogin is an inteligent plugin which also parches some of the very known exploits to bypass login systems. | https://github.com/KarmaDeb/LockLoginReborn | ['exploit'] | 1 | 2023-10-12 06:45:43+00:00 | 2848 | 4 | Java | 4 | [] |
+| jweny/pocassist | 傻瓜式漏洞PoC测试框架 | https://github.com/jweny/pocassist | ['cve poc', 'vulnerability poc'] | 2 | 2023-10-12 03:10:02+00:00 | 43948 | 1333 | Go | 242 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-10-12 01:10:14+00:00 | 3053 | 224 | HTML | 15 | [] |
 | BGPavelAng/shellcodeWin32 | shellcode32 windows | https://github.com/BGPavelAng/shellcodeWin32 | ['shellcode'] | 1 | 2023-10-12 18:15:06+00:00 | 15 | 2 | Assembly | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-10-12 04:20:28+00:00 | 2940 | 169 | Python | 14 | [] |
@@ -148,7 +149,7 @@
 | XavierLeClavier/XAVA-Lotterie | Projet de simulation d'une création et exploitation de données à grand échelle, programmé en 2021 pour un projet de l'école | https://github.com/XavierLeClavier/XAVA-Lotterie | ['exploit'] | 1 | 2023-10-12 11:31:38+00:00 | 4 | 0 | Python | 0 | [] |
 | ruycr4ft/CVE-2023-38831 | None | https://github.com/ruycr4ft/CVE-2023-38831 | ['cve-2 OR cve_2'] | 1 | 2023-10-12 13:23:29+00:00 | 254 | 1 | Python | 0 | ['CVE-2023-38831'] |
 | emppu-dev/discord-tomfoolery | Collection of Discord exploits. | https://github.com/emppu-dev/discord-tomfoolery | ['exploit'] | 1 | 2023-10-12 14:23:35+00:00 | 27 | 1 | | 0 | [] |
-| B1TC0R3/Double_Free_Vulnerability_PoC | nan | https://github.com/B1TC0R3/Double_Free_Vulnerability_PoC | ['vuln poc', 'vulnerability poc'] | 2 | 2023-10-12 17:02:39+00:00 | 17 | 0 | C | 0 | [] |
+| B1TC0R3/Double_Free_Vulnerability_PoC | None | https://github.com/B1TC0R3/Double_Free_Vulnerability_PoC | ['vuln poc', 'vulnerability poc'] | 2 | 2023-10-12 17:02:39+00:00 | 17 | 0 | C | 0 | [] |
 | redhat-appstudio-qe/mc-two-scenarios-GNf_B-exploit-answer | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-GNf_B-exploit-answer | ['exploit'] | 1 | 2023-10-12 13:59:43+00:00 | 0 | 0 | | 0 | [] |
 | threatHNTR/CVE-2023-38646 | None | https://github.com/threatHNTR/CVE-2023-38646 | ['cve-2 OR cve_2'] | 1 | 2023-10-12 16:53:25+00:00 | 94 | 0 | Python | 0 | ['CVE-2023-38646'] |
 | qiyeNuLl/dahuaExploit | 大华综合管理平台漏洞利用，集合多个EXP | https://github.com/qiyeNuLl/dahuaExploit | ['exploit'] | 1 | 2023-10-12 14:57:52+00:00 | 20 | 1 | Python | 0 | [] |
@@ -160,7 +161,6 @@
 | tangledgroup/langchain-prompt-exploit | langchain-prompt-exploit | https://github.com/tangledgroup/langchain-prompt-exploit | ['exploit'] | 1 | 2023-10-12 18:23:27+00:00 | 4 | 0 | Python | 0 | [] |
 | Aicks/FortiGate-CVE-2023-27997 | FortiGate exploit CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-10-12 19:44:22+00:00 | 1 | 0 | | 0 | ['CVE-2023-27997'] |
 | redhat-appstudio-qe/test-app-169714095-NA_QT-exploit-advise | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169714095-NA_QT-exploit-advise | ['exploit'] | 1 | 2023-10-12 20:03:01+00:00 | 0 | 0 | | 0 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-10-12 19:25:07+00:00 | 13943 | 6029 | Python | 798 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2023-10-12 02:27:29+00:00 | 1911 | 0 | Python | 11 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exp | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2023-10-12 16:23:02+00:00 | 95509 | 14760 | Jupyter Notebook | 2553 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-10-12 14:36:43+00:00 | 370581 | 149 | Python | 16 | [] |
@@ -169,3 +169,4 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-10-12 04:31:21+00:00 | 2911449 | 354 | REXX | 37 | [] |
 | billchaison/Windows-Trix | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | ['exploit'] | 1 | 2023-10-12 23:02:43+00:00 | 879 | 9 | | 1 | [] |
 | neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-10-12 01:38:34+00:00 | 1334 | 1 | HTML | 0 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-10-12 00:31:38+00:00 | 339777 | 5411 | | 1054 | [] |
