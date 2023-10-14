@@ -1,10 +1,12 @@
 
 # Summary for results/2023/10/13
     
-160 records found after deduplication
+162 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| codingcore12/Extremely-Silent-JPG-Exploit-NEW-jh | None | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-jh | ['exploit'] | 1 | 2023-10-13 23:41:46+00:00 | 1 | 1 | | 0 | [] |
+| ronin-rb/ronin | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | ['exploit'] | 1 | 2023-10-13 05:58:10+00:00 | 8716 | 578 | Ruby | 51 | [] |
 | Latrodect/EATER-offensive-security-frameowork | Wireless Network Cracker, Payload Generator and Exploit Development Framework | https://github.com/Latrodect/EATER-offensive-security-frameowork | ['exploit'] | 1 | 2023-10-13 13:47:50+00:00 | 8 | 0 | | 0 | [] |
 | hasbwoan/Spacehouse | A roblox exploit | https://github.com/hasbwoan/Spacehouse | ['exploit'] | 1 | 2023-10-13 10:30:18+00:00 | 1 | 0 | | 0 | [] |
 | yoboyghxst/Hood-Hub | Hood Hub is made for Roblox Exploiting with all the gui's known! | https://github.com/yoboyghxst/Hood-Hub | ['exploit'] | 1 | 2023-10-13 12:45:38+00:00 | 94 | 0 | Lua | 0 | [] |
@@ -13,8 +15,6 @@
 | RueOffsales/Hydra | Hydra exploiting tool Panel for roblox. Hydra is a Penetration Tool for Educational Purpose , for Devs , to test They Security. | https://github.com/RueOffsales/Hydra | ['exploit'] | 1 | 2023-10-13 17:39:13+00:00 | 17 | 0 | | 0 | [] |
 | Vagebondcur/IMAGE-MAGICK-CVE-2022-44268 | None | https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268 | ['cve-2 OR cve_2'] | 1 | 2023-10-13 15:49:01+00:00 | 1 | 0 | Python | 0 | ['CVE-2022-44268'] |
 | NgocKhanhC311/sql-rce | none | https://github.com/NgocKhanhC311/sql-rce | ['rce'] | 1 | 2023-10-13 16:53:31+00:00 | 0 | 0 | | 0 | [] |
-| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-10-13 16:02:35+00:00 | 370647 | 152 | Python | 16 | [] |
-| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2023-10-13 22:03:19+00:00 | 107228 | 3666 | Python | 536 | [] |
 | AlaBouali/bane | this is a python module that contains functions and classes which are used to test the security of web/network applications. it's coded on pure python and it's a very intelligent tool ! It can easily detect: XSS (reflected/stored), RCE (Remote Code/Command | https://github.com/AlaBouali/bane | ['rce', 'remote code execution'] | 2 | 2023-10-13 15:05:52+00:00 | 1933 | 218 | Python | 49 | [] |
 | dhondta/python-sploitkit | Devkit for building Metasploit-like consoles | https://github.com/dhondta/python-sploitkit | ['metasploit module OR payload', 'sploit'] | 2 | 2023-10-13 20:14:32+00:00 | 2226 | 223 | Python | 59 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-10-13 04:31:30+00:00 | 2924940 | 354 | REXX | 38 | [] |
@@ -79,6 +79,7 @@
 | Syncline-blip/UN-RCE-WA-Database | Professional Computing 2023 Project | https://github.com/Syncline-blip/UN-RCE-WA-Database | ['rce'] | 1 | 2023-10-13 04:23:17+00:00 | 21114 | 0 | CSS | 0 | [] |
 | Nambers/TempFiles4CTF_Exploit | None | https://github.com/Nambers/TempFiles4CTF_Exploit | ['exploit'] | 1 | 2023-10-13 22:43:59+00:00 | 23 | 0 | HTML | 0 | [] |
 | jygttgyy/DeltaExploits | None | https://github.com/jygttgyy/DeltaExploits | ['exploit'] | 1 | 2023-10-13 00:52:27+00:00 | 248 | 0 | Lua | 0 | [] |
+| nickvourd/Supernova | Real fucking shellcode encryption tool | https://github.com/nickvourd/Supernova | ['shellcode'] | 1 | 2023-10-13 15:32:59+00:00 | 4528 | 389 | Go | 53 | [] |
 | BGuerrero825/exp301-exploits | None | https://github.com/BGuerrero825/exp301-exploits | ['exploit'] | 1 | 2023-10-13 04:04:31+00:00 | 779 | 0 | Python | 0 | [] |
 | lucagrippa/cisa-kev-archive | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | ['exploit'] | 1 | 2023-10-13 23:33:47+00:00 | 1053 | 0 | | 0 | [] |
 | mitsiu-carreno/shellcode_tutorial | None | https://github.com/mitsiu-carreno/shellcode_tutorial | ['shellcode'] | 1 | 2023-10-13 04:05:35+00:00 | 6 | 0 | Assembly | 0 | [] |
@@ -138,6 +139,7 @@
 | codingcore12/SILENT-PDF-EXPLOIT-CLEANcq | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcq | ['exploit'] | 1 | 2023-10-13 00:23:13+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEANcq | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcq | ['exploit'] | 1 | 2023-10-13 00:24:02+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/Extremely-Silent-JPG-Exploit-NEWcq | None | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcq | ['exploit'] | 1 | 2023-10-13 00:24:52+00:00 | 1 | 1 | | 0 | [] |
+| marissalubow/JavaFxDBSQL_ShellCode | None | https://github.com/marissalubow/JavaFxDBSQL_ShellCode | ['shellcode'] | 1 | 2023-10-13 03:04:17+00:00 | 5 | 0 | Java | 0 | [] |
 | TransactionTransformer/TransactionTransformer | The implemenetation code and datasets for WWW24 submission: Transaction Transformer: Exploiting Internal Transactions for Graph Classification on Ethereum Blockchain | https://github.com/TransactionTransformer/TransactionTransformer | ['exploit'] | 1 | 2023-10-13 03:26:20+00:00 | 0 | 0 | | 0 | [] |
 | rhtap-perf-test/ciq5s-0041-app-goyF8-remind-exploit | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-0041-app-goyF8-remind-exploit | ['exploit'] | 1 | 2023-10-13 04:58:23+00:00 | 0 | 0 | | 0 | [] |
 | rhtap-perf-test/ciq5s-0063-app-kFarJ-exploit-appear | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-0063-app-kFarJ-exploit-appear | ['exploit'] | 1 | 2023-10-13 04:57:03+00:00 | 0 | 0 | | 0 | [] |
@@ -156,8 +158,6 @@
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-jh | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-jh | ['exploit'] | 1 | 2023-10-13 23:39:43+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEAN-jh | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-jh | ['exploit'] | 1 | 2023-10-13 23:40:19+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jh | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jh | ['exploit'] | 1 | 2023-10-13 23:41:00+00:00 | 1 | 1 | | 0 | [] |
-| codingcore12/Extremely-Silent-JPG-Exploit-NEW-jh | None | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-jh | ['exploit'] | 1 | 2023-10-13 23:41:46+00:00 | 1 | 1 | | 0 | [] |
-| ronin-rb/ronin | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | ['exploit'] | 1 | 2023-10-13 05:58:10+00:00 | 8716 | 578 | Ruby | 51 | [] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-10-13 00:41:16+00:00 | 973649 | 31377 | Ruby | 13512 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-10-13 13:09:31+00:00 | 22433 | 8839 | JavaScript | 2025 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2023-10-13 08:47:35+00:00 | 46066 | 930 | Python | 229 | [] |
@@ -165,3 +165,5 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2023-10-13 06:52:14+00:00 | 6241 | 4048 | Python | 783 | [] |
 | zeroscience/advisory | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | ['exploit'] | 1 | 2023-10-13 23:04:55+00:00 | 4112 | 5 | Python | 7 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2023-10-13 09:08:28+00:00 | 2022 | 0 | Python | 11 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2023-10-13 16:02:35+00:00 | 370647 | 152 | Python | 16 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2023-10-13 22:03:19+00:00 | 107228 | 3666 | Python | 536 | [] |
