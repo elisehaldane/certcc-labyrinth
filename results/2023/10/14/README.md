@@ -1,7 +1,7 @@
 
 # Summary for results/2023/10/14
     
-126 records found after deduplication
+127 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -11,6 +11,7 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-10-14 04:31:22+00:00 | 2994979 | 354 | REXX | 38 | [] |
 | neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-10-14 01:38:01+00:00 | 1339 | 1 | HTML | 0 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-10-14 00:37:11+00:00 | 334528 | 5419 | | 1054 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-10-14 00:46:41+00:00 | 47013 | 58 | | 30 | [] |
 | K3rnel-Dev/ShellCat | Toolkit for automating hacking in Kali-Linux:) | https://github.com/K3rnel-Dev/ShellCat | ['metasploit module OR payload'] | 1 | 2023-10-14 15:17:32+00:00 | 9295 | 0 | Python | 0 | [] |
 | itsAptx/CVE-2023-45471 | None | https://github.com/itsAptx/CVE-2023-45471 | ['cve-2 OR cve_2'] | 1 | 2023-10-14 16:43:01+00:00 | 0 | 1 | | 0 | ['CVE-2023-45471'] |
 | vinetsuicide/vsftpd-2.3.4-exploit | backdoor exploit for vsftpd 2.3.4 on python | https://github.com/vinetsuicide/vsftpd-2.3.4-exploit | ['exploit'] | 1 | 2023-10-14 15:36:02+00:00 | 3 | 0 | Python | 0 | [] |
@@ -19,7 +20,6 @@
 | CwEeR313/CVE-2023-3710 | exploit for CVE-2023-3710 | https://github.com/CwEeR313/CVE-2023-3710 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-10-14 21:24:33+00:00 | 17 | 0 | Python | 0 | ['CVE-2023-3710'] |
 | tangledgroup/llama-cpp-python-exploit | llama-cpp-python-exploit | https://github.com/tangledgroup/llama-cpp-python-exploit | ['exploit'] | 1 | 2023-10-14 19:16:37+00:00 | 4 | 0 | Python | 0 | [] |
 | Watchdog0x/chunkHide | chunkHide provides a convenient way to manipulate PNG image files by adding, modifying, or reading text chunks. It is particularly useful for scenarios where you need to embed metadata or other textual information within a PNG image. | https://github.com/Watchdog0x/chunkHide | ['exploit'] | 1 | 2023-10-14 19:26:26+00:00 | 439 | 0 | Go | 0 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-10-14 04:19:13+00:00 | 2946 | 169 | Python | 14 | [] |
 | 1337r0j4n/php-backdoors | PHP shell backdoors list ( collection ) | https://github.com/1337r0j4n/php-backdoors | ['exploit'] | 1 | 2023-10-14 05:00:18+00:00 | 21042 | 47 | PHP | 13 | [] |
 | grantdadams/Rceattle_MSE | None | https://github.com/grantdadams/Rceattle_MSE | ['rce'] | 1 | 2023-10-14 22:06:25+00:00 | 652564 | 0 | HTML | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2023-10-14 18:10:11+00:00 | 10865 | 25 | HTML | 7 | [] |
@@ -60,6 +60,7 @@
 | BenjiTrapp/cisa-known-vuln-scraper | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | ['exploit'] | 1 | 2023-10-14 00:19:43+00:00 | 82780 | 1 | Jupyter Notebook | 1 | [] |
 | nijithwilson/VulnScanX | The Security Testing Tool is a command-line app for web app security. It checks XSS, SQLi, and RCE vulnerabilities. Easy to use, customizable payloads, and detailed results empower developers and security pros to enhance web app security ethically. | https://github.com/nijithwilson/VulnScanX | ['rce'] | 1 | 2023-10-14 06:47:31+00:00 | 185 | 4 | Python | 2 | [] |
 | Syncline-blip/UN-RCE-WA-Database | Professional Computing 2023 Project | https://github.com/Syncline-blip/UN-RCE-WA-Database | ['rce'] | 1 | 2023-10-14 04:41:53+00:00 | 21279 | 0 | CSS | 0 | [] |
+| securezeron/CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-10-14 20:52:44+00:00 | 6 | 13 | Python | 6 | ['CVE-2023-38646'] |
 | jygttgyy/DeltaExploits | None | https://github.com/jygttgyy/DeltaExploits | ['exploit'] | 1 | 2023-10-14 01:18:02+00:00 | 252 | 0 | Lua | 0 | [] |
 | getdrive/PoC | PoC. Severity critical. | https://github.com/getdrive/PoC | ['exploit'] | 1 | 2023-10-14 11:06:37+00:00 | 460 | 15 | Ruby | 9 | [] |
 | Kiosec/AD-Exploitation | Audit and pentest methodologies for Active Directory including internal enumeration, privesc, lateral movement, etc. | https://github.com/Kiosec/AD-Exploitation | ['exploit'] | 1 | 2023-10-14 16:59:21+00:00 | 472 | 0 | | 0 | [] |
@@ -122,7 +123,6 @@
 | GameProfOrg/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks) Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) Saved wifi networks & scan networks around device (SSID, BSSID) s F | https://github.com/GameProfOrg/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-10-14 22:51:35+00:00 | 697 | 0 | C# | 0 | [] |
 | GameProfOrg/Dll-Injector-V4 | Injection methods LoadLibraryExW LdrLoadDll LdrpLoadDll LdrpLoadDllInternal ManualMapping Shellcode execution methods NtCreateThreadEx Thread hijacking SetWindowsHookEx QueueUserAPC KernelCallback | https://github.com/GameProfOrg/Dll-Injector-V4 | ['shellcode'] | 1 | 2023-10-14 22:44:51+00:00 | 566 | 0 | C++ | 0 | [] |
 | Xglitchgaming1X/Roblox-exploit | None | https://github.com/Xglitchgaming1X/Roblox-exploit | ['exploit'] | 1 | 2023-10-14 22:24:11+00:00 | 0 | 0 | Lua | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-10-14 00:46:41+00:00 | 47013 | 58 | | 30 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2023-10-14 16:18:53+00:00 | 1654 | 971 | Java | 122 | [] |
 | nemesida-waf/waf-bypass | Check your WAF before an attacker does | https://github.com/nemesida-waf/waf-bypass | ['rce'] | 1 | 2023-10-14 18:48:15+00:00 | 668 | 879 | Python | 135 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-10-14 04:07:07+00:00 | 1015743 | 88 | | 31 | [] |
@@ -131,3 +131,4 @@
 | OverlordAkise/darkrp-exploits | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | ['exploit'] | 1 | 2023-10-14 21:09:09+00:00 | 128 | 23 | Lua | 5 | [] |
 | nerdsinspace/nocom-explanation | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | ['exploit'] | 1 | 2023-10-14 04:36:47+00:00 | 5053 | 688 | | 40 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-10-14 01:11:25+00:00 | 3135 | 227 | HTML | 15 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-10-14 04:19:13+00:00 | 2946 | 169 | Python | 14 | [] |
