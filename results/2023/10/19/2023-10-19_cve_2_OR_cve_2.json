@@ -116,7 +116,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/codeb0ss\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codeb0ss\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":706978920,
@@ -235,7 +236,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/codeb0ss\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/codeb0ss\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":706986548,
@@ -347,7 +349,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/hateme021202\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hateme021202\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":706987801,
@@ -459,7 +462,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/wushigudan\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/wushigudan\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":705224501,
@@ -571,7 +575,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/po6ix\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/po6ix\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":705857370,
@@ -688,7 +693,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/0x06060606\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/0x06060606\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707016954,
@@ -800,7 +806,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/warber0x\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/warber0x\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":706807565,
@@ -914,7 +921,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/ditekshen\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ditekshen\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707067935,
@@ -1032,7 +1040,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/nidhi7598\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nidhi7598\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707080239,
@@ -1144,7 +1153,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/cdxiaodong\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/cdxiaodong\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707100656,
@@ -1256,7 +1266,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/leekenghwa\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/leekenghwa\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":694381126,
@@ -1368,7 +1379,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/manbolq\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/manbolq\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707152667,
@@ -1486,7 +1498,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/nidhi7598\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nidhi7598\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":632067353,
@@ -1598,7 +1611,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/RubXkuB\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/RubXkuB\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":706586843,
@@ -1710,7 +1724,121 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/cert-orangecyberdefense\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/cert-orangecyberdefense\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
+  },
+  {
+    "id":707531165,
+    "node_id":"R_kgDOKiwRnQ",
+    "name":"Cisco_CVE-2023-20198",
+    "full_name":"reket99\/Cisco_CVE-2023-20198",
+    "private":false,
+    "html_url":"https:\/\/github.com\/reket99\/Cisco_CVE-2023-20198",
+    "description":null,
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198",
+    "forks_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/reket99\/Cisco_CVE-2023-20198\/deployments",
+    "created_at":"2023-10-20T05:28:40Z",
+    "updated_at":"2023-10-20T09:13:11Z",
+    "pushed_at":"2023-10-19T13:44:22Z",
+    "git_url":"git:\/\/github.com\/reket99\/Cisco_CVE-2023-20198.git",
+    "ssh_url":"git@github.com:reket99\/Cisco_CVE-2023-20198.git",
+    "clone_url":"https:\/\/github.com\/reket99\/Cisco_CVE-2023-20198.git",
+    "svn_url":"https:\/\/github.com\/reket99\/Cisco_CVE-2023-20198",
+    "homepage":null,
+    "size":13,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":false,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_on":"cve-2 OR cve_2 pushed:2023-10-19..2023-10-20",
+    "matched_at":"2023-10-20T17:04:22Z",
+    "owner_login":"reket99",
+    "owner_id":42685719,
+    "owner_node_id":"MDQ6VXNlcjQyNjg1NzE5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/42685719?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/reket99",
+    "owner_html_url":"https:\/\/github.com\/reket99",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/reket99\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/reket99\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/reket99\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/reket99\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/reket99\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/reket99\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/reket99\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/reket99\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/reket99\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":706677544,
@@ -1822,7 +1950,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/valentin-panov\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/valentin-panov\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707284838,
@@ -1934,7 +2063,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/harry935\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/harry935\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707392305,
@@ -2052,7 +2182,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/exotikcheat\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/exotikcheat\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":707448488,
@@ -2164,6 +2295,7 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/4zur-0312\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/4zur-0312\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   }
 ]
