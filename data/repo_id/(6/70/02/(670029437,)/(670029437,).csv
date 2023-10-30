@@ -3,24 +3,22 @@ repo_id,repo_full_name,file,file_sha1,match
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-4543 side-channel attack bypass kaslr/readme.md,0980e5525ac1f607c19fbbdbc40c0feb1807dd22,CVE-2017-5753
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-4543 side-channel attack bypass kaslr/readme.md,0980e5525ac1f607c19fbbdbc40c0feb1807dd22,CVE-2017-5754
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-4543 side-channel attack bypass kaslr/readme.md,0980e5525ac1f607c19fbbdbc40c0feb1807dd22,CVE-2022-4543
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-2588 Double Free/readme.md,102f2d45e422229daf15c83639be1908aa05313c,CVE-2022-2588
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0847  DirtyPipe/dirtypipe_suid.c,1c9e9d1f91d1f3089a24da0c25f4ee6d4b3b524c,CVE-2022-0847
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2021-22555 Netfilter OOB 2 bytes/exp.c,2012a6910edbfe66c4ba1e7b56cb33dcc0269cdf,CVE-2021-22555
-670029437,Ha0-Y/kernel-exploit-cve,Exploits-cross-cache-attack/README.md,2b1405a4795f9cbfa4d0203f88879a91a5db9616,CVE-2021-22555
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-42703 Bringing back the stack attack/anonvma_uaf.zip,2bdce28b5666c6642edb47dd10f30a2788d128cf,CVE-2022-42703
-670029437,Ha0-Y/kernel-exploit-cve,README.md,525420cca260df2c83ab5e73646c5ca714db6d10,CVE-2022-0185
-670029437,Ha0-Y/kernel-exploit-cve,README.md,525420cca260df2c83ab5e73646c5ca714db6d10,CVE-2022-42703
-670029437,Ha0-Y/kernel-exploit-cve,README.md,525420cca260df2c83ab5e73646c5ca714db6d10,CVE-2021-22555
-670029437,Ha0-Y/kernel-exploit-cve,README.md,525420cca260df2c83ab5e73646c5ca714db6d10,CVE-2022-4270
-670029437,Ha0-Y/kernel-exploit-cve,README.md,525420cca260df2c83ab5e73646c5ca714db6d10,CVE-2022-0847
-670029437,Ha0-Y/kernel-exploit-cve,README.md,525420cca260df2c83ab5e73646c5ca714db6d10,CVE-2022-4543
 670029437,Ha0-Y/kernel-exploit-cve,0x01 Template/msg_msg/msg_msg.md,63a766149153bd21eff1b75c2a16783df2d1ef2f,CVE-2021-22555
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2021-22555 Netfilter OOB 2 bytes/exploit.c,6cda2265d59272adf36d8766b8342c16be3c78fd,CVE-2021-22555
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0185 FS Context Integer Overflow/exploit/Makefile,733d27663d443f589fc8fb9770d8b888cd8ca5ff,CVE-2022-0185
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-42703 Bringing back the stack attack/README.md,7e770a1bddb9cb93ba46de9a11a8265cc09a9f44,CVE-2022-42703
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-42703 Bringing back the stack attack/README.md,7e770a1bddb9cb93ba46de9a11a8265cc09a9f44,GPZ-2351
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2023-4911 Looney Tunables/readme.md,858387afe78ea98aaed1b65d80ed038ef655e89f,CVE-2023-4911
+670029437,Ha0-Y/kernel-exploit-cve,CVE-2023-4911 Looney Tunables/readme.md,858387afe78ea98aaed1b65d80ed038ef655e89f,CVE-2023-4991
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-42703 Bringing back the stack attack/anonvma_uaf/hbp_fire.c,8bb198d3e8cab71d7bbe83afebb9100c3ca2f2b9,CVE-2022-42703
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-42703 Bringing back the stack attack/anonvma_uaf/anonvma-reuse-uaf.c,92586538ce1759ad9e6b87ae61861970f11322f8,CVE-2022-42703
+670029437,Ha0-Y/kernel-exploit-cve,Exploits-cross-cache-attack/README.md,9ddf5018e16c4b61f81ffea1f53625cf5c393bd7,CVE-2021-22555
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0847  DirtyPipe/CVE-2022-0847    DirtyPipe.pdf,9e6f0f568d3a0432c235620f2750472cd605a26e,CVE-2022-0847
+670029437,Ha0-Y/kernel-exploit-cve,0x01 Template/credentials/dirty-cred.md,be518f91043e04abcf2d166e10762f94a62dd557,CVE-2021-4154
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0185 FS Context Integer Overflow/exploit/exploit.h,c39dfda75d804bd90024797e15072db9e0b32b59,CVE-2022-0185
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2021-22555 Netfilter OOB 2 bytes/README.md,cda1a87d960cc87989dc67a18e4403ad178133c7,CVE-2021-22555
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0185 FS Context Integer Overflow/README.md,cec13f48e1d1a01fef8b56fbb40196057877133f,CVE-2022-0185
@@ -33,4 +31,12 @@ repo_id,repo_full_name,file,file_sha1,match
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2021-22555 Netfilter OOB 2 bytes/Makefile,ee5b0938b138979e83edff5ef6fb317aae219b89,CVE-2021-22555
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-4543 side-channel attack bypass kaslr/PoC.c,f134ee6616725855ecaad74289328b89b5dbd95f,CVE-2022-4543
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2022-0185 FS Context Integer Overflow/exploit/exploit.c,f20561920999c23ce35f337a2e9c0a9fb9439906,CVE-2022-0185
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2022-0847
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2022-0185
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2022-42703
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2022-4543
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2021-22555
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2023-4911
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2022-2588
+670029437,Ha0-Y/kernel-exploit-cve,README.md,f2b94efe5f3fb1c73995e92db2263598a00d694c,CVE-2022-4270
 670029437,Ha0-Y/kernel-exploit-cve,CVE-2021-22555 Netfilter OOB 2 bytes/study.pdf,ffc220daa89483f7fdc12694e6d36355e84fb993,CVE-2021-22555
