@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+711577493,hotblac/cve-2022-31692,pom.xml,974666ddc0755f28e531c7da48ad248d1484831a,CVE-2022-31692
+711577493,hotblac/cve-2022-31692,src/main/resources/templates/index.html,e40562648b5bb7a837be3359981961e58465a65f,CVE-2022-31692
+711577493,hotblac/cve-2022-31692,_GITHUB_REPO_METADATA_,,CVE-2022-31692
