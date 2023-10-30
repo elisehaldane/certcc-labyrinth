@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+366671705,jweny/pocassist,poc/scripts/poc-go-smb-ms17-010.go,05d3030c09b0a937d2d5f80c238b09cc5d10bfcc,MS17-010
+366671705,jweny/pocassist,vendor/github.com/valyala/fasthttp/SECURITY.md,4bf2cc7b82a3971918530869c312963a4428dbc5,VU#04
+366671705,jweny/pocassist,poc/scripts/poc-go-smb-cve-2020-0796.go,544d985a8d5da2ea0e25a04d76ca690bf5e0714a,CVE-2020-0796
+366671705,jweny/pocassist,vendor/github.com/valyala/fasthttp/go.sum,547e43a9b90198d130065727ed3836fe3a1543b3,VU#15
+366671705,jweny/pocassist,poc/scripts/poc-go-CVE-2020-17518.go,68d61ba2f3c1ba99eac9ad72d9470ea6143c6006,CVE-2020-17518
+366671705,jweny/pocassist,poc/scripts/poc-go-exim-cve-2019-15846-rce.go,6bb4cb46675dfa499d1b65d71d9d9a9df474e5e9,CVE-2019-15846
+366671705,jweny/pocassist,web/build/static/js/main.c58b4be8.chunk.js,8fc36ce29f6b13fbaa1151599c415bd2dc7dde1d,VU#378
+366671705,jweny/pocassist,vendor/github.com/valyala/fasthttp/fasthttputil/rsa.pem,cffd23ff054876b719edc4bcdd3e5f33f220a0f8,VU#29
+366671705,jweny/pocassist,poc/scripts/poc-go-exim-cve-2017-16943-uaf.go,d01534ed72ffaf279bcf2b3601f9df9fcc7c36a0,CVE-2017-16943
