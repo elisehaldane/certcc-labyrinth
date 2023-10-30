@@ -1,7 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZDI-CAN-18987,0.00020683,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-ZDI-CAN-18987,0.00018100,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
-ZDI-CAN-18987,0.00008746,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-ZDI-CAN-18987,0.00006848,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
-ZDI-CAN-18987,0.00001150,https://github.com/trickest/cve,trickest/cve,454015416
+ZDI-CAN-18987,0.00020137,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+ZDI-CAN-18987,0.00017538,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-18987,0.00008640,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+ZDI-CAN-18987,0.00006783,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+ZDI-CAN-18987,0.00001133,https://github.com/trickest/cve,trickest/cve,454015416
+ZDI-CAN-18987,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 ZDI-CAN-18987,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#619785,0.50000000,https://github.com/Live-Hack-CVE/CVE-2019-19781,Live-Hack-CVE/CVE-2019-19781,591417923
 VU#619785,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#619785,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
-VU#619785,0.00064350,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#619785,0.00063654,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#619785,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#619785,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 VU#619785,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

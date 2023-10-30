@@ -12,6 +12,7 @@ VU#79,0.50000000,https://github.com/xinerva/exploit,xinerva/exploit,525054689
 VU#79,0.50000000,https://github.com/r00thunter/snipper,r00thunter/snipper,479247434
 VU#79,0.50000000,https://github.com/0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,476386220
 VU#79,0.50000000,https://github.com/RBXLModders/Zihsploit,RBXLModders/Zihsploit,443668737
+VU#79,0.33333333,https://github.com/AryanVBW/ANDRO,AryanVBW/ANDRO,545007990
 VU#79,0.33333333,https://github.com/karimSalem25/Ethical_Hacking_and_Penetration_Testing,karimSalem25/Ethical_Hacking_and_Penetration_Testing,512165280
 VU#79,0.33333333,https://github.com/AidenPearce369/Vulnserver-Walkthrough,AidenPearce369/Vulnserver-Walkthrough,457252612
 VU#79,0.33333333,https://github.com/WagleTanvi/UnlearnableExamplesAnalysis,WagleTanvi/UnlearnableExamplesAnalysis,449121363
@@ -52,6 +53,7 @@ VU#79,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxics
 VU#79,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
 VU#79,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
 VU#79,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
+VU#79,0.06250000,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#79,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#79,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
 VU#79,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt2,SzeKiatTan/nlp-cve-vendor-classification-gpt2,562010558
@@ -100,6 +102,7 @@ VU#79,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,51462478
 VU#79,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#79,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#79,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#79,0.01818182,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#79,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#79,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#79,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
@@ -119,7 +122,7 @@ VU#79,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#79,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#79,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#79,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
-VU#79,0.01428571,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
+VU#79,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#79,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#79,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#79,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
@@ -143,6 +146,7 @@ VU#79,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#79,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#79,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#79,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#79,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#79,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#79,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#79,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -190,6 +194,7 @@ VU#79,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-express
 VU#79,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#79,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#79,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#79,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#79,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#79,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#79,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -238,7 +243,6 @@ VU#79,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31
 VU#79,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#79,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#79,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#79,0.00099010,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#79,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#79,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#79,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -267,8 +271,9 @@ VU#79,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#79,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#79,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#79,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#79,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#79,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#79,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#79,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#79,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#79,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
+VU#79,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

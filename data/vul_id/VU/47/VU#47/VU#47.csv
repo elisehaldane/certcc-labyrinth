@@ -19,6 +19,8 @@ VU#47,0.25000000,https://github.com/APTIRAN/CVE-2022-1040,APTIRAN/CVE-2022-1040,
 VU#47,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
 VU#47,0.16666667,https://github.com/REALXLOLX/Evil-Droid,REALXLOLX/Evil-Droid,681053513
 VU#47,0.16666667,https://github.com/Gamer100Dev/GamerSploits,Gamer100Dev/GamerSploits,547833906
+VU#47,0.14285714,https://github.com/StarlinkCoinn/Hta-Exploit-Downloader-Malware-Builder,StarlinkCoinn/Hta-Exploit-Downloader-Malware-Builder,711720762
+VU#47,0.14285714,https://github.com/GameProfRcs/Hta-Exploit-Downloader-Malware-Builder,GameProfRcs/Hta-Exploit-Downloader-Malware-Builder,708443148
 VU#47,0.14285714,https://github.com/unknown144p/Hta-Exploit-Downloader-Malware-Builder,unknown144p/Hta-Exploit-Downloader-Malware-Builder,613982051
 VU#47,0.14285714,https://github.com/NoizThaGod/Hta-Exploit-Downloader-Malware-Builder,NoizThaGod/Hta-Exploit-Downloader-Malware-Builder,590552255
 VU#47,0.14285714,https://github.com/NumRcs/Hta-Exploit-Downloader-Malware-Builder,NumRcs/Hta-Exploit-Downloader-Malware-Builder,587828740
@@ -49,6 +51,7 @@ VU#47,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,52
 VU#47,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#47,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#47,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
+VU#47,0.09090909,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#47,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,608160332
 VU#47,0.09090909,https://github.com/bhagvatgiri/WavLink-Router-Exploitation,bhagvatgiri/WavLink-Router-Exploitation,565250009
 VU#47,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
@@ -213,6 +216,7 @@ VU#47,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#47,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#47,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#47,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#47,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#47,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#47,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#47,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
@@ -260,6 +264,7 @@ VU#47,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-express
 VU#47,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#47,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#47,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#47,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#47,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#47,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#47,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
@@ -308,7 +313,7 @@ VU#47,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#47,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#47,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#47,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#47,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#47,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#47,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#47,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#47,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -334,7 +339,7 @@ VU#47,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#47,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#47,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#47,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#47,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#47,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#47,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#47,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#47,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

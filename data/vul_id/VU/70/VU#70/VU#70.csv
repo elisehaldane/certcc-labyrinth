@@ -36,7 +36,7 @@ VU#70,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExp
 VU#70,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,534967733
 VU#70,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
 VU#70,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-Blue-Project,494340768
-VU#70,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
+VU#70,0.11111111,https://github.com/0xvpr/vpr-pidjeon,0xvpr/vpr-pidjeon,413384079
 VU#70,0.11111111,https://github.com/rasyidrafi/R3Xploit,rasyidrafi/R3Xploit,345617409
 VU#70,0.10000000,https://github.com/Trap4L/SQL-Dumper,Trap4L/SQL-Dumper,649196467
 VU#70,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
@@ -73,6 +73,7 @@ VU#70,0.02857143,https://github.com/david-knigge/separable-group-convolutional-n
 VU#70,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#70,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#70,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
+VU#70,0.02222222,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#70,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#70,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#70,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
@@ -175,6 +176,7 @@ VU#70,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,11791108
 VU#70,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#70,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#70,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
+VU#70,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#70,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#70,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#70,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -225,6 +227,7 @@ VU#70,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#70,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#70,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#70,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#70,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#70,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#70,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#70,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -272,7 +275,7 @@ VU#70,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#70,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#70,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
 VU#70,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#70,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#70,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#70,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#70,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#70,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

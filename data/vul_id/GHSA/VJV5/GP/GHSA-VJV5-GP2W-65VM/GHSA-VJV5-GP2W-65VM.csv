@@ -3,7 +3,7 @@ GHSA-VJV5-GP2W-65VM,0.00515464,https://github.com/Threekiii/Vulhub-Reproduce,Thr
 GHSA-VJV5-GP2W-65VM,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-VJV5-GP2W-65VM,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-VJV5-GP2W-65VM,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-GHSA-VJV5-GP2W-65VM,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+GHSA-VJV5-GP2W-65VM,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 GHSA-VJV5-GP2W-65VM,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 GHSA-VJV5-GP2W-65VM,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 GHSA-VJV5-GP2W-65VM,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
@@ -25,7 +25,7 @@ GHSA-VJV5-GP2W-65VM,0.00019501,https://github.com/artyang/metasploit-framework,a
 GHSA-VJV5-GP2W-65VM,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 GHSA-VJV5-GP2W-65VM,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 GHSA-VJV5-GP2W-65VM,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-GHSA-VJV5-GP2W-65VM,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-VJV5-GP2W-65VM,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-VJV5-GP2W-65VM,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-VJV5-GP2W-65VM,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 GHSA-VJV5-GP2W-65VM,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
@@ -37,5 +37,6 @@ GHSA-VJV5-GP2W-65VM,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/
 GHSA-VJV5-GP2W-65VM,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 GHSA-VJV5-GP2W-65VM,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 GHSA-VJV5-GP2W-65VM,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+GHSA-VJV5-GP2W-65VM,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-VJV5-GP2W-65VM,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-VJV5-GP2W-65VM,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

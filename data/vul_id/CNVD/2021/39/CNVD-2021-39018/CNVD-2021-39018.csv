@@ -2,5 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2021-39018,0.05882353,https://github.com/MzzdToT/HAC_Bored_Writing,MzzdToT/HAC_Bored_Writing,670428048
 CNVD-2021-39018,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
 CNVD-2021-39018,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
-CNVD-2021-39018,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2021-39018,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 CNVD-2021-39018,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

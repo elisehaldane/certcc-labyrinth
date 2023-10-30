@@ -65,6 +65,7 @@ VU#16,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,a
 VU#16,0.07142857,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#16,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#16,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
+VU#16,0.06250000,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#16,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#16,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#16,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
@@ -181,6 +182,7 @@ VU#16,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#16,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#16,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#16,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
+VU#16,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#16,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#16,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#16,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -234,6 +236,7 @@ VU#16,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#16,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#16,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#16,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#16,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#16,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#16,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#16,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -287,7 +290,7 @@ VU#16,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#16,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#16,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#16,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#16,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#16,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#16,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#16,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#16,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -298,7 +301,7 @@ VU#16,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#16,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#16,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#16,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#16,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#16,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#16,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#16,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#16,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

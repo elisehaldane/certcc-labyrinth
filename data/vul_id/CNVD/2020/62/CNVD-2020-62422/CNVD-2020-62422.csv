@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2020-62422,1.00000000,https://github.com/xfiftyone/seeyon-exploit,xfiftyone/seeyon-exploit,382371842
 CNVD-2020-62422,0.01315789,https://github.com/securitysqs/Web_Poc,securitysqs/Web_Poc,329870299
 CNVD-2020-62422,0.01282051,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
+CNVD-2020-62422,0.01190476,https://github.com/daffainfo/suricata-rules,daffainfo/suricata-rules,635439624
 CNVD-2020-62422,0.00552486,https://github.com/chaitin/xray,chaitin/xray,191117123
 CNVD-2020-62422,0.00314465,https://github.com/KayCHENvip/vulnerability-poc,KayCHENvip/vulnerability-poc,658037002
 CNVD-2020-62422,0.00306748,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
@@ -14,4 +15,4 @@ CNVD-2020-62422,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdc
 CNVD-2020-62422,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 CNVD-2020-62422,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 CNVD-2020-62422,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-CNVD-2020-62422,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2020-62422,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571

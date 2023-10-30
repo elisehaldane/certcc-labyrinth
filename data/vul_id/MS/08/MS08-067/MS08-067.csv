@@ -6,7 +6,7 @@ MS08-067,1.00000000,https://github.com/sunn1day/Windows-TCP-reverse-shellcode-st
 MS08-067,1.00000000,https://github.com/RobertoLFRA/armitage,RobertoLFRA/armitage,472046425
 MS08-067,1.00000000,https://github.com/zhangdapeng520/zdppy_metasploit,zhangdapeng520/zdppy_metasploit,469652142
 MS08-067,1.00000000,https://github.com/adarshvs/ms08_067_python3,adarshvs/ms08_067_python3,461299801
-MS08-067,1.00000000,https://github.com/mashahzad/Network-Security,mashahzad/Network-Security,448531043
+MS08-067,1.00000000,https://github.com/mashahzad/Networks,mashahzad/Networks,448531043
 MS08-067,1.00000000,https://github.com/hupe1980/gomsf,hupe1980/gomsf,432955573
 MS08-067,1.00000000,https://github.com/Nerkho/MS08-067,Nerkho/MS08-067,423911751
 MS08-067,1.00000000,https://github.com/phreakAI/MetasploitGym,phreakAI/MetasploitGym,407942105
@@ -255,7 +255,7 @@ MS08-067,0.01587302,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/eth
 MS08-067,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS08-067,0.01470588,https://github.com/asr511/exploitdb-bin-sploits-offsec,asr511/exploitdb-bin-sploits-offsec,399769897
 MS08-067,0.01449275,https://github.com/paramint/offensive-security-exploitdb-bin-sploits,paramint/offensive-security-exploitdb-bin-sploits,402516412
-MS08-067,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
+MS08-067,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
 MS08-067,0.01315789,https://github.com/hackone103/Penetration-Testing,hackone103/Penetration-Testing,596134861
 MS08-067,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
 MS08-067,0.01234568,https://github.com/1N3/PrivEsc,1N3/PrivEsc,71915988
@@ -516,7 +516,7 @@ MS08-067,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933
 MS08-067,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS08-067,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS08-067,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS08-067,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-067,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS08-067,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
@@ -562,10 +562,11 @@ MS08-067,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS08-067,0.00001150,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001133,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000471,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS08-067,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS08-067,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS08-067,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

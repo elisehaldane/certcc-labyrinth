@@ -146,7 +146,7 @@ BID-1,0.00190840,https://github.com/wupeng15/Exploitation-of-vulnerability,wupen
 BID-1,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 BID-1,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
 BID-1,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-BID-1,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+BID-1,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-1,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-1,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-1,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -189,7 +189,8 @@ BID-1,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,66889920
 BID-1,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 BID-1,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 BID-1,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-BID-1,0.00001150,https://github.com/trickest/cve,trickest/cve,454015416
+BID-1,0.00001133,https://github.com/trickest/cve,trickest/cve,454015416
 BID-1,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+BID-1,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 BID-1,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-1,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

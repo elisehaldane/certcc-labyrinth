@@ -24,6 +24,7 @@ VU#72,0.25000000,https://github.com/EstebanBiret/SAE-S2.04,EstebanBiret/SAE-S2.0
 VU#72,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#72,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
 VU#72,0.20000000,https://github.com/MeherP2246/Exploiting-IoT-Devices,MeherP2246/Exploiting-IoT-Devices,649909689
+VU#72,0.20000000,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#72,0.20000000,https://github.com/EMSeek/log4poc,EMSeek/log4poc,438532480
 VU#72,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/multi_sense_learning,429338492
 VU#72,0.16666667,https://github.com/DhurimHalili/Scripts,DhurimHalili/Scripts,559495813
@@ -69,6 +70,7 @@ VU#72,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,45
 VU#72,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#72,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#72,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
+VU#72,0.03333333,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#72,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#72,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#72,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
@@ -86,6 +88,7 @@ VU#72,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin3
 VU#72,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#72,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#72,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#72,0.01818182,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#72,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#72,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#72,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
@@ -127,6 +130,7 @@ VU#72,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#72,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#72,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#72,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
+VU#72,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#72,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#72,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#72,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -175,6 +179,7 @@ VU#72,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledged
 VU#72,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#72,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#72,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#72,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#72,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#72,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#72,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -247,7 +252,7 @@ VU#72,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#72,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#72,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#72,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#72,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#72,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#72,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#72,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#72,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

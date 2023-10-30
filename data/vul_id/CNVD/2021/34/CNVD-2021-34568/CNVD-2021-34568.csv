@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2021-34568,0.00552486,https://github.com/chaitin/xray,chaitin/xray,191117123
 CNVD-2021-34568,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 CNVD-2021-34568,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
-CNVD-2021-34568,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2021-34568,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571

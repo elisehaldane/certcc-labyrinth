@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#18,1.00000000,https://github.com/jrson83/savescum,jrson83/savescum,638788759
 VU#18,1.00000000,https://github.com/SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,609224670
 VU#18,1.00000000,https://github.com/bugverma/CTFs-Walkthroughs,bugverma/CTFs-Walkthroughs,567908810
 VU#18,1.00000000,https://github.com/ModExploit/ModExploit.github.io,ModExploit/ModExploit.github.io,561471526
@@ -16,6 +15,7 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
+VU#18,0.50000000,https://github.com/jrson83/savescum,jrson83/savescum,638788759
 VU#18,0.50000000,https://github.com/maldev866/ChExp_CVE_2020_16040,maldev866/ChExp_CVE_2020_16040,610694918
 VU#18,0.50000000,https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,602909174
 VU#18,0.50000000,https://github.com/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-,ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-,600790007
@@ -146,6 +146,7 @@ VU#18,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/
 VU#18,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#18,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#18,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
+VU#18,0.03333333,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#18,0.03333333,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#18,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#18,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
@@ -225,6 +226,7 @@ VU#18,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#18,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#18,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#18,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#18,0.01818182,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#18,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#18,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#18,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
@@ -273,6 +275,7 @@ VU#18,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#18,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#18,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#18,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#18,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#18,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#18,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#18,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -322,6 +325,7 @@ VU#18,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledged
 VU#18,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#18,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#18,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#18,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#18,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#18,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#18,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -370,7 +374,7 @@ VU#18,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#18,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#18,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#18,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#18,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#18,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#18,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#18,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#18,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -398,7 +402,7 @@ VU#18,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#18,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#18,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#18,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#18,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#18,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046

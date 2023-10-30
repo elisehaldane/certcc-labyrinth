@@ -22,7 +22,7 @@ VU#58,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-R
 VU#58,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
 VU#58,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#58,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
-VU#58,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
+VU#58,0.50000000,https://github.com/hansmach1ne/LFImap,hansmach1ne/LFImap,342459650
 VU#58,0.50000000,https://github.com/aegoe/MAB,aegoe/MAB,279114707
 VU#58,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#58,0.33333333,https://github.com/w31rdr4v3n/Web-Exploitation,w31rdr4v3n/Web-Exploitation,689609059
@@ -88,6 +88,7 @@ VU#58,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,47
 VU#58,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#58,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
 VU#58,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
+VU#58,0.04347826,https://github.com/GamerHack/GamerHack.github.io,GamerHack/GamerHack.github.io,481826601
 VU#58,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#58,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#58,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
@@ -177,6 +178,7 @@ VU#58,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#58,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#58,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#58,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#58,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#58,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#58,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#58,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -232,6 +234,7 @@ VU#58,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-express
 VU#58,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#58,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#58,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#58,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#58,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#58,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#58,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -292,7 +295,7 @@ VU#58,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#58,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#58,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#58,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#58,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#58,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#58,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#58,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#58,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -303,7 +306,7 @@ VU#58,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#58,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#58,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#58,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#58,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#58,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#58,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#58,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#58,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
@@ -317,3 +320,4 @@ VU#58,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,6009
 VU#58,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 VU#58,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 VU#58,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
+VU#58,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

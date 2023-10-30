@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2020-5610,0.00106838,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2020-5610,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-ZSL-2020-5610,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+ZSL-2020-5610,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 ZSL-2020-5610,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZSL-2020-5610,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 ZSL-2020-5610,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627

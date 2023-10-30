@@ -29,7 +29,7 @@ VU#95,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signa
 VU#95,0.12500000,https://github.com/IdanBanani/Binary-exploitation-Pwn,IdanBanani/Binary-exploitation-Pwn,356647367
 VU#95,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
 VU#95,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-Blue-Project,494340768
-VU#95,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
+VU#95,0.11111111,https://github.com/0xvpr/vpr-pidjeon,0xvpr/vpr-pidjeon,413384079
 VU#95,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#95,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#95,0.10000000,https://github.com/thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,439837504
@@ -69,6 +69,7 @@ VU#95,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prot
 VU#95,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#95,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#95,0.04545455,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
+VU#95,0.04347826,https://github.com/esfelurm/AutoExploit,esfelurm/AutoExploit,709456884
 VU#95,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
 VU#95,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
 VU#95,0.04166667,https://github.com/backendGuru88/End-exploitation-website,backendGuru88/End-exploitation-website,697231446
@@ -92,6 +93,7 @@ VU#95,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/explo
 VU#95,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#95,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#95,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
+VU#95,0.02222222,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#95,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#95,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#95,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
@@ -115,12 +117,12 @@ VU#95,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#95,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#95,0.01612903,https://github.com/chacka0101/exploits,chacka0101/exploits,254940085
 VU#95,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
-VU#95,0.01428571,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
+VU#95,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#95,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#95,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#95,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#95,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
-VU#95,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
+VU#95,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
 VU#95,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#95,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#95,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
@@ -138,6 +140,7 @@ VU#95,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#95,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#95,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#95,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#95,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#95,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#95,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#95,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
@@ -184,6 +187,7 @@ VU#95,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-express
 VU#95,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#95,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#95,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#95,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#95,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#95,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#95,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125

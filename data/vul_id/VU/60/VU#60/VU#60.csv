@@ -12,7 +12,7 @@ VU#60,0.50000000,https://github.com/trhacknon/PhoneSploit,trhacknon/PhoneSploit,
 VU#60,0.50000000,https://github.com/Gudratliishere/HeapOverflow,Gudratliishere/HeapOverflow,435209702
 VU#60,0.50000000,https://github.com/soryecker/PhoneSploitSor,soryecker/PhoneSploitSor,339217912
 VU#60,0.50000000,https://github.com/mishab-ka/PhoneSploit,mishab-ka/PhoneSploit,287889360
-VU#60,0.50000000,https://github.com/aerosol-can/PhoneSploit,aerosol-can/PhoneSploit,259933740
+VU#60,0.50000000,https://github.com/prbhtkumr/PhoneSploit,prbhtkumr/PhoneSploit,259933740
 VU#60,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
 VU#60,0.33333333,https://github.com/xth1314/Exploiting-Deep-Reinforcement-Learning-for-Edge-Caching-in-Cell-Free-Massive-MIMO-Systems,xth1314/Exploiting-Deep-Reinforcement-Learning-for-Edge-Caching-in-Cell-Free-Massive-MIMO-Systems,548902731
 VU#60,0.33333333,https://github.com/VerityIncorporated/Sploitgate,VerityIncorporated/Sploitgate,400653864
@@ -89,6 +89,7 @@ VU#60,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-s
 VU#60,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#60,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#60,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#60,0.01818182,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#60,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#60,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#60,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
@@ -154,6 +155,7 @@ VU#60,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledged
 VU#60,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#60,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#60,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#60,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#60,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#60,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#60,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
@@ -203,7 +205,7 @@ VU#60,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#60,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#60,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#60,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#60,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#60,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#60,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#60,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#60,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

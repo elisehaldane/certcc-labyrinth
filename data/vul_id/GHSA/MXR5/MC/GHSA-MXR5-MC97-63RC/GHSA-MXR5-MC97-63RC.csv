@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-MXR5-MC97-63RC,0.00064350,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+GHSA-MXR5-MC97-63RC,0.00063654,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-MXR5-MC97-63RC,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-MXR5-MC97-63RC,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 GHSA-MXR5-MC97-63RC,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

@@ -50,7 +50,7 @@ MS15-077,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS15-077,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 MS15-077,0.00173611,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS15-077,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
-MS15-077,0.00064350,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS15-077,0.00063654,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS15-077,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS15-077,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS15-077,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
@@ -87,5 +87,6 @@ MS15-077,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,6
 MS15-077,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 MS15-077,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS15-077,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS15-077,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS15-077,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS15-077,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

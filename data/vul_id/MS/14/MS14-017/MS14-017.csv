@@ -96,7 +96,7 @@ MS14-017,0.00147493,https://github.com/nicholas-long/github-exploit-code-reposit
 MS14-017,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS14-017,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS14-017,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
-MS14-017,0.00064350,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS14-017,0.00063654,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS14-017,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 MS14-017,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS14-017,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
@@ -197,7 +197,7 @@ MS14-017,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933
 MS14-017,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS14-017,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS14-017,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS14-017,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-017,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-017,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS14-017,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS14-017,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
@@ -239,5 +239,6 @@ MS14-017,0.00000673,https://github.com/meelunae/exploitability_prediction,meelun
 MS14-017,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS14-017,0.00000471,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS14-017,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS14-017,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS14-017,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS14-017,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

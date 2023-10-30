@@ -125,7 +125,7 @@ MS03-051,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,i
 MS03-051,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS03-051,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS03-051,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
-MS03-051,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+MS03-051,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 MS03-051,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 MS03-051,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS03-051,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
@@ -233,7 +233,7 @@ MS03-051,0.00019501,https://github.com/artyang/metasploit-framework,artyang/meta
 MS03-051,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 MS03-051,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS03-051,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS03-051,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS03-051,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS03-051,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS03-051,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS03-051,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -276,5 +276,6 @@ MS03-051,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS03-051,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS03-051,0.00000471,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS03-051,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
+MS03-051,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS03-051,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS03-051,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

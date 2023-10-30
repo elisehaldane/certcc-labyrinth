@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2022-5717,0.07142857,https://github.com/boz3r/fatebot,boz3r/fatebot,429063885
+ZSL-2022-5717,0.07142857,https://github.com/boz3r/Fatebot,boz3r/Fatebot,429063885
 ZSL-2022-5717,0.00106838,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2022-5717,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 ZSL-2022-5717,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686

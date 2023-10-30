@@ -26,6 +26,7 @@ VU#53,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,42
 VU#53,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#53,0.20000000,https://github.com/pswalia2u/CVE-2020-7246,pswalia2u/CVE-2020-7246,537412534
 VU#53,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
+VU#53,0.16666667,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#53,0.16666667,https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis,ebenezeredusei/Covid-19-Sentiment-Analysis,593605724
 VU#53,0.16666667,https://github.com/secureITmania/2021-cve-animes,secureITmania/2021-cve-animes,443393178
 VU#53,0.14285714,https://github.com/kpontilala/NLP-SENTIMENT-ANALYSIS,kpontilala/NLP-SENTIMENT-ANALYSIS,592258352
@@ -36,7 +37,7 @@ VU#53,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,4685
 VU#53,0.11111111,https://github.com/sofire/polkit-0.96-CVE-2021-4034,sofire/polkit-0.96-CVE-2021-4034,453321788
 VU#53,0.11111111,https://github.com/ArkAngeL43/Red-Rabbit,ArkAngeL43/Red-Rabbit,420441425
 VU#53,0.11111111,https://github.com/7rebux/league-tools,7rebux/league-tools,307498322
-VU#53,0.11111111,https://github.com/hvmi/hvmi,hvmi/hvmi,283759384
+VU#53,0.11111111,https://github.com/bitdefender/hvmi,bitdefender/hvmi,283759384
 VU#53,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
 VU#53,0.10000000,https://github.com/XiaoliChan/Invoke-sAMSpoofing,XiaoliChan/Invoke-sAMSpoofing,476650535
 VU#53,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
@@ -171,6 +172,7 @@ VU#53,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#53,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#53,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#53,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#53,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#53,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#53,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#53,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -219,6 +221,7 @@ VU#53,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledged
 VU#53,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#53,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#53,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#53,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#53,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#53,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#53,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
@@ -267,7 +270,7 @@ VU#53,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#53,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#53,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#53,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
-VU#53,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#53,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#53,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#53,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#53,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343

@@ -5,6 +5,7 @@ VU#88,0.50000000,https://github.com/DoQuangPhu/HEAP_EXPLOIT,DoQuangPhu/HEAP_EXPL
 VU#88,0.50000000,https://github.com/erensatir/Commander,erensatir/Commander,592115833
 VU#88,0.50000000,https://github.com/HNT8/WeAreDevs-Exploit,HNT8/WeAreDevs-Exploit,502211738
 VU#88,0.50000000,https://github.com/entropyQueen/log4shell_malwares,entropyQueen/log4shell_malwares,439839303
+VU#88,0.33333333,https://github.com/C1ph3rX13/CVE-2023-42442,C1ph3rX13/CVE-2023-42442,707591805
 VU#88,0.33333333,https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT,n2x4/Feb2023-CVE-2021-21974-OSINT,597541159
 VU#88,0.33333333,https://github.com/BomberFish/Mandela,BomberFish/Mandela,588186913
 VU#88,0.33333333,https://github.com/1emvr/The-Art-of-Exploitation,1emvr/The-Art-of-Exploitation,579968326
@@ -245,6 +246,7 @@ VU#88,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#88,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
 VU#88,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#88,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#88,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#88,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#88,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#88,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
@@ -295,6 +297,7 @@ VU#88,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#88,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#88,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#88,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#88,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#88,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#88,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#88,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
@@ -354,7 +357,7 @@ VU#88,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#88,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#88,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
 VU#88,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#88,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#88,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#88,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#88,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#88,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -366,7 +369,7 @@ VU#88,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#88,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#88,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#88,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#88,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#88,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#88,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#88,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2021-26422,1.00000000,https://github.com/zhangweijie11/CNVD-2021-26422,zhangweijie11/CNVD-2021-26422,465558514
 CNVD-2021-26422,1.00000000,https://github.com/zhangweijie11/CNVD-2021-26422,zhangweijie11/CNVD-2021-26422,465542680
 CNVD-2021-26422,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
+CNVD-2021-26422,0.01190476,https://github.com/daffainfo/suricata-rules,daffainfo/suricata-rules,635439624
 CNVD-2021-26422,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
 CNVD-2021-26422,0.00277008,https://github.com/CnHack3r/Goby_PoC_RedTeam,CnHack3r/Goby_PoC_RedTeam,539038052
 CNVD-2021-26422,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
@@ -9,4 +10,4 @@ CNVD-2021-26422,0.00173611,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-x
 CNVD-2021-26422,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 CNVD-2021-26422,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 CNVD-2021-26422,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-CNVD-2021-26422,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+CNVD-2021-26422,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571

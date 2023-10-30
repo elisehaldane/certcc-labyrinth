@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-QPX8-WQ6Q-R833,0.00001150,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-QPX8-WQ6Q-R833,0.00001133,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-QPX8-WQ6Q-R833,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-QPX8-WQ6Q-R833,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

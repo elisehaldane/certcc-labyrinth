@@ -25,6 +25,7 @@ VU#33,0.16666667,https://github.com/cxzero/CVE-2022-22965-spring4shell,cxzero/CV
 VU#33,0.16666667,https://github.com/BloxSafe/Backend,BloxSafe/Backend,492896545
 VU#33,0.16666667,https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo,BabooPan/Log4Shell-CVE-2021-44228-Demo,440722343
 VU#33,0.16666667,https://github.com/Maks1116/roblox-exploit-scripts,Maks1116/roblox-exploit-scripts,299615185
+VU#33,0.14285714,https://github.com/josexgonzalez/exploit,josexgonzalez/exploit,703612549
 VU#33,0.14285714,https://github.com/SoftCreed/Exploits,SoftCreed/Exploits,608428995
 VU#33,0.14285714,https://github.com/sysrom/ShellcodeGEN_GUI,sysrom/ShellcodeGEN_GUI,589195153
 VU#33,0.14285714,https://github.com/DarkDev1000/Roblox-Exploit-Scripts,DarkDev1000/Roblox-Exploit-Scripts,582159354
@@ -129,6 +130,7 @@ VU#33,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-
 VU#33,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
 VU#33,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#33,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
+VU#33,0.02222222,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#33,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#33,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#33,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
@@ -143,6 +145,7 @@ VU#33,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarni
 VU#33,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#33,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#33,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
+VU#33,0.01818182,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#33,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 VU#33,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#33,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
@@ -191,6 +194,7 @@ VU#33,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
 VU#33,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#33,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#33,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#33,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#33,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#33,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#33,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -243,6 +247,7 @@ VU#33,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledged
 VU#33,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#33,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#33,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#33,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#33,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#33,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#33,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -301,7 +306,7 @@ VU#33,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#33,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#33,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#33,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#33,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#33,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#33,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#33,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#33,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
@@ -311,7 +316,7 @@ VU#33,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#33,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#33,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#33,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#33,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#33,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#33,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#33,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#33,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

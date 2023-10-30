@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-8385,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-Toolkit,180024946
 BID-8385,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
 BID-8385,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-BID-8385,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+BID-8385,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-8385,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-8385,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-8385,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

@@ -62,6 +62,7 @@ VU#37,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/
 VU#37,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
 VU#37,0.25000000,https://github.com/marketdesignresearch/MVNN,marketdesignresearch/MVNN,412384267
 VU#37,0.25000000,https://github.com/AlmightyLobsters/LobsterPages,AlmightyLobsters/LobsterPages,75432070
+VU#37,0.20000000,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#37,0.20000000,https://github.com/Wesley-Kimeli-Kirui/Mkulima_Portal,Wesley-Kimeli-Kirui/Mkulima_Portal,618568977
 VU#37,0.20000000,https://github.com/wwwfan628/DA-AIM,wwwfan628/DA-AIM,529796820
 VU#37,0.20000000,https://github.com/hearsecurity/Exploits,hearsecurity/Exploits,520099548
@@ -115,6 +116,7 @@ VU#37,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2
 VU#37,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#37,0.07142857,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
 VU#37,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
+VU#37,0.07142857,https://github.com/EITSxiaozhai/Exploit_blog,EITSxiaozhai/Exploit_blog,539289714
 VU#37,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#37,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#37,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
@@ -122,6 +124,7 @@ VU#37,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,5989
 VU#37,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
 VU#37,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#37,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
+VU#37,0.06250000,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#37,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,sumitdahake23/rceomchrysalis_2023.github.io,583640756
 VU#37,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
 VU#37,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
@@ -149,6 +152,7 @@ VU#37,0.04545455,https://github.com/daniel616/CVE-2022-21661-Demo,daniel616/CVE-
 VU#37,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#37,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#37,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
+VU#37,0.04347826,https://github.com/esfelurm/AutoExploit,esfelurm/AutoExploit,709456884
 VU#37,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#37,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#37,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
@@ -196,6 +200,7 @@ VU#37,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-r
 VU#37,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#37,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#37,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#37,0.01818182,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#37,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 VU#37,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#37,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
@@ -223,7 +228,7 @@ VU#37,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#37,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#37,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#37,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
-VU#37,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
+VU#37,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
 VU#37,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#37,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#37,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
@@ -247,6 +252,7 @@ VU#37,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#37,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#37,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#37,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#37,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#37,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#37,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#37,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -303,6 +309,7 @@ VU#37,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#37,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#37,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#37,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#37,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#37,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#37,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#37,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -353,9 +360,8 @@ VU#37,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31
 VU#37,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#37,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#37,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#37,0.00099010,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#37,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#37,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#37,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#37,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#37,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#37,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -382,12 +388,13 @@ VU#37,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#37,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#37,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#37,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#37,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#37,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#37,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#37,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#37,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#37,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#37,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#37,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
+VU#37,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#37,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#37,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

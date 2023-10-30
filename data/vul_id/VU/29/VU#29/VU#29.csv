@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
 VU#29,1.00000000,https://github.com/Broco8Dev/Flux,Broco8Dev/Flux,682346268
 VU#29,1.00000000,https://github.com/ConfusedDiscord/PS4JB-900,ConfusedDiscord/PS4JB-900,669491047
 VU#29,1.00000000,https://github.com/marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,668103738
@@ -15,7 +16,6 @@ VU#29,1.00000000,https://github.com/EarthToAccess/Vowels,EarthToAccess/Vowels,53
 VU#29,1.00000000,https://github.com/r3x5ur/webshell-free,r3x5ur/webshell-free,525626838
 VU#29,1.00000000,https://github.com/jacvbtaylor/PythonReverseShell,jacvbtaylor/PythonReverseShell,519800231
 VU#29,1.00000000,https://github.com/yu1hpa/blog,yu1hpa/blog,487443704
-VU#29,1.00000000,https://github.com/GamerHack/GamerHack.github.io,GamerHack/GamerHack.github.io,481826601
 VU#29,1.00000000,https://github.com/x-j-j/vulnable,x-j-j/vulnable,464032302
 VU#29,1.00000000,https://github.com/psfargo/darkmodder,psfargo/darkmodder,457374491
 VU#29,1.00000000,https://github.com/ps4md/ps4md.github.io,ps4md/ps4md.github.io,450960077
@@ -185,6 +185,7 @@ VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,47
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#29,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#29,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
+VU#29,0.04347826,https://github.com/GamerHack/GamerHack.github.io,GamerHack/GamerHack.github.io,481826601
 VU#29,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#29,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#29,0.04166667,https://github.com/threedr3am/learnjavabug,threedr3am/learnjavabug,132132854
@@ -230,6 +231,7 @@ VU#29,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Expl
 VU#29,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#29,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#29,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
+VU#29,0.02222222,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#29,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#29,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#29,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
@@ -297,6 +299,7 @@ VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#29,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#29,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#29,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#29,0.01818182,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#29,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#29,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#29,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
@@ -415,6 +418,7 @@ VU#29,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#29,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#29,0.00515464,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 VU#29,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#29,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#29,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#29,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#29,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
@@ -476,15 +480,14 @@ VU#29,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#29,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#29,0.00099010,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
-VU#29,0.00092507,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00091075,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
-VU#29,0.00053792,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#29,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#29,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -515,7 +518,7 @@ VU#29,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#29,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#29,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#29,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
@@ -527,3 +530,4 @@ VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofth
 VU#29,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#29,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 VU#29,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
+VU#29,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

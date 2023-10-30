@@ -28,6 +28,7 @@ VU#55,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shel
 VU#55,0.20000000,https://github.com/AhmedMinegames/AntiHackingEngine,AhmedMinegames/AntiHackingEngine,475605588
 VU#55,0.20000000,https://github.com/ByteHackr/CVE-2022-0853,ByteHackr/CVE-2022-0853,468269355
 VU#55,0.20000000,https://github.com/nullsecuritynet/tools,nullsecuritynet/tools,30147502
+VU#55,0.16666667,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#55,0.16666667,https://github.com/LinWin-Cloud/linwin-sploit,LinWin-Cloud/linwin-sploit,617420178
 VU#55,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#55,0.16666667,https://github.com/queencitycyber/Spring4Shell-cURL,queencitycyber/Spring4Shell-cURL,476462901
@@ -70,6 +71,7 @@ VU#55,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/
 VU#55,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#55,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
 VU#55,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
+VU#55,0.04347826,https://github.com/GamerHack/GamerHack.github.io,GamerHack/GamerHack.github.io,481826601
 VU#55,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#55,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
 VU#55,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
@@ -207,6 +209,7 @@ VU#55,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_Th
 VU#55,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#55,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#55,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
+VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,711849783
 VU#55,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
 VU#55,0.01408451,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#55,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
@@ -286,6 +289,7 @@ VU#55,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#55,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#55,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#55,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
+VU#55,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#55,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#55,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#55,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
@@ -356,7 +360,7 @@ VU#55,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#55,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#55,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#55,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#55,0.00019279,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#55,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#55,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#55,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#55,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
