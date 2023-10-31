@@ -19,6 +19,7 @@ VU#83,0.25000000,https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,Gr
 VU#83,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#83,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#83,0.25000000,https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc,EdoardoVignati/java-deserialization-of-untrusted-data-poc,125351182
+VU#83,0.20000000,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#83,0.20000000,https://github.com/yTxZx/FastJson1.2.24_RCE_exploit,yTxZx/FastJson1.2.24_RCE_exploit,694578895
 VU#83,0.20000000,https://github.com/ruchirasvmm/log4j-exploit-demo,ruchirasvmm/log4j-exploit-demo,489876123
 VU#83,0.20000000,https://github.com/scottymcandrew/exploit-labs,scottymcandrew/exploit-labs,478164772

@@ -41,6 +41,7 @@ MS12-005,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnC
 MS12-005,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS12-005,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS12-005,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
+MS12-005,0.00049407,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS12-005,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 MS12-005,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS12-005,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
