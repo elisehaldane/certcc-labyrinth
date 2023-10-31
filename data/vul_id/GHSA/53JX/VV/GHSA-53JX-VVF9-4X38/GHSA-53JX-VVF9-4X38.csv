@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-53JX-VVF9-4X38,0.50000000,https://github.com/Live-Hack-CVE/CVE-2023-24815,Live-Hack-CVE/CVE-2023-24815,599742976
-GHSA-53JX-VVF9-4X38,0.00001133,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-53JX-VVF9-4X38,0.00001132,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-53JX-VVF9-4X38,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-53JX-VVF9-4X38,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

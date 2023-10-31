@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#2023,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
-VU#2023,0.00001133,https://github.com/trickest/cve,trickest/cve,454015416
+VU#2023,0.00001132,https://github.com/trickest/cve,trickest/cve,454015416
 VU#2023,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

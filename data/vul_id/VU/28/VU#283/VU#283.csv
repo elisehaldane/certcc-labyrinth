@@ -1,5 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#283,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
+VU#283,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2022-2048,Trinadh465/jetty_9.4.31_CVE-2022-2048,712390990
+VU#283,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049,Trinadh465/jetty_9.4.31_CVE-2023-26049,712376244
+VU#283,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-28169,Trinadh465/jetty_9.4.31_CVE-2021-28169,712373551
+VU#283,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165,nidhi7598/jetty-9.4.31_CVE-2021-28165,712370809
+VU#283,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216,nidhi7598/jetty-9.4.31_CVE-2020-27216,712369405
 VU#283,0.01428571,https://github.com/stphano/NEAs-ranking,stphano/NEAs-ranking,530254011
 VU#283,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#283,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510

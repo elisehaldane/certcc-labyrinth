@@ -27,7 +27,6 @@ VU#09,0.25000000,https://github.com/caiquebaracho/CVE-2021-44228,caiquebaracho/C
 VU#09,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#09,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#09,0.25000000,https://github.com/mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,166481344
-VU#09,0.20000000,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#09,0.20000000,https://github.com/Miuzaki/SkullExploit,Miuzaki/SkullExploit,618169120
 VU#09,0.20000000,https://github.com/tuhinmallick/Stochastic-methods-Project,tuhinmallick/Stochastic-methods-Project,477425856
 VU#09,0.20000000,https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier,RishiDarkDevil/Regularization-Based-Fair-Classifier,459614574
@@ -35,6 +34,7 @@ VU#09,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cen
 VU#09,0.20000000,https://github.com/lijiejie/swagger-exp,lijiejie/swagger-exp,350607453
 VU#09,0.20000000,https://github.com/FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine,331038031
 VU#09,0.20000000,https://github.com/xiaomiwujiecao/cleverShell,xiaomiwujiecao/cleverShell,180967944
+VU#09,0.16666667,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#09,0.16666667,https://github.com/mfdev-solution/Exploit-CVE-2017-5638,mfdev-solution/Exploit-CVE-2017-5638,580942836
 VU#09,0.16666667,https://github.com/Gamer100Dev/GamerSploits,Gamer100Dev/GamerSploits,547833906
 VU#09,0.14285714,https://github.com/StarlinkCoinn/Hta-Exploit-Downloader-Malware-Builder,StarlinkCoinn/Hta-Exploit-Downloader-Malware-Builder,711720762

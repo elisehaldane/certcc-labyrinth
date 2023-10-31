@@ -1,5 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#120541,0.03030303,https://github.com/forse01/CVE-2019-17638-Jetty,forse01/CVE-2019-17638-Jetty,335844306
+VU#120541,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2022-2048,Trinadh465/jetty_9.4.31_CVE-2022-2048,712390990
+VU#120541,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049,Trinadh465/jetty_9.4.31_CVE-2023-26049,712376244
+VU#120541,0.02777778,https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-28169,Trinadh465/jetty_9.4.31_CVE-2021-28169,712373551
+VU#120541,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165,nidhi7598/jetty-9.4.31_CVE-2021-28165,712370809
+VU#120541,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216,nidhi7598/jetty-9.4.31_CVE-2020-27216,712369405
 VU#120541,0.00709220,https://github.com/SanjaySagar-Gumma/Vulnerable-Poc,SanjaySagar-Gumma/Vulnerable-Poc,533687991
 VU#120541,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#120541,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

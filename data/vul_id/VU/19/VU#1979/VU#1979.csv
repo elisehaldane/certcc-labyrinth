@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#1979,0.09090909,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
+VU#1979,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#1979,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#1979,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#1979,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652

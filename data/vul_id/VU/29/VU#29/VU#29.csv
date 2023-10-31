@@ -73,6 +73,7 @@ VU#29,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-
 VU#29,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#29,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
 VU#29,0.25000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
+VU#29,0.20000000,https://github.com/intexpression/nekito,intexpression/nekito,660558312
 VU#29,0.20000000,https://github.com/AnonOpsVN24/Aon-Sploit,AnonOpsVN24/Aon-Sploit,596570889
 VU#29,0.20000000,https://github.com/Muirey03/CVE-2022-42864,Muirey03/CVE-2022-42864,591057092
 VU#29,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
@@ -126,7 +127,6 @@ VU#29,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
 VU#29,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#29,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#29,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
-VU#29,0.08333333,https://github.com/intexpression/nekito,intexpression/nekito,660558312
 VU#29,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#29,0.08333333,https://github.com/r-ahmed2022/Weather-App,r-ahmed2022/Weather-App,531085944
 VU#29,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
