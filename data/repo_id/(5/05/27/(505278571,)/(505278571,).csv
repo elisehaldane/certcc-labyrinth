@@ -87,7 +87,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,pocs_yml/ymlFiles/resin-cnnvd-200705-315.yml,0650fd2377308208dc643b77d65c2134cbc3af1b,CNNVD-200705-315
 505278571,hktalent/scan4all,config/51pwn/TPALL/Template -2/CVE-2020-35951.yaml,065204cda1cab21e9301794b460fa954de8f76f3,CVE-2020-35951
 505278571,hktalent/scan4all,config/51pwn/yaml/Oracle GlassFish Server/CVE-2013-3827.yaml,067766fe6fe4eb635aa8ea75052e8bb45b4c19fd,CVE-2013-3827
-505278571,hktalent/scan4all,config/51pwn/yaml/Openbsd Opensmtpd /CVE-2020-7247.yaml,067ca13f55218d6cc7d3c94e48f9404e5925670e,CVE-2020-7247
+505278571,hktalent/scan4all,config/51pwn/yaml/Openbsd Opensmtpd/CVE-2020-7247.yaml,067ca13f55218d6cc7d3c94e48f9404e5925670e,CVE-2020-7247
 505278571,hktalent/scan4all,config/51pwn/CVE-2020-5284.yaml,0687f8ad713f593b9bf85b5c46aed9960145326f,CVE-2020-5284
 505278571,hktalent/scan4all,config/51pwn/yaml/Joomla/CVE-2010-3203.yaml,0693f59b33dfec1913d1933388afc2de34b65feb,CVE-2010-3203
 505278571,hktalent/scan4all,config/51pwn/yaml/ZTE 调制解调器/CVE-2014-2321.yaml,06adc21a61ed4838a8be146092738bea8a360625,CVE-2014-2321
@@ -113,7 +113,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/TPALL/Template -2/CVE-2021-26855.yaml,0795ddbd0a04c9a117a7c75f3356229a87ccb6cc,CVE-2021-27065
 505278571,hktalent/scan4all,config/51pwn/TPALL/Template -2/CVE-2021-26855.yaml,0795ddbd0a04c9a117a7c75f3356229a87ccb6cc,CVE-2021-26855
 505278571,hktalent/scan4all,config/51pwn/TPALL/Template -2/CVE-2021-26855.yaml,0795ddbd0a04c9a117a7c75f3356229a87ccb6cc,CVE-2021-26858
-505278571,hktalent/scan4all,lib/goby/goby_pocs/Atlassian_Confluence_Webwork_OGNL_Inject_CVE_2022_26134.go,079a3a59df4d8e500b621b9ac977cb22a85015b2,CVE-2022-26134
+505278571,hktalent/scan4all,lib/goby/goby_pocs/Atlassian_Confluence_Webwork_OGNL_Inject_CVE_2022_26134.txt,079a3a59df4d8e500b621b9ac977cb22a85015b2,CVE-2022-26134
 505278571,hktalent/scan4all,config/51pwn/TPALL/cves/2020/CVE-2020-27735.yaml,07c6231ec507e373fd75194e4fe2eb25bb7bc7bd,CVE-2020-27735
 505278571,hktalent/scan4all,config/51pwn/yaml/rConfig/CVE-2020-13638.yaml,07f7e21e6ad0807ab537067ffb834eb25ea63f9b,CVE-2020-13638
 505278571,hktalent/scan4all,config/51pwn/CVE-2019-8903.yaml,07fa28db8537359c723c68da067e0a2aa327e995,CVE-2019-8903
@@ -147,7 +147,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/CVE-2020-17506.yaml,0add1f3ef7d486e6d311b2620bd5621a4a848c4e,CVE-2020-17506
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/medium/CVE-2020-8115.yaml,0ae6522ed6716ff2798b03635475aa0f6fa28cdc,CVE-2020-8115
 505278571,hktalent/scan4all,config/51pwn/CVE-2020-6287.yaml,0af0ea2e99699de66cdccacf777857c75be25254,CVE-2020-6287
-505278571,hktalent/scan4all,lib/goby/goby_pocs/Elasticsearch_Remote_Code_Execution_CVE_2015_1427.go,0b138ce0b498c7f573686585b2ad526ce7c3f96e,CVE-2015-1427
+505278571,hktalent/scan4all,lib/goby/goby_pocs/Elasticsearch_Remote_Code_Execution_CVE_2015_1427.txt,0b138ce0b498c7f573686585b2ad526ce7c3f96e,CVE-2015-1427
 505278571,hktalent/scan4all,lib/goby/goby_pocs/Elasticsearch_Remote_Code_Execution_CVE_2015_1427.go,0b138ce0b498c7f573686585b2ad526ce7c3f96e,CVE-2014-3120
 505278571,hktalent/scan4all,config/51pwn/yaml/TOS/CVE-2022-24990.yaml,0b20e35d09e4f3a54a02121abf0d621da21007fe,CVE-2022-24990
 505278571,hktalent/scan4all,config/51pwn/CVE-2016-1000137.yaml,0b222928402f8f3cf5e43f2b1834d3fa9994470c,CVE-2016-1000137
@@ -199,7 +199,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/yaml/BIG-IP/CVE-2022-1388.yaml,0eae57a60bd07c82b2f724468afb82867a2f8004,CVE-2022-1388
 505278571,hktalent/scan4all,config/51pwn/TPALL/cves/2021/CVE-2021-3017.yaml,0eb77dce568d57bc32cfce469529aa248903aab9,CVE-2021-3017
 505278571,hktalent/scan4all,lib/goby/goby_pocs/ForgeRock_AM_RCE_CVE_2021_35464.txt,0ed7a19fe7f68998596a953fe312e83c2919aca2,CVE-2021-35464
-505278571,hktalent/scan4all,lib/goby/goby_pocs/ForgeRock_AM_RCE_CVE_2021_35464.txt,0ed7a19fe7f68998596a953fe312e83c2919aca2,VU#29
+505278571,hktalent/scan4all,lib/goby/goby_pocs/ForgeRock_AM_RCE_CVE_2021_35464.go,0ed7a19fe7f68998596a953fe312e83c2919aca2,VU#29
 505278571,hktalent/scan4all,config/51pwn/TPALL/cves/2015/CVE-2015-6544.yaml,0ede58bda3b6dc3fe46f16106d2c65f527411108,CVE-2015-6544
 505278571,hktalent/scan4all,pocs_yml/ymlFiles/jira-cve-2019-11581.yml,0eeef2682058ff54a40212e4766e875784dcbe3e,CVE-2019-11581
 505278571,hktalent/scan4all,config/51pwn/yaml/Express handlebars/CVE-2021-32820.yaml,0efd0380130d82e6d76fd3613eb945c184c93990,CVE-2021-32820
@@ -654,7 +654,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/CVE-2020-25540.yaml,3094f4db9d5189499abf584908fa96af942e4f72,CVE-2020-25540
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/high/CVE-2018-8033.yaml,309b3e23de7c036f92b356bf9875ba927500eb40,CVE-2018-8033
 505278571,hktalent/scan4all,config/51pwn/yaml/Openfire/CVE-2019-18393.yaml,30ccda275bba9e956f2607362c05a25950180368,CVE-2019-18393
-505278571,hktalent/scan4all,config/51pwn/yaml/klaussilveira GitList /CVE-2018-1000533.yaml,30da40e5ee03067e700ce9a5768f7b247b7ad65b,CVE-2018-1000533
+505278571,hktalent/scan4all,config/51pwn/yaml/klaussilveira GitList/CVE-2018-1000533.yaml,30da40e5ee03067e700ce9a5768f7b247b7ad65b,CVE-2018-1000533
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/medium/CVE-2020-15500.yaml,30e6083ac3e3473ce99d3c7c6aecde6f6fa1990c,CVE-2020-15500
 505278571,hktalent/scan4all,config/51pwn/yaml/Mobile Viewpoint Wireless Multiplex Terminal/CVE-2020-35338.yaml,30fff43cab482a1e1529f20528596960875de78b,CVE-2020-35338
 505278571,hktalent/scan4all,pocs_go/weblogic/CVE_2021_2109.go,3119de380dbfaf33ed3c4ee1b445cd750ecf3d75,CVE-2021-2109
@@ -795,7 +795,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,pocs_yml/ymlFiles/nexus-cve-2020-10199.yml,3d2f2fcdea72588d8018a7e4463a19d97200c95f,CVE-2020-10199
 505278571,hktalent/scan4all,config/51pwn/TPALL/LFI/CVE-2015-4694.yaml,3d33ece4088e087679ebd1d6bf70a99e06d54b4f,CVE-2015-4694
 505278571,hktalent/scan4all,config/51pwn/TPALL/Template -2/CVE-2021-24146.yaml,3d610525bf6ef9a0d5cd3438d64ce9bad0580202,CVE-2021-24146
-505278571,hktalent/scan4all,config/51pwn/yaml/Fortinet FortiOS /CVE-2016-3978.yaml,3d652359465901e894d197eb893c49604fd5038a,CVE-2016-3978
+505278571,hktalent/scan4all,config/51pwn/yaml/Fortinet FortiOS/CVE-2016-3978.yaml,3d652359465901e894d197eb893c49604fd5038a,CVE-2016-3978
 505278571,hktalent/scan4all,config/51pwn/yaml/Openserver/CVE-2020-25495.yaml,3d6632dc566423e92fd9fff9c434b9aee8bd11b1,CVE-2020-25495
 505278571,hktalent/scan4all,config/51pwn/CVE-2014-4544.yaml,3d79d7af6f8386948773b7471f0ed41f3f791f9c,CVE-2014-4544
 505278571,hktalent/scan4all,config/51pwn/yaml/Joomla/CVE-2010-1313.yaml,3dad25534064a4952a948982f499d9e8b50d5782,CVE-2010-1313
@@ -843,7 +843,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,lib/goby/goby_pocs/Webgrind_File_read_cve_2018_12909.go,410c502c2ef948f67f399eed57b197966b7d2771,CNNVD-201806-1367
 505278571,hktalent/scan4all,lib/goby/goby_pocs/Webgrind_File_read_cve_2018_12909.go,410c502c2ef948f67f399eed57b197966b7d2771,CVE-2018-12909
 505278571,hktalent/scan4all,config/51pwn/TPALL/cves/2018/CVE-2018-7600.yaml,412517ac712c92f07e644c912d8a1f8bd06202ac,CVE-2018-7600
-505278571,hktalent/scan4all,config/51pwn/yaml/Pulse Secure /CVE-2019-11510.yaml,413ff43f8d30a99e16d9d160634ee2355b627299,CVE-2019-11510
+505278571,hktalent/scan4all,config/51pwn/yaml/Pulse Secure/CVE-2019-11510.yaml,413ff43f8d30a99e16d9d160634ee2355b627299,CVE-2019-11510
 505278571,hktalent/scan4all,config/51pwn/yaml/Nuxeo/CVE-2018-16341.yaml,41513ec1d35f1909d7da83269be25248f6f6b8e8,CVE-2018-16341
 505278571,hktalent/scan4all,config/51pwn/yaml/Axis2/CVE-2010-0219.yaml,4168a80e9532373516b0c90c5987aa69c87ac100,CVE-2010-0219
 505278571,hktalent/scan4all,config/51pwn/CVE-2010-1715.yaml,416e19e720c6e7d2514429ca9366d105fb516208,CVE-2010-1715
@@ -989,7 +989,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/critical/CVE-2020-14882.yaml,4c713267f16221fc7df3d1eaf691872a0930ad29,CVE-2020-14882
 505278571,hktalent/scan4all,config/51pwn/TPALL/cves/2018/CVE-2018-3760.yaml,4ca9c1f439bc2dbb21ccc9dc5e681956447bb127,CVE-2018-3760
 505278571,hktalent/scan4all,config/51pwn/TPALL/medbsq/templates/CVE-2020-7048.yaml,4ccd1a1b949d26a4da2a80da672d8b8f21986b9b,CVE-2020-7048
-505278571,hktalent/scan4all,config/51pwn/yaml/Fortinet FortiOS /CVE-2018-13380.yaml,4cdd23df8daf5ecd5c23e453830767c7ddb8d9e5,CVE-2018-13380
+505278571,hktalent/scan4all,config/51pwn/yaml/Fortinet FortiOS/CVE-2018-13380.yaml,4cdd23df8daf5ecd5c23e453830767c7ddb8d9e5,CVE-2018-13380
 505278571,hktalent/scan4all,config/51pwn/TPALL/pikpikcu/workflows/springboot-pwner-workflow.yaml,4ce32603ef727f2d9f8883f887674e3e20e3ae9a,CVE-2018-1271
 505278571,hktalent/scan4all,config/51pwn/TPALL/pikpikcu/workflows/springboot-pwner-workflow.yaml,4ce32603ef727f2d9f8883f887674e3e20e3ae9a,CVE-2020-5410
 505278571,hktalent/scan4all,config/51pwn/TPALL/pikpikcu/workflows/springboot-pwner-workflow.yaml,4ce32603ef727f2d9f8883f887674e3e20e3ae9a,CVE-2019-3799
@@ -1055,7 +1055,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/critical/CVE-2021-28073.yaml,5240869fc69402a8080beafca182a75d40a4da0e,CVE-2021-28073
 505278571,hktalent/scan4all,config/51pwn/yaml/Joyent Node.js/CVE-2017-14849.yaml,526934798af16d9e911256097f63865234053f2a,CVE-2017-14849
 505278571,hktalent/scan4all,config/51pwn/yaml/LG NAS/CVE-2018-10818.yaml,528d45f0292d2854c6696c21f77e7f7b517d6c4e,CVE-2018-10818
-505278571,hktalent/scan4all,config/51pwn/yaml/WordPress /CVE-2021-24987.yaml,52ab63b5b0ab9450f64e89568ca99464913ea194,CVE-2021-24987
+505278571,hktalent/scan4all,config/51pwn/yaml/WordPress/WordPress/CVE-2021-24987.yaml,52ab63b5b0ab9450f64e89568ca99464913ea194,CVE-2021-24987
 505278571,hktalent/scan4all,config/51pwn/yaml/Sonicwall SMA100/CVE-2021-20038.yaml,52b3a7df91520a94b234e3a29f7f003210ac5dbc,CVE-2021-20038
 505278571,hktalent/scan4all,config/51pwn/yaml/Resin/resin-viewfile-lfr.yaml,52c27e9fe87b49c044808c14e162f3fc9e205396,CNVD-2006-3205
 505278571,hktalent/scan4all,config/51pwn/CVE-2022-27925.yaml,52c6e631d4bb0eaaabba427908e91245918e1d81,CVE-2022-27925
@@ -1145,7 +1145,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/TPALL/Template -2/CVE-2021-28150.yaml,59253ec59f0cc1475f71e5d4800879d37b35af67,CVE-2021-28150
 505278571,hktalent/scan4all,config/51pwn/yaml/ElasticSearch/CVE-2015-5531.yaml,5928c77015f688f1e6515f99977f35c2cbe53914,CVE-2015-5531
 505278571,hktalent/scan4all,config/51pwn/yaml/Sahi Pro/CVE-2018-20470.yaml,593e3c03e0395d222e4e2c78ed5ff3d755f90ba0,CVE-2018-20470
-505278571,hktalent/scan4all,config/51pwn/yaml/Wavlink WN575A4 /CVE-2020-13117.yaml,59506baf3f397a0f45a5c7b56c0c759825d0c29f,CVE-2020-13117
+505278571,hktalent/scan4all,config/51pwn/yaml/Wavlink WN575A4/CVE-2020-13117.yaml,59506baf3f397a0f45a5c7b56c0c759825d0c29f,CVE-2020-13117
 505278571,hktalent/scan4all,config/51pwn/yaml/SpringMvc/CVE-2018-1271.yaml,595ce08971925b4192c7d1e933514b70bb40daa4,CVE-2018-1271
 505278571,hktalent/scan4all,config/51pwn/yaml/Elastic EpiServer Find/CVE-2020-24550.yaml,59660e6c5fe7b16b4adfca9cf922f2f8f5d3874b,CVE-2020-24550
 505278571,hktalent/scan4all,pocs_yml/ymlFiles/nexus-cve-2020-10204.yml,596b242a06eb074879d5c035cf0848e189e4414a,CVE-2020-10199
@@ -1317,7 +1317,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/yaml/Prisma Industriale Checkweigher PrismaWEB/CVE-2018-15535.yaml,64026c7c4e27a82648e79f871e51c6bc16c628c0,CVE-2018-15535
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/critical/CVE-2020-16952.yaml,642951d215779c34a572abac8cd54e7b364b8d9b,CVE-2020-16952
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/critical/CVE-2020-16952.yaml,642951d215779c34a572abac8cd54e7b364b8d9b,CVE-2020-16951
-505278571,hktalent/scan4all,config/51pwn/yaml/Geutebrück G-Cam E2 /CVE-2021-33544.yaml,645de2a8b5c4e9af13e95890dee98ddc79368308,CVE-2021-33544
+505278571,hktalent/scan4all,config/51pwn/yaml/Geutebrück G-Cam E2/CVE-2021-33544.yaml,645de2a8b5c4e9af13e95890dee98ddc79368308,CVE-2021-33544
 505278571,hktalent/scan4all,config/51pwn/TPALL/Template -2/CVE-2021-23241.yaml,648ce483b7339144489e5dbb4297149a369b5de0,CVE-2021-23241
 505278571,hktalent/scan4all,config/51pwn/TPALL/medium/CVE-2018-11759.yaml,64958bec2ebfb5fcc59a257d43b8f1dfbd478535,CVE-2018-11759
 505278571,hktalent/scan4all,config/51pwn/yaml/TOS/CVE-2020-15568.yaml,6498e137639872d043792aff1f59bbd7f4f2ca60,CVE-2020-15568
@@ -1500,7 +1500,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/yaml/ZyXEL VPN防火墙设备/CVE-2020-9054.yaml,739daa0fdb08db80de54cf79787ac99ec81609c7,CVE-2020-9054
 505278571,hktalent/scan4all,pocs_yml/ymlFiles/eea-info-leak-cnvd-2021-10543.yml,73a7ae2a544076481780b4b7b93ca604ff5e478e,CNVD-2021-10543
 505278571,hktalent/scan4all,config/51pwn/yaml/WordPress/CVE-2013-7240.yaml,73cd44aac32ecd014ad485ba70bd84b5bfe97e0a,CVE-2013-7240
-505278571,hktalent/scan4all,lib/goby/goby_pocs/Elasticsearch_Remote_Code_Execution_CVE_2014_3120.txt,73e5d5502a8df5d3e0049c7baf982ab18df69d90,CVE-2014-3120
+505278571,hktalent/scan4all,lib/goby/goby_pocs/Elasticsearch_Remote_Code_Execution_CVE_2014_3120.go,73e5d5502a8df5d3e0049c7baf982ab18df69d90,CVE-2014-3120
 505278571,hktalent/scan4all,config/51pwn/CVE-2023-38646.yaml,740b18e460de0654a6712e2dfa8a80d77008f4cd,CVE-2022-1388
 505278571,hktalent/scan4all,config/51pwn/CVE-2023-38646.yaml,740b18e460de0654a6712e2dfa8a80d77008f4cd,CVE-2023-38646
 505278571,hktalent/scan4all,config/51pwn/TPALL/medbsq/templates/CVE-2020-11710.yaml,74129c1d05b0b826a70891c75bd6b3a9f57a85b3,CVE-2020-11710
@@ -1625,7 +1625,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/yaml/WordPress/CNVD-2019-08278.yaml,7f2052f349051653f16376e3fdd8cf8fbcff7b6d,CNVD-2019-08278
 505278571,hktalent/scan4all,config/51pwn/yaml/AxxonSoft Axxon Next/CVE-2018-7467.yaml,7f210f0e5398a29caee2d242408db94867aaaa80,CVE-2018-7467
 505278571,hktalent/scan4all,config/51pwn/TPALL/medbsq/templates/CVE-2020-2555.yaml,7f2523796febe21bff844266f67480b14b969961,CVE-2020-2555
-505278571,hktalent/scan4all,lib/goby/goby_pocs/dahua_DSS_Arbitrary_file_download_cnvd_2020_61986.txt,7f2f1a25cbb7be612c84f42e88b19668d795bf1c,CNVD-2020-61986
+505278571,hktalent/scan4all,lib/goby/goby_pocs/dahua_DSS_Arbitrary_file_download_cnvd_2020_61986.go,7f2f1a25cbb7be612c84f42e88b19668d795bf1c,CNVD-2020-61986
 505278571,hktalent/scan4all,config/51pwn/TPALL/Open Redirect/CVE-2020-23015.yaml,7f3d81100c2dd16afd7346ccb54dcf5e98a54322,CVE-2020-23015
 505278571,hktalent/scan4all,config/51pwn/CVE-2017-15715.yaml,7f4f5d03c30439223a5acefe5043b737451e2e5c,CVE-2017-15715
 505278571,hktalent/scan4all,config/51pwn/yaml/LabKey Server/CVE-2019-3911.yaml,7f60b1f80ea9499d62cd1154588fcda846e5ea7c,CVE-2019-3911
@@ -1852,7 +1852,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/yaml/Revive Adserver/CVE-2020-8115.yaml,8e8c82fb32977e496d61975771ebbc1a6317b960,CVE-2020-8115
 505278571,hktalent/scan4all,config/51pwn/yaml/Drupai CMS/CVE-2018-7602.yaml,8e96a8c32f2e2623333733a2501d12113aa37dcb,CVE-2018-7602
 505278571,hktalent/scan4all,config/51pwn/CVE-2013-5979.yaml,8e9ceddfd097134ffadfcf5e960b2630a380bdb9,CVE-2013-5979
-505278571,hktalent/scan4all,lib/goby/goby_pocs/D_Link_Dir_645_getcfg.php_Account_password_disclosure_CVE_2019_17506.go,8ead6db5fd3f1e3022a2ff277689f971e239c092,CVE-2019-17506
+505278571,hktalent/scan4all,lib/goby/goby_pocs/D_Link_Dir_645_getcfg.php_Account_password_disclosure_CVE_2019_17506.txt,8ead6db5fd3f1e3022a2ff277689f971e239c092,CVE-2019-17506
 505278571,hktalent/scan4all,config/51pwn/yaml/WordPress/CVE-2016-10993.yaml,8ed51170844eee841b8cad6230cd702fa2af1707,CVE-2016-10993
 505278571,hktalent/scan4all,pocs_go/jenkins/Unauthorized.go,8ee12e7a4a437c2df062fd5c3f872fb880c211ee,CVE-2018-10003000
 505278571,hktalent/scan4all,pocs_yml/ymlFiles/zeit-nodejs-cve-2020-5284-directory-traversal.yml,8eebf204ec930a731e0455c6984e4429f1870acb,CNNVD-202003-1728
@@ -2742,7 +2742,7 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/CVE-2021-24286.yaml,d1bf82b5fe686632a3c4f14667345af60c4630e2,CVE-2021-24286
 505278571,hktalent/scan4all,config/51pwn/TPALL/cves/2019/CVE-2019-17506.yaml,d210ab99c96c7daefe355d7cf8a3a886e7e17959,CVE-2019-17506
 505278571,hktalent/scan4all,config/51pwn/yaml/Joomla/CVE-2010-1308.yaml,d23091e4cd181b11cee08102ba483892ef3a97e6,CVE-2010-1308
-505278571,hktalent/scan4all,lib/goby/goby_pocs/FLIR_AX8_Arbitrary_File_Download_Vulnerability_CNVD-2021-39018.txt,d23645c6780446870866c44d0e368eb9bdc82d9b,CNVD-2021-39018
+505278571,hktalent/scan4all,lib/goby/goby_pocs/FLIR_AX8_Arbitrary_File_Download_Vulnerability_CNVD-2021-39018.go,d23645c6780446870866c44d0e368eb9bdc82d9b,CNVD-2021-39018
 505278571,hktalent/scan4all,config/51pwn/TPALL/ARPSyndicate/nuclei/cvescan/high/CVE-2021-21402.yaml,d23b98c5086ce7e2eac4b8bcaa417cb318a377ab,CVE-2021-21402
 505278571,hktalent/scan4all,config/51pwn/TPALL/medbsq/templates/CVE-2017-7529.yaml,d2ca758625b42013da3dfb568c4f5f7f5c3b8a47,CVE-2017-7529
 505278571,hktalent/scan4all,config/51pwn/yaml/Ruckus IoT Controller/CVE-2021-33221.yaml,d2d2101fd28fea6fd173b3cd9f8873cbc14beb1f,CVE-2021-33221
@@ -2860,14 +2860,14 @@ repo_id,repo_full_name,file,file_sha1,match
 505278571,hktalent/scan4all,config/51pwn/yaml/WordPress/CVE-2019-16931.yaml,dc09d53c1f17148439f1fb055ef4264b192c3b6e,CVE-2019-16931
 505278571,hktalent/scan4all,config/51pwn/CVE-2020-19625.yaml,dc0d2114c31ec0cda5dd3f760350e6affed67826,CVE-2020-19625
 505278571,hktalent/scan4all,config/51pwn/TPALL/low/liferay-portal-detect.yaml,dc0fb498be5dfe68ee091a45dbdaf0fe3955b806,CVE-2020-7961
-505278571,hktalent/scan4all,config/51pwn/yaml/Ulterius /CVE-2017-16806.yaml,dc28c117da1bdb4e55efeebcc1ff2519f3bd66d6,CVE-2017-16806
+505278571,hktalent/scan4all,config/51pwn/yaml/Ulterius/CVE-2017-16806.yaml,dc28c117da1bdb4e55efeebcc1ff2519f3bd66d6,CVE-2017-16806
 505278571,hktalent/scan4all,config/51pwn/yaml/Jolokia/CVE-2018-1000129.yaml,dc291d680069b2e26769632fcf542aaefa4d3383,CVE-2018-1000129
 505278571,hktalent/scan4all,config/51pwn/CVE-2010-1302.yaml,dc36be594727a62f36807c8e516e6084f8670cc5,BID-39108
 505278571,hktalent/scan4all,config/51pwn/CVE-2010-1302.yaml,dc36be594727a62f36807c8e516e6084f8670cc5,CVE-2010-1302
 505278571,hktalent/scan4all,config/51pwn/CVE-2011-5107.yaml,dc74549def869d256716d82955900db57753c6ab,BID-50743
 505278571,hktalent/scan4all,config/51pwn/CVE-2011-5107.yaml,dc74549def869d256716d82955900db57753c6ab,CVE-2011-5107
 505278571,hktalent/scan4all,config/51pwn/TPALL/LFI/CVE-2018-16716.yaml,dc84d1e6764c122c0ad7b81bfb9945fb0900173d,CVE-2018-16716
-505278571,hktalent/scan4all,config/51pwn/yaml/Fortinet FortiOS /CVE-2018-13379.yaml,dcad50cb0a866bc8382db2bb94acda046a2bc7b5,CVE-2018-13379
+505278571,hktalent/scan4all,config/51pwn/yaml/Fortinet FortiOS/CVE-2018-13379.yaml,dcad50cb0a866bc8382db2bb94acda046a2bc7b5,CVE-2018-13379
 505278571,hktalent/scan4all,config/51pwn/CVE-2010-3426.yaml,dcb7a556edc230fb49b17178772be63ee3d32e2d,CVE-2010-3426
 505278571,hktalent/scan4all,"config/51pwn/yaml/Citrix Systems组件(ADC,GateWay,SD-WAN)/CVE-2020-8191.yaml",dcb7b38bfe837712e661c3e8f4255b7fa872187f,CVE-2020-8191
 505278571,hktalent/scan4all,config/51pwn/CVE-2020-24949.yaml,dcb8613b37db971169384fa9d2f4401352aa376f,CVE-2020-24949
