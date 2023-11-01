@@ -1,13 +1,14 @@
 
 # Summary for results/2023/10/31
     
-179 records found after deduplication
+180 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | codingcore12/Extremely-Silent-JPG-Exploit-NEW-bh | None | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bh | ['exploit'] | 1 | 2023-10-31 23:13:38+00:00 | 1 | 1 | | 0 | [] |
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-10-31 03:59:00+00:00 | 974091 | 31507 | Ruby | 13564 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2023-10-31 09:13:13+00:00 | 27775 | 10825 | Python | 1654 | [] |
+| rapid7/metasploit-omnibus | Packaging metasploit-framework with omnibus | https://github.com/rapid7/metasploit-omnibus | ['metasploit module OR payload'] | 1 | 2023-10-31 09:54:15+00:00 | 1492 | 223 | Ruby | 210 | [] |
 | jammy0903/-jettyCVE-2021-28164- | jetty /CVE-2021-28164/분석 및 결과 | https://github.com/jammy0903/-jettyCVE-2021-28164- | ['cve-2 OR cve_2'] | 1 | 2023-10-31 16:01:00+00:00 | 788 | 0 | | 0 | ['CVE-2021-28164'] |
 | xyzi0/exploit | adf | https://github.com/xyzi0/exploit | ['exploit'] | 1 | 2023-10-31 15:44:32+00:00 | 7 | 1 | | 0 | [] |
 | contisamuele1991/exploitsql | None | https://github.com/contisamuele1991/exploitsql | ['exploit'] | 1 | 2023-10-31 15:58:26+00:00 | 402 | 0 | | 0 | [] |
@@ -16,9 +17,9 @@
 | UjjalSingh1000/Exploit-Development-Metasploit | None | https://github.com/UjjalSingh1000/Exploit-Development-Metasploit | ['exploit', 'metasploit module OR payload'] | 2 | 2023-10-31 18:23:03+00:00 | 11 | 0 | Ruby | 0 | [] |
 | lfgrillo83/webcamphoto | webcamphoto post-exploitation toy | https://github.com/lfgrillo83/webcamphoto | ['exploit'] | 1 | 2023-10-31 19:23:14+00:00 | 1 | 0 | Python | 0 | [] |
 | kkharel/ReinforcementLearning | A/B/n testing, Upper Confidence Bounds (UCB), Epsilon-Greedy, Thompson Sampling, Gradient Methods for Exploration vs Exploitation tradeoff study | https://github.com/kkharel/ReinforcementLearning | ['exploit'] | 1 | 2023-10-31 20:17:54+00:00 | 990 | 0 | Python | 0 | [] |
-| neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-10-31 01:41:22+00:00 | 1387 | 1 | HTML | 0 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2023-10-31 00:31:54+00:00 | 337764 | 5451 | | 1060 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2023-10-31 00:46:54+00:00 | 51746 | 60 | | 32 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2023-10-31 18:38:33+00:00 | 2173 | 336 | C | 24 | [] |
 | TheCruZ/kdmapper | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | ['exploit'] | 1 | 2023-10-31 15:20:32+00:00 | 201 | 1383 | C++ | 422 | [] |
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2023-10-31 10:12:47+00:00 | 237 | 3797 | Python | 736 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-10-31 04:04:36+00:00 | 1056284 | 88 | | 31 | [] |
@@ -175,7 +176,6 @@
 | codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bh | None | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bh | ['exploit'] | 1 | 2023-10-31 23:11:40+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bh | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bh | ['exploit'] | 1 | 2023-10-31 23:12:29+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bh | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bh | ['exploit'] | 1 | 2023-10-31 23:13:04+00:00 | 1 | 1 | | 0 | [] |
-| rapid7/metasploit-omnibus | Packaging metasploit-framework with omnibus | https://github.com/rapid7/metasploit-omnibus | ['metasploit module OR payload'] | 1 | 2023-10-31 09:54:15+00:00 | 1492 | 223 | Ruby | 210 | [] |
 | OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2023-10-31 16:33:09+00:00 | 75455 | 585 | Java | 925 | [] |
 | 3ndG4me/AutoBlue-MS17-010 | This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010 | https://github.com/3ndG4me/AutoBlue-MS17-010 | ['exploit', 'metasploit module OR payload'] | 2 | 2023-10-31 03:33:44+00:00 | 90 | 1001 | Python | 305 | ['MS17-010'] |
 | zadewg/deside | Discrete signal processing tool for side chanel data leakage attacks and analysis. Air-gapped keylogger PoC. | https://github.com/zadewg/deside | ['attack poc'] | 1 | 2023-10-31 02:47:18+00:00 | 154 | 10 | Python | 2 | [] |
@@ -184,3 +184,4 @@
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2023-10-31 19:35:01+00:00 | 111311 | 3699 | Python | 536 | [] |
 | AlaBouali/bane | this is a python module that contains functions and classes which are used to test the security of web/network applications. it's coded on pure python and it's a very intelligent tool ! It can easily detect: XSS (reflected/stored), RCE (Remote Code/Command | https://github.com/AlaBouali/bane | ['rce', 'remote code execution'] | 2 | 2023-10-31 04:59:26+00:00 | 1517 | 221 | Python | 50 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-10-31 04:31:39+00:00 | 323817 | 361 | REXX | 38 | [] |
+| neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-10-31 01:41:22+00:00 | 1387 | 1 | HTML | 0 | [] |
