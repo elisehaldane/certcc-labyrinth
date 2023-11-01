@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GPZ-912,0.12500000,https://github.com/CaledoniaProject/common-bugs-uncommon-exploits,CaledoniaProject/common-bugs-uncommon-exploits,692680702
+GPZ-912,0.03846154,https://github.com/CaledoniaProject/common-bugs-uncommon-exploits,CaledoniaProject/common-bugs-uncommon-exploits,692680702
 GPZ-912,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 GPZ-912,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 GPZ-912,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028

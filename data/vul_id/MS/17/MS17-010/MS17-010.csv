@@ -143,6 +143,7 @@ MS17-010,1.00000000,https://github.com/JavierOlmedo/check-ms17-010,JavierOlmedo/
 MS17-010,1.00000000,https://github.com/adamleff/inspec-profile-wannacry-exploit,adamleff/inspec-profile-wannacry-exploit,91350955
 MS17-010,1.00000000,https://github.com/jflyup/goMS17-010,jflyup/goMS17-010,89549887
 MS17-010,1.00000000,https://github.com/sn0wfa11/HID-Attacks,sn0wfa11/HID-Attacks,56999867
+MS17-010,0.50000000,https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities,yeriej77/Identifying-and-Exploiting-Vulnerabilities,709560447
 MS17-010,0.50000000,https://github.com/apt0factury/CVE-2023-36761,apt0factury/CVE-2023-36761,694373815
 MS17-010,0.50000000,https://github.com/JoseRev/Metasploit,JoseRev/Metasploit,666817282
 MS17-010,0.50000000,https://github.com/OldDream666/cve-2020-0796,OldDream666/cve-2020-0796,607429591
@@ -589,7 +590,7 @@ MS17-010,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon29
 MS17-010,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 MS17-010,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS17-010,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-MS17-010,0.00020109,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00020101,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 MS17-010,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerpro83/metasploit-framework-git45,560256550
 MS17-010,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571

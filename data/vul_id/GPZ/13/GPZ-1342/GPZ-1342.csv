@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GPZ-1342,0.12500000,https://github.com/CaledoniaProject/common-bugs-uncommon-exploits,CaledoniaProject/common-bugs-uncommon-exploits,692680702
+GPZ-1342,0.03846154,https://github.com/CaledoniaProject/common-bugs-uncommon-exploits,CaledoniaProject/common-bugs-uncommon-exploits,692680702
 GPZ-1342,0.01123596,https://github.com/0xbitx/android-exploit-,0xbitx/android-exploit-,330139508
 GPZ-1342,0.01111111,https://github.com/merlinepedra/ANDROID-EXPLOITS,merlinepedra/ANDROID-EXPLOITS,504548727
 GPZ-1342,0.01041667,https://github.com/sundaysec/Android-Exploits,sundaysec/Android-Exploits,145540149

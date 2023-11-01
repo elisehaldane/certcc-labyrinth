@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-14662,0.00369004,https://github.com/metasploit/framework2,metasploit/framework2,23290150
-BID-14662,0.00063654,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-14662,0.00063573,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-14662,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 BID-14662,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 BID-14662,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
