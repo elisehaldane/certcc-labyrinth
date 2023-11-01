@@ -56,7 +56,6 @@ VU#12,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#12,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#12,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#12,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
-VU#12,0.03333333,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#12,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#12,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#12,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
@@ -68,6 +67,7 @@ VU#12,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
 VU#12,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
 VU#12,0.02857143,https://github.com/darkxex/ps4,darkxex/ps4,438368269
 VU#12,0.02857143,https://github.com/kmeps4/leeful900,kmeps4/leeful900,438099843
+VU#12,0.02777778,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#12,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#12,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#12,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
@@ -89,7 +89,6 @@ VU#12,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202
 VU#12,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#12,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#12,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
-VU#12,0.02222222,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#12,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
 VU#12,0.02173913,https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564,nidhi7598/linux-v4.19.72_CVE-2022-3564,691985684
 VU#12,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
@@ -119,6 +118,7 @@ VU#12,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#12,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#12,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#12,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
+VU#12,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#12,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,608970037
 VU#12,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982

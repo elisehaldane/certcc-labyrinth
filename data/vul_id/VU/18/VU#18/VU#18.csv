@@ -66,12 +66,14 @@ VU#18,0.25000000,https://github.com/paulomatozinho/-Integrando-um-Backend-em-Nod
 VU#18,0.25000000,https://github.com/Rami-Majdoub/vulnerable-smart-contracts,Rami-Majdoub/vulnerable-smart-contracts,518817759
 VU#18,0.25000000,https://github.com/redpack-kr/fei-protocol-flashloan-vuln,redpack-kr/fei-protocol-flashloan-vuln,518034682
 VU#18,0.25000000,https://github.com/yudikubota/exemplo_ataque_reentrada,yudikubota/exemplo_ataque_reentrada,516548886
+VU#18,0.25000000,https://github.com/mqxmm/Sploit-runner,mqxmm/Sploit-runner,508395730
 VU#18,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#18,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#18,0.25000000,https://github.com/tingzeng1208/demo-rce-frontend,tingzeng1208/demo-rce-frontend,440029650
 VU#18,0.25000000,https://github.com/hack-different/apple-knowledge,hack-different/apple-knowledge,435649432
 VU#18,0.25000000,https://github.com/PaulNicolasHunter/That_Vulnerable_React_App,PaulNicolasHunter/That_Vulnerable_React_App,385317545
 VU#18,0.25000000,https://github.com/raidcraft/rcelevator,raidcraft/rcelevator,325974150
+VU#18,0.25000000,https://github.com/dbudwin/react-secure-link,dbudwin/react-secure-link,323644538
 VU#18,0.25000000,https://github.com/Paul2708/cercet,Paul2708/cercet,312346441
 VU#18,0.25000000,https://github.com/paulonteri/remote-code-execution-environment,paulonteri/remote-code-execution-environment,278636703
 VU#18,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
@@ -146,7 +148,6 @@ VU#18,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/
 VU#18,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#18,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#18,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
-VU#18,0.03333333,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#18,0.03333333,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#18,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#18,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
@@ -154,6 +155,7 @@ VU#18,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 VU#18,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
 VU#18,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#18,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
+VU#18,0.02777778,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#18,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#18,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#18,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924

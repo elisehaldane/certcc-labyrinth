@@ -214,6 +214,7 @@ MS17-010,0.33333333,https://github.com/peterpt/eternal_scanner,peterpt/eternal_s
 MS17-010,0.33333333,https://github.com/wangeradd1/MyPyExploit,wangeradd1/MyPyExploit,85726880
 MS17-010,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
 MS17-010,0.25000000,https://github.com/AlbertoChar/MS17-010-SMB,AlbertoChar/MS17-010-SMB,694261178
+MS17-010,0.25000000,https://github.com/mqxmm/Sploit-runner,mqxmm/Sploit-runner,508395730
 MS17-010,0.25000000,https://github.com/wannabemrrobot/hackthebox,wannabemrrobot/hackthebox,396079128
 MS17-010,0.25000000,https://github.com/gikabyte27/Pentest,gikabyte27/Pentest,300961124
 MS17-010,0.25000000,https://github.com/sbanks00700/Vulnerabilities-and-Exploitations,sbanks00700/Vulnerabilities-and-Exploitations,272962261
@@ -610,12 +611,12 @@ MS17-010,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasp
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00017510,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00017486,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-MS17-010,0.00008632,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS17-010,0.00006778,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00008630,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00006777,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -657,6 +658,6 @@ MS17-010,0.00001132,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
-MS17-010,0.00000471,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS17-010,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS17-010,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS17-010,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

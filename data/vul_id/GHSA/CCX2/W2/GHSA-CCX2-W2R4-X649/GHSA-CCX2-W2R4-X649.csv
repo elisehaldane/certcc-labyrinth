@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-CCX2-W2R4-X649,0.00534759,https://github.com/khanhdz191/linux-kernel-exploitation,khanhdz191/linux-kernel-exploitation,606387984
-GHSA-CCX2-W2R4-X649,0.00487805,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740
+GHSA-CCX2-W2R4-X649,0.00452489,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740
 GHSA-CCX2-W2R4-X649,0.00414938,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
