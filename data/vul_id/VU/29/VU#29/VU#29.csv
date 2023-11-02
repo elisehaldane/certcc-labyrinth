@@ -160,12 +160,12 @@ VU#29,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-E
 VU#29,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
 VU#29,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 VU#29,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
-VU#29,0.05882353,https://github.com/MzzdToT/HAC_Bored_Writing,MzzdToT/HAC_Bored_Writing,670428048
 VU#29,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#29,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#29,0.05882353,https://github.com/wireghoul/sploit-dev,wireghoul/sploit-dev,5593528
 VU#29,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#29,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
+VU#29,0.05263158,https://github.com/MzzdToT/HAC_Bored_Writing,MzzdToT/HAC_Bored_Writing,670428048
 VU#29,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#29,0.05263158,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#29,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
@@ -364,6 +364,7 @@ VU#29,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheB
 VU#29,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#29,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#29,0.01000000,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#29,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#29,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#29,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#29,0.00934579,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
@@ -480,7 +481,7 @@ VU#29,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#29,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#29,0.00091075,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00090909,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
