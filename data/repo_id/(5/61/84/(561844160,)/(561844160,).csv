@@ -25,9 +25,9 @@ repo_id,repo_full_name,file,file_sha1,match
 561844160,openclarity/vmclarity,pkg/apiserver/database/demo.go,72571accff56dd2f7e46c90c92e9ed0b4663adf0,CVE-2022-43551
 561844160,openclarity/vmclarity,pkg/apiserver/database/demo.go,72571accff56dd2f7e46c90c92e9ed0b4663adf0,MS17-11882
 561844160,openclarity/vmclarity,pkg/apiserver/database/demo.go,72571accff56dd2f7e46c90c92e9ed0b4663adf0,CVE-2006-2896
-561844160,openclarity/vmclarity,go.sum,94a646951cf095d9ad1fa13379e2db1dcd2ffd41,VU#46
-561844160,openclarity/vmclarity,go.sum,94a646951cf095d9ad1fa13379e2db1dcd2ffd41,VU#61
-561844160,openclarity/vmclarity,go.sum,94a646951cf095d9ad1fa13379e2db1dcd2ffd41,VU#05
+561844160,openclarity/vmclarity,go.sum,980b3d4a4839ae97f1e46ef0ca7382e198af4643,VU#46
+561844160,openclarity/vmclarity,go.sum,980b3d4a4839ae97f1e46ef0ca7382e198af4643,VU#61
+561844160,openclarity/vmclarity,go.sum,980b3d4a4839ae97f1e46ef0ca7382e198af4643,VU#05
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#78
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#72
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#719
