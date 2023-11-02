@@ -1,10 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-QQ89-HQ3F-393P,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-37712,Live-Hack-CVE/CVE-2021-37712,581363247
 GHSA-QQ89-HQ3F-393P,0.00008630,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-GHSA-QQ89-HQ3F-393P,0.00006776,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+GHSA-QQ89-HQ3F-393P,0.00006773,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 GHSA-QQ89-HQ3F-393P,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-QQ89-HQ3F-393P,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-GHSA-QQ89-HQ3F-393P,0.00001132,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-QQ89-HQ3F-393P,0.00001131,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-QQ89-HQ3F-393P,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 GHSA-QQ89-HQ3F-393P,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 GHSA-QQ89-HQ3F-393P,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

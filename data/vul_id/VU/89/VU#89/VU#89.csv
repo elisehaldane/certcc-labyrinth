@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#89,1.00000000,https://github.com/AbstractMelon/Melonblock,AbstractMelon/Melonblock,677070377
 VU#89,1.00000000,https://github.com/qeeqbox/sql-injection,qeeqbox/sql-injection,581730832
 VU#89,1.00000000,https://github.com/za1234567/voice-exploit-master,za1234567/voice-exploit-master,538135599
-VU#89,1.00000000,https://github.com/doof-dev/exploit-hub,doof-dev/exploit-hub,486376673
+VU#89,1.00000000,https://github.com/stickman-dev/exploit-hub,stickman-dev/exploit-hub,486376673
 VU#89,1.00000000,https://github.com/ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,478938133
 VU#89,1.00000000,https://github.com/tolik518/simple_webshop,tolik518/simple_webshop,468687882
 VU#89,0.50000000,https://github.com/abhijeet-000/ZERODAY_A,abhijeet-000/ZERODAY_A,663438550
@@ -210,12 +210,12 @@ VU#89,0.01000000,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,1892
 VU#89,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#89,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
 VU#89,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
-VU#89,0.00934579,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#89,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#89,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#89,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#89,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#89,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
+VU#89,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#89,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#89,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#89,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
@@ -334,7 +334,7 @@ VU#89,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#89,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#89,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#89,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#89,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#89,0.00019227,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#89,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#89,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#89,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

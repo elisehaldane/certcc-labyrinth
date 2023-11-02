@@ -5,7 +5,6 @@ VU#05,1.00000000,https://github.com/CMEPW/myph,CMEPW/myph,596950161
 VU#05,1.00000000,https://github.com/bortoluzzi/UC3VUL05,bortoluzzi/UC3VUL05,586812072
 VU#05,1.00000000,https://github.com/jenydu/CNVds,jenydu/CNVds,556434971
 VU#05,1.00000000,https://github.com/maddydevgits/ML-Bootcamp-RCEW-Kurnool,maddydevgits/ML-Bootcamp-RCEW-Kurnool,478671320
-VU#05,1.00000000,https://github.com/C4T-BuT-S4D/neo,C4T-BuT-S4D/neo,306467198
 VU#05,1.00000000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#05,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
 VU#05,0.50000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitcb,564581590
@@ -13,6 +12,7 @@ VU#05,0.50000000,https://github.com/Abhimanyu08/RCE-blog-client,Abhimanyu08/RCE-
 VU#05,0.50000000,https://github.com/counoxe/Counoxe,counoxe/Counoxe,487935711
 VU#05,0.50000000,https://github.com/xFelienDev/ExploitPack,xFelienDev/ExploitPack,482935784
 VU#05,0.50000000,https://github.com/dusty99/dusty,dusty99/dusty,473135347
+VU#05,0.50000000,https://github.com/C4T-BuT-S4D/neo,C4T-BuT-S4D/neo,306467198
 VU#05,0.33333333,https://github.com/lodi-g/CVE-2023-33668,lodi-g/CVE-2023-33668,663847404
 VU#05,0.33333333,https://github.com/scoobs79/Synapse-X-3-3-2023-,scoobs79/Synapse-X-3-3-2023-,609347776
 VU#05,0.33333333,https://github.com/rafaelcanoguitton/RemoteCodeExecution-Kubernetes,rafaelcanoguitton/RemoteCodeExecution-Kubernetes,568231729
@@ -174,10 +174,10 @@ VU#05,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,47493750
 VU#05,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#05,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#05,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
-VU#05,0.00934579,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#05,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#05,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#05,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
+VU#05,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#05,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#05,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#05,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
@@ -286,7 +286,7 @@ VU#05,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#05,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#05,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#05,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#05,0.00019231,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#05,0.00019227,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#05,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#05,0.00007218,https://github.com/vulsio/go-exploitdb,vulsio/go-exploitdb,151353348
 VU#05,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
