@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+191294929,helviojunior/shellcodetester,resources/VC_redist.x86.exe,5ce7923ffea712468c05e7ac376dd9c29ea9f6be,VU#11
+191294929,helviojunior/shellcodetester,resources/VC_redist.x86.exe,5ce7923ffea712468c05e7ac376dd9c29ea9f6be,VU#98
+191294929,helviojunior/shellcodetester,resources/VC_redist.x64.exe,9ed4b091148c9b53f66b3f2c69be7e60e74c486a,VU#98
