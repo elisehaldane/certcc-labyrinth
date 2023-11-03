@@ -64,7 +64,6 @@ VU#62,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/Ti
 VU#62,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
 VU#62,0.16666667,https://github.com/Qynklee/POC_CVE-2020-2883,Qynklee/POC_CVE-2020-2883,428189487
 VU#62,0.16666667,https://github.com/sillihkram/Bruteforcing-SSH,sillihkram/Bruteforcing-SSH,401438417
-VU#62,0.16666667,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#62,0.14285714,https://github.com/aiden-wc/uncle-aidens-hub,aiden-wc/uncle-aidens-hub,660009763
 VU#62,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
 VU#62,0.14285714,https://github.com/a-rey/exploits,a-rey/exploits,403126946
@@ -80,6 +79,7 @@ VU#62,0.11111111,https://github.com/ssteiger/the-dao-hack-simulation,ssteiger/th
 VU#62,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
 VU#62,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#62,0.11111111,https://github.com/7rebux/league-tools,7rebux/league-tools,307498322
+VU#62,0.11111111,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#62,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
 VU#62,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#62,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
@@ -364,6 +364,6 @@ VU#62,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#62,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#62,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#62,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#62,0.00019227,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#62,0.00019223,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#62,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#62,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -21,7 +21,6 @@ VU#13,0.25000000,https://github.com/marketdesignresearch/MVNN,marketdesignresear
 VU#13,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#13,0.20000000,https://github.com/fazasaputra/exploit,fazasaputra/exploit,461082024
 VU#13,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
-VU#13,0.16666667,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#13,0.14285714,https://github.com/CrimsonfiedOfficial/ConfigStorage,CrimsonfiedOfficial/ConfigStorage,660556952
 VU#13,0.14285714,https://github.com/HG-Arman/metasploit-easy-,HG-Arman/metasploit-easy-,512732900
 VU#13,0.14285714,https://github.com/tasox/Apophis,tasox/Apophis,469466961
@@ -29,6 +28,7 @@ VU#13,0.12500000,https://github.com/kuldeepkrjha/AIRSPECTER,kuldeepkrjha/AIRSPEC
 VU#13,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
 VU#13,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
 VU#13,0.11111111,https://github.com/ssteiger/the-dao-hack-simulation,ssteiger/the-dao-hack-simulation,504780684
+VU#13,0.11111111,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#13,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#13,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
 VU#13,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
@@ -267,7 +267,7 @@ VU#13,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#13,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#13,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#13,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#13,0.00019227,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#13,0.00019223,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#13,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#13,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#13,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

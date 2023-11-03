@@ -96,7 +96,6 @@ VU#18,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/Ti
 VU#18,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
 VU#18,0.16666667,https://github.com/TretornESP/bec,TretornESP/bec,463613043
 VU#18,0.16666667,https://github.com/rosvik/cve.248.no,rosvik/cve.248.no,225452554
-VU#18,0.16666667,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#18,0.14285714,https://github.com/AlexandrMilko/PenBot,AlexandrMilko/PenBot,581851984
 VU#18,0.14285714,https://github.com/6iKezbAD3CZnf/blockchained-ml,6iKezbAD3CZnf/blockchained-ml,562467899
 VU#18,0.14285714,https://github.com/brightprogrammer/pwned,brightprogrammer/pwned,559560211
@@ -114,6 +113,7 @@ VU#18,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/m
 VU#18,0.11111111,https://github.com/ssteiger/the-dao-hack-simulation,ssteiger/the-dao-hack-simulation,504780684
 VU#18,0.11111111,https://github.com/7rebux/league-tools,7rebux/league-tools,307498322
 VU#18,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
+VU#18,0.11111111,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#18,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#18,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#18,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
@@ -405,7 +405,7 @@ VU#18,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#18,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#18,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#18,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#18,0.00019227,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00019223,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#18,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046

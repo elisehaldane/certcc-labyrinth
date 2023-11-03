@@ -8,6 +8,7 @@ VU#10,0.50000000,https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CV
 VU#10,0.50000000,https://github.com/qjh2333/CVE-2019-10999,qjh2333/CVE-2019-10999,467862315
 VU#10,0.50000000,https://github.com/F6JO/CVE-2020-0796-Batch-scanning,F6JO/CVE-2020-0796-Batch-scanning,422054053
 VU#10,0.50000000,https://github.com/MartinSohn/CVE-2020-8816,MartinSohn/CVE-2020-8816,272513732
+VU#10,0.33333333,https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3,TechnicalForumResearcher/DuplicateDetectionWithGPT3,700450885
 VU#10,0.33333333,https://github.com/Songg45/CVE-2023-4683-Test,Songg45/CVE-2023-4683-Test,697961473
 VU#10,0.33333333,https://github.com/asdaweee/GitLabRCECVE-2021-22205-GUI,asdaweee/GitLabRCECVE-2021-22205-GUI,664967309
 VU#10,0.33333333,https://github.com/0neday/MA5671-exploit,0neday/MA5671-exploit,504577829
@@ -337,7 +338,7 @@ VU#10,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#10,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#10,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#10,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#10,0.00019227,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#10,0.00019223,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#10,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#10,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#10,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
