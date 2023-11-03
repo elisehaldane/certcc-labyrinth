@@ -1,7 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
 14167785,electron/node-rcedit,test/fixtures/electron.exe,6065056d6a9d856fa5afd4c44daa1c0dc7b9ac03,VU#1020
-14167785,electron/node-rcedit,yarn.lock,d4937fd21f247e5552db5e2c1feb647b20bbd11f,VU#13
-14167785,electron/node-rcedit,yarn.lock,d4937fd21f247e5552db5e2c1feb647b20bbd11f,VU#137
-14167785,electron/node-rcedit,yarn.lock,d4937fd21f247e5552db5e2c1feb647b20bbd11f,VU#18
-14167785,electron/node-rcedit,yarn.lock,d4937fd21f247e5552db5e2c1feb647b20bbd11f,VU#49
-14167785,electron/node-rcedit,yarn.lock,d4937fd21f247e5552db5e2c1feb647b20bbd11f,VU#62
+14167785,electron/node-rcedit,yarn.lock,dc21ace2d8f4b228d8777975620ec1242101b8cc,VU#13
+14167785,electron/node-rcedit,yarn.lock,dc21ace2d8f4b228d8777975620ec1242101b8cc,VU#18
+14167785,electron/node-rcedit,yarn.lock,dc21ace2d8f4b228d8777975620ec1242101b8cc,VU#20
+14167785,electron/node-rcedit,yarn.lock,dc21ace2d8f4b228d8777975620ec1242101b8cc,VU#28
+14167785,electron/node-rcedit,yarn.lock,dc21ace2d8f4b228d8777975620ec1242101b8cc,VU#39
+14167785,electron/node-rcedit,yarn.lock,dc21ace2d8f4b228d8777975620ec1242101b8cc,VU#49
+14167785,electron/node-rcedit,yarn.lock,dc21ace2d8f4b228d8777975620ec1242101b8cc,VU#62
