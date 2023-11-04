@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+714042465,tmcybers/awesome-cve-poc,CVE-2023-46404.md,359d30cdca4cc7cf1208825eac3b0d6c52de1bf9,CVE-2023-46404
+714042465,tmcybers/awesome-cve-poc,CVE-2020-9484.md,5dfe42cbafc0b53472193c4b55ffc2fa21a44145,CVE-2020-9484
+714042465,tmcybers/awesome-cve-poc,CVE-2023-28121.md,76f2c420af4d5461ae76cda2d090e1a159604e1d,CVE-2023-28121
+714042465,tmcybers/awesome-cve-poc,CVE-2023-38646.md,ed1d25d91f6ce93d8add9bf1412da7d1937ec497,CVE-2023-38646
