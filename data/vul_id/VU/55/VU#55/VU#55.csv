@@ -45,6 +45,7 @@ VU#55,0.10000000,https://github.com/mirzaazwad/CTF,mirzaazwad/CTF,626003373
 VU#55,0.09090909,https://github.com/nguyenbadac0405/prod_RCE,nguyenbadac0405/prod_RCE,665948996
 VU#55,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#55,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonRoblox,267731387
+VU#55,0.09090909,https://github.com/redtimmy/Richsploit,redtimmy/Richsploit,245462807
 VU#55,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
 VU#55,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#55,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
@@ -209,6 +210,9 @@ VU#55,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_Th
 VU#55,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#55,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#55,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
+VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,713804003
+VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,713799603
+VU#55,0.01408451,https://github.com/pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,713738485
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298,nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298,713243576
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,713237477
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,711849783
@@ -295,6 +299,7 @@ VU#55,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#55,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#55,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#55,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#55,0.00497512,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#55,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#55,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#55,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -363,7 +368,7 @@ VU#55,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#55,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#55,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#55,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#55,0.00019223,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#55,0.00019220,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#55,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#55,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#55,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

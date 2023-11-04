@@ -40,11 +40,11 @@ MS10-070,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/
 MS10-070,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
 MS10-070,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 MS10-070,0.00022753,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-MS10-070,0.00020851,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS10-070,0.00020056,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS10-070,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS10-070,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-070,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS10-070,0.00017510,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS10-070,0.00017501,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS10-070,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS10-070,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS10-070,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
@@ -87,7 +87,7 @@ MS10-070,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS10-070,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS10-070,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS10-070,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS10-070,0.00001131,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-070,0.00001130,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-070,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-070,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS10-070,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

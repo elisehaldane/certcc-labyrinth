@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1947,0.01010101,https://github.com/SleepTheGod/0days,SleepTheGod/0days,417917134
-GPZ-1947,0.00653595,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
+GPZ-1947,0.00606061,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
 GPZ-1947,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 GPZ-1947,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 GPZ-1947,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
