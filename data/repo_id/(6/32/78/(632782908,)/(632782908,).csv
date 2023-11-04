@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+632782908,xanhacks/OffensiveWeb,content/en/docs/framework/apache.md,42ec33a343bdf045e6d106a911c28b1dc406192a,CVE-2021-41773
+632782908,xanhacks/OffensiveWeb,content/en/docs/framework/apache.md,42ec33a343bdf045e6d106a911c28b1dc406192a,CVE-2023-25690
