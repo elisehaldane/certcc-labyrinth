@@ -3,7 +3,7 @@ GHSA-V56F-9GQ3-RX3G,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jste
 GHSA-V56F-9GQ3-RX3G,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-V56F-9GQ3-RX3G,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 GHSA-V56F-9GQ3-RX3G,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-GHSA-V56F-9GQ3-RX3G,0.00001130,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-V56F-9GQ3-RX3G,0.00001129,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-V56F-9GQ3-RX3G,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 GHSA-V56F-9GQ3-RX3G,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-V56F-9GQ3-RX3G,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

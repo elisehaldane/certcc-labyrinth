@@ -1,12 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-P6H4-93QP-JHCM,0.00114679,https://github.com/JoshTech1000/CVE-Details_2022-Analysis,JoshTech1000/CVE-Details_2022-Analysis,576556373
 GHSA-P6H4-93QP-JHCM,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
-GHSA-P6H4-93QP-JHCM,0.00020056,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-GHSA-P6H4-93QP-JHCM,0.00017501,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-P6H4-93QP-JHCM,0.00020048,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+GHSA-P6H4-93QP-JHCM,0.00017495,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-P6H4-93QP-JHCM,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-P6H4-93QP-JHCM,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-P6H4-93QP-JHCM,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-GHSA-P6H4-93QP-JHCM,0.00001130,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-P6H4-93QP-JHCM,0.00001129,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-P6H4-93QP-JHCM,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 GHSA-P6H4-93QP-JHCM,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 GHSA-P6H4-93QP-JHCM,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

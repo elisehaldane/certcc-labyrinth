@@ -2,5 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-QX9C-49M4-F3VJ,0.33333333,https://github.com/Live-Hack-CVE/CVE-2017-10616,Live-Hack-CVE/CVE-2017-10616,588763299
 GHSA-QX9C-49M4-F3VJ,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 GHSA-QX9C-49M4-F3VJ,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-GHSA-QX9C-49M4-F3VJ,0.00001130,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-QX9C-49M4-F3VJ,0.00001129,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-QX9C-49M4-F3VJ,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

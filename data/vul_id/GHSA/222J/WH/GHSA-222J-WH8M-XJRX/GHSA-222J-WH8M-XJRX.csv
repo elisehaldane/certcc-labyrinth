@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-222J-WH8M-XJRX,0.00001130,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-222J-WH8M-XJRX,0.00001129,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-222J-WH8M-XJRX,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-222J-WH8M-XJRX,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
