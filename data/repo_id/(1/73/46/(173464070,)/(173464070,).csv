@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 173464070,bitsadmin/wesng,collector/Custom_20190321.csv,1144b11b7b73a61170eefe2bdcc3de111d1f83ba,CVE-2017-0143
 173464070,bitsadmin/wesng,collector/Custom_20190321.csv,1144b11b7b73a61170eefe2bdcc3de111d1f83ba,MS17-010
-173464070,bitsadmin/wesng,definitions.zip,9789ae42ba16b6ecb94092e97f56af6085ee49d5,VU#87
 173464070,bitsadmin/wesng,CHANGELOG.md,e9201a7136e70b4aa83346db093ba974ac74cfea,MS17-010
