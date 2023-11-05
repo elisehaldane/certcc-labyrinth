@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#1989,0.00259067,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
+VU#1989,0.00230947,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#1989,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#1989,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#1989,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304

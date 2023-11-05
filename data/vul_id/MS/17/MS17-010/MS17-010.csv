@@ -437,7 +437,6 @@ MS17-010,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 MS17-010,0.00452489,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 MS17-010,0.00448430,https://github.com/Awrrays/MetaSploit-Moudule,Awrrays/MetaSploit-Moudule,379840207
 MS17-010,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
-MS17-010,0.00442478,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 MS17-010,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
 MS17-010,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 MS17-010,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
@@ -457,6 +456,7 @@ MS17-010,0.00367647,https://github.com/SomUrim/windows-kernel-exploits-clone,Som
 MS17-010,0.00367647,https://github.com/zyjsuper/windows-kernel-exploits,zyjsuper/windows-kernel-exploits,148878601
 MS17-010,0.00367647,https://github.com/Neo01010/windows-kernel-exploits,Neo01010/windows-kernel-exploits,148435066
 MS17-010,0.00367647,https://github.com/n8v79a/win-exploit,n8v79a/win-exploit,137973611
+MS17-010,0.00364964,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 MS17-010,0.00363636,https://github.com/Datacrass/Windows-Exploits,Datacrass/Windows-Exploits,147531062
 MS17-010,0.00361011,https://github.com/QChiLan/win-exploit,QChiLan/win-exploit,198334925
 MS17-010,0.00361011,https://github.com/valentinoJones/Windows-Kernel-Exploits,valentinoJones/Windows-Kernel-Exploits,181759333
@@ -591,7 +591,7 @@ MS17-010,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon29
 MS17-010,0.00020198,https://github.com/webcindy/metasploit,webcindy/metasploit,496424010
 MS17-010,0.00020165,https://github.com/sumon296/Metasploit-Framework,sumon296/Metasploit-Framework,514342337
 MS17-010,0.00020149,https://github.com/De30/metasploit-framework,De30/metasploit-framework,520891420
-MS17-010,0.00020048,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00020044,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00020012,https://github.com/THE-KING-01/Metasploit1,THE-KING-01/Metasploit1,551475160
 MS17-010,0.00019992,https://github.com/gamerpro83/metasploit-framework-git45,gamerpro83/metasploit-framework-git45,560256550
 MS17-010,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr2020/metasploit-framework,557785571
