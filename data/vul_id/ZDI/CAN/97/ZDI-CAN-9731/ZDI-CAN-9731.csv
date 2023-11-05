@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-9731,0.33333333,https://github.com/Live-Hack-CVE/CVE-2020-15422,Live-Hack-CVE/CVE-2020-15422,592910100
-ZDI-CAN-9731,0.00006770,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+ZDI-CAN-9731,0.00006768,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 ZDI-CAN-9731,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 ZDI-CAN-9731,0.00001129,https://github.com/trickest/cve,trickest/cve,454015416
 ZDI-CAN-9731,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

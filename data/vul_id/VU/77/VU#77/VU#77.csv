@@ -19,6 +19,7 @@ VU#77,0.25000000,https://github.com/Anaas0/webmin_1_890_unauthenticated_remote_c
 VU#77,0.20000000,https://github.com/Wrigsflow/Exploit-doors,Wrigsflow/Exploit-doors,609366231
 VU#77,0.20000000,https://github.com/argon125/Bandit-Algorithms,argon125/Bandit-Algorithms,527414066
 VU#77,0.20000000,https://github.com/Yolnan/24678_CVE_PS6,Yolnan/24678_CVE_PS6,424596008
+VU#77,0.16666667,https://github.com/jsirichai/CVE-2019-2215,jsirichai/CVE-2019-2215,714661067
 VU#77,0.16666667,https://github.com/LinWin-Cloud/linwin-sploit,LinWin-Cloud/linwin-sploit,617420178
 VU#77,0.16666667,https://github.com/DhurimHalili/Scripts,DhurimHalili/Scripts,559495813
 VU#77,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
@@ -263,6 +264,7 @@ VU#77,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#77,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#77,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#77,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
+VU#77,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#77,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#77,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#77,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -284,7 +286,6 @@ VU#77,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#77,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#77,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#77,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
-VU#77,0.00497512,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#77,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#77,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#77,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
