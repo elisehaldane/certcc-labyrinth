@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#36,1.00000000,https://github.com/VaxVok/VitaFT4,VaxVok/VitaFT4,564951832
 VU#36,1.00000000,https://github.com/HongPeize/CMU-24678-CVE,HongPeize/CMU-24678-CVE,455390839
 VU#36,1.00000000,https://github.com/alb-i986/documents-versioner,alb-i986/documents-versioner,15240867
+VU#36,0.50000000,https://github.com/Dismalitie/ProtoSploit,Dismalitie/ProtoSploit,692865963
 VU#36,0.50000000,https://github.com/jschof1/exploiting-data-science-to-create-value,jschof1/exploiting-data-science-to-create-value,545028163
 VU#36,0.50000000,https://github.com/arash-bahariye/admin-dashboard,arash-bahariye/admin-dashboard,529558955
 VU#36,0.50000000,https://github.com/ERRRRRRRLAN/SatirExploit,ERRRRRRRLAN/SatirExploit,509064665

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#46,1.00000000,https://github.com/fuze136/F-136-Exploit,fuze136/F-136-Exploit,609125269
 VU#46,0.50000000,https://github.com/chucvv/POC-exploit-vulnerability,chucvv/POC-exploit-vulnerability,705451038
+VU#46,0.50000000,https://github.com/Dismalitie/ProtoSploit,Dismalitie/ProtoSploit,692865963
 VU#46,0.50000000,https://github.com/adarshpv9746/Log4j-exploit,adarshpv9746/Log4j-exploit,562809397
 VU#46,0.50000000,https://github.com/0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,476386220
 VU#46,0.33333333,https://github.com/Notorioua/Kali-s-Exploit-Roblox,Notorioua/Kali-s-Exploit-Roblox,665561196
