@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-MJMJ-J48Q-9WG2,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-1471,Live-Hack-CVE/CVE-2022-1471,582663129
 GHSA-MJMJ-J48Q-9WG2,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-1471,Live-Hack-CVE/CVE-2022-1471,581294558
-GHSA-MJMJ-J48Q-9WG2,0.00019220,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-MJMJ-J48Q-9WG2,0.00019216,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-MJMJ-J48Q-9WG2,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-MJMJ-J48Q-9WG2,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-MJMJ-J48Q-9WG2,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045

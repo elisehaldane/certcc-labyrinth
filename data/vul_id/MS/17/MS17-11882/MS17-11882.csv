@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS17-11882,0.05263158,https://github.com/exploit-inters/Exploit-1,exploit-inters/Exploit-1,129749138
 MS17-11882,0.04000000,https://github.com/moonAgirl/Exploit-Re,moonAgirl/Exploit-Re,179191324
-MS17-11882,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
+MS17-11882,0.03846154,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 MS17-11882,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 MS17-11882,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS17-11882,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
@@ -81,7 +81,7 @@ MS17-11882,0.00019501,https://github.com/artyang/metasploit-framework,artyang/me
 MS17-11882,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 MS17-11882,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS17-11882,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS17-11882,0.00019220,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS17-11882,0.00019216,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-11882,0.00005376,https://github.com/cvebase/cvebase.com,cvebase/cvebase.com,300791308
 MS17-11882,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS17-11882,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

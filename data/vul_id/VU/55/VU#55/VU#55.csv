@@ -10,6 +10,7 @@ VU#55,1.00000000,https://github.com/skyMateus/skyExploit,skyMateus/skyExploit,46
 VU#55,0.50000000,https://github.com/GRPTheDude/Haze,GRPTheDude/Haze,668586223
 VU#55,0.50000000,https://github.com/GregBoyTyyuiss/Roblox-Exploits,GregBoyTyyuiss/Roblox-Exploits,610261084
 VU#55,0.50000000,https://github.com/EarthToAccess/EBGui,EarthToAccess/EBGui,527345498
+VU#55,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#55,0.33333333,https://github.com/Serz999/CVE-2015-3145,Serz999/CVE-2015-3145,572456828
 VU#55,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
 VU#55,0.33333333,https://github.com/yufanphombolimbu/Metasploit,yufanphombolimbu/Metasploit,512993881
@@ -210,6 +211,11 @@ VU#55,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_Th
 VU#55,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#55,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#55,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
+VU#55,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1792,Trinadh465/OpenSSL-1_0_1g_CVE-2015-1792,715115691
+VU#55,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,715044717
+VU#55,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195,Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195,714987809
+VU#55,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194,Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194,714983467
+VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178,714919741
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,713804003
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,713799603
 VU#55,0.01408451,https://github.com/pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,713738485
@@ -367,7 +373,7 @@ VU#55,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#55,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#55,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#55,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#55,0.00019220,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#55,0.00019216,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#55,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#55,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#55,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

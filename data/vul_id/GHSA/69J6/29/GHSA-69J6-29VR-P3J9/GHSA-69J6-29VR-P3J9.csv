@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-69J6-29VR-P3J9,0.00462963,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
 GHSA-69J6-29VR-P3J9,0.00325733,https://github.com/wwl012345/Vuln-List,wwl012345/Vuln-List,464725675
 GHSA-69J6-29VR-P3J9,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-69J6-29VR-P3J9,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
