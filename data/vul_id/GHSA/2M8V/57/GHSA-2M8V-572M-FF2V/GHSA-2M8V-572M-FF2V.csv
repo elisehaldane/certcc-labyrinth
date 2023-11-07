@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-2M8V-572M-FF2V,0.00462963,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
 GHSA-2M8V-572M-FF2V,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-2M8V-572M-FF2V,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
-GHSA-2M8V-572M-FF2V,0.00063532,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+GHSA-2M8V-572M-FF2V,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-2M8V-572M-FF2V,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 GHSA-2M8V-572M-FF2V,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-2M8V-572M-FF2V,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

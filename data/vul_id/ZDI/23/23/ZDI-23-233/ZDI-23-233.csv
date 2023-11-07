@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-23-233,0.00462963,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
-ZDI-23-233,0.00063532,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+ZDI-23-233,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 ZDI-23-233,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

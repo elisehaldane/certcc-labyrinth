@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZDI-15-241,0.00063532,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+ZDI-15-241,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 ZDI-15-241,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 ZDI-15-241,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 ZDI-15-241,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

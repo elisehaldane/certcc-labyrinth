@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-100954,0.00709220,https://github.com/samaujs/CVE-2011-1475,samaujs/CVE-2011-1475,156348204
-BID-100954,0.00063532,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-100954,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-100954,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 BID-100954,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
 BID-100954,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876

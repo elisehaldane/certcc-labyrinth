@@ -10,6 +10,7 @@ VU#55,1.00000000,https://github.com/skyMateus/skyExploit,skyMateus/skyExploit,46
 VU#55,0.50000000,https://github.com/GRPTheDude/Haze,GRPTheDude/Haze,668586223
 VU#55,0.50000000,https://github.com/GregBoyTyyuiss/Roblox-Exploits,GregBoyTyyuiss/Roblox-Exploits,610261084
 VU#55,0.50000000,https://github.com/EarthToAccess/EBGui,EarthToAccess/EBGui,527345498
+VU#55,0.33333333,https://github.com/uthrasri/CVE-2014-3570,uthrasri/CVE-2014-3570,715657581
 VU#55,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#55,0.33333333,https://github.com/Serz999/CVE-2015-3145,Serz999/CVE-2015-3145,572456828
 VU#55,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
@@ -211,6 +212,13 @@ VU#55,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_Th
 VU#55,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#55,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#55,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
+VU#55,0.01408451,https://github.com/uthrasri/Openssl_G2.5_CVE-2014-3570_01,uthrasri/Openssl_G2.5_CVE-2014-3570_01,715636010
+VU#55,0.01408451,https://github.com/uthrasri/openssl_G2.5_CVE-2014-3570,uthrasri/openssl_G2.5_CVE-2014-3570,715592253
+VU#55,0.01408451,https://github.com/uthrasri/openssl_g2.5_CVE-2014-3566,uthrasri/openssl_g2.5_CVE-2014-3566,715541496
+VU#55,0.01408451,https://github.com/uthrasri/CVE-2014-8275_openssl_g2.5,uthrasri/CVE-2014-8275_openssl_g2.5,715452573
+VU#55,0.01408451,https://github.com/uthrasri/Openssl_G2.5_CVE-2014-8275,uthrasri/Openssl_G2.5_CVE-2014-8275,715444324
+VU#55,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3197,Trinadh465/OpenSSL-1_0_1g_CVE-2015-3197,715439181
+VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798,nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798,715417354
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0797,nidhi7598/OPENSSL_1.0.1g_CVE-2016-0797,715410618
 VU#55,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1792,Trinadh465/OpenSSL-1_0_1g_CVE-2015-1792,715115691
 VU#55,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,715044717

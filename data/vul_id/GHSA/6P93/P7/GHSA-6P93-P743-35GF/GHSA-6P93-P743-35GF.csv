@@ -5,11 +5,11 @@ GHSA-6P93-P743-35GF,0.16666667,https://github.com/Shockp/CVE-Exploits,Shockp/CVE
 GHSA-6P93-P743-35GF,0.00684932,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
 GHSA-6P93-P743-35GF,0.00515464,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 GHSA-6P93-P743-35GF,0.00462963,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
-GHSA-6P93-P743-35GF,0.00423729,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
-GHSA-6P93-P743-35GF,0.00091491,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
+GHSA-6P93-P743-35GF,0.00406504,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+GHSA-6P93-P743-35GF,0.00091408,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
 GHSA-6P93-P743-35GF,0.00090992,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
-GHSA-6P93-P743-35GF,0.00090827,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
-GHSA-6P93-P743-35GF,0.00063532,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+GHSA-6P93-P743-35GF,0.00090744,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+GHSA-6P93-P743-35GF,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-6P93-P743-35GF,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 GHSA-6P93-P743-35GF,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 GHSA-6P93-P743-35GF,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
