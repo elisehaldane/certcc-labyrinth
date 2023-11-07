@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-QQ89-HQ3F-393P,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-37712,Live-Hack-CVE/CVE-2021-37712,581363247
 GHSA-QQ89-HQ3F-393P,0.00008630,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-GHSA-QQ89-HQ3F-393P,0.00006768,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+GHSA-QQ89-HQ3F-393P,0.00006766,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 GHSA-QQ89-HQ3F-393P,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-QQ89-HQ3F-393P,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 GHSA-QQ89-HQ3F-393P,0.00001129,https://github.com/trickest/cve,trickest/cve,454015416
