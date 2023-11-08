@@ -23,6 +23,7 @@ VU#05,0.33333333,https://github.com/trewisscotch/CobaltStr4.4,trewisscotch/Cobal
 VU#05,0.33333333,https://github.com/WilfriedMercier/ExploitGUI,WilfriedMercier/ExploitGUI,416756880
 VU#05,0.33333333,https://github.com/254nm/L2X9RebootCore,254nm/L2X9RebootCore,392146186
 VU#05,0.33333333,https://github.com/vandavey/DotnetCat,vandavey/DotnetCat,284355862
+VU#05,0.25000000,https://github.com/cerberauth/api-vulns-challenges,cerberauth/api-vulns-challenges,697264220
 VU#05,0.25000000,https://github.com/tucommenceapousser/CVE-2019-11932deta,tucommenceapousser/CVE-2019-11932deta,696211441
 VU#05,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#05,0.25000000,https://github.com/JitinKGoyal/RCEW-classes,JitinKGoyal/RCEW-classes,573280263
@@ -206,6 +207,7 @@ VU#05,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough
 VU#05,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#05,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#05,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#05,0.00552486,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
 VU#05,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#05,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#05,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
@@ -213,6 +215,7 @@ VU#05,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#05,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#05,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#05,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#05,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
 VU#05,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#05,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#05,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
@@ -236,9 +239,9 @@ VU#05,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#05,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#05,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#05,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
-VU#05,0.00246305,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#05,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#05,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
+VU#05,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#05,0.00230947,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#05,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#05,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
@@ -286,7 +289,7 @@ VU#05,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#05,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#05,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#05,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#05,0.00019216,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#05,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#05,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#05,0.00007218,https://github.com/vulsio/go-exploitdb,vulsio/go-exploitdb,151353348
 VU#05,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

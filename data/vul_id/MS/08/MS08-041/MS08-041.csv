@@ -77,6 +77,7 @@ MS08-041,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/win
 MS08-041,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 MS08-041,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS08-041,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
+MS08-041,0.00300300,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 MS08-041,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
 MS08-041,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS08-041,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
@@ -193,7 +194,7 @@ MS08-041,0.00019501,https://github.com/artyang/metasploit-framework,artyang/meta
 MS08-041,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 MS08-041,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS08-041,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS08-041,0.00019216,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-041,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-041,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS08-041,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS08-041,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900

@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-3,1.00000000,https://github.com/Hual/SA-MP-Plus,Hual/SA-MP-Plus,21011671
 BID-3,0.33333333,https://github.com/winezer0/cs_agent_plus,winezer0/cs_agent_plus,601875673
 BID-3,0.33333333,https://github.com/fxpgunz/gunz-1.0,fxpgunz/gunz-1.0,486681354
+BID-3,0.14285714,https://github.com/hyn0027/DualGen,hyn0027/DualGen,630908704
 BID-3,0.12500000,https://github.com/EvolvingSysadmin/Penetration-Testing,EvolvingSysadmin/Penetration-Testing,317303126
 BID-3,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
 BID-3,0.05000000,https://github.com/raymondzmc/Attention-Pattern-Exploitation,raymondzmc/Attention-Pattern-Exploitation,555256490

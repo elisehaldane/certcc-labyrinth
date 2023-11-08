@@ -228,6 +228,7 @@ VU#32,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,12743620
 VU#32,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#32,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#32,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
+VU#32,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
 VU#32,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#32,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 VU#32,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
@@ -244,6 +245,8 @@ VU#32,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_Th
 VU#32,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#32,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#32,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#32,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196,nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196,716043430
+VU#32,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1791,Trinadh465/OpenSSL-1_0_1g_CVE-2015-1791,715961441
 VU#32,0.01408451,https://github.com/uthrasri/CVE-2014-5139,uthrasri/CVE-2014-5139,715725450
 VU#32,0.01408451,https://github.com/uthrasri/Openssl_G2.5_CVE-2014-3570_01,uthrasri/Openssl_G2.5_CVE-2014-3570_01,715636010
 VU#32,0.01408451,https://github.com/uthrasri/openssl_G2.5_CVE-2014-3570,uthrasri/openssl_G2.5_CVE-2014-3570,715592253
@@ -361,6 +364,7 @@ VU#32,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#32,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#32,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#32,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#32,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
 VU#32,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#32,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#32,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
@@ -440,7 +444,7 @@ VU#32,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#32,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#32,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#32,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#32,0.00019216,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#32,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

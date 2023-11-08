@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-2HC5-P5MC-8VRH,0.02083333,https://github.com/Orange-Cyberdefense/CVE-repository,Orange-Cyberdefense/CVE-repository,244651091
+GHSA-2HC5-P5MC-8VRH,0.00001128,https://github.com/trickest/cve,trickest/cve,454015416

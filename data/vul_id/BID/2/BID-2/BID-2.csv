@@ -10,6 +10,7 @@ BID-2,0.25000000,https://github.com/ossf-cve-benchmark/CVE-2018-8035,ossf-cve-be
 BID-2,0.25000000,https://github.com/hibernator11/notebook-texts-metadata,hibernator11/notebook-texts-metadata,252769662
 BID-2,0.20000000,https://github.com/martapanc/SATD-replication-package,martapanc/SATD-replication-package,94113844
 BID-2,0.16666667,https://github.com/leobargiotti/News-Classifier,leobargiotti/News-Classifier,585166925
+BID-2,0.14285714,https://github.com/hyn0027/DualGen,hyn0027/DualGen,630908704
 BID-2,0.14285714,https://github.com/rapid7/rex,rapid7/rex,23768727
 BID-2,0.11111111,https://github.com/travelertt/RCECA,travelertt/RCECA,4087674
 BID-2,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Joseph1/Latency-Arbitrage,662578688
@@ -117,7 +118,7 @@ BID-2,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 BID-2,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 BID-2,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 BID-2,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-BID-2,0.00019216,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-2,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-2,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-2,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-2,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

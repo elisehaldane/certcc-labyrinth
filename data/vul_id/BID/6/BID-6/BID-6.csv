@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-6,1.00000000,https://github.com/gerbeldo/rcell2_data,gerbeldo/rcell2_data,150325206
 BID-6,0.33333333,https://github.com/patrickhener/CVE-2020-15492,patrickhener/CVE-2020-15492,298218272
+BID-6,0.14285714,https://github.com/hyn0027/DualGen,hyn0027/DualGen,630908704
 BID-6,0.05000000,https://github.com/raymondzmc/Attention-Pattern-Exploitation,raymondzmc/Attention-Pattern-Exploitation,555256490
 BID-6,0.00003785,https://github.com/joocer/cve-exploit-predictor,joocer/cve-exploit-predictor,195553065
 BID-6,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
