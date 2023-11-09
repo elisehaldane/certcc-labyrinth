@@ -3,6 +3,7 @@ VU#50,1.00000000,https://github.com/IvanGalati/Exploit-Con-Metasploit,IvanGalati
 VU#50,1.00000000,https://github.com/limbo237/ML,limbo237/ML,649179818
 VU#50,1.00000000,https://github.com/paradigmer/sakurajb,paradigmer/sakurajb,371559958
 VU#50,1.00000000,https://github.com/JonathanSalwan/ROPgadget,JonathanSalwan/ROPgadget,2234715
+VU#50,0.50000000,https://github.com/mie-kali/Metasploit,mie-kali/Metasploit,716579363
 VU#50,0.50000000,https://github.com/storiku/Metasploit-Termux,storiku/Metasploit-Termux,666633301
 VU#50,0.50000000,https://github.com/Ratlesv/Metasploit-termux,Ratlesv/Metasploit-termux,653613089
 VU#50,0.50000000,https://github.com/samsepoil1211/Metasploit-in-Termux,samsepoil1211/Metasploit-in-Termux,620780803
@@ -76,7 +77,6 @@ VU#50,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/da
 VU#50,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#50,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#50,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
-VU#50,0.04166667,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 VU#50,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
 VU#50,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#50,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
@@ -273,3 +273,4 @@ VU#50,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#50,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#50,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#50,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
+VU#50,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323

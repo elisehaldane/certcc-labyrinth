@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#788,0.50000000,https://github.com/wdahlenburg/aws-native-rce,wdahlenburg/aws-native-rce,680643923
 VU#788,0.50000000,https://github.com/Z3ste/Covenant-exploit,Z3ste/Covenant-exploit,570244155
 VU#788,0.50000000,https://github.com/m8sec/EAPrimer,m8sec/EAPrimer,298064170
+VU#788,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#788,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#788,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#788,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967

@@ -26,6 +26,7 @@ MS04-045,0.07692308,https://github.com/Exploit-install/Empire,Exploit-install/Em
 MS04-045,0.07692308,https://github.com/Arno0x/DBC2,Arno0x/DBC2,76449989
 MS04-045,0.07142857,https://github.com/pattersonbr/InvokeShellcode,pattersonbr/InvokeShellcode,30663715
 MS04-045,0.06666667,https://github.com/n1nj4sec/pupy,n1nj4sec/pupy,42882329
+MS04-045,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 MS04-045,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 MS04-045,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS04-045,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
@@ -302,12 +303,13 @@ MS04-045,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/hol
 MS04-045,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS04-045,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS04-045,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
+MS04-045,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 MS04-045,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS04-045,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 MS04-045,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS04-045,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS04-045,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS04-045,0.00001128,https://github.com/trickest/cve,trickest/cve,454015416
+MS04-045,0.00001127,https://github.com/trickest/cve,trickest/cve,454015416
 MS04-045,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS04-045,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS04-045,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

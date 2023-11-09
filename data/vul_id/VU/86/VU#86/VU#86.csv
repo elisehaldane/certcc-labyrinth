@@ -21,6 +21,7 @@ VU#86,0.20000000,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattl
 VU#86,0.16666667,https://github.com/BloxSafe/Backend,BloxSafe/Backend,492896545
 VU#86,0.16666667,https://github.com/WPXSS/wordpress-malware,WPXSS/wordpress-malware,203156588
 VU#86,0.14285714,https://github.com/elefantesagradodeluzinfinita/cve-2023-38831,elefantesagradodeluzinfinita/cve-2023-38831,693647970
+VU#86,0.12500000,https://github.com/AnissaBS/CVenLigne2,AnissaBS/CVenLigne2,716653569
 VU#86,0.12500000,https://github.com/adH08/Tom-Exploit,adH08/Tom-Exploit,612382423
 VU#86,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#86,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515
@@ -66,7 +67,6 @@ VU#86,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,
 VU#86,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#86,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#86,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
-VU#86,0.04166667,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 VU#86,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#86,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#86,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
@@ -283,3 +283,4 @@ VU#86,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#86,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#86,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#86,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+VU#86,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323

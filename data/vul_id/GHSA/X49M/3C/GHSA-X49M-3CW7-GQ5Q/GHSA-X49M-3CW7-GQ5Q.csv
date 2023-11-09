@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-X49M-3CW7-GQ5Q,0.00001128,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-X49M-3CW7-GQ5Q,0.00001127,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-X49M-3CW7-GQ5Q,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

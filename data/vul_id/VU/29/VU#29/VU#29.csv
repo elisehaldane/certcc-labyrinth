@@ -165,6 +165,7 @@ VU#29,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/H
 VU#29,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
 VU#29,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 VU#29,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
+VU#29,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#29,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#29,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#29,0.05882353,https://github.com/wireghoul/sploit-dev,wireghoul/sploit-dev,5593528
@@ -190,7 +191,6 @@ VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,47
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#29,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#29,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
-VU#29,0.04166667,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 VU#29,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#29,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#29,0.04166667,https://github.com/threedr3am/learnjavabug,threedr3am/learnjavabug,132132854
@@ -537,6 +537,7 @@ VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPL
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
+VU#29,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 VU#29,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#29,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 VU#29,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
