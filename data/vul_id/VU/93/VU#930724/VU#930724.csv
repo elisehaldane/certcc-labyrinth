@@ -6,7 +6,7 @@ VU#930724,0.33333333,https://github.com/rohankumardubey/CVE-2021-44228_scanner,r
 VU#930724,0.33333333,https://github.com/CERTCC/CVE-2021-44228_scanner,CERTCC/CVE-2021-44228_scanner,438432868
 VU#930724,0.25000000,https://github.com/francescopedronomnys/OWASP-Dependency_Check-Multi_Module,francescopedronomnys/OWASP-Dependency_Check-Multi_Module,457865323
 VU#930724,0.16666667,https://github.com/topscoder/nuclei-zero-day,topscoder/nuclei-zero-day,654966268
-VU#930724,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#930724,0.00063452,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#930724,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#930724,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#930724,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

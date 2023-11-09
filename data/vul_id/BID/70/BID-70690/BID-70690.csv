@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-70690,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-70690,0.00063452,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-70690,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 BID-70690,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 BID-70690,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846

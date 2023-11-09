@@ -10,6 +10,7 @@ VU#07,0.33333333,https://github.com/amitkkumra/vis-e-rce,amitkkumra/vis-e-rce,58
 VU#07,0.33333333,https://github.com/harrychien1311/Distributed-Slice-mobility-attack-detection,harrychien1311/Distributed-Slice-mobility-attack-detection,508644126
 VU#07,0.33333333,https://github.com/thushi99/scp-client-vulnerability-exploit,thushi99/scp-client-vulnerability-exploit,456885932
 VU#07,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/generateJenkinsExploit,432525611
+VU#07,0.20000000,https://github.com/wangxb96/EODE,wangxb96/EODE,420692672
 VU#07,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
 VU#07,0.16666667,https://github.com/GalateeM/SAE_2.4_EXPLOITATION_BD,GalateeM/SAE_2.4_EXPLOITATION_BD,595492765
 VU#07,0.16666667,https://github.com/Jennahacker/zenna_rat,Jennahacker/zenna_rat,530778241
@@ -52,7 +53,6 @@ VU#07,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#07,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#07,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#07,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
-VU#07,0.03125000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#07,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#07,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#07,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
@@ -160,7 +160,7 @@ VU#07,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#07,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#07,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#07,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
-VU#07,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
+VU#07,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#07,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#07,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#07,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081

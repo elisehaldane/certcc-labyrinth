@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-C3GR-HGVR-F363,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
-GHSA-C3GR-HGVR-F363,0.00019968,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-GHSA-C3GR-HGVR-F363,0.00017422,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-C3GR-HGVR-F363,0.00019960,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+GHSA-C3GR-HGVR-F363,0.00017416,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-C3GR-HGVR-F363,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-C3GR-HGVR-F363,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 GHSA-C3GR-HGVR-F363,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
@@ -11,6 +11,6 @@ GHSA-C3GR-HGVR-F363,0.00001128,https://github.com/trickest/cve,trickest/cve,4540
 GHSA-C3GR-HGVR-F363,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 GHSA-C3GR-HGVR-F363,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 GHSA-C3GR-HGVR-F363,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-GHSA-C3GR-HGVR-F363,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-C3GR-HGVR-F363,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-C3GR-HGVR-F363,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-C3GR-HGVR-F363,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

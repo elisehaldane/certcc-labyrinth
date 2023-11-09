@@ -71,6 +71,7 @@ VU#35,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894
 VU#35,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197
 VU#35,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
 VU#35,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+VU#35,0.04000000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#35,0.04000000,https://github.com/alternation1337/exploit,alternation1337/exploit,646431266
 VU#35,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#35,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
@@ -84,7 +85,6 @@ VU#35,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,56889648
 VU#35,0.03333333,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
 VU#35,0.03333333,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#35,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
-VU#35,0.03125000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#35,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
 VU#35,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#35,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
@@ -215,7 +215,7 @@ VU#35,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#35,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#35,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#35,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
-VU#35,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
+VU#35,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#35,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#35,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#35,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
@@ -298,4 +298,4 @@ VU#35,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analys
 VU#35,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#35,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#35,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
-VU#35,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#35,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

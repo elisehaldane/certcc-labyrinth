@@ -250,13 +250,13 @@ MS12-020,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/
 MS12-020,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS12-020,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS12-020,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS12-020,0.00017422,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS12-020,0.00017416,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS12-020,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS12-020,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS12-020,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-MS12-020,0.00008630,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS12-020,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
+MS12-020,0.00008608,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS12-020,0.00006763,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS12-020,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 MS12-020,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
@@ -301,6 +301,6 @@ MS12-020,0.00000673,https://github.com/meelunae/exploitability_prediction,meelun
 MS12-020,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS12-020,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS12-020,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS12-020,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+MS12-020,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS12-020,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS12-020,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

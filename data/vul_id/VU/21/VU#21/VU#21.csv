@@ -70,6 +70,7 @@ VU#21,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599
 VU#21,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
 VU#21,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#21,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
+VU#21,0.06666667,https://github.com/WinstonShine/f23-binary-exploitation,WinstonShine/f23-binary-exploitation,697567791
 VU#21,0.06666667,https://github.com/Sx-p0t/BloxSploitsScripts,Sx-p0t/BloxSploitsScripts,576209996
 VU#21,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
@@ -114,7 +115,6 @@ VU#21,0.03333333,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poke
 VU#21,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#21,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#21,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
-VU#21,0.03125000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#21,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#21,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#21,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
@@ -319,7 +319,7 @@ VU#21,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#21,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#21,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#21,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
-VU#21,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
+VU#21,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#21,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#21,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#21,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
@@ -412,4 +412,4 @@ VU#21,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,6009
 VU#21,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 VU#21,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 VU#21,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#21,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#21,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

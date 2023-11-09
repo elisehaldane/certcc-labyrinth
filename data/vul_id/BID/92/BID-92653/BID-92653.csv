@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-92653,0.16666667,https://github.com/0xyf77/CVE-2016-4655,0xyf77/CVE-2016-4655,660916854
-BID-92653,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-92653,0.00063452,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-92653,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 BID-92653,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 BID-92653,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516

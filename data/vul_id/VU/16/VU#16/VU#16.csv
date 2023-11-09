@@ -37,7 +37,6 @@ VU#16,0.20000000,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#16,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#16,0.20000000,https://github.com/BrennenT7/AWS-Honey-Pot-Project,BrennenT7/AWS-Honey-Pot-Project,612031705
 VU#16,0.20000000,https://github.com/PabloMK7/ENLBufferPwn,PabloMK7/ENLBufferPwn,581221755
-VU#16,0.20000000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#16,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/multi_sense_learning,429338492
 VU#16,0.20000000,https://github.com/Yolnan/24678_CVE_PS6,Yolnan/24678_CVE_PS6,424596008
 VU#16,0.16666667,https://github.com/neverm0r/Kernel_exploit,neverm0r/Kernel_exploit,657582326
@@ -48,6 +47,7 @@ VU#16,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen
 VU#16,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#16,0.14285714,https://github.com/teppyboy/Generic_Exploit_Loader,teppyboy/Generic_Exploit_Loader,208081471
 VU#16,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
+VU#16,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#16,0.12500000,https://github.com/sickn3ss/exploits,sickn3ss/exploits,178699315
 VU#16,0.12500000,https://github.com/SoftFeta/tempusespatium,SoftFeta/tempusespatium,117782285
 VU#16,0.11111111,https://github.com/strobes-test/st-ExploitableApp,strobes-test/st-ExploitableApp,612678593
@@ -244,7 +244,7 @@ VU#16,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#16,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#16,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#16,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
-VU#16,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
+VU#16,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#16,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#16,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#16,0.00446429,https://github.com/pedrib/PoC,pedrib/PoC,13247147

@@ -10,7 +10,6 @@ VU#28,0.50000000,https://github.com/gggggfdsd/dominik,gggggfdsd/dominik,48175496
 VU#28,0.50000000,https://github.com/Contrast-Security-OSS/log4shell_serverless,Contrast-Security-OSS/log4shell_serverless,438642032
 VU#28,0.33333333,https://github.com/SoTraore/Web_Security_Academy,SoTraore/Web_Security_Academy,680486000
 VU#28,0.33333333,https://github.com/oselin/vmc_project,oselin/vmc_project,570469662
-VU#28,0.33333333,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#28,0.25000000,https://github.com/Zalushka/EzExploitStore,Zalushka/EzExploitStore,622470963
 VU#28,0.25000000,https://github.com/teknologi-umum/pesto,teknologi-umum/pesto,499741162
 VU#28,0.25000000,https://github.com/Edgarloyola/CVE-2021-36563,Edgarloyola/CVE-2021-36563,389955098
@@ -25,6 +24,7 @@ VU#28,0.16666667,https://github.com/mirailovers/exploits,mirailovers/exploits,47
 VU#28,0.14285714,https://github.com/oselin/drone-pose-estimation,oselin/drone-pose-estimation,510282934
 VU#28,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen/Shellcode-sols,456201869
 VU#28,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc-Cybersecurity-Thesis,426781771
+VU#28,0.14285714,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#28,0.12500000,https://github.com/wd53rc16mn412tys53our32ces/exploits,wd53rc16mn412tys53our32ces/exploits,593691424
 VU#28,0.11111111,https://github.com/nova-master/CVE-2022-21894,nova-master/CVE-2022-21894,696622822
 VU#28,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
@@ -210,7 +210,7 @@ VU#28,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glenn
 VU#28,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#28,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#28,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
-VU#28,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
+VU#28,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#28,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#28,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#28,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550

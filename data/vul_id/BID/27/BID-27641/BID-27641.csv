@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-27641,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-27641,0.00063452,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-27641,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-27641,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-27641,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
@@ -34,6 +34,6 @@ BID-27641,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,
 BID-27641,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 BID-27641,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 BID-27641,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-BID-27641,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+BID-27641,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 BID-27641,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-27641,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

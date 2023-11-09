@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-72585,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 BID-72585,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 BID-72585,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
-BID-72585,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-72585,0.00063452,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-72585,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 BID-72585,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 BID-72585,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876

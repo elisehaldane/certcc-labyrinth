@@ -25,7 +25,6 @@ VU#40,0.33333333,https://github.com/tzwlhack/CVE-2021-4034,tzwlhack/CVE-2021-403
 VU#40,0.33333333,https://github.com/Fato07/Pwnkit-exploit,Fato07/Pwnkit-exploit,452784469
 VU#40,0.33333333,https://github.com/dadvlingd/CVE-2021-4034,dadvlingd/CVE-2021-4034,452357365
 VU#40,0.33333333,https://github.com/nikaiw/CVE-2021-4034,nikaiw/CVE-2021-4034,452108706
-VU#40,0.33333333,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#40,0.25000000,https://github.com/JoshUnscripted/BrenSkid,JoshUnscripted/BrenSkid,669714807
 VU#40,0.25000000,https://github.com/cl-lw/roblox-exploit,cl-lw/roblox-exploit,609281490
 VU#40,0.25000000,https://github.com/JMWgamesOfficial/JiMscript-Roblox-Executor-v1,JMWgamesOfficial/JiMscript-Roblox-Executor-v1,608301476
@@ -46,6 +45,7 @@ VU#40,0.16666667,https://github.com/HexorHex/HexorSploit-Site,HexorHex/HexorSplo
 VU#40,0.14285714,https://github.com/aiden-wc/uncle-aidens-hub,aiden-wc/uncle-aidens-hub,660009763
 VU#40,0.14285714,https://github.com/6iKezbAD3CZnf/blockchained-ml,6iKezbAD3CZnf/blockchained-ml,562467899
 VU#40,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
+VU#40,0.14285714,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
 VU#40,0.12500000,https://github.com/wd53rc16mn412tys53our32ces/exploits,wd53rc16mn412tys53our32ces/exploits,593691424
 VU#40,0.12500000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,523104242
 VU#40,0.12500000,https://github.com/MainDabRblx/MainDabUISource,MainDabRblx/MainDabUISource,282796773
@@ -80,6 +80,7 @@ VU#40,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,3991
 VU#40,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#40,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#40,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
+VU#40,0.04000000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#40,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#40,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
 VU#40,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
@@ -272,7 +273,7 @@ VU#40,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#40,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#40,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#40,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
-VU#40,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
+VU#40,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#40,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#40,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#40,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550

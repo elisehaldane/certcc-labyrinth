@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-7H45-GRC5-89WQ,0.00001128,https://github.com/trickest/cve,trickest/cve,454015416
-GHSA-7H45-GRC5-89WQ,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-7H45-GRC5-89WQ,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

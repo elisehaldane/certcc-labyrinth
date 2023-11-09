@@ -110,7 +110,6 @@ MS16-075,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauhee
 MS16-075,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS16-075,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS16-075,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
-MS16-075,0.00049407,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS16-075,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS16-075,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS16-075,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
@@ -193,6 +192,7 @@ MS16-075,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504
 MS16-075,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS16-075,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS16-075,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS16-075,0.00004415,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS16-075,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS16-075,0.00004090,https://github.com/BMaChina/cnvd_database,BMaChina/cnvd_database,90101928
 MS16-075,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
@@ -206,6 +206,6 @@ MS16-075,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,66889
 MS16-075,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS16-075,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS16-075,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS16-075,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+MS16-075,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS16-075,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS16-075,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

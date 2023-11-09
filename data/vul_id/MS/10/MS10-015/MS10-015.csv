@@ -168,9 +168,8 @@ MS10-015,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-inst
 MS10-015,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS10-015,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS10-015,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-MS10-015,0.00063492,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS10-015,0.00063452,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS10-015,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-MS10-015,0.00049407,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS10-015,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 MS10-015,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS10-015,0.00030441,https://github.com/pwnieexpress/metasploit-framework,pwnieexpress/metasploit-framework,5058277
@@ -303,6 +302,7 @@ MS10-015,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504
 MS10-015,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS10-015,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS10-015,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+MS10-015,0.00004415,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS10-015,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS10-015,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS10-015,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
@@ -315,6 +315,6 @@ MS10-015,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS10-015,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-015,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS10-015,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS10-015,0.00000388,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+MS10-015,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS10-015,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS10-015,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

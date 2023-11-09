@@ -16,7 +16,6 @@ VU#68,0.25000000,https://github.com/evi-g/Web-Development,evi-g/Web-Development,
 VU#68,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
 VU#68,0.20000000,https://github.com/yTxZx/FastJson1.2.24_RCE_exploit,yTxZx/FastJson1.2.24_RCE_exploit,694578895
 VU#68,0.20000000,https://github.com/Yaamiin/byob,Yaamiin/byob,528793674
-VU#68,0.20000000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#68,0.20000000,https://github.com/ruchirasvmm/log4j-exploit-demo,ruchirasvmm/log4j-exploit-demo,489876123
 VU#68,0.20000000,https://github.com/scottymcandrew/exploit-labs,scottymcandrew/exploit-labs,478164772
 VU#68,0.20000000,https://github.com/HelloLyfing/log4j2-rce-202112-poc,HelloLyfing/log4j2-rce-202112-poc,442988778
@@ -57,6 +56,7 @@ VU#68,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc
 VU#68,0.14285714,https://github.com/f0rm2l1n/ExP1oiT5,f0rm2l1n/ExP1oiT5,380461713
 VU#68,0.14285714,https://github.com/teppyboy/Generic_Exploit_Loader,teppyboy/Generic_Exploit_Loader,208081471
 VU#68,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879731
+VU#68,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#68,0.11111111,https://github.com/strobes-test/st-ExploitableApp,strobes-test/st-ExploitableApp,612678593
 VU#68,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
 VU#68,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
@@ -106,7 +106,6 @@ VU#68,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,s
 VU#68,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#68,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#68,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
-VU#68,0.03125000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#68,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#68,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#68,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
@@ -235,7 +234,7 @@ VU#68,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#68,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#68,0.00456621,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#68,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
-VU#68,0.00448430,https://github.com/Aluminum-Depot/Tinf0il,Aluminum-Depot/Tinf0il,677545007
+VU#68,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#68,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#68,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#68,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
