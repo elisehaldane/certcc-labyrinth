@@ -3,14 +3,14 @@ repo_id,repo_full_name,file,file_sha1,match
 644013740,vulncheck-oss/go-exploit,examples/cve-2022-44877/cve-2022-44877.go,13f819a6b6d9c77720f5bb9e2f1abda4ca6139bb,CVE-2022-44877
 644013740,vulncheck-oss/go-exploit,docs/c2.md,279ac80c04a5794cb033985a38419f29cf9f5560,CVE-2022-44877
 644013740,vulncheck-oss/go-exploit,docs/usage-example.md,3f34f1d0eb3a04432c1a585076b8a8462b71b036,CVE-2022-44877
-644013740,vulncheck-oss/go-exploit,framework.go,5684f1fa9651ec329a22f055c2521918abac7e67,CVE-2023-1270
-644013740,vulncheck-oss/go-exploit,framework.go,5684f1fa9651ec329a22f055c2521918abac7e67,CVE-2022-30525
 644013740,vulncheck-oss/go-exploit,cli/commandline_test.go,7e28d8eeb3b3286ce2aec853253a9e1802fc4d61,CVE-2023-1270
 644013740,vulncheck-oss/go-exploit,c2/sslshell/sslshellserver.go,8367a82facef2deb7f021b49cbea48998423f140,CVE-2021-22205
+644013740,vulncheck-oss/go-exploit,framework.go,926da4f4f5d64fbae3a374cee80fbc44f8ea940a,CVE-2023-1270
+644013740,vulncheck-oss/go-exploit,framework.go,926da4f4f5d64fbae3a374cee80fbc44f8ea940a,CVE-2022-30525
 644013740,vulncheck-oss/go-exploit,docs/scanning.md,92c420c67ff2fef96797e1d0a9fdc32d1a6779b8,CVE-2023-38646
 644013740,vulncheck-oss/go-exploit,docs/scanning.md,92c420c67ff2fef96797e1d0a9fdc32d1a6779b8,CVE-2019-15107
 644013740,vulncheck-oss/go-exploit,docs/scanning.md,92c420c67ff2fef96797e1d0a9fdc32d1a6779b8,CVE-2023-32315
-644013740,vulncheck-oss/go-exploit,c2/httpserveshell/httpserveshell.go,938254dabeb4cd370d13afb0cb7642d6e17fd12b,CVE-2023-30801
+644013740,vulncheck-oss/go-exploit,c2/httpserveshell/httpserveshell.go,af52ef965c08af068cf04821b52f227194948f32,CVE-2023-30801
 644013740,vulncheck-oss/go-exploit,docs/version-checking.md,b064db5b41299ef7e988d6a18ef9118e14f34e91,CVE-2017-20149
 644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,bb3467cdcf1ed167e2fb2f13229b1cd35f3b82e5,CVE-2022-47945
 644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,bb3467cdcf1ed167e2fb2f13229b1cd35f3b82e5,CVE-2023-1270
