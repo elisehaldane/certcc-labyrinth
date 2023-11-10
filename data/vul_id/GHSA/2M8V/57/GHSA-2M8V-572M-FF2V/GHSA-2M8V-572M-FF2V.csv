@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-2M8V-572M-FF2V,0.00462963,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
+GHSA-2M8V-572M-FF2V,0.00438596,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
 GHSA-2M8V-572M-FF2V,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-2M8V-572M-FF2V,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-2M8V-572M-FF2V,0.00063452,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406

@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-99012,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 BID-99012,0.00021716,https://github.com/drizzt-do-urden-da-drow/Metasploit,drizzt-do-urden-da-drow/Metasploit,344891375
 BID-99012,0.00021701,https://github.com/kartikrajofficial0773h/metasploit-frameworks,kartikrajofficial0773h/metasploit-frameworks,346991787
 BID-99012,0.00021584,https://github.com/Evgenyslavik9/Slavik_metasploiter,Evgenyslavik9/Slavik_metasploiter,361194832
@@ -28,6 +29,7 @@ BID-99012,0.00019501,https://github.com/artyang/metasploit-framework,artyang/met
 BID-99012,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 BID-99012,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 BID-99012,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+BID-99012,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 BID-99012,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-99012,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-99012,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

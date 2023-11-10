@@ -19,7 +19,6 @@ MS10-022,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasp
 MS10-022,0.00452489,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
 MS10-022,0.00434783,https://github.com/Cisc0-gif/KITT,Cisc0-gif/KITT,201535033
 MS10-022,0.00362319,https://github.com/cys3c/viper-shell,cys3c/viper-shell,94091391
-MS10-022,0.00300300,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 MS10-022,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS10-022,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS10-022,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
@@ -67,6 +66,7 @@ MS10-022,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,1
 MS10-022,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS10-022,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
 MS10-022,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
+MS10-022,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 MS10-022,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS10-022,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 MS10-022,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
@@ -134,6 +134,7 @@ MS10-022,0.00019501,https://github.com/artyang/metasploit-framework,artyang/meta
 MS10-022,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 MS10-022,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS10-022,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS10-022,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 MS10-022,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-022,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-022,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030

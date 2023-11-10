@@ -1,2 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-8FXR-QFR9-P34W,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
+GHSA-8FXR-QFR9-P34W,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 GHSA-8FXR-QFR9-P34W,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

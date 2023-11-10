@@ -173,7 +173,6 @@ MS09-050,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/search
 MS09-050,0.00320513,https://github.com/GamehunterKaan/AutoPWN-Suite,GamehunterKaan/AutoPWN-Suite,491539517
 MS09-050,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS09-050,0.00318471,https://github.com/NS-unina/exploitdb-images,NS-unina/exploitdb-images,448787246
-MS09-050,0.00300300,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 MS09-050,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 MS09-050,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 MS09-050,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
@@ -245,6 +244,7 @@ MS09-050,0.00025253,https://github.com/porthunter/gosploit,porthunter/gosploit,1
 MS09-050,0.00025221,https://github.com/fortify24x7/metasploit-framework,fortify24x7/metasploit-framework,117659658
 MS09-050,0.00025006,https://github.com/FoxxyOS/metasploit,FoxxyOS/metasploit,131737299
 MS09-050,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
+MS09-050,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 MS09-050,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 MS09-050,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 MS09-050,0.00023872,https://github.com/simplyhippy/metasploits,simplyhippy/metasploits,149896295
@@ -304,7 +304,7 @@ MS09-050,0.00019992,https://github.com/hanzxr2020/metasploit-framework,hanzxr202
 MS09-050,0.00019992,https://github.com/Whiteh4tWolf/Metasploit,Whiteh4tWolf/Metasploit,557305563
 MS09-050,0.00019980,https://github.com/Whiteh4tWolf/Metasploit_Framework,Whiteh4tWolf/Metasploit_Framework,561392271
 MS09-050,0.00019956,https://github.com/NC1217/Metasploit,NC1217/Metasploit,567155858
-MS09-050,0.00019956,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS09-050,0.00019948,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS09-050,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 MS09-050,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 MS09-050,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
@@ -314,16 +314,17 @@ MS09-050,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933
 MS09-050,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS09-050,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS09-050,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS09-050,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 MS09-050,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS09-050,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS09-050,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS09-050,0.00017406,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS09-050,0.00017409,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS09-050,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS09-050,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS09-050,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS09-050,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
-MS09-050,0.00008606,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS09-050,0.00006762,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS09-050,0.00008602,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS09-050,0.00006759,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS09-050,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 MS09-050,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 MS09-050,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498

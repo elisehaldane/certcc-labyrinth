@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-109838,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
+OSVDB-109838,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 OSVDB-109838,0.00024027,https://github.com/mayanksomani24/metasploit,mayanksomani24/metasploit,119640123
 OSVDB-109838,0.00023998,https://github.com/Buzzkillhardball667/metasploit,Buzzkillhardball667/metasploit,120897043
 OSVDB-109838,0.00023798,https://github.com/snskiff/metasploit-framework,snskiff/metasploit-framework,126784216

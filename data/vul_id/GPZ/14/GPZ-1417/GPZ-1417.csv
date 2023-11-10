@@ -12,6 +12,7 @@ GPZ-1417,0.11111111,https://github.com/benjibobs/async_wake,benjibobs/async_wake
 GPZ-1417,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
 GPZ-1417,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 GPZ-1417,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
+GPZ-1417,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 GPZ-1417,0.00023073,https://github.com/mkdirlove/METASPLOIT-FRAMEWORK,mkdirlove/METASPLOIT-FRAMEWORK,202658385
 GPZ-1417,0.00022978,https://github.com/samba234/metasploit-framework,samba234/metasploit-framework,209766275
 GPZ-1417,0.00022920,https://github.com/komander/dan-metasploit,komander/dan-metasploit,218967281
@@ -66,6 +67,7 @@ GPZ-1417,0.00019501,https://github.com/artyang/metasploit-framework,artyang/meta
 GPZ-1417,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 GPZ-1417,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 GPZ-1417,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+GPZ-1417,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 GPZ-1417,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GPZ-1417,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 GPZ-1417,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

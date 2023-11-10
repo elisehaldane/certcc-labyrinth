@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#290915,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-5903,Live-Hack-CVE/CVE-2020-5903,594132182
 VU#290915,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-5906,Live-Hack-CVE/CVE-2020-5906,594132160
 VU#290915,0.00680272,https://github.com/doudoudedi/hackEmbedded,doudoudedi/hackEmbedded,485661878
-VU#290915,0.00462963,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
+VU#290915,0.00438596,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
 VU#290915,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 VU#290915,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#290915,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
