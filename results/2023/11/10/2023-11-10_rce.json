@@ -117,7 +117,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/hktalent\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/hktalent\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":716823319,
@@ -234,7 +235,149 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/moom825\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/moom825\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
+  },
+  {
+    "id":14139390,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNDEzOTM5MA==",
+    "name":"rcedit",
+    "full_name":"electron\/rcedit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/electron\/rcedit",
+    "description":"Command line tool to edit resources of exe",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/electron\/rcedit",
+    "forks_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/electron\/rcedit\/deployments",
+    "created_at":"2013-11-05T11:13:21Z",
+    "updated_at":"2023-11-11T16:42:20Z",
+    "pushed_at":"2023-11-10T00:45:05Z",
+    "git_url":"git:\/\/github.com\/electron\/rcedit.git",
+    "ssh_url":"git@github.com:electron\/rcedit.git",
+    "clone_url":"https:\/\/github.com\/electron\/rcedit.git",
+    "svn_url":"https:\/\/github.com\/electron\/rcedit",
+    "homepage":"",
+    "size":146,
+    "stargazers_count":1420,
+    "watchers_count":1420,
+    "language":"C++",
+    "has_issues":true,
+    "has_projects":false,
+    "has_downloads":true,
+    "has_wiki":false,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":172,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":31,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+      "c-plus-plus",
+      "rcedit",
+      "windows"
+    ],
+    "visibility":"public",
+    "forks":172,
+    "open_issues":31,
+    "watchers":1420,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":172,
+    "subscribers_count":47,
+    "matched_on":"rce pushed:2023-11-10..2023-11-11",
+    "matched_at":"2023-11-11T16:59:00Z",
+    "organization":{
+      "login":"electron",
+      "id":13409222,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjEzNDA5MjIy",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/13409222?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/electron",
+      "html_url":"https:\/\/github.com\/electron",
+      "followers_url":"https:\/\/api.github.com\/users\/electron\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/electron\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/electron\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/electron\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/electron\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/electron\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/electron\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/electron\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/electron\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"electron",
+    "owner_id":13409222,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjEzNDA5MjIy",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/13409222?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/electron",
+    "owner_html_url":"https:\/\/github.com\/electron",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/electron\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/electron\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/electron\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/electron\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/electron\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/electron\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/electron\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/electron\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/electron\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":712827804,
@@ -351,7 +494,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/W01fh4cker\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/W01fh4cker\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":706151427,
@@ -483,7 +627,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/cultureelerfgoed\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/cultureelerfgoed\/received_events",
     "owner_type":"Organization",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":714573819,
@@ -602,7 +747,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/mmezirard\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/mmezirard\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":716942456,
@@ -734,7 +880,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/TheF0rceAwak5ns\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/TheF0rceAwak5ns\/received_events",
     "owner_type":"Organization",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":716951890,
@@ -853,7 +1000,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/mmezirard\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/mmezirard\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":716979204,
@@ -966,7 +1114,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/Avento\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Avento\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":665948996,
@@ -1079,7 +1228,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/nguyenbadac0405\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nguyenbadac0405\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":273780935,
@@ -1232,7 +1382,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/nemesida-waf\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/nemesida-waf\/received_events",
     "owner_type":"Organization",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":717042048,
@@ -1345,7 +1496,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/RCEntruempelung\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/RCEntruempelung\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":668112852,
@@ -1458,7 +1610,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/RCEntruempelung\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/RCEntruempelung\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":717056969,
@@ -1571,7 +1724,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/AnonymUZ-1\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AnonymUZ-1\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":717058633,
@@ -1684,7 +1838,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/AnonymUZ-1\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/AnonymUZ-1\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":717112272,
@@ -1797,7 +1952,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/tushdawgsf\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/tushdawgsf\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":578059631,
@@ -1913,7 +2069,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/vineelsai26\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/vineelsai26\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":484556359,
@@ -2026,7 +2183,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/shauntmcgovern\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/shauntmcgovern\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   },
   {
     "id":325441245,
@@ -2139,6 +2297,7 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/lambert-chan\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/lambert-chan\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "template_repository":null
   }
 ]
