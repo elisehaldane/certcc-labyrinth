@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-694437840,instriq/exploits,scripts/CVE-2023-29489.py,2f839377511ba89c716debdae02b1b87725f289b,CVE-2023-29489
-694437840,instriq/exploits,scripts/CVE-2021-41773.py,7e06a0ddd87360664f6fe557d958bcb05cb30bae,CVE-2021-41773
-694437840,instriq/exploits,scripts/CVE-2016-10045.py,9270ac09b9e318ba82143c43d6d731814dc6e267,CVE-2016-10045
-694437840,instriq/exploits,scripts/CVE-2014-7169.py,ab863f6f97ddde7ee498180720e367ca8c47c28b,CVE-2014-6271
-694437840,instriq/exploits,scripts/CVE-2014-7169.py,ab863f6f97ddde7ee498180720e367ca8c47c28b,CVE-2014-7169
-694437840,instriq/exploits,scripts/CVE-2006-3392.py,bc31b241d58b3d8b5f10ba5e096f873717233f95,CVE-2006-3392
+694437840,instriq/exploits,scripts/CVE-2006-3392.py,27d672ba77b8a8ac56cce1a8685e5fe6e5dfcb3c,CVE-2006-3392
+694437840,instriq/exploits,scripts/CVE-2023-29489.py,2cc56dfdad6cb6af931cd38e93c3ce143defdb11,CVE-2023-29489
+694437840,instriq/exploits,scripts/CVE-2014-7169.py,370d380ab3d91184a7e72ed43d60fc6913affdf0,CVE-2014-6271
+694437840,instriq/exploits,scripts/CVE-2014-7169.py,370d380ab3d91184a7e72ed43d60fc6913affdf0,CVE-2014-7169
+694437840,instriq/exploits,scripts/CVE-2016-10045.py,69707b8275e7b0dfd93d96447ed285f24cbc7764,CVE-2016-10045
+694437840,instriq/exploits,scripts/CVE-2021-41773.py,f48ad914841e71c8d3daa7c7c6f38bb8539eb670,CVE-2021-41773
