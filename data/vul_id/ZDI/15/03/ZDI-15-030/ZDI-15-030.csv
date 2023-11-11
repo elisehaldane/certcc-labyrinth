@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-15-030,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 ZDI-15-030,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 ZDI-15-030,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-ZDI-15-030,0.00001127,https://github.com/trickest/cve,trickest/cve,454015416
+ZDI-15-030,0.00001126,https://github.com/trickest/cve,trickest/cve,454015416

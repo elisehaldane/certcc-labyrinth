@@ -2,5 +2,5 @@ match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2023-5771,0.00106838,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2023-5771,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 ZSL-2023-5771,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
-ZSL-2023-5771,0.00001127,https://github.com/trickest/cve,trickest/cve,454015416
+ZSL-2023-5771,0.00001126,https://github.com/trickest/cve,trickest/cve,454015416
 ZSL-2023-5771,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

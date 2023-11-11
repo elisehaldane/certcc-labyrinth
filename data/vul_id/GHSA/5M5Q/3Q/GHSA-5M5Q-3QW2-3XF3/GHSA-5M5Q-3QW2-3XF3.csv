@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-5M5Q-3QW2-3XF3,0.00001127,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-5M5Q-3QW2-3XF3,0.00001126,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-5M5Q-3QW2-3XF3,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-5M5Q-3QW2-3XF3,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
