@@ -42,7 +42,6 @@ VU#66,0.11111111,https://github.com/Mikalb98/AugmentedReality,Mikalb98/Augmented
 VU#66,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#66,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#66,0.10000000,https://github.com/Trap4L/SQL-Dumper,Trap4L/SQL-Dumper,649196467
-VU#66,0.09090909,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#66,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#66,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
 VU#66,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
@@ -51,6 +50,7 @@ VU#66,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omare
 VU#66,0.08333333,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#66,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-Project,519458932
 VU#66,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
+VU#66,0.07692308,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#66,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#66,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#66,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
@@ -153,6 +153,7 @@ VU#66,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime
 VU#66,0.01149425,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#66,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#66,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#66,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#66,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#66,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#66,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
@@ -281,7 +282,7 @@ VU#66,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#66,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#66,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#66,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
-VU#66,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#66,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#66,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#66,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#66,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

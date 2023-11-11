@@ -44,13 +44,13 @@ VU#38,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#38,0.11111111,https://github.com/bitdefender/hvmi,bitdefender/hvmi,283759384
 VU#38,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
 VU#38,0.09090909,https://github.com/IdanBanani/Chromium-Browser-exploitation,IdanBanani/Chromium-Browser-exploitation,696504643
-VU#38,0.09090909,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#38,0.09090909,https://github.com/IdanBanani/Browser-exploitation-Chromium,IdanBanani/Browser-exploitation-Chromium,652690272
 VU#38,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,608160332
 VU#38,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#38,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
 VU#38,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_exploits,382872016
 VU#38,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2021-27850_POC,380253996
+VU#38,0.07692308,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#38,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#38,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
 VU#38,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
@@ -167,6 +167,7 @@ VU#38,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime
 VU#38,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#38,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#38,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#38,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#38,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#38,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#38,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
@@ -305,7 +306,7 @@ VU#38,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpr
 VU#38,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#38,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#38,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
-VU#38,0.00019209,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#38,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#38,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#38,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
