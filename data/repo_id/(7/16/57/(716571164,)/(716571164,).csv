@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+716571164,aamfrk/Webmin-CVE2019-15107,README.md,0d9828de5f159ad5ed24dc4557b2226cc8a84fba,CVE-2019-15107
+716571164,aamfrk/Webmin-CVE2019-15107,cve201915107.py,8b866794f8cba3dd2c7f9339b0dac00ea9165fd7,CVE-2019-15107
