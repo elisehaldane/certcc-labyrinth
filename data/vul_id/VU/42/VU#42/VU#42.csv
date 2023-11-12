@@ -58,7 +58,6 @@ VU#42,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#42,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#42,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#42,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
-VU#42,0.04000000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#42,0.04000000,https://github.com/alternation1337/exploit,alternation1337/exploit,646431266
 VU#42,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#42,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
@@ -132,8 +131,8 @@ VU#42,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-write
 VU#42,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#42,0.01162791,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 VU#42,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
-VU#42,0.01149425,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#42,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
+VU#42,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#42,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#42,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#42,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
