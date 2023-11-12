@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-694590995,lucsemassa/linux_kernel_cves_search,cves_search.py,6566fd228a06424029209ff3e11e2e0f7c17282e,CVE-2023-27163
+694590995,lucsemassa/github_cves_search,cves_search.py,6566fd228a06424029209ff3e11e2e0f7c17282e,CVE-2023-27163
