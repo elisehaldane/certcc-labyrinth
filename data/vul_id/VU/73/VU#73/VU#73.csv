@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#73,1.00000000,https://github.com/cloudx0r/0day-Multi-Builder,cloudx0r/0day-Multi-Builder,717752616
 VU#73,1.00000000,https://github.com/AIiceR/cvexercise280722,AIiceR/cvexercise280722,518821536
 VU#73,1.00000000,https://github.com/RealChronics/Exploit-Template,RealChronics/Exploit-Template,436071477
 VU#73,0.50000000,https://github.com/dhairya7760/Stapler-Machine-Exploitation,dhairya7760/Stapler-Machine-Exploitation,655194365
@@ -270,6 +271,7 @@ VU#73,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#73,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#73,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#73,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#73,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#73,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#73,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#73,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

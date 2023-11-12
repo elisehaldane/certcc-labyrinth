@@ -55,7 +55,6 @@ VU#29,0.50000000,https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jacks
 VU#29,0.50000000,https://github.com/Ridter/cve-2020-0688,Ridter/cve-2020-0688,243416592
 VU#29,0.33333333,https://github.com/d4ba/Exploit-Guard,d4ba/Exploit-Guard,659905965
 VU#29,0.33333333,https://github.com/ShellCode-X/ShellCode-PlannerWidget-Bounty,ShellCode-X/ShellCode-PlannerWidget-Bounty,659249754
-VU#29,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#29,0.33333333,https://github.com/Virgil-UNSC/Strut2-CVE---Script,Virgil-UNSC/Strut2-CVE---Script,599982048
 VU#29,0.33333333,https://github.com/7BitsTeam/CVE-2022-23277,7BitsTeam/CVE-2022-23277,550883583
 VU#29,0.33333333,https://github.com/JadugarKalakaboola/Map.Zeroday,JadugarKalakaboola/Map.Zeroday,543234221
@@ -68,6 +67,7 @@ VU#29,0.33333333,https://github.com/AndreMaquesMachado/POC,AndreMaquesMachado/PO
 VU#29,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,400513584
 VU#29,0.33333333,https://github.com/XJMI/Skidded-Scripts,XJMI/Skidded-Scripts,294222684
 VU#29,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
+VU#29,0.25000000,https://github.com/Umair8906/DarkSploit,Umair8906/DarkSploit,717682171
 VU#29,0.25000000,https://github.com/evi-g/Web-Development,evi-g/Web-Development,692706284
 VU#29,0.25000000,https://github.com/h1bAna/exploit,h1bAna/exploit,598709439
 VU#29,0.25000000,https://github.com/darkphoenix2601/BruteSploit,darkphoenix2601/BruteSploit,469596250
@@ -530,6 +530,7 @@ VU#29,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#29,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#29,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#29,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#29,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#29,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#29,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

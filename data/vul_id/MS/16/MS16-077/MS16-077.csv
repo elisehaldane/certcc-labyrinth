@@ -5,8 +5,8 @@ MS16-077,0.11111111,https://github.com/Redshift-CyberSecurity/Exploits,Redshift-
 MS16-077,0.10000000,https://github.com/suljov/Windows-and-Active-Directory,suljov/Windows-and-Active-Directory,517062920
 MS16-077,0.08333333,https://github.com/Louzogh/CVE-2021-31800,Louzogh/CVE-2021-31800,531854393
 MS16-077,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
-MS16-077,0.05882353,https://github.com/MizaruIT/BREAKADAY,MizaruIT/BREAKADAY,601825881
-MS16-077,0.05882353,https://github.com/MizaruIT/BREAKADAY_BASH,MizaruIT/BREAKADAY_BASH,601825145
+MS16-077,0.05263158,https://github.com/MizaruIT/BREAKADAY,MizaruIT/BREAKADAY,601825881
+MS16-077,0.05263158,https://github.com/MizaruIT/BREAKADAY_BASH,MizaruIT/BREAKADAY_BASH,601825145
 MS16-077,0.02000000,https://github.com/0x727/MetasploitCoop-Backend,0x727/MetasploitCoop-Backend,397159606
 MS16-077,0.01818182,https://github.com/crake7/CTF,crake7/CTF,330795559
 MS16-077,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
@@ -109,6 +109,7 @@ MS16-077,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933
 MS16-077,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 MS16-077,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS16-077,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS16-077,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 MS16-077,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 MS16-077,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS16-077,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

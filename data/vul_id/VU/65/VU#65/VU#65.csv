@@ -5,6 +5,7 @@ VU#65,1.00000000,https://github.com/alirazamumtaz/exploit-development,alirazamum
 VU#65,0.50000000,https://github.com/zxzxz1/Exploit_nokey,zxzxz1/Exploit_nokey,478899911
 VU#65,0.33333333,https://github.com/netslutter/metasploit-framework,netslutter/metasploit-framework,474467374
 VU#65,0.33333333,https://github.com/versionxcontrol/super-payload-launcher,versionxcontrol/super-payload-launcher,343623390
+VU#65,0.25000000,https://github.com/Umair8906/DarkSploit,Umair8906/DarkSploit,717682171
 VU#65,0.25000000,https://github.com/h1bAna/exploit,h1bAna/exploit,598709439
 VU#65,0.25000000,https://github.com/trhacknon/dompdf-rce,trhacknon/dompdf-rce,567190247
 VU#65,0.25000000,https://github.com/positive-security/dompdf-rce,positive-security/dompdf-rce,469883331
@@ -25,6 +26,7 @@ VU#65,0.14285714,https://github.com/Projectrcs/XLL-Excel-Dropper,Projectrcs/XLL-
 VU#65,0.14285714,https://github.com/security-softwares/offensive_shellcode,security-softwares/offensive_shellcode,529202611
 VU#65,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
 VU#65,0.14285714,https://github.com/bvoris/bvoris,bvoris/bvoris,285267641
+VU#65,0.12500000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#65,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
 VU#65,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
 VU#65,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
@@ -370,6 +372,7 @@ VU#65,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#65,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#65,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#65,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#65,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#65,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#65,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#65,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
