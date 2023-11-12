@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+717683043,lucasrod16/exploitlens,go.sum,2c1bb4b3f5ebad12479242c1fe0d95349d29fec9,VU#61
+717683043,lucasrod16/exploitlens,README.md,dd6aa3be2424bb78a9450bb2345a76c5f9657ec7,CVE-2021-3864
+717683043,lucasrod16/exploitlens,README.md,dd6aa3be2424bb78a9450bb2345a76c5f9657ec7,CVE-2023-44487
