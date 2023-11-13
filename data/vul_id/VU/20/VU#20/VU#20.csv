@@ -21,6 +21,7 @@ VU#20,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to
 VU#20,0.25000000,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
 VU#20,0.25000000,https://github.com/ihavegoodnameiscool/joebidensploitx,ihavegoodnameiscool/joebidensploitx,658361149
 VU#20,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
+VU#20,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,717942398
 VU#20,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
 VU#20,0.20000000,https://github.com/CyberQueens/CyberQueens,CyberQueens/CyberQueens,213031590
 VU#20,0.20000000,https://github.com/wesleyit/python_safesite,wesleyit/python_safesite,184107052
@@ -67,7 +68,7 @@ VU#20,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLea
 VU#20,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#20,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#20,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
-VU#20,0.04761905,https://github.com/uclaacm/lactf-website,uclaacm/lactf-website,504959946
+VU#20,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#20,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#20,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#20,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,TyphanieD/Exploitation-donnees-massives,600216921
@@ -95,6 +96,7 @@ VU#20,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,4489
 VU#20,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#20,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#20,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
+VU#20,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
 VU#20,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#20,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#20,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073

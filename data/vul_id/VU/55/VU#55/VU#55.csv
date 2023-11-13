@@ -11,6 +11,7 @@ VU#55,0.50000000,https://github.com/GRPTheDude/Haze,GRPTheDude/Haze,668586223
 VU#55,0.50000000,https://github.com/GregBoyTyyuiss/Roblox-Exploits,GregBoyTyyuiss/Roblox-Exploits,610261084
 VU#55,0.50000000,https://github.com/EarthToAccess/EBGui,EarthToAccess/EBGui,527345498
 VU#55,0.33333333,https://github.com/uthrasri/CVE-2014-3570,uthrasri/CVE-2014-3570,715657581
+VU#55,0.33333333,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#55,0.33333333,https://github.com/Serz999/CVE-2015-3145,Serz999/CVE-2015-3145,572456828
 VU#55,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
 VU#55,0.33333333,https://github.com/yufanphombolimbu/Metasploit,yufanphombolimbu/Metasploit,512993881
@@ -23,7 +24,6 @@ VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,
 VU#55,0.25000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#55,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#55,0.25000000,https://github.com/mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,166481344
-VU#55,0.20000000,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#55,0.20000000,https://github.com/MeherP2246/Exploiting-IoT-Devices,MeherP2246/Exploiting-IoT-Devices,649909689
 VU#55,0.20000000,https://github.com/Wrigsflow/Exploit-doors,Wrigsflow/Exploit-doors,609366231
 VU#55,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
@@ -69,7 +69,7 @@ VU#55,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Jose
 VU#55,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
 VU#55,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#55,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
-VU#55,0.04761905,https://github.com/uclaacm/lactf-website,uclaacm/lactf-website,504959946
+VU#55,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#55,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#55,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#55,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333

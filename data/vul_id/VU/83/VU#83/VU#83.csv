@@ -19,7 +19,6 @@ VU#83,0.25000000,https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE,Gr
 VU#83,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#83,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#83,0.25000000,https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc,EdoardoVignati/java-deserialization-of-untrusted-data-poc,125351182
-VU#83,0.20000000,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#83,0.20000000,https://github.com/yTxZx/FastJson1.2.24_RCE_exploit,yTxZx/FastJson1.2.24_RCE_exploit,694578895
 VU#83,0.20000000,https://github.com/ruchirasvmm/log4j-exploit-demo,ruchirasvmm/log4j-exploit-demo,489876123
 VU#83,0.20000000,https://github.com/scottymcandrew/exploit-labs,scottymcandrew/exploit-labs,478164772
@@ -101,7 +100,7 @@ VU#83,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#83,0.05000000,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
 VU#83,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#83,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
-VU#83,0.04761905,https://github.com/uclaacm/lactf-website,uclaacm/lactf-website,504959946
+VU#83,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#83,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#83,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#83,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
