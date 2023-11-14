@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+707627990,Ostorlab/agent_metasploit,tests/metasploit_agent_test.py,13881cd04c32080a4b7d990f77e9381e4eec02e3,CVE-2023-40044
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/example_usage.py,33d24b214f944da6f57cae3515785ec3d4956823,BID-61287
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/example_usage.py,33d24b214f944da6f57cae3515785ec3d4956823,CVE-2013-4011
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/example_usage.py,33d24b214f944da6f57cae3515785ec3d4956823,MS17-010
