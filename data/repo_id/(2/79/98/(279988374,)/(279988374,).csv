@@ -9,8 +9,8 @@ repo_id,repo_full_name,file,file_sha1,match
 279988374,leonov-av/vulristics,vulristics_code/functions_source_vulners.py,9a1a7d986e346571c50ad0f1abf8bc62664f1f15,CVE-2020-1003
 279988374,leonov-av/vulristics,vulristics_code/functions_source_vulners.py,9a1a7d986e346571c50ad0f1abf8bc62664f1f15,CVE-2021-40450
 279988374,leonov-av/vulristics,vulristics_code/data_redefinitions.py,a9d6b66e99a3d50ff4355c9772052f2dd1b74b4a,CVE-2022-1364
-279988374,leonov-av/vulristics,README.md,be287fe09ea93a595069f546deba1facc6bdd35d,CVE-2023-29336
 279988374,leonov-av/vulristics,vulristics_code/functions_source_nvd_cve.py,bea5e452a9cbf4455b2fc232ce6d53e33db2780c,CVE-2015-5611
 279988374,leonov-av/vulristics,vulristics_code/functions_source_nvd_cve.py,bea5e452a9cbf4455b2fc232ce6d53e33db2780c,CVE-2020-1003
 279988374,leonov-av/vulristics,vulristics_code/functions_source_ms_cve.py,c3f1991abf73f145ec61d80d1541e5853c5c3000,CVE-2020-1003
 279988374,leonov-av/vulristics,vulristics_code/functions_source_ms_cve.py,c3f1991abf73f145ec61d80d1541e5853c5c3000,CVE-2022-22006
+279988374,leonov-av/vulristics,README.md,f27149f6e1ecc415e2c23a8e743e4acfe8b54cae,CVE-2023-29336
