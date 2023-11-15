@@ -59,6 +59,7 @@ VU#10,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corn
 VU#10,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
 VU#10,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
 VU#10,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3d-g0d/apache-tomcat-log4j,441536293
+VU#10,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
 VU#10,0.06666667,https://github.com/WinstonShine/f23-binary-exploitation,WinstonShine/f23-binary-exploitation,697567791
 VU#10,0.06666667,https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python,ChloeM1515/Marketing-Analysis-Project-in-Python,672221537
 VU#10,0.06666667,https://github.com/colind0pe/Java-Vulnerability-Demo,colind0pe/Java-Vulnerability-Demo,532512601
