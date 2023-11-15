@@ -89,6 +89,7 @@ VU#99,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,48
 VU#99,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#99,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#99,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
+VU#99,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#99,0.03333333,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#99,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#99,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
@@ -136,13 +137,13 @@ VU#99,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,17
 VU#99,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#99,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
 VU#99,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
-VU#99,0.01408451,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#99,0.01408451,https://github.com/dn0sar/frontal_poc,dn0sar/frontal_poc,275815738
 VU#99,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#99,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#99,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#99,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#99,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
+VU#99,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#99,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#99,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#99,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -160,7 +161,6 @@ VU#99,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#99,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#99,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#99,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
-VU#99,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#99,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#99,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#99,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
@@ -175,6 +175,7 @@ VU#99,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#99,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#99,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#99,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#99,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#99,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#99,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#99,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -232,12 +233,12 @@ VU#99,0.00406504,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,44
 VU#99,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#99,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#99,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
-VU#99,0.00390625,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
 VU#99,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#99,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#99,0.00364964,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#99,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#99,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#99,0.00328947,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
 VU#99,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#99,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#99,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856

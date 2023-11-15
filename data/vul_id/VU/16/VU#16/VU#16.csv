@@ -66,8 +66,8 @@ VU#16,0.07142857,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#16,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#16,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#16,0.06250000,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
-VU#16,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#16,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
+VU#16,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#16,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#16,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#16,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
@@ -92,7 +92,6 @@ VU#16,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#16,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
 VU#16,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#16,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
-VU#16,0.03125000,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#16,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#16,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#16,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
@@ -185,7 +184,6 @@ VU#16,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#16,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#16,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#16,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
-VU#16,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#16,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#16,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#16,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -207,6 +205,7 @@ VU#16,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#16,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#16,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#16,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#16,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#16,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#16,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#16,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426

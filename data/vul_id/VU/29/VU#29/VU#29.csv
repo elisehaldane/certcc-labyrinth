@@ -165,10 +165,10 @@ VU#29,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/H
 VU#29,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
 VU#29,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 VU#29,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
-VU#29,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#29,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#29,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#29,0.05882353,https://github.com/wireghoul/sploit-dev,wireghoul/sploit-dev,5593528
+VU#29,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#29,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#29,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#29,0.05263158,https://github.com/MzzdToT/HAC_Bored_Writing,MzzdToT/HAC_Bored_Writing,670428048
@@ -315,6 +315,7 @@ VU#29,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,23404451
 VU#29,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#29,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#29,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
+VU#29,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#29,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#29,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#29,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
@@ -330,7 +331,6 @@ VU#29,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,68
 VU#29,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#29,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#29,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
-VU#29,0.01408451,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#29,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#29,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#29,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
@@ -343,6 +343,7 @@ VU#29,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaS
 VU#29,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#29,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#29,0.01298701,https://github.com/codeyso/CodeTest,codeyso/CodeTest,465011945
+VU#29,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#29,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#29,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#29,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,660238964
@@ -363,7 +364,6 @@ VU#29,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-explo
 VU#29,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#29,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#29,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#29,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#29,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#29,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#29,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -384,6 +384,7 @@ VU#29,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploit
 VU#29,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#29,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#29,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#29,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#29,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

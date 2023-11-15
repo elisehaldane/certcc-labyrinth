@@ -186,10 +186,10 @@ MS08-067,0.07142857,https://github.com/Demuxx/nifflsploit,Demuxx/nifflsploit,978
 MS08-067,0.07142857,https://github.com/rapid7/metasploit_data_models,rapid7/metasploit_data_models,3072132
 MS08-067,0.06666667,https://github.com/noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,134124105
 MS08-067,0.06666667,https://github.com/n1nj4sec/pupy,n1nj4sec/pupy,42882329
-MS08-067,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 MS08-067,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 MS08-067,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS08-067,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
+MS08-067,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 MS08-067,0.05555556,https://github.com/paulveillard/cybersecurity-windows-exploitation,paulveillard/cybersecurity-windows-exploitation,442265373
 MS08-067,0.05555556,https://github.com/wrayjustin/unsploitable,wrayjustin/unsploitable,322999805
 MS08-067,0.05555556,https://github.com/Henrique-Miranda/thg-framework,Henrique-Miranda/thg-framework,163638862
@@ -569,7 +569,7 @@ MS08-067,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS08-067,0.00001126,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001125,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

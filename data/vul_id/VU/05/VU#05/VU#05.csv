@@ -26,6 +26,7 @@ VU#05,0.33333333,https://github.com/254nm/L2X9RebootCore,254nm/L2X9RebootCore,39
 VU#05,0.33333333,https://github.com/vandavey/DotnetCat,vandavey/DotnetCat,284355862
 VU#05,0.25000000,https://github.com/cerberauth/api-vulns-challenges,cerberauth/api-vulns-challenges,697264220
 VU#05,0.25000000,https://github.com/tucommenceapousser/CVE-2019-11932deta,tucommenceapousser/CVE-2019-11932deta,696211441
+VU#05,0.25000000,https://github.com/ryanshatch/CanvasHairCo-SecurityAssessment,ryanshatch/CanvasHairCo-SecurityAssessment,677474725
 VU#05,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#05,0.25000000,https://github.com/JitinKGoyal/RCEW-classes,JitinKGoyal/RCEW-classes,573280263
 VU#05,0.25000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitcb,559708835
@@ -139,7 +140,6 @@ VU#05,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,17
 VU#05,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#05,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#05,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
-VU#05,0.01408451,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#05,0.01408451,https://github.com/dn0sar/frontal_poc,dn0sar/frontal_poc,275815738
 VU#05,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#05,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
@@ -150,6 +150,7 @@ VU#05,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaS
 VU#05,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#05,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#05,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
+VU#05,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#05,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#05,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#05,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -169,7 +170,6 @@ VU#05,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#05,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#05,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#05,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
-VU#05,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#05,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#05,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#05,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505

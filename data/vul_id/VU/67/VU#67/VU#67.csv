@@ -55,8 +55,8 @@ VU#67,0.07142857,https://github.com/hac425xxx/heap-exploitation-in-real-world,ha
 VU#67,0.06250000,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#67,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#67,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
-VU#67,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#67,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
+VU#67,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#67,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#67,0.05555556,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#67,0.05263158,https://github.com/Szandor72/czd23-aura-experience-to-exploit,Szandor72/czd23-aura-experience-to-exploit,623942341
@@ -100,6 +100,7 @@ VU#67,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#67,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#67,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#67,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
+VU#67,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#67,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#67,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#67,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
@@ -121,6 +122,7 @@ VU#67,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_fina
 VU#67,0.01333333,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#67,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#67,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
+VU#67,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#67,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#67,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#67,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -150,6 +152,7 @@ VU#67,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#67,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#67,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#67,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#67,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#67,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#67,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#67,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025

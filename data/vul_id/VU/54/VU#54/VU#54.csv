@@ -55,6 +55,7 @@ VU#54,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,41995360
 VU#54,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#54,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#54,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
+VU#54,0.05263158,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#54,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#54,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#54,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
@@ -72,6 +73,7 @@ VU#54,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
 VU#54,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
 VU#54,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#54,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
+VU#54,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#54,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#54,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#54,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
@@ -150,7 +152,6 @@ VU#54,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#54,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#54,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#54,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
-VU#54,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#54,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#54,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#54,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213

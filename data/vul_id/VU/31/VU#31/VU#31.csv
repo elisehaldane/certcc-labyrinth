@@ -177,6 +177,7 @@ VU#31,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#31,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#31,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#31,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
+VU#31,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#31,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#31,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#31,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
@@ -212,7 +213,6 @@ VU#31,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#31,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#31,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#31,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#31,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#31,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#31,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#31,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
@@ -229,6 +229,7 @@ VU#31,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#31,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#31,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#31,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#31,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#31,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#31,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#31,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

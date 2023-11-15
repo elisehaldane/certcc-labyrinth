@@ -24,6 +24,7 @@ VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,
 VU#55,0.25000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#55,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#55,0.25000000,https://github.com/mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,166481344
+VU#55,0.20000000,https://github.com/nullsecuritynet/tools,nullsecuritynet/tools,718539137
 VU#55,0.20000000,https://github.com/MeherP2246/Exploiting-IoT-Devices,MeherP2246/Exploiting-IoT-Devices,649909689
 VU#55,0.20000000,https://github.com/Wrigsflow/Exploit-doors,Wrigsflow/Exploit-doors,609366231
 VU#55,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shell-poc-lab,476769594
@@ -90,6 +91,7 @@ VU#55,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.gi
 VU#55,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#55,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#55,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
+VU#55,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#55,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#55,0.03333333,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#55,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
@@ -202,6 +204,7 @@ VU#55,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#55,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#55,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#55,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
+VU#55,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#55,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#55,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#55,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
@@ -239,7 +242,6 @@ VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298,nidhi
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,713237477
 VU#55,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,711849783
 VU#55,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
-VU#55,0.01408451,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#55,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#55,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#55,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
@@ -247,6 +249,7 @@ VU#55,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-r
 VU#55,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#55,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
 VU#55,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
+VU#55,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#55,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#55,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#55,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630

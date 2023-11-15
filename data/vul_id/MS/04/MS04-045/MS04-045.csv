@@ -26,10 +26,10 @@ MS04-045,0.07692308,https://github.com/Exploit-install/Empire,Exploit-install/Em
 MS04-045,0.07692308,https://github.com/Arno0x/DBC2,Arno0x/DBC2,76449989
 MS04-045,0.07142857,https://github.com/pattersonbr/InvokeShellcode,pattersonbr/InvokeShellcode,30663715
 MS04-045,0.06666667,https://github.com/n1nj4sec/pupy,n1nj4sec/pupy,42882329
-MS04-045,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 MS04-045,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 MS04-045,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS04-045,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
+MS04-045,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 MS04-045,0.04545455,https://github.com/JonnyHightower/neet,JonnyHightower/neet,17711743
 MS04-045,0.03703704,https://github.com/cybervaca/Empire-test-mod,cybervaca/Empire-test-mod,116150066
 MS04-045,0.03703704,https://github.com/Hackplayers/Empire-mod-Hackplayers,Hackplayers/Empire-mod-Hackplayers,87175308
@@ -311,7 +311,7 @@ MS04-045,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,66889
 MS04-045,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS04-045,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS04-045,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS04-045,0.00001126,https://github.com/trickest/cve,trickest/cve,454015416
+MS04-045,0.00001125,https://github.com/trickest/cve,trickest/cve,454015416
 MS04-045,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS04-045,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS04-045,0.00000465,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

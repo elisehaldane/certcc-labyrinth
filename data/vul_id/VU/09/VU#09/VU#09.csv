@@ -113,6 +113,7 @@ VU#09,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt
 VU#09,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#09,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#09,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
+VU#09,0.05263158,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#09,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#09,0.05263158,https://github.com/teteco/Exploit-Suggester-Linux,teteco/Exploit-Suggester-Linux,653870619
 VU#09,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
@@ -206,7 +207,6 @@ VU#09,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-
 VU#09,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#09,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
 VU#09,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
-VU#09,0.01408451,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#09,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#09,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#09,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
@@ -220,6 +220,7 @@ VU#09,0.01333333,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_Blue
 VU#09,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#09,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#09,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
+VU#09,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#09,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#09,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#09,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -237,7 +238,6 @@ VU#09,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#09,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#09,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#09,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#09,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#09,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#09,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#09,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -255,6 +255,7 @@ VU#09,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,938088
 VU#09,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#09,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#09,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#09,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#09,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#09,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#09,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

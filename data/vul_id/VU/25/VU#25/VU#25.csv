@@ -76,9 +76,9 @@ VU#25,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtth
 VU#25,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#25,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
 VU#25,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
-VU#25,0.05882353,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#25,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#25,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
+VU#25,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#25,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#25,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
 VU#25,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
@@ -183,6 +183,7 @@ VU#25,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#25,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 VU#25,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#25,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
+VU#25,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#25,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#25,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#25,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
@@ -201,7 +202,6 @@ VU#25,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Mon
 VU#25,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
 VU#25,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#25,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
-VU#25,0.01408451,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#25,0.01408451,https://github.com/dn0sar/frontal_poc,dn0sar/frontal_poc,275815738
 VU#25,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#25,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
@@ -214,6 +214,7 @@ VU#25,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/Exp
 VU#25,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#25,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#25,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
+VU#25,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#25,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#25,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#25,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,660238964
@@ -231,7 +232,6 @@ VU#25,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#25,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#25,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#25,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
-VU#25,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#25,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#25,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#25,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870

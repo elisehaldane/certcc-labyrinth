@@ -26,6 +26,7 @@ VU#40,0.33333333,https://github.com/Fato07/Pwnkit-exploit,Fato07/Pwnkit-exploit,
 VU#40,0.33333333,https://github.com/dadvlingd/CVE-2021-4034,dadvlingd/CVE-2021-4034,452357365
 VU#40,0.33333333,https://github.com/nikaiw/CVE-2021-4034,nikaiw/CVE-2021-4034,452108706
 VU#40,0.25000000,https://github.com/JoshUnscripted/BrenSkid,JoshUnscripted/BrenSkid,669714807
+VU#40,0.25000000,https://github.com/meowhua15/CVE-2022-30190,meowhua15/CVE-2022-30190,635211834
 VU#40,0.25000000,https://github.com/cl-lw/roblox-exploit,cl-lw/roblox-exploit,609281490
 VU#40,0.25000000,https://github.com/JMWgamesOfficial/JiMscript-Roblox-Executor-v1,JMWgamesOfficial/JiMscript-Roblox-Executor-v1,608301476
 VU#40,0.25000000,https://github.com/rV4nxZ/RVXZ-Lua-Executor,rV4nxZ/RVXZ-Lua-Executor,603281476
@@ -167,6 +168,7 @@ VU#40,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,23404451
 VU#40,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#40,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#40,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
+VU#40,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#40,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#40,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#40,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
@@ -223,7 +225,6 @@ VU#40,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#40,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#40,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#40,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#40,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#40,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#40,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#40,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
@@ -237,6 +238,7 @@ VU#40,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#40,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#40,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#40,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#40,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#40,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#40,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#40,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

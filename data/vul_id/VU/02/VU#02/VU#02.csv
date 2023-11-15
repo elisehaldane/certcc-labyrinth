@@ -45,6 +45,7 @@ VU#02,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khaledna
 VU#02,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
 VU#02,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
 VU#02,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
+VU#02,0.05263158,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#02,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
 VU#02,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#02,0.05000000,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
@@ -132,7 +133,6 @@ VU#02,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/dar
 VU#02,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#02,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#02,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#02,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#02,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#02,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#02,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -149,6 +149,7 @@ VU#02,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#02,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#02,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#02,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#02,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#02,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#02,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#02,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#704,0.01063830,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#704,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#704,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#704,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
