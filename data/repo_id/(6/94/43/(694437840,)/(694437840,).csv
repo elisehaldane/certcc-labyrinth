@@ -2,6 +2,6 @@ repo_id,repo_full_name,file,file_sha1,match
 694437840,lesis-group/exploits,scripts/CVE-2023-29489.py,2d54d4d28542a9b1e4e5450e829768750a4899b3,CVE-2023-29489
 694437840,lesis-group/exploits,scripts/CVE-2006-3392.py,30c02e88c155ecc665844804d2b7d4e94ed8e767,CVE-2006-3392
 694437840,lesis-group/exploits,scripts/CVE-2021-41773.py,35b1ed2bfbfebcca9dc63b84a1bab9f6ff11b9ce,CVE-2021-41773
-694437840,lesis-group/exploits,scripts/CVE-2014-7169.py,7c52e91b4f51ee4090d4ffc49301e493d1879988,CVE-2014-6271
-694437840,lesis-group/exploits,scripts/CVE-2014-7169.py,7c52e91b4f51ee4090d4ffc49301e493d1879988,CVE-2014-7169
+694437840,lesis-group/exploits,scripts/CVE-2014-7169.py,4a1d44dabcc96300d363e2c420e58a0849142939,CVE-2014-6271
+694437840,lesis-group/exploits,scripts/CVE-2014-7169.py,4a1d44dabcc96300d363e2c420e58a0849142939,CVE-2014-7169
 694437840,lesis-group/exploits,scripts/CVE-2016-10045.py,a85c9124f45f37ccbdb2f8f5df0c32537e04ea23,CVE-2016-10045
