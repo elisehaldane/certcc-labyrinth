@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+709957829,protectai/ai-exploits,mlflow/nuclei-templates/mlflow-model-versions-lfi.yaml,02012b435b54dbdad6b4daf0087bacded17b2806,CVE-2023-1177
+709957829,protectai/ai-exploits,ray/nuclei-templates/ray-static-lfi.yaml,11588894ab65c3c1aaea6e91743c622698078653,CVE-2023-6020
+709957829,protectai/ai-exploits,mlflow/nuclei-templates/mlflow-file-write.yaml,355371d9e8d279ec8602553914ad0a72c76d8e75,CVE-2023-6018
+709957829,protectai/ai-exploits,h2o/msfmodules/h2o_pojo_import_rce.py,3b7366903130365807d65eb00b4b0d8e9da01113,CVE-2023-6018
+709957829,protectai/ai-exploits,mlflow/msfmodules/mlflow_file_write.py,5bf0ab0f39ecdd9d9c6ba0b69de5bdef353ff214,CVE-2023-6018
+709957829,protectai/ai-exploits,h2o/nuclei-templates/h2o-pojo-rce.yaml,7554bee4d9fbe3fc0a7504f32b5f5a975a27e0a7,CVE-2023-6018
+709957829,protectai/ai-exploits,h2o/msfmodules/h2o_importfiles_lfi.py,8b83e9615ce846e477390bb65c9d96643109ab17,CVE-2023-6038
+709957829,protectai/ai-exploits,ray/nuclei-templates/ray-cpuprofile-cmd-injection.yaml,9b92307b8cef4854e3c4b599d17a60bb02395a0d,CVE-2023-6019
+709957829,protectai/ai-exploits,ray/msfmodules/ray_cpuprofile_cmd_injection.py,d85201b2e219f123b3d4e3c5b915864d852fa697,CVE-2023-6019
+709957829,protectai/ai-exploits,h2o/nuclei-templates/h2o-importfiles-lfi.yaml,de39fca4d95ea043832828258e64a7f15094711f,CVE-2023-6038
+709957829,protectai/ai-exploits,ray/msfmodules/ray_lfi_static_file.py,e87c25d78fb03c6ba9b2cff4f19443e77bbe88a2,CVE-2023-6020
+709957829,protectai/ai-exploits,ray/nuclei-templates/ray-log-lfi.yaml,f86d64ed3498e3d52d00410b2fc94e77fef4bf45,CVE-2023-6021
