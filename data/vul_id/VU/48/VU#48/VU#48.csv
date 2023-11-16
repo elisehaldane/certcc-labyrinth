@@ -63,13 +63,13 @@ VU#48,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysi
 VU#48,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#48,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#48,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
-VU#48,0.05263158,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#48,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#48,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#48,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
 VU#48,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#48,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#48,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
+VU#48,0.04347826,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#48,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
 VU#48,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#48,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
@@ -161,6 +161,7 @@ VU#48,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-P
 VU#48,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#48,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#48,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#48,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#48,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#48,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#48,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
@@ -313,7 +314,7 @@ VU#48,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-re
 VU#48,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#48,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-VU#48,0.00001125,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00001124,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

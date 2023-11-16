@@ -6,13 +6,13 @@ VU#43,1.00000000,https://github.com/KevinMajano/metasploitable-2,KevinMajano/met
 VU#43,1.00000000,https://github.com/BIT-BOBH/WebvpnExploit,BIT-BOBH/WebvpnExploit,548364609
 VU#43,1.00000000,https://github.com/nguyenvukhang/hcanoe2,nguyenvukhang/hcanoe2,431508646
 VU#43,1.00000000,https://github.com/OHDSI/ArachneExecutionEngine,OHDSI/ArachneExecutionEngine,101303828
-VU#43,0.50000000,https://github.com/Hutt0n0/ActiveMqRCE,Hutt0n0/ActiveMqRCE,719020598
 VU#43,0.50000000,https://github.com/louisabricot/writeup-cve-2019-19194,louisabricot/writeup-cve-2019-19194,638485429
 VU#43,0.50000000,https://github.com/TwoTwoFixeris/Top1ExploitWinlocker,TwoTwoFixeris/Top1ExploitWinlocker,609121490
 VU#43,0.50000000,https://github.com/asparuhdamyanov/Ethernaut,asparuhdamyanov/Ethernaut,550416262
 VU#43,0.50000000,https://github.com/Neurotiv/Maki,Neurotiv/Maki,542653163
 VU#43,0.50000000,https://github.com/Xcod3bughunt3r/xsser,Xcod3bughunt3r/xsser,521932550
 VU#43,0.50000000,https://github.com/epsylon/xsser,epsylon/xsser,7184441
+VU#43,0.33333333,https://github.com/Hutt0n0/ActiveMqRCE,Hutt0n0/ActiveMqRCE,719020598
 VU#43,0.33333333,https://github.com/vulcanet/rce-jsp-status-page,vulcanet/rce-jsp-status-page,614003042
 VU#43,0.33333333,https://github.com/TheMethods/Updated-Synapse-X-Cracked-v.280-,TheMethods/Updated-Synapse-X-Cracked-v.280-,609706268
 VU#43,0.33333333,https://github.com/0xKMG/Smart-Contract-Exploits,0xKMG/Smart-Contract-Exploits,551361905
@@ -221,6 +221,7 @@ VU#43,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-P
 VU#43,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#43,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#43,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#43,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#43,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#43,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#43,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
