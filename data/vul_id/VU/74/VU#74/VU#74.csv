@@ -35,6 +35,7 @@ VU#74,0.25000000,https://github.com/0x3SC4L4T3/Apache-Log4j-POC,0x3SC4L4T3/Apach
 VU#74,0.25000000,https://github.com/notSkyFrost/RoMYSQL,notSkyFrost/RoMYSQL,437366363
 VU#74,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#74,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
+VU#74,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,719369149
 VU#74,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,717942398
 VU#74,0.20000000,https://github.com/samphoerna/EvilTwin-ESP8266,samphoerna/EvilTwin-ESP8266,670428972
 VU#74,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
@@ -75,10 +76,10 @@ VU#74,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,29
 VU#74,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#74,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-Project,519458932
 VU#74,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
-VU#74,0.07692308,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#74,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#74,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#74,0.07692308,https://github.com/pucarasec/zuthaka,pucarasec/zuthaka,311746408
+VU#74,0.07142857,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#74,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,sumitdahake23/rceomchrysalis_2023.github.io,583640756
 VU#74,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#74,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
