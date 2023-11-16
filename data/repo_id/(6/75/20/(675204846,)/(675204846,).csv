@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+675204846,VulnExpo/ExploitHunter,WordPress_plugin_SupportCandy_CVE-2023-1730_exploit.py,233dcc31287d4f61bac1f791c596b0185365c88c,CVE-2023-1730
 675204846,VulnExpo/ExploitHunter,Confluence_CVE-2023-22515_Checker.py,578adfadfa83a9a696b090caf91baa9b4a2a2697,CVE-2023-22515
 675204846,VulnExpo/ExploitHunter,Liferay_CVE-2020-7961_Exploit.py,809e0d7d7b991d91f5f236d18a12ea1ccd974083,CVE-2020-7961
 675204846,VulnExpo/ExploitHunter,citrix_CVE-2023-4966_exploit.py,948e1358492d84b81a8b83fa871b006f191f9a3c,CVE-2023-4966
