@@ -1,2 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 719381197,alicangnll/CTI_Arastirmalarim,AgentTesla_IoC/README.md,1b07f362efc2fda80af2d4f64e11971dab4a460b,CVE-2018-0802
+719381197,alicangnll/CTI_Arastirmalarim,APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#13
+719381197,alicangnll/CTI_Arastirmalarim,APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#51
+719381197,alicangnll/CTI_Arastirmalarim,APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#52
+719381197,alicangnll/CTI_Arastirmalarim,APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#56
