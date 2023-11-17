@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-707627990,Ostorlab/agent_metasploit,tests/metasploit_agent_test.py,13881cd04c32080a4b7d990f77e9381e4eec02e3,CVE-2023-40044
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/example_usage.py,33d24b214f944da6f57cae3515785ec3d4956823,BID-61287
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/example_usage.py,33d24b214f944da6f57cae3515785ec3d4956823,CVE-2013-4011
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/example_usage.py,33d24b214f944da6f57cae3515785ec3d4956823,MS17-010
@@ -10,11 +9,12 @@ repo_id,repo_full_name,file,file_sha1,match
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#67
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#65
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#41
+707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#30
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#25
-707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#29
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#90
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#16
-707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#30
+707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#29
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#92
+707627990,Ostorlab/agent_metasploit,tests/metasploit_agent_test.py,df30b4c5ff638efc4516125784e1bff3661d7d95,CVE-2023-40044
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/README.md,f77792df1777a2ae5c6bac4b1b399ede516d5da0,MS17-010
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/README.md,f77792df1777a2ae5c6bac4b1b399ede516d5da0,MS04-045
