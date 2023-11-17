@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+719281537,gkrishnan724/CVE-2021-38297,addresses.txt,0acfd6fa13b3fb897b876ff34958e9afaeba3fbc,CVE-2021-38297
+719281537,gkrishnan724/CVE-2021-38297,main2.wasm,1edce46dafadbd0e825261fa98a6abe9d0fb6709,CVE-2021-38297
 719281537,gkrishnan724/CVE-2021-38297,_GITHUB_REPO_METADATA_,,CVE-2021-38297
