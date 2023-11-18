@@ -23,6 +23,7 @@ VU#01,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/mul
 VU#01,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/TicTacToe,497334479
 VU#01,0.16666667,https://github.com/TretornESP/bec,TretornESP/bec,463613043
 VU#01,0.16666667,https://github.com/agnath18K/eXploit,agnath18K/eXploit,345155702
+VU#01,0.14285714,https://github.com/gkrishnan724/CVE-2021-38297,gkrishnan724/CVE-2021-38297,719281537
 VU#01,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#01,0.14285714,https://github.com/kenmccann/log4j-aqua-poc,kenmccann/log4j-aqua-poc,439386525
 VU#01,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
@@ -108,6 +109,8 @@ VU#01,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#01,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#01,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#01,0.02083333,https://github.com/Orange-Cyberdefense/CVE-repository,Orange-Cyberdefense/CVE-repository,244651091
+VU#01,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
+VU#01,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,720351156
 VU#01,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#01,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#01,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,608970037
@@ -196,9 +199,9 @@ VU#01,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,6360
 VU#01,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#01,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#01,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
-VU#01,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#01,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#01,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
+VU#01,0.01282051,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#01,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,660238964
 VU#01,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#01,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086

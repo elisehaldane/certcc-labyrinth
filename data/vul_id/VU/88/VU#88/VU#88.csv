@@ -5,7 +5,6 @@ VU#88,0.50000000,https://github.com/DoQuangPhu/HEAP_EXPLOIT,DoQuangPhu/HEAP_EXPL
 VU#88,0.50000000,https://github.com/erensatir/Commander,erensatir/Commander,592115833
 VU#88,0.50000000,https://github.com/HNT8/WeAreDevs-Exploit,HNT8/WeAreDevs-Exploit,502211738
 VU#88,0.50000000,https://github.com/entropyQueen/log4shell_malwares,entropyQueen/log4shell_malwares,439839303
-VU#88,0.33333333,https://github.com/Tris0n/dynamic-linq-injection-to-rce,Tris0n/dynamic-linq-injection-to-rce,720307928
 VU#88,0.33333333,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#88,0.33333333,https://github.com/C1ph3rX13/CVE-2023-42442,C1ph3rX13/CVE-2023-42442,707591805
 VU#88,0.33333333,https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT,n2x4/Feb2023-CVE-2021-21974-OSINT,597541159
@@ -17,6 +16,7 @@ VU#88,0.33333333,https://github.com/bobbyjameswilliams/Secret-Agent-PWA,bobbyjam
 VU#88,0.33333333,https://github.com/podsdev/ratExploiter,podsdev/ratExploiter,504743780
 VU#88,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
 VU#88,0.33333333,https://github.com/sakib570/CVE-2018-1263-Demo,sakib570/CVE-2018-1263-Demo,468735837
+VU#88,0.25000000,https://github.com/Tris0n/CVE-2023-32571-POC,Tris0n/CVE-2023-32571-POC,720307928
 VU#88,0.25000000,https://github.com/MXTHL3/exploitation-BD,MXTHL3/exploitation-BD,617464289
 VU#88,0.25000000,https://github.com/gotr00t0day/Gsec,gotr00t0day/Gsec,514873078
 VU#88,0.25000000,https://github.com/pxiangxiang/CNVD-2022-10270-LPE-go,pxiangxiang/CNVD-2022-10270-LPE-go,473859056
@@ -139,6 +139,8 @@ VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#88,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#88,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#88,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
+VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
+VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,720351156
 VU#88,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,608970037
 VU#88,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
@@ -234,8 +236,8 @@ VU#88,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,62857001
 VU#88,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#88,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#88,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
-VU#88,0.01298701,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#88,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
+VU#88,0.01282051,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#88,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#88,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#88,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
