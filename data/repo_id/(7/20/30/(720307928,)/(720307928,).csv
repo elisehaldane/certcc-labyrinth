@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+720307928,Tris0n/dynamic-linq-injection-to-rce,DynamicLinqToRce/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll,1046bc3233a109a43026e5a6c3c28e72fcfbb8f8,VU#861
+720307928,Tris0n/dynamic-linq-injection-to-rce,DynamicLinqToRce/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll,1046bc3233a109a43026e5a6c3c28e72fcfbb8f8,VU#88
+720307928,Tris0n/dynamic-linq-injection-to-rce,README.md,5f252282c094d8d8a38f5e0d2747939534bbd3fe,CVE-2023-32571
