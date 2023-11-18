@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 719381197,alicangnll/CTI_Arastirmalarim,AgentTesla_IoC/README.md,1b07f362efc2fda80af2d4f64e11971dab4a460b,CVE-2018-0802
+719381197,alicangnll/CTI_Arastirmalarim,Rhysida_IoC/FBI_Rhysida_Report.pdf,66a6db6ef9a80761e30745e86d65ff711cb99956,CVE-2020-1472
 719381197,alicangnll/CTI_Arastirmalarim,APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#13
 719381197,alicangnll/CTI_Arastirmalarim,APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#51
 719381197,alicangnll/CTI_Arastirmalarim,APT34_IoC/word_inside.txt,af3ac64339fe4c72d691633c3febc2ebe19faa78,VU#52
