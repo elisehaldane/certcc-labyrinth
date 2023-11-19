@@ -1,12 +1,12 @@
 
 # Summary for results/2023/11/18
     
-99 records found after deduplication
+101 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-11-18 01:56:36+00:00 | 985305 | 31644 | Ruby | 13605 | [] |
-| Ivan1ee/.NET4Loader | .NET实现的shellcode加载器大集合，不断更新中 | https://github.com/Ivan1ee/.NET4Loader | ['shellcode'] | 1 | 2023-11-18 06:57:50+00:00 | 2 | 5 | | 0 | [] |
+| ysanatomic/io_uring_LPE-CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2023-11-18 22:54:27+00:00 | 17 | 9 | C | 0 | ['CVE-2023-2598'] |
 | FrancescoCatani/mal-builder | mal-builder is a tool that help you on create a shellcode runner file given a template code in input | https://github.com/FrancescoCatani/mal-builder | ['shellcode'] | 1 | 2023-11-18 06:32:35+00:00 | 5 | 0 | Python | 0 | [] |
 | Tris0n/CVE-2023-32571-POC | None | https://github.com/Tris0n/CVE-2023-32571-POC | ['cve poc', 'cve-2 OR cve_2', 'rce'] | 3 | 2023-11-18 06:20:34+00:00 | 1312 | 4 | C# | 1 | ['CVE-2023-32571'] |
 | gatsby2003/Struts2-046 | CVE POC | https://github.com/gatsby2003/Struts2-046 | ['cve poc'] | 1 | 2023-11-18 03:50:06+00:00 | 106 | 0 | | 0 | [] |
@@ -17,8 +17,8 @@
 | thealper2/scikit-sploit | nan | https://github.com/thealper2/scikit-sploit | ['sploit'] | 1 | 2023-11-18 19:59:57+00:00 | 9 | 0 | Python | 0 | [] |
 | toxicmouse7/exploit-scanner | None | https://github.com/toxicmouse7/exploit-scanner | ['exploit'] | 1 | 2023-11-18 04:15:44+00:00 | 2 | 0 | Python | 0 | [] |
 | xcanwin/CVE-2023-4357-Chrome-XXE | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-11-18 13:03:52+00:00 | 53 | 9 | HTML | 2 | ['CVE-2023-4357'] |
-| ysanatomic/io_uring_LPE-CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2023-11-18 22:54:27+00:00 | 17 | 9 | C | 0 | ['CVE-2023-2598'] |
 | beneggen2/Microsoft-exploits- | None | https://github.com/beneggen2/Microsoft-exploits- | ['exploit'] | 1 | 2023-11-18 00:28:15+00:00 | 9 | 0 | JavaScript | 0 | [] |
+| Narutasku/DLLSyringe-Injector-V2-Valorant-Warzone-Rust-Apex-Legends | Injection methods LoadLibraryExW LdrLoadDll LdrpLoadDll LdrpLoadDllInternal ManualMapping Shellcode execution methods NtCreateThreadEx Thread hijacking SetWindowsHookEx QueueUserAPC KernelCallback FakeVEH Manual mapping features: Section mapping Base reloc | https://github.com/Narutasku/DLLSyringe-Injector-V2-Valorant-Warzone-Rust-Apex-Legends | ['shellcode'] | 1 | 2023-11-18 04:54:49+00:00 | 2216 | 0 | C++ | 1 | [] |
 | ChefYeshpal/ShellCode | code made from my shell terminal | https://github.com/ChefYeshpal/ShellCode | ['shellcode'] | 1 | 2023-11-18 02:25:20+00:00 | 16 | 0 | Shell | 0 | [] |
 | alicangnll/CTI_Arastirmalarim | CTI (Cyber Thread Intelligence) Araştırmalarım #StopRansomware | https://github.com/alicangnll/CTI_Arastirmalarim | ['exploit'] | 1 | 2023-11-18 01:51:17+00:00 | 5039 | 2 | | 0 | [] |
 | gkrishnan724/CVE-2021-38297 | Working in Progress POC for CVE2021-38297 | https://github.com/gkrishnan724/CVE-2021-38297 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-11-18 07:46:45+00:00 | 17465 | 0 | WebAssembly | 0 | ['CVE-2021-38297'] |
@@ -28,9 +28,10 @@
 | vulsio/vuls-data-raw-exploit-exploitdb | None | https://github.com/vulsio/vuls-data-raw-exploit-exploitdb | ['exploit'] | 1 | 2023-11-18 12:04:20+00:00 | 30308 | 0 | | 0 | [] |
 | ashen-cloud/injeneer | RCE payload scanner/injector | https://github.com/ashen-cloud/injeneer | ['rce'] | 1 | 2023-11-18 13:22:08+00:00 | 12 | 0 | Python | 0 | [] |
 | Aneesh-Satla/Linux-Kernel-Exploitation-Suggester | None | https://github.com/Aneesh-Satla/Linux-Kernel-Exploitation-Suggester | ['exploit'] | 1 | 2023-11-18 03:45:33+00:00 | 28 | 0 | Perl | 0 | [] |
+| TAplutos/autosploit | Automating metasploit | https://github.com/TAplutos/autosploit | ['metasploit module OR payload'] | 1 | 2023-11-18 04:26:45+00:00 | 679 | 0 | Python | 0 | [] |
 | wshinkle/CVE-2023-2982 | None | https://github.com/wshinkle/CVE-2023-2982 | ['cve-2 OR cve_2'] | 1 | 2023-11-18 06:44:41+00:00 | 1 | 0 | Python | 0 | ['CVE-2023-2982'] |
+| Ivan1ee/.NET4Loader | .NET实现的shellcode加载器大集合，不断更新中 | https://github.com/Ivan1ee/.NET4Loader | ['shellcode'] | 1 | 2023-11-18 06:57:50+00:00 | 2 | 5 | | 0 | [] |
 | Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20338 | None | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20338 | ['cve-2 OR cve_2'] | 1 | 2023-11-18 07:44:41+00:00 | 0 | 0 | | 0 | ['CVE-2022-20338'] |
-| actuator/Android-Security-Exploits-YouTube-Curriculum | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | ['exploit'] | 1 | 2023-11-18 16:52:58+00:00 | 13 | 275 | | 20 | [] |
 | Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_ | None | https://github.com/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_ | ['cve-2 OR cve_2'] | 1 | 2023-11-18 07:50:57+00:00 | 0 | 0 | | 0 | ['CVE-2023-21109'] |
 | codingcore12/SILENT-DOC-EXPLOIT-CLEAN-vr | None | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-vr | ['exploit'] | 1 | 2023-11-18 23:39:57+00:00 | 1 | 1 | | 0 | [] |
 | codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vr | None | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vr | ['exploit'] | 1 | 2023-11-18 23:39:13+00:00 | 1 | 1 | | 0 | [] |
@@ -53,10 +54,11 @@
 | nyawox/nix-switch-boot | simple switch payload injector module for nixos | https://github.com/nyawox/nix-switch-boot | ['exploit'] | 1 | 2023-11-18 10:13:55+00:00 | 3 | 1 | Nix | 0 | [] |
 | Gh0stl0ad/Naya-Loader | The best python shellcode loader | https://github.com/Gh0stl0ad/Naya-Loader | ['shellcode'] | 1 | 2023-11-18 08:24:45+00:00 | 3 | 0 | | 0 | [] |
 | Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109 | None | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109 | ['cve-2 OR cve_2'] | 1 | 2023-11-18 11:41:40+00:00 | 673937 | 0 | Java | 0 | ['CVE-2023-21109'] |
-| TAplutos/autosploit | Automating metasploit | https://github.com/TAplutos/autosploit | ['metasploit module OR payload'] | 1 | 2023-11-18 04:26:45+00:00 | 679 | 0 | Python | 0 | [] |
-| Narutasku/DLLSyringe-Injector-V2-Valorant-Warzone-Rust-Apex-Legends | Injection methods LoadLibraryExW LdrLoadDll LdrpLoadDll LdrpLoadDllInternal ManualMapping Shellcode execution methods NtCreateThreadEx Thread hijacking SetWindowsHookEx QueueUserAPC KernelCallback FakeVEH Manual mapping features: Section mapping Base reloc | https://github.com/Narutasku/DLLSyringe-Injector-V2-Valorant-Warzone-Rust-Apex-Legends | ['shellcode'] | 1 | 2023-11-18 04:54:49+00:00 | 2216 | 0 | C++ | 1 | [] |
+| actuator/Android-Security-Exploits-YouTube-Curriculum | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | ['exploit'] | 1 | 2023-11-18 16:52:58+00:00 | 13 | 275 | | 20 | [] |
+| StanyslavMarek/exploit-one-to-one-solutions | создан | https://github.com/StanyslavMarek/exploit-one-to-one-solutions | ['exploit'] | 1 | 2023-11-18 15:15:23+00:00 | 18 | 0 | Python | 0 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2023-11-18 01:04:55+00:00 | 1073 | 224 | Julia | 37 | [] |
-| SolarDebris/aegis | Automatic Exploitation Generator created with binaryninja, ROPgadget, pwntools, and angr | https://github.com/SolarDebris/aegis | ['exploit'] | 1 | 2023-11-18 19:22:56+00:00 | 6323 | 3 | Python | 2 | [] |
+| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-11-18 04:19:31+00:00 | 3005 | 171 | Python | 14 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-11-18 04:34:47+00:00 | 144854 | 142 | Go | 38 | [] |
 | hktalent/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/hktalent/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2023-11-18 00:10:09+00:00 | 850 | 592 | Shell | 114 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2023-11-18 00:10:26+00:00 | 4889 | 0 | | 1 | [] |
 | ujjwal-kr/system-programming-roadmap | A roadmap to teach myself compiler dev, malware reverse engineering, exploitation and kernel dev fundamentals | https://github.com/ujjwal-kr/system-programming-roadmap | ['exploit'] | 1 | 2023-11-18 20:04:25+00:00 | 79 | 174 | | 26 | [] |
@@ -66,8 +68,8 @@
 | FDlucifer/Proxy-Attackchain | Proxylogon & Proxyshell & Proxyoracle & Proxytoken & All exchange server history vulns summarization :) | https://github.com/FDlucifer/Proxy-Attackchain | ['exploit'] | 1 | 2023-11-18 08:13:11+00:00 | 262386 | 423 | C# | 88 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2023-11-18 18:10:12+00:00 | 11051 | 25 | HTML | 6 | [] |
 | FatCyclone/D-Pwn | D/Invoke standalone shellcode runners | https://github.com/FatCyclone/D-Pwn | ['shellcode'] | 1 | 2023-11-18 05:41:16+00:00 | 41 | 33 | C# | 9 | [] |
-| gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-11-18 04:19:31+00:00 | 3005 | 171 | Python | 14 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-11-18 01:16:12+00:00 | 2563 | 233 | HTML | 17 | [] |
+| prox11/CTF-Writeups | None | https://github.com/prox11/CTF-Writeups | ['exploit'] | 1 | 2023-11-18 23:18:51+00:00 | 8744 | 1 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-11-18 04:03:33+00:00 | 434231 | 757 | Python | 182 | [] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2023-11-18 19:44:06+00:00 | 65675 | 485 | HTML | 174 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-11-18 04:07:33+00:00 | 1106910 | 89 | | 32 | [] |
@@ -78,9 +80,9 @@
 | rosvik/cve.248.no | Frontend for cve.248.no, a CVE lookup service | https://github.com/rosvik/cve.248.no | ['cve-2 OR cve_2'] | 1 | 2023-11-18 15:41:26+00:00 | 522 | 1 | TypeScript | 0 | [] |
 | neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2023-11-18 01:43:32+00:00 | 1361 | 1 | HTML | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-11-18 04:31:37+00:00 | 619704 | 363 | REXX | 38 | [] |
-| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2023-11-18 04:34:47+00:00 | 144854 | 142 | Go | 38 | [] |
+| edoardottt/awesome-hacker-search-engines | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2023-11-18 19:04:48+00:00 | 374 | 6105 | Shell | 566 | [] |
+| SolarDebris/aegis | Automatic Exploitation Generator created with binaryninja, ROPgadget, pwntools, and angr | https://github.com/SolarDebris/aegis | ['exploit'] | 1 | 2023-11-18 19:22:56+00:00 | 6323 | 3 | Python | 2 | [] |
 | 3kh0/ext-remover | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | ['exploit'] | 1 | 2023-11-18 15:06:22+00:00 | 249 | 288 | HTML | 301 | [] |
-| StanyslavMarek/exploit-one-to-one-solutions | создан | https://github.com/StanyslavMarek/exploit-one-to-one-solutions | ['exploit'] | 1 | 2023-11-18 15:15:23+00:00 | 18 | 0 | Python | 0 | [] |
 | ceo21ckim/BERT-E2E-ABSA-Pytorch | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (EMNLP'19) | https://github.com/ceo21ckim/BERT-E2E-ABSA-Pytorch | ['exploit'] | 1 | 2023-11-18 03:27:39+00:00 | 11890 | 2 | Python | 1 | [] |
 | cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2023-11-18 05:02:07+00:00 | 59598 | 0 | Python | 0 | [] |
 | paciente23256/webxploit | Metasploit auto auxiliary script for Web Applications | https://github.com/paciente23256/webxploit | ['metasploit module OR payload'] | 1 | 2023-11-18 19:28:31+00:00 | 30 | 0 | Python | 0 | [] |
