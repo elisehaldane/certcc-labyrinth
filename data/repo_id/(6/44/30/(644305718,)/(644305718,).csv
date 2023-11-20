@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+644305718,ctrsploit/sploit-spec,example/xsploit/pkg/vul/cve_2099_9999.go,19f8f30a40d98ecc620143c08cc2bdb35cc8ae9a,CVE-2099-9999
+644305718,ctrsploit/sploit-spec,example/xsploit/cmd/xsploit/checksec/auto.go,ae324aaa4d21e1ce27410a142d523e879692b0e2,CVE-2099-9999
