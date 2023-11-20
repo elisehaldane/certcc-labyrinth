@@ -23,7 +23,7 @@ VU#58,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-R
 VU#58,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
 VU#58,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#58,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
-VU#58,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
+VU#58,0.50000000,https://github.com/hansmach1ne/LFImap,hansmach1ne/LFImap,342459650
 VU#58,0.50000000,https://github.com/aegoe/MAB,aegoe/MAB,279114707
 VU#58,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#58,0.33333333,https://github.com/w31rdr4v3n/Web-Exploitation,w31rdr4v3n/Web-Exploitation,689609059
@@ -32,7 +32,7 @@ VU#58,0.33333333,https://github.com/fxpgunz/gunz-1.0,fxpgunz/gunz-1.0,486681354
 VU#58,0.33333333,https://github.com/Silence-Talk/BinaryExploitation,Silence-Talk/BinaryExploitation,485233669
 VU#58,0.33333333,https://github.com/ValdesChe/laravel-vulnerable-app_poc,ValdesChe/laravel-vulnerable-app_poc,474957366
 VU#58,0.33333333,https://github.com/codin-stuffs/cihna-dictatorshrip,codin-stuffs/cihna-dictatorshrip,456507653
-VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorhsip-6,cirosantilli/china-dictatorhsip-6,397523094
+VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorhsip-7,cirosantilli/china-dictatorhsip-7,397523094
 VU#58,0.33333333,https://github.com/cheezcharmer/chinese-dictatorship,cheezcharmer/chinese-dictatorship,393679755
 VU#58,0.33333333,https://github.com/sketchyboi14/PhoneSploitGui,sketchyboi14/PhoneSploitGui,309204881
 VU#58,0.33333333,https://github.com/acecilia/OpenWRTInvasion,acecilia/OpenWRTInvasion,248380503
@@ -89,6 +89,7 @@ VU#58,0.04545455,https://github.com/ianis17/exploitation_donnees_massives,ianis1
 VU#58,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#58,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#58,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
+VU#58,0.04347826,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#58,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
 VU#58,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
 VU#58,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
@@ -233,6 +234,7 @@ VU#58,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,53698180
 VU#58,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#58,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
 VU#58,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#58,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
 VU#58,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#58,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#58,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209

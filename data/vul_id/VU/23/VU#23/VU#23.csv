@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#23,1.00000000,https://github.com/DanisyEisyraf/Vulnerability-Attacks,DanisyEisyraf/Vulnerability-Attacks,652877446
 VU#23,1.00000000,https://github.com/jity16/BEE,jity16/BEE,650042183
-VU#23,1.00000000,https://github.com/JoshGamesMore/Roblox-Exploit-Open-Source,JoshGamesMore/Roblox-Exploit-Open-Source,553967050
+VU#23,1.00000000,https://github.com/JoshUnscripted/Roblox-Exploit-Open-Source,JoshUnscripted/Roblox-Exploit-Open-Source,553967050
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
 VU#23,0.50000000,https://github.com/PABLEXWorld/ScreenFX,PABLEXWorld/ScreenFX,692646307
 VU#23,0.50000000,https://github.com/abhijeet-000/ZERODAY_A,abhijeet-000/ZERODAY_A,663438550
@@ -14,7 +14,7 @@ VU#23,0.50000000,https://github.com/Rich-dotcom/PhoneSploit,Rich-dotcom/PhoneSpl
 VU#23,0.50000000,https://github.com/trhacknon/PhoneSploit,trhacknon/PhoneSploit,492448072
 VU#23,0.50000000,https://github.com/soryecker/PhoneSploitSor,soryecker/PhoneSploitSor,339217912
 VU#23,0.50000000,https://github.com/mishab-ka/PhoneSploit,mishab-ka/PhoneSploit,287889360
-VU#23,0.50000000,https://github.com/prbhtkumr/PhoneSploit,prbhtkumr/PhoneSploit,259933740
+VU#23,0.50000000,https://github.com/aerosol-can/PhoneSploit,aerosol-can/PhoneSploit,259933740
 VU#23,0.33333333,https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,641923077
 VU#23,0.33333333,https://github.com/Yasmineoueslati/Jalon_1_NLP,Yasmineoueslati/Jalon_1_NLP,554212123
 VU#23,0.33333333,https://github.com/XzreyaX/NefesSploit,XzreyaX/NefesSploit,486716137
@@ -272,6 +272,7 @@ VU#23,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,
 VU#23,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#23,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#23,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
+VU#23,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
 VU#23,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#23,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#23,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
