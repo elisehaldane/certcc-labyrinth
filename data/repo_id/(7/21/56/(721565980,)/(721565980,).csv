@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+721565980,Luwak-IoT-Security/CVEs,database/CVE-2023-38829/README.md,03597b2cf30b66497ed3a6f6d1251c24ad30fa0c,CVE-2023-38829
+721565980,Luwak-IoT-Security/CVEs,README.md,921b58641024d6a907f2bbda63dc6ea33295d735,CVE-2023-38829
