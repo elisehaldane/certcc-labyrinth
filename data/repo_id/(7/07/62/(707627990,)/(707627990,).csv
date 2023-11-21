@@ -15,6 +15,6 @@ repo_id,repo_full_name,file,file_sha1,match
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#16
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#29
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/tests/Invoke-Mimikatz.ps1,ca59f1daafbf4eb1206457d2e3970b24fa5ee1d7,VU#92
-707627990,Ostorlab/agent_metasploit,tests/metasploit_agent_test.py,df30b4c5ff638efc4516125784e1bff3661d7d95,CVE-2023-40044
+707627990,Ostorlab/agent_metasploit,tests/metasploit_agent_test.py,d6cec8d7fd9d5571c69c54581a7ab928bb87434e,CVE-2023-40044
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/README.md,f77792df1777a2ae5c6bac4b1b399ede516d5da0,MS17-010
 707627990,Ostorlab/agent_metasploit,tools/pymetasploit3/README.md,f77792df1777a2ae5c6bac4b1b399ede516d5da0,MS04-045
