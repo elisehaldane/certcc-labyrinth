@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,00712897fe31379bc052a641841354bc73f7b11a,CVE-2021-41773
 568456034,hideckies/exploit-notes,src/exploit/web/security-risk/Directory-Traversal.md,00712897fe31379bc052a641841354bc73f7b11a,CVE-2021-42013
-568456034,hideckies/exploit-notes,src/exploit/database/InfluxDB-Pentesting.md,053a07b63ff755e10a121abd7ae25e2a7ae1e81c,CVE-2019-20933
+568456034,hideckies/exploit-notes,src/exploit/database/influxdb-pentesting.md,053a07b63ff755e10a121abd7ae25e2a7ae1e81c,CVE-2019-20933
 568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,GHSA-C469-P3JP-2VHX
 568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,CVE-2021-32798
 568456034,hideckies/exploit-notes,src/exploit/machine-learning/Jupyter-Notebook-Pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,CVE-2021-32797
@@ -20,7 +20,7 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/Atlassian-Confluence-Pentesting.md,608ef9246a34c5776c6bfb73d40a6bf2a81d5468,CVE-2022-26134
 568456034,hideckies/exploit-notes,src/exploit/windows/protocol/WinRM-Pentesting.md,620b377e7a6c485c777db0b8d5a1284bfb684b39,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudo-Exiftool-Privilege-Escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
-568456034,hideckies/exploit-notes,src/exploit/database/PostgreSQL-Pentesting.md,6b36a05e466858e526ae8a2436e123b2a3757340,CVE-2019-9193
+568456034,hideckies/exploit-notes,src/exploit/database/postgresql-pentesting.md,6b36a05e466858e526ae8a2436e123b2a3757340,CVE-2019-9193
 568456034,hideckies/exploit-notes,src/exploit/web/Cacti-Pentesting.md,70ae131b4297ad8fd63cff005d3d56a21639d1c1,CVE-2022-46169
 568456034,hideckies/exploit-notes,src/exploit/web/Icinga-Web-Pentesting.md,7371c1f2728f3a42f40033e5b8d1a29c55f162b9,CVE-2022-24716
 568456034,hideckies/exploit-notes,src/exploit/web/Icinga-Web-Pentesting.md,7371c1f2728f3a42f40033e5b8d1a29c55f162b9,CVE-2022-24715
