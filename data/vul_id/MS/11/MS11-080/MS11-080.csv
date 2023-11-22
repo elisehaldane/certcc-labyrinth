@@ -184,7 +184,7 @@ MS11-080,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-inst
 MS11-080,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS11-080,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS11-080,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-MS11-080,0.00062972,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS11-080,0.00062933,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS11-080,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS11-080,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 MS11-080,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
@@ -195,6 +195,7 @@ MS11-080,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf
 MS11-080,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS11-080,0.00030441,https://github.com/pwnieexpress/metasploit-framework,pwnieexpress/metasploit-framework,5058277
 MS11-080,0.00029516,https://github.com/alex-metasploit/metasploit-clone,alex-metasploit/metasploit-clone,25959480
+MS11-080,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS11-080,0.00027855,https://github.com/PleXone2019/metasploit-framework,PleXone2019/metasploit-framework,229856846
 MS11-080,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS11-080,0.00027042,https://github.com/fozavci/metasploit-framework-with-viproy,fozavci/metasploit-framework-with-viproy,40165426
