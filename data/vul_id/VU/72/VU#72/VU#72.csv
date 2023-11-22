@@ -6,6 +6,7 @@ VU#72,0.50000000,https://github.com/yubhyper/Exploit-Installer,yubhyper/Exploit-
 VU#72,0.50000000,https://github.com/darkseid-security/LFI,darkseid-security/LFI,485269737
 VU#72,0.50000000,https://github.com/TheMagicalBlob/Blobs-Payload-Sender,TheMagicalBlob/Blobs-Payload-Sender,440192514
 VU#72,0.50000000,https://github.com/Panagiotis-Zachos/Ma_et_al_2017_code,Panagiotis-Zachos/Ma_et_al_2017_code,416763757
+VU#72,0.33333333,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
 VU#72,0.33333333,https://github.com/Deepak983/CVE-2020-19587,Deepak983/CVE-2020-19587,530599295
 VU#72,0.33333333,https://github.com/Deepak983/CVE-2020-19586,Deepak983/CVE-2020-19586,530596542
 VU#72,0.33333333,https://github.com/shatternox/Forest-Fire,shatternox/Forest-Fire,520567378
@@ -18,7 +19,6 @@ VU#72,0.33333333,https://github.com/x1official/TestSploit-X,x1official/TestSploi
 VU#72,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/RobloxExploitSample,426473019
 VU#72,0.33333333,https://github.com/Cloud9Man/Exploits,Cloud9Man/Exploits,364812702
 VU#72,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
-VU#72,0.25000000,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
 VU#72,0.25000000,https://github.com/jupyter-naas/FEC-engine,jupyter-naas/FEC-engine,621218657
 VU#72,0.25000000,https://github.com/yosef0x01/CVE-2023-0669-Analysis,yosef0x01/CVE-2023-0669-Analysis,606615026
 VU#72,0.25000000,https://github.com/EstebanBiret/SAE-S2.04,EstebanBiret/SAE-S2.04,597691937
@@ -27,6 +27,7 @@ VU#72,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
 VU#72,0.20000000,https://github.com/MeherP2246/Exploiting-IoT-Devices,MeherP2246/Exploiting-IoT-Devices,649909689
 VU#72,0.20000000,https://github.com/EMSeek/log4poc,EMSeek/log4poc,438532480
 VU#72,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/multi_sense_learning,429338492
+VU#72,0.16666667,https://github.com/crowdbotics-dev/tst-tc489-rcetolss-130561,crowdbotics-dev/tst-tc489-rcetolss-130561,722124596
 VU#72,0.16666667,https://github.com/Evan-Zhangyf/CVE-2023-45158,Evan-Zhangyf/CVE-2023-45158,714422608
 VU#72,0.16666667,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#72,0.16666667,https://github.com/DhurimHalili/Scripts,DhurimHalili/Scripts,559495813
@@ -69,8 +70,8 @@ VU#72,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,1183
 VU#72,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
 VU#72,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
 VU#72,0.04000000,https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama,alanlengkoan/SPK-Pestisida-Membahas-Hama,432389593
-VU#72,0.03846154,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#72,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
+VU#72,0.03571429,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#72,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#72,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#72,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
@@ -154,7 +155,7 @@ VU#72,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#72,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#72,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#72,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
-VU#72,0.00847458,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#72,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#72,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#72,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#72,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
