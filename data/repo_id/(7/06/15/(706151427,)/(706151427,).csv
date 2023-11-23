@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-706151427,cultureelerfgoed/rce-thesauri-backup,rn_backup.trig,441f1d38f282be9afbc971501a636a39402b2701,MS01-009
-706151427,cultureelerfgoed/rce-thesauri-backup,rn_backup.trig,441f1d38f282be9afbc971501a636a39402b2701,VU#001
-706151427,cultureelerfgoed/rce-thesauri-backup,rn_backup.trig,441f1d38f282be9afbc971501a636a39402b2701,VU#01
+706151427,cultureelerfgoed/rce-thesauri-backup,rn_backup.trig,67aec715af5aeb18f8a20927a531b6064f73fc44,MS01-009
+706151427,cultureelerfgoed/rce-thesauri-backup,rn_backup.trig,67aec715af5aeb18f8a20927a531b6064f73fc44,VU#001
+706151427,cultureelerfgoed/rce-thesauri-backup,rn_backup.trig,67aec715af5aeb18f8a20927a531b6064f73fc44,VU#01
