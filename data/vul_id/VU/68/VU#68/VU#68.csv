@@ -9,6 +9,7 @@ VU#68,1.00000000,https://github.com/cleanunicorn/theo,cleanunicorn/theo,19483018
 VU#68,0.50000000,https://github.com/Halcy0nic/CVE-2022-43343,Halcy0nic/CVE-2022-43343,595861738
 VU#68,0.50000000,https://github.com/th3ken-dev/TH3KEN-EDITION,th3ken-dev/TH3KEN-EDITION,271288096
 VU#68,0.33333333,https://github.com/ted314-cyber/Project-L-CTF,ted314-cyber/Project-L-CTF,712670320
+VU#68,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#68,0.33333333,https://github.com/tonykcmarsh/KC-Exploits-New,tonykcmarsh/KC-Exploits-New,561147179
 VU#68,0.33333333,https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking,Jee-King/ICCV2021_Event_Frame_Tracking,391794327
 VU#68,0.33333333,https://github.com/WLYLab/ATSE,WLYLab/ATSE,378865608
@@ -26,7 +27,6 @@ VU#68,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,43
 VU#68,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#68,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
 VU#68,0.16666667,https://github.com/REALXLOLX/Evil-Droid,REALXLOLX/Evil-Droid,681053513
-VU#68,0.16666667,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#68,0.16666667,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#68,0.16666667,https://github.com/UtkarshV09/Log4j-Exploit,UtkarshV09/Log4j-Exploit,570304337
 VU#68,0.16666667,https://github.com/ocastel/log4j-shell-poc,ocastel/log4j-shell-poc,539366249
