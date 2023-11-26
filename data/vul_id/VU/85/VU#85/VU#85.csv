@@ -64,7 +64,6 @@ VU#85,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x
 VU#85,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#85,0.07142857,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
 VU#85,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
-VU#85,0.07142857,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#85,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
 VU#85,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#85,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
@@ -80,6 +79,7 @@ VU#85,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcoc
 VU#85,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#85,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#85,0.05555556,https://github.com/yaklang/yakit,yaklang/yakit,416151847
+VU#85,0.05263158,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#85,0.05263158,https://github.com/Alendaa/Scripts,Alendaa/Scripts,556082585
 VU#85,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#85,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128

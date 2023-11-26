@@ -8,6 +8,7 @@ VU#66,0.50000000,https://github.com/VincentJ860/VJ-ExecuterExploit,VincentJ860/V
 VU#66,0.50000000,https://github.com/yosxos/Post-Exploitation-Tool,yosxos/Post-Exploitation-Tool,569255899
 VU#66,0.50000000,https://github.com/scarsoftware/ScarSploit,scarsoftware/ScarSploit,480746539
 VU#66,0.50000000,https://github.com/AninditaDeb/LDAM-DRW-and-RCE,AninditaDeb/LDAM-DRW-and-RCE,462986023
+VU#66,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#66,0.33333333,https://github.com/1406429350/CUnet-main,1406429350/CUnet-main,513395754
 VU#66,0.33333333,https://github.com/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,503628259
 VU#66,0.33333333,https://github.com/badiea3000/RedvsBlue,badiea3000/RedvsBlue,501354130
@@ -53,12 +54,11 @@ VU#66,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,28903192
 VU#66,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#66,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#66,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
-VU#66,0.07142857,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#66,0.07142857,https://github.com/Mazlai/SAE2.04,Mazlai/SAE2.04,553111420
 VU#66,0.07142857,https://github.com/z3dc0ps/ROCKING-CVE,z3dc0ps/ROCKING-CVE,546059644
 VU#66,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
-VU#66,0.06666667,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#66,0.06666667,https://github.com/teloryfrozy/Lumatic-kartdlphax,teloryfrozy/Lumatic-kartdlphax,649274248
+VU#66,0.06250000,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#66,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/HoloLens2CVExperiments,701688095
 VU#66,0.05882353,https://github.com/subhashmekapati/Intrusion-Detection-using-ML,subhashmekapati/Intrusion-Detection-using-ML,664464540
 VU#66,0.05882353,https://github.com/txuswashere/pentesting,txuswashere/pentesting,568053217
@@ -66,6 +66,7 @@ VU#66,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-P
 VU#66,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khalednassar/CVE-2022-21449-TLS-PoC,483804378
 VU#66,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#66,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
+VU#66,0.05263158,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#66,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#66,0.05263158,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
 VU#66,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
@@ -75,6 +76,7 @@ VU#66,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,
 VU#66,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#66,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#66,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
+VU#66,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
 VU#66,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#66,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#66,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722

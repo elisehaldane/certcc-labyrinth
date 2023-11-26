@@ -27,7 +27,6 @@ VU#53,0.25000000,https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,stf
 VU#53,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,427952437
 VU#53,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#53,0.20000000,https://github.com/ChooJinHe/MMRAT-WANNABE,ChooJinHe/MMRAT-WANNABE,722473837
-VU#53,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#53,0.20000000,https://github.com/pswalia2u/CVE-2020-7246,pswalia2u/CVE-2020-7246,537412534
 VU#53,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
 VU#53,0.16666667,https://github.com/ebenezeredusei/Covid-19-Sentiment-Analysis,ebenezeredusei/Covid-19-Sentiment-Analysis,593605724
@@ -57,7 +56,6 @@ VU#53,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,
 VU#53,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#53,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#53,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
-VU#53,0.07142857,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#53,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#53,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#53,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
@@ -74,6 +72,7 @@ VU#53,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,60
 VU#53,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#53,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
 VU#53,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
+VU#53,0.05263158,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#53,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-vuln-java-2,662788989
 VU#53,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
 VU#53,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984

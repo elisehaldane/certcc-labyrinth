@@ -45,7 +45,6 @@ VU#82,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x
 VU#82,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#82,0.07142857,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
 VU#82,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
-VU#82,0.07142857,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#82,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
 VU#82,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#82,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
@@ -64,6 +63,7 @@ VU#82,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,54267844
 VU#82,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#82,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#82,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
+VU#82,0.05263158,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#82,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
 VU#82,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#82,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
@@ -72,6 +72,7 @@ VU#82,0.05000000,https://github.com/sotyarena/web-exploitation-3,sotyarena/web-e
 VU#82,0.05000000,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#82,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pack,652370497
 VU#82,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
+VU#82,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
 VU#82,0.04545455,https://github.com/daniel616/CVE-2022-21661-Demo,daniel616/CVE-2022-21661-Demo,598931701
 VU#82,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#82,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
