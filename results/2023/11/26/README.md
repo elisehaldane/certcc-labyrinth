@@ -1,7 +1,7 @@
 
 # Summary for results/2023/11/26
     
-124 records found after deduplication
+125 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -12,7 +12,7 @@
 | ethaeral/girls4girls | Anti Exploit Girls Girls Trend on Thread, project concept - against meta policy | https://github.com/ethaeral/girls4girls | ['exploit'] | 1 | 2023-11-26 18:37:26+00:00 | 102 | 0 | JavaScript | 0 | [] |
 | jaibirsingh/Metasploit-framework | None | https://github.com/jaibirsingh/Metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-11-26 04:13:08+00:00 | 37 | 0 | | 0 | [] |
 | BaptisteContreras/CVE-2017-8917-Joomla | CVE-2017-8917 SQL injection Vulnerability in Joomla! 3.7.0 exploit | https://github.com/BaptisteContreras/CVE-2017-8917-Joomla | ['cve-2 OR cve_2', 'exploit'] | 2 | 2023-11-26 14:37:56+00:00 | 5 | 0 | Python | 0 | ['CVE-2017-8917'] |
-| MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | ['exploit', 'vulnerability poc'] | 2 | 2023-11-26 15:26:28+00:00 | 47 | 362 | PHP | 101 | [] |
+| MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | ['exploit', 'vulnerability poc'] | 2 | 2023-11-26 15:26:28+00:00 | 47 | 361 | PHP | 101 | [] |
 | Locquiano101/reviewRCenter | None | https://github.com/Locquiano101/reviewRCenter | ['rce'] | 1 | 2023-11-26 16:58:52+00:00 | 152 | 0 | Java | 0 | [] |
 | Mat-The-W-26/FTP-Terminal-Exploit | None | https://github.com/Mat-The-W-26/FTP-Terminal-Exploit | ['exploit'] | 1 | 2023-11-26 16:07:48+00:00 | 0 | 0 | GDScript | 0 | [] |
 | t34t/heap_exploit_learning | None | https://github.com/t34t/heap_exploit_learning | ['exploit'] | 1 | 2023-11-26 09:14:39+00:00 | 2168 | 0 | | 0 | [] |
@@ -21,7 +21,7 @@
 | vulsio/vuls-data-raw-exploit-trickest | None | https://github.com/vulsio/vuls-data-raw-exploit-trickest | ['exploit'] | 1 | 2023-11-26 18:01:20+00:00 | 54894 | 0 | | 0 | [] |
 | vulsio/vuls-data-raw-exploit-inthewild | None | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | ['exploit'] | 1 | 2023-11-26 06:01:03+00:00 | 27379 | 0 | | 0 | [] |
 | lost-rob0t/hackmode | Interactive lisp as a exploit metaframework | https://github.com/lost-rob0t/hackmode | ['exploit'] | 1 | 2023-11-26 03:51:15+00:00 | 205 | 0 | Common Lisp | 0 | [] |
-| spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2023-11-26 22:47:28+00:00 | 3516 | 8 | HTML | 2 | [] |
+| RiotDevelopment/LuffyExploits | None | https://github.com/RiotDevelopment/LuffyExploits | ['exploit'] | 1 | 2023-11-26 23:09:17+00:00 | 34441 | 0 | Lua | 0 | [] |
 | SilentPulseDeveloper/Silent-PDF-Exploit-Builder-2023 | Silent PDF Exploit Builder is an antivirus evasion tool that can convert executables into undetectable pdf files. | https://github.com/SilentPulseDeveloper/Silent-PDF-Exploit-Builder-2023 | ['exploit'] | 1 | 2023-11-26 19:11:39+00:00 | 33 | 157 | | 13 | [] |
 | IsThisMe01/ProjectL | Roblox Exploit | https://github.com/IsThisMe01/ProjectL | ['exploit'] | 1 | 2023-11-26 05:00:50+00:00 | 6500 | 2 | Lua | 1 | [] |
 | nguyenmanhthinbsl/CVE2019_8942 | detecting cve 2019 8942 based on signature based detection. | https://github.com/nguyenmanhthinbsl/CVE2019_8942 | ['cve-2 OR cve_2'] | 1 | 2023-11-26 05:14:08+00:00 | 23790 | 0 | Python | 0 | [] |
@@ -63,13 +63,13 @@
 | fidjiw/CPSS | CVE-POC Script Summary | https://github.com/fidjiw/CPSS | ['cve poc'] | 1 | 2023-11-26 10:13:55+00:00 | 0 | 0 | | 0 | [] |
 | Josheyo/Idk-imnerd | Bloxfruit exploit | https://github.com/Josheyo/Idk-imnerd | ['exploit'] | 1 | 2023-11-26 08:34:27+00:00 | 0 | 0 | | 0 | [] |
 | TheClogger666/mtktool | Simple fastboot-like tool made from scratch designed to be used for researching bootloader exploits | https://github.com/TheClogger666/mtktool | ['exploit'] | 1 | 2023-11-26 08:35:36+00:00 | 17 | 0 | C | 0 | [] |
-| ByteXenon/SecurityResearchWriteups | All non-NDA signed vulns/bugs/exploits I found and discolsed. | https://github.com/ByteXenon/SecurityResearchWriteups | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2023-11-26 11:05:19+00:00 | 172 | 1 | | 0 | [] |
+| ByteXenon/SecurityResearchWriteups | All non-NDA signed vulns/bugs/exploits I found and discolsed. | https://github.com/ByteXenon/SecurityResearchWriteups | ['exploit', 'vuln poc', 'vulnerability poc'] | 3 | 2023-11-26 11:05:19+00:00 | 172 | 1 | nan | 0 | [] |
 | justhx0r/CVE-2023-5561 | CVE-2023-5561 | https://github.com/justhx0r/CVE-2023-5561 | ['cve-2 OR cve_2'] | 1 | 2023-11-26 03:49:23+00:00 | 1 | 0 | Go | 0 | ['CVE-2023-5561'] |
 | SevenworksDev/ExploitHardest | Exploit menu for websites on School Chromebooks. | https://github.com/SevenworksDev/ExploitHardest | ['exploit'] | 1 | 2023-11-26 03:26:14+00:00 | 6 | 0 | JavaScript | 0 | [] |
 | bo-wen-zhang/battleground | Creating a remote code execution engine for competitive 1v1 programming | https://github.com/bo-wen-zhang/battleground | ['remote code execution'] | 1 | 2023-11-26 14:59:44+00:00 | 4 | 0 | Go | 0 | [] |
-| RiotDevelopment/LuffyExploits | None | https://github.com/RiotDevelopment/LuffyExploits | ['exploit'] | 1 | 2023-11-26 23:09:17+00:00 | 34441 | 0 | Lua | 0 | [] |
 | josexgonzalez/exploit | exploit | https://github.com/josexgonzalez/exploit | ['exploit'] | 1 | 2023-11-26 16:57:15+00:00 | 34607 | 1 | JavaScript | 0 | [] |
-| f1tao/awesome-iot-security-resource | awesome iot exploit resource | https://github.com/f1tao/awesome-iot-security-resource | ['exploit'] | 1 | 2023-11-26 23:36:29+00:00 | 24 | 19 | | 0 | [] |
+| spaze/exploited.cz | https://exploited.cz | https://github.com/spaze/exploited.cz | ['exploit'] | 1 | 2023-11-26 22:47:28+00:00 | 3516 | 8 | HTML | 2 | [] |
+| nobodyisnobody/write-ups | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | ['exploit'] | 1 | 2023-11-26 18:01:20+00:00 | 406406 | 120 | Python | 10 | [] |
 | ep1h/external-process | Framework for interaction with external Win32 processes | https://github.com/ep1h/external-process | ['exploit'] | 1 | 2023-11-26 20:25:09+00:00 | 114 | 8 | C++ | 1 | [] |
 | Summiner/ServerPatches | Simply fixes crashes and other important exploits for minecraft that PaperMC does not (typically for older versions) | https://github.com/Summiner/ServerPatches | ['exploit'] | 1 | 2023-11-26 12:07:51+00:00 | 90 | 3 | Java | 1 | [] |
 | R3LI4NT/articulos | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | ['exploit'] | 1 | 2023-11-26 22:54:20+00:00 | 10540 | 85 | | 7 | [] |
@@ -83,8 +83,8 @@
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2023-11-26 14:46:53+00:00 | 60545 | 5659 | TypeScript | 766 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-11-26 04:18:25+00:00 | 3021 | 175 | Python | 14 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-11-26 01:19:47+00:00 | 2891 | 233 | HTML | 17 | [] |
-| nobodyisnobody/write-ups | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | ['exploit'] | 1 | 2023-11-26 18:01:20+00:00 | 406406 | 120 | Python | 10 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-11-26 04:03:15+00:00 | 418115 | 760 | Python | 182 | [] |
+| zildjibian/scripts | Scripts I made for Roblox (exploit) | https://github.com/zildjibian/scripts | ['exploit'] | 1 | 2023-11-26 12:12:33+00:00 | 13735 | 0 | Lua | 0 | [] |
 | mosecorg/mosec | A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2023-11-26 16:10:09+00:00 | 815 | 637 | Python | 44 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2023-11-26 04:07:22+00:00 | 1127727 | 89 | | 32 | [] |
 | Al-Azif/exploit-host-http | Docker based HTTP(S) component of the Exploit Host | https://github.com/Al-Azif/exploit-host-http | ['exploit'] | 1 | 2023-11-26 04:54:28+00:00 | 42 | 9 | Shell | 1 | [] |
@@ -96,10 +96,11 @@
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2023-11-26 04:31:16+00:00 | 727283 | 369 | REXX | 39 | [] |
 | corkami/collisions | Hash collisions and exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2023-11-26 22:34:36+00:00 | 33833 | 2660 | Python | 173 | [] |
 | robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2023-11-26 11:44:01+00:00 | 192 | 4 | | 1 | ['CVE-2018-19788'] |
+| shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2023-11-26 19:48:48+00:00 | 304 | 6529 | C | 1113 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2023-11-26 15:36:49+00:00 | 12903 | 6171 | Python | 809 | [] |
 | openclarity/vmclarity | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | ['exploit'] | 1 | 2023-11-26 00:17:30+00:00 | 18601 | 72 | Go | 20 | [] |
+| f1tao/awesome-iot-security-resource | awesome iot exploit resource | https://github.com/f1tao/awesome-iot-security-resource | ['exploit'] | 1 | 2023-11-26 23:36:29+00:00 | 24 | 19 | | 0 | [] |
 | adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2023-11-26 04:35:21+00:00 | 158289 | 60 | Go | 12 | [] |
-| zildjibian/scripts | Scripts I made for Roblox (exploit) | https://github.com/zildjibian/scripts | ['exploit'] | 1 | 2023-11-26 12:12:33+00:00 | 13735 | 0 | Lua | 0 | [] |
 | TechUnRestricted/windiskwriter | 🖥 A macOS app that creates bootable USB drives for Windows. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. | https://github.com/TechUnRestricted/windiskwriter | ['secure boot bypass'] | 1 | 2023-11-26 11:37:15+00:00 | 21324 | 152 | C | 1 | [] |
 | Sivnerof/Hacking-The-Art-Of-Exploitation | My personal notes and programs for the book "Hacking: The Art Of Exploitation." (https://nostarch.com/hacking2.htm) | https://github.com/Sivnerof/Hacking-The-Art-Of-Exploitation | ['exploit'] | 1 | 2023-11-26 22:11:26+00:00 | 412 | 0 | C | 0 | [] |
 | eeriedusk/nysm | nysm is a stealth post-exploitation container. | https://github.com/eeriedusk/nysm | ['exploit'] | 1 | 2023-11-26 02:22:59+00:00 | 44 | 71 | C | 11 | [] |
