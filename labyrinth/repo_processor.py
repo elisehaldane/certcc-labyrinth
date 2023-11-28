@@ -15,6 +15,7 @@ created_at: 9/3/21 9:56 AM
 
 import logging
 import os
+import shutil
 import time
 from datetime import datetime, timezone
 import glob
@@ -54,6 +55,8 @@ def process_git_url(clone_from, workdir):
         )
     except git.exc.GitCommandError as e:
         logger.warning(f"Skipping git repo at {clone_from} due to GitCommandError: {e}")
+        logger.info(f"Removing {workdir} before proceeding")
+        shutil.rmtree(workdir,ignore_errors=True)
         return pd.DataFrame()
 
     df = process_dir(workdir, workdir)
