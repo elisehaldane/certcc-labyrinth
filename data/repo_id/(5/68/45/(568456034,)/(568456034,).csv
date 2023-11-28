@@ -47,4 +47,4 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Snapd-Privilege-Escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/network/protocol/VNC-Pentesting.md,e6451f068aae6215ba93f77ce770e20d8c106bbf,CVE-2006-2369
-568456034,hideckies/exploit-notes,src/exploit/web/Webmin-Pentesting.md,febe48ddfdb765f7049549cbdde8ad8f8406a738,CVE-2019-15107
+568456034,hideckies/exploit-notes,src/exploit/web/webmin-pentesting.md,febe48ddfdb765f7049549cbdde8ad8f8406a738,CVE-2019-15107

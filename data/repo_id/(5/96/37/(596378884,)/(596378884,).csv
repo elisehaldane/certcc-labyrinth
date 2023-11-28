@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 596378884,AryanVBW/LinuxDroid,Rootfs/Alpine/x86/alpine-minirootfs-3.10.3-x86.tar.gz,33e02823f9f4c5052b199d4ae4f06e85e0805108,VU#11
+596378884,AryanVBW/LinuxDroid,screenshot/Screenrecording_20231128_044245.mp4,529b2e77afc911fac98a1417f237fde014ab4dca,VU#75
 596378884,AryanVBW/LinuxDroid,vnc/tigervnc-1.10.1-1-aarch64.pkg.tar.xz,a3c4351b25fbe3775bd97ce3c55b93ceae2d64ec,VU#54
+596378884,AryanVBW/LinuxDroid,Automatic installation script/OIG.Hb4.jpeg,a9f2c21177d622a3d8cc3663b47d423b425e208a,VU#75
