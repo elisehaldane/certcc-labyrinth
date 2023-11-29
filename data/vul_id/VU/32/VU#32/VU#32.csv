@@ -47,6 +47,7 @@ VU#32,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893
 VU#32,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#32,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#32,0.33333333,https://github.com/wiiu-env/JsTypeHax_payload,wiiu-env/JsTypeHax_payload,165501509
+VU#32,0.25000000,https://github.com/ntLocalSystem/Buffer-Overflow-Assembly,ntLocalSystem/Buffer-Overflow-Assembly,725119874
 VU#32,0.25000000,https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207,nidhi7598/linux-4.19.72_net_CVE-2023-4207,722409780
 VU#32,0.25000000,https://github.com/Umair8906/DarkSploit,Umair8906/DarkSploit,717682171
 VU#32,0.25000000,https://github.com/ihavegoodnameiscool/joebidensploitx,ihavegoodnameiscool/joebidensploitx,658361149
@@ -166,6 +167,7 @@ VU#32,0.03571429,https://github.com/mikias21/machine_learning_final_project,miki
 VU#32,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#32,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#32,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
+VU#32,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#32,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
 VU#32,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#32,0.03225806,https://github.com/ESMEAirPollutionPrediction/WeatherData,ESMEAirPollutionPrediction/WeatherData,714661696
@@ -188,6 +190,7 @@ VU#32,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarah
 VU#32,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#32,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#32,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
+VU#32,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#32,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#32,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#32,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
@@ -243,6 +246,7 @@ VU#32,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,23404451
 VU#32,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#32,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#32,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
+VU#32,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#32,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#32,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#32,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
@@ -460,8 +464,8 @@ VU#32,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,66933399
 VU#32,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#32,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#32,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
-VU#32,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#32,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#32,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#32,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

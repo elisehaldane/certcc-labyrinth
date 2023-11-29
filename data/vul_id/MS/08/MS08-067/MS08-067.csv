@@ -154,6 +154,7 @@ MS08-067,0.10000000,https://github.com/sathwikch/windows-exploitation,sathwikch/
 MS08-067,0.10000000,https://github.com/r00t-3xp10it/RC-exploiter,r00t-3xp10it/RC-exploiter,73963153
 MS08-067,0.10000000,https://github.com/anonymous201/metasploit-framework,anonymous201/metasploit-framework,62513502
 MS08-067,0.10000000,https://github.com/mubix/metasploitwiki,mubix/metasploitwiki,37107840
+MS08-067,0.09090909,https://github.com/BitWalls-Sec/exploit,BitWalls-Sec/exploit,725078909
 MS08-067,0.09090909,https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,457408529
 MS08-067,0.09090909,https://github.com/RandomRhythm/winVulnAssess,RandomRhythm/winVulnAssess,419090852
 MS08-067,0.09090909,https://github.com/mojodojo101/exploitsnshells,mojodojo101/exploitsnshells,239681162
@@ -523,8 +524,8 @@ MS08-067,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Inte
 MS08-067,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS08-067,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 MS08-067,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
-MS08-067,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS08-067,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS08-067,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS08-067,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283

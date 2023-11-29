@@ -5,6 +5,7 @@ MS15-061,0.25000000,https://github.com/rhamaa/Binary-exploit-writeups,rhamaa/Bin
 MS15-061,0.10000000,https://github.com/r3p3r/nixawk-awesome-windows-exploitation,r3p3r/nixawk-awesome-windows-exploitation,115909376
 MS15-061,0.10000000,https://github.com/ByteHackr/WindowsExploitation,ByteHackr/WindowsExploitation,98196196
 MS15-061,0.10000000,https://github.com/sathwikch/windows-exploitation,sathwikch/windows-exploitation,77608332
+MS15-061,0.09090909,https://github.com/BitWalls-Sec/exploit,BitWalls-Sec/exploit,725078909
 MS15-061,0.06250000,https://github.com/sam-b/windows_kernel_resources,sam-b/windows_kernel_resources,79661887
 MS15-061,0.05882353,https://github.com/febinrev/windows_privesc-post_exploitation,febinrev/windows_privesc-post_exploitation,256433120
 MS15-061,0.05555556,https://github.com/paulveillard/cybersecurity-windows-exploitation,paulveillard/cybersecurity-windows-exploitation,442265373
@@ -128,8 +129,8 @@ MS15-061,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Inte
 MS15-061,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 MS15-061,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 MS15-061,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
-MS15-061,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS15-061,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS15-061,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS15-061,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS15-061,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS15-061,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
