@@ -109,7 +109,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/ZZY3312\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ZZY3312\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724383649,
@@ -221,7 +222,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/ZZY3312\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/ZZY3312\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724424925,
@@ -339,7 +341,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/C1ph3rX13\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/C1ph3rX13\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724490342,
@@ -466,7 +469,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/dr-cable-tv\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/dr-cable-tv\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724561877,
@@ -578,7 +582,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/J466Y\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/J466Y\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724563642,
@@ -690,7 +695,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/louiselalanne\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/louiselalanne\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724369843,
@@ -802,7 +808,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/louiselalanne\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/louiselalanne\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724568768,
@@ -925,7 +932,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/4m3rr0r\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/4m3rr0r\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":588582544,
@@ -1046,7 +1054,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/WellingtonEspindula\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/WellingtonEspindula\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724703848,
@@ -1158,7 +1167,8 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/Gh-Badr\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Gh-Badr\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
   },
   {
     "id":724701583,
@@ -1270,6 +1280,120 @@
     "owner_events_url":"https:\/\/api.github.com\/users\/Youns92\/events{\/privacy}",
     "owner_received_events_url":"https:\/\/api.github.com\/users\/Youns92\/received_events",
     "owner_type":"User",
-    "owner_site_admin":false
+    "owner_site_admin":false,
+    "organization":null
+  },
+  {
+    "id":724794135,
+    "node_id":"R_kgDOKzN7Fw",
+    "name":"CVE-2023-6289",
+    "full_name":"RandomRobbieBF\/CVE-2023-6289",
+    "private":false,
+    "html_url":"https:\/\/github.com\/RandomRobbieBF\/CVE-2023-6289",
+    "description":"Swift Performance Lite <= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289",
+    "forks_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/RandomRobbieBF\/CVE-2023-6289\/deployments",
+    "created_at":"2023-11-28T20:05:43Z",
+    "updated_at":"2023-11-28T20:05:44Z",
+    "pushed_at":"2023-11-28T20:07:43Z",
+    "git_url":"git:\/\/github.com\/RandomRobbieBF\/CVE-2023-6289.git",
+    "ssh_url":"git@github.com:RandomRobbieBF\/CVE-2023-6289.git",
+    "clone_url":"https:\/\/github.com\/RandomRobbieBF\/CVE-2023-6289.git",
+    "svn_url":"https:\/\/github.com\/RandomRobbieBF\/CVE-2023-6289",
+    "homepage":null,
+    "size":3,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_on":"cve-2 OR cve_2 pushed:2023-11-28..2023-11-29",
+    "matched_at":"2023-11-29T05:02:30Z",
+    "owner_login":"RandomRobbieBF",
+    "owner_id":51722811,
+    "owner_node_id":"MDQ6VXNlcjUxNzIyODEx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/51722811?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/RandomRobbieBF",
+    "owner_html_url":"https:\/\/github.com\/RandomRobbieBF",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/RandomRobbieBF\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null
   }
 ]
