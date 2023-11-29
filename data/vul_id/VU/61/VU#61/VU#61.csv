@@ -88,7 +88,6 @@ VU#61,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBe
 VU#61,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#61,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#61,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
-VU#61,0.02222222,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#61,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#61,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#61,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
@@ -152,6 +151,7 @@ VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#61,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
 VU#61,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#61,0.01851852,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#61,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#61,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#61,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
@@ -325,12 +325,12 @@ VU#61,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#61,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#61,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#61,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#61,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#61,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#61,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#61,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#61,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#61,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#61,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
-VU#61,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#61,0.00000384,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

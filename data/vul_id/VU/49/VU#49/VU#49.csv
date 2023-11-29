@@ -42,6 +42,7 @@ VU#49,0.12500000,https://github.com/Trinity-SYT-SECURITY/coablt_strike_4.5,Trini
 VU#49,0.11111111,https://github.com/ssteiger/the-dao-hack-simulation,ssteiger/the-dao-hack-simulation,504780684
 VU#49,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#49,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
+VU#49,0.10000000,https://github.com/catallo/ht,catallo/ht,705767979
 VU#49,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
 VU#49,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
 VU#49,0.10000000,https://github.com/DShankle/VLC_CVE-2021-25804_Analysis,DShankle/VLC_CVE-2021-25804_Analysis,495571729
@@ -50,6 +51,7 @@ VU#49,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-
 VU#49,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#49,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
 VU#49,0.09090909,https://github.com/maxyass/Projects-Im-Proud-Of,maxyass/Projects-Im-Proud-Of,714055040
+VU#49,0.08333333,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#49,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#49,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#49,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
@@ -380,11 +382,11 @@ VU#49,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#49,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#49,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#49,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#49,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#49,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#49,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#49,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#49,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#49,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#49,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#49,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#49,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#49,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

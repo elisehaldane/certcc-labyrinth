@@ -11,6 +11,7 @@ VU#16,1.00000000,https://github.com/guilletmax/firmware-exploit,guilletmax/firmw
 VU#16,1.00000000,https://github.com/KadenZipfel/max-mint-exploit,KadenZipfel/max-mint-exploit,450599632
 VU#16,1.00000000,https://github.com/blocksecteam/defi_poc,blocksecteam/defi_poc,397891852
 VU#16,1.00000000,https://github.com/ir0nstone/blog-binaries,ir0nstone/blog-binaries,339679548
+VU#16,0.50000000,https://github.com/paralinguist/Terminal-Exploit,paralinguist/Terminal-Exploit,712989842
 VU#16,0.50000000,https://github.com/InvoxiPlayGames/robohaxx,InvoxiPlayGames/robohaxx,672580426
 VU#16,0.50000000,https://github.com/Zephiles/fb-exploit,Zephiles/fb-exploit,578895585
 VU#16,0.50000000,https://github.com/snow-kluster/Sheller,snow-kluster/Sheller,568910050
@@ -312,11 +313,11 @@ VU#16,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metaspl
 VU#16,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#16,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting,jieying-src/Endpoint-Forecasting-and-Interpreting,550144228
 VU#16,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#16,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#16,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#16,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#16,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#16,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#16,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#16,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#16,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#16,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#16,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

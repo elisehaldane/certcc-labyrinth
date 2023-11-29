@@ -92,7 +92,6 @@ VU#34,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,32253879
 VU#34,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#34,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#34,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
-VU#34,0.02222222,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#34,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#34,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#34,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
@@ -101,6 +100,7 @@ VU#34,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/gra
 VU#34,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#34,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#34,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
+VU#34,0.01851852,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#34,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#34,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#34,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
@@ -284,11 +284,11 @@ VU#34,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/m
 VU#34,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#34,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#34,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#34,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#34,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#34,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#34,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#34,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#34,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#34,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#34,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#34,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#34,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

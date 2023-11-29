@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-109258,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
+BID-109258,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396

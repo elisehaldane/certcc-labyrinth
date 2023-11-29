@@ -30,6 +30,7 @@ VU#17,0.16666667,https://github.com/ashemery/exploitation-course,ashemery/exploi
 VU#17,0.14285714,https://github.com/Jacarte/tawasco,Jacarte/tawasco,633324752
 VU#17,0.14285714,https://github.com/DanMolenhouse/EthicalPenTesting-PWNChallenge-1,DanMolenhouse/EthicalPenTesting-PWNChallenge-1,561098345
 VU#17,0.14285714,https://github.com/aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation-,524170531
+VU#17,0.12500000,https://github.com/ElectroBoy404NotFound/TinyiOS,ElectroBoy404NotFound/TinyiOS,724353108
 VU#17,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
 VU#17,0.12500000,https://github.com/bsauce/CTF,bsauce/CTF,197501807
 VU#17,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
@@ -41,6 +42,7 @@ VU#17,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classifi
 VU#17,0.09090909,https://github.com/IdanBanani/Chromium-Browser-exploitation,IdanBanani/Chromium-Browser-exploitation,696504643
 VU#17,0.09090909,https://github.com/IdanBanani/Browser-exploitation-Chromium,IdanBanani/Browser-exploitation-Chromium,652690272
 VU#17,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
+VU#17,0.08333333,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#17,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#17,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#17,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
@@ -113,10 +115,10 @@ VU#17,0.02857143,https://github.com/khalednassar/CVE-2020-27301-hostapd,khaledna
 VU#17,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#17,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#17,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
-VU#17,0.02631579,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#17,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#17,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
 VU#17,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
+VU#17,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#17,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#17,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#17,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
@@ -315,10 +317,10 @@ VU#17,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/m
 VU#17,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#17,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#17,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#17,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#17,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#17,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#17,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#17,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#17,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#17,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#17,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#17,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -8,5 +8,6 @@ GHSA-6XVQ-WJ2X-3H3Q,0.00089767,https://github.com/lucagrippa/cisa-kev-archive,lu
 GHSA-6XVQ-WJ2X-3H3Q,0.00089606,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 GHSA-6XVQ-WJ2X-3H3Q,0.00062933,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-6XVQ-WJ2X-3H3Q,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
-GHSA-6XVQ-WJ2X-3H3Q,0.00000387,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-6XVQ-WJ2X-3H3Q,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
+GHSA-6XVQ-WJ2X-3H3Q,0.00000384,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-6XVQ-WJ2X-3H3Q,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

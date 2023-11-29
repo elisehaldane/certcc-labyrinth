@@ -44,6 +44,7 @@ VU#20,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/je
 VU#20,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709869
 VU#20,0.09090909,https://github.com/nguyenbadac0405/prod_RCE,nguyenbadac0405/prod_RCE,665948996
 VU#20,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
+VU#20,0.08333333,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#20,0.08333333,https://github.com/cschech/CBSD,cschech/CBSD,653347261
 VU#20,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
 VU#20,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
@@ -98,7 +99,6 @@ VU#20,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Se
 VU#20,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#20,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#20,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
-VU#20,0.02222222,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#20,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#20,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#20,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
@@ -106,6 +106,7 @@ VU#20,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,
 VU#20,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#20,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#20,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#20,0.01851852,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#20,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#20,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#20,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
@@ -291,11 +292,11 @@ VU#20,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/m
 VU#20,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#20,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#20,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#20,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#20,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#20,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#20,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#20,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#20,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#20,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#20,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#20,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#20,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

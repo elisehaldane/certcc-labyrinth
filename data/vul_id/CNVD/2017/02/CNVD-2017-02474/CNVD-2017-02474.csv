@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2017-02474,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
+CNVD-2017-02474,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396

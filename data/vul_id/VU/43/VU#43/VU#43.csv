@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#43,1.00000000,https://github.com/paralinguist/Terminal-Exploit,paralinguist/Terminal-Exploit,712989842
 VU#43,1.00000000,https://github.com/Arsenic-As/NobleCracked-loader,Arsenic-As/NobleCracked-loader,658461525
 VU#43,1.00000000,https://github.com/Nappoed/FIVEM-Lua-Executor,Nappoed/FIVEM-Lua-Executor,650249544
 VU#43,1.00000000,https://github.com/KevinMajano/metasploitable-2,KevinMajano/metasploitable-2,606626096
@@ -118,7 +117,6 @@ VU#43,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#43,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#43,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#43,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
-VU#43,0.02222222,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#43,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#43,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#43,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
@@ -183,6 +181,7 @@ VU#43,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 VU#43,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#43,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#43,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
+VU#43,0.01851852,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#43,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#43,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#43,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
@@ -337,11 +336,11 @@ VU#43,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#43,0.00053505,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#43,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#43,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#43,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#43,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#43,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#43,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#43,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#43,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#43,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#43,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#43,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#43,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762

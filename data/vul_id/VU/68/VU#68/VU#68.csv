@@ -120,7 +120,6 @@ VU#68,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7
 VU#68,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#68,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#68,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
-VU#68,0.02222222,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#68,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#68,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#68,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
@@ -132,6 +131,7 @@ VU#68,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-r
 VU#68,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#68,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#68,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#68,0.01851852,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#68,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
 VU#68,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
 VU#68,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
@@ -310,11 +310,11 @@ VU#68,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/m
 VU#68,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#68,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#68,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
-VU#68,0.00019286,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#68,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#68,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#68,0.00019201,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#68,0.00019201,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#68,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#68,0.00019198,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#68,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#68,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#68,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

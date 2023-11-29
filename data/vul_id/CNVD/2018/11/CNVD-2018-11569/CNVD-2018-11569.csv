@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNVD-2018-11569,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
