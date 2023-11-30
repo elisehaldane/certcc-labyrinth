@@ -51,7 +51,6 @@ VU#65,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/
 VU#65,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
 VU#65,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#65,0.08333333,https://github.com/Xyntax/POC-T,Xyntax/POC-T,53729332
-VU#65,0.07692308,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#65,0.07692308,https://github.com/giadone/Named-Entity-Recognition-Using-Bert-,giadone/Named-Entity-Recognition-Using-Bert-,604626757
 VU#65,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#65,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
@@ -65,6 +64,7 @@ VU#65,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT
 VU#65,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#65,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#65,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
+VU#65,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#65,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
 VU#65,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#65,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/HoloLens2CVExperiments,701688095
@@ -213,6 +213,7 @@ VU#65,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,
 VU#65,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#65,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#65,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
+VU#65,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#65,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#65,0.01428571,https://github.com/stphano/NEAs-ranking,stphano/NEAs-ranking,530254011
 VU#65,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
@@ -280,6 +281,7 @@ VU#65,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#65,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#65,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#65,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
+VU#65,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#65,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#65,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#65,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
