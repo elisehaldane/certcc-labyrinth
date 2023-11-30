@@ -51,10 +51,10 @@ VU#49,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-
 VU#49,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#49,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
 VU#49,0.09090909,https://github.com/maxyass/Projects-Im-Proud-Of,maxyass/Projects-Im-Proud-Of,714055040
-VU#49,0.08333333,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#49,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#49,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#49,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
+VU#49,0.07692308,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#49,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#49,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#49,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
@@ -209,6 +209,7 @@ VU#49,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-
 VU#49,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#49,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#49,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
+VU#49,0.01724138,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#49,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#49,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#49,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
@@ -245,6 +246,7 @@ VU#49,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#49,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#49,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
 VU#49,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
+VU#49,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#49,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#49,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#49,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
