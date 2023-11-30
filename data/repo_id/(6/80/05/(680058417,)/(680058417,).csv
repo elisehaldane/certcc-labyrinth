@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 680058417,Whoopsunix/JavaRce,JDBCAttack/src/main/java/postgresql/RceAttack.java,07af6516dc8871acade97e575431e57123e66776,CVE-2022-21724
-680058417,Whoopsunix/JavaRce,README.md,83d4a469100a1e464e77fd45e12becde7615dfc4,CVE-2022-21724
+680058417,Whoopsunix/JavaRce,README.md,4f5e6e9fcad4e411aaf8b657d3ee33766adf24ac,CVE-2022-21724
 680058417,Whoopsunix/JavaRce,JDBCAttack/src/main/java/postgresql/FileAttack.java,d4b5eee025360b1eab85e3078a88fccaa460255f,VU#29
