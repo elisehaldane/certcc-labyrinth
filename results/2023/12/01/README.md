@@ -1,7 +1,7 @@
 
 # Summary for results/2023/12/01
     
-137 records found after deduplication
+138 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -14,7 +14,7 @@
 | 1derian/packer | 一款针对cs shellcode快速生成exe的打包器 | https://github.com/1derian/packer | ['shellcode'] | 1 | 2023-12-01 06:34:00+00:00 | 11444 | 13 | | 1 | [] |
 | s8lvg/rowhammer-revisited-talk | A list of resources for the talk Rowhammer Revisited: From Exploration to Exploitation and Mitigation | https://github.com/s8lvg/rowhammer-revisited-talk | ['exploit'] | 1 | 2023-12-01 23:46:37+00:00 | 21 | 2 | | 0 | [] |
 | bothelpersgpt/Roblox-Exploits-scripts | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | ['exploit'] | 1 | 2023-12-01 04:38:16+00:00 | 26 | 1 | Lua | 0 | [] |
-| GatoGamer1155/BinaryExploitation | Solutions of some Buffer Overflow | https://github.com/GatoGamer1155/BinaryExploitation | ['exploit'] | 1 | 2023-12-01 04:13:35+00:00 | 79875 | 0 | Python | 0 | [] |
+| Ceifador-programador/Scyther-Maker-1 | dependencias para isto funcionar: -ngrok -metasploit-framework -apktool -apksigner -zipalign -ruby gems | https://github.com/Ceifador-programador/Scyther-Maker-1 | ['metasploit module OR payload'] | 1 | 2023-12-01 20:52:55+00:00 | 16834 | 0 | Shell | 0 | [] |
 | shinying/dmp | Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction | https://github.com/shinying/dmp | ['exploit'] | 1 | 2023-12-01 02:36:05+00:00 | 32754 | 1 | | 0 | [] |
 | vccimaging/MetaISP | MetaISP – Exploiting Global Scene Structure for Accurate Multi-Device Color Rendition | https://github.com/vccimaging/MetaISP | ['exploit'] | 1 | 2023-12-01 18:02:57+00:00 | 70 | 0 | Python | 0 | [] |
 | V1236/VforMSF | Enhance and automate metasploit console with VforMSF. This script acts an an add-on to enhance msfconsole by adding utilities, automations and additional modules written in python. | https://github.com/V1236/VforMSF | ['metasploit module OR payload'] | 1 | 2023-12-01 05:06:50+00:00 | 62 | 1 | Python | 0 | [] |
@@ -39,31 +39,32 @@
 | Leo4j/Amnesiac | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | ['exploit'] | 1 | 2023-12-01 15:52:09+00:00 | 2500 | 115 | PowerShell | 23 | [] |
 | classl-ink/xcmd | Command Line for Windows PCs (Using Powershell) | https://github.com/classl-ink/xcmd | ['exploit'] | 1 | 2023-12-01 05:26:33+00:00 | 35009 | 0 | PowerShell | 0 | [] |
 | Shotokhan/elf_manual_plt_shellcode | Example of run-time manual PLT in C | https://github.com/Shotokhan/elf_manual_plt_shellcode | ['shellcode'] | 1 | 2023-12-01 15:55:35+00:00 | 14 | 0 | C | 0 | [] |
-| Ceifador-programador/Scyther-Maker-1 | dependencias para isto funcionar: -ngrok -metasploit-framework -apktool -apksigner -zipalign -ruby gems | https://github.com/Ceifador-programador/Scyther-Maker-1 | ['metasploit module OR payload'] | 1 | 2023-12-01 20:52:55+00:00 | 16834 | 0 | Shell | 0 | [] |
 | Sonico32/Sonic-X | Sonic-X is a roblox exploit for pc only, please notice that this might crash alot since this is made by two people only! | https://github.com/Sonico32/Sonic-X | ['exploit'] | 1 | 2023-12-01 01:31:23+00:00 | 15623 | 0 | | 0 | [] |
-| flxnzz/UniXploit | A Vulnerable and Exploitable version of UniShare Project | https://github.com/flxnzz/UniXploit | ['exploit'] | 1 | 2023-12-01 13:54:26+00:00 | 10220 | 0 | PHP | 0 | [] |
-| codingcore13/SILENT-DOC-EXPLOIT-CLEAN- | None | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2023-12-01 23:39:39+00:00 | 1 | 1 | | 0 | [] |
-| codingcore13/SILENT-PDF-EXPLOIT-CLEAN- | None | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2023-12-01 23:38:55+00:00 | 1 | 1 | | 0 | [] |
-| codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | None | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2023-12-01 23:38:11+00:00 | 1 | 1 | | 0 | [] |
-| iluaboltov/EnE | Exploit and Explore site that will help you to get more knowledge about CyberSecurity | https://github.com/iluaboltov/EnE | ['exploit'] | 1 | 2023-12-01 23:00:01+00:00 | 10665 | 0 | CSS | 0 | [] |
-| higyedcode/Binary-Exploitation | My Binary Exploitation materials, notes, and training exercises. | https://github.com/higyedcode/Binary-Exploitation | ['exploit'] | 1 | 2023-12-01 21:47:31+00:00 | 1005 | 0 | Python | 0 | [] |
-| zerodayokay/zerodayokay | Config files for my GitHub profile. | https://github.com/zerodayokay/zerodayokay | ['zeroday'] | 1 | 2023-12-01 18:38:46+00:00 | 0 | 0 | | 0 | [] |
-| DoubleRainbowXT/Anton-Exploit-000 | None | https://github.com/DoubleRainbowXT/Anton-Exploit-000 | ['exploit'] | 1 | 2023-12-01 18:02:38+00:00 | 14 | 1 | Shell | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-12-01 13:14:36+00:00 | 22431 | 8986 | JavaScript | 2060 | [] |
 | projectnomore/projectnomore.github.io | silly exploit | https://github.com/projectnomore/projectnomore.github.io | ['exploit'] | 1 | 2023-12-01 16:43:30+00:00 | 0 | 0 | | 0 | [] |
-| Smarttfoxx/syncbreezeentrce | Remote command execution exploit for SyncBreeze Enterprise v10.0.28 | https://github.com/Smarttfoxx/syncbreezeentrce | ['exploit'] | 1 | 2023-12-01 15:59:22+00:00 | 0 | 0 | | 0 | [] |
-| 2lambda123/APT38-0day-Stealer | None | https://github.com/2lambda123/APT38-0day-Stealer | ['0day'] | 1 | 2023-12-01 15:45:18+00:00 | 16 | 0 | C++ | 0 | [] |
-| dhabaleshwar/niv_testing_reflectedxss | This repository shows an exploit for Reflected XSS in the Nipah virus (NiV) Testing Management System. | https://github.com/dhabaleshwar/niv_testing_reflectedxss | ['exploit'] | 1 | 2023-12-01 15:23:44+00:00 | 2 | 0 | | 0 | [] |
-| drerx/PhoneSploit-Pro1 | This tool can automatically Create, Install, and Run payload on the target device using Metasploit-Framework and ADB to completely hack the Android Device in one click if the device has open ADB port | https://github.com/drerx/PhoneSploit-Pro1 | ['metasploit module OR payload', 'sploit'] | 2 | 2023-12-01 14:24:50+00:00 | 268 | 0 | Python | 0 | [] |
-| EloiStree/2023_12_01_CarRCExample | Voici une voiture pour les étudiants de HelloGirleek RC | https://github.com/EloiStree/2023_12_01_CarRCExample | ['rce'] | 1 | 2023-12-01 14:28:58+00:00 | 2064 | 0 | C# | 0 | [] |
 | Xre0uS/Shellcode-Obfuscator | Python tool for shellcode evasion by fragmenting and filling it with customisable decoy data, generating obfuscated C source code to be compiled. | https://github.com/Xre0uS/Shellcode-Obfuscator | ['shellcode'] | 1 | 2023-12-01 12:25:16+00:00 | 11 | 0 | Python | 0 | [] |
-| delsploit/CVE-2023-48849 | None | https://github.com/delsploit/CVE-2023-48849 | ['cve-2 OR cve_2'] | 1 | 2023-12-01 11:30:31+00:00 | 0 | 0 | | 0 | ['CVE-2023-48849'] |
+| EloiStree/2023_12_01_CarRCExample | Voici une voiture pour les étudiants de HelloGirleek RC | https://github.com/EloiStree/2023_12_01_CarRCExample | ['rce'] | 1 | 2023-12-01 14:28:58+00:00 | 2064 | 0 | C# | 0 | [] |
+| drerx/PhoneSploit-Pro1 | This tool can automatically Create, Install, and Run payload on the target device using Metasploit-Framework and ADB to completely hack the Android Device in one click if the device has open ADB port | https://github.com/drerx/PhoneSploit-Pro1 | ['metasploit module OR payload', 'sploit'] | 2 | 2023-12-01 14:24:50+00:00 | 268 | 0 | Python | 0 | [] |
+| dhabaleshwar/niv_testing_reflectedxss | This repository shows an exploit for Reflected XSS in the Nipah virus (NiV) Testing Management System. | https://github.com/dhabaleshwar/niv_testing_reflectedxss | ['exploit'] | 1 | 2023-12-01 15:23:44+00:00 | 2 | 0 | | 0 | [] |
+| 2lambda123/APT38-0day-Stealer | None | https://github.com/2lambda123/APT38-0day-Stealer | ['0day'] | 1 | 2023-12-01 15:45:18+00:00 | 16 | 0 | C++ | 0 | [] |
+| Smarttfoxx/syncbreezeentrce | Remote command execution exploit for SyncBreeze Enterprise v10.0.28 | https://github.com/Smarttfoxx/syncbreezeentrce | ['exploit'] | 1 | 2023-12-01 15:59:22+00:00 | 0 | 0 | | 0 | [] |
+| DoubleRainbowXT/Anton-Exploit-000 | None | https://github.com/DoubleRainbowXT/Anton-Exploit-000 | ['exploit'] | 1 | 2023-12-01 18:02:38+00:00 | 14 | 1 | Shell | 0 | [] |
 | jaibirsingh/Exploitation | None | https://github.com/jaibirsingh/Exploitation | ['exploit'] | 1 | 2023-12-01 02:09:27+00:00 | 5 | 0 | | 0 | [] |
+| zerodayokay/zerodayokay | Config files for my GitHub profile. | https://github.com/zerodayokay/zerodayokay | ['zeroday'] | 1 | 2023-12-01 18:38:46+00:00 | 0 | 0 | | 0 | [] |
+| higyedcode/Binary-Exploitation | My Binary Exploitation materials, notes, and training exercises. | https://github.com/higyedcode/Binary-Exploitation | ['exploit'] | 1 | 2023-12-01 21:47:31+00:00 | 1005 | 0 | Python | 0 | [] |
+| iluaboltov/EnE | Exploit and Explore site that will help you to get more knowledge about CyberSecurity | https://github.com/iluaboltov/EnE | ['exploit'] | 1 | 2023-12-01 23:00:01+00:00 | 10665 | 0 | CSS | 0 | [] |
+| codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | None | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2023-12-01 23:38:11+00:00 | 1 | 1 | | 0 | [] |
+| codingcore13/SILENT-PDF-EXPLOIT-CLEAN- | None | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2023-12-01 23:38:55+00:00 | 1 | 1 | | 0 | [] |
+| codingcore13/SILENT-DOC-EXPLOIT-CLEAN- | None | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN- | ['exploit'] | 1 | 2023-12-01 23:39:39+00:00 | 1 | 1 | | 0 | [] |
+| flxnzz/UniXploit | A Vulnerable and Exploitable version of UniShare Project | https://github.com/flxnzz/UniXploit | ['exploit'] | 1 | 2023-12-01 13:54:26+00:00 | 10220 | 0 | PHP | 0 | [] |
+| delsploit/CVE-2023-48849 | None | https://github.com/delsploit/CVE-2023-48849 | ['cve-2 OR cve_2'] | 1 | 2023-12-01 11:30:31+00:00 | 0 | 0 | | 0 | ['CVE-2023-48849'] |
 | signalscorps/cve2stix | A command line tool that turns NVD CVE records into STIX 2.1 Objects. | https://github.com/signalscorps/cve2stix | ['cve-2 OR cve_2'] | 1 | 2023-12-01 11:21:30+00:00 | 38 | 0 | Python | 0 | [] |
 | mbadanoiu/CVE-2022-40635 | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40635 | ['cve-2 OR cve_2'] | 1 | 2023-12-01 10:33:28+00:00 | 1658 | 0 | | 0 | ['CVE-2022-40635'] |
 | cop-discord/skidarchive | a repository of bots that i exploit / pull the source of and nuke | https://github.com/cop-discord/skidarchive | ['exploit'] | 1 | 2023-12-01 10:09:30+00:00 | 0 | 0 | | 0 | [] |
 | mbadanoiu/CVE-2022-40634 | CVE-2022-40634: FreeMarker Server-Side Template Injection in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40634 | ['cve-2 OR cve_2'] | 1 | 2023-12-01 10:22:46+00:00 | 1871 | 0 | | 0 | ['CVE-2022-40634'] |
 | TomKing062/CVE-2022-38691_38692 | None | https://github.com/TomKing062/CVE-2022-38691_38692 | ['cve-2 OR cve_2'] | 1 | 2023-12-01 09:31:58+00:00 | 12 | 1 | C | 0 | ['CVE-2022-38691'] |
 | caupolicanre/EI1-TP1-exportaciones-dataset | Practical work of the subject "Integrator Space 1" of the University Degree in Data Processing and Data Exploitation (U.N.E.R). Analyzing the usage data from 2017 to 2019 stored in 'Exportaciones.csv,' this project focuses on frequency analysis during spec | https://github.com/caupolicanre/EI1-TP1-exportaciones-dataset | ['exploit'] | 1 | 2023-12-01 05:38:17+00:00 | 1755 | 0 | Python | 0 | [] |
+| WHIJK/ArrayVPN-Client_sec-Exploit | Array vpn Client_sec exploit | https://github.com/WHIJK/ArrayVPN-Client_sec-Exploit | ['exploit'] | 1 | 2023-12-01 04:24:07+00:00 | 4 | 0 | Python | 0 | [] |
 | Shuhaib88/rce | None | https://github.com/Shuhaib88/rce | ['rce'] | 1 | 2023-12-01 03:47:56+00:00 | 84 | 0 | C# | 0 | [] |
 | zecter310/SE_10_Incremental_zeroday_attack | None | https://github.com/zecter310/SE_10_Incremental_zeroday_attack | ['zeroday'] | 1 | 2023-12-01 03:10:00+00:00 | 15 | 0 | Jupyter Notebook | 0 | [] |
 | bothelpersgpt/Protect-Me-Roblox- | it bassically have to execute this script on a exploit gui so it helps by using it bassically haacking but not atfer you execute this script stop hackers and more | https://github.com/bothelpersgpt/Protect-Me-Roblox- | ['exploit'] | 1 | 2023-12-01 02:21:52+00:00 | 2 | 0 | | 0 | [] |
@@ -73,8 +74,8 @@
 | codingcore13/SILENT-PDF-EXPLOIT-CLEAN | None | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN | ['exploit'] | 1 | 2023-12-01 00:16:43+00:00 | 1 | 1 | | 0 | [] |
 | codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | None | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | ['exploit'] | 1 | 2023-12-01 00:16:10+00:00 | 1 | 1 | | 0 | [] |
 | alpha-roman/cisa_gov_known_exploited_vulnerabilities_mirror | None | https://github.com/alpha-roman/cisa_gov_known_exploited_vulnerabilities_mirror | ['exploit'] | 1 | 2023-12-01 01:08:38+00:00 | 627 | 0 | | 0 | [] |
+| GatoGamer1155/BinaryExploitation | Solutions of some Buffer Overflow | https://github.com/GatoGamer1155/BinaryExploitation | ['exploit'] | 1 | 2023-12-01 04:13:35+00:00 | 79875 | 0 | Python | 0 | [] |
 | Anekant-Singhai/Exploits | Exploits working {tested my me} for various scenarios | https://github.com/Anekant-Singhai/Exploits | ['exploit'] | 1 | 2023-12-01 21:17:57+00:00 | 25 | 0 | C | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-12-01 13:14:36+00:00 | 22431 | 8986 | JavaScript | 2060 | [] |
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2023-12-01 15:48:25+00:00 | 1778 | 4 | | 2 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2023-12-01 06:36:09+00:00 | 966 | 7 | Shell | 6 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2023-12-01 04:20:22+00:00 | 3054 | 175 | Python | 14 | [] |
