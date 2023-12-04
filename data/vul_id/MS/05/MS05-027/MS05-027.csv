@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS05-027,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
-MS05-027,0.00729927,https://github.com/lobbyra/darkly,lobbyra/darkly,662526384
+MS05-027,0.00729927,https://github.com/Lobbyra/darkly,Lobbyra/darkly,662526384
 MS05-027,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
 MS05-027,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
 MS05-027,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042
@@ -24,6 +24,6 @@ MS05-027,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,5857564
 MS05-027,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 MS05-027,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS05-027,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS05-027,0.00001117,https://github.com/trickest/cve,trickest/cve,454015416
+MS05-027,0.00001115,https://github.com/trickest/cve,trickest/cve,454015416
 MS05-027,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS05-027,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
