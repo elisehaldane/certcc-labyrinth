@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS17-010,1.00000000,https://github.com/hori2012/AttackMssql_Metasploit,hori2012/AttackMssql_Metasploit,727029285
+MS17-010,1.00000000,https://github.com/d4redevilx/pivoting-windows-metasploit,d4redevilx/pivoting-windows-metasploit,726902965
 MS17-010,1.00000000,https://github.com/ASt0N1C/VulnExploites,ASt0N1C/VulnExploites,719881094
 MS17-010,1.00000000,https://github.com/AnamolZ/Exploitation,AnamolZ/Exploitation,716201805
 MS17-010,1.00000000,https://github.com/jaibirsingh/metasploit,jaibirsingh/metasploit,696561376
