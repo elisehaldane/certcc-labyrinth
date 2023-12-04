@@ -14,11 +14,11 @@ repo_id,repo_full_name,file,file_sha1,match
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#07
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#37
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#57
-561844160,openclarity/vmclarity,go.sum,709fe9a0bd7f00b4f587594d00c60ae27af74d5d,VU#61
-561844160,openclarity/vmclarity,go.sum,709fe9a0bd7f00b4f587594d00c60ae27af74d5d,VU#46
+561844160,openclarity/vmclarity,go.sum,42daef7338f81240ac667ee081a2c59f6ea904c2,VU#61
+561844160,openclarity/vmclarity,go.sum,42daef7338f81240ac667ee081a2c59f6ea904c2,VU#46
+561844160,openclarity/vmclarity,e2e/go.sum,5c28371f401c11b17d9034fa891eea6c310ccc84,VU#61
 561844160,openclarity/vmclarity,api/server/server.gen.go,89691a65089d8e3487c82053cd2d421e9a5e58b3,VU#74
 561844160,openclarity/vmclarity,api/server/server.gen.go,89691a65089d8e3487c82053cd2d421e9a5e58b3,VU#81
-561844160,openclarity/vmclarity,e2e/go.sum,8d14a68497907af54e94bc0ef147d2f749e5e28c,VU#61
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#66
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#719
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#94
