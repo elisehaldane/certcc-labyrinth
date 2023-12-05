@@ -4,6 +4,8 @@ repo_id,repo_full_name,file,file_sha1,match
 675204846,VulnExpo/ExploitHunter,Liferay_CVE-2020-7961_Exploit.py,809e0d7d7b991d91f5f236d18a12ea1ccd974083,CVE-2020-7961
 675204846,VulnExpo/ExploitHunter,citrix_CVE-2023-4966_exploit.py,948e1358492d84b81a8b83fa871b006f191f9a3c,CVE-2023-4966
 675204846,VulnExpo/ExploitHunter,f5_CVE-2023-46747_exploit.py,9cf84e212b0c60d43b02ead40c70a8676b10d03e,CVE-2023-46747
+675204846,VulnExpo/ExploitHunter,OwnCloud_CVE-2023-49105_Exploit.py,aec3768fdef29df3e33b18acb6959db870fe48c9,CVE-2023-49103
+675204846,VulnExpo/ExploitHunter,OwnCloud_CVE-2023-49105_Exploit.py,aec3768fdef29df3e33b18acb6959db870fe48c9,CVE-2023-49105
 675204846,VulnExpo/ExploitHunter,juniper-cve-2023-36845.py,b0f24abeb4fa3011b227da181fa6cc9200163af7,CVE-2023-36844
 675204846,VulnExpo/ExploitHunter,juniper-cve-2023-36845.py,b0f24abeb4fa3011b227da181fa6cc9200163af7,CVE-2023-36845
 675204846,VulnExpo/ExploitHunter,Jorani_CVE-2023-26469_exp.py,b8c70270e1333eec5a4be3ee2033db1587674f76,CVE-2023-26469
