@@ -156,6 +156,7 @@ repo_id,repo_full_name,file,file_sha1,match
 341595907,googleprojectzero/0days-in-the-wild,0day-RCAs/2020/CVE-2020-17087.md,a203816a4a6c052a2350c0169ef3d39fb86d4de6,GPZ-2104
 341595907,googleprojectzero/0days-in-the-wild,0day-RCAs/2021/CVE-2021-26411.md,a33484e0c6ca2bfa6f34ae32c65b3ed89f906b28,CVE-2019-1208
 341595907,googleprojectzero/0days-in-the-wild,0day-RCAs/2021/CVE-2021-26411.md,a33484e0c6ca2bfa6f34ae32c65b3ed89f906b28,CVE-2021-26411
+341595907,googleprojectzero/0days-in-the-wild,0day-RCAs/2021/CVE-2021-4102.md,a45f9e3156bf6d7c2ca2de6863d340a38adc340f,CVE-2021-4102
 341595907,googleprojectzero/0days-in-the-wild,0day-RCAs/2020/CVE-2020-1380.md,a60ec5e15747eec406265336ab463b465ccf5314,CVE-2020-0674
 341595907,googleprojectzero/0days-in-the-wild,0day-RCAs/2020/CVE-2020-1380.md,a60ec5e15747eec406265336ab463b465ccf5314,CVE-2020-1380
 341595907,googleprojectzero/0days-in-the-wild,0day-RCAs/2020/CVE-2020-1380.md,a60ec5e15747eec406265336ab463b465ccf5314,CVE-2020-0986
