@@ -1,7 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-561844160,openclarity/vmclarity,go.sum,161f30f9da19542f3423af843876ab26e22fc618,VU#752
-561844160,openclarity/vmclarity,go.sum,161f30f9da19542f3423af843876ab26e22fc618,VU#61
-561844160,openclarity/vmclarity,go.sum,161f30f9da19542f3423af843876ab26e22fc618,VU#46
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#94
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#72
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#75
@@ -9,14 +6,17 @@ repo_id,repo_full_name,file,file_sha1,match
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#66
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#78
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#59
+561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#797
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#57
-561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#37
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#07
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#798
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#8118
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#89
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#90
-561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#797
+561844160,openclarity/vmclarity,img/vmclarity-arch-20230725.svg,20bd135534542854f59c954a6c99134de10914e6,VU#37
+561844160,openclarity/vmclarity,go.sum,6c5cbe72b9ab7d0e575833db526b8b1221f58541,VU#46
+561844160,openclarity/vmclarity,go.sum,6c5cbe72b9ab7d0e575833db526b8b1221f58541,VU#61
+561844160,openclarity/vmclarity,go.sum,6c5cbe72b9ab7d0e575833db526b8b1221f58541,VU#752
 561844160,openclarity/vmclarity,api/server/server.gen.go,89691a65089d8e3487c82053cd2d421e9a5e58b3,VU#74
 561844160,openclarity/vmclarity,api/server/server.gen.go,89691a65089d8e3487c82053cd2d421e9a5e58b3,VU#81
 561844160,openclarity/vmclarity,img/vmclarity-arch-20230406.svg,9ac51a1fb4bf206ac5af05f9b4f5dc58dacf1cc6,VU#78
