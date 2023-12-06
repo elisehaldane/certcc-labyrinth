@@ -6,6 +6,7 @@ repo_id,repo_full_name,file,file_sha1,match
 410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,0040b83377e8f061fd7624e030ece36871e0cba9,VU#87
 410428285,1337r0j4n/php-backdoors,SHELLs/U7TiM4T3_H4x0R Bypass Shell/h4x0r.php,0040b83377e8f061fd7624e030ece36871e0cba9,VU#12
 410428285,1337r0j4n/php-backdoors,SHELLs/Anonymous Shell/anon.php,03733606584e53714232b76f9d075eddf04b0d85,VU#33
+410428285,1337r0j4n/php-backdoors,SHELLs/Mad Tools Shell/mad.php,0a0c7b7e34f87a821837b9d7307a3dd8b5c94870,VU#12
 410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,1f56b12904911f9ba3695effbe9204dc6b2df36c,VU#29
 410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,1f56b12904911f9ba3695effbe9204dc6b2df36c,VU#25
 410428285,1337r0j4n/php-backdoors,SHELLs/RC Shell/rc.php,1f56b12904911f9ba3695effbe9204dc6b2df36c,VU#19
@@ -26,11 +27,11 @@ repo_id,repo_full_name,file,file_sha1,match
 410428285,1337r0j4n/php-backdoors,SHELLs/Priv8 Shell/priv8.php,7cf57fa74c93537da3195feed70d9a281d6218fb,VU#962
 410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#51
 410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#510
-410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#64
 410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#48
 410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#39
 410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#93
 410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#567
+410428285,1337r0j4n/php-backdoors,SHELLs/WSO Shell/wso.php,83593b4ee8465cafac4d068654cd4042b5288e01,VU#64
 410428285,1337r0j4n/php-backdoors,.img/64.jpeg,8d69928a6515d97c29e25fefe1a88f34e6f06c28,VU#13
 410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa.php,8ea588d042c5f600c5f775d4c12bcb135e53ba5d,VU#12
 410428285,1337r0j4n/php-backdoors,SHELLs/ALFA Team Shell/alfa.php,8ea588d042c5f600c5f775d4c12bcb135e53ba5d,VU#41
