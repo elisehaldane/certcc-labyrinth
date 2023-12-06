@@ -20,6 +20,7 @@ VU#83,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-PO
 VU#83,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#83,0.25000000,https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc,EdoardoVignati/java-deserialization-of-untrusted-data-poc,125351182
 VU#83,0.20000000,https://github.com/yTxZx/FastJson1.2.24_RCE_exploit,yTxZx/FastJson1.2.24_RCE_exploit,694578895
+VU#83,0.20000000,https://github.com/Yana-Gupta/rce,Yana-Gupta/rce,685523997
 VU#83,0.20000000,https://github.com/ruchirasvmm/log4j-exploit-demo,ruchirasvmm/log4j-exploit-demo,489876123
 VU#83,0.20000000,https://github.com/scottymcandrew/exploit-labs,scottymcandrew/exploit-labs,478164772
 VU#83,0.20000000,https://github.com/HelloLyfing/log4j2-rce-202112-poc,HelloLyfing/log4j2-rce-202112-poc,442988778
@@ -340,8 +341,9 @@ VU#83,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973
 VU#83,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#83,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#83,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#83,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#83,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#83,0.00019186,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#83,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#83,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

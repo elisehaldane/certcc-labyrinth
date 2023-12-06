@@ -21,6 +21,7 @@ VU#57,0.25000000,https://github.com/RobertoLFRA/exploit-tools,RobertoLFRA/exploi
 VU#57,0.25000000,https://github.com/FIRSTdotorg/epss,FIRSTdotorg/epss,487842087
 VU#57,0.25000000,https://github.com/Charline7/final-project-le-lasserre,Charline7/final-project-le-lasserre,475413214
 VU#57,0.25000000,https://github.com/ivam3/embed,ivam3/embed,145826519
+VU#57,0.20000000,https://github.com/louane20/MicroP-Exploit-,louane20/MicroP-Exploit-,727850137
 VU#57,0.20000000,https://github.com/pswalia2u/CVE-2020-7246,pswalia2u/CVE-2020-7246,537412534
 VU#57,0.20000000,https://github.com/appollosputnik/aerodynamicCodeBase,appollosputnik/aerodynamicCodeBase,511043742
 VU#57,0.20000000,https://github.com/Daparod/3dapp,Daparod/3dapp,507071597
@@ -34,6 +35,7 @@ VU#57,0.16666667,https://github.com/bladeskilled/Jine-Exploit,bladeskilled/Jine-
 VU#57,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#57,0.12500000,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810
 VU#57,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit,whoami-chmod777/Buffer-Overflow-Exploit,720209650
+VU#57,0.11111111,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#57,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#57,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
 VU#57,0.11111111,https://github.com/hvmi/hvmi,hvmi/hvmi,283759384
@@ -107,6 +109,7 @@ VU#57,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Mod
 VU#57,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#57,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#57,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
+VU#57,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#57,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#57,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#57,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
@@ -117,7 +120,6 @@ VU#57,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_dis
 VU#57,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
 VU#57,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#57,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
-VU#57,0.01724138,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#57,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#57,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#57,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
@@ -300,8 +302,9 @@ VU#57,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973
 VU#57,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#57,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#57,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#57,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#57,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#57,0.00019186,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#57,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#57,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#57,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#57,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

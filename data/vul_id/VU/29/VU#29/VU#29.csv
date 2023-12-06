@@ -310,6 +310,7 @@ VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#29,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#29,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -322,7 +323,6 @@ VU#29,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-
 VU#29,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
 VU#29,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#29,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
-VU#29,0.01724138,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#29,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#29,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#29,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
@@ -550,8 +550,9 @@ VU#29,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973
 VU#29,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#29,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#29,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#29,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#29,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#29,0.00019186,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

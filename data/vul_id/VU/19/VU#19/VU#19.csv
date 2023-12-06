@@ -106,6 +106,7 @@ VU#19,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-comput
 VU#19,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#19,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#19,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
+VU#19,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#19,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#19,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#19,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
@@ -121,7 +122,6 @@ VU#19,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE
 VU#19,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#19,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#19,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
-VU#19,0.01724138,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#19,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#19,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#19,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
@@ -311,8 +311,9 @@ VU#19,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973
 VU#19,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#19,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#19,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#19,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#19,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#19,0.00019186,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#19,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#19,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#19,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#19,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

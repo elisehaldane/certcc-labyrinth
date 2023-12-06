@@ -152,6 +152,7 @@ VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#61,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#61,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
@@ -160,7 +161,6 @@ VU#61,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_dis
 VU#61,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#61,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#61,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
-VU#61,0.01724138,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#61,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#61,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#61,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
@@ -335,8 +335,9 @@ VU#61,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973
 VU#61,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#61,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#61,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#61,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#61,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#61,0.00019186,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#61,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

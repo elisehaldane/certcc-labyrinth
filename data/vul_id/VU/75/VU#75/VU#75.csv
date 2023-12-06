@@ -145,6 +145,7 @@ VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#75,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#75,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#75,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#75,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#75,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -153,7 +154,6 @@ VU#75,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu
 VU#75,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#75,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
 VU#75,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
-VU#75,0.01724138,https://github.com/RiotDevelopment/LuffyExploits,RiotDevelopment/LuffyExploits,704740021
 VU#75,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#75,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#75,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
@@ -352,8 +352,9 @@ VU#75,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973
 VU#75,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#75,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#75,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#75,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#75,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#75,0.00019186,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#75,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#75,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#75,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#75,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
