@@ -22,6 +22,6 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,ivre-scan-config.txt,79399289fba51751f037f23705fd157d30939ae1,MS12-020
 264704306,aryanguenthner/365,cve-2020-0796.nse,b07e623b1a071d580b1391085c9bb89559665928,CVE-2020-0796
 264704306,aryanguenthner/365,cve-2020-0796.nse,b07e623b1a071d580b1391085c9bb89559665928,VU#872016
-264704306,aryanguenthner/365,pingsweep.sh,d5de4bedfc5a013dd1b9fce2de7642c5e4ad9b33,MS12-020
-264704306,aryanguenthner/365,pingsweep.sh,d5de4bedfc5a013dd1b9fce2de7642c5e4ad9b33,MS08-067
-264704306,aryanguenthner/365,pingsweep.sh,d5de4bedfc5a013dd1b9fce2de7642c5e4ad9b33,MS17-010
+264704306,aryanguenthner/365,pingsweep.sh,b47e13f7c8c22cf089e73bb3f0e5cf9ea5375b58,MS12-020
+264704306,aryanguenthner/365,pingsweep.sh,b47e13f7c8c22cf089e73bb3f0e5cf9ea5375b58,MS08-067
+264704306,aryanguenthner/365,pingsweep.sh,b47e13f7c8c22cf089e73bb3f0e5cf9ea5375b58,MS17-010
