@@ -1,13 +1,12 @@
 
 # Summary for results/2023/12/06
     
-163 records found after deduplication
+164 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-12-06 16:32:43+00:00 | 987193 | 31787 | Ruby | 13660 | [] |
-| louane20/MicroP-Exploit- | None | https://github.com/louane20/MicroP-Exploit- | ['exploit'] | 1 | 2023-12-06 17:30:52+00:00 | 15178 | 0 | Python | 0 | [] |
-| yhnbgf/autokeycloak | auto exploit keycloak http login | https://github.com/yhnbgf/autokeycloak | ['exploit'] | 1 | 2023-12-06 06:10:08+00:00 | 4 | 0 | Python | 0 | [] |
+| anishferoz007/Binary-Exploitation | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | ['exploit'] | 1 | 2023-12-06 12:40:18+00:00 | 13 | 0 | C | 0 | [] |
 | smokeintheshell/CVE-2023-20198 | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2023-12-06 00:52:15+00:00 | 24 | 6 | Python | 0 | ['CVE-2023-20198'] |
 | t34t/heap_exploit_learning | None | https://github.com/t34t/heap_exploit_learning | ['exploit'] | 1 | 2023-12-06 07:38:45+00:00 | 3443 | 1 | | 0 | [] |
 | MrXiao7/Notes | 在科锐学习逆向工程中的笔记，大概内容为8086汇编，win32汇编，调试器原理，pe文件格式，32位64位反汇编，壳的原理，shellcode，x86/x64内核 | https://github.com/MrXiao7/Notes | ['shellcode'] | 1 | 2023-12-06 03:09:13+00:00 | 26331 | 1 | | 0 | [] |
@@ -24,10 +23,11 @@
 | d4redevilx/pivoting-windows-metasploit | None | https://github.com/d4redevilx/pivoting-windows-metasploit | ['metasploit module OR payload'] | 1 | 2023-12-06 00:00:52+00:00 | 101 | 0 | | 0 | [] |
 | matt7673/easy-exploit-site | just a thrown together exploited site | https://github.com/matt7673/easy-exploit-site | ['exploit'] | 1 | 2023-12-06 04:31:11+00:00 | 11069 | 0 | Python | 0 | [] |
 | i8mb/Chrome-OS-Exploits | Chrome OS Exploits, is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OS-Exploits | ['exploit'] | 1 | 2023-12-06 02:51:53+00:00 | 114 | 0 | HTML | 0 | [] |
-| anishferoz007/Binary-Exploitation | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | ['exploit'] | 1 | 2023-12-06 12:40:18+00:00 | 13 | 0 | C | 0 | [] |
+| badboycxcc/CVE-2023-24100 | nuclei templates CVE RCE CNVD IoT | https://github.com/badboycxcc/CVE-2023-24100 | ['cve-2 OR cve_2', 'rce'] | 2 | 2023-12-06 13:48:06+00:00 | 5 | 0 | | 1 | ['CVE-2023-24100'] |
+| yhnbgf/autokeycloak | auto exploit keycloak http login | https://github.com/yhnbgf/autokeycloak | ['exploit'] | 1 | 2023-12-06 06:10:08+00:00 | 4 | 0 | Python | 0 | [] |
 | vulsio/vuls-data-raw-exploit-trickest | None | https://github.com/vulsio/vuls-data-raw-exploit-trickest | ['exploit'] | 1 | 2023-12-06 18:01:38+00:00 | 54721 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-12-06 04:49:01+00:00 | 22425 | 8995 | JavaScript | 2061 | [] |
 | vulsio/vuls-data-raw-exploit-inthewild | None | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | ['exploit'] | 1 | 2023-12-06 00:01:53+00:00 | 30241 | 0 | | 0 | [] |
-| Leo4j/Amnesiac | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | ['exploit'] | 1 | 2023-12-06 09:19:53+00:00 | 2658 | 146 | PowerShell | 32 | [] |
 | dbx0/oh-my-vault | Oh My Vault! is the ultimate framework created to exploit and automate pen testing on the OpenMediaVault NAS solution. | https://github.com/dbx0/oh-my-vault | ['exploit'] | 1 | 2023-12-06 05:12:50+00:00 | 29 | 0 | Python | 0 | [] |
 | bo-wen-zhang/battleground | Creating a remote code execution engine for an online programming platform. | https://github.com/bo-wen-zhang/battleground | ['remote code execution'] | 1 | 2023-12-06 22:48:25+00:00 | 28 | 0 | Go | 0 | [] |
 | cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2023-12-06 04:07:36+00:00 | 60273 | 0 | Python | 0 | [] |
@@ -35,8 +35,8 @@
 | alpha-roman/cisa_gov_known_exploited_vulnerabilities_mirror | None | https://github.com/alpha-roman/cisa_gov_known_exploited_vulnerabilities_mirror | ['exploit'] | 1 | 2023-12-06 01:03:53+00:00 | 796 | 0 | | 0 | [] |
 | Cyfrin/sc-exploits-minimized | A repo to showcase web3 hacks | https://github.com/Cyfrin/sc-exploits-minimized | ['exploit'] | 1 | 2023-12-06 01:27:16+00:00 | 8565 | 18 | Solidity | 2 | [] |
 | Elsie-Kgafela/Roblox-Exploit-API | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it | https://github.com/Elsie-Kgafela/Roblox-Exploit-API | ['exploit'] | 1 | 2023-12-06 04:58:16+00:00 | 100 | 0 | C# | 0 | [] |
+| Leo4j/Amnesiac | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | ['exploit'] | 1 | 2023-12-06 09:19:53+00:00 | 2658 | 146 | PowerShell | 32 | [] |
 | gemesa/shadow-shell | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | ['exploit', 'shellcode'] | 2 | 2023-12-06 18:46:26+00:00 | 56 | 5 | Assembly | 1 | [] |
-| vulsio/vuls-data-raw-exploit-github | None | https://github.com/vulsio/vuls-data-raw-exploit-github | ['exploit'] | 1 | 2023-12-06 00:01:48+00:00 | 6912 | 0 | | 0 | [] |
 | TheF0rceAwak5ns/TheF0rceAwak5ns.github.io | Official blog of the group "TheForceAwakens" | https://github.com/TheF0rceAwak5ns/TheF0rceAwak5ns.github.io | ['rce'] | 1 | 2023-12-06 14:31:29+00:00 | 4201 | 2 | Ruby | 0 | [] |
 | Jarva/FixContainerSlotExploit | None | https://github.com/Jarva/FixContainerSlotExploit | ['exploit'] | 1 | 2023-12-06 15:19:41+00:00 | 77 | 1 | Java | 0 | [] |
 | gooseisgoose/exploits-and-stuff | for school. | https://github.com/gooseisgoose/exploits-and-stuff | ['exploit'] | 1 | 2023-12-06 22:46:04+00:00 | 62 | 2 | HTML | 0 | [] |
@@ -44,11 +44,11 @@
 | rpizziol/exploring-exploiting-index | None | https://github.com/rpizziol/exploring-exploiting-index | ['exploit'] | 1 | 2023-12-06 15:37:24+00:00 | 6364 | 0 | Python | 0 | [] |
 | lost-rob0t/hackmode | Interactive lisp as a exploit metaframework | https://github.com/lost-rob0t/hackmode | ['exploit'] | 1 | 2023-12-06 15:48:37+00:00 | 206 | 1 | Common Lisp | 0 | [] |
 | ashen-cloud/injeneer | RCE payload scanner/injector | https://github.com/ashen-cloud/injeneer | ['rce'] | 1 | 2023-12-06 16:42:16+00:00 | 59 | 0 | Python | 0 | [] |
-| badboycxcc/CVE-2023-24100 | nuclei templates CVE RCE CNVD IoT | https://github.com/badboycxcc/CVE-2023-24100 | ['cve-2 OR cve_2', 'rce'] | 2 | 2023-12-06 13:48:06+00:00 | 5 | 0 | | 1 | ['CVE-2023-24100'] |
+| vulsio/vuls-data-raw-exploit-github | None | https://github.com/vulsio/vuls-data-raw-exploit-github | ['exploit'] | 1 | 2023-12-06 00:01:48+00:00 | 6912 | 0 | | 0 | [] |
+| louane20/MicroP-Exploit- | None | https://github.com/louane20/MicroP-Exploit- | ['exploit'] | 1 | 2023-12-06 17:30:52+00:00 | 15178 | 0 | Python | 0 | [] |
 | Fionitos/OtterGodMode | Super exploit from 2k11 | https://github.com/Fionitos/OtterGodMode | ['exploit'] | 1 | 2023-12-06 16:22:00+00:00 | 17 | 0 | Java | 2 | [] |
-| ocrossi/binary_exploitation | None | https://github.com/ocrossi/binary_exploitation | ['exploit'] | 1 | 2023-12-06 15:18:19+00:00 | 927 | 0 | C | 0 | [] |
 | willbrst/poc-vuln-java | Projeto de teste de vulnerabilidades. | https://github.com/willbrst/poc-vuln-java | ['vuln poc'] | 1 | 2023-12-06 19:39:38+00:00 | 581 | 0 | Java | 0 | [] |
-| tommyshark/myexploits | My own exploits during solving CTFs | https://github.com/tommyshark/myexploits | ['exploit'] | 1 | 2023-12-06 16:50:26+00:00 | 0 | 0 | Python | 0 | [] |
+| MiguelVascoDevWeb/rce | None | https://github.com/MiguelVascoDevWeb/rce | ['rce'] | 1 | 2023-12-06 23:48:35+00:00 | 10 | 0 | CSS | 0 | [] |
 | AmadiMichael/UnsafeECC | POCs and In-depth explanation of the logic behind common ECC edge cases and attack vectors | https://github.com/AmadiMichael/UnsafeECC | ['attack poc'] | 1 | 2023-12-06 16:37:22+00:00 | 0 | 0 | Python | 0 | [] |
 | CTF-Archives/docker-unauthorized-tool | Unauthorized Docker Exploitation Tool | https://github.com/CTF-Archives/docker-unauthorized-tool | ['exploit'] | 1 | 2023-12-06 16:58:26+00:00 | 0 | 0 | Python | 0 | [] |
 | redhat-appstudio-qe/mc-golang-nested-8lMY4-exploit-contain | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-8lMY4-exploit-contain | ['exploit'] | 1 | 2023-12-06 17:03:36+00:00 | 0 | 0 | | 0 | [] |
@@ -58,6 +58,7 @@
 | Mide478/Subsurface-Resource-Analog | A Machine Learning Workflow to Support the Identification of Subsurface Resource Analogs. Energy Exploration & Exploitation. 2023;0(0). | https://github.com/Mide478/Subsurface-Resource-Analog | ['exploit'] | 1 | 2023-12-06 20:23:00+00:00 | 6339 | 0 | Jupyter Notebook | 0 | [] |
 | cyb34punk/Porch-Pirate | Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets. | https://github.com/cyb34punk/Porch-Pirate | ['exploit'] | 1 | 2023-12-06 19:27:35+00:00 | 57 | 0 | Python | 0 | [] |
 | cyb34punk/Commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/cyb34punk/Commix | ['command injection', 'exploit'] | 2 | 2023-12-06 19:41:46+00:00 | 2693 | 0 | Python | 0 | [] |
+| smith961/farm_mart_frontend | A Web Application which will enable the farmer to sell his livestock to the customer without any constraints and exploitation of the middleman. | https://github.com/smith961/farm_mart_frontend | ['exploit'] | 1 | 2023-12-06 20:28:36+00:00 | 0 | 0 | | 0 | [] |
 | akashialt/w-azure | roblox exploiter (web) | https://github.com/akashialt/w-azure | ['exploit'] | 1 | 2023-12-06 20:47:23+00:00 | 13199 | 0 | | 0 | [] |
 | manesec/shellcodeloader4mane | shell code loader help for pentesting. | https://github.com/manesec/shellcodeloader4mane | ['shellcode'] | 1 | 2023-12-06 20:22:33+00:00 | 24036 | 0 | C++ | 0 | [] |
 | hackgnar/setc | SETC: Security Exploit Telemetry Container Framework | https://github.com/hackgnar/setc | ['exploit'] | 1 | 2023-12-06 20:55:08+00:00 | 4 | 0 | | 0 | [] |
@@ -65,33 +66,33 @@
 | codingcore13/SILENT-PDF-EXPLOIT-CLEAN-y | None | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-y | ['exploit'] | 1 | 2023-12-06 23:16:24+00:00 | 1 | 1 | | 0 | [] |
 | codingcore13/SILENT-DOC-EXPLOIT-CLEAN-y | None | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-y | ['exploit'] | 1 | 2023-12-06 23:17:14+00:00 | 1 | 1 | | 0 | [] |
 | codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | None | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | ['exploit'] | 1 | 2023-12-06 23:17:50+00:00 | 1 | 1 | | 0 | [] |
+| tommyshark/myexploits | My own exploits during solving CTFs | https://github.com/tommyshark/myexploits | ['exploit'] | 1 | 2023-12-06 16:50:26+00:00 | 0 | 0 | Python | 0 | [] |
 | jonathan-laco/exploit-db | None | https://github.com/jonathan-laco/exploit-db | ['exploit'] | 1 | 2023-12-06 15:20:19+00:00 | 3 | 0 | Python | 0 | [] |
 | nxtung215/ptit-metasploit | None | https://github.com/nxtung215/ptit-metasploit | ['metasploit module OR payload'] | 1 | 2023-12-06 15:10:36+00:00 | 52 | 0 | | 0 | [] |
-| NadirYa/Securite-ShellCode | Activité Nadir YALA Sécurité Shell Code | https://github.com/NadirYa/Securite-ShellCode | ['shellcode'] | 1 | 2023-12-06 13:43:30+00:00 | 0 | 0 | | 0 | [] |
-| rcepedawsp/rcepedawsp.github.io | None | https://github.com/rcepedawsp/rcepedawsp.github.io | ['rce'] | 1 | 2023-12-06 09:54:17+00:00 | 5 | 0 | HTML | 0 | [] |
-| MiguelVascoDevWeb/rce | None | https://github.com/MiguelVascoDevWeb/rce | ['rce'] | 1 | 2023-12-06 23:48:35+00:00 | 10 | 0 | CSS | 0 | [] |
+| AugmentedSecurityForce/CISA_KEV_Alert_Script | This repository features Python scripts for email alerts on newly published Known Exploited Vulnerabilities (KEV) by CISA. Stay informed about the latest security threats with automated notifications. Safeguard your systems by addressing potential threats | https://github.com/AugmentedSecurityForce/CISA_KEV_Alert_Script | ['exploit'] | 1 | 2023-12-06 10:10:50+00:00 | 380 | 0 | Python | 0 | [] |
 | diego-tella/CVE-2023-1326-PoC | A proof of concept for CVE-2023–1326 in apport-cli 2.26.0 | https://github.com/diego-tella/CVE-2023-1326-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-12-06 00:15:37+00:00 | 1 | 0 | | 0 | ['CVE-2023-1326'] |
 | joaoFinder/Silent-PDF-Exploit-2024 | Silent PDF Exploit | https://github.com/joaoFinder/Silent-PDF-Exploit-2024 | ['exploit'] | 1 | 2023-12-06 00:48:29+00:00 | 1 | 0 | | 0 | [] |
 | joaoFinder/Silent-Excel-Exploit-2023 | None | https://github.com/joaoFinder/Silent-Excel-Exploit-2023 | ['exploit'] | 1 | 2023-12-06 00:49:26+00:00 | 1 | 0 | | 0 | [] |
 | AnasAlkore1111/Metasploit-assistant | None | https://github.com/AnasAlkore1111/Metasploit-assistant | ['metasploit module OR payload'] | 1 | 2023-12-06 02:56:42+00:00 | 2 | 0 | Shell | 0 | [] |
 | Aledangelo/EvilSln | PoC - Attack Visual Studio for Initial Access | https://github.com/Aledangelo/EvilSln | ['attack poc'] | 1 | 2023-12-06 13:26:57+00:00 | 6 | 0 | C# | 0 | [] |
 | jovan-rgb/metasploit-framework | None | https://github.com/jovan-rgb/metasploit-framework | ['metasploit module OR payload'] | 1 | 2023-12-06 10:14:11+00:00 | 70474 | 0 | Ruby | 0 | [] |
-| AugmentedSecurityForce/CISA_KEV_Alert_Script | This repository features Python scripts for email alerts on newly published Known Exploited Vulnerabilities (KEV) by CISA. Stay informed about the latest security threats with automated notifications. Safeguard your systems by addressing potential threats | https://github.com/AugmentedSecurityForce/CISA_KEV_Alert_Script | ['exploit'] | 1 | 2023-12-06 10:10:50+00:00 | 380 | 0 | Python | 0 | [] |
-| Xn2/CVE-2023-46474 | PoC for CVE-2023-46474. | https://github.com/Xn2/CVE-2023-46474 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-12-06 13:05:22+00:00 | 0 | 0 | | 0 | ['CVE-2023-46474'] |
+| rcepedawsp/rcepedawsp.github.io | None | https://github.com/rcepedawsp/rcepedawsp.github.io | ['rce'] | 1 | 2023-12-06 09:54:17+00:00 | 5 | 0 | HTML | 0 | [] |
 | MattDavies-code/Computer-Security-CW3 | Binary Exploits using Shell | https://github.com/MattDavies-code/Computer-Security-CW3 | ['exploit'] | 1 | 2023-12-06 10:40:25+00:00 | 143 | 0 | Shell | 0 | [] |
+| NadirYa/Securite-ShellCode | Activité Nadir YALA Sécurité Shell Code | https://github.com/NadirYa/Securite-ShellCode | ['shellcode'] | 1 | 2023-12-06 13:43:30+00:00 | 0 | 0 | | 0 | [] |
 | Nguyen-id/CVE-2020-25213 | None | https://github.com/Nguyen-id/CVE-2020-25213 | ['cve-2 OR cve_2'] | 1 | 2023-12-06 10:47:51+00:00 | 2 | 0 | Python | 0 | ['CVE-2020-25213'] |
 | hitfounder/exploit | None | https://github.com/hitfounder/exploit | ['exploit'] | 1 | 2023-12-06 11:52:44+00:00 | 17 | 0 | C++ | 0 | [] |
 | AureoleHuertose2/PDF | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | ['0day', 'exploit'] | 2 | 2023-12-06 12:41:16+00:00 | 1335 | 1 | nan | 0 | [] |
 | callgh0st/CVEFetcher | None | https://github.com/callgh0st/CVEFetcher | ['cve poc', 'vulnerability poc'] | 2 | 2023-12-06 13:55:18+00:00 | 17 | 5 | Python | 0 | [] |
 | SploitCoder/IMVU-FREEMIUM-PLAY | Guest awaits chat tools freemium! | https://github.com/SploitCoder/IMVU-FREEMIUM-PLAY | ['sploit'] | 1 | 2023-12-06 14:46:44+00:00 | 3 | 1 | | 0 | [] |
 | SimonDE2107-DEV/BungeeHack | This System allows you to change your uuid, therefor allows you to abuse some bungeecord exploits | https://github.com/SimonDE2107-DEV/BungeeHack | ['exploit'] | 1 | 2023-12-06 13:03:09+00:00 | 4 | 0 | Java | 0 | [] |
+| Xn2/CVE-2023-46474 | PoC for CVE-2023-46474. | https://github.com/Xn2/CVE-2023-46474 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2023-12-06 13:05:22+00:00 | 0 | 0 | | 0 | ['CVE-2023-46474'] |
 | Riotscripter/LuffyExploits | None | https://github.com/Riotscripter/LuffyExploits | ['exploit'] | 1 | 2023-12-06 17:02:31+00:00 | 39667 | 0 | Lua | 0 | [] |
+| ocrossi/binary_exploitation | None | https://github.com/ocrossi/binary_exploitation | ['exploit'] | 1 | 2023-12-06 15:18:19+00:00 | 927 | 0 | C | 0 | [] |
 | 19gabates/biggerWebsites | biggerWebsites is a bash file that spawn php webshells throughout the system. It spawns the shells using php and the website spawned allows for RCE on the root level. The script also creates systemd processes so that upon restart it spawns the websites aga | https://github.com/19gabates/biggerWebsites | ['rce'] | 1 | 2023-12-06 19:07:45+00:00 | 8 | 1 | Shell | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2023-12-06 04:49:01+00:00 | 22425 | 8995 | JavaScript | 2061 | [] |
 | teknologi-umum/pesto | Remote Code Execution Engine that lets you execute any piece of code on a remote server via REST API | https://github.com/teknologi-umum/pesto | ['rce', 'remote code execution'] | 2 | 2023-12-06 16:41:51+00:00 | 2539 | 21 | TypeScript | 5 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2023-12-06 03:22:06+00:00 | 184 | 0 | PHP | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-12-06 04:03:06+00:00 | 425362 | 759 | Python | 184 | [] |
-| IOxCyber/CyberEssentials | Burp_Suite, Cloud-Security, Linux Editors, Metasploit, OWSAP Top 10, Securuty_Frameworks, Vulnerability Info | https://github.com/IOxCyber/CyberEssentials | ['metasploit module OR payload', 'zeroday'] | 2 | 2023-12-06 09:04:36+00:00 | 245 | 1 | nan | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2023-12-06 04:03:06+00:00 | 425358 | 759 | Python | 184 | [] |
+| IOxCyber/CyberEssentials | Burp_Suite, Cloud-Security, Linux Editors, Metasploit, OWSAP Top 10, Securuty_Frameworks, Vulnerability Info | https://github.com/IOxCyber/CyberEssentials | ['metasploit module OR payload', 'zeroday'] | 2 | 2023-12-06 09:04:36+00:00 | 245 | 1 | | 0 | [] |
 | brightio/penelope | Penelope Shell Handler | https://github.com/brightio/penelope | ['rce'] | 1 | 2023-12-06 12:23:35+00:00 | 272 | 377 | Python | 60 | [] |
 | octorber123/YoloV4-predictive-object-search-robot | A predictive object search robot, that can quickly find, never before seen objects in the home environment by hypothesizing their location. It achieves this by using a model that exploits patterns seen in the home environment. | https://github.com/octorber123/YoloV4-predictive-object-search-robot | ['exploit'] | 1 | 2023-12-06 10:25:04+00:00 | 26630 | 1 | Python | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2023-12-06 01:16:58+00:00 | 3300 | 235 | HTML | 17 | [] |
