@@ -44,7 +44,6 @@ VU#98,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOp
 VU#98,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
 VU#98,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
 VU#98,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
-VU#98,0.06666667,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#98,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992214
 VU#98,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#98,0.05882353,https://github.com/KChuene/Version-1-Malware,KChuene/Version-1-Malware,693348410
@@ -53,9 +52,11 @@ VU#98,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploit
 VU#98,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt2,SzeKiatTan/nlp-cve-vendor-classification-gpt2,562010558
 VU#98,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
 VU#98,0.05555556,https://github.com/CBIIT/rcellminerUtilsCDB,CBIIT/rcellminerUtilsCDB,178019444
+VU#98,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
 VU#98,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
 VU#98,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-vuln-java-2,662788989
 VU#98,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
+VU#98,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#98,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#98,0.05000000,https://github.com/sotyarena/web-exploitation-3,sotyarena/web-exploitation-3,616821702
 VU#98,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
@@ -362,7 +363,7 @@ VU#98,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework
 VU#98,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#98,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#98,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#98,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#98,0.00019175,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#98,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#98,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#98,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

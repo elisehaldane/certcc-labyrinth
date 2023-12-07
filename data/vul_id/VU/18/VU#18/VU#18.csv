@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#18,1.00000000,https://github.com/akashialt/w-azure,akashialt/w-azure,728379660
 VU#18,1.00000000,https://github.com/sukantamajhi/rcEcom,sukantamajhi/rcEcom,722469524
 VU#18,1.00000000,https://github.com/SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,609224670
 VU#18,1.00000000,https://github.com/bugverma/CTFs-Walkthroughs,bugverma/CTFs-Walkthroughs,567908810
@@ -38,6 +39,7 @@ VU#18,0.50000000,https://github.com/summit-defi/grim-users-shares,summit-defi/gr
 VU#18,0.50000000,https://github.com/hihiben/exploit_simulation_template,hihiben/exploit_simulation_template,424849082
 VU#18,0.50000000,https://github.com/agrarian-systems-consulting/endagri-front,agrarian-systems-consulting/endagri-front,271640691
 VU#18,0.50000000,https://github.com/AS400JPLPC/nim_termcurs,AS400JPLPC/nim_termcurs,258618257
+VU#18,0.33333333,https://github.com/cherrypopsicle/insurance-platform,cherrypopsicle/insurance-platform,728328078
 VU#18,0.33333333,https://github.com/b0songsong/CodeEngn-RCE,b0songsong/CodeEngn-RCE,721034395
 VU#18,0.33333333,https://github.com/https-sam/Remote-Code-Execution,https-sam/Remote-Code-Execution,615927991
 VU#18,0.33333333,https://github.com/vulcanet/rce-jsp-status-page,vulcanet/rce-jsp-status-page,614003042
@@ -326,6 +328,7 @@ VU#18,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#18,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#18,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#18,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
+VU#18,0.00704225,https://github.com/Mide478/Subsurface-Resource-Analog,Mide478/Subsurface-Resource-Analog,728353574
 VU#18,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#18,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#18,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
@@ -428,7 +431,7 @@ VU#18,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework
 VU#18,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#18,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#18,0.00019198,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#18,0.00019183,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00019175,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#18,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
