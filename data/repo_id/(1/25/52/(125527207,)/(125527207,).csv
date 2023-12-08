@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+125527207,0daylabs/0daylabs.github.io,_posts/2016/BugBounty/2016-02-15-stored-xss-on-zendesk.md,ac8e42476eb930e9d3adc518bd545df11024853c,CVE-2014-5144
