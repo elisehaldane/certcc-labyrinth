@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+710897618,StackOverflowExcept1on/CVE-2021-36393,script.js,3e5bf39be90a151be7bcc7eb6ae72dccef8bc8d5,CVE-2021-36393
+710897618,StackOverflowExcept1on/CVE-2021-36393,README.md,51d15580012530dc1053d3885f6ae7908af1c755,CVE-2021-36393
+710897618,StackOverflowExcept1on/CVE-2021-36393,_GITHUB_REPO_METADATA_,,CVE-2021-36393
