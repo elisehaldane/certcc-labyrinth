@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-GGHM-C696-F4J4,0.00001112,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-GGHM-C696-F4J4,0.00001111,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-GGHM-C696-F4J4,0.00000384,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
