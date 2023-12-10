@@ -1,4 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 680058417,Whoopsunix/JavaRce,JDBCAttack/src/main/java/postgresql/RceAttack.java,07af6516dc8871acade97e575431e57123e66776,CVE-2022-21724
-680058417,Whoopsunix/JavaRce,README.md,4f5e6e9fcad4e411aaf8b657d3ee33766adf24ac,CVE-2022-21724
+680058417,Whoopsunix/JavaRce,MemShell/UndertowMemShell/src/main/java/com/example/undertow/loader/UndertowThreadLoader.java,6280e097d3dee6f596ea9e22bbcefc8e05f2ccaa,VU#01
+680058417,Whoopsunix/JavaRce,MemShell/UndertowMemShell/src/main/java/com/example/undertow/loader/UndertowThreadLoader.java,6280e097d3dee6f596ea9e22bbcefc8e05f2ccaa,VU#755
+680058417,Whoopsunix/JavaRce,README.md,c052728632789f28337780b0308a9308b400b39e,CVE-2022-21724
+680058417,Whoopsunix/JavaRce,Utils/src/main/java/org/tools/ser/CC4Generator.java,d20d998051cea21e613debc534a48656ee8c4d6c,VU#29
 680058417,Whoopsunix/JavaRce,JDBCAttack/src/main/java/postgresql/FileAttack.java,d4b5eee025360b1eab85e3078a88fccaa460255f,VU#29
