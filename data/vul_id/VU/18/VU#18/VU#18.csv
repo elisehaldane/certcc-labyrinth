@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#18,1.00000000,https://github.com/akashialt/w-azure,akashialt/w-azure,728379660
 VU#18,1.00000000,https://github.com/sukantamajhi/rcEcom,sukantamajhi/rcEcom,722469524
-VU#18,1.00000000,https://github.com/jrson83/savescum,jrson83/savescum,638788759
 VU#18,1.00000000,https://github.com/SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,609224670
 VU#18,1.00000000,https://github.com/bugverma/CTFs-Walkthroughs,bugverma/CTFs-Walkthroughs,567908810
 VU#18,1.00000000,https://github.com/ModExploit/ModExploit.github.io,ModExploit/ModExploit.github.io,561471526
@@ -19,6 +18,7 @@ VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
 VU#18,0.50000000,https://github.com/prox11/CTF-Writeups,prox11/CTF-Writeups,708758138
+VU#18,0.50000000,https://github.com/jrson83/savescum,jrson83/savescum,638788759
 VU#18,0.50000000,https://github.com/maldev866/ChExp_CVE_2020_16040,maldev866/ChExp_CVE_2020_16040,610694918
 VU#18,0.50000000,https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,602909174
 VU#18,0.50000000,https://github.com/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-,ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-,600790007
@@ -41,6 +41,7 @@ VU#18,0.50000000,https://github.com/agrarian-systems-consulting/endagri-front,ag
 VU#18,0.50000000,https://github.com/AS400JPLPC/nim_termcurs,AS400JPLPC/nim_termcurs,258618257
 VU#18,0.33333333,https://github.com/cherrypopsicle/insurance-platform,cherrypopsicle/insurance-platform,728328078
 VU#18,0.33333333,https://github.com/b0songsong/CodeEngn-RCE,b0songsong/CodeEngn-RCE,721034395
+VU#18,0.33333333,https://github.com/xaloftal/RCE,xaloftal/RCE,718579713
 VU#18,0.33333333,https://github.com/https-sam/Remote-Code-Execution,https-sam/Remote-Code-Execution,615927991
 VU#18,0.33333333,https://github.com/vulcanet/rce-jsp-status-page,vulcanet/rce-jsp-status-page,614003042
 VU#18,0.33333333,https://github.com/cawfree/sameorigin,cawfree/sameorigin,611925691
