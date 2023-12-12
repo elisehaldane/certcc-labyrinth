@@ -5,6 +5,7 @@ VU#88,0.50000000,https://github.com/DoQuangPhu/HEAP_EXPLOIT,DoQuangPhu/HEAP_EXPL
 VU#88,0.50000000,https://github.com/erensatir/Commander,erensatir/Commander,592115833
 VU#88,0.50000000,https://github.com/HNT8/WeAreDevs-Exploit,HNT8/WeAreDevs-Exploit,502211738
 VU#88,0.50000000,https://github.com/entropyQueen/log4shell_malwares,entropyQueen/log4shell_malwares,439839303
+VU#88,0.33333333,https://github.com/C1ph3rX13/CVE-2023-22515,C1ph3rX13/CVE-2023-22515,710666806
 VU#88,0.33333333,https://github.com/C1ph3rX13/CVE-2023-42442,C1ph3rX13/CVE-2023-42442,707591805
 VU#88,0.33333333,https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT,n2x4/Feb2023-CVE-2021-21974-OSINT,597541159
 VU#88,0.33333333,https://github.com/BomberFish/Mandela,BomberFish/Mandela,588186913
@@ -67,7 +68,6 @@ VU#88,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWiki
 VU#88,0.05263158,https://github.com/Szandor72/czd23-aura-experience-to-exploit,Szandor72/czd23-aura-experience-to-exploit,623942341
 VU#88,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#88,0.05000000,https://github.com/sotyarena/web-exploitation-3,sotyarena/web-exploitation-3,616821702
-VU#88,0.05000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#88,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
 VU#88,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
 VU#88,0.04545455,https://github.com/michele-abruzzese/predictive_maintenance,michele-abruzzese/predictive_maintenance,721573848
@@ -396,7 +396,7 @@ VU#88,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework
 VU#88,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#88,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#88,0.00019175,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#88,0.00019175,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#88,0.00019172,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#88,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#88,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
