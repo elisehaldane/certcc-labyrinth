@@ -1,4 +1,19 @@
 repo_id,repo_full_name,file,file_sha1,match
-627486714,Oracle-Security/Published-Exploits,DotNetNuke/CVE-2018-14486/xss.js,4866df5ec9770612c6dc61c20762b516e4e5d8f5,CVE-2018-14486
-627486714,Oracle-Security/Published-Exploits,DotNetNuke/CVE-2018-14486/vulnwebsite.py,7372d4eaafefb9afa5bee0af2630f43d8ab58c90,CVE-2018-14486
-627486714,Oracle-Security/Published-Exploits,DotNetNuke/CVE-2018-14486/README.md,ef3035d10e4327e8bb7b93bde73c15fde8131dde,CVE-2018-14486
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/server.py,1b2f34349dc69d40e4532a2dfeff30c838215faa,CVE-2023-38826
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38827/server.py,1b2f34349dc69d40e4532a2dfeff30c838215faa,CVE-2023-38827
+627486714,Oracle-Security/CVEs,FloorsightSoftware/readme.md,36678886e260572b74a1d6ddf27e9281b22bab2d,CVE-2023-45893
+627486714,Oracle-Security/CVEs,FloorsightSoftware/readme.md,36678886e260572b74a1d6ddf27e9281b22bab2d,CVE-2023-45892
+627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/xss.js,4866df5ec9770612c6dc61c20762b516e4e5d8f5,CVE-2018-14486
+627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/vulnwebsite.py,7372d4eaafefb9afa5bee0af2630f43d8ab58c90,CVE-2018-14486
+627486714,Oracle-Security/CVEs,Parallels Remote Server/readme.md,c3268970433e572f55ed1ebe6118e359cbb4fdfc,CVE-2023-45894
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38827/README.md,d5c405468ee013a139a12ba11daee1534be467df,CVE-2023-38827
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/xss.js,e29926959be3df19b4f8d446acba3a9bedacf86a,CVE-2023-38826
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38827/xss.js,e29926959be3df19b4f8d446acba3a9bedacf86a,CVE-2023-38827
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/README.md,e3fa0cf0ec5c6351d96657bc5ee4b333ad878da4,CVE-2023-38826
+627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/README.md,ef3035d10e4327e8bb7b93bde73c15fde8131dde,CVE-2018-14486
+627486714,Oracle-Security/CVEs,readme.md,f65a43b6c0fa27d66c91e61c41dc703a034268eb,CVE-2023-38826
+627486714,Oracle-Security/CVEs,readme.md,f65a43b6c0fa27d66c91e61c41dc703a034268eb,CVE-2023-45892
+627486714,Oracle-Security/CVEs,readme.md,f65a43b6c0fa27d66c91e61c41dc703a034268eb,CVE-2018-14486
+627486714,Oracle-Security/CVEs,readme.md,f65a43b6c0fa27d66c91e61c41dc703a034268eb,CVE-2023-45893
+627486714,Oracle-Security/CVEs,readme.md,f65a43b6c0fa27d66c91e61c41dc703a034268eb,CVE-2023-38827
+627486714,Oracle-Security/CVEs,readme.md,f65a43b6c0fa27d66c91e61c41dc703a034268eb,CVE-2023-45894
