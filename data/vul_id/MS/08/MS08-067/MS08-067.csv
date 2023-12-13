@@ -55,6 +55,7 @@ MS08-067,1.00000000,https://github.com/Meatballs1/armitage,Meatballs1/armitage,2
 MS08-067,1.00000000,https://github.com/msfconsole/conficker,msfconsole/conficker,16184597
 MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/Metasploit-Stuff,7375687
 MS08-067,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
+MS08-067,0.50000000,https://github.com/mqxmm/Sploit-runner,mqxmm/Sploit-runner,508395730
 MS08-067,0.50000000,https://github.com/W0lfF4ng/Exploits,W0lfF4ng/Exploits,394376112
 MS08-067,0.50000000,https://github.com/k4u5h41/MS08_067_CVE-2008-4250,k4u5h41/MS08_067_CVE-2008-4250,383835726
 MS08-067,0.50000000,https://github.com/adithyan-ak/MS17-010-Manual-Exploit,adithyan-ak/MS17-010-Manual-Exploit,345982676
@@ -97,7 +98,6 @@ MS08-067,0.33333333,https://github.com/mukthy/oscp-survival-guide,mukthy/oscp-su
 MS08-067,0.33333333,https://github.com/MarkBuffalo/exploits,MarkBuffalo/exploits,153557664
 MS08-067,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
 MS08-067,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,veerupandey/Penetration-Testing-Toolkit,18219927
-MS08-067,0.25000000,https://github.com/mqxmm/Sploit-runner,mqxmm/Sploit-runner,508395730
 MS08-067,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS08-067,0.25000000,https://github.com/thomcz/smb-kastel-praktikum,thomcz/smb-kastel-praktikum,114903623
 MS08-067,0.25000000,https://github.com/n3tsky/Exploits,n3tsky/Exploits,111472762
@@ -526,7 +526,7 @@ MS08-067,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,71773
 MS08-067,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 MS08-067,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS08-067,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
-MS08-067,0.00019175,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
+MS08-067,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS08-067,0.00019172,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -575,7 +575,7 @@ MS08-067,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS08-067,0.00001110,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001100,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000459,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

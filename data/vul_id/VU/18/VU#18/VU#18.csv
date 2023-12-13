@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#18,1.00000000,https://github.com/akashialt/w-azure,akashialt/w-azure,728379660
 VU#18,1.00000000,https://github.com/sukantamajhi/rcEcom,sukantamajhi/rcEcom,722469524
+VU#18,1.00000000,https://github.com/Ruban2205/ethical-hacking,Ruban2205/ethical-hacking,674320663
 VU#18,1.00000000,https://github.com/SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,609224670
 VU#18,1.00000000,https://github.com/bugverma/CTFs-Walkthroughs,bugverma/CTFs-Walkthroughs,567908810
 VU#18,1.00000000,https://github.com/ModExploit/ModExploit.github.io,ModExploit/ModExploit.github.io,561471526
@@ -72,7 +73,6 @@ VU#18,0.25000000,https://github.com/paulomatozinho/-Integrando-um-Backend-em-Nod
 VU#18,0.25000000,https://github.com/Rami-Majdoub/vulnerable-smart-contracts,Rami-Majdoub/vulnerable-smart-contracts,518817759
 VU#18,0.25000000,https://github.com/redpack-kr/fei-protocol-flashloan-vuln,redpack-kr/fei-protocol-flashloan-vuln,518034682
 VU#18,0.25000000,https://github.com/yudikubota/exemplo_ataque_reentrada,yudikubota/exemplo_ataque_reentrada,516548886
-VU#18,0.25000000,https://github.com/mqxmm/Sploit-runner,mqxmm/Sploit-runner,508395730
 VU#18,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#18,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#18,0.25000000,https://github.com/tingzeng1208/demo-rce-frontend,tingzeng1208/demo-rce-frontend,440029650
@@ -432,7 +432,7 @@ VU#18,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,71773726
 VU#18,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#18,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#18,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
-VU#18,0.00019175,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
+VU#18,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#18,0.00019172,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
