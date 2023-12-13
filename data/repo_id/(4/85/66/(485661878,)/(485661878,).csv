@@ -1,12 +1,12 @@
 repo_id,repo_full_name,file,file_sha1,match
+485661878,doudoudedi/hackEmbedded,README.md,08ff520125fdd9cc09403ca66a2c5925cd77b93b,CVE-2021-29921
+485661878,doudoudedi/hackEmbedded,README.md,08ff520125fdd9cc09403ca66a2c5925cd77b93b,CVE-2019-17621
+485661878,doudoudedi/hackEmbedded,README.md,08ff520125fdd9cc09403ca66a2c5925cd77b93b,CVE-2022-40023
+485661878,doudoudedi/hackEmbedded,README.md,08ff520125fdd9cc09403ca66a2c5925cd77b93b,CVE-2021-20270
 485661878,doudoudedi/hackEmbedded,hackebds.egg-info/PKG-INFO,1ff1d11e783956b10b9fcae83d52fcbe5d79aadd,CVE-2022-40023
 485661878,doudoudedi/hackEmbedded,hackebds.egg-info/PKG-INFO,1ff1d11e783956b10b9fcae83d52fcbe5d79aadd,CVE-2021-29921
 485661878,doudoudedi/hackEmbedded,hackebds.egg-info/PKG-INFO,1ff1d11e783956b10b9fcae83d52fcbe5d79aadd,CVE-2021-20270
 485661878,doudoudedi/hackEmbedded,readme_cn.md,2ae92b06d967a5c40cc65542e410ed33bdb0d1da,CVE-2019-17621
-485661878,doudoudedi/hackEmbedded,README.md,301603f953b00b089dbc143646098d3834e0f9bd,CVE-2021-29921
-485661878,doudoudedi/hackEmbedded,README.md,301603f953b00b089dbc143646098d3834e0f9bd,CVE-2019-17621
-485661878,doudoudedi/hackEmbedded,README.md,301603f953b00b089dbc143646098d3834e0f9bd,CVE-2022-40023
-485661878,doudoudedi/hackEmbedded,README.md,301603f953b00b089dbc143646098d3834e0f9bd,CVE-2021-20270
 485661878,doudoudedi/hackEmbedded,cross-tools/mips64el-n32toolchains-1-1.tar.bz2,514714cb73e7b27cd71d8e1ad61e5635d176f937,VU#21
 485661878,doudoudedi/hackEmbedded,hackebds/exp_database.py,76c28bb16e15e92ec81216edc247c2092221c443,CVE-2022-1388
 485661878,doudoudedi/hackEmbedded,hackebds/exp_database.py,76c28bb16e15e92ec81216edc247c2092221c443,CVE-2022-20705
