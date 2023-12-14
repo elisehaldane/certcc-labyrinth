@@ -16,7 +16,6 @@ VU#56,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdb
 VU#56,0.33333333,https://github.com/sohreddy/Comprehensive-study-on-SNMDs-via-online-social-media-mining,sohreddy/Comprehensive-study-on-SNMDs-via-online-social-media-mining,526732227
 VU#56,0.33333333,https://github.com/ppepos/inf600c,ppepos/inf600c,234415732
 VU#56,0.33333333,https://github.com/ykaitao/the-elements-of-reinforcement-learning,ykaitao/the-elements-of-reinforcement-learning,129344694
-VU#56,0.25000000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#56,0.25000000,https://github.com/shmigq/PIVASw,shmigq/PIVASw,588504866
 VU#56,0.25000000,https://github.com/shmigq/PIVAS,shmigq/PIVAS,588504656
 VU#56,0.25000000,https://github.com/MPFHG34/Exploiter-for-Roblox,MPFHG34/Exploiter-for-Roblox,588322354
@@ -32,6 +31,7 @@ VU#56,0.20000000,https://github.com/smallkirby/kernelpwn,smallkirby/kernelpwn,28
 VU#56,0.16666667,https://github.com/TretornESP/bec,TretornESP/bec,463613043
 VU#56,0.16666667,https://github.com/priyacshah/RCE_Sask_Website_Design,priyacshah/RCE_Sask_Website_Design,457425632
 VU#56,0.14285714,https://github.com/alicangnll/CTI_Arastirmalarim,alicangnll/CTI_Arastirmalarim,719381197
+VU#56,0.14285714,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#56,0.14285714,https://github.com/StarlinkCoinn/Hta-Exploit-Downloader-Malware-Builder,StarlinkCoinn/Hta-Exploit-Downloader-Malware-Builder,711720762
 VU#56,0.14285714,https://github.com/GameProfRcs/Hta-Exploit-Downloader-Malware-Builder,GameProfRcs/Hta-Exploit-Downloader-Malware-Builder,708443148
 VU#56,0.14285714,https://github.com/unknown144p/Hta-Exploit-Downloader-Malware-Builder,unknown144p/Hta-Exploit-Downloader-Malware-Builder,613982051
@@ -219,7 +219,7 @@ VU#56,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Se
 VU#56,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#56,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#56,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
-VU#56,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
+VU#56,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#56,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#56,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#56,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
