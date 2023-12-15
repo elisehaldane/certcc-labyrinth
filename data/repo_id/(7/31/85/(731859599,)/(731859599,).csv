@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+731859599,markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation,Original Project Report.pdf,01aa1cbec22116a252c339c7661fc74247db337f,CVE-2021-3560
+731859599,markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation,README.md,40bf49b7c1a8930387403101713e82e73d979ee3,CVE-2021-3560
+731859599,markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation,manual CVE-2021-3560-Polkit-Privilege-Escalation.pdf,944e5608c59ad50732beab93f34c12b6b76df283,CVE-2021-3560
+731859599,markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation,_GITHUB_REPO_METADATA_,,CVE-2021-3560
