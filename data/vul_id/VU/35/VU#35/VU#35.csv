@@ -17,6 +17,7 @@ VU#35,0.16666667,https://github.com/ST5Sneaky/exploit-scripts,ST5Sneaky/exploit-
 VU#35,0.14285714,https://github.com/yadavpunam/Human_Act_Recog_DNN,yadavpunam/Human_Act_Recog_DNN,712184165
 VU#35,0.14285714,https://github.com/SoftCreed/Exploits,SoftCreed/Exploits,608428995
 VU#35,0.14285714,https://github.com/brightprogrammer/pwned,brightprogrammer/pwned,559560211
+VU#35,0.14285714,https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming,HighDimensionalEconLab/symmetry_dynamic_programming,433221261
 VU#35,0.14285714,https://github.com/saferwall/malware-souk,saferwall/malware-souk,360327405
 VU#35,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942458
 VU#35,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
@@ -25,7 +26,6 @@ VU#35,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/m
 VU#35,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
 VU#35,0.10000000,https://github.com/bolt3x/tesi,bolt3x/tesi,533280790
 VU#35,0.10000000,https://github.com/Yuhala/hacking-tuto,Yuhala/hacking-tuto,509063995
-VU#35,0.10000000,https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming,HighDimensionalEconLab/symmetry_dynamic_programming,433221261
 VU#35,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
 VU#35,0.10000000,https://github.com/Divyesh-Kanagavel/hack_art,Divyesh-Kanagavel/hack_art,424978628
 VU#35,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
@@ -93,11 +93,11 @@ VU#35,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737
 VU#35,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#35,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#35,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
-VU#35,0.02702703,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#35,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#35,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#35,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#35,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
+VU#35,0.02500000,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#35,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#35,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
 VU#35,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773

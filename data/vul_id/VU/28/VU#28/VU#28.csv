@@ -15,6 +15,7 @@ VU#28,0.25000000,https://github.com/teknologi-umum/pesto,teknologi-umum/pesto,49
 VU#28,0.25000000,https://github.com/Edgarloyola/CVE-2021-36563,Edgarloyola/CVE-2021-36563,389955098
 VU#28,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#28,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
+VU#28,0.20000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#28,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
 VU#28,0.20000000,https://github.com/Daparod/3dapp,Daparod/3dapp,507071597
 VU#28,0.20000000,https://github.com/dpfaffenbauer/defichain-icx-exploit-review,dpfaffenbauer/defichain-icx-exploit-review,446335747
@@ -33,7 +34,6 @@ VU#28,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS37
 VU#28,0.10000000,https://github.com/mirzaazwad/CTF,mirzaazwad/CTF,626003373
 VU#28,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
 VU#28,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
-VU#28,0.09090909,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#28,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMarchiori/CVE-2021-3156,510379940
 VU#28,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
 VU#28,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
@@ -95,6 +95,7 @@ VU#28,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/ph
 VU#28,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#28,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#28,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
+VU#28,0.02500000,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#28,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#28,0.02500000,https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,669358595
 VU#28,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
