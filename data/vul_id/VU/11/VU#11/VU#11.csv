@@ -4,6 +4,7 @@ VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elag
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
 VU#11,0.50000000,https://github.com/helviojunior/shellcodetester,helviojunior/shellcodetester,191294929
 VU#11,0.33333333,https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513,smartinternz02/SI-GuidedProject-525182-1688199513,660921707
+VU#11,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#11,0.33333333,https://github.com/amitkkumra/vis-e-rce,amitkkumra/vis-e-rce,580446561
 VU#11,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
 VU#11,0.33333333,https://github.com/ValdesChe/laravel-vulnerable-app_poc,ValdesChe/laravel-vulnerable-app_poc,474957366
@@ -12,7 +13,6 @@ VU#11,0.33333333,https://github.com/nsandholtz/hotspot_paper,nsandholtz/hotspot_
 VU#11,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
 VU#11,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#11,0.25000000,https://github.com/Nintendo-Homebrew/Tiramisu,Nintendo-Homebrew/Tiramisu,462477498
-VU#11,0.20000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#11,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
 VU#11,0.20000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#11,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
@@ -91,6 +91,7 @@ VU#11,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,
 VU#11,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/Cybersecurity-References,584633112
 VU#11,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#11,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
+VU#11,0.02272727,https://github.com/unknownhad/AWSAttacks,unknownhad/AWSAttacks,587280513
 VU#11,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#11,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 VU#11,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
@@ -185,6 +186,8 @@ VU#11,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,56
 VU#11,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#11,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#11,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
+VU#11,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,732641517
+VU#11,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/cvetowki_project2,732637597
 VU#11,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#11,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#11,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -210,6 +213,7 @@ VU#11,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#11,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#11,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#11,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#11,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#11,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#11,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#11,0.00454545,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125

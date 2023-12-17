@@ -80,7 +80,6 @@ VU#84,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learni
 VU#84,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#84,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
 VU#84,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
-VU#84,0.03225806,https://github.com/ESMEAirPollutionPrediction/WeatherData,ESMEAirPollutionPrediction/WeatherData,714661696
 VU#84,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#84,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
 VU#84,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
@@ -101,6 +100,7 @@ VU#84,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBe
 VU#84,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/Cybersecurity-References,584633112
 VU#84,0.02325581,https://github.com/ksecurity45/exploitme.github.io,ksecurity45/exploitme.github.io,464013273
 VU#84,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
+VU#84,0.02272727,https://github.com/unknownhad/AWSAttacks,unknownhad/AWSAttacks,587280513
 VU#84,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#84,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#84,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
@@ -211,6 +211,7 @@ VU#84,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#84,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#84,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#84,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#84,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#84,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#84,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#84,0.00454545,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125

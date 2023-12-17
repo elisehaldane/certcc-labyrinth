@@ -15,7 +15,6 @@ VU#28,0.25000000,https://github.com/teknologi-umum/pesto,teknologi-umum/pesto,49
 VU#28,0.25000000,https://github.com/Edgarloyola/CVE-2021-36563,Edgarloyola/CVE-2021-36563,389955098
 VU#28,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#28,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
-VU#28,0.20000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#28,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
 VU#28,0.20000000,https://github.com/Daparod/3dapp,Daparod/3dapp,507071597
 VU#28,0.20000000,https://github.com/dpfaffenbauer/defichain-icx-exploit-review,dpfaffenbauer/defichain-icx-exploit-review,446335747
@@ -92,6 +91,7 @@ VU#28,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github
 VU#28,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
 VU#28,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#28,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
+VU#28,0.02631579,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#28,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#28,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#28,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
@@ -99,7 +99,7 @@ VU#28,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,
 VU#28,0.02500000,https://github.com/vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,vpxuser/Central-Management-System-Exploitation-Cheat-Sheet,669358595
 VU#28,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#28,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
-VU#28,0.02439024,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
+VU#28,0.02272727,https://github.com/unknownhad/AWSAttacks,unknownhad/AWSAttacks,587280513
 VU#28,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#28,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#28,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
@@ -224,6 +224,7 @@ VU#28,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#28,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#28,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#28,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#28,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#28,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#28,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#28,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007

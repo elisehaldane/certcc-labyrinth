@@ -113,6 +113,7 @@ VU#16,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,
 VU#16,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#16,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#16,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
+VU#16,0.02272727,https://github.com/unknownhad/AWSAttacks,unknownhad/AWSAttacks,587280513
 VU#16,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#16,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#16,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
@@ -237,6 +238,8 @@ VU#16,0.00704225,https://github.com/Mide478/Subsurface-Resource-Analog,Mide478/S
 VU#16,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#16,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#16,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
+VU#16,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,732641517
+VU#16,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/cvetowki_project2,732637597
 VU#16,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#16,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#16,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -261,6 +264,7 @@ VU#16,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#16,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#16,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#16,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#16,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#16,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#16,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#16,0.00454545,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
