@@ -7,7 +7,6 @@ VU#31,1.00000000,https://github.com/iaur/tde-wp,iaur/tde-wp,291452355
 VU#31,0.50000000,https://github.com/PANWEITING/exploit,PANWEITING/exploit,522422319
 VU#31,0.50000000,https://github.com/TheGraySpy/ParrotSploit-Open-Source,TheGraySpy/ParrotSploit-Open-Source,453699887
 VU#31,0.50000000,https://github.com/david232818/picoCTF_binary_exploitation_-_-,david232818/picoCTF_binary_exploitation_-_-,415003830
-VU#31,0.33333333,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#31,0.33333333,https://github.com/cawfree/sameorigin,cawfree/sameorigin,611925691
 VU#31,0.33333333,https://github.com/dyeoell/Ethical-Hacking,dyeoell/Ethical-Hacking,442617990
 VU#31,0.33333333,https://github.com/vinqo/scripthub,vinqo/scripthub,421183647
@@ -50,6 +49,8 @@ VU#31,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/je
 VU#31,0.11111111,https://github.com/rasyidrafi/R3Xploit,rasyidrafi/R3Xploit,345617409
 VU#31,0.10000000,https://github.com/mirzaazwad/CTF,mirzaazwad/CTF,626003373
 VU#31,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
+VU#31,0.09090909,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,732493597
+VU#31,0.09090909,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#31,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
 VU#31,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#31,0.07142857,https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924,487173629
@@ -80,10 +81,10 @@ VU#31,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analy
 VU#31,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#31,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#31,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
-VU#31,0.04000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#31,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
 VU#31,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
 VU#31,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
+VU#31,0.03703704,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#31,0.03703704,https://github.com/wtfplayer/redemption,wtfplayer/redemption,659040406
 VU#31,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#31,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
@@ -104,8 +105,8 @@ VU#31,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarah
 VU#31,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#31,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#31,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
-VU#31,0.02500000,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#31,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
+VU#31,0.02439024,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#31,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/Cybersecurity-References,584633112
 VU#31,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#31,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
@@ -289,6 +290,7 @@ VU#31,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#31,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#31,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#31,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#31,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#31,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#31,0.00454545,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#31,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007

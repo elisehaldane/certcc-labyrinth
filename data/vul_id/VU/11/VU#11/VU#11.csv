@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#11,1.00000000,https://github.com/kindawindytoday/SussyPayloads,kindawindytoday/SussyPayloads,604086028
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
-VU#11,0.50000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
 VU#11,0.50000000,https://github.com/helviojunior/shellcodetester,helviojunior/shellcodetester,191294929
 VU#11,0.33333333,https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513,smartinternz02/SI-GuidedProject-525182-1688199513,660921707
@@ -24,6 +23,7 @@ VU#11,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#11,0.12500000,https://github.com/helmutrocco13/helmutrocco13.github.io,helmutrocco13/helmutrocco13.github.io,280519933
 VU#11,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#11,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
+VU#11,0.10000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#11,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-repo,487085739
 VU#11,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
@@ -210,6 +210,7 @@ VU#11,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#11,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#11,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#11,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#11,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#11,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#11,0.00454545,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#11,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
