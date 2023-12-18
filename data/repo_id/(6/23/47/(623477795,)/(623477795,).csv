@@ -4,4 +4,6 @@ repo_id,repo_full_name,file,file_sha1,match
 623477795,terawhiz/kpwn,challenges/sofirium/bzImage,262f796388eadbce6f3418fad7323113bcc5c394,VU#15
 623477795,terawhiz/kpwn,challenges/sofirium/bzImage,262f796388eadbce6f3418fad7323113bcc5c394,VU#40
 623477795,terawhiz/kpwn,challenges/window-of-opportunity/window.zip,95214d5fa63fa7cc64e189a16e8c283078e12f02,VU#17
+623477795,terawhiz/kpwn,challenges/wall-rose/wall-rose.tgz,a10160050459354487c14f76f6bbd783d8d02c91,VU#17
+623477795,terawhiz/kpwn,challenges/wall-rose/wall-rose.tgz,a10160050459354487c14f76f6bbd783d8d02c91,VU#73
 623477795,terawhiz/kpwn,challenges/window-of-opportunity/bzImage,f73d829d4d1c52e6b6a21279eaa781108eb35c9d,VU#17
