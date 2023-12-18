@@ -5,3 +5,5 @@ repo_id,repo_full_name,file,file_sha1,match
 719302389,itsamirac1e/Offensive_Security_CTF_UT-A,Samir Anwar Rekall Penetration Test Report.docx,5d09019889f802fd2cd1f192d85cb92deaaba491,VU#21
 719302389,itsamirac1e/Offensive_Security_CTF_UT-A,Samir Anwar Rekall Penetration Test Report.docx,5d09019889f802fd2cd1f192d85cb92deaaba491,VU#41
 719302389,itsamirac1e/Offensive_Security_CTF_UT-A,Samir Anwar Rekall Penetration Test Report.docx,5d09019889f802fd2cd1f192d85cb92deaaba491,VU#43
+719302389,itsamirac1e/Offensive_Security_CTF_UT-A,README.md,f5de2b85351f1f34f2dd3b022a4b1a925e1a483e,CVE-2017-12617
+719302389,itsamirac1e/Offensive_Security_CTF_UT-A,README.md,f5de2b85351f1f34f2dd3b022a4b1a925e1a483e,CVE-2019-6340
