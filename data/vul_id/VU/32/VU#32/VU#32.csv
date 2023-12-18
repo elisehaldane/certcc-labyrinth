@@ -63,7 +63,6 @@ VU#32,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2
 VU#32,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#32,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
 VU#32,0.20000000,https://github.com/MiracleUFO/LendWise,MiracleUFO/LendWise,672371512
-VU#32,0.20000000,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#32,0.20000000,https://github.com/PabloMK7/ENLBufferPwn,PabloMK7/ENLBufferPwn,581221755
 VU#32,0.20000000,https://github.com/N1rv0us/kernel_exploitation,N1rv0us/kernel_exploitation,556869304
 VU#32,0.20000000,https://github.com/NeoWans/CVE-2018-19246,NeoWans/CVE-2018-19246,515985803
@@ -71,6 +70,7 @@ VU#32,0.20000000,https://github.com/RapidoBuzz/WrathSploitAPI,RapidoBuzz/WrathSp
 VU#32,0.20000000,https://github.com/AnythingForTheTrustRank/ZeroGay,AnythingForTheTrustRank/ZeroGay,455997487
 VU#32,0.20000000,https://github.com/anvbis/windows.x86.expl,anvbis/windows.x86.expl,438593074
 VU#32,0.16666667,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/goloco,667525623
+VU#32,0.16666667,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#32,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#32,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
 VU#32,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,486848599
@@ -99,7 +99,6 @@ VU#32,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/je
 VU#32,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
 VU#32,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#32,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
-VU#32,0.10000000,https://github.com/catallo/ht,catallo/ht,705767979
 VU#32,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#32,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
@@ -480,7 +479,7 @@ VU#32,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework
 VU#32,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#32,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#32,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#32,0.00019172,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00019168,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#32,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

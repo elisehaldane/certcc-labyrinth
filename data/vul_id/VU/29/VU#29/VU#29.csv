@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#29,1.00000000,https://github.com/Al0neme/spring-gateway-rce,Al0neme/spring-gateway-rce,726836328
 VU#29,1.00000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
 VU#29,1.00000000,https://github.com/Broco8Dev/Flux,Broco8Dev/Flux,682346268
+VU#29,1.00000000,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#29,1.00000000,https://github.com/ConfusedDiscord/PS4JB-900,ConfusedDiscord/PS4JB-900,669491047
 VU#29,1.00000000,https://github.com/marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,668103738
 VU#29,1.00000000,https://github.com/DmitrijVC/DALL-E,DmitrijVC/DALL-E,667573149
@@ -565,7 +566,7 @@ VU#29,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework
 VU#29,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#29,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#29,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#29,0.00019172,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00019168,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
