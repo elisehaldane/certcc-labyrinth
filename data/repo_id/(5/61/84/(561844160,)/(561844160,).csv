@@ -26,9 +26,9 @@ repo_id,repo_full_name,file,file_sha1,match
 561844160,openclarity/vmclarity,e2e/go.sum,a01bd1cfd12e029f1de38a0cbfc27cc6e383cc79,VU#61
 561844160,openclarity/vmclarity,e2e/go.sum,a01bd1cfd12e029f1de38a0cbfc27cc6e383cc79,VU#752
 561844160,openclarity/vmclarity,img/vmclarity-cf-basic.svg,b1d83e6789cc490a04b08166e8476d47dce5c39f,VU#75
-561844160,openclarity/vmclarity,go.sum,bbaf755fd3947d0a491cff09515da77e4c7d6d93,VU#46
-561844160,openclarity/vmclarity,go.sum,bbaf755fd3947d0a491cff09515da77e4c7d6d93,VU#61
-561844160,openclarity/vmclarity,go.sum,bbaf755fd3947d0a491cff09515da77e4c7d6d93,VU#752
+561844160,openclarity/vmclarity,go.sum,c052bc7cb289cbc04c62f9aa9deee79dee6a2ccf,VU#46
+561844160,openclarity/vmclarity,go.sum,c052bc7cb289cbc04c62f9aa9deee79dee6a2ccf,VU#61
+561844160,openclarity/vmclarity,go.sum,c052bc7cb289cbc04c62f9aa9deee79dee6a2ccf,VU#752
 561844160,openclarity/vmclarity,pkg/apiserver/database/demo.go,fa7c77153944ce9c1d25a0fde25456186c7f2b22,MS17-11882
 561844160,openclarity/vmclarity,pkg/apiserver/database/demo.go,fa7c77153944ce9c1d25a0fde25456186c7f2b22,CVE-2022-43551
 561844160,openclarity/vmclarity,pkg/apiserver/database/demo.go,fa7c77153944ce9c1d25a0fde25456186c7f2b22,CVE-2021-46848
