@@ -34,7 +34,6 @@ VU#21,0.20000000,https://github.com/aancw/Spring4shell-poc-lab,aancw/Spring4shel
 VU#21,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
 VU#21,0.20000000,https://github.com/nil-malh/JNDI-Exploit,nil-malh/JNDI-Exploit,437992749
 VU#21,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
-VU#21,0.16666667,https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A,itsamirac1e/Offensive_Security_CTF_UT-A,719302389
 VU#21,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,692673503
 VU#21,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#21,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
@@ -52,6 +51,7 @@ VU#21,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#21,0.14285714,https://github.com/oselin/drone-pose-estimation,oselin/drone-pose-estimation,510282934
 VU#21,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#21,0.14285714,https://github.com/bvoris/bvoris,bvoris/bvoris,285267641
+VU#21,0.12500000,https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A,itsamirac1e/Offensive_Security_CTF_UT-A,719302389
 VU#21,0.12500000,https://github.com/AnissaBS/CVenLigne2,AnissaBS/CVenLigne2,716653569
 VU#21,0.12500000,https://github.com/d4rk-kn1gh7/b3typer,d4rk-kn1gh7/b3typer,592440733
 VU#21,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
@@ -340,6 +340,7 @@ VU#21,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#21,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#21,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#21,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#21,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#21,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#21,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#21,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173

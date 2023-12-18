@@ -22,6 +22,7 @@ VU#16,0.50000000,https://github.com/tgreer812/ProcessInjection,tgreer812/Process
 VU#16,0.50000000,https://github.com/Zebratic/MikroWorm,Zebratic/MikroWorm,477885613
 VU#16,0.50000000,https://github.com/Zebratic/UE4Injector,Zebratic/UE4Injector,442869549
 VU#16,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
+VU#16,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#16,0.33333333,https://github.com/d4rk-kn1gh7/ctf-pwn-exploits,d4rk-kn1gh7/ctf-pwn-exploits,582791685
 VU#16,0.33333333,https://github.com/Doming00/FIB-ADEI-Deliverable,Doming00/FIB-ADEI-Deliverable,580116634
 VU#16,0.33333333,https://github.com/jiro-too/ShellCodeInjector,jiro-too/ShellCodeInjector,520900269
@@ -42,7 +43,6 @@ VU#16,0.20000000,https://github.com/BrennenT7/AWS-Honey-Pot-Project,BrennenT7/AW
 VU#16,0.20000000,https://github.com/PabloMK7/ENLBufferPwn,PabloMK7/ENLBufferPwn,581221755
 VU#16,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/multi_sense_learning,429338492
 VU#16,0.20000000,https://github.com/Yolnan/24678_CVE_PS6,Yolnan/24678_CVE_PS6,424596008
-VU#16,0.16666667,https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A,itsamirac1e/Offensive_Security_CTF_UT-A,719302389
 VU#16,0.16666667,https://github.com/neverm0r/Kernel_exploit,neverm0r/Kernel_exploit,657582326
 VU#16,0.16666667,https://github.com/NigmaZ/Pwnable,NigmaZ/Pwnable,470465024
 VU#16,0.16666667,https://github.com/DefaultO/Geldwaesche,DefaultO/Geldwaesche,377245303
@@ -51,6 +51,7 @@ VU#16,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen
 VU#16,0.14285714,https://github.com/HighDimensionalEconLab/symmetry_dynamic_programming,HighDimensionalEconLab/symmetry_dynamic_programming,433221261
 VU#16,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
 VU#16,0.14285714,https://github.com/teppyboy/Generic_Exploit_Loader,teppyboy/Generic_Exploit_Loader,208081471
+VU#16,0.12500000,https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A,itsamirac1e/Offensive_Security_CTF_UT-A,719302389
 VU#16,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
 VU#16,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#16,0.12500000,https://github.com/sickn3ss/exploits,sickn3ss/exploits,178699315
@@ -264,6 +265,7 @@ VU#16,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#16,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#16,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#16,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#16,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#16,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#16,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#16,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
