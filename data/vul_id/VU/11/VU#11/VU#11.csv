@@ -1,10 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#11,1.00000000,https://github.com/kindawindytoday/SussyPayloads,kindawindytoday/SussyPayloads,604086028
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
+VU#11,0.50000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
 VU#11,0.50000000,https://github.com/helviojunior/shellcodetester,helviojunior/shellcodetester,191294929
 VU#11,0.33333333,https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513,smartinternz02/SI-GuidedProject-525182-1688199513,660921707
-VU#11,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#11,0.33333333,https://github.com/amitkkumra/vis-e-rce,amitkkumra/vis-e-rce,580446561
 VU#11,0.33333333,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
@@ -257,6 +257,7 @@ VU#11,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem
 VU#11,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#11,0.00173611,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#11,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#11,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#11,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#11,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#11,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308

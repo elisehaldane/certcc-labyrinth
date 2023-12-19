@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS08-067,1.00000000,https://github.com/Tugce41/Sizma_Testlerinde_Metasploit_Kullanimi,Tugce41/Sizma_Testlerinde_Metasploit_Kullanimi,733187737
 MS08-067,1.00000000,https://github.com/SadParad1se/snek-sploit,SadParad1se/snek-sploit,701473899
 MS08-067,1.00000000,https://github.com/lambardarr/RCE-Methods,lambardarr/RCE-Methods,572132531
 MS08-067,1.00000000,https://github.com/3rdtsuki/MetasploitExploit,3rdtsuki/MetasploitExploit,499171792
@@ -191,11 +192,11 @@ MS08-067,0.06666667,https://github.com/n1nj4sec/pupy,n1nj4sec/pupy,42882329
 MS08-067,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 MS08-067,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS08-067,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
-MS08-067,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 MS08-067,0.05555556,https://github.com/paulveillard/cybersecurity-windows-exploitation,paulveillard/cybersecurity-windows-exploitation,442265373
 MS08-067,0.05555556,https://github.com/wrayjustin/unsploitable,wrayjustin/unsploitable,322999805
 MS08-067,0.05555556,https://github.com/Henrique-Miranda/thg-framework,Henrique-Miranda/thg-framework,163638862
 MS08-067,0.05555556,https://github.com/tklengyel/dionaea,tklengyel/dionaea,10159961
+MS08-067,0.05263158,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 MS08-067,0.05263158,https://github.com/MizaruIT/BREAKADAY,MizaruIT/BREAKADAY,601825881
 MS08-067,0.05263158,https://github.com/MizaruIT/BREAKADAY_BASH,MizaruIT/BREAKADAY_BASH,601825145
 MS08-067,0.05263158,https://github.com/rayhan0x01/reverse-shell-able-exploit-pocs,rayhan0x01/reverse-shell-able-exploit-pocs,299184197

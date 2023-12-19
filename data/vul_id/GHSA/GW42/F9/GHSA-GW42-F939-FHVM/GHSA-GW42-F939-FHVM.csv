@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-GW42-F939-FHVM,0.03333333,https://github.com/h00die-gr3y/Metasploit,h00die-gr3y/Metasploit,525843929
+GHSA-GW42-F939-FHVM,0.03125000,https://github.com/h00die-gr3y/Metasploit,h00die-gr3y/Metasploit,525843929
 GHSA-GW42-F939-FHVM,0.00495050,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 GHSA-GW42-F939-FHVM,0.00092166,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
 GHSA-GW42-F939-FHVM,0.00062500,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406

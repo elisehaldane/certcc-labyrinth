@@ -78,7 +78,6 @@ VU#65,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcoc
 VU#65,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#65,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#65,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
-VU#65,0.05555556,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#65,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#65,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
 VU#65,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
@@ -86,6 +85,7 @@ VU#65,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,A
 VU#65,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#65,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#65,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
+VU#65,0.05263158,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#65,0.05263158,https://github.com/Szandor72/czd23-aura-experience-to-exploit,Szandor72/czd23-aura-experience-to-exploit,623942341
 VU#65,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#65,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
@@ -357,6 +357,7 @@ VU#65,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem
 VU#65,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#65,0.00173611,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#65,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#65,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#65,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#65,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
 VU#65,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
