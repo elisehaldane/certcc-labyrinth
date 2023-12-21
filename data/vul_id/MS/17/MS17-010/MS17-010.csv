@@ -521,7 +521,7 @@ MS17-010,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4
 MS17-010,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30thers,fengjixuchui/Windows10ExploitsArchiv30thers,257192688
 MS17-010,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 MS17-010,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
-MS17-010,0.00090171,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
+MS17-010,0.00090090,https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors,Ostorlab/known_exploited_vulnerbilities_detectors,483170315
 MS17-010,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 MS17-010,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 MS17-010,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
@@ -629,7 +629,7 @@ MS17-010,0.00019157,https://github.com/rapid7/metasploit-framework,rapid7/metasp
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00016909,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00016818,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
