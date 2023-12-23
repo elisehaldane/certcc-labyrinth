@@ -14,8 +14,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/GhostScript-Pentesting.md,4e7267824a7dd3a6262e92f589e0beaf47222f86,CVE-2018-16509
 568456034,hideckies/exploit-notes,src/exploit/web/Grafana-Pentesting.md,5167f27bee6e6b1b57cde48e2b83e562befbb2fb,CVE-2021-43798
 568456034,hideckies/exploit-notes,src/exploit/web/cms/cockpit-cms-pentesting.md,53952165df9090d0509ea4f19d6211fa75d6ea82,CVE-2020-35847
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Buffer-Overflow-Privilege-Escalation.md,5c4fa2856bada42d9cde4ca24bc468570a33777a,CVE-2021-3156
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Buffer-Overflow-Privilege-Escalation.md,5c4fa2856bada42d9cde4ca24bc468570a33777a,CVE-2019-18634
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/buffer-overflow-privilege-escalation.md,5c4fa2856bada42d9cde4ca24bc468570a33777a,CVE-2021-3156
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/buffer-overflow-privilege-escalation.md,5c4fa2856bada42d9cde4ca24bc468570a33777a,CVE-2019-18634
 568456034,hideckies/exploit-notes,src/exploit/web/atlassian-confluence-pentesting.md,608ef9246a34c5776c6bfb73d40a6bf2a81d5468,CVE-2022-26134
 568456034,hideckies/exploit-notes,src/exploit/windows/protocol/winrm-pentesting.md,620b377e7a6c485c777db0b8d5a1284bfb684b39,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/Sudo-Exiftool-Privilege-Escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
@@ -43,8 +43,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Python-Privilege-Escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/AJP-Pentesting.md,c5d5f03598f3926ca01bbbcf615fe4f6f932e96b,CVE-2020-1938
 568456034,hideckies/exploit-notes,src/exploit/windows/forensics/windows-memory-dump-analysis.md,d52441b25359178597d15772c118b7af30afb73f,CVE-2023-32784
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-4034
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/PolKit-Privilege-Escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-3560
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/polkit-privilege-escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-4034
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/polkit-privilege-escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/Snapd-Privilege-Escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/network/protocol/VNC-Pentesting.md,e6451f068aae6215ba93f77ce770e20d8c106bbf,CVE-2006-2369
 568456034,hideckies/exploit-notes,src/exploit/web/cms/wordpress-pentesting.md,f5892963d423a6676160f3f897597e5577dd5656,CVE-2021-29447
