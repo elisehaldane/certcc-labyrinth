@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#861,1.00000000,https://github.com/n0S3curity/PT-Android-Malware-App,n0S3curity/PT-Android-Malware-App,735584727
 VU#861,1.00000000,https://github.com/DERE-ad2001/Frida-Labs,DERE-ad2001/Frida-Labs,724142270
 VU#861,0.50000000,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338,718447846
 VU#861,0.50000000,https://github.com/erensatir/Commander,erensatir/Commander,592115833
@@ -92,6 +93,7 @@ VU#861,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarboroug
 VU#861,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#861,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#861,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
+VU#861,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
 VU#861,0.00274725,https://github.com/GGStudy-DDUp/0day,GGStudy-DDUp/0day,541448279
 VU#861,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#861,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
