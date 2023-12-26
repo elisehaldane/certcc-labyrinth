@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#29,1.00000000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
 VU#29,1.00000000,https://github.com/Al0neme/spring-gateway-rce,Al0neme/spring-gateway-rce,726836328
 VU#29,1.00000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
-VU#29,1.00000000,https://github.com/Broco8Dev/Flux,Broco8Dev/Flux,682346268
 VU#29,1.00000000,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#29,1.00000000,https://github.com/ConfusedDiscord/PS4JB-900,ConfusedDiscord/PS4JB-900,669491047
 VU#29,1.00000000,https://github.com/marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,668103738
@@ -28,6 +27,7 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/Broco8Dev/Flux,Broco8Dev/Flux,682346268
 VU#29,0.50000000,https://github.com/wdahlenburg/aws-native-rce,wdahlenburg/aws-native-rce,680643923
 VU#29,0.50000000,https://github.com/Whoopsunix/JavaRce,Whoopsunix/JavaRce,680058417
 VU#29,0.50000000,https://github.com/sfewer-r7/CVE-2023-34362,sfewer-r7/CVE-2023-34362,652620311
