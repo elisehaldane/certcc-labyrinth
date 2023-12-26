@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+680058417,Whoopsunix/JavaRce,README.md,06465ddb4a8e0a825db1db03e509e8807a9a8779,CVE-2022-21724
 680058417,Whoopsunix/JavaRce,JDBCAttack/src/main/java/postgresql/RceAttack.java,07af6516dc8871acade97e575431e57123e66776,CVE-2022-21724
-680058417,Whoopsunix/JavaRce,README.md,a145f3323f9eb328f666247bc34aeb57e64d5efa,CVE-2022-21724
+680058417,Whoopsunix/JavaRce,Expression/JxPathAttack/src/main/java/com/ppp/jxpathdemo/JxPathDemo.java,5de935bbb3df531277d92b33900dfbd39bcc8587,CVE-2022-41852
 680058417,Whoopsunix/JavaRce,Utils/src/main/java/org/ppp/tools/ser/CC4Generator.java,d3537bc6e1f95ece1c1428c353dd8c4e2f1499e4,VU#29
 680058417,Whoopsunix/JavaRce,JDBCAttack/src/main/java/postgresql/FileAttack.java,d4b5eee025360b1eab85e3078a88fccaa460255f,VU#29
