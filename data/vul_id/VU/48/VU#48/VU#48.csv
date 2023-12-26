@@ -5,7 +5,6 @@ VU#48,1.00000000,https://github.com/rcesarpacheco/rcesarpacheco.github.io,rcesar
 VU#48,1.00000000,https://github.com/yxwang1794/RCE-GAN,yxwang1794/RCE-GAN,445027138
 VU#48,1.00000000,https://github.com/imabadhacker/LOLexploit,imabadhacker/LOLexploit,417917400
 VU#48,0.50000000,https://github.com/toanln-cov/CVE-2023-36845,toanln-cov/CVE-2023-36845,697223244
-VU#48,0.50000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#48,0.50000000,https://github.com/MphatsoChintedza/Attacking-A-Vulnerability-Machine,MphatsoChintedza/Attacking-A-Vulnerability-Machine,474804470
 VU#48,0.50000000,https://github.com/Mphatso27/Attacking-A-Vulnerability-Machine,Mphatso27/Attacking-A-Vulnerability-Machine,474802723
 VU#48,0.33333333,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
@@ -14,6 +13,7 @@ VU#48,0.33333333,https://github.com/NoftN/Asakura-Z,NoftN/Asakura-Z,484708199
 VU#48,0.33333333,https://github.com/karma9874/AndroRAT,karma9874/AndroRAT,249151155
 VU#48,0.33333333,https://github.com/BelalAbdelWahab/OSCE-Exploit,BelalAbdelWahab/OSCE-Exploit,242304972
 VU#48,0.25000000,https://github.com/MartaAndronic/PolyLUT,MartaAndronic/PolyLUT,677001588
+VU#48,0.25000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#48,0.25000000,https://github.com/cl-lw/roblox-exploit,cl-lw/roblox-exploit,609281490
 VU#48,0.25000000,https://github.com/iloveflag/Fast-CVE-2022-22965,iloveflag/Fast-CVE-2022-22965,563378340
 VU#48,0.25000000,https://github.com/neurosutras/optimize_cells,neurosutras/optimize_cells,115853066
@@ -149,7 +149,6 @@ VU#48,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#48,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#48,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#48,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
-VU#48,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#48,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#48,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#48,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
@@ -190,6 +189,7 @@ VU#48,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#48,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#48,0.00990099,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#48,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
+VU#48,0.00961538,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#48,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#48,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#48,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -329,8 +329,8 @@ VU#48,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,71773726
 VU#48,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#48,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#48,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
-VU#48,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#48,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
+VU#48,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#48,0.00019150,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#48,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#48,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

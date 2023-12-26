@@ -118,7 +118,6 @@ VU#59,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,5232
 VU#59,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#59,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#59,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
-VU#59,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#59,0.01408451,https://github.com/jxfzzzt/vulnerability_poc,jxfzzzt/vulnerability_poc,618775318
 VU#59,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#59,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
@@ -154,6 +153,7 @@ VU#59,0.01000000,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESM
 VU#59,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#59,0.00990099,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#59,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
+VU#59,0.00961538,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#59,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#59,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#59,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -294,8 +294,8 @@ VU#59,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,71773726
 VU#59,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#59,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#59,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
-VU#59,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#59,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
+VU#59,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#59,0.00019150,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#59,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#59,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

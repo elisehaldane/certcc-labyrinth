@@ -29,7 +29,6 @@ VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRc
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
 VU#29,0.50000000,https://github.com/Broco8Dev/Flux,Broco8Dev/Flux,682346268
 VU#29,0.50000000,https://github.com/wdahlenburg/aws-native-rce,wdahlenburg/aws-native-rce,680643923
-VU#29,0.50000000,https://github.com/Whoopsunix/JavaRce,Whoopsunix/JavaRce,680058417
 VU#29,0.50000000,https://github.com/sfewer-r7/CVE-2023-34362,sfewer-r7/CVE-2023-34362,652620311
 VU#29,0.50000000,https://github.com/Avento/CVE-2023-0669,Avento/CVE-2023-0669,624244077
 VU#29,0.50000000,https://github.com/Zh0um1/CVE-2022-22947,Zh0um1/CVE-2022-22947,598386749
@@ -57,6 +56,7 @@ VU#29,0.50000000,https://github.com/m8sec/EAPrimer,m8sec/EAPrimer,298064170
 VU#29,0.50000000,https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,257829329
 VU#29,0.50000000,https://github.com/Ridter/cve-2020-0688,Ridter/cve-2020-0688,243416592
 VU#29,0.33333333,https://github.com/Hutt0n0/ActiveMqRCE,Hutt0n0/ActiveMqRCE,719020598
+VU#29,0.33333333,https://github.com/Whoopsunix/JavaRce,Whoopsunix/JavaRce,680058417
 VU#29,0.33333333,https://github.com/d4ba/Exploit-Guard,d4ba/Exploit-Guard,659905965
 VU#29,0.33333333,https://github.com/ShellCode-X/ShellCode-PlannerWidget-Bounty,ShellCode-X/ShellCode-PlannerWidget-Bounty,659249754
 VU#29,0.33333333,https://github.com/Virgil-UNSC/Strut2-CVE---Script,Virgil-UNSC/Strut2-CVE---Script,599982048
@@ -352,7 +352,6 @@ VU#29,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_tr
 VU#29,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#29,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#29,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
-VU#29,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#29,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
 VU#29,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#29,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
@@ -401,6 +400,7 @@ VU#29,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#29,0.00990099,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#29,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#29,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
+VU#29,0.00961538,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#29,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#29,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#29,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -572,8 +572,8 @@ VU#29,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,71773726
 VU#29,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#29,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#29,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
-VU#29,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#29,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
+VU#29,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#29,0.00019150,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

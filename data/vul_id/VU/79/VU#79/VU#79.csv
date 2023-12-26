@@ -17,6 +17,7 @@ VU#79,0.33333333,https://github.com/AryanVBW/ANDRO,AryanVBW/ANDRO,545007990
 VU#79,0.33333333,https://github.com/karimSalem25/Ethical_Hacking_and_Penetration_Testing,karimSalem25/Ethical_Hacking_and_Penetration_Testing,512165280
 VU#79,0.33333333,https://github.com/AidenPearce369/Vulnserver-Walkthrough,AidenPearce369/Vulnserver-Walkthrough,457252612
 VU#79,0.33333333,https://github.com/WagleTanvi/UnlearnableExamplesAnalysis,WagleTanvi/UnlearnableExamplesAnalysis,449121363
+VU#79,0.25000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#79,0.25000000,https://github.com/rV4nxZ/RVXZ-Lua-Executor,rV4nxZ/RVXZ-Lua-Executor,603281476
 VU#79,0.25000000,https://github.com/HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,533253583
 VU#79,0.25000000,https://github.com/dnr6419/CVE-2021-32157,dnr6419/CVE-2021-32157,485596660
@@ -128,7 +129,6 @@ VU#79,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,5232
 VU#79,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#79,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#79,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
-VU#79,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#79,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#79,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#79,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
@@ -164,6 +164,7 @@ VU#79,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysi
 VU#79,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#79,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#79,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
+VU#79,0.00961538,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#79,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#79,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#79,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -298,8 +299,8 @@ VU#79,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,71773726
 VU#79,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#79,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#79,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
-VU#79,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#79,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
+VU#79,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#79,0.00019150,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#79,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#79,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

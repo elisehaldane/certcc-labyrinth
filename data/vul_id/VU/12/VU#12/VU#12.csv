@@ -5,7 +5,6 @@ VU#12,1.00000000,https://github.com/SysHaxUBs/ggscopex,SysHaxUBs/ggscopex,608762
 VU#12,1.00000000,https://github.com/trikhanhhk/FishingXssDemo,trikhanhhk/FishingXssDemo,520527902
 VU#12,1.00000000,https://github.com/realbed/luckysploit-beta,realbed/luckysploit-beta,465526933
 VU#12,0.50000000,https://github.com/dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots,dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots,671079386
-VU#12,0.50000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#12,0.50000000,https://github.com/terry9089/ToToWARE-Fortnite-Cheat-Pre-compiled-GUI,terry9089/ToToWARE-Fortnite-Cheat-Pre-compiled-GUI,524410373
 VU#12,0.50000000,https://github.com/selimceylan/ZeroDay_WebAttack_Detection,selimceylan/ZeroDay_WebAttack_Detection,483423296
 VU#12,0.50000000,https://github.com/AnonymousMonke1234/Slasher,AnonymousMonke1234/Slasher,466558945
@@ -13,6 +12,7 @@ VU#12,0.33333333,https://github.com/jakabakos/CVE-2022-40127,jakabakos/CVE-2022-
 VU#12,0.33333333,https://github.com/karma9874/AndroRAT,karma9874/AndroRAT,249151155
 VU#12,0.25000000,https://github.com/Laurikes/synapse,Laurikes/synapse,694125869
 VU#12,0.25000000,https://github.com/meowhua15/CVE-2022-30190,meowhua15/CVE-2022-30190,635211834
+VU#12,0.25000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#12,0.25000000,https://github.com/olivierlourme/zigbee-dataset-process,olivierlourme/zigbee-dataset-process,593771178
 VU#12,0.25000000,https://github.com/bruhboy666/Bruhboy-Sploit,bruhboy666/Bruhboy-Sploit,466525126
 VU#12,0.20000000,https://github.com/ChooJinHe/MMRAT-WANNABE,ChooJinHe/MMRAT-WANNABE,722473837
@@ -218,7 +218,6 @@ VU#12,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-New
 VU#12,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#12,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#12,0.01428571,https://github.com/stphano/NEAs-ranking,stphano/NEAs-ranking,530254011
-VU#12,0.01428571,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#12,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#12,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#12,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
@@ -254,6 +253,7 @@ VU#12,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#12,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#12,0.00990099,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#12,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
+VU#12,0.00961538,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#12,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#12,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#12,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -393,8 +393,8 @@ VU#12,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,71773726
 VU#12,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
 VU#12,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#12,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
-VU#12,0.00019172,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#12,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
+VU#12,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#12,0.00019150,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#12,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
