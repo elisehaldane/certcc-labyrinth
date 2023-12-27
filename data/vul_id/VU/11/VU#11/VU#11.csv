@@ -1,10 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#11,1.00000000,https://github.com/kindawindytoday/SussyPayloads,kindawindytoday/SussyPayloads,604086028
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
-VU#11,0.50000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
 VU#11,0.50000000,https://github.com/helviojunior/shellcodetester,helviojunior/shellcodetester,191294929
 VU#11,0.33333333,https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513,smartinternz02/SI-GuidedProject-525182-1688199513,660921707
+VU#11,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#11,0.33333333,https://github.com/amitkkumra/vis-e-rce,amitkkumra/vis-e-rce,580446561
 VU#11,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
 VU#11,0.33333333,https://github.com/ValdesChe/laravel-vulnerable-app_poc,ValdesChe/laravel-vulnerable-app_poc,474957366
@@ -13,12 +13,12 @@ VU#11,0.33333333,https://github.com/nsandholtz/hotspot_paper,nsandholtz/hotspot_
 VU#11,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
 VU#11,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#11,0.25000000,https://github.com/Nintendo-Homebrew/Tiramisu,Nintendo-Homebrew/Tiramisu,462477498
-VU#11,0.20000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
 VU#11,0.20000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
 VU#11,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#11,0.16666667,https://github.com/fengguangbin/spring-rce-war,fengguangbin/spring-rce-war,475841116
 VU#11,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,475787299
+VU#11,0.12500000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.12500000,https://github.com/joshuar49/EvilSmurf2,joshuar49/EvilSmurf2,554498563
 VU#11,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#11,0.12500000,https://github.com/helmutrocco13/helmutrocco13.github.io,helmutrocco13/helmutrocco13.github.io,280519933
