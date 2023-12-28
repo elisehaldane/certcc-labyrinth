@@ -27,7 +27,6 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
-VU#29,0.50000000,https://github.com/Broco8Dev/Flux,Broco8Dev/Flux,682346268
 VU#29,0.50000000,https://github.com/wdahlenburg/aws-native-rce,wdahlenburg/aws-native-rce,680643923
 VU#29,0.50000000,https://github.com/sfewer-r7/CVE-2023-34362,sfewer-r7/CVE-2023-34362,652620311
 VU#29,0.50000000,https://github.com/Avento/CVE-2023-0669,Avento/CVE-2023-0669,624244077
@@ -79,6 +78,7 @@ VU#29,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-
 VU#29,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#29,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
 VU#29,0.25000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
+VU#29,0.20000000,https://github.com/Broco8Dev/Flux,Broco8Dev/Flux,682346268
 VU#29,0.20000000,https://github.com/intexpression/nekito,intexpression/nekito,660558312
 VU#29,0.20000000,https://github.com/AnonOpsVN24/Aon-Sploit,AnonOpsVN24/Aon-Sploit,596570889
 VU#29,0.20000000,https://github.com/Muirey03/CVE-2022-42864,Muirey03/CVE-2022-42864,591057092

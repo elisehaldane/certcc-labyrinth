@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#72,1.00000000,https://github.com/god12l/Exploits-executor,god12l/Exploits-executor,487983860
 VU#72,1.00000000,https://github.com/zxzxz1/Exploit,zxzxz1/Exploit,473701778
 VU#72,1.00000000,https://github.com/AthisSN/Exploit-Development-,AthisSN/Exploit-Development-,407167032
+VU#72,0.50000000,https://github.com/kimstars/CVE-2018-17552,kimstars/CVE-2018-17552,736363353
 VU#72,0.50000000,https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations,BoBpiler/compiler-optimization-vulnerability-explorations,732012374
 VU#72,0.50000000,https://github.com/yubhyper/Exploit-Installer,yubhyper/Exploit-Installer,562047385
 VU#72,0.50000000,https://github.com/darkseid-security/LFI,darkseid-security/LFI,485269737
