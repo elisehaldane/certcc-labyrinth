@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,1.00000000,https://github.com/KhetaguriDimitri/Exploit,KhetaguriDimitri/Exploit,595219604
 VU#51,0.50000000,https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,666573953
-VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
+VU#51,0.50000000,https://github.com/c-k-python/AnonSploit-Executer,c-k-python/AnonSploit-Executer,461288930
 VU#51,0.33333333,https://github.com/azertyuiopexe/njrat,azertyuiopexe/njrat,732631644
 VU#51,0.33333333,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
 VU#51,0.33333333,https://github.com/Malwareman007/CVE-2023-34362,Malwareman007/CVE-2023-34362,664363660
@@ -186,7 +186,7 @@ VU#51,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#51,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#51,0.00990099,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#51,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
-VU#51,0.00961538,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#51,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#51,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#51,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#51,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967

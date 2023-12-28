@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#83,1.00000000,https://github.com/roekodev/Rcelona,roekodev/Rcelona,588519366
 VU#83,1.00000000,https://github.com/HarshalBhole/Binary-exploitation,HarshalBhole/Binary-exploitation,516497644
 VU#83,1.00000000,https://github.com/crossminer/FOCUS,crossminer/FOCUS,161769303
+VU#83,0.50000000,https://github.com/bhushansalunke/VAPT_Metasploitable2,bhushansalunke/VAPT_Metasploitable2,736184076
 VU#83,0.50000000,https://github.com/wangjing4research/LDL-LDM,wangjing4research/LDL-LDM,397780886
 VU#83,0.33333333,https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,641923077
 VU#83,0.33333333,https://github.com/Serendipity-Lucky/CVE-2018-2628,Serendipity-Lucky/CVE-2018-2628,603411504
@@ -222,7 +223,7 @@ VU#83,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#83,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#83,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
 VU#83,0.00990099,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
-VU#83,0.00961538,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#83,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#83,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#83,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#83,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -361,7 +362,7 @@ VU#83,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#83,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#83,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#83,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#83,0.00019150,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#83,0.00019146,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#83,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

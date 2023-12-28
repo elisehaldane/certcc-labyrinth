@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#88,1.00000000,https://github.com/YosiSF/EinsteinDB,YosiSF/EinsteinDB,180245584
+VU#88,0.50000000,https://github.com/bhushansalunke/VAPT_Metasploitable2,bhushansalunke/VAPT_Metasploitable2,736184076
 VU#88,0.50000000,https://github.com/DoQuangPhu/heap_exploit_training,DoQuangPhu/heap_exploit_training,617469465
 VU#88,0.50000000,https://github.com/DoQuangPhu/HEAP_EXPLOIT,DoQuangPhu/HEAP_EXPLOIT,613160335
 VU#88,0.50000000,https://github.com/erensatir/Commander,erensatir/Commander,592115833
@@ -7,6 +8,7 @@ VU#88,0.50000000,https://github.com/HNT8/WeAreDevs-Exploit,HNT8/WeAreDevs-Exploi
 VU#88,0.50000000,https://github.com/entropyQueen/log4shell_malwares,entropyQueen/log4shell_malwares,439839303
 VU#88,0.33333333,https://github.com/C1ph3rX13/CVE-2023-22515,C1ph3rX13/CVE-2023-22515,710666806
 VU#88,0.33333333,https://github.com/C1ph3rX13/CVE-2023-42442,C1ph3rX13/CVE-2023-42442,707591805
+VU#88,0.33333333,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#88,0.33333333,https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT,n2x4/Feb2023-CVE-2021-21974-OSINT,597541159
 VU#88,0.33333333,https://github.com/BomberFish/Mandela,BomberFish/Mandela,588186913
 VU#88,0.33333333,https://github.com/1emvr/The-Art-of-Exploitation,1emvr/The-Art-of-Exploitation,579968326
@@ -409,7 +411,7 @@ VU#88,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#88,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#88,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#88,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#88,0.00019150,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#88,0.00019146,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#88,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#88,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
