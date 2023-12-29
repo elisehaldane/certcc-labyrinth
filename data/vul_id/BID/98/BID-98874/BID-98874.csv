@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-98874,0.00002386,https://github.com/kreattang/Collecting_CNVD_Dataset,kreattang/Collecting_CNVD_Dataset,188338231
 BID-98874,0.00001432,https://github.com/just3019/CNVD-updater,just3019/CNVD-updater,284659876
 BID-98874,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
-BID-98874,0.00001091,https://github.com/trickest/cve,trickest/cve,454015416
+BID-98874,0.00001090,https://github.com/trickest/cve,trickest/cve,454015416
 BID-98874,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 BID-98874,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 BID-98874,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

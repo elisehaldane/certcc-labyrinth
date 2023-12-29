@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#65,1.00000000,https://github.com/m2brown19/Exploit-Windows-Sync-Breeze,m2brown19/Exploit-Windows-Sync-Breeze,737042734
 VU#65,1.00000000,https://github.com/MusaviMariam/MastersThesis,MusaviMariam/MastersThesis,658276977
 VU#65,1.00000000,https://github.com/PhoenixxBasit/Cveator2,PhoenixxBasit/Cveator2,572958131
 VU#65,1.00000000,https://github.com/alirazamumtaz/exploit-development,alirazamumtaz/exploit-development,513227313
@@ -249,6 +250,7 @@ VU#65,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machine
 VU#65,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#65,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#65,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
+VU#65,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoogy/sc-exploits-minimized,736906126
 VU#65,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#65,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#65,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
