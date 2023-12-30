@@ -2,3 +2,4 @@ repo_id,repo_full_name,file,file_sha1,match
 681867648,synfinner/KEVin,templates/example.html,6a0df8e1077b4e470183f713487c78843bba7658,CVE-2023-1234
 681867648,synfinner/KEVin,README.md,753c62e2ab0dd211348ad12f3ffba5399c6f3c71,CVE-2023-1234
 681867648,synfinner/KEVin,templates/index.html,7f4da77799a345a6c474c5099dace5897b300898,CVE-2023-1234
+681867648,synfinner/KEVin,tests/sanitization_test.py,d7c5a029e89a38186db395d8429c51593472f9d2,CVE-1234-123456
