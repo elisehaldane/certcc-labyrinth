@@ -17,6 +17,7 @@ VU#55,0.33333333,https://github.com/yufanphombolimbu/Metasploit,yufanphombolimbu
 VU#55,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#55,0.33333333,https://github.com/maulvialf/CTF-Writeups,maulvialf/CTF-Writeups,415762023
 VU#55,0.33333333,https://github.com/thiagofigcosta/V-REx,thiagofigcosta/V-REx,306664684
+VU#55,0.25000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#55,0.25000000,https://github.com/jupyter-naas/FEC-engine,jupyter-naas/FEC-engine,621218657
 VU#55,0.25000000,https://github.com/yosef0x01/CVE-2023-0669-Analysis,yosef0x01/CVE-2023-0669-Analysis,606615026
 VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,515920254
@@ -38,7 +39,6 @@ VU#55,0.16666667,https://github.com/Retrospected/spring-rce-poc,Retrospected/spr
 VU#55,0.16666667,https://github.com/fengguangbin/spring-rce-war,fengguangbin/spring-rce-war,475841116
 VU#55,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,475787299
 VU#55,0.14285714,https://github.com/wetw0rk/MBE-NOTES,wetw0rk/MBE-NOTES,732159763
-VU#55,0.14285714,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#55,0.14285714,https://github.com/quxiaoyang0zero/RCER,quxiaoyang0zero/RCER,482165348
 VU#55,0.14285714,https://github.com/bvoris/bvoris,bvoris/bvoris,285267641
 VU#55,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
