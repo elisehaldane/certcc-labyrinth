@@ -3,6 +3,7 @@ VU#22,1.00000000,https://github.com/iEatALot666/School-Exploit,iEatALot666/Schoo
 VU#22,1.00000000,https://github.com/Meh-zx/R60Tool-for-Lunix,Meh-zx/R60Tool-for-Lunix,550619182
 VU#22,1.00000000,https://github.com/razzor-codes/Web3-Graveyard,razzor-codes/Web3-Graveyard,512263154
 VU#22,0.50000000,https://github.com/bbaranoff/CVE-2023-4863,bbaranoff/CVE-2023-4863,696220876
+VU#22,0.50000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#22,0.50000000,https://github.com/ilijadivi/VisionExploit,ilijadivi/VisionExploit,464673860
 VU#22,0.33333333,https://github.com/d4ba/Exploit-Guard,d4ba/Exploit-Guard,659905965
 VU#22,0.33333333,https://github.com/doyensec/Session-Hijacking-Visual-Exploitation,doyensec/Session-Hijacking-Visual-Exploitation,623535179
@@ -10,7 +11,6 @@ VU#22,0.33333333,https://github.com/yubhyper/Exploit,yubhyper/Exploit,562181219
 VU#22,0.33333333,https://github.com/uk0/cve-2022-42889-intercept,uk0/cve-2022-42889-intercept,554822047
 VU#22,0.33333333,https://github.com/maulvialf/CTF-Writeups,maulvialf/CTF-Writeups,415762023
 VU#22,0.25000000,https://github.com/Xan007/096-Exploit,Xan007/096-Exploit,600824515
-VU#22,0.25000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#22,0.25000000,https://github.com/sujayadkesar/Let-s-Exploit,sujayadkesar/Let-s-Exploit,539620615
 VU#22,0.25000000,https://github.com/HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,533253583
 VU#22,0.25000000,https://github.com/APTIRAN/CVE-2022-1040,APTIRAN/CVE-2022-1040,523301905
@@ -162,13 +162,13 @@ VU#22,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#22,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#22,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#22,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
+VU#22,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#22,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#22,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#22,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#22,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#22,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#22,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
-VU#22,0.01886792,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#22,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
 VU#22,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#22,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
