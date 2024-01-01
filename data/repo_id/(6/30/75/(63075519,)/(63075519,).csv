@@ -1,9 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2020_9377.pm,0a77be3c1560760b8d9e6b64492969023a9aaea0,CVE-2020-9376
-63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2020_9377.pm,0a77be3c1560760b8d9e6b64492969023a9aaea0,CVE-2020-9377
-63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,0f6f191a8503c60e6947f434306ec25fb3ba2fd7,CVE-2016-10033
-63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,0f6f191a8503c60e6947f434306ec25fb3ba2fd7,CVE-2016-10045
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2023_29489.pm,2020f97b858f22f44cacd2c16a7cc50faf7e37b3,CVE-2023-29489
+63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2020_9377.pm,2c30add591c83ea945ce78f90fd5d12c0028a275,CVE-2020-9377
 63075519,htrgouvea/spellbook,README.md,36874223965ea1a1de523875fe21cce5da0f76bd,CVE-2006-3392
 63075519,htrgouvea/spellbook,README.md,36874223965ea1a1de523875fe21cce5da0f76bd,CVE-2016-10045
 63075519,htrgouvea/spellbook,README.md,36874223965ea1a1de523875fe21cce5da0f76bd,CVE-2016-1033
@@ -12,6 +9,9 @@ repo_id,repo_full_name,file,file_sha1,match
 63075519,htrgouvea/spellbook,README.md,36874223965ea1a1de523875fe21cce5da0f76bd,CVE-2023-29489
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2023_38646.pm,57e2b9658be9d9fe3721e3267674e45002ee559b,CVE-2023-38646
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2020_9376.pm,607abf489116cdd8553b4aeceb075a063d5e5983,CVE-2020-9376
+63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,684713965ed3c2aaf3a0191ffc4d18508a20efc1,CVE-2016-10033
+63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,684713965ed3c2aaf3a0191ffc4d18508a20efc1,CVE-2016-10045
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2017_5487.pm,6c3d74d015ac4f51d453a1d95131cc521ef57578,CVE-2017-5487
+63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2021_24891.pm,ac21e91d622b9b6922b027c35e9767c01d639bdd,CVE-2021-24891
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2006_3392.pm,d7b50d9251c49fca4bd6d47ff66141c07386b439,CVE-2006-3392
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2021_41773.pm,db51b909e806dd73084f7b29ea3e4505e15f8f73,CVE-2021-41773
