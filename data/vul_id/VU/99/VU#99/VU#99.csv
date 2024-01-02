@@ -49,7 +49,7 @@ VU#99,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-3021
 VU#99,0.11111111,https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-,VisDev23/Vulnerable-Docker--CVE-2023-30212-,656103481
 VU#99,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#99,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
-VU#99,0.09090909,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
+VU#99,0.10000000,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
 VU#99,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
 VU#99,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
 VU#99,0.07692308,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
@@ -64,6 +64,7 @@ VU#99,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,
 VU#99,0.06250000,https://github.com/Shubham07102003/WarpPlusGenerator,Shubham07102003/WarpPlusGenerator,572145781
 VU#99,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#99,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
+VU#99,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#99,0.05882353,https://github.com/belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,654340148
 VU#99,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,510875629
 VU#99,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khalednassar/CVE-2022-21449-TLS-PoC,483804378
@@ -256,7 +257,7 @@ VU#99,0.00414938,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exp
 VU#99,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#99,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#99,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
-VU#99,0.00390625,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#99,0.00389105,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#99,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#99,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
