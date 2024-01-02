@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,737967566
 OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,737949757
 OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,584072998
 OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,580261676
@@ -15,7 +16,9 @@ OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/m
 OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,572428573
 OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,545285937
 OSVDB-34699,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,545283522
+OSVDB-34699,0.06666667,https://github.com/risesecurity/exploits,risesecurity/exploits,737967153
 OSVDB-34699,0.06666667,https://github.com/risesecurity/exploits,risesecurity/exploits,737949323
+OSVDB-34699,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,737967507
 OSVDB-34699,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,737949704
 OSVDB-34699,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,584072969
 OSVDB-34699,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,580261627
@@ -33,6 +36,7 @@ OSVDB-34699,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,
 OSVDB-34699,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,545271439
 OSVDB-34699,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,334808900
 OSVDB-34699,0.03448276,https://github.com/rcvalle/exploits,rcvalle/exploits,572425991
+OSVDB-34699,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,737967140
 OSVDB-34699,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,737949313
 OSVDB-34699,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,584072691
 OSVDB-34699,0.03333333,https://github.com/rcvalle/exploits,rcvalle/exploits,580260022
