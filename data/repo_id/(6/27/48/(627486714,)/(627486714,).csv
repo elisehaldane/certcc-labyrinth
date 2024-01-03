@@ -2,23 +2,23 @@ repo_id,repo_full_name,file,file_sha1,match
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51065.md,00f925060595d6e335a8d89bda16bffcf40e3e04,CVE-2023-51065
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51068.md,06e90a2ab25837a59fd500ee5039b8dc98614086,CVE-2023-51068
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51062.md,15eda6fcd3131f9bd9597a7d6edb68575aa1feae,CVE-2023-51062
-627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/server.py,1b2f34349dc69d40e4532a2dfeff30c838215faa,CVE-2023-38826
 627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38827/server.py,1b2f34349dc69d40e4532a2dfeff30c838215faa,CVE-2023-38827
+627486714,Oracle-Security/CVEs,Follett Learning Solutions/Destiny/CVE-2023-38826/server.py,1b2f34349dc69d40e4532a2dfeff30c838215faa,CVE-2023-38826
 627486714,Oracle-Security/CVEs,FloorsightSoftware/CVE-2023-45892.md,1e733c62be12dec52f273be44091f9f78f791800,CVE-2023-45892
-627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51066
-627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51065
-627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51064
-627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51071
-627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51067
-627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51063
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51062
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51070
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51066
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51067
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51071
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51064
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51065
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51068
+627486714,Oracle-Security/CVEs,QStar Archive Solutions/readme.md,1fcf3587211adf4a059248230484f991d0516daa,CVE-2023-51063
+627486714,Oracle-Security/CVEs,WordPress/enable-media-replace/CVE-2023-6737.md,3838524e9479da66e70fdc61377f2d46c96e0117,CVE-2023-6737
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51071.md,3f3564e176722147742aeb05454328ba7123aaed,CVE-2023-51071
 627486714,Oracle-Security/CVEs,FloorsightSoftware/CVE-2023-45893.md,3f8826215c481d35e72b5e8a6284bbf6911f4ad5,CVE-2023-45893
 627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/xss.js,4866df5ec9770612c6dc61c20762b516e4e5d8f5,CVE-2018-14486
-627486714,Oracle-Security/CVEs,WordPress/enable-media-replace/CVE-2023-6737.md,50331d1f68b6ab770702211baf0bede5a77afe10,CVE-2023-6737
-627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51066
+627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-45892
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51065
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51071
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51064
@@ -26,14 +26,14 @@ repo_id,repo_full_name,file,file_sha1,match
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-2304
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51063
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51070
-627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51062
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-38826
+627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51062
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51068
+627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-38827
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-45894
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51067
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-45893
-627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-38827
-627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-45892
+627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-51066
 627486714,Oracle-Security/CVEs,readme.md,5bfa907f73913a5333ca659f3c968b835d3aeae2,CVE-2023-6737
 627486714,Oracle-Security/CVEs,QStar Archive Solutions/CVE-2023-51063.md,6d120ac5579441b85dcfa10d37cf02ec402bf5c0,CVE-2023-51063
 627486714,Oracle-Security/CVEs,DotNetNuke/CVE-2018-14486/vulnwebsite.py,7372d4eaafefb9afa5bee0af2630f43d8ab58c90,CVE-2018-14486
