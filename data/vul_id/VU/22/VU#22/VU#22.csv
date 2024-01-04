@@ -1,12 +1,13 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#22,1.00000000,https://github.com/Orphanlol/iReady-fr,Orphanlol/iReady-fr,736083030
 VU#22,1.00000000,https://github.com/iEatALot666/School-Exploit,iEatALot666/School-Exploit,713961886
 VU#22,1.00000000,https://github.com/Meh-zx/R60Tool-for-Lunix,Meh-zx/R60Tool-for-Lunix,550619182
 VU#22,1.00000000,https://github.com/razzor-codes/Web3-Graveyard,razzor-codes/Web3-Graveyard,512263154
 VU#22,0.50000000,https://github.com/bbaranoff/CVE-2023-4863,bbaranoff/CVE-2023-4863,696220876
-VU#22,0.50000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#22,0.50000000,https://github.com/ilijadivi/VisionExploit,ilijadivi/VisionExploit,464673860
 VU#22,0.33333333,https://github.com/d4ba/Exploit-Guard,d4ba/Exploit-Guard,659905965
 VU#22,0.33333333,https://github.com/doyensec/Session-Hijacking-Visual-Exploitation,doyensec/Session-Hijacking-Visual-Exploitation,623535179
+VU#22,0.33333333,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#22,0.33333333,https://github.com/yubhyper/Exploit,yubhyper/Exploit,562181219
 VU#22,0.33333333,https://github.com/uk0/cve-2022-42889-intercept,uk0/cve-2022-42889-intercept,554822047
 VU#22,0.33333333,https://github.com/maulvialf/CTF-Writeups,maulvialf/CTF-Writeups,415762023
@@ -85,8 +86,8 @@ VU#22,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossa
 VU#22,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#22,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#22,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
-VU#22,0.02941176,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#22,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
+VU#22,0.02777778,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#22,0.02777778,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#22,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#22,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
