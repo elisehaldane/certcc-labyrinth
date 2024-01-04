@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-737010050,rich98/Metasploitable2,Cybersecurity Degree Module 5.docx,6b5159becc897e440af51651fad6f32cb3f7deb0,VU#08
-737010050,rich98/Metasploitable2,Cybersecurity Degree Module 5.docx,6b5159becc897e440af51651fad6f32cb3f7deb0,VU#58
+737010050,rich98/Metasploitable2,8572.c,b937b75c7b69e134de40f5d1773cd047d955b693,CVE-2009-1185
+737010050,rich98/Metasploitable2,Cybersecurity Degree Module 5.docx,bc1e4ef5f733633a3fe20e930afbd19116812eec,VU#08
+737010050,rich98/Metasploitable2,Cybersecurity Degree Module 5.docx,bc1e4ef5f733633a3fe20e930afbd19116812eec,VU#58
